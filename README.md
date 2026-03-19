@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Base64 Encoding Explained: When and Why to Use It](https://dev.to/_d7eb1c1703182e3ce1782/base64-encoding-explained-when-and-why-to-use-it-4hld)
-- [The Future of Websites: From Pages to Intelligent Systems](https://dev.to/safdarali25/the-future-of-websites-from-pages-to-intelligent-systems-5ah5)
-- [HTTP 402 Was &#39;Reserved for Future Use&#39; for 29 Years. Stripe Just Gave It a Job.](https://dev.to/adioof/http-402-was-reserved-for-future-use-for-29-years-stripe-just-gave-it-a-job-3phg)
-- [Finding Profitable Niches with GitHub Trending Data: My Automated Pipeline for Product Opportunities](https://dev.to/eqhoids/finding-profitable-niches-with-github-trending-data-my-automated-pipeline-for-product-opportunities-4900)
-- [A Home Weather Monitoring System Built Without AI](https://dev.to/nandofm/a-home-weather-monitoring-system-built-without-ai-4a29)
+- [How to Create QR Codes: Complete Guide for Developers and Marketers](https://dev.to/_d7eb1c1703182e3ce1782/how-to-create-qr-codes-complete-guide-for-developers-and-marketers-48nf)
+- [A Developer Guide to JSON Formatting and Validation](https://dev.to/_d7eb1c1703182e3ce1782/a-developer-guide-to-json-formatting-and-validation-4ah3)
+- [7 Game-Changing Free Error Tracking Tools That Will Save Your Sanity in 2026](https://dev.to/theawesomeblog/7-game-changing-free-error-tracking-tools-that-will-save-your-sanity-in-2026-574e)
+- [Hakozuna v3.2 Released: Bringing Optimized Memory Allocation to M1 Mac](https://dev.to/charmpic/hakozuna-v32-released-bringing-optimized-memory-allocation-to-m1-mac-b7m)
+- [DevToolkit vs DevToys: Which Developer Utility Suite Is Better?](https://dev.to/_d7eb1c1703182e3ce1782/devtoolkit-vs-devtoys-which-developer-utility-suite-is-better-2206)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
