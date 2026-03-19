@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NemoClaw: NVIDIA&#39;s Open Source Stack for Running AI Agents You Can Actually Trust](https://dev.to/arshtechpro/nemoclaw-nvidias-open-source-stack-for-running-ai-agents-you-can-actually-trust-50gl)
-- [Running a Node.js Daemon with Fastify &lpar;No PM2, No systemd&rpar;](https://dev.to/silverstream/running-a-nodejs-daemon-with-fastify-no-pm2-no-systemd-99i)
-- [The Adventures of Blink S5e3: A Menu in Pygame](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e3-a-menu-in-pygame-3d4m)
-- [How I Built a 10,000+ Page SEO Site with Next.js and PostgreSQL](https://dev.to/christina_sanchez_f16f40a/how-i-built-a-10000-page-seo-site-with-nextjs-and-postgresql-3ipp)
-- [How I built a Safari-style Browser Frame for Website Screenshots &lpar;Python + Pillow&rpar;](https://dev.to/michael_silverlining/how-i-built-a-safari-style-browser-frame-for-website-screenshots-python-pillow-4m84)
+- [Vibe Coding Is Real, and It&#39;s Creating Devs Who Can&#39;t Debug](https://dev.to/taskconcierge/vibe-coding-is-real-and-its-creating-devs-who-cant-debug-3je)
+- [Productivity Up, Expertise Down](https://dev.to/rawveg/productivity-up-expertise-down-584k)
+- [DeepSource vs Codacy: Code Quality Tools Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/deepsource-vs-codacy-code-quality-tools-compared-2026-52dd)
+- [Claude Codeで非同期ジョブパターンを設計する：長時間処理の非同期化・ポーリング・Webhook通知](https://dev.to/myougatheaxo/claude-codedefei-tong-qi-ziyobupatanwoshe-ji-suruchang-shi-jian-chu-li-nofei-tong-qi-hua-poringuwebhooktong-zhi-42em)
+- [Amazon S3 Bucket Names Aren’t Always Globally Unique Anymore — Here’s What Changed &lpar;and Why I’m Excited&rpar;](https://dev.to/rufilboss/amazon-s3-bucket-names-arent-always-globally-unique-anymore-heres-what-changed-and-why-im-3a1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
