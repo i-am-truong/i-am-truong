@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw vs NemoClaw vs NanoClaw: AI Agent Platform Security Comparison](https://dev.to/_46ea277e677b888e0cd13/openclaw-vs-nemoclaw-vs-nanoclaw-ai-agent-platform-security-comparison-i3k)
-- [Why LLMs Can Never Be &quot;Execution Entities&quot; — A Fundamental Paradigm Breakdown](https://dev.to/yuer/why-llms-can-never-be-execution-entities-a-fundamental-paradigm-breakdown-4on1)
-- [I Built an Android App Because Android Kept Deleting My Clipboard](https://dev.to/anoop_p_22f715057ac8b3901/i-built-an-android-app-because-android-kept-deleting-my-clipboard-39o2)
-- [The Difference Between AI Features and AI-Native Products](https://dev.to/jaideepparashar/the-difference-between-ai-features-and-ai-native-products-238n)
-- [I Run 5 Claude Code Agents at Once. I Had No Idea What They Were Doing.](https://dev.to/thestack_ai/i-run-5-claude-code-agents-at-once-i-had-no-idea-what-they-were-doing-273p)
+- [The Mystery Solved: Hunter Alpha on OpenRouter is Xiaomi MiMo-V2-Pro](https://dev.to/hubert_shelley_32028fa7a7/the-mystery-solved-hunter-alpha-on-openrouter-is-xiaomi-mimo-v2-pro-3dmd)
+- [The 2026 Solopreneur AI Stack: Every Tool You Need](https://dev.to/neo_one_944288aac0bb5e89b/the-2026-solopreneur-ai-stack-every-tool-you-need-39e2)
+- [I Came Back to Kotlin for KMP — Here’s What Broke First](https://dev.to/rarroyo00/i-came-back-to-kotlin-for-kmp-heres-what-broke-first-hfn)
+- [Nvidia GPU Rental: H100, A100, RTX 4090 Explained](https://dev.to/dev_yadav_26252073f3a3761/nvidia-gpu-rental-h100-a100-rtx-4090-explained-40m0)
+- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
