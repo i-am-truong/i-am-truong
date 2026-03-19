@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setup OSDev Environment on macOS](https://dev.to/vincent4486/setup-osdev-environment-on-macos-132j)
-- [The Alibi](https://dev.to/thesythesis/the-alibi-383p)
-- [MCP Tool Design: Why Your AI Agent Is Failing &lpar;And How to Fix It&rpar;](https://dev.to/aws-heroes/mcp-tool-design-why-your-ai-agent-is-failing-and-how-to-fix-it-40fc)
-- [How BIN Lookup Actually Stops Card Fraud for Small E‑commerce Stores](https://dev.to/rabbitholeinphp/how-bin-lookup-actually-stops-card-fraud-for-small-e-commerce-stores-14h8)
-- [The Blind Spot](https://dev.to/thesythesis/the-blind-spot-42mc)
+- [Understanding Seq2Seq Neural Networks – Part 5: Decoding the Context Vector](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-5-decoding-the-context-vector-358l)
+- [How I Used Notion MCP to Screen 5,000+ Stocks and Write AI Research Reports](https://dev.to/safvantsy/how-i-used-notion-mcp-to-screen-5000-stocks-and-write-ai-research-reports-3o6c)
+- [Walls, Not Rules](https://dev.to/thesythesis/walls-not-rules-ojn)
+- [Discuss: Is &quot;Environment Setup&quot; the #1 killer of side projects?](https://dev.to/zuidaima/discuss-is-environment-setup-the-1-killer-of-side-projects-75f)
+- [Address Poisoning After Fusaka: How Ethereum&#39;s Fee Cut Handed Scammers a 612% Boost — And What You Can Do About It](https://dev.to/ohmygod/address-poisoning-after-fusaka-how-ethereums-fee-cut-handed-scammers-a-612-boost-and-what-you-4flb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
