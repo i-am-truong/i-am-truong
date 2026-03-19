@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Java courses &lpar;with certificates!&rpar; from the creators of IntelliJ IDEA 🤯](https://dev.to/coffeestasia/free-java-courses-with-certificates-from-the-creators-of-intellij-idea-4omg)
-- [Strengthening Identity Security in a Zero Trust Environment](https://dev.to/kapusto/strengthening-identity-security-in-a-zero-trust-environment-2m2f)
-- [Building fair real-time odds for CS2 stream predictions](https://dev.to/elomarket/building-fair-real-time-odds-for-cs2-stream-predictions-4d3l)
-- [I&#39;ve Started Using Dumber Models on Purpose](https://dev.to/bdigital00/ive-started-using-dumber-models-on-purpose-1309)
-- [The Seniority Gap: Why Companies Hire Solutions, Not Just Syntax](https://dev.to/renato_silva_71eef0fc385f/the-seniority-gap-why-companies-hire-solutions-not-just-syntax-1l1e)
+- [Ng-News 26/09: AI &amp; Angular, debounced&lpar;&rpar; in v22, Oxidation Compiler in Analog](https://dev.to/playfulprogramming-angular/ng-news-2609-ai-angular-debounced-in-v22-oxidation-compiler-in-analog-4n3)
+- [Stop decompressing entire archives to get one file — introducing ARCX](https://dev.to/highpass_studio_382ce5641/stop-decompressing-entire-archives-to-get-one-file-introducing-arcx-5dhn)
+- [We Built Multi-Tenancy Into a Blazor App. Here&#39;s Every Layer Preventing Data Leaks.](https://dev.to/octobernorth/we-built-multi-tenancy-into-a-blazor-app-heres-every-layer-preventing-data-leaks-3fbc)
+- [Gathering Hyrox Race Insights with Python](https://dev.to/jamesives/gathering-hyrox-race-insights-with-python-1kp9)
+- [🚀 Build a Schema-Based Wizard Form in Vue 3 &lpar;No Templates Needed&rpar;](https://dev.to/parsajiravand/build-a-schema-based-wizard-form-in-vue-3-no-templates-needed-2h8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
