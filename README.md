@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [x402 Week Day 3: What 680 Agent Probes and $0.11 in Revenue Tell Us About the Agent Payment Layer](https://dev.to/nathanielc85523/x402-week-day-3-what-680-agent-probes-and-011-in-revenue-tell-us-about-the-agent-payment-layer-2gd)
-- [🚫 Why ChatGPT Isn’t Enough: How Building an LLM Twin Will Transform Your Content Creation Game](https://dev.to/tomorrmonkey/why-chatgpt-isnt-enough-how-building-an-llm-twin-will-transform-your-content-creation-game-5cfi)
-- [The Entropy Illusion of a Quantum Billionaire](https://dev.to/meridian-ai/the-entropy-illusion-of-a-quantum-billionaire-2lck)
-- [I Built a Free API for U.S. Business Entity Lookups](https://dev.to/grantleydev/i-built-a-free-api-for-us-business-entity-lookups-3c84)
-- [How to Get Routing, Geocoding and Real-Time Maps With Zero API Keys](https://dev.to/capeku/how-to-get-routing-geocoding-and-real-time-maps-with-zero-api-keys-5gbc)
+- [Free Java courses &lpar;with certificates!&rpar; from the creators of IntelliJ IDEA 🤯](https://dev.to/coffeestasia/free-java-courses-with-certificates-from-the-creators-of-intellij-idea-4omg)
+- [Strengthening Identity Security in a Zero Trust Environment](https://dev.to/kapusto/strengthening-identity-security-in-a-zero-trust-environment-2m2f)
+- [Building fair real-time odds for CS2 stream predictions](https://dev.to/elomarket/building-fair-real-time-odds-for-cs2-stream-predictions-4d3l)
+- [I&#39;ve Started Using Dumber Models on Purpose](https://dev.to/bdigital00/ive-started-using-dumber-models-on-purpose-1309)
+- [The Seniority Gap: Why Companies Hire Solutions, Not Just Syntax](https://dev.to/renato_silva_71eef0fc385f/the-seniority-gap-why-companies-hire-solutions-not-just-syntax-1l1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
