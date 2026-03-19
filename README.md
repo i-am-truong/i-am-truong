@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I gave Claude real-time stock analysis. Here&#39;s how it works.](https://dev.to/marras0914/i-gave-claude-real-time-stock-analysis-heres-how-it-works-56d0)
-- [I built a SaaS in a weekend. Here&#39;s what broke first.](https://dev.to/redo_c_ebiv/i-built-a-saas-in-a-weekend-heres-what-broke-first-1me1)
-- [Most AI agent demos optimize for capability. Production buyers pay for control.](https://dev.to/setas/most-ai-agent-demos-optimize-for-capability-production-buyers-pay-for-control-1ea4)
-- [I Built a MITM Proxy to See What Claude Code Actually Sends to Anthropic](https://dev.to/kangraemin/i-built-a-mitm-proxy-to-see-what-claude-code-actually-sends-to-anthropic-26ic)
-- [ChatGPT Prompt Engineering for Freelancers: Unlocking Efficient Client Communication](https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-efficient-client-communication-2agg)
+- [Understanding How AI Agents Work](https://dev.to/erasto/understanding-how-ai-agents-work-2bb4)
+- [Stop Rewriting This React Form UX Logic](https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p)
+- [Your Browser Has a Remote Control — And Nobody Told You](https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97)
+- [Cómo solicitar aumentos de cuota para Amazon Bedrock &lpar;y que te los aprueben&rpar;](https://dev.to/dcastillogi/como-solicitar-aumentos-de-cuota-para-amazon-bedrock-y-que-te-los-aprueben-295o)
+- [Cercle: Denis Horvat, Sahar - Mayflies](https://dev.to/music_youtube/cercle-denis-horvat-sahar-mayflies-dhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
