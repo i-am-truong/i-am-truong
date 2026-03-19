@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Praticttioner #02](https://dev.to/fedrummond_/aws-cloud-praticttioner-02-3l61)
-- [Rick Beato: Jack Gardiner Talks Like A Beatle, But SHREDS Like A Samurai](https://dev.to/music_youtube/rick-beato-jack-gardiner-talks-like-a-beatle-but-shreds-like-a-samurai-38jl)
-- [Dissecando o Navegador &lpar;Parte 1&rpar; - Da Arquitetura Multi-Processo aos Pixels na Tela](https://dev.to/erickg123/dissecando-o-navegador-parte-1-da-arquitetura-multi-processo-aos-pixels-na-tela-5g5m)
-- [Workflow Builders vs AI Agents: 5 Automation Tools Compared &lpar;2026&rpar;](https://dev.to/nebulagg/workflow-builders-vs-ai-agents-5-automation-tools-compared-2026-3ld5)
-- [Your AI has no memory. Here&#39;s How to Add One with Node.js and Mem0](https://dev.to/techsplot/your-ai-has-no-memory-heres-how-to-add-one-with-nodejs-and-mem0-2fbh)
+- [Rentilot: A Practical Alternative to Rentila for Property Management](https://dev.to/brunoantunes/rentilot-a-practical-alternative-to-rentila-for-property-management-nge)
+- [Test Doubles in Automated Testing](https://dev.to/godinhojoao/test-doubles-in-automated-testing-4bkd)
+- [Unlocking Efficiency: A Deep Dive into Spec-Driven Development](https://dev.to/julian_christ/unlocking-efficiency-a-deep-dive-into-spec-driven-development-le9)
+- [15 Must-Read Books For Management Professionals to Elevate Your Leadership](https://dev.to/aloycwl/15-must-read-books-for-management-professionals-to-elevate-your-leadership-2pmn)
+- [The three silent killers in edge AI deployment, and how to catch them before they catch you.](https://dev.to/marwan_abdelnaby_2ca11f12/the-three-silent-killers-in-edge-ai-deployment-and-how-to-catch-them-before-they-catch-you-lka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
