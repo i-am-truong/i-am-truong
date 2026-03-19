@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2026 Challenge](https://dev.to/574n13y/2026-challenge-1cc6)
-- [The pattern that spreads](https://dev.to/max-ai-dev/the-pattern-that-spreads-2ohd)
-- [Sauna-Driven Development: Five Shifts in How Work Happens](https://dev.to/thelongrunwork/sauna-driven-development-five-shifts-in-how-work-happens-4b4c)
-- [LLM 에이전트 시스템에서 지능형 태스크 분해와 실행 — Claude CLI 브릿지 패턴](https://dev.to/ji_ai/llm-eijeonteu-siseutemeseo-jineunghyeong-taeseukeu-bunhaewa-silhaeng-claude-cli-beurisji-paeteon-2dko)
-- [n8n Integration for ClickHouse - Full CRUD, Triggers &amp; AI Agent Support](https://dev.to/sameer_deshmukh_d353043fd/n8n-integration-for-clickhouse-full-crud-triggers-ai-agent-support-3b0b)
+- [NemoClaw: NVIDIA&#39;s Open Source Stack for Running AI Agents You Can Actually Trust](https://dev.to/arshtechpro/nemoclaw-nvidias-open-source-stack-for-running-ai-agents-you-can-actually-trust-50gl)
+- [Running a Node.js Daemon with Fastify &lpar;No PM2, No systemd&rpar;](https://dev.to/silverstream/running-a-nodejs-daemon-with-fastify-no-pm2-no-systemd-99i)
+- [The Adventures of Blink S5e3: A Menu in Pygame](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e3-a-menu-in-pygame-3d4m)
+- [How I Built a 10,000+ Page SEO Site with Next.js and PostgreSQL](https://dev.to/christina_sanchez_f16f40a/how-i-built-a-10000-page-seo-site-with-nextjs-and-postgresql-3ipp)
+- [How I built a Safari-style Browser Frame for Website Screenshots &lpar;Python + Pillow&rpar;](https://dev.to/michael_silverlining/how-i-built-a-safari-style-browser-frame-for-website-screenshots-python-pillow-4m84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
