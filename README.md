@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why 70% of Americans See AI as a Wealth Inequality Machine: The Developer&#39;s Role in Building Fairer Tech](https://dev.to/theawesomeblog/why-70-of-americans-see-ai-as-a-wealth-inequality-machine-the-developers-role-in-building-fairer-1jgf)
-- [WCAG - Links and accessible text](https://dev.to/dawid_ryczko/wcag-links-and-accessible-text-5bmn)
-- [Definiendo la necesidad &lpar;día 1&rpar;](https://dev.to/denelesan/definiendo-la-necesidad-dia-1-1aoc)
-- [How to Add LLM Model Fallbacks in Python in 5 Min](https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200)
-- [CI/CD na Magalu Cloud com GitHub Actions](https://dev.to/magalucloud/cicd-na-magalu-cloud-com-github-actions-382p)
+- [OCR vs VLM: Why You Need Both &lpar;And How Hybrid Approaches Win&rpar;](https://dev.to/kesimo/ocr-vs-vlm-why-you-need-both-and-how-hybrid-approaches-win-5bo4)
+- [Python Baseball Engine Update: How to Separate Game Logic from UI](https://dev.to/lee12/python-baseball-engine-update-how-to-separate-game-logic-from-ui-1bd8)
+- [1m Tokens &lpar;&amp; WebSocket&rpar;](https://dev.to/tavari/1m-tokens-websocket-1f0c)
+- [Helper Classes vs Extension Methods](https://dev.to/__b63657/helper-classes-vs-extension-methods-3f8f)
+- [I built a mobile DevOps dashboard because managing Docker from my phone shouldn&#39;t require SSH](https://dev.to/bigabou007dev/i-built-a-mobile-devops-dashboard-because-managing-docker-from-my-phone-shouldnt-require-ssh-4j6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
