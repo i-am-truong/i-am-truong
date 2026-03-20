@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [pg_duckpipe: Real-time CDC for streaming Postgres Table into Columnar Ducklake](https://dev.to/ywxiao/pgduckpipe-real-time-cdc-for-streaming-postgres-table-into-columnar-ducklake-536d)
-- [🤖 Adding AI to My Project Wasn&#39;t Easy. Until It Was.😅](https://dev.to/techgeniuskaran/adding-ai-to-my-project-wasnt-easy-until-it-was-3lmk)
-- [2Checkout API: Ödeme İşleme için Eksiksiz Entegrasyon Rehberi &lpar;2026&rpar;](https://dev.to/tobiass_hoffmann/2checkout-api-odeme-isleme-icin-eksiksiz-entegrasyon-rehberi-2026-2cgf)
-- [5 Step Guide To Keep Your Checkout Running During Peak Sales Periods](https://dev.to/flutterwaveeng/5-step-guide-to-keep-your-checkout-running-during-peak-sales-periods-b8a)
-- [The Day a Green Pipeline Told Me Everything Was Fine — And It Wasn&#39;t](https://dev.to/ashish_nadar/the-day-a-green-pipeline-told-me-everything-was-fine-and-it-wasnt-336)
+- [Tích hợp Hot Update vào dự án để tối ưu thời gian cho internal testing](https://dev.to/truong_trinhduc_1909/tich-hop-hot-update-vao-du-an-de-toi-uu-thoi-gian-cho-internal-testing-16m6)
+- [14 Best Self-Hosted Claude Alternatives for AI and Coding in 2026](https://dev.to/jaipalsingh/14-best-self-hosted-claude-alternatives-for-ai-and-coding-in-2026-4ih3)
+- [How Next.js Makes You a Better Full-Stack Developer &lpar;Complete 2026 Guide&rpar;](https://dev.to/raajaryan/how-nextjs-makes-you-a-better-full-stack-developer-complete-2026-guide-34k2)
+- [Acceptance Testing Strategies &lpar;Part 2&rpar;: Feature Tests, Pyramid, and Best Practices](https://dev.to/outdated-dev/acceptance-testing-strategies-part-2-feature-tests-pyramid-and-best-practices-ogc)
+- [We Made OpenClaw Actually Usable &lpar;No More Painful Setup&rpar;](https://dev.to/easyclaw/we-made-openclaw-actually-usable-no-more-painful-setup-4833)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
