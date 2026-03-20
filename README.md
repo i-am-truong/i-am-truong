@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [thinking about rolling time windows for dex data in substrate-based chains](https://dev.to/jayenharrill_eth/thinking-about-rolling-time-windows-for-dex-data-in-substrate-based-chains-4p7)
-- [Kotlin API Design](https://dev.to/krun_pro/kotlin-api-design-16fc)
-- [J&#39;utilise Git comme un checkpoint dans les jeux vidéo](https://dev.to/tokirak/jutilise-git-comme-un-checkpoint-dans-les-jeux-video-2phb)
-- [Evidence Stores for Supply Chain Security](https://dev.to/taleodor/evidence-stores-for-supply-chain-security-3jj9)
-- [Building the World&#39;s Largest E-Commerce Behavioral Dataset: Architecture and Lessons Learned](https://dev.to/marcus_the_architect/building-the-worlds-largest-e-commerce-behavioral-dataset-architecture-and-lessons-learned-525n)
+- [Building AI-Powered Healthcare Appeals: A Three-Stage Architecture Guide](https://dev.to/michaelnikitin/building-ai-powered-healthcare-appeals-a-three-stage-architecture-guide-4f7)
+- [Email validation in production: regex, MX, SMTP, and the trade-offs nobody tells you](https://dev.to/padymies/how-to-validate-emails-properly-in-your-app-beyond-regex-1e9g)
+- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
+- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
+- [How to Build Your First AI Agent: A Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-your-first-ai-agent-a-step-by-step-tutorial-415n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
