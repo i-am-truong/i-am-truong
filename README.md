@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Configurations in Python Projects](https://dev.to/isaac-fei/managing-configurations-in-python-projects-4k05)
-- [Qdrant Hybrid Search Combined with SQL Query Results](https://dev.to/isaac-fei/qdrant-hybrid-search-combined-with-sql-query-results-4p3n)
-- [The Publisher-Subscriber Pattern in React](https://dev.to/isaac-fei/the-publisher-subscriber-pattern-in-react-4b58)
-- [Deploying a Image Recognition Service to AWS Lambda](https://dev.to/isaac-fei/deploying-a-image-recognition-service-to-aws-lambda-la1)
-- [A Simple Web App for Image Generation with Dall-E 3 using Go + HTMX](https://dev.to/isaac-fei/a-simple-web-app-for-image-generation-with-dall-e-3-using-go-htmx-3g0g)
+- [DevSecOps: Integrating Security into Your CI/CD Pipeline](https://dev.to/thesius_code_7a136ae718b7/devsecops-integrating-security-into-your-cicd-pipeline-38ad)
+- [Why DevOps Culture Beats Tools: The 80/20 Rule for Digital Success](https://dev.to/brandikinard/why-devops-culture-beats-tools-the-8020-rule-for-digital-success-3hl1)
+- [Cloud Cost Optimization: Cutting Your AWS/Azure Bill by 40%](https://dev.to/thesius_code_7a136ae718b7/cloud-cost-optimization-cutting-your-awsazure-bill-by-40-p6a)
+- [Real-Time Data Streaming with Apache Kafka and Spark](https://dev.to/thesius_code_7a136ae718b7/real-time-data-streaming-with-apache-kafka-and-spark-c4l)
+- [AWS Solutions Architect Certification Prep Guide &lpar;2026&rpar;](https://dev.to/thesius_code_7a136ae718b7/aws-solutions-architect-certification-prep-guide-2026-1mf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
