@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [thinking about rolling time windows for dex data in substrate-based chains](https://dev.to/jayenharrill_eth/thinking-about-rolling-time-windows-for-dex-data-in-substrate-based-chains-4p7)
+- [Kotlin API Design](https://dev.to/krun_pro/kotlin-api-design-16fc)
+- [J&#39;utilise Git comme un checkpoint dans les jeux vidéo](https://dev.to/tokirak/jutilise-git-comme-un-checkpoint-dans-les-jeux-video-2phb)
+- [Evidence Stores for Supply Chain Security](https://dev.to/taleodor/evidence-stores-for-supply-chain-security-3jj9)
 - [Building the World&#39;s Largest E-Commerce Behavioral Dataset: Architecture and Lessons Learned](https://dev.to/marcus_the_architect/building-the-worlds-largest-e-commerce-behavioral-dataset-architecture-and-lessons-learned-525n)
-- [Top 5 in Frontend and AI this week - AI Is Making Us Dumber + useEffect gets banned](https://dev.to/shrutikapoor08/top-5-in-frontend-and-ai-this-week-ai-is-making-us-dumber-useeffect-gets-banned-9ca)
-- [I Migrated My AI Agents from Azure to AWS — Here&#39;s the Minimal Setup You Actually Need](https://dev.to/buildmintz_media_5238c1d7/i-migrated-my-ai-agents-from-azure-to-aws-heres-the-minimal-setup-you-actually-need-163d)
-- [Fuck Around and Find Out: How a $6.99 Phishing Scam Got 1.2 Million Fake Victims](https://dev.to/copyleftdev/fuck-around-and-find-out-how-a-699-phishing-scam-got-12-million-fake-victims-1kdn)
-- [Top 7 AI Agent Frameworks for Developers in 2026](https://dev.to/nebulagg/top-7-ai-agent-frameworks-for-developers-in-2026-3o63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
