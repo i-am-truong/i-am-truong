@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Developers Who Thrive in AI Won’t Be the Best Coders](https://dev.to/jaideepparashar/the-developers-who-thrive-in-ai-wont-be-the-best-coders-505e)
-- [7 Behavioral Patterns That Reveal the Source Code](https://dev.to/zertyi89/7-behavioral-patterns-that-reveal-the-source-code-195a)
-- [Understanding App Architecture - Why It Matters](https://dev.to/babiyashini_varadaraj_b17/understanding-app-architecture-why-it-matters-3kam)
-- [#tag:-A Simple Recon Workflow for Beginner Bug Hunters](https://dev.to/kato_junior_fbd2f9f8d8dee/tag-a-simple-recon-workflow-for-beginner-bug-hunters-254o)
-- [All things Kafka](https://dev.to/alamfatima1999/all-things-kafka-3cdb)
+- [Building an OpenClaw Security Vault for AI Agents](https://dev.to/a_fb10f3fd81898e4c83a6d/building-an-openclaw-security-vault-for-ai-agents-212o)
+- [n8n Error Handling Best Practices: Stop Letting Silent Failures Break Your Business](https://dev.to/ciphernutz/n8n-error-handling-best-practices-stop-letting-silent-failures-break-your-business-1j8h)
+- [I Spent $228/Year on Postman. Here&#39;s Why I Switched to DevKits Pro for $9](https://dev.to/hezeclark/i-spent-228year-on-postman-heres-why-i-switched-to-devkits-pro-for-9-3gi2)
+- [React Hooks Performance: How to Avoid Unnecessary Re-renders](https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483)
+- [Love, Tito&#39;s: Vodka Maker Funds Physics Research](https://dev.to/aloycwl/love-titos-vodka-maker-funds-physics-research-3eja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
