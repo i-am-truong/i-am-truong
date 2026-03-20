@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I curated 1,863 Data Engineering interview questions from 97+ companies --- here&#39;s what I learned. Website :: dataengprep.tech](https://dev.to/codeshukla/i-curated-1863-data-engineering-interview-questions-from-97-companies-heres-what-i-learned-3lia)
-- [Remove Duplicates in Sorted Linked List](https://dev.to/jeyaprasadr/remove-duplicates-in-sorted-linked-list-5341)
-- [Architecting Autonomous Agents: A Deep Dive into Azure AI Foundry Agent Service](https://dev.to/jubinsoni/architecting-autonomous-agents-a-deep-dive-into-azure-ai-foundry-agent-service-4jnk)
-- [Testing Azure Functions: Unit, Integration, and Local](https://dev.to/martin_oehlert/testing-azure-functions-unit-integration-and-local-1cml)
-- [10 Font Pairings So Good They Feel Like a Secret](https://dev.to/web_dev-usman/10-font-pairings-so-good-they-feel-like-a-secret-8c3)
+- [Build and Register Your First AI Agent on Agenium in 60 Seconds](https://dev.to/agenium_platform/build-and-register-your-first-ai-agent-on-agenium-in-60-seconds-45lf)
+- [Two Sum II - Input Array Is Sorted](https://dev.to/jeyaprasadr/finding-two-numbers-that-add-up-to-a-target-45de)
+- [Secure File Uploads in Laravel: Validation, Storage &amp; Basic Virus Protection](https://dev.to/addwebsolutionpvtltd/secure-file-uploads-in-laravel-validation-storage-basic-virus-protection-1hb4)
+- [Adding Attribute-Based Access Control to a Real-Time Collaborative App with OpenTDF](https://dev.to/eugenioenko/adding-attribute-based-access-control-to-a-real-time-collaborative-app-with-opentdf-76e)
+- [Zero-Copy Buffer Manipulation: Parsing Market Data at Memory Speed](https://dev.to/odunlemi/zero-copy-buffer-manipulation-parsing-market-data-at-memory-speed-1ol5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
