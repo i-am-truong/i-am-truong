@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Finovara on Docker and fixing a critical bug.](https://dev.to/m4rc1nek/deploying-finovara-on-docker-and-fixing-a-critical-bug-2k5n)
-- [steamworks-ffi-node: A Steamworks SDK Library for JavaScript Game Frameworks](https://dev.to/arty_prof/steamworks-ffi-node-a-steamworks-sdk-library-for-javascript-game-frameworks-15h1)
-- [I got tired of downloading Playwright artifacts from CI, so I changed the workflow](https://dev.to/sentinelqa/i-got-tired-of-downloading-playwright-artifacts-from-ci-so-i-changed-the-workflow-6gf)
-- [How We Built a Cron Job Monitoring System That Actually Works](https://dev.to/quietpulse-social/how-we-built-a-cron-job-monitoring-system-that-actually-works-1ha4)
-- [Donation Attacks on Compound-Fork Lending Protocols: Dissecting the Venus Protocol THE Exploit](https://dev.to/ohmygod/donation-attacks-on-compound-fork-lending-protocols-dissecting-the-venus-protocol-the-exploit-dn8)
+- [Why the Next Billion-Dollar SaaS Won&#39;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs](https://dev.to/deepak_mishra_35863517037/why-the-next-billion-dollar-saas-wont-be-built-in-silicon-valley-the-rise-of-guerrilla-tech-hubs-2mhn)
+- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-35ak)
+- [OpenGitClaw – The autonomous GitHub agent that maintains your repos while you sleep](https://dev.to/omegacorelabs/opengitclaw-the-autonomous-github-agent-that-maintains-your-repos-while-you-sleep-2o0k)
+- [FDA Upgrades J&amp;J MedTech CEREPAK Recall to Class I After Fatal Incident](https://dev.to/aloycwl/fda-upgrades-jj-medtech-cerepak-recall-to-class-i-after-fatal-incident-57ej)
+- [Remote Slop with Claude Code](https://dev.to/crawleyprint_71/remote-slop-with-claude-code-329c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
