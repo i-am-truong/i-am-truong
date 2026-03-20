@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1Password Just Launched Unified Access with Anthropic, Cursor, and Vercel. Credential Vaults Are Not Identity.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-3f8d)
-- [Why 90% of AI Agent Projects Fail &lpar;and the Patterns That Fix It&rpar;](https://dev.to/nebulagg/why-90-of-ai-agent-projects-fail-and-the-patterns-that-fix-it-1dma)
-- [Deploying LangGraph: From Local Prototype to Production-Ready Microservice](https://dev.to/programmingcentral/deploying-langgraph-from-local-prototype-to-production-ready-microservice-4p3m)
-- [[Boost]](https://dev.to/anthonymax/-4kg6)
-- [How I Cut My AI Coding Agent&#39;s Token Usage by 120x With a Code Knowledge Graph](https://dev.to/deusdata/how-i-cut-my-ai-coding-agents-token-usage-by-120x-with-a-code-knowledge-graph-4a3d)
+- [I Thought My System Was Secure… Until I Found This One Mistake](https://dev.to/arthur_kirby_f66568779ac5/i-thought-my-system-was-secure-until-i-found-this-one-mistake-2p5n)
+- [What Diction Does When Transcription Fails](https://dev.to/omachala/what-happens-to-your-audio-when-the-app-gets-killed-mid-transcription-482p)
+- [Claude Code used 2.5M tokens on my project. I got it down to 425K with 6 hook scripts.](https://dev.to/cytostack/claude-code-used-25m-tokens-on-my-project-i-got-it-down-to-425k-with-6-hook-scripts-d40)
+- [How I Built a Simple Niche Site System Using Hugo, AI, and Pinterest](https://dev.to/fishingexplorer/how-i-built-a-simple-niche-site-system-using-hugo-ai-and-pinterest-4k1)
+- [HTML Contact Forms Don&#39;t Send Email &lpar;Here’s What Actually Does&rpar;](https://dev.to/longn561/html-contact-forms-dont-send-email-heres-what-actually-does-2g16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
