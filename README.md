@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing the Face of OWASP BLT: Three New Creative Challenges 🎨✨](https://dev.to/owaspblt/designing-the-face-of-owasp-blt-three-new-creative-challenges-8kn)
-- [I run 6 AI agents for my startup. Here&#39;s why I built an automatic kill switch for all of them.](https://dev.to/davidkny22/i-run-6-ai-agents-for-my-startup-heres-why-i-built-an-automatic-kill-switch-for-all-of-them-30h4)
-- [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b)
-- [Windsurf’s New Pricing Explained: Simpler AI Coding or Hidden Trade-Offs?](https://dev.to/icornea/windsurfs-new-pricing-explained-simpler-ai-coding-or-hidden-trade-offs-f3g)
-- [Building Production RAG Systems with PostgreSQL: Complete Implementation Guide](https://dev.to/elpic/building-production-rag-systems-with-postgresql-complete-implementation-guide-50gh)
+- [Modeling Skippable Presentation Flow as a Race in Unity](https://dev.to/morishift/modeling-skippable-presentation-flow-as-a-race-in-unity-9ic)
+- [5 Agent Design Patterns Every Developer Needs to Know in 2026](https://dev.to/ljhao/5-agent-design-patterns-every-developer-needs-to-know-in-2026-17d8)
+- [Debugging Smarter and Feature Iteration with Trae AI](https://dev.to/richard_chai_7ae55a511593/debugging-smarter-and-feature-iteration-with-trae-ai-1ff)
+- [Forbes Says AI Agent Security Is Repeating a 30-Year-Old Mistake. Token Security Thinks Intent Is the Fix.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-182f)
+- [Minimalist Vaultwarden + Auto-TLS stack &lpar;43s deployment, 11.95 MiB footprint&rpar;](https://dev.to/matt_han_7032dc6ae/minimalist-vaultwarden-auto-tls-stack-43s-deployment-1195-mib-footprint-2c00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
