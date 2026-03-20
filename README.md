@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modeling Skippable Presentation Flow as a Race in Unity](https://dev.to/morishift/modeling-skippable-presentation-flow-as-a-race-in-unity-9ic)
-- [5 Agent Design Patterns Every Developer Needs to Know in 2026](https://dev.to/ljhao/5-agent-design-patterns-every-developer-needs-to-know-in-2026-17d8)
-- [Debugging Smarter and Feature Iteration with Trae AI](https://dev.to/richard_chai_7ae55a511593/debugging-smarter-and-feature-iteration-with-trae-ai-1ff)
-- [Forbes Says AI Agent Security Is Repeating a 30-Year-Old Mistake. Token Security Thinks Intent Is the Fix.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-182f)
-- [Minimalist Vaultwarden + Auto-TLS stack &lpar;43s deployment, 11.95 MiB footprint&rpar;](https://dev.to/matt_han_7032dc6ae/minimalist-vaultwarden-auto-tls-stack-43s-deployment-1195-mib-footprint-2c00)
+- [I Built an MCP Server That Gives AI Agents Human Judgment](https://dev.to/erik_anderson_c41dbafd423/i-built-an-mcp-server-that-gives-ai-agents-human-judgment-4k4n)
+- [What Is Vibe Engineering? How AI Turns Ideas Into Working Prototypes Instantly](https://dev.to/naresh_007/what-is-vibe-engineering-how-ai-turns-ideas-into-working-prototypes-instantly-4pk4)
+- [🦊 GitLab CI: Automated Testing of Job Rules](https://dev.to/zenika/gitlab-ci-automated-testing-of-job-rules-1i03)
+- [tired of building the same components from scratch? 😮‍💨](https://dev.to/mazyar_kawa/tired-of-building-the-same-components-from-scratch-mhj)
+- [The Diminishing Returns of AI Discourse in Tech Programming](https://dev.to/dd8888/the-diminishing-returns-of-ai-discourse-in-tech-programming-8pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
