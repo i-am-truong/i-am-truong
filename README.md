@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Node.js API in 2026: Complete Security Guide](https://dev.to/_d7eb1c1703182e3ce1782/how-to-secure-your-nodejs-api-in-2026-complete-security-guide-4pll)
-- [Prettier vs ESLint: Formatting vs Linting Explained &lpar;Setup Guide&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/prettier-vs-eslint-formatting-vs-linting-explained-setup-guide-1m69)
-- [Harbeth: A high performance Metal image &amp; video filter library for Swift](https://dev.to/yangkj/harbeth-a-high-performance-metal-image-video-filter-library-for-swift-3m3a)
-- [MoltsPay 1.3.0: Now with Tempo Testnet &amp; MPP Protocol Support](https://dev.to/yaqing2023/moltspay-130-now-with-tempo-testnet-mpp-protocol-support-1db0)
-- [Filed Intelligence Hub — AI-Powered Corporate Due Diligence with MCP](https://dev.to/grantleydev/filed-intelligence-hub-ai-powered-corporate-due-diligence-with-mcp-24j4)
+- [The Developers Who Thrive in AI Won’t Be the Best Coders](https://dev.to/jaideepparashar/the-developers-who-thrive-in-ai-wont-be-the-best-coders-505e)
+- [7 Behavioral Patterns That Reveal the Source Code](https://dev.to/zertyi89/7-behavioral-patterns-that-reveal-the-source-code-195a)
+- [Understanding App Architecture - Why It Matters](https://dev.to/babiyashini_varadaraj_b17/understanding-app-architecture-why-it-matters-3kam)
+- [#tag:-A Simple Recon Workflow for Beginner Bug Hunters](https://dev.to/kato_junior_fbd2f9f8d8dee/tag-a-simple-recon-workflow-for-beginner-bug-hunters-254o)
+- [All things Kafka](https://dev.to/alamfatima1999/all-things-kafka-3cdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
