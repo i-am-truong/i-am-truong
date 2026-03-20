@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Server That Gives AI Agents Human Judgment](https://dev.to/erik_anderson_c41dbafd423/i-built-an-mcp-server-that-gives-ai-agents-human-judgment-4k4n)
-- [What Is Vibe Engineering? How AI Turns Ideas Into Working Prototypes Instantly](https://dev.to/naresh_007/what-is-vibe-engineering-how-ai-turns-ideas-into-working-prototypes-instantly-4pk4)
-- [🦊 GitLab CI: Automated Testing of Job Rules](https://dev.to/zenika/gitlab-ci-automated-testing-of-job-rules-1i03)
-- [tired of building the same components from scratch? 😮‍💨](https://dev.to/mazyar_kawa/tired-of-building-the-same-components-from-scratch-mhj)
-- [The Diminishing Returns of AI Discourse in Tech Programming](https://dev.to/dd8888/the-diminishing-returns-of-ai-discourse-in-tech-programming-8pl)
+- [How Google Finds Every Restaurant in Japan — And Why Your Full-Text Search Can&#39;t](https://dev.to/soytuber/how-google-finds-every-restaurant-in-japan-and-why-your-full-text-search-cant-3hmc)
+- [Move Zeroes-CA13](https://dev.to/mohith_001/move-zeroes-ca13-1h66)
+- [Automating Airtable with AI Assistants Using MCP](https://dev.to/ucptools/automating-airtable-with-ai-assistants-using-mcp-22na)
+- [Vibe Archeologist: From Z80 Assembly to an 1859 Mudbrick House and Beyond](https://dev.to/pengeszikra/vibe-archeologist-from-z80-assembly-to-an-1859-mudbrick-house-and-beyond-46n5)
+- [From Monolith to Microservices: How Bounded Context Improves AI-Driven Development](https://dev.to/jigjoy/from-monolith-to-microservices-how-bounded-context-improves-ai-driven-development-382f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
