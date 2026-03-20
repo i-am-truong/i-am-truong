@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create QR Codes: Complete Guide for Developers and Marketers](https://dev.to/_d7eb1c1703182e3ce1782/how-to-create-qr-codes-complete-guide-for-developers-and-marketers-48nf)
-- [A Developer Guide to JSON Formatting and Validation](https://dev.to/_d7eb1c1703182e3ce1782/a-developer-guide-to-json-formatting-and-validation-4ah3)
-- [7 Game-Changing Free Error Tracking Tools That Will Save Your Sanity in 2026](https://dev.to/theawesomeblog/7-game-changing-free-error-tracking-tools-that-will-save-your-sanity-in-2026-574e)
-- [Hakozuna v3.2 Released: Bringing Optimized Memory Allocation to M1 Mac](https://dev.to/charmpic/hakozuna-v32-released-bringing-optimized-memory-allocation-to-m1-mac-b7m)
-- [DevToolkit vs DevToys: Which Developer Utility Suite Is Better?](https://dev.to/_d7eb1c1703182e3ce1782/devtoolkit-vs-devtoys-which-developer-utility-suite-is-better-2206)
+- [Best Cloud and Developer Services for Building Modern Web Apps in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-cloud-and-developer-services-for-building-modern-web-apps-in-2026-1628)
+- [UUID vs ULID — Which Should You Use?](https://dev.to/_d7eb1c1703182e3ce1782/uuid-vs-ulid-which-should-you-use-1m5k)
+- [REST API Testing Guide for Beginners](https://dev.to/_d7eb1c1703182e3ce1782/rest-api-testing-guide-for-beginners-ke4)
+- [How to Generate Secure Passwords: A Developer Guide](https://dev.to/_d7eb1c1703182e3ce1782/how-to-generate-secure-passwords-a-developer-guide-3hlh)
+- [Architecting Multi-Tenant SaaS: Beyond the 1,000 User Pool Limit in Amazon Cognito](https://dev.to/ameer-pk/architecting-multi-tenant-saas-beyond-the-1000-user-pool-limit-in-amazon-cognito-2le3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
