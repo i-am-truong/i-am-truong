@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why the Next Billion-Dollar SaaS Won&#39;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs](https://dev.to/deepak_mishra_35863517037/why-the-next-billion-dollar-saas-wont-be-built-in-silicon-valley-the-rise-of-guerrilla-tech-hubs-2mhn)
-- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-35ak)
-- [OpenGitClaw – The autonomous GitHub agent that maintains your repos while you sleep](https://dev.to/omegacorelabs/opengitclaw-the-autonomous-github-agent-that-maintains-your-repos-while-you-sleep-2o0k)
-- [FDA Upgrades J&amp;J MedTech CEREPAK Recall to Class I After Fatal Incident](https://dev.to/aloycwl/fda-upgrades-jj-medtech-cerepak-recall-to-class-i-after-fatal-incident-57ej)
-- [Remote Slop with Claude Code](https://dev.to/crawleyprint_71/remote-slop-with-claude-code-329c)
+- [Building the World&#39;s Largest E-Commerce Behavioral Dataset: Architecture and Lessons Learned](https://dev.to/marcus_the_architect/building-the-worlds-largest-e-commerce-behavioral-dataset-architecture-and-lessons-learned-525n)
+- [Top 5 in Frontend and AI this week - AI Is Making Us Dumber + useEffect gets banned](https://dev.to/shrutikapoor08/top-5-in-frontend-and-ai-this-week-ai-is-making-us-dumber-useeffect-gets-banned-9ca)
+- [I Migrated My AI Agents from Azure to AWS — Here&#39;s the Minimal Setup You Actually Need](https://dev.to/buildmintz_media_5238c1d7/i-migrated-my-ai-agents-from-azure-to-aws-heres-the-minimal-setup-you-actually-need-163d)
+- [Fuck Around and Find Out: How a $6.99 Phishing Scam Got 1.2 Million Fake Victims](https://dev.to/copyleftdev/fuck-around-and-find-out-how-a-699-phishing-scam-got-12-million-fake-victims-1kdn)
+- [Top 7 AI Agent Frameworks for Developers in 2026](https://dev.to/nebulagg/top-7-ai-agent-frameworks-for-developers-in-2026-3o63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
