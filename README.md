@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Auth0 AWS Amplify Gen2: OIDC Authorization for AppSync via Identity Pool Federation](https://dev.to/aws-builders/auth0-aws-amplify-gen2-oidc-authorization-for-appsync-via-identity-pool-federation-l0o)
-- [How to Perform Proxy Packet Capture and Data Flow Analysis on Mac](https://dev.to/datastack/how-to-perform-proxy-packet-capture-and-data-flow-analysis-on-mac-1bb5)
-- [We Built AI That Qualifies Real Estate Leads in 5 Minutes](https://dev.to/cizo/we-built-ai-that-qualifies-real-estate-leads-in-5-minutes-3jpo)
-- [Deploying a Containerized WordPress App on AWS with Docker, EBS &amp; S3 Backups](https://dev.to/christiana_otoboh/deploying-a-containerized-wordpress-app-on-aws-with-docker-ebs-s3-backups-38if)
-- [Your AI Agent Is Lying to You &lpar;And You&#39;re Paying for the Privilege&rpar;](https://dev.to/gerus_team/your-ai-agent-is-lying-to-you-and-youre-paying-for-the-privilege-a59)
+- [I Built a CLI to Automate Express Backend Setup &lpar;1900+ Downloads&rpar;](https://dev.to/aurpit_21bc007_e8a2a4c64c/i-built-a-cli-to-automate-express-backend-setup-1900-downloads-1mfe)
+- [AgenticDev: a multi-LLM framework for generating tested code](https://dev.to/hamdi_mechelloukh_628620a/agenticdev-a-multi-llm-framework-for-generating-tested-code-184)
+- [How to Break an Extended Fast the Right Way](https://dev.to/wellnestapp/how-to-break-an-extended-fast-the-right-way-522l)
+- [How to Build a FinOps Strategy for AI and Generative AI Workloads](https://dev.to/datta_kharad_3fd1383b5036/how-to-build-a-finops-strategy-for-ai-and-generative-ai-workloads-29c1)
+- [Your GPU Is 97% Utilized But Your Training Is 3x Slower Than Expected](https://dev.to/dml37/your-gpu-is-97-utilized-but-your-training-is-3x-slower-than-expected-e7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
