@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a CLI to Automate Express Backend Setup &lpar;1900+ Downloads&rpar;](https://dev.to/aurpit_21bc007_e8a2a4c64c/i-built-a-cli-to-automate-express-backend-setup-1900-downloads-1mfe)
-- [AgenticDev: a multi-LLM framework for generating tested code](https://dev.to/hamdi_mechelloukh_628620a/agenticdev-a-multi-llm-framework-for-generating-tested-code-184)
-- [How to Break an Extended Fast the Right Way](https://dev.to/wellnestapp/how-to-break-an-extended-fast-the-right-way-522l)
-- [How to Build a FinOps Strategy for AI and Generative AI Workloads](https://dev.to/datta_kharad_3fd1383b5036/how-to-build-a-finops-strategy-for-ai-and-generative-ai-workloads-29c1)
-- [Your GPU Is 97% Utilized But Your Training Is 3x Slower Than Expected](https://dev.to/dml37/your-gpu-is-97-utilized-but-your-training-is-3x-slower-than-expected-e7i)
+- [Managing Configurations in Python Projects](https://dev.to/isaac-fei/managing-configurations-in-python-projects-4k05)
+- [Qdrant Hybrid Search Combined with SQL Query Results](https://dev.to/isaac-fei/qdrant-hybrid-search-combined-with-sql-query-results-4p3n)
+- [The Publisher-Subscriber Pattern in React](https://dev.to/isaac-fei/the-publisher-subscriber-pattern-in-react-4b58)
+- [Deploying a Image Recognition Service to AWS Lambda](https://dev.to/isaac-fei/deploying-a-image-recognition-service-to-aws-lambda-la1)
+- [A Simple Web App for Image Generation with Dall-E 3 using Go + HTMX](https://dev.to/isaac-fei/a-simple-web-app-for-image-generation-with-dall-e-3-using-go-htmx-3g0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
