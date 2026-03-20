@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Coordination Problem Nobody Talks About When You Give AI Agents Real Work](https://dev.to/ryanmcmillan/the-coordination-problem-nobody-talks-about-when-you-give-ai-agents-real-work-2p8l)
-- [VICIdial to Hosted Migration Checklist: Step-by-Step Guide](https://dev.to/gamlin/vicidial-to-hosted-migration-checklist-step-by-step-guide-4gem)
-- [VICIdial AMD Configuration: The Only Guide That Doesn&#39;t Waste Your Time](https://dev.to/gamlin/vicidial-amd-configuration-the-only-guide-that-doesnt-waste-your-time-5eoi)
-- [Webhooks vs Polling: Quelle méthode d&#39;intégration API est la meilleure ?](https://dev.to/antoine_laurentt/webhooks-vs-polling-quelle-methode-dintegration-api-est-la-meilleure--5el1)
-- [128GB of RAM, Zero Internet, and a Year of Building AI Infrastructure Nobody Asked For](https://dev.to/ekovshilovsky/128gb-of-ram-zero-internet-and-a-year-of-building-ai-infrastructure-nobody-asked-for-4pc9)
+- [How to Secure Your Node.js API in 2026: Complete Security Guide](https://dev.to/_d7eb1c1703182e3ce1782/how-to-secure-your-nodejs-api-in-2026-complete-security-guide-4pll)
+- [Prettier vs ESLint: Formatting vs Linting Explained &lpar;Setup Guide&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/prettier-vs-eslint-formatting-vs-linting-explained-setup-guide-1m69)
+- [Harbeth: A high performance Metal image &amp; video filter library for Swift](https://dev.to/yangkj/harbeth-a-high-performance-metal-image-video-filter-library-for-swift-3m3a)
+- [MoltsPay 1.3.0: Now with Tempo Testnet &amp; MPP Protocol Support](https://dev.to/yaqing2023/moltspay-130-now-with-tempo-testnet-mpp-protocol-support-1db0)
+- [Filed Intelligence Hub — AI-Powered Corporate Due Diligence with MCP](https://dev.to/grantleydev/filed-intelligence-hub-ai-powered-corporate-due-diligence-with-mcp-24j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
