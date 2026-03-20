@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Cloud and Developer Services for Building Modern Web Apps in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-cloud-and-developer-services-for-building-modern-web-apps-in-2026-1628)
-- [UUID vs ULID — Which Should You Use?](https://dev.to/_d7eb1c1703182e3ce1782/uuid-vs-ulid-which-should-you-use-1m5k)
-- [REST API Testing Guide for Beginners](https://dev.to/_d7eb1c1703182e3ce1782/rest-api-testing-guide-for-beginners-ke4)
-- [How to Generate Secure Passwords: A Developer Guide](https://dev.to/_d7eb1c1703182e3ce1782/how-to-generate-secure-passwords-a-developer-guide-3hlh)
-- [Architecting Multi-Tenant SaaS: Beyond the 1,000 User Pool Limit in Amazon Cognito](https://dev.to/ameer-pk/architecting-multi-tenant-saas-beyond-the-1000-user-pool-limit-in-amazon-cognito-2le3)
+- [The Coordination Problem Nobody Talks About When You Give AI Agents Real Work](https://dev.to/ryanmcmillan/the-coordination-problem-nobody-talks-about-when-you-give-ai-agents-real-work-2p8l)
+- [VICIdial to Hosted Migration Checklist: Step-by-Step Guide](https://dev.to/gamlin/vicidial-to-hosted-migration-checklist-step-by-step-guide-4gem)
+- [VICIdial AMD Configuration: The Only Guide That Doesn&#39;t Waste Your Time](https://dev.to/gamlin/vicidial-amd-configuration-the-only-guide-that-doesnt-waste-your-time-5eoi)
+- [Webhooks vs Polling: Quelle méthode d&#39;intégration API est la meilleure ?](https://dev.to/antoine_laurentt/webhooks-vs-polling-quelle-methode-dintegration-api-est-la-meilleure--5el1)
+- [128GB of RAM, Zero Internet, and a Year of Building AI Infrastructure Nobody Asked For](https://dev.to/ekovshilovsky/128gb-of-ram-zero-internet-and-a-year-of-building-ai-infrastructure-nobody-asked-for-4pc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
