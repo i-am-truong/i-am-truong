@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build and Register Your First AI Agent on Agenium in 60 Seconds](https://dev.to/agenium_platform/build-and-register-your-first-ai-agent-on-agenium-in-60-seconds-45lf)
-- [Two Sum II - Input Array Is Sorted](https://dev.to/jeyaprasadr/finding-two-numbers-that-add-up-to-a-target-45de)
-- [Secure File Uploads in Laravel: Validation, Storage &amp; Basic Virus Protection](https://dev.to/addwebsolutionpvtltd/secure-file-uploads-in-laravel-validation-storage-basic-virus-protection-1hb4)
-- [Adding Attribute-Based Access Control to a Real-Time Collaborative App with OpenTDF](https://dev.to/eugenioenko/adding-attribute-based-access-control-to-a-real-time-collaborative-app-with-opentdf-76e)
-- [Zero-Copy Buffer Manipulation: Parsing Market Data at Memory Speed](https://dev.to/odunlemi/zero-copy-buffer-manipulation-parsing-market-data-at-memory-speed-1ol5)
+- [pg_duckpipe: Real-time CDC for streaming Postgres Table into Columnar Ducklake](https://dev.to/ywxiao/pgduckpipe-real-time-cdc-for-streaming-postgres-table-into-columnar-ducklake-536d)
+- [🤖 Adding AI to My Project Wasn&#39;t Easy. Until It Was.😅](https://dev.to/techgeniuskaran/adding-ai-to-my-project-wasnt-easy-until-it-was-3lmk)
+- [2Checkout API: Ödeme İşleme için Eksiksiz Entegrasyon Rehberi &lpar;2026&rpar;](https://dev.to/tobiass_hoffmann/2checkout-api-odeme-isleme-icin-eksiksiz-entegrasyon-rehberi-2026-2cgf)
+- [5 Step Guide To Keep Your Checkout Running During Peak Sales Periods](https://dev.to/flutterwaveeng/5-step-guide-to-keep-your-checkout-running-during-peak-sales-periods-b8a)
+- [The Day a Green Pipeline Told Me Everything Was Fine — And It Wasn&#39;t](https://dev.to/ashish_nadar/the-day-a-green-pipeline-told-me-everything-was-fine-and-it-wasnt-336)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
