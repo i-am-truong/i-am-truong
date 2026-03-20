@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Content Performance Benchmarker: Are Your Numbers Good or Bad?](https://dev.to/olams/build-a-content-performance-benchmarker-are-your-numbers-good-or-bad-3n9c)
-- [I Built a CLI Tool That Writes My Commit Messages](https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf)
-- [Hermes Agent: Honest Review](https://dev.to/george_larson_3cc4a57b08b/hermes-agent-honest-review-1557)
-- [Authon vs Clerk vs Auth0: Which Auth Provider Should You Choose in 2026?](https://dev.to/alanwest/authon-vs-clerk-vs-auth0-which-auth-provider-should-you-choose-in-2026-24m2)
-- [Quick Question: Have You Checked If AI Engines Cite Your Site?](https://dev.to/alexandrebrt14sys/quick-question-have-you-checked-if-ai-engines-cite-your-site-4763)
+- [Why This Cube Personality Test Feels Eerily Accurate – Discover the Science Behind It](https://dev.to/aloycwl/why-this-cube-personality-test-feels-eerily-accurate-discover-the-science-behind-it-136g)
+- [Understanding Seq2Seq Neural Networks – Part 6: Decoder Outputs and the Fully Connected Layer](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-6-decoder-outputs-and-the-fully-connected-layer-1bhp)
+- [Windows Servers Are a Cryptographic Liability: Entire Countries Can Be Left Exposed to Quantum Attacks](https://dev.to/daan_acohen/windows-servers-are-a-cryptographic-liability-entire-countries-can-be-left-exposed-to-quantum-32md)
+- [Poll: Which AI Search Engine Do You Use Most?](https://dev.to/alexandrebrt14sys/poll-which-ai-search-engine-do-you-use-most-46mi)
+- [I Built 24 AI Agents for My Terminal — Here&#39;s What They Do](https://dev.to/prince_vasoya_12d7a1a2bae/i-built-24-ai-agents-for-my-terminal-heres-what-they-do-31jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
