@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevSecOps: Integrating Security into Your CI/CD Pipeline](https://dev.to/thesius_code_7a136ae718b7/devsecops-integrating-security-into-your-cicd-pipeline-38ad)
-- [Why DevOps Culture Beats Tools: The 80/20 Rule for Digital Success](https://dev.to/brandikinard/why-devops-culture-beats-tools-the-8020-rule-for-digital-success-3hl1)
-- [Cloud Cost Optimization: Cutting Your AWS/Azure Bill by 40%](https://dev.to/thesius_code_7a136ae718b7/cloud-cost-optimization-cutting-your-awsazure-bill-by-40-p6a)
-- [Real-Time Data Streaming with Apache Kafka and Spark](https://dev.to/thesius_code_7a136ae718b7/real-time-data-streaming-with-apache-kafka-and-spark-c4l)
-- [AWS Solutions Architect Certification Prep Guide &lpar;2026&rpar;](https://dev.to/thesius_code_7a136ae718b7/aws-solutions-architect-certification-prep-guide-2026-1mf7)
+- [The Stripe webhook race condition that silently charged users twice &lpar;and the Node.js fix&rpar;](https://dev.to/siddhant_jain_18/the-stripe-webhook-race-condition-that-silently-charged-users-twice-and-the-nodejs-fix-36k5)
+- [Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode](https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf)
+- [Cloud Security for Lawyers: Understanding IAM, Encryption, and Zero Trust Without the Jargon](https://dev.to/heyjoshlee/cloud-security-for-lawyers-understanding-iam-encryption-and-zero-trust-without-the-jargon-6a1)
+- [Why Your Timesheet Is Probably Wrong &lpar;And How Rounding Rules Work&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-your-timesheet-is-probably-wrong-and-how-rounding-rules-work-3dgh)
+- [PostgreSQL Row-Level Security Saved My SaaS From Bugs I Didn&#39;t Know I Had](https://dev.to/tomokiikeda/postgresql-row-level-security-saved-my-saas-from-bugs-i-didnt-know-i-had-1bb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
