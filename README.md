@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Your .NET Exceptions Are Telling Attackers &lpar;And How to Stop It&rpar;](https://dev.to/adrianbailador/what-your-net-exceptions-are-telling-attackers-and-how-to-stop-it-57ia)
-- [How to Build Your First MCP Server in 10 Minutes](https://dev.to/nebulagg/how-to-build-your-first-mcp-server-in-10-minutes-319)
-- [Why Your OpenClaw Agent Gets Slower and More Expensive Over Time](https://dev.to/astrodevil/why-your-openclaw-agent-gets-slower-and-more-expensive-over-time-5c5e)
-- [When Did Every AWS Service Launch?](https://dev.to/aws/when-did-every-aws-service-launch-3kc7)
-- [I Thought My System Was Secure… Until I Found This One Mistake](https://dev.to/arthur_kirby_f66568779ac5/i-thought-my-system-was-secure-until-i-found-this-one-mistake-2p5n)
+- [Deploying Finovara on Docker and fixing a critical bug.](https://dev.to/m4rc1nek/deploying-finovara-on-docker-and-fixing-a-critical-bug-2k5n)
+- [steamworks-ffi-node: A Steamworks SDK Library for JavaScript Game Frameworks](https://dev.to/arty_prof/steamworks-ffi-node-a-steamworks-sdk-library-for-javascript-game-frameworks-15h1)
+- [I got tired of downloading Playwright artifacts from CI, so I changed the workflow](https://dev.to/sentinelqa/i-got-tired-of-downloading-playwright-artifacts-from-ci-so-i-changed-the-workflow-6gf)
+- [How We Built a Cron Job Monitoring System That Actually Works](https://dev.to/quietpulse-social/how-we-built-a-cron-job-monitoring-system-that-actually-works-1ha4)
+- [Donation Attacks on Compound-Fork Lending Protocols: Dissecting the Venus Protocol THE Exploit](https://dev.to/ohmygod/donation-attacks-on-compound-fork-lending-protocols-dissecting-the-venus-protocol-the-exploit-dn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
