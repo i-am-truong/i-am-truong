@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Stripe webhook race condition that silently charged users twice &lpar;and the Node.js fix&rpar;](https://dev.to/siddhant_jain_18/the-stripe-webhook-race-condition-that-silently-charged-users-twice-and-the-nodejs-fix-36k5)
-- [Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode](https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf)
-- [Cloud Security for Lawyers: Understanding IAM, Encryption, and Zero Trust Without the Jargon](https://dev.to/heyjoshlee/cloud-security-for-lawyers-understanding-iam-encryption-and-zero-trust-without-the-jargon-6a1)
-- [Why Your Timesheet Is Probably Wrong &lpar;And How Rounding Rules Work&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-your-timesheet-is-probably-wrong-and-how-rounding-rules-work-3dgh)
-- [PostgreSQL Row-Level Security Saved My SaaS From Bugs I Didn&#39;t Know I Had](https://dev.to/tomokiikeda/postgresql-row-level-security-saved-my-saas-from-bugs-i-didnt-know-i-had-1bb5)
+- [Why You Should Never Store Plaintext Passwords &lpar;And How Bcrypt Fixes That&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-you-should-never-store-plaintext-passwords-and-how-bcrypt-fixes-that-3bo1)
+- [Trim Audio Files Without Installing Software](https://dev.to/michael_lip_52d5151c3e364/trim-audio-files-without-installing-software-5p4)
+- [I paid for an Instagram API with 3 lines of code — no signup, no API keys](https://dev.to/socialinteldev/i-paid-for-an-instagram-api-with-3-lines-of-code-no-signup-no-api-keys-25g2)
+- [Audio Formats Explained: When to Use MP3, WAV, FLAC, OGG, and AAC](https://dev.to/michael_lip_52d5151c3e364/audio-formats-explained-when-to-use-mp3-wav-flac-ogg-and-aac-4h04)
+- [Aspect Ratios Explained: Why Your Images Look Stretched](https://dev.to/michael_lip_52d5151c3e364/aspect-ratios-explained-why-your-images-look-stretched-f24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
