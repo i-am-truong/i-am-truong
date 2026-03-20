@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)
-- [Light and Shadow Settings - Unreal Engine](https://dev.to/adbhut/light-and-shadow-settings-unreal-engine-298p)
-- [Reverse a Linked List – CA22](https://dev.to/mohith_001/reverse-a-linked-list-ca22-4d0p)
-- [Majority Element – CA21](https://dev.to/mohith_001/majority-element-ca21-2dcd)
-- [PrinceJS vs Hono vs Express vs Elysia: Benchmarking the Fastest Bun Frameworks in 2025](https://dev.to/thelittleprince1218/princejs-vs-hono-vs-express-vs-elysia-benchmarking-the-fastest-bun-frameworks-in-2025-c73)
+- [Build a Content Performance Benchmarker: Are Your Numbers Good or Bad?](https://dev.to/olams/build-a-content-performance-benchmarker-are-your-numbers-good-or-bad-3n9c)
+- [I Built a CLI Tool That Writes My Commit Messages](https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf)
+- [Hermes Agent: Honest Review](https://dev.to/george_larson_3cc4a57b08b/hermes-agent-honest-review-1557)
+- [Authon vs Clerk vs Auth0: Which Auth Provider Should You Choose in 2026?](https://dev.to/alanwest/authon-vs-clerk-vs-auth0-which-auth-provider-should-you-choose-in-2026-24m2)
+- [Quick Question: Have You Checked If AI Engines Cite Your Site?](https://dev.to/alexandrebrt14sys/quick-question-have-you-checked-if-ai-engines-cite-your-site-4763)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
