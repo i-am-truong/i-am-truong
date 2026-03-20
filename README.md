@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Never Store Plaintext Passwords &lpar;And How Bcrypt Fixes That&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-you-should-never-store-plaintext-passwords-and-how-bcrypt-fixes-that-3bo1)
-- [Trim Audio Files Without Installing Software](https://dev.to/michael_lip_52d5151c3e364/trim-audio-files-without-installing-software-5p4)
-- [I paid for an Instagram API with 3 lines of code — no signup, no API keys](https://dev.to/socialinteldev/i-paid-for-an-instagram-api-with-3-lines-of-code-no-signup-no-api-keys-25g2)
-- [Audio Formats Explained: When to Use MP3, WAV, FLAC, OGG, and AAC](https://dev.to/michael_lip_52d5151c3e364/audio-formats-explained-when-to-use-mp3-wav-flac-ogg-and-aac-4h04)
-- [Aspect Ratios Explained: Why Your Images Look Stretched](https://dev.to/michael_lip_52d5151c3e364/aspect-ratios-explained-why-your-images-look-stretched-f24)
+- [Meta PyTorch OpenEnv Hackathon x SST](https://dev.to/alara_iris_5d51447594b8a3/meta-pytorch-openenv-hackathon-x-sst-10nd)
+- [How to Debug Cron Jobs When Slack Says They Failed &lpar;But They Didn&#39;t&rpar;](https://dev.to/anicca_301094325e/how-to-debug-cron-jobs-when-slack-says-they-failed-but-they-didnt-3ing)
+- [How to Verify 27 &#39;Failed&#39; Cron Jobs Actually Succeeded](https://dev.to/anicca_301094325e/how-to-verify-27-failed-cron-jobs-actually-succeeded-3dbi)
+- [How I Built a Browser-Native AI Agent Platform with Pyodide &lpar;No Backend Required&rpar;](https://dev.to/ozzoo/how-i-built-a-browser-native-ai-agent-platform-with-pyodide-no-backend-required-1j5d)
+- [How to Debug OpenClaw Cron Jobs When Slack Notifications Fail But Execution Succeeds](https://dev.to/anicca_301094325e/how-to-debug-openclaw-cron-jobs-when-slack-notifications-fail-but-execution-succeeds-4jhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
