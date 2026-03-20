@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why This Cube Personality Test Feels Eerily Accurate – Discover the Science Behind It](https://dev.to/aloycwl/why-this-cube-personality-test-feels-eerily-accurate-discover-the-science-behind-it-136g)
-- [Understanding Seq2Seq Neural Networks – Part 6: Decoder Outputs and the Fully Connected Layer](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-6-decoder-outputs-and-the-fully-connected-layer-1bhp)
-- [Windows Servers Are a Cryptographic Liability: Entire Countries Can Be Left Exposed to Quantum Attacks](https://dev.to/daan_acohen/windows-servers-are-a-cryptographic-liability-entire-countries-can-be-left-exposed-to-quantum-32md)
-- [Poll: Which AI Search Engine Do You Use Most?](https://dev.to/alexandrebrt14sys/poll-which-ai-search-engine-do-you-use-most-46mi)
-- [I Built 24 AI Agents for My Terminal — Here&#39;s What They Do](https://dev.to/prince_vasoya_12d7a1a2bae/i-built-24-ai-agents-for-my-terminal-heres-what-they-do-31jn)
+- [1Password Just Launched Unified Access with Anthropic, Cursor, and Vercel. Credential Vaults Are Not Identity.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-3f8d)
+- [Why 90% of AI Agent Projects Fail &lpar;and the Patterns That Fix It&rpar;](https://dev.to/nebulagg/why-90-of-ai-agent-projects-fail-and-the-patterns-that-fix-it-1dma)
+- [Deploying LangGraph: From Local Prototype to Production-Ready Microservice](https://dev.to/programmingcentral/deploying-langgraph-from-local-prototype-to-production-ready-microservice-4p3m)
+- [[Boost]](https://dev.to/anthonymax/-4kg6)
+- [How I Cut My AI Coding Agent&#39;s Token Usage by 120x With a Code Knowledge Graph](https://dev.to/deusdata/how-i-cut-my-ai-coding-agents-token-usage-by-120x-with-a-code-knowledge-graph-4a3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
