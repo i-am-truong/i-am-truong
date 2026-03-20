@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Your .NET Exceptions Are Telling Attackers &lpar;And How to Stop It&rpar;](https://dev.to/adrianbailador/what-your-net-exceptions-are-telling-attackers-and-how-to-stop-it-57ia)
+- [How to Build Your First MCP Server in 10 Minutes](https://dev.to/nebulagg/how-to-build-your-first-mcp-server-in-10-minutes-319)
+- [Why Your OpenClaw Agent Gets Slower and More Expensive Over Time](https://dev.to/astrodevil/why-your-openclaw-agent-gets-slower-and-more-expensive-over-time-5c5e)
+- [When Did Every AWS Service Launch?](https://dev.to/aws/when-did-every-aws-service-launch-3kc7)
 - [I Thought My System Was Secure… Until I Found This One Mistake](https://dev.to/arthur_kirby_f66568779ac5/i-thought-my-system-was-secure-until-i-found-this-one-mistake-2p5n)
-- [What Diction Does When Transcription Fails](https://dev.to/omachala/what-happens-to-your-audio-when-the-app-gets-killed-mid-transcription-482p)
-- [Claude Code used 2.5M tokens on my project. I got it down to 425K with 6 hook scripts.](https://dev.to/cytostack/claude-code-used-25m-tokens-on-my-project-i-got-it-down-to-425k-with-6-hook-scripts-d40)
-- [How I Built a Simple Niche Site System Using Hugo, AI, and Pinterest](https://dev.to/fishingexplorer/how-i-built-a-simple-niche-site-system-using-hugo-ai-and-pinterest-4k1)
-- [HTML Contact Forms Don&#39;t Send Email &lpar;Here’s What Actually Does&rpar;](https://dev.to/longn561/html-contact-forms-dont-send-email-heres-what-actually-does-2g16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
