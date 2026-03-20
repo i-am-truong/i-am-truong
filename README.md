@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Google Finds Every Restaurant in Japan — And Why Your Full-Text Search Can&#39;t](https://dev.to/soytuber/how-google-finds-every-restaurant-in-japan-and-why-your-full-text-search-cant-3hmc)
-- [Move Zeroes-CA13](https://dev.to/mohith_001/move-zeroes-ca13-1h66)
-- [Automating Airtable with AI Assistants Using MCP](https://dev.to/ucptools/automating-airtable-with-ai-assistants-using-mcp-22na)
-- [Vibe Archeologist: From Z80 Assembly to an 1859 Mudbrick House and Beyond](https://dev.to/pengeszikra/vibe-archeologist-from-z80-assembly-to-an-1859-mudbrick-house-and-beyond-46n5)
-- [From Monolith to Microservices: How Bounded Context Improves AI-Driven Development](https://dev.to/jigjoy/from-monolith-to-microservices-how-bounded-context-improves-ai-driven-development-382f)
+- [Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)
+- [Light and Shadow Settings - Unreal Engine](https://dev.to/adbhut/light-and-shadow-settings-unreal-engine-298p)
+- [Reverse a Linked List – CA22](https://dev.to/mohith_001/reverse-a-linked-list-ca22-4d0p)
+- [Majority Element – CA21](https://dev.to/mohith_001/majority-element-ca21-2dcd)
+- [PrinceJS vs Hono vs Express vs Elysia: Benchmarking the Fastest Bun Frameworks in 2025](https://dev.to/thelittleprince1218/princejs-vs-hono-vs-express-vs-elysia-benchmarking-the-fastest-bun-frameworks-in-2025-c73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
