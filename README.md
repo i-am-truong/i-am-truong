@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an OpenClaw Security Vault for AI Agents](https://dev.to/a_fb10f3fd81898e4c83a6d/building-an-openclaw-security-vault-for-ai-agents-212o)
-- [n8n Error Handling Best Practices: Stop Letting Silent Failures Break Your Business](https://dev.to/ciphernutz/n8n-error-handling-best-practices-stop-letting-silent-failures-break-your-business-1j8h)
-- [I Spent $228/Year on Postman. Here&#39;s Why I Switched to DevKits Pro for $9](https://dev.to/hezeclark/i-spent-228year-on-postman-heres-why-i-switched-to-devkits-pro-for-9-3gi2)
-- [React Hooks Performance: How to Avoid Unnecessary Re-renders](https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483)
-- [Love, Tito&#39;s: Vodka Maker Funds Physics Research](https://dev.to/aloycwl/love-titos-vodka-maker-funds-physics-research-3eja)
+- [I curated 1,863 Data Engineering interview questions from 97+ companies --- here&#39;s what I learned. Website :: dataengprep.tech](https://dev.to/codeshukla/i-curated-1863-data-engineering-interview-questions-from-97-companies-heres-what-i-learned-3lia)
+- [Remove Duplicates in Sorted Linked List](https://dev.to/jeyaprasadr/remove-duplicates-in-sorted-linked-list-5341)
+- [Architecting Autonomous Agents: A Deep Dive into Azure AI Foundry Agent Service](https://dev.to/jubinsoni/architecting-autonomous-agents-a-deep-dive-into-azure-ai-foundry-agent-service-4jnk)
+- [Testing Azure Functions: Unit, Integration, and Local](https://dev.to/martin_oehlert/testing-azure-functions-unit-integration-and-local-1cml)
+- [10 Font Pairings So Good They Feel Like a Secret](https://dev.to/web_dev-usman/10-font-pairings-so-good-they-feel-like-a-secret-8c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
