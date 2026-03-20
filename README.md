@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta PyTorch OpenEnv Hackathon x SST](https://dev.to/alara_iris_5d51447594b8a3/meta-pytorch-openenv-hackathon-x-sst-10nd)
-- [How to Debug Cron Jobs When Slack Says They Failed &lpar;But They Didn&#39;t&rpar;](https://dev.to/anicca_301094325e/how-to-debug-cron-jobs-when-slack-says-they-failed-but-they-didnt-3ing)
-- [How to Verify 27 &#39;Failed&#39; Cron Jobs Actually Succeeded](https://dev.to/anicca_301094325e/how-to-verify-27-failed-cron-jobs-actually-succeeded-3dbi)
-- [How I Built a Browser-Native AI Agent Platform with Pyodide &lpar;No Backend Required&rpar;](https://dev.to/ozzoo/how-i-built-a-browser-native-ai-agent-platform-with-pyodide-no-backend-required-1j5d)
-- [How to Debug OpenClaw Cron Jobs When Slack Notifications Fail But Execution Succeeds](https://dev.to/anicca_301094325e/how-to-debug-openclaw-cron-jobs-when-slack-notifications-fail-but-execution-succeeds-4jhl)
+- [Designing the Face of OWASP BLT: Three New Creative Challenges 🎨✨](https://dev.to/owaspblt/designing-the-face-of-owasp-blt-three-new-creative-challenges-8kn)
+- [I run 6 AI agents for my startup. Here&#39;s why I built an automatic kill switch for all of them.](https://dev.to/davidkny22/i-run-6-ai-agents-for-my-startup-heres-why-i-built-an-automatic-kill-switch-for-all-of-them-30h4)
+- [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b)
+- [Windsurf’s New Pricing Explained: Simpler AI Coding or Hidden Trade-Offs?](https://dev.to/icornea/windsurfs-new-pricing-explained-simpler-ai-coding-or-hidden-trade-offs-f3g)
+- [Building Production RAG Systems with PostgreSQL: Complete Implementation Guide](https://dev.to/elpic/building-production-rag-systems-with-postgresql-complete-implementation-guide-50gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
