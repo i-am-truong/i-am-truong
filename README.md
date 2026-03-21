@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Seq2Seq Neural Networks – Part 7: Generating the Output with Softmax](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-7-generating-the-output-with-softmax-387i)
-- [9 Developer Utilities You Can Add to Claude Desktop in 30 Seconds](https://dev.to/profiterole/9-developer-utilities-you-can-add-to-claude-desktop-in-30-seconds-4140)
-- [How I Built and Deployed a Free Email Validation API with Python and FastAPI](https://dev.to/willivan0706/how-i-built-and-deployed-a-free-email-validation-api-with-python-and-fastapi-39lc)
-- [Agents vs Workflows: A Decision Framework for 2026](https://dev.to/nebulagg/agents-vs-workflows-a-decision-framework-for-2026-19ab)
-- [Top 6 Secrets Management Tools for Devs in 2026](https://dev.to/nebulagg/top-6-secrets-management-tools-for-devs-in-2026-4ahe)
+- [How to Find Your First AI Automation Client in 2026 &lpar;Without a Portfolio&rpar;](https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld)
+- [I have a question, I am developing an app. I am having the issue in which my app is logging out my acc, after some time like in 20 Min. Anyone know what the issue could be and how can I fix it. a question from newbee](https://dev.to/sammy_b44c967/i-have-a-question-i-am-developing-an-app-i-am-having-the-issue-in-which-my-app-is-logging-out-my-jg0)
+- [I Run 5 Businesses With Zero Employees. Here&#39;s the Exact AI Stack.](https://dev.to/dimanegodiuk/i-run-5-businesses-with-zero-employees-heres-the-exact-ai-stack-llm)
+- [Sovereign AI Infrastructure: Scaling Enterprise Agents from 8GB RAM to Global Clusters with Fararoni.](https://dev.to/ebercruz/sovereign-ai-infrastructure-scaling-enterprise-agents-from-8gb-ram-to-global-clusters-with-116n)
+- [How &lpar;A&rpar; I Built Open-Source LLM Guardrails with FastAPI](https://dev.to/manigaaa27/how-a-i-built-open-source-llm-guardrails-with-fastapi-51p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
