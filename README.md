@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Doesn&#39;t Know You&#39;ve Been Gone — Here&#39;s the Fix](https://dev.to/tadmstr/claude-code-doesnt-know-youve-been-gone-heres-the-fix-17ko)
-- [The Autonomous Writer: Experimenting with Self-Evolving System Prompt and Context](https://dev.to/alexdarbyshire/the-autonomous-writer-experimenting-with-self-evolving-system-prompt-and-context-bgf)
-- [Adding Stripe Checkout to a Solo SaaS: Lessons from PatentLLM&#39;s $1K/mo Plan](https://dev.to/soytuber/adding-stripe-checkout-to-a-solo-saas-lessons-from-patentllms-1kmo-plan-1c4d)
-- [Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs](https://dev.to/soytuber/tailscale-deep-dive-why-developers-are-ditching-traditional-vpns-413h)
-- [I built a Visual NPM Package Manager for VS Code](https://dev.to/luisssc/i-built-a-visual-npm-package-manager-for-vs-code-32ap)
+- [Sending a Million Rows from the Backend: Streaming, Batching, Compression &amp; Protocol Buffers](https://dev.to/ishaaan/sending-a-million-rows-from-the-backend-streaming-batching-compression-protocol-buffers-535)
+- [How to Automate Screenshots in Your CI/CD Pipeline](https://dev.to/custodiaadmin/how-to-automate-screenshots-in-your-cicd-pipeline-4mlj)
+- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
+- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
+- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
