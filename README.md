@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Worker Threads in Node.js: When and How to Use Them](https://dev.to/young_gao/worker-threads-in-nodejs-when-and-how-to-use-them-2jdm)
-- [Beyond the Video: AI for Thumbnails, Titles, and SEO](https://dev.to/ken_deng_ai/beyond-the-video-ai-for-thumbnails-titles-and-seo-2j5g)
-- [StratifyAI: Building an AI-Powered Project Manager](https://dev.to/bhargav_bhamare_4371e67ab/stratifyai-building-an-ai-powered-project-manager-2cgm)
-- [I built a personal knowledge base for developers in 2 days—here&#39;s what I learned](https://dev.to/samm2767/i-built-a-personal-knowledge-base-for-developers-in-2-days-heres-what-i-learned-m21)
-- [Building Reliable Webhook Delivery: Retries, Signatures, and Failure Handling](https://dev.to/young_gao/building-reliable-webhook-delivery-retries-signatures-and-failure-handling-40ff)
+- [Crypto Spent $10M Trying to Win an Illinois Primary. 90% of It Failed. Here&#39;s What Actually Works.](https://dev.to/humanpagesai/crypto-spent-10m-trying-to-win-an-illinois-primary-90-of-it-failed-heres-what-actually-works-2n5b)
+- [What Is HTTP Observatory? A Useful Tool for Checking Your Website](https://dev.to/khurram_alikhan_716deca7/what-is-http-observatory-a-useful-tool-for-checking-your-website-5796)
+- [Best Artificial Intelligence Projects with Source Code in Python &lpar;2026&rpar;](https://dev.to/kalyan_ymts_14be0680020fd/best-artificial-intelligence-projects-with-source-code-in-python-2026-3abl)
+- [LSB: A Lightweight Scalable BlockChain for IoT Security and Privacy](https://dev.to/paperium/lsb-a-lightweight-scalable-blockchain-for-iot-security-and-privacy-lg0)
+- [Rate Limiting Your API: Token Bucket, Sliding Window, and Redis](https://dev.to/young_gao/rate-limiting-your-api-token-bucket-sliding-window-and-redis-277c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
