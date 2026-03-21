@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox vs Nutanix vs VMware: The Post-Broadcom Constraints No One Explains](https://dev.to/ntctech/proxmox-vs-nutanix-vs-vmware-the-post-broadcom-constraints-no-one-explains-1j8p)
+- [The Coding Mentor That Knows Your Weaknesses Better Than You Do](https://dev.to/bonamukkala_charan_7f2af4/the-coding-mentor-that-knows-your-weaknesses-better-than-you-do-4bff)
+- [Why I Ditched Modern Frameworks for a High-Performance Multilingual Utility &lpar;100/100 Lighthouse&rpar;](https://dev.to/barkodkarekod/why-i-ditched-modern-frameworks-for-a-high-performance-multilingual-utility-100100-lighthouse-4eoa)
+- [Senior Devs Don’t Just Catch Errors—They Manage Them](https://dev.to/gavin_hemsada_e40424b9d48/senior-devs-dont-just-catch-errors-they-manage-them-47hl)
 - [I Needed a Dashboard. Claude Built It in an Hour.](https://dev.to/jonathanblessing/i-needed-a-dashboard-claude-built-it-in-an-hour-1885)
-- [Find the Maximum and Minimum Element in the Array](https://dev.to/s_a_r_a/find-the-maximum-and-minimum-element-in-the-array-4lci)
-- [1,000 AI Agents. Real Probes. Real Payment Endpoints.](https://dev.to/nathanielc85523/1000-ai-agents-real-probes-real-payment-endpoints-47p7)
-- [API Integration: Meaning, Types, Examples &amp; Real-World Use Cases](https://dev.to/ashish-unizo/api-integration-meaning-types-examples-real-world-use-cases-3lci)
-- [Remove Duplicates from a Sorted Linked List](https://dev.to/christina_sharons_2b3205/remove-duplicates-from-a-sorted-linked-list-1mjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
