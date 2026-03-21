@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4)
-- [Angular - Power Of Renderer2](https://dev.to/krivanek06/angular-power-of-renderer2-3ap8)
-- [Introducing helping-js v2: A Zero-Dependency Utility Library to Level Up Your App](https://dev.to/parsajiravand/introducing-helping-js-v2-a-zero-dependency-utility-library-to-level-up-your-app-5cip)
-- [I built my first website in 2004. Here&#39;s what I wish someone had told me.](https://dev.to/fedya_serafiev/i-built-my-first-website-in-2004-heres-what-i-wish-someone-had-told-me-3jg1)
-- [Why I Shipped a Linux Desktop App as an AppImage &lpar;and Skipped Snap/Flatpak&rpar;](https://dev.to/jamie_folsom_fc88c37582d8/why-i-shipped-a-linux-desktop-app-as-an-appimage-and-skipped-snapflatpak-53kb)
+- [🚀 Resume Feedback Is Easy — Until You Try Making It Context-Aware](https://dev.to/charmi_gajula_f6a83fd455b/resume-feedback-is-easy-until-you-try-making-it-context-aware-2bl6)
+- [I Replaced a €2000/month Marketing Stack with 10 Free n8n Workflows](https://dev.to/nevik_schmidt_3635afa2b85/i-replaced-a-eu2000month-marketing-stack-with-10-free-n8n-workflows-4am7)
+- [Input Validation in TypeScript APIs: Zod vs Joi vs Class-Validator](https://dev.to/young_gao/input-validation-in-typescript-apis-zod-vs-joi-vs-class-validator-2gcg)
+- [15 Best Lightweight Language Models Worth Running in 2026](https://dev.to/jaipalsingh/15-best-lightweight-language-models-worth-running-in-2026-297g)
+- [Agent Diagnostics Mode — A Structured Technique for Iterative Prompt Tuning](https://dev.to/gemyago/agent-diagnostics-mode-a-structured-technique-for-iterative-prompt-tuning-hg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
