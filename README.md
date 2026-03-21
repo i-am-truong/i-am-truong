@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Container Image Updates with FluxCD &lpar;Hands-On Tutorial&rpar;](https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k)
-- [FluxCD Image Automation Error Troubleshooting](https://dev.to/pilgrim2go/fluxcd-image-automation-error-troubleshooting-1el2)
-- [Building a CLI Tool in Rust: From Zero to Published on crates.io](https://dev.to/young_gao/building-a-cli-tool-in-rust-from-zero-to-published-on-cratesio-2pam)
-- [AI Agents Are Replacing Developers? My Honest Experience Using Them](https://dev.to/vishaluttammane/ai-agents-are-replacing-developers-my-honest-experience-using-them-3mig)
-- [Angular Cheat Sheet for Beginners &lpar;Quick Revision Guide&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/angular-cheat-sheet-for-beginners-quick-revision-guide-5cjc)
+- [I Joined My First Job and the Homepage Took Forever to Load](https://dev.to/deadlocker/i-joined-my-first-job-and-the-homepage-took-forever-to-load-e9o)
+- [Variables in JavaScript 101](https://dev.to/petrina_ropra_c885fb9f234/variables-in-javascript-101-3elf)
+- [The Junior Developer Crisis of 2026: AI Is Creating Developers Who Can’t Debug](https://dev.to/rakshath/the-junior-developer-crisis-of-2026-ai-is-creating-developers-who-cant-debug-33od)
+- [Linux Fundamentals for Data Engineering](https://dev.to/abdiomari/linux-fundamentals-for-data-engineering-4gh2)
+- [I got mass-DM&#39;d by my teammate&#39;s Claude Code and honestly? It was great.](https://dev.to/agentdm/i-got-mass-dmd-by-my-teammates-claude-code-and-honestly-it-was-great-38l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
