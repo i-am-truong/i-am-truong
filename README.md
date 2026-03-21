@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BDD in Practice: Where Given/When/Then Actually Helps](https://dev.to/naina_garg/bdd-in-practice-where-givenwhenthen-actually-helps-2nd)
-- [The Review Gap](https://dev.to/thesythesis/the-review-gap-16ff)
-- [Amazing Web Design Portfolios for 2026 to Inspire Your Next Project](https://dev.to/hr21don/amazing-web-design-portfolios-for-2026-to-inspire-your-next-project-c13)
-- [Java Virtual Threads in 2025: Scalable I/O Without Async Hell &lpar;and the Real Limits&rpar;](https://dev.to/jagdish_salgotra_e253b2d3/java-virtual-threads-in-2025-scalable-io-without-async-hell-and-the-real-limits-p64)
-- [Measuring What Matters: Rethinking Serverless Workflows with AWS Lambda Durable Functions](https://dev.to/aws-builders/measuring-what-matters-rethinking-serverless-workflows-with-aws-lambda-durable-functions-406l)
+- [Sort 0s, 1s and 2s](https://dev.to/anjana_rk_fbdea7abbdf13/sort-0s-1s-and-2s-4lh7)
+- [Design that goes beyond visuals](https://dev.to/artynexdev/design-that-goes-beyond-visuals-jo0)
+- [Building an AI Coding Practice Mentor with Persistent Memory using Hindsight](https://dev.to/smd_tabraiz_b19dfc71b51db/building-an-ai-coding-practice-mentor-with-persistent-memory-using-hindsight-d1k)
+- [Git is too complex for everyday office work, so I built a simpler alternative. &lpar;Beta + Free Passes 🎟️&rpar;](https://dev.to/kuse-create/git-is-too-complex-for-everyday-office-work-so-i-built-a-simpler-alternative-beta-free-passes-46o2)
+- [Kth Smallest Element in an Array](https://dev.to/anjana_rk_fbdea7abbdf13/kth-smallest-element-in-an-array-46bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
