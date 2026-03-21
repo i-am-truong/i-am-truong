@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced Google Drive with a Home Server That Costs Almost Nothing](https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l)
-- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
-- [The Agent Memory Problem &lpar;And How I Solved It Without a Database&rpar;](https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad)
-- [Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story](https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o)
-- [Your AI Agents Are Running Wild — Here&#39;s How to Take Back Control](https://dev.to/gokhan_ozer/your-ai-agents-are-running-wild-heres-how-to-take-back-control-1fc8)
+- [Distributed Tracing with OpenTelemetry: A Practical Guide for Go Services](https://dev.to/young_gao/distributed-tracing-with-opentelemetry-a-practical-guide-for-go-services-pep)
+- [How I Built a Serverless IoT Pipeline on AWS](https://dev.to/foldedodin/how-i-built-a-serverless-iot-pipeline-on-aws-49c)
+- [Flutter Interview Questions Part 3: State Management Deep Dive](https://dev.to/anurag_dev/flutter-interview-questions-part-3-state-management-deep-dive-1d6i)
+- [Your AI Agent Says All Tests Pass. Your App Is Still Broken](https://dev.to/kensave/your-ai-agent-says-all-tests-pass-your-app-is-still-broken-4jbe)
+- [Azure AI Agent Function Calling: Connect Your Agent to APIs with Terraform 🔌](https://dev.to/suhas_mallesh/azure-ai-agent-function-calling-connect-your-agent-to-apis-with-terraform-3fg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
