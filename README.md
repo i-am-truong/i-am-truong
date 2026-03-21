@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Graceful Shutdown in Node.js: Stop Dropping Requests](https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p)
+- [Typography System Guide](https://dev.to/alansdead/typography-system-guide-42b8)
+- [BullMQ Job Queues: Background Processing in Node.js Done Right](https://dev.to/young_gao/bullmq-job-queues-background-processing-in-nodejs-done-right-5306)
 - [🚀 Resume Feedback Is Easy — Until You Try Making It Context-Aware](https://dev.to/charmi_gajula_f6a83fd455b/resume-feedback-is-easy-until-you-try-making-it-context-aware-2bl6)
-- [I Replaced a €2000/month Marketing Stack with 10 Free n8n Workflows](https://dev.to/nevik_schmidt_3635afa2b85/i-replaced-a-eu2000month-marketing-stack-with-10-free-n8n-workflows-4am7)
-- [Input Validation in TypeScript APIs: Zod vs Joi vs Class-Validator](https://dev.to/young_gao/input-validation-in-typescript-apis-zod-vs-joi-vs-class-validator-2gcg)
-- [15 Best Lightweight Language Models Worth Running in 2026](https://dev.to/jaipalsingh/15-best-lightweight-language-models-worth-running-in-2026-297g)
-- [Agent Diagnostics Mode — A Structured Technique for Iterative Prompt Tuning](https://dev.to/gemyago/agent-diagnostics-mode-a-structured-technique-for-iterative-prompt-tuning-hg8)
+- [Role-Based Access Control &lpar;RBAC&rpar; in Node.js: Beyond Simple Admin Checks](https://dev.to/young_gao/role-based-access-control-rbac-in-nodejs-beyond-simple-admin-checks-1ea9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
