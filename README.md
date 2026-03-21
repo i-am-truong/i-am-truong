@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sort 0s, 1s and 2s](https://dev.to/anjana_rk_fbdea7abbdf13/sort-0s-1s-and-2s-4lh7)
-- [Design that goes beyond visuals](https://dev.to/artynexdev/design-that-goes-beyond-visuals-jo0)
-- [Building an AI Coding Practice Mentor with Persistent Memory using Hindsight](https://dev.to/smd_tabraiz_b19dfc71b51db/building-an-ai-coding-practice-mentor-with-persistent-memory-using-hindsight-d1k)
-- [Git is too complex for everyday office work, so I built a simpler alternative. &lpar;Beta + Free Passes 🎟️&rpar;](https://dev.to/kuse-create/git-is-too-complex-for-everyday-office-work-so-i-built-a-simpler-alternative-beta-free-passes-46o2)
-- [Kth Smallest Element in an Array](https://dev.to/anjana_rk_fbdea7abbdf13/kth-smallest-element-in-an-array-46bi)
+- [Understanding Seq2Seq Neural Networks – Part 7: Generating the Output with Softmax](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-7-generating-the-output-with-softmax-387i)
+- [9 Developer Utilities You Can Add to Claude Desktop in 30 Seconds](https://dev.to/profiterole/9-developer-utilities-you-can-add-to-claude-desktop-in-30-seconds-4140)
+- [How I Built and Deployed a Free Email Validation API with Python and FastAPI](https://dev.to/willivan0706/how-i-built-and-deployed-a-free-email-validation-api-with-python-and-fastapi-39lc)
+- [Agents vs Workflows: A Decision Framework for 2026](https://dev.to/nebulagg/agents-vs-workflows-a-decision-framework-for-2026-19ab)
+- [Top 6 Secrets Management Tools for Devs in 2026](https://dev.to/nebulagg/top-6-secrets-management-tools-for-devs-in-2026-4ahe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
