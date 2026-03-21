@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [uignore — a .gitignore for AI coding tools](https://dev.to/geekfarmer/uignore-a-gitignore-for-ai-coding-tools-3h7)
-- [MSV Protocol Launches Proof-of-Asset Integrity to Strengthen Real-World Asset Tokenisation as RWA Adoption Accelerates](https://dev.to/aloycwl/msv-protocol-launches-proof-of-asset-integrity-to-strengthen-real-world-asset-tokenisation-as-rwa-28h6)
-- [Find Minimum and maximum in an array](https://dev.to/jaya_srij_c37a6ea796335c/find-minimum-and-maximum-in-an-array-4i7l)
-- [Why I Started Splitting Planning, Implementation, Testing, and Documentation in AI Workflows](https://dev.to/riclara/why-i-started-splitting-planning-implementation-testing-and-documentation-in-ai-workflows-1a65)
-- [How I Built a Production Android Document Scanner in Kotlin — The Hard Parts Nobody Talks About](https://dev.to/a_bitabovebytes_bd82186/how-i-built-a-production-android-document-scanner-in-kotlin-the-hard-parts-nobody-talks-about-4dj3)
+- [I Needed a Dashboard. Claude Built It in an Hour.](https://dev.to/jonathanblessing/i-needed-a-dashboard-claude-built-it-in-an-hour-1885)
+- [Find the Maximum and Minimum Element in the Array](https://dev.to/s_a_r_a/find-the-maximum-and-minimum-element-in-the-array-4lci)
+- [1,000 AI Agents. Real Probes. Real Payment Endpoints.](https://dev.to/nathanielc85523/1000-ai-agents-real-probes-real-payment-endpoints-47p7)
+- [API Integration: Meaning, Types, Examples &amp; Real-World Use Cases](https://dev.to/ashish-unizo/api-integration-meaning-types-examples-real-world-use-cases-3lci)
+- [Remove Duplicates from a Sorted Linked List](https://dev.to/christina_sharons_2b3205/remove-duplicates-from-a-sorted-linked-list-1mjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
