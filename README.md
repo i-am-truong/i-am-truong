@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
-- [Cloud Cost Optimization in the Age of AI Workloads: A Practical Guide for Engineering Leads](https://dev.to/mcrolly/cloud-cost-optimization-in-the-age-of-ai-workloads-a-practical-guide-for-engineering-leads-2lh7)
-- [TypeScript Utility Types Complete Guide](https://dev.to/muhammadlutf1/typescript-utility-types-complete-guide-agl)
-- [We Tracked 20 Tech Trends Across Real Data Sources. Here&#39;s What&#39;s Actually Hot Right Now.](https://dev.to/edperlman/we-tracked-20-tech-trends-across-real-data-sources-heres-whats-actually-hot-right-now-52ji)
-- [5 Dangerous Lies Behind Viral AI Coding Demos That Break in Production](https://dev.to/deepak_mishra_35863517037/5-dangerous-lies-behind-viral-ai-coding-demos-that-break-in-production-160m)
+- [Go beyond Django&#39;s built-in auth — learn JWT, custom email login, role-based permissions, and brute-force protection.](https://dev.to/sribalu_sribalu_2e2394502/go-beyond-djangos-built-in-auth-learn-jwt-custom-email-login-role-based-permissions-and-28e2)
+- [Tempo VS Ethereum Account Abstraction: What Actually Differs](https://dev.to/jadeofwallstreet/tempo-vs-ethereum-account-abstraction-what-actually-differs-28pc)
+- [Adding trade guards to a grid bot: gas ratio, price impact, stop-loss, and inventory skew](https://dev.to/jmolinasoler/adding-trade-guards-to-a-grid-bot-gas-ratio-price-impact-stop-loss-and-inventory-skew-12db)
+- [How to Write Effective Agent Skills for Claude](https://dev.to/alextdev/how-to-write-effective-agent-skills-for-claude-2opb)
+- [Every Kubernetes Concept Has a Story](https://dev.to/livingdevops/every-kubernetes-concept-has-a-story-49g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
