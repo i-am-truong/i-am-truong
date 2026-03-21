@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Collaborative Book Platform Where the Community Decides What Gets Published - No Admins, No Gatekeepers](https://dev.to/artanidos/i-built-a-collaborative-book-platform-where-the-community-decides-what-gets-published-no-admins-4h6b)
+- [OpenTelemetry just standardized LLM tracing. Here&#39;s what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
+- [What&#39;s Device Fingerprinting?](https://dev.to/shadai_scott/whats-device-fingerprinting-1bmi)
+- [Building Huntertech.io - Vendor Insights Platform](https://dev.to/jonathanrhunter/building-huntertechio-vendor-insights-platform-225c)
 - [What is MCP?](https://dev.to/evanlausier/what-is-mcp-443b)
-- [I Built a Framework That Makes AI Ask Questions Before Writing Any Code](https://dev.to/muhammadhamidraza/i-built-a-framework-that-makes-ai-ask-questions-before-writing-any-code-16e4)
-- [[Boost]](https://dev.to/anthonymax/-1pdo)
-- [The best AI workbench is not an IDE](https://dev.to/supejuice/the-best-ai-workbench-is-not-an-ide-3c9d)
-- [Explainable Causal Reinforcement Learning for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-in-5dl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
