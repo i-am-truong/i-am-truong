@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Taught My Coding Agent to Remember Mistakes](https://dev.to/raghavendra_prasaddg_1bb/i-taught-my-coding-agent-to-remember-mistakes-48c)
+- [Distributed Tracing in ML Pipelines: From Preprocessing to Inference](https://dev.to/erythix_6d20050c4f1039b32/distributed-tracing-in-ml-pipelines-from-preprocessing-to-inference-1a76)
+- [5 Psychological Traps That Lose Traders Money &lpar;And How to Escape Them&rpar;](https://dev.to/ottoaria/5-psychological-traps-that-lose-traders-money-and-how-to-escape-them-odp)
+- [I Rebuilt My Developer Portfolio with Nuxt 4 + Strapi and Made It Open Source](https://dev.to/hbollon/i-rebuilt-my-developer-portfolio-with-nuxt-4-strapi-and-made-it-open-source-cnh)
 - [I Built an AI-Powered News Digest That Runs Itself for $5/Month — Here&#39;s How](https://dev.to/n74459944web/i-built-an-ai-powered-news-digest-that-runs-itself-for-5month-heres-how-3p29)
-- [API Design 101: The Ultimate Guide to Building APIs That Don&#39;t Suck](https://dev.to/ishaaan/api-design-101-the-ultimate-guide-to-building-apis-that-dont-suck-ohf)
-- [How to Build a Static Site Calculator with Zero Dependencies](https://dev.to/profiterole/how-to-build-a-static-site-calculator-with-zero-dependencies-gmo)
-- [Your CI/CD Pipeline is a Dumpster Fire — Here&#39;s the Extinguisher 🧯](https://dev.to/sanjaysundarmurthy/your-cicd-pipeline-is-a-dumpster-fire-heres-the-extinguisher-1kp0)
-- [The End of the Demo Phase: Securing AI Infrastructure in the Enterprise](https://dev.to/alifunk/the-end-of-the-demo-phase-securing-ai-infrastructure-in-the-enterprise-2l0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
