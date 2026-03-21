@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Joined My First Job and the Homepage Took Forever to Load](https://dev.to/deadlocker/i-joined-my-first-job-and-the-homepage-took-forever-to-load-e9o)
-- [Variables in JavaScript 101](https://dev.to/petrina_ropra_c885fb9f234/variables-in-javascript-101-3elf)
-- [The Junior Developer Crisis of 2026: AI Is Creating Developers Who Can’t Debug](https://dev.to/rakshath/the-junior-developer-crisis-of-2026-ai-is-creating-developers-who-cant-debug-33od)
-- [Linux Fundamentals for Data Engineering](https://dev.to/abdiomari/linux-fundamentals-for-data-engineering-4gh2)
-- [I got mass-DM&#39;d by my teammate&#39;s Claude Code and honestly? It was great.](https://dev.to/agentdm/i-got-mass-dmd-by-my-teammates-claude-code-and-honestly-it-was-great-38l5)
+- [I Replaced Google Drive with a Home Server That Costs Almost Nothing](https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l)
+- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
+- [The Agent Memory Problem &lpar;And How I Solved It Without a Database&rpar;](https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad)
+- [Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story](https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o)
+- [Your AI Agents Are Running Wild — Here&#39;s How to Take Back Control](https://dev.to/gokhan_ozer/your-ai-agents-are-running-wild-heres-how-to-take-back-control-1fc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
