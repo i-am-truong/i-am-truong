@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Graceful Shutdown in Node.js: Stop Dropping Requests](https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p)
-- [Typography System Guide](https://dev.to/alansdead/typography-system-guide-42b8)
-- [BullMQ Job Queues: Background Processing in Node.js Done Right](https://dev.to/young_gao/bullmq-job-queues-background-processing-in-nodejs-done-right-5306)
-- [🚀 Resume Feedback Is Easy — Until You Try Making It Context-Aware](https://dev.to/charmi_gajula_f6a83fd455b/resume-feedback-is-easy-until-you-try-making-it-context-aware-2bl6)
-- [Role-Based Access Control &lpar;RBAC&rpar; in Node.js: Beyond Simple Admin Checks](https://dev.to/young_gao/role-based-access-control-rbac-in-nodejs-beyond-simple-admin-checks-1ea9)
+- [Log 02: The Sample Data Struggle &amp; The &quot;Wildcard&quot; Trap](https://dev.to/codebasejournal/log-02-the-sample-data-struggle-the-wildcard-trap-5hp)
+- [Managing SEO &amp; Metadata in React with react-meta-hooks](https://dev.to/satishjaiswal/managing-seo-metadata-in-react-with-react-meta-hooks-flb)
+- [An AI Agent Caused a Data Breach at Meta. Here&#39;s What Went Wrong.](https://dev.to/claudiobasckeira/an-ai-agent-caused-a-data-breach-at-meta-heres-what-went-wrong-45hj)
+- [Why Most People Use ChatGPT Wrong &lpar;And What to Do Instead&rpar;](https://dev.to/aioperator2026/why-most-people-use-chatgpt-wrong-and-what-to-do-instead-4cem)
+- [Interface definition has never been so important!](https://dev.to/paulopozeti/interface-definition-has-never-been-so-important-3p18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
