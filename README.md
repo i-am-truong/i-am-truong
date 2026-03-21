@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Just Renamed the SysOps Exam and Nobody Noticed — Here&#39;s What SOA-C03 Actually Tests Now](https://dev.to/andy_youtube_371fe0c1a37e/aws-just-renamed-the-sysops-exam-and-nobody-noticed-heres-what-soa-c03-actually-tests-now-3he6)
-- [Adversarial Attacks and Defenses in Deep Learning Systems: Threats, Mechanisms, and Countermeasures](https://dev.to/kamolchanoksaengtong/adversarial-attacks-and-defenses-in-deep-learning-systems-threats-mechanisms-and-countermeasures-6jn)
-- [Flores amarillas](https://dev.to/efner_jhoeldiaz_f0bcaa63/flores-amarillas-3j8)
-- [Spec-Driven Development Changes Everything](https://dev.to/christie304/spec-driven-development-changes-everything-3en6)
-- [Task 3: Delivery Man Task](https://dev.to/jaya_srij_c37a6ea796335c/task-3-delivery-man-task-ak)
+- [Ephemeral Database Branches in CI/CD: A Practical Guide to Per-PR Environments at Scale](https://dev.to/manualwise/ephemeral-database-branches-in-cicd-a-practical-guide-to-per-pr-environments-at-scale-2g6l)
+- [Parallel Worlds in the EU #devchallenge](https://dev.to/southy404/parallel-worlds-in-the-eu-devchallenge-4eae)
+- [How We Stopped Fighting Enterprise Auth and Read Calendars With a URL](https://dev.to/kgpraveen/how-we-stopped-fighting-enterprise-auth-and-read-calendars-with-a-url-1ang)
+- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
+- [Production Challenges with SSE](https://dev.to/saras_growth_space/production-challenges-with-sse-3k7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
