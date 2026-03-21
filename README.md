@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sending a Million Rows from the Backend: Streaming, Batching, Compression &amp; Protocol Buffers](https://dev.to/ishaaan/sending-a-million-rows-from-the-backend-streaming-batching-compression-protocol-buffers-535)
-- [How to Automate Screenshots in Your CI/CD Pipeline](https://dev.to/custodiaadmin/how-to-automate-screenshots-in-your-cicd-pipeline-4mlj)
-- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
-- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
-- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
+- [I Built an AI-Powered News Digest That Runs Itself for $5/Month — Here&#39;s How](https://dev.to/n74459944web/i-built-an-ai-powered-news-digest-that-runs-itself-for-5month-heres-how-3p29)
+- [API Design 101: The Ultimate Guide to Building APIs That Don&#39;t Suck](https://dev.to/ishaaan/api-design-101-the-ultimate-guide-to-building-apis-that-dont-suck-ohf)
+- [How to Build a Static Site Calculator with Zero Dependencies](https://dev.to/profiterole/how-to-build-a-static-site-calculator-with-zero-dependencies-gmo)
+- [Your CI/CD Pipeline is a Dumpster Fire — Here&#39;s the Extinguisher 🧯](https://dev.to/sanjaysundarmurthy/your-cicd-pipeline-is-a-dumpster-fire-heres-the-extinguisher-1kp0)
+- [The End of the Demo Phase: Securing AI Infrastructure in the Enterprise](https://dev.to/alifunk/the-end-of-the-demo-phase-securing-ai-infrastructure-in-the-enterprise-2l0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
