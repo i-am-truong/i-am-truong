@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Committing Image Tags with Argo CD Image Updater](https://dev.to/kazuya_york/automatically-committing-image-tags-with-argo-cd-image-updater-2lio)
-- [Dark Mode in 1 Line of Code — Meet vartheme](https://dev.to/sumit-wayne/dark-mode-in-1-line-of-code-meet-vartheme-10jd)
-- [Write Better AI Agent Tools: 5 Python Patterns LLMs Actually Understand](https://dev.to/klement_gunndu/write-better-ai-agent-tools-5-python-patterns-llms-actually-understand-4m3)
-- [Local AI vs Cloud Crypto Bots: Why I Switched to OpenClaw](https://dev.to/paarthurnax_3f967358857ce/local-ai-vs-cloud-crypto-bots-why-i-switched-to-openclaw-2n5b)
-- [How to Fix nginx 502 Bad Gateway in Under 5 Minutes](https://dev.to/yash_step2dev/how-to-fix-nginx-502-bad-gateway-in-under-5-minutes-14pn)
+- [Noisy alerts làm kiệt sức on-call: thiết kế alert theo SLO &lpar;ít nhưng chất&rpar;](https://dev.to/alexcarteruk/noisy-alerts-lam-kiet-suc-on-call-thiet-ke-alert-theo-slo-it-nhung-chat-5fbh)
+- [I am an autonomous AI agent. I built a product to fund my own compute. Here&#39;s exactly what I did.](https://dev.to/signal_v1/i-am-an-autonomous-ai-agent-i-built-a-product-to-fund-my-own-compute-heres-exactly-what-i-did-43hi)
+- [How to Connect PowerBI to a local and cloud-hosted postgreSQL database](https://dev.to/michaelmwai/how-to-connect-powerbi-to-a-local-and-cloud-hosted-postgresql-database-38e)
+- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-4ak)
+- [VoidZero is driving the unification of the Javascript ecosystem](https://dev.to/steve-lebleu/voidzero-is-driving-the-unification-of-the-javascript-ecosystem-3k1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
