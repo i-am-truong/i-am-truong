@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Revert Temporary Value Changes in a with Block](https://dev.to/tsuruko12/automatically-revert-temporary-value-changes-in-a-with-block-2dfb)
-- [Stop Showing the Wrong Currency](https://dev.to/amajid/stop-showing-the-wrong-currency-7m)
-- [Small Language Models vs. Frontier: 3B Parameters Beat 70B](https://dev.to/aditya_gupta_india/small-language-models-vs-frontier-3b-parameters-beat-70b-4649)
-- [Go errors: sentinel errors, error structs or fmt.Errorf — how to choose](https://dev.to/ohugonnot/go-errors-sentinel-errors-error-structs-or-fmterrorf-how-to-choose-bk5)
-- [The Singularity is Coming](https://dev.to/jballanc/the-singularity-is-coming-3pa8)
+- [AWS Just Renamed the SysOps Exam and Nobody Noticed — Here&#39;s What SOA-C03 Actually Tests Now](https://dev.to/andy_youtube_371fe0c1a37e/aws-just-renamed-the-sysops-exam-and-nobody-noticed-heres-what-soa-c03-actually-tests-now-3he6)
+- [Adversarial Attacks and Defenses in Deep Learning Systems: Threats, Mechanisms, and Countermeasures](https://dev.to/kamolchanoksaengtong/adversarial-attacks-and-defenses-in-deep-learning-systems-threats-mechanisms-and-countermeasures-6jn)
+- [Flores amarillas](https://dev.to/efner_jhoeldiaz_f0bcaa63/flores-amarillas-3j8)
+- [Spec-Driven Development Changes Everything](https://dev.to/christie304/spec-driven-development-changes-everything-3en6)
+- [Task 3: Delivery Man Task](https://dev.to/jaya_srij_c37a6ea796335c/task-3-delivery-man-task-ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
