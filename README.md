@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BDD in Practice: Where Given/When/Then Actually Helps](https://dev.to/naina_garg/bdd-in-practice-where-givenwhenthen-actually-helps-2nd)
 - [The Review Gap](https://dev.to/thesythesis/the-review-gap-16ff)
 - [Amazing Web Design Portfolios for 2026 to Inspire Your Next Project](https://dev.to/hr21don/amazing-web-design-portfolios-for-2026-to-inspire-your-next-project-c13)
 - [Java Virtual Threads in 2025: Scalable I/O Without Async Hell &lpar;and the Real Limits&rpar;](https://dev.to/jagdish_salgotra_e253b2d3/java-virtual-threads-in-2025-scalable-io-without-async-hell-and-the-real-limits-p64)
 - [Measuring What Matters: Rethinking Serverless Workflows with AWS Lambda Durable Functions](https://dev.to/aws-builders/measuring-what-matters-rethinking-serverless-workflows-with-aws-lambda-durable-functions-406l)
-- [How to Make Money with Python Automation in 2025](https://dev.to/caper_dev/how-to-make-money-with-python-automation-in-2025-15jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
