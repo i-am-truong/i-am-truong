@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cellular Automata Explorer in WebAssembly — Here Are 21 Visual Experiments](https://dev.to/jsamwrites/i-built-a-cellular-automata-explorer-in-webassembly-here-are-21-visual-experiments-376o)
-- [How to choose between free trial, freemium, and paid pilot &lpar;without guessing&rpar;](https://dev.to/alichherawalla/how-to-choose-between-free-trial-freemium-and-paid-pilot-without-guessing-35p1)
-- [How to stop leaving 11-17% of your revenue on the table](https://dev.to/alichherawalla/how-to-stop-leaving-11-17-of-your-revenue-on-the-table-3mme)
-- [How to tell if your growth problem is a pricing problem](https://dev.to/alichherawalla/how-to-tell-if-your-growth-problem-is-a-pricing-problem-3470)
-- [How to test your pricing in one afternoon &lpar;instead of guessing for 6 months&rpar;](https://dev.to/alichherawalla/how-to-test-your-pricing-in-one-afternoon-instead-of-guessing-for-6-months-ai4)
+- [What is MCP?](https://dev.to/evanlausier/what-is-mcp-443b)
+- [I Built a Framework That Makes AI Ask Questions Before Writing Any Code](https://dev.to/muhammadhamidraza/i-built-a-framework-that-makes-ai-ask-questions-before-writing-any-code-16e4)
+- [[Boost]](https://dev.to/anthonymax/-1pdo)
+- [The best AI workbench is not an IDE](https://dev.to/supejuice/the-best-ai-workbench-is-not-an-ide-3c9d)
+- [Explainable Causal Reinforcement Learning for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-in-5dl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
