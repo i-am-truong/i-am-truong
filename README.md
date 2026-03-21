@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase 2.0 Beginner Tutorial - Chapter 2: Data Modeling](https://dev.to/nocobase/nocobase-20-beginner-tutorial-chapter-2-data-modeling-32fb)
-- [Stop Paying for Slop: A Deterministic Middleware for LLM Token Optimization](https://dev.to/rosspeili/stop-paying-for-slop-a-deterministic-middleware-for-llm-token-optimization-51o7)
-- [My Coding Bot Stopped Repeating Itself After I Added Hindsight Memory](https://dev.to/shalini_mk_151cbd50f6dec0/my-coding-bot-stopped-repeating-itself-after-i-added-hindsight-memory-4mo9)
-- [A deterministic alternative to embedding-based repo understanding](https://dev.to/avi_bro/a-deterministic-alternative-to-embedding-based-repo-understanding-2k5j)
-- [Feedback needed for my 12yo project that I completely re-wrote this year.](https://dev.to/vnatco/feedback-needed-for-my-12yo-project-that-i-completely-re-wrote-this-year-4im2)
+- [API Response Optimization](https://dev.to/gavin_hemsada_e40424b9d48/api-response-optimization-7de)
+- [Next Permutation Explained Step by Step](https://dev.to/christina_sharons_2b3205/next-permutation-explained-step-by-step-47oc)
+- [Build a Privacy-First Image Compressor That Runs Entirely in Your Browser](https://dev.to/profiterole/build-a-privacy-first-image-compressor-that-runs-entirely-in-your-browser-m6c)
+- [# Containerization and Container Orchestration](https://dev.to/bruyo/-containerization-and-container-orchestration-54po)
+- [Kadane’s Algorithm: Finding the Maximum Subarray Sum](https://dev.to/christina_sharons_2b3205/kadanes-algorithm-finding-the-maximum-subarray-sum-hl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
