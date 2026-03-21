@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [API Response Optimization](https://dev.to/gavin_hemsada_e40424b9d48/api-response-optimization-7de)
-- [Next Permutation Explained Step by Step](https://dev.to/christina_sharons_2b3205/next-permutation-explained-step-by-step-47oc)
-- [Build a Privacy-First Image Compressor That Runs Entirely in Your Browser](https://dev.to/profiterole/build-a-privacy-first-image-compressor-that-runs-entirely-in-your-browser-m6c)
-- [# Containerization and Container Orchestration](https://dev.to/bruyo/-containerization-and-container-orchestration-54po)
-- [Kadane’s Algorithm: Finding the Maximum Subarray Sum](https://dev.to/christina_sharons_2b3205/kadanes-algorithm-finding-the-maximum-subarray-sum-hl9)
+- [uignore — a .gitignore for AI coding tools](https://dev.to/geekfarmer/uignore-a-gitignore-for-ai-coding-tools-3h7)
+- [MSV Protocol Launches Proof-of-Asset Integrity to Strengthen Real-World Asset Tokenisation as RWA Adoption Accelerates](https://dev.to/aloycwl/msv-protocol-launches-proof-of-asset-integrity-to-strengthen-real-world-asset-tokenisation-as-rwa-28h6)
+- [Find Minimum and maximum in an array](https://dev.to/jaya_srij_c37a6ea796335c/find-minimum-and-maximum-in-an-array-4i7l)
+- [Why I Started Splitting Planning, Implementation, Testing, and Documentation in AI Workflows](https://dev.to/riclara/why-i-started-splitting-planning-implementation-testing-and-documentation-in-ai-workflows-1a65)
+- [How I Built a Production Android Document Scanner in Kotlin — The Hard Parts Nobody Talks About](https://dev.to/a_bitabovebytes_bd82186/how-i-built-a-production-android-document-scanner-in-kotlin-the-hard-parts-nobody-talks-about-4dj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
