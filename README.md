@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Spent $10M Trying to Win an Illinois Primary. 90% of It Failed. Here&#39;s What Actually Works.](https://dev.to/humanpagesai/crypto-spent-10m-trying-to-win-an-illinois-primary-90-of-it-failed-heres-what-actually-works-2n5b)
-- [What Is HTTP Observatory? A Useful Tool for Checking Your Website](https://dev.to/khurram_alikhan_716deca7/what-is-http-observatory-a-useful-tool-for-checking-your-website-5796)
-- [Best Artificial Intelligence Projects with Source Code in Python &lpar;2026&rpar;](https://dev.to/kalyan_ymts_14be0680020fd/best-artificial-intelligence-projects-with-source-code-in-python-2026-3abl)
-- [LSB: A Lightweight Scalable BlockChain for IoT Security and Privacy](https://dev.to/paperium/lsb-a-lightweight-scalable-blockchain-for-iot-security-and-privacy-lg0)
-- [Rate Limiting Your API: Token Bucket, Sliding Window, and Redis](https://dev.to/young_gao/rate-limiting-your-api-token-bucket-sliding-window-and-redis-277c)
+- [Why I Shipped a Linux Desktop App as an AppImage &lpar;and Skipped Snap/Flatpak&rpar;](https://dev.to/jamie_folsom_fc88c37582d8/why-i-shipped-a-linux-desktop-app-as-an-appimage-and-skipped-snapflatpak-53kb)
+- [How I Built a SaaS in a Weekend That Replaces Google Alerts](https://dev.to/mplacona/how-i-built-a-saas-in-a-weekend-that-replaces-google-alerts-240d)
+- [I Used Skill Creator v2 to Improve One of My Agent Skills in VS Code](https://dev.to/debs_obrien/i-used-skill-creator-v2-to-improve-one-of-my-agent-skills-in-vs-code-fhd)
+- [Hey Dev.to! I built a visual stack builder to stop wasting hours on stack decisions](https://dev.to/stagevia_dev/hey-devto-i-built-a-visual-stack-builder-to-stop-wasting-hours-on-stack-decisions-5fcc)
+- [Claude Code vs Goose: Why This Free AI Coding Agent is Making Developers Rethink the $200/Month Option](https://dev.to/ajay_kumar_1daef5fe089885/claude-code-vs-goose-why-this-free-ai-coding-agent-is-making-developers-rethink-the-200month-307i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
