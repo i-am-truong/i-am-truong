@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Taught My Coding Agent to Remember Mistakes](https://dev.to/raghavendra_prasaddg_1bb/i-taught-my-coding-agent-to-remember-mistakes-48c)
-- [Distributed Tracing in ML Pipelines: From Preprocessing to Inference](https://dev.to/erythix_6d20050c4f1039b32/distributed-tracing-in-ml-pipelines-from-preprocessing-to-inference-1a76)
-- [5 Psychological Traps That Lose Traders Money &lpar;And How to Escape Them&rpar;](https://dev.to/ottoaria/5-psychological-traps-that-lose-traders-money-and-how-to-escape-them-odp)
-- [I Rebuilt My Developer Portfolio with Nuxt 4 + Strapi and Made It Open Source](https://dev.to/hbollon/i-rebuilt-my-developer-portfolio-with-nuxt-4-strapi-and-made-it-open-source-cnh)
-- [I Built an AI-Powered News Digest That Runs Itself for $5/Month — Here&#39;s How](https://dev.to/n74459944web/i-built-an-ai-powered-news-digest-that-runs-itself-for-5month-heres-how-3p29)
+- [Automatically Committing Image Tags with Argo CD Image Updater](https://dev.to/kazuya_york/automatically-committing-image-tags-with-argo-cd-image-updater-2lio)
+- [Dark Mode in 1 Line of Code — Meet vartheme](https://dev.to/sumit-wayne/dark-mode-in-1-line-of-code-meet-vartheme-10jd)
+- [Write Better AI Agent Tools: 5 Python Patterns LLMs Actually Understand](https://dev.to/klement_gunndu/write-better-ai-agent-tools-5-python-patterns-llms-actually-understand-4m3)
+- [Local AI vs Cloud Crypto Bots: Why I Switched to OpenClaw](https://dev.to/paarthurnax_3f967358857ce/local-ai-vs-cloud-crypto-bots-why-i-switched-to-openclaw-2n5b)
+- [How to Fix nginx 502 Bad Gateway in Under 5 Minutes](https://dev.to/yash_step2dev/how-to-fix-nginx-502-bad-gateway-in-under-5-minutes-14pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
