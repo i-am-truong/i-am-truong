@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox vs Nutanix vs VMware: The Post-Broadcom Constraints No One Explains](https://dev.to/ntctech/proxmox-vs-nutanix-vs-vmware-the-post-broadcom-constraints-no-one-explains-1j8p)
-- [The Coding Mentor That Knows Your Weaknesses Better Than You Do](https://dev.to/bonamukkala_charan_7f2af4/the-coding-mentor-that-knows-your-weaknesses-better-than-you-do-4bff)
-- [Why I Ditched Modern Frameworks for a High-Performance Multilingual Utility &lpar;100/100 Lighthouse&rpar;](https://dev.to/barkodkarekod/why-i-ditched-modern-frameworks-for-a-high-performance-multilingual-utility-100100-lighthouse-4eoa)
-- [Senior Devs Don’t Just Catch Errors—They Manage Them](https://dev.to/gavin_hemsada_e40424b9d48/senior-devs-dont-just-catch-errors-they-manage-them-47hl)
-- [I Needed a Dashboard. Claude Built It in an Hour.](https://dev.to/jonathanblessing/i-needed-a-dashboard-claude-built-it-in-an-hour-1885)
+- [I discovered a way to create a saveable YouTube Music playlist from any list of video IDs — no OAuth, no login required](https://dev.to/roshan_jaiswal_b3fb04eb75/i-discovered-a-way-to-create-a-saveable-youtube-music-playlist-from-any-list-of-video-ids-no-40nn)
+- [Will AI Take Your Job?](https://dev.to/abhip_me/will-ai-take-your-job-2032)
+- [Move All Negative Elements to end](https://dev.to/s_a_r_a/move-all-negative-elements-to-end-1lc2)
+- [AI Citation Registries and Timestamp Signal Failure in AI Interpretation](https://dev.to/aigistry/ai-citation-registries-and-timestamp-signal-failure-in-ai-interpretation-fc1)
+- [Getting Started with Seal Report: Building Your First Data Table from SQL Server](https://dev.to/vladg_dev/getting-started-with-seal-report-building-your-first-data-table-from-sql-server-140g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
