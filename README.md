@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [npm Registry API: Discover Packages in Any Tech Niche &lpar;No Key Needed&rpar;](https://dev.to/__8ef7243a4f/npm-registry-api-discover-packages-in-any-tech-niche-no-key-needed-3c72)
-- [The SOLID Principles are Universal](https://dev.to/remojansen/the-solid-principles-are-universal-1c9m)
-- [Building a SaaS at 16 &#39;BookChap&#39;](https://dev.to/adools/building-a-saas-at-16-bookchap-1jn3)
-- [Building AI-Powered Healthcare Appeals: A Three-Stage Architecture Guide](https://dev.to/michaelnikitin/building-ai-powered-healthcare-appeals-a-three-stage-architecture-guide-4f7)
-- [Email validation in production: regex, MX, SMTP, and the trade-offs nobody tells you](https://dev.to/padymies/how-to-validate-emails-properly-in-your-app-beyond-regex-1e9g)
+- [The 6th SOLID Principle?](https://dev.to/remojansen/the-6th-solid-principle-4hjp)
+- [Rotifer v0.5.5: Foundation Hardening — Fixing Four Critical Gaps Before They Become Real Problems](https://dev.to/rotiferdev/rotifer-v055-foundation-hardening-fixing-four-critical-gaps-before-they-become-real-problems-m81)
+- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI &amp; Prepare Your DevOps Environment &lpar;Part 2&rpar;](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5)
+- [How a corruption, sanctioned company got a $480M contract to build Chile&#39;s national ID system and broke it](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4)
+- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
