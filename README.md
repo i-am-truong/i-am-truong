@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Tracing with OpenTelemetry: A Practical Guide for Go Services](https://dev.to/young_gao/distributed-tracing-with-opentelemetry-a-practical-guide-for-go-services-pep)
-- [How I Built a Serverless IoT Pipeline on AWS](https://dev.to/foldedodin/how-i-built-a-serverless-iot-pipeline-on-aws-49c)
-- [Flutter Interview Questions Part 3: State Management Deep Dive](https://dev.to/anurag_dev/flutter-interview-questions-part-3-state-management-deep-dive-1d6i)
-- [Your AI Agent Says All Tests Pass. Your App Is Still Broken](https://dev.to/kensave/your-ai-agent-says-all-tests-pass-your-app-is-still-broken-4jbe)
-- [Azure AI Agent Function Calling: Connect Your Agent to APIs with Terraform 🔌](https://dev.to/suhas_mallesh/azure-ai-agent-function-calling-connect-your-agent-to-apis-with-terraform-3fg1)
+- [Worker Threads in Node.js: When and How to Use Them](https://dev.to/young_gao/worker-threads-in-nodejs-when-and-how-to-use-them-2jdm)
+- [Beyond the Video: AI for Thumbnails, Titles, and SEO](https://dev.to/ken_deng_ai/beyond-the-video-ai-for-thumbnails-titles-and-seo-2j5g)
+- [StratifyAI: Building an AI-Powered Project Manager](https://dev.to/bhargav_bhamare_4371e67ab/stratifyai-building-an-ai-powered-project-manager-2cgm)
+- [I built a personal knowledge base for developers in 2 days—here&#39;s what I learned](https://dev.to/samm2767/i-built-a-personal-knowledge-base-for-developers-in-2-days-heres-what-i-learned-m21)
+- [Building Reliable Webhook Delivery: Retries, Signatures, and Failure Handling](https://dev.to/young_gao/building-reliable-webhook-delivery-retries-signatures-and-failure-handling-40ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
