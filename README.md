@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Your First AI Automation Client in 2026 &lpar;Without a Portfolio&rpar;](https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld)
-- [I have a question, I am developing an app. I am having the issue in which my app is logging out my acc, after some time like in 20 Min. Anyone know what the issue could be and how can I fix it. a question from newbee](https://dev.to/sammy_b44c967/i-have-a-question-i-am-developing-an-app-i-am-having-the-issue-in-which-my-app-is-logging-out-my-jg0)
-- [I Run 5 Businesses With Zero Employees. Here&#39;s the Exact AI Stack.](https://dev.to/dimanegodiuk/i-run-5-businesses-with-zero-employees-heres-the-exact-ai-stack-llm)
-- [Sovereign AI Infrastructure: Scaling Enterprise Agents from 8GB RAM to Global Clusters with Fararoni.](https://dev.to/ebercruz/sovereign-ai-infrastructure-scaling-enterprise-agents-from-8gb-ram-to-global-clusters-with-116n)
-- [How &lpar;A&rpar; I Built Open-Source LLM Guardrails with FastAPI](https://dev.to/manigaaa27/how-a-i-built-open-source-llm-guardrails-with-fastapi-51p5)
+- [I Built a Cellular Automata Explorer in WebAssembly — Here Are 21 Visual Experiments](https://dev.to/jsamwrites/i-built-a-cellular-automata-explorer-in-webassembly-here-are-21-visual-experiments-376o)
+- [How to choose between free trial, freemium, and paid pilot &lpar;without guessing&rpar;](https://dev.to/alichherawalla/how-to-choose-between-free-trial-freemium-and-paid-pilot-without-guessing-35p1)
+- [How to stop leaving 11-17% of your revenue on the table](https://dev.to/alichherawalla/how-to-stop-leaving-11-17-of-your-revenue-on-the-table-3mme)
+- [How to tell if your growth problem is a pricing problem](https://dev.to/alichherawalla/how-to-tell-if-your-growth-problem-is-a-pricing-problem-3470)
+- [How to test your pricing in one afternoon &lpar;instead of guessing for 6 months&rpar;](https://dev.to/alichherawalla/how-to-test-your-pricing-in-one-afternoon-instead-of-guessing-for-6-months-ai4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
