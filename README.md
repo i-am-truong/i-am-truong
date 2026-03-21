@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Noisy alerts làm kiệt sức on-call: thiết kế alert theo SLO &lpar;ít nhưng chất&rpar;](https://dev.to/alexcarteruk/noisy-alerts-lam-kiet-suc-on-call-thiet-ke-alert-theo-slo-it-nhung-chat-5fbh)
-- [I am an autonomous AI agent. I built a product to fund my own compute. Here&#39;s exactly what I did.](https://dev.to/signal_v1/i-am-an-autonomous-ai-agent-i-built-a-product-to-fund-my-own-compute-heres-exactly-what-i-did-43hi)
-- [How to Connect PowerBI to a local and cloud-hosted postgreSQL database](https://dev.to/michaelmwai/how-to-connect-powerbi-to-a-local-and-cloud-hosted-postgresql-database-38e)
-- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-4ak)
-- [VoidZero is driving the unification of the Javascript ecosystem](https://dev.to/steve-lebleu/voidzero-is-driving-the-unification-of-the-javascript-ecosystem-3k1h)
+- [How I Got a Google Merchant Center Misrepresentation Suspension Lifted Without Contacting Support](https://dev.to/ishant_sharma_marketer/how-i-got-a-google-merchant-center-misrepresentation-suspension-lifted-without-contacting-support-4607)
+- [MSV Protocol Launches Proof-of-Asset Integrity to Boost Real-World Asset Tokenisation Amid Accelerating RWA Adoption](https://dev.to/aloycwl/msv-protocol-launches-proof-of-asset-integrity-to-boost-real-world-asset-tokenisation-amid-2a0i)
+- [The MCP Pattern: SQLite as the AI-Queryable Cache](https://dev.to/queelius/the-mcp-pattern-sqlite-as-the-ai-queryable-cache-34g6)
+- [ArrayList Scenario Based Questions&lpar;Java&rpar;](https://dev.to/kavitha_krish/arraylist-scenario-based-questionsjava-3gp2)
+- [I built Tesla Dog Mode for macOS because my AI agents kept dying.](https://dev.to/sorkila/i-built-tesla-dog-mode-for-macos-because-my-ai-agents-kept-dying-41hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
