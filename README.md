@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NocoBase 2.0 Beginner Tutorial - Chapter 2: Data Modeling](https://dev.to/nocobase/nocobase-20-beginner-tutorial-chapter-2-data-modeling-32fb)
+- [Stop Paying for Slop: A Deterministic Middleware for LLM Token Optimization](https://dev.to/rosspeili/stop-paying-for-slop-a-deterministic-middleware-for-llm-token-optimization-51o7)
+- [My Coding Bot Stopped Repeating Itself After I Added Hindsight Memory](https://dev.to/shalini_mk_151cbd50f6dec0/my-coding-bot-stopped-repeating-itself-after-i-added-hindsight-memory-4mo9)
+- [A deterministic alternative to embedding-based repo understanding](https://dev.to/avi_bro/a-deterministic-alternative-to-embedding-based-repo-understanding-2k5j)
 - [Feedback needed for my 12yo project that I completely re-wrote this year.](https://dev.to/vnatco/feedback-needed-for-my-12yo-project-that-i-completely-re-wrote-this-year-4im2)
-- [Invisible Character Bugs](https://dev.to/kuldeepdev407/invisible-character-bugs-2cek)
-- [Audio Chunking for Long-Form Transcription: Splitting and Stitching with ffmpeg + TypeScript](https://dev.to/nareshipme/audio-chunking-for-long-form-transcription-splitting-and-stitching-with-ffmpeg-typescript-3ing)
-- [Stable Metrics, Unstable Systems Most AI systems don’t fail loudly,they shift quiet](https://dev.to/hollowhouse/stable-metrics-unstable-systems-most-ai-systems-dont-fail-loudlythey-shift-quiet-3cgg)
-- [How I Used Anki to &quot;GET CRACKED&quot;](https://dev.to/coronado03/how-i-used-anki-to-get-cracked-3a5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
