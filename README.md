@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4)
+- [Angular - Power Of Renderer2](https://dev.to/krivanek06/angular-power-of-renderer2-3ap8)
+- [Introducing helping-js v2: A Zero-Dependency Utility Library to Level Up Your App](https://dev.to/parsajiravand/introducing-helping-js-v2-a-zero-dependency-utility-library-to-level-up-your-app-5cip)
+- [I built my first website in 2004. Here&#39;s what I wish someone had told me.](https://dev.to/fedya_serafiev/i-built-my-first-website-in-2004-heres-what-i-wish-someone-had-told-me-3jg1)
 - [Why I Shipped a Linux Desktop App as an AppImage &lpar;and Skipped Snap/Flatpak&rpar;](https://dev.to/jamie_folsom_fc88c37582d8/why-i-shipped-a-linux-desktop-app-as-an-appimage-and-skipped-snapflatpak-53kb)
-- [How I Built a SaaS in a Weekend That Replaces Google Alerts](https://dev.to/mplacona/how-i-built-a-saas-in-a-weekend-that-replaces-google-alerts-240d)
-- [I Used Skill Creator v2 to Improve One of My Agent Skills in VS Code](https://dev.to/debs_obrien/i-used-skill-creator-v2-to-improve-one-of-my-agent-skills-in-vs-code-fhd)
-- [Hey Dev.to! I built a visual stack builder to stop wasting hours on stack decisions](https://dev.to/stagevia_dev/hey-devto-i-built-a-visual-stack-builder-to-stop-wasting-hours-on-stack-decisions-5fcc)
-- [Claude Code vs Goose: Why This Free AI Coding Agent is Making Developers Rethink the $200/Month Option](https://dev.to/ajay_kumar_1daef5fe089885/claude-code-vs-goose-why-this-free-ai-coding-agent-is-making-developers-rethink-the-200month-307i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
