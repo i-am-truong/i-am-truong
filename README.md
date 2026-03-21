@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Collaborative Book Platform Where the Community Decides What Gets Published - No Admins, No Gatekeepers](https://dev.to/artanidos/i-built-a-collaborative-book-platform-where-the-community-decides-what-gets-published-no-admins-4h6b)
-- [OpenTelemetry just standardized LLM tracing. Here&#39;s what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
-- [What&#39;s Device Fingerprinting?](https://dev.to/shadai_scott/whats-device-fingerprinting-1bmi)
-- [Building Huntertech.io - Vendor Insights Platform](https://dev.to/jonathanrhunter/building-huntertechio-vendor-insights-platform-225c)
-- [What is MCP?](https://dev.to/evanlausier/what-is-mcp-443b)
+- [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
+- [Cloud Cost Optimization in the Age of AI Workloads: A Practical Guide for Engineering Leads](https://dev.to/mcrolly/cloud-cost-optimization-in-the-age-of-ai-workloads-a-practical-guide-for-engineering-leads-2lh7)
+- [TypeScript Utility Types Complete Guide](https://dev.to/muhammadlutf1/typescript-utility-types-complete-guide-agl)
+- [We Tracked 20 Tech Trends Across Real Data Sources. Here&#39;s What&#39;s Actually Hot Right Now.](https://dev.to/edperlman/we-tracked-20-tech-trends-across-real-data-sources-heres-whats-actually-hot-right-now-52ji)
+- [5 Dangerous Lies Behind Viral AI Coding Demos That Break in Production](https://dev.to/deepak_mishra_35863517037/5-dangerous-lies-behind-viral-ai-coding-demos-that-break-in-production-160m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
