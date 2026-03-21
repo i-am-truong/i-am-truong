@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ephemeral Database Branches in CI/CD: A Practical Guide to Per-PR Environments at Scale](https://dev.to/manualwise/ephemeral-database-branches-in-cicd-a-practical-guide-to-per-pr-environments-at-scale-2g6l)
-- [Parallel Worlds in the EU #devchallenge](https://dev.to/southy404/parallel-worlds-in-the-eu-devchallenge-4eae)
-- [How We Stopped Fighting Enterprise Auth and Read Calendars With a URL](https://dev.to/kgpraveen/how-we-stopped-fighting-enterprise-auth-and-read-calendars-with-a-url-1ang)
-- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
-- [Production Challenges with SSE](https://dev.to/saras_growth_space/production-challenges-with-sse-3k7g)
+- [Feedback needed for my 12yo project that I completely re-wrote this year.](https://dev.to/vnatco/feedback-needed-for-my-12yo-project-that-i-completely-re-wrote-this-year-4im2)
+- [Invisible Character Bugs](https://dev.to/kuldeepdev407/invisible-character-bugs-2cek)
+- [Audio Chunking for Long-Form Transcription: Splitting and Stitching with ffmpeg + TypeScript](https://dev.to/nareshipme/audio-chunking-for-long-form-transcription-splitting-and-stitching-with-ffmpeg-typescript-3ing)
+- [Stable Metrics, Unstable Systems Most AI systems don’t fail loudly,they shift quiet](https://dev.to/hollowhouse/stable-metrics-unstable-systems-most-ai-systems-dont-fail-loudlythey-shift-quiet-3cgg)
+- [How I Used Anki to &quot;GET CRACKED&quot;](https://dev.to/coronado03/how-i-used-anki-to-get-cracked-3a5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
