@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I discovered a way to create a saveable YouTube Music playlist from any list of video IDs — no OAuth, no login required](https://dev.to/roshan_jaiswal_b3fb04eb75/i-discovered-a-way-to-create-a-saveable-youtube-music-playlist-from-any-list-of-video-ids-no-40nn)
-- [Will AI Take Your Job?](https://dev.to/abhip_me/will-ai-take-your-job-2032)
-- [Move All Negative Elements to end](https://dev.to/s_a_r_a/move-all-negative-elements-to-end-1lc2)
-- [AI Citation Registries and Timestamp Signal Failure in AI Interpretation](https://dev.to/aigistry/ai-citation-registries-and-timestamp-signal-failure-in-ai-interpretation-fc1)
-- [Getting Started with Seal Report: Building Your First Data Table from SQL Server](https://dev.to/vladg_dev/getting-started-with-seal-report-building-your-first-data-table-from-sql-server-140g)
+- [Moves Zeroes](https://dev.to/jaya_srij_c37a6ea796335c/moves-zeroes-3l0)
+- [Podcast to Pinterest: How ClipSmithAI Expands Your Audio Content&#39;s Footprint](https://dev.to/clipsmithai/podcast-to-pinterest-how-clipsmithai-expands-your-audio-contents-footprint-18n6)
+- [Higgs Boson Breakthrough: UK Triumph Overshadowed by Looming Catastrophic Cuts in British Physics](https://dev.to/aloycwl/higgs-boson-breakthrough-uk-triumph-overshadowed-by-looming-catastrophic-cuts-in-british-physics-29ig)
+- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://dev.to/topuzas/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-5aa4)
+- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://dev.to/topuzas/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-384j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
