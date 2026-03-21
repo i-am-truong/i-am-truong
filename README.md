@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 6th SOLID Principle?](https://dev.to/remojansen/the-6th-solid-principle-4hjp)
-- [Rotifer v0.5.5: Foundation Hardening — Fixing Four Critical Gaps Before They Become Real Problems](https://dev.to/rotiferdev/rotifer-v055-foundation-hardening-fixing-four-critical-gaps-before-they-become-real-problems-m81)
-- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI &amp; Prepare Your DevOps Environment &lpar;Part 2&rpar;](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5)
-- [How a corruption, sanctioned company got a $480M contract to build Chile&#39;s national ID system and broke it](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4)
-- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513)
+- [7 Best Semgrep Alternatives for Code Security Scanning in 2026](https://dev.to/rahulxsingh/7-best-semgrep-alternatives-for-code-security-scanning-in-2026-21pi)
+- [How I built an AI SaaS with Next.js, FastAPI, and Dokploy](https://dev.to/julykk/how-i-built-an-ai-saas-with-nextjs-fastapi-and-dokploy-52eo)
+- [Snowflake vs Redshift vs BigQuery: Which One Should You Use?](https://dev.to/neha_christina_1ac8651819/snowflake-vs-redshift-vs-bigquery-which-one-should-you-use-52jf)
+- [Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools](https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03)
+- [Agents in 60 lines of python : Part 3](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-3-1pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
