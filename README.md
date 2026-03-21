@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Moves Zeroes](https://dev.to/jaya_srij_c37a6ea796335c/moves-zeroes-3l0)
-- [Podcast to Pinterest: How ClipSmithAI Expands Your Audio Content&#39;s Footprint](https://dev.to/clipsmithai/podcast-to-pinterest-how-clipsmithai-expands-your-audio-contents-footprint-18n6)
-- [Higgs Boson Breakthrough: UK Triumph Overshadowed by Looming Catastrophic Cuts in British Physics](https://dev.to/aloycwl/higgs-boson-breakthrough-uk-triumph-overshadowed-by-looming-catastrophic-cuts-in-british-physics-29ig)
-- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://dev.to/topuzas/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-5aa4)
-- [Semantic Kernel for Enterprise AI: Architecting Production-Grade LLM Integration in .NET](https://dev.to/topuzas/semantic-kernel-for-enterprise-ai-architecting-production-grade-llm-integration-in-net-384j)
+- [The Review Gap](https://dev.to/thesythesis/the-review-gap-16ff)
+- [Amazing Web Design Portfolios for 2026 to Inspire Your Next Project](https://dev.to/hr21don/amazing-web-design-portfolios-for-2026-to-inspire-your-next-project-c13)
+- [Java Virtual Threads in 2025: Scalable I/O Without Async Hell &lpar;and the Real Limits&rpar;](https://dev.to/jagdish_salgotra_e253b2d3/java-virtual-threads-in-2025-scalable-io-without-async-hell-and-the-real-limits-p64)
+- [Measuring What Matters: Rethinking Serverless Workflows with AWS Lambda Durable Functions](https://dev.to/aws-builders/measuring-what-matters-rethinking-serverless-workflows-with-aws-lambda-durable-functions-406l)
+- [How to Make Money with Python Automation in 2025](https://dev.to/caper_dev/how-to-make-money-with-python-automation-in-2025-15jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
