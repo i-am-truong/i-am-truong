@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Log 02: The Sample Data Struggle &amp; The &quot;Wildcard&quot; Trap](https://dev.to/codebasejournal/log-02-the-sample-data-struggle-the-wildcard-trap-5hp)
-- [Managing SEO &amp; Metadata in React with react-meta-hooks](https://dev.to/satishjaiswal/managing-seo-metadata-in-react-with-react-meta-hooks-flb)
-- [An AI Agent Caused a Data Breach at Meta. Here&#39;s What Went Wrong.](https://dev.to/claudiobasckeira/an-ai-agent-caused-a-data-breach-at-meta-heres-what-went-wrong-45hj)
-- [Why Most People Use ChatGPT Wrong &lpar;And What to Do Instead&rpar;](https://dev.to/aioperator2026/why-most-people-use-chatgpt-wrong-and-what-to-do-instead-4cem)
-- [Interface definition has never been so important!](https://dev.to/paulopozeti/interface-definition-has-never-been-so-important-3p18)
+- [Claude Code Doesn&#39;t Know You&#39;ve Been Gone — Here&#39;s the Fix](https://dev.to/tadmstr/claude-code-doesnt-know-youve-been-gone-heres-the-fix-17ko)
+- [The Autonomous Writer: Experimenting with Self-Evolving System Prompt and Context](https://dev.to/alexdarbyshire/the-autonomous-writer-experimenting-with-self-evolving-system-prompt-and-context-bgf)
+- [Adding Stripe Checkout to a Solo SaaS: Lessons from PatentLLM&#39;s $1K/mo Plan](https://dev.to/soytuber/adding-stripe-checkout-to-a-solo-saas-lessons-from-patentllms-1kmo-plan-1c4d)
+- [Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs](https://dev.to/soytuber/tailscale-deep-dive-why-developers-are-ditching-traditional-vpns-413h)
+- [I built a Visual NPM Package Manager for VS Code](https://dev.to/luisssc/i-built-a-visual-npm-package-manager-for-vs-code-32ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
