@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Got a Google Merchant Center Misrepresentation Suspension Lifted Without Contacting Support](https://dev.to/ishant_sharma_marketer/how-i-got-a-google-merchant-center-misrepresentation-suspension-lifted-without-contacting-support-4607)
-- [MSV Protocol Launches Proof-of-Asset Integrity to Boost Real-World Asset Tokenisation Amid Accelerating RWA Adoption](https://dev.to/aloycwl/msv-protocol-launches-proof-of-asset-integrity-to-boost-real-world-asset-tokenisation-amid-2a0i)
-- [The MCP Pattern: SQLite as the AI-Queryable Cache](https://dev.to/queelius/the-mcp-pattern-sqlite-as-the-ai-queryable-cache-34g6)
-- [ArrayList Scenario Based Questions&lpar;Java&rpar;](https://dev.to/kavitha_krish/arraylist-scenario-based-questionsjava-3gp2)
-- [I built Tesla Dog Mode for macOS because my AI agents kept dying.](https://dev.to/sorkila/i-built-tesla-dog-mode-for-macos-because-my-ai-agents-kept-dying-41hg)
+- [Automatically Revert Temporary Value Changes in a with Block](https://dev.to/tsuruko12/automatically-revert-temporary-value-changes-in-a-with-block-2dfb)
+- [Stop Showing the Wrong Currency](https://dev.to/amajid/stop-showing-the-wrong-currency-7m)
+- [Small Language Models vs. Frontier: 3B Parameters Beat 70B](https://dev.to/aditya_gupta_india/small-language-models-vs-frontier-3b-parameters-beat-70b-4649)
+- [Go errors: sentinel errors, error structs or fmt.Errorf — how to choose](https://dev.to/ohugonnot/go-errors-sentinel-errors-error-structs-or-fmterrorf-how-to-choose-bk5)
+- [The Singularity is Coming](https://dev.to/jballanc/the-singularity-is-coming-3pa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
