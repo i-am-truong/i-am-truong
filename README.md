@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go beyond Django&#39;s built-in auth — learn JWT, custom email login, role-based permissions, and brute-force protection.](https://dev.to/sribalu_sribalu_2e2394502/go-beyond-djangos-built-in-auth-learn-jwt-custom-email-login-role-based-permissions-and-28e2)
-- [Tempo VS Ethereum Account Abstraction: What Actually Differs](https://dev.to/jadeofwallstreet/tempo-vs-ethereum-account-abstraction-what-actually-differs-28pc)
-- [Adding trade guards to a grid bot: gas ratio, price impact, stop-loss, and inventory skew](https://dev.to/jmolinasoler/adding-trade-guards-to-a-grid-bot-gas-ratio-price-impact-stop-loss-and-inventory-skew-12db)
-- [How to Write Effective Agent Skills for Claude](https://dev.to/alextdev/how-to-write-effective-agent-skills-for-claude-2opb)
-- [Every Kubernetes Concept Has a Story](https://dev.to/livingdevops/every-kubernetes-concept-has-a-story-49g2)
+- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
+- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
+- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
+- [U.S. Solar Installations Dropped in 2025 After Trump’s Clean Energy Critique – What It Means for the Future](https://dev.to/aloycwl/us-solar-installations-dropped-in-2025-after-trumps-clean-energy-critique-what-it-means-for-2e5i)
+- [I Built a Redis Alternative in Rust — MnemeCache](https://dev.to/vusalrahimov/i-built-a-redis-alternative-in-rust-mnemecache-1dd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
