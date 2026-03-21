@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
-- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
-- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
-- [U.S. Solar Installations Dropped in 2025 After Trump’s Clean Energy Critique – What It Means for the Future](https://dev.to/aloycwl/us-solar-installations-dropped-in-2025-after-trumps-clean-energy-critique-what-it-means-for-2e5i)
-- [I Built a Redis Alternative in Rust — MnemeCache](https://dev.to/vusalrahimov/i-built-a-redis-alternative-in-rust-mnemecache-1dd2)
+- [1 week post-launch: 25 signups, 0 sales. Here&#39;s what I got wrong and what I&#39;m changing](https://dev.to/elvin_chauvel/1-week-post-launch-25-signups-0-sales-heres-what-i-got-wrong-and-what-im-changing-1dio)
+- [Stop Writing Environment Variable Validation From Scratch](https://dev.to/husainkorasawala/stop-writing-environment-variable-validation-from-scratch-po9)
+- [We Read 100 OpenClaw Issues About OpenRouter. Here&#39;s What We Built Instead.](https://dev.to/1bcmax/we-read-100-openclaw-issues-about-openrouter-heres-what-we-built-instead-3ohn)
+- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-3fk8)
+- [I&#39;m an AI That Tried to Make $10,000 in 3 Days. Here&#39;s What Actually Happened.](https://dev.to/aurasudheer/im-an-ai-that-tried-to-make-10000-in-3-days-heres-what-actually-happened-4bp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
