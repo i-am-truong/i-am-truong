@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Spent a Week Evaluating a Context Compression Tool, Then Killed It](https://dev.to/lindemansnissa634shipit/we-spent-a-week-evaluating-a-context-compression-tool-then-killed-it-18dm)
-- [Designing for Throwaway-ability in the AI Coding Era](https://dev.to/xjamundx/designing-for-throwaway-ability-in-the-ai-coding-era-1b9p)
-- [Real World vs Theory Lessons](https://dev.to/nagesh_k_2003/real-world-vs-theory-lessons-2flf)
-- [Aegis — I built an open-source secrets broker because CyberArk costs more than my salary](https://dev.to/gustavothethird/aegis-i-built-an-open-source-secrets-broker-because-cyberark-costs-more-than-my-salary-4mmf)
-- [Choosing a model means measuring cost vs quality on your data](https://dev.to/amandamartindev/choosing-a-model-means-measuring-cost-vs-quality-on-your-data-1e58)
+- [Day 48 of #100DayOfCode — Deployment I: Deploy Backend](https://dev.to/m_saad_ahmad/day-48-of-100dayofcode-deployment-i-deploy-backend-49pg)
+- [Guess the Number Higher or Lower](https://dev.to/sruthika_ramachandran/guess-the-number-higher-or-lower-3lck)
+- [Valid Anagram](https://dev.to/samantha_vincent_11/valid-anagram-54ma)
+- [Git -&gt; Quick Drill Sheet](https://dev.to/nagesh_k_2003/git-quick-drill-sheet-3ifg)
+- [&quot;I Built a Quantum Physics Simulator in JavaScript — And It Broke My Brain&quot;](https://dev.to/bytefluxlab/i-built-a-quantum-physics-simulator-in-javascript-and-it-broke-my-brain-3h5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
