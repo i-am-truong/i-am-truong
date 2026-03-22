@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [35yo government employee, built real apps with AI, no CS background — realistic 5-year path to software career?](https://dev.to/sanket1015/35yo-government-employee-built-real-apps-with-ai-no-cs-background-realistic-5-year-path-to-p7h)
-- [Number Guessing Game](https://dev.to/santhoshi_mary_88917c3fd9/number-guessing-game-2k48)
-- [Deploying Apache Kafka 4.2.0 on Kubernetes with KRaft, SASL, and High Availability](https://dev.to/giveitatry/deploying-apache-kafka-4x-on-kubernetes-with-kraft-sasl-and-high-availability-3m0k)
-- [Top Web3 Media Platforms](https://dev.to/siribabe/top-web3-media-platforms-m6b)
-- [What is WebMCP? Chrome&#39;s browser-native API for AI agents](https://dev.to/prasannagyde/what-is-webmcp-chromes-browser-native-api-for-ai-agents-2mmc)
+- [Ultimate Guide to Measuring CAC and LTV for Onchain Apps](https://dev.to/yos/ultimate-guide-to-measuring-cac-and-ltv-for-onchain-apps-54p5)
+- [Python Básico para Jornalistas](https://dev.to/anaccortez/python-basico-para-jornalistas-5aac)
+- [Arbitrum Stylus, Layer 2s, and My HackQuest Journey](https://dev.to/prudhviraj/arbitrum-stylus-layer-2s-and-my-hackquest-journey-5ddg)
+- [Istio 핵심 개념 정리](https://dev.to/shingyeongseon/istio-haegsim-gaenyeom-jeongri-g39)
+- [Overcoming Employment Barriers: Strategies for Re-entering the Workforce After a Career Break](https://dev.to/svetlix/overcoming-employment-barriers-strategies-for-re-entering-the-workforce-after-a-career-break-2745)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
