@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built MacDevTools: A One-Command Toolkit for Cleaning Caches, Diagnosing Networks, and Maintaining macOS Dev Environments](https://dev.to/jiangjingzhe/i-built-macdevtools-a-one-command-toolkit-for-cleaning-caches-diagnosing-networks-and-2685)
 - [So, I gave my coding agent direct database access...](https://dev.to/spencerpauly/so-i-gave-my-coding-agent-direct-database-access-33ed)
 - [Day 50: When AI Sub-Agents Hallucinate — A Git-Based Recovery](https://dev.to/mjmuin/day-50-when-ai-sub-agents-hallucinate-a-git-based-recovery-196c)
 - [RowBTC – An Open, Human-Friendly Blockchain Explorer](https://dev.to/daria_frolova_665a393a10d/rowbtc-an-open-human-friendly-blockchain-explorer-2lii)
-- [PostgreSQL and Power BI Integration Guide.](https://dev.to/juliet_kiplimo_b9a825c95a/postgresql-and-power-bi-integration-guide-533)
-- [Optimizing Memory usage with mmap - Phase 6 Mini Malloc](https://dev.to/moonlitpath1/optimizing-memory-usage-with-mmap-phase-6-mini-malloc-16hi)
+- [I Was Confused About Merise for Weeks. Here&#39;s Everything I Learned](https://dev.to/mkbs_alaa/i-was-confused-about-merise-for-weeks-heres-everything-i-learned-4b9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
