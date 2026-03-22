@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Search in Rotated Sorted Array – Python](https://dev.to/manoj_kumar_401fd35052503/search-in-rotated-sorted-array-python-5hfc)
-- [I Built 14 Free Tools for Developers AND People Who Hate Spreadsheets](https://dev.to/sd6tools/i-built-14-free-tools-for-developers-and-people-who-hate-spreadsheets-1ce6)
-- [Stop Fighting Raw ZPL: Building a Modern Zebra Printer Pipeline in Flutter](https://dev.to/tri_dev_dhm/stop-fighting-raw-zpl-building-a-modern-zebra-printer-pipeline-in-flutter-5h0b)
-- [AWS WAF Rate Limiting Based on Origin Response](https://dev.to/aws-builders/aws-waf-rate-limiting-based-on-origin-response-1h5j)
-- [Home Solar Power Monitoring System](https://dev.to/kevinari26/home-solar-power-monitoring-system-project-58oh)
+- [35yo government employee, built real apps with AI, no CS background — realistic 5-year path to software career?](https://dev.to/sanket1015/35yo-government-employee-built-real-apps-with-ai-no-cs-background-realistic-5-year-path-to-p7h)
+- [Number Guessing Game](https://dev.to/santhoshi_mary_88917c3fd9/number-guessing-game-2k48)
+- [Deploying Apache Kafka 4.2.0 on Kubernetes with KRaft, SASL, and High Availability](https://dev.to/giveitatry/deploying-apache-kafka-4x-on-kubernetes-with-kraft-sasl-and-high-availability-3m0k)
+- [Top Web3 Media Platforms](https://dev.to/siribabe/top-web3-media-platforms-m6b)
+- [What is WebMCP? Chrome&#39;s browser-native API for AI agents](https://dev.to/prasannagyde/what-is-webmcp-chromes-browser-native-api-for-ai-agents-2mmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
