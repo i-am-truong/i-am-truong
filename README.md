@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Grade Async Backend with FastAPI, SQLAlchemy, PostgreSQL, and Alembic](https://dev.to/rosewabere/building-a-production-grade-async-backend-with-fastapi-sqlalchemy-postgresql-and-alembic-2ca4)
-- [I Built a Real-Time Space Debris Tracker in a Single HTML File](https://dev.to/shynsec/i-built-a-real-time-space-debris-tracker-in-a-single-html-file-37ii)
-- [A post-mortem on the fastest database breach of 2026 - and the quality gate that would have stopped it cold.](https://dev.to/toniantunovic/a-post-mortem-on-the-fastest-database-breach-of-2026-and-the-quality-gate-that-would-have-stopped-360n)
-- [Adding Browser Automation to CLI-Anything: First MCP Backend Pattern](https://dev.to/furkankoykiran/adding-browser-automation-to-cli-anything-first-mcp-backend-pattern-4bb3)
-- [CLI-Anything&#39;e Tarayıcı Otomasyon Desteği: MCP Backend Pattern İlk Uygulama](https://dev.to/furkankoykiran/cli-anythinge-tarayici-otomasyon-destegi-mcp-backend-pattern-ilk-uygulama-221d)
+- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
+- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
+- [Uh oh... Cloudflare just turned evil](https://dev.to/fabianfrankwerner/uh-oh-cloudflare-just-turned-evil-42pc)
+- [Is this &quot;Nano Banana&quot; image for real?](https://dev.to/lee12/is-this-nano-banana-image-for-real-47f5)
+- [What Happens When You Bring LLMs Into a Semiconductor FAB — 5 ArXiv Papers, Brutally Honest Reviews](https://dev.to/plasmon_imp/what-happens-when-you-bring-llms-into-a-semiconductor-fab-5-arxiv-papers-brutally-honest-reviews-28pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
