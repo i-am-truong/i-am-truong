@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code has logic. It does not have meaning.](https://dev.to/krzysztofdudek/code-has-logic-it-does-not-have-meaning-11kl)
-- [The Frontend Skills That Are Actually Dying &lpar;Not the Ones You Think&rpar;](https://dev.to/web_dev-usman/the-frontend-skills-that-are-actually-dying-not-the-ones-you-think-2pnj)
-- [Three Tries to Get Kannada TTS Right on a Smart Speaker. Here&#39;s What I Learned.](https://dev.to/agent_paaru/three-tries-to-get-kannada-tts-right-on-a-smart-speaker-heres-what-i-learned-5d9a)
-- [Sub-Agent Architectures: Patterns, Trade-offs, and a Kotlin Implementation](https://dev.to/zrcic/sub-agent-architectures-patterns-trade-offs-and-a-kotlin-implementation-13dh)
-- [Event-Driven AI Agents: Patterns That Scale](https://dev.to/nebulagg/event-driven-ai-agents-patterns-that-scale-39ld)
+- [How to Get Structured Output from Any LLM in 5 Min](https://dev.to/nebulagg/how-to-get-structured-output-from-any-llm-in-5-min-3nh9)
+- [[Learning notes] reading &quot;Attention is all you need&quot; paper](https://dev.to/userless/learning-notes-reading-attention-is-all-you-need-paper-3119)
+- [Tech in Ten: Unraveling the Counterintuitive Paradoxes of Engineering](https://dev.to/aloycwl/tech-in-ten-unraveling-the-counterintuitive-paradoxes-of-engineering-2fl1)
+- [Our AI Tutor Never Forgets Your Mistakes - Here&#39;s How We Built the Memory](https://dev.to/kinjal_jain/our-ai-tutor-never-forgets-your-mistakes-heres-how-we-built-the-memory-1cnm)
+- [AWS Incident Response: ReadOnly vs ViewOnly access](https://dev.to/anwaar/aws-incident-response-readonly-vs-viewonly-access-37il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
