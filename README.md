@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [觸覺回饋是什麼？讓科技觸摸你的感受](https://dev.to/_0c004e5fde78250aee362/chu-jue-hui-kui-shi-shi-mo-rang-ke-ji-chu-mo-ni-de-gan-shou-oab)
-- [Give Claude Your Browser Console — It Debugs Like a Real Developer](https://dev.to/emad_omar_5311e0e328be24c/give-claude-your-browser-console-it-debugs-like-a-real-developer-nmn)
-- [Finding First and Last Occurrence of an Element Using Binary Search in Python](https://dev.to/sri_mahalakshmi_a87f9d361/finding-first-and-last-occurrence-of-an-element-using-binary-search-in-python-24jp)
-- [🚀 Stop Writing Scrapers — I Built a Web Data Extractor API with Puppeteer &lpar;Full Code&rpar;](https://dev.to/kushan20070126/stop-writing-scrapers-i-built-a-web-data-extractor-api-with-puppeteer-full-code-1cnj)
-- [CA 03 – Number Guessing Game Leaderboard &lpar;Python&rpar;](https://dev.to/manoj_kumar_401fd35052503/ca-03-number-guessing-game-leaderboard-python-db1)
+- [Free stuck TCP ports in one command — without memorizing `lsof`, `fuser`, and `kill` pipelines](https://dev.to/burakboduroglu/free-stuck-tcp-ports-in-one-command-without-memorizing-lsof-fuser-and-kill-pipelines-32hp)
+- [KMP Native UI Dependency Injection with Koin](https://dev.to/saad4software/kmp-native-ui-dependency-injection-with-koin-4d9c)
+- [A closer look at the SpacetimeDB v2 benchmark: Is it really 23x faster than SQLite?](https://dev.to/tanay/a-closer-look-at-the-spacetimedb-v2-benchmark-is-it-really-23x-faster-than-sqlite-2l9f)
+- [Why Niche Content Wins](https://dev.to/shortformscale/why-niche-content-wins-4eb6)
+- [I Analyzed 38 Claude Code Sessions. Only 0.6% of Tokens Were Actual Code Output.](https://dev.to/lsvishaal/i-analyzed-38-claude-code-sessions-only-06-of-tokens-were-actual-code-output-56li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
