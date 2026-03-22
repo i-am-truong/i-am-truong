@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Array Reverse - CA05](https://dev.to/lokeshwaran_s_db77da73b51/array-reverse-583i)
-- [Move Zeros](https://dev.to/ganga_sriv_b9bfb61d71007/move-zeros-4c8j)
-- [How to Build a Free API with Cloudflare Workers &lpar;Zero Infrastructure Cost&rpar;](https://dev.to/ryu0705/how-to-build-a-free-api-with-cloudflare-workers-zero-infrastructure-cost-3gi)
-- [Stablecoin Mint Path Auditing: A 12-Point Security Checklist After the $25M USR Exploit](https://dev.to/ohmygod/stablecoin-mint-path-auditing-a-12-point-security-checklist-after-the-25m-usr-exploit-3d1e)
-- [How to Unify Onchain and Offchain Data](https://dev.to/yos/how-to-unify-onchain-and-offchain-data-4oha)
+- [Merging Two Sorted Linked Lists](https://dev.to/samantha_vincent_11/merging-two-sorted-linked-lists-c0o)
+- [Self-Refining Agents in Spec-Driven Development](https://dev.to/christie304/self-refining-agents-in-spec-driven-development-j9)
+- [Relaxer](https://dev.to/preetha_vaishnavi_2b82358/relaxer-4ji7)
+- [GDPR for Developers: What German Websites Actually Need](https://dev.to/nevik_schmidt_3635afa2b85/gdpr-for-developers-what-german-websites-actually-need-2h1a)
+- [Move all Negative Elements to End - CA09](https://dev.to/lokeshwaran_s_db77da73b51/move-all-negative-elements-to-end-ca09-f65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
