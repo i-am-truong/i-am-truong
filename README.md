@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Valid Anagram in Python Using Two Methods &lpar;Sorting &amp; Counting&rpar;](https://dev.to/sri_mahalakshmi_a87f9d361/valid-anagram-in-python-using-two-methods-sorting-counting-mm2)
-- [A 3mm Error Breaks Your Match: What 3D Facial Landmarks Do Before the Score Appears](https://dev.to/caracomp/a-3mm-error-breaks-your-match-what-3d-facial-landmarks-do-before-the-score-appears-4p7l)
-- [Kafka vs. RabbitMQ: The Post Office vs. The Time Machine](https://dev.to/ankit_rattan/kafka-vs-rabbitmq-the-post-office-vs-the-time-machine-591f)
-- [🔵 Sort 0s, 1s and 2s &lpar;Dutch National Flag Algorithm&rpar;](https://dev.to/shnavin/sort-0s-1s-and-2s-dutch-national-flag-algorithm-3ooi)
-- [I Built a Paid API That AI Agents Use Autonomously](https://dev.to/dun999/i-built-a-paid-api-that-ai-agents-use-autonomously-182g)
+- [觸覺回饋是什麼？讓科技觸摸你的感受](https://dev.to/_0c004e5fde78250aee362/chu-jue-hui-kui-shi-shi-mo-rang-ke-ji-chu-mo-ni-de-gan-shou-oab)
+- [Give Claude Your Browser Console — It Debugs Like a Real Developer](https://dev.to/emad_omar_5311e0e328be24c/give-claude-your-browser-console-it-debugs-like-a-real-developer-nmn)
+- [Finding First and Last Occurrence of an Element Using Binary Search in Python](https://dev.to/sri_mahalakshmi_a87f9d361/finding-first-and-last-occurrence-of-an-element-using-binary-search-in-python-24jp)
+- [🚀 Stop Writing Scrapers — I Built a Web Data Extractor API with Puppeteer &lpar;Full Code&rpar;](https://dev.to/kushan20070126/stop-writing-scrapers-i-built-a-web-data-extractor-api-with-puppeteer-full-code-1cnj)
+- [CA 03 – Number Guessing Game Leaderboard &lpar;Python&rpar;](https://dev.to/manoj_kumar_401fd35052503/ca-03-number-guessing-game-leaderboard-python-db1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
