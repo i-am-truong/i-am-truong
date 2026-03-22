@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Steam! ... almost.](https://dev.to/drunnells/steam-almost-26pn)
-- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-2cnd)
-- [ASP.NET Core startup validation part 4](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-part-4-597d)
-- [AI Can Speed Up Code Review — but Merge Decisions Still Need Deterministic Guardrails](https://dev.to/mvtavares/ai-can-speed-up-code-review-but-merge-decisions-still-need-deterministic-guardrails-2l85)
-- [Top 6 AI Agent Memory Frameworks for Devs &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-agent-memory-frameworks-for-devs-2026-1fef)
+- [Building a Production-Grade Async Backend with FastAPI, SQLAlchemy, PostgreSQL, and Alembic](https://dev.to/rosewabere/building-a-production-grade-async-backend-with-fastapi-sqlalchemy-postgresql-and-alembic-2ca4)
+- [I Built a Real-Time Space Debris Tracker in a Single HTML File](https://dev.to/shynsec/i-built-a-real-time-space-debris-tracker-in-a-single-html-file-37ii)
+- [A post-mortem on the fastest database breach of 2026 - and the quality gate that would have stopped it cold.](https://dev.to/toniantunovic/a-post-mortem-on-the-fastest-database-breach-of-2026-and-the-quality-gate-that-would-have-stopped-360n)
+- [Adding Browser Automation to CLI-Anything: First MCP Backend Pattern](https://dev.to/furkankoykiran/adding-browser-automation-to-cli-anything-first-mcp-backend-pattern-4bb3)
+- [CLI-Anything&#39;e Tarayıcı Otomasyon Desteği: MCP Backend Pattern İlk Uygulama](https://dev.to/furkankoykiran/cli-anythinge-tarayici-otomasyon-destegi-mcp-backend-pattern-ilk-uygulama-221d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
