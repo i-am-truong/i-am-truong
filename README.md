@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Claude Code plugin for brand building in a weekend. Here&#39;s what I shipped and what I learned.](https://dev.to/jgerton/i-built-a-claude-code-plugin-for-brand-building-in-a-weekend-heres-what-i-shipped-and-what-i-2lng)
-- [CA 13 - Move Zeros](https://dev.to/suruthika_635f93a26b450ac/ca-13-move-zeros-3eb9)
-- [Introducing MoltenDB: A Local-First, Pure Rust Database for the Browser and Server](https://dev.to/maximilian_both_50a58f2dc/introducing-moltendb-a-local-first-pure-rust-database-for-the-browser-and-server-5ael)
-- [ihatepdf.cv vs iLovePDF vs Smallpdf vs Adobe Acrobat — An Honest Comparison &lpar;2026&rpar;](https://dev.to/pranav_mailarpawar_7039f2/ihatepdfcv-vs-ilovepdf-vs-smallpdf-vs-adobe-acrobat-an-honest-comparison-2026-54mm)
-- [I built an open-source orchestration engine for multi-agent AI – Fulcrum](https://dev.to/yaaha007/i-built-an-open-source-orchestration-engine-for-multi-agent-ai-fulcrum-424j)
+- [Top 5 MongoDB monitoring tools every team should use in 2026](https://dev.to/finny_collins/top-5-mongodb-monitoring-tools-every-team-should-use-in-2026-31he)
+- [Weekly Challenge #4 : Still Taking Challenges 💥](https://dev.to/bingkahu/weekly-challenge-4-still-taking-challenges-kb3)
+- [OpenClaw vs 3Commas vs Cryptohopper: The Honest Comparison](https://dev.to/paarthurnax_3f967358857ce/openclaw-vs-3commas-vs-cryptohopper-the-honest-comparison-2ekf)
+- [The Crypto AI Agent Stack That Costs $0/Month to Run](https://dev.to/paarthurnax_3f967358857ce/the-crypto-ai-agent-stack-that-costs-0month-to-run-49d8)
+- [CA 23 - Remove Duplicates in Sorted Linked List](https://dev.to/suruthika_635f93a26b450ac/ca-23-remove-duplicates-in-sorted-linked-list-3doo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
