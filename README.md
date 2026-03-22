@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rotifer v0.6.5: Cross-Binding Proof — How We Validated IR Portability Without Deploying to a Blockchain](https://dev.to/rotiferdev/rotifer-v065-cross-binding-proof-how-we-validated-ir-portability-without-deploying-to-a-3loa)
-- [Why the FAQ Section Quietly Builds Trust &lpar;Even If Users Don’t Read It&rpar;](https://dev.to/bhavin-allinonetools/why-the-faq-section-quietly-builds-trust-even-if-users-dont-read-it-5d66)
-- [I wrote 66 community answers so you can see which freelance problems actually get engagement](https://dev.to/landolio/i-wrote-66-community-answers-so-you-can-see-which-freelance-problems-actually-get-engagement-2n5k)
-- [Day 0 - Payroll Admin to Ethical Hacker](https://dev.to/rudth/day-0-payroll-admin-to-ethical-hacker-4l6a)
-- [How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj)
+- [You have to invite them in](https://dev.to/mark0_617b45cda9782a/you-have-to-invite-them-in-g8b)
+- [Using LLMs to do security analysis at the git diff level — what works, what doesn&#39;t, and why structured output matters](https://dev.to/diffsense/using-llms-to-do-security-analysis-at-the-git-diff-level-what-works-what-doesnt-and-why-2a14)
+- [How I Built &lpar;and Why I Use&rpar; an SEO Pricing Calculator — The Developer&#39;s Perspective on Agency Profit Math](https://dev.to/jitendriya_tripathy_85b0e/how-i-built-and-why-i-use-an-seo-pricing-calculator-the-developers-perspective-on-agency-42be)
+- [🌿Why Ecological &amp; Biological Assessment Matters More Than Ever](https://dev.to/ecobio_774fb34996f06a3aaa/why-ecological-biological-assessment-matters-more-than-ever-2me0)
+- [🌿Why Ecological &amp; Biological Assessment Matters More Than Ever](https://dev.to/ecological_0d58e4cc49d832/why-ecological-biological-assessment-matters-more-than-ever-5bef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
