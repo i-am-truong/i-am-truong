@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First Touch UTM, Referral Attribution &amp; User Acquisition](https://dev.to/yos/first-touch-utm-referral-attribution-user-acquisition-283p)
-- [How to Track Where Your Web3 Users Come From &lpar;7 Steps to Onchain Attribution&rpar;](https://dev.to/yos/how-to-track-where-your-web3-users-come-from-7-steps-to-onchain-attribution-1i9d)
-- [Top 10 KPIs Every Web3 Product Leader Should Monitor](https://dev.to/yos/top-10-kpis-every-web3-product-leader-should-monitor-5gok)
-- [10 Critical Web3 Product Metrics for Early-Stage Growth](https://dev.to/yos/10-critical-web3-product-metrics-for-early-stage-growth-589b)
-- [A Beginner&#39;s Guide to Web Development: Getting Started](https://dev.to/fadil/a-beginners-guide-to-web-development-getting-started-1bb)
+- [Array Reverse - CA05](https://dev.to/lokeshwaran_s_db77da73b51/array-reverse-583i)
+- [Move Zeros](https://dev.to/ganga_sriv_b9bfb61d71007/move-zeros-4c8j)
+- [How to Build a Free API with Cloudflare Workers &lpar;Zero Infrastructure Cost&rpar;](https://dev.to/ryu0705/how-to-build-a-free-api-with-cloudflare-workers-zero-infrastructure-cost-3gi)
+- [Stablecoin Mint Path Auditing: A 12-Point Security Checklist After the $25M USR Exploit](https://dev.to/ohmygod/stablecoin-mint-path-auditing-a-12-point-security-checklist-after-the-25m-usr-exploit-3d1e)
+- [How to Unify Onchain and Offchain Data](https://dev.to/yos/how-to-unify-onchain-and-offchain-data-4oha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
