@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to verify any AI agent in one API call — 6 checks, zero config](https://dev.to/thezenmonster/how-to-verify-any-ai-agent-in-one-api-call-6-checks-zero-config-1g1d)
-- [Your AI CLI Writes Code. Mine Tells You What It&#39;ll Break.](https://dev.to/sunilprakash/your-ai-cli-writes-code-mine-tells-you-what-itll-break-296l)
-- [A Small Rollout Plan for Prompt and Model Changes](https://dev.to/optyxstack/a-small-rollout-plan-for-prompt-and-model-changes-2843)
-- [What Is Product-Market Fit? 12 Metrics to Measure It](https://dev.to/yos/what-is-product-market-fit-12-metrics-to-measure-it-277g)
-- [What Is Consumer Crypto? Are Dapps the Future for Consumers?](https://dev.to/yos/what-is-consumer-crypto-are-dapps-the-future-for-consumers-4kk4)
+- [Weekly Reset Log #2 — Progress, Patterns, and Reality Checks](https://dev.to/casperday11/weekly-reset-log-2-progress-patterns-and-reality-checks-4a6a)
+- [How I Actually Use AI to Make Life Better &lpar;Not Just Productive&rpar;](https://dev.to/buonoatsushi/how-i-actually-use-ai-to-make-life-better-not-just-productive-3ip8)
+- [How emberdesk handles your Firestore credentials](https://dev.to/emberdeskapp/how-emberdesk-handles-your-firestore-credentials-348m)
+- [Reverse a Linked List](https://dev.to/s_a_r_a/reverse-a-linked-list-5d3k)
+- [30 DAYS OF SQL - DAY1](https://dev.to/msaud/30-days-of-sql-day1-43f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
