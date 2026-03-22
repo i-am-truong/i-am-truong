@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory](https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3)
-- [Multi-Agent Systems on GCP: Workflow Patterns with ADK and Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-systems-on-gcp-workflow-patterns-with-adk-and-terraform-6dk)
-- [Multi-Agent Orchestration on AWS: Supervisor Pattern with Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-orchestration-on-aws-supervisor-pattern-with-terraform-1e9j)
-- [Amazon Nova Act Deep Dive — Perceive, Act, Deploy: How AWS Built a 90%+ Reliable Browser Agent](https://dev.to/mohammed_anes_6652d05cab7/amazon-nova-act-deep-dive-perceive-act-deploy-how-aws-built-a-90-reliable-browser-agent-4ao6)
-- [Reversing a Linked list](https://dev.to/jaya_srij_c37a6ea796335c/reversing-a-linked-list-a1b)
+- [ANAGRAMS](https://dev.to/abinaya_dhanraj/anagrams-4ce0)
+- [How to Build an AI Agent from Scratch Using Claude API &lpar;With Full Code&rpar;](https://dev.to/dextralabs/how-to-build-an-ai-agent-from-scratch-using-claude-api-with-full-code-4b40)
+- [Move Zeroes to End](https://dev.to/padma_priya_815d0cd613d0c/move-zeroes-to-end-20fc)
+- [WICK-DOM-OBSERVER: The Deterministic Cypress Plugin for Fast Spinners, Blinking Toasts, Optional Overlays, and UI’s Most Wanted](https://dev.to/sebastianclavijo/wick-dom-observer-the-deterministic-cypress-plugin-for-fast-spinners-blinking-toasts-optional-4e59)
+- [Kubernetes CrashLoopBackOff: Root Cause and Fix &lpar;With Real Examples&rpar;](https://dev.to/yash_step2dev/kubernetes-crashloopbackoff-root-cause-and-fix-with-real-examples-5bcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
