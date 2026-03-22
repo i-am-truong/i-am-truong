@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web](https://dev.to/chinedu/building-production-ready-multi-tenant-saas-in-rust-with-actix-web-i1h)
-- [5 things your website is getting wrong &lpar;and how to check for free&rpar;](https://dev.to/bengreenberg/5-things-your-website-is-getting-wrong-and-how-to-check-for-free-22fm)
-- [The First Karpathy Loop for Production Coding Agents](https://dev.to/dean0x/the-first-karpathy-loop-for-production-coding-agents-oc0)
-- [The Dev Journal That Writes Itself &lpar;And Gives You XP&rpar;](https://dev.to/austin_amento_860aebb9f55/the-dev-journal-that-writes-itself-and-gives-you-xp-4232)
-- [Found a Builder-Focused Web3 Challenge &lpar;Kadena&rpar;](https://dev.to/louiz009/found-a-builder-focused-web3-challenge-kadena-5f51)
+- [Steam! ... almost.](https://dev.to/drunnells/steam-almost-26pn)
+- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-2cnd)
+- [ASP.NET Core startup validation part 4](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-part-4-597d)
+- [AI Can Speed Up Code Review — but Merge Decisions Still Need Deterministic Guardrails](https://dev.to/mvtavares/ai-can-speed-up-code-review-but-merge-decisions-still-need-deterministic-guardrails-2l85)
+- [Top 6 AI Agent Memory Frameworks for Devs &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-agent-memory-frameworks-for-devs-2026-1fef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
