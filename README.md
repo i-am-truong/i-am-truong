@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Open Source Tool That Saved Me From Deleting My Production Database &lpar;Again&rpar;](https://dev.to/codexam/i-built-a-free-open-source-tool-that-saved-me-from-deleting-my-production-database-again-1djm)
-- [How can a Junior Developer Defeat an AI?](https://dev.to/mteheran/how-can-a-junior-developer-defeat-an-ai-34ha)
-- [The Trillion-Dollar Contradiction: Why Finance Loves Open Source but Refuses to Trust It](https://dev.to/wittycircuitry/the-trillion-dollar-contradiction-why-finance-loves-open-source-but-refuses-to-trust-it-2mne)
-- [How I Built 7 Shopify Apps as a Solo Developer in Ireland](https://dev.to/jmsdevlab/how-i-built-7-shopify-apps-as-a-solo-developer-in-ireland-2nfp)
-- [Day 49 of #100DayOfCode — Deployment II: Deploy Frontend](https://dev.to/m_saad_ahmad/day-49-of-100dayofcode-deployment-ii-deploy-frontend-5c55)
+- [Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web](https://dev.to/chinedu/building-production-ready-multi-tenant-saas-in-rust-with-actix-web-i1h)
+- [5 things your website is getting wrong &lpar;and how to check for free&rpar;](https://dev.to/bengreenberg/5-things-your-website-is-getting-wrong-and-how-to-check-for-free-22fm)
+- [The First Karpathy Loop for Production Coding Agents](https://dev.to/dean0x/the-first-karpathy-loop-for-production-coding-agents-oc0)
+- [The Dev Journal That Writes Itself &lpar;And Gives You XP&rpar;](https://dev.to/austin_amento_860aebb9f55/the-dev-journal-that-writes-itself-and-gives-you-xp-4232)
+- [Found a Builder-Focused Web3 Challenge &lpar;Kadena&rpar;](https://dev.to/louiz009/found-a-builder-focused-web3-challenge-kadena-5f51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
