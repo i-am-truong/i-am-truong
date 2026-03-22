@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Merging Two Sorted Linked Lists](https://dev.to/samantha_vincent_11/merging-two-sorted-linked-lists-c0o)
-- [Self-Refining Agents in Spec-Driven Development](https://dev.to/christie304/self-refining-agents-in-spec-driven-development-j9)
-- [Relaxer](https://dev.to/preetha_vaishnavi_2b82358/relaxer-4ji7)
-- [GDPR for Developers: What German Websites Actually Need](https://dev.to/nevik_schmidt_3635afa2b85/gdpr-for-developers-what-german-websites-actually-need-2h1a)
-- [Move all Negative Elements to End - CA09](https://dev.to/lokeshwaran_s_db77da73b51/move-all-negative-elements-to-end-ca09-f65)
+- [How to verify any AI agent in one API call — 6 checks, zero config](https://dev.to/thezenmonster/how-to-verify-any-ai-agent-in-one-api-call-6-checks-zero-config-1g1d)
+- [Your AI CLI Writes Code. Mine Tells You What It&#39;ll Break.](https://dev.to/sunilprakash/your-ai-cli-writes-code-mine-tells-you-what-itll-break-296l)
+- [A Small Rollout Plan for Prompt and Model Changes](https://dev.to/optyxstack/a-small-rollout-plan-for-prompt-and-model-changes-2843)
+- [What Is Product-Market Fit? 12 Metrics to Measure It](https://dev.to/yos/what-is-product-market-fit-12-metrics-to-measure-it-277g)
+- [What Is Consumer Crypto? Are Dapps the Future for Consumers?](https://dev.to/yos/what-is-consumer-crypto-are-dapps-the-future-for-consumers-4kk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
