@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Compared Every Node-RED Alexa Node - Here&#39;s What Actually Works in 2026](https://dev.to/voicenodes/i-compared-every-node-red-alexa-node-heres-what-actually-works-in-2026-4jon)
-- [MCP Skills vs MCP Tools: The Right Way to Configure Your Server](https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c)
-- [Building a Game for My Daughter with AI — Part 1: What If She Could Build It Too?](https://dev.to/sikamikanikobg/she-drew-a-dragon-dog-i-built-it-an-ai-89i)
-- [The Discipline of Not Fooling Ourselves: Episode 3 — The Rise of Process Theater](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-3-the-rise-of-process-theater-4hdg)
-- [Built a CLI that gives your codebase a memory](https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o)
+- [Introducing a New Go PDF Library: Fast, Lightweight, and CJK-Friendly Solution for PDF Generation](https://dev.to/viklogix/introducing-a-new-go-pdf-library-fast-lightweight-and-cjk-friendly-solution-for-pdf-generation-cgc)
+- [SOC 2 Compliant AI Platform: What the Certification Misses About AI Security](https://dev.to/jaipalsingh/soc-2-compliant-ai-platform-what-the-certification-misses-about-ai-security-39n6)
+- [From Lockdown to Google to Independent AI Consulting. What Actually Worked](https://dev.to/valentin_monteiro/from-lockdown-to-google-to-independent-ai-consulting-what-actually-worked-5ag1)
+- [MediOS — I Building an AI Hospital Control Plane Inside Notion](https://dev.to/shridhar_akki/medios-i-building-an-ai-hospital-control-plane-inside-notion-3a43)
+- [Reverse an Array](https://dev.to/tharunya_kr_c17e81c2a49a/reverse-an-array-55o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
