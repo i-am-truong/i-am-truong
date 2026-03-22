@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Pull Requests Are Being Ignored. Fix It with This Simple Bot](https://dev.to/eldemcan/your-pull-requests-are-being-ignored-fix-it-with-this-simple-bot-124f)
-- [AI Agent Monitoring SaaS: How to Scale Reliable OpenClaw Agents with Confidence](https://dev.to/chiefwebofficer/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence-4nne)
-- [I Just Published My First App on the App Store](https://dev.to/saratnazari/i-just-published-my-first-app-on-the-app-store-327)
-- [Beyond the Chatbot: Engineering a Hybrid AI Math Tutor for the Future](https://dev.to/devadhithiya/beyond-the-chatbot-engineering-a-hybrid-ai-math-tutor-for-the-future-86g)
-- [Why I Ditched Next.js and Rebuilt My Site with Astro](https://dev.to/waseemrajashaik/why-i-ditched-nextjs-and-rebuilt-my-site-with-astro-2moh)
+- [So, I gave my coding agent direct database access...](https://dev.to/spencerpauly/so-i-gave-my-coding-agent-direct-database-access-33ed)
+- [Day 50: When AI Sub-Agents Hallucinate — A Git-Based Recovery](https://dev.to/mjmuin/day-50-when-ai-sub-agents-hallucinate-a-git-based-recovery-196c)
+- [RowBTC – An Open, Human-Friendly Blockchain Explorer](https://dev.to/daria_frolova_665a393a10d/rowbtc-an-open-human-friendly-blockchain-explorer-2lii)
+- [PostgreSQL and Power BI Integration Guide.](https://dev.to/juliet_kiplimo_b9a825c95a/postgresql-and-power-bi-integration-guide-533)
+- [Optimizing Memory usage with mmap - Phase 6 Mini Malloc](https://dev.to/moonlitpath1/optimizing-memory-usage-with-mmap-phase-6-mini-malloc-16hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
