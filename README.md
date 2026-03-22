@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing a New Go PDF Library: Fast, Lightweight, and CJK-Friendly Solution for PDF Generation](https://dev.to/viklogix/introducing-a-new-go-pdf-library-fast-lightweight-and-cjk-friendly-solution-for-pdf-generation-cgc)
-- [SOC 2 Compliant AI Platform: What the Certification Misses About AI Security](https://dev.to/jaipalsingh/soc-2-compliant-ai-platform-what-the-certification-misses-about-ai-security-39n6)
-- [From Lockdown to Google to Independent AI Consulting. What Actually Worked](https://dev.to/valentin_monteiro/from-lockdown-to-google-to-independent-ai-consulting-what-actually-worked-5ag1)
-- [MediOS — I Building an AI Hospital Control Plane Inside Notion](https://dev.to/shridhar_akki/medios-i-building-an-ai-hospital-control-plane-inside-notion-3a43)
-- [Reverse an Array](https://dev.to/tharunya_kr_c17e81c2a49a/reverse-an-array-55o3)
+- [Valid Anagram in Python Using Two Methods &lpar;Sorting &amp; Counting&rpar;](https://dev.to/sri_mahalakshmi_a87f9d361/valid-anagram-in-python-using-two-methods-sorting-counting-mm2)
+- [A 3mm Error Breaks Your Match: What 3D Facial Landmarks Do Before the Score Appears](https://dev.to/caracomp/a-3mm-error-breaks-your-match-what-3d-facial-landmarks-do-before-the-score-appears-4p7l)
+- [Kafka vs. RabbitMQ: The Post Office vs. The Time Machine](https://dev.to/ankit_rattan/kafka-vs-rabbitmq-the-post-office-vs-the-time-machine-591f)
+- [🔵 Sort 0s, 1s and 2s &lpar;Dutch National Flag Algorithm&rpar;](https://dev.to/shnavin/sort-0s-1s-and-2s-dutch-national-flag-algorithm-3ooi)
+- [I Built a Paid API That AI Agents Use Autonomously](https://dev.to/dun999/i-built-a-paid-api-that-ai-agents-use-autonomously-182g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
