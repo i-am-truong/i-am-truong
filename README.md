@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Reset Log #2 — Progress, Patterns, and Reality Checks](https://dev.to/casperday11/weekly-reset-log-2-progress-patterns-and-reality-checks-4a6a)
-- [How I Actually Use AI to Make Life Better &lpar;Not Just Productive&rpar;](https://dev.to/buonoatsushi/how-i-actually-use-ai-to-make-life-better-not-just-productive-3ip8)
-- [How emberdesk handles your Firestore credentials](https://dev.to/emberdeskapp/how-emberdesk-handles-your-firestore-credentials-348m)
-- [Reverse a Linked List](https://dev.to/s_a_r_a/reverse-a-linked-list-5d3k)
-- [30 DAYS OF SQL - DAY1](https://dev.to/msaud/30-days-of-sql-day1-43f)
+- [We Spent a Week Evaluating a Context Compression Tool, Then Killed It](https://dev.to/lindemansnissa634shipit/we-spent-a-week-evaluating-a-context-compression-tool-then-killed-it-18dm)
+- [Designing for Throwaway-ability in the AI Coding Era](https://dev.to/xjamundx/designing-for-throwaway-ability-in-the-ai-coding-era-1b9p)
+- [Real World vs Theory Lessons](https://dev.to/nagesh_k_2003/real-world-vs-theory-lessons-2flf)
+- [Aegis — I built an open-source secrets broker because CyberArk costs more than my salary](https://dev.to/gustavothethird/aegis-i-built-an-open-source-secrets-broker-because-cyberark-costs-more-than-my-salary-4mmf)
+- [Choosing a model means measuring cost vs quality on your data](https://dev.to/amandamartindev/choosing-a-model-means-measuring-cost-vs-quality-on-your-data-1e58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
