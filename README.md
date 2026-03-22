@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Axiowisp 0.3.5 Is Out — Split Editor and AI Slash Commands](https://dev.to/templeenterprise/axiowisp-035-is-out-split-editor-and-ai-slash-commands-3bao)
-- [DBMerge: A database-agnostic Python UPSERT module to simplify ETL pipelines](https://dev.to/pavel-v-sobolev/dbmerge-a-database-agnostic-python-upsert-module-to-simplify-etl-pipelines-2nkp)
-- [I Built a Graph-Based Tool Search Engine for LLM Agents — Here&#39;s What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
-- [First and Last Occurrences](https://dev.to/padma_priya_815d0cd613d0c/first-and-last-occurrences-2pna)
-- [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
+- [I Compared Every Node-RED Alexa Node - Here&#39;s What Actually Works in 2026](https://dev.to/voicenodes/i-compared-every-node-red-alexa-node-heres-what-actually-works-in-2026-4jon)
+- [MCP Skills vs MCP Tools: The Right Way to Configure Your Server](https://dev.to/turingsoracle/mcp-skills-vs-mcp-tools-the-right-way-to-configure-your-server-562c)
+- [Building a Game for My Daughter with AI — Part 1: What If She Could Build It Too?](https://dev.to/sikamikanikobg/she-drew-a-dragon-dog-i-built-it-an-ai-89i)
+- [The Discipline of Not Fooling Ourselves: Episode 3 — The Rise of Process Theater](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-3-the-rise-of-process-theater-4hdg)
+- [Built a CLI that gives your codebase a memory](https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
