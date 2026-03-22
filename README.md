@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding C++ Pointers: The Power Behind the Address](https://dev.to/arto-b/understanding-c-pointers-the-power-behind-the-address-1lnl)
-- [How to Generate PDFs from FileMaker with a REST API](https://dev.to/zerolooplabs/how-to-generate-pdfs-from-filemaker-with-a-rest-api-5a4n)
-- [Generating Unit Tests from Kode Sherpa](https://dev.to/syedghufranhassan/generating-unit-tests-from-kode-sherpa-cmj)
-- [Handling URL Parameters in Golang with Chi Router](https://dev.to/luthfisauqi17/handling-url-parameters-in-golang-with-chi-router-4mlm)
-- [What problem does this solve?](https://dev.to/avail404admin/what-problem-does-this-solve-7c7)
+- [I built a Claude Code plugin for brand building in a weekend. Here&#39;s what I shipped and what I learned.](https://dev.to/jgerton/i-built-a-claude-code-plugin-for-brand-building-in-a-weekend-heres-what-i-shipped-and-what-i-2lng)
+- [CA 13 - Move Zeros](https://dev.to/suruthika_635f93a26b450ac/ca-13-move-zeros-3eb9)
+- [Introducing MoltenDB: A Local-First, Pure Rust Database for the Browser and Server](https://dev.to/maximilian_both_50a58f2dc/introducing-moltendb-a-local-first-pure-rust-database-for-the-browser-and-server-5ael)
+- [ihatepdf.cv vs iLovePDF vs Smallpdf vs Adobe Acrobat — An Honest Comparison &lpar;2026&rpar;](https://dev.to/pranav_mailarpawar_7039f2/ihatepdfcv-vs-ilovepdf-vs-smallpdf-vs-adobe-acrobat-an-honest-comparison-2026-54mm)
+- [I built an open-source orchestration engine for multi-agent AI – Fulcrum](https://dev.to/yaaha007/i-built-an-open-source-orchestration-engine-for-multi-agent-ai-fulcrum-424j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
