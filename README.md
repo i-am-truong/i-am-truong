@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Doesn&#39;t Think. It Guesses. Here&#39;s What Thinking Actually Looks Like.](https://dev.to/tfatykhov/your-ai-agent-doesnt-think-it-guesses-heres-what-thinking-actually-looks-like-1k80)
-- [Sort a Linked List Using Merge Sort](https://dev.to/dharani_boominathan_b1e6b/sort-a-linked-list-using-merge-sort-30h0)
-- [NoSleep: A Lightweight macOS Menu Bar App with SwiftUI](https://dev.to/sergio_farfn_b071cafc7ed/nosleep-a-lightweight-macos-menu-bar-app-with-swiftui-5fap)
-- [Today, it has become really easy to build tools, but without distribution, the tools are not reaching anywhere.
-
-Distribution has become an essential part of development now. Let us see how developers can build global influence:](https://dev.to/jaideepparashar/today-it-has-become-really-easy-to-build-tools-but-without-distribution-the-tools-are-not-4240)
-- [Finding Minimum and Maximum in an Array](https://dev.to/ashiq_omar/finding-minimum-and-maximum-in-an-array-4kik)
+- [Why Connecting AI to Real Systems Is Still Hard](https://dev.to/gursharansingh/why-connecting-ai-to-real-systems-is-still-hard-425o)
+- [A Revolução da Confiança: Blockchain e o Futuro do Dinheiro](https://dev.to/valterlobo/a-revolucao-da-confianca-blockchain-e-o-futuro-do-dinheiro-3pih)
+- [HC-SR04 推薦指南：2026 年性價比最高的超聲波測距模組](https://dev.to/_0c004e5fde78250aee362/hc-sr04-tui-jian-zhi-nan-2026-nian-xing-jia-bi-zui-gao-de-chao-sheng-bo-ce-ju-mo-zu-4945)
+- [Guess the Number Higher or Lower](https://dev.to/ashiq_omar/guess-the-number-higher-or-lower-58k8)
+- [I Scanned 2,386 MCP Packages on npm. 402 Were Critical. Here&#39;s What I Found.](https://dev.to/realadam557/i-scanned-2386-mcp-packages-on-npm-402-were-critical-heres-what-i-found-24d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
