@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Connecting AI to Real Systems Is Still Hard](https://dev.to/gursharansingh/why-connecting-ai-to-real-systems-is-still-hard-425o)
-- [A Revolução da Confiança: Blockchain e o Futuro do Dinheiro](https://dev.to/valterlobo/a-revolucao-da-confianca-blockchain-e-o-futuro-do-dinheiro-3pih)
-- [HC-SR04 推薦指南：2026 年性價比最高的超聲波測距模組](https://dev.to/_0c004e5fde78250aee362/hc-sr04-tui-jian-zhi-nan-2026-nian-xing-jia-bi-zui-gao-de-chao-sheng-bo-ce-ju-mo-zu-4945)
-- [Guess the Number Higher or Lower](https://dev.to/ashiq_omar/guess-the-number-higher-or-lower-58k8)
-- [I Scanned 2,386 MCP Packages on npm. 402 Were Critical. Here&#39;s What I Found.](https://dev.to/realadam557/i-scanned-2386-mcp-packages-on-npm-402-were-critical-heres-what-i-found-24d6)
+- [I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory](https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3)
+- [Multi-Agent Systems on GCP: Workflow Patterns with ADK and Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-systems-on-gcp-workflow-patterns-with-adk-and-terraform-6dk)
+- [Multi-Agent Orchestration on AWS: Supervisor Pattern with Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-orchestration-on-aws-supervisor-pattern-with-terraform-1e9j)
+- [Amazon Nova Act Deep Dive — Perceive, Act, Deploy: How AWS Built a 90%+ Reliable Browser Agent](https://dev.to/mohammed_anes_6652d05cab7/amazon-nova-act-deep-dive-perceive-act-deploy-how-aws-built-a-90-reliable-browser-agent-4ao6)
+- [Reversing a Linked list](https://dev.to/jaya_srij_c37a6ea796335c/reversing-a-linked-list-a1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
