@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 48 of #100DayOfCode — Deployment I: Deploy Backend](https://dev.to/m_saad_ahmad/day-48-of-100dayofcode-deployment-i-deploy-backend-49pg)
-- [Guess the Number Higher or Lower](https://dev.to/sruthika_ramachandran/guess-the-number-higher-or-lower-3lck)
-- [Valid Anagram](https://dev.to/samantha_vincent_11/valid-anagram-54ma)
-- [Git -&gt; Quick Drill Sheet](https://dev.to/nagesh_k_2003/git-quick-drill-sheet-3ifg)
-- [&quot;I Built a Quantum Physics Simulator in JavaScript — And It Broke My Brain&quot;](https://dev.to/bytefluxlab/i-built-a-quantum-physics-simulator-in-javascript-and-it-broke-my-brain-3h5l)
+- [Understanding C++ Pointers: The Power Behind the Address](https://dev.to/arto-b/understanding-c-pointers-the-power-behind-the-address-1lnl)
+- [How to Generate PDFs from FileMaker with a REST API](https://dev.to/zerolooplabs/how-to-generate-pdfs-from-filemaker-with-a-rest-api-5a4n)
+- [Generating Unit Tests from Kode Sherpa](https://dev.to/syedghufranhassan/generating-unit-tests-from-kode-sherpa-cmj)
+- [Handling URL Parameters in Golang with Chi Router](https://dev.to/luthfisauqi17/handling-url-parameters-in-golang-with-chi-router-4mlm)
+- [What problem does this solve?](https://dev.to/avail404admin/what-problem-does-this-solve-7c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
