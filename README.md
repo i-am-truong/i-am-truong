@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built MacDevTools: A One-Command Toolkit for Cleaning Caches, Diagnosing Networks, and Maintaining macOS Dev Environments](https://dev.to/jiangjingzhe/i-built-macdevtools-a-one-command-toolkit-for-cleaning-caches-diagnosing-networks-and-2685)
-- [So, I gave my coding agent direct database access...](https://dev.to/spencerpauly/so-i-gave-my-coding-agent-direct-database-access-33ed)
-- [Day 50: When AI Sub-Agents Hallucinate — A Git-Based Recovery](https://dev.to/mjmuin/day-50-when-ai-sub-agents-hallucinate-a-git-based-recovery-196c)
-- [RowBTC – An Open, Human-Friendly Blockchain Explorer](https://dev.to/daria_frolova_665a393a10d/rowbtc-an-open-human-friendly-blockchain-explorer-2lii)
-- [I Was Confused About Merise for Weeks. Here&#39;s Everything I Learned](https://dev.to/mkbs_alaa/i-was-confused-about-merise-for-weeks-heres-everything-i-learned-4b9k)
+- [VSCode doesn&#39;t save your open tabs and positions when you switch Git branches. I made a fix. &lpar;Open Source&rpar;](https://dev.to/harug/vscode-doesnt-save-your-open-tabs-and-positions-when-you-switch-git-branches-i-made-a-fix-19c9)
+- [Event-Driven AI Agents: Patterns That Scale](https://dev.to/nebulagg/event-driven-ai-agents-patterns-that-scale-39ld)
+- [Why I built a Local-First Codebase Visualizer to save 80% on AI Tokens](https://dev.to/mig8at/why-i-built-a-local-first-codebase-visualizer-to-save-80-on-ai-tokens-3elg)
+- [How Jo Koy’s Comedy Brain Can Hack Your Gaokao Score](https://dev.to/ukgksl/how-jo-koys-comedy-brain-can-hack-your-gaokao-score-367i)
+- [Building an Autonomous Coding Assistant: A LangGraph.js Capstone Guide](https://dev.to/programmingcentral/building-an-autonomous-coding-assistant-a-langgraphjs-capstone-guide-1c47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
