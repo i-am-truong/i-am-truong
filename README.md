@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Structured Output from Any LLM in 5 Min](https://dev.to/nebulagg/how-to-get-structured-output-from-any-llm-in-5-min-3nh9)
-- [[Learning notes] reading &quot;Attention is all you need&quot; paper](https://dev.to/userless/learning-notes-reading-attention-is-all-you-need-paper-3119)
-- [Tech in Ten: Unraveling the Counterintuitive Paradoxes of Engineering](https://dev.to/aloycwl/tech-in-ten-unraveling-the-counterintuitive-paradoxes-of-engineering-2fl1)
-- [Our AI Tutor Never Forgets Your Mistakes - Here&#39;s How We Built the Memory](https://dev.to/kinjal_jain/our-ai-tutor-never-forgets-your-mistakes-heres-how-we-built-the-memory-1cnm)
-- [AWS Incident Response: ReadOnly vs ViewOnly access](https://dev.to/anwaar/aws-incident-response-readonly-vs-viewonly-access-37il)
+- [I Built a Free Open Source Tool That Saved Me From Deleting My Production Database &lpar;Again&rpar;](https://dev.to/codexam/i-built-a-free-open-source-tool-that-saved-me-from-deleting-my-production-database-again-1djm)
+- [How can a Junior Developer Defeat an AI?](https://dev.to/mteheran/how-can-a-junior-developer-defeat-an-ai-34ha)
+- [The Trillion-Dollar Contradiction: Why Finance Loves Open Source but Refuses to Trust It](https://dev.to/wittycircuitry/the-trillion-dollar-contradiction-why-finance-loves-open-source-but-refuses-to-trust-it-2mne)
+- [How I Built 7 Shopify Apps as a Solo Developer in Ireland](https://dev.to/jmsdevlab/how-i-built-7-shopify-apps-as-a-solo-developer-in-ireland-2nfp)
+- [Day 49 of #100DayOfCode — Deployment II: Deploy Frontend](https://dev.to/m_saad_ahmad/day-49-of-100dayofcode-deployment-ii-deploy-frontend-5c55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
