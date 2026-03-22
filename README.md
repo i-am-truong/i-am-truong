@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Search in Rotated Sorted Array – Python](https://dev.to/manoj_kumar_401fd35052503/search-in-rotated-sorted-array-python-5hfc)
 - [I Built 14 Free Tools for Developers AND People Who Hate Spreadsheets](https://dev.to/sd6tools/i-built-14-free-tools-for-developers-and-people-who-hate-spreadsheets-1ce6)
 - [Stop Fighting Raw ZPL: Building a Modern Zebra Printer Pipeline in Flutter](https://dev.to/tri_dev_dhm/stop-fighting-raw-zpl-building-a-modern-zebra-printer-pipeline-in-flutter-5h0b)
 - [AWS WAF Rate Limiting Based on Origin Response](https://dev.to/aws-builders/aws-waf-rate-limiting-based-on-origin-response-1h5j)
 - [Home Solar Power Monitoring System](https://dev.to/kevinari26/home-solar-power-monitoring-system-project-58oh)
-- [The Noisy Neighbor Attack: How Solana&#39;s Localized Fee Markets Create a $0.50 Kill Switch for Any DeFi Protocol](https://dev.to/ohmygod/the-noisy-neighbor-attack-how-solanas-localized-fee-markets-create-a-050-kill-switch-for-any-1lpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
