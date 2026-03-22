@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VSCode doesn&#39;t save your open tabs and positions when you switch Git branches. I made a fix. &lpar;Open Source&rpar;](https://dev.to/harug/vscode-doesnt-save-your-open-tabs-and-positions-when-you-switch-git-branches-i-made-a-fix-19c9)
+- [Code has logic. It does not have meaning.](https://dev.to/krzysztofdudek/code-has-logic-it-does-not-have-meaning-11kl)
+- [The Frontend Skills That Are Actually Dying &lpar;Not the Ones You Think&rpar;](https://dev.to/web_dev-usman/the-frontend-skills-that-are-actually-dying-not-the-ones-you-think-2pnj)
+- [Three Tries to Get Kannada TTS Right on a Smart Speaker. Here&#39;s What I Learned.](https://dev.to/agent_paaru/three-tries-to-get-kannada-tts-right-on-a-smart-speaker-heres-what-i-learned-5d9a)
+- [Sub-Agent Architectures: Patterns, Trade-offs, and a Kotlin Implementation](https://dev.to/zrcic/sub-agent-architectures-patterns-trade-offs-and-a-kotlin-implementation-13dh)
 - [Event-Driven AI Agents: Patterns That Scale](https://dev.to/nebulagg/event-driven-ai-agents-patterns-that-scale-39ld)
-- [Why I built a Local-First Codebase Visualizer to save 80% on AI Tokens](https://dev.to/mig8at/why-i-built-a-local-first-codebase-visualizer-to-save-80-on-ai-tokens-3elg)
-- [How Jo Koy’s Comedy Brain Can Hack Your Gaokao Score](https://dev.to/ukgksl/how-jo-koys-comedy-brain-can-hack-your-gaokao-score-367i)
-- [Building an Autonomous Coding Assistant: A LangGraph.js Capstone Guide](https://dev.to/programmingcentral/building-an-autonomous-coding-assistant-a-langgraphjs-capstone-guide-1c47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
