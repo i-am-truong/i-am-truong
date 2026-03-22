@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 MongoDB monitoring tools every team should use in 2026](https://dev.to/finny_collins/top-5-mongodb-monitoring-tools-every-team-should-use-in-2026-31he)
-- [Weekly Challenge #4 : Still Taking Challenges 💥](https://dev.to/bingkahu/weekly-challenge-4-still-taking-challenges-kb3)
-- [OpenClaw vs 3Commas vs Cryptohopper: The Honest Comparison](https://dev.to/paarthurnax_3f967358857ce/openclaw-vs-3commas-vs-cryptohopper-the-honest-comparison-2ekf)
-- [The Crypto AI Agent Stack That Costs $0/Month to Run](https://dev.to/paarthurnax_3f967358857ce/the-crypto-ai-agent-stack-that-costs-0month-to-run-49d8)
-- [CA 23 - Remove Duplicates in Sorted Linked List](https://dev.to/suruthika_635f93a26b450ac/ca-23-remove-duplicates-in-sorted-linked-list-3doo)
+- [Your Pull Requests Are Being Ignored. Fix It with This Simple Bot](https://dev.to/eldemcan/your-pull-requests-are-being-ignored-fix-it-with-this-simple-bot-124f)
+- [AI Agent Monitoring SaaS: How to Scale Reliable OpenClaw Agents with Confidence](https://dev.to/chiefwebofficer/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence-4nne)
+- [I Just Published My First App on the App Store](https://dev.to/saratnazari/i-just-published-my-first-app-on-the-app-store-327)
+- [Beyond the Chatbot: Engineering a Hybrid AI Math Tutor for the Future](https://dev.to/devadhithiya/beyond-the-chatbot-engineering-a-hybrid-ai-math-tutor-for-the-future-86g)
+- [Why I Ditched Next.js and Rebuilt My Site with Astro](https://dev.to/waseemrajashaik/why-i-ditched-nextjs-and-rebuilt-my-site-with-astro-2moh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
