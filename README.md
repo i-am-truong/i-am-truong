@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Measuring CAC and LTV for Onchain Apps](https://dev.to/yos/ultimate-guide-to-measuring-cac-and-ltv-for-onchain-apps-54p5)
-- [Python Básico para Jornalistas](https://dev.to/anaccortez/python-basico-para-jornalistas-5aac)
-- [Arbitrum Stylus, Layer 2s, and My HackQuest Journey](https://dev.to/prudhviraj/arbitrum-stylus-layer-2s-and-my-hackquest-journey-5ddg)
-- [Istio 핵심 개념 정리](https://dev.to/shingyeongseon/istio-haegsim-gaenyeom-jeongri-g39)
-- [Overcoming Employment Barriers: Strategies for Re-entering the Workforce After a Career Break](https://dev.to/svetlix/overcoming-employment-barriers-strategies-for-re-entering-the-workforce-after-a-career-break-2745)
+- [First Touch UTM, Referral Attribution &amp; User Acquisition](https://dev.to/yos/first-touch-utm-referral-attribution-user-acquisition-283p)
+- [How to Track Where Your Web3 Users Come From &lpar;7 Steps to Onchain Attribution&rpar;](https://dev.to/yos/how-to-track-where-your-web3-users-come-from-7-steps-to-onchain-attribution-1i9d)
+- [Top 10 KPIs Every Web3 Product Leader Should Monitor](https://dev.to/yos/top-10-kpis-every-web3-product-leader-should-monitor-5gok)
+- [10 Critical Web3 Product Metrics for Early-Stage Growth](https://dev.to/yos/10-critical-web3-product-metrics-for-early-stage-growth-589b)
+- [A Beginner&#39;s Guide to Web Development: Getting Started](https://dev.to/fadil/a-beginners-guide-to-web-development-getting-started-1bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
