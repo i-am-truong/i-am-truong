@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ANAGRAMS](https://dev.to/abinaya_dhanraj/anagrams-4ce0)
-- [How to Build an AI Agent from Scratch Using Claude API &lpar;With Full Code&rpar;](https://dev.to/dextralabs/how-to-build-an-ai-agent-from-scratch-using-claude-api-with-full-code-4b40)
-- [Move Zeroes to End](https://dev.to/padma_priya_815d0cd613d0c/move-zeroes-to-end-20fc)
-- [WICK-DOM-OBSERVER: The Deterministic Cypress Plugin for Fast Spinners, Blinking Toasts, Optional Overlays, and UI’s Most Wanted](https://dev.to/sebastianclavijo/wick-dom-observer-the-deterministic-cypress-plugin-for-fast-spinners-blinking-toasts-optional-4e59)
-- [Kubernetes CrashLoopBackOff: Root Cause and Fix &lpar;With Real Examples&rpar;](https://dev.to/yash_step2dev/kubernetes-crashloopbackoff-root-cause-and-fix-with-real-examples-5bcp)
+- [Axiowisp 0.3.5 Is Out — Split Editor and AI Slash Commands](https://dev.to/templeenterprise/axiowisp-035-is-out-split-editor-and-ai-slash-commands-3bao)
+- [DBMerge: A database-agnostic Python UPSERT module to simplify ETL pipelines](https://dev.to/pavel-v-sobolev/dbmerge-a-database-agnostic-python-upsert-module-to-simplify-etl-pipelines-2nkp)
+- [I Built a Graph-Based Tool Search Engine for LLM Agents — Here&#39;s What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
+- [First and Last Occurrences](https://dev.to/padma_priya_815d0cd613d0c/first-and-last-occurrences-2pna)
+- [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
