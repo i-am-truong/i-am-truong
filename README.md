@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You have to invite them in](https://dev.to/mark0_617b45cda9782a/you-have-to-invite-them-in-g8b)
-- [Using LLMs to do security analysis at the git diff level — what works, what doesn&#39;t, and why structured output matters](https://dev.to/diffsense/using-llms-to-do-security-analysis-at-the-git-diff-level-what-works-what-doesnt-and-why-2a14)
-- [How I Built &lpar;and Why I Use&rpar; an SEO Pricing Calculator — The Developer&#39;s Perspective on Agency Profit Math](https://dev.to/jitendriya_tripathy_85b0e/how-i-built-and-why-i-use-an-seo-pricing-calculator-the-developers-perspective-on-agency-42be)
-- [🌿Why Ecological &amp; Biological Assessment Matters More Than Ever](https://dev.to/ecobio_774fb34996f06a3aaa/why-ecological-biological-assessment-matters-more-than-ever-2me0)
-- [🌿Why Ecological &amp; Biological Assessment Matters More Than Ever](https://dev.to/ecological_0d58e4cc49d832/why-ecological-biological-assessment-matters-more-than-ever-5bef)
+- [Your AI Agent Doesn&#39;t Think. It Guesses. Here&#39;s What Thinking Actually Looks Like.](https://dev.to/tfatykhov/your-ai-agent-doesnt-think-it-guesses-heres-what-thinking-actually-looks-like-1k80)
+- [Sort a Linked List Using Merge Sort](https://dev.to/dharani_boominathan_b1e6b/sort-a-linked-list-using-merge-sort-30h0)
+- [NoSleep: A Lightweight macOS Menu Bar App with SwiftUI](https://dev.to/sergio_farfn_b071cafc7ed/nosleep-a-lightweight-macos-menu-bar-app-with-swiftui-5fap)
+- [Today, it has become really easy to build tools, but without distribution, the tools are not reaching anywhere.
+
+Distribution has become an essential part of development now. Let us see how developers can build global influence:](https://dev.to/jaideepparashar/today-it-has-become-really-easy-to-build-tools-but-without-distribution-the-tools-are-not-4240)
+- [Finding Minimum and Maximum in an Array](https://dev.to/ashiq_omar/finding-minimum-and-maximum-in-an-array-4kik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
