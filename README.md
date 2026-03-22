@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
-- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
-- [Uh oh... Cloudflare just turned evil](https://dev.to/fabianfrankwerner/uh-oh-cloudflare-just-turned-evil-42pc)
-- [Is this &quot;Nano Banana&quot; image for real?](https://dev.to/lee12/is-this-nano-banana-image-for-real-47f5)
-- [What Happens When You Bring LLMs Into a Semiconductor FAB — 5 ArXiv Papers, Brutally Honest Reviews](https://dev.to/plasmon_imp/what-happens-when-you-bring-llms-into-a-semiconductor-fab-5-arxiv-papers-brutally-honest-reviews-28pe)
+- [Stop Orchestrating Business Logic with if/else — A Better Way in Java](https://dev.to/rolando_rodrguezgonzle/stop-orchestrating-business-logic-with-ifelse-a-better-way-in-java-49fc)
+- [I Built a Free AI Workforce Control Plane using Notion That Helps Distributed Teams Stop Guessing Who Should Do What](https://dev.to/sidrasaleem296/i-built-a-free-ai-workforce-control-plane-using-notion-that-helps-distributed-teams-stop-guessing-4fnk)
+- [Improve the interaction with Stream AI Responses](https://dev.to/allan_roberto_3c86dab9d94/improve-the-interaction-with-stream-ai-responses-48n4)
+- [I Found Corporate Networks Hidden Behind Porn Sites — Same Tracker Fingerprints, Different Brands](https://dev.to/o_aoarcom_c78fc0b85aa5/i-found-corporate-networks-hidden-behind-porn-sites-same-tracker-fingerprints-different-brands-439e)
+- [ECS Fargate com Service Discovery usando AWS Cloud Map e Terraform](https://dev.to/leonanviana/ecs-fargate-com-service-discovery-usando-aws-cloud-map-e-terraform-54p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
