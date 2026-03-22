@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free stuck TCP ports in one command — without memorizing `lsof`, `fuser`, and `kill` pipelines](https://dev.to/burakboduroglu/free-stuck-tcp-ports-in-one-command-without-memorizing-lsof-fuser-and-kill-pipelines-32hp)
-- [KMP Native UI Dependency Injection with Koin](https://dev.to/saad4software/kmp-native-ui-dependency-injection-with-koin-4d9c)
-- [A closer look at the SpacetimeDB v2 benchmark: Is it really 23x faster than SQLite?](https://dev.to/tanay/a-closer-look-at-the-spacetimedb-v2-benchmark-is-it-really-23x-faster-than-sqlite-2l9f)
-- [Why Niche Content Wins](https://dev.to/shortformscale/why-niche-content-wins-4eb6)
-- [I Analyzed 38 Claude Code Sessions. Only 0.6% of Tokens Were Actual Code Output.](https://dev.to/lsvishaal/i-analyzed-38-claude-code-sessions-only-06-of-tokens-were-actual-code-output-56li)
+- [ASSIGNMENT 11](https://dev.to/haripriya_v_7e6e5d35f526a/assignment-11-802)
+- [Turning GitHub Copilot CLI into an AI Agent via ACP](https://dev.to/lunran/turning-github-copilot-cli-into-an-ai-agent-via-acp-197f)
+- [NUMBER GUESSING GAME](https://dev.to/haripriya_v_7e6e5d35f526a/number-guessing-game-2h0f)
+- [TASK – The Botanical Garden and Rose Garden – Python SETS](https://dev.to/haripriya_v_7e6e5d35f526a/task-the-botanical-garden-and-rose-garden-python-sets-1m4l)
+- [Task – Annachi Kadai – Python Dictionary](https://dev.to/haripriya_v_7e6e5d35f526a/task-annachi-kadai-python-dictionary-ldp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
