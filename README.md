@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ASSIGNMENT 11](https://dev.to/haripriya_v_7e6e5d35f526a/assignment-11-802)
-- [Turning GitHub Copilot CLI into an AI Agent via ACP](https://dev.to/lunran/turning-github-copilot-cli-into-an-ai-agent-via-acp-197f)
-- [NUMBER GUESSING GAME](https://dev.to/haripriya_v_7e6e5d35f526a/number-guessing-game-2h0f)
-- [TASK – The Botanical Garden and Rose Garden – Python SETS](https://dev.to/haripriya_v_7e6e5d35f526a/task-the-botanical-garden-and-rose-garden-python-sets-1m4l)
-- [Task – Annachi Kadai – Python Dictionary](https://dev.to/haripriya_v_7e6e5d35f526a/task-annachi-kadai-python-dictionary-ldp)
+- [I Built 14 Free Tools for Developers AND People Who Hate Spreadsheets](https://dev.to/sd6tools/i-built-14-free-tools-for-developers-and-people-who-hate-spreadsheets-1ce6)
+- [Stop Fighting Raw ZPL: Building a Modern Zebra Printer Pipeline in Flutter](https://dev.to/tri_dev_dhm/stop-fighting-raw-zpl-building-a-modern-zebra-printer-pipeline-in-flutter-5h0b)
+- [AWS WAF Rate Limiting Based on Origin Response](https://dev.to/aws-builders/aws-waf-rate-limiting-based-on-origin-response-1h5j)
+- [Home Solar Power Monitoring System](https://dev.to/kevinari26/home-solar-power-monitoring-system-project-58oh)
+- [The Noisy Neighbor Attack: How Solana&#39;s Localized Fee Markets Create a $0.50 Kill Switch for Any DeFi Protocol](https://dev.to/ohmygod/the-noisy-neighbor-attack-how-solanas-localized-fee-markets-create-a-050-kill-switch-for-any-1lpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
