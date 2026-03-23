@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/devtouserotved/-3dh7)
-- [The Complete Guide to Building Developer CLI Tools in 2026](https://dev.to/chengyixu/the-complete-guide-to-building-developer-cli-tools-in-2026-a96)
-- [Chainguard Assemble 2026 and the Security Factory Mindset](https://dev.to/gitguardian/chainguard-assemble-2026-and-the-security-factory-mindset-3ib1)
-- [Building A Zero-Config Development Environment Scanner With Node.js](https://dev.to/chengyixu/building-a-zero-config-development-environment-scanner-with-nodejs-2hln)
-- [The 5 LLM Architecture Patterns That Scale &lpar;And 2 That Do Not&rpar;](https://dev.to/clawgenesis/the-5-llm-architecture-patterns-that-scale-and-2-that-do-not-33j0)
+- [Ujorm3: A New Lightweight ORM for JavaBeans and Records](https://dev.to/pponec/ujorm3-a-new-lightweight-orm-for-javabeans-and-records-3pph)
+- [We Gave Our Coding Tutor a Thinking Style Detector — This Is What We Found](https://dev.to/aman_giri_440e4d5e12eee28/we-gave-our-coding-tutor-a-thinking-style-detector-this-is-what-we-found-3734)
+- [Reduce errores y costos de tokens en agentes con seleccion semantica de herramientas](https://dev.to/aws-espanol/reduce-errores-y-costos-de-tokens-en-agentes-con-seleccion-semantica-de-herramientas-12o5)
+- [IP address and Subnet](https://dev.to/santhoshi_mary_88917c3fd9/ip-address-and-subnet-3ge)
+- [How to Generate an Audit Trail for AI Agent Actions &lpar;With Visual Proof&rpar;](https://dev.to/custodiaadmin/how-to-generate-an-audit-trail-for-ai-agent-actions-with-visual-proof-31a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
