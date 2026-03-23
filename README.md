@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Consent, No Credit, No Pay](https://dev.to/rawveg/no-consent-no-credit-no-pay-23p5)
-- [Security Testing: User Login Scenarios](https://dev.to/cecilia986/security-testing-user-login-scenarios-2i4k)
-- [Implementing OpenTelemetry for Frontend Monitoring](https://dev.to/aidanbutler/implementing-opentelemetry-for-frontend-monitoring-160b)
-- [AI Short Films Are No Longer Just Demos — A New Production Logic Is Emerging](https://dev.to/marko-infohelm/ai-short-films-are-no-longer-just-demos-a-new-production-logic-is-emerging-56ko)
-- [Introducing vMetal: Run Your GPU Data Center Like a Hyperscaler](https://dev.to/vcluster_89/introducing-vmetal-run-your-gpu-data-center-like-a-hyperscaler-2j49)
+- [Designing an AI That Remembers: How We Built a Coding Mentor with a &quot;Human&quot; Memory](https://dev.to/ashiya_farhin_d450eb33855/designing-an-ai-that-remembers-how-we-built-a-coding-mentor-with-a-human-memory-dlk)
+- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-agn)
+- [How I accidentally built a production tool with Amazon Q and stubbornness](https://dev.to/bramverhagen/how-i-accidentally-built-a-production-tool-with-amazon-q-and-stubbornness-4m9g)
+- [Spec-Driven Development vs Vibe Coding: My Honest First Impressions After Trying It](https://dev.to/incomplete_developer/spec-driven-development-vs-vibe-coding-my-honest-first-impressions-after-trying-it-4o5e)
+- [Using Google Antigravity Without Launching Yourself Into Orbit](https://dev.to/harshith_halejolad/using-google-antigravity-without-launching-yourself-into-orbit-3348)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
