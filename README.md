@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hiring Senior Full Stack Developer &lpar;Remote, USA&rpar;](https://dev.to/s_winslow/hiring-senior-full-stack-developer-remote-usa-32mm)
-- [How I Built a Multi-Tenant WhatsApp Automation Platform Using n8n and WAHA](https://dev.to/achiya-automation/how-i-built-a-multi-tenant-whatsapp-automation-platform-using-n8n-and-waha-4jj4)
-- [I Built an Instant SEO Audit API — Here&#39;s What I Learned About Technical SEO](https://dev.to/deganiagency/i-built-an-instant-seo-audit-api-heres-what-i-learned-about-technical-seo-2d3o)
-- [SJF4J: A Structured JSON Facade for Java](https://dev.to/hannyu/sjf4j-a-structured-json-facade-for-java-2n0f)
-- [AI Avatar v2 with Pose Editor &lpar;VS Code Extension&rpar;🕺](https://dev.to/webdeveloperhyper/ai-avatar-v2-with-pose-editor-vs-code-extension-38n2)
+- [No Consent, No Credit, No Pay](https://dev.to/rawveg/no-consent-no-credit-no-pay-23p5)
+- [Security Testing: User Login Scenarios](https://dev.to/cecilia986/security-testing-user-login-scenarios-2i4k)
+- [Implementing OpenTelemetry for Frontend Monitoring](https://dev.to/aidanbutler/implementing-opentelemetry-for-frontend-monitoring-160b)
+- [AI Short Films Are No Longer Just Demos — A New Production Logic Is Emerging](https://dev.to/marko-infohelm/ai-short-films-are-no-longer-just-demos-a-new-production-logic-is-emerging-56ko)
+- [Introducing vMetal: Run Your GPU Data Center Like a Hyperscaler](https://dev.to/vcluster_89/introducing-vmetal-run-your-gpu-data-center-like-a-hyperscaler-2j49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
