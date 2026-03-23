@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s your stack?](https://dev.to/naysmith/whats-your-stack-4hp1)
+- [My First OSINT CTF](https://dev.to/shynsec/my-first-osint-ctf-nb5)
+- [5 Crypto Skills Every Serious Trader Needs in Their OpenClaw Agent](https://dev.to/paarthurnax_3f967358857ce/5-crypto-skills-every-serious-trader-needs-in-their-openclaw-agent-28b4)
+- [OpenClaw vs 3Commas vs Cryptohopper: The Honest Comparison](https://dev.to/paarthurnax_3f967358857ce/openclaw-vs-3commas-vs-cryptohopper-the-honest-comparison-58n5)
 - [Stop Orchestrating Business Logic with if/else — A Better Way in Java](https://dev.to/rolando_rodrguezgonzle/stop-orchestrating-business-logic-with-ifelse-a-better-way-in-java-49fc)
-- [I Built a Free AI Workforce Control Plane using Notion That Helps Distributed Teams Stop Guessing Who Should Do What](https://dev.to/sidrasaleem296/i-built-a-free-ai-workforce-control-plane-using-notion-that-helps-distributed-teams-stop-guessing-4fnk)
-- [Improve the interaction with Stream AI Responses](https://dev.to/allan_roberto_3c86dab9d94/improve-the-interaction-with-stream-ai-responses-48n4)
-- [I Found Corporate Networks Hidden Behind Porn Sites — Same Tracker Fingerprints, Different Brands](https://dev.to/o_aoarcom_c78fc0b85aa5/i-found-corporate-networks-hidden-behind-porn-sites-same-tracker-fingerprints-different-brands-439e)
-- [ECS Fargate com Service Discovery usando AWS Cloud Map e Terraform](https://dev.to/leonanviana/ecs-fargate-com-service-discovery-usando-aws-cloud-map-e-terraform-54p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
