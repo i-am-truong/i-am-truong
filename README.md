@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When You Should Use Vue Teleport](https://dev.to/jacobandrewsky/when-you-should-use-vue-teleport-4k6i)
-- [JSON Tasks Every Developer Does — And the Fastest Way to Do Each One](https://dev.to/work_hau_cb718f47075930f9/json-tasks-every-developer-does-and-the-fastest-way-to-do-each-one-1hf8)
-- [AWS CDK Tips: How to Centrally Apply Configurations to Multiple Resources](https://dev.to/aws-heroes/aws-cdk-tips-how-to-centrally-apply-configurations-to-multiple-resources-i3g)
-- [[Boost]](https://dev.to/joachimzeelmaekers/-2heb)
-- [Kotlin Data Mapping](https://dev.to/krun_pro/kotlin-data-mapping-578g)
+- [Hiring Web/Software Engineer &lpar;Remote, Long-Term&rpar;](https://dev.to/michael_langford/hiring-websoftware-engineer-remote-long-term-27nk)
+- [setdefault is an ugly dict method](https://dev.to/meliowant/setdefault-is-an-ugly-dict-method-md0)
+- [I Got Tired of Fake &quot;Free&quot; Resume Builders, So I Built My Own — 100% Free, No Sign-Up, No Paywalls.](https://dev.to/ansuk_db014e94affd2/i-got-tired-of-fake-free-resume-builders-so-i-built-my-own-100-free-no-sign-up-no-paywalls-151m)
+- [Building browser-only PDF tools — merge, split, and canvas builder without touching a server](https://dev.to/shakeel_skl_019683a0a1836/building-browser-only-pdf-tools-merge-split-and-canvas-builder-without-touching-a-server-2517)
+- [I got tired of rebuilding the same cron job setup. So I built something.](https://dev.to/flavienb_8bcf9742369/i-got-tired-of-rebuilding-the-same-cron-job-setup-so-i-built-something-2g65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
