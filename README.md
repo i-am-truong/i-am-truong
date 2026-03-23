@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I use Claude for web development: a designer&#39;s guide to building from scratch](https://dev.to/shinobis_ia/how-i-use-claude-for-web-development-a-designers-guide-to-building-from-scratch-f8c)
-- [RCS vs WhatsApp Business: The Ecosystem Gap in 2026](https://dev.to/rcsxplatform/rcs-vs-whatsapp-business-the-ecosystem-gap-in-2026-22hk)
-- [Measure, Benchmark, Ship: Building Better Software with AI](https://dev.to/byzantime/measure-benchmark-ship-building-better-software-with-ai-2anf)
-- [Duct tape enough services together and you can cache APT packages](https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml)
-- [Consistency Thinking](https://dev.to/meotism/consistency-thinking-ndf)
+- [ASSIGNMENT 20](https://dev.to/tanishka_v_b7e4add4c1c1a4/assignment-20-59do)
+- [10 AI Code Review Tools That Actually Caught Bugs My Team Missed](https://dev.to/dextralabs/10-ai-code-review-tools-that-actually-caught-bugs-my-team-missed-n8g)
+- [How I Built a Free Browser-Based Monitor Testing Tool with Astro](https://dev.to/daniel_park_12764446e1183/how-i-built-a-free-browser-based-monitor-testing-tool-with-astro-3p39)
+- [The Most Painful Career Lesson My Best Job Taught Me](https://dev.to/canro91/the-most-painful-career-lesson-my-best-job-taught-me-ca2)
+- [tRPC in 2026: Full-Stack TypeScript Without the Boilerplate](https://dev.to/ottoaria/trpc-in-2026-full-stack-typescript-without-the-boilerplate-4a47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
