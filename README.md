@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When 100.00 Means Nothing: Gaming Coding Assessments](https://dev.to/realactioner/when-10000-means-nothing-gaming-coding-assessments-3e4l)
-- [OpenDataLoader PDF v2.0 Hits #1 on GitHub Trending Globally !](https://dev.to/katash/opendataloader-pdf-v20-hits-1-on-github-trending-globally--1ffa)
-- [The old works! &lpar;or the humble monolith&rpar;](https://dev.to/mbarcia/the-old-works-or-the-humble-monolith-5fdl)
-- [Hobby Spring Boot vs Professional Spring Boot](https://dev.to/poja/hobby-spring-boot-vs-professional-spring-boot-lg9)
-- [Unlocking the Power of Wallet Intelligence](https://dev.to/jahara_magarang_ef0ecbe761/unlocking-the-power-of-wallet-intelligence-48fe)
+- [Claude Max $100 vs $200: What You Actually Get &lpar;Measured, Not Guessed&rpar;](https://dev.to/alexdobrushskiy/claude-max-100-vs-200-what-you-actually-get-measured-not-guessed-3kjd)
+- [Andrew Ng&#39;s new open-source project, Context Hub, attempts to solve a problem every API provider has right now whether they know it or not. Coding agents are getting your API wrong.](https://dev.to/leslysandra/andrew-ngs-new-open-source-project-context-hub-attempts-to-solve-a-problem-every-api-provider-3kh7)
+- [Update: How My Local AI Agent &quot;Daemon&quot; Learned Logical Discipline &lpar;Part 2&rpar;](https://dev.to/ramarondonuwu/update-how-my-local-ai-agent-daemon-learned-logical-discipline-part-2-8kp)
+- [How Anime Helped Me Through Depression — And Still Does](https://dev.to/iamirondev/how-anime-helped-me-through-depression-and-still-does-3jam)
+- [Understanding Teacher Forcing in Seq2Seq Models](https://dev.to/rijultp/understanding-teacher-forcing-in-seq2seq-models-a89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
