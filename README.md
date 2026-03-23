@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A lot has happened in my life since I was here last time...](https://dev.to/stef4nutz/a-lot-has-happened-in-my-life-since-i-was-here-last-time-1o33)
-- [Unit Testing in JavaScript: A Practical Guide with Jest](https://dev.to/thecoollearner/unit-test-in-javascript-2ka3)
-- [Why Product Insights Belong in Your IDE](https://dev.to/productsights/why-product-insights-belong-in-your-ide-119c)
-- [I Built a Webhook Relay on Cloudflare Workers — Here&#39;s Every Bug That Almost Killed It](https://dev.to/eventdock/i-built-a-webhook-relay-on-cloudflare-workers-here-is-every-bug-that-almost-killed-it-22dc)
-- [The &quot;Just Ask AI&quot; Framework](https://dev.to/flinstonedev/the-just-ask-ai-framework-ndp)
+- [How to Build an MCP Server with Python in 5 Min](https://dev.to/nebulagg/how-to-build-an-mcp-server-with-python-in-5-min-2dmo)
+- [Catch Terraform Security Issues Before They Hit Production — With a Single API Call](https://dev.to/diffsense/catch-terraform-security-issues-before-they-hit-production-with-a-single-api-call-4ijd)
+- [Pet News Roundup: March 23, 2026](https://dev.to/krlz/pet-news-roundup-march-23-2026-4gll)
+- [Adding Bayesian Ensemble + Monte Carlo to an NPB Prediction System](https://dev.to/yasumorishima/adding-bayesian-ensemble-monte-carlo-to-an-npb-prediction-system-2fl1)
+- [I applied Haskell&#39;s Applicative Functors to Kotlin Coroutines. Here&#39;s what happened.](https://dev.to/damian_lattenero/i-applied-haskells-applicative-functors-to-kotlin-coroutines-heres-what-happened-l06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
