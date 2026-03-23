@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s your stack?](https://dev.to/naysmith/whats-your-stack-4hp1)
-- [My First OSINT CTF](https://dev.to/shynsec/my-first-osint-ctf-nb5)
-- [5 Crypto Skills Every Serious Trader Needs in Their OpenClaw Agent](https://dev.to/paarthurnax_3f967358857ce/5-crypto-skills-every-serious-trader-needs-in-their-openclaw-agent-28b4)
-- [OpenClaw vs 3Commas vs Cryptohopper: The Honest Comparison](https://dev.to/paarthurnax_3f967358857ce/openclaw-vs-3commas-vs-cryptohopper-the-honest-comparison-58n5)
-- [Stop Orchestrating Business Logic with if/else — A Better Way in Java](https://dev.to/rolando_rodrguezgonzle/stop-orchestrating-business-logic-with-ifelse-a-better-way-in-java-49fc)
+- [How I use Claude for web development: a designer&#39;s guide to building from scratch](https://dev.to/shinobis_ia/how-i-use-claude-for-web-development-a-designers-guide-to-building-from-scratch-f8c)
+- [RCS vs WhatsApp Business: The Ecosystem Gap in 2026](https://dev.to/rcsxplatform/rcs-vs-whatsapp-business-the-ecosystem-gap-in-2026-22hk)
+- [Measure, Benchmark, Ship: Building Better Software with AI](https://dev.to/byzantime/measure-benchmark-ship-building-better-software-with-ai-2anf)
+- [Duct tape enough services together and you can cache APT packages](https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml)
+- [Consistency Thinking](https://dev.to/meotism/consistency-thinking-ndf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
