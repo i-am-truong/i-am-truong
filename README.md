@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Authenticate AI Agents in B2B SaaS: Delegated Auth, Scoped Tokens, and Audit Trails](https://dev.to/sachingeek/how-to-authenticate-ai-agents-in-b2b-saas-delegated-auth-scoped-tokens-and-audit-trails-6cg)
-- [How AI Translates Manga: A Deep Dive into the Full Pipeline](https://dev.to/kevinbai/how-ai-translates-manga-a-deep-dive-into-the-full-pipeline-2in6)
-- [I Built a macOS App in a Weekend with an AI Agent — Here&#39;s What &#39;Human on the Loop&#39; Actually Looks Like](https://dev.to/nesquikm/i-built-a-macos-app-in-a-weekend-with-an-ai-agent-heres-what-human-on-the-loop-actually-looks-2dim)
-- [JPEG Compression, but for Thought: AI as Clear-Text Encryption](https://dev.to/avaines/jpeg-compression-but-for-thought-ai-as-clear-text-encryption-2pg2)
-- [Show DEV: I turned your GitHub commit history into an idle RPG](https://dev.to/fcsouza/show-dev-i-turned-your-github-commit-history-into-an-idle-rpg-3j41)
+- [[Boost]](https://dev.to/devtouserotved/-3dh7)
+- [The Complete Guide to Building Developer CLI Tools in 2026](https://dev.to/chengyixu/the-complete-guide-to-building-developer-cli-tools-in-2026-a96)
+- [Chainguard Assemble 2026 and the Security Factory Mindset](https://dev.to/gitguardian/chainguard-assemble-2026-and-the-security-factory-mindset-3ib1)
+- [Building A Zero-Config Development Environment Scanner With Node.js](https://dev.to/chengyixu/building-a-zero-config-development-environment-scanner-with-nodejs-2hln)
+- [The 5 LLM Architecture Patterns That Scale &lpar;And 2 That Do Not&rpar;](https://dev.to/clawgenesis/the-5-llm-architecture-patterns-that-scale-and-2-that-do-not-33j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
