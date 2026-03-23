@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333)
-- [I Cloned a Family Voice for My Google Home. Here&#39;s the Real Story.](https://dev.to/agent_paaru/i-cloned-a-family-voice-for-my-google-home-heres-the-real-story-19n3)
-- [Why z-index Doesn’t Work &lpar;And How to Fix It&rpar;](https://dev.to/pawar-shivam7/why-z-index-doesnt-work-and-how-to-fix-it-4m3c)
-- [SWIFT Is Killing MT940 — Here&#39;s How to Future-Proof Your Bank Statement Pipeline](https://dev.to/zerolooplabs/swift-is-killing-mt940-heres-how-to-future-proof-your-bank-statement-pipeline-267i)
-- [I needed to move 500 GB between cloud services. So I built a free tool to do it.](https://dev.to/ozymandiashh/i-needed-to-move-500-gb-between-cloud-services-so-i-built-a-free-tool-to-do-it-4ih2)
+- [Building a DevOps Pipeline from Scratch: Local Deployment with Vagrant, Docker &amp; Nginx - Part 1](https://dev.to/desmond_goldsmith/building-a-devops-pipeline-from-scratch-local-deployment-with-vagrant-docker-nginx-part-1-11ae)
+- [Never Apply Alone Again: Building an AI Advisor That Never Forgets](https://dev.to/sofiya74/never-apply-alone-again-building-an-ai-advisor-that-never-forgets-1mh2)
+- [I was tired of Backstage eating 16GB RAM, so I built a lightweight alternative in Python](https://dev.to/__95bd8e69142b/i-was-tired-of-backstage-eating-16gb-ram-so-i-built-a-lightweight-alternative-in-python-3jof)
+- [Why Raft Can’t Safely Commit Old-Term Entries](https://dev.to/abdellani/why-raft-cant-safely-commit-old-term-entries-370p)
+- [Making Open Transit Data Visible: How a Next.js Migration Changed What Google and LLMs See](https://dev.to/mobilitydata/making-open-transit-data-visible-how-a-nextjs-migration-changed-what-google-and-llms-see-3gh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
