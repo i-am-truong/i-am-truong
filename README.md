@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Safe MCP Server for SQL](https://dev.to/borakilicoglu/ai-safe-mcp-server-for-sql-4jn4)
-- [Tired of hand-editing Traefik YAML? This little tool makes route management way easier](https://dev.to/baboon/tired-of-hand-editing-traefik-yaml-this-little-tool-makes-route-management-way-easier-1do6)
-- [Stop Writing Queries Everywhere: The Atomic Habit Your Laravel Codebase Needs](https://dev.to/raheelshan/stop-writing-queries-everywhere-the-atomic-habit-your-laravel-codebase-needs-4g58)
-- [Surviving a Kernel Panic: My Ubuntu War Story](https://dev.to/datawithnaomi/surviving-a-kernel-panic-my-ubuntu-war-story-53j5)
-- [I Built 30 Free Browser-Based Linux &amp; DevOps Tools — Here&#39;s What I Learned](https://dev.to/khimananda/i-built-30-free-browser-based-linux-devops-tools-heres-what-i-learned-97a)
+- [Real-Time Energy Supply Risk Monitoring — How I Combined 4 Government Data Sources Into One API](https://dev.to/dave_sng_ec0ec8421d812d35/real-time-energy-supply-risk-monitoring-how-i-combined-4-government-data-sources-into-one-api-17c1)
+- [Rules vs Skills in Claude Code](https://dev.to/jeffreese/rules-vs-skills-in-claude-code-5cfi)
+- [The Model Already Read the README. MICA v0.1.8 Made It a Protocol](https://dev.to/flamehaven01/the-model-already-read-the-readme-mica-v018-made-it-a-protocol-37j9)
+- [Kafka 4.2.0 on Kubernetes - Complete Setup Guide - Exposed to Internet](https://dev.to/giveitatry/kafka-on-kubernetes-complete-setup-guide-exposed-to-internet-2l83)
+- [EKS Auto Mode: Kubernetes sin drama😝](https://dev.to/aws-espanol/eks-auto-mode-kubernetes-sin-drama-1afk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
