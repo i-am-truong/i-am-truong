@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed an SSI-Breaking Bug in NGINX Gateway Fabric](https://dev.to/oyiz-michael/how-i-fixed-an-ssi-breaking-bug-in-nginx-gateway-fabric-307g)
-- [The AI Agent That Cost $47,000 While Everyone Thought It Was Working](https://dev.to/utibe_okodi_339fb47a13ef5/the-ai-agent-that-cost-47000-while-everyone-thought-it-was-working-1lg6)
-- [How to Give Your AI Agent the Ability to Read Any Webpage](https://dev.to/boehner/how-to-give-your-ai-agent-the-ability-to-read-any-webpage-436j)
-- [CVE-2026-32278: CVE-2026-32278: Stored Cross-Site Scripting &lpar;XSS&rpar; via Unrestricted File Upload in Connect-CMS](https://dev.to/cverports/cve-2026-32278-cve-2026-32278-stored-cross-site-scripting-xss-via-unrestricted-file-upload-in-18d7)
-- [I Stopped Deploying Manually - Here’s My CI/CD Pipeline with GitHub Actions](https://dev.to/foldedodin/i-stopped-deploying-manually-heres-my-cicd-pipeline-with-github-actions-2h6k)
+- [Deploying a Highly Available Web App on AWS Using Terraform](https://dev.to/mary_mutua_9d55b3c269f343/deploying-a-highly-available-web-app-on-aws-using-terraform-5g3)
+- [Rick Beato: Puscifer: The Story Behind The Coolest Record of 2026](https://dev.to/music_youtube/rick-beato-puscifer-the-story-behind-the-coolest-record-of-2026-p99)
+- [Top 6 AI API Testing Tools for Developers &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-api-testing-tools-for-developers-2026-3bep)
+- [AI Training Data Pipeline](https://dev.to/tutorialq/ai-training-data-pipeline-35n8)
+- [Why File systems are hard to debug](https://dev.to/anant_tyagi_3ad473c2eeebb/why-file-systems-are-hard-to-debug-2o0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
