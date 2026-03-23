@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hiring Web/Software Engineer &lpar;Remote, Long-Term&rpar;](https://dev.to/michael_langford/hiring-websoftware-engineer-remote-long-term-27nk)
-- [setdefault is an ugly dict method](https://dev.to/meliowant/setdefault-is-an-ugly-dict-method-md0)
-- [I Got Tired of Fake &quot;Free&quot; Resume Builders, So I Built My Own — 100% Free, No Sign-Up, No Paywalls.](https://dev.to/ansuk_db014e94affd2/i-got-tired-of-fake-free-resume-builders-so-i-built-my-own-100-free-no-sign-up-no-paywalls-151m)
-- [Building browser-only PDF tools — merge, split, and canvas builder without touching a server](https://dev.to/shakeel_skl_019683a0a1836/building-browser-only-pdf-tools-merge-split-and-canvas-builder-without-touching-a-server-2517)
-- [I got tired of rebuilding the same cron job setup. So I built something.](https://dev.to/flavienb_8bcf9742369/i-got-tired-of-rebuilding-the-same-cron-job-setup-so-i-built-something-2g65)
+- [Hiring Senior Full Stack Developer &lpar;Remote, USA&rpar;](https://dev.to/s_winslow/hiring-senior-full-stack-developer-remote-usa-32mm)
+- [How I Built a Multi-Tenant WhatsApp Automation Platform Using n8n and WAHA](https://dev.to/achiya-automation/how-i-built-a-multi-tenant-whatsapp-automation-platform-using-n8n-and-waha-4jj4)
+- [I Built an Instant SEO Audit API — Here&#39;s What I Learned About Technical SEO](https://dev.to/deganiagency/i-built-an-instant-seo-audit-api-heres-what-i-learned-about-technical-seo-2d3o)
+- [SJF4J: A Structured JSON Facade for Java](https://dev.to/hannyu/sjf4j-a-structured-json-facade-for-java-2n0f)
+- [AI Avatar v2 with Pose Editor &lpar;VS Code Extension&rpar;🕺](https://dev.to/webdeveloperhyper/ai-avatar-v2-with-pose-editor-vs-code-extension-38n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
