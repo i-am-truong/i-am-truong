@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Circuit breaker for LLM provider failure](https://dev.to/sandhu93/circuit-breaker-for-llm-provider-failure-53f6)
-- [The Frontend Works… Until It Doesn’t](https://dev.to/mayuri_jha_bc0b497f737276/the-frontend-works-until-it-doesnt-42j9)
-- [Why the Latent Space Needs a Librarian](https://dev.to/peculiarlibrarian/why-the-latent-space-needs-a-librarian-5965)
-- [The Bug That Almost Broke My E-Commerce App](https://dev.to/mindmagic/the-bug-that-almost-broke-my-e-commerce-app-1dgn)
-- [Why Truthy Checks can Break on Zero in TypeScript](https://dev.to/jadebanks/why-truthy-checks-can-break-on-zero-in-typescript-515o)
+- [AI-Safe MCP Server for SQL](https://dev.to/borakilicoglu/ai-safe-mcp-server-for-sql-4jn4)
+- [Tired of hand-editing Traefik YAML? This little tool makes route management way easier](https://dev.to/baboon/tired-of-hand-editing-traefik-yaml-this-little-tool-makes-route-management-way-easier-1do6)
+- [Stop Writing Queries Everywhere: The Atomic Habit Your Laravel Codebase Needs](https://dev.to/raheelshan/stop-writing-queries-everywhere-the-atomic-habit-your-laravel-codebase-needs-4g58)
+- [Surviving a Kernel Panic: My Ubuntu War Story](https://dev.to/datawithnaomi/surviving-a-kernel-panic-my-ubuntu-war-story-53j5)
+- [I Built 30 Free Browser-Based Linux &amp; DevOps Tools — Here&#39;s What I Learned](https://dev.to/khimananda/i-built-30-free-browser-based-linux-devops-tools-heres-what-i-learned-97a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
