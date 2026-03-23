@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Next.js App Makes the Same Database Query 5 Times Per Page Load](https://dev.to/aditya_kushwah/your-nextjs-app-makes-the-same-database-query-5-times-per-page-load-3j24)
+- [CVE-2026-33167: CVE-2026-33167: Cross-Site Scripting &lpar;XSS&rpar; in Ruby on Rails Action Pack Debug Exceptions](https://dev.to/cverports/cve-2026-33167-cve-2026-33167-cross-site-scripting-xss-in-ruby-on-rails-action-pack-debug-4op6)
+- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-2m1l)
+- [Cursor Is a Tool. Operum Is a Team. — Introducing Pluggable AI Engines for Multi-Agent Orchestration](https://dev.to/alprimak/cursor-is-a-tool-operum-is-a-team-introducing-pluggable-ai-engines-for-multi-agent-orchestration-bo0)
 - [I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here&#39;s What Actually Happened.](https://dev.to/pjhoberman/i-ran-60-autoresearch-experiments-on-a-production-search-algorithm-heres-what-actually-happened-46bk)
-- [The Claude Code CVE That Should Change How You Review AI-Generated Code](https://dev.to/toniantunovic/the-claude-code-cve-that-should-change-how-you-review-ai-generated-code-4gd4)
-- [Stop Wrestling with D3.js: 8 Free Tools That Do It Better](https://dev.to/elysiatools/stop-wrestling-with-d3js-8-free-tools-that-do-it-better-2ff1)
-- [Are Banking Apps Safe? Why Yes, But Your Habits Matter More](https://dev.to/aloycwl/are-banking-apps-safe-why-yes-but-your-habits-matter-more-p08)
-- [45,000 Layoffs in March. Companies Blamed AI. The Numbers Say Otherwise.](https://dev.to/adioof/45000-layoffs-in-march-companies-blamed-ai-the-numbers-say-otherwise-4pmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
