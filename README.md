@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a DevOps Pipeline from Scratch: Local Deployment with Vagrant, Docker &amp; Nginx - Part 1](https://dev.to/desmond_goldsmith/building-a-devops-pipeline-from-scratch-local-deployment-with-vagrant-docker-nginx-part-1-11ae)
-- [Never Apply Alone Again: Building an AI Advisor That Never Forgets](https://dev.to/sofiya74/never-apply-alone-again-building-an-ai-advisor-that-never-forgets-1mh2)
-- [I was tired of Backstage eating 16GB RAM, so I built a lightweight alternative in Python](https://dev.to/__95bd8e69142b/i-was-tired-of-backstage-eating-16gb-ram-so-i-built-a-lightweight-alternative-in-python-3jof)
-- [Why Raft Can’t Safely Commit Old-Term Entries](https://dev.to/abdellani/why-raft-cant-safely-commit-old-term-entries-370p)
-- [Making Open Transit Data Visible: How a Next.js Migration Changed What Google and LLMs See](https://dev.to/mobilitydata/making-open-transit-data-visible-how-a-nextjs-migration-changed-what-google-and-llms-see-3gh6)
+- [When 100.00 Means Nothing: Gaming Coding Assessments](https://dev.to/realactioner/when-10000-means-nothing-gaming-coding-assessments-3e4l)
+- [OpenDataLoader PDF v2.0 Hits #1 on GitHub Trending Globally !](https://dev.to/katash/opendataloader-pdf-v20-hits-1-on-github-trending-globally--1ffa)
+- [The old works! &lpar;or the humble monolith&rpar;](https://dev.to/mbarcia/the-old-works-or-the-humble-monolith-5fdl)
+- [Hobby Spring Boot vs Professional Spring Boot](https://dev.to/poja/hobby-spring-boot-vs-professional-spring-boot-lg9)
+- [Unlocking the Power of Wallet Intelligence](https://dev.to/jahara_magarang_ef0ecbe761/unlocking-the-power-of-wallet-intelligence-48fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
