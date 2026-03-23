@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an MCP Server with Python in 5 Min](https://dev.to/nebulagg/how-to-build-an-mcp-server-with-python-in-5-min-2dmo)
-- [Catch Terraform Security Issues Before They Hit Production — With a Single API Call](https://dev.to/diffsense/catch-terraform-security-issues-before-they-hit-production-with-a-single-api-call-4ijd)
-- [Pet News Roundup: March 23, 2026](https://dev.to/krlz/pet-news-roundup-march-23-2026-4gll)
-- [Adding Bayesian Ensemble + Monte Carlo to an NPB Prediction System](https://dev.to/yasumorishima/adding-bayesian-ensemble-monte-carlo-to-an-npb-prediction-system-2fl1)
-- [I applied Haskell&#39;s Applicative Functors to Kotlin Coroutines. Here&#39;s what happened.](https://dev.to/damian_lattenero/i-applied-haskells-applicative-functors-to-kotlin-coroutines-heres-what-happened-l06)
+- [How I Fixed an SSI-Breaking Bug in NGINX Gateway Fabric](https://dev.to/oyiz-michael/how-i-fixed-an-ssi-breaking-bug-in-nginx-gateway-fabric-307g)
+- [The AI Agent That Cost $47,000 While Everyone Thought It Was Working](https://dev.to/utibe_okodi_339fb47a13ef5/the-ai-agent-that-cost-47000-while-everyone-thought-it-was-working-1lg6)
+- [How to Give Your AI Agent the Ability to Read Any Webpage](https://dev.to/boehner/how-to-give-your-ai-agent-the-ability-to-read-any-webpage-436j)
+- [CVE-2026-32278: CVE-2026-32278: Stored Cross-Site Scripting &lpar;XSS&rpar; via Unrestricted File Upload in Connect-CMS](https://dev.to/cverports/cve-2026-32278-cve-2026-32278-stored-cross-site-scripting-xss-via-unrestricted-file-upload-in-18d7)
+- [I Stopped Deploying Manually - Here’s My CI/CD Pipeline with GitHub Actions](https://dev.to/foldedodin/i-stopped-deploying-manually-heres-my-cicd-pipeline-with-github-actions-2h6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
