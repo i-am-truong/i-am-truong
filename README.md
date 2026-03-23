@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Energy Supply Risk Monitoring — How I Combined 4 Government Data Sources Into One API](https://dev.to/dave_sng_ec0ec8421d812d35/real-time-energy-supply-risk-monitoring-how-i-combined-4-government-data-sources-into-one-api-17c1)
-- [Rules vs Skills in Claude Code](https://dev.to/jeffreese/rules-vs-skills-in-claude-code-5cfi)
-- [The Model Already Read the README. MICA v0.1.8 Made It a Protocol](https://dev.to/flamehaven01/the-model-already-read-the-readme-mica-v018-made-it-a-protocol-37j9)
-- [Kafka 4.2.0 on Kubernetes - Complete Setup Guide - Exposed to Internet](https://dev.to/giveitatry/kafka-on-kubernetes-complete-setup-guide-exposed-to-internet-2l83)
-- [EKS Auto Mode: Kubernetes sin drama😝](https://dev.to/aws-espanol/eks-auto-mode-kubernetes-sin-drama-1afk)
+- [When You Should Use Vue Teleport](https://dev.to/jacobandrewsky/when-you-should-use-vue-teleport-4k6i)
+- [JSON Tasks Every Developer Does — And the Fastest Way to Do Each One](https://dev.to/work_hau_cb718f47075930f9/json-tasks-every-developer-does-and-the-fastest-way-to-do-each-one-1hf8)
+- [AWS CDK Tips: How to Centrally Apply Configurations to Multiple Resources](https://dev.to/aws-heroes/aws-cdk-tips-how-to-centrally-apply-configurations-to-multiple-resources-i3g)
+- [[Boost]](https://dev.to/joachimzeelmaekers/-2heb)
+- [Kotlin Data Mapping](https://dev.to/krun_pro/kotlin-data-mapping-578g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
