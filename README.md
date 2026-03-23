@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Highly Available Web App on AWS Using Terraform](https://dev.to/mary_mutua_9d55b3c269f343/deploying-a-highly-available-web-app-on-aws-using-terraform-5g3)
-- [Rick Beato: Puscifer: The Story Behind The Coolest Record of 2026](https://dev.to/music_youtube/rick-beato-puscifer-the-story-behind-the-coolest-record-of-2026-p99)
-- [Top 6 AI API Testing Tools for Developers &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-api-testing-tools-for-developers-2026-3bep)
-- [AI Training Data Pipeline](https://dev.to/tutorialq/ai-training-data-pipeline-35n8)
-- [Why File systems are hard to debug](https://dev.to/anant_tyagi_3ad473c2eeebb/why-file-systems-are-hard-to-debug-2o0j)
+- [I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here&#39;s What Actually Happened.](https://dev.to/pjhoberman/i-ran-60-autoresearch-experiments-on-a-production-search-algorithm-heres-what-actually-happened-46bk)
+- [The Claude Code CVE That Should Change How You Review AI-Generated Code](https://dev.to/toniantunovic/the-claude-code-cve-that-should-change-how-you-review-ai-generated-code-4gd4)
+- [Stop Wrestling with D3.js: 8 Free Tools That Do It Better](https://dev.to/elysiatools/stop-wrestling-with-d3js-8-free-tools-that-do-it-better-2ff1)
+- [Are Banking Apps Safe? Why Yes, But Your Habits Matter More](https://dev.to/aloycwl/are-banking-apps-safe-why-yes-but-your-habits-matter-more-p08)
+- [45,000 Layoffs in March. Companies Blamed AI. The Numbers Say Otherwise.](https://dev.to/adioof/45000-layoffs-in-march-companies-blamed-ai-the-numbers-say-otherwise-4pmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
