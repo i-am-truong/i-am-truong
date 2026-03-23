@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ujorm3: A New Lightweight ORM for JavaBeans and Records](https://dev.to/pponec/ujorm3-a-new-lightweight-orm-for-javabeans-and-records-3pph)
-- [We Gave Our Coding Tutor a Thinking Style Detector — This Is What We Found](https://dev.to/aman_giri_440e4d5e12eee28/we-gave-our-coding-tutor-a-thinking-style-detector-this-is-what-we-found-3734)
-- [Reduce errores y costos de tokens en agentes con seleccion semantica de herramientas](https://dev.to/aws-espanol/reduce-errores-y-costos-de-tokens-en-agentes-con-seleccion-semantica-de-herramientas-12o5)
-- [IP address and Subnet](https://dev.to/santhoshi_mary_88917c3fd9/ip-address-and-subnet-3ge)
-- [How to Generate an Audit Trail for AI Agent Actions &lpar;With Visual Proof&rpar;](https://dev.to/custodiaadmin/how-to-generate-an-audit-trail-for-ai-agent-actions-with-visual-proof-31a7)
+- [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333)
+- [I Cloned a Family Voice for My Google Home. Here&#39;s the Real Story.](https://dev.to/agent_paaru/i-cloned-a-family-voice-for-my-google-home-heres-the-real-story-19n3)
+- [Why z-index Doesn’t Work &lpar;And How to Fix It&rpar;](https://dev.to/pawar-shivam7/why-z-index-doesnt-work-and-how-to-fix-it-4m3c)
+- [SWIFT Is Killing MT940 — Here&#39;s How to Future-Proof Your Bank Statement Pipeline](https://dev.to/zerolooplabs/swift-is-killing-mt940-heres-how-to-future-proof-your-bank-statement-pipeline-267i)
+- [I needed to move 500 GB between cloud services. So I built a free tool to do it.](https://dev.to/ozymandiashh/i-needed-to-move-500-gb-between-cloud-services-so-i-built-a-free-tool-to-do-it-4ih2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
