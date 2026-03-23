@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ASSIGNMENT 20](https://dev.to/tanishka_v_b7e4add4c1c1a4/assignment-20-59do)
-- [10 AI Code Review Tools That Actually Caught Bugs My Team Missed](https://dev.to/dextralabs/10-ai-code-review-tools-that-actually-caught-bugs-my-team-missed-n8g)
-- [How I Built a Free Browser-Based Monitor Testing Tool with Astro](https://dev.to/daniel_park_12764446e1183/how-i-built-a-free-browser-based-monitor-testing-tool-with-astro-3p39)
-- [The Most Painful Career Lesson My Best Job Taught Me](https://dev.to/canro91/the-most-painful-career-lesson-my-best-job-taught-me-ca2)
-- [tRPC in 2026: Full-Stack TypeScript Without the Boilerplate](https://dev.to/ottoaria/trpc-in-2026-full-stack-typescript-without-the-boilerplate-4a47)
+- [Circuit breaker for LLM provider failure](https://dev.to/sandhu93/circuit-breaker-for-llm-provider-failure-53f6)
+- [The Frontend Works… Until It Doesn’t](https://dev.to/mayuri_jha_bc0b497f737276/the-frontend-works-until-it-doesnt-42j9)
+- [Why the Latent Space Needs a Librarian](https://dev.to/peculiarlibrarian/why-the-latent-space-needs-a-librarian-5965)
+- [The Bug That Almost Broke My E-Commerce App](https://dev.to/mindmagic/the-bug-that-almost-broke-my-e-commerce-app-1dgn)
+- [Why Truthy Checks can Break on Zero in TypeScript](https://dev.to/jadebanks/why-truthy-checks-can-break-on-zero-in-typescript-515o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
