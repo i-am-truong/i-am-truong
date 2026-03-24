@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Image Search Tool for E-commerce Sellers in 2026](https://dev.to/ironman_9756998bd01234a73/best-image-search-tool-for-e-commerce-sellers-in-2026-4efa)
-- [How to Set Up Stripe Subscriptions in Next.js 16 &lpar;Complete Guide&rpar;](https://dev.to/huangyongshan46a11y/how-to-set-up-stripe-subscriptions-in-nextjs-16-complete-guide-phd)
-- [My MacBook Went Offline — So I Ditched Overleaf for TeX64](https://dev.to/tex64/my-macbook-went-offline-so-i-ditched-overleaf-for-tex64-1mal)
-- [Open Source Marketing: The Complete Guide for 2026](https://dev.to/iris1031/open-source-marketing-the-complete-guide-for-2026-jp3)
-- [How to Monitor &amp; Improve Workplace Operations](https://dev.to/aloycwl/how-to-monitor-improve-workplace-operations-477l)
+- [Automate your Dev.to presence with the Forem API](https://dev.to/jonesrussell/automate-your-devto-presence-with-the-forem-api-4h39)
+- [API Route Lister - The Ultimate CLI Tool for Discovering API Routes](https://dev.to/devin00100/api-route-lister-the-ultimate-cli-tool-for-discovering-api-routes-3111)
+- [Three-Week Sprint: New Homepage, Dark Mode, and Operations Dashboard](https://dev.to/psrestful/three-week-sprint-new-homepage-dark-mode-and-operations-dashboard-2g4p)
+- [Self-Hosting AI in 2026: Privacy, Control, and the Case for Running Your Own](https://dev.to/kevinzy189/self-hosting-ai-in-2026-privacy-control-and-the-case-for-running-your-own-59ek)
+- [YC Funded 8 Workflow Automation Startups in 4 Batches. We Dug Into What GitHub, SEC Filings, and Academic Research Show.](https://dev.to/edperlman/yc-funded-8-workflow-automation-startups-in-4-batches-we-dug-into-what-github-sec-filings-and-6a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
