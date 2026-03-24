@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ten Years of Uncomfortable](https://dev.to/magnificode/ten-years-of-uncomfortable-k9f)
-- [Securing Networks with pfSense: VLAN Segmentation and Traffic Control in IT](https://dev.to/shaheel_jm/securing-networks-with-pfsense-vlan-segmentation-traffic-control-and-disaster-recovery-in-it-47ch)
-- [ONNX Runtime + pgvector in Django: semantic search without PyTorch or external APIs](https://dev.to/matzalazar/onnx-runtime-pgvector-in-django-semantic-search-without-pytorch-or-external-apis-4g1m)
-- [# How I Automated My MSP Tasks Using PowerShell &lpar;And Saved Hours Every Week&rpar;](https://dev.to/arthur_kirby_f66568779ac5/-how-i-automated-my-msp-tasks-using-powershell-and-saved-hours-every-week-3ji3)
-- [🧩 Data Collection Pipeline — The First Step to Building an LLM Twin🧩](https://dev.to/tomorrmonkey/data-collection-pipeline-the-first-step-to-building-an-llm-twin-2ii4)
+- [How I got reliable speech-to-text in Telegram and WhatsApp &lpar;and let Claude Code set it up&rpar;](https://dev.to/omachala/how-i-got-reliable-speech-to-text-in-telegram-and-whatsapp-and-let-claude-code-set-it-up-3hje)
+- [LangChain Deep Agents vs OpenAI Agents SDK &lpar;2026&rpar;](https://dev.to/nebulagg/langchain-deep-agents-vs-openai-agents-sdk-2026-2bb1)
+- [Run AI Models in Your Browser: The Ultimate Guide to Transformers.js](https://dev.to/programmingcentral/run-ai-models-in-your-browser-the-ultimate-guide-to-transformersjs-5f57)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2)
+- [I built 15 dev tools because I was tired of slow and ad-heavy ones](https://dev.to/vxbuilds/i-built-15-dev-tools-because-i-was-tired-of-slow-and-ad-heavy-ones-ifb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
