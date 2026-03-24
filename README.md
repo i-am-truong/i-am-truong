@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I got reliable speech-to-text in Telegram and WhatsApp &lpar;and let Claude Code set it up&rpar;](https://dev.to/omachala/how-i-got-reliable-speech-to-text-in-telegram-and-whatsapp-and-let-claude-code-set-it-up-3hje)
-- [LangChain Deep Agents vs OpenAI Agents SDK &lpar;2026&rpar;](https://dev.to/nebulagg/langchain-deep-agents-vs-openai-agents-sdk-2026-2bb1)
-- [Run AI Models in Your Browser: The Ultimate Guide to Transformers.js](https://dev.to/programmingcentral/run-ai-models-in-your-browser-the-ultimate-guide-to-transformersjs-5f57)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2)
-- [I built 15 dev tools because I was tired of slow and ad-heavy ones](https://dev.to/vxbuilds/i-built-15-dev-tools-because-i-was-tired-of-slow-and-ad-heavy-ones-ifb)
+- [Building Taskmaster: A Go-Powered Process Supervisor from Scratch](https://dev.to/uba-code/building-taskmaster-a-go-powered-process-supervisor-from-scratch-12fn)
+- [Introducing L-BOM and GUI-BOM](https://dev.to/obtuseaglet/introducing-l-bom-and-gui-bom-16ck)
+- [20 Free Browser Tools That Replace Paid Software &lpar;-99/mo&rpar;](https://dev.to/teamzlab/20-free-browser-tools-that-replace-paid-software-99mo-45fo)
+- [NASA Has 5 Free APIs — Track Asteroids, Mars Photos &amp; Space Weather &lpar;No Auth Required&rpar;](https://dev.to/0012303/nasa-has-5-free-apis-track-asteroids-mars-photos-space-weather-no-auth-required-43p0)
+- [Fedora: My journey into open source OS](https://dev.to/andungu/fedora-my-journey-into-open-source-os-40fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
