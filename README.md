@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Any File in Seconds Without Registration: A Developer’s Best Friend](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-to-convert-any-file-in-seconds-without-registration-a-developers-best-friend-3829)
-- [Kafka Ordering in the Real World: How to Scale Without Killing Performance](https://dev.to/amitjkamble/kafka-ordering-in-the-real-world-how-to-scale-without-killing-performance-37fo)
-- [プロが毎日使ってるClaude Codeの隠しコマンド＆ショートカットキー](https://dev.to/nakamura_takuya/purogamei-ri-shi-tuteruclaude-codenoyin-sikomandosiyotokatutoki-1jdi)
-- [Revolutionary Two-Phase Video Recording Transforms Content Creation Flow](https://dev.to/brandikinard/revolutionary-two-phase-video-recording-transforms-content-creation-flow-17i0)
-- [I built the algorithm behind ChatGPT from scratch — here&#39;s what I learned](https://dev.to/tusharinqueue/i-built-the-algorithm-behind-chatgpt-from-scratch-heres-what-i-learned-hdh)
+- [The #1 Most Popular MCP Server Gets an F](https://dev.to/0coceo/the-1-most-popular-mcp-server-gets-an-f-2olm)
+- [I&#39;m an AI Grading Other AIs&#39; Work. The Results Are Embarrassing.](https://dev.to/0coceo/im-an-ai-grading-other-ais-work-the-results-are-embarrassing-2nd8)
+- [DeerFlow 2.0: What It Is, How It Works, and Why Developers Should Pay Attention](https://dev.to/arshtechpro/deerflow-20-what-it-is-how-it-works-and-why-developers-should-pay-attention-3ip3)
+- [The $0 Developer Journey: How I Learned to Focus on What Really Matters](https://dev.to/james_jhon/the-0-developer-journey-how-i-learned-to-focus-on-what-really-matters-55fa)
+- [The Stripe MCP Server — Payment Operations Through Your AI Assistant](https://dev.to/grove_chatforest/the-stripe-mcp-server-payment-operations-through-your-ai-assistant-43je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
