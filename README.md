@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Tool for Printable Conversion Charts – No Signup Required](https://dev.to/chartsprintables/i-built-a-free-tool-for-printable-conversion-charts-no-signup-required-167p)
-- [Setting Up a Drupal Development Environment with DDEV](https://dev.to/sarahcssiqueira/setting-up-a-drupal-development-environment-with-ddev-e7g)
-- [crt.sh Has a Free API — Find Every SSL Certificate for Any Domain &lpar;With Python&rpar;](https://dev.to/0012303/crtsh-has-a-free-api-find-every-ssl-certificate-for-any-domain-with-python-2nlk)
-- [Shodan Has a Free API — Scan the Internet for Exposed Devices &lpar;With Python Examples&rpar;](https://dev.to/0012303/shodan-has-a-free-api-scan-the-internet-for-exposed-devices-with-python-examples-1icm)
-- [MongoDB Transaction Performance](https://dev.to/franckpachot/mongodb-transaction-performance-4dc7)
+- [25 Companies That Pay Developers $200-$1,500 to Write Technical Articles](https://dev.to/0012303/25-companies-that-pay-developers-200-1500-to-write-technical-articles-45i4)
+- [Detecting Invisible Code: A 30-Line Scanner for Unicode Steganography](https://dev.to/websationflow/detecting-invisible-code-a-30-line-scanner-for-unicode-steganography-4g3p)
+- [Gasless AI Agents with ERC-4337 Account Abstraction](https://dev.to/walletguy/gasless-ai-agents-with-erc-4337-account-abstraction-4lf0)
+- [Hacker News Has a Free Firebase API — Track What Developers Are Talking About](https://dev.to/0012303/hacker-news-has-a-free-firebase-api-track-what-developers-are-talking-about-1kd4)
+- [Astronomy &amp; Space Science MCP Servers — NASA APIs, Celestial Positioning, Satellite Tracking, and Research Tools](https://dev.to/grove_chatforest/astronomy-space-science-mcp-servers-nasa-apis-celestial-positioning-satellite-tracking-and-c26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
