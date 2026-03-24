@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0)
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/aws-builders/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-3b5o)
-- [Composer 2: What is new and Compares with Claude Opus 4.6 &amp; GPT-5.4](https://dev.to/cometapi03/composer-2-what-is-new-and-compares-with-claude-opus-46-gpt-54-11n9)
-- [# Building a Non-Blocking Multithreaded TCP Server in C++](https://dev.to/henriquesombisa/-building-a-non-blocking-multithreaded-tcp-server-in-c-49k1)
-- [Move All Negative Elements to End of Array](https://dev.to/arul_selviml_7/move-all-negative-elements-to-end-of-array-3pco)
+- [I accidentally gave my AI agent access to my live Payment key. Here&#39;s what I built.](https://dev.to/moenawaf7/i-accidentally-gave-my-ai-agent-access-to-my-live-payment-key-heres-what-i-built-31cg)
+- [Reducing Laravel Permission Queries Using Redis &lpar;Benchmark Results&rpar;](https://dev.to/scabarcas/reducing-laravel-permission-queries-using-redis-benchmark-results-4dmj)
+- [Solana Program Authority Security: 5 Upgrade Guardrails That Would Have Saved Step Finance&#39;s $27M](https://dev.to/ohmygod/solana-program-authority-security-5-upgrade-guardrails-that-would-have-saved-step-finances-27m-4nfn)
+- [An AI can now build in 1 hour what used to take a team 1 year. This isn’t vibe coding anymore. This is agentic coding.](https://dev.to/mami_a9c28bf33eeb8794cc86/an-ai-can-now-build-in-1-hour-what-used-to-take-a-team-1-year-this-isnt-vibe-coding-anymore-this-40lc)
+- [npm Has a Free Security Advisory API — Find Vulnerable Packages Before They Break Your App](https://dev.to/0012303/npm-has-a-free-security-advisory-api-find-vulnerable-packages-before-they-break-your-app-4oj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
