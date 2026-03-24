@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How the WPPF Update Helper Connects Private Plugins to Native WordPress Updates](https://dev.to/kyle-niemiec/how-the-wppf-update-helper-connects-private-plugins-to-native-wordpress-updates-hpb)
-- [Voice Governance](https://dev.to/petersalvato/voice-governance-5g6c)
-- [The IEP for AI Systems](https://dev.to/petersalvato/the-iep-for-ai-systems-39nn)
-- [What I Built in 2025](https://dev.to/petersalvato/what-i-built-in-2025-518o)
-- [SaaS Landing Page That Converts: Next.js + Tailwind CSS &lpar;With Full Code&rpar;](https://dev.to/huangyongshan46a11y/saas-landing-page-that-converts-nextjs-tailwind-css-with-full-code-33ae)
+- [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0)
+- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/aws-builders/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-3b5o)
+- [Composer 2: What is new and Compares with Claude Opus 4.6 &amp; GPT-5.4](https://dev.to/cometapi03/composer-2-what-is-new-and-compares-with-claude-opus-46-gpt-54-11n9)
+- [# Building a Non-Blocking Multithreaded TCP Server in C++](https://dev.to/henriquesombisa/-building-a-non-blocking-multithreaded-tcp-server-in-c-49k1)
+- [Move All Negative Elements to End of Array](https://dev.to/arul_selviml_7/move-all-negative-elements-to-end-of-array-3pco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
