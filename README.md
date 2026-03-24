@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate your Dev.to presence with the Forem API](https://dev.to/jonesrussell/automate-your-devto-presence-with-the-forem-api-4h39)
-- [API Route Lister - The Ultimate CLI Tool for Discovering API Routes](https://dev.to/devin00100/api-route-lister-the-ultimate-cli-tool-for-discovering-api-routes-3111)
-- [Three-Week Sprint: New Homepage, Dark Mode, and Operations Dashboard](https://dev.to/psrestful/three-week-sprint-new-homepage-dark-mode-and-operations-dashboard-2g4p)
-- [Self-Hosting AI in 2026: Privacy, Control, and the Case for Running Your Own](https://dev.to/kevinzy189/self-hosting-ai-in-2026-privacy-control-and-the-case-for-running-your-own-59ek)
-- [YC Funded 8 Workflow Automation Startups in 4 Batches. We Dug Into What GitHub, SEC Filings, and Academic Research Show.](https://dev.to/edperlman/yc-funded-8-workflow-automation-startups-in-4-batches-we-dug-into-what-github-sec-filings-and-6a0)
+- [Kavach: Building a Real-Time Parametric Insurance System for the Gig Economy](https://dev.to/ayushwrite63/kavach-building-a-real-time-parametric-insurance-system-for-the-gig-economy-47je)
+- [How to Generate PDF Reports from HTML Templates in Python](https://dev.to/custodiaadmin/how-to-generate-pdf-reports-from-html-templates-in-python-3c05)
+- [I tracked 37 airport trips in a spreadsheet. Here&#39;s what the data actually shows about transportation costs.](https://dev.to/casey_parker_78c7b16bc629/i-tracked-37-airport-trips-in-a-spreadsheet-heres-what-the-data-actually-shows-about-134n)
+- [AI Before Computers: Myths, Legends, and Mechanical Marvels](https://dev.to/ishaan00/ai-before-computers-myths-legends-and-mechanical-marvels-4dk1)
+- [HTML Part 2](https://dev.to/nanthini_ammu_ac02ad32802/html-part-2-4pnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
