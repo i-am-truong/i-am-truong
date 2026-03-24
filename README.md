@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Communication Is Important — But It’s Not the Most Important Thing in Engineering Teams](https://dev.to/izaaccomze/communication-is-important-but-its-not-the-most-important-thing-in-engineering-teams-7e4)
-- [How to Make Your Email Marketing Accessible: A Complete Guide](https://dev.to/imta71770dot/how-to-make-your-email-marketing-accessible-a-complete-guide-57od)
-- [5 Micro-SaaS Ideas You Can Build in a Weekend With Solana](https://dev.to/tatelyman/5-micro-saas-ideas-you-can-build-in-a-weekend-with-solana-14bb)
-- [I Built a Script That Finds Hidden APIs on Any Website &lpar;Here&#39;s the Code&rpar;](https://dev.to/0012303/i-built-a-script-that-finds-hidden-apis-on-any-website-heres-the-code-2e5j)
-- [How to Add OG Images to Your Website &lpar;Manual vs. Automated&rpar;](https://dev.to/narender_singh_6c6e271c67/how-to-add-og-images-to-your-website-manual-vs-automated-3gkm)
+- [I Built a Free Tool for Printable Conversion Charts – No Signup Required](https://dev.to/chartsprintables/i-built-a-free-tool-for-printable-conversion-charts-no-signup-required-167p)
+- [Setting Up a Drupal Development Environment with DDEV](https://dev.to/sarahcssiqueira/setting-up-a-drupal-development-environment-with-ddev-e7g)
+- [crt.sh Has a Free API — Find Every SSL Certificate for Any Domain &lpar;With Python&rpar;](https://dev.to/0012303/crtsh-has-a-free-api-find-every-ssl-certificate-for-any-domain-with-python-2nlk)
+- [Shodan Has a Free API — Scan the Internet for Exposed Devices &lpar;With Python Examples&rpar;](https://dev.to/0012303/shodan-has-a-free-api-scan-the-internet-for-exposed-devices-with-python-examples-1icm)
+- [MongoDB Transaction Performance](https://dev.to/franckpachot/mongodb-transaction-performance-4dc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
