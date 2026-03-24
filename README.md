@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We anchor every AI-generated commit to Bitcoin. Here is why.](https://dev.to/jonna_fassbender_0a699631/we-anchor-every-ai-generated-commit-to-bitcoin-here-is-why-38ee)
-- [What if your context maps, event flows, and dependency graphs just... generated themselves from Markdown?](https://dev.to/raj_navakoti/what-if-your-context-maps-event-flows-and-dependency-graphs-just-generated-themselves-from-5d57)
-- [BCC in Work Emails: When Hidden Recipients Mean Hidden Agendas](https://dev.to/skippy_magnificent_8cce24/bcc-in-work-emails-when-hidden-recipients-mean-hidden-agendas-1i25)
-- [Most LLM updates don’t matter. These 5 might.](https://dev.to/sarvabharan/most-llm-updates-dont-matter-these-5-might-4m60)
-- [This is what my &quot;team&quot; looks like. 7 AI agents, one dashboard, no employees.](https://dev.to/rushikesh_bodakhe_db28644/this-is-what-my-team-looks-like-7-ai-agents-one-dashboard-no-employees-5281)
+- [AI Skills Are the New Boilerplate. They Solve Almost Nothing.](https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo)
+- [Why Your AI Agent Needs to Argue With Itself](https://dev.to/apireno/why-your-ai-agent-needs-to-argue-with-itself-4idc)
+- [AWS Lambda in Python with Datadog Integration](https://dev.to/aws-builders/aws-lambda-in-python-with-datadog-integration-4675)
+- [I Replaced My Morning Routine App With a Stock Chart. Here&#39;s What Changed.](https://dev.to/eastkap/i-replaced-my-morning-routine-app-with-a-stock-chart-heres-what-changed-58bc)
+- [Why C Still Dominates Embedded Systems in 2026](https://dev.to/keerthinath_2decdd1426ef2/why-c-still-dominates-embedded-systems-in-2026-3cm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
