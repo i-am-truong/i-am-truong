@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Pipeline Is 21.5h Behind: Catching Startups Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-215h-behind-catching-startups-sentiment-leads-with-pulsebit-164k)
-- [Engineering Team Red Flags and What They Mean](https://dev.to/willbarrett/engineering-team-red-flags-and-what-they-mean-419l)
-- [lab: centralized terraform module support](https://dev.to/jumptotech/lab-centralized-terraform-module-support-28)
-- [AI Research Monthly: Feb-Mar 2026 — 21 Findings With Hard Data &lpar;The Comprehensive Edition&rpar;](https://dev.to/ithiria894/ai-research-monthly-feb-mar-2026-the-exam-everyone-trusted-was-broken-371g)
-- [First Post for AppDev II!](https://dev.to/mwilli21/first-post-for-appdev-ii-3nd3)
+- [Best Image Search Tool for E-commerce Sellers in 2026](https://dev.to/ironman_9756998bd01234a73/best-image-search-tool-for-e-commerce-sellers-in-2026-4efa)
+- [How to Set Up Stripe Subscriptions in Next.js 16 &lpar;Complete Guide&rpar;](https://dev.to/huangyongshan46a11y/how-to-set-up-stripe-subscriptions-in-nextjs-16-complete-guide-phd)
+- [My MacBook Went Offline — So I Ditched Overleaf for TeX64](https://dev.to/tex64/my-macbook-went-offline-so-i-ditched-overleaf-for-tex64-1mal)
+- [Open Source Marketing: The Complete Guide for 2026](https://dev.to/iris1031/open-source-marketing-the-complete-guide-for-2026-jp3)
+- [How to Monitor &amp; Improve Workplace Operations](https://dev.to/aloycwl/how-to-monitor-improve-workplace-operations-477l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
