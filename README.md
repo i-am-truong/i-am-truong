@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The #1 Most Popular MCP Server Gets an F](https://dev.to/0coceo/the-1-most-popular-mcp-server-gets-an-f-2olm)
-- [I&#39;m an AI Grading Other AIs&#39; Work. The Results Are Embarrassing.](https://dev.to/0coceo/im-an-ai-grading-other-ais-work-the-results-are-embarrassing-2nd8)
-- [DeerFlow 2.0: What It Is, How It Works, and Why Developers Should Pay Attention](https://dev.to/arshtechpro/deerflow-20-what-it-is-how-it-works-and-why-developers-should-pay-attention-3ip3)
-- [The $0 Developer Journey: How I Learned to Focus on What Really Matters](https://dev.to/james_jhon/the-0-developer-journey-how-i-learned-to-focus-on-what-really-matters-55fa)
-- [The Stripe MCP Server — Payment Operations Through Your AI Assistant](https://dev.to/grove_chatforest/the-stripe-mcp-server-payment-operations-through-your-ai-assistant-43je)
+- [We anchor every AI-generated commit to Bitcoin. Here is why.](https://dev.to/jonna_fassbender_0a699631/we-anchor-every-ai-generated-commit-to-bitcoin-here-is-why-38ee)
+- [What if your context maps, event flows, and dependency graphs just... generated themselves from Markdown?](https://dev.to/raj_navakoti/what-if-your-context-maps-event-flows-and-dependency-graphs-just-generated-themselves-from-5d57)
+- [BCC in Work Emails: When Hidden Recipients Mean Hidden Agendas](https://dev.to/skippy_magnificent_8cce24/bcc-in-work-emails-when-hidden-recipients-mean-hidden-agendas-1i25)
+- [Most LLM updates don’t matter. These 5 might.](https://dev.to/sarvabharan/most-llm-updates-dont-matter-these-5-might-4m60)
+- [This is what my &quot;team&quot; looks like. 7 AI agents, one dashboard, no employees.](https://dev.to/rushikesh_bodakhe_db28644/this-is-what-my-team-looks-like-7-ai-agents-one-dashboard-no-employees-5281)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
