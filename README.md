@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Taskmaster: A Go-Powered Process Supervisor from Scratch](https://dev.to/uba-code/building-taskmaster-a-go-powered-process-supervisor-from-scratch-12fn)
-- [Introducing L-BOM and GUI-BOM](https://dev.to/obtuseaglet/introducing-l-bom-and-gui-bom-16ck)
-- [20 Free Browser Tools That Replace Paid Software &lpar;-99/mo&rpar;](https://dev.to/teamzlab/20-free-browser-tools-that-replace-paid-software-99mo-45fo)
-- [NASA Has 5 Free APIs — Track Asteroids, Mars Photos &amp; Space Weather &lpar;No Auth Required&rpar;](https://dev.to/0012303/nasa-has-5-free-apis-track-asteroids-mars-photos-space-weather-no-auth-required-43p0)
-- [Fedora: My journey into open source OS](https://dev.to/andungu/fedora-my-journey-into-open-source-os-40fl)
+- [I&#39;m working on a new retrieval system. Not RAG](https://dev.to/burstfirea47050/im-working-on-a-new-retrieval-system-not-rag-ak4)
+- [I Built a WordPress Plugin with a Team of 6 AI Agents &lpar;It Processes 16,000 Posts in 90 Seconds&rpar;](https://dev.to/cristiantalasanchez/i-built-a-wordpress-plugin-with-a-team-of-6-ai-agents-it-processes-16000-posts-in-90-seconds-jfl)
+- [Construí un Plugin de WordPress con un Equipo de 6 Agentes IA &lpar;y Procesa 16,000 Posts en 90 Segundos&rpar;](https://dev.to/ctala/construi-un-plugin-de-wordpress-con-un-equipo-de-6-agentes-ia-y-procesa-16000-posts-en-90-2ah)
+- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-254m)
+- [From Crutches to Bijection: How I Wrote a Sudoku Generator in JS](https://dev.to/__arehspb/from-crutches-to-bijection-how-i-wrote-a-sudoku-generator-in-js-1j47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
