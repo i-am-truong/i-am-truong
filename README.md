@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Suspense is a symptom](https://dev.to/iceonfire/suspense-is-a-symptom-clj)
-- [Share your cancer code!](https://dev.to/epigene/share-your-cancer-code-2afg)
-- [Documenting a Narcissist Smear Campaign in Text Messages](https://dev.to/skippy_magnificent_8cce24/documenting-a-narcissist-smear-campaign-in-text-messages-34m0)
-- [The 5-Layer Memory Architecture That Keeps Our AI Agent Running 24/7 Without Forgetting](https://dev.to/talon8575/the-5-layer-memory-architecture-that-keeps-our-ai-agent-running-247-without-forgetting-3a44)
-- [Raycast in 2026: The Mac Launcher That Replaced 4 Apps in My Dev Workflow](https://dev.to/dharanidharan_d_tech/raycast-in-2026-the-mac-launcher-that-replaced-4-apps-in-my-dev-workflow-3pka)
+- [How the WPPF Update Helper Connects Private Plugins to Native WordPress Updates](https://dev.to/kyle-niemiec/how-the-wppf-update-helper-connects-private-plugins-to-native-wordpress-updates-hpb)
+- [Voice Governance](https://dev.to/petersalvato/voice-governance-5g6c)
+- [The IEP for AI Systems](https://dev.to/petersalvato/the-iep-for-ai-systems-39nn)
+- [What I Built in 2025](https://dev.to/petersalvato/what-i-built-in-2025-518o)
+- [SaaS Landing Page That Converts: Next.js + Tailwind CSS &lpar;With Full Code&rpar;](https://dev.to/huangyongshan46a11y/saas-landing-page-that-converts-nextjs-tailwind-css-with-full-code-33ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
