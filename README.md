@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [25 Companies That Pay Developers $200-$1,500 to Write Technical Articles](https://dev.to/0012303/25-companies-that-pay-developers-200-1500-to-write-technical-articles-45i4)
-- [Detecting Invisible Code: A 30-Line Scanner for Unicode Steganography](https://dev.to/websationflow/detecting-invisible-code-a-30-line-scanner-for-unicode-steganography-4g3p)
-- [Gasless AI Agents with ERC-4337 Account Abstraction](https://dev.to/walletguy/gasless-ai-agents-with-erc-4337-account-abstraction-4lf0)
-- [Hacker News Has a Free Firebase API — Track What Developers Are Talking About](https://dev.to/0012303/hacker-news-has-a-free-firebase-api-track-what-developers-are-talking-about-1kd4)
-- [Astronomy &amp; Space Science MCP Servers — NASA APIs, Celestial Positioning, Satellite Tracking, and Research Tools](https://dev.to/grove_chatforest/astronomy-space-science-mcp-servers-nasa-apis-celestial-positioning-satellite-tracking-and-c26)
+- [abuse.ch Has 5 Free APIs — The Complete Threat Intelligence Toolkit You Didn&#39;t Know Existed](https://dev.to/0012303/abusech-has-5-free-apis-the-complete-threat-intelligence-toolkit-you-didnt-know-existed-4jo3)
+- [How to Save 55% on Manus AI Credits in 10 Minutes &lpar;Step-by-Step Setup Guide&rpar;](https://dev.to/rafsilva85/how-to-save-55-on-manus-ai-credits-in-10-minutes-step-by-step-setup-guide-2o0)
+- [How to Coordinate Multiple Claude Code Agents Without Losing Your Mind](https://dev.to/alanwest/how-to-coordinate-multiple-claude-code-agents-without-losing-your-mind-1i9f)
+- [Mastering Pattern Matching in Design and Verification: Boosting Efficiency in Modern Chip Development](https://dev.to/aloycwl/mastering-pattern-matching-in-design-and-verification-boosting-efficiency-in-modern-chip-3n9m)
+- [The Descending Half](https://dev.to/thesythesis/the-descending-half-36n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
