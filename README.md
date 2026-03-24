@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built 71+ Free Browser Tools Because Every &quot;Free&quot; Tool Site Is Terrible](https://dev.to/hcacode/i-built-71-free-browser-tools-because-every-free-tool-site-is-terrible-2nd5)
-- [I built a simulator that runs AI regulations through 10,000 agents and shows you how many comply, relocate, and who evades](https://dev.to/ambar/i-built-a-simulator-that-runs-ai-regulations-through-10000-agents-and-shows-you-how-many-comply-1pa6)
-- [My AI Caught a £3,200 Scope Creep at 3am While I Was Asleep—Here&#39;s the Notion MCP System I Built](https://dev.to/_boweii/my-ai-caught-a-ps3200-scope-creep-at-3am-while-i-was-asleep-heres-the-notion-mcp-system-i-built-1mnj)
-- [Developer Thoughts &quot; !=&quot; Managerial Thought](https://dev.to/av1v3k/developer-thoughts-managerial-thought-3he4)
-- [Google AI Studio Mythical Pet Forge](https://dev.to/dan52242644dan/google-ai-studio-mythical-pet-creator-4226)
+- [Best LiteLLM Alternative for Multi-Team Organizations](https://dev.to/kamya_shah_e69d5dd78f831c/best-litellm-alternative-for-multi-team-organizations-4n55)
+- [Why I Built a Browser-Based Circuit Editor &lpar;SchemaLite&rpar;](https://dev.to/ababu64/why-i-built-a-browser-based-circuit-editor-schemalite-29i5)
+- [Inside SQLite’s Frontend: BETWEEN, OR, LIKE, and GLOB Optimizations](https://dev.to/lovestaco/inside-sqlites-frontend-between-or-like-and-glob-optimizations-28p2)
+- [Competitive Friends Who Undermine You Over Text: The Pattern](https://dev.to/skippy_magnificent_8cce24/competitive-friends-who-undermine-you-over-text-the-pattern-1mci)
+- [Context7 MCP Server — Real-Time Library Docs for AI Coding Agents](https://dev.to/grove_chatforest/context7-mcp-server-real-time-library-docs-for-ai-coding-agents-40k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
