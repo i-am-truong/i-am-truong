@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I accidentally gave my AI agent access to my live Payment key. Here&#39;s what I built.](https://dev.to/moenawaf7/i-accidentally-gave-my-ai-agent-access-to-my-live-payment-key-heres-what-i-built-31cg)
-- [Reducing Laravel Permission Queries Using Redis &lpar;Benchmark Results&rpar;](https://dev.to/scabarcas/reducing-laravel-permission-queries-using-redis-benchmark-results-4dmj)
-- [Solana Program Authority Security: 5 Upgrade Guardrails That Would Have Saved Step Finance&#39;s $27M](https://dev.to/ohmygod/solana-program-authority-security-5-upgrade-guardrails-that-would-have-saved-step-finances-27m-4nfn)
-- [An AI can now build in 1 hour what used to take a team 1 year. This isn’t vibe coding anymore. This is agentic coding.](https://dev.to/mami_a9c28bf33eeb8794cc86/an-ai-can-now-build-in-1-hour-what-used-to-take-a-team-1-year-this-isnt-vibe-coding-anymore-this-40lc)
-- [npm Has a Free Security Advisory API — Find Vulnerable Packages Before They Break Your App](https://dev.to/0012303/npm-has-a-free-security-advisory-api-find-vulnerable-packages-before-they-break-your-app-4oj2)
+- [I Built 71+ Free Browser Tools Because Every &quot;Free&quot; Tool Site Is Terrible](https://dev.to/hcacode/i-built-71-free-browser-tools-because-every-free-tool-site-is-terrible-2nd5)
+- [I built a simulator that runs AI regulations through 10,000 agents and shows you how many comply, relocate, and who evades](https://dev.to/ambar/i-built-a-simulator-that-runs-ai-regulations-through-10000-agents-and-shows-you-how-many-comply-1pa6)
+- [My AI Caught a £3,200 Scope Creep at 3am While I Was Asleep—Here&#39;s the Notion MCP System I Built](https://dev.to/_boweii/my-ai-caught-a-ps3200-scope-creep-at-3am-while-i-was-asleep-heres-the-notion-mcp-system-i-built-1mnj)
+- [Developer Thoughts &quot; !=&quot; Managerial Thought](https://dev.to/av1v3k/developer-thoughts-managerial-thought-3he4)
+- [Google AI Studio Mythical Pet Forge](https://dev.to/dan52242644dan/google-ai-studio-mythical-pet-creator-4226)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
