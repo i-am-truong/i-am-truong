@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kavach: Building a Real-Time Parametric Insurance System for the Gig Economy](https://dev.to/ayushwrite63/kavach-building-a-real-time-parametric-insurance-system-for-the-gig-economy-47je)
-- [How to Generate PDF Reports from HTML Templates in Python](https://dev.to/custodiaadmin/how-to-generate-pdf-reports-from-html-templates-in-python-3c05)
-- [I tracked 37 airport trips in a spreadsheet. Here&#39;s what the data actually shows about transportation costs.](https://dev.to/casey_parker_78c7b16bc629/i-tracked-37-airport-trips-in-a-spreadsheet-heres-what-the-data-actually-shows-about-134n)
-- [AI Before Computers: Myths, Legends, and Mechanical Marvels](https://dev.to/ishaan00/ai-before-computers-myths-legends-and-mechanical-marvels-4dk1)
-- [HTML Part 2](https://dev.to/nanthini_ammu_ac02ad32802/html-part-2-4pnd)
+- [AI Alert Assistant: How n8n + LLM Replace Routine Diagnostics](https://dev.to/javdet/ai-alert-assistant-how-n8n-llm-replace-routine-diagnostics-a9b)
+- [Hackers Tried to Breach My Pipeline at 3 AM — A DevSecOps Survival Guide 🛡️](https://dev.to/sanjaysundarmurthy/hackers-tried-to-breach-my-pipeline-at-3-am-a-devsecops-survival-guide-55im)
+- [From Theory to Practice: Week 1 of Hands-On Offensive Security](https://dev.to/northwillov/from-theory-to-practice-week-1-of-hands-on-offensive-security-3a4h)
+- [The Limits of Vibe Coding — What Nobody Tells You After the Honeymoon Phase](https://dev.to/as1as/the-limits-of-vibe-coding-what-nobody-tells-you-after-the-honeymoon-phase-4c44)
+- [Does My Email Sound Rude? A 60-Second Check Before You Send](https://dev.to/skippy_magnificent_8cce24/does-my-email-sound-rude-a-60-second-check-before-you-send-4com)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
