@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Trades Your Money](https://dev.to/rawveg/ai-trades-your-money-f1n)
-- [How to build a paid MCP tool that AI agents pay to use](https://dev.to/m_m_f2442c87a19635b7a1de2/how-to-build-a-paid-mcp-tool-that-ai-agents-pay-to-use-3pp1)
-- [TechEmpower Framework Benchmarks are now Archived - What&#39;s next?](https://dev.to/kaliumhexacyanoferrat/techempower-framework-benchmarks-are-now-archived-whats-next-3l0a)
-- [Stop Tuning Blind: Query Observability as the Foundation for Database Optimization](https://dev.to/damasosanoja/stop-tuning-blind-query-observability-as-the-foundation-for-database-optimization-113p)
-- [How Adding Video Artifacts to CI Pipelines Transforms Development Workflows](https://dev.to/brandikinard/how-adding-video-artifacts-to-ci-pipelines-transforms-development-workflows-1pjg)
+- [Suspense is a symptom](https://dev.to/iceonfire/suspense-is-a-symptom-clj)
+- [Share your cancer code!](https://dev.to/epigene/share-your-cancer-code-2afg)
+- [Documenting a Narcissist Smear Campaign in Text Messages](https://dev.to/skippy_magnificent_8cce24/documenting-a-narcissist-smear-campaign-in-text-messages-34m0)
+- [The 5-Layer Memory Architecture That Keeps Our AI Agent Running 24/7 Without Forgetting](https://dev.to/talon8575/the-5-layer-memory-architecture-that-keeps-our-ai-agent-running-247-without-forgetting-3a44)
+- [Raycast in 2026: The Mac Launcher That Replaced 4 Apps in My Dev Workflow](https://dev.to/dharanidharan_d_tech/raycast-in-2026-the-mac-launcher-that-replaced-4-apps-in-my-dev-workflow-3pka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
