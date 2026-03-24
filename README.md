@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cara Menggunakan BigCommerce API: Panduan Developer untuk Integrasi E-commerce](https://dev.to/walse/cara-menggunakan-bigcommerce-api-panduan-developer-untuk-integrasi-e-commerce-4hfd)
-- [Designing Fanless POS Systems: Balancing Performance, Reliability, and Aesthetics](https://dev.to/poszeo/designing-fanless-pos-systems-balancing-performance-reliability-and-aesthetics-33bm)
-- [Hướng Dẫn Lập Trình Viên: Tích Hợp Thương Mại Điện Tử Với BigCommerce APIs](https://dev.to/sebbasstian/huong-dan-lap-trinh-vien-tich-hop-thuong-mai-dien-tu-voi-bigcommerce-apis-jha)
-- [The 2026 DeFi Pre-Launch Security Checklist: 7 Attack Surfaces Your Audit Probably Missed](https://dev.to/ohmygod/the-2026-defi-pre-launch-security-checklist-7-attack-surfaces-your-audit-probably-missed-31op)
-- [We read the spec before we read the code. Here is why that changes everything.](https://dev.to/intentguard/we-read-the-spec-before-we-read-the-code-here-is-why-that-changes-everything-4n24)
+- [How to Convert Any File in Seconds Without Registration: A Developer’s Best Friend](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-to-convert-any-file-in-seconds-without-registration-a-developers-best-friend-3829)
+- [Kafka Ordering in the Real World: How to Scale Without Killing Performance](https://dev.to/amitjkamble/kafka-ordering-in-the-real-world-how-to-scale-without-killing-performance-37fo)
+- [プロが毎日使ってるClaude Codeの隠しコマンド＆ショートカットキー](https://dev.to/nakamura_takuya/purogamei-ri-shi-tuteruclaude-codenoyin-sikomandosiyotokatutoki-1jdi)
+- [Revolutionary Two-Phase Video Recording Transforms Content Creation Flow](https://dev.to/brandikinard/revolutionary-two-phase-video-recording-transforms-content-creation-flow-17i0)
+- [I built the algorithm behind ChatGPT from scratch — here&#39;s what I learned](https://dev.to/tusharinqueue/i-built-the-algorithm-behind-chatgpt-from-scratch-heres-what-i-learned-hdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
