@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best LiteLLM Alternative for Multi-Team Organizations](https://dev.to/kamya_shah_e69d5dd78f831c/best-litellm-alternative-for-multi-team-organizations-4n55)
-- [Why I Built a Browser-Based Circuit Editor &lpar;SchemaLite&rpar;](https://dev.to/ababu64/why-i-built-a-browser-based-circuit-editor-schemalite-29i5)
-- [Inside SQLite’s Frontend: BETWEEN, OR, LIKE, and GLOB Optimizations](https://dev.to/lovestaco/inside-sqlites-frontend-between-or-like-and-glob-optimizations-28p2)
-- [Competitive Friends Who Undermine You Over Text: The Pattern](https://dev.to/skippy_magnificent_8cce24/competitive-friends-who-undermine-you-over-text-the-pattern-1mci)
-- [Context7 MCP Server — Real-Time Library Docs for AI Coding Agents](https://dev.to/grove_chatforest/context7-mcp-server-real-time-library-docs-for-ai-coding-agents-40k3)
+- [Ten Years of Uncomfortable](https://dev.to/magnificode/ten-years-of-uncomfortable-k9f)
+- [Securing Networks with pfSense: VLAN Segmentation and Traffic Control in IT](https://dev.to/shaheel_jm/securing-networks-with-pfsense-vlan-segmentation-traffic-control-and-disaster-recovery-in-it-47ch)
+- [ONNX Runtime + pgvector in Django: semantic search without PyTorch or external APIs](https://dev.to/matzalazar/onnx-runtime-pgvector-in-django-semantic-search-without-pytorch-or-external-apis-4g1m)
+- [# How I Automated My MSP Tasks Using PowerShell &lpar;And Saved Hours Every Week&rpar;](https://dev.to/arthur_kirby_f66568779ac5/-how-i-automated-my-msp-tasks-using-powershell-and-saved-hours-every-week-3ji3)
+- [🧩 Data Collection Pipeline — The First Step to Building an LLM Twin🧩](https://dev.to/tomorrmonkey/data-collection-pipeline-the-first-step-to-building-an-llm-twin-2ii4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
