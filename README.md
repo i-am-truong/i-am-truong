@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Skills Are the New Boilerplate. They Solve Almost Nothing.](https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo)
-- [Why Your AI Agent Needs to Argue With Itself](https://dev.to/apireno/why-your-ai-agent-needs-to-argue-with-itself-4idc)
-- [AWS Lambda in Python with Datadog Integration](https://dev.to/aws-builders/aws-lambda-in-python-with-datadog-integration-4675)
-- [I Replaced My Morning Routine App With a Stock Chart. Here&#39;s What Changed.](https://dev.to/eastkap/i-replaced-my-morning-routine-app-with-a-stock-chart-heres-what-changed-58bc)
-- [Why C Still Dominates Embedded Systems in 2026](https://dev.to/keerthinath_2decdd1426ef2/why-c-still-dominates-embedded-systems-in-2026-3cm1)
+- [AI Trades Your Money](https://dev.to/rawveg/ai-trades-your-money-f1n)
+- [How to build a paid MCP tool that AI agents pay to use](https://dev.to/m_m_f2442c87a19635b7a1de2/how-to-build-a-paid-mcp-tool-that-ai-agents-pay-to-use-3pp1)
+- [TechEmpower Framework Benchmarks are now Archived - What&#39;s next?](https://dev.to/kaliumhexacyanoferrat/techempower-framework-benchmarks-are-now-archived-whats-next-3l0a)
+- [Stop Tuning Blind: Query Observability as the Foundation for Database Optimization](https://dev.to/damasosanoja/stop-tuning-blind-query-observability-as-the-foundation-for-database-optimization-113p)
+- [How Adding Video Artifacts to CI Pipelines Transforms Development Workflows](https://dev.to/brandikinard/how-adding-video-artifacts-to-ci-pipelines-transforms-development-workflows-1pjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
