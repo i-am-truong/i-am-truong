@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m working on a new retrieval system. Not RAG](https://dev.to/burstfirea47050/im-working-on-a-new-retrieval-system-not-rag-ak4)
-- [I Built a WordPress Plugin with a Team of 6 AI Agents &lpar;It Processes 16,000 Posts in 90 Seconds&rpar;](https://dev.to/cristiantalasanchez/i-built-a-wordpress-plugin-with-a-team-of-6-ai-agents-it-processes-16000-posts-in-90-seconds-jfl)
-- [Construí un Plugin de WordPress con un Equipo de 6 Agentes IA &lpar;y Procesa 16,000 Posts en 90 Segundos&rpar;](https://dev.to/ctala/construi-un-plugin-de-wordpress-con-un-equipo-de-6-agentes-ia-y-procesa-16000-posts-en-90-2ah)
-- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-254m)
-- [From Crutches to Bijection: How I Wrote a Sudoku Generator in JS](https://dev.to/__arehspb/from-crutches-to-bijection-how-i-wrote-a-sudoku-generator-in-js-1j47)
+- [Communication Is Important — But It’s Not the Most Important Thing in Engineering Teams](https://dev.to/izaaccomze/communication-is-important-but-its-not-the-most-important-thing-in-engineering-teams-7e4)
+- [How to Make Your Email Marketing Accessible: A Complete Guide](https://dev.to/imta71770dot/how-to-make-your-email-marketing-accessible-a-complete-guide-57od)
+- [5 Micro-SaaS Ideas You Can Build in a Weekend With Solana](https://dev.to/tatelyman/5-micro-saas-ideas-you-can-build-in-a-weekend-with-solana-14bb)
+- [I Built a Script That Finds Hidden APIs on Any Website &lpar;Here&#39;s the Code&rpar;](https://dev.to/0012303/i-built-a-script-that-finds-hidden-apis-on-any-website-heres-the-code-2e5j)
+- [How to Add OG Images to Your Website &lpar;Manual vs. Automated&rpar;](https://dev.to/narender_singh_6c6e271c67/how-to-add-og-images-to-your-website-manual-vs-automated-3gkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
