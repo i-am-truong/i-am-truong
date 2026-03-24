@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Alert Assistant: How n8n + LLM Replace Routine Diagnostics](https://dev.to/javdet/ai-alert-assistant-how-n8n-llm-replace-routine-diagnostics-a9b)
-- [Hackers Tried to Breach My Pipeline at 3 AM — A DevSecOps Survival Guide 🛡️](https://dev.to/sanjaysundarmurthy/hackers-tried-to-breach-my-pipeline-at-3-am-a-devsecops-survival-guide-55im)
-- [From Theory to Practice: Week 1 of Hands-On Offensive Security](https://dev.to/northwillov/from-theory-to-practice-week-1-of-hands-on-offensive-security-3a4h)
-- [The Limits of Vibe Coding — What Nobody Tells You After the Honeymoon Phase](https://dev.to/as1as/the-limits-of-vibe-coding-what-nobody-tells-you-after-the-honeymoon-phase-4c44)
-- [Does My Email Sound Rude? A 60-Second Check Before You Send](https://dev.to/skippy_magnificent_8cce24/does-my-email-sound-rude-a-60-second-check-before-you-send-4com)
+- [Cara Menggunakan BigCommerce API: Panduan Developer untuk Integrasi E-commerce](https://dev.to/walse/cara-menggunakan-bigcommerce-api-panduan-developer-untuk-integrasi-e-commerce-4hfd)
+- [Designing Fanless POS Systems: Balancing Performance, Reliability, and Aesthetics](https://dev.to/poszeo/designing-fanless-pos-systems-balancing-performance-reliability-and-aesthetics-33bm)
+- [Hướng Dẫn Lập Trình Viên: Tích Hợp Thương Mại Điện Tử Với BigCommerce APIs](https://dev.to/sebbasstian/huong-dan-lap-trinh-vien-tich-hop-thuong-mai-dien-tu-voi-bigcommerce-apis-jha)
+- [The 2026 DeFi Pre-Launch Security Checklist: 7 Attack Surfaces Your Audit Probably Missed](https://dev.to/ohmygod/the-2026-defi-pre-launch-security-checklist-7-attack-surfaces-your-audit-probably-missed-31op)
+- [We read the spec before we read the code. Here is why that changes everything.](https://dev.to/intentguard/we-read-the-spec-before-we-read-the-code-here-is-why-that-changes-everything-4n24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
