@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Butterfly CSS vs. Tailwind CSS: Partners or Rivals?! 🦋⚔️🌀](https://dev.to/butterflycss/butterfly-css-vs-tailwind-css-partners-or-rivals-422b)
-- [From majestic monoliths to runtime topologies](https://dev.to/mbarcia/from-majestic-monoliths-to-runtime-topologies-497g)
-- [Bathroom Exhaust Fan Installation Email Templates for HVAC and Electrical Contractors](https://dev.to/skippy_magnificent_8cce24/bathroom-exhaust-fan-installation-email-templates-for-hvac-and-electrical-contractors-3bjo)
-- [AI writes code fast. But who checks the architecture?](https://dev.to/mushegh_gevorgyan_8a8c8fa/ai-writes-code-fast-but-who-checks-the-architecture-koi)
-- [AI Agent Architecture: Building Systems That Think, Plan, and Act](https://dev.to/tutorialq/ai-agent-architecture-building-systems-that-think-plan-and-act-4ca0)
+- [The Security Gap in MCP Tool Servers &lpar;And What I Built to Fix It&rpar;](https://dev.to/goweft/the-security-gap-in-mcp-tool-servers-and-what-i-built-to-fix-it-1hlg)
+- [Why I Store All My Scraped Data in SQLite &lpar;Not JSON, Not CSV&rpar;](https://dev.to/0012303/why-i-store-all-my-scraped-data-in-sqlite-not-json-not-csv-56pa)
+- [Two Weeks, 40 Commits, and an AI That Remembers My Preferences](https://dev.to/padawanabhi/two-weeks-40-commits-and-an-ai-that-remembers-my-preferences-1jo6)
+- [Benchmark oriented development is a road to nowhere](https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518)
+- [When handling large lists, what actually slows things down: the number of elements we render, or when we choose to load more?](https://dev.to/anshita_verma_1cbd4718b8e/when-handling-large-lists-what-actually-slows-things-down-the-number-of-elements-we-render-or-5eic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
