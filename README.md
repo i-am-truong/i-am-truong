@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Remove EXIF Data from Photos &lpar;Privacy Guide&rpar;](https://dev.to/pixotter/how-to-remove-exif-data-from-photos-privacy-guide-3ha2)
-- [RepoLens Version 2 - Know what changed and what matters](https://dev.to/mohosin2126/repolens-version-2-know-what-changed-and-what-matters-1adi)
-- [HelloDev - Scrum powered by Notion](https://dev.to/cloudsuffers/hellodev-scrum-powered-by-notion-19pd)
-- [How to Conduct User Interviews: The 937-Interview Framework That Found PMF](https://dev.to/iris1031/how-to-conduct-user-interviews-the-937-interview-framework-that-found-pmf-2dgb)
-- [Why My Blueprint Communication Became Messy in Unreal Engine](https://dev.to/dinesh_04/why-my-blueprint-communication-became-messy-in-unreal-engine-57ae)
+- [Your CLAUDE.md is probably broken — 5 silent failure patterns and how to fix them](https://dev.to/ajbuilds/your-claudemd-is-probably-broken-5-silent-failure-patterns-and-how-to-fix-them-1abn)
+- [LLM Observability &amp; MLOps Pipeline MCP Servers — Opik, LangSmith, Langfuse, OpenTelemetry, ZenML](https://dev.to/grove_chatforest/llm-observability-mlops-pipeline-mcp-servers-opik-langsmith-langfuse-opentelemetry-zenml-55di)
+- [Create a simple EC2 instance and run a webserver and access it from outside](https://dev.to/jonah_blessy/create-a-simple-ec2-instance-and-run-a-webserver-and-access-it-from-outside-1dg2)
+- [Specification Pattern υπό το πρίσμα του SOLID και της Clean Architecture](https://dev.to/__b63657/specification-pattern-upo-to-prisma-tou-solid-kai-tes-clean-architecture-8oh)
+- [Harness Engineering: The Concept I Didn&#39;t Know I Needed](https://dev.to/techwithhari/harness-engineering-the-concept-i-didnt-know-i-needed-5nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
