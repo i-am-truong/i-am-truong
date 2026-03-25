@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gapster is going out of beta soon](https://dev.to/greathound67/gapster-is-going-out-of-beta-soon-4f16)
-- [Claude Code Skills Are Blowing Up — Here Are the Best Ones &lpar;2,245 Stars in 6 Days&rpar;](https://dev.to/0012303/claude-code-skills-are-blowing-up-here-are-the-best-ones-2245-stars-in-6-days-nn5)
-- [CVE-2026-33690: CVE-2026-33690: IP Address Spoofing via Unsafe Header Processing in WWBN AVideo](https://dev.to/cverports/cve-2026-33690-cve-2026-33690-ip-address-spoofing-via-unsafe-header-processing-in-wwbn-avideo-141h)
-- [The Vinted Arbitrage War: Building a Scraper That Doesn&#39;t Get IP-Banned](https://dev.to/datakaz/the-vinted-arbitrage-war-building-a-scraper-that-doesnt-get-ip-banned-4bh3)
-- [When a Regex Eats Your Entire Process](https://dev.to/oolongtea2026/when-a-regex-eats-your-entire-process-klj)
+- [Butterfly CSS vs. Tailwind CSS: Partners or Rivals?! 🦋⚔️🌀](https://dev.to/butterflycss/butterfly-css-vs-tailwind-css-partners-or-rivals-422b)
+- [From majestic monoliths to runtime topologies](https://dev.to/mbarcia/from-majestic-monoliths-to-runtime-topologies-497g)
+- [Bathroom Exhaust Fan Installation Email Templates for HVAC and Electrical Contractors](https://dev.to/skippy_magnificent_8cce24/bathroom-exhaust-fan-installation-email-templates-for-hvac-and-electrical-contractors-3bjo)
+- [AI writes code fast. But who checks the architecture?](https://dev.to/mushegh_gevorgyan_8a8c8fa/ai-writes-code-fast-but-who-checks-the-architecture-koi)
+- [AI Agent Architecture: Building Systems That Think, Plan, and Act](https://dev.to/tutorialq/ai-agent-architecture-building-systems-that-think-plan-and-act-4ca0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
