@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Nobody Talks About the Real Reason Crypto Innovation Slowed Down](https://dev.to/degenroll/why-nobody-talks-about-the-real-reason-crypto-innovation-slowed-down-30n0)
-- [Server-Sent Events](https://dev.to/vivian-voss/server-sent-events-4i0k)
-- [Top 10 API Testing Tools for Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/top-10-api-testing-tools-for-developers-in-2026-11d2)
-- [DevOps and Microservices: A Comprehensive Guide to Building Scalable Distributed Systems](https://dev.to/richardperez187/devops-and-microservices-a-comprehensive-guide-to-building-scalable-distributed-systems-19jm)
-- [Would you use a coding challenge where you fix bugs in a real codebase instead of solving LeetCode-style problems](https://dev.to/vulcanwm/would-you-use-a-coding-challenge-where-you-fix-bugs-in-a-real-codebase-instead-of-solving-21bb)
+- [From Side Project to First Dollar: The Realistic Path Most Developers Never Take](https://dev.to/alexcloudstar/from-side-project-to-first-dollar-the-realistic-path-most-developers-never-take-o1a)
+- [I Built a CLI to Search 800M+ Academic Papers From Your Terminal](https://dev.to/0012303/i-built-a-cli-to-search-800m-academic-papers-from-your-terminal-1bcn)
+- [You&#39;re Probably Undercharging: A Practical Guide to SaaS Pricing for Indie Hackers](https://dev.to/alexcloudstar/youre-probably-undercharging-a-practical-guide-to-saas-pricing-for-indie-hackers-2ei7)
+- [The Silent Killer in Your Web App: How Bare catch {} Blocks Hide Failures from Everyone](https://dev.to/jeremy_longshore/the-silent-killer-in-your-web-app-how-bare-catch-blocks-hide-failures-from-everyone-7ee)
+- [Session Cookie Auth, Forgot-Password Timeouts, and Killing Flaky E2E Tests](https://dev.to/jeremy_longshore/session-cookie-auth-forgot-password-timeouts-and-killing-flaky-e2e-tests-3gk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
