@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an Engagement Decay Analyzer: How Fast Do Posts Die?](https://dev.to/olams/build-an-engagement-decay-analyzer-how-fast-do-posts-die-a5a)
-- [Filter Assignments](https://dev.to/jonah_blessy/filter-assignments-142m)
-- [AI Assistance vs AI Agents: Understanding the Shift from Responses to Autonomous Systems](https://dev.to/aws-builders/ai-assistance-vs-ai-agents-understanding-the-shift-from-responses-to-autonomous-systems-pb3)
-- [AI Didn&#39;t Break Your Culture. It Exposed It.](https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729)
-- [Is DDD still relevant in the vibe-coding era?](https://dev.to/juliashevchenko/is-ddd-still-relevant-in-the-vibe-coding-era-5cam)
+- [🧠 Understanding CNN Generalisation with Data Augmentation &lpar;TensorFlow – CIFAR-10&rpar;](https://dev.to/maxwell_ororho/understanding-cnn-generalisation-with-data-augmentation-tensorflow-cifar-10-5o7)
+- [Building a Habit Tracker in 24 Hours: Tech Stack, Architecture &amp; Key Decisions](https://dev.to/f_r_5b5717ab008630e6984b7/building-a-habit-tracker-in-24-hours-tech-stack-architecture-key-decisions-5bae)
+- [Users, Roles, Groups](https://dev.to/jonah_blessy/users-roles-groups-22kg)
+- [navrate](https://dev.to/pooja_rajput_6bbd98327908/navrate-1ce8)
+- [I Built Yet Another Scrum Poker App. This One Has Geese.](https://dev.to/rikkosddos/i-built-yet-another-scrum-poker-app-this-one-has-geese-26l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
