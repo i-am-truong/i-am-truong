@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Satellite Tailscale — Ep.6](https://dev.to/the-software-s-journey/satellite-tailscale-ep6-i5o)
-- [I built a Chrome extension that reads SaaS Terms of Service so you don&#39;t have to](https://dev.to/rloupias/i-built-a-chrome-extension-that-reads-saas-terms-of-service-so-you-dont-have-to-153k)
-- [Real-time Conversion of Polygon Vertices from Rectangular to Cylindrical Coordinates in Unity](https://dev.to/segur/real-time-conversion-of-polygon-vertices-from-rectangular-to-cylindrical-coordinates-in-unity-29ok)
-- [Satellite Tailscale — Ep.5](https://dev.to/the-software-s-journey/satellite-tailscale-ep5-11n)
-- [Satellite Tailscale — Ep.4](https://dev.to/the-software-s-journey/satellite-tailscale-ep4-1idl)
+- [US Treasury API: Track the National Debt in Real-Time with Python &lpar;No API Key&rpar;](https://dev.to/0012303/us-treasury-api-track-the-national-debt-in-real-time-with-python-no-api-key-4kmd)
+- [I Replaced My $50/Month Stock Research Tool with 3 Free APIs](https://dev.to/0012303/i-replaced-my-50month-stock-research-tool-with-3-free-apis-d6o)
+- [Building an AI Agent from Scratch: A Step-by-Step Journey](https://dev.to/sumit_v_0a2447f3bcb4fd18f/building-an-ai-agent-from-scratch-a-step-by-step-journey-7dd)
+- [Introducing &#39;Utkarsh&#39; v1.0.4: A Lightweight Python Suite for Education and System Efficiency](https://dev.to/aditya_rai_2f211fe3d3a90f/introducing-utkarsh-v104-a-lightweight-python-suite-for-education-and-system-efficiency-17j5)
+- [How to talk to people](https://dev.to/moopet/how-to-talk-to-people-5b82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
