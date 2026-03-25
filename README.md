@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your CLAUDE.md is probably broken — 5 silent failure patterns and how to fix them](https://dev.to/ajbuilds/your-claudemd-is-probably-broken-5-silent-failure-patterns-and-how-to-fix-them-1abn)
-- [LLM Observability &amp; MLOps Pipeline MCP Servers — Opik, LangSmith, Langfuse, OpenTelemetry, ZenML](https://dev.to/grove_chatforest/llm-observability-mlops-pipeline-mcp-servers-opik-langsmith-langfuse-opentelemetry-zenml-55di)
-- [Create a simple EC2 instance and run a webserver and access it from outside](https://dev.to/jonah_blessy/create-a-simple-ec2-instance-and-run-a-webserver-and-access-it-from-outside-1dg2)
-- [Specification Pattern υπό το πρίσμα του SOLID και της Clean Architecture](https://dev.to/__b63657/specification-pattern-upo-to-prisma-tou-solid-kai-tes-clean-architecture-8oh)
-- [Harness Engineering: The Concept I Didn&#39;t Know I Needed](https://dev.to/techwithhari/harness-engineering-the-concept-i-didnt-know-i-needed-5nf)
+- [Build an Engagement Decay Analyzer: How Fast Do Posts Die?](https://dev.to/olams/build-an-engagement-decay-analyzer-how-fast-do-posts-die-a5a)
+- [Filter Assignments](https://dev.to/jonah_blessy/filter-assignments-142m)
+- [AI Assistance vs AI Agents: Understanding the Shift from Responses to Autonomous Systems](https://dev.to/aws-builders/ai-assistance-vs-ai-agents-understanding-the-shift-from-responses-to-autonomous-systems-pb3)
+- [AI Didn&#39;t Break Your Culture. It Exposed It.](https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729)
+- [Is DDD still relevant in the vibe-coding era?](https://dev.to/juliashevchenko/is-ddd-still-relevant-in-the-vibe-coding-era-5cam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
