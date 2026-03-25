@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Air Traffic Control Scaleway Ep.4](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep4-4125)
-- [Air Traffic Control Scaleway Ep.3](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep3-c73)
-- [I Built an Open-Source Brain for AI Models — Here&#39;s How Engram Works](https://dev.to/ayvazyan10/i-built-an-open-source-brain-for-ai-models-heres-how-engram-works-38m1)
-- [What If Your Banking App Could Run a Referendum?](https://dev.to/pulse_protocol_842706b157/what-if-your-banking-app-could-run-a-referendum-4amk)
-- [Air Traffic Control Scaleway Ep.2](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep2-1f7h)
+- [DNS](https://dev.to/abinaya_dhanraj/dns-1c94)
+- [Your AI Agent Has Amnesia. Here&#39;s the Infrastructure It&#39;s Missing.](https://dev.to/solishq/your-ai-agent-has-amnesia-heres-the-infrastructure-its-missing-18c5)
+- [Building GlobalPost AI: Turn Your Ideas into Viral X &amp; LinkedIn Posts with Next.js and AI](https://dev.to/xiaoxiaer/building-globalpost-ai-turn-your-ideas-into-viral-x-linkedin-posts-with-nextjs-and-ai-dd4)
+- [Building a Real-Time Competitive Intelligence System with Claude and Perplexity APIs](https://dev.to/wedgemethoddev/building-a-real-time-competitive-intelligence-system-with-claude-and-perplexity-apis-4hno)
+- [ATOMICITY](https://dev.to/abinaya_dhanraj/atomicity-159m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
