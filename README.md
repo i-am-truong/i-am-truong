@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native offline-first: conflict rules in SQLite](https://dev.to/sathish_daggula/react-native-offline-first-conflict-rules-in-sqlite-3h7h)
-- [Building a Low-Latency MVCC Graph+Vector Database: The Pitfalls That Actually Matter](https://dev.to/orneryd/building-a-low-latency-mvcc-graphvector-database-the-pitfalls-that-actually-matter-6ac)
-- [Prompt Contracts: Treat Prompts Like APIs &lpar;Inputs, Outputs, Errors&rpar;](https://dev.to/novaelvaris/prompt-contracts-treat-prompts-like-apis-inputs-outputs-errors-41kh)
-- [CSS @starting-style: Animating Elements Into Existence](https://dev.to/peterbenoit/css-starting-style-animating-elements-into-existence-15ad)
-- [The Mental Model Problem of AI-Generated Code](https://dev.to/devanomaly/the-mental-model-problem-of-ai-generated-code-2dle)
+- [SonarQube vs DeepSource: Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-deepsource-complete-comparison-2026-2o1l)
+- [Why Sovereignty Is Not Enough: The Missing Operational Layer in AI Stewardship](https://dev.to/crisiscoresystems/why-sovereignty-is-not-enough-the-missing-operational-layer-in-ai-stewardship-2i4h)
+- [The Stochastic Tax: Why Your AI Agent Is a Financial Liability &lpar;And How to Fix It&rpar;](https://dev.to/piyooshrai/the-stochastic-tax-why-your-ai-agent-is-a-financial-liability-and-how-to-fix-it-jgc)
+- [what is looping in j.s](https://dev.to/mohandassmani/what-is-looping-in-js-3dec)
+- [Claude Code Router &lpar;CCR&rpar; vs TeamoRouter: Do You Really Want to Maintain Local Routing Infrastructure?](https://dev.to/sophiaashi/claude-code-router-ccr-vs-teamorouter-do-you-really-want-to-maintain-local-routing-15if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
