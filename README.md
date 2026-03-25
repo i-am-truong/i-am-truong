@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UTC to PST/PDT Conversion Is Not Always Minus 8 Hours](https://dev.to/alphashark/utc-to-pstpdt-conversion-is-not-always-minus-8-hours-3gli)
-- [Why I Stopped Using Docker for Local Development](https://dev.to/0012303/why-i-stopped-using-docker-for-local-development-2al1)
-- [13/13: The Day All Korean Scrapers Went Paid — And I Was Too Busy Moving to Notice](https://dev.to/sessionzero_ai/1313-the-day-all-korean-scrapers-went-paid-and-i-was-too-busy-moving-to-notice-oee)
-- [How URL Shorteners Actually Work Under the Hood](https://dev.to/alphashark/how-url-shorteners-actually-work-under-the-hood-odn)
-- [URL Encoding Is Not Optional &lpar;And Getting It Wrong Breaks Everything&rpar;](https://dev.to/alphashark/url-encoding-is-not-optional-and-getting-it-wrong-breaks-everything-4bb8)
+- [Building AI-Driven Autonomous Security Monitoring: From Enterprise Scale to Home Lab](https://dev.to/t_o_jp/building-ai-driven-autonomous-security-monitoring-from-enterprise-scale-to-home-lab-2m03)
+- [How to Convert Timestamps in JavaScript: Unix, ISO 8601, and More](https://dev.to/_d7eb1c1703182e3ce1782/how-to-convert-timestamps-in-javascript-unix-iso-8601-and-more-an9)
+- [How to Build a Developer Portfolio That Gets You Hired in 2026](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-developer-portfolio-that-gets-you-hired-in-2026-396g)
+- [Asterisk PJSIP TLS Broken After OpenSSL 3 Upgrade? Here&#39;s the Fix for &#39;Wrong Curve&#39; and Every Other Handshake Failure](https://dev.to/gamlin/asterisk-pjsip-tls-broken-after-openssl-3-upgrade-heres-the-fix-for-wrong-curve-and-every-other-2moc)
+- [How to Automate Code Review With AI Tools: A Practical Guide](https://dev.to/_d7eb1c1703182e3ce1782/how-to-automate-code-review-with-ai-tools-a-practical-guide-4k43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
