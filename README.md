@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a SpaceX Launch Tracker in 50 Lines of Python &lpar;No API Key Needed&rpar;](https://dev.to/0012303/i-built-a-spacex-launch-tracker-in-50-lines-of-python-no-api-key-needed-2k8h)
-- [I Added Prometheus, Grafana, and Custom Alerting to My EKS Cluster, Here&#39;s How Observability Actually Works](https://dev.to/augusthottie/i-added-prometheus-grafana-and-custom-alerting-to-my-eks-cluster-heres-how-observability-59n3)
-- [Cowork Hardcodes &#39;Medium&#39; Effort for Opus 4.6, Ignoring Your Settings](https://dev.to/gentic_news/cowork-hardcodes-medium-effort-for-opus-46-ignoring-your-settings-1h8)
-- [Release engineering: vì sao slow queries xảy ra &lpar;và cách phòng tránh&rpar; &lpar;checklist + ví dụ&rpar;](https://dev.to/alexcarteruk/release-engineering-vi-sao-slow-queries-xay-ra-va-cach-phong-tranh-checklist-vi-du-3102)
-- [Why Your React Scroll is Lagging &lpar;and how to fix it with Locomotive v5](https://dev.to/syedahmedx3/why-your-react-scroll-is-lagging-and-how-to-fix-it-with-locomotive-v5-2dp8)
+- [Air Traffic Control Scaleway Ep.4](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep4-4125)
+- [Air Traffic Control Scaleway Ep.3](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep3-c73)
+- [I Built an Open-Source Brain for AI Models — Here&#39;s How Engram Works](https://dev.to/ayvazyan10/i-built-an-open-source-brain-for-ai-models-heres-how-engram-works-38m1)
+- [What If Your Banking App Could Run a Referendum?](https://dev.to/pulse_protocol_842706b157/what-if-your-banking-app-could-run-a-referendum-4amk)
+- [Air Traffic Control Scaleway Ep.2](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep2-1f7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
