@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [abuse.ch Has 5 Free APIs — The Complete Threat Intelligence Toolkit You Didn&#39;t Know Existed](https://dev.to/0012303/abusech-has-5-free-apis-the-complete-threat-intelligence-toolkit-you-didnt-know-existed-4jo3)
-- [How to Save 55% on Manus AI Credits in 10 Minutes &lpar;Step-by-Step Setup Guide&rpar;](https://dev.to/rafsilva85/how-to-save-55-on-manus-ai-credits-in-10-minutes-step-by-step-setup-guide-2o0)
-- [How to Coordinate Multiple Claude Code Agents Without Losing Your Mind](https://dev.to/alanwest/how-to-coordinate-multiple-claude-code-agents-without-losing-your-mind-1i9f)
-- [Mastering Pattern Matching in Design and Verification: Boosting Efficiency in Modern Chip Development](https://dev.to/aloycwl/mastering-pattern-matching-in-design-and-verification-boosting-efficiency-in-modern-chip-3n9m)
-- [The Descending Half](https://dev.to/thesythesis/the-descending-half-36n1)
+- [Backup &amp; Disaster Recovery MCP Servers — Commvault, Veeam, Velero, and the Massive Gaps](https://dev.to/grove_chatforest/backup-disaster-recovery-mcp-servers-commvault-veeam-velero-and-the-massive-gaps-33m5)
+- [crt.sh Has a Free API — Find Every SSL Certificate for Any Domain](https://dev.to/0012303/crtsh-has-a-free-api-find-every-ssl-certificate-for-any-domain-3ph7)
+- [GreyNoise Has a Free API — See If an IP Is Scanning the Internet &lpar;Not Just You&rpar;](https://dev.to/0012303/greynoise-has-a-free-api-see-if-an-ip-is-scanning-the-internet-not-just-you-2af8)
+- [Email Strategies for Dealing with a Difficult Coworker &lpar;Without Escalating&rpar;](https://dev.to/skippy_magnificent_8cce24/email-strategies-for-dealing-with-a-difficult-coworker-without-escalating-4kc3)
+- [Censys Has a Free API — The Shodan Alternative for Internet-Wide Scanning](https://dev.to/0012303/censys-has-a-free-api-the-shodan-alternative-for-internet-wide-scanning-19pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
