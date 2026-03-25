@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [US Treasury API: Track the National Debt in Real-Time with Python &lpar;No API Key&rpar;](https://dev.to/0012303/us-treasury-api-track-the-national-debt-in-real-time-with-python-no-api-key-4kmd)
-- [I Replaced My $50/Month Stock Research Tool with 3 Free APIs](https://dev.to/0012303/i-replaced-my-50month-stock-research-tool-with-3-free-apis-d6o)
-- [Building an AI Agent from Scratch: A Step-by-Step Journey](https://dev.to/sumit_v_0a2447f3bcb4fd18f/building-an-ai-agent-from-scratch-a-step-by-step-journey-7dd)
-- [Introducing &#39;Utkarsh&#39; v1.0.4: A Lightweight Python Suite for Education and System Efficiency](https://dev.to/aditya_rai_2f211fe3d3a90f/introducing-utkarsh-v104-a-lightweight-python-suite-for-education-and-system-efficiency-17j5)
-- [How to talk to people](https://dev.to/moopet/how-to-talk-to-people-5b82)
+- [I Built a SpaceX Launch Tracker in 50 Lines of Python &lpar;No API Key Needed&rpar;](https://dev.to/0012303/i-built-a-spacex-launch-tracker-in-50-lines-of-python-no-api-key-needed-2k8h)
+- [I Added Prometheus, Grafana, and Custom Alerting to My EKS Cluster, Here&#39;s How Observability Actually Works](https://dev.to/augusthottie/i-added-prometheus-grafana-and-custom-alerting-to-my-eks-cluster-heres-how-observability-59n3)
+- [Cowork Hardcodes &#39;Medium&#39; Effort for Opus 4.6, Ignoring Your Settings](https://dev.to/gentic_news/cowork-hardcodes-medium-effort-for-opus-46-ignoring-your-settings-1h8)
+- [Release engineering: vì sao slow queries xảy ra &lpar;và cách phòng tránh&rpar; &lpar;checklist + ví dụ&rpar;](https://dev.to/alexcarteruk/release-engineering-vi-sao-slow-queries-xay-ra-va-cach-phong-tranh-checklist-vi-du-3102)
+- [Why Your React Scroll is Lagging &lpar;and how to fix it with Locomotive v5](https://dev.to/syedahmedx3/why-your-react-scroll-is-lagging-and-how-to-fix-it-with-locomotive-v5-2dp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
