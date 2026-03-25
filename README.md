@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Understanding CNN Generalisation with Data Augmentation &lpar;TensorFlow – CIFAR-10&rpar;](https://dev.to/maxwell_ororho/understanding-cnn-generalisation-with-data-augmentation-tensorflow-cifar-10-5o7)
-- [Building a Habit Tracker in 24 Hours: Tech Stack, Architecture &amp; Key Decisions](https://dev.to/f_r_5b5717ab008630e6984b7/building-a-habit-tracker-in-24-hours-tech-stack-architecture-key-decisions-5bae)
-- [Users, Roles, Groups](https://dev.to/jonah_blessy/users-roles-groups-22kg)
-- [navrate](https://dev.to/pooja_rajput_6bbd98327908/navrate-1ce8)
-- [I Built Yet Another Scrum Poker App. This One Has Geese.](https://dev.to/rikkosddos/i-built-yet-another-scrum-poker-app-this-one-has-geese-26l8)
+- [How We Taught AI Agents to See the Bigger Picture](https://dev.to/teamcity/how-we-taught-ai-agents-to-see-the-bigger-picture-342f)
+- [My first series of Wednesday Code Autopsy!
+Every wednesday :&rpar;](https://dev.to/huckler/my-first-series-of-wednesday-code-autopsyevery-wednesday--348n)
+- [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e)
+- [Idempotency Situation](https://dev.to/jonah_blessy/idempotency-situation-2iel)
+- [Twenty vs Open Mercato: CRM Product vs AI-Supportive Platform Foundation](https://dev.to/tkarwatka/twenty-vs-open-mercato-crm-product-vs-ai-supportive-platform-foundation-52of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
