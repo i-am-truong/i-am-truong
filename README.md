@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Taught AI Agents to See the Bigger Picture](https://dev.to/teamcity/how-we-taught-ai-agents-to-see-the-bigger-picture-342f)
-- [My first series of Wednesday Code Autopsy!
-Every wednesday :&rpar;](https://dev.to/huckler/my-first-series-of-wednesday-code-autopsyevery-wednesday--348n)
-- [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e)
-- [Idempotency Situation](https://dev.to/jonah_blessy/idempotency-situation-2iel)
-- [Twenty vs Open Mercato: CRM Product vs AI-Supportive Platform Foundation](https://dev.to/tkarwatka/twenty-vs-open-mercato-crm-product-vs-ai-supportive-platform-foundation-52of)
+- [Gapster is going out of beta soon](https://dev.to/greathound67/gapster-is-going-out-of-beta-soon-4f16)
+- [Claude Code Skills Are Blowing Up — Here Are the Best Ones &lpar;2,245 Stars in 6 Days&rpar;](https://dev.to/0012303/claude-code-skills-are-blowing-up-here-are-the-best-ones-2245-stars-in-6-days-nn5)
+- [CVE-2026-33690: CVE-2026-33690: IP Address Spoofing via Unsafe Header Processing in WWBN AVideo](https://dev.to/cverports/cve-2026-33690-cve-2026-33690-ip-address-spoofing-via-unsafe-header-processing-in-wwbn-avideo-141h)
+- [The Vinted Arbitrage War: Building a Scraper That Doesn&#39;t Get IP-Banned](https://dev.to/datakaz/the-vinted-arbitrage-war-building-a-scraper-that-doesnt-get-ip-banned-4bh3)
+- [When a Regex Eats Your Entire Process](https://dev.to/oolongtea2026/when-a-regex-eats-your-entire-process-klj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
