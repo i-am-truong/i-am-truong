@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SonarQube vs DeepSource: Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-deepsource-complete-comparison-2026-2o1l)
-- [Why Sovereignty Is Not Enough: The Missing Operational Layer in AI Stewardship](https://dev.to/crisiscoresystems/why-sovereignty-is-not-enough-the-missing-operational-layer-in-ai-stewardship-2i4h)
-- [The Stochastic Tax: Why Your AI Agent Is a Financial Liability &lpar;And How to Fix It&rpar;](https://dev.to/piyooshrai/the-stochastic-tax-why-your-ai-agent-is-a-financial-liability-and-how-to-fix-it-jgc)
-- [what is looping in j.s](https://dev.to/mohandassmani/what-is-looping-in-js-3dec)
-- [Claude Code Router &lpar;CCR&rpar; vs TeamoRouter: Do You Really Want to Maintain Local Routing Infrastructure?](https://dev.to/sophiaashi/claude-code-router-ccr-vs-teamorouter-do-you-really-want-to-maintain-local-routing-15if)
+- [How to Remove EXIF Data from Photos &lpar;Privacy Guide&rpar;](https://dev.to/pixotter/how-to-remove-exif-data-from-photos-privacy-guide-3ha2)
+- [RepoLens Version 2 - Know what changed and what matters](https://dev.to/mohosin2126/repolens-version-2-know-what-changed-and-what-matters-1adi)
+- [HelloDev - Scrum powered by Notion](https://dev.to/cloudsuffers/hellodev-scrum-powered-by-notion-19pd)
+- [How to Conduct User Interviews: The 937-Interview Framework That Found PMF](https://dev.to/iris1031/how-to-conduct-user-interviews-the-937-interview-framework-that-found-pmf-2dgb)
+- [Why My Blueprint Communication Became Messy in Unreal Engine](https://dev.to/dinesh_04/why-my-blueprint-communication-became-messy-in-unreal-engine-57ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
