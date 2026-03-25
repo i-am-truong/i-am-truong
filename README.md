@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DNS](https://dev.to/abinaya_dhanraj/dns-1c94)
-- [Your AI Agent Has Amnesia. Here&#39;s the Infrastructure It&#39;s Missing.](https://dev.to/solishq/your-ai-agent-has-amnesia-heres-the-infrastructure-its-missing-18c5)
-- [Building GlobalPost AI: Turn Your Ideas into Viral X &amp; LinkedIn Posts with Next.js and AI](https://dev.to/xiaoxiaer/building-globalpost-ai-turn-your-ideas-into-viral-x-linkedin-posts-with-nextjs-and-ai-dd4)
-- [Building a Real-Time Competitive Intelligence System with Claude and Perplexity APIs](https://dev.to/wedgemethoddev/building-a-real-time-competitive-intelligence-system-with-claude-and-perplexity-apis-4hno)
-- [ATOMICITY](https://dev.to/abinaya_dhanraj/atomicity-159m)
+- [React Native offline-first: conflict rules in SQLite](https://dev.to/sathish_daggula/react-native-offline-first-conflict-rules-in-sqlite-3h7h)
+- [Building a Low-Latency MVCC Graph+Vector Database: The Pitfalls That Actually Matter](https://dev.to/orneryd/building-a-low-latency-mvcc-graphvector-database-the-pitfalls-that-actually-matter-6ac)
+- [Prompt Contracts: Treat Prompts Like APIs &lpar;Inputs, Outputs, Errors&rpar;](https://dev.to/novaelvaris/prompt-contracts-treat-prompts-like-apis-inputs-outputs-errors-41kh)
+- [CSS @starting-style: Animating Elements Into Existence](https://dev.to/peterbenoit/css-starting-style-animating-elements-into-existence-15ad)
+- [The Mental Model Problem of AI-Generated Code](https://dev.to/devanomaly/the-mental-model-problem-of-ai-generated-code-2dle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
