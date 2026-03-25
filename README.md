@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Vibe Coding&quot; Is Replacing Project Management for Modern Solopreneurs](https://dev.to/fan-song/why-vibe-coding-is-replacing-project-management-for-modern-solopreneurs-3m9)
-- [Stop Letting AI Be Nice — LLM Sycophancy Mode Is Killing Your Engineering Thinking](https://dev.to/plasmon_imp/stop-letting-ai-be-nice-llm-sycophancy-mode-is-killing-your-engineering-thinking-4n13)
-- [I Built a WooCommerce Inventory Forecasting Plugin — Self-Hosted, No Monthly Fees](https://dev.to/webkoding/i-built-a-woocommerce-inventory-forecasting-plugin-self-hosted-no-monthly-fees-446d)
-- [## 🚀 My Journey into Cloud Development with DevTrails](https://dev.to/dharaneesh20/-my-journey-into-cloud-development-with-devtrails-3mcn)
-- [LeetCode Patterns: 14 Templates That Cover 95% of Problems](https://dev.to/_d7eb1c1703182e3ce1782/leetcode-patterns-14-templates-that-cover-95-of-problems-2l3l)
+- [Why Nobody Talks About the Real Reason Crypto Innovation Slowed Down](https://dev.to/degenroll/why-nobody-talks-about-the-real-reason-crypto-innovation-slowed-down-30n0)
+- [Server-Sent Events](https://dev.to/vivian-voss/server-sent-events-4i0k)
+- [Top 10 API Testing Tools for Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/top-10-api-testing-tools-for-developers-in-2026-11d2)
+- [DevOps and Microservices: A Comprehensive Guide to Building Scalable Distributed Systems](https://dev.to/richardperez187/devops-and-microservices-a-comprehensive-guide-to-building-scalable-distributed-systems-19jm)
+- [Would you use a coding challenge where you fix bugs in a real codebase instead of solving LeetCode-style problems](https://dev.to/vulcanwm/would-you-use-a-coding-challenge-where-you-fix-bugs-in-a-real-codebase-instead-of-solving-21bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
