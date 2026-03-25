@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete HTTP Status Codes Reference for REST API Devs](https://dev.to/_d7eb1c1703182e3ce1782/complete-http-status-codes-reference-for-rest-api-devs-1dnk)
-- [Color Picker Hex RGB — Convert and Pick Colors for Web Development](https://dev.to/_d7eb1c1703182e3ce1782/color-picker-hex-rgb-convert-and-pick-colors-for-web-development-2hlf)
-- [Code Review Checklist Template 2025: Everything You Need to Ship Better Code](https://dev.to/_d7eb1c1703182e3ce1782/code-review-checklist-template-2025-everything-you-need-to-ship-better-code-ej8)
-- [How to Use Claude API for Automated Code Review](https://dev.to/_d7eb1c1703182e3ce1782/how-to-use-claude-api-for-automated-code-review-27m8)
-- [Chrome DevTools JavaScript Debugging: Complete Guide &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/chrome-devtools-javascript-debugging-complete-guide-2026-2386)
+- [Why &quot;Vibe Coding&quot; Is Replacing Project Management for Modern Solopreneurs](https://dev.to/fan-song/why-vibe-coding-is-replacing-project-management-for-modern-solopreneurs-3m9)
+- [Stop Letting AI Be Nice — LLM Sycophancy Mode Is Killing Your Engineering Thinking](https://dev.to/plasmon_imp/stop-letting-ai-be-nice-llm-sycophancy-mode-is-killing-your-engineering-thinking-4n13)
+- [I Built a WooCommerce Inventory Forecasting Plugin — Self-Hosted, No Monthly Fees](https://dev.to/webkoding/i-built-a-woocommerce-inventory-forecasting-plugin-self-hosted-no-monthly-fees-446d)
+- [## 🚀 My Journey into Cloud Development with DevTrails](https://dev.to/dharaneesh20/-my-journey-into-cloud-development-with-devtrails-3mcn)
+- [LeetCode Patterns: 14 Templates That Cover 95% of Problems](https://dev.to/_d7eb1c1703182e3ce1782/leetcode-patterns-14-templates-that-cover-95-of-problems-2l3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
