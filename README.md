@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Security Gap in MCP Tool Servers &lpar;And What I Built to Fix It&rpar;](https://dev.to/goweft/the-security-gap-in-mcp-tool-servers-and-what-i-built-to-fix-it-1hlg)
-- [Why I Store All My Scraped Data in SQLite &lpar;Not JSON, Not CSV&rpar;](https://dev.to/0012303/why-i-store-all-my-scraped-data-in-sqlite-not-json-not-csv-56pa)
-- [Two Weeks, 40 Commits, and an AI That Remembers My Preferences](https://dev.to/padawanabhi/two-weeks-40-commits-and-an-ai-that-remembers-my-preferences-1jo6)
-- [Benchmark oriented development is a road to nowhere](https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518)
-- [When handling large lists, what actually slows things down: the number of elements we render, or when we choose to load more?](https://dev.to/anshita_verma_1cbd4718b8e/when-handling-large-lists-what-actually-slows-things-down-the-number-of-elements-we-render-or-5eic)
+- [From Chaos to Control: Multiple Node.js Environments with Multi-Env CLI](https://dev.to/cinfinitedev_engine/from-chaos-to-control-multiple-nodejs-environments-with-multi-env-cli-cai)
+- [I Built a Price Monitoring Bot That Saved My Client $12,000](https://dev.to/0012303/i-built-a-price-monitoring-bot-that-saved-my-client-12000-6kl)
+- [Genesis: Teaching AI to Learn Like a Child &lpar;Patent Pending&rpar;](https://dev.to/jtil4201/genesis-teaching-ai-to-learn-like-a-child-patent-pending-ajj)
+- [What’s one thing you wish you knew before starting your SaaS?](https://dev.to/vrishabh_081/whats-one-thing-you-wish-you-knew-before-starting-your-saas-mo0)
+- [We&#39;re Inside the DST Gap Right Now — Your Code Might Not Be](https://dev.to/hnevkop/were-inside-the-dst-gap-right-now-your-code-might-not-be-271b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
