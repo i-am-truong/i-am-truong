@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Backup &amp; Disaster Recovery MCP Servers — Commvault, Veeam, Velero, and the Massive Gaps](https://dev.to/grove_chatforest/backup-disaster-recovery-mcp-servers-commvault-veeam-velero-and-the-massive-gaps-33m5)
-- [crt.sh Has a Free API — Find Every SSL Certificate for Any Domain](https://dev.to/0012303/crtsh-has-a-free-api-find-every-ssl-certificate-for-any-domain-3ph7)
-- [GreyNoise Has a Free API — See If an IP Is Scanning the Internet &lpar;Not Just You&rpar;](https://dev.to/0012303/greynoise-has-a-free-api-see-if-an-ip-is-scanning-the-internet-not-just-you-2af8)
-- [Email Strategies for Dealing with a Difficult Coworker &lpar;Without Escalating&rpar;](https://dev.to/skippy_magnificent_8cce24/email-strategies-for-dealing-with-a-difficult-coworker-without-escalating-4kc3)
-- [Censys Has a Free API — The Shodan Alternative for Internet-Wide Scanning](https://dev.to/0012303/censys-has-a-free-api-the-shodan-alternative-for-internet-wide-scanning-19pa)
+- [UTC to PST/PDT Conversion Is Not Always Minus 8 Hours](https://dev.to/alphashark/utc-to-pstpdt-conversion-is-not-always-minus-8-hours-3gli)
+- [Why I Stopped Using Docker for Local Development](https://dev.to/0012303/why-i-stopped-using-docker-for-local-development-2al1)
+- [13/13: The Day All Korean Scrapers Went Paid — And I Was Too Busy Moving to Notice](https://dev.to/sessionzero_ai/1313-the-day-all-korean-scrapers-went-paid-and-i-was-too-busy-moving-to-notice-oee)
+- [How URL Shorteners Actually Work Under the Hood](https://dev.to/alphashark/how-url-shorteners-actually-work-under-the-hood-odn)
+- [URL Encoding Is Not Optional &lpar;And Getting It Wrong Breaks Everything&rpar;](https://dev.to/alphashark/url-encoding-is-not-optional-and-getting-it-wrong-breaks-everything-4bb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
