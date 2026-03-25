@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Control: Multiple Node.js Environments with Multi-Env CLI](https://dev.to/cinfinitedev_engine/from-chaos-to-control-multiple-nodejs-environments-with-multi-env-cli-cai)
-- [I Built a Price Monitoring Bot That Saved My Client $12,000](https://dev.to/0012303/i-built-a-price-monitoring-bot-that-saved-my-client-12000-6kl)
-- [Genesis: Teaching AI to Learn Like a Child &lpar;Patent Pending&rpar;](https://dev.to/jtil4201/genesis-teaching-ai-to-learn-like-a-child-patent-pending-ajj)
-- [What’s one thing you wish you knew before starting your SaaS?](https://dev.to/vrishabh_081/whats-one-thing-you-wish-you-knew-before-starting-your-saas-mo0)
-- [We&#39;re Inside the DST Gap Right Now — Your Code Might Not Be](https://dev.to/hnevkop/were-inside-the-dst-gap-right-now-your-code-might-not-be-271b)
+- [Containers, The Wrong Way: Lessons Learnt](https://dev.to/notjustanna/containers-the-wrong-way-lessons-learnt-4obn)
+- [PayPal MCP Server — AI-Powered Invoicing, Payments, Subscriptions &amp; Disputes](https://dev.to/grove_chatforest/paypal-mcp-server-ai-powered-invoicing-payments-subscriptions-disputes-399g)
+- [Open-Meteo API: Free Weather Data for Any Location &lpar;No Key, No Limits, No BS&rpar;](https://dev.to/0012303/open-meteo-api-free-weather-data-for-any-location-no-key-no-limits-no-bs-2j2)
+- [PagerDuty MCP Server — 60+ Tools for AI-Powered Incident Management](https://dev.to/grove_chatforest/pagerduty-mcp-server-60-tools-for-ai-powered-incident-management-4ea5)
+- [Our Claude Code Setup: 30 Skills, MCPs, and Self-Learning Hooks](https://dev.to/axitslab/our-claude-code-setup-30-skills-mcps-and-self-learning-hooks-5gje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
