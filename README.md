@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Journey of Systematically Cut Our Monorepo CI Time in Half](https://dev.to/jimmyyeung/journey-of-systematically-cut-our-monorepo-ci-time-in-half-ec8)
+- [Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2)
+- [How to Audit and Lock Down Your AI Training Data Exposure on GitHub](https://dev.to/alanwest/how-to-audit-and-lock-down-your-ai-training-data-exposure-on-github-10ek)
 - [K501 - INFORMATION SPACE : AXIOMATIC SPECIFICATION &lpar;HEADER-INTEGRATED&rpar;](https://dev.to/k501is/k501-information-space-axiomatic-specification-header-integrated-15jl)
 - [The Shared Persistence Layer: Trading Autonomy for Standardization in Microservices](https://dev.to/lucasheartcliff/the-shared-persistence-layer-trading-autonomy-for-standardization-in-microservices-47pn)
-- [SAP ABAP Performance Optimization: Identifying and Fixing Bottlenecks in Real-World Systems](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-performance-optimization-identifying-and-fixing-bottlenecks-in-real-world-systems-1jld)
-- [SAP BTP Event Mesh &amp;#038; Event-Driven Architecture: Building Resilient Integrations That Actually Scale](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-btp-event-mesh-038-event-driven-architecture-building-resilient-integrations-that-actually-3ed8)
-- [JWTs in Elixir: fast parsing by plain pattern matching](https://dev.to/juulsme/jwts-in-elixir-fast-parsing-by-plain-pattern-matching-52n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
