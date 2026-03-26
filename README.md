@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Downtime Cloud Migration: The 6-Phase Playbook](https://dev.to/varunvarde/zero-downtime-cloud-migration-the-6-phase-playbook-13p8)
-- [Fetching X Timelines with API v2 Pay-Per-Use: Cost Breakdown, Caching, and the Gotchas](https://dev.to/ikka/fetching-x-timelines-with-api-v2-pay-per-use-cost-breakdown-caching-and-the-gotchas-1i2o)
-- [Flutter Anti-Pattern: How setState&lpar;&rpar; Turns Your App Into a Slideshow](https://dev.to/interlib_dev/flutter-anti-pattern-how-setstate-turns-your-app-into-a-slideshow-abj)
-- [How I Built a Hallucination Detector for RAG Pipelines in Python](https://dev.to/devasish_banerjee_b55ceb1/how-i-built-a-hallucination-detector-for-rag-pipelines-in-python-5ahc)
-- [I Tried 30+ System Design Books and Courses: Here Are My Top 5 Recommendations for 2026](https://dev.to/somadevtoo/i-tried-30-system-design-books-and-courses-here-are-my-top-5-recommendations-for-2026-3nec)
+- [Claude Code plugin credentials: what the new keychain storage does and doesn&#39;t do](https://dev.to/rsdouglas/claude-code-plugin-credentials-what-the-new-keychain-storage-does-and-doesnt-do-cnf)
+- [Your AI Stack Is Already Being Exploited. You Just Don&#39;t Know It Yet.](https://dev.to/ladebw/your-ai-stack-is-alreadybeing-exploitedyou-just-dont-know-it-yet-4k40)
+- [What Is a Unified AI API? How to Access Multiple LLMs from One Endpoint](https://dev.to/jaipalsingh/what-is-a-unified-ai-api-how-to-access-multiple-llms-from-one-endpoint-200l)
+- [Hướng Dẫn Biến Trading Agents Thành Quy Trình API Giao Dịch Thực Tế](https://dev.to/sebbasstian/huong-dan-bien-trading-agents-thanh-quy-trinh-api-giao-dich-thuc-te-57op)
+- [From expensive tokens to intelligent compression: how we optimize LLM costs in production](https://dev.to/carlosortet/from-expensive-tokens-to-intelligent-compression-how-we-optimize-llm-costs-in-production-18ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
