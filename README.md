@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Before an Agent Pays: Why Wallet Auth Is the Missing Layer in Agentic Commerce](https://dev.to/douglasborthwickcrypto/before-an-agent-pays-why-wallet-auth-is-the-missing-layer-in-agentic-commerce-hk2)
-- [I built a Redis-alternative distributed cache in Rust — with WAL persistence, mTLS, and Raft consensus](https://dev.to/vusalrahimov/i-built-a-redis-alternative-distributed-cache-in-rust-with-wal-persistence-mtls-and-raft-11a6)
-- [Audit Your SvelteKit Codebase with a JSON Feed of 34 Svelte 5 Patterns](https://dev.to/rickcogley/audit-your-sveltekit-codebase-with-a-json-feed-of-34-svelte-5-patterns-4l6e)
-- [Deploynix vs. Laravel Forge vs. Ploi: An Honest Comparison](https://dev.to/deploynix/deploynix-vs-laravel-forge-vs-ploi-an-honest-comparison-a17)
-- [vLLM On-Demand Gateway: Zero-VRAM Standby for Local LLMs on Consumer GPUs](https://dev.to/soytuber/vllm-on-demand-gateway-zero-vram-standby-for-local-llms-on-consumer-gpus-3a5l)
+- [K501 - INFORMATION SPACE : AXIOMATIC SPECIFICATION &lpar;HEADER-INTEGRATED&rpar;](https://dev.to/k501is/k501-information-space-axiomatic-specification-header-integrated-15jl)
+- [The Shared Persistence Layer: Trading Autonomy for Standardization in Microservices](https://dev.to/lucasheartcliff/the-shared-persistence-layer-trading-autonomy-for-standardization-in-microservices-47pn)
+- [SAP ABAP Performance Optimization: Identifying and Fixing Bottlenecks in Real-World Systems](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-performance-optimization-identifying-and-fixing-bottlenecks-in-real-world-systems-1jld)
+- [SAP BTP Event Mesh &amp;#038; Event-Driven Architecture: Building Resilient Integrations That Actually Scale](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-btp-event-mesh-038-event-driven-architecture-building-resilient-integrations-that-actually-3ed8)
+- [JWTs in Elixir: fast parsing by plain pattern matching](https://dev.to/juulsme/jwts-in-elixir-fast-parsing-by-plain-pattern-matching-52n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
