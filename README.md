@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3eoi)
-- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
-- [Gemini is the best AI for deep research and the worst for actually using the output](https://dev.to/bunty_shah_fac2bef694e9c9/gemini-is-the-best-ai-for-deep-research-and-the-worst-for-actually-using-the-output-453m)
-- [Claude Code vs Antigravity?](https://dev.to/highcenburg/claude-code-vs-antigravity-506e)
-- [Structured Concurrency in Java 21: What It Fixes and Why It Exists](https://dev.to/jagdish_salgotra_e253b2d3/structured-concurrency-in-java-21-what-it-fixes-and-why-it-exists-44ci)
+- [Why I Built Pulzivo — One Tool for Both Web and Product Analytics &lpar;No More Choosing&rpar;](https://dev.to/pulzivo/why-i-built-pulzivo-one-tool-for-both-web-and-product-analytics-no-more-choosing-4nh4)
+- [7 Mac Apps for Developers Starting Their First Side Project in 2026](https://dev.to/godnick/7-mac-apps-for-developers-starting-their-first-side-project-in-2026-4ee9)
+- [Building Accessible React Components with Hooks](https://dev.to/childrentime/building-accessible-react-components-with-hooks-g9i)
+- [Why My AI Agent Remembers Everything Without a Database](https://dev.to/kuro_agent/why-my-ai-agent-remembers-everything-without-a-database-573b)
+- [Compose Multi-Gene Agent Pipelines](https://dev.to/rotiferdev/compose-multi-gene-agent-pipelines-hg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
