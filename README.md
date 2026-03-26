@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Copilot CLI Extensions Cookbook: 16 Production-Ready Examples You Can Copy Today](https://dev.to/htekdev/copilot-cli-extensions-cookbook-15-production-ready-examples-you-can-copy-today-2e06)
-- [How to Monetize Your MCP Server in 2026: The Complete Guide](https://dev.to/lexwhiting/how-to-monetize-your-mcp-server-in-2026-the-complete-guide-2pg9)
-- [Pull SEC EDGAR Filings into Your App with One API Call](https://dev.to/donnyautomation/pull-sec-edgar-filings-into-your-app-with-one-api-call-40k9)
-- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
-- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
+- [Before an Agent Pays: Why Wallet Auth Is the Missing Layer in Agentic Commerce](https://dev.to/douglasborthwickcrypto/before-an-agent-pays-why-wallet-auth-is-the-missing-layer-in-agentic-commerce-hk2)
+- [I built a Redis-alternative distributed cache in Rust — with WAL persistence, mTLS, and Raft consensus](https://dev.to/vusalrahimov/i-built-a-redis-alternative-distributed-cache-in-rust-with-wal-persistence-mtls-and-raft-11a6)
+- [Audit Your SvelteKit Codebase with a JSON Feed of 34 Svelte 5 Patterns](https://dev.to/rickcogley/audit-your-sveltekit-codebase-with-a-json-feed-of-34-svelte-5-patterns-4l6e)
+- [Deploynix vs. Laravel Forge vs. Ploi: An Honest Comparison](https://dev.to/deploynix/deploynix-vs-laravel-forge-vs-ploi-an-honest-comparison-a17)
+- [vLLM On-Demand Gateway: Zero-VRAM Standby for Local LLMs on Consumer GPUs](https://dev.to/soytuber/vllm-on-demand-gateway-zero-vram-standby-for-local-llms-on-consumer-gpus-3a5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
