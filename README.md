@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lately, I’ve been digging into what actually slows down APIs. Here are a few bottlenecks that changed how I think about performance](https://dev.to/anshita_verma_1cbd4718b8e/lately-ive-been-digging-into-what-actually-slows-down-apis-here-are-a-few-bottlenecks-that-3f0n)
-- [How I Built a 2,000-Page Puzzle Site with Programmatic SEO](https://dev.to/clawrl3000/how-i-built-a-2000-page-puzzle-site-with-programmatic-seo-18p8)
-- [I Built a Coding Agent in Swift — The Hardest Bugs Were Concurrency, Not AI](https://dev.to/ivan_magda_8417a0295eb014/i-built-a-coding-agent-in-swift-the-hardest-bugs-were-concurrency-not-ai-fck)
-- [I built an AI-powered API Proxy to explain 4xx errors in plain English](https://dev.to/bytepanda/i-built-an-ai-powered-api-proxy-to-explain-4xx-errors-in-plain-english-2927)
-- [Build AI Configs with Agent Skills in Claude Code, Cursor, or Windsurf](https://dev.to/launchdarkly/build-ai-configs-with-agent-skills-in-claude-code-cursor-or-windsurf-2c5e)
+- [From RSA to ECC: The Impact of Quantum Computing on Modern Cryptography](https://dev.to/hardik_madaan_721629eeb51/from-rsa-to-ecc-the-impact-of-quantum-computing-on-modern-cryptography-b45)
+- [Agentic Software Development](https://dev.to/patricio_renner_431a871be/agentic-software-development-25o3)
+- [Porting Test Drive II from SNES to PC, Part 24: Tightening the SNES selector domains and the B1F9 handoff window](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-24-tightening-the-snes-selector-domains-and-the-b1f9-2gc9)
+- [Remote Work Didn&#39;t Fix Toxic Culture—It Just Made It Async](https://dev.to/_boweii/remote-work-didnt-fix-toxic-culture-it-just-made-it-async-5hgj)
+- [DSGVO auf deiner KMU-Webseite: Was wirklich Pflicht ist – und was nicht](https://dev.to/ivo_sa/dsgvo-auf-deiner-kmu-webseite-was-wirklich-pflicht-ist-und-was-nicht-3ja2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
