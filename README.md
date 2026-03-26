@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Pulzivo — One Tool for Both Web and Product Analytics &lpar;No More Choosing&rpar;](https://dev.to/pulzivo/why-i-built-pulzivo-one-tool-for-both-web-and-product-analytics-no-more-choosing-4nh4)
-- [7 Mac Apps for Developers Starting Their First Side Project in 2026](https://dev.to/godnick/7-mac-apps-for-developers-starting-their-first-side-project-in-2026-4ee9)
-- [Building Accessible React Components with Hooks](https://dev.to/childrentime/building-accessible-react-components-with-hooks-g9i)
-- [Why My AI Agent Remembers Everything Without a Database](https://dev.to/kuro_agent/why-my-ai-agent-remembers-everything-without-a-database-573b)
-- [Compose Multi-Gene Agent Pipelines](https://dev.to/rotiferdev/compose-multi-gene-agent-pipelines-hg4)
+- [WAIaaS SDK: Programmatic Wallet Control in TypeScript and Python](https://dev.to/walletguy/waiaas-sdk-programmatic-wallet-control-in-typescript-and-python-4687)
+- [Maximum Likelihood Estimation from Scratch: From Coin Flips to Gaussians](https://dev.to/berkan_sesen/maximum-likelihood-estimation-from-scratch-from-coin-flips-to-gaussians-3d2i)
+- [The Aave CAPO Oracle Meltdown: How a 2.85% Price Error Triggered $27M in Liquidations](https://dev.to/ohmygod/the-aave-capo-oracle-meltdown-how-a-285-price-error-triggered-27m-in-liquidations-3pmc)
+- [The Test Manager’s Guide: From Chaos to Predictable Quality — Part 1: Diagnosing Chaos &amp; Defining the Target Model](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-predictable-quality-part-1-diagnosing-chaos-defining-4o70)
+- [The Small Details That Make a Website Feel Finished &lpar;And Quietly Improve Accessibility, Performance, and Trust&rpar;](https://dev.to/hadil/the-small-details-that-make-a-website-feel-finished-and-quietly-improve-accessibility-4jkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
