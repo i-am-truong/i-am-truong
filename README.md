@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From RSA to ECC: The Impact of Quantum Computing on Modern Cryptography](https://dev.to/hardik_madaan_721629eeb51/from-rsa-to-ecc-the-impact-of-quantum-computing-on-modern-cryptography-b45)
-- [Agentic Software Development](https://dev.to/patricio_renner_431a871be/agentic-software-development-25o3)
-- [Porting Test Drive II from SNES to PC, Part 24: Tightening the SNES selector domains and the B1F9 handoff window](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-24-tightening-the-snes-selector-domains-and-the-b1f9-2gc9)
-- [Remote Work Didn&#39;t Fix Toxic Culture—It Just Made It Async](https://dev.to/_boweii/remote-work-didnt-fix-toxic-culture-it-just-made-it-async-5hgj)
-- [DSGVO auf deiner KMU-Webseite: Was wirklich Pflicht ist – und was nicht](https://dev.to/ivo_sa/dsgvo-auf-deiner-kmu-webseite-was-wirklich-pflicht-ist-und-was-nicht-3ja2)
+- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
+- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
+- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
+- [GitHub Copilot vs Tabnine: The Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-copilot-vs-tabnine-the-complete-comparison-2026-49d8)
+- [How To Prevent Website Downtime](https://dev.to/vincentbean/how-to-prevent-website-downtime-1i6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
