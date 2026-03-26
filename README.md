@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WAIaaS SDK: Programmatic Wallet Control in TypeScript and Python](https://dev.to/walletguy/waiaas-sdk-programmatic-wallet-control-in-typescript-and-python-4687)
-- [Maximum Likelihood Estimation from Scratch: From Coin Flips to Gaussians](https://dev.to/berkan_sesen/maximum-likelihood-estimation-from-scratch-from-coin-flips-to-gaussians-3d2i)
-- [The Aave CAPO Oracle Meltdown: How a 2.85% Price Error Triggered $27M in Liquidations](https://dev.to/ohmygod/the-aave-capo-oracle-meltdown-how-a-285-price-error-triggered-27m-in-liquidations-3pmc)
-- [The Test Manager’s Guide: From Chaos to Predictable Quality — Part 1: Diagnosing Chaos &amp; Defining the Target Model](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-predictable-quality-part-1-diagnosing-chaos-defining-4o70)
-- [The Small Details That Make a Website Feel Finished &lpar;And Quietly Improve Accessibility, Performance, and Trust&rpar;](https://dev.to/hadil/the-small-details-that-make-a-website-feel-finished-and-quietly-improve-accessibility-4jkp)
+- [Zero Downtime Cloud Migration: The 6-Phase Playbook](https://dev.to/varunvarde/zero-downtime-cloud-migration-the-6-phase-playbook-13p8)
+- [Fetching X Timelines with API v2 Pay-Per-Use: Cost Breakdown, Caching, and the Gotchas](https://dev.to/ikka/fetching-x-timelines-with-api-v2-pay-per-use-cost-breakdown-caching-and-the-gotchas-1i2o)
+- [Flutter Anti-Pattern: How setState&lpar;&rpar; Turns Your App Into a Slideshow](https://dev.to/interlib_dev/flutter-anti-pattern-how-setstate-turns-your-app-into-a-slideshow-abj)
+- [How I Built a Hallucination Detector for RAG Pipelines in Python](https://dev.to/devasish_banerjee_b55ceb1/how-i-built-a-hallucination-detector-for-rag-pipelines-in-python-5ahc)
+- [I Tried 30+ System Design Books and Courses: Here Are My Top 5 Recommendations for 2026](https://dev.to/somadevtoo/i-tried-30-system-design-books-and-courses-here-are-my-top-5-recommendations-for-2026-3nec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
