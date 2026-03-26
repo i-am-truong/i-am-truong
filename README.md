@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Government iPhone Exploit Just Leaked on GitHub — Update Now](https://dev.to/tyson_cung/a-government-iphone-exploit-just-leaked-on-github-update-now-28c9)
-- [Epic Games Just Cut 1,000 Jobs — Fortnite&#39;s $6 Billion Problem](https://dev.to/tyson_cung/epic-games-just-cut-1000-jobs-fortnites-6-billion-problem-357a)
-- [Three different ways to combine data in Pandas — concat, merge, and join.](https://dev.to/dolly_sharma/three-different-ways-to-combine-data-in-pandas-concat-merge-and-join-1ikl)
-- [Sleep-time compute for personal data: what your AI should do while you sleep](https://dev.to/micelclaw/sleep-time-compute-for-personal-data-what-your-ai-should-do-while-you-sleep-13fj)
-- [Step 2: Controlling the Speed of a Stepper Motor](https://dev.to/gustabe/step-2-controlling-the-speed-of-a-stepper-motor-1pe)
+- [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0)
+- [Your Site Is Up. Your Site Is Broken. Both Are True.](https://dev.to/sitewatch/your-site-is-up-your-site-is-broken-both-are-true-2l11)
+- [When the App Goes Silent: The Hidden Cost of “No Orders”](https://dev.to/tarun_aadarshbcse_3321c/when-the-app-goes-silent-the-hidden-cost-of-no-orders-1kne)
+- [I Got Tired of Cold Outreach. So I Made Claude Do It.](https://dev.to/thecodedaniel/i-got-tired-of-cold-outreach-so-i-made-claude-do-it-5flp)
+- [Xperience Community: Content Repositories](https://dev.to/vhugogarcia/xperience-community-content-repositories-1gaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
