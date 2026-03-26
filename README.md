@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup Snyk in 2026 - Complete Step-by-Step Guide](https://dev.to/rahulxsingh/how-to-setup-snyk-in-2026-complete-step-by-step-guide-184b)
+- [45 MCP Tools: Everything Your Claude Agent Can Do with a Wallet](https://dev.to/walletguy/45-mcp-tools-everything-your-claude-agent-can-do-with-a-wallet-cdf)
+- [Back to the terminal — I built an invoicing tool that lives where you work](https://dev.to/alexwillem/back-to-the-terminal-i-built-an-invoicing-tool-that-lives-where-you-work-25g)
+- [Sub-Agent Documents Everything in Notion](https://dev.to/trickell/i-built-an-agent-whose-only-job-is-to-document-everything-in-notion-i64)
 - [How I Tried to Handle Customer Support in Telegram and Ended Up Building a Tool for It](https://dev.to/petrtcoi/how-i-tried-to-handle-customer-support-in-telegram-and-ended-up-building-a-tool-for-it-2knl)
-- [RustCheat: A Minimal CLI Cheat Sheet for Rust](https://dev.to/ametuercodr/rustcheat-a-minimal-cli-cheat-sheet-for-rust-4jkb)
-- [Stop Putting API Keys in .env Files — Use Your OS Keychain Instead](https://dev.to/jaspernoboxdev/stop-putting-api-keys-in-env-files-use-your-os-keychain-instead-50bc)
-- [NoxKey — A macOS Secrets Manager With Touch ID and AI Agent Detection](https://dev.to/jaspernoboxdev/noxkey-a-macos-secrets-manager-with-touch-id-and-ai-agent-detection-fon)
-- [Getting Started with Seal Report: Static and Dynamic Select Lists](https://dev.to/vladg_dev/getting-started-with-seal-report-static-and-dynamic-select-lists-36o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
