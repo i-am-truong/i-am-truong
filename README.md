@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup Snyk in 2026 - Complete Step-by-Step Guide](https://dev.to/rahulxsingh/how-to-setup-snyk-in-2026-complete-step-by-step-guide-184b)
-- [45 MCP Tools: Everything Your Claude Agent Can Do with a Wallet](https://dev.to/walletguy/45-mcp-tools-everything-your-claude-agent-can-do-with-a-wallet-cdf)
-- [Back to the terminal — I built an invoicing tool that lives where you work](https://dev.to/alexwillem/back-to-the-terminal-i-built-an-invoicing-tool-that-lives-where-you-work-25g)
-- [Sub-Agent Documents Everything in Notion](https://dev.to/trickell/i-built-an-agent-whose-only-job-is-to-document-everything-in-notion-i64)
-- [How I Tried to Handle Customer Support in Telegram and Ended Up Building a Tool for It](https://dev.to/petrtcoi/how-i-tried-to-handle-customer-support-in-telegram-and-ended-up-building-a-tool-for-it-2knl)
+- [Planning is the New Bottleneck](https://dev.to/sargentjamesa/planning-is-the-new-bottleneck-202d)
+- [We Built an AI That Drafts Patent Responses — Here&#39;s What We Learned](https://dev.to/patentsolve/we-built-an-ai-that-drafts-patent-responses-heres-what-we-learned-2p31)
+- [The EU Just Killed Mass Surveillance of Your DMs. Most Developers Missed It.](https://dev.to/adioof/the-eu-just-killed-mass-surveillance-of-your-dms-most-developers-missed-it-l0k)
+- [The 8-Month Feature Nobody Wanted &lpar;Including Me, Eventually&rpar;](https://dev.to/_boweii/the-8-month-feature-nobody-wanted-including-me-eventually-4fg9)
+- [How I Quickly Turn CSV Files Into Charts &lpar;Without Excel or Coding&rpar;](https://dev.to/adhibot/how-i-quickly-turn-csv-files-into-charts-without-excel-or-coding-59p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
