@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Journey of Systematically Cut Our Monorepo CI Time in Half](https://dev.to/jimmyyeung/journey-of-systematically-cut-our-monorepo-ci-time-in-half-ec8)
-- [Scaling your productivity with spec docs in your IDE - Anti Gravity.](https://dev.to/gdg/teaching-gemini-to-scale-your-workflow-in-anti-gravity-om2)
-- [How to Audit and Lock Down Your AI Training Data Exposure on GitHub](https://dev.to/alanwest/how-to-audit-and-lock-down-your-ai-training-data-exposure-on-github-10ek)
-- [K501 - INFORMATION SPACE : AXIOMATIC SPECIFICATION &lpar;HEADER-INTEGRATED&rpar;](https://dev.to/k501is/k501-information-space-axiomatic-specification-header-integrated-15jl)
-- [The Shared Persistence Layer: Trading Autonomy for Standardization in Microservices](https://dev.to/lucasheartcliff/the-shared-persistence-layer-trading-autonomy-for-standardization-in-microservices-47pn)
+- [How I Tried to Handle Customer Support in Telegram and Ended Up Building a Tool for It](https://dev.to/petrtcoi/how-i-tried-to-handle-customer-support-in-telegram-and-ended-up-building-a-tool-for-it-2knl)
+- [RustCheat: A Minimal CLI Cheat Sheet for Rust](https://dev.to/ametuercodr/rustcheat-a-minimal-cli-cheat-sheet-for-rust-4jkb)
+- [Stop Putting API Keys in .env Files — Use Your OS Keychain Instead](https://dev.to/jaspernoboxdev/stop-putting-api-keys-in-env-files-use-your-os-keychain-instead-50bc)
+- [NoxKey — A macOS Secrets Manager With Touch ID and AI Agent Detection](https://dev.to/jaspernoboxdev/noxkey-a-macos-secrets-manager-with-touch-id-and-ai-agent-detection-fon)
+- [Getting Started with Seal Report: Static and Dynamic Select Lists](https://dev.to/vladg_dev/getting-started-with-seal-report-static-and-dynamic-select-lists-36o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
