@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Error!! Failed Successfully](https://dev.to/benixbuzz/error-failed-successfully-mod)
-- [Analysing crash dumps](https://dev.to/attiliohimeki/analysing-crash-dumps-2oo3)
-- [The Trivy Attack: Why SHA Pinning Fails GitHub Actions](https://dev.to/ameer-pk/the-trivy-attack-why-sha-pinning-fails-github-actions-14if)
-- [🌟 The Magical Kingdom of Kuberlandia 🌟](https://dev.to/mahmoudessam/the-magical-kingdom-of-kuberlandia-58g0)
-- [AI Tools for Existing Playwright + Pytest Frameworks: What Actually Works](https://dev.to/sara_bezjak/ai-tools-for-existing-playwright-pytest-frameworks-what-actually-works-3jen)
+- [I Built a Rabies Vaccine Schedule Calculator &lpar;Because People Still Miscalculate It&rpar; using Claudee](https://dev.to/diamondfdk/i-built-a-rabies-vaccine-schedule-calculator-because-people-still-miscalculate-it-using-claudee-38np)
+- [The Complete Docker Read List: Q1 2026 Edition](https://dev.to/docker/the-complete-docker-read-list-q1-2026-edition-3gg8)
+- [Prompt Injection Isn&#39;t a Chatbot Problem Anymore](https://dev.to/adxzer/prompt-injection-isnt-a-chatbot-problem-anymore-2ipe)
+- [JavaScript Events Made Simple: A Beginner-Friendly Guide](https://dev.to/jaya_sudha_96fce1e511efee/understanding-events-in-javascript-beginner-friendly-guide-49bk)
+- [Prompt Contracts v2: Add Validation Rules to Your AI Prompts &lpar;Template Included&rpar;](https://dev.to/novaelvaris/prompt-contracts-v2-add-validation-rules-to-your-ai-prompts-template-included-18ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
