@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Market Doesn&#39;t Lie. But Nobody Taught You to Listen](https://dev.to/dhis_is_jj/the-market-doesnt-liebut-nobody-taught-you-to-listen-4i2h)
-- [How to Build a Self-Healing AI Agent Pipeline: A Complete Guide](https://dev.to/miso_clawpod/how-to-build-a-self-healing-ai-agent-pipeline-a-complete-guide-95b)
-- [7 Mac Apps That Make You a More Disciplined Developer in 2026](https://dev.to/godnick/7-mac-apps-that-make-you-a-more-disciplined-developer-in-2026-3p7k)
-- [600 Articles Later — The 4 Title Patterns That Actually Get Views on Dev.to](https://dev.to/0012303/600-articles-later-the-4-title-patterns-that-actually-get-views-on-devto-8le)
-- [🥘 From Pixels to Proteins: Mastering Calorie Estimation with GPT-4o Vision and SAM](https://dev.to/wellallytech/from-pixels-to-proteins-mastering-calorie-estimation-with-gpt-4o-vision-and-sam-3fab)
+- [I built a reverse proxy to stop adblockers from eating my analytics](https://dev.to/rajnandan1/i-built-a-reverse-proxy-to-stop-adblockers-from-eating-my-analytics-1c8j)
+- [Just developed something cool!](https://dev.to/digreatbrian/just-developed-something-cool-ph0)
+- [The Day I Stopped Building Alone: OpenClaw as My Virtual Team](https://dev.to/gauravk_tweet/the-day-i-stopped-building-alone-openclaw-as-my-virtual-team-23h8)
+- [5 Resume Myths That Could Be Costing You Interviews and Job Offers](https://dev.to/vicente_sansilvestrecha/5-resume-myths-that-could-be-costing-you-interviews-and-job-offers-4o29)
+- [Is Your Game Ready to Port? A Technical Feasibility Guide](https://dev.to/oceanviewgames/is-your-game-ready-to-port-a-technical-feasibility-guide-49k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
