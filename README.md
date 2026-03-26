@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copilot CLI Extensions Cookbook: 16 Production-Ready Examples You Can Copy Today](https://dev.to/htekdev/copilot-cli-extensions-cookbook-15-production-ready-examples-you-can-copy-today-2e06)
+- [How to Monetize Your MCP Server in 2026: The Complete Guide](https://dev.to/lexwhiting/how-to-monetize-your-mcp-server-in-2026-the-complete-guide-2pg9)
+- [Pull SEC EDGAR Filings into Your App with One API Call](https://dev.to/donnyautomation/pull-sec-edgar-filings-into-your-app-with-one-api-call-40k9)
+- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
 - [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
-- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
-- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
-- [GitHub Copilot vs Tabnine: The Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-copilot-vs-tabnine-the-complete-comparison-2026-49d8)
-- [How To Prevent Website Downtime](https://dev.to/vincentbean/how-to-prevent-website-downtime-1i6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
