@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Rabies Vaccine Schedule Calculator &lpar;Because People Still Miscalculate It&rpar; using Claudee](https://dev.to/diamondfdk/i-built-a-rabies-vaccine-schedule-calculator-because-people-still-miscalculate-it-using-claudee-38np)
-- [The Complete Docker Read List: Q1 2026 Edition](https://dev.to/docker/the-complete-docker-read-list-q1-2026-edition-3gg8)
-- [Prompt Injection Isn&#39;t a Chatbot Problem Anymore](https://dev.to/adxzer/prompt-injection-isnt-a-chatbot-problem-anymore-2ipe)
-- [JavaScript Events Made Simple: A Beginner-Friendly Guide](https://dev.to/jaya_sudha_96fce1e511efee/understanding-events-in-javascript-beginner-friendly-guide-49bk)
-- [Prompt Contracts v2: Add Validation Rules to Your AI Prompts &lpar;Template Included&rpar;](https://dev.to/novaelvaris/prompt-contracts-v2-add-validation-rules-to-your-ai-prompts-template-included-18ah)
+- [Lately, I’ve been digging into what actually slows down APIs. Here are a few bottlenecks that changed how I think about performance](https://dev.to/anshita_verma_1cbd4718b8e/lately-ive-been-digging-into-what-actually-slows-down-apis-here-are-a-few-bottlenecks-that-3f0n)
+- [How I Built a 2,000-Page Puzzle Site with Programmatic SEO](https://dev.to/clawrl3000/how-i-built-a-2000-page-puzzle-site-with-programmatic-seo-18p8)
+- [I Built a Coding Agent in Swift — The Hardest Bugs Were Concurrency, Not AI](https://dev.to/ivan_magda_8417a0295eb014/i-built-a-coding-agent-in-swift-the-hardest-bugs-were-concurrency-not-ai-fck)
+- [I built an AI-powered API Proxy to explain 4xx errors in plain English](https://dev.to/bytepanda/i-built-an-ai-powered-api-proxy-to-explain-4xx-errors-in-plain-english-2927)
+- [Build AI Configs with Agent Skills in Claude Code, Cursor, or Windsurf](https://dev.to/launchdarkly/build-ai-configs-with-agent-skills-in-claude-code-cursor-or-windsurf-2c5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
