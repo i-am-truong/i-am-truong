@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a reverse proxy to stop adblockers from eating my analytics](https://dev.to/rajnandan1/i-built-a-reverse-proxy-to-stop-adblockers-from-eating-my-analytics-1c8j)
-- [Just developed something cool!](https://dev.to/digreatbrian/just-developed-something-cool-ph0)
-- [The Day I Stopped Building Alone: OpenClaw as My Virtual Team](https://dev.to/gauravk_tweet/the-day-i-stopped-building-alone-openclaw-as-my-virtual-team-23h8)
-- [5 Resume Myths That Could Be Costing You Interviews and Job Offers](https://dev.to/vicente_sansilvestrecha/5-resume-myths-that-could-be-costing-you-interviews-and-job-offers-4o29)
-- [Is Your Game Ready to Port? A Technical Feasibility Guide](https://dev.to/oceanviewgames/is-your-game-ready-to-port-a-technical-feasibility-guide-49k2)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3eoi)
+- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
+- [Gemini is the best AI for deep research and the worst for actually using the output](https://dev.to/bunty_shah_fac2bef694e9c9/gemini-is-the-best-ai-for-deep-research-and-the-worst-for-actually-using-the-output-453m)
+- [Claude Code vs Antigravity?](https://dev.to/highcenburg/claude-code-vs-antigravity-506e)
+- [Structured Concurrency in Java 21: What It Fixes and Why It Exists](https://dev.to/jagdish_salgotra_e253b2d3/structured-concurrency-in-java-21-what-it-fixes-and-why-it-exists-44ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
