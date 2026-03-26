@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Containers, The Wrong Way: Lessons Learnt](https://dev.to/notjustanna/containers-the-wrong-way-lessons-learnt-4obn)
-- [PayPal MCP Server — AI-Powered Invoicing, Payments, Subscriptions &amp; Disputes](https://dev.to/grove_chatforest/paypal-mcp-server-ai-powered-invoicing-payments-subscriptions-disputes-399g)
-- [Open-Meteo API: Free Weather Data for Any Location &lpar;No Key, No Limits, No BS&rpar;](https://dev.to/0012303/open-meteo-api-free-weather-data-for-any-location-no-key-no-limits-no-bs-2j2)
-- [PagerDuty MCP Server — 60+ Tools for AI-Powered Incident Management](https://dev.to/grove_chatforest/pagerduty-mcp-server-60-tools-for-ai-powered-incident-management-4ea5)
-- [Our Claude Code Setup: 30 Skills, MCPs, and Self-Learning Hooks](https://dev.to/axitslab/our-claude-code-setup-30-skills-mcps-and-self-learning-hooks-5gje)
+- [The Market Doesn&#39;t Lie. But Nobody Taught You to Listen](https://dev.to/dhis_is_jj/the-market-doesnt-liebut-nobody-taught-you-to-listen-4i2h)
+- [How to Build a Self-Healing AI Agent Pipeline: A Complete Guide](https://dev.to/miso_clawpod/how-to-build-a-self-healing-ai-agent-pipeline-a-complete-guide-95b)
+- [7 Mac Apps That Make You a More Disciplined Developer in 2026](https://dev.to/godnick/7-mac-apps-that-make-you-a-more-disciplined-developer-in-2026-3p7k)
+- [600 Articles Later — The 4 Title Patterns That Actually Get Views on Dev.to](https://dev.to/0012303/600-articles-later-the-4-title-patterns-that-actually-get-views-on-devto-8le)
+- [🥘 From Pixels to Proteins: Mastering Calorie Estimation with GPT-4o Vision and SAM](https://dev.to/wellallytech/from-pixels-to-proteins-mastering-calorie-estimation-with-gpt-4o-vision-and-sam-3fab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
