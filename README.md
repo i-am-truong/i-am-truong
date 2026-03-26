@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0)
-- [Your Site Is Up. Your Site Is Broken. Both Are True.](https://dev.to/sitewatch/your-site-is-up-your-site-is-broken-both-are-true-2l11)
-- [When the App Goes Silent: The Hidden Cost of “No Orders”](https://dev.to/tarun_aadarshbcse_3321c/when-the-app-goes-silent-the-hidden-cost-of-no-orders-1kne)
-- [I Got Tired of Cold Outreach. So I Made Claude Do It.](https://dev.to/thecodedaniel/i-got-tired-of-cold-outreach-so-i-made-claude-do-it-5flp)
-- [Xperience Community: Content Repositories](https://dev.to/vhugogarcia/xperience-community-content-repositories-1gaf)
+- [Why AI Agents Need a Skills Marketplace &lpar;And What We&#39;re Building&rpar;](https://dev.to/rafsilva85/why-ai-agents-need-a-skills-marketplace-and-what-were-building-4h1i)
+- [MCP Is Being Abandoned: How Fast Can a &#39;Standard&#39; Die?](https://dev.to/chen_zhang_bac430bc7f6b95/mcp-is-being-abandoned-how-fast-can-a-standard-die-2f7c)
+- [Laravel Testing Environment Setup](https://dev.to/mrdt12/laravel-testing-environment-setup-4c6l)
+- [MCP + Wallet: When AI Agents Can Actually Pay](https://dev.to/walletguy/mcp-wallet-when-ai-agents-can-actually-pay-bnc)
+- [The Myth of the One-Size-Fits-All Resume: Why Customization Matters](https://dev.to/vicente_sansilvestrecha/the-myth-of-the-one-size-fits-all-resume-why-customization-matters-f0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
