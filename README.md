@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Need a Skills Marketplace &lpar;And What We&#39;re Building&rpar;](https://dev.to/rafsilva85/why-ai-agents-need-a-skills-marketplace-and-what-were-building-4h1i)
-- [MCP Is Being Abandoned: How Fast Can a &#39;Standard&#39; Die?](https://dev.to/chen_zhang_bac430bc7f6b95/mcp-is-being-abandoned-how-fast-can-a-standard-die-2f7c)
-- [Laravel Testing Environment Setup](https://dev.to/mrdt12/laravel-testing-environment-setup-4c6l)
-- [MCP + Wallet: When AI Agents Can Actually Pay](https://dev.to/walletguy/mcp-wallet-when-ai-agents-can-actually-pay-bnc)
-- [The Myth of the One-Size-Fits-All Resume: Why Customization Matters](https://dev.to/vicente_sansilvestrecha/the-myth-of-the-one-size-fits-all-resume-why-customization-matters-f0d)
+- [Error!! Failed Successfully](https://dev.to/benixbuzz/error-failed-successfully-mod)
+- [Analysing crash dumps](https://dev.to/attiliohimeki/analysing-crash-dumps-2oo3)
+- [The Trivy Attack: Why SHA Pinning Fails GitHub Actions](https://dev.to/ameer-pk/the-trivy-attack-why-sha-pinning-fails-github-actions-14if)
+- [🌟 The Magical Kingdom of Kuberlandia 🌟](https://dev.to/mahmoudessam/the-magical-kingdom-of-kuberlandia-58g0)
+- [AI Tools for Existing Playwright + Pytest Frameworks: What Actually Works](https://dev.to/sara_bezjak/ai-tools-for-existing-playwright-pytest-frameworks-what-actually-works-3jen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
