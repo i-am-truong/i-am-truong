@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An AI News Aggregator That Clusters 30+ Sources in Real-Time — Here&#39;s How It Works](https://dev.to/ai_miracle_ai/an-ai-news-aggregator-that-clusters-30-sources-in-real-time-heres-how-it-works-d5n)
-- [How to Scrape Goodreads in 2026: Books, Reviews, Author Profiles, and Ratings](https://dev.to/agenthustler/how-to-scrape-goodreads-in-2026-books-reviews-author-profiles-and-ratings-15e)
-- [Conquering Tutorial Hell](https://dev.to/brendon_oneill__/conquering-tutorial-hell-2ln9)
-- [Native Federation vs Webpack Module Federation — Which Should You Choose in 2026?](https://dev.to/mhmoud_ashour_5547515422e/native-federation-vs-webpack-module-federation-which-should-you-choose-in-2026-109m)
-- [The cursorrules and CLAUDE.md setup I use for every AI product I build](https://dev.to/yangzh991/the-cursorrules-and-claudemd-setup-i-use-for-every-ai-product-i-build-163e)
+- [A Government iPhone Exploit Just Leaked on GitHub — Update Now](https://dev.to/tyson_cung/a-government-iphone-exploit-just-leaked-on-github-update-now-28c9)
+- [Epic Games Just Cut 1,000 Jobs — Fortnite&#39;s $6 Billion Problem](https://dev.to/tyson_cung/epic-games-just-cut-1000-jobs-fortnites-6-billion-problem-357a)
+- [Three different ways to combine data in Pandas — concat, merge, and join.](https://dev.to/dolly_sharma/three-different-ways-to-combine-data-in-pandas-concat-merge-and-join-1ikl)
+- [Sleep-time compute for personal data: what your AI should do while you sleep](https://dev.to/micelclaw/sleep-time-compute-for-personal-data-what-your-ai-should-do-while-you-sleep-13fj)
+- [Step 2: Controlling the Speed of a Stepper Motor](https://dev.to/gustabe/step-2-controlling-the-speed-of-a-stepper-motor-1pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
