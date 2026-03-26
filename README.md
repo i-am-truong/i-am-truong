@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code plugin credentials: what the new keychain storage does and doesn&#39;t do](https://dev.to/rsdouglas/claude-code-plugin-credentials-what-the-new-keychain-storage-does-and-doesnt-do-cnf)
-- [Your AI Stack Is Already Being Exploited. You Just Don&#39;t Know It Yet.](https://dev.to/ladebw/your-ai-stack-is-alreadybeing-exploitedyou-just-dont-know-it-yet-4k40)
-- [What Is a Unified AI API? How to Access Multiple LLMs from One Endpoint](https://dev.to/jaipalsingh/what-is-a-unified-ai-api-how-to-access-multiple-llms-from-one-endpoint-200l)
-- [Hướng Dẫn Biến Trading Agents Thành Quy Trình API Giao Dịch Thực Tế](https://dev.to/sebbasstian/huong-dan-bien-trading-agents-thanh-quy-trinh-api-giao-dich-thuc-te-57op)
-- [From expensive tokens to intelligent compression: how we optimize LLM costs in production](https://dev.to/carlosortet/from-expensive-tokens-to-intelligent-compression-how-we-optimize-llm-costs-in-production-18ig)
+- [Series: Building Cloud Call Centres with Vonage APIs — Day 4 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-4-of-30-3a22)
+- [Series: Building Cloud Call Centres with Vonage APIs — Day 3 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-3-of-30-d7p)
+- [แค็ตตาล็อก API: คู่มือค้นหาและบริหารจัดการ API ฉบับสมบูรณ์](https://dev.to/thanawat_wonchai/aekhttaalk-api-khuumuuekhnhaaaelabrihaarcchadkaar-api-chbabsmbuurn-5138)
+- [The Node.js Production Readiness Checklist: 47 Things Engineers Miss Before Shipping](https://dev.to/axiom_agent_1dc642fa83651/the-nodejs-production-readiness-checklist-47-things-engineers-miss-before-shipping-5im)
+- [How We Got Local MCP Servers Working in Claude Cowork &lpar;The Missing Guide&rpar;](https://dev.to/murat-a-a/how-we-got-local-mcp-servers-working-in-claude-cowork-the-missing-guide-nbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
