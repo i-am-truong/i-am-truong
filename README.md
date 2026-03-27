@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Submitting My First Device Tree Binding Patch for GSoC 2026 — And It Got Accepted!](https://dev.to/moonlitpath1/submitting-my-first-device-tree-binding-patch-for-gsoc-2026-3io4)
-- [Grafana Dashboards for Non-Prod Environment Observability: Cost + Performance in One View](https://dev.to/muskan_8abedcc7e12/grafana-dashboards-for-non-prod-environment-observability-cost-performance-in-one-view-40hc)
-- [Closures in JavaScript: A Beginner-Friendly Guide](https://dev.to/jaya_sudha_96fce1e511efee/understanding-closures-in-javascript-explained-for-beginners-1b8c)
-- [Using AI to Explain Terraform Plans to Humans](https://dev.to/yogesh_vk/using-ai-to-explain-terraform-plans-to-humans-3dp4)
-- [PROJETO AURORA X](https://dev.to/felipe_marcosdeabreuaq/projeto-aurora-x-202h)
+- [Swiss Ephemeris PHP: A 1:1 FFI Wrapper for Astronomical Precision in PHP 8.3+](https://dev.to/jayeshmepani/swiss-ephemeris-php-a-11-ffi-wrapper-for-astronomical-precision-in-php-83-4l1c)
+- [The Modern Game Designer’s Toolkit](https://dev.to/hiroshi_takamura_c851fe71/the-modern-game-designers-toolkit-3hac)
+- [DuitDataSource: The Data Layer That Quietly Changed Everything in Duit](https://dev.to/lesleysin/duitdatasource-the-data-layer-that-quietly-changed-everything-in-duit-1i44)
+- [GraphQL: The Query Tax](https://dev.to/vivian-voss/graphql-the-query-tax-256f)
+- [Import Spreadsheet to MySQL](https://dev.to/csvbox-io/import-spreadsheet-to-mysql-1j3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
