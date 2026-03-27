@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swiss Ephemeris PHP: A 1:1 FFI Wrapper for Astronomical Precision in PHP 8.3+](https://dev.to/jayeshmepani/swiss-ephemeris-php-a-11-ffi-wrapper-for-astronomical-precision-in-php-83-4l1c)
-- [The Modern Game Designer’s Toolkit](https://dev.to/hiroshi_takamura_c851fe71/the-modern-game-designers-toolkit-3hac)
-- [DuitDataSource: The Data Layer That Quietly Changed Everything in Duit](https://dev.to/lesleysin/duitdatasource-the-data-layer-that-quietly-changed-everything-in-duit-1i44)
-- [GraphQL: The Query Tax](https://dev.to/vivian-voss/graphql-the-query-tax-256f)
-- [Import Spreadsheet to MySQL](https://dev.to/csvbox-io/import-spreadsheet-to-mysql-1j3i)
+- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
+- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
+- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
+- [Pick the Right Claude Code Model for Every Task](https://dev.to/klement_gunndu/pick-the-right-claude-code-model-for-every-task-1p6a)
+- [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
