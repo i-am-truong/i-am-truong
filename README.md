@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [90% of Local Businesses Are Invisible Online — And Their Reviews Prove It](https://dev.to/azeem_shafeeq/90-of-local-businesses-are-invisible-online-and-their-reviews-prove-it-1hc8)
-- [5 Ways Developers Use Screenshot APIs &lpar;Beyond Simple Page Captures&rpar;](https://dev.to/webmox/5-ways-developers-use-screenshot-apis-beyond-simple-page-captures-1ep2)
-- [Error Handling in JavaScript: Try, Catch, Finally](https://dev.to/ritam369/error-handling-in-javascript-try-catch-finally-585k)
-- [Your AI Agents Are Exploring Blind. Here&#39;s How to Give Them a Map.](https://dev.to/wilddog64/your-ai-agents-are-exploring-blind-heres-how-to-give-them-a-map-k0m)
-- [The &quot;Cognitive Interface&quot;: Beyond UI and API](https://dev.to/tercelyi/the-cognitive-interface-beyond-ui-and-api-582b)
+- [Your AI Agent Needed Gmail, Slack, and GitHub. I Gave It One Login.](https://dev.to/dannygerst/your-ai-agent-needed-gmail-slack-and-github-i-gave-it-one-login-22in)
+- [Porting Test Drive II from SNES to PC, Part 32: Closing the SNES top-menu transition semantics](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-32-closing-the-snes-top-menu-transition-semantics-4cnf)
+- [I Replaced My SaaS Stack with Self-Hosted Tools - Monthly Bill: $347 to $12](https://dev.to/maquankun/i-replaced-my-saas-stack-with-self-hosted-tools-monthly-bill-347-to-12-fia)
+- [Kubernetes for HPC: The Quiet Convergence Reshaping High-Performance Computing](https://dev.to/naveens16/kubernetes-for-hpc-the-quiet-convergence-reshaping-high-performance-computing-2apb)
+- [I can&#39;t go back, after I gave my OpenClaw a voice.](https://dev.to/arthurwentworth/i-cant-go-back-after-i-gave-my-openclaw-a-voice-4413)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
