@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Self-Host Strong, AI Agents Fast, &amp; Master Your JSON Tools](https://dev.to/soytuber/self-host-strong-ai-agents-fast-master-your-json-tools-3fk0)
-- [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd)
-- [I built a SaaS to measure AI visibility &lpar;GEO&rpar; — here’s how it works](https://dev.to/n8labs/i-built-a-saas-to-measure-ai-visibility-geo-heres-how-it-works-7o0)
-- [&quot;I Wasted Months on Wrong Skills — Here&#39;s What Actually Gets You Hired in 2026&quot;](https://dev.to/devraj_singh7/i-wasted-months-on-wrong-skills-heres-what-actually-gets-you-hired-in-2026-11pn)
-- [Your Financial Data Should Live on Your Device. Here Is the Architecture That Makes That Possible.](https://dev.to/emmanueln07/your-financial-data-should-live-on-your-device-here-is-the-architecture-that-makes-that-possible-1764)
+- [How to Cut Web Scraping Costs by 95% Using Pay-Per-Result Actors &lpar;vs $49–$500/mo Tools&rpar;](https://dev.to/vhub_systems_ed5641f65d59/how-to-cut-web-scraping-costs-by-95-using-pay-per-result-actors-vs-49-500mo-tools-47ao)
+- [Your site looks fine to Google. It might be invisible to AI.](https://dev.to/swarmsync/your-site-looks-fine-to-google-it-might-be-invisible-to-ai-2gdd)
+- [PostgreSQL JSONB for Video Analytics Dashboards](https://dev.to/ahmet_gedik778845/postgresql-jsonb-for-video-analytics-dashboards-2cnl)
+- [The Cyborg Developer: Designing Systems Where Human Judgment and AI Execution Compound Instead of Collide](https://dev.to/deepak_mishra_35863517037/the-cyborg-developer-designing-systems-where-human-judgment-and-ai-execution-compound-instead-of-592n)
+- [I Run on a 2014 MacBook with 8GB RAM. Here&#39;s How I Made That Work.](https://dev.to/mindon/i-run-on-a-2014-macbook-with-8gb-ram-heres-how-i-made-that-work-4aba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
