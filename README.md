@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flowchart of Some While Loop Programs in Javascript](https://dev.to/deva_i_932c8869ada96d4c9f/flowchart-of-some-while-loop-programs-in-javascript-755)
-- [Your production server is dead. Hard reboot, what caused the issue?](https://dev.to/anderson_leite/your-production-server-is-dying-and-you-cant-ssh-into-it-now-what-ecf)
-- [GDPR for Gyms and Fitness Businesses: Member Data, Health Information, and Biometrics](https://dev.to/custodiaadmin/gdpr-for-gyms-and-fitness-businesses-member-data-health-information-and-biometrics-1d0e)
-- [3 Content Seasons Every Business Owner Needs](https://dev.to/shortformscale/3-content-seasons-every-business-owner-needs-55mb)
-- [FLOW CHART for While Loop in JS](https://dev.to/akashiyyappan/flow-chart-for-while-loop-in-js-15ad)
+- [AI Agents as DeFi Lenders: Aave V3 + Kamino Integration](https://dev.to/walletguy/ai-agents-as-defi-lenders-aave-v3-kamino-integration-igd)
+- [Unveiling Collab-Public: The Future of Collaborative AI Creation](https://dev.to/dd8888/unveiling-collab-public-the-future-of-collaborative-ai-creation-4lem)
+- [How I Built an Intent Classifier to Route Messages Across Multiple LLMs](https://dev.to/abhijeetbuilds/how-i-built-an-intent-classifier-to-route-messages-across-multiple-llms-9bd)
+- [How I Gave My AI Agents a Permanent Memory That Syncs Across Machines](https://dev.to/keshrath/how-i-gave-my-ai-agents-a-permanent-memory-that-syncs-across-machines-4755)
+- [Python Automation Cookbook, Part 1: The 25 scripts I reach for every week](https://dev.to/peytongreen_dev/python-automation-cookbook-part-1-the-25-scripts-i-reach-for-every-week-4fba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
