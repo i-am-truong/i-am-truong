@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Spot a Burning-Out Codebase Before It Burns Out Your Team](https://dev.to/tidusjar/how-to-spot-a-burning-out-codebase-before-it-burns-out-your-team-5df3)
-- [AI Wrote 70% of My Production Codebase. Here&#39;s Why That Actually Worked.](https://dev.to/nickycdk/ai-wrote-70-of-my-production-codebase-heres-why-that-actually-worked-2bmd)
-- [Stop managing RBAC and feature flags separately in React](https://dev.to/abhishekayu/stop-managing-rbac-and-feature-flags-separately-in-react-m6h)
-- [Top AI Video Tools 2026: Ultimate Guide](https://dev.to/b1fe7066aefjbingbong/top-ai-video-tools-2026-ultimate-guide-4ak7)
-- [Running a temp mail service in 20 languages without a translation team](https://dev.to/tempmailyou/running-a-temp-mail-service-in-20-languages-without-a-translation-team-3bka)
+- [90% of Local Businesses Are Invisible Online — And Their Reviews Prove It](https://dev.to/azeem_shafeeq/90-of-local-businesses-are-invisible-online-and-their-reviews-prove-it-1hc8)
+- [5 Ways Developers Use Screenshot APIs &lpar;Beyond Simple Page Captures&rpar;](https://dev.to/webmox/5-ways-developers-use-screenshot-apis-beyond-simple-page-captures-1ep2)
+- [Error Handling in JavaScript: Try, Catch, Finally](https://dev.to/ritam369/error-handling-in-javascript-try-catch-finally-585k)
+- [Your AI Agents Are Exploring Blind. Here&#39;s How to Give Them a Map.](https://dev.to/wilddog64/your-ai-agents-are-exploring-blind-heres-how-to-give-them-a-map-k0m)
+- [The &quot;Cognitive Interface&quot;: Beyond UI and API](https://dev.to/tercelyi/the-cognitive-interface-beyond-ui-and-api-582b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
