@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents as DeFi Lenders: Aave V3 + Kamino Integration](https://dev.to/walletguy/ai-agents-as-defi-lenders-aave-v3-kamino-integration-igd)
-- [Unveiling Collab-Public: The Future of Collaborative AI Creation](https://dev.to/dd8888/unveiling-collab-public-the-future-of-collaborative-ai-creation-4lem)
-- [How I Built an Intent Classifier to Route Messages Across Multiple LLMs](https://dev.to/abhijeetbuilds/how-i-built-an-intent-classifier-to-route-messages-across-multiple-llms-9bd)
-- [How I Gave My AI Agents a Permanent Memory That Syncs Across Machines](https://dev.to/keshrath/how-i-gave-my-ai-agents-a-permanent-memory-that-syncs-across-machines-4755)
-- [Python Automation Cookbook, Part 1: The 25 scripts I reach for every week](https://dev.to/peytongreen_dev/python-automation-cookbook-part-1-the-25-scripts-i-reach-for-every-week-4fba)
+- [Your framework choice is now your biggest AI cost lever](https://dev.to/andrewrozumny/your-framework-choice-is-now-your-biggest-ai-cost-lever-lml)
+- [Social Media Automation That Actually Works &lpar;Not Just Scheduling&rpar;](https://dev.to/eqhoids/social-media-automation-that-actually-works-not-just-scheduling-3i2h)
+- [Why 99% of AI Startups Are Just Fancy Demos](https://dev.to/maduro_ai/why-99-of-ai-startups-are-just-fancy-demos-ll3)
+- [CIS AWS v3.0 in 60 Seconds: Automate Compliance with Terraform](https://dev.to/haitmg/cis-aws-v30-in-60-seconds-automate-compliance-with-terraform-54d3)
+- [Quick tip: Flesch-Kincaid Grade Level 8 is your target](https://dev.to/bengreenberg/quick-tip-flesch-kincaid-grade-level-8-is-your-target-ci7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
