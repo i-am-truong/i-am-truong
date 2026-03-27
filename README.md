@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your framework choice is now your biggest AI cost lever](https://dev.to/andrewrozumny/your-framework-choice-is-now-your-biggest-ai-cost-lever-lml)
-- [Social Media Automation That Actually Works &lpar;Not Just Scheduling&rpar;](https://dev.to/eqhoids/social-media-automation-that-actually-works-not-just-scheduling-3i2h)
-- [Why 99% of AI Startups Are Just Fancy Demos](https://dev.to/maduro_ai/why-99-of-ai-startups-are-just-fancy-demos-ll3)
-- [CIS AWS v3.0 in 60 Seconds: Automate Compliance with Terraform](https://dev.to/haitmg/cis-aws-v30-in-60-seconds-automate-compliance-with-terraform-54d3)
-- [Quick tip: Flesch-Kincaid Grade Level 8 is your target](https://dev.to/bengreenberg/quick-tip-flesch-kincaid-grade-level-8-is-your-target-ci7)
+- [How to Spot a Burning-Out Codebase Before It Burns Out Your Team](https://dev.to/tidusjar/how-to-spot-a-burning-out-codebase-before-it-burns-out-your-team-5df3)
+- [AI Wrote 70% of My Production Codebase. Here&#39;s Why That Actually Worked.](https://dev.to/nickycdk/ai-wrote-70-of-my-production-codebase-heres-why-that-actually-worked-2bmd)
+- [Stop managing RBAC and feature flags separately in React](https://dev.to/abhishekayu/stop-managing-rbac-and-feature-flags-separately-in-react-m6h)
+- [Top AI Video Tools 2026: Ultimate Guide](https://dev.to/b1fe7066aefjbingbong/top-ai-video-tools-2026-ultimate-guide-4ak7)
+- [Running a temp mail service in 20 languages without a translation team](https://dev.to/tempmailyou/running-a-temp-mail-service-in-20-languages-without-a-translation-team-3bka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
