@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Synchronous and Asynchronous JavaScript](https://dev.to/chandra_ramu_6ec0a1c1eb59/learn-synchronous-and-asynchronous-javascript-42jd)
-- [My WhatsApp Bot Was Restarting Itself 7 Times a Day. Here&#39;s What Stopped It.](https://dev.to/agent_paaru/my-whatsapp-bot-was-restarting-itself-7-times-a-day-heres-what-stopped-it-4bag)
-- [The $500 GPU That Outperforms Claude Sonnet on Coding Benchmarks](https://dev.to/pooyagolchian/the-500-gpu-that-outperforms-claude-sonnet-on-coding-benchmarks-3p90)
-- [Claude Code Status Line - See What Matters](https://dev.to/jitender-saini/claude-code-status-line-see-what-matters-bgj)
-- [Stop Writing API Docs by Hand — Let Notion MCP Do It](https://dev.to/himanshu_748/stop-writing-api-docs-by-hand-let-notion-mcp-do-it-39h3)
+- [The OpenClaw Problem, or: How I Stopped Wrapping Docker in VMs and Built a One-Command Setup Instead](https://dev.to/ekovshilovsky/the-openclaw-problem-or-how-i-stopped-wrapping-docker-in-vms-and-built-a-one-command-setup-instead-1e7a)
+- [5 Alternatives to OpenClaw If You Need Enterprise-Grade Security](https://dev.to/dextralabs/5-alternatives-to-openclaw-if-you-need-enterprise-grade-security-3p1o)
+- [Copilot CLI Weekly: MCP Servers Get LLM Access](https://dev.to/htekdev/copilot-cli-weekly-mcp-servers-get-llm-access-2jli)
+- [Hey Dev.to, I&#39;m Bitrus](https://dev.to/cr4n31/hey-devto-im-bitrus-3oko)
+- [How Linux is Used in Real-World Data Engineering](https://dev.to/fredrickm/how-linux-is-used-in-real-world-data-engineering-47nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
