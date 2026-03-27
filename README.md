@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nous Ergon: Building an Autonomous Alpha Engine with AI](https://dev.to/cipher813/nous-ergon-building-an-autonomous-alpha-engine-with-ai-13hj)
-- [What Is Context Engineering and How to Apply It in Real Systems](https://dev.to/kodus/what-is-context-engineering-and-how-to-apply-it-in-real-systems-4nc6)
-- [How to Deploy Dokploy on an Ubuntu Server and Create Your First &quot;Hello World&quot; in Node.js](https://dev.to/oscar_ricardosncheguti/how-to-deploy-dokploy-on-an-ubuntu-server-and-create-your-first-hello-world-in-nodejs-lg2)
-- [How to Talk to Managers &lpar;So They Actually Listen to You&rpar;](https://dev.to/lessonsfromproduction/how-to-talk-to-managers-so-they-actually-listen-to-you-44hm)
-- [Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser.](https://dev.to/lostbeard/pure-c-bittorrentwebtorrent-client-and-server-no-javascript-dependencies-desktop-browser-278d)
+- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
+- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
+- [I Built an AI Pet Therapy Companion in Python — Here&#39;s What I Learned About Human Emotion](https://dev.to/coach4life/i-built-an-ai-pet-therapy-companion-in-python-heres-what-i-learned-about-human-emotion-2doo)
+- [CSS Specificity Visualizer + Tailwind Class Sorter — Two New Tools](https://dev.to/tatelyman/css-specificity-visualizer-tailwind-class-sorter-two-new-tools-4fpl)
+- [How to Find Viral TikTok Shop Products Before Your Competitors &lpar;Using Apify&rpar;](https://dev.to/vhub_systems_ed5641f65d59/how-to-find-viral-tiktok-shop-products-before-your-competitors-using-apify-19ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
