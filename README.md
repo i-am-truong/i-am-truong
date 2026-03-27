@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
-- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
-- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
-- [Pick the Right Claude Code Model for Every Task](https://dev.to/klement_gunndu/pick-the-right-claude-code-model-for-every-task-1p6a)
-- [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
+- [Flowchart of Some While Loop Programs in Javascript](https://dev.to/deva_i_932c8869ada96d4c9f/flowchart-of-some-while-loop-programs-in-javascript-755)
+- [Your production server is dead. Hard reboot, what caused the issue?](https://dev.to/anderson_leite/your-production-server-is-dying-and-you-cant-ssh-into-it-now-what-ecf)
+- [GDPR for Gyms and Fitness Businesses: Member Data, Health Information, and Biometrics](https://dev.to/custodiaadmin/gdpr-for-gyms-and-fitness-businesses-member-data-health-information-and-biometrics-1d0e)
+- [3 Content Seasons Every Business Owner Needs](https://dev.to/shortformscale/3-content-seasons-every-business-owner-needs-55mb)
+- [FLOW CHART for While Loop in JS](https://dev.to/akashiyyappan/flow-chart-for-while-loop-in-js-15ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
