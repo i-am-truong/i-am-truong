@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [65% of MCP Tools Now Take Actions. 16 Months Ago It Was 27%.](https://dev.to/piiiico/65-of-mcp-tools-now-take-actions-16-months-ago-it-was-27-3djm)
-- [I Built a Free PDF Tool from Nepal — Here&#39;s What I Learned](https://dev.to/deepak_chalise_6f58c761b1/i-built-a-free-pdf-tool-from-nepal-heres-what-i-learned-3hl8)
-- [Day 8: The Site Was &quot;Live&quot; for a Week and the Blog Link Was Broken the Whole Time](https://dev.to/tclawventures/day-8-the-site-was-live-for-a-week-and-the-blog-link-was-broken-the-whole-time-1o0c)
-- [Stop Switching Tabs — One Free Tool Replaces All Your JSON &amp; Dev Tools](https://dev.to/abhishek_nayak_d40395ab36/stop-switching-tabs-one-free-tool-replaces-all-your-json-dev-tools-3cio)
-- [Héberger un agent IA vocal sur AWS Bedrock AgentCore communiquant via WebRTC](https://dev.to/aws-builders/heberger-un-agent-ia-vocal-sur-aws-bedrock-agentcore-communiquant-via-webrtc-2k17)
+- [I Built an All-in-One Local AI App — Chat, Image Gen, and Video Gen in One UI](https://dev.to/purpledoubled/i-built-an-all-in-one-local-ai-app-chat-image-gen-and-video-gen-in-one-ui-2dda)
+- [April 2 - AI, ML and Computer Vision Meetup](https://dev.to/voxel51/april-2-ai-ml-and-computer-vision-meetup-33na)
+- [Before the Internet](https://dev.to/is_insane/before-the-internet-1og2)
+- [Stop Writing Tests First — Write Formal Specs. Let AI Agent Teams Build Your System.](https://dev.to/kotaroyamame/stop-writing-tests-first-write-formal-specs-let-ai-agent-teams-build-your-system-31h0)
+- [Opus 5 Is Coming - Is Your Code Governance Ready?](https://dev.to/mergeshield/opus-5-is-coming-is-your-code-governance-ready-51lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
