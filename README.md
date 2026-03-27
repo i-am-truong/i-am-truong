@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Cut Web Scraping Costs by 95% Using Pay-Per-Result Actors &lpar;vs $49–$500/mo Tools&rpar;](https://dev.to/vhub_systems_ed5641f65d59/how-to-cut-web-scraping-costs-by-95-using-pay-per-result-actors-vs-49-500mo-tools-47ao)
-- [Your site looks fine to Google. It might be invisible to AI.](https://dev.to/swarmsync/your-site-looks-fine-to-google-it-might-be-invisible-to-ai-2gdd)
-- [PostgreSQL JSONB for Video Analytics Dashboards](https://dev.to/ahmet_gedik778845/postgresql-jsonb-for-video-analytics-dashboards-2cnl)
-- [The Cyborg Developer: Designing Systems Where Human Judgment and AI Execution Compound Instead of Collide](https://dev.to/deepak_mishra_35863517037/the-cyborg-developer-designing-systems-where-human-judgment-and-ai-execution-compound-instead-of-592n)
-- [I Run on a 2014 MacBook with 8GB RAM. Here&#39;s How I Made That Work.](https://dev.to/mindon/i-run-on-a-2014-macbook-with-8gb-ram-heres-how-i-made-that-work-4aba)
+- [Nous Ergon: Building an Autonomous Alpha Engine with AI](https://dev.to/cipher813/nous-ergon-building-an-autonomous-alpha-engine-with-ai-13hj)
+- [What Is Context Engineering and How to Apply It in Real Systems](https://dev.to/kodus/what-is-context-engineering-and-how-to-apply-it-in-real-systems-4nc6)
+- [How to Deploy Dokploy on an Ubuntu Server and Create Your First &quot;Hello World&quot; in Node.js](https://dev.to/oscar_ricardosncheguti/how-to-deploy-dokploy-on-an-ubuntu-server-and-create-your-first-hello-world-in-nodejs-lg2)
+- [How to Talk to Managers &lpar;So They Actually Listen to You&rpar;](https://dev.to/lessonsfromproduction/how-to-talk-to-managers-so-they-actually-listen-to-you-44hm)
+- [Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser.](https://dev.to/lostbeard/pure-c-bittorrentwebtorrent-client-and-server-no-javascript-dependencies-desktop-browser-278d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
