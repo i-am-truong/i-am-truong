@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
-- [I Built an AI Pet Therapy Companion in Python — Here&#39;s What I Learned About Human Emotion](https://dev.to/coach4life/i-built-an-ai-pet-therapy-companion-in-python-heres-what-i-learned-about-human-emotion-2doo)
-- [CSS Specificity Visualizer + Tailwind Class Sorter — Two New Tools](https://dev.to/tatelyman/css-specificity-visualizer-tailwind-class-sorter-two-new-tools-4fpl)
-- [How to Find Viral TikTok Shop Products Before Your Competitors &lpar;Using Apify&rpar;](https://dev.to/vhub_systems_ed5641f65d59/how-to-find-viral-tiktok-shop-products-before-your-competitors-using-apify-19ea)
+- [Your Pipeline Is 24.9h Behind: Catching Stock Market Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-249h-behind-catching-stock-market-sentiment-leads-with-pulsebit-134m)
+- [Monitoring Past Performance vs. Alerting Real-Time Issues: What React Teams Are Missing](https://dev.to/nosyos/monitoring-past-performance-vs-alerting-real-time-issues-what-react-teams-are-missing-hdc)
+- [I Built a Netflix-Style AI App to Study AWS &lpar;And It Actually Works&rpar;](https://dev.to/davidkljajo/i-built-a-netflix-style-ai-aws-saa-coach-using-partyrock-14cf)
+- [GDPR for Recruitment Agencies: Candidate CVs, Talent Pools and Retention Schedules](https://dev.to/custodiaadmin/gdpr-for-recruitment-agencies-candidate-cvs-talent-pools-and-retention-schedules-2ila)
+- [How to Fix CORS Errors in Your Frontend App Using a Proxy Server](https://dev.to/0xdezman/how-to-fix-cors-errors-in-your-frontend-app-using-a-proxy-server-5h65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
