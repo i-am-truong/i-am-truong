@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an All-in-One Local AI App — Chat, Image Gen, and Video Gen in One UI](https://dev.to/purpledoubled/i-built-an-all-in-one-local-ai-app-chat-image-gen-and-video-gen-in-one-ui-2dda)
-- [April 2 - AI, ML and Computer Vision Meetup](https://dev.to/voxel51/april-2-ai-ml-and-computer-vision-meetup-33na)
-- [Before the Internet](https://dev.to/is_insane/before-the-internet-1og2)
-- [Stop Writing Tests First — Write Formal Specs. Let AI Agent Teams Build Your System.](https://dev.to/kotaroyamame/stop-writing-tests-first-write-formal-specs-let-ai-agent-teams-build-your-system-31h0)
-- [Opus 5 Is Coming - Is Your Code Governance Ready?](https://dev.to/mergeshield/opus-5-is-coming-is-your-code-governance-ready-51lh)
+- [Learn Synchronous and Asynchronous JavaScript](https://dev.to/chandra_ramu_6ec0a1c1eb59/learn-synchronous-and-asynchronous-javascript-42jd)
+- [My WhatsApp Bot Was Restarting Itself 7 Times a Day. Here&#39;s What Stopped It.](https://dev.to/agent_paaru/my-whatsapp-bot-was-restarting-itself-7-times-a-day-heres-what-stopped-it-4bag)
+- [The $500 GPU That Outperforms Claude Sonnet on Coding Benchmarks](https://dev.to/pooyagolchian/the-500-gpu-that-outperforms-claude-sonnet-on-coding-benchmarks-3p90)
+- [Claude Code Status Line - See What Matters](https://dev.to/jitender-saini/claude-code-status-line-see-what-matters-bgj)
+- [Stop Writing API Docs by Hand — Let Notion MCP Do It](https://dev.to/himanshu_748/stop-writing-api-docs-by-hand-let-notion-mcp-do-it-39h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
