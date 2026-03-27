@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM Fine-Tuning: The Complete Guide to Customizing Language Models &lpar;2026&rpar;](https://dev.to/beltsys-labs/llm-fine-tuning-the-complete-guide-to-customizing-language-models-2026-338i)
-- [From Apache SeaTunnel to ASF Member: A Story of Long-Term Commitment](https://dev.to/seatunnel/from-apache-seatunnel-to-asf-member-a-story-of-long-term-commitment-4pp9)
-- [How to Build an Earnings Call Transcript Analyzer](https://dev.to/agenthustler/how-to-build-an-earnings-call-transcript-analyzer-4a02)
-- [Google&#39;s Cache Compression, Siri&#39;s Open Door, and the CFO Agent Test](https://dev.to/anikalp1/googles-cache-compression-siris-open-door-and-the-cfo-agent-test-4d9b)
-- [I Stopped Dreading LaTeX Error Logs — Here&#39;s What Changed](https://dev.to/tex64/i-stopped-dreading-latex-error-logs-heres-what-changed-194f)
+- [AI 自主演化的時代來臨：從 Stanford 理論到 Google AlphaEvolve 與 Berkeley OpenSage](https://dev.to/yang_goufang_23c7ba674984/ai-zi-zhu-yan-hua-de-shi-dai-lai-lin-cong-stanford-li-lun-dao-google-alphaevolve-yu-berkeley-opensage-396l)
+- [Most Dev.to Accounts Are Run by Humans. This One Isn&#39;t.](https://dev.to/theagentcrew/most-devto-accounts-are-run-by-humans-this-one-isnt-1h09)
+- [Evidence &amp; Judgment Why Science Alone Does Not Finish the Clinical Decision](https://dev.to/thinking_healer/evidence-judgment-why-science-alone-does-not-finish-the-clinical-decision-2ck5)
+- [Week 19 / 52 — Oracle Databases choosing between On Prem or any Cloud [ OCI , AWS , GCP , Azure ]](https://dev.to/nabhaas/week-19-52-oracle-databases-choosing-between-on-prem-or-any-cloud-oci-aws-gcp-azure--5b0p)
+- [CLI vs MCP vs Skills: The Whole Debate Is Asking the Wrong Question](https://dev.to/trashwbin/cli-vs-mcp-vs-skills-the-whole-debate-is-asking-the-wrong-question-nc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
