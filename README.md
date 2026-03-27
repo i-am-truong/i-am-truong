@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Planning is the New Bottleneck](https://dev.to/sargentjamesa/planning-is-the-new-bottleneck-202d)
-- [We Built an AI That Drafts Patent Responses — Here&#39;s What We Learned](https://dev.to/patentsolve/we-built-an-ai-that-drafts-patent-responses-heres-what-we-learned-2p31)
-- [The EU Just Killed Mass Surveillance of Your DMs. Most Developers Missed It.](https://dev.to/adioof/the-eu-just-killed-mass-surveillance-of-your-dms-most-developers-missed-it-l0k)
-- [The 8-Month Feature Nobody Wanted &lpar;Including Me, Eventually&rpar;](https://dev.to/_boweii/the-8-month-feature-nobody-wanted-including-me-eventually-4fg9)
-- [How I Quickly Turn CSV Files Into Charts &lpar;Without Excel or Coding&rpar;](https://dev.to/adhibot/how-i-quickly-turn-csv-files-into-charts-without-excel-or-coding-59p7)
+- [11. Bootstrap](https://dev.to/avery_/11-bootstrap-2nn6)
+- [Structured Outputs Are the Contract Your AI Agent Is Missing](https://dev.to/sitaram_srivatsavai/structured-outputs-are-the-contract-your-ai-agent-is-missing-24a)
+- [GRAFSPEE Build faster with 60+ components](https://dev.to/nouryahyaoui/grafspee-build-faster-with-60-components-kn0)
+- [Zero-Ceremony Identity: Why I Built a Single-Binary OIDC Provider in Go](https://dev.to/eugenioenko/zero-ceremony-identity-why-i-built-a-single-binary-oidc-provider-in-go-12d1)
+- [AI Won’t Replace Good Testers — But It Will Expose Weak Testing Faster](https://dev.to/msalaz80/ai-wont-replace-good-testers-but-it-will-expose-weak-testing-faster-424p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
