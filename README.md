@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [11. Bootstrap](https://dev.to/avery_/11-bootstrap-2nn6)
-- [Structured Outputs Are the Contract Your AI Agent Is Missing](https://dev.to/sitaram_srivatsavai/structured-outputs-are-the-contract-your-ai-agent-is-missing-24a)
-- [GRAFSPEE Build faster with 60+ components](https://dev.to/nouryahyaoui/grafspee-build-faster-with-60-components-kn0)
-- [Zero-Ceremony Identity: Why I Built a Single-Binary OIDC Provider in Go](https://dev.to/eugenioenko/zero-ceremony-identity-why-i-built-a-single-binary-oidc-provider-in-go-12d1)
-- [AI Won’t Replace Good Testers — But It Will Expose Weak Testing Faster](https://dev.to/msalaz80/ai-wont-replace-good-testers-but-it-will-expose-weak-testing-faster-424p)
+- [LLM Fine-Tuning: The Complete Guide to Customizing Language Models &lpar;2026&rpar;](https://dev.to/beltsys-labs/llm-fine-tuning-the-complete-guide-to-customizing-language-models-2026-338i)
+- [From Apache SeaTunnel to ASF Member: A Story of Long-Term Commitment](https://dev.to/seatunnel/from-apache-seatunnel-to-asf-member-a-story-of-long-term-commitment-4pp9)
+- [How to Build an Earnings Call Transcript Analyzer](https://dev.to/agenthustler/how-to-build-an-earnings-call-transcript-analyzer-4a02)
+- [Google&#39;s Cache Compression, Siri&#39;s Open Door, and the CFO Agent Test](https://dev.to/anikalp1/googles-cache-compression-siris-open-door-and-the-cfo-agent-test-4d9b)
+- [I Stopped Dreading LaTeX Error Logs — Here&#39;s What Changed](https://dev.to/tex64/i-stopped-dreading-latex-error-logs-heres-what-changed-194f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
