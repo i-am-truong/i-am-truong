@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Needed Gmail, Slack, and GitHub. I Gave It One Login.](https://dev.to/dannygerst/your-ai-agent-needed-gmail-slack-and-github-i-gave-it-one-login-22in)
-- [Porting Test Drive II from SNES to PC, Part 32: Closing the SNES top-menu transition semantics](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-32-closing-the-snes-top-menu-transition-semantics-4cnf)
-- [I Replaced My SaaS Stack with Self-Hosted Tools - Monthly Bill: $347 to $12](https://dev.to/maquankun/i-replaced-my-saas-stack-with-self-hosted-tools-monthly-bill-347-to-12-fia)
-- [Kubernetes for HPC: The Quiet Convergence Reshaping High-Performance Computing](https://dev.to/naveens16/kubernetes-for-hpc-the-quiet-convergence-reshaping-high-performance-computing-2apb)
-- [I can&#39;t go back, after I gave my OpenClaw a voice.](https://dev.to/arthurwentworth/i-cant-go-back-after-i-gave-my-openclaw-a-voice-4413)
+- [Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams](https://dev.to/redis/building-reliable-agents-with-the-transactional-outbox-pattern-and-redis-streams-45e6)
+- [Your AI agents are a security nightmare](https://dev.to/allenheltondev/your-ai-agents-are-a-security-nightmare-4omp)
+- [Qdrant Has a Free Vector Database Optimized for AI and Semantic Search](https://dev.to/0012303/qdrant-has-a-free-vector-database-optimized-for-ai-and-semantic-search-5232)
+- [Stop Rebuilding Frontends for Every Environment](https://dev.to/yonigofman/stop-rebuilding-frontends-for-every-environment-k8m)
+- [Grafana Loki Has a Free Log Aggregation System Like Prometheus But for Logs](https://dev.to/0012303/grafana-loki-has-a-free-log-aggregation-system-like-prometheus-but-for-logs-4k55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
