@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Skip the Designer — Editing Logic Apps Data Mapper LML Files Directly](https://dev.to/imdj/skip-the-designer-editing-logic-apps-data-mapper-lml-files-directly-40l0)
-- [Introducing Flexibility Without Losing Structure in Clprolf](https://dev.to/charles_koffler_bcabc582b/introducing-flexibility-without-losing-structure-in-clprolf-17m8)
-- [awesome-trending-repos: Modern Web Interface for GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-modern-web-interface-for-github-trending-26b5)
-- [awesome-trending-repos: GitHub Trending için Modern Web Arayüzü](https://dev.to/furkankoykiran/awesome-trending-repos-github-trending-icin-modern-web-arayuzu-m7n)
-- [Unlock AI on Your Laptop: A Deep Dive into Small Language Models &lpar;SLMs&rpar; – Phi-3, Gemma, and Llama 3](https://dev.to/programmingcentral/unlock-ai-on-your-laptop-a-deep-dive-into-small-language-models-slms-phi-3-gemma-and-llama-3-11lk)
+- [Wrapping Up Bloom After: Week 4 Polish &amp; Full Sprint Retro](https://dev.to/grace_olabode_3be546efe9b/wrapping-up-bloom-after-week-4-polish-full-sprint-retro-p2m)
+- [I Built a Skill So Claude Automatically Routes Tasks to Free-Tier AI Providers](https://dev.to/lakshmisravyavedantham/i-built-a-skill-so-claude-automatically-routes-tasks-to-free-tier-ai-providers-1m10)
+- [CI/CD en AWS: Lab práctico para automatizar el despliegue de sitios web estáticos S3, CloudFront, CodePipeline y CodeBuild](https://dev.to/juanhcode/cicd-en-aws-lab-practico-para-automatizar-el-despliegue-de-sitios-web-estaticos-s3-cloudfront-11dc)
+- [CVE-2026-32241: CVE-2026-32241: Command Injection in Flannel Experimental Extension Backend](https://dev.to/cverports/cve-2026-32241-cve-2026-32241-command-injection-in-flannel-experimental-extension-backend-332h)
+- [Porting Test Drive II from SNES to PC, Part 46: Demoting game_11.mss from gameplay seed to front-end menu state](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-46-demoting-game11mss-from-gameplay-seed-to-5a55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
