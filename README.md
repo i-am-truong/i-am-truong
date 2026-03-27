@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams](https://dev.to/redis/building-reliable-agents-with-the-transactional-outbox-pattern-and-redis-streams-45e6)
-- [Your AI agents are a security nightmare](https://dev.to/allenheltondev/your-ai-agents-are-a-security-nightmare-4omp)
-- [Qdrant Has a Free Vector Database Optimized for AI and Semantic Search](https://dev.to/0012303/qdrant-has-a-free-vector-database-optimized-for-ai-and-semantic-search-5232)
-- [Stop Rebuilding Frontends for Every Environment](https://dev.to/yonigofman/stop-rebuilding-frontends-for-every-environment-k8m)
-- [Grafana Loki Has a Free Log Aggregation System Like Prometheus But for Logs](https://dev.to/0012303/grafana-loki-has-a-free-log-aggregation-system-like-prometheus-but-for-logs-4k55)
+- [65% of MCP Tools Now Take Actions. 16 Months Ago It Was 27%.](https://dev.to/piiiico/65-of-mcp-tools-now-take-actions-16-months-ago-it-was-27-3djm)
+- [I Built a Free PDF Tool from Nepal — Here&#39;s What I Learned](https://dev.to/deepak_chalise_6f58c761b1/i-built-a-free-pdf-tool-from-nepal-heres-what-i-learned-3hl8)
+- [Day 8: The Site Was &quot;Live&quot; for a Week and the Blog Link Was Broken the Whole Time](https://dev.to/tclawventures/day-8-the-site-was-live-for-a-week-and-the-blog-link-was-broken-the-whole-time-1o0c)
+- [Stop Switching Tabs — One Free Tool Replaces All Your JSON &amp; Dev Tools](https://dev.to/abhishek_nayak_d40395ab36/stop-switching-tabs-one-free-tool-replaces-all-your-json-dev-tools-3cio)
+- [Héberger un agent IA vocal sur AWS Bedrock AgentCore communiquant via WebRTC](https://dev.to/aws-builders/heberger-un-agent-ia-vocal-sur-aws-bedrock-agentcore-communiquant-via-webrtc-2k17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
