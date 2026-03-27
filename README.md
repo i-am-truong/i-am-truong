@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The OpenClaw Problem, or: How I Stopped Wrapping Docker in VMs and Built a One-Command Setup Instead](https://dev.to/ekovshilovsky/the-openclaw-problem-or-how-i-stopped-wrapping-docker-in-vms-and-built-a-one-command-setup-instead-1e7a)
-- [5 Alternatives to OpenClaw If You Need Enterprise-Grade Security](https://dev.to/dextralabs/5-alternatives-to-openclaw-if-you-need-enterprise-grade-security-3p1o)
-- [Copilot CLI Weekly: MCP Servers Get LLM Access](https://dev.to/htekdev/copilot-cli-weekly-mcp-servers-get-llm-access-2jli)
-- [Hey Dev.to, I&#39;m Bitrus](https://dev.to/cr4n31/hey-devto-im-bitrus-3oko)
-- [How Linux is Used in Real-World Data Engineering](https://dev.to/fredrickm/how-linux-is-used-in-real-world-data-engineering-47nh)
+- [What Breeders Actually Need From Software &lpar;And What Developers Assume They Need&rpar;](https://dev.to/dusttoo/what-breeders-actually-need-from-software-and-what-developers-assume-they-need-1hhj)
+- [The Open-Source Security Guide for Flutter Developers](https://dev.to/schmiemandev/the-open-source-security-guide-for-flutter-developers-4p8e)
+- [How npm, pnpm, and yarn Ate 40GB of My 256GB SSD](https://dev.to/bradley_nash/how-npm-pnpm-and-yarn-ate-40gb-of-my-256gb-ssd-7lb)
+- [Sovereign Attention Firewall: A Zero-Trust AI Perimeter for Your Calendar](https://dev.to/olawolemoses/sovereign-attention-firewall-a-zero-trust-ai-perimeter-for-your-calendar-4kei)
+- [Hangfire Had a DB Support Problem. I Fixed It. You&#39;re Welcome.](https://dev.to/pengdows/hangfire-had-a-db-support-problem-i-fixed-it-youre-welcome-2hd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
