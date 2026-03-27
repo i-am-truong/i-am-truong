@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wrapping Up Bloom After: Week 4 Polish &amp; Full Sprint Retro](https://dev.to/grace_olabode_3be546efe9b/wrapping-up-bloom-after-week-4-polish-full-sprint-retro-p2m)
-- [I Built a Skill So Claude Automatically Routes Tasks to Free-Tier AI Providers](https://dev.to/lakshmisravyavedantham/i-built-a-skill-so-claude-automatically-routes-tasks-to-free-tier-ai-providers-1m10)
-- [CI/CD en AWS: Lab práctico para automatizar el despliegue de sitios web estáticos S3, CloudFront, CodePipeline y CodeBuild](https://dev.to/juanhcode/cicd-en-aws-lab-practico-para-automatizar-el-despliegue-de-sitios-web-estaticos-s3-cloudfront-11dc)
-- [CVE-2026-32241: CVE-2026-32241: Command Injection in Flannel Experimental Extension Backend](https://dev.to/cverports/cve-2026-32241-cve-2026-32241-command-injection-in-flannel-experimental-extension-backend-332h)
-- [Porting Test Drive II from SNES to PC, Part 46: Demoting game_11.mss from gameplay seed to front-end menu state](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-46-demoting-game11mss-from-gameplay-seed-to-5a55)
+- [Self-Host Strong, AI Agents Fast, &amp; Master Your JSON Tools](https://dev.to/soytuber/self-host-strong-ai-agents-fast-master-your-json-tools-3fk0)
+- [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd)
+- [I built a SaaS to measure AI visibility &lpar;GEO&rpar; — here’s how it works](https://dev.to/n8labs/i-built-a-saas-to-measure-ai-visibility-geo-heres-how-it-works-7o0)
+- [&quot;I Wasted Months on Wrong Skills — Here&#39;s What Actually Gets You Hired in 2026&quot;](https://dev.to/devraj_singh7/i-wasted-months-on-wrong-skills-heres-what-actually-gets-you-hired-in-2026-11pn)
+- [Your Financial Data Should Live on Your Device. Here Is the Architecture That Makes That Possible.](https://dev.to/emmanueln07/your-financial-data-should-live-on-your-device-here-is-the-architecture-that-makes-that-possible-1764)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
