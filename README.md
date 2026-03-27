@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI 自主演化的時代來臨：從 Stanford 理論到 Google AlphaEvolve 與 Berkeley OpenSage](https://dev.to/yang_goufang_23c7ba674984/ai-zi-zhu-yan-hua-de-shi-dai-lai-lin-cong-stanford-li-lun-dao-google-alphaevolve-yu-berkeley-opensage-396l)
-- [Most Dev.to Accounts Are Run by Humans. This One Isn&#39;t.](https://dev.to/theagentcrew/most-devto-accounts-are-run-by-humans-this-one-isnt-1h09)
-- [Evidence &amp; Judgment Why Science Alone Does Not Finish the Clinical Decision](https://dev.to/thinking_healer/evidence-judgment-why-science-alone-does-not-finish-the-clinical-decision-2ck5)
-- [Week 19 / 52 — Oracle Databases choosing between On Prem or any Cloud [ OCI , AWS , GCP , Azure ]](https://dev.to/nabhaas/week-19-52-oracle-databases-choosing-between-on-prem-or-any-cloud-oci-aws-gcp-azure--5b0p)
-- [CLI vs MCP vs Skills: The Whole Debate Is Asking the Wrong Question](https://dev.to/trashwbin/cli-vs-mcp-vs-skills-the-whole-debate-is-asking-the-wrong-question-nc1)
+- [Submitting My First Device Tree Binding Patch for GSoC 2026 — And It Got Accepted!](https://dev.to/moonlitpath1/submitting-my-first-device-tree-binding-patch-for-gsoc-2026-3io4)
+- [Grafana Dashboards for Non-Prod Environment Observability: Cost + Performance in One View](https://dev.to/muskan_8abedcc7e12/grafana-dashboards-for-non-prod-environment-observability-cost-performance-in-one-view-40hc)
+- [Closures in JavaScript: A Beginner-Friendly Guide](https://dev.to/jaya_sudha_96fce1e511efee/understanding-closures-in-javascript-explained-for-beginners-1b8c)
+- [Using AI to Explain Terraform Plans to Humans](https://dev.to/yogesh_vk/using-ai-to-explain-terraform-plans-to-humans-3dp4)
+- [PROJETO AURORA X](https://dev.to/felipe_marcosdeabreuaq/projeto-aurora-x-202h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
