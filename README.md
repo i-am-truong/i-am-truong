@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Breeders Actually Need From Software &lpar;And What Developers Assume They Need&rpar;](https://dev.to/dusttoo/what-breeders-actually-need-from-software-and-what-developers-assume-they-need-1hhj)
-- [The Open-Source Security Guide for Flutter Developers](https://dev.to/schmiemandev/the-open-source-security-guide-for-flutter-developers-4p8e)
-- [How npm, pnpm, and yarn Ate 40GB of My 256GB SSD](https://dev.to/bradley_nash/how-npm-pnpm-and-yarn-ate-40gb-of-my-256gb-ssd-7lb)
-- [Sovereign Attention Firewall: A Zero-Trust AI Perimeter for Your Calendar](https://dev.to/olawolemoses/sovereign-attention-firewall-a-zero-trust-ai-perimeter-for-your-calendar-4kei)
-- [Hangfire Had a DB Support Problem. I Fixed It. You&#39;re Welcome.](https://dev.to/pengdows/hangfire-had-a-db-support-problem-i-fixed-it-youre-welcome-2hd9)
+- [Skip the Designer — Editing Logic Apps Data Mapper LML Files Directly](https://dev.to/imdj/skip-the-designer-editing-logic-apps-data-mapper-lml-files-directly-40l0)
+- [Introducing Flexibility Without Losing Structure in Clprolf](https://dev.to/charles_koffler_bcabc582b/introducing-flexibility-without-losing-structure-in-clprolf-17m8)
+- [awesome-trending-repos: Modern Web Interface for GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-modern-web-interface-for-github-trending-26b5)
+- [awesome-trending-repos: GitHub Trending için Modern Web Arayüzü](https://dev.to/furkankoykiran/awesome-trending-repos-github-trending-icin-modern-web-arayuzu-m7n)
+- [Unlock AI on Your Laptop: A Deep Dive into Small Language Models &lpar;SLMs&rpar; – Phi-3, Gemma, and Llama 3](https://dev.to/programmingcentral/unlock-ai-on-your-laptop-a-deep-dive-into-small-language-models-slms-phi-3-gemma-and-llama-3-11lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
