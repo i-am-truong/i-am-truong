@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Use a SKILL.md File to Make Claude Code Run a Full QA Workflow Automatically](https://dev.to/jan_strelec_f0260c269988b/how-i-use-a-skillmd-file-to-make-claude-code-run-a-full-qa-workflow-automatically-5h8g)
-- [The Maintenance Trap: How AI Is Forcing Developers to Spend 84% of Their Time on Non-Coding Work in 2026](https://dev.to/tanishka_karsulkar_ec9e58/the-maintenance-trap-how-ai-is-forcing-developers-to-spend-84-of-their-time-on-non-coding-work-in-19b1)
-- [Developers! What is our role now, when coding is solved?](https://dev.to/bent_kristiansen/developers-what-is-our-role-now-when-coding-is-solved-1n4n)
-- [Are We in a Computer Simulation?](https://dev.to/vedangvatsa/are-we-in-a-computer-simulation-4jp7)
-- [ZeroToRepo: I Built an AI Agent That Turns Notion Ideas Into GitHub Repos Before Your Coffee Cools](https://dev.to/abeera_lodhi/zerotorepo-i-built-an-ai-agent-that-turns-notion-ideas-into-github-repos-before-your-coffee-cools-1em2)
+- [SAGE — A Notion MCP Academic Co-Pilot for Filipino University Students](https://dev.to/kuyacarlo/sage-a-notion-mcp-academic-co-pilot-for-filipino-university-students-3lmb)
+- [Ritual Protocol: a key as an action, not an object](https://dev.to/sergey_ovcharenko_74bf887/ritual-protocol-a-key-as-an-action-not-an-object-7cb)
+- [Local-First Software Is Winning: A Developer Guide to Building Without the Cloud](https://dev.to/alexcloudstar/local-first-software-is-winning-a-developer-guide-to-building-without-the-cloud-2dcl)
+- [JNBridgePro vs IKVM vs Javonet: Java/.NET Bridge Comparison &lpar;2026&rpar;](https://dev.to/jnbridge/jnbridgepro-vs-ikvm-vs-javonet-javanet-bridge-comparison-2026-phh)
+- [I Built an AI That Matches Lonely People with Therapy Pets — Here&#39;s What I Learned](https://dev.to/coach4life/i-built-an-ai-that-matches-lonely-people-with-therapy-pets-heres-what-i-learned-3p94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
