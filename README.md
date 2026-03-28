@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Cut Browser Agent Costs 7,000x with Collective Intelligence](https://dev.to/arcede/how-we-cut-browser-agent-costs-7000x-with-collective-intelligence-3i6o)
-- [Hardening JavaScript JITs: Practical Mitigations for Modern Engines](https://dev.to/beefedai/hardening-javascript-jits-practical-mitigations-for-modern-engines-o7d)
-- [Discussion: WebGPU Performance and Local AI Inference](https://dev.to/tacit_71799acf6d056b5155c/discussion-webgpu-performance-and-local-ai-inference-3lgm)
-- [Recreating Apple&#39;s Liquid Glass Effect on the Web with CSS, SVG, and Physics-Based Refraction Calculations](https://dev.to/maxgeris/recreating-apples-liquid-glass-effect-on-the-web-with-css-svg-and-physics-based-refraction-5cek)
-- [FileBrowser Alternatives for Mobile: A Self-Hoster&#39;s Comparison Guide](https://dev.to/johnson998877/filebrowser-alternatives-for-mobile-a-self-hosters-comparison-guide-5ccm)
+- [Debugging Kubernetes is Painful… So I Built an AI Tool to Fix It](https://dev.to/sumitpurandare/debugging-kubernetes-is-painful-so-i-built-an-ai-tool-to-fix-it-2m09)
+- [I built a 98-tool MCP server for managing Meta Ads from Claude Code](https://dev.to/faraso/i-built-a-98-tool-mcp-server-for-managing-meta-ads-from-claude-code-2dcm)
+- [Teaching Coding Agent to Write XSLT — The Hook in Action](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-in-action-l8n)
+- [Teaching Coding Agent to Write XSLT — The Hook Chain](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-chain-1k7)
+- [Tutorial hells led me to JavaScript on Scrimba](https://dev.to/ahmed_ruwaiz_6386066b5c1f/tutorial-hells-led-me-to-javascript-on-scrimba-11oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
