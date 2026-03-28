@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Your New AI-Powered Senior DBA: Bridging the Gap Between Metadata and Architectural Excellence](https://dev.to/furkiak/meet-your-new-ai-powered-senior-dba-bridging-the-gap-between-metadata-and-architectural-excellence-5aeg)
-- [I Built a Genetic Algorithm That Discovers Trading Strategies - Here&#39;s What 89 Generations Found](https://dev.to/neuzhou/i-built-a-genetic-algorithm-that-discovers-trading-strategies-heres-what-89-generations-found-2cff)
-- [Self-Hosted File Servers: From FTP to WebDAV to Cloud-Native](https://dev.to/vaggeliskls/self-hosted-file-servers-from-ftp-to-webdav-to-cloud-native-3i3j)
-- [Non-Standard ERC-20 Behavior: The Phantom Deposit Bug Class That Auditors Keep Missing](https://dev.to/ohmygod/non-standard-erc-20-behavior-the-phantom-deposit-bug-class-that-auditors-keep-missing-3l32)
-- [Ollama Has a Free API — Run LLMs Locally with One Command](https://dev.to/0012303/ollama-has-a-free-api-run-llms-locally-with-one-command-2kgm)
+- [Syncing Controlled Inputs with External State in React &lpar;Without useEffect or setState-in-render&rpar;](https://dev.to/nareshipme/syncing-controlled-inputs-with-external-state-in-react-without-useeffect-or-setstate-in-render-d39)
+- [How I Built an AI That Generates README Files and API Docs from Any GitHub Repo](https://dev.to/peaklinestudio/how-i-built-an-ai-that-generates-readme-files-and-api-docs-from-any-github-repo-400f)
+- [Building a QR Code Scanner in Next.js with html5-qrcode &lpar;Camera + Image Upload&rpar;](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-scanner-in-nextjs-with-html5-qrcode-camera-image-upload-28ll)
+- [Pyth Roulette: Building a BTC Price Betting Game with Pyth Entropy and Price Feeds](https://dev.to/__c278553094/pyth-roulette-building-a-btc-price-betting-game-with-pyth-entropy-and-price-feeds-2pan)
+- [Where Is the Real Risk in Cross-Chain Bridges?](https://dev.to/oeduardoal/where-is-the-real-risk-in-cross-chain-bridges-12j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
