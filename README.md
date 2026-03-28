@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Syncing Controlled Inputs with External State in React &lpar;Without useEffect or setState-in-render&rpar;](https://dev.to/nareshipme/syncing-controlled-inputs-with-external-state-in-react-without-useeffect-or-setstate-in-render-d39)
-- [How I Built an AI That Generates README Files and API Docs from Any GitHub Repo](https://dev.to/peaklinestudio/how-i-built-an-ai-that-generates-readme-files-and-api-docs-from-any-github-repo-400f)
-- [Building a QR Code Scanner in Next.js with html5-qrcode &lpar;Camera + Image Upload&rpar;](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-scanner-in-nextjs-with-html5-qrcode-camera-image-upload-28ll)
-- [Pyth Roulette: Building a BTC Price Betting Game with Pyth Entropy and Price Feeds](https://dev.to/__c278553094/pyth-roulette-building-a-btc-price-betting-game-with-pyth-entropy-and-price-feeds-2pan)
-- [Where Is the Real Risk in Cross-Chain Bridges?](https://dev.to/oeduardoal/where-is-the-real-risk-in-cross-chain-bridges-12j8)
+- [How I Built a Monitoring Stack That Actually Catches AI Agent Failures Before They Cost Money](https://dev.to/the_bookmaster/how-i-built-a-monitoring-stack-that-actually-catches-ai-agent-failures-before-they-cost-money-4638)
+- [🚀Hailow - Bootstrap Your Engineering Workspace with AI Agents](https://dev.to/coangha21/hailow-bootstrap-your-engineering-workspace-with-ai-agents-28f7)
+- [The $4.87 Spec: How Local Session Storage Cuts AI Costs by 89%](https://dev.to/kgpraveen/the-487-spec-how-local-session-storage-cuts-ai-costs-by-89-3g18)
+- [Zitadel Has a Free API: Self-Hosted Identity and Auth That Replaces Auth0](https://dev.to/0012303/zitadel-has-a-free-api-self-hosted-identity-and-auth-that-replaces-auth0-nbn)
+- [Woodpecker CI Has a Free API: Self-Hosted CI/CD That&#39;s Actually Simple](https://dev.to/0012303/woodpecker-ci-has-a-free-api-self-hosted-cicd-thats-actually-simple-2caf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
