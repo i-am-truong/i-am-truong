@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SAGE — A Notion MCP Academic Co-Pilot for Filipino University Students](https://dev.to/kuyacarlo/sage-a-notion-mcp-academic-co-pilot-for-filipino-university-students-3lmb)
-- [Ritual Protocol: a key as an action, not an object](https://dev.to/sergey_ovcharenko_74bf887/ritual-protocol-a-key-as-an-action-not-an-object-7cb)
-- [Local-First Software Is Winning: A Developer Guide to Building Without the Cloud](https://dev.to/alexcloudstar/local-first-software-is-winning-a-developer-guide-to-building-without-the-cloud-2dcl)
-- [JNBridgePro vs IKVM vs Javonet: Java/.NET Bridge Comparison &lpar;2026&rpar;](https://dev.to/jnbridge/jnbridgepro-vs-ikvm-vs-javonet-javanet-bridge-comparison-2026-phh)
-- [I Built an AI That Matches Lonely People with Therapy Pets — Here&#39;s What I Learned](https://dev.to/coach4life/i-built-an-ai-that-matches-lonely-people-with-therapy-pets-heres-what-i-learned-3p94)
+- [MSW Has a Free API Mocking Framework — Stop Using Custom Mock Servers](https://dev.to/0012303/msw-has-a-free-api-mocking-framework-stop-using-custom-mock-servers-2nef)
+- [Dejé de hacer vibe coding. Este es el framework que construí para reemplazarlo.](https://dev.to/doncheli/deje-de-hacer-vibe-coding-este-es-el-framework-que-construi-para-reemplazarlo-2ea9)
+- [We analyzed 10,000 voice AI calls. The LLM was rarely the problem.](https://dev.to/dograh/we-analyzed-10000-voice-ai-calls-the-llm-was-rarely-the-problem-3dod)
+- [I got tired of ad-filled, fake-button TikTok Downloaders, so I built my own &lpar;Minimalist &amp; Ad-Free&rpar;](https://dev.to/xzmhxdxh/i-got-tired-of-ad-filled-fake-button-tiktok-downloaders-so-i-built-my-own-minimalist-ad-free-ajh)
+- [Never Used RSS? Start Here.](https://dev.to/stanlymt/never-used-rss-start-here-5alc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
