@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Security Scanner Was the Weapon: Inside the Trivy Supply Chain Attack](https://dev.to/mateenali66/your-security-scanner-was-the-weapon-inside-the-trivy-supply-chain-attack-2gc)
-- [The command-line interface &lpar;CLI&rpar; is a powerful tool that allows developers to interact with their operating system and execute commands to p](https://dev.to/autonomousworld/the-command-line-interface-cli-is-a-powerful-tool-that-allows-developers-to-interact-with-their-2hk5)
-- [How I Built an AI-Powered Business Brain in One Day Using Notion MCP](https://dev.to/hero123468/how-i-built-an-ai-powered-business-brain-in-one-day-using-notion-mcp-bpb)
-- [Fire and Ashes — our new immersive horror that hears you](https://dev.to/antelusgames/fire-and-ashes-our-new-immersive-horror-that-hears-you-c9p)
-- [I was tired of manual SQL introspection, so I built Legacy Lens &lpar;MCP Server&rpar;](https://dev.to/baqqa/i-was-tired-of-manual-sql-introspection-so-i-built-legacy-lens-mcp-server-2nm9)
+- [Linux Shell Shortcuts That Will Save You Hours Every Week](https://dev.to/benriemer/linux-shell-shortcuts-that-will-save-you-hours-every-week-3kil)
+- [The JSON Parsing Problem That&#39;s Killing Your AI Agent Reliability](https://dev.to/the_bookmaster/the-json-parsing-problem-thats-killing-your-ai-agent-reliability-4gjg)
+- [I Built an AI Tool That Dubs Any YouTube Video Into 50+ Languages](https://dev.to/tubevoice/i-built-an-ai-tool-that-dubs-any-youtube-video-into-50-languages-3bd1)
+- [Artifact Management: Docker Registry, Nexus, and Artifactory](https://dev.to/matt_frank_usa/artifact-management-docker-registry-nexus-and-artifactory-h1n)
+- [Show HN: I made an AI that reviews iPhone apps – 1h of autonomous GUI work](https://dev.to/jgnoncelogic/show-hn-i-made-an-ai-that-reviews-iphone-apps-1h-of-autonomous-gui-work-1d2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
