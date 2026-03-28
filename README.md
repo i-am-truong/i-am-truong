@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modular Monolith Architecture in .NET: The Pragmatic Middle Ground](https://dev.to/aldacosta/modular-monolith-architecture-in-net-the-pragmatic-middle-ground-2fm5)
-- [Argo CD and AWS CodeConnections: The Upside, the Redeploy Pain, and How I Fixed It](https://dev.to/jajera/argo-cd-and-aws-codeconnections-the-upside-the-redeploy-pain-and-how-i-fixed-it-2k1m)
-- [Title: I built a CLI that diagnoses your code before you ship](https://dev.to/sabahattink/title-i-built-a-cli-that-diagnoses-your-code-before-you-ship-tags-nestjs-typescript-opensource-2208)
-- [Exploring Wagtail&#39;s Starter Kit](https://dev.to/samya_aggarwal_b2982a3e32/exploring-wagtails-starter-kit-3g2d)
-- [Dokku Has a Free API: Your Own Heroku on a $5 VPS](https://dev.to/0012303/dokku-has-a-free-api-your-own-heroku-on-a-5-vps-24gp)
+- [MCP in production: what nobody tells you before you start](https://dev.to/mads_hansen_27b33ebfee4c9/mcp-in-production-what-nobody-tells-you-before-you-start-21m)
+- [Chapter 2. Creating and Configuring a Project](https://dev.to/ucjung/chapter-2-creating-and-configuring-a-project-29cp)
+- [The hidden cost of &quot;let me pull that data for you&quot;](https://dev.to/mads_hansen_27b33ebfee4c9/the-hidden-cost-of-let-me-pull-that-data-for-you-27hl)
+- [Chapter 1. Claude Code CLI Installation Guide](https://dev.to/ucjung/chapter-1-claude-code-cli-installation-guide-4mmg)
+- [Fix Zombie VRAM: Clear GPU Memory Without Rebooting](https://dev.to/jaksontate/fix-zombie-vram-clear-gpu-memory-without-rebooting-3b1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
