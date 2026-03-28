@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MSW Has a Free API Mocking Framework — Stop Using Custom Mock Servers](https://dev.to/0012303/msw-has-a-free-api-mocking-framework-stop-using-custom-mock-servers-2nef)
-- [Dejé de hacer vibe coding. Este es el framework que construí para reemplazarlo.](https://dev.to/doncheli/deje-de-hacer-vibe-coding-este-es-el-framework-que-construi-para-reemplazarlo-2ea9)
-- [We analyzed 10,000 voice AI calls. The LLM was rarely the problem.](https://dev.to/dograh/we-analyzed-10000-voice-ai-calls-the-llm-was-rarely-the-problem-3dod)
-- [I got tired of ad-filled, fake-button TikTok Downloaders, so I built my own &lpar;Minimalist &amp; Ad-Free&rpar;](https://dev.to/xzmhxdxh/i-got-tired-of-ad-filled-fake-button-tiktok-downloaders-so-i-built-my-own-minimalist-ad-free-ajh)
-- [Never Used RSS? Start Here.](https://dev.to/stanlymt/never-used-rss-start-here-5alc)
+- [React Native Android build failed: what I would check first](https://dev.to/asta_dev/react-native-android-build-failed-what-i-would-check-first-2klf)
+- [How to Scrape Glassdoor: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-glassdoor-complete-guide-for-2026-5434)
+- [Neon Has a Free Serverless PostgreSQL — Scale to Zero, Branch Like Git](https://dev.to/0012303/neon-has-a-free-serverless-postgresql-scale-to-zero-branch-like-git-3i03)
+- [How I Built Factcovery in 2 Days with Claude — 0 Lines of Code Written by Me](https://dev.to/hoanganhlam/how-i-built-factcovery-in-2-days-with-claude-0-lines-of-code-written-by-me-5cei)
+- [React Server Components Have a Free Data Fetching Model — No More useEffect Waterfalls](https://dev.to/0012303/react-server-components-have-a-free-data-fetching-model-no-more-useeffect-waterfalls-1jh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
