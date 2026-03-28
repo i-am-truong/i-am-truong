@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
+- [Securing AI Agent Workflows: Preventing Identity Collapse in Multi-Step Chains](https://dev.to/jerry_poon/securing-ai-agent-workflows-preventing-identity-collapse-in-multi-step-chains-45d2)
 - [Why I&#39;m Finally Starting to Write](https://dev.to/ejlan/why-im-finally-starting-to-write-4cak)
 - [React Hooks Explained: A Visual Guide for 2026](https://dev.to/lucasmdevdev/react-hooks-explained-a-visual-guide-for-2026-2cc4)
-- [AI Skills: Why the Future of Knowledge Alignment is in .md Files, Not Giant Datasets](https://dev.to/aiskills/ai-skills-why-the-future-of-knowledge-alignment-is-in-md-files-not-giant-datasets-22dd)
-- [I Built a Free Herb-Drug Interaction Checker — Here&#39;s What I Learned About Health Data](https://dev.to/botanica_andina/i-built-a-free-herb-drug-interaction-checker-heres-what-i-learned-about-health-data-120d)
-- [I Stopped Running From DSA. Here’s How I’m Hacking My Brain to Learn It in C++](https://dev.to/uddin-dev/i-stopped-running-from-dsa-heres-how-im-hacking-my-brain-to-learn-it-in-c-4jh9)
+- [BeSA Batch 09 Week6 - Supercharge Development with Kiro | Build Your AI-Enhanced SA Practice](https://dev.to/girishmukim/besa-batch-09-week6-supercharge-development-with-kiro-build-your-ai-enhanced-sa-practice-2fm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
