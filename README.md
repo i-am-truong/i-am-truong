@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps for Developers Getting Back Into Coding After a Break in 2026](https://dev.to/godnick/7-mac-apps-for-developers-getting-back-into-coding-after-a-break-in-2026-50fc)
-- [I built a TOML-based task runner in Rust](https://dev.to/opmr0/i-built-a-toml-based-task-runner-in-rust-59kp)
-- [I tracked every token my AI coding agent consumed for a week. 70% was waste.](https://dev.to/nicolalessi/i-tracked-every-token-my-ai-coding-agent-consumed-for-a-week-70-was-waste-465)
-- [Why Your SaaS Node Backend Will Fail at 10k Requests/Minute &lpar;and How to Stress‑Proof It Without Rewriting&rpar;](https://dev.to/siddhant_jain_18/why-your-saas-node-backend-will-fail-at-10k-requestsminute-and-how-to-stress-proof-it-without-2bfg)
-- [Building Beautiful AI Chat UIs in Flutter: A Developer&#39;s Guide](https://dev.to/abphaiboon/building-beautiful-ai-chat-uis-in-flutter-a-developers-guide-330a)
+- [Your Security Scanner Was the Weapon: Inside the Trivy Supply Chain Attack](https://dev.to/mateenali66/your-security-scanner-was-the-weapon-inside-the-trivy-supply-chain-attack-2gc)
+- [The command-line interface &lpar;CLI&rpar; is a powerful tool that allows developers to interact with their operating system and execute commands to p](https://dev.to/autonomousworld/the-command-line-interface-cli-is-a-powerful-tool-that-allows-developers-to-interact-with-their-2hk5)
+- [How I Built an AI-Powered Business Brain in One Day Using Notion MCP](https://dev.to/hero123468/how-i-built-an-ai-powered-business-brain-in-one-day-using-notion-mcp-bpb)
+- [Fire and Ashes — our new immersive horror that hears you](https://dev.to/antelusgames/fire-and-ashes-our-new-immersive-horror-that-hears-you-c9p)
+- [I was tired of manual SQL introspection, so I built Legacy Lens &lpar;MCP Server&rpar;](https://dev.to/baqqa/i-was-tired-of-manual-sql-introspection-so-i-built-legacy-lens-mcp-server-2nm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
