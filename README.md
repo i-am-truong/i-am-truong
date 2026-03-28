@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Norton Commander clone in Go for my dev ecosystem — and I&#39;m looking for a maintainer](https://dev.to/artanidos/i-built-a-norton-commander-clone-in-go-for-my-dev-ecosystem-and-im-looking-for-a-maintainer-51i7)
-- [GitOps for Homelabs: How ArgoCD App-of-Apps Scales Your Cluster](https://dev.to/futhgar/gitops-for-homelabs-how-argocd-app-of-apps-scales-your-cluster-eem)
-- [Context Engineering vs Prompt Engineering: the shift in how we build AI systems.](https://dev.to/kodus/context-engineering-vs-prompt-engineering-the-shift-in-how-we-build-ai-systems-3noi)
-- [I built a changelog generator that works on any repo — no conventional commits needed](https://dev.to/uratools/i-built-a-changelog-generator-that-works-on-any-repo-no-conventional-commits-needed-1ekc)
-- [How to use Timberborn 🦫 &lpar;yes, the beaver city-building game&rpar; as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c)
+- [Créer un blog gratuit avec GitHub Pages en 2026 : guide complet](https://dev.to/lucasmdevdev/creer-un-blog-gratuit-avec-github-pages-en-2026-guide-complet-439m)
+- [Why I Built Migrun](https://dev.to/dakujem/why-i-built-migrun-2moa)
+- [Beautiful Perl feature: &quot;heredocs&quot;, multi-line strings embedded in source code](https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863)
+- [Vertical Slice: Speech-to-Markdown Editor, LLVM UI Codegen, and Landscape Split - in Our Own Language](https://dev.to/artanidos/vertical-slice-speech-to-markdown-editor-llvm-ui-codegen-and-landscape-split-in-our-own-5h08)
+- [Every MCP Browser Tool Uses Chromium. That&#39;s a Problem.](https://dev.to/achiya-automation/every-mcp-browser-tool-uses-chromium-thats-a-problem-4kpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
