@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pandora&#39;s Box Is Open. And Nobody Knows What Was Inside.](https://dev.to/iamirondev/pandoras-box-is-open-and-nobody-knows-what-was-inside-4c1j)
-- [Message Queues: When and How to Stop Doing Work Inside HTTP Requests](https://dev.to/akhil_1b254604a14fbb491c5/message-queues-when-and-how-to-stop-doing-work-inside-http-requests-4p94)
-- [7 Mac Apps for Developers Who Want a Clean, Minimal Desktop in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-want-a-clean-minimal-desktop-in-2026-255j)
-- [How to Design OAuth for AI Agents Without Creating a Permission Mess](https://dev.to/kaeso/how-to-design-oauth-for-ai-agents-without-creating-a-permission-mess-1hj6)
-- [The Black Box of Privacy: Unlocking &quot;Confidential Computing&quot; in AI](https://dev.to/samruddhi_nikam_159/the-black-box-of-privacy-unlocking-confidential-computing-in-ai-4mdk)
+- [How I Use a SKILL.md File to Make Claude Code Run a Full QA Workflow Automatically](https://dev.to/jan_strelec_f0260c269988b/how-i-use-a-skillmd-file-to-make-claude-code-run-a-full-qa-workflow-automatically-5h8g)
+- [The Maintenance Trap: How AI Is Forcing Developers to Spend 84% of Their Time on Non-Coding Work in 2026](https://dev.to/tanishka_karsulkar_ec9e58/the-maintenance-trap-how-ai-is-forcing-developers-to-spend-84-of-their-time-on-non-coding-work-in-19b1)
+- [Developers! What is our role now, when coding is solved?](https://dev.to/bent_kristiansen/developers-what-is-our-role-now-when-coding-is-solved-1n4n)
+- [Are We in a Computer Simulation?](https://dev.to/vedangvatsa/are-we-in-a-computer-simulation-4jp7)
+- [ZeroToRepo: I Built an AI Agent That Turns Notion Ideas Into GitHub Repos Before Your Coffee Cools](https://dev.to/abeera_lodhi/zerotorepo-i-built-an-ai-agent-that-turns-notion-ideas-into-github-repos-before-your-coffee-cools-1em2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
