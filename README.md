@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Cut Our AI API Bill by 78% &lpar;And Let Cursor See Our Entire Codebase&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/how-we-built-a-context-engine-that-makes-ai-code-assistants-see-your-entire-codebase-3076)
-- [Your AI Doesn&#39;t Need Screenshots. It Needs DevTools.](https://dev.to/emad_omar_5311e0e328be24c/your-ai-doesnt-need-screenshots-it-needs-devtools-3lg1)
-- [Building an A2A Simulator to Debug Agent-to-Agent Communication](https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-g9i)
-- [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao)
+- [Why I&#39;m Finally Starting to Write](https://dev.to/ejlan/why-im-finally-starting-to-write-4cak)
+- [React Hooks Explained: A Visual Guide for 2026](https://dev.to/lucasmdevdev/react-hooks-explained-a-visual-guide-for-2026-2cc4)
+- [AI Skills: Why the Future of Knowledge Alignment is in .md Files, Not Giant Datasets](https://dev.to/aiskills/ai-skills-why-the-future-of-knowledge-alignment-is-in-md-files-not-giant-datasets-22dd)
+- [I Built a Free Herb-Drug Interaction Checker — Here&#39;s What I Learned About Health Data](https://dev.to/botanica_andina/i-built-a-free-herb-drug-interaction-checker-heres-what-i-learned-about-health-data-120d)
+- [I Stopped Running From DSA. Here’s How I’m Hacking My Brain to Learn It in C++](https://dev.to/uddin-dev/i-stopped-running-from-dsa-heres-how-im-hacking-my-brain-to-learn-it-in-c-4jh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
