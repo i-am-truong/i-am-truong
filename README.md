@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Something every senior engineer learns the expensive way:](https://dev.to/neeraja_khanapure_4a33a5f/something-every-senior-engineer-learns-the-expensive-way-a8h)
-- [Votre première automatisation avec Make en 2026 : guide pas à pas](https://dev.to/lucasmdevdev/votre-premiere-automatisation-avec-make-en-2026-guide-pas-a-pas-45mi)
-- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e)
-- [🧠 ShadowOS — An Invisible AI Operating System for Your Workflow](https://dev.to/samarth28/shadowos-an-invisible-ai-operating-system-for-your-workflow-5d44)
-- [Cryptographic Identity Systems for Auditing Autonomous AI Agents](https://dev.to/authora/cryptographic-identity-systems-for-auditing-autonomous-ai-agents-3g22)
+- [Les 7 Meilleurs Outils IA pour Développeurs en 2026](https://dev.to/lucasmdevdev/les-7-meilleurs-outils-ia-pour-developpeurs-en-2026-7kn)
+- [What Running a One-Person AI Studio Actually Looks Like](https://dev.to/raxxostudios/what-running-a-one-person-ai-studio-actually-looks-like-mm8)
+- [LINUX AS THE NERVOUS SYSTEM OF DATA ENGINEERING](https://dev.to/cnew_aerospace_85c7b7d3cb/linux-as-the-nervous-system-of-data-engineering-12hk)
+- [Best Claude Code Skills &amp; Plugins &lpar;2026 Guide&rpar;](https://dev.to/raxxostudios/best-claude-code-skills-plugins-2026-guide-4ak4)
+- [Claude Max vs Pro: Which Plan is Actually Worth It?](https://dev.to/raxxostudios/claude-max-vs-pro-which-plan-is-actually-worth-it-b6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
