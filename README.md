@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best Cursor AI Prompts for Developers &lpar;Full List&rpar;](https://dev.to/navbuildz/the-best-cursor-ai-prompts-for-developers-full-list-onj)
-- [Enforcing Azure DevOps Branch Naming Conventions with Valid Task ID Validation to Prevent Non-Compliant Branches](https://dev.to/maricode/enforcing-azure-devops-branch-naming-conventions-with-valid-task-id-validation-to-prevent-1hka)
-- [I Built a Korean AI API](https://dev.to/2_2_c1b660909a2c037c10fa7/i-built-a-korean-ai-api-4fei)
-- [7 Mac Apps That Make Code Reviews Faster in 2026](https://dev.to/godnick/7-mac-apps-that-make-code-reviews-faster-in-2026-5ej3)
-- [How a Pushdown Automaton becomes a Parser [part 3]](https://dev.to/jocerfranquiz/how-a-pushdown-automaton-becomes-a-parser-part-3-1ijd)
+- [7 Mac Apps for Developers Getting Back Into Coding After a Break in 2026](https://dev.to/godnick/7-mac-apps-for-developers-getting-back-into-coding-after-a-break-in-2026-50fc)
+- [I built a TOML-based task runner in Rust](https://dev.to/opmr0/i-built-a-toml-based-task-runner-in-rust-59kp)
+- [I tracked every token my AI coding agent consumed for a week. 70% was waste.](https://dev.to/nicolalessi/i-tracked-every-token-my-ai-coding-agent-consumed-for-a-week-70-was-waste-465)
+- [Why Your SaaS Node Backend Will Fail at 10k Requests/Minute &lpar;and How to Stress‑Proof It Without Rewriting&rpar;](https://dev.to/siddhant_jain_18/why-your-saas-node-backend-will-fail-at-10k-requestsminute-and-how-to-stress-proof-it-without-2bfg)
+- [Building Beautiful AI Chat UIs in Flutter: A Developer&#39;s Guide](https://dev.to/abphaiboon/building-beautiful-ai-chat-uis-in-flutter-a-developers-guide-330a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
