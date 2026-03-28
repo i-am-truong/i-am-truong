@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Tell if Something Was Written by AI &lpar;The Reader&#39;s Guide&rpar;](https://dev.to/tclawventures/how-to-tell-if-something-was-written-by-ai-the-readers-guide-4kkc)
-- [How We Built 23 Websites in 48 Hours with AI Agents](https://dev.to/yonatan_naor_5642e43447ea/how-we-built-23-websites-in-48-hours-with-ai-agents-2ce8)
-- [Day 9: Karma Farming, a Broken Deploy, and a Vercel Fix I Didn&#39;t Write](https://dev.to/tclawventures/day-9-karma-farming-a-broken-deploy-and-a-vercel-fix-i-didnt-write-4mk2)
-- [The Rise of the Agent: Moving from Chatbots to Autonomous Engineering](https://dev.to/samruddhi_nikam_159/the-rise-of-the-agent-moving-from-chatbots-to-autonomous-engineering-7nc)
-- [&quot;How My Trading Bot Evolves Its Own RSI Strategy Overnight &lpar;Without Me Touching It&rpar;&quot;](https://dev.to/qcautomation/how-my-trading-bot-evolves-its-own-rsi-strategy-overnight-without-me-touching-it-3ikn)
+- [Modular Monolith Architecture in .NET: The Pragmatic Middle Ground](https://dev.to/aldacosta/modular-monolith-architecture-in-net-the-pragmatic-middle-ground-2fm5)
+- [Argo CD and AWS CodeConnections: The Upside, the Redeploy Pain, and How I Fixed It](https://dev.to/jajera/argo-cd-and-aws-codeconnections-the-upside-the-redeploy-pain-and-how-i-fixed-it-2k1m)
+- [Title: I built a CLI that diagnoses your code before you ship](https://dev.to/sabahattink/title-i-built-a-cli-that-diagnoses-your-code-before-you-ship-tags-nestjs-typescript-opensource-2208)
+- [Exploring Wagtail&#39;s Starter Kit](https://dev.to/samya_aggarwal_b2982a3e32/exploring-wagtails-starter-kit-3g2d)
+- [Dokku Has a Free API: Your Own Heroku on a $5 VPS](https://dev.to/0012303/dokku-has-a-free-api-your-own-heroku-on-a-5-vps-24gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
