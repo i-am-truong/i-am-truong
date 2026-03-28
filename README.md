@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Créer un blog gratuit avec GitHub Pages en 2026 : guide complet](https://dev.to/lucasmdevdev/creer-un-blog-gratuit-avec-github-pages-en-2026-guide-complet-439m)
-- [Why I Built Migrun](https://dev.to/dakujem/why-i-built-migrun-2moa)
-- [Beautiful Perl feature: &quot;heredocs&quot;, multi-line strings embedded in source code](https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863)
-- [Vertical Slice: Speech-to-Markdown Editor, LLVM UI Codegen, and Landscape Split - in Our Own Language](https://dev.to/artanidos/vertical-slice-speech-to-markdown-editor-llvm-ui-codegen-and-landscape-split-in-our-own-5h08)
-- [Every MCP Browser Tool Uses Chromium. That&#39;s a Problem.](https://dev.to/achiya-automation/every-mcp-browser-tool-uses-chromium-thats-a-problem-4kpp)
+- [Something every senior engineer learns the expensive way:](https://dev.to/neeraja_khanapure_4a33a5f/something-every-senior-engineer-learns-the-expensive-way-a8h)
+- [Votre première automatisation avec Make en 2026 : guide pas à pas](https://dev.to/lucasmdevdev/votre-premiere-automatisation-avec-make-en-2026-guide-pas-a-pas-45mi)
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e)
+- [🧠 ShadowOS — An Invisible AI Operating System for Your Workflow](https://dev.to/samarth28/shadowos-an-invisible-ai-operating-system-for-your-workflow-5d44)
+- [Cryptographic Identity Systems for Auditing Autonomous AI Agents](https://dev.to/authora/cryptographic-identity-systems-for-auditing-autonomous-ai-agents-3g22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
