@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Shell Shortcuts That Will Save You Hours Every Week](https://dev.to/benriemer/linux-shell-shortcuts-that-will-save-you-hours-every-week-3kil)
-- [The JSON Parsing Problem That&#39;s Killing Your AI Agent Reliability](https://dev.to/the_bookmaster/the-json-parsing-problem-thats-killing-your-ai-agent-reliability-4gjg)
-- [I Built an AI Tool That Dubs Any YouTube Video Into 50+ Languages](https://dev.to/tubevoice/i-built-an-ai-tool-that-dubs-any-youtube-video-into-50-languages-3bd1)
-- [Artifact Management: Docker Registry, Nexus, and Artifactory](https://dev.to/matt_frank_usa/artifact-management-docker-registry-nexus-and-artifactory-h1n)
-- [Show HN: I made an AI that reviews iPhone apps – 1h of autonomous GUI work](https://dev.to/jgnoncelogic/show-hn-i-made-an-ai-that-reviews-iphone-apps-1h-of-autonomous-gui-work-1d2a)
+- [Securing LangGraph Multi-Agent Workflows: How to Enforce Tool-Level Permissions](https://dev.to/cogniwall/securing-langgraph-multi-agent-workflows-how-to-enforce-tool-level-permissions-13cm)
+- [Founder OS: Turning Notion into an AI Startup, Co-Founder with MCP](https://dev.to/sunderkumar/founder-os-turning-notion-into-an-ai-startup-co-founder-with-mcp-3kcg)
+- [Show DEV: PressArk - Talk to Your WordPress Site Instead of Clicking Through It](https://dev.to/abdelali_selouani_55871ee/show-dev-pressark-talk-to-your-wordpress-site-instead-of-clicking-through-it-1hb5)
+- [Build Your First MCP Server &lpar;and Client&rpar;](https://dev.to/gursharansingh/build-your-first-mcp-server-and-client-bhh)
+- [I Got Tired of Clicking Through wp-admin, So I Built an AI That Does It for Me](https://dev.to/abdelali_selouani_55871ee/i-got-tired-of-clicking-through-wp-admin-so-i-built-an-ai-that-does-it-for-me-f1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
