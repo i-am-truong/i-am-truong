@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Kubernetes is Painful… So I Built an AI Tool to Fix It](https://dev.to/sumitpurandare/debugging-kubernetes-is-painful-so-i-built-an-ai-tool-to-fix-it-2m09)
-- [I built a 98-tool MCP server for managing Meta Ads from Claude Code](https://dev.to/faraso/i-built-a-98-tool-mcp-server-for-managing-meta-ads-from-claude-code-2dcm)
-- [Teaching Coding Agent to Write XSLT — The Hook in Action](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-in-action-l8n)
-- [Teaching Coding Agent to Write XSLT — The Hook Chain](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-chain-1k7)
-- [Tutorial hells led me to JavaScript on Scrimba](https://dev.to/ahmed_ruwaiz_6386066b5c1f/tutorial-hells-led-me-to-javascript-on-scrimba-11oi)
+- [7 Mac Apps for Developers Who Live in the Terminal in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-live-in-the-terminal-in-2026-2dg1)
+- [Sextant: Making Claude Code Read Your Code Before Changing It](https://dev.to/mohist/sextant-making-claude-code-read-your-code-before-changing-it-2cp9)
+- [What Temporal Can&#39;t Do: Human Approval Mid-Workflow](https://dev.to/george_belsky_a513cfbf3df/what-temporal-cant-do-human-approval-mid-workflow-51o8)
+- [THREE.JS ELEGANCE: INTERACTIVE FLOWER SHADER VOL. 03](https://dev.to/sujitkoji/threejs-elegance-interactive-flower-shader-vol-03-4h47)
+- [How Apple Watch Ejects Water From Its Speaker &lpar;And How to Do It on Any Phone&rpar;](https://dev.to/boringapps/how-apple-watch-ejects-water-from-its-speaker-and-how-to-do-it-on-any-phone-1g69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
