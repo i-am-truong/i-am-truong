@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native Android build failed: what I would check first](https://dev.to/asta_dev/react-native-android-build-failed-what-i-would-check-first-2klf)
-- [How to Scrape Glassdoor: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-glassdoor-complete-guide-for-2026-5434)
-- [Neon Has a Free Serverless PostgreSQL — Scale to Zero, Branch Like Git](https://dev.to/0012303/neon-has-a-free-serverless-postgresql-scale-to-zero-branch-like-git-3i03)
-- [How I Built Factcovery in 2 Days with Claude — 0 Lines of Code Written by Me](https://dev.to/hoanganhlam/how-i-built-factcovery-in-2-days-with-claude-0-lines-of-code-written-by-me-5cei)
-- [React Server Components Have a Free Data Fetching Model — No More useEffect Waterfalls](https://dev.to/0012303/react-server-components-have-a-free-data-fetching-model-no-more-useeffect-waterfalls-1jh2)
+- [Meet Your New AI-Powered Senior DBA: Bridging the Gap Between Metadata and Architectural Excellence](https://dev.to/furkiak/meet-your-new-ai-powered-senior-dba-bridging-the-gap-between-metadata-and-architectural-excellence-5aeg)
+- [I Built a Genetic Algorithm That Discovers Trading Strategies - Here&#39;s What 89 Generations Found](https://dev.to/neuzhou/i-built-a-genetic-algorithm-that-discovers-trading-strategies-heres-what-89-generations-found-2cff)
+- [Self-Hosted File Servers: From FTP to WebDAV to Cloud-Native](https://dev.to/vaggeliskls/self-hosted-file-servers-from-ftp-to-webdav-to-cloud-native-3i3j)
+- [Non-Standard ERC-20 Behavior: The Phantom Deposit Bug Class That Auditors Keep Missing](https://dev.to/ohmygod/non-standard-erc-20-behavior-the-phantom-deposit-bug-class-that-auditors-keep-missing-3l32)
+- [Ollama Has a Free API — Run LLMs Locally with One Command](https://dev.to/0012303/ollama-has-a-free-api-run-llms-locally-with-one-command-2kgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
