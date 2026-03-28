@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Monitoring Stack That Actually Catches AI Agent Failures Before They Cost Money](https://dev.to/the_bookmaster/how-i-built-a-monitoring-stack-that-actually-catches-ai-agent-failures-before-they-cost-money-4638)
-- [🚀Hailow - Bootstrap Your Engineering Workspace with AI Agents](https://dev.to/coangha21/hailow-bootstrap-your-engineering-workspace-with-ai-agents-28f7)
-- [The $4.87 Spec: How Local Session Storage Cuts AI Costs by 89%](https://dev.to/kgpraveen/the-487-spec-how-local-session-storage-cuts-ai-costs-by-89-3g18)
-- [Zitadel Has a Free API: Self-Hosted Identity and Auth That Replaces Auth0](https://dev.to/0012303/zitadel-has-a-free-api-self-hosted-identity-and-auth-that-replaces-auth0-nbn)
-- [Woodpecker CI Has a Free API: Self-Hosted CI/CD That&#39;s Actually Simple](https://dev.to/0012303/woodpecker-ci-has-a-free-api-self-hosted-cicd-thats-actually-simple-2caf)
+- [The Best Cursor AI Prompts for Developers &lpar;Full List&rpar;](https://dev.to/navbuildz/the-best-cursor-ai-prompts-for-developers-full-list-onj)
+- [Enforcing Azure DevOps Branch Naming Conventions with Valid Task ID Validation to Prevent Non-Compliant Branches](https://dev.to/maricode/enforcing-azure-devops-branch-naming-conventions-with-valid-task-id-validation-to-prevent-1hka)
+- [I Built a Korean AI API](https://dev.to/2_2_c1b660909a2c037c10fa7/i-built-a-korean-ai-api-4fei)
+- [7 Mac Apps That Make Code Reviews Faster in 2026](https://dev.to/godnick/7-mac-apps-that-make-code-reviews-faster-in-2026-5ej3)
+- [How a Pushdown Automaton becomes a Parser [part 3]](https://dev.to/jocerfranquiz/how-a-pushdown-automaton-becomes-a-parser-part-3-1ijd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
