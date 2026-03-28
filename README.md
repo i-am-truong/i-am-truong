@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Pipeline Is 24.9h Behind: Catching Stock Market Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-249h-behind-catching-stock-market-sentiment-leads-with-pulsebit-134m)
-- [Monitoring Past Performance vs. Alerting Real-Time Issues: What React Teams Are Missing](https://dev.to/nosyos/monitoring-past-performance-vs-alerting-real-time-issues-what-react-teams-are-missing-hdc)
-- [I Built a Netflix-Style AI App to Study AWS &lpar;And It Actually Works&rpar;](https://dev.to/davidkljajo/i-built-a-netflix-style-ai-aws-saa-coach-using-partyrock-14cf)
-- [GDPR for Recruitment Agencies: Candidate CVs, Talent Pools and Retention Schedules](https://dev.to/custodiaadmin/gdpr-for-recruitment-agencies-candidate-cvs-talent-pools-and-retention-schedules-2ila)
-- [How to Fix CORS Errors in Your Frontend App Using a Proxy Server](https://dev.to/0xdezman/how-to-fix-cors-errors-in-your-frontend-app-using-a-proxy-server-5h65)
+- [Analyze Any Website Instantly With SnapSite](https://dev.to/goodluck_uchendu/analyze-any-website-instantly-with-snapsite-2bff)
+- [Clarifying DevOps Roles: Defining Skills, Career Paths, and Focus Areas for Professional Growth](https://dev.to/maricode/clarifying-devops-roles-defining-skills-career-paths-and-focus-areas-for-professional-growth-1g1h)
+- [The Venus Protocol Donation Attack: How a Compound Fork&#39;s getCashPrior&lpar;&rpar; Let an Attacker Bypass Supply Caps and Create $2.18M in Bad Debt](https://dev.to/ohmygod/the-venus-protocol-donation-attack-how-a-compound-forks-getcashprior-let-an-attacker-bypass-1ggc)
+- [Stop Letting AI Agents Go Rogue on Large Codebases: The large-scale-refactor Skill](https://dev.to/opensite/stop-letting-ai-agents-go-rogue-on-large-codebases-the-large-scale-refactor-skill-5gc)
+- [I Turned Substack Into a Research Surface Inside an MCP Client](https://dev.to/abanoubashraf/i-turned-substack-into-a-research-surface-inside-an-mcp-client-4jja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
