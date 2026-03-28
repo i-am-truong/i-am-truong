@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Crossplane Has a Free API: Manage Cloud Infrastructure with Kubernetes-Native IaC](https://dev.to/0012303/crossplane-has-a-free-api-manage-cloud-infrastructure-with-kubernetes-native-iac-2l89)
-- [Your AI Agent Can Delete Production — Can You Prove It?](https://dev.to/viru_swami/your-ai-agent-can-delete-production-can-you-prove-it-41nh)
-- [Gaussian Mixture Models: The EM Algorithm in Practice](https://dev.to/berkan_sesen/gaussian-mixture-models-the-em-algorithm-in-practice-4686)
-- [Why contain in CSS Can Fix Your Performance Bottlenecks](https://dev.to/pawar-shivam7/why-contain-in-css-can-fix-your-performance-bottlenecks-cp4)
-- [I built a free image to PDF converter that works offline - no upload, privacy focused](https://dev.to/xyrox1/i-built-a-free-image-to-pdf-converter-that-works-offline-no-upload-privacy-focused-2o88)
+- [How to Tell if Something Was Written by AI &lpar;The Reader&#39;s Guide&rpar;](https://dev.to/tclawventures/how-to-tell-if-something-was-written-by-ai-the-readers-guide-4kkc)
+- [How We Built 23 Websites in 48 Hours with AI Agents](https://dev.to/yonatan_naor_5642e43447ea/how-we-built-23-websites-in-48-hours-with-ai-agents-2ce8)
+- [Day 9: Karma Farming, a Broken Deploy, and a Vercel Fix I Didn&#39;t Write](https://dev.to/tclawventures/day-9-karma-farming-a-broken-deploy-and-a-vercel-fix-i-didnt-write-4mk2)
+- [The Rise of the Agent: Moving from Chatbots to Autonomous Engineering](https://dev.to/samruddhi_nikam_159/the-rise-of-the-agent-moving-from-chatbots-to-autonomous-engineering-7nc)
+- [&quot;How My Trading Bot Evolves Its Own RSI Strategy Overnight &lpar;Without Me Touching It&rpar;&quot;](https://dev.to/qcautomation/how-my-trading-bot-evolves-its-own-rsi-strategy-overnight-without-me-touching-it-3ikn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
