@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Les 7 Meilleurs Outils IA pour Développeurs en 2026](https://dev.to/lucasmdevdev/les-7-meilleurs-outils-ia-pour-developpeurs-en-2026-7kn)
-- [What Running a One-Person AI Studio Actually Looks Like](https://dev.to/raxxostudios/what-running-a-one-person-ai-studio-actually-looks-like-mm8)
-- [LINUX AS THE NERVOUS SYSTEM OF DATA ENGINEERING](https://dev.to/cnew_aerospace_85c7b7d3cb/linux-as-the-nervous-system-of-data-engineering-12hk)
-- [Best Claude Code Skills &amp; Plugins &lpar;2026 Guide&rpar;](https://dev.to/raxxostudios/best-claude-code-skills-plugins-2026-guide-4ak4)
-- [Claude Max vs Pro: Which Plan is Actually Worth It?](https://dev.to/raxxostudios/claude-max-vs-pro-which-plan-is-actually-worth-it-b6h)
+- [The Mistakes Didn&#39;t Change. The Speed Did.](https://dev.to/felixortizdev/the-mistakes-didnt-change-the-speed-did-13i8)
+- [TurboQuant AI](https://dev.to/joaopakina/turboquant-ai-1baa)
+- [The Git Cheat Sheet Every Developer Should Bookmark &lpar;2026 Edition&rpar;](https://dev.to/lucasmdevdev/the-git-cheat-sheet-every-developer-should-bookmark-2026-edition-3cb1)
+- [3. Unleash the Power of Notion: Advanced Features Every Developer Should Know](https://dev.to/jack_arenberg_06ecee19922/3-unleash-the-power-of-notion-advanced-features-every-developer-should-know-5hfn)
+- [PHP 8.1 Enums: Backed Enums and Laravel Eloquent Casts](https://dev.to/nishil_bhave_641129b49873/php-81-enums-backed-enums-and-laravel-eloquent-casts-40mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
