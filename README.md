@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analyze Any Website Instantly With SnapSite](https://dev.to/goodluck_uchendu/analyze-any-website-instantly-with-snapsite-2bff)
-- [Clarifying DevOps Roles: Defining Skills, Career Paths, and Focus Areas for Professional Growth](https://dev.to/maricode/clarifying-devops-roles-defining-skills-career-paths-and-focus-areas-for-professional-growth-1g1h)
-- [The Venus Protocol Donation Attack: How a Compound Fork&#39;s getCashPrior&lpar;&rpar; Let an Attacker Bypass Supply Caps and Create $2.18M in Bad Debt](https://dev.to/ohmygod/the-venus-protocol-donation-attack-how-a-compound-forks-getcashprior-let-an-attacker-bypass-1ggc)
-- [Stop Letting AI Agents Go Rogue on Large Codebases: The large-scale-refactor Skill](https://dev.to/opensite/stop-letting-ai-agents-go-rogue-on-large-codebases-the-large-scale-refactor-skill-5gc)
-- [I Turned Substack Into a Research Surface Inside an MCP Client](https://dev.to/abanoubashraf/i-turned-substack-into-a-research-surface-inside-an-mcp-client-4jja)
+- [How I Built a Memory-Safe Steganography Engine in Rust to Protect Data from AI Scrapers](https://dev.to/nishal21/how-i-built-a-memory-safe-steganography-engine-in-rust-to-protect-data-from-ai-scrapers-4cch)
+- [&quot;Why I Stopped Trusting Backtests and Built a Live Paper Trading Tournament Instead&quot;](https://dev.to/qcautomation/why-i-stopped-trusting-backtests-and-built-a-live-paper-trading-tournament-instead-37jj)
+- [Docling CLI to parse PDFs and export it to multiple formats](https://dev.to/njeri_kimaru/docling-cli-to-parse-pdfs-and-export-it-to-multiple-formats-3cgc)
+- [I built an open-source system to track how engineers actually adapt to AI](https://dev.to/shenbrian/i-built-an-open-source-system-to-track-how-engineers-actually-adapt-to-ai-2k4p)
+- [How to Detect When a Competitor Launches a New Feature Before Your Sales Team Notices](https://dev.to/vhub_systems_ed5641f65d59/how-to-detect-when-a-competitor-launches-a-new-feature-before-your-sales-team-notices-260p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
