@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Memory-Safe Steganography Engine in Rust to Protect Data from AI Scrapers](https://dev.to/nishal21/how-i-built-a-memory-safe-steganography-engine-in-rust-to-protect-data-from-ai-scrapers-4cch)
-- [&quot;Why I Stopped Trusting Backtests and Built a Live Paper Trading Tournament Instead&quot;](https://dev.to/qcautomation/why-i-stopped-trusting-backtests-and-built-a-live-paper-trading-tournament-instead-37jj)
-- [Docling CLI to parse PDFs and export it to multiple formats](https://dev.to/njeri_kimaru/docling-cli-to-parse-pdfs-and-export-it-to-multiple-formats-3cgc)
-- [I built an open-source system to track how engineers actually adapt to AI](https://dev.to/shenbrian/i-built-an-open-source-system-to-track-how-engineers-actually-adapt-to-ai-2k4p)
-- [How to Detect When a Competitor Launches a New Feature Before Your Sales Team Notices](https://dev.to/vhub_systems_ed5641f65d59/how-to-detect-when-a-competitor-launches-a-new-feature-before-your-sales-team-notices-260p)
+- [Reliable Function Calling in Deeply Recursive Union Types: Fixing Qwen Models&#39; Double-Stringify Bug](https://dev.to/pavkode/reliable-function-calling-in-deeply-recursive-union-types-fixing-qwen-models-double-stringify-bug-4hm7)
+- [5 Real Issues With LiteLLM That Are Pushing Teams Away in 2026](https://dev.to/debmckinney/5-real-issues-with-litellm-that-are-pushing-teams-away-in-2026-h0h)
+- [The Open Source Trap: Why Free Software Is the Most Expensive Choice You&#39;ll Make](https://dev.to/counterinteng/the-open-source-trap-why-free-software-is-the-most-expensive-choice-youll-make-2bk7)
+- [GitHub Actions Changed Pricing in 2026 — Here&#39;s Exactly What You&#39;re Paying Now](https://dev.to/shubhamoriginx/github-actions-changed-pricing-in-2026-heres-exactly-what-youre-paying-now-51db)
+- [The Dartmouth Conference, 1956: The Summer AI Was Born](https://dev.to/is_insane/the-dartmouth-conference-1956-the-summer-ai-was-born-33ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
