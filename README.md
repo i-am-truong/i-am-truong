@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Data Science Team for Accelerated Task Completion](https://dev.to/stelixx-insider/ai-powered-data-science-team-for-accelerated-task-completion-4kp4)
-- [The Day I Realized It Wasn’t Just About Skills](https://dev.to/samarth28/the-day-i-realized-it-wasnt-just-about-skills-7pn)
-- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
-- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
-- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
+- [I built a Norton Commander clone in Go for my dev ecosystem — and I&#39;m looking for a maintainer](https://dev.to/artanidos/i-built-a-norton-commander-clone-in-go-for-my-dev-ecosystem-and-im-looking-for-a-maintainer-51i7)
+- [GitOps for Homelabs: How ArgoCD App-of-Apps Scales Your Cluster](https://dev.to/futhgar/gitops-for-homelabs-how-argocd-app-of-apps-scales-your-cluster-eem)
+- [Context Engineering vs Prompt Engineering: the shift in how we build AI systems.](https://dev.to/kodus/context-engineering-vs-prompt-engineering-the-shift-in-how-we-build-ai-systems-3noi)
+- [I built a changelog generator that works on any repo — no conventional commits needed](https://dev.to/uratools/i-built-a-changelog-generator-that-works-on-any-repo-no-conventional-commits-needed-1ekc)
+- [How to use Timberborn 🦫 &lpar;yes, the beaver city-building game&rpar; as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
