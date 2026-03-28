@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Function Calling in Deeply Recursive Union Types: Fixing Qwen Models&#39; Double-Stringify Bug](https://dev.to/pavkode/reliable-function-calling-in-deeply-recursive-union-types-fixing-qwen-models-double-stringify-bug-4hm7)
-- [5 Real Issues With LiteLLM That Are Pushing Teams Away in 2026](https://dev.to/debmckinney/5-real-issues-with-litellm-that-are-pushing-teams-away-in-2026-h0h)
-- [The Open Source Trap: Why Free Software Is the Most Expensive Choice You&#39;ll Make](https://dev.to/counterinteng/the-open-source-trap-why-free-software-is-the-most-expensive-choice-youll-make-2bk7)
-- [GitHub Actions Changed Pricing in 2026 — Here&#39;s Exactly What You&#39;re Paying Now](https://dev.to/shubhamoriginx/github-actions-changed-pricing-in-2026-heres-exactly-what-youre-paying-now-51db)
-- [The Dartmouth Conference, 1956: The Summer AI Was Born](https://dev.to/is_insane/the-dartmouth-conference-1956-the-summer-ai-was-born-33ci)
+- [Day 54 of #100DaysOfCode — Creating Blog App](https://dev.to/m_saad_ahmad/day-54-of-100daysofcode-creating-blog-app-gn3)
+- [How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm)
+- [Ollama Has a Free Local LLM Runner — Run AI Models on Your Laptop](https://dev.to/0012303/ollama-has-a-free-local-llm-runner-run-ai-models-on-your-laptop-3gkn)
+- [Bruno Has a Free API Client — Git-Friendly Alternative to Postman](https://dev.to/0012303/bruno-has-a-free-api-client-git-friendly-alternative-to-postman-5g9d)
+- [Enigmas de la IA en el ámbito de la ciberseguridad](https://dev.to/cris7i4nj/enigmas-de-la-ia-en-el-ambito-de-la-ciberseguridad-26m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
