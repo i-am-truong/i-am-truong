@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Mistakes Didn&#39;t Change. The Speed Did.](https://dev.to/felixortizdev/the-mistakes-didnt-change-the-speed-did-13i8)
-- [TurboQuant AI](https://dev.to/joaopakina/turboquant-ai-1baa)
-- [The Git Cheat Sheet Every Developer Should Bookmark &lpar;2026 Edition&rpar;](https://dev.to/lucasmdevdev/the-git-cheat-sheet-every-developer-should-bookmark-2026-edition-3cb1)
-- [3. Unleash the Power of Notion: Advanced Features Every Developer Should Know](https://dev.to/jack_arenberg_06ecee19922/3-unleash-the-power-of-notion-advanced-features-every-developer-should-know-5hfn)
-- [PHP 8.1 Enums: Backed Enums and Laravel Eloquent Casts](https://dev.to/nishil_bhave_641129b49873/php-81-enums-backed-enums-and-laravel-eloquent-casts-40mi)
+- [How We Cut Our AI API Bill by 78% &lpar;And Let Cursor See Our Entire Codebase&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/how-we-built-a-context-engine-that-makes-ai-code-assistants-see-your-entire-codebase-3076)
+- [Your AI Doesn&#39;t Need Screenshots. It Needs DevTools.](https://dev.to/emad_omar_5311e0e328be24c/your-ai-doesnt-need-screenshots-it-needs-devtools-3lg1)
+- [Building an A2A Simulator to Debug Agent-to-Agent Communication](https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-g9i)
+- [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
