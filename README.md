@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP in production: what nobody tells you before you start](https://dev.to/mads_hansen_27b33ebfee4c9/mcp-in-production-what-nobody-tells-you-before-you-start-21m)
-- [Chapter 2. Creating and Configuring a Project](https://dev.to/ucjung/chapter-2-creating-and-configuring-a-project-29cp)
-- [The hidden cost of &quot;let me pull that data for you&quot;](https://dev.to/mads_hansen_27b33ebfee4c9/the-hidden-cost-of-let-me-pull-that-data-for-you-27hl)
-- [Chapter 1. Claude Code CLI Installation Guide](https://dev.to/ucjung/chapter-1-claude-code-cli-installation-guide-4mmg)
-- [Fix Zombie VRAM: Clear GPU Memory Without Rebooting](https://dev.to/jaksontate/fix-zombie-vram-clear-gpu-memory-without-rebooting-3b1f)
+- [Pandora&#39;s Box Is Open. And Nobody Knows What Was Inside.](https://dev.to/iamirondev/pandoras-box-is-open-and-nobody-knows-what-was-inside-4c1j)
+- [Message Queues: When and How to Stop Doing Work Inside HTTP Requests](https://dev.to/akhil_1b254604a14fbb491c5/message-queues-when-and-how-to-stop-doing-work-inside-http-requests-4p94)
+- [7 Mac Apps for Developers Who Want a Clean, Minimal Desktop in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-want-a-clean-minimal-desktop-in-2026-255j)
+- [How to Design OAuth for AI Agents Without Creating a Permission Mess](https://dev.to/kaeso/how-to-design-oauth-for-ai-agents-without-creating-a-permission-mess-1hj6)
+- [The Black Box of Privacy: Unlocking &quot;Confidential Computing&quot; in AI](https://dev.to/samruddhi_nikam_159/the-black-box-of-privacy-unlocking-confidential-computing-in-ai-4mdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
