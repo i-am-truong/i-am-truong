@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing LangGraph Multi-Agent Workflows: How to Enforce Tool-Level Permissions](https://dev.to/cogniwall/securing-langgraph-multi-agent-workflows-how-to-enforce-tool-level-permissions-13cm)
-- [Founder OS: Turning Notion into an AI Startup, Co-Founder with MCP](https://dev.to/sunderkumar/founder-os-turning-notion-into-an-ai-startup-co-founder-with-mcp-3kcg)
-- [Show DEV: PressArk - Talk to Your WordPress Site Instead of Clicking Through It](https://dev.to/abdelali_selouani_55871ee/show-dev-pressark-talk-to-your-wordpress-site-instead-of-clicking-through-it-1hb5)
-- [Build Your First MCP Server &lpar;and Client&rpar;](https://dev.to/gursharansingh/build-your-first-mcp-server-and-client-bhh)
-- [I Got Tired of Clicking Through wp-admin, So I Built an AI That Does It for Me](https://dev.to/abdelali_selouani_55871ee/i-got-tired-of-clicking-through-wp-admin-so-i-built-an-ai-that-does-it-for-me-f1f)
+- [AI-Powered Data Science Team for Accelerated Task Completion](https://dev.to/stelixx-insider/ai-powered-data-science-team-for-accelerated-task-completion-4kp4)
+- [The Day I Realized It Wasn’t Just About Skills](https://dev.to/samarth28/the-day-i-realized-it-wasnt-just-about-skills-7pn)
+- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
+- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
+- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
