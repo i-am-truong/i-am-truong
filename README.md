@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 54 of #100DaysOfCode — Creating Blog App](https://dev.to/m_saad_ahmad/day-54-of-100daysofcode-creating-blog-app-gn3)
-- [How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm)
-- [Ollama Has a Free Local LLM Runner — Run AI Models on Your Laptop](https://dev.to/0012303/ollama-has-a-free-local-llm-runner-run-ai-models-on-your-laptop-3gkn)
-- [Bruno Has a Free API Client — Git-Friendly Alternative to Postman](https://dev.to/0012303/bruno-has-a-free-api-client-git-friendly-alternative-to-postman-5g9d)
-- [Enigmas de la IA en el ámbito de la ciberseguridad](https://dev.to/cris7i4nj/enigmas-de-la-ia-en-el-ambito-de-la-ciberseguridad-26m2)
+- [How We Cut Browser Agent Costs 7,000x with Collective Intelligence](https://dev.to/arcede/how-we-cut-browser-agent-costs-7000x-with-collective-intelligence-3i6o)
+- [Hardening JavaScript JITs: Practical Mitigations for Modern Engines](https://dev.to/beefedai/hardening-javascript-jits-practical-mitigations-for-modern-engines-o7d)
+- [Discussion: WebGPU Performance and Local AI Inference](https://dev.to/tacit_71799acf6d056b5155c/discussion-webgpu-performance-and-local-ai-inference-3lgm)
+- [Recreating Apple&#39;s Liquid Glass Effect on the Web with CSS, SVG, and Physics-Based Refraction Calculations](https://dev.to/maxgeris/recreating-apples-liquid-glass-effect-on-the-web-with-css-svg-and-physics-based-refraction-5cek)
+- [FileBrowser Alternatives for Mobile: A Self-Hoster&#39;s Comparison Guide](https://dev.to/johnson998877/filebrowser-alternatives-for-mobile-a-self-hosters-comparison-guide-5ccm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
