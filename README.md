@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps for Developers Who Live in the Terminal in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-live-in-the-terminal-in-2026-2dg1)
-- [Sextant: Making Claude Code Read Your Code Before Changing It](https://dev.to/mohist/sextant-making-claude-code-read-your-code-before-changing-it-2cp9)
-- [What Temporal Can&#39;t Do: Human Approval Mid-Workflow](https://dev.to/george_belsky_a513cfbf3df/what-temporal-cant-do-human-approval-mid-workflow-51o8)
-- [THREE.JS ELEGANCE: INTERACTIVE FLOWER SHADER VOL. 03](https://dev.to/sujitkoji/threejs-elegance-interactive-flower-shader-vol-03-4h47)
-- [How Apple Watch Ejects Water From Its Speaker &lpar;And How to Do It on Any Phone&rpar;](https://dev.to/boringapps/how-apple-watch-ejects-water-from-its-speaker-and-how-to-do-it-on-any-phone-1g69)
+- [Grafana Tempo Has a Free API — Distributed Tracing Without Sampling](https://dev.to/0012303/grafana-tempo-has-a-free-api-distributed-tracing-without-sampling-6jk)
+- [AI Agent for Banking: Automate Compliance, Lending &amp; Fraud Prevention &lpar;2026&rpar;](https://dev.to/paxrel/ai-agent-for-banking-automate-compliance-lending-fraud-prevention-2026-435m)
+- [ClaudeGate: wrapping Claude Code CLI as an async REST API in Go](https://dev.to/ohugonnot/claudegate-wrapping-claude-code-cli-as-an-async-rest-api-in-go-76j)
+- [I Use NanoClaw in Telegram All Day. I Stopped Typing to It.](https://dev.to/omachala/i-run-an-ai-agent-in-telegram-all-day-i-stopped-typing-to-it-3g7o)
+- [Trupe: Implementando Supervisor](https://dev.to/actor-dev/trupe-implementando-supervisor-4f47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
