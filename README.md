@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grafana Tempo Has a Free API — Distributed Tracing Without Sampling](https://dev.to/0012303/grafana-tempo-has-a-free-api-distributed-tracing-without-sampling-6jk)
-- [AI Agent for Banking: Automate Compliance, Lending &amp; Fraud Prevention &lpar;2026&rpar;](https://dev.to/paxrel/ai-agent-for-banking-automate-compliance-lending-fraud-prevention-2026-435m)
-- [ClaudeGate: wrapping Claude Code CLI as an async REST API in Go](https://dev.to/ohugonnot/claudegate-wrapping-claude-code-cli-as-an-async-rest-api-in-go-76j)
-- [I Use NanoClaw in Telegram All Day. I Stopped Typing to It.](https://dev.to/omachala/i-run-an-ai-agent-in-telegram-all-day-i-stopped-typing-to-it-3g7o)
-- [Trupe: Implementando Supervisor](https://dev.to/actor-dev/trupe-implementando-supervisor-4f47)
+- [Crossplane Has a Free API: Manage Cloud Infrastructure with Kubernetes-Native IaC](https://dev.to/0012303/crossplane-has-a-free-api-manage-cloud-infrastructure-with-kubernetes-native-iac-2l89)
+- [Your AI Agent Can Delete Production — Can You Prove It?](https://dev.to/viru_swami/your-ai-agent-can-delete-production-can-you-prove-it-41nh)
+- [Gaussian Mixture Models: The EM Algorithm in Practice](https://dev.to/berkan_sesen/gaussian-mixture-models-the-em-algorithm-in-practice-4686)
+- [Why contain in CSS Can Fix Your Performance Bottlenecks](https://dev.to/pawar-shivam7/why-contain-in-css-can-fix-your-performance-bottlenecks-cp4)
+- [I built a free image to PDF converter that works offline - no upload, privacy focused](https://dev.to/xyrox1/i-built-a-free-image-to-pdf-converter-that-works-offline-no-upload-privacy-focused-2o88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
