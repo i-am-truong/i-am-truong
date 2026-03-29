@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Rediscovered Enthusiasm in the World of Technology After the Rise of LLMs](https://dev.to/blackarm/how-i-rediscovered-enthusiasm-in-the-world-of-technology-after-the-rise-of-llms-2b9a)
-- [Getting Started with Django: Setting Up Your First Django Project](https://dev.to/codexmingle_community/getting-started-with-django-setting-up-your-first-django-project-1mii)
-- [🦓 The Tale of the Humbled Process Engineer — Episode IV: The Audience with the Hyena 🐺](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-iv-the-audience-with-the-hyena-49b8)
-- [Building a Lightning-Fast, Ad-Free IP &amp; Reputation Toolkit &lpar;RPi + Oracle Cloud&rpar;](https://dev.to/tal_yosef_af3ea91d4cf71d2/building-a-lightning-fast-ad-free-ip-reputation-toolkit-rpi-oracle-cloud-3ldj)
-- [How I Reached Top 8% on Kaggle with a Ridge-XGBoost N-gram Pipeline](https://dev.to/faith_b6e08f3b8f05a77bb5f/how-i-reached-top-8-on-kaggle-with-a-ridge-xgboost-n-gram-pipeline-32pa)
+- [I used Google Sheets as a database and it actually worked](https://dev.to/eddy_kim_35fcc8fa72e503eb/i-used-google-sheets-as-a-database-and-it-actually-worked-3p7e)
+- [30% of Developers Think AI Will Replace Them](https://dev.to/ji_ai/30-of-developers-think-ai-will-replace-them-ghp)
+- [Anthropic&#39;s $60B IPO Bet: What October Means for AI](https://dev.to/ji_ai/anthropics-60b-ipo-bet-what-october-means-for-ai-2o3d)
+- [Anthropic Beat the Pentagon in Court — Here&#39;s Why It Matters](https://dev.to/ji_ai/anthropic-beat-the-pentagon-in-court-heres-why-it-matters-1j0c)
+- [Claude Code Auto Mode: No More Pressing Y](https://dev.to/ji_ai/claude-code-auto-mode-no-more-pressing-y-3ndc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
