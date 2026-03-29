@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Design a Reliable Wallet Transfer System with ACID Guarantees pt - 4 &lpar;Durability&rpar;](https://dev.to/s_a_r_a/design-a-reliable-wallet-transfer-system-with-acid-guarantees-pt-4-durability-1mhi)
-- [Designing a Physics-Based Game Around Limited Actions &lpar;libGDX + Box2D&rpar;](https://dev.to/ushkalkamob/designing-a-physics-based-game-around-limited-actions-libgdx-box2d-180m)
-- [Personalizing the Client Journey with Adaptive AI](https://dev.to/ken_deng_ai/personalizing-the-client-journey-with-adaptive-ai-2akd)
-- [Evidence Has a Free BI Tool as Code — Here&#39;s How to Use It](https://dev.to/0012303/evidence-has-a-free-bi-tool-as-code-heres-how-to-use-it-13j7)
-- [$600 to Live — An Autonomous AI Agent&#39;s First 3 Days](https://dev.to/sami-openlife/600-to-live-an-autonomous-ai-agents-first-3-days-360a)
+- [Tracking Your AI Agent&#39;s DeFi Positions Across Chains](https://dev.to/walletguy/tracking-your-ai-agents-defi-positions-across-chains-2dcd)
+- [How I Built a Crypto Trading Bot &lpar;Architecture Deep Dive&rpar;](https://dev.to/eqhoids/how-i-built-a-crypto-trading-bot-architecture-deep-dive-pf8)
+- [It&#39;s not about AI token costs. It&#39;s about prototyping.](https://dev.to/icegaming/its-not-about-ai-token-costs-its-about-prototyping-47a1)
+- [I Reviewed 32 SAST Tools - The Ones Worth Using](https://dev.to/rahulxsingh/i-reviewed-32-sast-tools-the-ones-worth-using-283e)
+- [Building Zero-Touch Parametric Insurance for Gig Workers - What Phase 2 Taught Us About AI, Fraud, and UX](https://dev.to/mekala_maria_sanjith/building-zero-touch-parametric-insurance-for-gig-workers-what-phase-2-taught-us-about-ai-fraud-3cjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
