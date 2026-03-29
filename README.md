@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reading Data from Weather Sensors with Python](https://dev.to/nandofm/reading-data-from-weather-sensors-with-python-51pe)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/mbatiak/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-fp2)
-- [Real Device Cloud vs Emulators: A Developer&#39;s Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo)
-- [# Understanding Data Modeling in Power BI](https://dev.to/raggedgentio/-understanding-data-modeling-in-power-bi-5d6a)
-- [Zustand Has a Free State Manager That Replaces Redux in 10 Lines](https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj)
+- [86 downloads/week: Our MCP Calculator Package is Finding Its Audience](https://dev.to/yonatan_naor_5642e43447ea/86-downloadsweek-our-mcp-calculator-package-is-finding-its-audience-55e0)
+- [Top 5 Developer Hacks to Automated User Testing Without Spamming Your Inbox](https://dev.to/vinodkumarjaipal/top-5-developer-hacks-to-automated-user-testing-without-spamming-your-inbox-5785)
+- [🚀 Fixing Ollama Not Using GPU with Docker Desktop &lpar;Step-by-Step + Troubleshooting&rpar;](https://dev.to/foram_jaguwala_46b596a8f6/fixing-ollama-not-using-gpu-with-docker-desktop-step-by-step-troubleshooting-42b8)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/amo_invanalysis_392c1de71/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-ep8)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/nancymikia/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-3aak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
