@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing Streak Badge Issue
-
-Hey everyone, I’ve been posting weekly since January but still haven’t received the writing streak badge. Recent posts: Feb 12, 18, 25, Mar 4, 11, 13, 18, 25. Getting other badges though. Am I missing something or is this a bug?](https://dev.to/dev-in-progress/writing-streak-badge-issue-hey-everyone-ive-been-posting-weekly-since-january-but-still-2gi1)
-- [🚀 How I Upgraded My AI Workflow Using MCP &lpar;And Stopped AI Guessing&rpar;](https://dev.to/tirth_godhani/how-i-upgraded-my-ai-workflow-using-mcp-and-stopped-ai-guessing-2bp6)
-- [ISO 27001 Just Got the Same Treatment as SOC2](https://dev.to/first_king_ac04fddae39781/iso-27001-just-got-the-same-treatment-as-soc2-4ago)
-- [AI Agents for Business in 2026: What Actually Works &lpar;and What Is Still Hype&rpar;](https://dev.to/helen_mireille_47b02db70c/ai-agents-for-business-in-2026-what-actually-works-and-what-is-still-hype-4281)
-- [7 Days, $0.02 in AWS Costs, and 3 Lessons I Didn&#39;t Expect — A Post-Launch Retrospective](https://dev.to/aws-builders/7-days-002-in-aws-costs-and-3-lessons-i-didnt-expect-a-post-launch-retrospective-35bn)
+- [How I Rediscovered Enthusiasm in the World of Technology After the Rise of LLMs](https://dev.to/blackarm/how-i-rediscovered-enthusiasm-in-the-world-of-technology-after-the-rise-of-llms-2b9a)
+- [Getting Started with Django: Setting Up Your First Django Project](https://dev.to/codexmingle_community/getting-started-with-django-setting-up-your-first-django-project-1mii)
+- [🦓 The Tale of the Humbled Process Engineer — Episode IV: The Audience with the Hyena 🐺](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-iv-the-audience-with-the-hyena-49b8)
+- [Building a Lightning-Fast, Ad-Free IP &amp; Reputation Toolkit &lpar;RPi + Oracle Cloud&rpar;](https://dev.to/tal_yosef_af3ea91d4cf71d2/building-a-lightning-fast-ad-free-ip-reputation-toolkit-rpi-oracle-cloud-3ldj)
+- [How I Reached Top 8% on Kaggle with a Ridge-XGBoost N-gram Pipeline](https://dev.to/faith_b6e08f3b8f05a77bb5f/how-i-reached-top-8-on-kaggle-with-a-ridge-xgboost-n-gram-pipeline-32pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
