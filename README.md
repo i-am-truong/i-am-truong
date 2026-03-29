@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Assistant That Doesn’t Take Action Automatically](https://dev.to/marzun9620/building-an-ai-assistant-that-doesnt-take-action-automatically-32md)
-- [Why Most AI Cold Emails Go to Spam &lpar;And How to Fix It&rpar;](https://dev.to/the1stlink/why-most-ai-cold-emails-go-to-spam-and-how-to-fix-it-5dbn)
-- [Automating Cross-Posting with Attributed Unsplash Cover Images](https://dev.to/krizekster/automating-cross-posting-with-attributed-unsplash-cover-images-21m2)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/derickmenje/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-22ia)
-- [How to Beat Google Play&#39;s Developer Account Rejection Using ADR](https://dev.to/software_mvp-factory/google-rejected-my-developer-account-so-i-filed-a-legal-complaint-and-won-they-paid-250-eur-5agk)
+- [DDR5 Prices Dropped 7.2% — Free Tools to Know If Upgrading Is Worth It](https://dev.to/teamzlab/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it-4ka5)
+- [3 funciones de Claude Code que deberías usar 🤖](https://dev.to/devchtech/3-funciones-de-claude-code-que-deberias-usar-4fpf)
+- [Performance &amp; Recursion](https://dev.to/kenluzu/performance-recursion-7bd)
+- [Integrating Mapbox with Angular &lpar;Part 1: Setup with TypeScript Support&rpar;](https://dev.to/ore_krsti_9633950bf045/integrating-mapbox-with-angular-part-1-setup-with-typescript-support-2hl)
+- [Trace AI: I Pointed a Camera at a Whiteboard. Notion Built the Entire System Design Doc.](https://dev.to/_boweii/trace-ai-i-pointed-a-camera-at-a-whiteboard-notion-built-the-entire-system-design-doc-37m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
