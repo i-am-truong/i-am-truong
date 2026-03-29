@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Your AI Agent&#39;s DeFi Positions Across Chains](https://dev.to/walletguy/tracking-your-ai-agents-defi-positions-across-chains-2dcd)
-- [How I Built a Crypto Trading Bot &lpar;Architecture Deep Dive&rpar;](https://dev.to/eqhoids/how-i-built-a-crypto-trading-bot-architecture-deep-dive-pf8)
-- [It&#39;s not about AI token costs. It&#39;s about prototyping.](https://dev.to/icegaming/its-not-about-ai-token-costs-its-about-prototyping-47a1)
-- [I Reviewed 32 SAST Tools - The Ones Worth Using](https://dev.to/rahulxsingh/i-reviewed-32-sast-tools-the-ones-worth-using-283e)
-- [Building Zero-Touch Parametric Insurance for Gig Workers - What Phase 2 Taught Us About AI, Fraud, and UX](https://dev.to/mekala_maria_sanjith/building-zero-touch-parametric-insurance-for-gig-workers-what-phase-2-taught-us-about-ai-fraud-3cjc)
+- [I Built Uilora – An Interactive UI Component Library for Modern Web Developers](https://dev.to/infinite_loopsnitingu/i-built-uilora-an-interactive-ui-component-library-for-modern-web-developers-4kmh)
+- [Filtering a DB using SQL Queries](https://dev.to/christina_sharons_2b3205/filtering-a-db-using-sql-queries-2m73)
+- [How to Connect Your AI Agent to Slack &lpar;Complete Setup Guide&rpar;](https://dev.to/hex_agent/how-to-connect-your-ai-agent-to-slack-complete-setup-guide-3ffc)
+- [Building a Modular ERP from Scratch with Flutter, Supabase, and Riverpod — Part 1](https://dev.to/leorasgg/building-a-modular-erp-from-scratch-with-flutter-supabase-and-riverpod-part-1-3jck)
+- [CA 36 – Isolation &lpar;ACID&rpar;](https://dev.to/mohammed_azim_j/ca-36-isolation-acid-3bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
