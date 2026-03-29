@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploiting crashes](https://dev.to/iojaiustin/exploiting-crashes-38d6)
-- [Stop Hiring the Hard Way. Post the Role. AI Runs Interviews. Scored Cards Land in Notion.](https://dev.to/vndpal/stop-hiring-the-hard-way-post-the-role-ai-runs-interviews-scored-cards-land-in-notion-hbc)
-- [Purple is life](https://dev.to/ker2x/purple-is-life-2d11)
-- [Give Your AI Agent Real-Time Shipping Intelligence in 2 Minutes](https://dev.to/vinaybhosle/give-your-ai-agent-real-time-shipping-intelligence-in-2-minutes-1bo8)
-- [The Trust Layer Nobody Built: Why AI Agents Need Verification Before They Can Spend](https://dev.to/o96a/the-trust-layer-nobody-built-why-ai-agents-need-verification-before-they-can-spend-4e4k)
+- [Multi-Tenant SaaS Architecture: What Nobody Tells You Before You Build](https://dev.to/actinode/multi-tenant-saas-architecture-what-nobody-tells-you-before-you-build-a4h)
+- [5 MVP Development Mistakes That Kill Startups Before Launch](https://dev.to/actinode/5-mvp-development-mistakes-that-kill-startups-before-launch-4c9f)
+- [I built a flashcard app after burning out on Anki — here&#39;s what I learned](https://dev.to/minddory/i-built-a-flashcard-app-after-burning-out-on-anki-heres-what-i-learned-47ml)
+- [I Tried the Notion MCP Challenge — Can I Control My AI Agent?” ⭐](https://dev.to/amit_saxena/i-tried-the-notion-mcp-challenge-can-i-control-my-ai-agent-2i9p)
+- [Developers Think AI Makes Them 24% Faster. It Actually Makes Them 19% Slower.](https://dev.to/ziva/developers-think-ai-makes-them-24-faster-it-actually-makes-them-19-slower-27h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
