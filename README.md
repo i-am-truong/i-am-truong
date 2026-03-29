@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who&#39;s Auditing Your AI&#39;s Tools? Building an ISO 27001-Ready MCP Security System on Notion MCP](https://dev.to/terungwa007/whos-auditing-your-ais-tools-building-an-iso-27001-ready-mcp-security-system-on-notion-mcp-338g)
-- [I Scanned 5 Popular JavaScript Sites for SEO Issues — Here&#39;s What I Found](https://dev.to/jsvisible/i-scanned-5-popular-javascript-sites-for-seo-issues-heres-what-i-found-22ob)
-- [Serverless ETL/ELT Architecture with S3, EventBridge, Lambda, Step Functions, and Glue](https://dev.to/aws-builders/serverless-etlelt-architecture-with-s3-eventbridge-lambda-step-functions-and-glue-31l1)
-- [Codacy GitHub Integration: Setup and Config Guide](https://dev.to/rahulxsingh/codacy-github-integration-setup-and-config-guide-4o59)
-- [AI coding agents lie about their work. Outcome-based verification catches it.](https://dev.to/moonrunnerkc/ai-coding-agents-lie-about-their-work-outcome-based-verification-catches-it-12b4)
+- [Comp the language](https://dev.to/shredwheat/comp-the-language-1ifd)
+- [Building a 14-County Real Estate Data Pipeline with CrawlOS, Supabase, and pg_cron](https://dev.to/domoniqueluchin/building-a-14-county-real-estate-data-pipeline-with-crawlos-supabase-and-pgcron-56o0)
+- [Agentic Shell - cli agent adaption layer](https://dev.to/scott_raisbeck_24ea5fbc1e/agentic-shell-cli-agent-adaption-layer-l7m)
+- [Visual Regression Testing for Marketing Sites Without Browser Engineering](https://dev.to/snapshotsite/visual-regression-testing-for-marketing-sites-without-browser-engineering-45lg)
+- [Scaling Laravel Backends for High-Volume Systems: Lessons from Serving 100,000+ Users in Production](https://dev.to/olamilekan_lamidi_756e36d/scaling-laravel-backends-for-high-volume-systems-lessons-from-serving-100000-users-in-production-36b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
