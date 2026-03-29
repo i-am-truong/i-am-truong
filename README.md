@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jems - Your life, brilliantly organized](https://dev.to/abinjith_tk_e85889d1609a4/jems-your-life-brilliantly-organized-4anb)
-- [I Finally Ditched Overleaf for a Local LaTeX Editor — Here&#39;s What Actually Works](https://dev.to/tex64/i-finally-ditched-overleaf-for-a-local-latex-editor-heres-what-actually-works-2cgg)
-- [I Added MCP Server to My REST API in ~180 Lines of TypeScript](https://dev.to/mindon/step-1-initialize-4j47)
-- [Opus, Gemini, and ChatGPT Walk Into a Bar](https://dev.to/arezvov/opus-gemini-and-chatgpt-walk-into-a-bar-kii)
-- [Safest Skills — Recommended Picks — 2026-03-29](https://dev.to/_0ae5dca97e251657f73267/safest-skills-recommended-picks-2026-03-29-2ibh)
+- [💥 I Was Tired of Boring UIs, So I Built a CSS Framework Straight Out of a 1962 Comic Book](https://dev.to/gorupa/i-was-tired-of-boring-uis-so-i-built-a-css-framework-straight-out-of-a-1962-comic-book-mc1)
+- [🔥 Top 10 AI Tools Every Developer Should Use in 2026](https://dev.to/utilizor/top-10-ai-tools-every-developer-should-use-in-2026-5dli)
+- [Automated Internal Linking with Tag-Based Content Graphs](https://dev.to/2gelbuy/automated-internal-linking-with-tag-based-content-graphs-571n)
+- [&quot;Self-Hosting Stripe Anomaly Detection: Building a Multi-Tenant BillingWatch with FastAPI&quot;](https://dev.to/qcautomation/self-hosting-stripe-anomaly-detection-building-a-multi-tenant-billingwatch-with-fastapi-22ef)
+- [&quot;How I Built an Overnight Strategy Tournament System for Algorithmic Paper Trading&quot;](https://dev.to/qcautomation/how-i-built-an-overnight-strategy-tournament-system-for-algorithmic-paper-trading-34op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
