@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [86 downloads/week: Our MCP Calculator Package is Finding Its Audience](https://dev.to/yonatan_naor_5642e43447ea/86-downloadsweek-our-mcp-calculator-package-is-finding-its-audience-55e0)
-- [Top 5 Developer Hacks to Automated User Testing Without Spamming Your Inbox](https://dev.to/vinodkumarjaipal/top-5-developer-hacks-to-automated-user-testing-without-spamming-your-inbox-5785)
-- [🚀 Fixing Ollama Not Using GPU with Docker Desktop &lpar;Step-by-Step + Troubleshooting&rpar;](https://dev.to/foram_jaguwala_46b596a8f6/fixing-ollama-not-using-gpu-with-docker-desktop-step-by-step-troubleshooting-42b8)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/amo_invanalysis_392c1de71/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-ep8)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/nancymikia/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-3aak)
+- [Exploiting crashes](https://dev.to/iojaiustin/exploiting-crashes-38d6)
+- [Stop Hiring the Hard Way. Post the Role. AI Runs Interviews. Scored Cards Land in Notion.](https://dev.to/vndpal/stop-hiring-the-hard-way-post-the-role-ai-runs-interviews-scored-cards-land-in-notion-hbc)
+- [Purple is life](https://dev.to/ker2x/purple-is-life-2d11)
+- [Give Your AI Agent Real-Time Shipping Intelligence in 2 Minutes](https://dev.to/vinaybhosle/give-your-ai-agent-real-time-shipping-intelligence-in-2-minutes-1bo8)
+- [The Trust Layer Nobody Built: Why AI Agents Need Verification Before They Can Spend](https://dev.to/o96a/the-trust-layer-nobody-built-why-ai-agents-need-verification-before-they-can-spend-4e4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
