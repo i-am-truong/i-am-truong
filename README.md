@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top Remote Developer Jobs Available Right Now](https://dev.to/remotedvjobs/top-remote-developer-jobs-available-right-now-581j)
-- [Navigating the Future: The Insights from the First American AI Jobs Risk Index](https://dev.to/dd8888/navigating-the-future-the-insights-from-the-first-american-ai-jobs-risk-index-3gki)
-- [createthings — A Creative System Built on Notion MCP](https://dev.to/babalasisi/createthings-a-creative-system-built-on-notion-mcp-a0k)
-- [How We Made Our Supabase RLS Migrations Idempotent &lpar;And Why You Should Too&rpar;](https://dev.to/nareshipme/how-we-made-our-supabase-rls-migrations-idempotent-and-why-you-should-too-4d2g)
-- [Consistency](https://dev.to/abirami_prabhakar/consistency-2ef6)
+- [How to Use ChatGPT for Code Review &lpar;with Prompts&rpar;](https://dev.to/rahulxsingh/how-to-use-chatgpt-for-code-review-with-prompts-3i5m)
+- [A Beginner’s Guide to How GraphQL Requests Work](https://dev.to/vyshnavi_devi/a-beginners-guide-to-how-graphql-requests-work-4ejj)
+- [The 5 Agent Failure Modes Nobody Warns You About Until It&#39;s Too Late](https://dev.to/the_bookmaster/the-5-agent-failure-modes-nobody-warns-you-about-until-its-too-late-2584)
+- [How to Compare Multiple CSV Files Quickly with Dataplotter](https://dev.to/adhibot/how-to-compare-multiple-csv-files-quickly-with-dataplotter-4m6c)
+- [Djangonaut diaries, week 4: Eliminating a Redundant Index in Django&#39;s ORM](https://dev.to/rodbv/djangonaut-diaries-week-4-sending-a-pr-for-an-orm-issue-1m3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
