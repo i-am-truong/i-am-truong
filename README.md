@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a free AI visibility audit tool — then audited ourselves. Here&#39;s what happened.](https://dev.to/zeb_choudhry_eda2ce4ce1d3/i-built-a-free-ai-visibility-audit-tool-then-audited-ourselves-heres-what-happened-55n0)
-- [Your Supabase RLS Is Probably Wrong: A Security Guide for Vibe Coders](https://dev.to/solobillions/your-supabase-rls-is-probably-wrong-a-security-guide-for-vibe-coders-3l4e)
-- [Dear Beginner Dev: No, AI Is Not Taking Your Job. But Ignoring It Might.](https://dev.to/yasirabas/dear-beginner-dev-no-ai-is-not-taking-your-job-but-ignoring-it-might-16k4)
-- [The Hardest Part of Coding Isn&#39;t Coding](https://dev.to/alprimak/the-hardest-part-of-coding-isnt-coding-62b)
-- [There is Beauty in Pursuing An Excitement &lpar;No Matter Where You Are In Life&rpar;](https://dev.to/atomicflorisma/there-is-beauty-in-pursuing-an-excitement-no-matter-where-you-are-in-life-39af)
+- [Who&#39;s Auditing Your AI&#39;s Tools? Building an ISO 27001-Ready MCP Security System on Notion MCP](https://dev.to/terungwa007/whos-auditing-your-ais-tools-building-an-iso-27001-ready-mcp-security-system-on-notion-mcp-338g)
+- [I Scanned 5 Popular JavaScript Sites for SEO Issues — Here&#39;s What I Found](https://dev.to/jsvisible/i-scanned-5-popular-javascript-sites-for-seo-issues-heres-what-i-found-22ob)
+- [Serverless ETL/ELT Architecture with S3, EventBridge, Lambda, Step Functions, and Glue](https://dev.to/aws-builders/serverless-etlelt-architecture-with-s3-eventbridge-lambda-step-functions-and-glue-31l1)
+- [Codacy GitHub Integration: Setup and Config Guide](https://dev.to/rahulxsingh/codacy-github-integration-setup-and-config-guide-4o59)
+- [AI coding agents lie about their work. Outcome-based verification catches it.](https://dev.to/moonrunnerkc/ai-coding-agents-lie-about-their-work-outcome-based-verification-catches-it-12b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
