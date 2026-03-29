@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Single Responsibility Principle &lpar;SRP&rpar;: Theory and Implementation in Swift](https://dev.to/cakoko/single-responsibility-principle-srp-theory-and-implementation-in-swift-3f83)
-- [SOLID Principle: Theory and Implementation in Swift](https://dev.to/cakoko/solid-principle-theory-and-implementation-in-swift-4pmi)
-- [Leetcode Reflection 3.23-3.29](https://dev.to/korleones/leetcode-reflection-323-329-3dnm)
-- [Brave Browser Is the King in 2025–2026. There Is No Second Option](https://dev.to/md8_habibullah/brave-browser-is-the-king-in-2025-2026-there-is-no-second-option-dk8)
-- [GPT4All Has a Free API: Run Private LLMs Locally with Python Bindings](https://dev.to/0012303/gpt4all-has-a-free-api-run-private-llms-locally-with-python-bindings-4pdo)
+- [EC2 LAUNCHING](https://dev.to/ashiq_omar/ec2-launching-525j)
+- [32 - Filter Assignments](https://dev.to/sharmi_sabari_09/32-filter-assignments-3po2)
+- [I built an open-source tool that stops personal data from leaking into AI chatbots](https://dev.to/jeffrin-dev/i-built-an-open-source-tool-that-stops-personal-data-from-leaking-into-ai-chatbots-1fno)
+- [PocketBase Has a Free API You Should Know About](https://dev.to/0012303/pocketbase-has-a-free-api-you-should-know-about-33e6)
+- [Cookie Guard: The GDPR/CCPA Consent Manager &lpar;No Dependencies, 12.8 kB, 22 Languages&rpar;](https://dev.to/joseba-mirena/cookie-guard-the-gdprccpa-consent-manager-i-built-from-scratch-no-dependencies-128-kb-22-2ndp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
