@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zod vs Typia vs AJV — I Built a Build Plugin That Makes Zod 60x Faster With Zero Code Changes](https://dev.to/wakita181009/zod-vs-typia-vs-ajv-i-built-a-vite-plugin-that-makes-zod-60x-faster-with-zero-code-changes-1poc)
-- [SQL Assertions, ANSI join, and ORA-08697](https://dev.to/franckpachot/sql-assertions-ansi-join-and-ora-08697-3bl9)
-- [Engineering Is a Team Sport. Your Incentives Aren&#39;t.](https://dev.to/jonoherrington/engineering-is-a-team-sport-your-incentives-arent-3795)
-- [Durability](https://dev.to/anjana_rk_fbdea7abbdf13/durability-1kfl)
-- [Stop Wasting Tokens: How MCP Servers Fix Context Window Problems](https://dev.to/aiqahacks/stop-wasting-tokens-how-mcp-servers-fix-context-window-problems-c61)
+- [Reading Data from Weather Sensors with Python](https://dev.to/nandofm/reading-data-from-weather-sensors-with-python-51pe)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/mbatiak/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-fp2)
+- [Real Device Cloud vs Emulators: A Developer&#39;s Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo)
+- [# Understanding Data Modeling in Power BI](https://dev.to/raggedgentio/-understanding-data-modeling-in-power-bi-5d6a)
+- [Zustand Has a Free State Manager That Replaces Redux in 10 Lines](https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
