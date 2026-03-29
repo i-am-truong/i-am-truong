@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My friend unplugged my Raspberry Pi — so I built a homelab manager](https://dev.to/higangssh/my-friend-unplugged-my-raspberry-pi-so-i-built-a-homelab-manager-401g)
-- [Add a Clickable Button to a Frappe Child Table](https://dev.to/aakash_gupta_498d517f96b6/add-a-clickable-button-to-a-frappe-child-table-131e)
-- [CA 40 – Alter Tables](https://dev.to/mohammed_azim_j/ca-40-alter-tables-bma)
-- [Building a Smart Parking IoT App](https://dev.to/schat_carino_d3c4211b0c51/building-a-smart-parking-iot-app-with-hexagonal-architecture-why-not-microservices-1j4m)
-- [HackerRank SQL — All Details of American Cities with Population Over 100000](https://dev.to/manoj_kumar_401fd35052503/hackerrank-sql-all-details-of-american-cities-with-population-over-100000-32o6)
+- [Stop Paying Crypto Gateway Fees: Introducing Self-Hosted Solana Payments for Django Framework](https://dev.to/artemooon/stop-paying-crypto-gateway-fees-introducing-self-hosted-solana-payments-for-django-framework-1hm8)
+- [Hack-Me Challenge](https://dev.to/wehale_a2fea/hack-me-challenge-3e3e)
+- [Modernizing the Angular Quality Stack: Moving to Vite+](https://dev.to/nikhilrajnair/modernizing-the-angular-quality-stack-moving-to-vite-2d23)
+- [CA 29 - Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/santhosh_v/ca-29-setup-a-dns-hosted-zone-in-route53-in-aws-ki9)
+- [From Web Developer to Robotics Programmer: My Journey with Matrix 🤖](https://dev.to/tahabicho/from-web-developer-to-robotics-programmer-my-journey-with-matrix-18lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
