@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating Kubernetes AI Inference Workloads with NVIDIA Grove — From DRA GA to KAI Scheduler Integration](https://dev.to/manoit/orchestrating-kubernetes-ai-inference-workloads-with-nvidia-grove-from-dra-ga-to-kai-scheduler-1kla)
-- [Why I&#39;m Building a Database Engine in C#](https://dev.to/nockawa/why-im-building-a-database-engine-in-c-1np0)
-- [6 Ways Your AI Agent Fails Silently &lpar;With Code to Catch Each One&rpar;](https://dev.to/ilflow4592/6-ways-your-ai-agent-fails-silently-with-code-to-catch-each-one-5fi4)
-- [How I Reimplemented LÖVE2D in Rust to Play Balatro in a Terminal](https://dev.to/4rh1t3ct0r/how-i-reimplemented-love2d-in-rust-to-play-balatro-in-a-terminal-2ag2)
-- [Building a Daily Chinese Diary Habit with Notion MCP + Claude](https://dev.to/enoki85/building-a-daily-chinese-diary-habit-with-notion-mcp-claude-l3n)
+- [My friend unplugged my Raspberry Pi — so I built a homelab manager](https://dev.to/higangssh/my-friend-unplugged-my-raspberry-pi-so-i-built-a-homelab-manager-401g)
+- [Add a Clickable Button to a Frappe Child Table](https://dev.to/aakash_gupta_498d517f96b6/add-a-clickable-button-to-a-frappe-child-table-131e)
+- [CA 40 – Alter Tables](https://dev.to/mohammed_azim_j/ca-40-alter-tables-bma)
+- [Building a Smart Parking IoT App](https://dev.to/schat_carino_d3c4211b0c51/building-a-smart-parking-iot-app-with-hexagonal-architecture-why-not-microservices-1j4m)
+- [HackerRank SQL — All Details of American Cities with Population Over 100000](https://dev.to/manoj_kumar_401fd35052503/hackerrank-sql-all-details-of-american-cities-with-population-over-100000-32o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
