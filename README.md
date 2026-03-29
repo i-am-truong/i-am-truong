@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Nobody Tells You About Building a Multi-Provider MCP Server](https://dev.to/supertrained/what-nobody-tells-you-about-building-a-multi-provider-mcp-server-44p8)
-- [We scanned 4,162 MCP servers. 73% are invisible to AI agents.](https://dev.to/imhiroki/we-scanned-4162-mcp-servers-73-are-invisible-to-ai-agents-2i8c)
-- [DAG vs Langraph Nodes](https://dev.to/ma_uttaram_f822b3b02ec546/dag-vs-langraph-nodes-3en2)
-- [fixing two bugs stacked on top of each other in ProseMirror](https://dev.to/nalalou/why-bold-bleeds-when-you-join-blocks-in-prosemirror-1ob7)
-- [I Built a Private Voice Chat App Because I Was Done Giving Discord My Conversations](https://dev.to/shynsec/i-built-a-private-voice-chat-app-because-i-was-done-giving-discord-my-conversations-1h8h)
+- [Single Responsibility Principle &lpar;SRP&rpar;: Theory and Implementation in Swift](https://dev.to/cakoko/single-responsibility-principle-srp-theory-and-implementation-in-swift-3f83)
+- [SOLID Principle: Theory and Implementation in Swift](https://dev.to/cakoko/solid-principle-theory-and-implementation-in-swift-4pmi)
+- [Leetcode Reflection 3.23-3.29](https://dev.to/korleones/leetcode-reflection-323-329-3dnm)
+- [Brave Browser Is the King in 2025–2026. There Is No Second Option](https://dev.to/md8_habibullah/brave-browser-is-the-king-in-2025-2026-there-is-no-second-option-dk8)
+- [GPT4All Has a Free API: Run Private LLMs Locally with Python Bindings](https://dev.to/0012303/gpt4all-has-a-free-api-run-private-llms-locally-with-python-bindings-4pdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
