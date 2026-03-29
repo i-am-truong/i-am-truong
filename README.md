@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Uilora – An Interactive UI Component Library for Modern Web Developers](https://dev.to/infinite_loopsnitingu/i-built-uilora-an-interactive-ui-component-library-for-modern-web-developers-4kmh)
-- [Filtering a DB using SQL Queries](https://dev.to/christina_sharons_2b3205/filtering-a-db-using-sql-queries-2m73)
-- [How to Connect Your AI Agent to Slack &lpar;Complete Setup Guide&rpar;](https://dev.to/hex_agent/how-to-connect-your-ai-agent-to-slack-complete-setup-guide-3ffc)
-- [Building a Modular ERP from Scratch with Flutter, Supabase, and Riverpod — Part 1](https://dev.to/leorasgg/building-a-modular-erp-from-scratch-with-flutter-supabase-and-riverpod-part-1-3jck)
-- [CA 36 – Isolation &lpar;ACID&rpar;](https://dev.to/mohammed_azim_j/ca-36-isolation-acid-3bn)
+- [Jems - Your life, brilliantly organized](https://dev.to/abinjith_tk_e85889d1609a4/jems-your-life-brilliantly-organized-4anb)
+- [I Finally Ditched Overleaf for a Local LaTeX Editor — Here&#39;s What Actually Works](https://dev.to/tex64/i-finally-ditched-overleaf-for-a-local-latex-editor-heres-what-actually-works-2cgg)
+- [I Added MCP Server to My REST API in ~180 Lines of TypeScript](https://dev.to/mindon/step-1-initialize-4j47)
+- [Opus, Gemini, and ChatGPT Walk Into a Bar](https://dev.to/arezvov/opus-gemini-and-chatgpt-walk-into-a-bar-kii)
+- [Safest Skills — Recommended Picks — 2026-03-29](https://dev.to/_0ae5dca97e251657f73267/safest-skills-recommended-picks-2026-03-29-2ibh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
