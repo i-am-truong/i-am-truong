@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;MEX&quot; Layer: Inside WhatsApp&#39;s EU DMA Compliance Architecture](https://dev.to/blacklovertech/the-mex-layer-inside-whatsapps-eu-dma-compliance-architecture-437n)
-- [História do Bambolê: Das Origens Antigas ao Fenômeno Global](https://dev.to/historia_das_coisas/historia-do-bambole-das-origens-antigas-ao-fenomeno-global-53db)
-- [Flutter Interview Questions Part 7: Advanced Flutter — RenderObjects, Isolates, Engine &amp; Performance](https://dev.to/anurag_dev/flutter-interview-questions-part-7-advanced-flutter-renderobjects-isolates-engine-performance-3821)
-- [Provide storage for the public website](https://dev.to/faynessa/provide-storage-for-the-public-website-pk)
-- [Claude Code Crash Course](https://dev.to/colocodes/claude-code-crash-course-m3o)
+- [Writing Streak Badge Issue
+
+Hey everyone, I’ve been posting weekly since January but still haven’t received the writing streak badge. Recent posts: Feb 12, 18, 25, Mar 4, 11, 13, 18, 25. Getting other badges though. Am I missing something or is this a bug?](https://dev.to/dev-in-progress/writing-streak-badge-issue-hey-everyone-ive-been-posting-weekly-since-january-but-still-2gi1)
+- [🚀 How I Upgraded My AI Workflow Using MCP &lpar;And Stopped AI Guessing&rpar;](https://dev.to/tirth_godhani/how-i-upgraded-my-ai-workflow-using-mcp-and-stopped-ai-guessing-2bp6)
+- [ISO 27001 Just Got the Same Treatment as SOC2](https://dev.to/first_king_ac04fddae39781/iso-27001-just-got-the-same-treatment-as-soc2-4ago)
+- [AI Agents for Business in 2026: What Actually Works &lpar;and What Is Still Hype&rpar;](https://dev.to/helen_mireille_47b02db70c/ai-agents-for-business-in-2026-what-actually-works-and-what-is-still-hype-4281)
+- [7 Days, $0.02 in AWS Costs, and 3 Lessons I Didn&#39;t Expect — A Post-Launch Retrospective](https://dev.to/aws-builders/7-days-002-in-aws-costs-and-3-lessons-i-didnt-expect-a-post-launch-retrospective-35bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
