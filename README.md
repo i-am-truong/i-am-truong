@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💥 I Was Tired of Boring UIs, So I Built a CSS Framework Straight Out of a 1962 Comic Book](https://dev.to/gorupa/i-was-tired-of-boring-uis-so-i-built-a-css-framework-straight-out-of-a-1962-comic-book-mc1)
-- [🔥 Top 10 AI Tools Every Developer Should Use in 2026](https://dev.to/utilizor/top-10-ai-tools-every-developer-should-use-in-2026-5dli)
-- [Automated Internal Linking with Tag-Based Content Graphs](https://dev.to/2gelbuy/automated-internal-linking-with-tag-based-content-graphs-571n)
-- [&quot;Self-Hosting Stripe Anomaly Detection: Building a Multi-Tenant BillingWatch with FastAPI&quot;](https://dev.to/qcautomation/self-hosting-stripe-anomaly-detection-building-a-multi-tenant-billingwatch-with-fastapi-22ef)
-- [&quot;How I Built an Overnight Strategy Tournament System for Algorithmic Paper Trading&quot;](https://dev.to/qcautomation/how-i-built-an-overnight-strategy-tournament-system-for-algorithmic-paper-trading-34op)
+- [I Built a LinkedIn Profile Scraper on Apify for Public Profiles, Company Enrichment, and Lead Research](https://dev.to/alwaysprimedev/i-built-a-linkedin-profile-scraper-on-apify-for-public-profiles-company-enrichment-and-lead-1la5)
+- [80% of LLM &#39;Thinking&#39; Is a Lie — What CoT Faithfulness Research Actually Shows](https://dev.to/plasmon_imp/80-of-llm-thinking-is-a-lie-what-cot-faithfulness-research-actually-shows-4o2a)
+- [How to Extract Data from Invoices with Python &lpar;3 Lines of Code&rpar;](https://dev.to/ajsofmonger_jay_7404/how-to-extract-data-from-invoices-with-python-3-lines-of-code-oep)
+- [I Scanned Hundreds of AI-Generated Codebases. Here&#39;s What Keeps Showing Up.](https://dev.to/paschal_ugwuanyi_b4472037/-i-scanned-hundreds-of-ai-generated-codebases-heres-what-keeps-showing-up-2ieb)
+- [Learning the importance of consistency in a DB](https://dev.to/christina_sharons_2b3205/learning-the-importance-of-consistency-in-a-db-451c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
