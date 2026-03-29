@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DDR5 Prices Dropped 7.2% — Free Tools to Know If Upgrading Is Worth It](https://dev.to/teamzlab/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it-4ka5)
-- [3 funciones de Claude Code que deberías usar 🤖](https://dev.to/devchtech/3-funciones-de-claude-code-que-deberias-usar-4fpf)
-- [Performance &amp; Recursion](https://dev.to/kenluzu/performance-recursion-7bd)
-- [Integrating Mapbox with Angular &lpar;Part 1: Setup with TypeScript Support&rpar;](https://dev.to/ore_krsti_9633950bf045/integrating-mapbox-with-angular-part-1-setup-with-typescript-support-2hl)
-- [Trace AI: I Pointed a Camera at a Whiteboard. Notion Built the Entire System Design Doc.](https://dev.to/_boweii/trace-ai-i-pointed-a-camera-at-a-whiteboard-notion-built-the-entire-system-design-doc-37m6)
+- [I built a free AI visibility audit tool — then audited ourselves. Here&#39;s what happened.](https://dev.to/zeb_choudhry_eda2ce4ce1d3/i-built-a-free-ai-visibility-audit-tool-then-audited-ourselves-heres-what-happened-55n0)
+- [Your Supabase RLS Is Probably Wrong: A Security Guide for Vibe Coders](https://dev.to/solobillions/your-supabase-rls-is-probably-wrong-a-security-guide-for-vibe-coders-3l4e)
+- [Dear Beginner Dev: No, AI Is Not Taking Your Job. But Ignoring It Might.](https://dev.to/yasirabas/dear-beginner-dev-no-ai-is-not-taking-your-job-but-ignoring-it-might-16k4)
+- [The Hardest Part of Coding Isn&#39;t Coding](https://dev.to/alprimak/the-hardest-part-of-coding-isnt-coding-62b)
+- [There is Beauty in Pursuing An Excitement &lpar;No Matter Where You Are In Life&rpar;](https://dev.to/atomicflorisma/there-is-beauty-in-pursuing-an-excitement-no-matter-where-you-are-in-life-39af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
