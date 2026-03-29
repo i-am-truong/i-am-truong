@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a LinkedIn Profile Scraper on Apify for Public Profiles, Company Enrichment, and Lead Research](https://dev.to/alwaysprimedev/i-built-a-linkedin-profile-scraper-on-apify-for-public-profiles-company-enrichment-and-lead-1la5)
-- [80% of LLM &#39;Thinking&#39; Is a Lie — What CoT Faithfulness Research Actually Shows](https://dev.to/plasmon_imp/80-of-llm-thinking-is-a-lie-what-cot-faithfulness-research-actually-shows-4o2a)
-- [How to Extract Data from Invoices with Python &lpar;3 Lines of Code&rpar;](https://dev.to/ajsofmonger_jay_7404/how-to-extract-data-from-invoices-with-python-3-lines-of-code-oep)
-- [I Scanned Hundreds of AI-Generated Codebases. Here&#39;s What Keeps Showing Up.](https://dev.to/paschal_ugwuanyi_b4472037/-i-scanned-hundreds-of-ai-generated-codebases-heres-what-keeps-showing-up-2ieb)
-- [Learning the importance of consistency in a DB](https://dev.to/christina_sharons_2b3205/learning-the-importance-of-consistency-in-a-db-451c)
+- [Orchestrating Kubernetes AI Inference Workloads with NVIDIA Grove — From DRA GA to KAI Scheduler Integration](https://dev.to/manoit/orchestrating-kubernetes-ai-inference-workloads-with-nvidia-grove-from-dra-ga-to-kai-scheduler-1kla)
+- [Why I&#39;m Building a Database Engine in C#](https://dev.to/nockawa/why-im-building-a-database-engine-in-c-1np0)
+- [6 Ways Your AI Agent Fails Silently &lpar;With Code to Catch Each One&rpar;](https://dev.to/ilflow4592/6-ways-your-ai-agent-fails-silently-with-code-to-catch-each-one-5fi4)
+- [How I Reimplemented LÖVE2D in Rust to Play Balatro in a Terminal](https://dev.to/4rh1t3ct0r/how-i-reimplemented-love2d-in-rust-to-play-balatro-in-a-terminal-2ag2)
+- [Building a Daily Chinese Diary Habit with Notion MCP + Claude](https://dev.to/enoki85/building-a-daily-chinese-diary-habit-with-notion-mcp-claude-l3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
