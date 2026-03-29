@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How we Built a Free, Anonymous Survey &amp; Quiz Tool — No Login, No Tracking](https://dev.to/aman_sharma_a6d0bf28c58c7/how-we-built-a-free-anonymous-survey-quiz-tool-no-login-no-tracking-f9)
 - [Stop Paying Crypto Gateway Fees: Introducing Self-Hosted Solana Payments for Django Framework](https://dev.to/artemooon/stop-paying-crypto-gateway-fees-introducing-self-hosted-solana-payments-for-django-framework-1hm8)
 - [Hack-Me Challenge](https://dev.to/wehale_a2fea/hack-me-challenge-3e3e)
 - [Modernizing the Angular Quality Stack: Moving to Vite+](https://dev.to/nikhilrajnair/modernizing-the-angular-quality-stack-moving-to-vite-2d23)
 - [CA 29 - Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/santhosh_v/ca-29-setup-a-dns-hosted-zone-in-route53-in-aws-ki9)
-- [From Web Developer to Robotics Programmer: My Journey with Matrix 🤖](https://dev.to/tahabicho/from-web-developer-to-robotics-programmer-my-journey-with-matrix-18lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
