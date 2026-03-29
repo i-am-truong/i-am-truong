@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.6 vs. GPT 5.4](https://dev.to/ipazooki/claude-opus-46-vs-gpt-54-4bcc)
-- [CA 04 - Two Sum &amp; Sorted Two Sum](https://dev.to/suruthika_635f93a26b450ac/ca-04-two-sum-sorted-two-sum-22hk)
-- [bQuery.js 🥂 The jQuery for the Modern Web Platform](https://dev.to/josunlp/bqueryjs-the-jquery-for-the-modern-web-platform-10o7)
-- [Stop Fighting Zustand Context: Practical Store Scoping Patterns for React](https://dev.to/alexey79/stop-fighting-zustand-context-practical-store-scoping-patterns-for-react-3c71)
-- [Run Any HuggingFace Model on TPUs: A Beginner&#39;s Guide to TorchAX](https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0)
+- [Zod vs Typia vs AJV — I Built a Build Plugin That Makes Zod 60x Faster With Zero Code Changes](https://dev.to/wakita181009/zod-vs-typia-vs-ajv-i-built-a-vite-plugin-that-makes-zod-60x-faster-with-zero-code-changes-1poc)
+- [SQL Assertions, ANSI join, and ORA-08697](https://dev.to/franckpachot/sql-assertions-ansi-join-and-ora-08697-3bl9)
+- [Engineering Is a Team Sport. Your Incentives Aren&#39;t.](https://dev.to/jonoherrington/engineering-is-a-team-sport-your-incentives-arent-3795)
+- [Durability](https://dev.to/anjana_rk_fbdea7abbdf13/durability-1kfl)
+- [Stop Wasting Tokens: How MCP Servers Fix Context Window Problems](https://dev.to/aiqahacks/stop-wasting-tokens-how-mcp-servers-fix-context-window-problems-c61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
