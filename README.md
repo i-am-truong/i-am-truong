@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-27kp)
-- [Grafana k6 Has a Free API That Load Tests Your APIs With JavaScript](https://dev.to/0012303/grafana-k6-has-a-free-api-that-load-tests-your-apis-with-javascript-mh5)
-- [GitHub Copilot Workspace Has a Free AI That Plans and Implements Code Changes Across Files](https://dev.to/0012303/github-copilot-workspace-has-a-free-ai-that-plans-and-implements-code-changes-across-files-3k6a)
-- [Reflective — AI journaling companion built with Notion MCP and Claude](https://dev.to/neicore/reflective-ai-journaling-companion-built-with-notion-mcp-and-claude-4l70)
-- [Gas-Aware Trading: Execute Only When Gas Is Cheap](https://dev.to/walletguy/gas-aware-trading-execute-only-when-gas-is-cheap-cm9)
+- [How Linux Is Used in Real-World Data Engineering](https://dev.to/hoseamutwiri/how-linux-is-used-in-real-world-data-engineering-2f3m)
+- [From Prompt to Production: Building my Travel Website with Vercel v0](https://dev.to/hkasera/from-prompt-to-production-building-my-travel-website-with-vercel-v0-3dd8)
+- [CVE-2026-34247: CVE-2026-34247: Insecure Direct Object Reference and Information Disclosure in WWBN AVideo](https://dev.to/cverports/cve-2026-34247-cve-2026-34247-insecure-direct-object-reference-and-information-disclosure-in-wwbn-2lb8)
+- [GitHub Required Checks Are Static. Your Pull Requests Aren&#39;t](https://dev.to/mvtavares/github-required-checks-are-static-your-pull-requests-arent-8om)
+- [Replacing SCCM with FOG Project](https://dev.to/solomonneas/replacing-sccm-with-fog-project-daf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
