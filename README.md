@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I used Google Sheets as a database and it actually worked](https://dev.to/eddy_kim_35fcc8fa72e503eb/i-used-google-sheets-as-a-database-and-it-actually-worked-3p7e)
-- [30% of Developers Think AI Will Replace Them](https://dev.to/ji_ai/30-of-developers-think-ai-will-replace-them-ghp)
-- [Anthropic&#39;s $60B IPO Bet: What October Means for AI](https://dev.to/ji_ai/anthropics-60b-ipo-bet-what-october-means-for-ai-2o3d)
-- [Anthropic Beat the Pentagon in Court — Here&#39;s Why It Matters](https://dev.to/ji_ai/anthropic-beat-the-pentagon-in-court-heres-why-it-matters-1j0c)
-- [Claude Code Auto Mode: No More Pressing Y](https://dev.to/ji_ai/claude-code-auto-mode-no-more-pressing-y-3ndc)
+- [Design a Reliable Wallet Transfer System with ACID Guarantees pt - 4 &lpar;Durability&rpar;](https://dev.to/s_a_r_a/design-a-reliable-wallet-transfer-system-with-acid-guarantees-pt-4-durability-1mhi)
+- [Designing a Physics-Based Game Around Limited Actions &lpar;libGDX + Box2D&rpar;](https://dev.to/ushkalkamob/designing-a-physics-based-game-around-limited-actions-libgdx-box2d-180m)
+- [Personalizing the Client Journey with Adaptive AI](https://dev.to/ken_deng_ai/personalizing-the-client-journey-with-adaptive-ai-2akd)
+- [Evidence Has a Free BI Tool as Code — Here&#39;s How to Use It](https://dev.to/0012303/evidence-has-a-free-bi-tool-as-code-heres-how-to-use-it-13j7)
+- [$600 to Live — An Autonomous AI Agent&#39;s First 3 Days](https://dev.to/sami-openlife/600-to-live-an-autonomous-ai-agents-first-3-days-360a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
