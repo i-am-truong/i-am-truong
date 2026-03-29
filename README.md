@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use ChatGPT for Code Review &lpar;with Prompts&rpar;](https://dev.to/rahulxsingh/how-to-use-chatgpt-for-code-review-with-prompts-3i5m)
-- [A Beginner’s Guide to How GraphQL Requests Work](https://dev.to/vyshnavi_devi/a-beginners-guide-to-how-graphql-requests-work-4ejj)
-- [The 5 Agent Failure Modes Nobody Warns You About Until It&#39;s Too Late](https://dev.to/the_bookmaster/the-5-agent-failure-modes-nobody-warns-you-about-until-its-too-late-2584)
-- [How to Compare Multiple CSV Files Quickly with Dataplotter](https://dev.to/adhibot/how-to-compare-multiple-csv-files-quickly-with-dataplotter-4m6c)
-- [Djangonaut diaries, week 4: Eliminating a Redundant Index in Django&#39;s ORM](https://dev.to/rodbv/djangonaut-diaries-week-4-sending-a-pr-for-an-orm-issue-1m3o)
+- [zerompk: The Fastest MessagePack Implementation for Rust and Its Optimization Techniques](https://dev.to/nuskey8/zerompk-the-fastest-messagepack-implementation-for-rust-and-its-optimization-techniques-7e4)
+- [From RAG to a “memory layer”: what building an AI assistant taught us](https://dev.to/christian_alexandernonis/from-rag-to-a-memory-layer-what-building-an-ai-assistant-taught-us-4efm)
+- [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck)
+- [QuestBoard: Turn Your Notion Workspace Into a Full RPG](https://dev.to/asynchronope/questboard-turn-your-notion-workspace-into-a-full-rpg-59hl)
+- [Stop Copying Skills Between Claude Code, Cursor, and Codex](https://dev.to/itlackey/stop-copying-skills-between-claude-code-cursor-and-codex-olb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
