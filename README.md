@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comp the language](https://dev.to/shredwheat/comp-the-language-1ifd)
-- [Building a 14-County Real Estate Data Pipeline with CrawlOS, Supabase, and pg_cron](https://dev.to/domoniqueluchin/building-a-14-county-real-estate-data-pipeline-with-crawlos-supabase-and-pgcron-56o0)
-- [Agentic Shell - cli agent adaption layer](https://dev.to/scott_raisbeck_24ea5fbc1e/agentic-shell-cli-agent-adaption-layer-l7m)
-- [Visual Regression Testing for Marketing Sites Without Browser Engineering](https://dev.to/snapshotsite/visual-regression-testing-for-marketing-sites-without-browser-engineering-45lg)
-- [Scaling Laravel Backends for High-Volume Systems: Lessons from Serving 100,000+ Users in Production](https://dev.to/olamilekan_lamidi_756e36d/scaling-laravel-backends-for-high-volume-systems-lessons-from-serving-100000-users-in-production-36b7)
+- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-27kp)
+- [Grafana k6 Has a Free API That Load Tests Your APIs With JavaScript](https://dev.to/0012303/grafana-k6-has-a-free-api-that-load-tests-your-apis-with-javascript-mh5)
+- [GitHub Copilot Workspace Has a Free AI That Plans and Implements Code Changes Across Files](https://dev.to/0012303/github-copilot-workspace-has-a-free-ai-that-plans-and-implements-code-changes-across-files-3k6a)
+- [Reflective — AI journaling companion built with Notion MCP and Claude](https://dev.to/neicore/reflective-ai-journaling-companion-built-with-notion-mcp-and-claude-4l70)
+- [Gas-Aware Trading: Execute Only When Gas Is Cheap](https://dev.to/walletguy/gas-aware-trading-execute-only-when-gas-is-cheap-cm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
