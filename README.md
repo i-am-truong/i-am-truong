@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Tenant SaaS Architecture: What Nobody Tells You Before You Build](https://dev.to/actinode/multi-tenant-saas-architecture-what-nobody-tells-you-before-you-build-a4h)
-- [5 MVP Development Mistakes That Kill Startups Before Launch](https://dev.to/actinode/5-mvp-development-mistakes-that-kill-startups-before-launch-4c9f)
-- [I built a flashcard app after burning out on Anki — here&#39;s what I learned](https://dev.to/minddory/i-built-a-flashcard-app-after-burning-out-on-anki-heres-what-i-learned-47ml)
-- [I Tried the Notion MCP Challenge — Can I Control My AI Agent?” ⭐](https://dev.to/amit_saxena/i-tried-the-notion-mcp-challenge-can-i-control-my-ai-agent-2i9p)
-- [Developers Think AI Makes Them 24% Faster. It Actually Makes Them 19% Slower.](https://dev.to/ziva/developers-think-ai-makes-them-24-faster-it-actually-makes-them-19-slower-27h)
+- [Building an AI Assistant That Doesn’t Take Action Automatically](https://dev.to/marzun9620/building-an-ai-assistant-that-doesnt-take-action-automatically-32md)
+- [Why Most AI Cold Emails Go to Spam &lpar;And How to Fix It&rpar;](https://dev.to/the1stlink/why-most-ai-cold-emails-go-to-spam-and-how-to-fix-it-5dbn)
+- [Automating Cross-Posting with Attributed Unsplash Cover Images](https://dev.to/krizekster/automating-cross-posting-with-attributed-unsplash-cover-images-21m2)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/derickmenje/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-22ia)
+- [How to Beat Google Play&#39;s Developer Account Rejection Using ADR](https://dev.to/software_mvp-factory/google-rejected-my-developer-account-so-i-filed-a-legal-complaint-and-won-they-paid-250-eur-5agk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
