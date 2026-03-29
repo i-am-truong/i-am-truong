@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EC2 LAUNCHING](https://dev.to/ashiq_omar/ec2-launching-525j)
-- [32 - Filter Assignments](https://dev.to/sharmi_sabari_09/32-filter-assignments-3po2)
-- [I built an open-source tool that stops personal data from leaking into AI chatbots](https://dev.to/jeffrin-dev/i-built-an-open-source-tool-that-stops-personal-data-from-leaking-into-ai-chatbots-1fno)
-- [PocketBase Has a Free API You Should Know About](https://dev.to/0012303/pocketbase-has-a-free-api-you-should-know-about-33e6)
-- [Cookie Guard: The GDPR/CCPA Consent Manager &lpar;No Dependencies, 12.8 kB, 22 Languages&rpar;](https://dev.to/joseba-mirena/cookie-guard-the-gdprccpa-consent-manager-i-built-from-scratch-no-dependencies-128-kb-22-2ndp)
+- [The &quot;MEX&quot; Layer: Inside WhatsApp&#39;s EU DMA Compliance Architecture](https://dev.to/blacklovertech/the-mex-layer-inside-whatsapps-eu-dma-compliance-architecture-437n)
+- [História do Bambolê: Das Origens Antigas ao Fenômeno Global](https://dev.to/historia_das_coisas/historia-do-bambole-das-origens-antigas-ao-fenomeno-global-53db)
+- [Flutter Interview Questions Part 7: Advanced Flutter — RenderObjects, Isolates, Engine &amp; Performance](https://dev.to/anurag_dev/flutter-interview-questions-part-7-advanced-flutter-renderobjects-isolates-engine-performance-3821)
+- [Provide storage for the public website](https://dev.to/faynessa/provide-storage-for-the-public-website-pk)
+- [Claude Code Crash Course](https://dev.to/colocodes/claude-code-crash-course-m3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
