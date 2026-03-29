@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [zerompk: The Fastest MessagePack Implementation for Rust and Its Optimization Techniques](https://dev.to/nuskey8/zerompk-the-fastest-messagepack-implementation-for-rust-and-its-optimization-techniques-7e4)
-- [From RAG to a “memory layer”: what building an AI assistant taught us](https://dev.to/christian_alexandernonis/from-rag-to-a-memory-layer-what-building-an-ai-assistant-taught-us-4efm)
-- [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck)
-- [QuestBoard: Turn Your Notion Workspace Into a Full RPG](https://dev.to/asynchronope/questboard-turn-your-notion-workspace-into-a-full-rpg-59hl)
-- [Stop Copying Skills Between Claude Code, Cursor, and Codex](https://dev.to/itlackey/stop-copying-skills-between-claude-code-cursor-and-codex-olb)
+- [Claude Opus 4.6 vs. GPT 5.4](https://dev.to/ipazooki/claude-opus-46-vs-gpt-54-4bcc)
+- [CA 04 - Two Sum &amp; Sorted Two Sum](https://dev.to/suruthika_635f93a26b450ac/ca-04-two-sum-sorted-two-sum-22hk)
+- [bQuery.js 🥂 The jQuery for the Modern Web Platform](https://dev.to/josunlp/bqueryjs-the-jquery-for-the-modern-web-platform-10o7)
+- [Stop Fighting Zustand Context: Practical Store Scoping Patterns for React](https://dev.to/alexey79/stop-fighting-zustand-context-practical-store-scoping-patterns-for-react-3c71)
+- [Run Any HuggingFace Model on TPUs: A Beginner&#39;s Guide to TorchAX](https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
