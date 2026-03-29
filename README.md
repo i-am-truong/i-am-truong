@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using RSS to Understand Memory Pressure in CI Builds](https://dev.to/cdsap/using-rss-to-understand-memory-pressure-in-ci-builds-1358)
-- [If cache is faster than database, why not store everything in cache?](https://dev.to/harishankarr7/if-cache-is-faster-than-database-why-not-store-everything-in-cache-lap)
-- [How to compare translation APIs without rewriting your workflow](https://dev.to/ncoldwave/how-to-compare-translation-apis-without-rewriting-your-workflow-134j)
-- [Why Most Developers Reach for a Vector Database Too Soon.](https://dev.to/oozioma/why-most-developers-reach-for-a-vector-database-too-soon-5bpg)
-- [Why Subscription DevOps Could Save Your Startup $250K/Year &lpar;The Math&rpar;](https://dev.to/instadevops/why-subscription-devops-could-save-your-startup-250kyear-the-math-40k8)
+- [What Nobody Tells You About Building a Multi-Provider MCP Server](https://dev.to/supertrained/what-nobody-tells-you-about-building-a-multi-provider-mcp-server-44p8)
+- [We scanned 4,162 MCP servers. 73% are invisible to AI agents.](https://dev.to/imhiroki/we-scanned-4162-mcp-servers-73-are-invisible-to-ai-agents-2i8c)
+- [DAG vs Langraph Nodes](https://dev.to/ma_uttaram_f822b3b02ec546/dag-vs-langraph-nodes-3en2)
+- [fixing two bugs stacked on top of each other in ProseMirror](https://dev.to/nalalou/why-bold-bleeds-when-you-join-blocks-in-prosemirror-1ob7)
+- [I Built a Private Voice Chat App Because I Was Done Giving Discord My Conversations](https://dev.to/shynsec/i-built-a-private-voice-chat-app-because-i-was-done-giving-discord-my-conversations-1h8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
