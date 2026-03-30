@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CodeRabbit Azure DevOps: Setting Up AI Code Review](https://dev.to/rahulxsingh/coderabbit-azure-devops-setting-up-ai-code-review-524h)
-- [DataFuse.Net - Data integration framework.](https://dev.to/cshayk/datafusenet-data-aggregator-framework-olh)
-- [Week 1 of Adding a Free Trial to My MCP Server — What Happened](https://dev.to/profiterole/week-1-of-adding-a-free-trial-to-my-mcp-server-what-happened-5186)
-- [How to Build Multi-Agent AI Systems with Node.js &lpar;2026 Guide&rpar;](https://dev.to/abdullah_faheem_65d133445/how-to-build-multi-agent-ai-systems-with-nodejs-2026-guide-2ebh)
-- [Designing a Scalable Multi-Tenant Architecture with NestJS: Lessons from Building Real-World Systems](https://dev.to/sircatalyst/designing-a-scalable-multi-tenant-architecture-with-nestjs-lessons-from-building-real-world-systems-4j9)
+- [API said &#39;success&#39;. Data was empty.](https://dev.to/nicodev__/api-said-success-data-was-empty-2moe)
+- [I used AI to help build my resume and beat 2,000 applicants — here&#39;s how](https://dev.to/turquoise-tailoring/i-used-ai-to-help-build-my-resume-and-beat-2000-applicants-heres-how-46gp)
+- [My mock server lied to me. So I built a stateful API sandbox.](https://dev.to/fetchsandbox/my-mock-server-lied-to-me-so-i-built-a-stateful-api-sandbox-549n)
+- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
+- [The Seven Deadly Sins of MCP: Road to Redemption](https://dev.to/riferrei/the-seven-deadly-sins-of-mcproad-to-redemption-5dh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
