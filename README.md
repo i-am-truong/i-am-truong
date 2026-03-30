@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Open-Source LLM Security Library in Python &lpar;and What I Learned About Prompt Injection&rpar;](https://dev.to/7f7867893e654b/how-i-built-an-open-source-llm-security-library-in-python-and-what-i-learned-about-prompt-49hb)
-- [AI Is Flattening Skill Levels: Here’s Why That’s Dangerous](https://dev.to/jaideepparashar/ai-is-flattening-skill-levels-heres-why-thats-dangerous-hn6)
-- [The AI Exploit Agent: How Autonomous AI Discovers DeFi Vulnerabilities at $0.50/Attempt — And 6 Defense Patterns](https://dev.to/ohmygod/the-ai-exploit-agent-how-autonomous-ai-discovers-defi-vulnerabilities-at-050attempt-and-6-30m4)
-- [🗓️ Simp1OS Dev Logs – How I Accidentally Created 8-Bit Glitch Art While Trying to Build Kernel](https://dev.to/arush179/simp1os-dev-logs-how-i-accidentally-created-8-bit-glitch-art-while-trying-to-build-kernel-3pe0)
-- [AI-Powered Test Case Review with MagicPod MCP Server and Claude](https://dev.to/aws-builders/ai-powered-test-case-review-with-magicpod-mcp-server-and-claude-4123)
+- [Codacy for Python: Code Quality and Static Analysis](https://dev.to/rahulxsingh/codacy-for-python-code-quality-and-static-analysis-5d6f)
+- [Your AI Agent Just Went Rogue. Do You Know What It&#39;s Doing Right Now?](https://dev.to/smkulkarni/your-ai-agent-just-went-rogue-do-you-know-what-its-doing-right-now-2g1n)
+- [The messy reality of agency WordPress builds &lpar;and why white-labeling works&rpar;](https://dev.to/fachremyputra/the-messy-reality-of-agency-wordpress-builds-and-why-white-labeling-works-38cp)
+- [When a Salesforce Admin Becomes the Entire IT Department](https://dev.to/getclientell/when-a-salesforce-admin-becomes-the-entire-it-department-609)
+- [MOMENTUM - AIccountability, Vision Board Tracker using Notion MCP](https://dev.to/schezfaz/momentum-aiccountability-using-notion-mcp-for-vision-board-progress-2b9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
