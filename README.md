@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is aSports the next big thing? AI Agents are facing off in competitive arenas across the internet.](https://dev.to/kamecat/is-asports-the-next-big-thing-ai-agents-are-facing-off-in-competitive-arenas-across-the-internet-380a)
-- [CLAUDE.md for Teams: Context as Infrastructure](https://dev.to/dr_hernani_costa/claudemd-for-teams-context-as-infrastructure-3hme)
-- [I Gave My AI Agent Memory of Its Past Failures. It Didn&#39;t Just Avoid Mistakes -- It Used Them as Content.](https://dev.to/agentkit/i-gave-my-ai-agent-memory-of-its-past-failures-it-didnt-just-avoid-mistakes-it-used-them-as-51f0)
-- [Here’s how I would learn AI Agents as a total beginner](https://dev.to/shittu_olumide_/heres-how-i-would-learn-ai-agents-as-a-total-beginner-16k1)
-- [When vector search isn&#39;t enough: hybrid graph+vector queries in VelesQL](https://dev.to/wiscale-fr/when-vector-search-isnt-enough-hybrid-graphvector-queries-in-velesql-48g9)
+- [I Rebuilt Our Company Website With Astro and Claude Code - Here&#39;s What Actually Worked](https://dev.to/aimiten/i-rebuilt-our-company-website-with-astro-and-claude-code-heres-what-actually-worked-4c3o)
+- [How to Repair Broken Wayfair Scrapers Instantly Using AI-Generated Selectors](https://dev.to/withatte/how-to-repair-broken-wayfair-scrapers-instantly-using-ai-generated-selectors-3o73)
+- [Building Founder OS: An AI-Powered Operational Pipeline for Startups](https://dev.to/ndourc/building-founder-os-an-ai-powered-operational-pipeline-for-startups-2l24)
+- [🚀 I Built a Netflix-Style AWS Learning App &lpar;V2&rpar; — Because Memorizing Isn’t Enough](https://dev.to/davidkljajo/-i-built-a-netflix-style-aws-learning-app-v2-because-memorizing-isnt-enough-2lnk)
+- [Swingbench in a Container: The Podman Way](https://dev.to/project42/swingbench-in-a-container-the-podman-way-4fe3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
