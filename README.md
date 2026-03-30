@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Crypto Hero &lpar;Week 4&rpar; - Week of Break from Coding and Big Regret](https://dev.to/luftietheanonymous/from-zero-to-crypto-hero-week-4-week-of-break-from-coding-and-big-regret-3ejn)
-- [ABAP Unit Testing in SAP S/4HANA: A Senior Architect&#39;s Guide to Writing Tests That Actually Matter](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-unit-testing-in-sap-s4hana-a-senior-architects-guide-to-writing-tests-that-actually-matter-2816)
-- [Cosine Similarity vs Dot Product in Attention Mechanisms](https://dev.to/rijultp/cosine-similarity-vs-dot-product-in-attention-mechanisms-1m9h)
-- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
-- [How to Set Up an Affiliate Program with Creem &lpar;Step-by-Step Guide for SaaS Founders&rpar;](https://dev.to/ashui/how-to-set-up-an-affiliate-program-with-creem-step-by-step-guide-for-saas-founders-4io2)
+- [The Singularity Is Nearer: What Ray Kurzweil&#39;s Six Epochs Gets Right About Our Future](https://dev.to/brunohsouza/the-singularity-is-nearer-what-ray-kurzweils-six-epochs-gets-right-about-our-future-1pph)
+- [Artemis: How NASA&#39;s Return to the Moon Is Redefining Space Exploration in 2026](https://dev.to/walid_azrour_0813f6b60398/artemis-how-nasas-return-to-the-moon-is-redefining-space-exploration-in-2026-3ffc)
+- [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d)
+- [Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀](https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb)
+- [Data-Driven Architecture](https://dev.to/adrian2monk/data-driven-architecture-5gph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
