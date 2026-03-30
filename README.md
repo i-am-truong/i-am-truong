@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I got rate-limited scraping 100 pages. Here&#39;s what actually worked](https://dev.to/nicodev__/i-got-rate-limited-scraping-100-pages-heres-what-actually-worked-4p70)
-- [🎨 Dynamic Texture Loading in NervForge: Async Promises in C++/WASM](https://dev.to/the_lone_engineer/dynamic-texture-loading-in-nervforge-async-promises-in-cwasm-4c15)
-- [QA in chaos. How Do You Test Anyway?](https://dev.to/bukinator/qa-in-chaos-how-do-you-test-anyway-2dpm)
-- [A simple api gateway from scratch written in golang](https://dev.to/realebi/a-simple-api-gateway-from-scratch-written-in-golang-2f2p)
-- [Advanced Terraform Module Usage: Versioning, Gotchas, and Reuse Across Environments](https://dev.to/mary_mutua_9d55b3c269f343/advanced-terraform-module-usage-versioning-gotchas-and-reuse-across-environments-4c18)
+- [Codacy vs SonarCloud: Cloud Code Quality Compared](https://dev.to/rahulxsingh/codacy-vs-sonarcloud-cloud-code-quality-compared-4pm5)
+- [Google AI Studio and Claude Code in 2026: Guide](https://dev.to/danielflugger/google-ai-studio-and-claude-code-in-2026-guide-22f)
+- [Open Source Incident Management: Why It Matters](https://dev.to/siddharth_singh_409bd5267/open-source-incident-management-why-it-matters-cei)
+- [Self-Hosting a Crypto Wallet: Docker Setup Guide](https://dev.to/walletguy/self-hosting-a-crypto-wallet-docker-setup-guide-1a4i)
+- [I open-sourced salt-theme-gen](https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
