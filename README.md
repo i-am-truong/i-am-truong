@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SitecoreAI Deployments: The Shift from Legacy to Decoupled Architecture](https://dev.to/roshan_ravaliya_c84c08f79/sitecoreai-deployments-the-shift-from-legacy-to-decoupled-architecture-f66)
-- [EU AI Act Starts Aug 2026 - A Practical Checklist for AI Agent Developers](https://dev.to/ilflow4592/eu-ai-act-starts-aug-2026-a-practical-checklist-for-ai-agent-developers-kj8)
-- [The Balsam of Fierabras and the Promise of AI](https://dev.to/druid628/the-balsam-of-fierabras-and-the-promise-of-ai-22o5)
-- [Milliseconds Cost Millions: How to Architect High-Conversion Product Grids in SwiftUI](https://dev.to/marypiakovski/milliseconds-cost-millions-how-to-architect-high-conversion-product-grids-in-swiftui-31a9)
-- [AWS Incident Response: SecurityAudit Access](https://dev.to/anwaar/aws-incident-response-securityaudit-access-dcb)
+- [I Designed a Memory System for Claude Code — &#39;Forgetting&#39; Was the Hardest Part](https://dev.to/plasmon_imp/i-designed-a-memory-system-for-claude-code-forgetting-was-the-hardest-part-59be)
+- [Characterization of a plane in the space](https://dev.to/ccarcaci/characterization-of-a-plane-in-the-space-30jb)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-4pda)
+- [My 3 AI Agents Have Been Running My Business Solo For a Month](https://dev.to/mrlinuncut/my-3-ai-agents-have-been-running-my-business-solo-for-a-month-4a82)
+- [SOC 2 Cost Us $47K. Here](https://dev.to/robertatkinson3570/soc-2-cost-us-47k-here-59bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
