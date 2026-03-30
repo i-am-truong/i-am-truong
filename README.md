@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents That Actually Work &lpar;Not Just Demos&rpar;](https://dev.to/bitpixelcoders/building-ai-agents-that-actually-work-not-just-demos-265i)
-- [Interesting reading for who are approaching use AI for developing at scale](https://dev.to/bsorrentino/interesting-reading-for-who-are-approaching-use-ai-for-developing-at-scale-2okf)
-- [GPT-5.3-Codex vs. Claude Code: a comparison](https://dev.to/abtosoftware/gpt-53-codex-vs-claude-code-a-comparison-14i4)
-- [Open-Source MobileVC: Control Your AI Dev Workflow Fully on Phone &lpar;No CLI/SSH, Transparent vs Black-Box Agents&rpar;](https://dev.to/jaycrl/open-source-mobilevc-control-your-ai-dev-workflow-fully-on-phone-no-clissh-transparent-vs-39jc)
-- [The Hidden Cost of SaaS Free Trial Abuse &lpar;And How to Detect It&rpar;](https://dev.to/shuicici/the-hidden-cost-of-saas-free-trial-abuse-and-how-to-detect-it-598p)
+- [Understanding Data Modelling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/anthony_kibet_4f0cc67d37f/understanding-data-modelling-in-power-bi-joins-relationships-and-schemas-explained-5528)
+- [Robotic Brain for Elder Care 3](https://dev.to/susanayi/robotic-brain-for-elder-care-3-5g2p)
+- [I Had 400+ Bookmarks and Zero Organization. Here&#39;s What Fixed It.](https://dev.to/stackfolo/i-had-400-bookmarks-and-zero-organization-heres-what-fixed-it-4h5h)
+- [rails-local-ci: Essential Local CI for Older Rails Apps](https://dev.to/its-magdy/essential-rails-local-ci-for-older-apps-rails-local-ci-bb-signoff-4m5l)
+- [How to Get TikTok Live Events in Python — Gifts, Chat, Follows](https://dev.to/0xwolfsync/how-to-get-tiktok-live-events-in-python-gifts-chat-follows-53df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
