@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Rebuilt Our Company Website With Astro and Claude Code - Here&#39;s What Actually Worked](https://dev.to/aimiten/i-rebuilt-our-company-website-with-astro-and-claude-code-heres-what-actually-worked-4c3o)
-- [How to Repair Broken Wayfair Scrapers Instantly Using AI-Generated Selectors](https://dev.to/withatte/how-to-repair-broken-wayfair-scrapers-instantly-using-ai-generated-selectors-3o73)
-- [Building Founder OS: An AI-Powered Operational Pipeline for Startups](https://dev.to/ndourc/building-founder-os-an-ai-powered-operational-pipeline-for-startups-2l24)
-- [🚀 I Built a Netflix-Style AWS Learning App &lpar;V2&rpar; — Because Memorizing Isn’t Enough](https://dev.to/davidkljajo/-i-built-a-netflix-style-aws-learning-app-v2-because-memorizing-isnt-enough-2lnk)
-- [Swingbench in a Container: The Podman Way](https://dev.to/project42/swingbench-in-a-container-the-podman-way-4fe3)
+- [SitecoreAI Deployments: The Shift from Legacy to Decoupled Architecture](https://dev.to/roshan_ravaliya_c84c08f79/sitecoreai-deployments-the-shift-from-legacy-to-decoupled-architecture-f66)
+- [EU AI Act Starts Aug 2026 - A Practical Checklist for AI Agent Developers](https://dev.to/ilflow4592/eu-ai-act-starts-aug-2026-a-practical-checklist-for-ai-agent-developers-kj8)
+- [The Balsam of Fierabras and the Promise of AI](https://dev.to/druid628/the-balsam-of-fierabras-and-the-promise-of-ai-22o5)
+- [Milliseconds Cost Millions: How to Architect High-Conversion Product Grids in SwiftUI](https://dev.to/marypiakovski/milliseconds-cost-millions-how-to-architect-high-conversion-product-grids-in-swiftui-31a9)
+- [AWS Incident Response: SecurityAudit Access](https://dev.to/anwaar/aws-incident-response-securityaudit-access-dcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
