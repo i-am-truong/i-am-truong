@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Designed a Memory System for Claude Code — &#39;Forgetting&#39; Was the Hardest Part](https://dev.to/plasmon_imp/i-designed-a-memory-system-for-claude-code-forgetting-was-the-hardest-part-59be)
-- [Characterization of a plane in the space](https://dev.to/ccarcaci/characterization-of-a-plane-in-the-space-30jb)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-4pda)
-- [My 3 AI Agents Have Been Running My Business Solo For a Month](https://dev.to/mrlinuncut/my-3-ai-agents-have-been-running-my-business-solo-for-a-month-4a82)
-- [SOC 2 Cost Us $47K. Here](https://dev.to/robertatkinson3570/soc-2-cost-us-47k-here-59bf)
+- [When Good Intentions Become a Problem: Overengineering](https://dev.to/mortylen/when-good-intentions-become-a-problem-overengineering-1hm6)
+- [I Automated the Late Payment Follow-Up &lpar;Here&#39;s the Script&rpar;](https://dev.to/mindon/i-automated-the-late-payment-follow-up-heres-the-script-5518)
+- [Why ReactFlow Edges Disappear in Next.js &lpar;Two Subtle CSS and Context Bugs&rpar;](https://dev.to/nareshipme/why-reactflow-edges-disappear-in-nextjs-two-subtle-css-and-context-bugs-jno)
+- [How to Test Rate-Limited and Throttled APIs Without Breaking Workflows](https://dev.to/kushoai/how-to-test-rate-limited-and-throttled-apis-without-breaking-workflows-8oa)
+- [Building a Gantt Chart Component with Zero Dependencies](https://dev.to/rgab/building-a-gantt-chart-component-with-zero-dependencies-2d65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
