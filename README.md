@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Singularity Is Nearer: What Ray Kurzweil&#39;s Six Epochs Gets Right About Our Future](https://dev.to/brunohsouza/the-singularity-is-nearer-what-ray-kurzweils-six-epochs-gets-right-about-our-future-1pph)
-- [Artemis: How NASA&#39;s Return to the Moon Is Redefining Space Exploration in 2026](https://dev.to/walid_azrour_0813f6b60398/artemis-how-nasas-return-to-the-moon-is-redefining-space-exploration-in-2026-3ffc)
-- [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d)
-- [Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀](https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb)
-- [Data-Driven Architecture](https://dev.to/adrian2monk/data-driven-architecture-5gph)
+- [CodeRabbit Azure DevOps: Setting Up AI Code Review](https://dev.to/rahulxsingh/coderabbit-azure-devops-setting-up-ai-code-review-524h)
+- [DataFuse.Net - Data integration framework.](https://dev.to/cshayk/datafusenet-data-aggregator-framework-olh)
+- [Week 1 of Adding a Free Trial to My MCP Server — What Happened](https://dev.to/profiterole/week-1-of-adding-a-free-trial-to-my-mcp-server-what-happened-5186)
+- [How to Build Multi-Agent AI Systems with Node.js &lpar;2026 Guide&rpar;](https://dev.to/abdullah_faheem_65d133445/how-to-build-multi-agent-ai-systems-with-nodejs-2026-guide-2ebh)
+- [Designing a Scalable Multi-Tenant Architecture with NestJS: Lessons from Building Real-World Systems](https://dev.to/sircatalyst/designing-a-scalable-multi-tenant-architecture-with-nestjs-lessons-from-building-real-world-systems-4j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
