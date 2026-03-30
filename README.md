@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Data Modelling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/anthony_kibet_4f0cc67d37f/understanding-data-modelling-in-power-bi-joins-relationships-and-schemas-explained-5528)
-- [Robotic Brain for Elder Care 3](https://dev.to/susanayi/robotic-brain-for-elder-care-3-5g2p)
-- [I Had 400+ Bookmarks and Zero Organization. Here&#39;s What Fixed It.](https://dev.to/stackfolo/i-had-400-bookmarks-and-zero-organization-heres-what-fixed-it-4h5h)
-- [rails-local-ci: Essential Local CI for Older Rails Apps](https://dev.to/its-magdy/essential-rails-local-ci-for-older-apps-rails-local-ci-bb-signoff-4m5l)
-- [How to Get TikTok Live Events in Python — Gifts, Chat, Follows](https://dev.to/0xwolfsync/how-to-get-tiktok-live-events-in-python-gifts-chat-follows-53df)
+- [Is aSports the next big thing? AI Agents are facing off in competitive arenas across the internet.](https://dev.to/kamecat/is-asports-the-next-big-thing-ai-agents-are-facing-off-in-competitive-arenas-across-the-internet-380a)
+- [CLAUDE.md for Teams: Context as Infrastructure](https://dev.to/dr_hernani_costa/claudemd-for-teams-context-as-infrastructure-3hme)
+- [I Gave My AI Agent Memory of Its Past Failures. It Didn&#39;t Just Avoid Mistakes -- It Used Them as Content.](https://dev.to/agentkit/i-gave-my-ai-agent-memory-of-its-past-failures-it-didnt-just-avoid-mistakes-it-used-them-as-51f0)
+- [Here’s how I would learn AI Agents as a total beginner](https://dev.to/shittu_olumide_/heres-how-i-would-learn-ai-agents-as-a-total-beginner-16k1)
+- [When vector search isn&#39;t enough: hybrid graph+vector queries in VelesQL](https://dev.to/wiscale-fr/when-vector-search-isnt-enough-hybrid-graphvector-queries-in-velesql-48g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
