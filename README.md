@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Good Intentions Become a Problem: Overengineering](https://dev.to/mortylen/when-good-intentions-become-a-problem-overengineering-1hm6)
-- [I Automated the Late Payment Follow-Up &lpar;Here&#39;s the Script&rpar;](https://dev.to/mindon/i-automated-the-late-payment-follow-up-heres-the-script-5518)
-- [Why ReactFlow Edges Disappear in Next.js &lpar;Two Subtle CSS and Context Bugs&rpar;](https://dev.to/nareshipme/why-reactflow-edges-disappear-in-nextjs-two-subtle-css-and-context-bugs-jno)
-- [How to Test Rate-Limited and Throttled APIs Without Breaking Workflows](https://dev.to/kushoai/how-to-test-rate-limited-and-throttled-apis-without-breaking-workflows-8oa)
-- [Building a Gantt Chart Component with Zero Dependencies](https://dev.to/rgab/building-a-gantt-chart-component-with-zero-dependencies-2d65)
+- [Master Coding Interviews : Part 2 &lpar; Two Pointers Pattern &rpar;](https://dev.to/messaoud_wael_dd4b26a0d29/master-coding-interviews-part-2-two-pointers-pattern--16mc)
+- [Ways to Learn Vim in 2026: A Complete Beginner&#39;s Guide](https://dev.to/azborovskyi/ways-to-learn-vim-in-2026-a-complete-beginners-guide-ma)
+- [I spent 8 weeks building a Nash Equilibrium calculator from scratch in Python](https://dev.to/krira0708/i-spent-8-weeks-building-a-nash-equilibrium-calculator-from-scratch-in-python-5g98)
+- [Chapter 4. How to Use — Sub Agents](https://dev.to/ucjung/chapter-4-how-to-use-sub-agents-4gao)
+- [Cómo crear un sistema de pago por minuto en PHP &lpar;caso real aplicado a streaming&rpar; con wordpress](https://dev.to/alvaro_ayalac_1d7c2734b4/como-crear-un-sistema-de-pago-por-minuto-en-php-caso-real-aplicado-a-streaming-con-wordpress-2lg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
