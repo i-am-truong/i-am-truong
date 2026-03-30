@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Master Coding Interviews : Part 2 &lpar; Two Pointers Pattern &rpar;](https://dev.to/messaoud_wael_dd4b26a0d29/master-coding-interviews-part-2-two-pointers-pattern--16mc)
-- [Ways to Learn Vim in 2026: A Complete Beginner&#39;s Guide](https://dev.to/azborovskyi/ways-to-learn-vim-in-2026-a-complete-beginners-guide-ma)
-- [I spent 8 weeks building a Nash Equilibrium calculator from scratch in Python](https://dev.to/krira0708/i-spent-8-weeks-building-a-nash-equilibrium-calculator-from-scratch-in-python-5g98)
-- [Chapter 4. How to Use — Sub Agents](https://dev.to/ucjung/chapter-4-how-to-use-sub-agents-4gao)
-- [Cómo crear un sistema de pago por minuto en PHP &lpar;caso real aplicado a streaming&rpar; con wordpress](https://dev.to/alvaro_ayalac_1d7c2734b4/como-crear-un-sistema-de-pago-por-minuto-en-php-caso-real-aplicado-a-streaming-con-wordpress-2lg1)
+- [My 2026 Milestone #1: Achieved Alibaba Cloud Product Capability Certification &lpar;AI Stack Delivery Engineer&rpar;!](https://dev.to/auyeungdavid_2847435260/my-2026-milestone-1-achieved-alibaba-cloud-product-capability-certification-ai-stack-delivery-3g2m)
+- [Open Post - Test APIs Without Leaving VS Code](https://dev.to/open-post/open-post-test-apis-without-leaving-vs-code-3eg0)
+- [ShadowFortress: how I aggregate hundreds of IP blocklists into a single ready-to-use file](https://dev.to/grujowmi/shadowfortress-how-i-aggregate-hundreds-of-ip-blocklists-into-a-single-ready-to-use-file-4dem)
+- [Your package was compromised. How do you prove which version you actually shipped?](https://dev.to/fassbender_fiesole2026/your-package-was-compromised-how-do-you-prove-which-version-you-actually-shipped-5e9m)
+- [Mastering the Orchestration Pattern in React: Taming Complex Component Logic](https://dev.to/maximlogunov/mastering-the-orchestration-pattern-in-react-taming-complex-component-logic-5c9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
