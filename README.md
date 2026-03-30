@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codacy for Python: Code Quality and Static Analysis](https://dev.to/rahulxsingh/codacy-for-python-code-quality-and-static-analysis-5d6f)
-- [Your AI Agent Just Went Rogue. Do You Know What It&#39;s Doing Right Now?](https://dev.to/smkulkarni/your-ai-agent-just-went-rogue-do-you-know-what-its-doing-right-now-2g1n)
-- [The messy reality of agency WordPress builds &lpar;and why white-labeling works&rpar;](https://dev.to/fachremyputra/the-messy-reality-of-agency-wordpress-builds-and-why-white-labeling-works-38cp)
-- [When a Salesforce Admin Becomes the Entire IT Department](https://dev.to/getclientell/when-a-salesforce-admin-becomes-the-entire-it-department-609)
-- [MOMENTUM - AIccountability, Vision Board Tracker using Notion MCP](https://dev.to/schezfaz/momentum-aiccountability-using-notion-mcp-for-vision-board-progress-2b9i)
+- [Building AI Agents That Actually Work &lpar;Not Just Demos&rpar;](https://dev.to/bitpixelcoders/building-ai-agents-that-actually-work-not-just-demos-265i)
+- [Interesting reading for who are approaching use AI for developing at scale](https://dev.to/bsorrentino/interesting-reading-for-who-are-approaching-use-ai-for-developing-at-scale-2okf)
+- [GPT-5.3-Codex vs. Claude Code: a comparison](https://dev.to/abtosoftware/gpt-53-codex-vs-claude-code-a-comparison-14i4)
+- [Open-Source MobileVC: Control Your AI Dev Workflow Fully on Phone &lpar;No CLI/SSH, Transparent vs Black-Box Agents&rpar;](https://dev.to/jaycrl/open-source-mobilevc-control-your-ai-dev-workflow-fully-on-phone-no-clissh-transparent-vs-39jc)
+- [The Hidden Cost of SaaS Free Trial Abuse &lpar;And How to Detect It&rpar;](https://dev.to/shuicici/the-hidden-cost-of-saas-free-trial-abuse-and-how-to-detect-it-598p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
