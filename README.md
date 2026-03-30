@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codacy vs SonarCloud: Cloud Code Quality Compared](https://dev.to/rahulxsingh/codacy-vs-sonarcloud-cloud-code-quality-compared-4pm5)
-- [Google AI Studio and Claude Code in 2026: Guide](https://dev.to/danielflugger/google-ai-studio-and-claude-code-in-2026-guide-22f)
-- [Open Source Incident Management: Why It Matters](https://dev.to/siddharth_singh_409bd5267/open-source-incident-management-why-it-matters-cei)
-- [Self-Hosting a Crypto Wallet: Docker Setup Guide](https://dev.to/walletguy/self-hosting-a-crypto-wallet-docker-setup-guide-1a4i)
-- [I open-sourced salt-theme-gen](https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph)
+- [From Zero to Crypto Hero &lpar;Week 4&rpar; - Week of Break from Coding and Big Regret](https://dev.to/luftietheanonymous/from-zero-to-crypto-hero-week-4-week-of-break-from-coding-and-big-regret-3ejn)
+- [ABAP Unit Testing in SAP S/4HANA: A Senior Architect&#39;s Guide to Writing Tests That Actually Matter](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-unit-testing-in-sap-s4hana-a-senior-architects-guide-to-writing-tests-that-actually-matter-2816)
+- [Cosine Similarity vs Dot Product in Attention Mechanisms](https://dev.to/rijultp/cosine-similarity-vs-dot-product-in-attention-mechanisms-1m9h)
+- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
+- [How to Set Up an Affiliate Program with Creem &lpar;Step-by-Step Guide for SaaS Founders&rpar;](https://dev.to/ashui/how-to-set-up-an-affiliate-program-with-creem-step-by-step-guide-for-saas-founders-4io2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
