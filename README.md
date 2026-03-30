@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My 2026 Milestone #1: Achieved Alibaba Cloud Product Capability Certification &lpar;AI Stack Delivery Engineer&rpar;!](https://dev.to/auyeungdavid_2847435260/my-2026-milestone-1-achieved-alibaba-cloud-product-capability-certification-ai-stack-delivery-3g2m)
-- [Open Post - Test APIs Without Leaving VS Code](https://dev.to/open-post/open-post-test-apis-without-leaving-vs-code-3eg0)
-- [ShadowFortress: how I aggregate hundreds of IP blocklists into a single ready-to-use file](https://dev.to/grujowmi/shadowfortress-how-i-aggregate-hundreds-of-ip-blocklists-into-a-single-ready-to-use-file-4dem)
-- [Your package was compromised. How do you prove which version you actually shipped?](https://dev.to/fassbender_fiesole2026/your-package-was-compromised-how-do-you-prove-which-version-you-actually-shipped-5e9m)
-- [Mastering the Orchestration Pattern in React: Taming Complex Component Logic](https://dev.to/maximlogunov/mastering-the-orchestration-pattern-in-react-taming-complex-component-logic-5c9i)
+- [AWS Vector Databases – Part 3 : Choosing the Right Vector Database on AWS](https://dev.to/thedeveloperjournal/aws-vector-databases-part-3-choosing-the-right-vector-database-on-aws-375m)
+- [AWS Vector Databases – Part 2: Search, Filtering, and Chunking](https://dev.to/thedeveloperjournal/aws-vector-databases-part-2-search-filtering-and-chunking-3lbe)
+- [AWS Vector Databases Part 1: Embeddings, Dimensions &amp; Similarity](https://dev.to/thedeveloperjournal/aws-vector-databases-part-1-embeddings-dimensions-similarity-9ph)
+- [Centralized Documentation Needed for Oxlint and Oxfmt Compatibility with Frameworks and File Types](https://dev.to/pavkode/centralized-documentation-needed-for-oxlint-and-oxfmt-compatibility-with-frameworks-and-file-types-56d6)
+- [The Pain of Neglecting Maintainability in Code](https://dev.to/chris_lee_5e58cce05f5d01d/the-pain-of-neglecting-maintainability-in-code-ll3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
