@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Firecracker VM Orchestrator in Go — Part 1: Provider Interfaces](https://dev.to/strandnerd/building-a-firecracker-vm-orchestrator-in-go-part-1-provider-interfaces-11io)
-- [SafeBrowse: A Trust Layer for AI Browser Agents &lpar;Prevent Prompt Injection &amp; Data Exfiltration&rpar;](https://dev.to/rob_kang_7e54350f8af26743/safebrowse-a-trust-layer-for-ai-browser-agents-prevent-prompt-injection-data-exfiltration-3i3b)
-- [How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle](https://dev.to/paulbabatuyi/how-to-build-a-bank-ledger-in-golang-with-postgresql-using-the-double-entry-accounting-principle-2npi)
-- [Day 24: Agentic AI in DevOps &amp; MLOps ⚙️🚀](https://dev.to/swatigoyal911/day-24-agentic-ai-in-devops-mlops-1bf9)
-- [Teach Claude Code how to use your CLI with SKILLS.md](https://dev.to/jebucaro/teach-claude-code-how-to-use-your-cli-with-skillsmd-29om)
+- [How I Built an Open-Source LLM Security Library in Python &lpar;and What I Learned About Prompt Injection&rpar;](https://dev.to/7f7867893e654b/how-i-built-an-open-source-llm-security-library-in-python-and-what-i-learned-about-prompt-49hb)
+- [AI Is Flattening Skill Levels: Here’s Why That’s Dangerous](https://dev.to/jaideepparashar/ai-is-flattening-skill-levels-heres-why-thats-dangerous-hn6)
+- [The AI Exploit Agent: How Autonomous AI Discovers DeFi Vulnerabilities at $0.50/Attempt — And 6 Defense Patterns](https://dev.to/ohmygod/the-ai-exploit-agent-how-autonomous-ai-discovers-defi-vulnerabilities-at-050attempt-and-6-30m4)
+- [🗓️ Simp1OS Dev Logs – How I Accidentally Created 8-Bit Glitch Art While Trying to Build Kernel](https://dev.to/arush179/simp1os-dev-logs-how-i-accidentally-created-8-bit-glitch-art-while-trying-to-build-kernel-3pe0)
+- [AI-Powered Test Case Review with MagicPod MCP Server and Claude](https://dev.to/aws-builders/ai-powered-test-case-review-with-magicpod-mcp-server-and-claude-4123)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
