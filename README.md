@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Childhood Passion to Innovation: The Birth of a Sports Card Analytics Platform](https://dev.to/james_jhon/from-childhood-passion-to-innovation-the-birth-of-a-sports-card-analytics-platform-8l9)
-- [What is your WPM &lpar;Words per Minute&rpar;? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7)
-- [React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?](https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6)
-- [6 Things About The Terminal That Confuse Everyone &lpar;And Nobody Warns You About&rpar;](https://dev.to/adrianjiga/6-things-about-the-terminal-that-confuse-everyone-and-nobody-warns-you-about-4kd2)
-- [Zero-Trust Architecture: The Security Model Every Developer Needs to Understand in 2026](https://dev.to/walid_azrour_0813f6b60398/zero-trust-architecture-the-security-model-every-developer-needs-to-understand-in-2026-4c03)
+- [I got rate-limited scraping 100 pages. Here&#39;s what actually worked](https://dev.to/nicodev__/i-got-rate-limited-scraping-100-pages-heres-what-actually-worked-4p70)
+- [🎨 Dynamic Texture Loading in NervForge: Async Promises in C++/WASM](https://dev.to/the_lone_engineer/dynamic-texture-loading-in-nervforge-async-promises-in-cwasm-4c15)
+- [QA in chaos. How Do You Test Anyway?](https://dev.to/bukinator/qa-in-chaos-how-do-you-test-anyway-2dpm)
+- [A simple api gateway from scratch written in golang](https://dev.to/realebi/a-simple-api-gateway-from-scratch-written-in-golang-2f2p)
+- [Advanced Terraform Module Usage: Versioning, Gotchas, and Reuse Across Environments](https://dev.to/mary_mutua_9d55b3c269f343/advanced-terraform-module-usage-versioning-gotchas-and-reuse-across-environments-4c18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
