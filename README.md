@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Vector Databases – Part 3 : Choosing the Right Vector Database on AWS](https://dev.to/thedeveloperjournal/aws-vector-databases-part-3-choosing-the-right-vector-database-on-aws-375m)
-- [AWS Vector Databases – Part 2: Search, Filtering, and Chunking](https://dev.to/thedeveloperjournal/aws-vector-databases-part-2-search-filtering-and-chunking-3lbe)
-- [AWS Vector Databases Part 1: Embeddings, Dimensions &amp; Similarity](https://dev.to/thedeveloperjournal/aws-vector-databases-part-1-embeddings-dimensions-similarity-9ph)
-- [Centralized Documentation Needed for Oxlint and Oxfmt Compatibility with Frameworks and File Types](https://dev.to/pavkode/centralized-documentation-needed-for-oxlint-and-oxfmt-compatibility-with-frameworks-and-file-types-56d6)
-- [The Pain of Neglecting Maintainability in Code](https://dev.to/chris_lee_5e58cce05f5d01d/the-pain-of-neglecting-maintainability-in-code-ll3)
+- [From Childhood Passion to Innovation: The Birth of a Sports Card Analytics Platform](https://dev.to/james_jhon/from-childhood-passion-to-innovation-the-birth-of-a-sports-card-analytics-platform-8l9)
+- [What is your WPM &lpar;Words per Minute&rpar;? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7)
+- [React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?](https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6)
+- [6 Things About The Terminal That Confuse Everyone &lpar;And Nobody Warns You About&rpar;](https://dev.to/adrianjiga/6-things-about-the-terminal-that-confuse-everyone-and-nobody-warns-you-about-4kd2)
+- [Zero-Trust Architecture: The Security Model Every Developer Needs to Understand in 2026](https://dev.to/walid_azrour_0813f6b60398/zero-trust-architecture-the-security-model-every-developer-needs-to-understand-in-2026-4c03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
