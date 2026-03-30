@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Linux Is Used in Real-World Data Engineering](https://dev.to/hoseamutwiri/how-linux-is-used-in-real-world-data-engineering-2f3m)
-- [From Prompt to Production: Building my Travel Website with Vercel v0](https://dev.to/hkasera/from-prompt-to-production-building-my-travel-website-with-vercel-v0-3dd8)
-- [CVE-2026-34247: CVE-2026-34247: Insecure Direct Object Reference and Information Disclosure in WWBN AVideo](https://dev.to/cverports/cve-2026-34247-cve-2026-34247-insecure-direct-object-reference-and-information-disclosure-in-wwbn-2lb8)
-- [GitHub Required Checks Are Static. Your Pull Requests Aren&#39;t](https://dev.to/mvtavares/github-required-checks-are-static-your-pull-requests-arent-8om)
-- [Replacing SCCM with FOG Project](https://dev.to/solomonneas/replacing-sccm-with-fog-project-daf)
+- [Building a Firecracker VM Orchestrator in Go — Part 1: Provider Interfaces](https://dev.to/strandnerd/building-a-firecracker-vm-orchestrator-in-go-part-1-provider-interfaces-11io)
+- [SafeBrowse: A Trust Layer for AI Browser Agents &lpar;Prevent Prompt Injection &amp; Data Exfiltration&rpar;](https://dev.to/rob_kang_7e54350f8af26743/safebrowse-a-trust-layer-for-ai-browser-agents-prevent-prompt-injection-data-exfiltration-3i3b)
+- [How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle](https://dev.to/paulbabatuyi/how-to-build-a-bank-ledger-in-golang-with-postgresql-using-the-double-entry-accounting-principle-2npi)
+- [Day 24: Agentic AI in DevOps &amp; MLOps ⚙️🚀](https://dev.to/swatigoyal911/day-24-agentic-ai-in-devops-mlops-1bf9)
+- [Teach Claude Code how to use your CLI with SKILLS.md](https://dev.to/jebucaro/teach-claude-code-how-to-use-your-cli-with-skillsmd-29om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
