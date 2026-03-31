@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Just Leaked Claude Code&#39;s Source. Here&#39;s What It Means for Your Vibe-Coded App.](https://dev.to/solobillions/anthropic-just-leaked-claude-codes-source-heres-what-it-means-for-your-vibe-coded-app-1alf)
-- [You&#39;re a slop coder. Autospec is for professionals only.](https://dev.to/arielf/youre-a-slop-coder-autospec-is-for-professionals-only-4g42)
-- [What Happened to CodiumAI? The Rebrand to Qodo Explained](https://dev.to/rahulxsingh/what-happened-to-codiumai-the-rebrand-to-qodo-explained-44gn)
-- [Why I Built a Registry Instead of Just Buying One](https://dev.to/dusttoo/-why-i-built-a-registry-instead-of-just-buying-one-3cpd)
-- [What Karpathy&#39;s Autoresearch Unlocked for Me](https://dev.to/johnib/what-karpathys-autoresearch-unlocked-for-me-24k7)
+- [Testing MCP Servers: A Practical Guide for Developers](https://dev.to/charlieseay/testing-mcp-servers-a-practical-guide-for-developers-393)
+- [You keep repeating yourself to AI every day. We tried to fix that.](https://dev.to/hovhannisians/you-keep-repeating-yourself-to-ai-every-day-we-tried-to-fix-that-39me)
+- [Streamlining access to powerful disaster recovery capabilities of AWS](https://dev.to/setheliot/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws-4129)
+- [Most Test Cases Are a Waste of Time, But Here’s What Good Testers Do Instead](https://dev.to/msalaz80/most-test-cases-are-a-waste-of-time-but-heres-what-good-testers-do-instead-21eo)
+- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
