@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with pretext can be an exciting venture for developers looking to create and manage text-based content in a more efficient a](https://dev.to/autonomousworld/getting-started-with-pretext-can-be-an-exciting-venture-for-developers-looking-to-create-and-manage-jg1)
-- [Combat Conditioning: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/combat-conditioning-what-we-learned-building-random-tactical-timer-3h66)
-- [Axios Was Compromised. Here’s What Laravel Developers Need to Check](https://dev.to/joerucci/axios-was-compromised-heres-what-laravel-developers-need-to-check-254l)
-- [HashiCorp Says Your Secrets Manager Needs 12 Things. Here&#39;s How We Stack Up. 🎹](https://dev.to/james_spears_3b283a3ce628/hashicorp-says-your-secrets-manager-needs-12-things-heres-how-we-stack-up-638)
-- [I Rewrote My MCP Documentation Server in Go and Dropped 3 Containers](https://dev.to/cpremus/i-rewrote-my-mcp-documentation-server-in-go-and-dropped-3-containers-1649)
+- [No database, no problem: e-commerce with Nuxt Content and Stripe](https://dev.to/francklebas/no-database-no-problem-e-commerce-with-nuxt-content-and-stripe-cbc)
+- [Stop writing TypeScript interfaces by hand — convert JSON automatically](https://dev.to/kotaro_takaoka_34b3ca03d2/stop-writing-typescript-interfaces-by-hand-convert-json-automatically-588m)
+- [PostgreSQL LISTEN/NOTIFY as a lightweight job queue: replacing Redis for your startup&#39;s background tasks](https://dev.to/software_mvp-factory/postgresql-listennotify-as-a-lightweight-job-queue-replacing-redis-for-your-startups-background-4g8j)
+- [How I Built an AI Assistant on My Wrist for Under $15 Using ESP32 + Claude API](https://dev.to/onewallai/how-i-built-an-ai-assistant-on-my-wrist-for-under-15-using-esp32-claude-api-1efo)
+- [Scraper worked on my laptop. Deployed to server and got instant 403s.](https://dev.to/nicodev__/scraper-worked-on-my-laptop-deployed-to-server-and-got-instant-403s-3epc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
