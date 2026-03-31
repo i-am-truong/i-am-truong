@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Capacity Planning and Forecasting](https://dev.to/godofgeeks/capacity-planning-and-forecasting-39la)
-- [Build a Research Assistant AI Agent with TypeScript &lpar;Part 2&rpar;: Callbacks, State, and Memory](https://dev.to/timonwa/build-a-research-assistant-ai-agent-with-typescript-part-2-callbacks-state-and-memory-1ed9)
-- [CodeRabbit Custom Rules: Review Instructions Guide](https://dev.to/rahulxsingh/coderabbit-custom-rules-review-instructions-guide-1nc1)
-- [Strong Number](https://dev.to/sivakumar_mathiyalagan_/strong-number-4ln3)
-- [Headless Chrome: Mastering Server-Side Resource Orchestration and Memory Optimization](https://dev.to/onlineproxy_io/headless-chrome-mastering-server-side-resource-orchestration-and-memory-optimization-48a3)
+- [I spent 3 hours writing no code — and it may have saved weeks on my ERP project](https://dev.to/leorasgg/i-spent-3-hours-writing-no-code-and-it-may-have-saved-weeks-on-my-erp-project-2mnk)
+- [AI: I Used to Know the Code. Now I Know What to Ask ???](https://dev.to/vrishabh_081/ai-i-used-to-know-the-code-now-i-know-what-to-ask--4a68)
+- [Scheduled weekly content production for lindseywebsolutions.…](https://dev.to/lindseywebsolutions/scheduled-weekly-content-production-for-lindseywebsolutions-4pll)
+- [Automating blog publishing to dev.to and LinkedIn](https://dev.to/ohugonnot/automating-blog-publishing-to-devto-and-linkedin-270p)
+- [I Built 20+ Open-Source Tools and a Cyberpunk Terminal Portfolio to Showcase Them All](https://dev.to/freerave/i-built-20-open-source-tools-and-a-cyberpunk-terminal-portfolio-to-showcase-them-all-25nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
