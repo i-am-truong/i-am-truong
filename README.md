@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839)
-- [The Only Prompt Hack You Actually Need &lpar;No, You Don&#39;t Need a Course&rpar;](https://dev.to/saim_h/the-only-prompt-hack-you-actually-need-no-you-dont-need-a-course-4lnp)
-- [Progress on the Navier-Stokes Problem](https://dev.to/navierstokesorg/progress-on-the-navier-stokes-problem-52ik)
-- [How to Detect CrashLoopBackOff in Kubernetes Using Python &lpar;Step-by-Step Guide&rpar;](https://dev.to/sumitpurandare/how-to-detect-crashloopbackoff-in-kubernetes-using-python-step-by-step-guide-5d2i)
-- [When LLMs struggle: Architecture, context, and hidden complexity](https://dev.to/polarsquad/when-llms-struggle-architecture-context-and-hidden-complexity-54be)
+- [Capacity Planning and Forecasting](https://dev.to/godofgeeks/capacity-planning-and-forecasting-39la)
+- [Build a Research Assistant AI Agent with TypeScript &lpar;Part 2&rpar;: Callbacks, State, and Memory](https://dev.to/timonwa/build-a-research-assistant-ai-agent-with-typescript-part-2-callbacks-state-and-memory-1ed9)
+- [CodeRabbit Custom Rules: Review Instructions Guide](https://dev.to/rahulxsingh/coderabbit-custom-rules-review-instructions-guide-1nc1)
+- [Strong Number](https://dev.to/sivakumar_mathiyalagan_/strong-number-4ln3)
+- [Headless Chrome: Mastering Server-Side Resource Orchestration and Memory Optimization](https://dev.to/onlineproxy_io/headless-chrome-mastering-server-side-resource-orchestration-and-memory-optimization-48a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
