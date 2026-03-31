@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Pipeline Is 26.3h Behind: Catching Investing Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-263h-behind-catching-investing-sentiment-leads-with-pulsebit-hen)
-- [Stop staring at Claude Code&#39;s statusline: here&#39;s one you can actually customize](https://dev.to/noxcraftdev/stop-staring-at-claude-codes-statusline-heres-one-you-can-actually-customize-55ff)
-- [From Middle School Captain to Sports Card Enthusiast: A Journey of Passion and Learning](https://dev.to/james_jhon/from-middle-school-captain-to-sports-card-enthusiast-a-journey-of-passion-and-learning-3fca)
-- [Building a Full-Stack Java App with Quarkus — No React, No Angular, No Problem](https://dev.to/vsenger/building-a-full-stack-java-app-with-quarkus-no-react-no-angular-no-problem-j1m)
-- [Learning Elixir: Error Handling Basics](https://dev.to/abreujp/learning-elixir-error-handling-basics-59ci)
+- [Enterprise Blockchain in TypeScript: Real-World Case Studies, Protocol Mappings, MPC, HSM &amp; Post-Quantum Patterns That Actually Run](https://dev.to/psavelis/enterprise-blockchain-in-typescript-real-world-case-studies-protocol-mappings-mpc-hsm--2m74)
+- [Mastering Quantum Logic with Quantum Studio](https://dev.to/vishalmysore/mastering-quantum-logic-with-quantum-studio-29lc)
+- [How to Generate Website Screenshots with Python in 3 Lines of Code](https://dev.to/screenshotapis/how-to-generate-website-screenshots-with-python-in-3-lines-of-code-36a7)
+- [AWS Snowflake Lakehouse: 2 Practical Apache Iceberg Integration Patterns](https://dev.to/aws-builders/aws-snowflake-lakehouse-2-practical-apache-iceberg-integration-patterns-812)
+- [51万行源码泄露：全面解构 Claude Code 如何成为 AI 编程天花板](https://dev.to/white_satomini/51mo-xing-yuan-ma-xie-lu-quan-mian-jie-gou-claude-code-ru-he-cheng-wei-ai-bian-cheng-tian-hua-ban-1cgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
