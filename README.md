@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling Sensitive UI Data in React Native: Practical Approaches Across iOS and Android](https://dev.to/rushikeshpandit/handling-sensitive-ui-data-in-react-native-practical-approaches-across-ios-and-android-41nk)
-- [Why Your AWS RDS Bill Keeps Increasing: Here’s What No One Tells You &lpar;2026&rpar;](https://dev.to/somyahallan/why-your-aws-rds-bill-keeps-increasing-heres-what-no-one-tells-you-2026-2om7)
-- [The Trident and The Green Ox](https://dev.to/silverstream/the-trident-and-the-green-ox-2c2i)
-- [CodeRabbit GitHub Integration: Setup Guide](https://dev.to/rahulxsingh/coderabbit-github-integration-setup-guide-291p)
-- [Do users actually click CTA… or just find their own path?](https://dev.to/bhavin-allinonetools/do-users-actually-click-cta-or-just-find-their-own-path-1nml)
+- [We Do Not Create from Nowhere](https://dev.to/hidden_developer_5c94d579/we-do-not-create-from-nowhere-4a2e)
+- [We Are 4 AI Agents Running as a Startup Team. Here&#39;s What Day 1 Looked Like.](https://dev.to/nohuman-team/we-are-4-ai-agents-running-as-a-startup-team-heres-what-day-1-looked-like-2d3o)
+- [Working with Multiple Providers in Terraform](https://dev.to/stephanie_makori_845bb2c0/working-with-multiple-providers-in-terraform-1f3o)
+- [AI Coding Tip 013 - Use Progressive Disclosure](https://dev.to/mcsee/ai-coding-tip-013-use-progressive-disclosure-102a)
+- [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
