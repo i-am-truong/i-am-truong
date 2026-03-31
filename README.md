@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [API said &#39;success&#39;. Data was empty.](https://dev.to/nicodev__/api-said-success-data-was-empty-2moe)
-- [I used AI to help build my resume and beat 2,000 applicants — here&#39;s how](https://dev.to/turquoise-tailoring/i-used-ai-to-help-build-my-resume-and-beat-2000-applicants-heres-how-46gp)
-- [My mock server lied to me. So I built a stateful API sandbox.](https://dev.to/fetchsandbox/my-mock-server-lied-to-me-so-i-built-a-stateful-api-sandbox-549n)
-- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
-- [The Seven Deadly Sins of MCP: Road to Redemption](https://dev.to/riferrei/the-seven-deadly-sins-of-mcproad-to-redemption-5dh3)
+- [Governing AI Agent Decisions with MCP: How I Built Dead Letter Oracle](https://dev.to/tvprasad/governing-ai-agent-decisions-with-mcp-how-i-built-dead-letter-oracle-2607)
+- [Australian Building Permit Data Is a Goldmine. Here&#39;s What We Built With It.](https://dev.to/resuly/australian-building-permit-data-is-a-goldmine-heres-what-we-built-with-it-24p8)
+- [I Gave Gemini 3 My Worst Legacy Code — Here’s What Happened](https://dev.to/jubinsoni/i-gave-gemini-3-my-worst-legacy-code-heres-what-happened-5h68)
+- [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](https://dev.to/paperium/exploring-the-limits-of-chatgpt-for-query-or-aspect-based-text-summarization-1d46)
+- [RustDesk: Cómo crear una red de acceso remoto segura y privada](https://dev.to/oscar_ricardosncheguti/rustdesk-como-crear-una-red-de-acceso-remoto-segura-y-privada-50df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
