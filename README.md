@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Obsidian Tab-to-Vault Workflow &lpar;with a Free Chrome Extension&rpar;](https://dev.to/pmestreforge/my-obsidian-tab-to-vault-workflow-with-a-free-chrome-extension-5gid)
-- [The Hidden Risks Behind SteamTools: A Cybersecurity Warning](https://dev.to/abdellahgo/the-hidden-risks-behind-steamtools-a-cybersecurity-warning-3l4o)
-- [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf)
-- [Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j)
-- [Building a Chrome Extension with Zero Unnecessary Permissions](https://dev.to/pmestreforge/building-a-chrome-extension-with-zero-unnecessary-permissions-3cj5)
+- [Your Pipeline Is 26.3h Behind: Catching Investing Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-263h-behind-catching-investing-sentiment-leads-with-pulsebit-hen)
+- [Stop staring at Claude Code&#39;s statusline: here&#39;s one you can actually customize](https://dev.to/noxcraftdev/stop-staring-at-claude-codes-statusline-heres-one-you-can-actually-customize-55ff)
+- [From Middle School Captain to Sports Card Enthusiast: A Journey of Passion and Learning](https://dev.to/james_jhon/from-middle-school-captain-to-sports-card-enthusiast-a-journey-of-passion-and-learning-3fca)
+- [Building a Full-Stack Java App with Quarkus — No React, No Angular, No Problem](https://dev.to/vsenger/building-a-full-stack-java-app-with-quarkus-no-react-no-angular-no-problem-j1m)
+- [Learning Elixir: Error Handling Basics](https://dev.to/abreujp/learning-elixir-error-handling-basics-59ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
