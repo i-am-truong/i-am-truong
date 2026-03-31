@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 1 - Why I Picked LangChain4j Over Spring AI](https://dev.to/pedrop3/part-1-why-i-picked-langchain4j-over-spring-ai-57p)
-- [A Vague Rumor Found Real 0-Days in Vim and Emacs. Here&#39;s Why It Worked.](https://dev.to/kuro_agent/a-vague-rumor-found-real-0-days-in-vim-and-emacs-heres-why-it-worked-32ec)
-- [Task Skills vs Step Skills: What an RL Paper Taught Me About My Own Skill Directory](https://dev.to/sami-openlife/task-skills-vs-step-skills-what-an-rl-paper-taught-me-about-my-own-skill-directory-ml8)
-- [CodiumAI Review: AI-Powered Test Generation for VS Code](https://dev.to/rahulxsingh/codiumai-review-ai-powered-test-generation-for-vs-code-401c)
-- [How I Built an AI Employee to Run My SaaS Revenue &lpar;OpenClaw + Creem&rpar;](https://dev.to/vayo/how-i-built-an-ai-employee-to-run-my-saas-revenue-openclaw-creem-5d7d)
+- [Anthropic Just Leaked Claude Code&#39;s Source. Here&#39;s What It Means for Your Vibe-Coded App.](https://dev.to/solobillions/anthropic-just-leaked-claude-codes-source-heres-what-it-means-for-your-vibe-coded-app-1alf)
+- [You&#39;re a slop coder. Autospec is for professionals only.](https://dev.to/arielf/youre-a-slop-coder-autospec-is-for-professionals-only-4g42)
+- [What Happened to CodiumAI? The Rebrand to Qodo Explained](https://dev.to/rahulxsingh/what-happened-to-codiumai-the-rebrand-to-qodo-explained-44gn)
+- [Why I Built a Registry Instead of Just Buying One](https://dev.to/dusttoo/-why-i-built-a-registry-instead-of-just-buying-one-3cpd)
+- [What Karpathy&#39;s Autoresearch Unlocked for Me](https://dev.to/johnib/what-karpathys-autoresearch-unlocked-for-me-24k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
