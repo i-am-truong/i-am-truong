@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Blockchain in TypeScript: Real-World Case Studies, Protocol Mappings, MPC, HSM &amp; Post-Quantum Patterns That Actually Run](https://dev.to/psavelis/enterprise-blockchain-in-typescript-real-world-case-studies-protocol-mappings-mpc-hsm--2m74)
-- [Mastering Quantum Logic with Quantum Studio](https://dev.to/vishalmysore/mastering-quantum-logic-with-quantum-studio-29lc)
-- [How to Generate Website Screenshots with Python in 3 Lines of Code](https://dev.to/screenshotapis/how-to-generate-website-screenshots-with-python-in-3-lines-of-code-36a7)
-- [AWS Snowflake Lakehouse: 2 Practical Apache Iceberg Integration Patterns](https://dev.to/aws-builders/aws-snowflake-lakehouse-2-practical-apache-iceberg-integration-patterns-812)
-- [51万行源码泄露：全面解构 Claude Code 如何成为 AI 编程天花板](https://dev.to/white_satomini/51mo-xing-yuan-ma-xie-lu-quan-mian-jie-gou-claude-code-ru-he-cheng-wei-ai-bian-cheng-tian-hua-ban-1cgn)
+- [Building an Authentication System With Express JWT: A Step-by-Step Guide](https://dev.to/gloriasilver/building-an-authentication-system-with-express-jwt-a-step-by-step-guide-pcp)
+- [The Axios Attack Proved Vibe Coding&#39;s Biggest Blind Spot](https://dev.to/agentkit/the-axios-attack-proved-vibe-codings-biggest-blind-spot-1mmh)
+- [Object-Oriented Ruby for AI Developers](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-30jl)
+- [Ruby Patterns for AI Developers — Procs, Lambdas, Closures, Enumerable Magic](https://dev.to/agentq/ruby-patterns-for-ai-developers-procs-lambdas-closures-enumerable-magic-1hej)
+- [Object-Oriented Ruby for AI Developers — Classes, Modules, Inheritance, Mixins](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-classes-modules-inheritance-mixins-2ilb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
