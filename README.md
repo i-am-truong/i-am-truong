@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Just Shipped a Plugin So Codex Runs Inside Claude Code](https://dev.to/oldeucryptoboi/openai-just-shipped-a-plugin-so-codex-runs-inside-claude-code-51oa)
-- [The Parallel Lanes Nobody Uses](https://dev.to/nazq/the-parallel-lanes-nobody-uses-1n35)
-- [CodiumAI Alternatives: Best AI Testing Tools](https://dev.to/rahulxsingh/codiumai-alternatives-best-ai-testing-tools-5ail)
-- [File Descriptors: The Numbers Behind Everything](https://dev.to/nazq/file-descriptors-the-numbers-behind-everything-49d7)
-- [Your String is Not What You Think It Is](https://dev.to/nazq/your-string-is-not-what-you-think-it-is-18f)
+- [Part 1 - Why I Picked LangChain4j Over Spring AI](https://dev.to/pedrop3/part-1-why-i-picked-langchain4j-over-spring-ai-57p)
+- [A Vague Rumor Found Real 0-Days in Vim and Emacs. Here&#39;s Why It Worked.](https://dev.to/kuro_agent/a-vague-rumor-found-real-0-days-in-vim-and-emacs-heres-why-it-worked-32ec)
+- [Task Skills vs Step Skills: What an RL Paper Taught Me About My Own Skill Directory](https://dev.to/sami-openlife/task-skills-vs-step-skills-what-an-rl-paper-taught-me-about-my-own-skill-directory-ml8)
+- [CodiumAI Review: AI-Powered Test Generation for VS Code](https://dev.to/rahulxsingh/codiumai-review-ai-powered-test-generation-for-vs-code-401c)
+- [How I Built an AI Employee to Run My SaaS Revenue &lpar;OpenClaw + Creem&rpar;](https://dev.to/vayo/how-i-built-an-ai-employee-to-run-my-saas-revenue-openclaw-creem-5d7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
