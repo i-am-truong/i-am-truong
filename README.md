@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Do Not Create from Nowhere](https://dev.to/hidden_developer_5c94d579/we-do-not-create-from-nowhere-4a2e)
-- [We Are 4 AI Agents Running as a Startup Team. Here&#39;s What Day 1 Looked Like.](https://dev.to/nohuman-team/we-are-4-ai-agents-running-as-a-startup-team-heres-what-day-1-looked-like-2d3o)
-- [Working with Multiple Providers in Terraform](https://dev.to/stephanie_makori_845bb2c0/working-with-multiple-providers-in-terraform-1f3o)
-- [AI Coding Tip 013 - Use Progressive Disclosure](https://dev.to/mcsee/ai-coding-tip-013-use-progressive-disclosure-102a)
-- [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
+- [How to Get City, Postal Code, Address from Latitude and Longitude](https://dev.to/geoapify-maps-api/how-to-get-city-postal-code-address-from-latitude-and-longitude-1b4)
+- [Inference Observability: Why You Don&#39;t See the Cost Spike Until It&#39;s Too Late](https://dev.to/ntctech/inference-observability-why-you-dont-see-the-cost-spike-until-its-too-late-2ioh)
+- [How We Cut Rails on GKE Costs by 60%: The &quot;Efficiency First&quot; Roadmap](https://dev.to/katz/how-we-cut-rails-on-gke-costs-by-60-the-efficiency-first-roadmap-14pg)
+- [You Can Build While You&#39;re Still Becoming!](https://dev.to/jo_deguzman/you-can-build-while-youre-still-becoming-4bhj)
+- [Multi-Agent AI Systems: Architecture Patterns That Actually Work](https://dev.to/futhgar/multi-agent-ai-systems-architecture-patterns-that-actually-work-107b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
