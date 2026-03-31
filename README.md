@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Authentication System With Express JWT: A Step-by-Step Guide](https://dev.to/gloriasilver/building-an-authentication-system-with-express-jwt-a-step-by-step-guide-pcp)
-- [The Axios Attack Proved Vibe Coding&#39;s Biggest Blind Spot](https://dev.to/agentkit/the-axios-attack-proved-vibe-codings-biggest-blind-spot-1mmh)
-- [Object-Oriented Ruby for AI Developers](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-30jl)
-- [Ruby Patterns for AI Developers — Procs, Lambdas, Closures, Enumerable Magic](https://dev.to/agentq/ruby-patterns-for-ai-developers-procs-lambdas-closures-enumerable-magic-1hej)
-- [Object-Oriented Ruby for AI Developers — Classes, Modules, Inheritance, Mixins](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-classes-modules-inheritance-mixins-2ilb)
+- [OpenAI Just Shipped a Plugin So Codex Runs Inside Claude Code](https://dev.to/oldeucryptoboi/openai-just-shipped-a-plugin-so-codex-runs-inside-claude-code-51oa)
+- [The Parallel Lanes Nobody Uses](https://dev.to/nazq/the-parallel-lanes-nobody-uses-1n35)
+- [CodiumAI Alternatives: Best AI Testing Tools](https://dev.to/rahulxsingh/codiumai-alternatives-best-ai-testing-tools-5ail)
+- [File Descriptors: The Numbers Behind Everything](https://dev.to/nazq/file-descriptors-the-numbers-behind-everything-49d7)
+- [Your String is Not What You Think It Is](https://dev.to/nazq/your-string-is-not-what-you-think-it-is-18f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
