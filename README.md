@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Get City, Postal Code, Address from Latitude and Longitude](https://dev.to/geoapify-maps-api/how-to-get-city-postal-code-address-from-latitude-and-longitude-1b4)
-- [Inference Observability: Why You Don&#39;t See the Cost Spike Until It&#39;s Too Late](https://dev.to/ntctech/inference-observability-why-you-dont-see-the-cost-spike-until-its-too-late-2ioh)
-- [How We Cut Rails on GKE Costs by 60%: The &quot;Efficiency First&quot; Roadmap](https://dev.to/katz/how-we-cut-rails-on-gke-costs-by-60-the-efficiency-first-roadmap-14pg)
-- [You Can Build While You&#39;re Still Becoming!](https://dev.to/jo_deguzman/you-can-build-while-youre-still-becoming-4bhj)
-- [Multi-Agent AI Systems: Architecture Patterns That Actually Work](https://dev.to/futhgar/multi-agent-ai-systems-architecture-patterns-that-actually-work-107b)
+- [Getting started with pretext can be an exciting venture for developers looking to create and manage text-based content in a more efficient a](https://dev.to/autonomousworld/getting-started-with-pretext-can-be-an-exciting-venture-for-developers-looking-to-create-and-manage-jg1)
+- [Combat Conditioning: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/combat-conditioning-what-we-learned-building-random-tactical-timer-3h66)
+- [Axios Was Compromised. Here’s What Laravel Developers Need to Check](https://dev.to/joerucci/axios-was-compromised-heres-what-laravel-developers-need-to-check-254l)
+- [HashiCorp Says Your Secrets Manager Needs 12 Things. Here&#39;s How We Stack Up. 🎹](https://dev.to/james_spears_3b283a3ce628/hashicorp-says-your-secrets-manager-needs-12-things-heres-how-we-stack-up-638)
+- [I Rewrote My MCP Documentation Server in Go and Dropped 3 Containers](https://dev.to/cpremus/i-rewrote-my-mcp-documentation-server-in-go-and-dropped-3-containers-1649)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
