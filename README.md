@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Governing AI Agent Decisions with MCP: How I Built Dead Letter Oracle](https://dev.to/tvprasad/governing-ai-agent-decisions-with-mcp-how-i-built-dead-letter-oracle-2607)
-- [Australian Building Permit Data Is a Goldmine. Here&#39;s What We Built With It.](https://dev.to/resuly/australian-building-permit-data-is-a-goldmine-heres-what-we-built-with-it-24p8)
-- [I Gave Gemini 3 My Worst Legacy Code — Here’s What Happened](https://dev.to/jubinsoni/i-gave-gemini-3-my-worst-legacy-code-heres-what-happened-5h68)
-- [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](https://dev.to/paperium/exploring-the-limits-of-chatgpt-for-query-or-aspect-based-text-summarization-1d46)
-- [RustDesk: Cómo crear una red de acceso remoto segura y privada](https://dev.to/oscar_ricardosncheguti/rustdesk-como-crear-una-red-de-acceso-remoto-segura-y-privada-50df)
+- [Know your PostgreSQL health before it breaks - AI-powered PostgreSQL observability](https://dev.to/burnsideproject/know-your-postgresql-health-before-it-breaks-ai-powered-postgresql-observability-36he)
+- [Your Pipeline Is 16.3h Behind: Catching Human Rights Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-163h-behind-catching-human-rights-sentiment-leads-with-pulsebit-5h49)
+- [I built a notes app that organizes itself using on-device AI, and it&#39;s free!](https://dev.to/akshat_saladi/i-built-a-notes-app-that-organizes-itself-using-on-device-ai-and-its-free-28ih)
+- [Getting Data from Multiple Sources in Power BI](https://dev.to/jay_on_data/getting-data-from-multiple-sources-in-power-bi-4ocj)
+- [pg-warehouse - A local-first data warehouse at scale without over Engineering that mirrors PostgreSQL data - no pipelines needed!](https://dev.to/burnsideproject/pg-warehouse-a-local-first-data-warehouse-at-scale-without-over-engineering-that-mirrors-2i4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
