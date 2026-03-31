@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Developer AI Toolkit, Part 1: How I stopped rewriting the same prompts and packaged 272 that actually work](https://dev.to/peytongreen_dev/python-developer-ai-toolkit-part-1-how-i-stopped-rewriting-the-same-prompts-and-packaged-272-that-12h5)
-- [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76)
-- [How We Built Edge-First License Validation in Under 50ms](https://dev.to/trafficorchestrator/how-we-built-edge-first-license-validation-in-under-50ms-1jl9)
-- [The Hidden Cost of Game Engine Lock-in &lpar;and What Web Devs Can Learn&rpar;](https://dev.to/ziva/the-hidden-cost-of-game-engine-lock-in-and-what-web-devs-can-learn-38m5)
-- [The Backyard Quarry, Part 3: Capturing the Physical World](https://dev.to/kenwalger/the-backyard-quarry-part-3-capturing-the-physical-world-4c6a)
+- [How to catch CVE’s on time](https://dev.to/vincentbean/how-to-catch-cves-on-time-1982)
+- [Beyond the Terminal: Why My Next Project is a Minimalist API](https://dev.to/renato_silva_71eef0fc385f/beyond-the-terminal-why-my-next-project-is-a-minimalist-api-fp6)
+- [Beyond RAG: Building Graph-Aware Retrieval for Contract Reasoning](https://dev.to/pyalwin/beyond-rag-building-graph-aware-retrieval-for-contract-reasoning-3o05)
+- [Building Trust Between Agents: AgentID + ArkForge Interoperability](https://dev.to/mindon/building-trust-between-agents-agentid-arkforge-interoperability-50l0)
+- [I Analyzed Claude Code&#39;s Leaked Source — Here&#39;s How Anthropic&#39;s AI Agent Actually Works](https://dev.to/comeonoliver/i-analyzed-claude-codes-leaked-source-heres-how-anthropics-ai-agent-actually-works-2bik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
