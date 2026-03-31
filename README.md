@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No database, no problem: e-commerce with Nuxt Content and Stripe](https://dev.to/francklebas/no-database-no-problem-e-commerce-with-nuxt-content-and-stripe-cbc)
-- [Stop writing TypeScript interfaces by hand — convert JSON automatically](https://dev.to/kotaro_takaoka_34b3ca03d2/stop-writing-typescript-interfaces-by-hand-convert-json-automatically-588m)
-- [PostgreSQL LISTEN/NOTIFY as a lightweight job queue: replacing Redis for your startup&#39;s background tasks](https://dev.to/software_mvp-factory/postgresql-listennotify-as-a-lightweight-job-queue-replacing-redis-for-your-startups-background-4g8j)
-- [How I Built an AI Assistant on My Wrist for Under $15 Using ESP32 + Claude API](https://dev.to/onewallai/how-i-built-an-ai-assistant-on-my-wrist-for-under-15-using-esp32-claude-api-1efo)
-- [Scraper worked on my laptop. Deployed to server and got instant 403s.](https://dev.to/nicodev__/scraper-worked-on-my-laptop-deployed-to-server-and-got-instant-403s-3epc)
+- [The Self-Healing Agent Pattern: How to Build AI Systems That Recover From Failure Automatically](https://dev.to/the_bookmaster/the-self-healing-agent-pattern-how-to-build-ai-systems-that-recover-from-failure-automatically-3945)
+- [Claude Code + Telegram: How to Supercharge Your AI Assistant with Voice, Threading &amp; More](https://dev.to/timmothybuilder/claude-code-telegram-how-to-supercharge-your-ai-assistant-with-voice-threading-more-1b69)
+- [Why AI agent teams are just hoping their agents behave](https://dev.to/cauaferraz/why-ai-agent-teams-are-just-hoping-their-agents-behave-2loa)
+- [Harness as Code: Treating AI Workflows Like Infrastructure](https://dev.to/yohey-w/harness-as-code-treating-ai-workflows-like-infrastructure-27ni)
+- [I Built a 13,000-Title Arabic Streaming Guide in 4 Weeks With Claude AI](https://dev.to/alexander_nitrovich_16568/building-the-largest-arabic-streaming-database-lessons-learned-2e6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
