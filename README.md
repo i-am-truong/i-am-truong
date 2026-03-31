@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Know your PostgreSQL health before it breaks - AI-powered PostgreSQL observability](https://dev.to/burnsideproject/know-your-postgresql-health-before-it-breaks-ai-powered-postgresql-observability-36he)
-- [Your Pipeline Is 16.3h Behind: Catching Human Rights Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-163h-behind-catching-human-rights-sentiment-leads-with-pulsebit-5h49)
-- [I built a notes app that organizes itself using on-device AI, and it&#39;s free!](https://dev.to/akshat_saladi/i-built-a-notes-app-that-organizes-itself-using-on-device-ai-and-its-free-28ih)
-- [Getting Data from Multiple Sources in Power BI](https://dev.to/jay_on_data/getting-data-from-multiple-sources-in-power-bi-4ocj)
-- [pg-warehouse - A local-first data warehouse at scale without over Engineering that mirrors PostgreSQL data - no pipelines needed!](https://dev.to/burnsideproject/pg-warehouse-a-local-first-data-warehouse-at-scale-without-over-engineering-that-mirrors-2i4c)
+- [Day 57 of #100DayOfCode — Understanding Server Actions vs API Routes &amp; MongoDB in Next.js](https://dev.to/m_saad_ahmad/day-57-of-100dayofcode-understanding-server-actions-vs-api-routes-mongodb-in-nextjs-am8)
+- [Claude Mythos Leak: Why Cybersec Pros + Tech Workers Should Be Nervous Right Now 😰](https://dev.to/dobbythedev/claude-mythos-leak-why-cybersec-pros-tech-workers-should-be-nervous-right-now-5aod)
+- [Will I lose my job because of GenAI?](https://dev.to/welcloud-io/will-i-lose-my-job-because-of-genai-3pfm)
+- [How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links](https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph)
+- [Introducing media-agent: Write Once, Publish Everywhere](https://dev.to/jamesheal/introducing-media-agent-write-once-publish-everywhere-4n7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
