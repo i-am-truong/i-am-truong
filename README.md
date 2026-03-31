@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to catch CVE’s on time](https://dev.to/vincentbean/how-to-catch-cves-on-time-1982)
-- [Beyond the Terminal: Why My Next Project is a Minimalist API](https://dev.to/renato_silva_71eef0fc385f/beyond-the-terminal-why-my-next-project-is-a-minimalist-api-fp6)
-- [Beyond RAG: Building Graph-Aware Retrieval for Contract Reasoning](https://dev.to/pyalwin/beyond-rag-building-graph-aware-retrieval-for-contract-reasoning-3o05)
-- [Building Trust Between Agents: AgentID + ArkForge Interoperability](https://dev.to/mindon/building-trust-between-agents-agentid-arkforge-interoperability-50l0)
-- [I Analyzed Claude Code&#39;s Leaked Source — Here&#39;s How Anthropic&#39;s AI Agent Actually Works](https://dev.to/comeonoliver/i-analyzed-claude-codes-leaked-source-heres-how-anthropics-ai-agent-actually-works-2bik)
+- [My Obsidian Tab-to-Vault Workflow &lpar;with a Free Chrome Extension&rpar;](https://dev.to/pmestreforge/my-obsidian-tab-to-vault-workflow-with-a-free-chrome-extension-5gid)
+- [The Hidden Risks Behind SteamTools: A Cybersecurity Warning](https://dev.to/abdellahgo/the-hidden-risks-behind-steamtools-a-cybersecurity-warning-3l4o)
+- [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf)
+- [Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j)
+- [Building a Chrome Extension with Zero Unnecessary Permissions](https://dev.to/pmestreforge/building-a-chrome-extension-with-zero-unnecessary-permissions-3cj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
