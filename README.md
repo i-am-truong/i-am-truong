@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 57 of #100DayOfCode — Understanding Server Actions vs API Routes &amp; MongoDB in Next.js](https://dev.to/m_saad_ahmad/day-57-of-100dayofcode-understanding-server-actions-vs-api-routes-mongodb-in-nextjs-am8)
-- [Claude Mythos Leak: Why Cybersec Pros + Tech Workers Should Be Nervous Right Now 😰](https://dev.to/dobbythedev/claude-mythos-leak-why-cybersec-pros-tech-workers-should-be-nervous-right-now-5aod)
-- [Will I lose my job because of GenAI?](https://dev.to/welcloud-io/will-i-lose-my-job-because-of-genai-3pfm)
-- [How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links](https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph)
-- [Introducing media-agent: Write Once, Publish Everywhere](https://dev.to/jamesheal/introducing-media-agent-write-once-publish-everywhere-4n7d)
+- [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839)
+- [The Only Prompt Hack You Actually Need &lpar;No, You Don&#39;t Need a Course&rpar;](https://dev.to/saim_h/the-only-prompt-hack-you-actually-need-no-you-dont-need-a-course-4lnp)
+- [Progress on the Navier-Stokes Problem](https://dev.to/navierstokesorg/progress-on-the-navier-stokes-problem-52ik)
+- [How to Detect CrashLoopBackOff in Kubernetes Using Python &lpar;Step-by-Step Guide&rpar;](https://dev.to/sumitpurandare/how-to-detect-crashloopbackoff-in-kubernetes-using-python-step-by-step-guide-5d2i)
+- [When LLMs struggle: Architecture, context, and hidden complexity](https://dev.to/polarsquad/when-llms-struggle-architecture-context-and-hidden-complexity-54be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
