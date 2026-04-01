@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New programming language](https://dev.to/codemaster_121482/new-programming-language-3cpj)
-- [I built a tool to practice typing real code &lpar;looking for feedback&rpar;](https://dev.to/devlx/i-built-a-tool-to-practice-typing-real-code-looking-for-feedback-2mdk)
-- [The &#39;new&#39; Keyword in JavaScript](https://dev.to/ritam369/the-new-keyword-in-javascript-32a3)
-- [Create a workspace scheduler using Bryntum Scheduler Pro and MongoDB](https://dev.to/mongodb/create-a-workspace-scheduler-using-bryntum-scheduler-pro-and-mongodb-1anp)
-- [Discover a Free AI Voice Tool with Emotional Control for Content Creators](https://dev.to/alexdev2024/discover-a-free-ai-voice-tool-with-emotional-control-for-content-creators-5ec5)
+- [Top 10 AI Developer Tools in 2026: What&#39;s Actually Worth Your Time](https://dev.to/benriemer/top-10-ai-developer-tools-in-2026-whats-actually-worth-your-time-3li1)
+- [When Can You Actually Trust a Machine Learning Model?](https://dev.to/siddhartha_reddy/when-can-you-actually-trust-a-machine-learning-model-27kh)
+- [Open Source Project of the Day &lpar;Part 26&rpar;: ZeroClaw - Full-Rust Autonomous AI Assistant Infrastructure, and Its Relationship to OpenClaw](https://dev.to/wonderlab/open-source-project-of-the-day-part-26-zeroclaw-full-rust-autonomous-ai-assistant-7e0)
+- [I stopped emailing files to myself — here&#39;s what I built instead](https://dev.to/xubuntubro/i-stopped-emailing-files-to-myself-heres-what-i-built-instead-4nfo)
+- [Some lessons of work culture](https://dev.to/edriso/some-lessons-of-work-culture-34e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
