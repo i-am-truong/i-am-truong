@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an EdTech Platform That Scaled to 250K Daily Users](https://dev.to/geminate_solutions_9b6035/how-we-built-an-edtech-platform-that-scaled-to-250k-daily-users-4hch)
-- [Roguelike Devlog: Redesigning a Game UI With an AI 2D Game Maker](https://dev.to/makko_ai/roguelike-devlog-redesigning-a-game-ui-with-an-ai-2d-game-maker-h6b)
-- [I spent days debugging a cron job that was &quot;working fine&quot;](https://dev.to/pingrudy/i-spent-days-debugging-a-cron-job-that-was-working-fine-565m)
-- [LLM Agents Need a Nervous System, Not Just a Brain](https://dev.to/gnomeman4201/llm-agents-need-a-nervous-system-not-just-a-brain-2168)
-- [The 22,000 Token Tax: Why I Killed My MCP Server](https://dev.to/codewithagents_de/the-22000-token-tax-why-i-killed-my-mcp-server-2c12)
+- [I Spent $11,922 on Cursor in Under 4 Weeks. Here&#39;s How I Fixed It.](https://dev.to/bytedesk/i-spent-11922-on-cursor-in-under-4-weeks-heres-how-i-fixed-it-3gh2)
+- [What is a GTM Engineer and Why Your Company Needs One](https://dev.to/riteshrajpurohit/what-is-a-gtm-engineer-and-why-your-company-needs-one-5g62)
+- [Privacy-Preserving Active Learning for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-wildfire-evacuation-logistics-networks-under-real-time-54je)
+- [Claude AI Usage by Country: Israel Leads at 4.90x, Tanzania at 0.03x](https://dev.to/andrewrozumny/claude-ai-usage-by-country-israel-leads-at-490x-tanzania-at-003x-5655)
+- [The 5 Client Communication Mistakes That Kill Freelance Careers](https://dev.to/primghostdev/the-5-client-communication-mistakes-that-kill-freelance-careers-11k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
