@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent That Can Write Its Own Tools When It Gets Stuck](https://dev.to/grimm67123/i-built-an-ai-agent-that-can-write-its-own-tools-when-it-gets-stuck-387l)
-- [Building a &quot;Soft Sensor&quot; for Cement Kilns: Predicting Control Levers with Python](https://dev.to/aminuddinkhan/building-a-soft-sensor-for-cement-kilns-predicting-control-levers-with-python-4001)
-- [Wednesday Links - Edition 2026-04-01](https://dev.to/0xkkocel/wednesday-links-edition-2026-04-01-2hmh)
-- [We Traced One Query Through Perplexity’s Entire Stack in Cohort – Here’s What Actually Happens in 3 Seconds](https://dev.to/jacobjerryarackal/we-traced-one-query-through-perplexitys-entire-stack-in-cohort-heres-what-actually-happens-in-3-2e1i)
-- [Agent Self-Discovery: How AI Agents Find Their Own Wallets](https://dev.to/walletguy/agent-self-discovery-how-ai-agents-find-their-own-wallets-a6n)
+- [GitHub Account Suspended — Need Guidance &amp; Help](https://dev.to/nk2552003/github-account-suspended-need-guidance-help-2g7l)
+- [AI-Generated Go Serialization: Zero Boilerplate, Maximum Speed](https://dev.to/ymz-ncnk/ai-generated-go-serialization-zero-boilerplate-maximum-speed-49f8)
+- [I Built a Social Post Engine to Escape the Canva-Export-Schedule Loop](https://dev.to/johnumarattil/i-built-a-social-post-engine-to-escape-the-canva-export-schedule-loop-3e20)
+- [When Chrome Ate My RAM: Designing a Pressure-Aware Tab Orchestrator with Rust](https://dev.to/tasenikol/when-chrome-ate-my-ram-designing-a-pressure-aware-tab-orchestrator-with-rust-1g05)
+- [Why Your System Fails on the Most Predictable Day of the Year](https://dev.to/polash/why-your-system-fails-on-the-most-predictable-day-of-the-year-df1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
