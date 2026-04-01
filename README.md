@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing MCP Servers: A Practical Guide for Developers](https://dev.to/charlieseay/testing-mcp-servers-a-practical-guide-for-developers-393)
-- [You keep repeating yourself to AI every day. We tried to fix that.](https://dev.to/hovhannisians/you-keep-repeating-yourself-to-ai-every-day-we-tried-to-fix-that-39me)
-- [Streamlining access to powerful disaster recovery capabilities of AWS](https://dev.to/setheliot/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws-4129)
-- [Most Test Cases Are a Waste of Time, But Here’s What Good Testers Do Instead](https://dev.to/msalaz80/most-test-cases-are-a-waste-of-time-but-heres-what-good-testers-do-instead-21eo)
-- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
+- [I Was Told to Write My Thesis in LaTeX. Here&#39;s How I Actually Got Started.](https://dev.to/tex64/i-was-told-to-write-my-thesis-in-latex-heres-how-i-actually-got-started-l6e)
+- [Building a Multi-Tenant SaaS with Stripe Connect in 2026](https://dev.to/diven_rastdus_c5af27d68f3/building-a-multi-tenant-saas-with-stripe-connect-in-2026-jjn)
+- [Part 3 of 3 — Engineering Intent Series -- Inside the Machine: The ISL Build Pipeline](https://dev.to/francesco_marconi_282058b/inside-the-machine-the-isl-build-pipeline-3epp)
+- [Choosing and Integrating Mobile Video SDKs: FFmpeg, ExoPlayer, and Commercial Options](https://dev.to/beefedai/choosing-and-integrating-mobile-video-sdks-ffmpeg-exoplayer-and-commercial-options-5hlb)
+- [Build an End-to-End RAG Pipeline for LLM Applications](https://dev.to/digitalocean/build-an-end-to-end-rag-pipeline-for-llm-applications-1330)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
