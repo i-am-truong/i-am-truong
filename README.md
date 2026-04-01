@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/gracemunyi/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-43of)
-- [When AI Services Shut Down: Why Your Payment Layer Needs to Outlast Your Models](https://dev.to/kavinkimcreator/when-ai-services-shut-down-why-your-payment-layer-needs-to-outlast-your-models-1mha)
-- [You’re Not Stuck. You’re Just Growing Roots](https://dev.to/konark_13/youre-not-stuck-youre-just-growing-roots-493j)
-- [Looking for One Answer, Ending Up with Ten Tabs?](https://dev.to/timechodb/looking-for-one-answer-ending-up-with-ten-tabs-fdp)
-- [I Built a Lightweight JavaScript Library for Dark/Light Mode — DayniteJs 🌗](https://dev.to/dev_suhaib/i-built-a-lightweight-javascript-library-for-darklight-mode-daynitejs-oji)
+- [Mastering JavaScript Internals#2 The Parser &amp; AST](https://dev.to/priyaselvaraj11/2-the-parser-ast-46aj)
+- [Tag Governance at Scale: How to Build a Cloud Tagging Strategy That Actually Sticks](https://dev.to/muskan_8abedcc7e12/tag-governance-at-scale-how-to-build-a-cloud-tagging-strategy-that-actually-sticks-4016)
+- [Will be participating in this 😊](https://dev.to/shakiran_nannyombi_b0bf41/will-be-participating-in-this-9lm)
+- [Implementing Computer Vision Solutions Using Microsoft Azure AI](https://dev.to/datta_kharad_3fd1383b5036/implementing-computer-vision-solutions-using-microsoft-azure-ai-51o7)
+- [Hybrid search in Manticore Search](https://dev.to/sanikolaev/hybrid-search-in-manticore-search-5ake)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
