@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Synthetic Test Databases Replace Staging Snapshots](https://dev.to/jitendra_devabhaktuni_0f1/how-synthetic-test-databases-replace-staging-snapshots-3j1k)
-- [The Claude Code leak proves what I&#39;ve been building for months - AI architecture rules are not optional](https://dev.to/vibestackdev/the-claude-code-leak-proves-what-ive-been-building-for-months-ai-architecture-rules-are-not-20ma)
-- [PostgreSQL Row-Level Security for Multi-Tenant SaaS](https://dev.to/software_mvp-factory/postgresql-row-level-security-for-multi-tenant-saas-1lgp)
-- [ImNotOkay, a GC experiment for Android CI builds](https://dev.to/cdsap/imnotokay-a-gc-experiment-for-android-ci-builds-489o)
-- [Docker said &#39;Connection refused&#39;. Localhost worked fine. The problem was one line.](https://dev.to/nicodev__/docker-said-connection-refused-localhost-worked-fine-the-problem-was-one-line-2o2m)
+- [I Built an AI Agent That Can Write Its Own Tools When It Gets Stuck](https://dev.to/grimm67123/i-built-an-ai-agent-that-can-write-its-own-tools-when-it-gets-stuck-387l)
+- [Building a &quot;Soft Sensor&quot; for Cement Kilns: Predicting Control Levers with Python](https://dev.to/aminuddinkhan/building-a-soft-sensor-for-cement-kilns-predicting-control-levers-with-python-4001)
+- [Wednesday Links - Edition 2026-04-01](https://dev.to/0xkkocel/wednesday-links-edition-2026-04-01-2hmh)
+- [We Traced One Query Through Perplexity’s Entire Stack in Cohort – Here’s What Actually Happens in 3 Seconds](https://dev.to/jacobjerryarackal/we-traced-one-query-through-perplexitys-entire-stack-in-cohort-heres-what-actually-happens-in-3-2e1i)
+- [Agent Self-Discovery: How AI Agents Find Their Own Wallets](https://dev.to/walletguy/agent-self-discovery-how-ai-agents-find-their-own-wallets-a6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
