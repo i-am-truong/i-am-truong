@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Challenges of Cross-functional Teams: the Role of Governance and Common Goals](https://dev.to/pixari/navigating-the-challenges-of-cross-functional-teams-the-role-of-governance-and-common-goals-2mhh)
-- [[Side B] Pursuing OSS Quality Assurance with AI: Achieving 369 Tests, 97% Coverage, and GIL-Free Compatibility](https://dev.to/d_9d93cd53/side-b-pursuing-oss-quality-assurance-with-ai-achieving-369-tests-97-coverage-and-gil-free-13j7)
-- [[Side A] Completely Defending Python from OOM Kills: The BytesIO Trap and D-MemFS &#39;Hard Quota&#39; Design Philosophy](https://dev.to/d_9d93cd53/side-a-completely-defending-python-from-oom-kills-the-bytesio-trap-and-d-memfs-hard-quota-2pbg)
-- [Clean Code Is a Lie](https://dev.to/anoian/clean-code-is-a-lie-1f3j)
-- [From Attention Economy to Thinking Economy: The AI Challenge](https://dev.to/pixari/from-attention-economy-to-thinking-economy-the-ai-challenge-119c)
+- [How I Started Using AI Agents for End-to-End Testing &lpar;Autonoma AI&rpar;](https://dev.to/iamadnank9/how-i-started-using-ai-agents-for-end-to-end-testing-autonoma-ai-2dpj)
+- [How AI Is Changing PTSD Recovery — And Why It Matters](https://dev.to/paifamily/how-ai-is-changing-ptsd-recovery-and-why-it-matters-3ddn)
+- [DeepSource vs Coverity: Static Analysis Compared](https://dev.to/rahulxsingh/deepsource-vs-coverity-static-analysis-compared-202h)
+- [Claude Code&#39;s Source Didn&#39;t Leak. It Was Already Public for Years.](https://dev.to/nikitaeverywhere/claude-codes-source-didnt-leak-it-was-already-public-for-years-34le)
+- [Stop Accepting BGP Routes on Trust Alone: Deploy RPKI ROV on IOS-XE and IOS XR Today](https://dev.to/firstpasslab/stop-accepting-bgp-routes-on-trust-alone-deploy-rpki-rov-on-ios-xe-and-ios-xr-today-2gob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
