@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Memory Leaks in Node.js Production Apps](https://dev.to/yash_step2dev/how-to-debug-memory-leaks-in-nodejs-production-apps-1nib)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/rosemutai/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-1fb9)
-- [Programs Beat Prompts: How Tap Turns AI Understanding Into Deterministic Programs](https://dev.to/leonting1010/programs-beat-prompts-how-tap-turns-ai-understanding-into-deterministic-programs-208b)
-- [Before LLMs Could Predict, They Had to Count](https://dev.to/kambleakash0/before-llms-could-predict-they-had-to-count-20p5)
-- [AI Demystified: What I Learned from IBM Dev Day](https://dev.to/jefri_bulo/ai-demystified-what-i-learned-from-ibm-dev-day-m81)
+- [Claude Code&#39;s Leaked Source: A Real-World Masterclass in Harness Engineering](https://dev.to/chen_zhang_bac430bc7f6b95/claude-codes-leaked-source-a-real-world-masterclass-in-harness-engineering-2d9n)
+- [I Built an AI PPT Maker and Resume Builder Website](https://dev.to/chandrakant_kelgire_79721/i-built-an-ai-ppt-maker-and-resume-builder-website-48ib)
+- [HDF5 vs. TsFile: Efficient Time-Series Data Storage](https://dev.to/timechodb/hdf5-vs-tsfile-efficient-time-series-data-storage-5om)
+- [There Is No Such Thing As a Service](https://dev.to/thatghost/there-is-no-such-thing-as-a-service-1mdc)
+- [How MERX Aggregates All Energy Providers Into One API](https://dev.to/anton_erpulev/how-merx-aggregates-all-energy-providers-into-one-api-1fj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
