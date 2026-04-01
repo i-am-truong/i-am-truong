@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Account Suspended — Need Guidance &amp; Help](https://dev.to/nk2552003/github-account-suspended-need-guidance-help-2g7l)
-- [AI-Generated Go Serialization: Zero Boilerplate, Maximum Speed](https://dev.to/ymz-ncnk/ai-generated-go-serialization-zero-boilerplate-maximum-speed-49f8)
-- [I Built a Social Post Engine to Escape the Canva-Export-Schedule Loop](https://dev.to/johnumarattil/i-built-a-social-post-engine-to-escape-the-canva-export-schedule-loop-3e20)
-- [When Chrome Ate My RAM: Designing a Pressure-Aware Tab Orchestrator with Rust](https://dev.to/tasenikol/when-chrome-ate-my-ram-designing-a-pressure-aware-tab-orchestrator-with-rust-1g05)
-- [Why Your System Fails on the Most Predictable Day of the Year](https://dev.to/polash/why-your-system-fails-on-the-most-predictable-day-of-the-year-df1)
+- [How I Reverse-Engineered Claude Code&#39;s Hidden Pet System](https://dev.to/picklepixel/how-i-reverse-engineered-claude-codes-hidden-pet-system-8l7)
+- [@craft-ng: Associer l’art de la composition &amp; du state management dans Angular](https://dev.to/romain_geffrault_10d88369/craft-ng-associer-lart-de-la-composition-du-state-management-dans-angular-37pn)
+- [🔬 3D Science Lab — Interactive 3D STEM Education with 40+ Experiments Built Using Next.js and Three.js](https://dev.to/rudra_sarker/3d-science-lab-interactive-3d-stem-education-with-40-experiments-built-using-nextjs-and-4kfg)
+- [I Turned helix-agent into helix-agents: One MCP Server for Ollama, Codex, and OpenAI-Compatible Models](https://dev.to/tsunamayo7/i-turned-helix-agent-into-helix-agents-one-mcp-server-for-ollama-codex-and-openai-compatible-3fh1)
+- [ça ressemble à quoi, mon setup Claude Code ?](https://dev.to/agaches/ca-ressemble-a-quoi-mon-setup-claude-code--26le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
