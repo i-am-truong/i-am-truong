@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Started Using AI Agents for End-to-End Testing &lpar;Autonoma AI&rpar;](https://dev.to/iamadnank9/how-i-started-using-ai-agents-for-end-to-end-testing-autonoma-ai-2dpj)
-- [How AI Is Changing PTSD Recovery — And Why It Matters](https://dev.to/paifamily/how-ai-is-changing-ptsd-recovery-and-why-it-matters-3ddn)
-- [DeepSource vs Coverity: Static Analysis Compared](https://dev.to/rahulxsingh/deepsource-vs-coverity-static-analysis-compared-202h)
-- [Claude Code&#39;s Source Didn&#39;t Leak. It Was Already Public for Years.](https://dev.to/nikitaeverywhere/claude-codes-source-didnt-leak-it-was-already-public-for-years-34le)
-- [Stop Accepting BGP Routes on Trust Alone: Deploy RPKI ROV on IOS-XE and IOS XR Today](https://dev.to/firstpasslab/stop-accepting-bgp-routes-on-trust-alone-deploy-rpki-rov-on-ios-xe-and-ios-xr-today-2gob)
+- [Configuring GPU Pass-Through for AMD cards on openSUSE Kalpa](https://dev.to/nutthawit-l/configuring-gpu-pass-through-for-amd-cards-on-opensuse-kalpa-31e)
+- [Install NetBird on openSUSE MicroOS](https://dev.to/nutthawit-l/install-netbird-on-opensuse-microos-b2c)
+- [COA-MAS v2: A Meta-Framework for Cross-Domain Multi-Agent Governance](https://dev.to/rudsoncarvalho/coa-mas-v2-a-meta-framework-for-cross-domain-multi-agent-governance-4mji)
+- [Build a RAG Pipeline in Java &lpar;Text Vector LLM, No Paid APIs&rpar;](https://dev.to/sanjayghosh/build-a-rag-pipeline-in-java-text-vector-llm-no-paid-apis-3lc3)
+- [🛑 Stop Testing Your Code and Ignoring Your Database &lpar;Catching N+1 in Pytest&rpar;](https://dev.to/fmartins/stop-testing-your-code-and-ignoring-your-database-catching-n1-in-pytest-4pd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
