@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Was Told to Write My Thesis in LaTeX. Here&#39;s How I Actually Got Started.](https://dev.to/tex64/i-was-told-to-write-my-thesis-in-latex-heres-how-i-actually-got-started-l6e)
-- [Building a Multi-Tenant SaaS with Stripe Connect in 2026](https://dev.to/diven_rastdus_c5af27d68f3/building-a-multi-tenant-saas-with-stripe-connect-in-2026-jjn)
-- [Part 3 of 3 — Engineering Intent Series -- Inside the Machine: The ISL Build Pipeline](https://dev.to/francesco_marconi_282058b/inside-the-machine-the-isl-build-pipeline-3epp)
-- [Choosing and Integrating Mobile Video SDKs: FFmpeg, ExoPlayer, and Commercial Options](https://dev.to/beefedai/choosing-and-integrating-mobile-video-sdks-ffmpeg-exoplayer-and-commercial-options-5hlb)
-- [Build an End-to-End RAG Pipeline for LLM Applications](https://dev.to/digitalocean/build-an-end-to-end-rag-pipeline-for-llm-applications-1330)
+- [Beyond Static RAG: Using 1958 Biochemistry to Beat Multi-Hop Retrieval by 14%](https://dev.to/emilcelestix/beyond-static-rag-using-1958-biochemistry-to-beat-multi-hop-retrieval-by-14-4hfn)
+- [We Benchmarked Our SSR Framework Against Next.js — Here&#39;s What We Found](https://dev.to/childrentime/we-benchmarked-our-ssr-framework-against-nextjs-heres-what-we-found-57l6)
+- [I Built a Cross-Platform Memory Layer for AI Agents Using Ebbinghaus Forgetting Curves](https://dev.to/smara/how-ebbinghaus-forgetting-curves-make-ai-agents-smarter-ef3)
+- [How I Deployed My Portfolio Website on AWS S3 and Secured It with CloudFront](https://dev.to/punith_gp_942a758bec5510/how-i-deployed-my-portfolio-website-on-aws-s3-and-secured-it-with-cloudfront-3onc)
+- [Forms &amp; Validations in Rails](https://dev.to/agentq/forms-validations-in-rails-3lmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
