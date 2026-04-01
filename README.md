@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Reverse-Engineered Claude Code&#39;s Hidden Pet System](https://dev.to/picklepixel/how-i-reverse-engineered-claude-codes-hidden-pet-system-8l7)
-- [@craft-ng: Associer l’art de la composition &amp; du state management dans Angular](https://dev.to/romain_geffrault_10d88369/craft-ng-associer-lart-de-la-composition-du-state-management-dans-angular-37pn)
-- [🔬 3D Science Lab — Interactive 3D STEM Education with 40+ Experiments Built Using Next.js and Three.js](https://dev.to/rudra_sarker/3d-science-lab-interactive-3d-stem-education-with-40-experiments-built-using-nextjs-and-4kfg)
-- [I Turned helix-agent into helix-agents: One MCP Server for Ollama, Codex, and OpenAI-Compatible Models](https://dev.to/tsunamayo7/i-turned-helix-agent-into-helix-agents-one-mcp-server-for-ollama-codex-and-openai-compatible-3fh1)
-- [ça ressemble à quoi, mon setup Claude Code ?](https://dev.to/agaches/ca-ressemble-a-quoi-mon-setup-claude-code--26le)
+- [Anthropic Just Leaked Claude Code&#39;s Source. Here&#39;s What That Means for Every AI Agent You Run.](https://dev.to/waxell/anthropic-just-leaked-claude-codes-source-heres-what-that-means-for-every-ai-agent-you-run-f7k)
+- [The Architecture of Ideas: My GSoC 2026 Proposal Journey](https://dev.to/ananya-09/the-architecture-of-ideas-my-gsoc-2026-proposal-journey-1mc)
+- [Q1: Learning to Build with AI](https://dev.to/marvec/q1-learning-to-build-with-ai-c64)
+- [Distributed Systems - Quorum vs. Raft vs 2PC](https://dev.to/santosh_koti/distributed-systems-quorum-vs-raft-vs-2pc-1847)
+- [The DeepMind Hedge Fund Myth: Why ‘DeepTick’ Died](https://dev.to/simon_paxton/the-deepmind-hedge-fund-myth-why-deeptick-died-4920)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
