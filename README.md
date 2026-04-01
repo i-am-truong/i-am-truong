@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Enterprise Evaluation Framework for OpenClaw](https://dev.to/onyx_ai/the-enterprise-evaluation-framework-for-openclaw-3mn6)
-- [Restoring gameplay scanline depth in the TD2 SDL port](https://dev.to/nivandosoares/restoring-gameplay-scanline-depth-in-the-td2-sdl-port-1mkg)
-- [Knowledge Base That AI Agents Can Query via MCP](https://dev.to/elvis_kurtnebiev_1c6f57fd/knowledge-base-that-ai-agents-can-query-via-mcp-43n7)
-- [🌳 The Story of the Upside-Down Magic Tree 🌳](https://dev.to/mahmoudessam/the-story-of-the-upside-down-magic-tree-49pf)
-- [Aljabr: I Brought Rust Enums to TypeScript &lpar;Again&rpar;. This Time It&#39;s Actually Good.](https://dev.to/jasuperior/aljabr-i-brought-rust-enums-to-typescript-again-this-time-its-actually-good-2pkc)
+- [Project Loom: Java&#39;s Virtual Threads – From Nightmares to Modern Concurrency Bliss](https://dev.to/felipestanzani/project-loom-javas-virtual-threads-from-nightmares-to-modern-concurrency-bliss-3cm)
+- [Choosing the Right AI for Your Boat Shop: Beyond the Buzzwords](https://dev.to/ken_deng_ai/choosing-the-right-ai-for-your-boat-shop-beyond-the-buzzwords-16a3)
+- [Taming AI Glitches: Your E-Book Formatting Troubleshooting Guide](https://dev.to/ken_deng_ai/taming-ai-glitches-your-e-book-formatting-troubleshooting-guide-4841)
+- [React 19 migration traps your AI keeps falling into &lpar;and how to fix them with .mdc rules&rpar;](https://dev.to/vibestackdev/react-19-migration-traps-your-ai-keeps-falling-into-and-how-to-fix-them-with-mdc-rules-2aoe)
+- [How to Use Shaders in React &lpar;2026 WebGPU / WebGL Tutorial&rpar;](https://dev.to/shaders/how-to-use-shaders-in-react-2026-webgpu-webgl-tutorial-3h25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
