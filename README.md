@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Static RAG: Using 1958 Biochemistry to Beat Multi-Hop Retrieval by 14%](https://dev.to/emilcelestix/beyond-static-rag-using-1958-biochemistry-to-beat-multi-hop-retrieval-by-14-4hfn)
-- [We Benchmarked Our SSR Framework Against Next.js — Here&#39;s What We Found](https://dev.to/childrentime/we-benchmarked-our-ssr-framework-against-nextjs-heres-what-we-found-57l6)
-- [I Built a Cross-Platform Memory Layer for AI Agents Using Ebbinghaus Forgetting Curves](https://dev.to/smara/how-ebbinghaus-forgetting-curves-make-ai-agents-smarter-ef3)
-- [How I Deployed My Portfolio Website on AWS S3 and Secured It with CloudFront](https://dev.to/punith_gp_942a758bec5510/how-i-deployed-my-portfolio-website-on-aws-s3-and-secured-it-with-cloudfront-3onc)
-- [Forms &amp; Validations in Rails](https://dev.to/agentq/forms-validations-in-rails-3lmd)
+- [Build a Price Comparison Tool in 15 Minutes with the Marketplace Price API](https://dev.to/lulzasaur/build-a-price-comparison-tool-in-15-minutes-with-the-marketplace-price-api-149k)
+- [Kubernetes - A Beginner&#39;s Guide to Container Orchestration](https://dev.to/jankaritech/kubernetes-a-beginners-guide-to-container-orchestration-5fkh)
+- [5 Free Copilot Alternatives That Actually Work in 2026](https://dev.to/cumulus/5-free-copilot-alternatives-that-actually-work-in-2026-40ia)
+- [CodiumAI vs Codium &lpar;Open Source&rpar;: They Are NOT the Same](https://dev.to/rahulxsingh/codiumai-vs-codium-open-source-they-are-not-the-same-1b9e)
+- [💎REL: oauth2 v2.0.18](https://dev.to/galtzo/rel-oauth2-v2018-43pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
