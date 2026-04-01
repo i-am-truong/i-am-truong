@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Project Loom: Java&#39;s Virtual Threads – From Nightmares to Modern Concurrency Bliss](https://dev.to/felipestanzani/project-loom-javas-virtual-threads-from-nightmares-to-modern-concurrency-bliss-3cm)
-- [Choosing the Right AI for Your Boat Shop: Beyond the Buzzwords](https://dev.to/ken_deng_ai/choosing-the-right-ai-for-your-boat-shop-beyond-the-buzzwords-16a3)
-- [Taming AI Glitches: Your E-Book Formatting Troubleshooting Guide](https://dev.to/ken_deng_ai/taming-ai-glitches-your-e-book-formatting-troubleshooting-guide-4841)
-- [React 19 migration traps your AI keeps falling into &lpar;and how to fix them with .mdc rules&rpar;](https://dev.to/vibestackdev/react-19-migration-traps-your-ai-keeps-falling-into-and-how-to-fix-them-with-mdc-rules-2aoe)
-- [How to Use Shaders in React &lpar;2026 WebGPU / WebGL Tutorial&rpar;](https://dev.to/shaders/how-to-use-shaders-in-react-2026-webgpu-webgl-tutorial-3h25)
+- [How We Built an EdTech Platform That Scaled to 250K Daily Users](https://dev.to/geminate_solutions_9b6035/how-we-built-an-edtech-platform-that-scaled-to-250k-daily-users-4hch)
+- [Roguelike Devlog: Redesigning a Game UI With an AI 2D Game Maker](https://dev.to/makko_ai/roguelike-devlog-redesigning-a-game-ui-with-an-ai-2d-game-maker-h6b)
+- [I spent days debugging a cron job that was &quot;working fine&quot;](https://dev.to/pingrudy/i-spent-days-debugging-a-cron-job-that-was-working-fine-565m)
+- [LLM Agents Need a Nervous System, Not Just a Brain](https://dev.to/gnomeman4201/llm-agents-need-a-nervous-system-not-just-a-brain-2168)
+- [The 22,000 Token Tax: Why I Killed My MCP Server](https://dev.to/codewithagents_de/the-22000-token-tax-why-i-killed-my-mcp-server-2c12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
