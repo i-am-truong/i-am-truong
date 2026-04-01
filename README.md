@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code&#39;s Leaked Source: A Real-World Masterclass in Harness Engineering](https://dev.to/chen_zhang_bac430bc7f6b95/claude-codes-leaked-source-a-real-world-masterclass-in-harness-engineering-2d9n)
-- [I Built an AI PPT Maker and Resume Builder Website](https://dev.to/chandrakant_kelgire_79721/i-built-an-ai-ppt-maker-and-resume-builder-website-48ib)
-- [HDF5 vs. TsFile: Efficient Time-Series Data Storage](https://dev.to/timechodb/hdf5-vs-tsfile-efficient-time-series-data-storage-5om)
-- [There Is No Such Thing As a Service](https://dev.to/thatghost/there-is-no-such-thing-as-a-service-1mdc)
-- [How MERX Aggregates All Energy Providers Into One API](https://dev.to/anton_erpulev/how-merx-aggregates-all-energy-providers-into-one-api-1fj7)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/gracemunyi/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-43of)
+- [When AI Services Shut Down: Why Your Payment Layer Needs to Outlast Your Models](https://dev.to/kavinkimcreator/when-ai-services-shut-down-why-your-payment-layer-needs-to-outlast-your-models-1mha)
+- [You’re Not Stuck. You’re Just Growing Roots](https://dev.to/konark_13/youre-not-stuck-youre-just-growing-roots-493j)
+- [Looking for One Answer, Ending Up with Ten Tabs?](https://dev.to/timechodb/looking-for-one-answer-ending-up-with-ten-tabs-fdp)
+- [I Built a Lightweight JavaScript Library for Dark/Light Mode — DayniteJs 🌗](https://dev.to/dev_suhaib/i-built-a-lightweight-javascript-library-for-darklight-mode-daynitejs-oji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
