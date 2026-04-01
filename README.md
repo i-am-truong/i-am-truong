@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Spent $11,922 on Cursor in Under 4 Weeks. Here&#39;s How I Fixed It.](https://dev.to/bytedesk/i-spent-11922-on-cursor-in-under-4-weeks-heres-how-i-fixed-it-3gh2)
-- [What is a GTM Engineer and Why Your Company Needs One](https://dev.to/riteshrajpurohit/what-is-a-gtm-engineer-and-why-your-company-needs-one-5g62)
-- [Privacy-Preserving Active Learning for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-wildfire-evacuation-logistics-networks-under-real-time-54je)
-- [Claude AI Usage by Country: Israel Leads at 4.90x, Tanzania at 0.03x](https://dev.to/andrewrozumny/claude-ai-usage-by-country-israel-leads-at-490x-tanzania-at-003x-5655)
-- [The 5 Client Communication Mistakes That Kill Freelance Careers](https://dev.to/primghostdev/the-5-client-communication-mistakes-that-kill-freelance-careers-11k3)
+- [Navigating the Challenges of Cross-functional Teams: the Role of Governance and Common Goals](https://dev.to/pixari/navigating-the-challenges-of-cross-functional-teams-the-role-of-governance-and-common-goals-2mhh)
+- [[Side B] Pursuing OSS Quality Assurance with AI: Achieving 369 Tests, 97% Coverage, and GIL-Free Compatibility](https://dev.to/d_9d93cd53/side-b-pursuing-oss-quality-assurance-with-ai-achieving-369-tests-97-coverage-and-gil-free-13j7)
+- [[Side A] Completely Defending Python from OOM Kills: The BytesIO Trap and D-MemFS &#39;Hard Quota&#39; Design Philosophy](https://dev.to/d_9d93cd53/side-a-completely-defending-python-from-oom-kills-the-bytesio-trap-and-d-memfs-hard-quota-2pbg)
+- [Clean Code Is a Lie](https://dev.to/anoian/clean-code-is-a-lie-1f3j)
+- [From Attention Economy to Thinking Economy: The AI Challenge](https://dev.to/pixari/from-attention-economy-to-thinking-economy-the-ai-challenge-119c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
