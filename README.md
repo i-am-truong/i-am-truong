@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Just Leaked Claude Code&#39;s Source. Here&#39;s What That Means for Every AI Agent You Run.](https://dev.to/waxell/anthropic-just-leaked-claude-codes-source-heres-what-that-means-for-every-ai-agent-you-run-f7k)
-- [The Architecture of Ideas: My GSoC 2026 Proposal Journey](https://dev.to/ananya-09/the-architecture-of-ideas-my-gsoc-2026-proposal-journey-1mc)
-- [Q1: Learning to Build with AI](https://dev.to/marvec/q1-learning-to-build-with-ai-c64)
-- [Distributed Systems - Quorum vs. Raft vs 2PC](https://dev.to/santosh_koti/distributed-systems-quorum-vs-raft-vs-2pc-1847)
-- [The DeepMind Hedge Fund Myth: Why ‘DeepTick’ Died](https://dev.to/simon_paxton/the-deepmind-hedge-fund-myth-why-deeptick-died-4920)
+- [The Enterprise Evaluation Framework for OpenClaw](https://dev.to/onyx_ai/the-enterprise-evaluation-framework-for-openclaw-3mn6)
+- [Restoring gameplay scanline depth in the TD2 SDL port](https://dev.to/nivandosoares/restoring-gameplay-scanline-depth-in-the-td2-sdl-port-1mkg)
+- [Knowledge Base That AI Agents Can Query via MCP](https://dev.to/elvis_kurtnebiev_1c6f57fd/knowledge-base-that-ai-agents-can-query-via-mcp-43n7)
+- [🌳 The Story of the Upside-Down Magic Tree 🌳](https://dev.to/mahmoudessam/the-story-of-the-upside-down-magic-tree-49pf)
+- [Aljabr: I Brought Rust Enums to TypeScript &lpar;Again&rpar;. This Time It&#39;s Actually Good.](https://dev.to/jasuperior/aljabr-i-brought-rust-enums-to-typescript-again-this-time-its-actually-good-2pkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
