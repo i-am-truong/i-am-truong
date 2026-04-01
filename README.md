@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Price Comparison Tool in 15 Minutes with the Marketplace Price API](https://dev.to/lulzasaur/build-a-price-comparison-tool-in-15-minutes-with-the-marketplace-price-api-149k)
-- [Kubernetes - A Beginner&#39;s Guide to Container Orchestration](https://dev.to/jankaritech/kubernetes-a-beginners-guide-to-container-orchestration-5fkh)
-- [5 Free Copilot Alternatives That Actually Work in 2026](https://dev.to/cumulus/5-free-copilot-alternatives-that-actually-work-in-2026-40ia)
-- [CodiumAI vs Codium &lpar;Open Source&rpar;: They Are NOT the Same](https://dev.to/rahulxsingh/codiumai-vs-codium-open-source-they-are-not-the-same-1b9e)
-- [💎REL: oauth2 v2.0.18](https://dev.to/galtzo/rel-oauth2-v2018-43pf)
+- [How to Debug Memory Leaks in Node.js Production Apps](https://dev.to/yash_step2dev/how-to-debug-memory-leaks-in-nodejs-production-apps-1nib)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/rosemutai/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-1fb9)
+- [Programs Beat Prompts: How Tap Turns AI Understanding Into Deterministic Programs](https://dev.to/leonting1010/programs-beat-prompts-how-tap-turns-ai-understanding-into-deterministic-programs-208b)
+- [Before LLMs Could Predict, They Had to Count](https://dev.to/kambleakash0/before-llms-could-predict-they-had-to-count-20p5)
+- [AI Demystified: What I Learned from IBM Dev Day](https://dev.to/jefri_bulo/ai-demystified-what-i-learned-from-ibm-dev-day-m81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
