@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Python pipeline that auto-generates digital products using Claude API — here&#39;s the architecture](https://dev.to/kirozdormu/i-built-a-python-pipeline-that-auto-generates-digital-products-using-claude-api-heres-the-14hd)
-- [The Agent Data Layer: A Missing Layer in AI Architecture](https://dev.to/asghar_shah_fbe97d24ce0d5/the-agent-data-layer-a-missing-layer-in-ai-architecture-1beh)
-- [Resolve.ai Alternative: Open Source AI for Incident Investigation](https://dev.to/siddharth_singh_409bd5267/resolveai-alternative-open-source-ai-for-incident-investigation-347k)
-- [How to build a secure WhatsApp AI assistant with Arcade and Claude Code &lpar;OpenClaw alternative&rpar;](https://dev.to/manveer_chawla_64a7283d5a/how-to-build-a-secure-whatsapp-ai-assistant-with-arcade-and-claude-code-openclaw-alternative-3f4f)
-- [How I Achieved 100/100 Lighthouse Score with React &amp; TypeScript: A Performance Deep Dive](https://dev.to/ljresetl/how-i-achieved-100100-lighthouse-score-with-react-typescript-a-performance-deep-dive-19m3)
+- [I Tried Building My Own AI… Here’s What Actually Happened](https://dev.to/krrish_jagbandhu_eca8db9d/i-tried-building-my-own-ai-heres-what-actually-happened-fn1)
+- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
+- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
+- [Multi-Model AI Orchestration for Software Development: How I Ship 10x Faster with Claude, Codex, and Gemini](https://dev.to/zaferdace/multi-model-ai-orchestration-for-software-development-how-i-ship-10x-faster-with-claude-codex-53l3)
+- [Migrating a Webpack-Era Federated Module to Vite Without Breaking the Host Contract](https://dev.to/mdolive/migrating-a-webpack-era-federated-module-to-vite-without-breaking-the-host-contract-31nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
