@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [End of week. Here&#39;s the thing I kept coming back to:](https://dev.to/neeraja_khanapure_4a33a5f/end-of-week-heres-the-thing-i-kept-coming-back-to-3hi9)
-- [DEVLOG #1 HOST DISCOVERY](https://dev.to/radoslawdev/devlog-1-host-discovery-3d5j)
-- [How I Built Persistent Memory for Claude Code](https://dev.to/mikeadolan/how-i-built-persistent-memory-for-claude-code-1dn7)
-- [I Stopped Vibe Coding and Built a Real App. The Method Nobody Teaches.](https://dev.to/rentierdigital/i-stopped-vibe-coding-and-built-a-real-app-the-method-nobody-teaches-1517)
-- [I got tired of guessing my cloud bills, so I built 12 free developer cost calculators &lpar;No login, No BS&rpar;.](https://dev.to/shubhamoriginx/i-got-tired-of-guessing-my-cloud-bills-so-i-built-12-free-developer-cost-calculators-no-login-no-4mp1)
+- [April 8 - Getting Started with Computer Vision Workflows Workshop](https://dev.to/voxel51/april-8-getting-started-with-computer-vision-workflows-workshop-1mf8)
+- [What It Actually Takes to Integrate the Romanian Electronic ID Card Over NFC](https://dev.to/ctoma2005/what-it-actually-takes-to-integrate-the-romanian-electronic-id-card-over-nfc-dg9)
+- [Deploying First Website on AWS EC2 &lpar;step by step guide&rpar;](https://dev.to/darshan_b/deploying-first-website-on-aws-ec2-step-by-step-guide-1d21)
+- [Cool article](https://dev.to/anthonymax/cool-article-3f5i)
+- [Web Worker for background JSON parsing in Langfuse codebase.](https://dev.to/ramunarasinga-11/web-worker-for-background-json-parsing-in-langfuse-codebase-3f32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
