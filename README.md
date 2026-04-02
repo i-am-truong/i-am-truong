@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Compare TCGPlayer, Reverb, and OfferUp Prices in One API Call](https://dev.to/lulzasaur/compare-tcgplayer-reverb-and-offerup-prices-in-one-api-call-2f0p)
-- [Build a Form 4 Insider-Buy Alert Without Parsing SEC XML](https://dev.to/lulzasaur/build-a-form-4-insider-buy-alert-without-parsing-sec-xml-1dhl)
-- [Verify Contractor Licenses in 11 US States with One API Call](https://dev.to/lulzasaur/verify-contractor-licenses-in-11-us-states-with-one-api-call-26hi)
-- [CircuitBreaker: The AI Agent&#39;s Seatbelt](https://dev.to/cirkuitbreakerswitch/circuitbreaker-the-ai-agents-seatbelt-jd)
-- [Anthropic Accidentally Open-Sourced Claude Code. Here&#39;s What No One Is Talking About.](https://dev.to/aiengine/anthropic-accidentally-open-sourced-claude-code-heres-what-no-one-is-talking-about-c8l)
+- [The DevOps Mindset Shift](https://dev.to/fabiosarmento/the-devops-mindset-shift-581f)
+- [Why I chose a CLI over MCP for my Dev Tool](https://dev.to/gaurang_torvekar_e5e8a38a/why-i-chose-a-cli-over-mcp-for-my-dev-tool-1l83)
+- [Django vs Node.js: Which Wins for Data-Heavy Apps?](https://dev.to/horizondev/django-vs-nodejs-which-wins-for-data-heavy-apps-4pmd)
+- [DeepSource vs Snyk: Code Quality vs Security](https://dev.to/rahulxsingh/deepsource-vs-snyk-code-quality-vs-security-2o6p)
+- [React Native Android plugin not found: what I would check first](https://dev.to/asta_dev/react-native-android-plugin-not-found-what-i-would-check-first-4onm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
