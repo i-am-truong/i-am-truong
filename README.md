@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data modelling in Power BI: Joins, Relationships, and Schemas Explained.](https://dev.to/hadijja_musekwa_3ba940a91/data-modelling-in-power-bi-joins-relationships-and-schemas-explained-4ecn)
-- [Compose Multiplatform&#39;s Skia Rendering on iOS](https://dev.to/software_mvp-factory/compose-multiplatforms-skia-rendering-on-ios-p1n)
-- [Where is the AI revolution at?](https://dev.to/nea/where-is-the-ai-revolution-at-47jm)
-- [Where LangChain Starts to Bend: The Signals That Tell You It’s Time for LangGraph](https://dev.to/optyxstack/where-langchain-starts-to-bend-the-signals-that-tell-you-its-time-for-langgraph-3ldc)
-- [Incremental Backup in PostgreSQL 17: A Practical Guide](https://dev.to/mafiree/incremental-backup-in-postgresql-17-a-practical-guide-56ci)
+- [What I Found Inside Eloquent&#39;s increment&lpar;&rpar;](https://dev.to/bakgeorge/what-i-found-inside-eloquents-increment-dkk)
+- [Five Stars, Zero Commitment](https://dev.to/piiiico/five-stars-zero-commitment-2g8k)
+- [Six Months in AI Feels Like Six Years: What Changed Since Q4 2025](https://dev.to/o96a/six-months-in-ai-feels-like-six-years-what-changed-since-q4-2025-48en)
+- [I Built 15 Templates and 80+ Tests Before Getting My First Paying User](https://dev.to/efet1022/i-built-15-templates-and-80-tests-before-getting-my-first-paying-user-1m6i)
+- [Python Automation Scripts: A Beginner&#39;s Guide to Automating Daily Tasks](https://dev.to/lufumeiying/python-automation-scripts-a-beginners-guide-to-automating-daily-tasks-4fdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
