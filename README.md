@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a platform that aggregates 30+ IT news sources so you don&#39;t have to check them all](https://dev.to/hanun_9b2547365f8fff54006/i-built-a-platform-that-aggregates-30-it-news-sources-so-you-dont-have-to-check-them-all-4mok)
-- [You send SMS. You get billed later. You don’t know why: estimate SMS cost in Python](https://dev.to/bridgexapi/you-send-sms-you-get-billed-later-you-dont-know-why-estimate-sms-cost-in-python-43db)
-- [Why Software Engineers Burn Out Differently And What To Do About It](https://dev.to/recharge/why-software-engineers-burn-out-differently-and-what-to-do-about-it-5bee)
-- [512,000 Lines of Claude Code Leaked Through a Single .npmignore Mistake](https://dev.to/ji_ai/512000-lines-of-claude-code-leaked-through-a-single-npmignore-mistake-1d6p)
-- [Stop Wasting Tokens on npm Install Noise](https://dev.to/ji_ai/stop-wasting-tokens-on-npm-install-noise-2kfd)
+- [Automate your Creem payments with this OpenClaw Agent](https://dev.to/xand3rrx/automate-your-creem-payments-with-this-openclaw-agent-4ip5)
+- [Anthropic Just Mapped the Jobs AI Is Replacing First - Here&#39;s What the Data Actually Says](https://dev.to/boehner/anthropic-just-mapped-the-jobs-ai-is-replacing-first-heres-what-the-data-actually-says-de8)
+- [Episode 2: I Was a Junior Developer and I Must Be Stopped](https://dev.to/adamthedeveloper/episode-2-i-was-a-junior-developer-and-i-must-be-stopped-1jom)
+- [Building AI-Powered Incident Management for Healthcare APIs using .NET](https://dev.to/rangasreenivas/building-ai-powered-incident-management-for-healthcare-apis-using-net-33f6)
+- [What You&#39;re Installing When You Add an MCP Server](https://dev.to/mistaike_ai/what-youre-installing-when-you-add-an-mcp-server-11ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
