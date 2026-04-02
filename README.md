@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling Temporal Services with Nexus and the Java SDK](https://dev.to/temporalio/decoupling-temporal-services-with-nexus-and-the-java-sdk-20p)
-- [7 Real Workflows That Actually Save Developers Hours](https://dev.to/sonotommy/7-real-workflows-that-actually-save-developers-hours-5550)
-- [Platform Engineering: Building Internal Developer Platforms](https://dev.to/instadevops/platform-engineering-building-internal-developer-platforms-1jdl)
-- [The Login Portal That Actively Hates You](https://dev.to/syedahmershah/the-login-portal-that-actively-hates-you-2p94)
-- [Optimizing FFmpeg for Production: Settings That Cut Processing Time by 40%](https://dev.to/kyle_clipspeedai/optimizing-ffmpeg-for-production-settings-that-cut-processing-time-by-40-4fhe)
+- [End of week. Here&#39;s the thing I kept coming back to:](https://dev.to/neeraja_khanapure_4a33a5f/end-of-week-heres-the-thing-i-kept-coming-back-to-3hi9)
+- [DEVLOG #1 HOST DISCOVERY](https://dev.to/radoslawdev/devlog-1-host-discovery-3d5j)
+- [How I Built Persistent Memory for Claude Code](https://dev.to/mikeadolan/how-i-built-persistent-memory-for-claude-code-1dn7)
+- [I Stopped Vibe Coding and Built a Real App. The Method Nobody Teaches.](https://dev.to/rentierdigital/i-stopped-vibe-coding-and-built-a-real-app-the-method-nobody-teaches-1517)
+- [I got tired of guessing my cloud bills, so I built 12 free developer cost calculators &lpar;No login, No BS&rpar;.](https://dev.to/shubhamoriginx/i-got-tired-of-guessing-my-cloud-bills-so-i-built-12-free-developer-cost-calculators-no-login-no-4mp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
