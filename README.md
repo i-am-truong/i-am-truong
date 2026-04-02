@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Configuring GPU Pass-Through for AMD cards on openSUSE Kalpa](https://dev.to/nutthawit-l/configuring-gpu-pass-through-for-amd-cards-on-opensuse-kalpa-31e)
-- [Install NetBird on openSUSE MicroOS](https://dev.to/nutthawit-l/install-netbird-on-opensuse-microos-b2c)
-- [COA-MAS v2: A Meta-Framework for Cross-Domain Multi-Agent Governance](https://dev.to/rudsoncarvalho/coa-mas-v2-a-meta-framework-for-cross-domain-multi-agent-governance-4mji)
-- [Build a RAG Pipeline in Java &lpar;Text Vector LLM, No Paid APIs&rpar;](https://dev.to/sanjayghosh/build-a-rag-pipeline-in-java-text-vector-llm-no-paid-apis-3lc3)
-- [🛑 Stop Testing Your Code and Ignoring Your Database &lpar;Catching N+1 in Pytest&rpar;](https://dev.to/fmartins/stop-testing-your-code-and-ignoring-your-database-catching-n1-in-pytest-4pd5)
+- [I built a platform that aggregates 30+ IT news sources so you don&#39;t have to check them all](https://dev.to/hanun_9b2547365f8fff54006/i-built-a-platform-that-aggregates-30-it-news-sources-so-you-dont-have-to-check-them-all-4mok)
+- [You send SMS. You get billed later. You don’t know why: estimate SMS cost in Python](https://dev.to/bridgexapi/you-send-sms-you-get-billed-later-you-dont-know-why-estimate-sms-cost-in-python-43db)
+- [Why Software Engineers Burn Out Differently And What To Do About It](https://dev.to/recharge/why-software-engineers-burn-out-differently-and-what-to-do-about-it-5bee)
+- [512,000 Lines of Claude Code Leaked Through a Single .npmignore Mistake](https://dev.to/ji_ai/512000-lines-of-claude-code-leaked-through-a-single-npmignore-mistake-1d6p)
+- [Stop Wasting Tokens on npm Install Noise](https://dev.to/ji_ai/stop-wasting-tokens-on-npm-install-noise-2kfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
