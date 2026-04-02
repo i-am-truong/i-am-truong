@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Did Something It Wasn&#39;t Supposed To. Now What?](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-did-something-it-wasnt-supposed-to-now-what-485m)
-- [3 of Your AI Agents Crashed and You Found Out From Customers](https://dev.to/george_belsky_a513cfbf3df/3-of-your-ai-agents-crashed-and-you-found-out-from-customers-2heb)
-- [Your AI Agent Spent $500 Overnight and Nobody Noticed](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-spent-500-overnight-and-nobody-noticed-8ci)
-- [Why Software Project Estimates Are Always Wrong &lpar;And How to Fix It&rpar;](https://dev.to/scopelabs_adam/why-software-project-estimates-are-always-wrong-and-how-to-fix-it-115h)
-- [How Do We Prove We Actually Do AI? — Ultra Lab&#39;s Technical Transparency Manifesto](https://dev.to/ppcvote/how-do-we-prove-we-actually-do-ai-ultra-labs-technical-transparency-manifesto-ie)
+- [Data modelling in Power BI: Joins, Relationships, and Schemas Explained.](https://dev.to/hadijja_musekwa_3ba940a91/data-modelling-in-power-bi-joins-relationships-and-schemas-explained-4ecn)
+- [Compose Multiplatform&#39;s Skia Rendering on iOS](https://dev.to/software_mvp-factory/compose-multiplatforms-skia-rendering-on-ios-p1n)
+- [Where is the AI revolution at?](https://dev.to/nea/where-is-the-ai-revolution-at-47jm)
+- [Where LangChain Starts to Bend: The Signals That Tell You It’s Time for LangGraph](https://dev.to/optyxstack/where-langchain-starts-to-bend-the-signals-that-tell-you-its-time-for-langgraph-3ldc)
+- [Incremental Backup in PostgreSQL 17: A Practical Guide](https://dev.to/mafiree/incremental-backup-in-postgresql-17-a-practical-guide-56ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
