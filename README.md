@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [April 8 - Getting Started with Computer Vision Workflows Workshop](https://dev.to/voxel51/april-8-getting-started-with-computer-vision-workflows-workshop-1mf8)
-- [What It Actually Takes to Integrate the Romanian Electronic ID Card Over NFC](https://dev.to/ctoma2005/what-it-actually-takes-to-integrate-the-romanian-electronic-id-card-over-nfc-dg9)
-- [Deploying First Website on AWS EC2 &lpar;step by step guide&rpar;](https://dev.to/darshan_b/deploying-first-website-on-aws-ec2-step-by-step-guide-1d21)
-- [Cool article](https://dev.to/anthonymax/cool-article-3f5i)
-- [Web Worker for background JSON parsing in Langfuse codebase.](https://dev.to/ramunarasinga-11/web-worker-for-background-json-parsing-in-langfuse-codebase-3f32)
+- [Building TokenBar taught me that shipping fast is not the same as shipping smart](https://dev.to/godnick/building-tokenbar-taught-me-that-shipping-fast-is-not-the-same-as-shipping-smart-3dme)
+- [I Built a RAG System to Chat With Newton&#39;s Entire Wikipedia](https://dev.to/dhaivat_jambudia/i-built-a-rag-system-to-chat-with-newtons-entire-wikipedia-1ndg)
+- [Terraform Lab: Using `locals` &lpar;Real Project Style&rpar;](https://dev.to/jumptotech/terraform-lab-using-locals-real-project-style-2lhl)
+- [I Built a Star Trek LCARS Terminal to Manage My Claude Code Setup](https://dev.to/snozberryface/i-built-a-star-trek-lcars-terminal-to-manage-my-claude-code-setup-1b0e)
+- [Introducing Open-Source AI Self-Driving Testing](https://dev.to/scafati98/introducing-open-source-ai-self-driving-testing-49nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
