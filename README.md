@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The DevOps Mindset Shift](https://dev.to/fabiosarmento/the-devops-mindset-shift-581f)
-- [Why I chose a CLI over MCP for my Dev Tool](https://dev.to/gaurang_torvekar_e5e8a38a/why-i-chose-a-cli-over-mcp-for-my-dev-tool-1l83)
-- [Django vs Node.js: Which Wins for Data-Heavy Apps?](https://dev.to/horizondev/django-vs-nodejs-which-wins-for-data-heavy-apps-4pmd)
-- [DeepSource vs Snyk: Code Quality vs Security](https://dev.to/rahulxsingh/deepsource-vs-snyk-code-quality-vs-security-2o6p)
-- [React Native Android plugin not found: what I would check first](https://dev.to/asta_dev/react-native-android-plugin-not-found-what-i-would-check-first-4onm)
+- [Decoupling Temporal Services with Nexus and the Java SDK](https://dev.to/temporalio/decoupling-temporal-services-with-nexus-and-the-java-sdk-20p)
+- [7 Real Workflows That Actually Save Developers Hours](https://dev.to/sonotommy/7-real-workflows-that-actually-save-developers-hours-5550)
+- [Platform Engineering: Building Internal Developer Platforms](https://dev.to/instadevops/platform-engineering-building-internal-developer-platforms-1jdl)
+- [The Login Portal That Actively Hates You](https://dev.to/syedahmershah/the-login-portal-that-actively-hates-you-2p94)
+- [Optimizing FFmpeg for Production: Settings That Cut Processing Time by 40%](https://dev.to/kyle_clipspeedai/optimizing-ffmpeg-for-production-settings-that-cut-processing-time-by-40-4fhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
