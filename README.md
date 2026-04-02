@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built My Own System Design Tool Because Nothing Free Was Good Enough](https://dev.to/gobare13/i-built-my-own-system-design-tool-because-nothing-free-was-good-enough-3o72)
-- [Tool Dispatch: A Dictionary Replaces a Switch Statement and Scales to 14 Tools](https://dev.to/ivan_magda_8417a0295eb014/tool-dispatch-a-dictionary-replaces-a-switch-statement-and-scales-to-14-tools-2ci5)
-- [I Built a Smart App to Organize My Entire Life &lpar;Day 2 Progress&rpar;](https://dev.to/lifeorder_42/i-built-a-smart-app-to-organize-my-entire-life-day-2-progress-48gj)
-- [I built a daily Telegram channel that posts one random chemical compound every evening](https://dev.to/onnaneko/i-built-a-daily-telegram-channel-that-posts-one-random-chemical-compound-every-evening-400i)
-- [Storage solutions with Midnight - handling off-chain data with privacy](https://dev.to/levai/storage-solutions-with-midnight-handling-off-chain-data-with-privacy-2mm9)
+- [Compare TCGPlayer, Reverb, and OfferUp Prices in One API Call](https://dev.to/lulzasaur/compare-tcgplayer-reverb-and-offerup-prices-in-one-api-call-2f0p)
+- [Build a Form 4 Insider-Buy Alert Without Parsing SEC XML](https://dev.to/lulzasaur/build-a-form-4-insider-buy-alert-without-parsing-sec-xml-1dhl)
+- [Verify Contractor Licenses in 11 US States with One API Call](https://dev.to/lulzasaur/verify-contractor-licenses-in-11-us-states-with-one-api-call-26hi)
+- [CircuitBreaker: The AI Agent&#39;s Seatbelt](https://dev.to/cirkuitbreakerswitch/circuitbreaker-the-ai-agents-seatbelt-jd)
+- [Anthropic Accidentally Open-Sourced Claude Code. Here&#39;s What No One Is Talking About.](https://dev.to/aiengine/anthropic-accidentally-open-sourced-claude-code-heres-what-no-one-is-talking-about-c8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
