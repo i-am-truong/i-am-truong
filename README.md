@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Building My Own AI… Here’s What Actually Happened](https://dev.to/krrish_jagbandhu_eca8db9d/i-tried-building-my-own-ai-heres-what-actually-happened-fn1)
-- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
-- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
-- [Multi-Model AI Orchestration for Software Development: How I Ship 10x Faster with Claude, Codex, and Gemini](https://dev.to/zaferdace/multi-model-ai-orchestration-for-software-development-how-i-ship-10x-faster-with-claude-codex-53l3)
-- [Migrating a Webpack-Era Federated Module to Vite Without Breaking the Host Contract](https://dev.to/mdolive/migrating-a-webpack-era-federated-module-to-vite-without-breaking-the-host-contract-31nb)
+- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
+- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
+- [Woman&#39;s Day: Be Yourself](https://dev.to/stuxint/womans-day-be-yourself-5d8e)
+- [The Real Goal of Building a Trading Bot: Removing Yourself from the Loop](https://dev.to/maymay5692/--5f4k)
+- [What Claude Code&#39;s Leaked Architecture Reveals About Building Production MCP Servers &lpar;2026&rpar;](https://dev.to/shekhar_64ef6e37f0bcb31a4/what-claude-codes-leaked-architecture-reveals-about-building-production-mcp-servers-2026-10on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
