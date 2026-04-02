@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Found Inside Eloquent&#39;s increment&lpar;&rpar;](https://dev.to/bakgeorge/what-i-found-inside-eloquents-increment-dkk)
-- [Five Stars, Zero Commitment](https://dev.to/piiiico/five-stars-zero-commitment-2g8k)
-- [Six Months in AI Feels Like Six Years: What Changed Since Q4 2025](https://dev.to/o96a/six-months-in-ai-feels-like-six-years-what-changed-since-q4-2025-48en)
-- [I Built 15 Templates and 80+ Tests Before Getting My First Paying User](https://dev.to/efet1022/i-built-15-templates-and-80-tests-before-getting-my-first-paying-user-1m6i)
-- [Python Automation Scripts: A Beginner&#39;s Guide to Automating Daily Tasks](https://dev.to/lufumeiying/python-automation-scripts-a-beginners-guide-to-automating-daily-tasks-4fdf)
+- [Qwen3.6-Plus API: ชนะ Claude บน Terminal Benchmarks](https://dev.to/thanawat_wonchai/qwen36-plus-api-chna-claude-bn-terminal-benchmarks-4p56)
+- [Addressing Common Developer Criticisms of Python: Balancing Strengths and Weaknesses](https://dev.to/serbyte/addressing-common-developer-criticisms-of-python-balancing-strengths-and-weaknesses-3pm3)
+- [Debugging a CLI Tool Blindspot: Why &quot;Reload&quot; Commands Don&#39;t Always Reload Everything](https://dev.to/bailorgana/debugging-a-cli-tool-blindspot-why-reload-commands-dont-always-reload-everything-55g8)
+- [I built a zero-dependency portfolio template — here&#39;s what I learned](https://dev.to/diyoriko/i-built-a-zero-dependency-portfolio-template-heres-what-i-learned-1koh)
+- [I built a 1500-Level Puzzle Game in Pure Vanilla JS &lpar;And how AI helped me solve the hardest part&rpar;](https://dev.to/moksh_jalendra_e5cdf12bbc/i-built-a-1500-level-puzzle-game-in-pure-vanilla-js-and-how-ai-helped-me-solve-the-hardest-part-2m6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
