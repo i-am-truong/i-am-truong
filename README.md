@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jonmarkgo/-59b4)
-- [From AI Chat tool to Autonomous Solvers: A Developer’s Guide to AI Agents](https://dev.to/vinod_wa/from-ai-chat-tool-to-autonomous-solvers-a-developers-guide-to-ai-agents-38dk)
-- [Beyond Static Limits: Adaptive Concurrency with TCP-Vegas in Go](https://dev.to/onurcinar/beyond-static-limits-adaptive-concurrency-with-tcp-vegas-in-go-3gne)
-- [The Deployment That Taught Me More Than Any Tutorial](https://dev.to/mindmagic/the-deployment-that-taught-me-more-than-any-tutorial-4011)
-- [The Night I Debugged a Relationship Like Production Code](https://dev.to/mindmagic/the-night-i-debugged-a-relationship-like-production-code-f2)
+- [The Future of Sports Card Trading: Digital Assets, Market Trends, and Investment Opportunities](https://dev.to/davidg85/the-future-of-sports-card-trading-digital-assets-market-trends-and-investment-opportunities-4kb0)
+- [Best AI-Powered SaaS Product Ideas for 2026: 10 High-Growth Niches](https://dev.to/krunal_groovy/best-ai-powered-saas-product-ideas-for-2026-10-high-growth-niches-45op)
+- [Functions, Generics, and the Stuff That Looks Familiar But Isn&#39;t](https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf)
+- [The Type System: What You Know, What&#39;s New, and What&#39;s Weird](https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd)
+- [PACELC Theorem in System Design](https://dev.to/code_2/pacelc-theorem-in-system-design-129h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
