@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 AWS Security Misconfigurations Found in 90% of Accounts](https://dev.to/dannysteenman/10-aws-security-misconfigurations-found-in-90-of-accounts-835)
-- [AWS CDK Best Practices: The Complete Guide [2026]](https://dev.to/dannysteenman/aws-cdk-best-practices-the-complete-guide-2026-2nhg)
-- [CSS- intro](https://dev.to/preethi_sunil_caf7d1dad16_77/css-intro-33l4)
-- [Getting Started With Seal Report: Applying Custom Joins](https://dev.to/vladg_dev/getting-started-with-seal-report-applying-custom-joins-322p)
-- [The Archetypal Go Program: Servers, Goroutines, and Scheduling](https://dev.to/lbvf50mobile/the-archetypal-go-program-servers-goroutines-and-scheduling-1dge)
+- [How to Build True Multi-Tenant Database Isolation &lpar;Stop using if-statements&rpar;](https://dev.to/jacksonkasi/how-to-build-true-multi-tenant-database-isolation-stop-using-if-statements-1402)
+- [Refactoring a JavaScript class](https://dev.to/railsdesigner/refactoring-a-javascript-class-3opo)
+- [I built a share button that doesn&#39;t assume where you live on the open social web](https://dev.to/rmichaelthomas/i-built-a-share-button-that-doesnt-assume-where-you-live-on-the-open-social-web-jl0)
+- [Home Assistant vs SmartThings vs Hubitat: Which Smart Home Hub in 2026?](https://dev.to/techpulselab/home-assistant-vs-smartthings-vs-hubitat-which-smart-home-hub-in-2026-5ajo)
+- [AgentOps: The Discipline Missing From Your AI Deployment Stack](https://dev.to/waxell/agentops-the-discipline-missing-from-your-ai-deployment-stack-16i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
