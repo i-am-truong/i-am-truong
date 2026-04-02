@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
-- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
-- [Woman&#39;s Day: Be Yourself](https://dev.to/stuxint/womans-day-be-yourself-5d8e)
-- [The Real Goal of Building a Trading Bot: Removing Yourself from the Loop](https://dev.to/maymay5692/--5f4k)
-- [What Claude Code&#39;s Leaked Architecture Reveals About Building Production MCP Servers &lpar;2026&rpar;](https://dev.to/shekhar_64ef6e37f0bcb31a4/what-claude-codes-leaked-architecture-reveals-about-building-production-mcp-servers-2026-10on)
+- [This Is What’s Really Hitting Your Website &lpar;Hint: Not People&rpar;](https://dev.to/gb26/this-is-whats-really-hitting-your-website-hint-not-people-31p6)
+- [Unit Testing in React Using Vitest — A Practical Guide](https://dev.to/thecoollearner/unit-testing-in-react-using-vitest-a-practical-guide-pbd)
+- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
+- [HIPAA Breach Notification Rules: A Technical Guide to What Triggers Reporting and How Fast You Need to Move](https://dev.to/joegellatly/hipaa-breach-notification-rules-a-technical-guide-to-what-triggers-reporting-and-how-fast-you-need-2lii)
+- [Day 2 - Updated the REST API Project using ResponseEntity](https://dev.to/bharathdhana/day-2-updated-the-rest-api-project-using-responseentity-l3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
