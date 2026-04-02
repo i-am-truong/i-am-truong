@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A laughing RAT: CrystalX combines spyware, stealer, and prankware features](https://dev.to/mark0_617b45cda9782a/a-laughing-rat-crystalx-combines-spyware-stealer-and-prankware-features-1kl3)
-- [Why a Clean Vulnerability Scan Report Can Be Your Biggest Security Risk](https://dev.to/kuboidsecurelayer/why-a-clean-vulnerability-scan-report-can-be-your-biggest-security-risk-2moj)
-- [Your Terminal Deserves Better. Oh My Zsh Agrees.](https://dev.to/mcheremnov/your-terminal-deserves-better-oh-my-zsh-agrees-4h76)
-- [Self-Hosted AI in 2026: Automating Your Linux Workflow with n8n and Ollama](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-n8n-and-ollama-4934)
-- [Why the same codebase should always produce the same audit score](https://dev.to/intentguard_ole/why-the-same-codebase-should-always-produce-the-same-audit-score-1fed)
+- [Your AI Agent Did Something It Wasn&#39;t Supposed To. Now What?](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-did-something-it-wasnt-supposed-to-now-what-485m)
+- [3 of Your AI Agents Crashed and You Found Out From Customers](https://dev.to/george_belsky_a513cfbf3df/3-of-your-ai-agents-crashed-and-you-found-out-from-customers-2heb)
+- [Your AI Agent Spent $500 Overnight and Nobody Noticed](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-spent-500-overnight-and-nobody-noticed-8ci)
+- [Why Software Project Estimates Are Always Wrong &lpar;And How to Fix It&rpar;](https://dev.to/scopelabs_adam/why-software-project-estimates-are-always-wrong-and-how-to-fix-it-115h)
+- [How Do We Prove We Actually Do AI? — Ultra Lab&#39;s Technical Transparency Manifesto](https://dev.to/ppcvote/how-do-we-prove-we-actually-do-ai-ultra-labs-technical-transparency-manifesto-ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
