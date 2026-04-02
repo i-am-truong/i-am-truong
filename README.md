@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build True Multi-Tenant Database Isolation &lpar;Stop using if-statements&rpar;](https://dev.to/jacksonkasi/how-to-build-true-multi-tenant-database-isolation-stop-using-if-statements-1402)
-- [Refactoring a JavaScript class](https://dev.to/railsdesigner/refactoring-a-javascript-class-3opo)
-- [I built a share button that doesn&#39;t assume where you live on the open social web](https://dev.to/rmichaelthomas/i-built-a-share-button-that-doesnt-assume-where-you-live-on-the-open-social-web-jl0)
-- [Home Assistant vs SmartThings vs Hubitat: Which Smart Home Hub in 2026?](https://dev.to/techpulselab/home-assistant-vs-smartthings-vs-hubitat-which-smart-home-hub-in-2026-5ajo)
-- [AgentOps: The Discipline Missing From Your AI Deployment Stack](https://dev.to/waxell/agentops-the-discipline-missing-from-your-ai-deployment-stack-16i4)
+- [[Boost]](https://dev.to/jonmarkgo/-59b4)
+- [From AI Chat tool to Autonomous Solvers: A Developer’s Guide to AI Agents](https://dev.to/vinod_wa/from-ai-chat-tool-to-autonomous-solvers-a-developers-guide-to-ai-agents-38dk)
+- [Beyond Static Limits: Adaptive Concurrency with TCP-Vegas in Go](https://dev.to/onurcinar/beyond-static-limits-adaptive-concurrency-with-tcp-vegas-in-go-3gne)
+- [The Deployment That Taught Me More Than Any Tutorial](https://dev.to/mindmagic/the-deployment-that-taught-me-more-than-any-tutorial-4011)
+- [The Night I Debugged a Relationship Like Production Code](https://dev.to/mindmagic/the-night-i-debugged-a-relationship-like-production-code-f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
