@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate your Creem payments with this OpenClaw Agent](https://dev.to/xand3rrx/automate-your-creem-payments-with-this-openclaw-agent-4ip5)
-- [Anthropic Just Mapped the Jobs AI Is Replacing First - Here&#39;s What the Data Actually Says](https://dev.to/boehner/anthropic-just-mapped-the-jobs-ai-is-replacing-first-heres-what-the-data-actually-says-de8)
-- [Episode 2: I Was a Junior Developer and I Must Be Stopped](https://dev.to/adamthedeveloper/episode-2-i-was-a-junior-developer-and-i-must-be-stopped-1jom)
-- [Building AI-Powered Incident Management for Healthcare APIs using .NET](https://dev.to/rangasreenivas/building-ai-powered-incident-management-for-healthcare-apis-using-net-33f6)
-- [What You&#39;re Installing When You Add an MCP Server](https://dev.to/mistaike_ai/what-youre-installing-when-you-add-an-mcp-server-11ij)
+- [A laughing RAT: CrystalX combines spyware, stealer, and prankware features](https://dev.to/mark0_617b45cda9782a/a-laughing-rat-crystalx-combines-spyware-stealer-and-prankware-features-1kl3)
+- [Why a Clean Vulnerability Scan Report Can Be Your Biggest Security Risk](https://dev.to/kuboidsecurelayer/why-a-clean-vulnerability-scan-report-can-be-your-biggest-security-risk-2moj)
+- [Your Terminal Deserves Better. Oh My Zsh Agrees.](https://dev.to/mcheremnov/your-terminal-deserves-better-oh-my-zsh-agrees-4h76)
+- [Self-Hosted AI in 2026: Automating Your Linux Workflow with n8n and Ollama](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-n8n-and-ollama-4934)
+- [Why the same codebase should always produce the same audit score](https://dev.to/intentguard_ole/why-the-same-codebase-should-always-produce-the-same-audit-score-1fed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
