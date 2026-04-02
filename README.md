@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3.6-Plus API: ชนะ Claude บน Terminal Benchmarks](https://dev.to/thanawat_wonchai/qwen36-plus-api-chna-claude-bn-terminal-benchmarks-4p56)
-- [Addressing Common Developer Criticisms of Python: Balancing Strengths and Weaknesses](https://dev.to/serbyte/addressing-common-developer-criticisms-of-python-balancing-strengths-and-weaknesses-3pm3)
-- [Debugging a CLI Tool Blindspot: Why &quot;Reload&quot; Commands Don&#39;t Always Reload Everything](https://dev.to/bailorgana/debugging-a-cli-tool-blindspot-why-reload-commands-dont-always-reload-everything-55g8)
-- [I built a zero-dependency portfolio template — here&#39;s what I learned](https://dev.to/diyoriko/i-built-a-zero-dependency-portfolio-template-heres-what-i-learned-1koh)
-- [I built a 1500-Level Puzzle Game in Pure Vanilla JS &lpar;And how AI helped me solve the hardest part&rpar;](https://dev.to/moksh_jalendra_e5cdf12bbc/i-built-a-1500-level-puzzle-game-in-pure-vanilla-js-and-how-ai-helped-me-solve-the-hardest-part-2m6o)
+- [I Built My Own System Design Tool Because Nothing Free Was Good Enough](https://dev.to/gobare13/i-built-my-own-system-design-tool-because-nothing-free-was-good-enough-3o72)
+- [Tool Dispatch: A Dictionary Replaces a Switch Statement and Scales to 14 Tools](https://dev.to/ivan_magda_8417a0295eb014/tool-dispatch-a-dictionary-replaces-a-switch-statement-and-scales-to-14-tools-2ci5)
+- [I Built a Smart App to Organize My Entire Life &lpar;Day 2 Progress&rpar;](https://dev.to/lifeorder_42/i-built-a-smart-app-to-organize-my-entire-life-day-2-progress-48gj)
+- [I built a daily Telegram channel that posts one random chemical compound every evening](https://dev.to/onnaneko/i-built-a-daily-telegram-channel-that-posts-one-random-chemical-compound-every-evening-400i)
+- [Storage solutions with Midnight - handling off-chain data with privacy](https://dev.to/levai/storage-solutions-with-midnight-handling-off-chain-data-with-privacy-2mm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
