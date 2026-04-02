@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building TokenBar taught me that shipping fast is not the same as shipping smart](https://dev.to/godnick/building-tokenbar-taught-me-that-shipping-fast-is-not-the-same-as-shipping-smart-3dme)
-- [I Built a RAG System to Chat With Newton&#39;s Entire Wikipedia](https://dev.to/dhaivat_jambudia/i-built-a-rag-system-to-chat-with-newtons-entire-wikipedia-1ndg)
-- [Terraform Lab: Using `locals` &lpar;Real Project Style&rpar;](https://dev.to/jumptotech/terraform-lab-using-locals-real-project-style-2lhl)
-- [I Built a Star Trek LCARS Terminal to Manage My Claude Code Setup](https://dev.to/snozberryface/i-built-a-star-trek-lcars-terminal-to-manage-my-claude-code-setup-1b0e)
-- [Introducing Open-Source AI Self-Driving Testing](https://dev.to/scafati98/introducing-open-source-ai-self-driving-testing-49nb)
+- [10 AWS Security Misconfigurations Found in 90% of Accounts](https://dev.to/dannysteenman/10-aws-security-misconfigurations-found-in-90-of-accounts-835)
+- [AWS CDK Best Practices: The Complete Guide [2026]](https://dev.to/dannysteenman/aws-cdk-best-practices-the-complete-guide-2026-2nhg)
+- [CSS- intro](https://dev.to/preethi_sunil_caf7d1dad16_77/css-intro-33l4)
+- [Getting Started With Seal Report: Applying Custom Joins](https://dev.to/vladg_dev/getting-started-with-seal-report-applying-custom-joins-322p)
+- [The Archetypal Go Program: Servers, Goroutines, and Scheduling](https://dev.to/lbvf50mobile/the-archetypal-go-program-servers-goroutines-and-scheduling-1dge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
