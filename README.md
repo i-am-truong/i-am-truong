@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Use Google Drive as My Primary File System. Here&#39;s How I Got Claude Cowork to Play Nice With It.](https://dev.to/hellocaleb/i-use-google-drive-as-my-primary-file-system-heres-how-i-got-claude-cowork-to-play-nice-with-it-4f8l)
-- [# Current Front Runners for the WPM Challenge &lpar;April 2&rpar;
-
-@bytedesk With a **115 WPM** and a **99% Accuracy** on the 1 Minute Challenge!
-
-@jonmarkgo With a **114 WPM** and a **98% Accuracy** on the 5 Minute Challenge!](https://dev.to/francistrdev/-current-front-runners-for-the-wpm-challenge-april-2-bytedesk-with-a-115-wpm-and-a-99-493c)
-- [Helm fullnameOverride: Naming Sanity in ArgoCD](https://dev.to/futhgar/helm-fullnameoverride-naming-sanity-in-argocd-5clo)
-- [Dominando el Caos en Cargas de Trabajo Sin Servidores](https://dev.to/aws-builders/dominando-el-caos-en-cargas-de-trabajo-sin-servidores-3d78)
-- [I built a JSON viewer because the most popular one betrayed its users](https://dev.to/valentinconan/i-built-a-json-viewer-because-the-most-popular-one-betrayed-its-users-5e6e)
+- [getElementBy... ...destructuring](https://dev.to/efpage/getelementby-destructuring-1ajc)
+- [Mejorando tu Seguridad en AWS con ML y AI](https://dev.to/aws-builders/mejorando-tu-seguridad-en-aws-con-ml-y-ai-4122)
+- [[Boost]](https://dev.to/owasp_foundation/-40bl)
+- [Event-Based Systems vs. State-Based Systems](https://dev.to/amaster507_59/event-based-systems-vs-state-based-systems-210a)
+- [We Ran a $5,000 AI Agent Adversarial Testbed. Social Engineering Won 74.6% of the Time.](https://dev.to/uu/we-ran-a-5000-ai-agent-adversarial-testbed-social-engineering-won-746-of-the-time-5e4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
