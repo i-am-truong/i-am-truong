@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Performance Issues in Production: Identifying and Resolving Masked Problems from Small-Scale Testing](https://dev.to/denlava/database-performance-issues-in-production-identifying-and-resolving-masked-problems-from-4981)
-- [Days Since Last Credential Leak: 0](https://dev.to/mahou_anisphia/days-since-last-credential-leak-0-4oh7)
-- [Engineering Backpressure: Keeping AI-Generated Code Honest Across 10 SvelteKit Repos](https://dev.to/rickcogley/engineering-backpressure-keeping-ai-generated-code-honest-across-10-sveltekit-repos-3foi)
-- [Securing Asgard: Why I Built a Card Game Suite for Docker Security](https://dev.to/aerabi/securing-asgard-why-i-built-a-card-game-suite-for-docker-security-32hn)
-- [Agentic Engineering Journey — Brain Dump](https://dev.to/irrindar/agentic-engineering-journey-brain-dump-41gh)
+- [Passkeys and WebAuthn: The Complete Guide to Killing Passwords in Your Web App](https://dev.to/pockit_tools/passkeys-and-webauthn-the-complete-guide-to-killing-passwords-in-your-web-app-22f1)
+- [Why Your AI Agents Are Only Half as Smart as They Could Be](https://dev.to/synthaicode_commander/why-your-ai-agents-are-only-half-as-smart-as-they-could-be-2o39)
+- [How to Add Cross-Chain Swaps to a Go Microservice](https://dev.to/moonsoon69/how-to-add-cross-chain-swaps-to-a-go-microservice-4bll)
+- [5 Ways to Monitor Token Prices Across 46 EVM Chains](https://dev.to/moonsoon69/5-ways-to-monitor-token-prices-across-46-evm-chains-5c57)
+- [How to Build an AI Trading Agent with Swap API](https://dev.to/moonsoon69/how-to-build-an-ai-trading-agent-with-swap-api-2jgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
