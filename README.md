@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Paying $200/Month for Claude. Anthropic Quietly Downgraded What I&#39;m Getting.](https://dev.to/lostbeard/im-paying-200month-for-claude-anthropic-quietly-downgraded-what-im-getting-4869)
-- [The Best Wattpad Alternatives for Writers in 2026](https://dev.to/samdreamsmaker/the-best-wattpad-alternatives-for-writers-in-2026-4479)
-- [How to Write a Screenplay: A Developer&#39;s Guide to Fountain Format](https://dev.to/samdreamsmaker/how-to-write-a-screenplay-a-developers-guide-to-fountain-format-58gm)
-- [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf)
-- [I Dropped 8 Geniuses Into a Room and Asked: &quot;What Is the Point of Life?&quot; *Then I played God.*](https://dev.to/kyeong_sunkim_f3ec9f5af4/i-dropped-8-geniuses-into-a-room-and-asked-what-is-the-point-of-life-then-i-played-god-5gal)
+- [What does Cursor 3 mean for API developers?](https://dev.to/apilover/what-does-cursor-3-mean-for-api-developers-37o5)
+- [Five Agent Memory Types in LangGraph: A Deep Code Walkthrough &lpar;Part 2&rpar;](https://dev.to/sreeni5018/five-agent-memory-types-in-langgraph-a-deep-code-walkthrough-part-2-17kb)
+- [Layered Context Routing for Campus Operations: A Facilities Intake PoC](https://dev.to/exploredataaiml/layered-context-routing-for-campus-operations-a-facilities-intake-poc-41b2)
+- [How Crypto Lending Actually Works Under the Hood: A Developer&#39;s Perspective](https://dev.to/kerryhank/how-crypto-lending-actually-works-under-the-hood-a-developers-perspective-11kh)
+- [Automating Landed Cost: The AI Advantage for ASEAN Sellers](https://dev.to/ken_deng_ai/automating-landed-cost-the-ai-advantage-for-asean-sellers-2g8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
