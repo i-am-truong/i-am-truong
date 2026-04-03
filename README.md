@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Resilient AI Agents: Stop Flaky LLM Calls from Crashing Your App 🛡️](https://dev.to/ozereray/how-to-build-resilient-ai-agents-stop-flaky-llm-calls-from-crashing-your-app-194f)
-- [Why Uber’s Go Monorepo Strategy Nearly Broke and How They Saved It](https://dev.to/speed_engineer/why-ubers-go-monorepo-strategy-nearly-broke-and-how-they-saved-it-23no)
-- [Best Agents SDK in 2026](https://dev.to/composiodev/best-agents-sdk-in-2026-7gg)
-- [Build Your First dApp on the Avalanche Fuji Network](https://dev.to/xavierop877/build-your-first-dapp-on-the-avalanche-fuji-network-18gi)
-- [Best Claude Code Gateway for Managing Costs](https://dev.to/therealmrmumba/best-claude-code-gateway-for-managing-costs-28c6)
+- [Stop Leaving Your Doors Open: 5 Essential Steps for Linux Server Hardening](https://dev.to/tamaa/stop-leaving-your-doors-open-5-essential-steps-for-linux-server-hardening-4cg3)
+- [My Local Python Setup Was Quietly Destroying Our Team&#39;s Productivity. Docker Fixed It.](https://dev.to/practical_tech_notes/my-local-python-setup-was-quietly-destroying-our-teams-productivity-docker-fixed-it-1647)
+- [Stop reinventing financial validation in TypeScript](https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf)
+- [The Real Cost of Free Website Monitoring](https://dev.to/daviddaadams_55/the-real-cost-of-free-website-monitoring-1go3)
+- [Alert Fatigue: Why Your Uptime Monitor Is Giving You Panic Attacks](https://dev.to/daviddaadams_55/alert-fatigue-why-your-uptime-monitor-is-giving-you-panic-attacks-5gpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
