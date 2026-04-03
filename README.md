@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A fresh look at the ORM landscape — and how the new ZenStack stacks up against Prisma and Drizzle.](https://dev.to/ymc9/a-fresh-look-at-the-orm-landscape-and-how-the-new-zenstack-stacks-up-against-prisma-and-drizzle-4p4l)
-- [I&#39;m 12 and I built a 2KB 0 dependency alternative to CASL!](https://dev.to/creeperkid2014/im-12-and-i-built-a-2kb-0-dependency-alternative-to-casl-g4a)
-- [You’ll Never Forget OOPS Relationships Again](https://dev.to/kirazxnxth/youll-never-forget-oops-relationships-again-ng7)
-- [How we researched 30 meal kit companies and what we found](https://dev.to/ioannism/how-we-researched-30-meal-kit-companies-and-what-we-found-48ki)
-- [Why OpenAI Buying TBPN Matters More Than It Looks](https://dev.to/damogallagher/why-openai-buying-tbpn-matters-more-than-it-looks-46dd)
+- [Homelab HA Kubernetes Cluster Upgrade: My New Shrine / Altar](https://dev.to/ezejioforog/homelab-ha-kubernetes-cluster-upgrade-my-new-shrine-altar-5c34)
+- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
+- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
+- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
+- [Profiling Puppeteer Memory Usage in Node.js](https://dev.to/dennis-ddev/profiling-puppeteer-memory-usage-in-nodejs-5a88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
