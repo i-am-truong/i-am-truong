@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I am building a Notebook Environment for SQL Inside a Database Client](https://dev.to/debba/i-am-building-a-notebook-environment-for-sql-inside-a-database-client-22j7)
-- [Prediction Cone | Safe triangle](https://dev.to/pavlusha311245/prediction-cone-safe-triangle-4ki0)
-- [JavaScript ile Çoklu Zaman Dilimi &lpar;Timezone&rpar; Yönetimi: Aklınızı Kaybetmeden Dünya Saati Yapmak](https://dev.to/onlinealarmclock/javascript-ile-coklu-zaman-dilimi-timezone-yonetimi-aklinizi-kaybetmeden-dunya-saati-yapmak-3l8k)
-- [A Production Readiness Checklist for Remote MCP Servers](https://dev.to/supertrained/a-production-readiness-checklist-for-remote-mcp-servers-i7c)
-- [Nginx + PHP + MySQL Optimisations and Parameter Calculations](https://dev.to/addwebsolutionpvtltd/nginx-php-mysql-optimisations-and-parameter-calculations-3min)
+- [Batch Transactions for AI Agents: Execute Multiple Operations Atomically](https://dev.to/walletguy/batch-transactions-for-ai-agents-execute-multiple-operations-atomically-3n7e)
+- [First 7 months as a remote Flutter app developer in a startup](https://dev.to/md_dildar_mandal/first-7-months-as-a-remote-flutter-app-developer-in-a-startup-p7c)
+- [Getting Started with Claude Code - A Complete Beginner&#39;s Guide](https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j)
+- [Automate Competitor Price Tracking: Turn One-Off Scrapes into Weekly Audits](https://dev.to/anderecit/automate-competitor-price-tracking-turn-one-off-scrapes-into-weekly-audits-1kd7)
+- [The Complete Guide to Cloud Networking Costs: VPCs, NAT Gateways &amp; Data Transfer](https://dev.to/muskan_8abedcc7e12/the-complete-guide-to-cloud-networking-costs-vpcs-nat-gateways-data-transfer-1oh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
