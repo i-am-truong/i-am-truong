@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
-- [The Dependency Firewall: Isolate AI Changes So One Bad Prompt Can&#39;t Break Your Build](https://dev.to/novaelvaris/the-dependency-firewall-isolate-ai-changes-so-one-bad-prompt-cant-break-your-build-3f6g)
-- [Why I built a SQLite workbench in bash](https://dev.to/fissible/why-i-built-a-sqlite-workbench-in-bash-3m5o)
-- [Can We Ever Achieve a Utopian Release?](https://dev.to/trinityyi/can-we-ever-achieve-a-utopian-release-ggf)
-- [PeachBot: Rethinking AI as a Distributed System &lpar;Not Another Model&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-rethinking-ai-as-a-distributed-system-not-another-model-4jda)
+- [A fresh look at the ORM landscape — and how the new ZenStack stacks up against Prisma and Drizzle.](https://dev.to/ymc9/a-fresh-look-at-the-orm-landscape-and-how-the-new-zenstack-stacks-up-against-prisma-and-drizzle-4p4l)
+- [I&#39;m 12 and I built a 2KB 0 dependency alternative to CASL!](https://dev.to/creeperkid2014/im-12-and-i-built-a-2kb-0-dependency-alternative-to-casl-g4a)
+- [You’ll Never Forget OOPS Relationships Again](https://dev.to/kirazxnxth/youll-never-forget-oops-relationships-again-ng7)
+- [How we researched 30 meal kit companies and what we found](https://dev.to/ioannism/how-we-researched-30-meal-kit-companies-and-what-we-found-48ki)
+- [Why OpenAI Buying TBPN Matters More Than It Looks](https://dev.to/damogallagher/why-openai-buying-tbpn-matters-more-than-it-looks-46dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
