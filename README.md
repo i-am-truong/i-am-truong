@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What does Cursor 3 mean for API developers?](https://dev.to/apilover/what-does-cursor-3-mean-for-api-developers-37o5)
-- [Five Agent Memory Types in LangGraph: A Deep Code Walkthrough &lpar;Part 2&rpar;](https://dev.to/sreeni5018/five-agent-memory-types-in-langgraph-a-deep-code-walkthrough-part-2-17kb)
-- [Layered Context Routing for Campus Operations: A Facilities Intake PoC](https://dev.to/exploredataaiml/layered-context-routing-for-campus-operations-a-facilities-intake-poc-41b2)
-- [How Crypto Lending Actually Works Under the Hood: A Developer&#39;s Perspective](https://dev.to/kerryhank/how-crypto-lending-actually-works-under-the-hood-a-developers-perspective-11kh)
-- [Automating Landed Cost: The AI Advantage for ASEAN Sellers](https://dev.to/ken_deng_ai/automating-landed-cost-the-ai-advantage-for-asean-sellers-2g8m)
+- [MCP is the Future of AI Tools: Here&#39;s How to Use It in TypeScript](https://dev.to/neurolink/mcp-is-the-future-of-ai-tools-heres-how-to-use-it-in-typescript-25b0)
+- [Running ChatGPT, Claude, and Gemini in One TypeScript App](https://dev.to/neurolink/running-chatgpt-claude-and-gemini-in-one-typescript-app-47pm)
+- [Grid: A Private, Open-Source Location Sharing Solution](https://dev.to/stelixx-insider/grid-a-private-open-source-location-sharing-solution-1c5d)
+- [跳出幸存者偏差，从结构性资源分配解析财富真相](https://dev.to/zhhk1h/tiao-chu-xing-cun-zhe-pian-chai-cong-jie-gou-xing-zi-yuan-fen-pei-jie-xi-cai-fu-zhen-xiang-4ci2)
+- [Decision Trees from Data: Building Context-Aware Models](https://dev.to/mabualzait/decision-trees-from-data-building-context-aware-models-2knl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
