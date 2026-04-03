@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Passkeys and WebAuthn: The Complete Guide to Killing Passwords in Your Web App](https://dev.to/pockit_tools/passkeys-and-webauthn-the-complete-guide-to-killing-passwords-in-your-web-app-22f1)
-- [Why Your AI Agents Are Only Half as Smart as They Could Be](https://dev.to/synthaicode_commander/why-your-ai-agents-are-only-half-as-smart-as-they-could-be-2o39)
-- [How to Add Cross-Chain Swaps to a Go Microservice](https://dev.to/moonsoon69/how-to-add-cross-chain-swaps-to-a-go-microservice-4bll)
-- [5 Ways to Monitor Token Prices Across 46 EVM Chains](https://dev.to/moonsoon69/5-ways-to-monitor-token-prices-across-46-evm-chains-5c57)
-- [How to Build an AI Trading Agent with Swap API](https://dev.to/moonsoon69/how-to-build-an-ai-trading-agent-with-swap-api-2jgi)
+- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
+- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
+- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl)
+- [AI-Based Medicinal Plant Leaf Analysis System](https://dev.to/surya_saketh_2ad73f686fdf/ai-based-medicinal-plant-leaf-analysis-system-3pj6)
+- [I Was Paying $0.006 Per URL for SEO Audits Until I Realized Most Needed $0](https://dev.to/dannwaneri/i-was-paying-0006-per-url-for-seo-audits-until-i-realized-most-needed-0-132j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
