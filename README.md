@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of XML Doc Comments, So I Built My Own Visual Studio Extension](https://dev.to/akp_2806/i-got-tired-of-xml-doc-comments-so-i-built-my-own-visual-studio-extension-3hd6)
-- [Product-Market Fit: 25 Signs You Have It + The Complete Measurement Checklist](https://dev.to/iris1031/product-market-fit-25-signs-you-have-it-the-complete-measurement-checklist-1mgc)
-- [Slack vs Microsoft Teams in 2026: I Analyzed Both for 6 Months : Here&#39;s What Most Reviews Won&#39;t Tell You](https://dev.to/trulycritic/slack-vs-microsoft-teams-in-2026-i-analyzed-both-for-6-months-heres-what-most-reviews-wont-49jm)
-- [Zero Trust for AI Agents: Why Identity-Based Security Collapses When Machines Call the Shots](https://dev.to/mattdeangit/zero-trust-for-ai-agents-why-identity-based-security-collapses-when-machines-call-the-shots-56gb)
-- [Navigating IoT Connectivity: BLE vs. Wi-Fi for Your Next Android Project](https://dev.to/ble_advertiser/navigating-iot-connectivity-ble-vs-wi-fi-for-your-next-android-project-49cf)
+- [Multiplayer Challenges](https://dev.to/jesuspinarte/multiplayer-challenges-1onb)
+- [The Trusted Document Problem: Why Indirect Prompt Injection Is Now Your AI Agent&#39;s #1 Security Risk](https://dev.to/waxell/the-trusted-document-problem-why-indirect-prompt-injection-is-now-your-ai-agents-1-security-risk-5c14)
+- [Building a calculator MCP for Claude/Cursor: what 100+ downloads taught us](https://dev.to/yonatan_naor_5642e43447ea/building-a-calculator-mcp-for-claudecursor-what-100-downloads-taught-us-6k9)
+- [I Lost $15K to Bot Traffic in One Month — Here&#39;s What I Built to Stop It](https://dev.to/chaanli/i-lost-15k-to-bot-traffic-in-one-month-heres-what-i-built-to-stop-it-5e5e)
+- [I built a BIP-39 seed phrase scanner that reads raw disk sectors - and just open-sourced the engine](https://dev.to/mmediasoftwarelab/i-built-a-bip-39-seed-phrase-scanner-that-reads-raw-disk-sectors-and-just-open-sourced-the-engine-1jlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
