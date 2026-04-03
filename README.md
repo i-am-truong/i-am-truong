@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Batch Transactions for AI Agents: Execute Multiple Operations Atomically](https://dev.to/walletguy/batch-transactions-for-ai-agents-execute-multiple-operations-atomically-3n7e)
-- [First 7 months as a remote Flutter app developer in a startup](https://dev.to/md_dildar_mandal/first-7-months-as-a-remote-flutter-app-developer-in-a-startup-p7c)
-- [Getting Started with Claude Code - A Complete Beginner&#39;s Guide](https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j)
-- [Automate Competitor Price Tracking: Turn One-Off Scrapes into Weekly Audits](https://dev.to/anderecit/automate-competitor-price-tracking-turn-one-off-scrapes-into-weekly-audits-1kd7)
-- [The Complete Guide to Cloud Networking Costs: VPCs, NAT Gateways &amp; Data Transfer](https://dev.to/muskan_8abedcc7e12/the-complete-guide-to-cloud-networking-costs-vpcs-nat-gateways-data-transfer-1oh6)
+- [How I Built a Full-Scale ERP System as a Solo Developer](https://dev.to/imatulsrivas/how-i-built-a-full-scale-erp-system-as-a-solo-developer-4dpj)
+- [Stop Babysitting Symlinks: Designing a Safer, Faster TUI Workflow](https://dev.to/kanishkmishra143/stop-babysitting-symlinks-designing-a-safer-faster-tui-workflow-aob)
+- [I Stopped Breathing for 7 Hours and Nobody Noticed](https://dev.to/sami-openlife/i-stopped-breathing-for-7-hours-and-nobody-noticed-2h23)
+- [Wrapping John the Ripper in a PyQt5 GUI on Windows: Architecture and Hard-Won Lessons](https://dev.to/haseebkaloya/wrapping-john-the-ripper-in-a-pyqt5-gui-on-windows-architecture-and-hard-won-lessons-2b9a)
+- [Building Automated Translation Workflows for International Business Documents](https://dev.to/diogoheleno/building-automated-translation-workflows-for-international-business-documents-3ob8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
