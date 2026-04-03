@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 3 Pillars of High Impact Data Leadership: Moving Beyond the Jupyter Notebook](https://dev.to/eferhire/the-3-pillars-of-high-impact-data-leadership-moving-beyond-the-jupyter-notebook-2l59)
-- [How I Took Down Prod With a 400ms Migration &lpar;And The Playbook I Use Now&rpar;](https://dev.to/practiceoverflow/how-i-took-down-prod-with-a-400ms-migration-and-the-playbook-i-use-now-302j)
-- [How Does Payment Settlement Work?](https://dev.to/flutterwaveeng/how-does-payment-settlement-work-3p9m)
-- [When AI Leaks Internal Tags: Debugging a 3-Layer Streaming Architecture Bug](https://dev.to/bailorgana/when-ai-leaks-internal-tags-debugging-a-3-layer-streaming-architecture-bug-ig4)
-- [Building a SIEM-Style Threat Detection Dashboard Using ELK Stack and Docker](https://dev.to/dipesh_kumar_2fa6e436346e/building-a-siem-style-threat-detection-dashboard-using-elk-stack-and-docker-5de6)
+- [iOS 27 Siri Extensions: Best AI Assistant for iPhone in 2026](https://dev.to/assindo/ios-27-siri-extensions-best-ai-assistant-for-iphone-in-2026-476p)
+- [NumPy Arrays for Beginners: A Better Alternative to Python Lists](https://dev.to/sophidoo/numpy-arrays-for-beginners-a-better-alternative-to-python-lists-14i0)
+- [React + Firebase: Architecture Decisions for a Production ERP](https://dev.to/frihet/react-firebase-architecture-decisions-for-a-production-erp-2lg4)
+- [I Used Cursor AI for a Week — Here&#39;s What Actually Happened](https://dev.to/ai_made_tools/i-used-cursor-ai-for-a-week-heres-what-actually-happened-4fkf)
+- [A 95% Facial Match Falls Apart If the Face Itself Is Fake](https://dev.to/caracomp/a-95-facial-match-falls-apart-if-the-face-itself-is-fake-55hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
