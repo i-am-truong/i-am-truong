@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Roadmap: Zero to Production](https://dev.to/vinod_wa/ai-agents-roadmap-zero-to-production-2ohe)
-- [The Evolution of Our Collection: From Hobby to Visionary Dream](https://dev.to/james_jhon/the-evolution-of-our-collection-from-hobby-to-visionary-dream-41ha)
-- [Understanding Resize Observer in Modern Web Development](https://dev.to/manoj_004d/understanding-resize-observer-in-modern-web-development-3gij)
-- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
-- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
+- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
+- [The Dependency Firewall: Isolate AI Changes So One Bad Prompt Can&#39;t Break Your Build](https://dev.to/novaelvaris/the-dependency-firewall-isolate-ai-changes-so-one-bad-prompt-cant-break-your-build-3f6g)
+- [Why I built a SQLite workbench in bash](https://dev.to/fissible/why-i-built-a-sqlite-workbench-in-bash-3m5o)
+- [Can We Ever Achieve a Utopian Release?](https://dev.to/trinityyi/can-we-ever-achieve-a-utopian-release-ggf)
+- [PeachBot: Rethinking AI as a Distributed System &lpar;Not Another Model&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-rethinking-ai-as-a-distributed-system-not-another-model-4jda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
