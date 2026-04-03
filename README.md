@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP is the Future of AI Tools: Here&#39;s How to Use It in TypeScript](https://dev.to/neurolink/mcp-is-the-future-of-ai-tools-heres-how-to-use-it-in-typescript-25b0)
-- [Running ChatGPT, Claude, and Gemini in One TypeScript App](https://dev.to/neurolink/running-chatgpt-claude-and-gemini-in-one-typescript-app-47pm)
-- [Grid: A Private, Open-Source Location Sharing Solution](https://dev.to/stelixx-insider/grid-a-private-open-source-location-sharing-solution-1c5d)
-- [跳出幸存者偏差，从结构性资源分配解析财富真相](https://dev.to/zhhk1h/tiao-chu-xing-cun-zhe-pian-chai-cong-jie-gou-xing-zi-yuan-fen-pei-jie-xi-cai-fu-zhen-xiang-4ci2)
-- [Decision Trees from Data: Building Context-Aware Models](https://dev.to/mabualzait/decision-trees-from-data-building-context-aware-models-2knl)
+- [I am building a Notebook Environment for SQL Inside a Database Client](https://dev.to/debba/i-am-building-a-notebook-environment-for-sql-inside-a-database-client-22j7)
+- [Prediction Cone | Safe triangle](https://dev.to/pavlusha311245/prediction-cone-safe-triangle-4ki0)
+- [JavaScript ile Çoklu Zaman Dilimi &lpar;Timezone&rpar; Yönetimi: Aklınızı Kaybetmeden Dünya Saati Yapmak](https://dev.to/onlinealarmclock/javascript-ile-coklu-zaman-dilimi-timezone-yonetimi-aklinizi-kaybetmeden-dunya-saati-yapmak-3l8k)
+- [A Production Readiness Checklist for Remote MCP Servers](https://dev.to/supertrained/a-production-readiness-checklist-for-remote-mcp-servers-i7c)
+- [Nginx + PHP + MySQL Optimisations and Parameter Calculations](https://dev.to/addwebsolutionpvtltd/nginx-php-mysql-optimisations-and-parameter-calculations-3min)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
