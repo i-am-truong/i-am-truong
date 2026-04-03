@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Homelab HA Kubernetes Cluster Upgrade: My New Shrine / Altar](https://dev.to/ezejioforog/homelab-ha-kubernetes-cluster-upgrade-my-new-shrine-altar-5c34)
-- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
-- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
-- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
-- [Profiling Puppeteer Memory Usage in Node.js](https://dev.to/dennis-ddev/profiling-puppeteer-memory-usage-in-nodejs-5a88)
+- [MCP Observability: Logging, Auditing, and Debugging Agent-Server Interactions in Production](https://dev.to/supertrained/mcp-observability-logging-auditing-and-debugging-agent-server-interactions-in-production-14g2)
+- [Efficient Real-Time Flight Tracking in Browsers: Framework-Free, Cross-Platform Solution](https://dev.to/maxgeris/efficient-real-time-flight-tracking-in-browsers-framework-free-cross-platform-solution-35ha)
+- [I Built a Visual Spec-Driven Development Extension for VS Code That Works With Any LLM](https://dev.to/fabian_silva_/i-built-a-visual-spec-driven-development-extension-for-vs-code-that-works-with-any-llm-36ok)
+- [FinancialClaw: making OpenClaw useful for personal finance](https://dev.to/riclara/financialclaw-making-openclaw-useful-for-personal-finance-6i6)
+- [OpenAI acquires TBPN](https://dev.to/minimal-architect/openai-acquires-tbpn-m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
