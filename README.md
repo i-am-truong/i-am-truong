@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaving Your Doors Open: 5 Essential Steps for Linux Server Hardening](https://dev.to/tamaa/stop-leaving-your-doors-open-5-essential-steps-for-linux-server-hardening-4cg3)
-- [My Local Python Setup Was Quietly Destroying Our Team&#39;s Productivity. Docker Fixed It.](https://dev.to/practical_tech_notes/my-local-python-setup-was-quietly-destroying-our-teams-productivity-docker-fixed-it-1647)
-- [Stop reinventing financial validation in TypeScript](https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf)
-- [The Real Cost of Free Website Monitoring](https://dev.to/daviddaadams_55/the-real-cost-of-free-website-monitoring-1go3)
-- [Alert Fatigue: Why Your Uptime Monitor Is Giving You Panic Attacks](https://dev.to/daviddaadams_55/alert-fatigue-why-your-uptime-monitor-is-giving-you-panic-attacks-5gpl)
+- [How to Roll Back a Failed Deployment in 30 Seconds](https://dev.to/deploynix/how-to-roll-back-a-failed-deployment-in-30-seconds-25ok)
+- [Who&#39;s hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6)
+- [Scraped 300 pages successfully. Site updated robots.txt at page 187 and blocked me.](https://dev.to/nicodev__/scraped-300-pages-successfully-site-updated-robotstxt-at-page-187-and-blocked-me-28k)
+- [I built an npm malware scanner in Rust because npm audit isn&#39;t enough](https://dev.to/poolcamacho/i-built-an-npm-malware-scanner-in-rust-because-npm-audit-isnt-enough-3j5b)
+- [MCP App CSP Explained: Why Your Widget Won&#39;t Render](https://dev.to/cptrodgers/mcp-app-csp-explained-why-your-widget-wont-render-9n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
