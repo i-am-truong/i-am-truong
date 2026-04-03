@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Roll Back a Failed Deployment in 30 Seconds](https://dev.to/deploynix/how-to-roll-back-a-failed-deployment-in-30-seconds-25ok)
-- [Who&#39;s hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6)
-- [Scraped 300 pages successfully. Site updated robots.txt at page 187 and blocked me.](https://dev.to/nicodev__/scraped-300-pages-successfully-site-updated-robotstxt-at-page-187-and-blocked-me-28k)
-- [I built an npm malware scanner in Rust because npm audit isn&#39;t enough](https://dev.to/poolcamacho/i-built-an-npm-malware-scanner-in-rust-because-npm-audit-isnt-enough-3j5b)
-- [MCP App CSP Explained: Why Your Widget Won&#39;t Render](https://dev.to/cptrodgers/mcp-app-csp-explained-why-your-widget-wont-render-9n1)
+- [Citrix NetScaler CVE-2026-3055: Two Memory Overread Bugs, One CVE, Active Exploitation](https://dev.to/orthogonalinfo/citrix-netscaler-cve-2026-3055-two-memory-overread-bugs-one-cve-active-exploitation-6eb)
+- [9 AppArmor Kernel Bugs Hidden Since 2017 — Root Escalation, Container Escape, and 12.6M Linux Systems Exposed](https://dev.to/firstpasslab/9-apparmor-kernel-bugs-hidden-since-2017-root-escalation-container-escape-and-126m-linux-i3p)
+- [I Tested Gemma 4 on My Laptop and Turned It Into a Free Intelligence Layer for My AI Apps](https://dev.to/david_shawn_e308bed98c45b/i-tested-gemma-4-on-my-laptop-and-turned-it-into-a-free-intelligence-layer-for-my-ai-apps-8dh)
+- [I built a consent-based trust verification platform for dating — here&#39;s the tech stack](https://dev.to/guyid/i-built-a-consent-based-trust-verification-platform-for-dating-heres-the-tech-stack-1e8c)
+- [I built an honest Amazon review scorer. Here&#39;s what 478 shoppers told us about why returns are broken.](https://dev.to/chad_musselman_f3bbf4cc78/i-built-an-honest-amazon-review-scorer-heres-what-478-shoppers-told-us-about-why-returns-are-8bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
