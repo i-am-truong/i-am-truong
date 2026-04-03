@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 VRAM Requirements: The hardware guide I wish I had](https://dev.to/geek_/gemma-4-vram-requirements-the-hardware-guide-i-wish-i-had-3plo)
-- [The &quot;God Mode&quot; Problem with AI Agents &lpar;and why standard OAuth isn&#39;t enough&rpar;](https://dev.to/subramanyan08/the-god-mode-problem-with-ai-agents-and-why-standard-oauth-isnt-enough-48an)
-- [I Built an AI Image Upscaler — Welcome Any Feedback](https://dev.to/feixiang/i-built-an-ai-image-upscaler-welcome-any-feedback-3pen)
-- [Staying Open for Business on the Busiest Internet Shopping Day](https://dev.to/lowlifehighway/staying-open-for-business-on-the-busiest-internet-shopping-day-2gdd)
-- [How to Publish a Power BI Report and Embed It into a Website: A Complete Step-by-Step Guide](https://dev.to/ngugiauraa/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-a-complete-step-by-step-guide-o5f)
+- [I Built a Free Browser-Based online DWG file &amp; DXF file Viewer — No Install, No Signup](https://dev.to/enthusiasts/i-built-a-free-browser-based-dwg-dxf-viewer-no-install-no-signup-2m5e)
+- [Open Closed Principle &lpar;OCP&rpar;: Theory and Implementation in Swift](https://dev.to/cakoko/open-closed-principle-ocp-theory-and-implementation-in-swift-714)
+- [I built a monitoring tool because I’m tired of &quot;YAML Hell&quot; and $500 Datadog bills.](https://dev.to/sarvarim/i-built-a-monitoring-tool-because-im-tired-of-yaml-hell-and-500-datadog-bills-45fj)
+- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
+- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
