@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This Is What’s Really Hitting Your Website &lpar;Hint: Not People&rpar;](https://dev.to/gb26/this-is-whats-really-hitting-your-website-hint-not-people-31p6)
-- [Unit Testing in React Using Vitest — A Practical Guide](https://dev.to/thecoollearner/unit-testing-in-react-using-vitest-a-practical-guide-pbd)
-- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
-- [HIPAA Breach Notification Rules: A Technical Guide to What Triggers Reporting and How Fast You Need to Move](https://dev.to/joegellatly/hipaa-breach-notification-rules-a-technical-guide-to-what-triggers-reporting-and-how-fast-you-need-2lii)
-- [Day 2 - Updated the REST API Project using ResponseEntity](https://dev.to/bharathdhana/day-2-updated-the-rest-api-project-using-responseentity-l3d)
+- [I&#39;m Paying $200/Month for Claude. Anthropic Quietly Downgraded What I&#39;m Getting.](https://dev.to/lostbeard/im-paying-200month-for-claude-anthropic-quietly-downgraded-what-im-getting-4869)
+- [The Best Wattpad Alternatives for Writers in 2026](https://dev.to/samdreamsmaker/the-best-wattpad-alternatives-for-writers-in-2026-4479)
+- [How to Write a Screenplay: A Developer&#39;s Guide to Fountain Format](https://dev.to/samdreamsmaker/how-to-write-a-screenplay-a-developers-guide-to-fountain-format-58gm)
+- [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf)
+- [I Dropped 8 Geniuses Into a Room and Asked: &quot;What Is the Point of Life?&quot; *Then I played God.*](https://dev.to/kyeong_sunkim_f3ec9f5af4/i-dropped-8-geniuses-into-a-room-and-asked-what-is-the-point-of-life-then-i-played-god-5gal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
