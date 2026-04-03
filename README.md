@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Scale ERP System as a Solo Developer](https://dev.to/imatulsrivas/how-i-built-a-full-scale-erp-system-as-a-solo-developer-4dpj)
-- [Stop Babysitting Symlinks: Designing a Safer, Faster TUI Workflow](https://dev.to/kanishkmishra143/stop-babysitting-symlinks-designing-a-safer-faster-tui-workflow-aob)
-- [I Stopped Breathing for 7 Hours and Nobody Noticed](https://dev.to/sami-openlife/i-stopped-breathing-for-7-hours-and-nobody-noticed-2h23)
-- [Wrapping John the Ripper in a PyQt5 GUI on Windows: Architecture and Hard-Won Lessons](https://dev.to/haseebkaloya/wrapping-john-the-ripper-in-a-pyqt5-gui-on-windows-architecture-and-hard-won-lessons-2b9a)
-- [Building Automated Translation Workflows for International Business Documents](https://dev.to/diogoheleno/building-automated-translation-workflows-for-international-business-documents-3ob8)
+- [The 3 Pillars of High Impact Data Leadership: Moving Beyond the Jupyter Notebook](https://dev.to/eferhire/the-3-pillars-of-high-impact-data-leadership-moving-beyond-the-jupyter-notebook-2l59)
+- [How I Took Down Prod With a 400ms Migration &lpar;And The Playbook I Use Now&rpar;](https://dev.to/practiceoverflow/how-i-took-down-prod-with-a-400ms-migration-and-the-playbook-i-use-now-302j)
+- [How Does Payment Settlement Work?](https://dev.to/flutterwaveeng/how-does-payment-settlement-work-3p9m)
+- [When AI Leaks Internal Tags: Debugging a 3-Layer Streaming Architecture Bug](https://dev.to/bailorgana/when-ai-leaks-internal-tags-debugging-a-3-layer-streaming-architecture-bug-ig4)
+- [Building a SIEM-Style Threat Detection Dashboard Using ELK Stack and Docker](https://dev.to/dipesh_kumar_2fa6e436346e/building-a-siem-style-threat-detection-dashboard-using-elk-stack-and-docker-5de6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
