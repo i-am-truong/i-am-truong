@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Checkpoint System for Claude Code CLI — Never Lose Your Work Again](https://dev.to/alexdevson/i-built-a-checkpoint-system-for-claude-code-cli-never-lose-your-work-again-11fc)
-- [Como configurar o WSL para rodar em um HD externo](https://dev.to/jeanmfdias/como-configurar-o-wsl-para-rodar-em-um-hd-externo-315b)
-- [My 3-Month Startup Directory Submission Journey — What Actually Moved the Needle](https://dev.to/jim_l_efc70c3a738e9f4baa7/my-3-month-startup-directory-submission-journey-what-actually-moved-the-needle-gef)
-- [DualClip: multi-slot clipboard manager for macOS](https://dev.to/rakkunn/dualclip-multi-slot-clipboard-manager-44f5)
-- [The hidden system behind Tesla autonomy](https://dev.to/eagleeyethinker/the-hidden-system-behind-tesla-autonomy-5928)
+- [I Started Building a Roguelike RPG — Powered by On-Device AI #2](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-2-1pg2)
+- [Generic Undo Manager for React - Part 1](https://dev.to/math-krish/generic-undo-manager-for-react-part-1-3dfh)
+- [Supply Chain Security measures](https://dev.to/0xkoji/supply-chain-security-measures-55o3)
+- [7 Fatal Lighting Mistakes That Will Destroy Your Exhibition Stand](https://dev.to/gianni2009/7-fatal-lighting-mistakes-that-will-destroy-your-exhibition-stand-5856)
+- [I Started Building a Roguelike RPG — Powered by On-Device AI #1](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-2o4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
