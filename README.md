@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
-- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
-- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl)
-- [AI-Based Medicinal Plant Leaf Analysis System](https://dev.to/surya_saketh_2ad73f686fdf/ai-based-medicinal-plant-leaf-analysis-system-3pj6)
-- [I Was Paying $0.006 Per URL for SEO Audits Until I Realized Most Needed $0](https://dev.to/dannwaneri/i-was-paying-0006-per-url-for-seo-audits-until-i-realized-most-needed-0-132j)
+- [How to Build Resilient AI Agents: Stop Flaky LLM Calls from Crashing Your App 🛡️](https://dev.to/ozereray/how-to-build-resilient-ai-agents-stop-flaky-llm-calls-from-crashing-your-app-194f)
+- [Why Uber’s Go Monorepo Strategy Nearly Broke and How They Saved It](https://dev.to/speed_engineer/why-ubers-go-monorepo-strategy-nearly-broke-and-how-they-saved-it-23no)
+- [Best Agents SDK in 2026](https://dev.to/composiodev/best-agents-sdk-in-2026-7gg)
+- [Build Your First dApp on the Avalanche Fuji Network](https://dev.to/xavierop877/build-your-first-dapp-on-the-avalanche-fuji-network-18gi)
+- [Best Claude Code Gateway for Managing Costs](https://dev.to/therealmrmumba/best-claude-code-gateway-for-managing-costs-28c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
