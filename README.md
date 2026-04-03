@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [iOS 27 Siri Extensions: Best AI Assistant for iPhone in 2026](https://dev.to/assindo/ios-27-siri-extensions-best-ai-assistant-for-iphone-in-2026-476p)
-- [NumPy Arrays for Beginners: A Better Alternative to Python Lists](https://dev.to/sophidoo/numpy-arrays-for-beginners-a-better-alternative-to-python-lists-14i0)
-- [React + Firebase: Architecture Decisions for a Production ERP](https://dev.to/frihet/react-firebase-architecture-decisions-for-a-production-erp-2lg4)
-- [I Used Cursor AI for a Week — Here&#39;s What Actually Happened](https://dev.to/ai_made_tools/i-used-cursor-ai-for-a-week-heres-what-actually-happened-4fkf)
-- [A 95% Facial Match Falls Apart If the Face Itself Is Fake](https://dev.to/caracomp/a-95-facial-match-falls-apart-if-the-face-itself-is-fake-55hj)
+- [Gemma 4 VRAM Requirements: The hardware guide I wish I had](https://dev.to/geek_/gemma-4-vram-requirements-the-hardware-guide-i-wish-i-had-3plo)
+- [The &quot;God Mode&quot; Problem with AI Agents &lpar;and why standard OAuth isn&#39;t enough&rpar;](https://dev.to/subramanyan08/the-god-mode-problem-with-ai-agents-and-why-standard-oauth-isnt-enough-48an)
+- [I Built an AI Image Upscaler — Welcome Any Feedback](https://dev.to/feixiang/i-built-an-ai-image-upscaler-welcome-any-feedback-3pen)
+- [Staying Open for Business on the Busiest Internet Shopping Day](https://dev.to/lowlifehighway/staying-open-for-business-on-the-busiest-internet-shopping-day-2gdd)
+- [How to Publish a Power BI Report and Embed It into a Website: A Complete Step-by-Step Guide](https://dev.to/ngugiauraa/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-a-complete-step-by-step-guide-o5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
