@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Browser-Based online DWG file &amp; DXF file Viewer — No Install, No Signup](https://dev.to/enthusiasts/i-built-a-free-browser-based-dwg-dxf-viewer-no-install-no-signup-2m5e)
-- [Open Closed Principle &lpar;OCP&rpar;: Theory and Implementation in Swift](https://dev.to/cakoko/open-closed-principle-ocp-theory-and-implementation-in-swift-714)
-- [I built a monitoring tool because I’m tired of &quot;YAML Hell&quot; and $500 Datadog bills.](https://dev.to/sarvarim/i-built-a-monitoring-tool-because-im-tired-of-yaml-hell-and-500-datadog-bills-45fj)
-- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
-- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
+- [Database Performance Issues in Production: Identifying and Resolving Masked Problems from Small-Scale Testing](https://dev.to/denlava/database-performance-issues-in-production-identifying-and-resolving-masked-problems-from-4981)
+- [Days Since Last Credential Leak: 0](https://dev.to/mahou_anisphia/days-since-last-credential-leak-0-4oh7)
+- [Engineering Backpressure: Keeping AI-Generated Code Honest Across 10 SvelteKit Repos](https://dev.to/rickcogley/engineering-backpressure-keeping-ai-generated-code-honest-across-10-sveltekit-repos-3foi)
+- [Securing Asgard: Why I Built a Card Game Suite for Docker Security](https://dev.to/aerabi/securing-asgard-why-i-built-a-card-game-suite-for-docker-security-32hn)
+- [Agentic Engineering Journey — Brain Dump](https://dev.to/irrindar/agentic-engineering-journey-brain-dump-41gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
