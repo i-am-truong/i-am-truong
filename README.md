@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multiplayer Challenges](https://dev.to/jesuspinarte/multiplayer-challenges-1onb)
-- [The Trusted Document Problem: Why Indirect Prompt Injection Is Now Your AI Agent&#39;s #1 Security Risk](https://dev.to/waxell/the-trusted-document-problem-why-indirect-prompt-injection-is-now-your-ai-agents-1-security-risk-5c14)
-- [Building a calculator MCP for Claude/Cursor: what 100+ downloads taught us](https://dev.to/yonatan_naor_5642e43447ea/building-a-calculator-mcp-for-claudecursor-what-100-downloads-taught-us-6k9)
-- [I Lost $15K to Bot Traffic in One Month — Here&#39;s What I Built to Stop It](https://dev.to/chaanli/i-lost-15k-to-bot-traffic-in-one-month-heres-what-i-built-to-stop-it-5e5e)
-- [I built a BIP-39 seed phrase scanner that reads raw disk sectors - and just open-sourced the engine](https://dev.to/mmediasoftwarelab/i-built-a-bip-39-seed-phrase-scanner-that-reads-raw-disk-sectors-and-just-open-sourced-the-engine-1jlf)
+- [AI Agents Roadmap: Zero to Production](https://dev.to/vinod_wa/ai-agents-roadmap-zero-to-production-2ohe)
+- [The Evolution of Our Collection: From Hobby to Visionary Dream](https://dev.to/james_jhon/the-evolution-of-our-collection-from-hobby-to-visionary-dream-41ha)
+- [Understanding Resize Observer in Modern Web Development](https://dev.to/manoj_004d/understanding-resize-observer-in-modern-web-development-3gij)
+- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
+- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
