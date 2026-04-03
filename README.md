@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Citrix NetScaler CVE-2026-3055: Two Memory Overread Bugs, One CVE, Active Exploitation](https://dev.to/orthogonalinfo/citrix-netscaler-cve-2026-3055-two-memory-overread-bugs-one-cve-active-exploitation-6eb)
-- [9 AppArmor Kernel Bugs Hidden Since 2017 — Root Escalation, Container Escape, and 12.6M Linux Systems Exposed](https://dev.to/firstpasslab/9-apparmor-kernel-bugs-hidden-since-2017-root-escalation-container-escape-and-126m-linux-i3p)
-- [I Tested Gemma 4 on My Laptop and Turned It Into a Free Intelligence Layer for My AI Apps](https://dev.to/david_shawn_e308bed98c45b/i-tested-gemma-4-on-my-laptop-and-turned-it-into-a-free-intelligence-layer-for-my-ai-apps-8dh)
-- [I built a consent-based trust verification platform for dating — here&#39;s the tech stack](https://dev.to/guyid/i-built-a-consent-based-trust-verification-platform-for-dating-heres-the-tech-stack-1e8c)
-- [I built an honest Amazon review scorer. Here&#39;s what 478 shoppers told us about why returns are broken.](https://dev.to/chad_musselman_f3bbf4cc78/i-built-an-honest-amazon-review-scorer-heres-what-478-shoppers-told-us-about-why-returns-are-8bk)
+- [I Built a Game About My Own Death &lpar;And It&#39;s Based on Real Data&rpar;](https://dev.to/solido/i-built-a-game-about-my-own-death-and-its-based-on-real-data-5c0l)
+- [Axios Supply Chain Attack: How North Korean Hackers Social-Engineered an Open Source Maintainer](https://dev.to/monkfromearth/axios-supply-chain-attack-how-north-korean-hackers-social-engineered-an-open-source-maintainer-2ae9)
+- [Ng-News 26/11: TypeScript 6, NgRx RFCs delegatedSignal, Resource Extensions](https://dev.to/playfulprogramming-angular/ng-news-2611-typescript-6-ngrx-rfcs-delegatedsignal-resource-extensions-ig6)
+- [Understanding Functions in JavaScript](https://dev.to/athithya_sivasankarar/understanding-functions-in-javascript-220i)
+- [Claude Code&#39;s Usage Limit Workaround: Switch to Previous Model with /compact](https://dev.to/gentic_news/claude-codes-usage-limit-workaround-switch-to-previous-model-with-compact-77n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
