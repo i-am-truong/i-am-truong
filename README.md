@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Observability: Logging, Auditing, and Debugging Agent-Server Interactions in Production](https://dev.to/supertrained/mcp-observability-logging-auditing-and-debugging-agent-server-interactions-in-production-14g2)
-- [Efficient Real-Time Flight Tracking in Browsers: Framework-Free, Cross-Platform Solution](https://dev.to/maxgeris/efficient-real-time-flight-tracking-in-browsers-framework-free-cross-platform-solution-35ha)
-- [I Built a Visual Spec-Driven Development Extension for VS Code That Works With Any LLM](https://dev.to/fabian_silva_/i-built-a-visual-spec-driven-development-extension-for-vs-code-that-works-with-any-llm-36ok)
-- [FinancialClaw: making OpenClaw useful for personal finance](https://dev.to/riclara/financialclaw-making-openclaw-useful-for-personal-finance-6i6)
-- [OpenAI acquires TBPN](https://dev.to/minimal-architect/openai-acquires-tbpn-m7)
+- [Scaling code reviews with an Open Source AI Skill](https://dev.to/yoriiis/scaling-code-reviews-with-an-open-source-ai-skill-2o8)
+- [Claude Code parallel agents: run 4 tasks simultaneously and merge with git](https://dev.to/subprime2010/claude-code-parallel-agents-run-4-tasks-simultaneously-and-merge-with-git-3471)
+- [Your e-shop data lives in three places that don&#39;t talk to each other](https://dev.to/nesisuksibedarbis/your-e-shop-data-lives-in-three-places-that-dont-talk-to-each-other-454j)
+- [The prompt is the product](https://dev.to/nesisuksibedarbis/the-prompt-is-the-product-2ka1)
+- [Auth Strategies: The Right Tool for the Right Scenario](https://dev.to/opensite/auth-strategies-the-right-tool-for-the-right-scenario-4m51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
