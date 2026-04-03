@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Game About My Own Death &lpar;And It&#39;s Based on Real Data&rpar;](https://dev.to/solido/i-built-a-game-about-my-own-death-and-its-based-on-real-data-5c0l)
-- [Axios Supply Chain Attack: How North Korean Hackers Social-Engineered an Open Source Maintainer](https://dev.to/monkfromearth/axios-supply-chain-attack-how-north-korean-hackers-social-engineered-an-open-source-maintainer-2ae9)
-- [Ng-News 26/11: TypeScript 6, NgRx RFCs delegatedSignal, Resource Extensions](https://dev.to/playfulprogramming-angular/ng-news-2611-typescript-6-ngrx-rfcs-delegatedsignal-resource-extensions-ig6)
-- [Understanding Functions in JavaScript](https://dev.to/athithya_sivasankarar/understanding-functions-in-javascript-220i)
-- [Claude Code&#39;s Usage Limit Workaround: Switch to Previous Model with /compact](https://dev.to/gentic_news/claude-codes-usage-limit-workaround-switch-to-previous-model-with-compact-77n)
+- [I Got Tired of XML Doc Comments, So I Built My Own Visual Studio Extension](https://dev.to/akp_2806/i-got-tired-of-xml-doc-comments-so-i-built-my-own-visual-studio-extension-3hd6)
+- [Product-Market Fit: 25 Signs You Have It + The Complete Measurement Checklist](https://dev.to/iris1031/product-market-fit-25-signs-you-have-it-the-complete-measurement-checklist-1mgc)
+- [Slack vs Microsoft Teams in 2026: I Analyzed Both for 6 Months : Here&#39;s What Most Reviews Won&#39;t Tell You](https://dev.to/trulycritic/slack-vs-microsoft-teams-in-2026-i-analyzed-both-for-6-months-heres-what-most-reviews-wont-49jm)
+- [Zero Trust for AI Agents: Why Identity-Based Security Collapses When Machines Call the Shots](https://dev.to/mattdeangit/zero-trust-for-ai-agents-why-identity-based-security-collapses-when-machines-call-the-shots-56gb)
+- [Navigating IoT Connectivity: BLE vs. Wi-Fi for Your Next Android Project](https://dev.to/ble_advertiser/navigating-iot-connectivity-ble-vs-wi-fi-for-your-next-android-project-49cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
