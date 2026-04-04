@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Google Docs-style Real-Time Dashboards in Laravel &lpar;Reverb&rpar; &amp; React ⚡](https://dev.to/iprajapatiparesh/building-google-docs-style-real-time-dashboards-in-laravel-reverb-react-3gkl)
-- [I Studied How GitHub READMEs Are Actually Evaluated — Here Are the 5 Things That Matter](https://dev.to/kazkozdev/i-studied-how-github-readmes-are-actually-evaluated-here-are-the-5-things-that-matter-2epd)
-- [Railway Environments Explained: Branch Deployments, Staging, and Zero-Config Databases](https://dev.to/bean_bean/railway-environments-explained-branch-deployments-staging-and-zero-config-databases-2556)
-- [The Ultimate Guide to React State Management &lpar;2026&rpar;](https://dev.to/bean_bean/the-ultimate-guide-to-react-state-management-2026-28bh)
-- [Building an AI that analyzes stocks like Warren Buffett](https://dev.to/davidkim205/building-an-ai-that-analyzes-stocks-like-warren-buffett-214)
+- [Anthropic Just Paid $400M for a Team of 10. Here&#39;s Why That Makes Sense.](https://dev.to/om_shree_0709/anthropic-just-paid-400m-for-a-team-of-10-heres-why-that-makes-sense-3oi6)
+- [Same Model, Different Environment, Different Results](https://dev.to/john_wade_dev/same-model-different-environment-different-results-kdb)
+- [YouTube: Make the Video Timer Always Visible](https://dev.to/andrewelans/youtube-make-the-video-timer-always-visible-20o)
+- [React Radio Group Components: 6 shadcn Patterns for Real Apps](https://dev.to/vaibhavg/react-radio-group-components-shadcn-patterns-for-real-apps-4l4a)
+- [200+ Resume Action Verbs That Get Results &lpar;by Category&rpar;](https://dev.to/sarah_m/200-resume-action-verbs-that-get-results-by-category-2bdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
