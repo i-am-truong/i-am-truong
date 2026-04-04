@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Warrior&#39;s Planner](https://dev.to/prema_ananda/the-warriors-planner-ah)
-- [What % of your code was written by AI?](https://dev.to/nikoli/what-of-your-code-was-written-by-ai-13kf)
-- [Nexora Os](https://dev.to/bhavana_koritala_/nexora-os-3inj)
-- [Mastering the &quot;super&quot; Keyword in Java: A Beginner’s Guide](https://dev.to/realnamehidden1_61/mastering-the-super-keyword-in-java-a-beginners-guide-47pn)
-- [Fintech Innovations to Watch in 2026: The Future of Digital Finance](https://dev.to/ezfincode/fintech-innovations-to-watch-in-2026-the-future-of-digital-finance-3jfl)
+- [Evolution of the Type System: Assessing the Impact of TypeScript 6.0](https://dev.to/otuny/evolution-of-the-type-system-assessing-the-impact-of-typescript-60-4h38)
+- [Unpacking the True Cost of Blockchain Indexing: More Than Just Infrastructure](https://dev.to/0xagency/unpacking-the-true-cost-of-blockchain-indexing-more-than-just-infrastructure-3pp4)
+- [The coordinate space bug that four rewrites couldn&#39;t fix](https://dev.to/frandy-slueue/the-coordinate-space-bug-that-four-rewrites-couldnt-fix-3khi)
+- [Stop Googling Cron Syntax -Use This Instead](https://dev.to/mpsoftwarestudio/stop-googling-cron-syntax-use-this-instead-5aon)
+- [The Programmer&#39;s Fulcrum: 03 April, 2026](https://dev.to/reubenwalker64/the-programmers-fulcrum-03-april-2026-39cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
