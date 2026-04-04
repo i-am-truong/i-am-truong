@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Data from Multiple Sources in Power BI: A Pictorial Guide to Seamless Data Integration](https://dev.to/madina_yusuff_1/getting-data-from-multiple-sources-in-power-bi-a-pictorial-guide-to-seamless-data-integration-5clp)
-- [Deep Neural Decision Trees](https://dev.to/paperium/deep-neural-decision-trees-4j8d)
-- [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
-- [S1: My Aurora Robotics 2.0 Experience](https://dev.to/abdullateef/day-1-why-im-returning-to-robotics-my-aurora-robotics-orientation-experience-55ej)
-- [DualClip - Update_2026.04.04.](https://dev.to/rakkunn/dualclip-update20260404-39lp)
+- [🛑 Procrastination-as-a-Service &lpar;PaaS&rpar;: Avoid Work Efficiently](https://dev.to/makendrang/procrastination-as-a-service-paas-powered-by-google-ai-to-avoid-work-efficiently-2l32)
+- [Choosing the Right Local LLM for Your Mac: A Developer&#39;s Real-World Guide to Parameters, Quantization, and Model Architecture](https://dev.to/zaferdace/choosing-the-right-local-llm-for-your-mac-a-developers-real-world-guide-to-parameters-2mhk)
+- [Tired of Codebases with Mismatched File Casing? 🛠️ Meet CaselyJS &lpar;v1.0.1&rpar;](https://dev.to/codezaura/tired-of-codebases-with-mismatched-file-casing-meet-caselyjs-v101-479n)
+- [How to Fetch TikTok Data and Estimate Earnings Using Python](https://dev.to/max_widgets_f21f98b1708be/how-to-fetch-tiktok-data-and-estimate-earnings-using-python-3pl8)
+- [Guide to go-opera: Better error handling in Go, but less boilerplate](https://dev.to/colafanta/guide-to-go-opera-better-error-handling-in-go-but-less-boilerplate-2hf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
