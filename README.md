@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Symfony Tui component](https://dev.to/xwero/exploring-the-symfony-tui-component-5674)
-- [The Map Nobody Gave Me: A 10-Year iOS Dev&#39;s Honest Starting Guide](https://dev.to/devkoan/the-map-nobody-gave-me-a-10-year-ios-devs-honest-starting-guide-56g2)
-- [[Boost]](https://dev.to/kimlimjustin/-31n9)
-- [I Put VS Code, Claude, and a Terminal Inside a File Manager I built using React and Rust — Here&#39;s What Happened](https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-39hi)
-- [The Real Cost: Token Savings Calculator for Engineering Teams](https://dev.to/delimitter_8b9077911a3848/the-real-cost-token-savings-calculator-for-engineering-teams-1286)
+- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
+- [MCP Connector Poisoning: How Compromised npm Packages Hijack Your AI Agent](https://dev.to/toniantunovic/mcp-connector-poisoning-how-compromised-npm-packages-hijack-your-ai-agent-3ha0)
+- [Deduplicating 401,000 Equipment Auction Records with LLM Calibration](https://dev.to/benzsevern/deduplicating-401000-equipment-auction-records-with-llm-calibration-1knn)
+- [AI-Powered Deduplication: How LLMs Supercharge the Golden Suite](https://dev.to/benzsevern/ai-powered-deduplication-how-llms-supercharge-the-golden-suite-38pp)
+- [# The Useless Machine™ 🫖 - A Premium Enterprise SaaS That Solves Absolutely Nothing](https://dev.to/kanyingidickson-dev/-the-useless-machine-a-premium-enterprise-saas-that-solves-absolutely-nothing-15n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
