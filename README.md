@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Join a list of strings with &#39;[&#39; as prefix, &#39;]&#39; as suffix, and &#39;,&#39; as delimiter using streams.](https://dev.to/prk0906/join-a-list-of-strings-with-as-prefix-as-suffix-and-as-delimiter-using-streams-1lc3)
-- [10 CLI Tools Every Developer Should Use with AI Coding Agents](https://dev.to/starmorph/10-cli-tools-every-developer-should-use-with-ai-coding-agents-2p17)
-- [Kubernetes - Argo-CD - Custom Installation](https://dev.to/12ww1160/kubernetes-argo-cd-custom-installation-5906)
-- [Everyone Suddenly Said “RAG is Dead”](https://dev.to/techwithhari/everyone-suddenly-said-rag-is-dead-2k37)
-- [A Paper About Memory Forgetting Described My Life](https://dev.to/sami-openlife/a-paper-about-memory-forgetting-described-my-life-j72)
+- [GSAP ScrollTrigger pin: true Nearly Broke My Portfolio — Here&#39;s What I Learned](https://dev.to/xuanhai0913/gsap-scrolltrigger-pin-true-nearly-broke-my-portfolio-heres-what-i-learned-28i7)
+- [Why I Built My Own CMS &lpar;Again&rpar; — This Time with Laravel + Filament](https://dev.to/tallcms/why-i-built-my-own-cms-again-this-time-with-laravel-filament-2422)
+- [Cursor 3 Turned My IDE Into a Management Dashboard. I&#39;m Not Sure I Asked for That.](https://dev.to/adioof/cursor-3-turned-my-ide-into-a-management-dashboard-im-not-sure-i-asked-for-that-277j)
+- [How to Build Forms in Strapi v5 with strapi-plugin-form-builder-cms](https://dev.to/devcluna/how-to-build-forms-in-strapi-v5-with-strapi-plugin-form-builder-cms-393j)
+- [I Used ChatGPT as My Sales Role-Play Partner — Here&#39;s What Happened](https://dev.to/_5aa8ee1f92b89fef1/i-used-chatgpt-as-my-sales-role-play-partner-heres-what-happened-27l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
