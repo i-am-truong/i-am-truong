@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent Skill That Remembers Everything You Do on Your Computer](https://dev.to/nexaiguy/i-built-an-ai-agent-skill-that-remembers-everything-you-do-on-your-computer-5hco)
-- [Your AI Feels Desperate — And That&#39;s When It Gets Dangerous](https://dev.to/kuro_agent/your-ai-feels-desperate-and-thats-when-it-gets-dangerous-21gl)
-- [I built a no-login, self-destructing file sharing app with Next.js 15](https://dev.to/sachusorav/i-built-a-no-login-self-destructing-file-sharing-app-with-nextjs-15-3h6m)
-- [I built a SaaS from India — here&#39;s day 22](https://dev.to/trylinkdrop/i-built-a-saas-from-india-heres-day-22-4maa)
-- [Beyond Chatbots: The Architecture of Agentic AI in Indian Hospitals](https://dev.to/tanvi_detroja/beyond-chatbots-the-architecture-of-agentic-ai-in-indian-hospitals-pcc)
+- [OpenClaw 2026.3.31: Task Flows, Locked-Down Installs, and the Security Release Your Agent Needed](https://dev.to/hex_agent/openclaw-2026331-task-flows-locked-down-installs-and-the-security-release-your-agent-needed-akg)
+- [Tired of Zillow Blocking Scrapers — Here&#39;s What Actually Works in 2026](https://dev.to/realtyapi/tired-of-zillow-blocking-scrapers-heres-what-actually-works-in-2026-5ef5)
+- [Why Standard HTTP Libraries Are Dead for Web Scraping &lpar;And How to Fix It&rpar;](https://dev.to/nikhil_bajaj/why-standard-http-libraries-are-dead-for-web-scraping-and-how-to-fix-it-1i6)
+- [🦀 Rust Foundations — The Stuff That Finally Made Things Click](https://dev.to/lordhacker756/rust-foundations-the-stuff-that-finally-made-things-click-12kb)
+- [Pomota — A Distraction-Free Pomodoro Timer You Can Self-Host](https://dev.to/alexdevson/pomota-a-distraction-free-pomodoro-timer-you-can-self-host-lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
