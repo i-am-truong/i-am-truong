@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid DNS with GCP Network Connectivity Center and Enterprise IPAM](https://dev.to/gergovadasz/hybrid-dns-with-gcp-network-connectivity-center-and-enterprise-ipam-3g3e)
-- [I Built an MCP Server That Understands Your MSBuild Project Graph — Before You Build](https://dev.to/florinvica/i-built-an-mcp-server-that-understands-your-msbuild-project-graph-before-you-build-1pc8)
-- [Agent Middleware in Microsoft Agent Framework 1.0](https://dev.to/sreeni5018/agent-middleware-in-microsoft-agent-framework-10-2bm0)
-- [کود کشاورزی — Complete Guide](https://dev.to/sahand1987/khwd-khshwrzy-complete-guide-4ic4)
-- [How I Track My AI Spending as a Solo Dev &lpar;Without Going Broke&rpar;](https://dev.to/godnick/how-i-track-my-ai-spending-as-a-solo-dev-without-going-broke-5ec1)
+- [How I Built Collapse Detection for Persistent AI Agents](https://dev.to/nilegreen/how-i-built-collapse-detection-for-persistent-ai-agents-3c3c)
+- [I Built 3 APIs for Turkish E-Commerce Intelligence on Apify](https://dev.to/seralifatih/i-built-3-apis-for-turkish-e-commerce-intelligence-on-apify-3m0d)
+- [Stop Explaining Your Codebase to Your AI Every Time](https://dev.to/hjarni/stop-explaining-your-codebase-to-your-ai-every-time-4klg)
+- [📙 Journal Log no. 1 Linux Unhatched ; My DevSecOps Journey](https://dev.to/lvazmecheng/journal-log-no-1-linux-unhatched-my-devsecops-journey-a91)
+- [STEEP: Your repo&#39;s fortune, steeped in truth.](https://dev.to/earlgreyhot1701d/steep-your-repos-fortune-steeped-in-truth-24ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
