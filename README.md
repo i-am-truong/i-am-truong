@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Financial Solver That Protects Jobs. Then We Tried to Break It 1.1 Billion Times.](https://dev.to/copyleftdev/we-built-a-financial-solver-that-protects-jobs-then-we-tried-to-break-it-11-billion-times-304i)
-- [Building LinkedIN Job Application Agents - Part 1](https://dev.to/mindy_jen_phd/building-linkedin-job-application-agents-part-1-13k)
-- [Stop asking users for &quot;steps to reproduce&quot;. just watch their session break in real time](https://dev.to/zenovay/stop-asking-users-for-steps-to-reproduce-just-watch-their-session-break-in-real-time-1e83)
-- [How to Monitor CrewAI Agents in Production](https://dev.to/clevagent/how-to-monitor-crewai-agents-in-production-k6i)
-- [How I Learned the Stock Market and Built a Free AI Trading App](https://dev.to/harshshroff/how-i-learned-the-stock-market-and-built-a-free-ai-trading-app-1e2n)
+- [Exploring the Symfony Tui component](https://dev.to/xwero/exploring-the-symfony-tui-component-5674)
+- [The Map Nobody Gave Me: A 10-Year iOS Dev&#39;s Honest Starting Guide](https://dev.to/devkoan/the-map-nobody-gave-me-a-10-year-ios-devs-honest-starting-guide-56g2)
+- [[Boost]](https://dev.to/kimlimjustin/-31n9)
+- [I Put VS Code, Claude, and a Terminal Inside a File Manager I built using React and Rust — Here&#39;s What Happened](https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-39hi)
+- [The Real Cost: Token Savings Calculator for Engineering Teams](https://dev.to/delimitter_8b9077911a3848/the-real-cost-token-savings-calculator-for-engineering-teams-1286)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
