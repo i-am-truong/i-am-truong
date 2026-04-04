@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛑 Procrastination-as-a-Service &lpar;PaaS&rpar;: Avoid Work Efficiently](https://dev.to/makendrang/procrastination-as-a-service-paas-powered-by-google-ai-to-avoid-work-efficiently-2l32)
-- [Choosing the Right Local LLM for Your Mac: A Developer&#39;s Real-World Guide to Parameters, Quantization, and Model Architecture](https://dev.to/zaferdace/choosing-the-right-local-llm-for-your-mac-a-developers-real-world-guide-to-parameters-2mhk)
-- [Tired of Codebases with Mismatched File Casing? 🛠️ Meet CaselyJS &lpar;v1.0.1&rpar;](https://dev.to/codezaura/tired-of-codebases-with-mismatched-file-casing-meet-caselyjs-v101-479n)
-- [How to Fetch TikTok Data and Estimate Earnings Using Python](https://dev.to/max_widgets_f21f98b1708be/how-to-fetch-tiktok-data-and-estimate-earnings-using-python-3pl8)
-- [Guide to go-opera: Better error handling in Go, but less boilerplate](https://dev.to/colafanta/guide-to-go-opera-better-error-handling-in-go-but-less-boilerplate-2hf4)
+- [File Archiving to AWS S3 using AWS SDK for Java](https://dev.to/ershubham/file-archiving-to-aws-s3-using-aws-sdk-for-java-4o2b)
+- [I Used to Write PRDs in Notion. Then I Clocked How Long It Was Taking.](https://dev.to/ahmed_zrouqui/i-used-to-write-prds-in-notion-then-i-clocked-how-long-it-was-taking-47ln)
+- [Common React Native Android autolinking issues and what to check](https://dev.to/asta_dev/common-react-native-android-autolinking-issues-and-what-to-check-240d)
+- [You Can Now Learn Anything 100x Faster With Claude.](https://dev.to/web_dev-usman/you-can-now-learn-anything-100x-faster-with-claude-4gcc)
+- [Rotate API Keys Automatically with This Open Source Proxy — Never Hit Rate Limits Again](https://dev.to/alexdevson/rotate-api-keys-automatically-with-this-open-source-proxy-never-hit-rate-limits-again-196b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
