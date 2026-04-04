@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of the Type System: Assessing the Impact of TypeScript 6.0](https://dev.to/otuny/evolution-of-the-type-system-assessing-the-impact-of-typescript-60-4h38)
-- [Unpacking the True Cost of Blockchain Indexing: More Than Just Infrastructure](https://dev.to/0xagency/unpacking-the-true-cost-of-blockchain-indexing-more-than-just-infrastructure-3pp4)
-- [The coordinate space bug that four rewrites couldn&#39;t fix](https://dev.to/frandy-slueue/the-coordinate-space-bug-that-four-rewrites-couldnt-fix-3khi)
-- [Stop Googling Cron Syntax -Use This Instead](https://dev.to/mpsoftwarestudio/stop-googling-cron-syntax-use-this-instead-5aon)
-- [The Programmer&#39;s Fulcrum: 03 April, 2026](https://dev.to/reubenwalker64/the-programmers-fulcrum-03-april-2026-39cm)
+- [Getting Data from Multiple Sources in Power BI: A Pictorial Guide to Seamless Data Integration](https://dev.to/madina_yusuff_1/getting-data-from-multiple-sources-in-power-bi-a-pictorial-guide-to-seamless-data-integration-5clp)
+- [Deep Neural Decision Trees](https://dev.to/paperium/deep-neural-decision-trees-4j8d)
+- [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
+- [S1: My Aurora Robotics 2.0 Experience](https://dev.to/abdullateef/day-1-why-im-returning-to-robotics-my-aurora-robotics-orientation-experience-55ej)
+- [DualClip - Update_2026.04.04.](https://dev.to/rakkunn/dualclip-update20260404-39lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
