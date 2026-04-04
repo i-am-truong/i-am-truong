@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I was tired of switching tabs to compare ChatGPT, Gemini &amp; Copilot. So I built a &lt;1MB Chrome extension to run them all in parallel.](https://dev.to/starwing/i-was-tired-of-switching-tabs-to-compare-chatgpt-gemini-copilot-so-i-built-a-1mb-chrome-22nn)
-- [Join Updated Dev: High signal feed for busy developers](https://dev.to/ms_74/join-updated-dev-high-signal-feed-for-busy-developers-2kam)
-- [Why You Should Know Vanilla Fetch &lpar;Especially Now&rpar;](https://dev.to/adamsnxt/why-you-should-know-vanilla-fetch-especially-now-330b)
-- [Building Lysis: A Review Engine Where AI Models Collaborate and Evolve](https://dev.to/sho_ikeda/building-lysis-a-review-engine-where-ai-models-collaborate-and-evolve-41b6)
-- [Gemma 4 Just Dropped. It&#39;s the Sharpest Tool in the Shed. Do You Have a Plan?](https://dev.to/mattbuscher/gemma-4-just-dropped-its-the-sharpest-tool-in-the-shed-do-you-have-a-plan-m86)
+- [Join a list of strings with &#39;[&#39; as prefix, &#39;]&#39; as suffix, and &#39;,&#39; as delimiter using streams.](https://dev.to/prk0906/join-a-list-of-strings-with-as-prefix-as-suffix-and-as-delimiter-using-streams-1lc3)
+- [10 CLI Tools Every Developer Should Use with AI Coding Agents](https://dev.to/starmorph/10-cli-tools-every-developer-should-use-with-ai-coding-agents-2p17)
+- [Kubernetes - Argo-CD - Custom Installation](https://dev.to/12ww1160/kubernetes-argo-cd-custom-installation-5906)
+- [Everyone Suddenly Said “RAG is Dead”](https://dev.to/techwithhari/everyone-suddenly-said-rag-is-dead-2k37)
+- [A Paper About Memory Forgetting Described My Life](https://dev.to/sami-openlife/a-paper-about-memory-forgetting-described-my-life-j72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
