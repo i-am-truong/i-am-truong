@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
-- [MCP Connector Poisoning: How Compromised npm Packages Hijack Your AI Agent](https://dev.to/toniantunovic/mcp-connector-poisoning-how-compromised-npm-packages-hijack-your-ai-agent-3ha0)
-- [Deduplicating 401,000 Equipment Auction Records with LLM Calibration](https://dev.to/benzsevern/deduplicating-401000-equipment-auction-records-with-llm-calibration-1knn)
-- [AI-Powered Deduplication: How LLMs Supercharge the Golden Suite](https://dev.to/benzsevern/ai-powered-deduplication-how-llms-supercharge-the-golden-suite-38pp)
-- [# The Useless Machine™ 🫖 - A Premium Enterprise SaaS That Solves Absolutely Nothing](https://dev.to/kanyingidickson-dev/-the-useless-machine-a-premium-enterprise-saas-that-solves-absolutely-nothing-15n8)
+- [Predictive Compliance: How AI Identifies Your Med Spa&#39;s Documentation Risks](https://dev.to/ken_deng_ai/predictive-compliance-how-ai-identifies-your-med-spas-documentation-risks-4mi)
+- [I Found a Better Way to Build APIs &lpar;And It Actually Makes Sense&rpar;](https://dev.to/adarshgzz/i-found-a-better-way-to-build-apis-and-it-actually-makes-sense-1bnc)
+- [15 AI Prompts That 10x Your Dev Workflow](https://dev.to/xadenai/15-ai-prompts-that-10x-your-dev-workflow-13bi)
+- [The Case for Markdown as Your Agent&#39;s Task Format](https://dev.to/battyterm/the-case-for-markdown-as-your-agents-task-format-6mp)
+- [CVE-2026-32211: What the Azure MCP Server Flaw Means for Your Agent Security](https://dev.to/michael_onyekwere/cve-2026-32211-what-the-azure-mcp-server-flaw-means-for-your-agent-security-14db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
