@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Predictive Compliance: How AI Identifies Your Med Spa&#39;s Documentation Risks](https://dev.to/ken_deng_ai/predictive-compliance-how-ai-identifies-your-med-spas-documentation-risks-4mi)
-- [I Found a Better Way to Build APIs &lpar;And It Actually Makes Sense&rpar;](https://dev.to/adarshgzz/i-found-a-better-way-to-build-apis-and-it-actually-makes-sense-1bnc)
-- [15 AI Prompts That 10x Your Dev Workflow](https://dev.to/xadenai/15-ai-prompts-that-10x-your-dev-workflow-13bi)
-- [The Case for Markdown as Your Agent&#39;s Task Format](https://dev.to/battyterm/the-case-for-markdown-as-your-agents-task-format-6mp)
-- [CVE-2026-32211: What the Azure MCP Server Flaw Means for Your Agent Security](https://dev.to/michael_onyekwere/cve-2026-32211-what-the-azure-mcp-server-flaw-means-for-your-agent-security-14db)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2d5j)
+- [Show HN: LoreSpec – Structured knowledge extraction from AI conversations](https://dev.to/jgnoncelogic/show-hn-lorespec-structured-knowledge-extraction-from-ai-conversations-1k1l)
+- [Getting Started with OpenClaw: A Step-by-Step Guide to Setting Up OpenClaw on a VPS](https://dev.to/geraldm/getting-started-with-openclaw-a-step-by-step-guide-to-setting-up-openclaw-on-a-vps-574d)
+- [Qodo Merge GitHub Integration: Automated PR Review Setup](https://dev.to/rahulxsingh/qodo-merge-github-integration-automated-pr-review-setup-4i2g)
+- [401K messy equipment records, LLM-calibrated scoring, 12 seconds. Here&#39;s how.](https://dev.to/benzsevern/401k-messy-equipment-records-llm-calibrated-scoring-12-seconds-heres-how-4f89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
