@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Open-Sourced Our Local SEO Data Collection Tool](https://dev.to/webpossible/i-open-sourced-our-local-seo-data-collection-tool-j54)
-- [9 MCP Resilience Patterns That Keep AI Agents Alive in Production &lpar;With Code&rpar;](https://dev.to/dohkoai/9-mcp-resilience-patterns-that-keep-ai-agents-alive-in-production-with-code-2ohi)
-- [Should we always use a hybrid encryption protocol to share information?](https://dev.to/nowi-security/should-we-always-use-a-hybrid-encryption-protocol-to-share-information-1h70)
-- [7 AI Agent Orchestration Patterns for Scaling Concurrent Systems &lpar;With Production Code&rpar;](https://dev.to/dohkoai/7-ai-agent-orchestration-patterns-for-scaling-concurrent-systems-with-production-code-1onc)
-- [Open Source Project of the Day &lpar;Part 29&rpar;: Open-AutoGLM - A Phone Agent Framework for Controlling Phones with Natural Language](https://dev.to/wonderlab/open-source-project-of-the-day-part-29-open-autoglm-a-phone-agent-framework-for-controlling-4p8k)
+- [Hacking with multimodal Gemma 4 in AI Studio](https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had)
+- [Cansado de ter que atualizar o currículo em 2 lugares diferentes? Eu também.](https://dev.to/magno-freitas/cansado-de-ter-que-atualizar-o-curriculo-em-2-lugares-diferentes-eu-tambem-3019)
+- [We traced an MCP server calling an LLM — both sides, one trace](https://dev.to/vola-trebla/we-traced-an-mcp-server-calling-an-llm-both-sides-one-trace-39ae)
+- [I&#39;ve spent 9+ years on Discord. The next best option, is Fluxer.](https://dev.to/nevulo/ive-spent-9-years-on-discord-the-next-best-option-is-fluxer-15gh)
+- [How to Solve Your First LeetCode Problem: A Beginner&#39;s Guide](https://dev.to/castillodk/how-to-solve-your-first-leetcode-problem-a-beginners-guide-5808)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
