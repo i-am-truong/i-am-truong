@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Started Building a Roguelike RPG — Powered by On-Device AI #2](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-2-1pg2)
-- [Generic Undo Manager for React - Part 1](https://dev.to/math-krish/generic-undo-manager-for-react-part-1-3dfh)
-- [Supply Chain Security measures](https://dev.to/0xkoji/supply-chain-security-measures-55o3)
-- [7 Fatal Lighting Mistakes That Will Destroy Your Exhibition Stand](https://dev.to/gianni2009/7-fatal-lighting-mistakes-that-will-destroy-your-exhibition-stand-5856)
-- [I Started Building a Roguelike RPG — Powered by On-Device AI #1](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-2o4i)
+- [I Open-Sourced Our Local SEO Data Collection Tool](https://dev.to/webpossible/i-open-sourced-our-local-seo-data-collection-tool-j54)
+- [9 MCP Resilience Patterns That Keep AI Agents Alive in Production &lpar;With Code&rpar;](https://dev.to/dohkoai/9-mcp-resilience-patterns-that-keep-ai-agents-alive-in-production-with-code-2ohi)
+- [Should we always use a hybrid encryption protocol to share information?](https://dev.to/nowi-security/should-we-always-use-a-hybrid-encryption-protocol-to-share-information-1h70)
+- [7 AI Agent Orchestration Patterns for Scaling Concurrent Systems &lpar;With Production Code&rpar;](https://dev.to/dohkoai/7-ai-agent-orchestration-patterns-for-scaling-concurrent-systems-with-production-code-1onc)
+- [Open Source Project of the Day &lpar;Part 29&rpar;: Open-AutoGLM - A Phone Agent Framework for Controlling Phones with Natural Language](https://dev.to/wonderlab/open-source-project-of-the-day-part-29-open-autoglm-a-phone-agent-framework-for-controlling-4p8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
