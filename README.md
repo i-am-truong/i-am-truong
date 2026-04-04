@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is a Sinking Fund? A Practical Guide to Saving for Your Goals](https://dev.to/fintrack/what-is-a-sinking-fund-a-practical-guide-to-saving-for-your-goals-7m6)
+- [AI Code Review Checklist](https://dev.to/krun_pro/ai-code-review-checklist-42j9)
+- [Web Tasarımında &quot;Iconography&quot;: Özel SVG Seti Oluşturma](https://dev.to/forumweb/web-tasariminda-iconography-ozel-svg-seti-olusturma-468i)
+- [Unit Testing Prompts: The Key to Reliable AI in Production](https://dev.to/programmingcentral/unit-testing-prompts-the-key-to-reliable-ai-in-production-4gho)
 - [How I Built Collapse Detection for Persistent AI Agents](https://dev.to/nilegreen/how-i-built-collapse-detection-for-persistent-ai-agents-3c3c)
-- [I Built 3 APIs for Turkish E-Commerce Intelligence on Apify](https://dev.to/seralifatih/i-built-3-apis-for-turkish-e-commerce-intelligence-on-apify-3m0d)
-- [Stop Explaining Your Codebase to Your AI Every Time](https://dev.to/hjarni/stop-explaining-your-codebase-to-your-ai-every-time-4klg)
-- [📙 Journal Log no. 1 Linux Unhatched ; My DevSecOps Journey](https://dev.to/lvazmecheng/journal-log-no-1-linux-unhatched-my-devsecops-journey-a91)
-- [STEEP: Your repo&#39;s fortune, steeped in truth.](https://dev.to/earlgreyhot1701d/steep-your-repos-fortune-steeped-in-truth-24ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
