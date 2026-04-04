@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-4ho9)
-- [[SC] Sendable y Tipos-por-valor](https://dev.to/david_goyes_a488f58a17a53/sc-sendable-y-tipos-por-valor-1kl6)
-- [How I Built a Desktop Trading Journal with Electron, React, and SQLite](https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo)
-- [How I built a browser-based AI watermark remover with Next.js and Canvas API](https://dev.to/dan_dan_26ba75efedd611b1f/how-i-built-a-browser-based-ai-watermark-remover-with-nextjs-and-canvas-api-g22)
-- [GSAP ScrollTrigger pin: true Nearly Broke My Portfolio — Here&#39;s What I Learned](https://dev.to/xuanhai0913/gsap-scrolltrigger-pin-true-nearly-broke-my-portfolio-heres-what-i-learned-28i7)
+- [Make Every Problem Claude&#39;s Problem](https://dev.to/rdeknijf/make-every-problem-claudes-problem-12n)
+- [StackWeave - a fullstack monorepo for web, mobile &amp; backend &lpar;and why I built it&rpar;](https://dev.to/amitgharge/stackweave-a-fullstack-monorepo-for-web-mobile-backend-and-why-i-built-it-27o0)
+- [How We Built a Free Browser-Based Screen Recorder](https://dev.to/paweldotio/how-we-built-a-free-browser-based-screen-recorder-4m04)
+- [Artemis II Hoax Command Center: A Tabbed Dashboard Full of Trump Truth Posts and Moon Landing Debunking Chaos](https://dev.to/wereelliot/artemis-ii-hoax-command-center-a-tabbed-dashboard-full-of-trump-truth-posts-and-moon-landing-49i1)
+- [easy-live2d v0.4.0: A Milestone Release for Live2D on the Web](https://dev.to/panzer_jack/easy-live2d-v040-a-milestone-release-for-live2d-on-the-web-1185)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
