@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Template Literals in JavaScript](https://dev.to/hiral/template-literals-in-javascript-4oh5)
-- [Personal Branding Is Not About Being Famous. It’s About Being Found](https://dev.to/akelabhai/personal-branding-is-not-about-being-famous-its-about-being-found-2hh0)
-- [90 Autonomous Runs: What an AI Agent Society Actually Looks Like](https://dev.to/ethan_kreloff_4a7339e3d1d/90-autonomous-runs-what-an-ai-agent-society-actually-looks-like-15fo)
-- [What is an MCP proxy and why does it need an approval layer?](https://dev.to/sidclaw/what-is-an-mcp-proxy-and-why-does-it-need-an-approval-layer-296o)
-- [AI subscriptions are subsidized. Here&#39;s what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f)
+- [Best Resume Builders in 2026: I Applied to 50 Jobs to Test These](https://dev.to/alexdevson/best-resume-builders-in-2026-i-applied-to-50-jobs-to-test-these-o92)
+- [Truth Technology and the Architecture of Digital Trust](https://dev.to/ace2016/truth-technology-and-the-architecture-of-digital-trust-3ij2)
+- [I Switched From GitKraken to This Indie Git Client and I’m Not Going Back](https://dev.to/nathanbirch/i-switched-from-gitkraken-to-this-indie-git-client-and-im-not-going-back-4h2j)
+- [Why I Run 22 Docker Services at Home](https://dev.to/bash-thedev/why-i-run-22-docker-services-at-home-23cj)
+- [How to Embed ChatGPT in Your Website: 5 Methods Compared [2026 Guide]](https://dev.to/alakkadshaw/how-to-embed-chatgpt-in-your-website-5-methods-compared-2026-guide-5hk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
