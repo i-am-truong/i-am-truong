@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Make Every Problem Claude&#39;s Problem](https://dev.to/rdeknijf/make-every-problem-claudes-problem-12n)
-- [StackWeave - a fullstack monorepo for web, mobile &amp; backend &lpar;and why I built it&rpar;](https://dev.to/amitgharge/stackweave-a-fullstack-monorepo-for-web-mobile-backend-and-why-i-built-it-27o0)
-- [How We Built a Free Browser-Based Screen Recorder](https://dev.to/paweldotio/how-we-built-a-free-browser-based-screen-recorder-4m04)
-- [Artemis II Hoax Command Center: A Tabbed Dashboard Full of Trump Truth Posts and Moon Landing Debunking Chaos](https://dev.to/wereelliot/artemis-ii-hoax-command-center-a-tabbed-dashboard-full-of-trump-truth-posts-and-moon-landing-49i1)
-- [easy-live2d v0.4.0: A Milestone Release for Live2D on the Web](https://dev.to/panzer_jack/easy-live2d-v040-a-milestone-release-for-live2d-on-the-web-1185)
+- [We Built a Financial Solver That Protects Jobs. Then We Tried to Break It 1.1 Billion Times.](https://dev.to/copyleftdev/we-built-a-financial-solver-that-protects-jobs-then-we-tried-to-break-it-11-billion-times-304i)
+- [Building LinkedIN Job Application Agents - Part 1](https://dev.to/mindy_jen_phd/building-linkedin-job-application-agents-part-1-13k)
+- [Stop asking users for &quot;steps to reproduce&quot;. just watch their session break in real time](https://dev.to/zenovay/stop-asking-users-for-steps-to-reproduce-just-watch-their-session-break-in-real-time-1e83)
+- [How to Monitor CrewAI Agents in Production](https://dev.to/clevagent/how-to-monitor-crewai-agents-in-production-k6i)
+- [How I Learned the Stock Market and Built a Free AI Trading App](https://dev.to/harshshroff/how-i-learned-the-stock-market-and-built-a-free-ai-trading-app-1e2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
