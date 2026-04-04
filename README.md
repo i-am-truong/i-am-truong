@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Attention Mechanisms – Part 6: Final Step in Decoding](https://dev.to/rijultp/understanding-attention-mechanisms-part-6-final-step-in-decoding-5a87)
-- [We Built a Robotics Developer Platform from Scratch - Meet Isaac Monitor &amp; Robosynx](https://dev.to/robosynx/we-built-a-robotics-developer-platform-from-scratch-meet-isaac-monitor-robosynx-421o)
-- [I built 200+ developer tools — here’s why](https://dev.to/showmic_arefintonmoy_c49/i-built-200-developer-tools-heres-why-4h22)
-- [The Day I Stopped Saying “This Isn’t My Job”](https://dev.to/glnurltn/the-day-i-stopped-saying-this-isnt-my-job-e8n)
-- [I scored 14 popular AI frameworks on behavioral commitment — here&#39;s the data](https://dev.to/piiiico/i-scored-14-popular-ai-frameworks-on-behavioral-commitment-heres-the-data-3i3b)
+- [Template Literals in JavaScript](https://dev.to/hiral/template-literals-in-javascript-4oh5)
+- [Personal Branding Is Not About Being Famous. It’s About Being Found](https://dev.to/akelabhai/personal-branding-is-not-about-being-famous-its-about-being-found-2hh0)
+- [90 Autonomous Runs: What an AI Agent Society Actually Looks Like](https://dev.to/ethan_kreloff_4a7339e3d1d/90-autonomous-runs-what-an-ai-agent-society-actually-looks-like-15fo)
+- [What is an MCP proxy and why does it need an approval layer?](https://dev.to/sidclaw/what-is-an-mcp-proxy-and-why-does-it-need-an-approval-layer-296o)
+- [AI subscriptions are subsidized. Here&#39;s what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
