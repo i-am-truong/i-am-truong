@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Links em Flutter: O Guia Definitivo para Iniciantes &lpar;Sem Pacotes de Terceiros&rpar; &lpar;Parte 1&rpar;](https://dev.to/cdornelles/deep-links-em-flutter-o-guia-definitivo-para-iniciantes-sem-pacotes-de-terceiros-parte-1-4a31)
-- [How to Clean Up Xcode and Free 30-50GB on Your Mac](https://dev.to/nixeton/how-to-clean-up-xcode-and-free-30-50gb-on-your-mac-3ogh)
-- [XLTable + Snowflake: From Zero to Pivot Table in 15 Minutes](https://dev.to/xltable/xltable-snowflake-from-zero-to-pivot-table-in-15-minutes-1hdc)
-- [A Step-By-Step Guide for Handling Crash of Legacy C++ Application](https://dev.to/legacycpp/a-step-by-step-guide-for-handling-crash-of-legacy-c-application-2h7h)
-- [Best SEO Tools in 2026: I Ranked 3 Sites to #1 Using These Tools](https://dev.to/alexdevson/best-seo-tools-in-2026-i-ranked-3-sites-to-1-using-these-tools-338l)
+- [Hybrid DNS with GCP Network Connectivity Center and Enterprise IPAM](https://dev.to/gergovadasz/hybrid-dns-with-gcp-network-connectivity-center-and-enterprise-ipam-3g3e)
+- [I Built an MCP Server That Understands Your MSBuild Project Graph — Before You Build](https://dev.to/florinvica/i-built-an-mcp-server-that-understands-your-msbuild-project-graph-before-you-build-1pc8)
+- [Agent Middleware in Microsoft Agent Framework 1.0](https://dev.to/sreeni5018/agent-middleware-in-microsoft-agent-framework-10-2bm0)
+- [کود کشاورزی — Complete Guide](https://dev.to/sahand1987/khwd-khshwrzy-complete-guide-4ic4)
+- [How I Track My AI Spending as a Solo Dev &lpar;Without Going Broke&rpar;](https://dev.to/godnick/how-i-track-my-ai-spending-as-a-solo-dev-without-going-broke-5ec1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
