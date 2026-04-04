@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI to verify PyPI package attestations before installing packages](https://dev.to/halfblood_prince_32a44256/i-built-a-cli-to-verify-pypi-package-attestations-before-installing-packages-6bn)
-- [Pitfalls of Claude Code](https://dev.to/cheetah100/pitfalls-of-claude-code-1nb6)
-- [I built a GitHub Action that auto-reviews PRs with LLM — risk assessment + evidence mapping [alpha, OSS]](https://dev.to/mordecaiusm922create/i-built-a-github-action-that-auto-reviews-prs-with-llm-risk-assessment-evidence-mapping-alpha-4oc)
-- [Managing MCP Servers and Tools With Agentregistry OSS](https://dev.to/thenjdevopsguy/managing-mcp-servers-and-tools-with-agentregistry-oss-4iga)
-- [Why NodeDB Might Be a Better Multi-Model Database](https://dev.to/nodedb/why-nodedb-might-be-a-better-multi-model-database-4jf5)
+- [Constructing a Station-Level Statistical Manifold with Dual Flat Structure from Pedestrian Trajectories](https://dev.to/bonebasket_a3284c91925b56/constructing-a-station-level-statistical-manifold-with-dual-flat-structure-from-pedestrian-5c7g)
+- [My Last Few Months](https://dev.to/coder0214h/my-last-few-months-306p)
+- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
+- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
+- [Why More GPUs Won&#39;t Save Your AI Infrastructure](https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
