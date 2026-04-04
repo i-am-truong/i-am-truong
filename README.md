@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-4ho9)
+- [[SC] Sendable y Tipos-por-valor](https://dev.to/david_goyes_a488f58a17a53/sc-sendable-y-tipos-por-valor-1kl6)
+- [How I Built a Desktop Trading Journal with Electron, React, and SQLite](https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo)
+- [How I built a browser-based AI watermark remover with Next.js and Canvas API](https://dev.to/dan_dan_26ba75efedd611b1f/how-i-built-a-browser-based-ai-watermark-remover-with-nextjs-and-canvas-api-g22)
 - [GSAP ScrollTrigger pin: true Nearly Broke My Portfolio — Here&#39;s What I Learned](https://dev.to/xuanhai0913/gsap-scrolltrigger-pin-true-nearly-broke-my-portfolio-heres-what-i-learned-28i7)
-- [Why I Built My Own CMS &lpar;Again&rpar; — This Time with Laravel + Filament](https://dev.to/tallcms/why-i-built-my-own-cms-again-this-time-with-laravel-filament-2422)
-- [Cursor 3 Turned My IDE Into a Management Dashboard. I&#39;m Not Sure I Asked for That.](https://dev.to/adioof/cursor-3-turned-my-ide-into-a-management-dashboard-im-not-sure-i-asked-for-that-277j)
-- [How to Build Forms in Strapi v5 with strapi-plugin-form-builder-cms](https://dev.to/devcluna/how-to-build-forms-in-strapi-v5-with-strapi-plugin-form-builder-cms-393j)
-- [I Used ChatGPT as My Sales Role-Play Partner — Here&#39;s What Happened](https://dev.to/_5aa8ee1f92b89fef1/i-used-chatgpt-as-my-sales-role-play-partner-heres-what-happened-27l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
