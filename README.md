@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [File Archiving to AWS S3 using AWS SDK for Java](https://dev.to/ershubham/file-archiving-to-aws-s3-using-aws-sdk-for-java-4o2b)
-- [I Used to Write PRDs in Notion. Then I Clocked How Long It Was Taking.](https://dev.to/ahmed_zrouqui/i-used-to-write-prds-in-notion-then-i-clocked-how-long-it-was-taking-47ln)
-- [Common React Native Android autolinking issues and what to check](https://dev.to/asta_dev/common-react-native-android-autolinking-issues-and-what-to-check-240d)
-- [You Can Now Learn Anything 100x Faster With Claude.](https://dev.to/web_dev-usman/you-can-now-learn-anything-100x-faster-with-claude-4gcc)
-- [Rotate API Keys Automatically with This Open Source Proxy — Never Hit Rate Limits Again](https://dev.to/alexdevson/rotate-api-keys-automatically-with-this-open-source-proxy-never-hit-rate-limits-again-196b)
+- [I was tired of switching tabs to compare ChatGPT, Gemini &amp; Copilot. So I built a &lt;1MB Chrome extension to run them all in parallel.](https://dev.to/starwing/i-was-tired-of-switching-tabs-to-compare-chatgpt-gemini-copilot-so-i-built-a-1mb-chrome-22nn)
+- [Join Updated Dev: High signal feed for busy developers](https://dev.to/ms_74/join-updated-dev-high-signal-feed-for-busy-developers-2kam)
+- [Why You Should Know Vanilla Fetch &lpar;Especially Now&rpar;](https://dev.to/adamsnxt/why-you-should-know-vanilla-fetch-especially-now-330b)
+- [Building Lysis: A Review Engine Where AI Models Collaborate and Evolve](https://dev.to/sho_ikeda/building-lysis-a-review-engine-where-ai-models-collaborate-and-evolve-41b6)
+- [Gemma 4 Just Dropped. It&#39;s the Sharpest Tool in the Shed. Do You Have a Plan?](https://dev.to/mattbuscher/gemma-4-just-dropped-its-the-sharpest-tool-in-the-shed-do-you-have-a-plan-m86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
