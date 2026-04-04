@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spread vs Rest Operators in JavaScript](https://dev.to/kunal_dev/spread-vs-rest-operators-in-javascript-2m5d)
-- [Scaling the Safety Net: Our Journey into Phase 2 of Guidewire DevTrails 2026](https://dev.to/nehaav77/scaling-the-safety-net-our-journey-into-phase-2-of-guidewire-devtrails-2026-21l7)
-- [I Built a Subway Nutrition Calculator](https://dev.to/sambhav_tawar/i-built-a-subway-nutrition-calculator-1108)
-- [🚨 Elasticsearch High CPU Issue Due to Memory Pressure – Real Production Incident &amp; Fix](https://dev.to/alok_shankar/elasticsearch-high-cpu-issue-due-to-memory-pressure-real-production-incident-fix-3c8k)
-- [I Built a $15 Smart Home Controller &lpar;and Why Phones Are Bad Dashboards&rpar;](https://dev.to/ndygen/i-built-a-15-smart-home-controller-and-why-phones-are-bad-dashboards-2cff)
+- [The Warrior&#39;s Planner](https://dev.to/prema_ananda/the-warriors-planner-ah)
+- [What % of your code was written by AI?](https://dev.to/nikoli/what-of-your-code-was-written-by-ai-13kf)
+- [Nexora Os](https://dev.to/bhavana_koritala_/nexora-os-3inj)
+- [Mastering the &quot;super&quot; Keyword in Java: A Beginner’s Guide](https://dev.to/realnamehidden1_61/mastering-the-super-keyword-in-java-a-beginners-guide-47pn)
+- [Fintech Innovations to Watch in 2026: The Future of Digital Finance](https://dev.to/ezfincode/fintech-innovations-to-watch-in-2026-the-future-of-digital-finance-3jfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
