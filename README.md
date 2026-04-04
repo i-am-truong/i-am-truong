@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Just Paid $400M for a Team of 10. Here&#39;s Why That Makes Sense.](https://dev.to/om_shree_0709/anthropic-just-paid-400m-for-a-team-of-10-heres-why-that-makes-sense-3oi6)
-- [Same Model, Different Environment, Different Results](https://dev.to/john_wade_dev/same-model-different-environment-different-results-kdb)
-- [YouTube: Make the Video Timer Always Visible](https://dev.to/andrewelans/youtube-make-the-video-timer-always-visible-20o)
-- [React Radio Group Components: 6 shadcn Patterns for Real Apps](https://dev.to/vaibhavg/react-radio-group-components-shadcn-patterns-for-real-apps-4l4a)
-- [200+ Resume Action Verbs That Get Results &lpar;by Category&rpar;](https://dev.to/sarah_m/200-resume-action-verbs-that-get-results-by-category-2bdp)
+- [The Update Treadmill](https://dev.to/vivian-voss/the-update-treadmill-2p95)
+- [It wasn&#39;t &quot;Love at first sight&quot;](https://dev.to/xtasy/it-wasnt-love-at-first-sight-1o9n)
+- [LLM Observability for Laravel - trace every AI call with Langfuse](https://dev.to/axyr/llm-observability-for-laravel-trace-every-ai-call-with-langfuse-lpk)
+- [I Let an AI Agent Run My Developer Tools Business for 30 Days — Here&#39;s What Happened](https://dev.to/whoffagents/i-let-an-ai-agent-run-my-developer-tools-business-for-30-days-heres-what-happened-12na)
+- [Two Sum with an Optimized Solution](https://dev.to/kittichanr/two-sum-with-an-optimized-solution-2oe7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
