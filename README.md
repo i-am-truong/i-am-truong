@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hacking with multimodal Gemma 4 in AI Studio](https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had)
-- [Cansado de ter que atualizar o currículo em 2 lugares diferentes? Eu também.](https://dev.to/magno-freitas/cansado-de-ter-que-atualizar-o-curriculo-em-2-lugares-diferentes-eu-tambem-3019)
-- [We traced an MCP server calling an LLM — both sides, one trace](https://dev.to/vola-trebla/we-traced-an-mcp-server-calling-an-llm-both-sides-one-trace-39ae)
-- [I&#39;ve spent 9+ years on Discord. The next best option, is Fluxer.](https://dev.to/nevulo/ive-spent-9-years-on-discord-the-next-best-option-is-fluxer-15gh)
-- [How to Solve Your First LeetCode Problem: A Beginner&#39;s Guide](https://dev.to/castillodk/how-to-solve-your-first-leetcode-problem-a-beginners-guide-5808)
+- [Building Google Docs-style Real-Time Dashboards in Laravel &lpar;Reverb&rpar; &amp; React ⚡](https://dev.to/iprajapatiparesh/building-google-docs-style-real-time-dashboards-in-laravel-reverb-react-3gkl)
+- [I Studied How GitHub READMEs Are Actually Evaluated — Here Are the 5 Things That Matter](https://dev.to/kazkozdev/i-studied-how-github-readmes-are-actually-evaluated-here-are-the-5-things-that-matter-2epd)
+- [Railway Environments Explained: Branch Deployments, Staging, and Zero-Config Databases](https://dev.to/bean_bean/railway-environments-explained-branch-deployments-staging-and-zero-config-databases-2556)
+- [The Ultimate Guide to React State Management &lpar;2026&rpar;](https://dev.to/bean_bean/the-ultimate-guide-to-react-state-management-2026-28bh)
+- [Building an AI that analyzes stocks like Warren Buffett](https://dev.to/davidkim205/building-an-ai-that-analyzes-stocks-like-warren-buffett-214)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
