@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Resume Builders in 2026: I Applied to 50 Jobs to Test These](https://dev.to/alexdevson/best-resume-builders-in-2026-i-applied-to-50-jobs-to-test-these-o92)
-- [Truth Technology and the Architecture of Digital Trust](https://dev.to/ace2016/truth-technology-and-the-architecture-of-digital-trust-3ij2)
-- [I Switched From GitKraken to This Indie Git Client and I’m Not Going Back](https://dev.to/nathanbirch/i-switched-from-gitkraken-to-this-indie-git-client-and-im-not-going-back-4h2j)
-- [Why I Run 22 Docker Services at Home](https://dev.to/bash-thedev/why-i-run-22-docker-services-at-home-23cj)
-- [How to Embed ChatGPT in Your Website: 5 Methods Compared [2026 Guide]](https://dev.to/alakkadshaw/how-to-embed-chatgpt-in-your-website-5-methods-compared-2026-guide-5hk8)
+- [I built a CLI to verify PyPI package attestations before installing packages](https://dev.to/halfblood_prince_32a44256/i-built-a-cli-to-verify-pypi-package-attestations-before-installing-packages-6bn)
+- [Pitfalls of Claude Code](https://dev.to/cheetah100/pitfalls-of-claude-code-1nb6)
+- [I built a GitHub Action that auto-reviews PRs with LLM — risk assessment + evidence mapping [alpha, OSS]](https://dev.to/mordecaiusm922create/i-built-a-github-action-that-auto-reviews-prs-with-llm-risk-assessment-evidence-mapping-alpha-4oc)
+- [Managing MCP Servers and Tools With Agentregistry OSS](https://dev.to/thenjdevopsguy/managing-mcp-servers-and-tools-with-agentregistry-oss-4iga)
+- [Why NodeDB Might Be a Better Multi-Model Database](https://dev.to/nodedb/why-nodedb-might-be-a-better-multi-model-database-4jf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
