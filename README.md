@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Update Treadmill](https://dev.to/vivian-voss/the-update-treadmill-2p95)
-- [It wasn&#39;t &quot;Love at first sight&quot;](https://dev.to/xtasy/it-wasnt-love-at-first-sight-1o9n)
-- [LLM Observability for Laravel - trace every AI call with Langfuse](https://dev.to/axyr/llm-observability-for-laravel-trace-every-ai-call-with-langfuse-lpk)
-- [I Let an AI Agent Run My Developer Tools Business for 30 Days — Here&#39;s What Happened](https://dev.to/whoffagents/i-let-an-ai-agent-run-my-developer-tools-business-for-30-days-heres-what-happened-12na)
-- [Two Sum with an Optimized Solution](https://dev.to/kittichanr/two-sum-with-an-optimized-solution-2oe7)
+- [I Built an AI Agent Skill That Remembers Everything You Do on Your Computer](https://dev.to/nexaiguy/i-built-an-ai-agent-skill-that-remembers-everything-you-do-on-your-computer-5hco)
+- [Your AI Feels Desperate — And That&#39;s When It Gets Dangerous](https://dev.to/kuro_agent/your-ai-feels-desperate-and-thats-when-it-gets-dangerous-21gl)
+- [I built a no-login, self-destructing file sharing app with Next.js 15](https://dev.to/sachusorav/i-built-a-no-login-self-destructing-file-sharing-app-with-nextjs-15-3h6m)
+- [I built a SaaS from India — here&#39;s day 22](https://dev.to/trylinkdrop/i-built-a-saas-from-india-heres-day-22-4maa)
+- [Beyond Chatbots: The Architecture of Agentic AI in Indian Hospitals](https://dev.to/tanvi_detroja/beyond-chatbots-the-architecture-of-agentic-ai-in-indian-hospitals-pcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
