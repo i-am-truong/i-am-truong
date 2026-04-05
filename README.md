@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding TLS, Part 2 — Adding Integrity to the Channel](https://dev.to/aws-builders/rebuilding-tls-part-2-adding-integrity-to-the-channel-4k78)
-- [12. Web Design School - Create a Website that People Love](https://dev.to/avery_/12-web-design-school-create-a-website-that-people-love-3l2o)
-- [Stop Losing Users to Slow Loads: A Developer’s Guide to Core Web Vitals in 2026](https://dev.to/craftedmarketing/stop-losing-users-to-slow-loads-a-developers-guide-to-core-web-vitals-in-2026-4fb8)
-- [How I Digitized Years of Home Videos and Photos with Immich](https://dev.to/max_wheeler_136997c4effbd/how-i-digitized-years-of-home-videos-and-photos-with-immich-2035)
-- [How I Built a Browser-Based Video Converter With FFmpeg &amp; WebAssembly — No Server Required](https://dev.to/ali_salame/how-i-built-a-browser-based-video-converter-with-ffmpeg-webassembly-no-server-required-1bl8)
+- [Zero Data Loss Migration: Moving Billions of Rows from SQL Server to Aurora RDS — Architecture, Predictive CDC Monitoring &amp; Lessons from Production](https://dev.to/ajaydevineni/zero-data-loss-migration-moving-billions-of-rows-from-sql-server-to-aurora-rds-architecture-4g56)
+- [Build an Autocomplete Search Bar with React](https://dev.to/rahulxsingh/build-an-autocomplete-search-bar-with-react-1kn5)
+- [Web Development Is Not Dead: The Beginner&#39;s Roadmap to Landing Your First Dev Job in the AI Era](https://dev.to/david_bilsonn/web-development-is-not-dead-the-beginners-roadmap-to-landing-your-first-dev-job-in-the-ai-era-3pl0)
+- [O Claude terminou com o OpenClaw… Será mesmo?](https://dev.to/ggondim/o-claude-terminou-com-o-openclaw-sera-mesmo-8bl)
+- [Building Real-Time Voice Forms with Google Gemini API: Architecture &amp; Learnings](https://dev.to/adarsh_kant_ebb2fde1d0c6b/building-real-time-voice-forms-with-google-gemini-api-architecture-learnings-4mn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
