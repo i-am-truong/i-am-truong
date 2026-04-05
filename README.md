@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing llmlite: The First Unified LLM Provider Library for the @ZigLang Ecosystem](https://dev.to/zouyee/introducing-llmlite-the-first-unified-llm-provider-library-for-the-ziglang-ecosystem-33l4)
-- [Master-Class: Understanding Database Replication &lpar;Single, Multi, and Leaderless&rpar;](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm)
-- [How I Built a Production Observability Stack — And Broke It Twice Before It Worked](https://dev.to/roshan_ican/how-i-built-a-production-observability-stack-and-broke-it-twice-before-it-worked-4oce)
-- [Hexagonal Architecture in Python: Wiring Adapters, Dependency Injection, and the Application Layer](https://dev.to/elpic/hexagonal-architecture-in-python-wiring-adapters-dependency-injection-and-the-application-layer-61l)
-- [Vibe Coding Is Dead. Orchestration Is What Comes Next.](https://dev.to/aiforwork/vibe-coding-is-dead-orchestration-is-what-comes-next-1h64)
+- [PWC 367 Overlapping Oddities](https://dev.to/boblied/pwc-367-oddity-ln3)
+- [How I built a free browser-based watermark remover using Canvas API](https://dev.to/dan_dan_26ba75efedd611b1f/how-i-built-a-free-browser-based-watermark-remover-using-canvas-api-1if3)
+- [I Built a Multi-Agent Starter Kit with LangGraph — 6 Patterns, 5 Providers, One Command](https://dev.to/ac12644/i-built-a-multi-agent-starter-kit-with-langgraph-6-patterns-5-providers-one-command-b8g)
+- [I Built a Clean, Developer-Focused GitHub Profile README &lpar;with a Coding Cat 🐱‍💻&rpar;](https://dev.to/shub/i-built-a-clean-developer-focused-github-profile-readme-with-a-coding-cat--ao7)
+- [ParamFlow – lightweight layered configuration management for Python](https://dev.to/mduszyk/paramflow-lightweight-layered-configuration-management-for-python-4l29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
