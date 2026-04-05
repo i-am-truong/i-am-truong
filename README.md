@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
-- [Building an Agentic Access-Aware RAG System with Amazon FSx for NetApp ONTAP, S3 Vectors, and S3 Access Points— Where AI Respects File Permissions](https://dev.to/aws-builders/building-an-agentic-access-aware-rag-system-with-amazon-fsx-for-netapp-ontap-s3-vectors-and-s3-2b86)
-- [FileFeed: Stop Writing CSV Parsers for Every New Client](https://dev.to/igor_nikolic/filefeed-stop-writing-csv-parsers-for-every-new-client-1c34)
-- [5 DevOps Engineer Labs: From Bash Scripting to Docker Image Management](https://dev.to/labex/5-devops-engineer-labs-from-bash-scripting-to-docker-image-management-16ba)
-- [AI Coding Tools Produce 281% More Code in Month 1. By Month 3, the Advantage Is Gone.](https://dev.to/ziva/ai-coding-tools-produce-281-more-code-in-month-1-by-month-3-the-advantage-is-gone-56p9)
+- [Mura: The Source of Uneven Flow](https://dev.to/mash_dev/mura-the-source-of-uneven-flow-56fh)
+- [Flutter Widget Design: Write Once, Reuse Everywhere](https://dev.to/petprog/flutter-widget-design-write-once-reuse-everywhere-hfc)
+- [Documentation Debt Is Real: How to Pay It Down Without Stopping Work](https://dev.to/claudiasop/documentation-debt-is-real-how-to-pay-it-down-without-stopping-work-490g)
+- [How I Safely Added New Fields to My Django API Without Breaking Existing Users &lpar;Inboxit Case Study&rpar;](https://dev.to/popthemy/how-i-safely-added-new-fields-to-my-django-api-without-breaking-existing-users-inboxit-case-study-5489)
+- [Confessions of a Vibecoder: Are We Actually Ready for Placements?](https://dev.to/niriksha_s/confessions-of-a-vibecoder-are-we-actually-ready-for-placements-d20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
