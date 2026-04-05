@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortune 500 AI Disclosure Analysis: How America&#39;s Largest Companies Talk About AI in SEC Filings](https://dev.to/riospablo/fortune-500-ai-disclosure-analysis-how-americas-largest-companies-talk-about-ai-in-sec-filings-5531)
+- [Best AI Writing Tools for Email Marketing 2026 &lpar;Ranked by Use Case&rpar;](https://dev.to/techsifted/best-ai-writing-tools-for-email-marketing-2026-ranked-by-use-case-1e77)
+- [Oracle, AI, and Who Actually Pays for the Race](https://dev.to/evanlausier/oracle-ai-and-who-actually-pays-for-the-race-12g9)
+- [Why Are We Still Using Markdown in 2026?](https://dev.to/castillodk/why-are-we-still-using-markdown-in-2026-15db)
 - [Constructing a Station-Level Statistical Manifold with Dual Flat Structure from Pedestrian Trajectories](https://dev.to/bonebasket_a3284c91925b56/constructing-a-station-level-statistical-manifold-with-dual-flat-structure-from-pedestrian-5c7g)
-- [My Last Few Months](https://dev.to/coder0214h/my-last-few-months-306p)
-- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
-- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
-- [Why More GPUs Won&#39;t Save Your AI Infrastructure](https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
