@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Server That Lets AI Autonomously Debug Salesforce - Here&#39;s How](https://dev.to/likhit/i-built-an-mcp-server-that-lets-ai-autonomously-debug-salesforce-heres-how-382f)
-- [Architecting Secure Local-First AI Agents with NemoClaw, Podman, and Ollama](https://dev.to/suryakumaran/architecting-secure-local-first-ai-agents-with-nemoclaw-podman-and-ollama-cn9)
-- [Build Your First MCP Server in 30 Minutes: A Practical Guide for Salesforce Developers](https://dev.to/sitaram_srivatsavai/build-your-first-mcp-server-in-30-minutes-a-practical-guide-for-salesforce-developers-2766)
-- [From Stockout to Stock-Smart: AI-Powered Predictive Reordering](https://dev.to/ken_deng_ai/from-stockout-to-stock-smart-ai-powered-predictive-reordering-5a16)
-- [GitHub Actions: The Stuff Nobody Tells You](https://dev.to/andreagriffiths11/github-actions-the-stuff-nobody-tells-you-19md)
+- [Introducing llmlite: The First Unified LLM Provider Library for the @ZigLang Ecosystem](https://dev.to/zouyee/introducing-llmlite-the-first-unified-llm-provider-library-for-the-ziglang-ecosystem-33l4)
+- [Master-Class: Understanding Database Replication &lpar;Single, Multi, and Leaderless&rpar;](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm)
+- [How I Built a Production Observability Stack — And Broke It Twice Before It Worked](https://dev.to/roshan_ican/how-i-built-a-production-observability-stack-and-broke-it-twice-before-it-worked-4oce)
+- [Hexagonal Architecture in Python: Wiring Adapters, Dependency Injection, and the Application Layer](https://dev.to/elpic/hexagonal-architecture-in-python-wiring-adapters-dependency-injection-and-the-application-layer-61l)
+- [Vibe Coding Is Dead. Orchestration Is What Comes Next.](https://dev.to/aiforwork/vibe-coding-is-dead-orchestration-is-what-comes-next-1h64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
