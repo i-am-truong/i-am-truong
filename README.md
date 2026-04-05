@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Data Loss Migration: Moving Billions of Rows from SQL Server to Aurora RDS — Architecture, Predictive CDC Monitoring &amp; Lessons from Production](https://dev.to/ajaydevineni/zero-data-loss-migration-moving-billions-of-rows-from-sql-server-to-aurora-rds-architecture-4g56)
-- [Build an Autocomplete Search Bar with React](https://dev.to/rahulxsingh/build-an-autocomplete-search-bar-with-react-1kn5)
-- [Web Development Is Not Dead: The Beginner&#39;s Roadmap to Landing Your First Dev Job in the AI Era](https://dev.to/david_bilsonn/web-development-is-not-dead-the-beginners-roadmap-to-landing-your-first-dev-job-in-the-ai-era-3pl0)
-- [O Claude terminou com o OpenClaw… Será mesmo?](https://dev.to/ggondim/o-claude-terminou-com-o-openclaw-sera-mesmo-8bl)
-- [Building Real-Time Voice Forms with Google Gemini API: Architecture &amp; Learnings](https://dev.to/adarsh_kant_ebb2fde1d0c6b/building-real-time-voice-forms-with-google-gemini-api-architecture-learnings-4mn8)
+- [Recent Advances in Algorithmic High-Dimensional Robust Statistics](https://dev.to/paperium/recent-advances-in-algorithmic-high-dimensional-robust-statistics-fbo)
+- [The Rise of the AI-Native Account Executive: What Top Infrastructure Companies are Looking For](https://dev.to/nathanhamlett/the-rise-of-the-ai-native-account-executive-what-top-infrastructure-companies-are-looking-for-2n45)
+- [Claude Code rate limits: how to never hit them again with ANTHROPIC_BASE_URL](https://dev.to/subprime2010/claude-code-rate-limits-how-to-never-hit-them-again-with-anthropicbaseurl-2e4c)
+- [How I Built a Multi-Agent AI Pipeline with Python and Claude](https://dev.to/patrick_lou_ecb75a1421ba6/how-i-built-a-multi-agent-ai-pipeline-with-python-and-claude-12a3)
+- [dangerouslySetInnerHTML in React: Safe HTML Guide](https://dev.to/rahulxsingh/dangerouslysetinnerhtml-in-react-safe-html-guide-ole)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
