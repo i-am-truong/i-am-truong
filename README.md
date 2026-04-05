@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qodo vs SonarQube: AI-Powered vs Traditional Analysis &lpar;2026&rpar;](https://dev.to/rahulxsingh/qodo-vs-sonarqube-ai-powered-vs-traditional-analysis-2026-49ia)
-- [Building a Real-Time Volunteer Sync Engine with Flask-SocketIO and MySQL](https://dev.to/jerin_1219/building-a-real-time-volunteer-sync-engine-with-flask-socketio-and-mysql-2m81)
-- [I built a Chrome extension that lets you copy any UI component and paste it into AI coding tools](https://dev.to/bring_shrubbery/i-built-a-chrome-extension-that-lets-you-copy-any-ui-component-and-paste-it-into-ai-coding-tools-50g1)
-- [New Way to Handle 2 Million Search Queries Without a Search Server](https://dev.to/rakshit47/new-way-to-handle-2-million-search-queries-without-a-search-server-40j1)
-- [I Turned My Google Sheets Hack Into a Real Tool. It Took Six Months and I Have No Regrets.](https://dev.to/shashank_raj/i-turned-my-google-sheets-hack-into-a-real-tool-it-took-six-months-and-i-have-no-regrets-5cj3)
+- [A Practical RTM Checklist You Can Use in 10 Minutes](https://dev.to/r_abhimaan/a-practical-rtm-checklist-you-can-use-in-10-minutes-86n)
+- [Top 25 Java Collections Interview Questions for Wipro and Capgemini — With Answers &lpar;2025&rpar;](https://dev.to/abhijit_maharik_3b36da1a8/top-25-java-collections-interview-questions-for-wipro-and-capgemini-with-answers-2025-19k4)
+- [Day 7/100: Week 1 Recap — 6 Android Fundamentals I Thought I Knew Cold](https://dev.to/hoangshawn/day-7100-week-1-recap-6-android-fundamentals-i-thought-i-knew-cold-1glc)
+- [Deploying a Standalone Application 1](https://dev.to/rahimah_dev/deploying-a-standalone-application-1-le0)
+- [What is MCP &lpar;Model Context Protocol&rpar; and Why You Need It in Your AI IDE](https://dev.to/karthikkk24/what-is-mcp-model-context-protocol-and-why-you-need-it-in-your-ai-ide-18bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
