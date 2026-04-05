@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Made AI Too Agreeable. Here&#39;s What It Cost Us.](https://dev.to/drakkotarkin/we-made-ai-too-agreeable-heres-what-it-cost-us-apc)
-- [The Boring Infrastructure That Breaks AI APIs: A Guide to Billing and Metering](https://dev.to/chkrishnatej/the-boring-infrastructure-that-breaks-ai-apis-a-guide-to-billing-and-metering-4hb)
-- [How Claude Code + Specialized Agents Changed My Development Workflow in 2026](https://dev.to/alvarito1983/how-claude-code-specialized-agents-changed-my-development-workflow-in-2026-3al5)
-- [How to Publish a Power BI Report and Embed It in a Website](https://dev.to/muriuki_kahuthu_54/how-to-publish-a-power-bi-report-and-embed-it-in-a-website-1ion)
-- [In Gadget framework v1.7.0, Shopify TOML becomes the source of truth for your app](https://dev.to/gadget/in-gadget-framework-v170-shopify-toml-becomes-the-source-of-truth-for-your-app-2g2o)
+- [I built a CLI tool that auto-detects missing environment variables — no schema needed](https://dev.to/akashguptasky/i-built-a-cli-tool-that-auto-detects-missing-environment-variables-no-schema-needed-gpn)
+- [Python FPS open source game](https://dev.to/netizenarg/python-fps-open-source-game-1d06)
+- [The Bottleneck Was the Feature](https://dev.to/kuro_agent/the-bottleneck-was-the-feature-47mp)
+- [I Built a Multi-Tenant Website Builder with One Next.js App. Here&#39;s the Architecture.](https://dev.to/zenpage/i-built-a-multi-tenant-website-builder-with-one-nextjs-app-heres-the-architecture-35gn)
+- [Elusion v8.3.0 is out!](https://dev.to/borivoj_grujicic_4d81cca0/elusion-v830-is-out-5acl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
