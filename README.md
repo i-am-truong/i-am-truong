@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 3-2-1 Backup Rule: How to Never Lose Your Data Again](https://dev.to/lorikeesmart/the-3-2-1-backup-rule-how-to-never-lose-your-data-again-4eof)
-- [Building a Discord Caller &lpar;Voice Relay&rpar; Bot in Go](https://dev.to/sealbro/building-a-discord-caller-voice-relay-bot-in-go-5b9h)
-- [How to Structure a monday.com Workspace for Multi-Department Operations](https://dev.to/gwilym_ge/how-to-structure-a-mondaycom-workspace-for-multi-department-operations-5d98)
-- [I Killed Our 23-Zap Stack and Built One Database Instead — Here&#39;s Why Middleware Always Fails](https://dev.to/arham_mirkar/i-killed-our-23-zap-stack-and-built-one-database-instead-heres-why-middleware-always-fails-20lj)
-- [How to Set Up llms.txt and robots.txt for AI Crawlers on WordPress &lpar;2026 Guide&rpar;](https://dev.to/amitkumarseo/how-to-set-up-llmstxt-and-robotstxt-for-ai-crawlers-on-wordpress-2026-guide-2ocg)
+- [I built an AI to analyze stocks after losing money trading](https://dev.to/rallypi/i-built-an-ai-to-analyze-stocks-after-losing-money-trading-33cp)
+- [20 lines of markdown replaced my code review bot](https://dev.to/itay-maman/20-lines-of-markdown-replaced-my-code-review-bot-26h2)
+- [Writesonic vs Copy.ai &lpar;2026&rpar;: Which AI Writer Wins for Your Use Case?](https://dev.to/techsifted/writesonic-vs-copyai-2026-which-ai-writer-wins-for-your-use-case-f6l)
+- [Open Source in 2026: The Fork Wars Are Getting Ugly](https://dev.to/gabrielanhaia/open-source-in-2026-the-fork-wars-are-getting-ugly-28n)
+- [Cursor vs GitHub Copilot vs Codeium: Which AI Codes Best?](https://dev.to/techsifted/cursor-vs-github-copilot-vs-codeium-which-ai-codes-best-1n55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
