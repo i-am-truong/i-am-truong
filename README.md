@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fortune 500 AI Disclosure Analysis: How America&#39;s Largest Companies Talk About AI in SEC Filings](https://dev.to/riospablo/fortune-500-ai-disclosure-analysis-how-americas-largest-companies-talk-about-ai-in-sec-filings-5531)
-- [Best AI Writing Tools for Email Marketing 2026 &lpar;Ranked by Use Case&rpar;](https://dev.to/techsifted/best-ai-writing-tools-for-email-marketing-2026-ranked-by-use-case-1e77)
-- [Oracle, AI, and Who Actually Pays for the Race](https://dev.to/evanlausier/oracle-ai-and-who-actually-pays-for-the-race-12g9)
-- [Why Are We Still Using Markdown in 2026?](https://dev.to/castillodk/why-are-we-still-using-markdown-in-2026-15db)
-- [Constructing a Station-Level Statistical Manifold with Dual Flat Structure from Pedestrian Trajectories](https://dev.to/bonebasket_a3284c91925b56/constructing-a-station-level-statistical-manifold-with-dual-flat-structure-from-pedestrian-5c7g)
+- [MCP in Practice — Complete Series](https://dev.to/gursharansingh/mcp-in-practice-complete-series-3c93)
+- [The AWS Dev Setup Nobody Told You About. Claude Code, Kiro Pro, and Agent Plugins.](https://dev.to/aws-heroes/the-aws-dev-setup-nobody-told-you-about-claude-code-kiro-pro-and-agent-plugins-1c3p)
+- [I Built a Zero-Login Postman Alternative in 5 Weeks. My Cofounder Is an AI and I Work Long Shifts.](https://dev.to/apibuilderhq/i-built-a-zero-login-postman-alternative-in-5-weeks-my-cofounder-is-an-ai-and-i-work-long-shifts-4phn)
+- [Scarcity Captures the Mind](https://dev.to/odiong/scarcity-captures-the-mind-4pe7)
+- [Want Your AI to Stay Private? Run a Fully Local LLM with Open WebUI + Ollama](https://dev.to/micheal_angelo_41cea4e81a/want-your-ai-to-stay-private-run-a-fully-local-llm-with-open-webui-ollama-3c8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
