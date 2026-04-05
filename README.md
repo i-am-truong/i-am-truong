@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical RTM Checklist You Can Use in 10 Minutes](https://dev.to/r_abhimaan/a-practical-rtm-checklist-you-can-use-in-10-minutes-86n)
-- [Top 25 Java Collections Interview Questions for Wipro and Capgemini — With Answers &lpar;2025&rpar;](https://dev.to/abhijit_maharik_3b36da1a8/top-25-java-collections-interview-questions-for-wipro-and-capgemini-with-answers-2025-19k4)
-- [Day 7/100: Week 1 Recap — 6 Android Fundamentals I Thought I Knew Cold](https://dev.to/hoangshawn/day-7100-week-1-recap-6-android-fundamentals-i-thought-i-knew-cold-1glc)
-- [Deploying a Standalone Application 1](https://dev.to/rahimah_dev/deploying-a-standalone-application-1-le0)
-- [What is MCP &lpar;Model Context Protocol&rpar; and Why You Need It in Your AI IDE](https://dev.to/karthikkk24/what-is-mcp-model-context-protocol-and-why-you-need-it-in-your-ai-ide-18bk)
+- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
+- [Building an Agentic Access-Aware RAG System with Amazon FSx for NetApp ONTAP, S3 Vectors, and S3 Access Points— Where AI Respects File Permissions](https://dev.to/aws-builders/building-an-agentic-access-aware-rag-system-with-amazon-fsx-for-netapp-ontap-s3-vectors-and-s3-2b86)
+- [FileFeed: Stop Writing CSV Parsers for Every New Client](https://dev.to/igor_nikolic/filefeed-stop-writing-csv-parsers-for-every-new-client-1c34)
+- [5 DevOps Engineer Labs: From Bash Scripting to Docker Image Management](https://dev.to/labex/5-devops-engineer-labs-from-bash-scripting-to-docker-image-management-16ba)
+- [AI Coding Tools Produce 281% More Code in Month 1. By Month 3, the Advantage Is Gone.](https://dev.to/ziva/ai-coding-tools-produce-281-more-code-in-month-1-by-month-3-the-advantage-is-gone-56p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
