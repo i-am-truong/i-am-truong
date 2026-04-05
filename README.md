@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Claude Code Buddy Moved Into My MacBook&#39;s Notch and I Can&#39;t Stop Looking at It](https://dev.to/krisying/my-claude-code-buddy-moved-into-my-macbooks-notch-and-i-cant-stop-looking-at-it-3d6e)
-- [I Turned My MacBook&#39;s Notch Into a Control Center for AI Coding Agents](https://dev.to/krisying/i-turned-my-macbooks-notch-into-a-control-center-for-ai-coding-agents-2o57)
-- [BuildWithAI: What Broke, What I Learned, What&#39;s Next](https://dev.to/aws-builders/buildwithai-what-broke-what-i-learned-whats-next-jdp)
-- [BuildWithAI: Prompt Engineering 6 DR Tools with Amazon Bedrock](https://dev.to/aws-builders/buildwithai-prompt-engineering-6-dr-tools-with-amazon-bedrock-336i)
-- [BuildWithAI: Architecting a Serverless DR Toolkit on AWS](https://dev.to/aws-builders/buildwithai-architecting-a-serverless-dr-toolkit-on-aws-123d)
+- [Frontend Caching Done Right](https://dev.to/codescoop/frontend-caching-done-right-2lem)
+- [Living on the Linux Console — Part 2: casty, a Full Browser for TTY](https://dev.to/owxy_orz/living-on-the-linux-console-part-2-casty-a-full-browser-for-tty-1fm1)
+- [Best Free Cron Monitoring Tools for Developers in 2026](https://dev.to/quietpulse-social/best-free-cron-monitoring-tools-for-developers-in-2026-64b)
+- [Building an Interactive N-Queens Visualizer with React + TypeScript](https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd)
+- [## The Interview You Keep Failing Without Knowing Why](https://dev.to/karuha/-the-interview-you-keep-failing-without-knowing-why-2l5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
