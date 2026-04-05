@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Recent Advances in Algorithmic High-Dimensional Robust Statistics](https://dev.to/paperium/recent-advances-in-algorithmic-high-dimensional-robust-statistics-fbo)
-- [The Rise of the AI-Native Account Executive: What Top Infrastructure Companies are Looking For](https://dev.to/nathanhamlett/the-rise-of-the-ai-native-account-executive-what-top-infrastructure-companies-are-looking-for-2n45)
-- [Claude Code rate limits: how to never hit them again with ANTHROPIC_BASE_URL](https://dev.to/subprime2010/claude-code-rate-limits-how-to-never-hit-them-again-with-anthropicbaseurl-2e4c)
-- [How I Built a Multi-Agent AI Pipeline with Python and Claude](https://dev.to/patrick_lou_ecb75a1421ba6/how-i-built-a-multi-agent-ai-pipeline-with-python-and-claude-12a3)
-- [dangerouslySetInnerHTML in React: Safe HTML Guide](https://dev.to/rahulxsingh/dangerouslysetinnerhtml-in-react-safe-html-guide-ole)
+- [How We Scaled Quran.com to 50M Monthly Users: Architecture Lessons From the Inside](https://dev.to/mzunain/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-i33)
+- [[Beginner] Docker Tutorial for jetson-containers on Jetson AGX Orin](https://dev.to/vonusma/beginner-docker-tutorial-for-jetson-containers-on-jetson-agx-orin-5bl8)
+- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
+- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
+- [Building a Document Processing Pipeline with S3, Textract, Step Functions and EventBridge](https://dev.to/aws-builders/building-a-document-processing-pipeline-with-s3-textract-step-functions-and-eventbridge-3m3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
