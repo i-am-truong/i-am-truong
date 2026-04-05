@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to publish a Power BI report and embed it into a website](https://dev.to/tom_chege/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-181k)
-- [I Built a Cross-Platform Price Comparison Tool for Retail Arbitrage](https://dev.to/_350df62777eb55e1/i-built-a-cross-platform-price-comparison-tool-for-retail-arbitrage-5fpc)
-- [I built a CLI to test Tauri apps because nothing else worked](https://dev.to/mpiton/i-built-a-cli-to-test-tauri-apps-because-nothing-else-worked-3915)
-- [What does it really cost to become a DevOps engineer? Getting started in DevOps without spending a dime](https://dev.to/durrello/what-does-it-really-cost-to-become-a-devops-engineer-getting-started-in-devops-without-spending-a-1p0a)
-- [The Conformation](https://dev.to/thesythesis/the-conformation-2g8o)
+- [Finding My Way into Fedora, One Tab at a Time](https://dev.to/psspace/finding-my-way-into-fedora-one-tab-at-a-time-1fib)
+- [Learning to Generate Images of Outdoor Scenes from Attributes and SemanticLayouts](https://dev.to/paperium/learning-to-generate-images-of-outdoor-scenes-from-attributes-and-semanticlayouts-2oh1)
+- [This Rubber Duck Doesn&#39;t Debug — It Roasts](https://dev.to/einorde/this-rubber-duck-doesnt-debug-it-roasts-1g44)
+- [Fourbidden: A Serious AI Solution to 2+2, With Maximum Ceremony and No Resolution](https://dev.to/ujja/fourbidden-a-serious-ai-solution-to-22-with-maximum-ceremony-and-no-resolution-3p1g)
+- [Weekly Challenge: Maximum conflict](https://dev.to/simongreennet/weekly-challenge-maximum-conflict-5c4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
