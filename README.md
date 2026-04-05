@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Scaled Quran.com to 50M Monthly Users: Architecture Lessons From the Inside](https://dev.to/mzunain/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-i33)
-- [[Beginner] Docker Tutorial for jetson-containers on Jetson AGX Orin](https://dev.to/vonusma/beginner-docker-tutorial-for-jetson-containers-on-jetson-agx-orin-5bl8)
-- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
-- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
-- [Building a Document Processing Pipeline with S3, Textract, Step Functions and EventBridge](https://dev.to/aws-builders/building-a-document-processing-pipeline-with-s3-textract-step-functions-and-eventbridge-3m3l)
+- [Por que eu começo 10 projetos e não termino nenhum?](https://dev.to/yuri_souza_87bf486a4674b6/por-que-eu-comeco-10-projetos-e-nao-termino-nenhum-1139)
+- [If Memory Could Compute, Would We Still Need GPUs?](https://dev.to/plasmon_imp/if-memory-could-compute-would-we-still-need-gpus-4ccb)
+- [Your Pipeline Is 20.3h Behind: Catching Artificial Intelligence Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-203h-behind-catching-artificial-intelligence-sentiment-leads-with-pulsebit-44fm)
+- [Building LinkedIN Job Application Agents - Part 3](https://dev.to/mindy_jen_phd/building-linkedin-job-application-agents-part-3-in6)
+- [[Rust Guide] 2.1. Number Guessing Game Pt.1 - One Guess](https://dev.to/someb1oody/rust-guide-21-number-guessing-game-pt1-one-guess-3fbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
