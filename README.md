@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding My Way into Fedora, One Tab at a Time](https://dev.to/psspace/finding-my-way-into-fedora-one-tab-at-a-time-1fib)
-- [Learning to Generate Images of Outdoor Scenes from Attributes and SemanticLayouts](https://dev.to/paperium/learning-to-generate-images-of-outdoor-scenes-from-attributes-and-semanticlayouts-2oh1)
-- [This Rubber Duck Doesn&#39;t Debug — It Roasts](https://dev.to/einorde/this-rubber-duck-doesnt-debug-it-roasts-1g44)
-- [Fourbidden: A Serious AI Solution to 2+2, With Maximum Ceremony and No Resolution](https://dev.to/ujja/fourbidden-a-serious-ai-solution-to-22-with-maximum-ceremony-and-no-resolution-3p1g)
-- [Weekly Challenge: Maximum conflict](https://dev.to/simongreennet/weekly-challenge-maximum-conflict-5c4n)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained.](https://dev.to/muriuki_kahuthu_54/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-4c5b)
+- [SMALLTALK LIVING OBJECT SOCIETY A Browser-Native Message Economy for Autonomous Data Objects](https://dev.to/peacebinflow/smalltalk-living-object-societya-browser-native-message-economy-for-autonomous-data-objects-5bhj)
+- [La Aventura de construir Kungu con Solana y IA](https://dev.to/derlys/la-aventura-de-construir-kungu-con-solana-y-ia-gcd)
+- [World-Building with Persistence: Narrative Layers in AI Agents](https://dev.to/vektor_memory_43f51a32376/world-building-with-persistence-narrative-layers-in-ai-agents-1ppl)
+- [Your LLM Passes Type Checks but Fails the &quot;Vibe Check&quot;: How I Fixed AI Reliability](https://dev.to/akhona_eland_072dac9e0c2c/your-llm-passes-type-checks-but-fails-the-vibe-check-how-i-fixed-ai-reliability-38ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
