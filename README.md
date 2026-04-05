@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-54gc)
-- [Accelerating TURN with eBPF: A Non-Invasive Approach](https://dev.to/ivan-m-tech/accelerating-turn-with-ebpf-a-non-invasive-approach-ed1)
-- [How to Set Up Qodo AI in VS Code: Installation Guide](https://dev.to/rahulxsingh/how-to-set-up-qodo-ai-in-vs-code-installation-guide-2983)
-- [I Built a Cost Calculator for the OpenClaw Ban Because It Hit Me Too](https://dev.to/solido/i-built-a-cost-calculator-for-the-openclaw-ban-because-it-hit-me-too-59ef)
-- [Build a Daily Standup Digest with Swrly](https://dev.to/swrly/build-a-daily-standup-digest-with-swrly-1ela)
+- [Rebuilding TLS, Part 2 — Adding Integrity to the Channel](https://dev.to/aws-builders/rebuilding-tls-part-2-adding-integrity-to-the-channel-4k78)
+- [12. Web Design School - Create a Website that People Love](https://dev.to/avery_/12-web-design-school-create-a-website-that-people-love-3l2o)
+- [Stop Losing Users to Slow Loads: A Developer’s Guide to Core Web Vitals in 2026](https://dev.to/craftedmarketing/stop-losing-users-to-slow-loads-a-developers-guide-to-core-web-vitals-in-2026-4fb8)
+- [How I Digitized Years of Home Videos and Photos with Immich](https://dev.to/max_wheeler_136997c4effbd/how-i-digitized-years-of-home-videos-and-photos-with-immich-2035)
+- [How I Built a Browser-Based Video Converter With FFmpeg &amp; WebAssembly — No Server Required](https://dev.to/ali_salame/how-i-built-a-browser-based-video-converter-with-ffmpeg-webassembly-no-server-required-1bl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
