@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Ethics Emerged from Episode Logs — 17 Days of Contemplative Agent Design](https://dev.to/shimo4228/how-ethics-emerged-from-episode-logs-17-days-of-contemplative-agent-design-1kk5)
-- [AI Guidance - How to use AI as a Senior Developer](https://dev.to/framemuse/ai-guidance-how-to-use-ai-as-a-senior-developer-4m2m)
-- [The Stack Nobody Recommended](https://dev.to/bash-thedev/the-stack-nobody-recommended-3gja)
-- [Best Form Backend for Job Applications and Event Registrations in 2026](https://dev.to/allenarduino/best-form-backend-for-job-applications-and-event-registrations-in-2026-2f7a)
-- [Next.js SEO Library Comparison 2026: Power-SEO vs Next-SEO With Real Code](https://dev.to/alamin_c5eb10132845723c2b/nextjs-seo-library-comparison-2026-power-seo-vs-next-seo-with-real-code-4dc3)
+- [I Built an MCP Server That Lets AI Autonomously Debug Salesforce - Here&#39;s How](https://dev.to/likhit/i-built-an-mcp-server-that-lets-ai-autonomously-debug-salesforce-heres-how-382f)
+- [Architecting Secure Local-First AI Agents with NemoClaw, Podman, and Ollama](https://dev.to/suryakumaran/architecting-secure-local-first-ai-agents-with-nemoclaw-podman-and-ollama-cn9)
+- [Build Your First MCP Server in 30 Minutes: A Practical Guide for Salesforce Developers](https://dev.to/sitaram_srivatsavai/build-your-first-mcp-server-in-30-minutes-a-practical-guide-for-salesforce-developers-2766)
+- [From Stockout to Stock-Smart: AI-Powered Predictive Reordering](https://dev.to/ken_deng_ai/from-stockout-to-stock-smart-ai-powered-predictive-reordering-5a16)
+- [GitHub Actions: The Stuff Nobody Tells You](https://dev.to/andreagriffiths11/github-actions-the-stuff-nobody-tells-you-19md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
