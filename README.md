@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained.](https://dev.to/muriuki_kahuthu_54/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-4c5b)
-- [SMALLTALK LIVING OBJECT SOCIETY A Browser-Native Message Economy for Autonomous Data Objects](https://dev.to/peacebinflow/smalltalk-living-object-societya-browser-native-message-economy-for-autonomous-data-objects-5bhj)
-- [La Aventura de construir Kungu con Solana y IA](https://dev.to/derlys/la-aventura-de-construir-kungu-con-solana-y-ia-gcd)
-- [World-Building with Persistence: Narrative Layers in AI Agents](https://dev.to/vektor_memory_43f51a32376/world-building-with-persistence-narrative-layers-in-ai-agents-1ppl)
-- [Your LLM Passes Type Checks but Fails the &quot;Vibe Check&quot;: How I Fixed AI Reliability](https://dev.to/akhona_eland_072dac9e0c2c/your-llm-passes-type-checks-but-fails-the-vibe-check-how-i-fixed-ai-reliability-38ac)
+- [How to Replicate a Full Mobile Dev Workflow in Claude Code](https://dev.to/gentic_news/how-to-replicate-a-full-mobile-dev-workflow-in-claude-code-33a2)
+- [Building an eBPF-based SIP Monitor in Go](https://dev.to/aibudaevv/building-an-ebpf-based-sip-monitor-in-go-3igk)
+- [Day 2 of my 21-day API challenge, built a Password Strength &amp; Security Scorer API](https://dev.to/ruanmuller04/day-2-of-my-21-day-api-challenge-built-a-password-strength-security-scorer-api-489c)
+- [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://dev.to/paperium/cosyvoice-2-scalable-streaming-speech-synthesis-with-large-language-models-253o)
+- [Addressing Upstream Header Overflows in Elementor Storefronts](https://dev.to/risky_egbuna_67090a53aaaa/addressing-upstream-header-overflows-in-elementor-storefronts-49h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
