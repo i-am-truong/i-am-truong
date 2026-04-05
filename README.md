@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSR vs SSR vs SSG vs ISR](https://dev.to/moosakhan/csr-vs-ssr-vs-ssg-vs-isr-1adn)
-- [I built a CLI tool that auto-detects missing environment variables — no schema needed](https://dev.to/akashguptasky/i-built-a-cli-tool-that-auto-detects-missing-environment-variables-no-schema-needed-gpn)
-- [Python FPS open source game](https://dev.to/netizenarg/python-fps-open-source-game-1d06)
-- [The Bottleneck Was the Feature](https://dev.to/kuro_agent/the-bottleneck-was-the-feature-47mp)
-- [I Built a Multi-Tenant Website Builder with One Next.js App. Here&#39;s the Architecture.](https://dev.to/zenpage/i-built-a-multi-tenant-website-builder-with-one-nextjs-app-heres-the-architecture-35gn)
+- [VoiceScribe](https://dev.to/jan-klein/voicescribe-4k99)
+- [AI helps me code faster, but not always understand better](https://dev.to/__6146a1dd7/ai-helps-me-code-faster-but-not-always-understand-better-oik)
+- [Chaining MCP Tools: Build AI Workflows That Search, Read, Analyze, and Write](https://dev.to/neurolink/chaining-mcp-tools-build-ai-workflows-that-search-read-analyze-and-write-e40)
+- [I built a faster alternative to cp and rsync — here&#39;s how it works](https://dev.to/krit83/i-built-a-faster-alternative-to-cp-and-rsync-heres-how-it-works-39fa)
+- [Chaining MCP Tools: Search Read Analyze Write in TypeScript](https://dev.to/neurolink/chaining-mcp-tools-search-read-analyze-write-in-typescript-2gmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
