@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mura: The Source of Uneven Flow](https://dev.to/mash_dev/mura-the-source-of-uneven-flow-56fh)
-- [Flutter Widget Design: Write Once, Reuse Everywhere](https://dev.to/petprog/flutter-widget-design-write-once-reuse-everywhere-hfc)
-- [Documentation Debt Is Real: How to Pay It Down Without Stopping Work](https://dev.to/claudiasop/documentation-debt-is-real-how-to-pay-it-down-without-stopping-work-490g)
-- [How I Safely Added New Fields to My Django API Without Breaking Existing Users &lpar;Inboxit Case Study&rpar;](https://dev.to/popthemy/how-i-safely-added-new-fields-to-my-django-api-without-breaking-existing-users-inboxit-case-study-5489)
-- [Confessions of a Vibecoder: Are We Actually Ready for Placements?](https://dev.to/niriksha_s/confessions-of-a-vibecoder-are-we-actually-ready-for-placements-d20)
+- [KVerify: A Two-Year Journey to Get Validation Right](https://dev.to/tessoir/kverify-a-two-year-journey-to-get-validation-right-4h8o)
+- [Dark Dish Lab: A Cursed Recipe Generator](https://dev.to/zoe_lin_0653/dark-dish-lab-a-cursed-recipe-generator-4lj1)
+- [Getting Data from Multiple Sources in PowerBI: A Practical Guide to Modern Data Integration](https://dev.to/atinuke77/getting-data-from-multiple-sources-in-powerbi-a-practical-guide-to-modern-data-integration-2b9p)
+- [Why Developer Productivity Engineering is Underrated](https://dev.to/igorvoloc/why-developer-productivity-engineering-is-underrated-5h0o)
+- [Matrices in Python](https://dev.to/gaurav386i/matrices-in-python-9ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
