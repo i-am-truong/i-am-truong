@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Real Ceiling in Claude Code&#39;s Memory System &lpar;It’s Not the 200-Line Cap&rpar;](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
-- [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
-- [# Understanding Data Modeling in PowerBI: Joins, Relationship and Schemas.](https://dev.to/nyamatari_brian_c41e0c389/-understanding-data-modeling-in-powerbi-joins-relationship-and-schemas-1imn)
-- [Understanding Scope, Hoisting, and Closures like a Pro!](https://dev.to/rafsan-jany-ratul/understanding-scope-hoisting-and-closures-like-a-pro-152h)
-- [Qodo vs Cody &lpar;Sourcegraph&rpar;: AI Code Review Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/qodo-vs-cody-sourcegraph-ai-code-review-compared-2026-e18)
+- [Persistent memory in Claude Code: what&#39;s worth keeping](https://dev.to/ohugonnot/persistent-memory-in-claude-code-whats-worth-keeping-54ck)
+- [I Knew About Gravity. But I Hadn&#39;t Thought About the Equation Behind It This Way](https://dev.to/utkuhanakar/i-knew-about-gravity-but-i-hadnt-thought-about-the-equation-behind-it-this-way-4b1n)
+- [I Wrote a React Book So You Don&#39;t Have to Learn These Lessons the Hard Way](https://dev.to/gabrielenache/i-wrote-a-react-book-so-you-dont-have-to-learn-these-lessons-the-hard-way-5b6n)
+- [I let Claude Code run marketing workflows for brands](https://dev.to/tgdn/i-let-claude-code-run-marketing-workflows-for-brands-3n0e)
+- [The Skill That Helps Me Do Code Review](https://dev.to/david_shimon/the-skill-that-helps-me-do-code-review-3ejc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
