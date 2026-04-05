@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KVerify: A Two-Year Journey to Get Validation Right](https://dev.to/tessoir/kverify-a-two-year-journey-to-get-validation-right-4h8o)
-- [Dark Dish Lab: A Cursed Recipe Generator](https://dev.to/zoe_lin_0653/dark-dish-lab-a-cursed-recipe-generator-4lj1)
-- [Getting Data from Multiple Sources in PowerBI: A Practical Guide to Modern Data Integration](https://dev.to/atinuke77/getting-data-from-multiple-sources-in-powerbi-a-practical-guide-to-modern-data-integration-2b9p)
-- [Why Developer Productivity Engineering is Underrated](https://dev.to/igorvoloc/why-developer-productivity-engineering-is-underrated-5h0o)
-- [Matrices in Python](https://dev.to/gaurav386i/matrices-in-python-9ig)
+- [We Made AI Too Agreeable. Here&#39;s What It Cost Us.](https://dev.to/drakkotarkin/we-made-ai-too-agreeable-heres-what-it-cost-us-apc)
+- [The Boring Infrastructure That Breaks AI APIs: A Guide to Billing and Metering](https://dev.to/chkrishnatej/the-boring-infrastructure-that-breaks-ai-apis-a-guide-to-billing-and-metering-4hb)
+- [How Claude Code + Specialized Agents Changed My Development Workflow in 2026](https://dev.to/alvarito1983/how-claude-code-specialized-agents-changed-my-development-workflow-in-2026-3al5)
+- [How to Publish a Power BI Report and Embed It in a Website](https://dev.to/muriuki_kahuthu_54/how-to-publish-a-power-bi-report-and-embed-it-in-a-website-1ion)
+- [In Gadget framework v1.7.0, Shopify TOML becomes the source of truth for your app](https://dev.to/gadget/in-gadget-framework-v170-shopify-toml-becomes-the-source-of-truth-for-your-app-2g2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
