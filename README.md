@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Persistent memory in Claude Code: what&#39;s worth keeping](https://dev.to/ohugonnot/persistent-memory-in-claude-code-whats-worth-keeping-54ck)
-- [I Knew About Gravity. But I Hadn&#39;t Thought About the Equation Behind It This Way](https://dev.to/utkuhanakar/i-knew-about-gravity-but-i-hadnt-thought-about-the-equation-behind-it-this-way-4b1n)
-- [I Wrote a React Book So You Don&#39;t Have to Learn These Lessons the Hard Way](https://dev.to/gabrielenache/i-wrote-a-react-book-so-you-dont-have-to-learn-these-lessons-the-hard-way-5b6n)
-- [I let Claude Code run marketing workflows for brands](https://dev.to/tgdn/i-let-claude-code-run-marketing-workflows-for-brands-3n0e)
-- [The Skill That Helps Me Do Code Review](https://dev.to/david_shimon/the-skill-that-helps-me-do-code-review-3ejc)
+- [How to publish a Power BI report and embed it into a website](https://dev.to/tom_chege/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-181k)
+- [I Built a Cross-Platform Price Comparison Tool for Retail Arbitrage](https://dev.to/_350df62777eb55e1/i-built-a-cross-platform-price-comparison-tool-for-retail-arbitrage-5fpc)
+- [I built a CLI to test Tauri apps because nothing else worked](https://dev.to/mpiton/i-built-a-cli-to-test-tauri-apps-because-nothing-else-worked-3915)
+- [What does it really cost to become a DevOps engineer? Getting started in DevOps without spending a dime](https://dev.to/durrello/what-does-it-really-cost-to-become-a-devops-engineer-getting-started-in-devops-without-spending-a-1p0a)
+- [The Conformation](https://dev.to/thesythesis/the-conformation-2g8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
