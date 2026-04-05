@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VoiceScribe](https://dev.to/jan-klein/voicescribe-4k99)
-- [AI helps me code faster, but not always understand better](https://dev.to/__6146a1dd7/ai-helps-me-code-faster-but-not-always-understand-better-oik)
-- [Chaining MCP Tools: Build AI Workflows That Search, Read, Analyze, and Write](https://dev.to/neurolink/chaining-mcp-tools-build-ai-workflows-that-search-read-analyze-and-write-e40)
-- [I built a faster alternative to cp and rsync — here&#39;s how it works](https://dev.to/krit83/i-built-a-faster-alternative-to-cp-and-rsync-heres-how-it-works-39fa)
-- [Chaining MCP Tools: Search Read Analyze Write in TypeScript](https://dev.to/neurolink/chaining-mcp-tools-search-read-analyze-write-in-typescript-2gmb)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-54gc)
+- [Accelerating TURN with eBPF: A Non-Invasive Approach](https://dev.to/ivan-m-tech/accelerating-turn-with-ebpf-a-non-invasive-approach-ed1)
+- [How to Set Up Qodo AI in VS Code: Installation Guide](https://dev.to/rahulxsingh/how-to-set-up-qodo-ai-in-vs-code-installation-guide-2983)
+- [I Built a Cost Calculator for the OpenClaw Ban Because It Hit Me Too](https://dev.to/solido/i-built-a-cost-calculator-for-the-openclaw-ban-because-it-hit-me-too-59ef)
+- [Build a Daily Standup Digest with Swrly](https://dev.to/swrly/build-a-daily-standup-digest-with-swrly-1ela)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
