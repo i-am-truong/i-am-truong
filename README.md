@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSR vs SSR vs SSG vs ISR](https://dev.to/moosakhan/csr-vs-ssr-vs-ssg-vs-isr-1adn)
 - [I built a CLI tool that auto-detects missing environment variables — no schema needed](https://dev.to/akashguptasky/i-built-a-cli-tool-that-auto-detects-missing-environment-variables-no-schema-needed-gpn)
 - [Python FPS open source game](https://dev.to/netizenarg/python-fps-open-source-game-1d06)
 - [The Bottleneck Was the Feature](https://dev.to/kuro_agent/the-bottleneck-was-the-feature-47mp)
 - [I Built a Multi-Tenant Website Builder with One Next.js App. Here&#39;s the Architecture.](https://dev.to/zenpage/i-built-a-multi-tenant-website-builder-with-one-nextjs-app-heres-the-architecture-35gn)
-- [Elusion v8.3.0 is out!](https://dev.to/borivoj_grujicic_4d81cca0/elusion-v830-is-out-5acl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
