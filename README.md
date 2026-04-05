@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PWC 367 Overlapping Oddities](https://dev.to/boblied/pwc-367-oddity-ln3)
-- [How I built a free browser-based watermark remover using Canvas API](https://dev.to/dan_dan_26ba75efedd611b1f/how-i-built-a-free-browser-based-watermark-remover-using-canvas-api-1if3)
-- [I Built a Multi-Agent Starter Kit with LangGraph — 6 Patterns, 5 Providers, One Command](https://dev.to/ac12644/i-built-a-multi-agent-starter-kit-with-langgraph-6-patterns-5-providers-one-command-b8g)
-- [I Built a Clean, Developer-Focused GitHub Profile README &lpar;with a Coding Cat 🐱‍💻&rpar;](https://dev.to/shub/i-built-a-clean-developer-focused-github-profile-readme-with-a-coding-cat--ao7)
-- [ParamFlow – lightweight layered configuration management for Python](https://dev.to/mduszyk/paramflow-lightweight-layered-configuration-management-for-python-4l29)
+- [The 3-2-1 Backup Rule: How to Never Lose Your Data Again](https://dev.to/lorikeesmart/the-3-2-1-backup-rule-how-to-never-lose-your-data-again-4eof)
+- [Building a Discord Caller &lpar;Voice Relay&rpar; Bot in Go](https://dev.to/sealbro/building-a-discord-caller-voice-relay-bot-in-go-5b9h)
+- [How to Structure a monday.com Workspace for Multi-Department Operations](https://dev.to/gwilym_ge/how-to-structure-a-mondaycom-workspace-for-multi-department-operations-5d98)
+- [I Killed Our 23-Zap Stack and Built One Database Instead — Here&#39;s Why Middleware Always Fails](https://dev.to/arham_mirkar/i-killed-our-23-zap-stack-and-built-one-database-instead-heres-why-middleware-always-fails-20lj)
+- [How to Set Up llms.txt and robots.txt for AI Crawlers on WordPress &lpar;2026 Guide&rpar;](https://dev.to/amitkumarseo/how-to-set-up-llmstxt-and-robotstxt-for-ai-crawlers-on-wordpress-2026-guide-2ocg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
