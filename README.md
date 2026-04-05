@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Replicate a Full Mobile Dev Workflow in Claude Code](https://dev.to/gentic_news/how-to-replicate-a-full-mobile-dev-workflow-in-claude-code-33a2)
-- [Building an eBPF-based SIP Monitor in Go](https://dev.to/aibudaevv/building-an-ebpf-based-sip-monitor-in-go-3igk)
-- [Day 2 of my 21-day API challenge, built a Password Strength &amp; Security Scorer API](https://dev.to/ruanmuller04/day-2-of-my-21-day-api-challenge-built-a-password-strength-security-scorer-api-489c)
-- [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://dev.to/paperium/cosyvoice-2-scalable-streaming-speech-synthesis-with-large-language-models-253o)
-- [Addressing Upstream Header Overflows in Elementor Storefronts](https://dev.to/risky_egbuna_67090a53aaaa/addressing-upstream-header-overflows-in-elementor-storefronts-49h4)
+- [How Ethics Emerged from Episode Logs — 17 Days of Contemplative Agent Design](https://dev.to/shimo4228/how-ethics-emerged-from-episode-logs-17-days-of-contemplative-agent-design-1kk5)
+- [AI Guidance - How to use AI as a Senior Developer](https://dev.to/framemuse/ai-guidance-how-to-use-ai-as-a-senior-developer-4m2m)
+- [The Stack Nobody Recommended](https://dev.to/bash-thedev/the-stack-nobody-recommended-3gja)
+- [Best Form Backend for Job Applications and Event Registrations in 2026](https://dev.to/allenarduino/best-form-backend-for-job-applications-and-event-registrations-in-2026-2f7a)
+- [Next.js SEO Library Comparison 2026: Power-SEO vs Next-SEO With Real Code](https://dev.to/alamin_c5eb10132845723c2b/nextjs-seo-library-comparison-2026-power-seo-vs-next-seo-with-real-code-4dc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
