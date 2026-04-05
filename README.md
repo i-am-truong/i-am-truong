@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI to analyze stocks after losing money trading](https://dev.to/rallypi/i-built-an-ai-to-analyze-stocks-after-losing-money-trading-33cp)
-- [20 lines of markdown replaced my code review bot](https://dev.to/itay-maman/20-lines-of-markdown-replaced-my-code-review-bot-26h2)
-- [Writesonic vs Copy.ai &lpar;2026&rpar;: Which AI Writer Wins for Your Use Case?](https://dev.to/techsifted/writesonic-vs-copyai-2026-which-ai-writer-wins-for-your-use-case-f6l)
-- [Open Source in 2026: The Fork Wars Are Getting Ugly](https://dev.to/gabrielanhaia/open-source-in-2026-the-fork-wars-are-getting-ugly-28n)
-- [Cursor vs GitHub Copilot vs Codeium: Which AI Codes Best?](https://dev.to/techsifted/cursor-vs-github-copilot-vs-codeium-which-ai-codes-best-1n55)
+- [Qodo vs SonarQube: AI-Powered vs Traditional Analysis &lpar;2026&rpar;](https://dev.to/rahulxsingh/qodo-vs-sonarqube-ai-powered-vs-traditional-analysis-2026-49ia)
+- [Building a Real-Time Volunteer Sync Engine with Flask-SocketIO and MySQL](https://dev.to/jerin_1219/building-a-real-time-volunteer-sync-engine-with-flask-socketio-and-mysql-2m81)
+- [I built a Chrome extension that lets you copy any UI component and paste it into AI coding tools](https://dev.to/bring_shrubbery/i-built-a-chrome-extension-that-lets-you-copy-any-ui-component-and-paste-it-into-ai-coding-tools-50g1)
+- [New Way to Handle 2 Million Search Queries Without a Search Server](https://dev.to/rakshit47/new-way-to-handle-2-million-search-queries-without-a-search-server-40j1)
+- [I Turned My Google Sheets Hack Into a Real Tool. It Took Six Months and I Have No Regrets.](https://dev.to/shashank_raj/i-turned-my-google-sheets-hack-into-a-real-tool-it-took-six-months-and-i-have-no-regrets-5cj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
