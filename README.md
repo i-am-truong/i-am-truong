@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We didn’t have a coding problem - We had a “where do I even start?” problem](https://dev.to/bgdnvarlamov/we-didnt-have-a-coding-problem-we-had-a-where-do-i-even-start-problem-4ap2)
-- [The Seven Engineering Problems That Make Real-Time Enterprise Sync Almost Impossible](https://dev.to/ruben-burdin/the-seven-engineering-problems-that-make-real-time-enterprise-sync-almost-impossible-9hf)
-- [Write Once, Publish Everywhere: Build a Multi-Platform Dev Blog Pipeline with GitHub Actions](https://dev.to/akhileshpothuri/write-once-publish-everywhere-build-a-multi-platform-dev-blog-pipeline-with-github-actions-5ai2)
-- [50 Things Anthropic&#39;s API Can&#39;t Do &lpar;And We&#39;re Going to Walk Through Every Single One&rpar;](https://dev.to/jon_at_backboardio/50-things-anthropics-api-cant-do-and-were-going-to-walk-through-every-single-one-4ilc)
-- [Brainstorming with BMAD and Qwen Code.](https://dev.to/kdr/brainstorming-with-bmad-and-qwen-code-48d0)
+- [Building Your First MCP Server: TypeScript vs. Python](https://dev.to/kenwalger/building-your-first-mcp-server-typescript-vs-python-31ch)
+- [Stop Babysitting Servers: Build a Scalable Serverless Data Lake on AWS](https://dev.to/tuni56/stop-babysitting-servers-build-a-scalable-serverless-data-lake-on-aws-2pn7)
+- [Why I Built pip-size: A Story About Obsession with Performance](https://dev.to/mohammadraziei/why-i-built-pip-size-a-story-about-obsession-with-performance-o40)
+- [Geneva Forecasting API: An Expert System for Time-Series Forecasts](https://dev.to/codebydom/geneva-forecasting-api-an-expert-system-for-time-series-forecasts-393n)
+- [50 Things the Anthropic API Can&#39;t Do; Full Breakdown Part 1](https://dev.to/jon_at_backboardio/50-things-the-anthropic-api-cant-do-full-breakdown-part-1-3i1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
