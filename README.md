@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Science Behind Scam Detection: How Tools Like ScamAlerts Work](https://dev.to/james_smith_543/the-science-behind-scam-detection-how-tools-like-scamalerts-work-1fk8)
-- [We Should Write Java Code Differently: Less Language, More Business](https://dev.to/siy/we-should-write-java-code-differently-less-language-more-business-5b4h)
-- [I built a browser-based GUI for managing appsettings.json in .NET — now on NuGet](https://dev.to/jawwad_aayyubi_558561b5/i-built-a-browser-based-gui-for-managing-appsettingsjson-in-net-now-on-nuget-645)
-- [Chapter 7. Context Management and Token Optimization](https://dev.to/ucjung/chapter-7-context-management-and-token-optimization-224c)
-- [What Is a Legacy Platform Rebuild? 5 Revenue Signals](https://dev.to/horizondev/what-is-a-legacy-platform-rebuild-5-revenue-signals-1n8b)
+- [Get a striped background using D3 without gradients](https://dev.to/zesffe/get-a-striped-background-using-d3-without-gradients-43lb)
+- [Anthropic Killed My OpenClaw Setup 3 Times. The Third Time, I Stopped Blaming Them.](https://dev.to/rentierdigital/anthropic-killed-my-openclaw-setup-3-times-the-third-time-i-stopped-blaming-them-542b)
+- [Connecting Power BI to SQL Databases: A Complete Guide](https://dev.to/twisted21/connecting-power-bi-to-sql-databases-a-complete-guide-348o)
+- [Good software thinking doesn’t age. Tools do](https://dev.to/mili_hunjic_70cb2c5dd0e49/good-software-thinking-doesnt-age-tools-do-4i6g)
+- [How Much Do French Freelancers Really Earn? Data from 9,200 Responses](https://dev.to/tjmetrefr/how-much-do-french-freelancers-really-earn-data-from-9200-responses-1o32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
