@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete DevSecOps Engineer Career Guide: From Pipeline Security to Platform Architect in 2026](https://dev.to/rezast/the-complete-devsecops-engineer-career-guide-from-pipeline-security-to-platform-architect-in-2026-43k6)
-- [OpenAI’s $1M API Credits, Holos’ Agentic Web, and Xpertbench’s Expert Tasks](https://dev.to/anikalp1/openais-1m-api-credits-holos-agentic-web-and-xpertbenchs-expert-tasks-54j2)
-- [Why We Built 5 Products on FastAPI + Next.js &lpar;and Would Do It Again&rpar;](https://dev.to/obsidiancladlabs/why-we-built-5-products-on-fastapi-nextjs-and-would-do-it-again-4337)
-- [DNS, SSL, and Domains: The Guide I Wish Existed When We Started](https://dev.to/obsidiancladlabs/dns-ssl-and-domains-the-guide-i-wish-existed-when-we-started-1bo6)
-- [How We Run 5 Live SaaS Products on $35/Month in Infrastructure](https://dev.to/obsidiancladlabs/how-we-run-5-live-saas-products-on-35month-in-infrastructure-4k44)
+- [5 things your AI agent should never leak &lpar;and how to detect them&rpar;](https://dev.to/jagmarques/5-things-your-ai-agent-should-never-leak-and-how-to-detect-them-4hel)
+- [Why Binary CI/CD Quality Gates Fail at Scale &lpar;and a Risk-Based Alternative&rpar;](https://dev.to/gaya3bollineni/why-binary-cicd-quality-gates-fail-at-scale-and-a-risk-based-alternative-1jf2)
+- [Mastering Binary Search on Answer: The Book Allocation Problem](https://dev.to/partners_dsa_823760c83281/mastering-binary-search-on-answer-the-book-allocation-problem-j9b)
+- [From Hello World to Developer: 5 Essential Pillars for Your Journey](https://dev.to/andyszccr/from-hello-world-to-developer-5-essential-pillars-for-your-journey-4i23)
+- [ClaudeOps — A New Practice for Embedding Claude into Your Operations](https://dev.to/okojoalg/claudeops-a-new-practice-for-embedding-claude-into-your-operations-iak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
