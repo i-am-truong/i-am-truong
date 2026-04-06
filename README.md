@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Citations: The New Backlink and How to Track Them at Scale](https://dev.to/texta/ai-citations-the-new-backlink-and-how-to-track-them-at-scale-32md)
-- [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://dev.to/paperium/connecting-generative-adversarial-networks-and-actor-critic-methods-pdg)
-- [Services no Kubernetes](https://dev.to/deividferraz/services-no-kubernetes-4khc)
-- [How to Measure Your Brand&#39;s Visibility in AI Search Results &lpar;ChatGPT, Perplexity, Claude&rpar;](https://dev.to/texta/how-to-measure-your-brands-visibility-in-ai-search-results-chatgpt-perplexity-claude-2mm3)
-- [Inside the daring mission to rescue a U.S. airman downed in Iran](https://dev.to/chx382/inside-the-daring-mission-to-rescue-a-us-airman-downed-in-iran-42mj)
+- [I Found Anthropic&#39;s Source Map in a Production Bundle - So I Built Five Security Tools published.](https://dev.to/goweft/i-found-anthropics-source-map-in-a-production-bundle-so-i-built-five-security-tools-published-215f)
+- [Build Real Coding Skills—Then Use AI &lpar;In That Order&rpar;](https://dev.to/canro91/build-real-coding-skills-then-use-ai-in-that-order-3hi)
+- [Agentic AI: Governance, Guardrails and Security](https://dev.to/anwaar/agentic-ai-governance-guardrails-and-security-57h0)
+- [Kronveil v0.3: Multi-Cluster Federation, Custom Collector SDK, and Automated Runbooks](https://dev.to/ramasankar_molleti_f7f80d/kronveil-v03-multi-cluster-federation-custom-collector-sdk-and-automated-runbooks-38oc)
+- [Is Railway Reliable for FastAPI in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-fastapi-in-2026-5gnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
