@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Final Round AI vs Interview Coder: Best AI Tool for Coding Interview Prep &lpar;2026&rpar;](https://dev.to/finalroundai/final-round-ai-vs-interview-coder-best-ai-tool-for-coding-interview-prep-2026-1ahp)
-- [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k)
-- [Stop shipping var_dump&lpar;&rpar; to production — enforce it with PHPStan](https://dev.to/rajmundtoth0/stop-shipping-vardump-to-production-enforce-it-with-phpstan-kpa)
-- [Data Engineer&#39;s Guide to Linux: Why It Is Your Secret Weapon](https://dev.to/gracenimimi/data-engineers-guide-to-linux-why-it-is-your-secret-weapon-34ce)
-- [Why Some AI Feels “Process-Obsessed” While Others Just Ship Code](https://dev.to/doozieakshay/why-some-ai-feels-process-obsessed-while-others-just-ship-code-ehi)
+- [Why Strong IT Careers Are Built in Communities, Not in Isolation](https://dev.to/growcluster/why-strong-it-careers-are-built-in-communities-not-in-isolation-3cg7)
+- [Best Agent Memory APIs in 2026: A Practitioner&#39;s Comparison](https://dev.to/adam_cipher/best-agent-memory-apis-in-2026-a-practitioners-comparison-f8j)
+- [The MCP Transparency Problem: When Your Agent Can&#39;t Show Its Work](https://dev.to/arkforge-ceo/the-mcp-transparency-problem-when-your-agent-cant-show-its-work-3mg0)
+- [Running Gemma 4 next to your agent runtime: notes from a small shop](https://dev.to/rapidclaw/running-gemma-3-next-to-your-agent-runtime-notes-from-a-small-shop-c79)
+- [The FOSS Path to Digital Sovereignty](https://dev.to/asathyajith/the-foss-path-to-digital-sovereignty-1g3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
