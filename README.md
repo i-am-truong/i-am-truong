@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Type Guards](https://dev.to/tanya_johari/typescript-type-guards-23jf)
-- [Who will maintain the Code?](https://dev.to/badr_letitgo_355957588ffd/who-will-maintain-the-code-2fh1)
-- [Was Anthropic’s Claude Source Code Leak Actually a Marketing Stunt?](https://dev.to/yugjadvani/was-anthropics-claude-source-code-leak-actually-a-marketing-stunt-3baf)
-- [Global Variable VS Local Variable](https://dev.to/divya_divya_b18f82b19353a/global-variable-vs-local-variable-5169)
-- [Why I Built TracerKit](https://dev.to/helderberto/why-i-built-tracerkit-fmo)
+- [The Science Behind Scam Detection: How Tools Like ScamAlerts Work](https://dev.to/james_smith_543/the-science-behind-scam-detection-how-tools-like-scamalerts-work-1fk8)
+- [We Should Write Java Code Differently: Less Language, More Business](https://dev.to/siy/we-should-write-java-code-differently-less-language-more-business-5b4h)
+- [I built a browser-based GUI for managing appsettings.json in .NET — now on NuGet](https://dev.to/jawwad_aayyubi_558561b5/i-built-a-browser-based-gui-for-managing-appsettingsjson-in-net-now-on-nuget-645)
+- [Chapter 7. Context Management and Token Optimization](https://dev.to/ucjung/chapter-7-context-management-and-token-optimization-224c)
+- [What Is a Legacy Platform Rebuild? 5 Revenue Signals](https://dev.to/horizondev/what-is-a-legacy-platform-rebuild-5-revenue-signals-1n8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
