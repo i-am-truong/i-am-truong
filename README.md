@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First MCP Server: TypeScript vs. Python](https://dev.to/kenwalger/building-your-first-mcp-server-typescript-vs-python-31ch)
-- [Stop Babysitting Servers: Build a Scalable Serverless Data Lake on AWS](https://dev.to/tuni56/stop-babysitting-servers-build-a-scalable-serverless-data-lake-on-aws-2pn7)
-- [Why I Built pip-size: A Story About Obsession with Performance](https://dev.to/mohammadraziei/why-i-built-pip-size-a-story-about-obsession-with-performance-o40)
-- [Geneva Forecasting API: An Expert System for Time-Series Forecasts](https://dev.to/codebydom/geneva-forecasting-api-an-expert-system-for-time-series-forecasts-393n)
-- [50 Things the Anthropic API Can&#39;t Do; Full Breakdown Part 1](https://dev.to/jon_at_backboardio/50-things-the-anthropic-api-cant-do-full-breakdown-part-1-3i1g)
+- [I built a free PDF toolkit with 31 AI tools — no signup, no limits](https://dev.to/kabir_daki/i-built-a-free-pdf-toolkit-with-31-ai-tools-no-signup-no-limits-3k5d)
+- [Claude Code broke for complex engineering tasks — here&#39;s what actually works now](https://dev.to/subprime2010/claude-code-broke-for-complex-engineering-tasks-heres-what-actually-works-now-1m0i)
+- [Cloud Supply Chain &amp; AWS CodeBuild PrivEsc Exposed; GDDR6 Rowhammer to Root Shell](https://dev.to/soytuber/cloud-supply-chain-aws-codebuild-privesc-exposed-gddr6-rowhammer-to-root-shell-3nko)
+- [Claude Code Powers AI Workflows: Ultraplan for Agent Orchestration &amp; App Store Automation](https://dev.to/soytuber/claude-code-powers-ai-workflows-ultraplan-for-agent-orchestration-app-store-automation-1n30)
+- [SQLite Internals: Memory Leak, Security Vuln; PostgREST Goes Edge](https://dev.to/soytuber/sqlite-internals-memory-leak-security-vuln-postgrest-goes-edge-3hch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
