@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Por que eu começo 10 projetos e não termino nenhum?](https://dev.to/yuri_souza_87bf486a4674b6/por-que-eu-comeco-10-projetos-e-nao-termino-nenhum-1139)
-- [If Memory Could Compute, Would We Still Need GPUs?](https://dev.to/plasmon_imp/if-memory-could-compute-would-we-still-need-gpus-4ccb)
-- [Your Pipeline Is 20.3h Behind: Catching Artificial Intelligence Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-203h-behind-catching-artificial-intelligence-sentiment-leads-with-pulsebit-44fm)
-- [Building LinkedIN Job Application Agents - Part 3](https://dev.to/mindy_jen_phd/building-linkedin-job-application-agents-part-3-in6)
-- [[Rust Guide] 2.1. Number Guessing Game Pt.1 - One Guess](https://dev.to/someb1oody/rust-guide-21-number-guessing-game-pt1-one-guess-3fbf)
+- [AI Citations: The New Backlink and How to Track Them at Scale](https://dev.to/texta/ai-citations-the-new-backlink-and-how-to-track-them-at-scale-32md)
+- [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://dev.to/paperium/connecting-generative-adversarial-networks-and-actor-critic-methods-pdg)
+- [Services no Kubernetes](https://dev.to/deividferraz/services-no-kubernetes-4khc)
+- [How to Measure Your Brand&#39;s Visibility in AI Search Results &lpar;ChatGPT, Perplexity, Claude&rpar;](https://dev.to/texta/how-to-measure-your-brands-visibility-in-ai-search-results-chatgpt-perplexity-claude-2mm3)
+- [Inside the daring mission to rescue a U.S. airman downed in Iran](https://dev.to/chx382/inside-the-daring-mission-to-rescue-a-us-airman-downed-in-iran-42mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
