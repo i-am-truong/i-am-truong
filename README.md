@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside Event-Driven Architecture](https://dev.to/mihirverma7781/a-practical-guide-to-event-driven-architecture-1gcd)
-- [Before You Let an Agent Touch Your Code, Write the Tests](https://dev.to/tacoda/before-you-let-an-agent-touch-your-code-write-the-tests-31pa)
-- [I Built a Free Background Remover as a Side Project – Here&#39;s What I Learned](https://dev.to/wally_ulysses_0ec9e2a7eea/title-i-built-a-free-background-remover-as-a-side-project-heres-what-i-learned-2dg5)
-- [Restoring the Rhythm of Rest: Introducing SleepMetrics](https://dev.to/lemancaliskan/restoring-the-rhythm-of-rest-introducing-sleepmetrics-16d5)
-- [From Turbo Streams to Turbo Morph: Simplifying Real-Time Rails](https://dev.to/juanvqz/from-turbo-streams-to-turbo-morph-simplifying-real-time-rails-395d)
+- [Why &quot;Optimize Your Images&quot; Is Bad Advice](https://dev.to/igorgridel/why-optimize-your-images-is-bad-advice-5oj)
+- [CipherKit](https://dev.to/karthick_ajan/cipherkit-5h2i)
+- [Math cheatsheet before you deep-dive into ZK](https://dev.to/0xluk3/math-cheatsheet-before-you-deep-dive-into-zk-1bo6)
+- [Im looking for indie apps and tools built by solo developers, their stories and perspectives for a newsletter I’m starting. If you know a solo maker or use an overlooked gem built by one please let me know! 🙏](https://dev.to/valeriavg/im-looking-for-indie-apps-and-tools-built-by-solo-developers-their-stories-and-perspectives-for-a-3lhh)
+- [Making OpenClaw remember what it&#39;s doing after compaction](https://dev.to/whtsky/making-openclaw-remember-what-its-doing-after-compaction-11fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
