@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Tech Roles Created by the Rise of AI](https://dev.to/mteheran/new-tech-roles-created-by-the-rise-of-ai-3362)
-- [Polar coordinates based on Collattz numbers and 2^n zones revealing droplet pattern](https://dev.to/fsha/polar-coordinates-based-on-collattz-numbers-and-2n-zones-revealing-droplet-pattern-4ckd)
-- [Kubernetes vs. ECS: Balancing Ease, Cost, and Scalability for Small-Scale Deployments](https://dev.to/alitron/kubernetes-vs-ecs-balancing-ease-cost-and-scalability-for-small-scale-deployments-5b6)
-- [Webhooks Are Broken by Design — So I Built a Fix](https://dev.to/roombambar9/webhooks-are-broken-by-design-so-i-built-a-fix-4pk7)
-- [🐤 Canary Deployment Explained Like You&#39;re 5](https://dev.to/esreekarreddy/canary-deployment-explained-like-youre-5-484j)
+- [Your API Isn’t Hard to Use Your Documentation Is Just Bad](https://dev.to/ezejah_chimkamma_06758a9b/your-api-isnt-hard-to-use-your-documentation-is-just-bad-ohn)
+- [My Claude Code Sessions Hit 70MB. So I Built a Distiller.](https://dev.to/ithiria894/my-claude-code-sessions-hit-70mb-so-i-built-a-distiller-32a)
+- [I Built an Autonomous Job Application Agent with Claude AI — Here&#39;s How It Works](https://dev.to/tanzilahmed/i-built-an-autonomous-job-application-agent-with-claude-ai-heres-how-it-works-31d9)
+- [Advancing DevOps/Cloud Learning: Strategies for Post-Foundational Skill Development](https://dev.to/maricode/advancing-devopscloud-learning-strategies-for-post-foundational-skill-development-3be0)
+- [Your Startup Isn’t Confusing Your Documentation Is &lpar;Here’s How to Fix It&rpar;](https://dev.to/ezejah_chimkamma_06758a9b/your-startup-isnt-confusing-your-documentation-is-heres-how-to-fix-it-4o1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
