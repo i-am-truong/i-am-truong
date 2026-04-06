@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Found Anthropic&#39;s Source Map in a Production Bundle - So I Built Five Security Tools published.](https://dev.to/goweft/i-found-anthropics-source-map-in-a-production-bundle-so-i-built-five-security-tools-published-215f)
-- [Build Real Coding Skills—Then Use AI &lpar;In That Order&rpar;](https://dev.to/canro91/build-real-coding-skills-then-use-ai-in-that-order-3hi)
-- [Agentic AI: Governance, Guardrails and Security](https://dev.to/anwaar/agentic-ai-governance-guardrails-and-security-57h0)
-- [Kronveil v0.3: Multi-Cluster Federation, Custom Collector SDK, and Automated Runbooks](https://dev.to/ramasankar_molleti_f7f80d/kronveil-v03-multi-cluster-federation-custom-collector-sdk-and-automated-runbooks-38oc)
-- [Is Railway Reliable for FastAPI in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-fastapi-in-2026-5gnc)
+- [Final Round AI vs Interview Coder: Best AI Tool for Coding Interview Prep &lpar;2026&rpar;](https://dev.to/finalroundai/final-round-ai-vs-interview-coder-best-ai-tool-for-coding-interview-prep-2026-1ahp)
+- [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k)
+- [Stop shipping var_dump&lpar;&rpar; to production — enforce it with PHPStan](https://dev.to/rajmundtoth0/stop-shipping-vardump-to-production-enforce-it-with-phpstan-kpa)
+- [Data Engineer&#39;s Guide to Linux: Why It Is Your Secret Weapon](https://dev.to/gracenimimi/data-engineers-guide-to-linux-why-it-is-your-secret-weapon-34ce)
+- [Why Some AI Feels “Process-Obsessed” While Others Just Ship Code](https://dev.to/doozieakshay/why-some-ai-feels-process-obsessed-while-others-just-ship-code-ehi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
