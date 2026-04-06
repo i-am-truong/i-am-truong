@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cilium&#39;s ipcache scalability issue: Understanding identity distribution in Kubernetes clusters for optimized network policy.](https://dev.to/alitron/ciliums-ipcache-scalability-issue-understanding-identity-distribution-in-kubernetes-clusters-for-cma)
-- [Building &#39;The Endurance Log&#39; 🏃‍♂️: A Full-Stack Next.js Strava Dashboard](https://dev.to/peetiphat1/building-the-endurance-log-a-full-stack-nextjs-strava-dashboard-lm3)
-- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
-- [Write, Run, Debug — REslava.Result three-layer observability story](https://dev.to/reslava/write-run-debug-reslavaresult-three-layer-observability-story-5g14)
-- [Agentic AI in the Enterprise: Use Cases, Architecture, and Why It&#39;s Not Just Another AI Buzzword](https://dev.to/marketing_ekfrazo/agentic-ai-in-the-enterprise-use-cases-architecture-and-why-its-not-just-another-ai-buzzword-1do4)
+- [TypeScript Type Guards](https://dev.to/tanya_johari/typescript-type-guards-23jf)
+- [Who will maintain the Code?](https://dev.to/badr_letitgo_355957588ffd/who-will-maintain-the-code-2fh1)
+- [Was Anthropic’s Claude Source Code Leak Actually a Marketing Stunt?](https://dev.to/yugjadvani/was-anthropics-claude-source-code-leak-actually-a-marketing-stunt-3baf)
+- [Global Variable VS Local Variable](https://dev.to/divya_divya_b18f82b19353a/global-variable-vs-local-variable-5169)
+- [Why I Built TracerKit](https://dev.to/helderberto/why-i-built-tracerkit-fmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
