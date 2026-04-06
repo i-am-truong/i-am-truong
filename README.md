@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Windows Program Icon Update Issue: Resolving Taskbar and Header Icon Persistence Despite Modifications](https://dev.to/serbyte/windows-program-icon-update-issue-resolving-taskbar-and-header-icon-persistence-despite-433j)
-- [Draw Diagrams from Models with Custom Agents in Kiro](https://dev.to/welcloud-io/draw-diagrams-from-models-with-custom-agents-in-kiro-13g3)
-- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5)
-- [🌍E se a criação do mundo fosse um sistema? Uma visão Dev. sobre Gênesis!](https://dev.to/carlos-cgs/e-se-a-criacao-do-mundo-fosse-um-sistemauma-visao-dev-sobre-genesis-4j4c)
-- [5 Strategies That Cut My Claude API Bills by 95%](https://dev.to/onewallai/5-strategies-that-cut-my-claude-api-bills-by-95-5982)
+- [Why I Open-Sourced My Hardened *arr Stack &lpar;and What Most Compose Files Get Wrong&rpar;](https://dev.to/mroczekdev/why-i-open-sourced-my-hardened-arr-stack-and-what-most-compose-files-get-wrong-4im)
+- [AI “做梦”将成趋势？揭秘 OpenClaw 全新 Dreaming 记忆机制](https://dev.to/white_satomini/ai-zuo-meng-jiang-cheng-qu-shi-jie-mi-openclaw-quan-xin-dreaming-ji-yi-ji-zhi-26j0)
+- [Types of Functions in JavaScript with example and it&#39;s Importance.](https://dev.to/madhavan_g_77/types-of-functions-in-javascript-with-example-and-its-importance-4m0o)
+- [Grow the Verifier, Not the Prompt: Run Production with 10 Golden Cases](https://dev.to/kanaria007/grow-the-verifier-not-the-prompt-run-production-with-10-golden-cases-5361)
+- [Scaling Postgres Connections With PgBouncer](https://dev.to/planetscale/scaling-postgres-connections-with-pgbouncer-aff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
