@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Strong IT Careers Are Built in Communities, Not in Isolation](https://dev.to/growcluster/why-strong-it-careers-are-built-in-communities-not-in-isolation-3cg7)
-- [Best Agent Memory APIs in 2026: A Practitioner&#39;s Comparison](https://dev.to/adam_cipher/best-agent-memory-apis-in-2026-a-practitioners-comparison-f8j)
-- [The MCP Transparency Problem: When Your Agent Can&#39;t Show Its Work](https://dev.to/arkforge-ceo/the-mcp-transparency-problem-when-your-agent-cant-show-its-work-3mg0)
-- [Running Gemma 4 next to your agent runtime: notes from a small shop](https://dev.to/rapidclaw/running-gemma-3-next-to-your-agent-runtime-notes-from-a-small-shop-c79)
-- [The FOSS Path to Digital Sovereignty](https://dev.to/asathyajith/the-foss-path-to-digital-sovereignty-1g3f)
+- [Why Gradie&#39;s colour switcher does two things at once &lpar;and why that&#39;s not a bug&rpar;](https://dev.to/jemeni11/why-gradies-colour-switcher-does-two-things-at-once-and-why-thats-not-a-bug-5aaa)
+- [I Used the Wrong Git Email for 2 Weeks — And No One Noticed](https://dev.to/sandeepbansod/i-used-the-wrong-git-email-for-2-weeks-and-no-one-noticed-1b3p)
+- [Beyond the Control Room: Bridging 40 Years of Cement Expertise with Python Automation](https://dev.to/aminuddinkhan/beyond-the-control-room-bridging-40-years-of-cement-expertise-with-python-automation-4ang)
+- [Turning Your GitHub Contributions into a Space Invaders Game](https://dev.to/anatcha_a18586d96181ef79a/turning-your-github-contributions-into-a-space-invaders-game-4om5)
+- [How I Built a PII Tokenization Middleware to Keep Sensitive Data Out of LLM APIs](https://dev.to/yemrealtanay/how-i-built-a-pii-tokenization-middleware-to-keep-sensitive-data-out-of-llm-apis-18po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
