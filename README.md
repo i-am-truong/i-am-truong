@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get a striped background using D3 without gradients](https://dev.to/zesffe/get-a-striped-background-using-d3-without-gradients-43lb)
-- [Anthropic Killed My OpenClaw Setup 3 Times. The Third Time, I Stopped Blaming Them.](https://dev.to/rentierdigital/anthropic-killed-my-openclaw-setup-3-times-the-third-time-i-stopped-blaming-them-542b)
-- [Connecting Power BI to SQL Databases: A Complete Guide](https://dev.to/twisted21/connecting-power-bi-to-sql-databases-a-complete-guide-348o)
-- [Good software thinking doesn’t age. Tools do](https://dev.to/mili_hunjic_70cb2c5dd0e49/good-software-thinking-doesnt-age-tools-do-4i6g)
-- [How Much Do French Freelancers Really Earn? Data from 9,200 Responses](https://dev.to/tjmetrefr/how-much-do-french-freelancers-really-earn-data-from-9200-responses-1o32)
+- [Inside Event-Driven Architecture](https://dev.to/mihirverma7781/a-practical-guide-to-event-driven-architecture-1gcd)
+- [Before You Let an Agent Touch Your Code, Write the Tests](https://dev.to/tacoda/before-you-let-an-agent-touch-your-code-write-the-tests-31pa)
+- [I Built a Free Background Remover as a Side Project – Here&#39;s What I Learned](https://dev.to/wally_ulysses_0ec9e2a7eea/title-i-built-a-free-background-remover-as-a-side-project-heres-what-i-learned-2dg5)
+- [Restoring the Rhythm of Rest: Introducing SleepMetrics](https://dev.to/lemancaliskan/restoring-the-rhythm-of-rest-introducing-sleepmetrics-16d5)
+- [From Turbo Streams to Turbo Morph: Simplifying Real-Time Rails](https://dev.to/juanvqz/from-turbo-streams-to-turbo-morph-simplifying-real-time-rails-395d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
