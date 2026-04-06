@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Optimize Your Images&quot; Is Bad Advice](https://dev.to/igorgridel/why-optimize-your-images-is-bad-advice-5oj)
-- [CipherKit](https://dev.to/karthick_ajan/cipherkit-5h2i)
-- [Math cheatsheet before you deep-dive into ZK](https://dev.to/0xluk3/math-cheatsheet-before-you-deep-dive-into-zk-1bo6)
-- [Im looking for indie apps and tools built by solo developers, their stories and perspectives for a newsletter I’m starting. If you know a solo maker or use an overlooked gem built by one please let me know! 🙏](https://dev.to/valeriavg/im-looking-for-indie-apps-and-tools-built-by-solo-developers-their-stories-and-perspectives-for-a-3lhh)
-- [Making OpenClaw remember what it&#39;s doing after compaction](https://dev.to/whtsky/making-openclaw-remember-what-its-doing-after-compaction-11fe)
+- [Windows Program Icon Update Issue: Resolving Taskbar and Header Icon Persistence Despite Modifications](https://dev.to/serbyte/windows-program-icon-update-issue-resolving-taskbar-and-header-icon-persistence-despite-433j)
+- [Draw Diagrams from Models with Custom Agents in Kiro](https://dev.to/welcloud-io/draw-diagrams-from-models-with-custom-agents-in-kiro-13g3)
+- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5)
+- [🌍E se a criação do mundo fosse um sistema? Uma visão Dev. sobre Gênesis!](https://dev.to/carlos-cgs/e-se-a-criacao-do-mundo-fosse-um-sistemauma-visao-dev-sobre-genesis-4j4c)
+- [5 Strategies That Cut My Claude API Bills by 95%](https://dev.to/onewallai/5-strategies-that-cut-my-claude-api-bills-by-95-5982)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
