@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Gradie&#39;s colour switcher does two things at once &lpar;and why that&#39;s not a bug&rpar;](https://dev.to/jemeni11/why-gradies-colour-switcher-does-two-things-at-once-and-why-thats-not-a-bug-5aaa)
-- [I Used the Wrong Git Email for 2 Weeks — And No One Noticed](https://dev.to/sandeepbansod/i-used-the-wrong-git-email-for-2-weeks-and-no-one-noticed-1b3p)
-- [Beyond the Control Room: Bridging 40 Years of Cement Expertise with Python Automation](https://dev.to/aminuddinkhan/beyond-the-control-room-bridging-40-years-of-cement-expertise-with-python-automation-4ang)
-- [Turning Your GitHub Contributions into a Space Invaders Game](https://dev.to/anatcha_a18586d96181ef79a/turning-your-github-contributions-into-a-space-invaders-game-4om5)
-- [How I Built a PII Tokenization Middleware to Keep Sensitive Data Out of LLM APIs](https://dev.to/yemrealtanay/how-i-built-a-pii-tokenization-middleware-to-keep-sensitive-data-out-of-llm-apis-18po)
+- [Cilium&#39;s ipcache scalability issue: Understanding identity distribution in Kubernetes clusters for optimized network policy.](https://dev.to/alitron/ciliums-ipcache-scalability-issue-understanding-identity-distribution-in-kubernetes-clusters-for-cma)
+- [Building &#39;The Endurance Log&#39; 🏃‍♂️: A Full-Stack Next.js Strava Dashboard](https://dev.to/peetiphat1/building-the-endurance-log-a-full-stack-nextjs-strava-dashboard-lm3)
+- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
+- [Write, Run, Debug — REslava.Result three-layer observability story](https://dev.to/reslava/write-run-debug-reslavaresult-three-layer-observability-story-5g14)
+- [Agentic AI in the Enterprise: Use Cases, Architecture, and Why It&#39;s Not Just Another AI Buzzword](https://dev.to/marketing_ekfrazo/agentic-ai-in-the-enterprise-use-cases-architecture-and-why-its-not-just-another-ai-buzzword-1do4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
