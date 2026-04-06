@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m building a free, open-source AWS emulator](https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl)
-- [Cisco Just Built Zero Trust for AI Agents. Here&#39;s Why That Matters.](https://dev.to/alanwest/cisco-just-built-zero-trust-for-ai-agents-heres-why-that-matters-2pl7)
-- [This is a submission for the DEV April Fools Challenge](https://dev.to/mohammed_maqsoodl_27a02b/this-is-a-submission-for-the-dev-april-fools-challenge-1dda)
-- [Looking for a Strict Code Review: React 19 + TS + Zustand + TanStack Query #react #typescript #codereview #javascript](https://dev.to/arvik1982/looking-for-a-strict-code-review-react-19-ts-zustand-tanstack-query-react-typescript-2ii7)
-- [incident.io Alternative: Open Source AI Incident Management](https://dev.to/siddharth_singh_409bd5267/incidentio-alternative-open-source-ai-incident-management-1ik0)
+- [New Tech Roles Created by the Rise of AI](https://dev.to/mteheran/new-tech-roles-created-by-the-rise-of-ai-3362)
+- [Polar coordinates based on Collattz numbers and 2^n zones revealing droplet pattern](https://dev.to/fsha/polar-coordinates-based-on-collattz-numbers-and-2n-zones-revealing-droplet-pattern-4ckd)
+- [Kubernetes vs. ECS: Balancing Ease, Cost, and Scalability for Small-Scale Deployments](https://dev.to/alitron/kubernetes-vs-ecs-balancing-ease-cost-and-scalability-for-small-scale-deployments-5b6)
+- [Webhooks Are Broken by Design — So I Built a Fix](https://dev.to/roombambar9/webhooks-are-broken-by-design-so-i-built-a-fix-4pk7)
+- [🐤 Canary Deployment Explained Like You&#39;re 5](https://dev.to/esreekarreddy/canary-deployment-explained-like-youre-5-484j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
