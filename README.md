@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a free PDF toolkit with 31 AI tools — no signup, no limits](https://dev.to/kabir_daki/i-built-a-free-pdf-toolkit-with-31-ai-tools-no-signup-no-limits-3k5d)
-- [Claude Code broke for complex engineering tasks — here&#39;s what actually works now](https://dev.to/subprime2010/claude-code-broke-for-complex-engineering-tasks-heres-what-actually-works-now-1m0i)
-- [Cloud Supply Chain &amp; AWS CodeBuild PrivEsc Exposed; GDDR6 Rowhammer to Root Shell](https://dev.to/soytuber/cloud-supply-chain-aws-codebuild-privesc-exposed-gddr6-rowhammer-to-root-shell-3nko)
-- [Claude Code Powers AI Workflows: Ultraplan for Agent Orchestration &amp; App Store Automation](https://dev.to/soytuber/claude-code-powers-ai-workflows-ultraplan-for-agent-orchestration-app-store-automation-1n30)
-- [SQLite Internals: Memory Leak, Security Vuln; PostgREST Goes Edge](https://dev.to/soytuber/sqlite-internals-memory-leak-security-vuln-postgrest-goes-edge-3hch)
+- [Why I&#39;m building a free, open-source AWS emulator](https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl)
+- [Cisco Just Built Zero Trust for AI Agents. Here&#39;s Why That Matters.](https://dev.to/alanwest/cisco-just-built-zero-trust-for-ai-agents-heres-why-that-matters-2pl7)
+- [This is a submission for the DEV April Fools Challenge](https://dev.to/mohammed_maqsoodl_27a02b/this-is-a-submission-for-the-dev-april-fools-challenge-1dda)
+- [Looking for a Strict Code Review: React 19 + TS + Zustand + TanStack Query #react #typescript #codereview #javascript](https://dev.to/arvik1982/looking-for-a-strict-code-review-react-19-ts-zustand-tanstack-query-react-typescript-2ii7)
+- [incident.io Alternative: Open Source AI Incident Management](https://dev.to/siddharth_singh_409bd5267/incidentio-alternative-open-source-ai-incident-management-1ik0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
