@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 things your AI agent should never leak &lpar;and how to detect them&rpar;](https://dev.to/jagmarques/5-things-your-ai-agent-should-never-leak-and-how-to-detect-them-4hel)
-- [Why Binary CI/CD Quality Gates Fail at Scale &lpar;and a Risk-Based Alternative&rpar;](https://dev.to/gaya3bollineni/why-binary-cicd-quality-gates-fail-at-scale-and-a-risk-based-alternative-1jf2)
-- [Mastering Binary Search on Answer: The Book Allocation Problem](https://dev.to/partners_dsa_823760c83281/mastering-binary-search-on-answer-the-book-allocation-problem-j9b)
-- [From Hello World to Developer: 5 Essential Pillars for Your Journey](https://dev.to/andyszccr/from-hello-world-to-developer-5-essential-pillars-for-your-journey-4i23)
-- [ClaudeOps — A New Practice for Embedding Claude into Your Operations](https://dev.to/okojoalg/claudeops-a-new-practice-for-embedding-claude-into-your-operations-iak)
+- [We didn’t have a coding problem - We had a “where do I even start?” problem](https://dev.to/bgdnvarlamov/we-didnt-have-a-coding-problem-we-had-a-where-do-i-even-start-problem-4ap2)
+- [The Seven Engineering Problems That Make Real-Time Enterprise Sync Almost Impossible](https://dev.to/ruben-burdin/the-seven-engineering-problems-that-make-real-time-enterprise-sync-almost-impossible-9hf)
+- [Write Once, Publish Everywhere: Build a Multi-Platform Dev Blog Pipeline with GitHub Actions](https://dev.to/akhileshpothuri/write-once-publish-everywhere-build-a-multi-platform-dev-blog-pipeline-with-github-actions-5ai2)
+- [50 Things Anthropic&#39;s API Can&#39;t Do &lpar;And We&#39;re Going to Walk Through Every Single One&rpar;](https://dev.to/jon_at_backboardio/50-things-anthropics-api-cant-do-and-were-going-to-walk-through-every-single-one-4ilc)
+- [Brainstorming with BMAD and Qwen Code.](https://dev.to/kdr/brainstorming-with-bmad-and-qwen-code-48d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
