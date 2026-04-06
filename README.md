@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Open-Sourced My Hardened *arr Stack &lpar;and What Most Compose Files Get Wrong&rpar;](https://dev.to/mroczekdev/why-i-open-sourced-my-hardened-arr-stack-and-what-most-compose-files-get-wrong-4im)
-- [AI “做梦”将成趋势？揭秘 OpenClaw 全新 Dreaming 记忆机制](https://dev.to/white_satomini/ai-zuo-meng-jiang-cheng-qu-shi-jie-mi-openclaw-quan-xin-dreaming-ji-yi-ji-zhi-26j0)
-- [Types of Functions in JavaScript with example and it&#39;s Importance.](https://dev.to/madhavan_g_77/types-of-functions-in-javascript-with-example-and-its-importance-4m0o)
-- [Grow the Verifier, Not the Prompt: Run Production with 10 Golden Cases](https://dev.to/kanaria007/grow-the-verifier-not-the-prompt-run-production-with-10-golden-cases-5361)
-- [Scaling Postgres Connections With PgBouncer](https://dev.to/planetscale/scaling-postgres-connections-with-pgbouncer-aff)
+- [Wednesday : April 8 - Computer Vision Workflows Workshop](https://dev.to/voxel51/wednesday-april-8-computer-vision-workflows-workshop-39n6)
+- [Building JarvisOS.](https://dev.to/ocansey11/building-jarvisos-bg3)
+- [iMessage for OpenClaw agents -without a Mac](https://dev.to/canssayy/how-i-gave-my-openclaw-agent-an-imessage-number-without-a-mac-3i34)
+- [Build Enterprise-Grade Flutter Dashboards in Minutes 🚀 &lpar;What’s New in NRB 3.0.3&rpar;](https://dev.to/innovatenestlabs/build-enterprise-grade-flutter-dashboards-in-minutes-whats-new-in-nrb-303-4pgc)
+- [CVE-2024-6387: Critical OpenSSH Vulnerability Allowing Root Access](https://dev.to/amartyajha/cve-2024-6387-critical-openssh-vulnerability-allowing-root-access-1mk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
