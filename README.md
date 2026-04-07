@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 11 Guidance Computer: The Undocumented Bug We Found](https://dev.to/onsen/apollo-11-guidance-computer-the-undocumented-bug-we-found-3eni)
-- [Asqav vs Microsoft Agent Governance Toolkit - what is the difference](https://dev.to/jagmarques/asqav-vs-microsoft-agent-governance-toolkit-what-is-the-difference-598d)
-- [Why Is My OpenClaw Dumb? — The Complete Guide to Making Your AI Assistant Actually Smart](https://dev.to/mrclaw207/why-is-my-openclaw-dumb-the-complete-guide-to-making-your-ai-assistant-actually-smart-1g9k)
-- [How I Use AI for Coding Without Giving Up Control](https://dev.to/justdatguymat/how-i-use-ai-for-coding-without-giving-up-control-20kg)
-- [Blocking AI Crawlers vs. Letting Them In: A Practical Defense Guide](https://dev.to/alanwest/blocking-ai-crawlers-vs-letting-them-in-a-practical-defense-guide-46e6)
+- [SonarQube Community vs Enterprise: Comparison](https://dev.to/rahulxsingh/sonarqube-community-vs-enterprise-comparison-2j0d)
+- [No Indexes, No Parameters, No Problem](https://dev.to/connerphillis/no-indexes-no-parameters-no-problem-73k)
+- [Fixing Proxmox Terraform Deletes with curl + jq](https://dev.to/lennardj/fixing-proxmox-terraform-deletes-with-curl-jq-4p54)
+- [A Comprehensive Guide to Publishing and Embedding Power BI Reports on the Web with IFrames](https://dev.to/grace_wambua/a-comprehensive-guide-to-publishing-and-embedding-power-bi-reports-on-the-web-with-iframes-47j3)
+- [Supabase RLS: The Hidden Danger &lpar;And How to Find It Before Hackers Do&rpar;](https://dev.to/oscarv/supabase-rls-the-hidden-danger-and-how-to-find-it-before-hackers-do-52l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
