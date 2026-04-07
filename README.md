@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#33 The Safe Without a Lock](https://dev.to/rintaromatsumoto/33-the-safe-without-a-lock-4le3)
-- [#32 The Talent for Lying](https://dev.to/rintaromatsumoto/32-the-talent-for-lying-10ae)
-- [O que você precisa para rodar um Teste de Carga de sucesso? &lpar;Checklist Prático&rpar;](https://dev.to/pmraven/o-que-voce-precisa-para-rodar-um-teste-de-carga-de-sucesso-checklist-pratico-5k7)
-- [#31 Blazing Flames](https://dev.to/rintaromatsumoto/31-blazing-flames-gpp)
-- [I Found 29 Ways to Bypass ML Model Security Scanners — Here&#39;s What&#39;s Actually Broken](https://dev.to/manja316/i-found-29-ways-to-bypass-ml-model-security-scanners-heres-whats-actually-broken-4j4d)
+- [Claude API Hits Hard After February Updates](https://dev.to/ogulcanaydogan/claude-api-hits-hard-after-february-updates-2hm5)
+- [🌐 Kubernetes Service Connectivity Issues: The Invisible Problem That Breaks Everything](https://dev.to/kubegraf_team_2e9dc8ee766/kubernetes-service-connectivity-issues-the-invisible-problem-that-breaks-everything-3hdn)
+- [Useless Enterprise App](https://dev.to/lanthanum89/useless-enterprise-app-4dib)
+- [Salesforce Record Locking and Concurrency – Salesforce Things You should Know](https://dev.to/kamal_thakur/salesforce-record-locking-and-concurrency-salesforce-things-you-should-know-50e9)
+- [A Practical Guide to Publishing and Embedding Power BI Reports with IFrames](https://dev.to/supamodo/a-practical-guide-to-publishing-and-embedding-power-bi-reports-with-iframes-27mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
