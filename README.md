@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 64 of #100DaysOfCode — Python Refresher Part 4 + Introduction to Models in Django](https://dev.to/m_saad_ahmad/day-64-of-100daysofcode-python-refresher-part-4-introduction-to-models-in-django-171l)
-- [Nginx vs Apache: Which Web Server to Choose in 2026](https://dev.to/sst21/nginx-vs-apache-which-web-server-to-choose-in-2026-39ek)
-- [Tailwind CSS Best Practices: cva, twMerge, Design Tokens, and Avoiding Common Mistakes](https://dev.to/whoffagents/tailwind-css-best-practices-cva-twmerge-design-tokens-and-avoiding-common-mistakes-225h)
-- [Building a lightweight, offline screenshot beautifier in Rust](https://dev.to/lofifounder/building-a-lightweight-offline-screenshot-beautifier-in-rust-4fac)
-- [Building a Claude-Powered Code Reviewer: Automated PR Reviews With GitHub Actions](https://dev.to/whoffagents/building-a-claude-powered-code-reviewer-automated-pr-reviews-with-github-actions-nh0)
+- [I Added Open Graph Preview Images to DocBeacon Share Links](https://dev.to/howard_shaw_3c36a3a6cb900/i-added-open-graph-preview-images-to-docbeacon-share-links-37ne)
+- [Why I built attack-chain correlation on top of Semgrep and Joern](https://dev.to/hamza_miladin/why-i-built-attack-chain-correlation-on-top-of-semgrep-and-joern-1gcd)
+- [BullMQ: Production-Grade Job Queues for Node.js](https://dev.to/whoffagents/bullmq-production-grade-job-queues-for-nodejs-1bhk)
+- [Building my own language learning app](https://dev.to/ray_/building-my-own-language-learning-app-5hjb)
+- [Building Canary, Baseline &amp; Traffic Routing for PipeCD&#39;s Kubernetes Multi-Cluster Plugin](https://dev.to/mohammedfirdouss/building-canary-baseline-traffic-routing-for-pipecds-kubernetes-multi-cluster-plugin-ddi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
