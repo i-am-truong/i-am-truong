@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 2 - Connecting AI Agents to Microservices with MCP](https://dev.to/pedrop3/part-2-connecting-ai-agents-to-microservices-with-mcp-16m4)
-- [Decoding Base Model Readiness for Downstream Tasks](https://dev.to/tokensandtakes/decoding-base-model-readiness-for-downstream-tasks-42nn)
-- [I Don’t Blog to Teach: I Blog to Track My Own Journey](https://dev.to/lazydoomslayer/i-dont-blog-to-teach-i-blog-to-track-my-own-journey-3mm)
-- [Implementando un API Client Generator con Proxies de JavaScript y TypeScript Overloads](https://dev.to/x0s3/implementando-un-api-client-generator-con-proxies-de-javascript-y-typescript-overloads-2chf)
-- [LeetCode Solution: 118. Pascal&#39;s Triangle](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-118-pascals-triangle-n19)
+- [Open Banking Was Built for the Wrong Future — and That&#39;s Why It&#39;s Perfect for AI Agents](https://dev.to/mickyarun/open-banking-was-built-for-the-wrong-future-and-thats-why-its-perfect-for-ai-agents-4oha)
+- [The tech market is tough. Here&#39;s what actually matters.](https://dev.to/eriknovikov/the-tech-market-is-tough-heres-what-actually-matters-4ekb)
+- [What Is Browser Fingerprinting? How Websites Track You Without Cookies &lpar;2026&rpar;](https://dev.to/hafiz_khurramjavid_610cf/what-is-browser-fingerprinting-how-websites-track-you-without-cookies-2026-3dfn)
+- [Quantum computing para el dev web que no estudió física: ¿cuándo preocuparse en serio?](https://dev.to/jtorchia/quantum-computing-para-el-dev-web-que-no-estudio-fisica-cuando-preocuparse-en-serio-3ea4)
+- [What Happens If You Build Your Own Trading Bot? I Tried It](https://dev.to/adarshgzz/what-happens-if-you-build-your-own-trading-bot-i-tried-it-3ho9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
