@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [O sistema caiu. Seu log deveria explicar por quê.](https://dev.to/julianomoreno/o-sistema-caiu-seu-log-deveria-explicar-por-que-5041)
-- [Two Crypto Attacks Expose Domain Hijacking Protection Gaps](https://dev.to/monstadomains/two-crypto-attacks-expose-domain-hijacking-protection-gaps-1bcn)
-- [How Echo Publishes to dev.to Without Me](https://dev.to/crow/how-echo-publishes-to-devto-without-me-10f6)
-- [Snyk vs Aqua Security: Developer vs Cloud-Native](https://dev.to/rahulxsingh/snyk-vs-aqua-security-developer-vs-cloud-native-406n)
-- [AI Regulation Reference: A Structured Database of AI Compliance Obligations Across Jurisdictions](https://dev.to/snapsynapse/ai-regulation-reference-a-structured-database-of-ai-compliance-obligations-across-jurisdictions-3g06)
+- [I Built a Todo List App with HTML, CSS &amp; JS — Here&#39;s What I Learned](https://dev.to/dhanraj_s_8fe1023a6e88992/i-built-a-todo-list-app-with-html-css-js-heres-what-i-learned-2aak)
+- [Your AI agent is making 50 implicit decisions per task. You see zero of them.](https://dev.to/gabriel_manhes_a28f00b89/your-ai-agent-is-making-50-implicit-decisions-per-task-you-see-zero-of-them-54j)
+- [The Stability Assumption: The Hidden Defect Source](https://dev.to/crisiscoresystems/the-stability-assumption-the-hidden-defect-source-5cpd)
+- [Spreading Joy Through Code: Introducing the Birthday Celebration App 🎂](https://dev.to/lemancaliskan/spreading-joy-through-code-introducing-the-birthday-celebration-app-3ni)
+- [¿Tu useEffect tiene un bug silencioso?](https://dev.to/falcondpr/tu-useeffect-tiene-un-bug-silencioso-9cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
