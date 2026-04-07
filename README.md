@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Development Works Better Step by Step, and Why Vibe Planner Is Built for Exactly That](https://dev.to/martintonev/why-ai-development-works-better-step-by-step-and-why-vibe-planner-is-built-for-exactly-that-595i)
-- [Planeta Libre](https://dev.to/renich/planeta-libre-3obh)
-- [True Cost of Building a Slack AI Agent](https://dev.to/lowcodeagency/true-cost-of-building-a-slack-ai-agent-1ee3)
-- [Course 3 of 3: AIOps ☁️💪](https://dev.to/lalidevops/course-3-of-3-aiops-2am1)
-- [Tech Workers&#39; Public Work Routine Disclosures Erode Negotiating Leverage: Ambiguity Key to Favorable Terms](https://dev.to/svetlix/tech-workers-public-work-routine-disclosures-erode-negotiating-leverage-ambiguity-key-to-2n3o)
+- [BMAD-Method Workflows Deep Dive: From Idea to Production &lpar;Part 2&rpar;](https://dev.to/bspann/bmad-method-workflows-deep-dive-from-idea-to-production-part-2-5od)
+- [TypeScript Tricks I Actually Use Day to Day](https://dev.to/abdulmalik_muhammad/typescript-tricks-i-actually-use-day-to-day-3a1l)
+- [Claude Code CLAUDE.md: the one file that makes your AI sessions 10x more consistent](https://dev.to/subprime2010/claude-code-claudemd-the-one-file-that-makes-your-ai-sessions-10x-more-consistent-595g)
+- [Why I Switched from React to Vue &lpar;And Back Again&rpar; - Updated April 07, 2026](https://dev.to/mukhtar_abdussalam_0de093/why-i-switched-from-react-to-vue-and-back-again-updated-april-07-2026-11fh)
+- [Greenfield EKS: Choosing Standard EKS vs EKS Auto Mode Without Legacy Baggage](https://dev.to/jajera/greenfield-eks-choosing-standard-eks-vs-eks-auto-mode-without-legacy-baggage-39f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
