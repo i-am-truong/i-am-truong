@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Added Open Graph Preview Images to DocBeacon Share Links](https://dev.to/howard_shaw_3c36a3a6cb900/i-added-open-graph-preview-images-to-docbeacon-share-links-37ne)
-- [Why I built attack-chain correlation on top of Semgrep and Joern](https://dev.to/hamza_miladin/why-i-built-attack-chain-correlation-on-top-of-semgrep-and-joern-1gcd)
-- [BullMQ: Production-Grade Job Queues for Node.js](https://dev.to/whoffagents/bullmq-production-grade-job-queues-for-nodejs-1bhk)
-- [Building my own language learning app](https://dev.to/ray_/building-my-own-language-learning-app-5hjb)
-- [Building Canary, Baseline &amp; Traffic Routing for PipeCD&#39;s Kubernetes Multi-Cluster Plugin](https://dev.to/mohammedfirdouss/building-canary-baseline-traffic-routing-for-pipecds-kubernetes-multi-cluster-plugin-ddi)
+- [#33 The Safe Without a Lock](https://dev.to/rintaromatsumoto/33-the-safe-without-a-lock-4le3)
+- [#32 The Talent for Lying](https://dev.to/rintaromatsumoto/32-the-talent-for-lying-10ae)
+- [O que você precisa para rodar um Teste de Carga de sucesso? &lpar;Checklist Prático&rpar;](https://dev.to/pmraven/o-que-voce-precisa-para-rodar-um-teste-de-carga-de-sucesso-checklist-pratico-5k7)
+- [#31 Blazing Flames](https://dev.to/rintaromatsumoto/31-blazing-flames-gpp)
+- [I Found 29 Ways to Bypass ML Model Security Scanners — Here&#39;s What&#39;s Actually Broken](https://dev.to/manja316/i-found-29-ways-to-bypass-ml-model-security-scanners-heres-whats-actually-broken-4j4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
