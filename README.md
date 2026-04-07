@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SonarQube Community vs Enterprise: Comparison](https://dev.to/rahulxsingh/sonarqube-community-vs-enterprise-comparison-2j0d)
-- [No Indexes, No Parameters, No Problem](https://dev.to/connerphillis/no-indexes-no-parameters-no-problem-73k)
-- [Fixing Proxmox Terraform Deletes with curl + jq](https://dev.to/lennardj/fixing-proxmox-terraform-deletes-with-curl-jq-4p54)
-- [A Comprehensive Guide to Publishing and Embedding Power BI Reports on the Web with IFrames](https://dev.to/grace_wambua/a-comprehensive-guide-to-publishing-and-embedding-power-bi-reports-on-the-web-with-iframes-47j3)
-- [Supabase RLS: The Hidden Danger &lpar;And How to Find It Before Hackers Do&rpar;](https://dev.to/oscarv/supabase-rls-the-hidden-danger-and-how-to-find-it-before-hackers-do-52l3)
+- [ツール呼び出しでも大きいモデルは勝てなかった](https://dev.to/plasmon_imp/turuhu-bichu-sidemoda-kiimoderuhasheng-tenakatuta-1p1i)
+- [I built the email infrastructure I always wished existed](https://dev.to/paulocastellano/i-built-the-email-infrastructure-i-always-wished-existed-2nmi)
+- [Probabilistic Graph Neural Inference for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-with-zero-trust-566h)
+- [Gemma 4 on Apple Silicon: 85 tok/s with a pip install](https://dev.to/raullen_chai_76e18e9705b0/gemma-4-on-apple-silicon-85-toks-with-a-pip-install-299a)
+- [Verifying Zcash Proofs on Ethereum with EIP-152](https://dev.to/zknd3r/verifying-zcash-proofs-on-ethereum-with-eip-152-4h80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
