@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AWS Cloud Resume Challenge ✨👩🏽‍💻](https://dev.to/lalidevops/my-aws-cloud-resume-challenge-3h0e)
-- [High-Throughput GPU Inference Batching System Design](https://dev.to/interviewgpt_fd26fed0b5cf/high-throughput-gpu-inference-batching-system-design-ad5)
-- [Why Most Medication Apps Fail ADHD Brains](https://dev.to/wellnestapp/why-most-medication-apps-fail-adhd-brains-3hea)
-- [Best Prompt Libraries Developers Actually Use in 2026](https://dev.to/lightningdev123/best-prompt-libraries-developers-actually-use-in-2026-2fo6)
-- [✨ IaC: Deploying a Node Secrets Viewer with Terraform ✨👩🏽‍💻](https://dev.to/lalidevops/iac-deploying-a-node-secrets-viewer-with-terraform-3h32)
+- [Why AI Development Works Better Step by Step, and Why Vibe Planner Is Built for Exactly That](https://dev.to/martintonev/why-ai-development-works-better-step-by-step-and-why-vibe-planner-is-built-for-exactly-that-595i)
+- [Planeta Libre](https://dev.to/renich/planeta-libre-3obh)
+- [True Cost of Building a Slack AI Agent](https://dev.to/lowcodeagency/true-cost-of-building-a-slack-ai-agent-1ee3)
+- [Course 3 of 3: AIOps ☁️💪](https://dev.to/lalidevops/course-3-of-3-aiops-2am1)
+- [Tech Workers&#39; Public Work Routine Disclosures Erode Negotiating Leverage: Ambiguity Key to Favorable Terms](https://dev.to/svetlix/tech-workers-public-work-routine-disclosures-erode-negotiating-leverage-ambiguity-key-to-2n3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
