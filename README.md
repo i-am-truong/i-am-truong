@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Erosion of Developer Job Security: Collective Action Needed to Restore Balance in the Job Market](https://dev.to/maxgeris/ai-erosion-of-developer-job-security-collective-action-needed-to-restore-balance-in-the-job-market-2f12)
-- [I built an orbital mechanics game with a tiny AI model inspired by NASA’s Artemis II mission](https://dev.to/sal_stabler_fc37f1755b972/i-built-an-orbital-mechanics-game-with-a-tiny-ai-model-inspired-by-nasas-artemis-ii-mission-2757)
-- [Teaching an AI Agent to Do TDD &lpar;And Actually Mean It&rpar;](https://dev.to/nareshipme/teaching-an-ai-agent-to-do-tdd-and-actually-mean-it-19p7)
-- [14 Essential Claude Code Configurations That Reduced My Setup Time by 75%](https://dev.to/onewallai/14-essential-claude-code-configurations-that-reduced-my-setup-time-by-75-e2a)
-- [React 19 Server Components: Production Patterns for High-Performance Apps in 2026](https://dev.to/vikrant_bagal_afae3e25ca7/react-19-server-components-production-patterns-for-high-performance-apps-in-2026-3278)
+- [My AI Maintainer Kept Making Wrong Calls. So I Made It Report Its State Before Touching Anything.](https://dev.to/flamehaven01/my-ai-maintainer-kept-making-wrong-calls-so-i-made-it-report-its-state-before-touching-anything-2df7)
+- [链接器错误的一波三折](https://dev.to/yo1995/lian-jie-qi-cuo-wu-de-bo-san-zhe-okp)
+- [How I Built an Architecture Analyzer with Tree-Sitter AST &lpar;and What I Learned About Code Quality Metrics&rpar;](https://dev.to/girardellibaptista/how-i-built-an-architecture-analyzer-with-tree-sitter-ast-and-what-i-learned-about-code-quality-4m0c)
+- [🚀 Beyond RAG: Simulating the Future with MiroFish](https://dev.to/techwithhari/beyond-rag-simulating-the-future-with-mirofish-1dal)
+- [Performance Monitoring for E-Commerce: What Metrics Matter Most](https://dev.to/apogeewatcher/performance-monitoring-for-e-commerce-what-metrics-matter-most-5409)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
