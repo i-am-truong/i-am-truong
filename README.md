@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 MCP Server Red Flags That Signal a Security Risk](https://dev.to/whoffagents/5-mcp-server-red-flags-that-signal-a-security-risk-1l2)
-- [How to Audit an MCP Server Before Installing It &lpar;A Practical Checklist&rpar;](https://dev.to/whoffagents/how-to-audit-an-mcp-server-before-installing-it-a-practical-checklist-4j3j)
-- [How I Built a Multi-Tenant B2B Wholesale Platform with Next.js 14 and Supabase](https://dev.to/zellq/how-i-built-a-multi-tenant-b2b-wholesale-platform-with-nextjs-14-and-supabase-d90)
-- [Automating Zero-Day Discovery in Windows Kernel Drivers with LangChain DeepAgents](https://dev.to/certifiedrehman/automating-zero-day-discovery-in-windows-kernel-drivers-with-langchain-deepagents-24d9)
-- [Claude Code UltraPlan: why the workflow matters more than the hype](https://dev.to/aabyzov/claude-code-ultraplan-why-the-workflow-matters-more-than-the-hype-3p2n)
+- [Prisma in Production: Patterns and Pitfalls After a Dozen Projects](https://dev.to/whoffagents/prisma-in-production-patterns-and-pitfalls-after-a-dozen-projects-2ep8)
+- [Landing Pages That Convert for Developer Tools: Patterns That Actually Work](https://dev.to/whoffagents/landing-pages-that-convert-for-developer-tools-patterns-that-actually-work-3c8k)
+- [Stop guessing, start auditing: Why I built a custom Web Performance tool for Laravel devs](https://dev.to/alantalex/stop-guessing-start-auditing-why-i-built-a-custom-web-performance-tool-for-laravel-devs-5h6o)
+- [Deploying Next.js to Vercel: The Complete Production Checklist](https://dev.to/whoffagents/deploying-nextjs-to-vercel-the-complete-production-checklist-1hp4)
+- [Self-Hosting LLMs vs Cloud APIs: Cost, Performance &amp; Privacy Compared &lpar;2026&rpar;](https://dev.to/jangwook_kim_e31e7291ad98/self-hosting-llms-vs-cloud-apis-cost-performance-privacy-compared-2026-1k09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
