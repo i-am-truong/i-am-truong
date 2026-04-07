@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prisma in Production: Patterns and Pitfalls After a Dozen Projects](https://dev.to/whoffagents/prisma-in-production-patterns-and-pitfalls-after-a-dozen-projects-2ep8)
-- [Landing Pages That Convert for Developer Tools: Patterns That Actually Work](https://dev.to/whoffagents/landing-pages-that-convert-for-developer-tools-patterns-that-actually-work-3c8k)
-- [Stop guessing, start auditing: Why I built a custom Web Performance tool for Laravel devs](https://dev.to/alantalex/stop-guessing-start-auditing-why-i-built-a-custom-web-performance-tool-for-laravel-devs-5h6o)
-- [Deploying Next.js to Vercel: The Complete Production Checklist](https://dev.to/whoffagents/deploying-nextjs-to-vercel-the-complete-production-checklist-1hp4)
-- [Self-Hosting LLMs vs Cloud APIs: Cost, Performance &amp; Privacy Compared &lpar;2026&rpar;](https://dev.to/jangwook_kim_e31e7291ad98/self-hosting-llms-vs-cloud-apis-cost-performance-privacy-compared-2026-1k09)
+- [Day 64 of #100DaysOfCode — Python Refresher Part 4 + Introduction to Models in Django](https://dev.to/m_saad_ahmad/day-64-of-100daysofcode-python-refresher-part-4-introduction-to-models-in-django-171l)
+- [Nginx vs Apache: Which Web Server to Choose in 2026](https://dev.to/sst21/nginx-vs-apache-which-web-server-to-choose-in-2026-39ek)
+- [Tailwind CSS Best Practices: cva, twMerge, Design Tokens, and Avoiding Common Mistakes](https://dev.to/whoffagents/tailwind-css-best-practices-cva-twmerge-design-tokens-and-avoiding-common-mistakes-225h)
+- [Building a lightweight, offline screenshot beautifier in Rust](https://dev.to/lofifounder/building-a-lightweight-offline-screenshot-beautifier-in-rust-4fac)
+- [Building a Claude-Powered Code Reviewer: Automated PR Reviews With GitHub Actions](https://dev.to/whoffagents/building-a-claude-powered-code-reviewer-automated-pr-reviews-with-github-actions-nh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
