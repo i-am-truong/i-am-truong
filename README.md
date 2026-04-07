@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ツール呼び出しでも大きいモデルは勝てなかった](https://dev.to/plasmon_imp/turuhu-bichu-sidemoda-kiimoderuhasheng-tenakatuta-1p1i)
-- [I built the email infrastructure I always wished existed](https://dev.to/paulocastellano/i-built-the-email-infrastructure-i-always-wished-existed-2nmi)
-- [Probabilistic Graph Neural Inference for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-with-zero-trust-566h)
-- [Gemma 4 on Apple Silicon: 85 tok/s with a pip install](https://dev.to/raullen_chai_76e18e9705b0/gemma-4-on-apple-silicon-85-toks-with-a-pip-install-299a)
-- [Verifying Zcash Proofs on Ethereum with EIP-152](https://dev.to/zknd3r/verifying-zcash-proofs-on-ethereum-with-eip-152-4h80)
+- [My AWS Cloud Resume Challenge ✨👩🏽‍💻](https://dev.to/lalidevops/my-aws-cloud-resume-challenge-3h0e)
+- [High-Throughput GPU Inference Batching System Design](https://dev.to/interviewgpt_fd26fed0b5cf/high-throughput-gpu-inference-batching-system-design-ad5)
+- [Why Most Medication Apps Fail ADHD Brains](https://dev.to/wellnestapp/why-most-medication-apps-fail-adhd-brains-3hea)
+- [Best Prompt Libraries Developers Actually Use in 2026](https://dev.to/lightningdev123/best-prompt-libraries-developers-actually-use-in-2026-2fo6)
+- [✨ IaC: Deploying a Node Secrets Viewer with Terraform ✨👩🏽‍💻](https://dev.to/lalidevops/iac-deploying-a-node-secrets-viewer-with-terraform-3h32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
