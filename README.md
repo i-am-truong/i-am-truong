@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude API Hits Hard After February Updates](https://dev.to/ogulcanaydogan/claude-api-hits-hard-after-february-updates-2hm5)
-- [🌐 Kubernetes Service Connectivity Issues: The Invisible Problem That Breaks Everything](https://dev.to/kubegraf_team_2e9dc8ee766/kubernetes-service-connectivity-issues-the-invisible-problem-that-breaks-everything-3hdn)
-- [Useless Enterprise App](https://dev.to/lanthanum89/useless-enterprise-app-4dib)
-- [Salesforce Record Locking and Concurrency – Salesforce Things You should Know](https://dev.to/kamal_thakur/salesforce-record-locking-and-concurrency-salesforce-things-you-should-know-50e9)
-- [A Practical Guide to Publishing and Embedding Power BI Reports with IFrames](https://dev.to/supamodo/a-practical-guide-to-publishing-and-embedding-power-bi-reports-with-iframes-27mc)
+- [I built a skill that makes LLMs stop making mistakes](https://dev.to/vishxrad/i-built-a-skill-that-makes-llms-stop-making-mistakes-4paa)
+- [How DER Twin Works — Architecture of an Open Source Energy Device Simulator](https://dev.to/oleksandrs/how-der-twin-works-architecture-of-an-open-source-energy-device-simulator-fd0)
+- [Implementing Search: PostgreSQL Full-Text vs Algolia vs Meilisearch](https://dev.to/whoffagents/implementing-search-postgresql-full-text-vs-algolia-vs-meilisearch-2ibm)
+- [Understanding SaaS Technology Teams vs Traditional IT Departments](https://dev.to/bhushan1301/understanding-saas-technology-teams-vs-traditional-it-departments-3ein)
+- [Structured Concurrency in JavaScript: Beyond Promise.all](https://dev.to/whoffagents/structured-concurrency-in-javascript-beyond-promiseall-3f2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
