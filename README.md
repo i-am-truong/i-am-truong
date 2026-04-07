@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Maintainer Kept Making Wrong Calls. So I Made It Report Its State Before Touching Anything.](https://dev.to/flamehaven01/my-ai-maintainer-kept-making-wrong-calls-so-i-made-it-report-its-state-before-touching-anything-2df7)
-- [链接器错误的一波三折](https://dev.to/yo1995/lian-jie-qi-cuo-wu-de-bo-san-zhe-okp)
-- [How I Built an Architecture Analyzer with Tree-Sitter AST &lpar;and What I Learned About Code Quality Metrics&rpar;](https://dev.to/girardellibaptista/how-i-built-an-architecture-analyzer-with-tree-sitter-ast-and-what-i-learned-about-code-quality-4m0c)
-- [🚀 Beyond RAG: Simulating the Future with MiroFish](https://dev.to/techwithhari/beyond-rag-simulating-the-future-with-mirofish-1dal)
-- [Performance Monitoring for E-Commerce: What Metrics Matter Most](https://dev.to/apogeewatcher/performance-monitoring-for-e-commerce-what-metrics-matter-most-5409)
+- [Part 2 - Connecting AI Agents to Microservices with MCP](https://dev.to/pedrop3/part-2-connecting-ai-agents-to-microservices-with-mcp-16m4)
+- [Decoding Base Model Readiness for Downstream Tasks](https://dev.to/tokensandtakes/decoding-base-model-readiness-for-downstream-tasks-42nn)
+- [I Don’t Blog to Teach: I Blog to Track My Own Journey](https://dev.to/lazydoomslayer/i-dont-blog-to-teach-i-blog-to-track-my-own-journey-3mm)
+- [Implementando un API Client Generator con Proxies de JavaScript y TypeScript Overloads](https://dev.to/x0s3/implementando-un-api-client-generator-con-proxies-de-javascript-y-typescript-overloads-2chf)
+- [LeetCode Solution: 118. Pascal&#39;s Triangle](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-118-pascals-triangle-n19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
