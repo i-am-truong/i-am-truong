@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your API Isn’t Hard to Use Your Documentation Is Just Bad](https://dev.to/ezejah_chimkamma_06758a9b/your-api-isnt-hard-to-use-your-documentation-is-just-bad-ohn)
-- [My Claude Code Sessions Hit 70MB. So I Built a Distiller.](https://dev.to/ithiria894/my-claude-code-sessions-hit-70mb-so-i-built-a-distiller-32a)
-- [I Built an Autonomous Job Application Agent with Claude AI — Here&#39;s How It Works](https://dev.to/tanzilahmed/i-built-an-autonomous-job-application-agent-with-claude-ai-heres-how-it-works-31d9)
-- [Advancing DevOps/Cloud Learning: Strategies for Post-Foundational Skill Development](https://dev.to/maricode/advancing-devopscloud-learning-strategies-for-post-foundational-skill-development-3be0)
-- [Your Startup Isn’t Confusing Your Documentation Is &lpar;Here’s How to Fix It&rpar;](https://dev.to/ezejah_chimkamma_06758a9b/your-startup-isnt-confusing-your-documentation-is-heres-how-to-fix-it-4o1b)
+- [The Codebase Is No Longer a Moat](https://dev.to/computeless/the-codebase-is-no-longer-a-moat-gic)
+- [Here&#39;s How I Build Products Without Losing My Mind.](https://dev.to/nasrulhazim/heres-how-i-build-products-without-losing-my-mind-1mi1)
+- [RAGの検索精度を3軸で測ったら最適解が条件で全く変わった](https://dev.to/plasmon_imp/ragnojian-suo-jing-du-wo3zhou-dece-tutarazui-shi-jie-gatiao-jian-dequan-kubian-watuta-1nbm)
+- [Clai TALOS: The Self-Hosted AI Agent I Wish Existed](https://dev.to/vynavin/clai-talos-the-self-hosted-ai-agent-i-wish-existed-2lh5)
+- [GPU-Accelerated ML/DL Performance on MacBook Pro M5 Pro vs. M4 Max: Feasibility and Benchmarks for Developers.](https://dev.to/valesys/gpu-accelerated-mldl-performance-on-macbook-pro-m5-pro-vs-m4-max-feasibility-and-benchmarks-for-2ka3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
