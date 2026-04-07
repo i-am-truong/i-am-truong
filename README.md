@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a skill that makes LLMs stop making mistakes](https://dev.to/vishxrad/i-built-a-skill-that-makes-llms-stop-making-mistakes-4paa)
-- [How DER Twin Works — Architecture of an Open Source Energy Device Simulator](https://dev.to/oleksandrs/how-der-twin-works-architecture-of-an-open-source-energy-device-simulator-fd0)
-- [Implementing Search: PostgreSQL Full-Text vs Algolia vs Meilisearch](https://dev.to/whoffagents/implementing-search-postgresql-full-text-vs-algolia-vs-meilisearch-2ibm)
-- [Understanding SaaS Technology Teams vs Traditional IT Departments](https://dev.to/bhushan1301/understanding-saas-technology-teams-vs-traditional-it-departments-3ein)
-- [Structured Concurrency in JavaScript: Beyond Promise.all](https://dev.to/whoffagents/structured-concurrency-in-javascript-beyond-promiseall-3f2n)
+- [O sistema caiu. Seu log deveria explicar por quê.](https://dev.to/julianomoreno/o-sistema-caiu-seu-log-deveria-explicar-por-que-5041)
+- [Two Crypto Attacks Expose Domain Hijacking Protection Gaps](https://dev.to/monstadomains/two-crypto-attacks-expose-domain-hijacking-protection-gaps-1bcn)
+- [How Echo Publishes to dev.to Without Me](https://dev.to/crow/how-echo-publishes-to-devto-without-me-10f6)
+- [Snyk vs Aqua Security: Developer vs Cloud-Native](https://dev.to/rahulxsingh/snyk-vs-aqua-security-developer-vs-cloud-native-406n)
+- [AI Regulation Reference: A Structured Database of AI Compliance Obligations Across Jurisdictions](https://dev.to/snapsynapse/ai-regulation-reference-a-structured-database-of-ai-compliance-obligations-across-jurisdictions-3g06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
