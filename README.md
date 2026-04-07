@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Todo List App with HTML, CSS &amp; JS — Here&#39;s What I Learned](https://dev.to/dhanraj_s_8fe1023a6e88992/i-built-a-todo-list-app-with-html-css-js-heres-what-i-learned-2aak)
-- [Your AI agent is making 50 implicit decisions per task. You see zero of them.](https://dev.to/gabriel_manhes_a28f00b89/your-ai-agent-is-making-50-implicit-decisions-per-task-you-see-zero-of-them-54j)
-- [The Stability Assumption: The Hidden Defect Source](https://dev.to/crisiscoresystems/the-stability-assumption-the-hidden-defect-source-5cpd)
-- [Spreading Joy Through Code: Introducing the Birthday Celebration App 🎂](https://dev.to/lemancaliskan/spreading-joy-through-code-introducing-the-birthday-celebration-app-3ni)
-- [¿Tu useEffect tiene un bug silencioso?](https://dev.to/falcondpr/tu-useeffect-tiene-un-bug-silencioso-9cf)
+- [AI Erosion of Developer Job Security: Collective Action Needed to Restore Balance in the Job Market](https://dev.to/maxgeris/ai-erosion-of-developer-job-security-collective-action-needed-to-restore-balance-in-the-job-market-2f12)
+- [I built an orbital mechanics game with a tiny AI model inspired by NASA’s Artemis II mission](https://dev.to/sal_stabler_fc37f1755b972/i-built-an-orbital-mechanics-game-with-a-tiny-ai-model-inspired-by-nasas-artemis-ii-mission-2757)
+- [Teaching an AI Agent to Do TDD &lpar;And Actually Mean It&rpar;](https://dev.to/nareshipme/teaching-an-ai-agent-to-do-tdd-and-actually-mean-it-19p7)
+- [14 Essential Claude Code Configurations That Reduced My Setup Time by 75%](https://dev.to/onewallai/14-essential-claude-code-configurations-that-reduced-my-setup-time-by-75-e2a)
+- [React 19 Server Components: Production Patterns for High-Performance Apps in 2026](https://dev.to/vikrant_bagal_afae3e25ca7/react-19-server-components-production-patterns-for-high-performance-apps-in-2026-3278)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
