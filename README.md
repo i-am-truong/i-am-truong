@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Browser-Only JPG to PDF Tool Because Uploading Personal Files Is Still Too Normal](https://dev.to/mpsoftwarestudio/we-built-a-browser-only-jpg-to-pdf-tool-because-uploading-personal-files-is-still-too-normal-n7j)
-- [How do you test and debug Stripe webhooks locally and in production?](https://dev.to/manoj_pathak_448b825c4c76/how-do-you-test-and-debug-stripe-webhooks-locally-and-in-production-9b)
-- [Building an AI fallback system: when to use GPT-4o, when to fall back to Haiku, when to skip the LLM entirely](https://dev.to/adamo_software/building-an-ai-fallback-system-when-to-use-gpt-4o-when-to-fall-back-to-haiku-when-to-skip-the-43j)
-- [bb-browser: No Scraping, No API Keys — Your Browser Is the API](https://dev.to/recca0120/bb-browser-no-scraping-no-api-keys-your-browser-is-the-api-1j8l)
-- [5 Claude Code Skills That Saved Me Hours This Week &lpar;With Install Commands&rpar;](https://dev.to/williamwangai/5-claude-code-skills-that-saved-me-hours-this-week-with-install-commands-oa3)
+- [5 MCP Server Red Flags That Signal a Security Risk](https://dev.to/whoffagents/5-mcp-server-red-flags-that-signal-a-security-risk-1l2)
+- [How to Audit an MCP Server Before Installing It &lpar;A Practical Checklist&rpar;](https://dev.to/whoffagents/how-to-audit-an-mcp-server-before-installing-it-a-practical-checklist-4j3j)
+- [How I Built a Multi-Tenant B2B Wholesale Platform with Next.js 14 and Supabase](https://dev.to/zellq/how-i-built-a-multi-tenant-b2b-wholesale-platform-with-nextjs-14-and-supabase-d90)
+- [Automating Zero-Day Discovery in Windows Kernel Drivers with LangChain DeepAgents](https://dev.to/certifiedrehman/automating-zero-day-discovery-in-windows-kernel-drivers-with-langchain-deepagents-24d9)
+- [Claude Code UltraPlan: why the workflow matters more than the hype](https://dev.to/aabyzov/claude-code-ultraplan-why-the-workflow-matters-more-than-the-hype-3p2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
