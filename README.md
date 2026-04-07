@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Banking Was Built for the Wrong Future — and That&#39;s Why It&#39;s Perfect for AI Agents](https://dev.to/mickyarun/open-banking-was-built-for-the-wrong-future-and-thats-why-its-perfect-for-ai-agents-4oha)
-- [The tech market is tough. Here&#39;s what actually matters.](https://dev.to/eriknovikov/the-tech-market-is-tough-heres-what-actually-matters-4ekb)
-- [What Is Browser Fingerprinting? How Websites Track You Without Cookies &lpar;2026&rpar;](https://dev.to/hafiz_khurramjavid_610cf/what-is-browser-fingerprinting-how-websites-track-you-without-cookies-2026-3dfn)
-- [Quantum computing para el dev web que no estudió física: ¿cuándo preocuparse en serio?](https://dev.to/jtorchia/quantum-computing-para-el-dev-web-que-no-estudio-fisica-cuando-preocuparse-en-serio-3ea4)
-- [What Happens If You Build Your Own Trading Bot? I Tried It](https://dev.to/adarshgzz/what-happens-if-you-build-your-own-trading-bot-i-tried-it-3ho9)
+- [Apollo 11 Guidance Computer: The Undocumented Bug We Found](https://dev.to/onsen/apollo-11-guidance-computer-the-undocumented-bug-we-found-3eni)
+- [Asqav vs Microsoft Agent Governance Toolkit - what is the difference](https://dev.to/jagmarques/asqav-vs-microsoft-agent-governance-toolkit-what-is-the-difference-598d)
+- [Why Is My OpenClaw Dumb? — The Complete Guide to Making Your AI Assistant Actually Smart](https://dev.to/mrclaw207/why-is-my-openclaw-dumb-the-complete-guide-to-making-your-ai-assistant-actually-smart-1g9k)
+- [How I Use AI for Coding Without Giving Up Control](https://dev.to/justdatguymat/how-i-use-ai-for-coding-without-giving-up-control-20kg)
+- [Blocking AI Crawlers vs. Letting Them In: A Practical Defense Guide](https://dev.to/alanwest/blocking-ai-crawlers-vs-letting-them-in-a-practical-defense-guide-46e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
