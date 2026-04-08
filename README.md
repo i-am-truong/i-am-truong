@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extract Audio from Video in Zapier](https://dev.to/renderio/extract-audio-from-video-in-zapier-ip4)
-- [Best FFmpeg API Services in 2026: Complete Comparison](https://dev.to/renderio/best-ffmpeg-api-services-in-2026-complete-comparison-bd)
-- [I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite](https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i)
-- [SonarQube GitLab CI Integration: Configuration Guide](https://dev.to/rahulxsingh/sonarqube-gitlab-ci-integration-configuration-guide-2j3m)
-- [I Built an Android App Using AI — After Failing Twice Since 2019](https://dev.to/durgeshsahani/i-built-an-android-app-using-ai-after-failing-twice-since-2019-4a1e)
+- [Bilibili動画ダウンローダーの構築：DASHストリーミング解析とFFmpegによる動画合成の技術的深掘り](https://dev.to/yqqwe/bilibilidong-hua-daunrodanogou-zhu-dashsutorimingujie-xi-toffmpegniyorudong-hua-he-cheng-noji-shu-de-shen-jue-ri-4bcp)
+- [How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects](https://dev.to/chefgs/how-to-avoid-vulnerabilities-in-ai-generated-javascript-and-nodejs-projects-4ggi)
+- [QuantumSuperposition and the Type Parameter at the End of the Universe](https://dev.to/hutchpd/quantumsuperposition-and-the-type-parameter-at-the-end-of-the-universe-3cff)
+- [JSON-LD Structured Data for Blogs: A Real Implementation](https://dev.to/didof/json-ld-structured-data-for-blogs-a-real-implementation-25n)
+- [Nissan PSR Simulation](https://dev.to/soytuber/nissan-psr-simulation-1b86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
