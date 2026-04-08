@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Karpathy&#39;s LLM Wiki is right. I just didn&#39;t want to run it locally.](https://dev.to/hjarni/karpathys-llm-wiki-is-right-i-just-didnt-want-to-run-it-locally-170m)
-- [The OpenClaw Security Crisis: 135,000 Exposed AI Agents and the Runtime Governance Gap](https://dev.to/waxell/the-openclaw-security-crisis-135000-exposed-ai-agents-and-the-runtime-governance-gap-e26)
-- [SonarQube vs Coverity: Quality vs Defect Detection](https://dev.to/rahulxsingh/sonarqube-vs-coverity-quality-vs-defect-detection-1eih)
-- [Unlock AI at the Edge: High-Performance Inference with WebAssembly and ONNX](https://dev.to/programmingcentral/unlock-ai-at-the-edge-high-performance-inference-with-webassembly-and-onnx-27dh)
-- [Your MCP server is not an API adapter](https://dev.to/desty2k/your-mcp-server-is-not-an-api-adapter-23k7)
+- [I built a JS framework with zero dependencies. Here&#39;s why](https://dev.to/nulldeps/i-built-a-js-framework-with-zero-dependencies-heres-why-kle)
+- [We Use Valtio Instead of Redux. Nobody Regrets It.](https://dev.to/adioof/we-use-valtio-instead-of-redux-nobody-regrets-it-2b57)
+- [Claude Code Review: Setup, Pricing, and Verdict](https://dev.to/rahulxsingh/claude-code-review-setup-pricing-and-verdict-41p3)
+- [I Spent Hours in the DOM So You Don&#39;t Have To](https://dev.to/midnight-aliit/i-spent-hours-in-the-dom-so-you-dont-have-to-e8h)
+- [The Real Cost of Automating Business Processes](https://dev.to/lowcodeagency/the-real-cost-of-automating-business-processes-4kb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
