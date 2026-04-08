@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 - Problem Solving](https://dev.to/thirusakthi-dev/day-3-problem-solving-poo)
-- [Beyond Laravel: Applying the Agent Harness to Any Stack](https://dev.to/tacoda/beyond-laravel-applying-the-agent-harness-to-any-stack-2gaf)
-- [A simple action will put you in the top 52% of coders from these stats](https://dev.to/canro91/a-simple-action-will-put-you-in-the-top-52-of-coders-from-these-stats-4cb9)
-- [I&#39;m a seller, not a developer — I triaged a Rust crash in a 1,300-star project](https://dev.to/florianhorner/im-a-seller-not-a-developer-i-triaged-a-rust-crash-in-a-1300-star-project-2ln0)
-- [GLM-5.1: The 754B Open Model That Writes Animated SVG](https://dev.to/o96a/glm-51-the-754b-open-model-that-writes-animated-svg-3cle)
+- [Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention](https://dev.to/vsnikhilvs/claude-code-leak-why-every-developer-building-ai-systems-should-be-paying-attention-fjl)
+- [[AutoBe] Qwen 3.5-27B Just Built Complete Backends from Scratch — 100% Compilation, 25x Cheaper](https://dev.to/samchon/autobe-qwen-35-27b-just-built-complete-backends-from-scratch-100-compilation-25x-cheaper-lmd)
+- [How to Master SQLAlchemy I/O: Testing Queries in CI to Prevent Database Disasters 🚨](https://dev.to/fmartins/how-to-master-sqlalchemy-io-testing-queries-in-ci-to-prevent-database-disasters-4gfj)
+- [Spread vs Rest Operators in JavaScript](https://dev.to/hiral/spread-vs-rest-operators-in-javascript-607)
+- [Is your AI wrapper a &quot;High-Risk&quot; system? &lpar;A dev&#39;s guide to the EU AI Act&rpar;](https://dev.to/damsho92/is-your-ai-wrapper-a-high-risk-system-a-devs-guide-to-the-eu-ai-act-oco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
