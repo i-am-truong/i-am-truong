@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Rewrote python-dateutil in Rust — Even a Naive Port Is Up to 94x Faster](https://dev.to/wakita181009/i-rewrote-python-dateutil-in-rust-even-a-naive-port-is-up-to-94x-faster-4n4e)
-- [How MCP Turns Your Messy Agents Into Governed Systems](https://dev.to/wassimchegham/how-mcp-turns-your-messy-agents-into-governed-systems-2ofo)
-- [How to Install Argo CD on Kubernetes with Helm and Understand Every Core Component](https://dev.to/coordimap/how-to-install-argo-cd-on-kubernetes-with-helm-and-understand-every-core-component-2070)
-- [I built an AI Image Upscaler that runs 100% in the browser &lpar;no server uploads&rpar;](https://dev.to/feixiang/i-built-an-ai-image-upscaler-that-runs-100-in-the-browser-no-server-uploads-42dj)
-- [How to create a blog with GitLab Pages](https://dev.to/noan/how-to-create-a-blog-with-gitlab-pages-35b3)
+- [Woww that&#39;s very intesting post for us](https://dev.to/enesefes/woww-thats-very-intesting-post-for-us-2lk6)
+- [Building Your First VPC: AWS Networking with Terraform](https://dev.to/aws-builders/building-your-first-vpc-aws-networking-with-terraform-3h34)
+- [Why Your UI Keeps Breaking: The Case for a Shared Component Library](https://dev.to/137foundry/why-your-ui-keeps-breaking-the-case-for-a-shared-component-library-2lpp)
+- [I Built a Chrome Extension to Filter Low-Quality News on Yahoo Japan](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-to-filter-low-quality-news-on-yahoo-japan-fdb)
+- [Why Your AI Agent Doesn&#39;t Need More Tools. It Needs a Smarter Way to Manage Them](https://dev.to/deeptishuklatfy/why-your-ai-agent-doesnt-need-more-tools-it-needs-a-smarter-way-to-manage-them-5bo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
