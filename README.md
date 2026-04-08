@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Switched to Stacked PRs. My Team Reviews Code in Hours, Not Days.](https://dev.to/adioof/i-switched-to-stacked-prs-my-team-reviews-code-in-hours-not-days-429i)
-- [TOP 25 ALGORITMOS | Selection Sort](https://dev.to/sdrariane/top-25-algoritmos-selection-sort-5baf)
-- [Why HIPAA Is Not the Problem — And Why Privacy-by-Architecture Is a Different Category](https://dev.to/roryqis/why-hipaa-is-not-the-problem-and-why-privacy-by-architecture-is-a-different-category-blp)
-- [Semver in Retrograde](https://dev.to/trknhr/semver-in-retrograde-1oj3)
-- [The invisible people teaching AI what humans mean and why it matters more than you think](https://dev.to/singarajatech/the-invisible-people-teaching-ai-what-humans-mean-and-why-it-matters-more-than-you-think-5pk)
+- [Amazon S3 Files: Bringing File System Access Directly to Your S3 Data](https://dev.to/aws-builders/amazon-s3-files-bringing-file-system-access-directly-to-your-s3-data-43af)
+- [When AI Assigns Statements to the Wrong Government Entity: Why Structured Attribution Becomes Necessary](https://dev.to/aigistry/when-ai-assigns-statements-to-the-wrong-government-entity-why-structured-attribution-becomes-4fe7)
+- [Tu score de accesibilidad te está mintiendo](https://dev.to/jtorchia/tu-score-de-accesibilidad-te-esta-mintiendo-4efo)
+- [Your AI Agent Gets Dumber the More You Teach It. Skill Graphs Are the Fix.](https://dev.to/o96a/your-ai-agent-gets-dumber-the-more-you-teach-it-skill-graphs-are-the-fix-1fba)
+- [Why Your AI Coding Agent Needs a Digital Straitjacket](https://dev.to/haabe/why-your-ai-coding-agent-needs-a-digital-straitjacket-5beb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
