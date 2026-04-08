@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Tool to Fix Outlook Email Compatibility Issues &lpar;Here&#39;s How&rpar;](https://dev.to/zqf2013111/i-built-an-ai-tool-to-fix-outlook-email-compatibility-issues-heres-how-1ck1)
-- [Why I Built PureMyHA: A Lightweight MySQL 8.4 HA Manager in Haskell](https://dev.to/ikaro1192/why-i-built-puremyha-a-lightweight-mysql-84-ha-manager-in-haskell-2ood)
-- [Per-customer cost attribution without a proxy](https://dev.to/amedinat/per-customer-cost-attribution-without-a-proxy-3dpj)
-- [Chat Templates can improve LM inferencing.](https://dev.to/satyajit99p/chat-templates-can-improve-lm-inferencing-1khn)
-- [AI Can Detect Cancer from Your Voice: A New Breakthrough](https://dev.to/yasirawan4831/ai-can-detect-cancer-from-your-voice-a-new-breakthrough-10io)
+- [I Switched to Stacked PRs. My Team Reviews Code in Hours, Not Days.](https://dev.to/adioof/i-switched-to-stacked-prs-my-team-reviews-code-in-hours-not-days-429i)
+- [TOP 25 ALGORITMOS | Selection Sort](https://dev.to/sdrariane/top-25-algoritmos-selection-sort-5baf)
+- [Why HIPAA Is Not the Problem — And Why Privacy-by-Architecture Is a Different Category](https://dev.to/roryqis/why-hipaa-is-not-the-problem-and-why-privacy-by-architecture-is-a-different-category-blp)
+- [Semver in Retrograde](https://dev.to/trknhr/semver-in-retrograde-1oj3)
+- [The invisible people teaching AI what humans mean and why it matters more than you think](https://dev.to/singarajatech/the-invisible-people-teaching-ai-what-humans-mean-and-why-it-matters-more-than-you-think-5pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
