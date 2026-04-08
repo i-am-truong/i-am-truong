@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Woww that&#39;s very intesting post for us](https://dev.to/enesefes/woww-thats-very-intesting-post-for-us-2lk6)
-- [Building Your First VPC: AWS Networking with Terraform](https://dev.to/aws-builders/building-your-first-vpc-aws-networking-with-terraform-3h34)
-- [Why Your UI Keeps Breaking: The Case for a Shared Component Library](https://dev.to/137foundry/why-your-ui-keeps-breaking-the-case-for-a-shared-component-library-2lpp)
-- [I Built a Chrome Extension to Filter Low-Quality News on Yahoo Japan](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-to-filter-low-quality-news-on-yahoo-japan-fdb)
-- [Why Your AI Agent Doesn&#39;t Need More Tools. It Needs a Smarter Way to Manage Them](https://dev.to/deeptishuklatfy/why-your-ai-agent-doesnt-need-more-tools-it-needs-a-smarter-way-to-manage-them-5bo3)
+- [Dates and periods in PHP](https://dev.to/xwero/dates-and-periods-in-php-46o1)
+- [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
+- [The Productive Programmer](https://dev.to/steveharrison/the-productive-programmer-775)
+- [Why I stopped using DOM locators for End-to-End tests altogether—and replaced them with computer vision](https://dev.to/angelina_kos/why-i-stopped-using-dom-locators-for-end-to-end-tests-altogether-and-replaced-them-with-computer-399)
+- [WebRTC vs. MoQ — Two Protocols, One Platform Completely Built for Both](https://dev.to/antmedia_io/webrtc-vs-moq-two-protocols-one-platform-completely-built-for-both-4aj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
