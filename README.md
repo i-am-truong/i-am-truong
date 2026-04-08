@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BMAD-Method Workflows Deep Dive: From Idea to Production &lpar;Part 2&rpar;](https://dev.to/bspann/bmad-method-workflows-deep-dive-from-idea-to-production-part-2-5od)
-- [TypeScript Tricks I Actually Use Day to Day](https://dev.to/abdulmalik_muhammad/typescript-tricks-i-actually-use-day-to-day-3a1l)
-- [Claude Code CLAUDE.md: the one file that makes your AI sessions 10x more consistent](https://dev.to/subprime2010/claude-code-claudemd-the-one-file-that-makes-your-ai-sessions-10x-more-consistent-595g)
-- [Why I Switched from React to Vue &lpar;And Back Again&rpar; - Updated April 07, 2026](https://dev.to/mukhtar_abdussalam_0de093/why-i-switched-from-react-to-vue-and-back-again-updated-april-07-2026-11fh)
-- [Greenfield EKS: Choosing Standard EKS vs EKS Auto Mode Without Legacy Baggage](https://dev.to/jajera/greenfield-eks-choosing-standard-eks-vs-eks-auto-mode-without-legacy-baggage-39f3)
+- [I built a platform where AI agents collaborate as a software team](https://dev.to/dpark2025/i-built-a-platform-where-ai-agents-collaborate-as-a-software-team-56h1)
+- [Accessible web testing with Playwright and Axe Core](https://dev.to/vitalyskadorva/accessible-web-testing-with-playwright-and-axe-core-2kg1)
+- [YAML-Based Testing: A New Approach to E2E](https://dev.to/hai_huang_f196ed9669351e0/yaml-based-testing-a-new-approach-to-e2e-4mkf)
+- [From Human-First to Agent-First Testing: What a Year of Building Taught Us](https://dev.to/hai_huang_f196ed9669351e0/from-human-first-to-agent-first-testing-what-a-year-of-building-taught-us-1ga)
+- [HBM4 Didn&#39;t Break the Memory Wall — It Just Moved It](https://dev.to/plasmon_imp/hbm4-didnt-break-the-memory-wall-it-just-moved-it-2kpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
