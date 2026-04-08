@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention](https://dev.to/vsnikhilvs/claude-code-leak-why-every-developer-building-ai-systems-should-be-paying-attention-fjl)
-- [[AutoBe] Qwen 3.5-27B Just Built Complete Backends from Scratch — 100% Compilation, 25x Cheaper](https://dev.to/samchon/autobe-qwen-35-27b-just-built-complete-backends-from-scratch-100-compilation-25x-cheaper-lmd)
-- [How to Master SQLAlchemy I/O: Testing Queries in CI to Prevent Database Disasters 🚨](https://dev.to/fmartins/how-to-master-sqlalchemy-io-testing-queries-in-ci-to-prevent-database-disasters-4gfj)
-- [Spread vs Rest Operators in JavaScript](https://dev.to/hiral/spread-vs-rest-operators-in-javascript-607)
-- [Is your AI wrapper a &quot;High-Risk&quot; system? &lpar;A dev&#39;s guide to the EU AI Act&rpar;](https://dev.to/damsho92/is-your-ai-wrapper-a-high-risk-system-a-devs-guide-to-the-eu-ai-act-oco)
+- [x402 vs MPP: Almost Honest Comparison](https://dev.to/philpher0x/x402-vs-mpp-an-almost-honest-comparison-5g6g)
+- [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb)
+- [I built a local AI engine you can access from anywhere](https://dev.to/linggen/i-built-a-local-ai-engine-you-can-access-from-anywhere-ock)
+- [I built an AI memory that fact-checks itself while you sleep](https://dev.to/fex_beck_27bfd4dccd05f062/i-built-an-ai-memory-that-fact-checks-itself-while-you-sleep-29mj)
+- [No Written Rules Means Your Best Person Becomes the Bottleneck](https://dev.to/kirder24code/no-written-rules-means-your-best-person-becomes-the-bottleneck-2boa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
