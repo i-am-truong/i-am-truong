@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [x402 vs MPP: Almost Honest Comparison](https://dev.to/philpher0x/x402-vs-mpp-an-almost-honest-comparison-5g6g)
-- [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb)
-- [I built a local AI engine you can access from anywhere](https://dev.to/linggen/i-built-a-local-ai-engine-you-can-access-from-anywhere-ock)
-- [I built an AI memory that fact-checks itself while you sleep](https://dev.to/fex_beck_27bfd4dccd05f062/i-built-an-ai-memory-that-fact-checks-itself-while-you-sleep-29mj)
-- [No Written Rules Means Your Best Person Becomes the Bottleneck](https://dev.to/kirder24code/no-written-rules-means-your-best-person-becomes-the-bottleneck-2boa)
+- [Karpathy&#39;s LLM Wiki is right. I just didn&#39;t want to run it locally.](https://dev.to/hjarni/karpathys-llm-wiki-is-right-i-just-didnt-want-to-run-it-locally-170m)
+- [The OpenClaw Security Crisis: 135,000 Exposed AI Agents and the Runtime Governance Gap](https://dev.to/waxell/the-openclaw-security-crisis-135000-exposed-ai-agents-and-the-runtime-governance-gap-e26)
+- [SonarQube vs Coverity: Quality vs Defect Detection](https://dev.to/rahulxsingh/sonarqube-vs-coverity-quality-vs-defect-detection-1eih)
+- [Unlock AI at the Edge: High-Performance Inference with WebAssembly and ONNX](https://dev.to/programmingcentral/unlock-ai-at-the-edge-high-performance-inference-with-webassembly-and-onnx-27dh)
+- [Your MCP server is not an API adapter](https://dev.to/desty2k/your-mcp-server-is-not-an-api-adapter-23k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
