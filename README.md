@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a platform where AI agents collaborate as a software team](https://dev.to/dpark2025/i-built-a-platform-where-ai-agents-collaborate-as-a-software-team-56h1)
-- [Accessible web testing with Playwright and Axe Core](https://dev.to/vitalyskadorva/accessible-web-testing-with-playwright-and-axe-core-2kg1)
-- [YAML-Based Testing: A New Approach to E2E](https://dev.to/hai_huang_f196ed9669351e0/yaml-based-testing-a-new-approach-to-e2e-4mkf)
-- [From Human-First to Agent-First Testing: What a Year of Building Taught Us](https://dev.to/hai_huang_f196ed9669351e0/from-human-first-to-agent-first-testing-what-a-year-of-building-taught-us-1ga)
-- [HBM4 Didn&#39;t Break the Memory Wall — It Just Moved It](https://dev.to/plasmon_imp/hbm4-didnt-break-the-memory-wall-it-just-moved-it-2kpi)
+- [Software design documents in 2026, who writes them now?](https://dev.to/sushrutkm/software-design-documents-in-2026-who-writes-them-now-408h)
+- [#40 The Dust-Covered Toolbox](https://dev.to/rintaromatsumoto/40-the-dust-covered-toolbox-3817)
+- [Solving &quot;Analyze and Reason on Multimodal Data with Gemini: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-analyze-and-reason-on-multimodal-data-with-gemini-challenge-lab-a-complete-guide-4che)
+- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
+- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-24h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
