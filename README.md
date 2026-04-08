@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3 Files: Bringing File System Access Directly to Your S3 Data](https://dev.to/aws-builders/amazon-s3-files-bringing-file-system-access-directly-to-your-s3-data-43af)
-- [When AI Assigns Statements to the Wrong Government Entity: Why Structured Attribution Becomes Necessary](https://dev.to/aigistry/when-ai-assigns-statements-to-the-wrong-government-entity-why-structured-attribution-becomes-4fe7)
-- [Tu score de accesibilidad te está mintiendo](https://dev.to/jtorchia/tu-score-de-accesibilidad-te-esta-mintiendo-4efo)
-- [Your AI Agent Gets Dumber the More You Teach It. Skill Graphs Are the Fix.](https://dev.to/o96a/your-ai-agent-gets-dumber-the-more-you-teach-it-skill-graphs-are-the-fix-1fba)
-- [Why Your AI Coding Agent Needs a Digital Straitjacket](https://dev.to/haabe/why-your-ai-coding-agent-needs-a-digital-straitjacket-5beb)
+- [Day 2 - Problem Solving](https://dev.to/thirusakthi-dev/day-3-problem-solving-poo)
+- [Beyond Laravel: Applying the Agent Harness to Any Stack](https://dev.to/tacoda/beyond-laravel-applying-the-agent-harness-to-any-stack-2gaf)
+- [A simple action will put you in the top 52% of coders from these stats](https://dev.to/canro91/a-simple-action-will-put-you-in-the-top-52-of-coders-from-these-stats-4cb9)
+- [I&#39;m a seller, not a developer — I triaged a Rust crash in a 1,300-star project](https://dev.to/florianhorner/im-a-seller-not-a-developer-i-triaged-a-rust-crash-in-a-1300-star-project-2ln0)
+- [GLM-5.1: The 754B Open Model That Writes Animated SVG](https://dev.to/o96a/glm-51-the-754b-open-model-that-writes-animated-svg-3cle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
