@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dates and periods in PHP](https://dev.to/xwero/dates-and-periods-in-php-46o1)
-- [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
-- [The Productive Programmer](https://dev.to/steveharrison/the-productive-programmer-775)
-- [Why I stopped using DOM locators for End-to-End tests altogether—and replaced them with computer vision](https://dev.to/angelina_kos/why-i-stopped-using-dom-locators-for-end-to-end-tests-altogether-and-replaced-them-with-computer-399)
-- [WebRTC vs. MoQ — Two Protocols, One Platform Completely Built for Both](https://dev.to/antmedia_io/webrtc-vs-moq-two-protocols-one-platform-completely-built-for-both-4aj1)
+- [How AI Shopping Agents Discover Your Store: The 7-Step UCP Discovery Flow](https://dev.to/ucptools/how-ai-shopping-agents-discover-your-store-the-7-step-ucp-discovery-flow-3oaf)
+- [The Undiagnosed Input Problem](https://dev.to/reporails/the-undiagnosed-input-problem-4pmc)
+- [We Audited 1,000+ Cold Email Domains. 67% Had Broken DNS Authentication.](https://dev.to/sabo_nagy/we-audited-1000-cold-email-domains-67-had-broken-dns-authentication-1baj)
+- [Your PHP website is a free API: how to unlock it with content negotiation](https://dev.to/amaury_bouchard/your-php-website-is-a-free-api-how-to-unlock-it-with-content-negotiation-2h0p)
+- [Top 5 Websites for Remote Global and Visa Sponsorship Jobs in 2026](https://dev.to/fastapplyai/top-5-websites-for-remote-global-and-visa-sponsorship-jobs-in-2026-4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
