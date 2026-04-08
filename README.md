@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Shopping Agents Discover Your Store: The 7-Step UCP Discovery Flow](https://dev.to/ucptools/how-ai-shopping-agents-discover-your-store-the-7-step-ucp-discovery-flow-3oaf)
-- [The Undiagnosed Input Problem](https://dev.to/reporails/the-undiagnosed-input-problem-4pmc)
-- [We Audited 1,000+ Cold Email Domains. 67% Had Broken DNS Authentication.](https://dev.to/sabo_nagy/we-audited-1000-cold-email-domains-67-had-broken-dns-authentication-1baj)
-- [Your PHP website is a free API: how to unlock it with content negotiation](https://dev.to/amaury_bouchard/your-php-website-is-a-free-api-how-to-unlock-it-with-content-negotiation-2h0p)
-- [Top 5 Websites for Remote Global and Visa Sponsorship Jobs in 2026](https://dev.to/fastapplyai/top-5-websites-for-remote-global-and-visa-sponsorship-jobs-in-2026-4n)
+- [I Built an AI Tool to Fix Outlook Email Compatibility Issues &lpar;Here&#39;s How&rpar;](https://dev.to/zqf2013111/i-built-an-ai-tool-to-fix-outlook-email-compatibility-issues-heres-how-1ck1)
+- [Why I Built PureMyHA: A Lightweight MySQL 8.4 HA Manager in Haskell](https://dev.to/ikaro1192/why-i-built-puremyha-a-lightweight-mysql-84-ha-manager-in-haskell-2ood)
+- [Per-customer cost attribution without a proxy](https://dev.to/amedinat/per-customer-cost-attribution-without-a-proxy-3dpj)
+- [Chat Templates can improve LM inferencing.](https://dev.to/satyajit99p/chat-templates-can-improve-lm-inferencing-1khn)
+- [AI Can Detect Cancer from Your Voice: A New Breakthrough](https://dev.to/yasirawan4831/ai-can-detect-cancer-from-your-voice-a-new-breakthrough-10io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
