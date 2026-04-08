@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a JS framework with zero dependencies. Here&#39;s why](https://dev.to/nulldeps/i-built-a-js-framework-with-zero-dependencies-heres-why-kle)
-- [We Use Valtio Instead of Redux. Nobody Regrets It.](https://dev.to/adioof/we-use-valtio-instead-of-redux-nobody-regrets-it-2b57)
-- [Claude Code Review: Setup, Pricing, and Verdict](https://dev.to/rahulxsingh/claude-code-review-setup-pricing-and-verdict-41p3)
-- [I Spent Hours in the DOM So You Don&#39;t Have To](https://dev.to/midnight-aliit/i-spent-hours-in-the-dom-so-you-dont-have-to-e8h)
-- [The Real Cost of Automating Business Processes](https://dev.to/lowcodeagency/the-real-cost-of-automating-business-processes-4kb4)
+- [I Built Autonomous Agents That Trade on Solana Without Seeing Private Keys](https://dev.to/ola-zoll/i-built-autonomous-agents-that-trade-on-solana-without-seeing-private-keys-272d)
+- [Profiling Java apps: breaking things to prove it works](https://dev.to/coroot/profiling-java-apps-breaking-things-to-prove-it-works-14da)
+- [Array basic methods in j.s](https://dev.to/mohandassmani/array-basic-methods-in-js-3nje)
+- [Find me an app or Build me an app?](https://dev.to/shankara_run/find-me-an-app-or-build-me-an-app-1ec0)
+- [SQLite Internals, PostgreSQL Extensions &amp; Performance Tuning Updates](https://dev.to/soytuber/sqlite-internals-postgresql-extensions-performance-tuning-updates-2kk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
