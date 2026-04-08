@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Autonomous Agents That Trade on Solana Without Seeing Private Keys](https://dev.to/ola-zoll/i-built-autonomous-agents-that-trade-on-solana-without-seeing-private-keys-272d)
-- [Profiling Java apps: breaking things to prove it works](https://dev.to/coroot/profiling-java-apps-breaking-things-to-prove-it-works-14da)
-- [Array basic methods in j.s](https://dev.to/mohandassmani/array-basic-methods-in-js-3nje)
-- [Find me an app or Build me an app?](https://dev.to/shankara_run/find-me-an-app-or-build-me-an-app-1ec0)
-- [SQLite Internals, PostgreSQL Extensions &amp; Performance Tuning Updates](https://dev.to/soytuber/sqlite-internals-postgresql-extensions-performance-tuning-updates-2kk9)
+- [Vector Database Performance Compared: pgvector vs Pinecone vs Qdrant vs Weaviate](https://dev.to/kencho/vector-database-performance-compared-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-2ne6)
+- [&quot;Red Flags Developers Have in Interviews &lpar;And Don&#39;t Even Know It&rpar;&quot;](https://dev.to/devraj_singh7/red-flags-developers-have-in-interviews-and-dont-even-know-it-2k57)
+- [SonarQube vs PMD: Java Static Analysis Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-pmd-java-static-analysis-compared-2026-30fd)
+- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-4eoo)
+- [I Built an AI Rental Management Platform for My Brother. Here&#39;s What Actually Happened.](https://dev.to/arielf/i-built-an-ai-rental-management-platform-for-my-brother-heres-what-actually-happened-4385)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
