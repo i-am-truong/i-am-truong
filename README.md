@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Software design documents in 2026, who writes them now?](https://dev.to/sushrutkm/software-design-documents-in-2026-who-writes-them-now-408h)
-- [#40 The Dust-Covered Toolbox](https://dev.to/rintaromatsumoto/40-the-dust-covered-toolbox-3817)
-- [Solving &quot;Analyze and Reason on Multimodal Data with Gemini: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-analyze-and-reason-on-multimodal-data-with-gemini-challenge-lab-a-complete-guide-4che)
-- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
-- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-24h5)
+- [Extract Audio from Video in Zapier](https://dev.to/renderio/extract-audio-from-video-in-zapier-ip4)
+- [Best FFmpeg API Services in 2026: Complete Comparison](https://dev.to/renderio/best-ffmpeg-api-services-in-2026-complete-comparison-bd)
+- [I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite](https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i)
+- [SonarQube GitLab CI Integration: Configuration Guide](https://dev.to/rahulxsingh/sonarqube-gitlab-ci-integration-configuration-guide-2j3m)
+- [I Built an Android App Using AI — After Failing Twice Since 2019](https://dev.to/durgeshsahani/i-built-an-android-app-using-ai-after-failing-twice-since-2019-4a1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
