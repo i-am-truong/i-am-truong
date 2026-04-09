@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One Open Source Project a Day &lpar;No.34&rpar;: second-brain-skills - A Skill Toolkit That Turns Claude Code Into a Knowledge Work Expert](https://dev.to/wonderlab/one-open-source-project-a-day-no69-second-brain-skills-a-skill-toolkit-that-turns-claude-code-1hhn)
-- [eBPF in Production Kubernetes: Ditch Your Sidecars in 2026](https://dev.to/cloud_aj_bb4bc2c9cdc529e6/ebpf-in-production-kubernetes-ditch-your-sidecars-in-2026-nem)
-- [Designing a Scalable Electronic Components Platform: Architecture, Data Modeling, Search, and SEO Trade-offs](https://dev.to/caleb_jason_c1a3b9b51c399/designing-a-scalable-electronic-components-platform-architecture-data-modeling-search-and-seo-395h)
-- [SafeLine WAF running on Rootless Docker](https://dev.to/carrie_luo1/safeline-waf-running-on-rootless-docker-c2p)
-- [AI Agents Now Have Credit Cards](https://dev.to/tomwangcn/ai-agents-now-have-credit-cards-gn3)
+- [FileReader, BufferedReader, FileWriter, BufferedWriter in Java](https://dev.to/hayesvincent14/filereader-bufferedreader-filewriter-bufferedwriter-in-java-40g0)
+- [I Cut My Claude Code Token Usage by 65% With a Simple File Structure Change](https://dev.to/aslammhdms/i-cut-my-claude-code-token-usage-by-65-with-a-simple-file-structure-change-1hmk)
+- [Construyendo un Web Scraper Profesional con Python y Playwright: Un Pipeline Completo de Tweets a Newsletter](https://dev.to/enlabe/construyendo-un-web-scraper-profesional-con-python-y-playwright-un-pipeline-completo-de-tweets-a-4cp5)
+- [Method in java](https://dev.to/priya_k_9427a2e692abd3ddb/method-in-java-3n6n)
+- [Constructor in JavaScript](https://dev.to/priya_k_9427a2e692abd3ddb/constructor-in-javascript-kno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
