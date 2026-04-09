@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can Rust Have Zero-Cost Dependency Injection?](https://dev.to/dmytro_brazhyk/can-rust-have-zero-cost-dependency-injection-4960)
-- [Cursor MCP Proxy Setup Guide: Add Budget Controls and Audit Trails to Your Tools](https://dev.to/mattdeangit/cursor-mcp-proxy-setup-guide-add-budget-controls-and-audit-trails-to-your-tools-16j5)
-- [The Hitchhiker&#39;s Guide to Running Agentic Systems Locally](https://dev.to/workspacedex/the-hitchhikers-guide-to-running-agentic-systems-locally-312p)
-- [The Four Axes of AI Agent Efficiency: When to Use LLMs &lpar;And When Not To&rpar;](https://dev.to/sebastian_chedal/the-four-axes-of-ai-agent-efficiency-when-to-use-llms-and-when-not-to-1i4i)
-- [I Built an Artisan-Like CLI for Next.js &lpar;MongoDB + JWT + CRUD in Seconds&rpar;](https://dev.to/shivam_kumar_4b4bc71d90a0/i-built-an-artisan-like-cli-for-nextjs-mongodb-jwt-crud-in-seconds-2886)
+- [Unix Timestamps Explained: What Every Developer Should Know](https://dev.to/sven_schuchardt_0aa51663a/unix-timestamps-explained-what-every-developer-should-know-890)
+- [Understanding Vector Pipelines: From Config Files to Data Flow](https://dev.to/mohhddhassan/understanding-vector-pipelines-from-config-files-to-data-flow-i8k)
+- [Agentic tool use in Aerie workflows](https://dev.to/patonw/agentic-tool-use-in-aerie-workflows-4l4b)
+- [🍪 Cookie-Based JWT Authentication](https://dev.to/pial_shek_09ce71ae3fbe3c1/cookie-based-jwt-authentication-2477)
+- [Agentforce + External API: The Security Layer Nobody Warns You About](https://dev.to/madalitsonyemba/agentforce-external-api-the-security-layer-nobody-warns-you-about-2j50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
