@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Machine Identity Crisis: Why the AI Era Needs a New Trust Protocol](https://dev.to/dividebyzerogt/machine-identity-crisis-why-the-ai-era-needs-a-new-trust-protocol-kkb)
-- [Scaling PaddleOCR to Zero: A Multi-Cloud GPU Pipeline with KEDA](https://dev.to/michael_silverlining/scaling-paddleocr-to-zero-a-multi-cloud-gpu-pipeline-with-keda-4662)
-- [I bootstrapped an SDK that competes with $87M in funded competitors. Heres the playbook.](https://dev.to/t49qnsx7qtkpanks/i-bootstrapped-an-sdk-that-competes-with-87m-in-funded-competitors-heres-the-playbook-34h9)
-- [AI Search Optimization for Jekyll: JSON-LD, llms.txt, and Entity Graphs](https://dev.to/madmatvey/ai-search-optimization-for-jekyll-json-ld-llmstxt-and-entity-graphs-13g3)
-- [How I Built an AI Agent That Earns $150 Reviewing Pull Requests](https://dev.to/zg361/how-i-built-an-ai-agent-that-earns-150-reviewing-pull-requests-4ae6)
+- [Google Calendar Meeting Analyzer](https://dev.to/fullsnackops/google-calendar-meeting-analyzer-3g3k)
+- [I made Claude Code slower. On purpose. Here&#39;s why.](https://dev.to/seriousbydesign/i-made-claude-code-slower-on-purpose-heres-why-1lo9)
+- [What the React Compiler Quietly Skips](https://dev.to/nosyos/memoization-in-the-react-compiler-era-what-actually-changes-3e6b)
+- [Quick Guide: Connecting n8n to Any REST API in 10 Minutes](https://dev.to/bernardkibathi/quick-guide-connecting-n8n-to-any-rest-api-in-10-minutes-9f1)
+- [Functional Emotions and Production Guardrails: What Interpretability Research Means for Claude Code](https://dev.to/oldeucryptoboi/functional-emotions-and-production-guardrails-what-interpretability-research-means-for-claude-code-3f0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
