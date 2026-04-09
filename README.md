@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Web App to Burn Bad Memories and Grow From Them](https://dev.to/edriso/i-built-a-web-app-to-burn-bad-memories-and-grow-from-them-56fj)
-- [Blockchain from the Ground Up: What It Is, Why It Exists, and Where It&#39;s Going](https://dev.to/gutopro/blockchain-from-the-ground-up-what-it-is-why-it-exists-and-where-its-going-466e)
-- [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2)
-- [tmux + Neovim + AI: My tdev Workflow for AI-Powered Development Sessions](https://dev.to/iampavel/tmux-neovim-ai-my-tdev-workflow-for-ai-powered-development-sessions-18b1)
-- [The production disasters we&#39;ve watched happen, and the habit that would have prevented all of them](https://dev.to/tudorsss-betterqa/the-production-disasters-weve-watched-happen-and-the-habit-that-would-have-prevented-all-of-them-2lco)
+- [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8)
+- [Coding Agents Are Only as Good as the Signals You Feed Them](https://dev.to/signadot/coding-agents-are-only-as-good-as-the-signals-you-feed-them-5kg)
+- [Sourcery vs GitHub Copilot: Review vs Generation](https://dev.to/rahulxsingh/sourcery-vs-github-copilot-review-vs-generation-4715)
+- [How to Connect AI Agents to Enterprise Productivity Tools Securely &lpar;2026 Architecture Guide&rpar;](https://dev.to/arcade/how-to-connect-ai-agents-to-enterprise-productivity-tools-securely-2026-architecture-guide-5d0n)
+- [System Design From Scratch: The Components That Actually Run Production Systems](https://dev.to/sabitak/system-design-from-scratch-the-components-that-actually-run-production-systems-422l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
