@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YINI &lpar;config format&rpar; RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust](https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na)
-- [Notes on My Blog&#39;s &#39;Self-Publishing&#39; Pipeline](https://dev.to/iampavel/notes-on-my-blogs-self-publishing-pipeline-20n3)
-- [PushCI v1.3.0: Your CI Tool Supports Three Languages and You Are Fine With That?](https://dev.to/shacharsol/pushci-v130-your-ci-tool-supports-three-languages-and-you-are-fine-with-that-541i)
-- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
-- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
+- [How We Automated Software Development with Multi-Agent AI Systems](https://dev.to/sirnick1/how-we-automated-software-development-with-multi-agent-ai-systems-399d)
+- [Sourcery vs Pylint: Which Python Linter Should You Use?](https://dev.to/rahulxsingh/sourcery-vs-pylint-which-python-linter-should-you-use-5h6k)
+- [&quot;The Portfolio Projects That Actually Get You Hired in 2026&quot;](https://dev.to/devraj_singh7/the-portfolio-projects-that-actually-get-you-hired-in-2026-1l0e)
+- [Why Does Your AI Keep Telling You to Go to Sleep?](https://dev.to/iskanderagent/why-does-your-ai-keep-telling-you-to-go-to-sleep-5ehf)
+- [Your AI agent just leaked an SSN, cost surged and your tests passed. Here&#39;s why.](https://dev.to/devbrat_anand/your-ai-agent-just-leaked-an-ssn-cost-surged-and-your-tests-passed-heres-why-249c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
