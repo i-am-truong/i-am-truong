@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FileReader, BufferedReader, FileWriter, BufferedWriter in Java](https://dev.to/hayesvincent14/filereader-bufferedreader-filewriter-bufferedwriter-in-java-40g0)
-- [I Cut My Claude Code Token Usage by 65% With a Simple File Structure Change](https://dev.to/aslammhdms/i-cut-my-claude-code-token-usage-by-65-with-a-simple-file-structure-change-1hmk)
-- [Construyendo un Web Scraper Profesional con Python y Playwright: Un Pipeline Completo de Tweets a Newsletter](https://dev.to/enlabe/construyendo-un-web-scraper-profesional-con-python-y-playwright-un-pipeline-completo-de-tweets-a-4cp5)
-- [Method in java](https://dev.to/priya_k_9427a2e692abd3ddb/method-in-java-3n6n)
-- [Constructor in JavaScript](https://dev.to/priya_k_9427a2e692abd3ddb/constructor-in-javascript-kno)
+- [LeetCode 647: Palindromic Substrings — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-647-palindromic-substrings-step-by-step-visual-trace-4moh)
+- [LeetCode 424: Longest Repeating Character Replacement — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-424-longest-repeating-character-replacement-step-by-step-visual-trace-29f4)
+- [LeetCode 300: Longest Increasing Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-300-longest-increasing-subsequence-step-by-step-visual-trace-5657)
+- [LeetCode 329: Longest Increasing Path In A Matrix — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-329-longest-increasing-path-in-a-matrix-step-by-step-visual-trace-5hk8)
+- [LeetCode 1143: Longest Common Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-1143-longest-common-subsequence-step-by-step-visual-trace-14m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
