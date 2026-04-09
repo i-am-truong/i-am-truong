@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How K-Means Clustering Works &lpar;Explained by Extracting Colors from Images&rpar;](https://dev.to/didof/how-k-means-clustering-works-explained-by-extracting-colors-from-images-pmi)
-- [I Built a Fake UK Government Blink Regulation Agency and It Got Out of Hand](https://dev.to/bingkahu/i-built-a-fake-uk-government-blink-regulation-agency-and-it-got-out-of-hand-h0p)
-- [Your Tech Stack Isn’t Your Ceiling. Your Story Is](https://dev.to/karol_modelski/your-tech-stack-isnt-your-ceiling-your-story-is-4mi2)
-- [A Litecoin Wallet That Remembers Nothing](https://dev.to/sergey_ovcharenko_74bf887/a-litecoin-wallet-that-remembers-nothing-24ff)
-- [Python Tutor Alternative for LeetCode: Why TraceLit Exists](https://dev.to/tracelit/python-tutor-alternative-for-leetcode-why-tracelit-exists-3ddn)
+- [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
+- [Ship a Micro-SaaS in a Weekend: Influencer Vetting Tool &lpar;Full Stack&rpar;](https://dev.to/olams/ship-a-micro-saas-in-a-weekend-influencer-vetting-tool-full-stack-3l5m)
+- [I Built a Personal Knowledge Graph App — Here&#39;s the Full Stack Behind It](https://dev.to/alpereneser/i-built-a-personal-knowledge-graph-app-heres-the-full-stack-behind-it-1laj)
+- [What if: we have two same keys in Reactjs?](https://dev.to/duythenight/what-if-we-have-two-same-keys-in-reactjs-587h)
+- [JavaScript Basic Array Methods Explained for Beginners &lpar;Complete Guide&rpar;](https://dev.to/subash_4870e66d76ac024544/javascript-basic-array-methods-explained-for-beginners-complete-guide-17pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
