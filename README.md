@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Calendar Meeting Analyzer](https://dev.to/fullsnackops/google-calendar-meeting-analyzer-3g3k)
-- [I made Claude Code slower. On purpose. Here&#39;s why.](https://dev.to/seriousbydesign/i-made-claude-code-slower-on-purpose-heres-why-1lo9)
-- [What the React Compiler Quietly Skips](https://dev.to/nosyos/memoization-in-the-react-compiler-era-what-actually-changes-3e6b)
-- [Quick Guide: Connecting n8n to Any REST API in 10 Minutes](https://dev.to/bernardkibathi/quick-guide-connecting-n8n-to-any-rest-api-in-10-minutes-9f1)
-- [Functional Emotions and Production Guardrails: What Interpretability Research Means for Claude Code](https://dev.to/oldeucryptoboi/functional-emotions-and-production-guardrails-what-interpretability-research-means-for-claude-code-3f0l)
+- [The &quot;Stateless&quot; AI Era is a Massive Engineering Tax](https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic)
+- [Why We&#39;re Building TurboDeploy - The Problem with Cloud Deployment in 2026](https://dev.to/parag477/why-were-building-turbodeploy-the-problem-with-cloud-deployment-in-2026-5977)
+- [CDK update - March 2026](https://dev.to/aws/cdk-update-march-2026-1ga8)
+- [I Described a Multi-Agent, Multi-Model System in Plain English. It Was Built in Seconds. Part 5/5](https://dev.to/jon_at_backboardio/i-described-a-multi-agent-multi-model-system-in-plain-english-it-was-built-in-seconds-part-55-59h)
+- [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
