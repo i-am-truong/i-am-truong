@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8)
-- [Coding Agents Are Only as Good as the Signals You Feed Them](https://dev.to/signadot/coding-agents-are-only-as-good-as-the-signals-you-feed-them-5kg)
-- [Sourcery vs GitHub Copilot: Review vs Generation](https://dev.to/rahulxsingh/sourcery-vs-github-copilot-review-vs-generation-4715)
-- [How to Connect AI Agents to Enterprise Productivity Tools Securely &lpar;2026 Architecture Guide&rpar;](https://dev.to/arcade/how-to-connect-ai-agents-to-enterprise-productivity-tools-securely-2026-architecture-guide-5d0n)
-- [System Design From Scratch: The Components That Actually Run Production Systems](https://dev.to/sabitak/system-design-from-scratch-the-components-that-actually-run-production-systems-422l)
+- [YINI &lpar;config format&rpar; RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust](https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na)
+- [Notes on My Blog&#39;s &#39;Self-Publishing&#39; Pipeline](https://dev.to/iampavel/notes-on-my-blogs-self-publishing-pipeline-20n3)
+- [PushCI v1.3.0: Your CI Tool Supports Three Languages and You Are Fine With That?](https://dev.to/shacharsol/pushci-v130-your-ci-tool-supports-three-languages-and-you-are-fine-with-that-541i)
+- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
+- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
