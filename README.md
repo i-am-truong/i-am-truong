@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unix Timestamps Explained: What Every Developer Should Know](https://dev.to/sven_schuchardt_0aa51663a/unix-timestamps-explained-what-every-developer-should-know-890)
-- [Understanding Vector Pipelines: From Config Files to Data Flow](https://dev.to/mohhddhassan/understanding-vector-pipelines-from-config-files-to-data-flow-i8k)
-- [Agentic tool use in Aerie workflows](https://dev.to/patonw/agentic-tool-use-in-aerie-workflows-4l4b)
-- [🍪 Cookie-Based JWT Authentication](https://dev.to/pial_shek_09ce71ae3fbe3c1/cookie-based-jwt-authentication-2477)
-- [Agentforce + External API: The Security Layer Nobody Warns You About](https://dev.to/madalitsonyemba/agentforce-external-api-the-security-layer-nobody-warns-you-about-2j50)
+- [I Built a Web App to Burn Bad Memories and Grow From Them](https://dev.to/edriso/i-built-a-web-app-to-burn-bad-memories-and-grow-from-them-56fj)
+- [Blockchain from the Ground Up: What It Is, Why It Exists, and Where It&#39;s Going](https://dev.to/gutopro/blockchain-from-the-ground-up-what-it-is-why-it-exists-and-where-its-going-466e)
+- [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2)
+- [tmux + Neovim + AI: My tdev Workflow for AI-Powered Development Sessions](https://dev.to/iampavel/tmux-neovim-ai-my-tdev-workflow-for-ai-powered-development-sessions-18b1)
+- [The production disasters we&#39;ve watched happen, and the habit that would have prevented all of them](https://dev.to/tudorsss-betterqa/the-production-disasters-weve-watched-happen-and-the-habit-that-would-have-prevented-all-of-them-2lco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
