@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker and Ansible: Setting Up a Reproducible On-Prem Stack in a Weekend](https://dev.to/danielgdk/docker-and-ansible-setting-up-a-reproducible-on-prem-stack-in-a-weekend-1h0d)
-- [Building DocProof: Proving Documents Exist Without Sharing Them](https://dev.to/danielgdk/building-docproof-proving-documents-exist-without-sharing-them-5d0m)
-- [Building DocProof: A Solo Dev Journey with AI as My Co-Pilot](https://dev.to/danielgdk/building-docproof-a-solo-dev-journey-with-ai-as-my-co-pilot-1221)
-- [Moving Off the Cloud: A Practical Guide to On-Premises Migration for Nordic SMBs](https://dev.to/danielgdk/moving-off-the-cloud-a-practical-guide-to-on-premises-migration-for-nordic-smbs-57ci)
-- [When to Modernize Your Legacy .NET Application &lpar;And When Not To&rpar;](https://dev.to/danielgdk/when-to-modernize-your-legacy-net-application-and-when-not-to-4bib)
+- [Can Rust Have Zero-Cost Dependency Injection?](https://dev.to/dmytro_brazhyk/can-rust-have-zero-cost-dependency-injection-4960)
+- [Cursor MCP Proxy Setup Guide: Add Budget Controls and Audit Trails to Your Tools](https://dev.to/mattdeangit/cursor-mcp-proxy-setup-guide-add-budget-controls-and-audit-trails-to-your-tools-16j5)
+- [The Hitchhiker&#39;s Guide to Running Agentic Systems Locally](https://dev.to/workspacedex/the-hitchhikers-guide-to-running-agentic-systems-locally-312p)
+- [The Four Axes of AI Agent Efficiency: When to Use LLMs &lpar;And When Not To&rpar;](https://dev.to/sebastian_chedal/the-four-axes-of-ai-agent-efficiency-when-to-use-llms-and-when-not-to-1i4i)
+- [I Built an Artisan-Like CLI for Next.js &lpar;MongoDB + JWT + CRUD in Seconds&rpar;](https://dev.to/shivam_kumar_4b4bc71d90a0/i-built-an-artisan-like-cli-for-nextjs-mongodb-jwt-crud-in-seconds-2886)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
