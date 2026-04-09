@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Principles you won&#39;t forget again](https://dev.to/sarupy/solid-principles-you-wont-forget-again-479o)
-- [MCP Security: Why Your AI Agent&#39;s Tool Calls Need a Firewall](https://dev.to/aymenhmaidi/mcp-security-why-your-ai-agents-tool-calls-need-a-firewall-3h48)
-- [Meta Just Revealed Its Agent Architecture. The Tool List Tells Us Everything.](https://dev.to/o96a/meta-just-revealed-its-agent-architecture-the-tool-list-tells-us-everything-53o6)
-- [How to Test WebSocket Connections in the Browser &lpar;No Install Required&rpar;](https://dev.to/willivan0706/how-to-test-websocket-connections-in-the-browser-no-install-required-1p68)
-- [Building an AI Invoice Generator in a Week &lpar;Week 8 of My NanoCrafts Build Curriculum&rpar;](https://dev.to/azeezroheem/building-an-ai-invoice-generator-in-a-week-week-8-of-my-nanocrafts-build-curriculum-43i4)
+- [A Year of Building snappycart in Public or 7 Mistakes I Learned the Hard Way](https://dev.to/idncod/a-year-of-building-snappycart-in-public-or-7-mistakes-i-learned-the-hard-way-67k)
+- [ComunicaOps Parte 3.: Loops de Feedback](https://dev.to/rafaelbonilha/comunicaops-parte-3-loops-de-feedback-3a3e)
+- [How to Parse XML Fast in 2026 &lpar;Python&rpar;](https://dev.to/mohammadraziei/how-to-parse-xml-fast-in-2026-python-20fd)
+- [How JavaScript Async Actually Works &lpar;Event Loop, Micro tasks, and Call Stack&rpar;](https://dev.to/bysontech_8dd1313811a8895/how-javascript-async-actually-works-event-loop-micro-tasks-and-call-stack-17gb)
+- [Introducing FOSRES: A Free and Open Source Security Research Project](https://dev.to/fosres/introducing-fosres-a-free-and-open-source-security-research-project-4ij6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
