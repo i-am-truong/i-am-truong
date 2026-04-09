@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Year of Building snappycart in Public or 7 Mistakes I Learned the Hard Way](https://dev.to/idncod/a-year-of-building-snappycart-in-public-or-7-mistakes-i-learned-the-hard-way-67k)
-- [ComunicaOps Parte 3.: Loops de Feedback](https://dev.to/rafaelbonilha/comunicaops-parte-3-loops-de-feedback-3a3e)
-- [How to Parse XML Fast in 2026 &lpar;Python&rpar;](https://dev.to/mohammadraziei/how-to-parse-xml-fast-in-2026-python-20fd)
-- [How JavaScript Async Actually Works &lpar;Event Loop, Micro tasks, and Call Stack&rpar;](https://dev.to/bysontech_8dd1313811a8895/how-javascript-async-actually-works-event-loop-micro-tasks-and-call-stack-17gb)
-- [Introducing FOSRES: A Free and Open Source Security Research Project](https://dev.to/fosres/introducing-fosres-a-free-and-open-source-security-research-project-4ij6)
+- [One Open Source Project a Day &lpar;No.34&rpar;: second-brain-skills - A Skill Toolkit That Turns Claude Code Into a Knowledge Work Expert](https://dev.to/wonderlab/one-open-source-project-a-day-no69-second-brain-skills-a-skill-toolkit-that-turns-claude-code-1hhn)
+- [eBPF in Production Kubernetes: Ditch Your Sidecars in 2026](https://dev.to/cloud_aj_bb4bc2c9cdc529e6/ebpf-in-production-kubernetes-ditch-your-sidecars-in-2026-nem)
+- [Designing a Scalable Electronic Components Platform: Architecture, Data Modeling, Search, and SEO Trade-offs](https://dev.to/caleb_jason_c1a3b9b51c399/designing-a-scalable-electronic-components-platform-architecture-data-modeling-search-and-seo-395h)
+- [SafeLine WAF running on Rootless Docker](https://dev.to/carrie_luo1/safeline-waf-running-on-rootless-docker-c2p)
+- [AI Agents Now Have Credit Cards](https://dev.to/tomwangcn/ai-agents-now-have-credit-cards-gn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
