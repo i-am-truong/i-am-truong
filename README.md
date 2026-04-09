@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ARIA Labels Done Wrong: The Most Common Mistakes I See in Production Code](https://dev.to/priya_nair/aria-labels-done-wrong-the-most-common-mistakes-i-see-in-production-code-39ga)
-- [TurboQuant on a MacBook: building a one-command local stack with Ollama, MLX, and an automatic routing proxy](https://dev.to/anderson_leite/turboquant-on-a-macbook-building-a-one-command-local-stack-with-ollama-mlx-and-an-automatic-4cn7)
-- [CLI Over MCP: Why AI Agents Need a Different Kind of Database Interface](https://dev.to/_4f268336f6580845cdc475/cli-over-mcp-why-ai-agents-need-a-different-kind-of-database-interface-4c98)
-- [Build a Motion-Triggered SMS Alert System with XIAO ESP32 S3 - No GSM Required](https://dev.to/david_thomas/build-a-motion-triggered-sms-alert-system-with-xiao-esp32-s3-no-gsm-required-4586)
-- [AWS Certified Cloud Practitioner Series – Part 2](https://dev.to/swayam_248/aws-certified-cloud-practitioner-series-part-2-44ob)
+- [Claude Code 101: Demystifying Language Models](https://dev.to/rsicarelli/claude-code-101-demystifying-language-models-3h8o)
+- [From prompt engineering to agent experience](https://dev.to/danilop/from-prompt-engineering-to-agent-experience-2f3k)
+- [Why Copying Code from Stack Overflow Is a Skill &lpar;Not a Shame&rpar;](https://dev.to/devkoan/why-copying-code-from-stack-overflow-is-a-skill-not-a-shame-1cjj)
+- [ForgeCode vs Claude Code: which AI coding agent actually wins?](https://dev.to/liran_baba/forgecode-vs-claude-code-which-ai-coding-agent-actually-wins-36c)
+- [Why .env files are a security disaster &lpar;and what we do instead&rpar;](https://dev.to/olotuderick/why-env-files-are-a-security-disaster-and-what-we-do-instead-31ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
