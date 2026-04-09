@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
-- [Ship a Micro-SaaS in a Weekend: Influencer Vetting Tool &lpar;Full Stack&rpar;](https://dev.to/olams/ship-a-micro-saas-in-a-weekend-influencer-vetting-tool-full-stack-3l5m)
-- [I Built a Personal Knowledge Graph App — Here&#39;s the Full Stack Behind It](https://dev.to/alpereneser/i-built-a-personal-knowledge-graph-app-heres-the-full-stack-behind-it-1laj)
-- [What if: we have two same keys in Reactjs?](https://dev.to/duythenight/what-if-we-have-two-same-keys-in-reactjs-587h)
-- [JavaScript Basic Array Methods Explained for Beginners &lpar;Complete Guide&rpar;](https://dev.to/subash_4870e66d76ac024544/javascript-basic-array-methods-explained-for-beginners-complete-guide-17pa)
+- [ARIA Labels Done Wrong: The Most Common Mistakes I See in Production Code](https://dev.to/priya_nair/aria-labels-done-wrong-the-most-common-mistakes-i-see-in-production-code-39ga)
+- [TurboQuant on a MacBook: building a one-command local stack with Ollama, MLX, and an automatic routing proxy](https://dev.to/anderson_leite/turboquant-on-a-macbook-building-a-one-command-local-stack-with-ollama-mlx-and-an-automatic-4cn7)
+- [CLI Over MCP: Why AI Agents Need a Different Kind of Database Interface](https://dev.to/_4f268336f6580845cdc475/cli-over-mcp-why-ai-agents-need-a-different-kind-of-database-interface-4c98)
+- [Build a Motion-Triggered SMS Alert System with XIAO ESP32 S3 - No GSM Required](https://dev.to/david_thomas/build-a-motion-triggered-sms-alert-system-with-xiao-esp32-s3-no-gsm-required-4586)
+- [AWS Certified Cloud Practitioner Series – Part 2](https://dev.to/swayam_248/aws-certified-cloud-practitioner-series-part-2-44ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
