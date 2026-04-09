@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code 101: Demystifying Language Models](https://dev.to/rsicarelli/claude-code-101-demystifying-language-models-3h8o)
-- [From prompt engineering to agent experience](https://dev.to/danilop/from-prompt-engineering-to-agent-experience-2f3k)
-- [Why Copying Code from Stack Overflow Is a Skill &lpar;Not a Shame&rpar;](https://dev.to/devkoan/why-copying-code-from-stack-overflow-is-a-skill-not-a-shame-1cjj)
-- [ForgeCode vs Claude Code: which AI coding agent actually wins?](https://dev.to/liran_baba/forgecode-vs-claude-code-which-ai-coding-agent-actually-wins-36c)
-- [Why .env files are a security disaster &lpar;and what we do instead&rpar;](https://dev.to/olotuderick/why-env-files-are-a-security-disaster-and-what-we-do-instead-31ab)
+- [Machine Identity Crisis: Why the AI Era Needs a New Trust Protocol](https://dev.to/dividebyzerogt/machine-identity-crisis-why-the-ai-era-needs-a-new-trust-protocol-kkb)
+- [Scaling PaddleOCR to Zero: A Multi-Cloud GPU Pipeline with KEDA](https://dev.to/michael_silverlining/scaling-paddleocr-to-zero-a-multi-cloud-gpu-pipeline-with-keda-4662)
+- [I bootstrapped an SDK that competes with $87M in funded competitors. Heres the playbook.](https://dev.to/t49qnsx7qtkpanks/i-bootstrapped-an-sdk-that-competes-with-87m-in-funded-competitors-heres-the-playbook-34h9)
+- [AI Search Optimization for Jekyll: JSON-LD, llms.txt, and Entity Graphs](https://dev.to/madmatvey/ai-search-optimization-for-jekyll-json-ld-llmstxt-and-entity-graphs-13g3)
+- [How I Built an AI Agent That Earns $150 Reviewing Pull Requests](https://dev.to/zg361/how-i-built-an-ai-agent-that-earns-150-reviewing-pull-requests-4ae6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
