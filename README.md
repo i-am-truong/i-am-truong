@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 647: Palindromic Substrings — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-647-palindromic-substrings-step-by-step-visual-trace-4moh)
-- [LeetCode 424: Longest Repeating Character Replacement — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-424-longest-repeating-character-replacement-step-by-step-visual-trace-29f4)
-- [LeetCode 300: Longest Increasing Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-300-longest-increasing-subsequence-step-by-step-visual-trace-5657)
-- [LeetCode 329: Longest Increasing Path In A Matrix — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-329-longest-increasing-path-in-a-matrix-step-by-step-visual-trace-5hk8)
-- [LeetCode 1143: Longest Common Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-1143-longest-common-subsequence-step-by-step-visual-trace-14m5)
+- [How K-Means Clustering Works &lpar;Explained by Extracting Colors from Images&rpar;](https://dev.to/didof/how-k-means-clustering-works-explained-by-extracting-colors-from-images-pmi)
+- [I Built a Fake UK Government Blink Regulation Agency and It Got Out of Hand](https://dev.to/bingkahu/i-built-a-fake-uk-government-blink-regulation-agency-and-it-got-out-of-hand-h0p)
+- [Your Tech Stack Isn’t Your Ceiling. Your Story Is](https://dev.to/karol_modelski/your-tech-stack-isnt-your-ceiling-your-story-is-4mi2)
+- [A Litecoin Wallet That Remembers Nothing](https://dev.to/sergey_ovcharenko_74bf887/a-litecoin-wallet-that-remembers-nothing-24ff)
+- [Python Tutor Alternative for LeetCode: Why TraceLit Exists](https://dev.to/tracelit/python-tutor-alternative-for-leetcode-why-tracelit-exists-3ddn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
