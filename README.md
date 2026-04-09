@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Stateless&quot; AI Era is a Massive Engineering Tax](https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic)
-- [Why We&#39;re Building TurboDeploy - The Problem with Cloud Deployment in 2026](https://dev.to/parag477/why-were-building-turbodeploy-the-problem-with-cloud-deployment-in-2026-5977)
-- [CDK update - March 2026](https://dev.to/aws/cdk-update-march-2026-1ga8)
-- [I Described a Multi-Agent, Multi-Model System in Plain English. It Was Built in Seconds. Part 5/5](https://dev.to/jon_at_backboardio/i-described-a-multi-agent-multi-model-system-in-plain-english-it-was-built-in-seconds-part-55-59h)
-- [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e)
+- [Docker and Ansible: Setting Up a Reproducible On-Prem Stack in a Weekend](https://dev.to/danielgdk/docker-and-ansible-setting-up-a-reproducible-on-prem-stack-in-a-weekend-1h0d)
+- [Building DocProof: Proving Documents Exist Without Sharing Them](https://dev.to/danielgdk/building-docproof-proving-documents-exist-without-sharing-them-5d0m)
+- [Building DocProof: A Solo Dev Journey with AI as My Co-Pilot](https://dev.to/danielgdk/building-docproof-a-solo-dev-journey-with-ai-as-my-co-pilot-1221)
+- [Moving Off the Cloud: A Practical Guide to On-Premises Migration for Nordic SMBs](https://dev.to/danielgdk/moving-off-the-cloud-a-practical-guide-to-on-premises-migration-for-nordic-smbs-57ci)
+- [When to Modernize Your Legacy .NET Application &lpar;And When Not To&rpar;](https://dev.to/danielgdk/when-to-modernize-your-legacy-net-application-and-when-not-to-4bib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
