@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The XY Problem: How to spot it, stop it, and ask better questions](https://dev.to/adamgreenough/the-xy-problem-how-to-spot-it-stop-it-and-ask-better-questions-4ied)
-- [Page Proxy v0.2.x: the boring &quot;polishing&quot; work and why I think it matters](https://dev.to/orangishcat/page-proxy-v02x-the-boring-polishing-work-and-why-i-think-it-matters-2cea)
-- [UDP as a Serverless Event Source](https://dev.to/aws-builders/udp-as-a-serverless-event-source-2k03)
-- [From Cardboard to Code](https://dev.to/sebs/from-cardboard-to-code-29d5)
-- [&quot;Fresher Got ₹12 LPA Offer — Here&#39;s the Exact Skills Stack They Had&quot;](https://dev.to/devraj_singh7/fresher-got-12-lpa-offer-heres-the-exact-skills-stack-they-had-5bah)
+- [I Built an SEO API That Runs 14 Analysis Modules for $0.003 Per Call](https://dev.to/br0ski777/i-built-an-seo-api-that-runs-14-analysis-modules-for-0003-per-call-3h)
+- [What is the difference between ETL and ETL?](https://dev.to/cliffe_okoth/what-is-the-difference-between-etl-and-etl-3ok4)
+- [Your Kubernetes backups are lying to you](https://dev.to/isevenbe/your-kubernetes-backups-are-lying-to-you-2eb5)
+- [Why I’m finally open-sourcing my architectural work after 20 years building private enterprise systems](https://dev.to/sanadidari/why-im-finally-open-sourcing-my-architectural-work-after-20-years-building-private-enterprise-3ibn)
+- [Dev log &lpar;day 0&rpar;](https://dev.to/ocaiosilv/dev-log-day-0-4a7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
