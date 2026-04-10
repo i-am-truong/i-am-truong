@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.](https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095)
-- [Sourcery vs Ruff: Python Code Quality Comparison](https://dev.to/rahulxsingh/sourcery-vs-ruff-python-code-quality-comparison-b35)
-- [How to Build a CRUD Android App with Jetpack Compose and Room &lpar;Step by Step&rpar;](https://dev.to/developergb/how-to-build-a-crud-android-app-with-jetpack-compose-and-room-step-by-step-5b02)
-- [30 days of solo dev shipping: 9 projects, 1 VPS, no Docker — what I actually learned](https://dev.to/foxyyybusiness/30-days-of-solo-dev-shipping-9-projects-1-vps-no-docker-what-i-actually-learned-47a3)
-- [I Replaced My Job Application Spreadsheet With a Privacy-First Tracker](https://dev.to/silas_c/i-replaced-my-job-application-spreadsheet-with-a-privacy-first-tracker-42mj)
+- [Part 5: GitOps with ArgoCD](https://dev.to/matthewdipo/part-5-gitops-with-argocd-4p36)
+- [Cypress AI Skills: Teaching Your AI Assistant to Write Better Tests](https://dev.to/raju_dandigam/cypress-ai-skills-teaching-your-ai-assistant-to-write-better-tests-1dib)
+- [Objects in JS](https://dev.to/kavitha_krish/objects-in-js-23h6)
+- [BMad Builder: Creating Custom AI Agents for Your Domain &lpar;Part 3&rpar;](https://dev.to/bspann/bmad-builder-creating-custom-ai-agents-for-your-domain-part-3-4d05)
+- [What Happens When Your LLM Provider Bans Your Use Case Mid-Production](https://dev.to/fivenineslab_30/what-happens-when-your-llm-provider-bans-your-use-case-mid-production-59p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
