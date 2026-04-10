@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué es y para qué sirve AWS Kiro?](https://dev.to/byron_lainez/que-es-y-para-que-sirve-aws-kiro-2k0b)
-- [How to build Flexible Neural Networks from scratch in C++](https://dev.to/nalinangrish/how-to-build-flexible-neural-networks-from-scratch-in-c-i65)
-- [nylas webhook server — What It Does and How to Use It](https://dev.to/qasim157/nylas-webhook-server-what-it-does-and-how-to-use-it-21l3)
-- [12 Best Code Smell Detection Tools in 2026 - Complete Guide](https://dev.to/rahulxsingh/12-best-code-smell-detection-tools-in-2026-complete-guide-c76)
-- [E2E Email Testing with Playwright and Cypress — No Gmail Credentials Required](https://dev.to/qasim157/e2e-email-testing-with-playwright-and-cypress-no-gmail-credentials-required-33ig)
+- [The XY Problem: How to spot it, stop it, and ask better questions](https://dev.to/adamgreenough/the-xy-problem-how-to-spot-it-stop-it-and-ask-better-questions-4ied)
+- [Page Proxy v0.2.x: the boring &quot;polishing&quot; work and why I think it matters](https://dev.to/orangishcat/page-proxy-v02x-the-boring-polishing-work-and-why-i-think-it-matters-2cea)
+- [UDP as a Serverless Event Source](https://dev.to/aws-builders/udp-as-a-serverless-event-source-2k03)
+- [From Cardboard to Code](https://dev.to/sebs/from-cardboard-to-code-29d5)
+- [&quot;Fresher Got ₹12 LPA Offer — Here&#39;s the Exact Skills Stack They Had&quot;](https://dev.to/devraj_singh7/fresher-got-12-lpa-offer-heres-the-exact-skills-stack-they-had-5bah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
