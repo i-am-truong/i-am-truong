@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemma4 Tool Calling Fixes in llama.cpp, RTX cuBLAS MatMul Bug, &amp; Local Ollama + Whisper UI](https://dev.to/soytuber/gemma4-tool-calling-fixes-in-llamacpp-rtx-cublas-matmul-bug-local-ollama-whisper-ui-5emg)
-- [I Built a 50-Line RAG System That Saves Me 10x Tokens in Claude Code](https://dev.to/zaferdace/i-built-a-50-line-rag-system-that-saves-me-10x-tokens-in-claude-code-i1f)
-- [Security news weekly round-up - 10th April 2026](https://dev.to/ziizium/security-news-weekly-round-up-10th-april-2026-l5n)
-- [How to Look Up Verified Phone Numbers with TypeScript](https://dev.to/millionphones/how-to-look-up-verified-phone-numbers-with-typescript-3226)
-- [I Automated a Full Application Deployment with Azure DevOps, Terraform, and Ansible](https://dev.to/vivian_okose/i-automated-a-full-application-deployment-with-azure-devops-terraform-and-ansible-1gd1)
+- [¿Qué es y para qué sirve AWS Kiro?](https://dev.to/byron_lainez/que-es-y-para-que-sirve-aws-kiro-2k0b)
+- [How to build Flexible Neural Networks from scratch in C++](https://dev.to/nalinangrish/how-to-build-flexible-neural-networks-from-scratch-in-c-i65)
+- [nylas webhook server — What It Does and How to Use It](https://dev.to/qasim157/nylas-webhook-server-what-it-does-and-how-to-use-it-21l3)
+- [12 Best Code Smell Detection Tools in 2026 - Complete Guide](https://dev.to/rahulxsingh/12-best-code-smell-detection-tools-in-2026-complete-guide-c76)
+- [E2E Email Testing with Playwright and Cypress — No Gmail Credentials Required](https://dev.to/qasim157/e2e-email-testing-with-playwright-and-cypress-no-gmail-credentials-required-33ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
