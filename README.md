@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Most Valuable Signal on My Network Was Silence](https://dev.to/hiddenlayermedia/the-most-valuable-signal-on-my-network-was-silence-1gag)
-- [Advantages of Cryptocurrency and Blockchain](https://dev.to/tyler_biffle_1ca74cc0e8ee/advantages-of-cryptocurrency-and-blockchain-2b9l)
-- [Prompting from the Abyss: Why Your AI Only Gives You Boring Answers &lpar;And How to Fix It&rpar;](https://dev.to/hiddenlayermedia/prompting-from-the-abyss-why-your-ai-only-gives-you-boring-answers-and-how-to-fix-it-3p3b)
-- [DirectAdmin Altyapısı - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/directadmin-altyapisi-detayli-teknik-analiz-rehberi-2026-1adg)
-- [From Monolithic Prompts to Modular Context: A Practical Architecture for Agent Memory](https://dev.to/salt_creative/from-monolithic-prompts-to-modular-context-a-practical-architecture-for-agent-memory-1lcp)
+- [Citation Needed: Structured data extraction workflows](https://dev.to/patonw/citation-needed-structured-data-extraction-workflows-15dm)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-18em)
+- [PanelAlpha Launches Single Server Beta - Free Self-Hosted WordPress on Your Own VPS](https://dev.to/panelalpha/panelalpha-launches-single-server-beta-free-self-hosted-wordpress-on-your-vps-hbm)
+- [We didn&#39;t ask if we should. We asked how deep the tabs could go](https://dev.to/aditya_rasal/we-didnt-ask-if-we-should-we-asked-how-deep-the-tabs-could-go-4404)
+- [Next.js Uygulamalarında Dinamik Yönlendirme Nasıl Yapılır?](https://dev.to/forumweb/nextjs-uygulamalarinda-dinamik-yonlendirme-nasil-yapilir-5hjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
