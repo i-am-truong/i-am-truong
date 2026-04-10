@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside Anthropic&#39;s Project Glasswing: The AI Model That Found Zero-Days in Every Major OS](https://dev.to/om_shree_0709/inside-anthropics-project-glasswing-the-ai-model-that-found-zero-days-in-every-major-os-2g33)
-- [SoloEngine: Low-Code Agentic AI Development Platform with Native Support for Multi-Agent Collaboration, MCP, and Skill System](https://dev.to/sh4rlock/soloengine-low-code-agentic-ai-development-platform-with-native-support-for-multi-agent-3g58)
-- [RxJS in Angular — Chapter 6 | Error Handling — Building Apps That Don&#39;t Break](https://dev.to/jps27cse/rxjs-in-angular-chapter-6-error-handling-building-apps-that-dont-break-4i2)
-- [How to Choose a DevOps and IT Consulting Firm &lpar;Without Making a $200K Mistake&rpar;](https://dev.to/szglabs/how-to-choose-a-devops-and-it-consulting-firm-without-making-a-200k-mistake-52ko)
-- [Nano Agent, Mega Senses: Adding LSP to the 260-Line Coding Agent](https://dev.to/sshaaf/nano-agent-mega-senses-adding-lsp-to-the-260-line-coding-agent-3343)
+- [What Happened in Apache SeaTunnel? This March You Shouldn’t Miss](https://dev.to/seatunnel/what-happened-in-apache-seatunnel-this-march-you-shouldnt-miss-2l12)
+- [Microsoft OA High-Frequency Questions 2026](https://dev.to/programhelp-cs/microsoft-oa-high-frequency-questions-2026-4oih)
+- [What Artemis II Says About Systems Thinking, Safety, and Human Judgment](https://dev.to/daretechie/what-artemis-ii-says-about-systems-thinking-safety-and-human-judgment-4j0e)
+- [Déboguer un segfault dans une extension PHP/C : l&#39;histoire d&#39;un pointeur fantôme](https://dev.to/gromnan/deboguer-un-segfault-dans-une-extension-phpc-lhistoire-dun-pointeur-fantome-50af)
+- [How to Get Specific Validation Errors with Angular Signal Forms](https://dev.to/brianmtreese/how-to-get-specific-validation-errors-with-angular-signal-forms-27k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
