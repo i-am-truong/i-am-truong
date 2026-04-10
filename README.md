@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Citation Needed: Structured data extraction workflows](https://dev.to/patonw/citation-needed-structured-data-extraction-workflows-15dm)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-18em)
-- [PanelAlpha Launches Single Server Beta - Free Self-Hosted WordPress on Your Own VPS](https://dev.to/panelalpha/panelalpha-launches-single-server-beta-free-self-hosted-wordpress-on-your-vps-hbm)
-- [We didn&#39;t ask if we should. We asked how deep the tabs could go](https://dev.to/aditya_rasal/we-didnt-ask-if-we-should-we-asked-how-deep-the-tabs-could-go-4404)
-- [Next.js Uygulamalarında Dinamik Yönlendirme Nasıl Yapılır?](https://dev.to/forumweb/nextjs-uygulamalarinda-dinamik-yonlendirme-nasil-yapilir-5hjj)
+- [docker34](https://dev.to/query_filter_591122b53770/docker34-4kco)
+- [Build an Instagram Lead Bot With n8n &lpar;Full Workflow — No Code&rpar;](https://dev.to/grewup/build-an-instagram-lead-bot-with-n8n-full-workflow-no-code-4484)
+- [Server-Sent Events &lpar;SSE&rpar;](https://dev.to/hassanteslim007/server-sent-events-sse-k8a)
+- [Stop Writing Documentation From Scratch — Let AI Do It](https://dev.to/andreiasi_marian_b3b813dc/stop-writing-documentation-from-scratch-let-ai-do-it-eck)
+- [a Mac app that turns //TODO comments into GitHub issues automatically](https://dev.to/lrriedley/a-mac-app-that-turns-todo-comments-into-github-issues-automatically-1eg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
