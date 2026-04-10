@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [docker34](https://dev.to/query_filter_591122b53770/docker34-4kco)
-- [Build an Instagram Lead Bot With n8n &lpar;Full Workflow — No Code&rpar;](https://dev.to/grewup/build-an-instagram-lead-bot-with-n8n-full-workflow-no-code-4484)
-- [Server-Sent Events &lpar;SSE&rpar;](https://dev.to/hassanteslim007/server-sent-events-sse-k8a)
-- [Stop Writing Documentation From Scratch — Let AI Do It](https://dev.to/andreiasi_marian_b3b813dc/stop-writing-documentation-from-scratch-let-ai-do-it-eck)
-- [a Mac app that turns //TODO comments into GitHub issues automatically](https://dev.to/lrriedley/a-mac-app-that-turns-todo-comments-into-github-issues-automatically-1eg7)
+- [Reviewing AI Generated Work](https://dev.to/juststevemcd/reviewing-ai-generated-work-55p)
+- [Running A Better Table](https://dev.to/juststevemcd/running-a-better-table-4175)
+- [Managing Expectations in the AI Era](https://dev.to/juststevemcd/managing-expectations-in-the-ai-era-ogi)
+- [Building Modern Laravel APIs: Foundations and Project Structure](https://dev.to/juststevemcd/building-modern-laravel-apis-foundations-and-project-structure-3ich)
+- [Redefining Engineering Roles in the AI Era](https://dev.to/juststevemcd/redefining-engineering-roles-in-the-ai-era-4f4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
