@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Cache Management in Next.js 16: updateTag and revalidateTag](https://dev.to/mericcintosun/advanced-cache-management-in-nextjs-16-updatetag-and-revalidatetag-50j2)
-- [Voice-Controlled Local AI Agent](https://dev.to/dev_bhavsar/voice-controlled-local-ai-agent-3k1f)
-- [Teaching Machines to Understand Documents with Docling](https://dev.to/ritika-bhambri/a-deep-dive-into-docling-35d3)
-- [test](https://dev.to/mikeydorje/test-160h)
-- [ASCII Value](https://dev.to/vidya_cdd37fca763a53a10e2/ascii-value-26b5)
+- [Deepfakes Surged 2,137%. Courts Rewrote the Rules. Investigators Didn&#39;t.](https://dev.to/caracomp/deepfakes-surged-2137-courts-rewrote-the-rules-investigators-didnt-59e5)
+- [The Standup Chaos Simulator](https://dev.to/javz/the-standup-chaos-simulator-1ch8)
+- [From Futures to Runtimes: How Async Rust Actually Works](https://dev.to/rosewrightdev/from-futures-to-runtimes-how-async-rust-actually-works-4gec)
+- [AI Agent Monitoring: How to Observe Autonomous AI Agents in Production](https://dev.to/simran_kumari_464546e0a3c/ai-agent-monitoring-how-to-observe-autonomous-ai-agents-in-production-39a8)
+- [Drowned in Slack, Calls and Bugs: A QA Survival Guide](https://dev.to/sekillar/drowned-in-slack-calls-and-bugs-a-qa-survival-guide-599h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
