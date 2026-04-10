@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a 20KB Motion Engine because Svgator,Rive and Lottie were too heavy for the DOM](https://dev.to/habibeba/i-built-a-20kb-motion-engine-because-svgatorrive-and-lottie-were-too-heavy-for-the-dom-e6n)
-- [Notifee is Archived. Here’s a Maintained, New-Architecture Drop-in Replacement](https://dev.to/marco_crupi/notifee-is-archived-heres-a-maintained-new-architecture-drop-in-replacement-3ib5)
-- [Next.js ile Geliştirilen Uygulamalarda Yük Dengeleme Yöntemleri](https://dev.to/forumweb/nextjs-ile-gelistirilen-uygulamalarda-yuk-dengeleme-yontemleri-3a8e)
-- [The JavaScript Runtime: Fixing the Mental Model](https://dev.to/marshateo/the-javascript-runtime-fixing-the-mental-model-5f5b)
-- [JavaScript Event Loop Series: Building the Event Loop Mental Model from Experiments](https://dev.to/marshateo/javascript-event-loop-series-building-the-event-loop-mental-model-from-experiments-4d8i)
+- [Gemma4 Tool Calling Fixes in llama.cpp, RTX cuBLAS MatMul Bug, &amp; Local Ollama + Whisper UI](https://dev.to/soytuber/gemma4-tool-calling-fixes-in-llamacpp-rtx-cublas-matmul-bug-local-ollama-whisper-ui-5emg)
+- [I Built a 50-Line RAG System That Saves Me 10x Tokens in Claude Code](https://dev.to/zaferdace/i-built-a-50-line-rag-system-that-saves-me-10x-tokens-in-claude-code-i1f)
+- [Security news weekly round-up - 10th April 2026](https://dev.to/ziizium/security-news-weekly-round-up-10th-april-2026-l5n)
+- [How to Look Up Verified Phone Numbers with TypeScript](https://dev.to/millionphones/how-to-look-up-verified-phone-numbers-with-typescript-3226)
+- [I Automated a Full Application Deployment with Azure DevOps, Terraform, and Ansible](https://dev.to/vivian_okose/i-automated-a-full-application-deployment-with-azure-devops-terraform-and-ansible-1gd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
