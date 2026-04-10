@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Incident response / On-call: hardening &amp; best practices cho secret rotation &lpar;triệu chứng nguyên nhân cách fix&rpar;](https://dev.to/alexcarteruk/incident-response-on-call-hardening-best-practices-cho-secret-rotation-trieu-chung-nguyen-44kg)
-- [Unit Testing with Mocha and Chai: JS Guide](https://dev.to/rahulxsingh/unit-testing-with-mocha-and-chai-js-guide-1id4)
-- [How to Fine-Tune GPT-4o-mini on Your Own Guardrail Failures &lpar;50 Lines of Python&rpar;](https://dev.to/akhona_eland_072dac9e0c2c/how-to-fine-tune-gpt-4o-mini-on-your-own-guardrail-failures-50-lines-of-python-3l4n)
-- [Bridging the Silence: Building a Real-Time Sign Language Translator &lpar;Part 1&rpar;](https://dev.to/_iametornam/bridging-the-silence-building-a-real-time-sign-language-translator-part-1-1b8l)
-- [I Asked Claude Code to Scrape First Round. It Opened 30 Tabs at Once.](https://dev.to/senke0x/i-asked-claude-code-to-scrape-first-round-it-opened-30-tabs-at-once-1pf)
+- [I wrote a novel about personal AI in 2017. In 2026, I built it.](https://dev.to/hrajmohanr/i-wrote-a-novel-about-personal-ai-in-2017-in-2026-i-built-it-4g18)
+- [The $400M AI FinOps Gap: Why Cost Visibility Isn&#39;t the Same as Cost Control](https://dev.to/waxell/the-400m-ai-finops-gap-why-cost-visibility-isnt-the-same-as-cost-control-25m6)
+- [Playwright vs Cypress 2026: Which E2E Testing Framework Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/playwright-vs-cypress-2026-which-e2e-testing-framework-should-you-use-1kmo)
+- [Prisma vs Drizzle ORM 2026: Which TypeScript ORM Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/prisma-vs-drizzle-orm-2026-which-typescript-orm-should-you-use-2j15)
+- [Bun vs Node.js 2026: Should You Switch Runtimes?](https://dev.to/jake_kim_bd3065a6816799db/bun-vs-nodejs-2026-should-you-switch-runtimes-4dnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
