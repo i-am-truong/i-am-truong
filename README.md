@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 5: GitOps with ArgoCD](https://dev.to/matthewdipo/part-5-gitops-with-argocd-4p36)
-- [Cypress AI Skills: Teaching Your AI Assistant to Write Better Tests](https://dev.to/raju_dandigam/cypress-ai-skills-teaching-your-ai-assistant-to-write-better-tests-1dib)
-- [Objects in JS](https://dev.to/kavitha_krish/objects-in-js-23h6)
-- [BMad Builder: Creating Custom AI Agents for Your Domain &lpar;Part 3&rpar;](https://dev.to/bspann/bmad-builder-creating-custom-ai-agents-for-your-domain-part-3-4d05)
-- [What Happens When Your LLM Provider Bans Your Use Case Mid-Production](https://dev.to/fivenineslab_30/what-happens-when-your-llm-provider-bans-your-use-case-mid-production-59p7)
+- [I Rewrote 16 Plans From Scratch. The Code Was Fine. The Plans Were Rotting.](https://dev.to/connectengine/i-rewrote-16-plans-from-scratch-the-code-was-fine-the-plans-were-rotting-53ji)
+- [I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs](https://dev.to/leonardosalasd/i-got-tired-of-latex-so-i-built-a-zero-config-python-cli-to-turn-markdown-into-premium-pdfs-oob)
+- [$0.60 per session, just on orientation. Here is what my AI agent was doing before writing any code.](https://dev.to/thegdsks/060-per-session-just-on-orientation-here-is-what-my-ai-agent-was-doing-before-writing-any-code-28i5)
+- [The State of OCR in .NET &lpar;2026&rpar;: From Text Extraction to Real Pipelines](https://dev.to/woltw_dev/the-state-of-ocr-in-net-2026-from-text-extraction-to-real-pipelines-25cb)
+- [The Sort Algo Every Language Uses &lpar;Not Quicksort&rpar;](https://dev.to/neuraldownload/the-sort-algo-every-language-uses-not-quicksort-3lk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
