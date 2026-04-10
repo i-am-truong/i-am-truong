@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero‑Loss AI Agents](https://dev.to/securityleader/zero-loss-ai-agents-2gkf)
-- [ALB Deep Dive: HTTPS, Host Header Routing, dan CNAME tanpa Route53](https://dev.to/eryanfauzan/alb-deep-dive-https-host-header-routing-dan-cname-tanpa-route53-4pn6)
-- [How to Fetch Live Sports Odds via API with TypeScript &lpar;Bet365, Paddy Power &amp; More&rpar;](https://dev.to/pulsescore/how-to-fetch-live-sports-odds-via-api-with-typescript-bet365-paddy-power-more-o58)
-- [v2.3.0 — ComfyUI plug &amp; play, image-to-video on 6 GB VRAM, and uncensored image gen in a local AI desktop app](https://dev.to/purpledoubled/v230-comfyui-plug-play-image-to-video-on-6-gb-vram-and-uncensored-image-gen-in-a-local-ai-21a4)
-- [Querying Polymarket with Pandas in 5 lines](https://dev.to/lucas_jamar_a95f9f9ade44c/querying-polymarket-with-pandas-in-5-lines-2jcn)
+- [[Boost]](https://dev.to/erhannah/-2gpd)
+- [Building Embodied AI Memory: moteDB for Vectors, Time-Series and State](https://dev.to/motedb/building-embodied-ai-memory-motedb-for-vectors-time-series-and-state-14pk)
+- [Migrating from Coinglass to Funding Finder: a step-by-step walkthrough for funding-rate arbitrage traders](https://dev.to/foxyyybusiness/migrating-from-coinglass-to-funding-finder-a-step-by-step-walkthrough-for-funding-rate-arbitrage-324n)
+- [Certificate Transparency: A Practical Guide for DevOps and Security Engineers](https://dev.to/xdsai/certificate-transparency-a-practical-guide-for-devops-and-security-engineers-3gae)
+- [Seven crypto exchanges, one normalized schema, ~700 lines of Python](https://dev.to/foxyyybusiness/seven-crypto-exchanges-one-normalized-schema-700-lines-of-python-9p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
