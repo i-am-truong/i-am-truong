@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deepfakes Surged 2,137%. Courts Rewrote the Rules. Investigators Didn&#39;t.](https://dev.to/caracomp/deepfakes-surged-2137-courts-rewrote-the-rules-investigators-didnt-59e5)
-- [The Standup Chaos Simulator](https://dev.to/javz/the-standup-chaos-simulator-1ch8)
-- [From Futures to Runtimes: How Async Rust Actually Works](https://dev.to/rosewrightdev/from-futures-to-runtimes-how-async-rust-actually-works-4gec)
-- [AI Agent Monitoring: How to Observe Autonomous AI Agents in Production](https://dev.to/simran_kumari_464546e0a3c/ai-agent-monitoring-how-to-observe-autonomous-ai-agents-in-production-39a8)
-- [Drowned in Slack, Calls and Bugs: A QA Survival Guide](https://dev.to/sekillar/drowned-in-slack-calls-and-bugs-a-qa-survival-guide-599h)
+- [Soft-deleting Postgres rows without losing the URL slug](https://dev.to/danielrusnok/soft-deleting-postgres-rows-without-losing-the-url-slug-351k)
+- [Running AI coding agents safely with Docker Sandboxes and mise](https://dev.to/maxkrivich/running-ai-coding-agents-safely-with-docker-sandboxes-and-mise-3e2f)
+- [JWT Explained: What&#39;s Actually Inside a JSON Web Token](https://dev.to/sven_schuchardt_0aa51663a/jwt-explained-whats-actually-inside-a-json-web-token-3o0d)
+- [Khi AI Khiến Bạn Quên Cách Code](https://dev.to/david_chan_1994/khi-ai-khien-ban-quen-cach-code-2jno)
+- [Stop Putting Best Practices in Skills](https://dev.to/edysilva/stop-putting-best-practices-in-skills-3pof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
