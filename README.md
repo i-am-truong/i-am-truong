@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/erhannah/-2gpd)
-- [Building Embodied AI Memory: moteDB for Vectors, Time-Series and State](https://dev.to/motedb/building-embodied-ai-memory-motedb-for-vectors-time-series-and-state-14pk)
-- [Migrating from Coinglass to Funding Finder: a step-by-step walkthrough for funding-rate arbitrage traders](https://dev.to/foxyyybusiness/migrating-from-coinglass-to-funding-finder-a-step-by-step-walkthrough-for-funding-rate-arbitrage-324n)
-- [Certificate Transparency: A Practical Guide for DevOps and Security Engineers](https://dev.to/xdsai/certificate-transparency-a-practical-guide-for-devops-and-security-engineers-3gae)
-- [Seven crypto exchanges, one normalized schema, ~700 lines of Python](https://dev.to/foxyyybusiness/seven-crypto-exchanges-one-normalized-schema-700-lines-of-python-9p9)
+- [Maximize Performance in HTML5: Proven Techniques for Faster, Smoother Web Apps](https://dev.to/piya__c204c9e90/maximize-performance-in-html5-proven-techniques-for-faster-smoother-web-apps-4dh6)
+- [Create a mini-website with HTMLSave](https://dev.to/htmlsave/create-a-mini-website-with-htmlsave-4odi)
+- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
+- [PySpark to Pandas/scikit-learn: A Practical Migration Guide for Data Engineers Learning ML](https://dev.to/nyson_mark/pyspark-to-pandasscikit-learn-a-practical-migration-guide-for-data-engineers-learning-ml-2gij)
+- [Мини-интернет магазин на Django](https://dev.to/vagram123/mini-intierniet-maghazin-na-django-37hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
