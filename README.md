@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Rewrote 16 Plans From Scratch. The Code Was Fine. The Plans Were Rotting.](https://dev.to/connectengine/i-rewrote-16-plans-from-scratch-the-code-was-fine-the-plans-were-rotting-53ji)
-- [I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs](https://dev.to/leonardosalasd/i-got-tired-of-latex-so-i-built-a-zero-config-python-cli-to-turn-markdown-into-premium-pdfs-oob)
-- [$0.60 per session, just on orientation. Here is what my AI agent was doing before writing any code.](https://dev.to/thegdsks/060-per-session-just-on-orientation-here-is-what-my-ai-agent-was-doing-before-writing-any-code-28i5)
-- [The State of OCR in .NET &lpar;2026&rpar;: From Text Extraction to Real Pipelines](https://dev.to/woltw_dev/the-state-of-ocr-in-net-2026-from-text-extraction-to-real-pipelines-25cb)
-- [The Sort Algo Every Language Uses &lpar;Not Quicksort&rpar;](https://dev.to/neuraldownload/the-sort-algo-every-language-uses-not-quicksort-3lk2)
+- [Inside Anthropic&#39;s Project Glasswing: The AI Model That Found Zero-Days in Every Major OS](https://dev.to/om_shree_0709/inside-anthropics-project-glasswing-the-ai-model-that-found-zero-days-in-every-major-os-2g33)
+- [SoloEngine: Low-Code Agentic AI Development Platform with Native Support for Multi-Agent Collaboration, MCP, and Skill System](https://dev.to/sh4rlock/soloengine-low-code-agentic-ai-development-platform-with-native-support-for-multi-agent-3g58)
+- [RxJS in Angular — Chapter 6 | Error Handling — Building Apps That Don&#39;t Break](https://dev.to/jps27cse/rxjs-in-angular-chapter-6-error-handling-building-apps-that-dont-break-4i2)
+- [How to Choose a DevOps and IT Consulting Firm &lpar;Without Making a $200K Mistake&rpar;](https://dev.to/szglabs/how-to-choose-a-devops-and-it-consulting-firm-without-making-a-200k-mistake-52ko)
+- [Nano Agent, Mega Senses: Adding LSP to the 260-Line Coding Agent](https://dev.to/sshaaf/nano-agent-mega-senses-adding-lsp-to-the-260-line-coding-agent-3343)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
