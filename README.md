@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Cost-Aware Model Selection to Your AI Agent](https://dev.to/simonamsharp/how-to-add-cost-aware-model-selection-to-your-ai-agent-43mh)
-- [Rubber Duck Diffusion Platform](https://dev.to/jasperblank_14/rubber-duck-diffusion-platform-421i)
-- [I Tried Running LLMs on Intel&#39;s NPU. Here&#39;s What Actually Happened.](https://dev.to/mr1azl/i-tried-running-llms-on-intels-npu-heres-what-actually-happened-5h17)
-- [AI Model Pricing Is a Mess — Here Is How We Track It](https://dev.to/simonamsharp/ai-model-pricing-is-a-mess-here-is-how-we-track-it-1f05)
-- [How to Add Cost-Aware Model Selection to Your AI Agent](https://dev.to/simonamsharp/how-to-add-cost-aware-model-selection-to-your-ai-agent-5a3l)
+- [Advanced Cache Management in Next.js 16: updateTag and revalidateTag](https://dev.to/mericcintosun/advanced-cache-management-in-nextjs-16-updatetag-and-revalidatetag-50j2)
+- [Voice-Controlled Local AI Agent](https://dev.to/dev_bhavsar/voice-controlled-local-ai-agent-3k1f)
+- [Teaching Machines to Understand Documents with Docling](https://dev.to/ritika-bhambri/a-deep-dive-into-docling-35d3)
+- [test](https://dev.to/mikeydorje/test-160h)
+- [ASCII Value](https://dev.to/vidya_cdd37fca763a53a10e2/ascii-value-26b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
