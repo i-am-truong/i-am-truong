@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reviewing AI Generated Work](https://dev.to/juststevemcd/reviewing-ai-generated-work-55p)
-- [Running A Better Table](https://dev.to/juststevemcd/running-a-better-table-4175)
-- [Managing Expectations in the AI Era](https://dev.to/juststevemcd/managing-expectations-in-the-ai-era-ogi)
-- [Building Modern Laravel APIs: Foundations and Project Structure](https://dev.to/juststevemcd/building-modern-laravel-apis-foundations-and-project-structure-3ich)
-- [Redefining Engineering Roles in the AI Era](https://dev.to/juststevemcd/redefining-engineering-roles-in-the-ai-era-4f4a)
+- [I built a 20KB Motion Engine because Svgator,Rive and Lottie were too heavy for the DOM](https://dev.to/habibeba/i-built-a-20kb-motion-engine-because-svgatorrive-and-lottie-were-too-heavy-for-the-dom-e6n)
+- [Notifee is Archived. Here’s a Maintained, New-Architecture Drop-in Replacement](https://dev.to/marco_crupi/notifee-is-archived-heres-a-maintained-new-architecture-drop-in-replacement-3ib5)
+- [Next.js ile Geliştirilen Uygulamalarda Yük Dengeleme Yöntemleri](https://dev.to/forumweb/nextjs-ile-gelistirilen-uygulamalarda-yuk-dengeleme-yontemleri-3a8e)
+- [The JavaScript Runtime: Fixing the Mental Model](https://dev.to/marshateo/the-javascript-runtime-fixing-the-mental-model-5f5b)
+- [JavaScript Event Loop Series: Building the Event Loop Mental Model from Experiments](https://dev.to/marshateo/javascript-event-loop-series-building-the-event-loop-mental-model-from-experiments-4d8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
