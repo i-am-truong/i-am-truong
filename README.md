@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Friday Shipped &amp; Scarred #3: PC Workman 1.7.1, The Foundation Great Release](https://dev.to/huckler/friday-shipped-scarred-3-pc-workman-171-the-foundation-great-release-10aj)
-- [What are the Hidden Costs in Mobile App Development Projects?](https://dev.to/dhruvjoshi9/what-are-the-hidden-costs-in-mobile-app-development-projects-22pn)
-- [A Cognitive Neuroscience Study in Multi-Agent Box-Pushing Adversarial Games](https://dev.to/sengseng/a-cognitive-neuroscience-study-in-multi-agent-box-pushing-adversarial-games-4c5m)
-- [GDPR Cookie Consent for Developers: What You Actually Need to Build](https://dev.to/aaresvictor/gdpr-cookie-consent-for-developers-what-you-actually-need-to-build-5f5e)
-- [Hyperparameter Optimization: Grid vs Random vs Bayesian](https://dev.to/berkan_sesen/hyperparameter-optimization-grid-vs-random-vs-bayesian-gik)
+- [Zero‑Loss AI Agents](https://dev.to/securityleader/zero-loss-ai-agents-2gkf)
+- [ALB Deep Dive: HTTPS, Host Header Routing, dan CNAME tanpa Route53](https://dev.to/eryanfauzan/alb-deep-dive-https-host-header-routing-dan-cname-tanpa-route53-4pn6)
+- [How to Fetch Live Sports Odds via API with TypeScript &lpar;Bet365, Paddy Power &amp; More&rpar;](https://dev.to/pulsescore/how-to-fetch-live-sports-odds-via-api-with-typescript-bet365-paddy-power-more-o58)
+- [v2.3.0 — ComfyUI plug &amp; play, image-to-video on 6 GB VRAM, and uncensored image gen in a local AI desktop app](https://dev.to/purpledoubled/v230-comfyui-plug-play-image-to-video-on-6-gb-vram-and-uncensored-image-gen-in-a-local-ai-21a4)
+- [Querying Polymarket with Pandas in 5 lines](https://dev.to/lucas_jamar_a95f9f9ade44c/querying-polymarket-with-pandas-in-5-lines-2jcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
