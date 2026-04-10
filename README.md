@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Performance in HTML5: Proven Techniques for Faster, Smoother Web Apps](https://dev.to/piya__c204c9e90/maximize-performance-in-html5-proven-techniques-for-faster-smoother-web-apps-4dh6)
-- [Create a mini-website with HTMLSave](https://dev.to/htmlsave/create-a-mini-website-with-htmlsave-4odi)
-- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
-- [PySpark to Pandas/scikit-learn: A Practical Migration Guide for Data Engineers Learning ML](https://dev.to/nyson_mark/pyspark-to-pandasscikit-learn-a-practical-migration-guide-for-data-engineers-learning-ml-2gij)
-- [Мини-интернет магазин на Django](https://dev.to/vagram123/mini-intierniet-maghazin-na-django-37hh)
+- [Incident response / On-call: hardening &amp; best practices cho secret rotation &lpar;triệu chứng nguyên nhân cách fix&rpar;](https://dev.to/alexcarteruk/incident-response-on-call-hardening-best-practices-cho-secret-rotation-trieu-chung-nguyen-44kg)
+- [Unit Testing with Mocha and Chai: JS Guide](https://dev.to/rahulxsingh/unit-testing-with-mocha-and-chai-js-guide-1id4)
+- [How to Fine-Tune GPT-4o-mini on Your Own Guardrail Failures &lpar;50 Lines of Python&rpar;](https://dev.to/akhona_eland_072dac9e0c2c/how-to-fine-tune-gpt-4o-mini-on-your-own-guardrail-failures-50-lines-of-python-3l4n)
+- [Bridging the Silence: Building a Real-Time Sign Language Translator &lpar;Part 1&rpar;](https://dev.to/_iametornam/bridging-the-silence-building-a-real-time-sign-language-translator-part-1-1b8l)
+- [I Asked Claude Code to Scrape First Round. It Opened 30 Tabs at Once.](https://dev.to/senke0x/i-asked-claude-code-to-scrape-first-round-it-opened-30-tabs-at-once-1pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
