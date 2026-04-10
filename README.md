@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a novel about personal AI in 2017. In 2026, I built it.](https://dev.to/hrajmohanr/i-wrote-a-novel-about-personal-ai-in-2017-in-2026-i-built-it-4g18)
-- [The $400M AI FinOps Gap: Why Cost Visibility Isn&#39;t the Same as Cost Control](https://dev.to/waxell/the-400m-ai-finops-gap-why-cost-visibility-isnt-the-same-as-cost-control-25m6)
-- [Playwright vs Cypress 2026: Which E2E Testing Framework Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/playwright-vs-cypress-2026-which-e2e-testing-framework-should-you-use-1kmo)
-- [Prisma vs Drizzle ORM 2026: Which TypeScript ORM Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/prisma-vs-drizzle-orm-2026-which-typescript-orm-should-you-use-2j15)
-- [Bun vs Node.js 2026: Should You Switch Runtimes?](https://dev.to/jake_kim_bd3065a6816799db/bun-vs-nodejs-2026-should-you-switch-runtimes-4dnd)
+- [How to Add Cost-Aware Model Selection to Your AI Agent](https://dev.to/simonamsharp/how-to-add-cost-aware-model-selection-to-your-ai-agent-43mh)
+- [Rubber Duck Diffusion Platform](https://dev.to/jasperblank_14/rubber-duck-diffusion-platform-421i)
+- [I Tried Running LLMs on Intel&#39;s NPU. Here&#39;s What Actually Happened.](https://dev.to/mr1azl/i-tried-running-llms-on-intels-npu-heres-what-actually-happened-5h17)
+- [AI Model Pricing Is a Mess — Here Is How We Track It](https://dev.to/simonamsharp/ai-model-pricing-is-a-mess-here-is-how-we-track-it-1f05)
+- [How to Add Cost-Aware Model Selection to Your AI Agent](https://dev.to/simonamsharp/how-to-add-cost-aware-model-selection-to-your-ai-agent-5a3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
