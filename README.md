@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Happened in Apache SeaTunnel? This March You Shouldn’t Miss](https://dev.to/seatunnel/what-happened-in-apache-seatunnel-this-march-you-shouldnt-miss-2l12)
-- [Microsoft OA High-Frequency Questions 2026](https://dev.to/programhelp-cs/microsoft-oa-high-frequency-questions-2026-4oih)
-- [What Artemis II Says About Systems Thinking, Safety, and Human Judgment](https://dev.to/daretechie/what-artemis-ii-says-about-systems-thinking-safety-and-human-judgment-4j0e)
-- [Déboguer un segfault dans une extension PHP/C : l&#39;histoire d&#39;un pointeur fantôme](https://dev.to/gromnan/deboguer-un-segfault-dans-une-extension-phpc-lhistoire-dun-pointeur-fantome-50af)
-- [How to Get Specific Validation Errors with Angular Signal Forms](https://dev.to/brianmtreese/how-to-get-specific-validation-errors-with-angular-signal-forms-27k2)
+- [Friday Shipped &amp; Scarred #3: PC Workman 1.7.1, The Foundation Great Release](https://dev.to/huckler/friday-shipped-scarred-3-pc-workman-171-the-foundation-great-release-10aj)
+- [What are the Hidden Costs in Mobile App Development Projects?](https://dev.to/dhruvjoshi9/what-are-the-hidden-costs-in-mobile-app-development-projects-22pn)
+- [A Cognitive Neuroscience Study in Multi-Agent Box-Pushing Adversarial Games](https://dev.to/sengseng/a-cognitive-neuroscience-study-in-multi-agent-box-pushing-adversarial-games-4c5m)
+- [GDPR Cookie Consent for Developers: What You Actually Need to Build](https://dev.to/aaresvictor/gdpr-cookie-consent-for-developers-what-you-actually-need-to-build-5f5e)
+- [Hyperparameter Optimization: Grid vs Random vs Bayesian](https://dev.to/berkan_sesen/hyperparameter-optimization-grid-vs-random-vs-bayesian-gik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
