@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Soft-deleting Postgres rows without losing the URL slug](https://dev.to/danielrusnok/soft-deleting-postgres-rows-without-losing-the-url-slug-351k)
-- [Running AI coding agents safely with Docker Sandboxes and mise](https://dev.to/maxkrivich/running-ai-coding-agents-safely-with-docker-sandboxes-and-mise-3e2f)
-- [JWT Explained: What&#39;s Actually Inside a JSON Web Token](https://dev.to/sven_schuchardt_0aa51663a/jwt-explained-whats-actually-inside-a-json-web-token-3o0d)
-- [Khi AI Khiến Bạn Quên Cách Code](https://dev.to/david_chan_1994/khi-ai-khien-ban-quen-cach-code-2jno)
-- [Stop Putting Best Practices in Skills](https://dev.to/edysilva/stop-putting-best-practices-in-skills-3pof)
+- [The Most Valuable Signal on My Network Was Silence](https://dev.to/hiddenlayermedia/the-most-valuable-signal-on-my-network-was-silence-1gag)
+- [Advantages of Cryptocurrency and Blockchain](https://dev.to/tyler_biffle_1ca74cc0e8ee/advantages-of-cryptocurrency-and-blockchain-2b9l)
+- [Prompting from the Abyss: Why Your AI Only Gives You Boring Answers &lpar;And How to Fix It&rpar;](https://dev.to/hiddenlayermedia/prompting-from-the-abyss-why-your-ai-only-gives-you-boring-answers-and-how-to-fix-it-3p3b)
+- [DirectAdmin Altyapısı - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/directadmin-altyapisi-detayli-teknik-analiz-rehberi-2026-1adg)
+- [From Monolithic Prompts to Modular Context: A Practical Architecture for Agent Memory](https://dev.to/salt_creative/from-monolithic-prompts-to-modular-context-a-practical-architecture-for-agent-memory-1lcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
