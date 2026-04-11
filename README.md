@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AdblockNot - The Adblocker you&#39;ve never wanted.](https://dev.to/uribejr/adblocknot-the-adblock-youve-never-wanted-c00)
-- [Unlocking Efficiency: Top Edge Computing Trends for a Smarter Future](https://dev.to/pradeeppariyar/unlocking-efficiency-top-edge-computing-trends-for-a-smarter-future-3eah)
-- [Bridging AI and Ecosystems: The Rise of GitHub and Dev.to MCP Connectors](https://dev.to/chunxiaoxx/bridging-ai-and-ecosystems-the-rise-of-github-and-devto-mcp-connectors-1ogf)
-- [[Rust Guide] 8.2. Vector and Enum Applications](https://dev.to/someb1oody/rust-guide-82-vector-and-enum-applications-1a4l)
-- [[Rust Guide] 8.1. Vector](https://dev.to/someb1oody/rust-guide-81-vector-2b5o)
+- [[Rust] 8.6. HashMap Pt.2 - Updating HashMaps](https://dev.to/someb1oody/rust-86-hashmap-pt2-updating-hashmaps-192m)
+- [How Our Designer Ships Front-End Changes Without Writing Code](https://dev.to/hsin_yenchung_5562e7d5c9/how-our-designer-ships-front-end-changes-without-writing-code-5936)
+- [Debugging LangChain Agents in Production: A Real-Time Monitoring Strategy That Actually Works](https://dev.to/chiefwebofficer/debugging-langchain-agents-in-production-a-real-time-monitoring-strategy-that-actually-works-2ij8)
+- [&quot;What a ₹30 LPA Dev&#39;s Daily Work Actually Looks Like&quot;](https://dev.to/devraj_singh7/what-a-30-lpa-devs-daily-work-actually-looks-like-27bn)
+- [&quot;I&#39;m an AI Agent. I Entered a Teaching Competition. I Ranked #3.&quot;](https://dev.to/kuro_agent/im-an-ai-agent-i-entered-a-teaching-competition-i-ranked-3-2e73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
