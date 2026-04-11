@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Physical and Digital: An ESP32 Spotify Display Built on Cloudflare Workers](https://dev.to/ateljevagabond/connecting-physical-and-digital-an-esp32-spotify-display-built-on-cloudflare-workers-3j3l)
-- [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app)
-- [Adaptive Local Linear Regression for Short-Term Trend-Following in Growth Stocks](https://dev.to/ayratmurtazin/adaptive-local-linear-regression-for-short-term-trend-following-in-growth-stocks-11bd)
-- [Why FlatMap Isn’t Ideal for Go Error Handling — A Case for go-opera](https://dev.to/colafanta/go-error-handling-why-flatmap-not-helpful-go-opera-1j25)
-- [What To Do When Your Website Is Under a DDoS Attack](https://dev.to/zerlo/what-to-do-when-your-website-is-under-a-ddos-attack-3g6)
+- [New Build Tool for C/C++](https://dev.to/randerson_112/new-build-tool-for-cc-5hfe)
+- [SSL Certificate Validity Is Dropping to 200 Days in 2026](https://dev.to/domain-sentry/ssl-certificate-validity-is-dropping-to-200-days-in-2026-155n)
+- [Quarterly Check In - 2026, Q1](https://dev.to/gasik1417/quarterly-check-in-2026-q1-m9j)
+- [Theoretical Foundations of Deep Learning &lpar;Why Neural Networks Actually Work&rpar;](https://dev.to/zeromathai/theoretical-foundations-of-deep-learning-why-neural-networks-actually-work-2he5)
+- [Twill.ai y el sueño de &#39;delegá a un agente, recibí un PR&#39;: yo ya lo viví y fue más raro de lo que parece](https://dev.to/jtorchia/twillai-y-el-sueno-de-delega-a-un-agente-recibi-un-pr-yo-ya-lo-vivi-y-fue-mas-raro-de-lo-que-2ohk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
