@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating To Neovim v0.12.0 Challenge Faced And Solution Found](https://dev.to/kevinasaria/migrating-to-neovim-v0120-challenge-faced-and-solution-found-6f)
-- [This Tea Platform Uses Kubernetes, Chaos Monkey, and Still Does Nothing](https://dev.to/robin-ivi/brewflow-pro-i-built-a-kubernetes-native-microserviced-rfc-2324-compliant-tea-brewing-platform-4ch3)
-- [Download YouTube Thumbnails for Free — Any Video, Max Resolution, No Login](https://dev.to/shaishav_patel_271fdcd61a/download-youtube-thumbnails-for-free-any-video-max-resolution-no-login-pmp)
-- [The 90%-Done Paradox](https://dev.to/js402/the-90-done-paradox-31e1)
-- [I wanted to build an Agent Memory System and blundered my way into 92% on LongMemEval](https://dev.to/shane-farkas/i-wanted-to-build-an-agent-memory-system-and-blundered-my-way-into-92-on-longmemeval-3b27)
+- [My JSON-LD schemas were silently broken — until I found @graph](https://dev.to/alamin_c5eb10132845723c2b/my-json-ld-schemas-were-silently-broken-until-i-found-graph-182e)
+- [How Do You Actually Integrate Jira and CI/CD Into a Real Web Application?](https://dev.to/programmer4web/how-do-you-actually-integrate-jira-and-cicd-into-a-real-web-application-417d)
+- [kasetto - declarative AI agent environment manager, written in Rust](https://dev.to/pivoshenko/kasetto-declarative-ai-agent-environment-manager-written-in-rust-34kf)
+- [Why PostgreSQL Ignores Your Index &lpar;Sometimes&rpar;, Entry #2](https://dev.to/fluffyfi3/why-postgresql-ignores-your-index-sometimes-entry-2-42p1)
+- [SEO Web Checker: Find and Fix Ranking Issues Fast &lpar;2026 Guide&rpar;](https://dev.to/mitudas/seo-web-checker-find-and-fix-ranking-issues-fast-2026-guide-40e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
