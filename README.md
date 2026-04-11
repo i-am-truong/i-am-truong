@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using useState for Forms: The React Hook Form + Zod Architecture](https://dev.to/iprajapatiparesh/stop-using-usestate-for-forms-the-react-hook-form-zod-architecture-15p1)
-- [Fixing Claude’s Image Problem — Because I Can Fix Her](https://dev.to/ismail9k/fixing-claudes-image-problem-because-i-can-fix-her-1o1a)
-- [The OpenAPI Initiative just merged our new extension called x-agent-trust into its official extensions registry for AI Agents](https://dev.to/razashariff/the-openapi-initiative-just-merged-our-new-extension-called-x-agent-trust-into-its-official-1of9)
-- [Building an Autonomous Coding Agent in Rust: Architecture, Decisions, and What I Learned](https://dev.to/radotsvetkov/building-an-autonomous-coding-agent-in-rust-architecture-decisions-and-what-i-learned-3p2a)
-- [The Court Jester: An Anti-Productivity Extension](https://dev.to/mabuhann/the-court-jester-an-anti-productivity-extension-4n8e)
+- [Tuning PHP-FPM for Laravel: Workers, Memory, and Process Management](https://dev.to/deploynix/tuning-php-fpm-for-laravel-workers-memory-and-process-management-n32)
+- [PostgreSQL Connection Pooling: PgBouncer, Supavisor &amp; Built-In](https://dev.to/philip_mcclarence_2ef9475/postgresql-connection-pooling-pgbouncer-supavisor-built-in-3i4c)
+- [Fake SOC 2 and ISO 27001 Certifications Are Spreading Across Dev Tools](https://dev.to/rahulxsingh/fake-soc-2-and-iso-27001-certifications-are-spreading-across-dev-tools-48f9)
+- [bonk.exe — an indie chaos game where a Shiba judges your existence 🐕💀](https://dev.to/shreya_9f4fdf67b8c92d72da/bonkexe-an-indie-chaos-game-where-a-shiba-judges-your-existence-f1e)
+- [Learning to Contribute to FOSS Projects](https://dev.to/tekk74/fork-to-pull-request-the-foss-contribution-workflow-explained-2cd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
