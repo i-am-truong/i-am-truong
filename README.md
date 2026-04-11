@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Extension: Aftermark](https://dev.to/davidcanhelp/chrome-extension-aftermark-a)
-- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
-- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
-- [@NotBlank vs @Column&lpar;nullable = false&rpar; vs @NotNull — Which one should you use?](https://dev.to/babisha_s/notblank-vs-columnnullable-false-vs-notnull-which-one-should-you-use-27e9)
-- [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-453-can-jia-ji-lu-tojie-da-li-a-cwen-ti--534f)
+- [Connecting Physical and Digital: An ESP32 Spotify Display Built on Cloudflare Workers](https://dev.to/ateljevagabond/connecting-physical-and-digital-an-esp32-spotify-display-built-on-cloudflare-workers-3j3l)
+- [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app)
+- [Adaptive Local Linear Regression for Short-Term Trend-Following in Growth Stocks](https://dev.to/ayratmurtazin/adaptive-local-linear-regression-for-short-term-trend-following-in-growth-stocks-11bd)
+- [Why FlatMap Isn’t Ideal for Go Error Handling — A Case for go-opera](https://dev.to/colafanta/go-error-handling-why-flatmap-not-helpful-go-opera-1j25)
+- [What To Do When Your Website Is Under a DDoS Attack](https://dev.to/zerlo/what-to-do-when-your-website-is-under-a-ddos-attack-3g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
