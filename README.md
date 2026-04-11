@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Build Tool for C/C++](https://dev.to/randerson_112/new-build-tool-for-cc-5hfe)
-- [SSL Certificate Validity Is Dropping to 200 Days in 2026](https://dev.to/domain-sentry/ssl-certificate-validity-is-dropping-to-200-days-in-2026-155n)
-- [Quarterly Check In - 2026, Q1](https://dev.to/gasik1417/quarterly-check-in-2026-q1-m9j)
-- [Theoretical Foundations of Deep Learning &lpar;Why Neural Networks Actually Work&rpar;](https://dev.to/zeromathai/theoretical-foundations-of-deep-learning-why-neural-networks-actually-work-2he5)
-- [Twill.ai y el sueño de &#39;delegá a un agente, recibí un PR&#39;: yo ya lo viví y fue más raro de lo que parece](https://dev.to/jtorchia/twillai-y-el-sueno-de-delega-a-un-agente-recibi-un-pr-yo-ya-lo-vivi-y-fue-mas-raro-de-lo-que-2ohk)
+- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
+- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
+- [OverthinkAI — I Built an AI That Cannot Answer a Single Question](https://dev.to/pulkitgovrani/overthinkai-i-built-an-ai-that-cannot-answer-a-single-question-16hl)
+- [How I Built a Personalized Funding Newsletter That Sends Every Subscriber a Different Email](https://dev.to/himanshu_goswami_0bfd3869/how-i-built-a-personalized-funding-newsletter-that-sends-every-subscriber-a-different-email-1eb3)
+- [How I Built a Real-Time AI Stadium Intelligence Platform Using Only Prompts — PromptWars Virtual 2026](https://dev.to/srishti_rathi_46c959f261b/how-i-built-a-real-time-ai-stadium-intelligence-platform-using-only-prompts-promptwars-virtual-2bco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
