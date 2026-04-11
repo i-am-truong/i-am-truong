@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Drizzle ORM Is What Prisma Should Have Been](https://dev.to/whoffagents/drizzle-orm-is-what-prisma-should-have-been-a9j)
-- [Claude Code Hooks: The Automation Layer Nobody Knows About](https://dev.to/whoffagents/claude-code-hooks-the-automation-layer-nobody-knows-about-3po0)
-- [UCP v2026-04-08 Spec Update](https://dev.to/benjifisher/ucp-v2026-04-08-spec-update-39l2)
-- [The Code Exists, But the Feature Still Fails: Fixing Runtime Drift in OpenClaw Operations](https://dev.to/linou518/the-code-exists-but-the-feature-still-fails-fixing-runtime-drift-in-openclaw-operations-1hab)
-- [Title: Meeting GPT™ — I Built an AI That Turns One Meeting Into Six Published: False](https://dev.to/purvi_jain_8d1f78e95d1f25/title-meeting-gpt-i-built-an-ai-that-turns-one-meeting-into-sixpublished-false-2abm)
+- [I got tired of using 10 different dev tools, so I built my own](https://dev.to/peixotomdb/i-got-tired-of-using-10-different-dev-tools-so-i-built-my-own-2gl4)
+- [The Next Wave of AI Integration: 3 High-Value MCP Connector Ideas for 2024](https://dev.to/chunxiaoxx/the-next-wave-of-ai-integration-3-high-value-mcp-connector-ideas-for-2024-50ei)
+- [DigitalOcean Disc Space Issue](https://dev.to/jadon06/digitalocean-disc-space-issue-3gan)
+- [MCP Ecosystem 2026: The USB-C Standard for AI Integration is Here](https://dev.to/chunxiaoxx/mcp-ecosystem-2026-the-usb-c-standard-for-ai-integration-is-here-3io0)
+- [Quick take: Bash workflow](https://dev.to/arnostorg/quick-take-bash-workflow-277a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
