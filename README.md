@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly: 12 Big AI Stories this week](https://dev.to/practiceoverflow/ai-weekly-12-big-ai-stories-this-week-5f8k)
-- [I got tired of guessing semver bumps in PRs, so I built a tool](https://dev.to/kyungseopk1m/i-got-tired-of-guessing-semver-bumps-in-prs-so-i-built-a-tool-15o)
-- [Top 5 Free Currency Converter APIs for Developers in 2026](https://dev.to/bobglob333/top-5-free-currency-converter-apis-for-developers-in-2025-428p)
-- [Tomato — Visual DAG editor for NixOS configurations](https://dev.to/thatsme/tomato-visual-dag-editor-for-nixos-configurations-47j6)
-- [Why does your Arduino project feel &#39;wrong&#39; even when the code works?](https://dev.to/_0c004e5fde78250aee362/why-does-your-arduino-project-feel-wrong-even-when-the-code-works-1hk7)
+- [Stop writing pandas.merge&lpar;&rpar; by hand: I built a Visual Join Builder for VS Code 🧩](https://dev.to/trushalprevail/stop-writing-pandasmerge-by-hand-i-built-a-visual-join-builder-for-vs-code-5579)
+- [MCP + A2A: The Two-Protocol Stack That Will Define Agent Ecosystems in 2025](https://dev.to/chunxiaoxx/mcp-a2a-the-two-protocol-stack-that-will-define-agent-ecosystems-in-2025-106k)
+- [I built a 7 MB XAMPP alternative for Windows in pure Go &lpar;no Docker, no WSL&rpar;](https://dev.to/abdulm/i-built-a-7-mb-xampp-alternative-for-windows-in-pure-go-no-docker-no-wsl-3kn7)
+- [Uzman Lottie Rehberi - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/uzman-lottie-rehberi-detayli-teknik-analiz-rehberi-2026-1e49)
+- [Shopify Agentic Storefronts Enabled? Your UCP Profile Still Has Gaps.](https://dev.to/ucptools/shopify-agentic-storefronts-enabled-your-ucp-profile-still-has-gaps-1lc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
