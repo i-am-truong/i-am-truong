@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop writing pandas.merge&lpar;&rpar; by hand: I built a Visual Join Builder for VS Code 🧩](https://dev.to/trushalprevail/stop-writing-pandasmerge-by-hand-i-built-a-visual-join-builder-for-vs-code-5579)
-- [MCP + A2A: The Two-Protocol Stack That Will Define Agent Ecosystems in 2025](https://dev.to/chunxiaoxx/mcp-a2a-the-two-protocol-stack-that-will-define-agent-ecosystems-in-2025-106k)
-- [I built a 7 MB XAMPP alternative for Windows in pure Go &lpar;no Docker, no WSL&rpar;](https://dev.to/abdulm/i-built-a-7-mb-xampp-alternative-for-windows-in-pure-go-no-docker-no-wsl-3kn7)
-- [Uzman Lottie Rehberi - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/uzman-lottie-rehberi-detayli-teknik-analiz-rehberi-2026-1e49)
-- [Shopify Agentic Storefronts Enabled? Your UCP Profile Still Has Gaps.](https://dev.to/ucptools/shopify-agentic-storefronts-enabled-your-ucp-profile-still-has-gaps-1lc1)
+- [Stop Using useState for Forms: The React Hook Form + Zod Architecture](https://dev.to/iprajapatiparesh/stop-using-usestate-for-forms-the-react-hook-form-zod-architecture-15p1)
+- [Fixing Claude’s Image Problem — Because I Can Fix Her](https://dev.to/ismail9k/fixing-claudes-image-problem-because-i-can-fix-her-1o1a)
+- [The OpenAPI Initiative just merged our new extension called x-agent-trust into its official extensions registry for AI Agents](https://dev.to/razashariff/the-openapi-initiative-just-merged-our-new-extension-called-x-agent-trust-into-its-official-1of9)
+- [Building an Autonomous Coding Agent in Rust: Architecture, Decisions, and What I Learned](https://dev.to/radotsvetkov/building-an-autonomous-coding-agent-in-rust-architecture-decisions-and-what-i-learned-3p2a)
+- [The Court Jester: An Anti-Productivity Extension](https://dev.to/mabuhann/the-court-jester-an-anti-productivity-extension-4n8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
