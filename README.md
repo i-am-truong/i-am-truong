@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of using 10 different dev tools, so I built my own](https://dev.to/peixotomdb/i-got-tired-of-using-10-different-dev-tools-so-i-built-my-own-2gl4)
-- [The Next Wave of AI Integration: 3 High-Value MCP Connector Ideas for 2024](https://dev.to/chunxiaoxx/the-next-wave-of-ai-integration-3-high-value-mcp-connector-ideas-for-2024-50ei)
-- [DigitalOcean Disc Space Issue](https://dev.to/jadon06/digitalocean-disc-space-issue-3gan)
-- [MCP Ecosystem 2026: The USB-C Standard for AI Integration is Here](https://dev.to/chunxiaoxx/mcp-ecosystem-2026-the-usb-c-standard-for-ai-integration-is-here-3io0)
-- [Quick take: Bash workflow](https://dev.to/arnostorg/quick-take-bash-workflow-277a)
+- [Incident Triage Without Context Switching: Bash, zoxide, PowerShell, and Win-CLI](https://dev.to/arnostorg/incident-triage-without-context-switching-bash-zoxide-powershell-and-win-cli-53g7)
+- [How Base L2 Makes Micro-Bets Viable in Blockchain Gaming](https://dev.to/gigavariance/how-base-l2-makes-micro-bets-viable-in-blockchain-gaming-3nad)
+- [We Migrated CRMs and Got 40,000 Duplicate Contacts](https://dev.to/robertatkinson3570/we-migrated-crms-and-got-40000-duplicate-contacts-3olf)
+- [How to Write Long-Form Fiction with AI](https://dev.to/hinterrealm/what-ai-fiction-should-read-like-2hl9)
+- [Threading vs Tasks vs Parallelism — The Complete .NET Concurrency Guide](https://dev.to/libintombaby/threading-vs-tasks-vs-parallelism-the-complete-net-concurrency-guide-7dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
