@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a metaframework](https://dev.to/fyodorio/what-is-a-metaframework-4cef)
-- [Just published my first blog post. Three hackathons. Three hard lessons.](https://dev.to/ewonn/just-published-my-first-blog-post-three-hackathons-three-hard-lessons-mpa)
-- [What Hackathons Actually Taught Me](https://dev.to/ewonn/what-hackathons-actually-taught-me-3dko)
-- [When the Cloud is Too Slow: Enter Fog Computing](https://dev.to/anusha_mukka/when-the-cloud-is-too-slow-enter-fog-computing-2egh)
-- [Building Openbench, a local-first LLM workspace](https://dev.to/theoslater/uilding-openbench-a-local-first-llm-workspace-24fm)
+- [CNNs Explained: How Image Classification Actually Works in Deep Learning](https://dev.to/zeromathai/cnns-explained-how-image-classification-actually-works-in-deep-learning-2mbp)
+- [Révolutionner la logistique et recyclage automobile : Stack Tech derrière InterCar](https://dev.to/intercar/revolutionner-lassistance-auto-et-leconomie-circulaire-le-stack-tech-derriere-intercar-43c1)
+- [WHAT IS FTP,TCP](https://dev.to/mohandassmani/what-is-ftptcp-567i)
+- [Your AI Agent Just Did Something. Can You Prove What It Was?](https://dev.to/slucerodev/your-ai-agent-just-did-something-can-you-prove-what-it-was-1gdc)
+- [Optimizing Threat Detection in Java: Using PriorityQueues for Real-Time Systems](https://dev.to/ziyad_lahraoui_d04f0f09f6/optimizing-threat-detection-in-java-using-priorityqueues-for-real-time-systems-99l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
