@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Internal Covariate Shift and Residual Connections: Beyond Activation Functions and Optimizers](https://dev.to/rnilav/understanding-internal-covariate-shift-and-residual-connections-beyond-activation-functions-and-2c8)
-- [Independent convergence on specification-first AI code verification](https://dev.to/moonrunnerkc/independent-convergence-on-specification-first-ai-code-verification-efj)
-- [Give Your OpenClaw Agent a Brain with Hjarni](https://dev.to/hjarni/give-your-openclaw-agent-a-brain-with-hjarni-26k8)
-- [I Built a Free Browser Video Editor with WebGPU, WebCodecs &amp; Optional AI Generation](https://dev.to/sebyx07/i-built-a-free-browser-video-editor-with-webgpu-webcodecs-optional-ai-generation-2eo0)
-- [Is Axios Dead? I Built a Policy-First HTTP Client for TypeScript](https://dev.to/shihiro/is-axios-dead-i-built-a-policy-first-http-client-for-typescript-3c68)
+- [Chrome Extension: Aftermark](https://dev.to/davidcanhelp/chrome-extension-aftermark-a)
+- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
+- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
+- [@NotBlank vs @Column&lpar;nullable = false&rpar; vs @NotNull — Which one should you use?](https://dev.to/babisha_s/notblank-vs-columnnullable-false-vs-notnull-which-one-should-you-use-27e9)
+- [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-453-can-jia-ji-lu-tojie-da-li-a-cwen-ti--534f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
