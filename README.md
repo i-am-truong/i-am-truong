@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I replaced $500/mo of SEO, Google Ads tools with a Claude Code plugin — here&#39;s how I structured the 15 skills](https://dev.to/ununununium/i-replaced-500mo-of-seo-google-ads-tools-with-a-claude-code-plugin-heres-how-i-structured-the-205p)
-- [Built a TypeScript form validator from scratch to actually learn TypeScript!](https://dev.to/sakkubaii/built-a-typescript-form-validator-from-scratch-to-actually-learn-typescript-59b6)
-- [Quantified Self 2.0: Build a High-Performance Health Data Lake with DuckDB, Airflow, and Grafana](https://dev.to/beck_moulton/quantified-self-20-build-a-high-performance-health-data-lake-with-duckdb-airflow-and-grafana-2aeo)
-- [OCP v3.5.0: Zero-Config LAN Sharing — Your Family Can Use Claude in 30 Seconds](https://dev.to/dtzp555max/ocp-v350-zero-config-lan-sharing-your-family-can-use-claude-in-30-seconds-2fcc)
-- [Hello, Dev.to Community! 👋 I&#39;m Thabang, a Full-Stack Developer from South Africa](https://dev.to/gideon877/hello-devto-community-im-thabang-a-full-stack-developer-from-south-africa-1bog)
+- [I built a Python CLI toolkit because everything felt fragmented](https://dev.to/arjun-m/i-built-a-python-cli-toolkit-because-everything-felt-fragmented-37f6)
+- [Your decisions shape Crowd in Realtime , Move Smarter](https://dev.to/shreyas_poojary_31be31df8/your-decisions-shape-crowd-in-realtime-move-smarter-1209)
+- [I code-reviewed 3 &quot;vibe-coded&quot; PRs last week. Every one had hardcoded API keys. So I built a grader.](https://dev.to/wd400/i-code-reviewed-3-vibe-coded-prs-last-week-every-one-had-hardcoded-api-keys-so-i-built-a-grader-21ii)
+- [I got mass-flagged by GPTZero for my own writing. So I built an open-source alternative in pure Python.](https://dev.to/wd400/i-got-mass-flagged-by-gptzero-for-my-own-writing-so-i-built-an-open-source-alternative-in-pure-5aj2)
+- [Build a Web Scraper and Sell the Data: A Step-by-Step Guide](https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-18ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
