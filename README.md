@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5)
-- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
-- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
-- [Every Trending AI Agent Project Is Reinventing Something Humans Already Built](https://dev.to/willamhou/every-trending-ai-agent-project-is-reinventing-something-humans-already-built-469e)
-- [Create a website that can generate high-end, free, and ready-to-download eBooks that includes automated pictures per slide.](https://dev.to/biomed_cosca/create-a-website-that-can-generate-high-end-free-and-ready-to-download-ebooks-that-includes-12f1)
+- [The Pantheon of Tokens: Why Developers Rank AI Models Like Greek Gods and How It&#39;s Quietly Sabotaging Their Architecture](https://dev.to/adioof/the-pantheon-of-tokens-why-developers-rank-ai-models-like-greek-gods-and-how-its-quietly-51ee)
+- [FutureAI - I Built an AI That Predicts Your Life with 100% Confidence &lpar;and 0% Accuracy&rpar;](https://dev.to/pulkitgovrani/futureai-i-built-an-ai-that-predicts-your-life-with-100-confidence-and-0-accuracy-463j)
+- [Building a Voice-Controlled AI Agent with Whisper and Streamlit](https://dev.to/vedant_jagtap_577/building-a-voice-controlled-ai-agent-with-whisper-and-streamlit-m28)
+- [Reviving my dead brain - Day 1](https://dev.to/siam_ahmed_686b7476076fdb/reviving-my-dead-brain-day-1-12f2)
+- [Superintelligence With a 26B Model? It Might Actually Be Possible](https://dev.to/_e7be7c6e5aead9ae3f77b/superintelligence-with-a-26b-model-it-might-actually-be-possible-c60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
