@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building in public week 4: first organic clicks and what drove them](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-4-first-organic-clicks-and-what-drove-them-2dfg)
-- [I Built a Fully Offline Voice AI Coding Assistant &lpar;AI IDE&rpar; with Whisper &amp; Llama 3](https://dev.to/rohan_patil_29115/building-a-fully-offline-voice-ai-coding-assistant-ai-ide-with-whisper-llama-3-2ipk)
-- [Build a Practical AI Agent with Gemma 4, Real Tools, and a Local LLM](https://dev.to/natarajan_murugesan_b00c4/build-a-practical-ai-agent-with-gemma-4-real-tools-and-a-local-llm-31k4)
-- [I Built an Open-Source n8n Alternative with AI Agents — Here&#39;s What I Learned](https://dev.to/sibercoder/i-built-an-open-source-n8n-alternative-with-ai-agents-heres-what-i-learned-5hlp)
-- [Understanding Transformers Part 5: Queries, Keys, and Similarity](https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k)
+- [Unlock AI Superpowers: Build a Lightning-Fast, Private &#39;Local-First&#39; Workspace](https://dev.to/programmingcentral/unlock-ai-superpowers-build-a-lightning-fast-private-local-first-workspace-3kk2)
+- [SWE-bench Scores and Leaderboard Explained &lpar;2026&rpar;](https://dev.to/rahulxsingh/swe-bench-scores-and-leaderboard-explained-2026-54of)
+- [Subqueries &amp; Views in SQLite: Writing Smarter, Cleaner Queries](https://dev.to/lovestaco/subqueries-views-in-sqlite-writing-smarter-cleaner-queries-5399)
+- [I Got Tired of Copying the Same MERN Boilerplate, So I Built a CLI](https://dev.to/shivamm2606/i-got-tired-of-copying-the-same-mern-boilerplate-so-i-built-a-cli-2b88)
+- [Shipping Carbon: What I Learned About Product Design by Building in the App Store&#39;s Most Crowded Category](https://dev.to/shawntz/shipping-carbon-what-i-learned-about-product-design-by-building-in-the-app-stores-most-crowded-2a6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
