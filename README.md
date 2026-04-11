@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Pantheon of Tokens: Why Developers Rank AI Models Like Greek Gods and How It&#39;s Quietly Sabotaging Their Architecture](https://dev.to/adioof/the-pantheon-of-tokens-why-developers-rank-ai-models-like-greek-gods-and-how-its-quietly-51ee)
-- [FutureAI - I Built an AI That Predicts Your Life with 100% Confidence &lpar;and 0% Accuracy&rpar;](https://dev.to/pulkitgovrani/futureai-i-built-an-ai-that-predicts-your-life-with-100-confidence-and-0-accuracy-463j)
-- [Building a Voice-Controlled AI Agent with Whisper and Streamlit](https://dev.to/vedant_jagtap_577/building-a-voice-controlled-ai-agent-with-whisper-and-streamlit-m28)
-- [Reviving my dead brain - Day 1](https://dev.to/siam_ahmed_686b7476076fdb/reviving-my-dead-brain-day-1-12f2)
-- [Superintelligence With a 26B Model? It Might Actually Be Possible](https://dev.to/_e7be7c6e5aead9ae3f77b/superintelligence-with-a-26b-model-it-might-actually-be-possible-c60)
+- [AI Weekly: 12 Big AI Stories this week](https://dev.to/practiceoverflow/ai-weekly-12-big-ai-stories-this-week-5f8k)
+- [I got tired of guessing semver bumps in PRs, so I built a tool](https://dev.to/kyungseopk1m/i-got-tired-of-guessing-semver-bumps-in-prs-so-i-built-a-tool-15o)
+- [Top 5 Free Currency Converter APIs for Developers in 2026](https://dev.to/bobglob333/top-5-free-currency-converter-apis-for-developers-in-2025-428p)
+- [Tomato — Visual DAG editor for NixOS configurations](https://dev.to/thatsme/tomato-visual-dag-editor-for-nixos-configurations-47j6)
+- [Why does your Arduino project feel &#39;wrong&#39; even when the code works?](https://dev.to/_0c004e5fde78250aee362/why-does-your-arduino-project-feel-wrong-even-when-the-code-works-1hk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
