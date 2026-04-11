@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Keynotif &lpar;Part 2&rpar;: The Part That’s Actually Hard | Cahyanudien Blogs](https://dev.to/cas8398/keynotif-part-2-the-part-thats-actually-hard-cahyanudien-blogs-56o6)
-- [The Feature Creep](https://dev.to/vivian-voss/the-feature-creep-3n20)
-- [Is MCP Worth It for Algorithmic Trading? The Reality Behind Data, Latency, and Execution](https://dev.to/phithanh1230/is-mcp-worth-it-for-algorithmic-trading-the-reality-behind-data-latency-and-execution-4d43)
-- [Build a Desktop File Organizer in 35 Lines of Python — Weekend Project](https://dev.to/automate-archit/build-a-desktop-file-organizer-in-35-lines-of-python-weekend-project-3o4h)
-- [I automated the worst part of my week &lpar;creating tickets from meeting notes&rpar;](https://dev.to/zuardyan/i-automated-the-worst-part-of-my-week-creating-tickets-from-meeting-notes-1lmf)
+- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5)
+- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
+- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
+- [Every Trending AI Agent Project Is Reinventing Something Humans Already Built](https://dev.to/willamhou/every-trending-ai-agent-project-is-reinventing-something-humans-already-built-469e)
+- [Create a website that can generate high-end, free, and ready-to-download eBooks that includes automated pictures per slide.](https://dev.to/biomed_cosca/create-a-website-that-can-generate-high-end-free-and-ready-to-download-ebooks-that-includes-12f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
