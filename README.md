@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlock AI Superpowers: Build a Lightning-Fast, Private &#39;Local-First&#39; Workspace](https://dev.to/programmingcentral/unlock-ai-superpowers-build-a-lightning-fast-private-local-first-workspace-3kk2)
-- [SWE-bench Scores and Leaderboard Explained &lpar;2026&rpar;](https://dev.to/rahulxsingh/swe-bench-scores-and-leaderboard-explained-2026-54of)
-- [Subqueries &amp; Views in SQLite: Writing Smarter, Cleaner Queries](https://dev.to/lovestaco/subqueries-views-in-sqlite-writing-smarter-cleaner-queries-5399)
-- [I Got Tired of Copying the Same MERN Boilerplate, So I Built a CLI](https://dev.to/shivamm2606/i-got-tired-of-copying-the-same-mern-boilerplate-so-i-built-a-cli-2b88)
-- [Shipping Carbon: What I Learned About Product Design by Building in the App Store&#39;s Most Crowded Category](https://dev.to/shawntz/shipping-carbon-what-i-learned-about-product-design-by-building-in-the-app-stores-most-crowded-2a6l)
+- [Why Queues Don’t Fix Overload &lpar;And What To Do Instead&rpar;](https://dev.to/pmbanugo/why-queues-dont-fix-overload-and-what-to-do-instead-14on)
+- [List emails from a built-in demo account. No authentication or API key required from the Command Line](https://dev.to/qasim157/list-emails-from-a-built-in-demo-account-no-authentication-or-api-key-required-from-the-command-2o7c)
+- [nylas tui for Developers — Quick Reference](https://dev.to/qasim157/nylas-tui-for-developers-quick-reference-24cm)
+- [Hands-On with nylas completion bash: Generate shell completion script for bash, zsh, fish, or PowerShell](https://dev.to/qasim157/hands-on-with-nylas-completion-bash-generate-shell-completion-script-for-bash-zsh-fish-or-jbb)
+- [Working with nylas workflow otp list: List one-time password emails, extracting OTP codes from recent messages](https://dev.to/qasim157/working-with-nylas-workflow-otp-list-list-one-time-password-emails-extracting-otp-codes-from-13e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
