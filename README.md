@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tuning PHP-FPM for Laravel: Workers, Memory, and Process Management](https://dev.to/deploynix/tuning-php-fpm-for-laravel-workers-memory-and-process-management-n32)
-- [PostgreSQL Connection Pooling: PgBouncer, Supavisor &amp; Built-In](https://dev.to/philip_mcclarence_2ef9475/postgresql-connection-pooling-pgbouncer-supavisor-built-in-3i4c)
-- [Fake SOC 2 and ISO 27001 Certifications Are Spreading Across Dev Tools](https://dev.to/rahulxsingh/fake-soc-2-and-iso-27001-certifications-are-spreading-across-dev-tools-48f9)
-- [bonk.exe — an indie chaos game where a Shiba judges your existence 🐕💀](https://dev.to/shreya_9f4fdf67b8c92d72da/bonkexe-an-indie-chaos-game-where-a-shiba-judges-your-existence-f1e)
-- [Learning to Contribute to FOSS Projects](https://dev.to/tekk74/fork-to-pull-request-the-foss-contribution-workflow-explained-2cd4)
+- [The Bayesian Trap - A Mathematical Case for Trying Something New](https://dev.to/anay_pandya_bfac6bcdbb055/the-bayesian-trap-a-mathematical-case-for-trying-something-new-1bol)
+- [Vibe Coding an AI-Powered Command Corrector in Rust over the Weekend](https://dev.to/furrymonster/vibe-coding-an-ai-powered-command-corrector-in-rust-over-the-weekend-2mah)
+- [Hover Effect Kütüphaneleri - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/hover-effect-kutuphaneleri-detayli-teknik-analiz-rehberi-2026-4k25)
+- [I Built a Website That Will Never, Ever Brew You Coffee](https://dev.to/tushar_1252080002_8435059/i-built-a-website-that-will-never-ever-brew-you-coffee-34g7)
+- [Title: The Overthinking Machine — I Built an AI That Turns &quot;Tea or Coffee?&quot; Into an Existential Crisis published: false](https://dev.to/pulkit_barola/title-the-overthinking-machine-i-built-an-ai-that-turns-tea-or-coffee-into-an-existential-380n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
