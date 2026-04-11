@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
-- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
-- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
-- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
-- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
+- [Python performance bottleneck](https://dev.to/krun_pro/python-performance-bottleneck-6dn)
+- [How to Build a Scalable SaaS Platform with Next.js and PostgreSQL](https://dev.to/waseemahmad/how-to-build-a-scalable-saas-platform-with-nextjs-and-postgresql-48mh)
+- [Is There a Free UK Postcode Lookup API?](https://dev.to/geoapify-maps-api/is-there-a-free-uk-postcode-lookup-api-516p)
+- [One line to add post-quantum audit trails to any Python AI agent](https://dev.to/rubricprotocol/one-line-to-add-post-quantum-audit-trails-to-any-python-ai-agent-11am)
+- [Your risk model passes all its tests. It will still blow up in a crisis.](https://dev.to/lushenwar/your-risk-model-passes-all-its-tests-it-will-still-blow-up-in-a-crisis-14po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
