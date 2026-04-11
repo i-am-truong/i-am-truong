@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CNNs Explained: How Image Classification Actually Works in Deep Learning](https://dev.to/zeromathai/cnns-explained-how-image-classification-actually-works-in-deep-learning-2mbp)
-- [Révolutionner la logistique et recyclage automobile : Stack Tech derrière InterCar](https://dev.to/intercar/revolutionner-lassistance-auto-et-leconomie-circulaire-le-stack-tech-derriere-intercar-43c1)
-- [WHAT IS FTP,TCP](https://dev.to/mohandassmani/what-is-ftptcp-567i)
-- [Your AI Agent Just Did Something. Can You Prove What It Was?](https://dev.to/slucerodev/your-ai-agent-just-did-something-can-you-prove-what-it-was-1gdc)
-- [Optimizing Threat Detection in Java: Using PriorityQueues for Real-Time Systems](https://dev.to/ziyad_lahraoui_d04f0f09f6/optimizing-threat-detection-in-java-using-priorityqueues-for-real-time-systems-99l)
+- [CNN Layer Composition — A Practical Developer Guide to Activation, Pooling, and Fully Connected Layers](https://dev.to/zeromathai/cnn-layer-composition-a-practical-developer-guide-to-activation-pooling-and-fully-connected-288b)
+- [Spatial Behavior of Convolution in CNNs &lpar;Stride, Padding, and Feature Maps Explained&rpar;](https://dev.to/zeromathai/spatial-behavior-of-convolution-in-cnns-stride-padding-and-feature-maps-explained-7i2)
+- [I Gave My AI Agent a UX Audit Superpower: CLI + MCP in 5 Minutes](https://dev.to/petrilahdelma/i-gave-my-ai-agent-a-ux-audit-superpower-cli-mcp-in-5-minutes-58d8)
+- [Why I Chose to Learn DSA in Java Instead of C++ or Any Other Language](https://dev.to/arpitneewaliya/why-i-chose-to-learn-dsa-in-java-instead-of-c-or-any-other-language-i6k)
+- [Setting Up CrowdSec on your Linux Server: A Complete Guide](https://dev.to/nirzak/setting-up-crowdsec-on-your-linux-server-a-complete-guide-14ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
