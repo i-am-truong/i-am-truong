@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Bayesian Trap - A Mathematical Case for Trying Something New](https://dev.to/anay_pandya_bfac6bcdbb055/the-bayesian-trap-a-mathematical-case-for-trying-something-new-1bol)
-- [Vibe Coding an AI-Powered Command Corrector in Rust over the Weekend](https://dev.to/furrymonster/vibe-coding-an-ai-powered-command-corrector-in-rust-over-the-weekend-2mah)
-- [Hover Effect Kütüphaneleri - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/hover-effect-kutuphaneleri-detayli-teknik-analiz-rehberi-2026-4k25)
-- [I Built a Website That Will Never, Ever Brew You Coffee](https://dev.to/tushar_1252080002_8435059/i-built-a-website-that-will-never-ever-brew-you-coffee-34g7)
-- [Title: The Overthinking Machine — I Built an AI That Turns &quot;Tea or Coffee?&quot; Into an Existential Crisis published: false](https://dev.to/pulkit_barola/title-the-overthinking-machine-i-built-an-ai-that-turns-tea-or-coffee-into-an-existential-380n)
+- [Migrating To Neovim v0.12.0 Challenge Faced And Solution Found](https://dev.to/kevinasaria/migrating-to-neovim-v0120-challenge-faced-and-solution-found-6f)
+- [This Tea Platform Uses Kubernetes, Chaos Monkey, and Still Does Nothing](https://dev.to/robin-ivi/brewflow-pro-i-built-a-kubernetes-native-microserviced-rfc-2324-compliant-tea-brewing-platform-4ch3)
+- [Download YouTube Thumbnails for Free — Any Video, Max Resolution, No Login](https://dev.to/shaishav_patel_271fdcd61a/download-youtube-thumbnails-for-free-any-video-max-resolution-no-login-pmp)
+- [The 90%-Done Paradox](https://dev.to/js402/the-90-done-paradox-31e1)
+- [I wanted to build an Agent Memory System and blundered my way into 92% on LongMemEval](https://dev.to/shane-farkas/i-wanted-to-build-an-agent-memory-system-and-blundered-my-way-into-92-on-longmemeval-3b27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
