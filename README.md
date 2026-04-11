@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Queues Don’t Fix Overload &lpar;And What To Do Instead&rpar;](https://dev.to/pmbanugo/why-queues-dont-fix-overload-and-what-to-do-instead-14on)
-- [List emails from a built-in demo account. No authentication or API key required from the Command Line](https://dev.to/qasim157/list-emails-from-a-built-in-demo-account-no-authentication-or-api-key-required-from-the-command-2o7c)
-- [nylas tui for Developers — Quick Reference](https://dev.to/qasim157/nylas-tui-for-developers-quick-reference-24cm)
-- [Hands-On with nylas completion bash: Generate shell completion script for bash, zsh, fish, or PowerShell](https://dev.to/qasim157/hands-on-with-nylas-completion-bash-generate-shell-completion-script-for-bash-zsh-fish-or-jbb)
-- [Working with nylas workflow otp list: List one-time password emails, extracting OTP codes from recent messages](https://dev.to/qasim157/working-with-nylas-workflow-otp-list-list-one-time-password-emails-extracting-otp-codes-from-13e)
+- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
+- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
+- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
+- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
+- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
