@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an SEO API That Runs 14 Analysis Modules for $0.003 Per Call](https://dev.to/br0ski777/i-built-an-seo-api-that-runs-14-analysis-modules-for-0003-per-call-3h)
-- [What is the difference between ETL and ETL?](https://dev.to/cliffe_okoth/what-is-the-difference-between-etl-and-etl-3ok4)
-- [Your Kubernetes backups are lying to you](https://dev.to/isevenbe/your-kubernetes-backups-are-lying-to-you-2eb5)
-- [Why I’m finally open-sourcing my architectural work after 20 years building private enterprise systems](https://dev.to/sanadidari/why-im-finally-open-sourcing-my-architectural-work-after-20-years-building-private-enterprise-3ibn)
-- [Dev log &lpar;day 0&rpar;](https://dev.to/ocaiosilv/dev-log-day-0-4a7c)
+- [I replaced $500/mo of SEO, Google Ads tools with a Claude Code plugin — here&#39;s how I structured the 15 skills](https://dev.to/ununununium/i-replaced-500mo-of-seo-google-ads-tools-with-a-claude-code-plugin-heres-how-i-structured-the-205p)
+- [Built a TypeScript form validator from scratch to actually learn TypeScript!](https://dev.to/sakkubaii/built-a-typescript-form-validator-from-scratch-to-actually-learn-typescript-59b6)
+- [Quantified Self 2.0: Build a High-Performance Health Data Lake with DuckDB, Airflow, and Grafana](https://dev.to/beck_moulton/quantified-self-20-build-a-high-performance-health-data-lake-with-duckdb-airflow-and-grafana-2aeo)
+- [OCP v3.5.0: Zero-Config LAN Sharing — Your Family Can Use Claude in 30 Seconds](https://dev.to/dtzp555max/ocp-v350-zero-config-lan-sharing-your-family-can-use-claude-in-30-seconds-2fcc)
+- [Hello, Dev.to Community! 👋 I&#39;m Thabang, a Full-Stack Developer from South Africa](https://dev.to/gideon877/hello-devto-community-im-thabang-a-full-stack-developer-from-south-africa-1bog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
