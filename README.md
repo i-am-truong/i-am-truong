@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Python CLI toolkit because everything felt fragmented](https://dev.to/arjun-m/i-built-a-python-cli-toolkit-because-everything-felt-fragmented-37f6)
-- [Your decisions shape Crowd in Realtime , Move Smarter](https://dev.to/shreyas_poojary_31be31df8/your-decisions-shape-crowd-in-realtime-move-smarter-1209)
-- [I code-reviewed 3 &quot;vibe-coded&quot; PRs last week. Every one had hardcoded API keys. So I built a grader.](https://dev.to/wd400/i-code-reviewed-3-vibe-coded-prs-last-week-every-one-had-hardcoded-api-keys-so-i-built-a-grader-21ii)
-- [I got mass-flagged by GPTZero for my own writing. So I built an open-source alternative in pure Python.](https://dev.to/wd400/i-got-mass-flagged-by-gptzero-for-my-own-writing-so-i-built-an-open-source-alternative-in-pure-5aj2)
-- [Build a Web Scraper and Sell the Data: A Step-by-Step Guide](https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-18ne)
+- [Keynotif &lpar;Part 2&rpar;: The Part That’s Actually Hard | Cahyanudien Blogs](https://dev.to/cas8398/keynotif-part-2-the-part-thats-actually-hard-cahyanudien-blogs-56o6)
+- [The Feature Creep](https://dev.to/vivian-voss/the-feature-creep-3n20)
+- [Is MCP Worth It for Algorithmic Trading? The Reality Behind Data, Latency, and Execution](https://dev.to/phithanh1230/is-mcp-worth-it-for-algorithmic-trading-the-reality-behind-data-latency-and-execution-4d43)
+- [Build a Desktop File Organizer in 35 Lines of Python — Weekend Project](https://dev.to/automate-archit/build-a-desktop-file-organizer-in-35-lines-of-python-weekend-project-3o4h)
+- [I automated the worst part of my week &lpar;creating tickets from meeting notes&rpar;](https://dev.to/zuardyan/i-automated-the-worst-part-of-my-week-creating-tickets-from-meeting-notes-1lmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
