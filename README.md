@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CNN Layer Composition — A Practical Developer Guide to Activation, Pooling, and Fully Connected Layers](https://dev.to/zeromathai/cnn-layer-composition-a-practical-developer-guide-to-activation-pooling-and-fully-connected-288b)
-- [Spatial Behavior of Convolution in CNNs &lpar;Stride, Padding, and Feature Maps Explained&rpar;](https://dev.to/zeromathai/spatial-behavior-of-convolution-in-cnns-stride-padding-and-feature-maps-explained-7i2)
-- [I Gave My AI Agent a UX Audit Superpower: CLI + MCP in 5 Minutes](https://dev.to/petrilahdelma/i-gave-my-ai-agent-a-ux-audit-superpower-cli-mcp-in-5-minutes-58d8)
-- [Why I Chose to Learn DSA in Java Instead of C++ or Any Other Language](https://dev.to/arpitneewaliya/why-i-chose-to-learn-dsa-in-java-instead-of-c-or-any-other-language-i6k)
-- [Setting Up CrowdSec on your Linux Server: A Complete Guide](https://dev.to/nirzak/setting-up-crowdsec-on-your-linux-server-a-complete-guide-14ak)
+- [Building in public week 4: first organic clicks and what drove them](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-4-first-organic-clicks-and-what-drove-them-2dfg)
+- [I Built a Fully Offline Voice AI Coding Assistant &lpar;AI IDE&rpar; with Whisper &amp; Llama 3](https://dev.to/rohan_patil_29115/building-a-fully-offline-voice-ai-coding-assistant-ai-ide-with-whisper-llama-3-2ipk)
+- [Build a Practical AI Agent with Gemma 4, Real Tools, and a Local LLM](https://dev.to/natarajan_murugesan_b00c4/build-a-practical-ai-agent-with-gemma-4-real-tools-and-a-local-llm-31k4)
+- [I Built an Open-Source n8n Alternative with AI Agents — Here&#39;s What I Learned](https://dev.to/sibercoder/i-built-an-open-source-n8n-alternative-with-ai-agents-heres-what-i-learned-5hlp)
+- [Understanding Transformers Part 5: Queries, Keys, and Similarity](https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
