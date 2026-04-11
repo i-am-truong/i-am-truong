@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Incident Triage Without Context Switching: Bash, zoxide, PowerShell, and Win-CLI](https://dev.to/arnostorg/incident-triage-without-context-switching-bash-zoxide-powershell-and-win-cli-53g7)
-- [How Base L2 Makes Micro-Bets Viable in Blockchain Gaming](https://dev.to/gigavariance/how-base-l2-makes-micro-bets-viable-in-blockchain-gaming-3nad)
-- [We Migrated CRMs and Got 40,000 Duplicate Contacts](https://dev.to/robertatkinson3570/we-migrated-crms-and-got-40000-duplicate-contacts-3olf)
-- [How to Write Long-Form Fiction with AI](https://dev.to/hinterrealm/what-ai-fiction-should-read-like-2hl9)
-- [Threading vs Tasks vs Parallelism — The Complete .NET Concurrency Guide](https://dev.to/libintombaby/threading-vs-tasks-vs-parallelism-the-complete-net-concurrency-guide-7dj)
+- [Understanding Internal Covariate Shift and Residual Connections: Beyond Activation Functions and Optimizers](https://dev.to/rnilav/understanding-internal-covariate-shift-and-residual-connections-beyond-activation-functions-and-2c8)
+- [Independent convergence on specification-first AI code verification](https://dev.to/moonrunnerkc/independent-convergence-on-specification-first-ai-code-verification-efj)
+- [Give Your OpenClaw Agent a Brain with Hjarni](https://dev.to/hjarni/give-your-openclaw-agent-a-brain-with-hjarni-26k8)
+- [I Built a Free Browser Video Editor with WebGPU, WebCodecs &amp; Optional AI Generation](https://dev.to/sebyx07/i-built-a-free-browser-video-editor-with-webgpu-webcodecs-optional-ai-generation-2eo0)
+- [Is Axios Dead? I Built a Policy-First HTTP Client for TypeScript](https://dev.to/shihiro/is-axios-dead-i-built-a-policy-first-http-client-for-typescript-3c68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
