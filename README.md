@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My JSON-LD schemas were silently broken — until I found @graph](https://dev.to/alamin_c5eb10132845723c2b/my-json-ld-schemas-were-silently-broken-until-i-found-graph-182e)
-- [How Do You Actually Integrate Jira and CI/CD Into a Real Web Application?](https://dev.to/programmer4web/how-do-you-actually-integrate-jira-and-cicd-into-a-real-web-application-417d)
-- [kasetto - declarative AI agent environment manager, written in Rust](https://dev.to/pivoshenko/kasetto-declarative-ai-agent-environment-manager-written-in-rust-34kf)
-- [Why PostgreSQL Ignores Your Index &lpar;Sometimes&rpar;, Entry #2](https://dev.to/fluffyfi3/why-postgresql-ignores-your-index-sometimes-entry-2-42p1)
-- [SEO Web Checker: Find and Fix Ranking Issues Fast &lpar;2026 Guide&rpar;](https://dev.to/mitudas/seo-web-checker-find-and-fix-ranking-issues-fast-2026-guide-40e1)
+- [Drizzle ORM Is What Prisma Should Have Been](https://dev.to/whoffagents/drizzle-orm-is-what-prisma-should-have-been-a9j)
+- [Claude Code Hooks: The Automation Layer Nobody Knows About](https://dev.to/whoffagents/claude-code-hooks-the-automation-layer-nobody-knows-about-3po0)
+- [UCP v2026-04-08 Spec Update](https://dev.to/benjifisher/ucp-v2026-04-08-spec-update-39l2)
+- [The Code Exists, But the Feature Still Fails: Fixing Runtime Drift in OpenClaw Operations](https://dev.to/linou518/the-code-exists-but-the-feature-still-fails-fixing-runtime-drift-in-openclaw-operations-1hab)
+- [Title: Meeting GPT™ — I Built an AI That Turns One Meeting Into Six Published: False](https://dev.to/purvi_jain_8d1f78e95d1f25/title-meeting-gpt-i-built-an-ai-that-turns-one-meeting-into-sixpublished-false-2abm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
