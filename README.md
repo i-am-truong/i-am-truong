@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 7 Best MCP Servers for Stock Market Data &lpar;2026&rpar;](https://dev.to/kevin_menesesgonzlez/the-7-best-mcp-servers-for-stock-market-data-2026-389l)
-- [What We Learned from KongSwap: Product, Governance, Trust, and Exit Design in DeFi](https://dev.to/sssdefi/what-we-learned-from-kongswap-product-governance-trust-and-exit-design-in-defi-1g25)
-- [Brilliant on Paper, Blind in Practice](https://dev.to/rawveg/brilliant-on-paper-blind-in-practice-3ici)
-- [Why We Talk OSI but Live in a TCP/IP World &lpar;A Developer’s Guide&rpar;](https://dev.to/tahsin000/why-we-talk-osi-but-live-in-a-tcpip-world-a-developers-guide-140o)
-- [Write Claude Code Agent Skills That Actually Work](https://dev.to/kfuras/write-claude-code-agent-skills-that-actually-work-3b2i)
+- [SSRF to AWS Credential Harvest — The Capital One Attack Chain, Visualized| CAISD](https://dev.to/caisd/ssrf-to-aws-credential-harvest-the-capital-one-attack-chain-visualized-caisd-34i8)
+- [Your Agentic Workflows Are Making Decisions on Stale Data and You Probably Don&#39;t Know It](https://dev.to/romclerix/your-agentic-workflows-are-making-decisions-on-stale-data-and-you-probably-dont-know-it-10l3)
+- [SSRF Attack — When the Server Becomes the Attacker | CAISD](https://dev.to/kevin_mitnick_d472d4e23f6/ssrf-attack-when-the-server-becomes-the-attacker-caisd-36i0)
+- [My AI Agent Has Amnesia — And It’s Ruining My Business](https://dev.to/sameera_/my-ai-agent-has-amnesia-and-its-ruining-my-business-377j)
+- [I Built a Fully Local Voice AI Agent — Here&#39;s What Broke &lpar;and How I Fixed It&rpar;](https://dev.to/akhilesh0605/i-built-a-fully-local-voice-ai-agent-heres-what-broke-and-how-i-fixed-it-259m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
