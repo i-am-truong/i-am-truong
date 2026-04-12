@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search at Scale: What I Learned Building RAG Infrastructure at Microsoft Copilot](https://dev.to/kennedyraju55/semantic-search-at-scale-what-i-learned-building-rag-infrastructure-at-microsoft-copilot-3d0h)
-- [The Developer&#39;s Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don&#39;t Need an API Key](https://dev.to/kennedyraju55/the-developers-guide-to-running-llms-locally-ollama-gemma-4-and-why-your-side-projects-dont-54oe)
-- [Hook State Converter: Decode Xahau HookState ABI Without the Guesswork](https://dev.to/xrplwin/hook-state-converter-decode-xahau-hookstate-abi-without-the-guesswork-7j2)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-1jaj)
-- [Cost-Aware Serverless Architecture Reviews: A Practical Framework](https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl)
+- [llm.txt: How to Make Your Wordpress Readable by AI Assistants](https://dev.to/antigymclub/llmtxt-how-to-make-your-wordpress-readable-by-ai-assistants-228j)
+- [Agent-as-a-Service: Comparing Claude Managed Agents and Amazon Bedrock AgentCore](https://dev.to/aws-builders/agent-as-a-service-comparing-claude-managed-agents-and-amazon-bedrock-agentcore-22eb)
+- [Automating Bank Statement Categorization for Efficient Tax Preparation](https://dev.to/denlava/automating-bank-statement-categorization-for-efficient-tax-preparation-1ljn)
+- [Your Voice Assistant Doesn&#39;t Need the Cloud — Here&#39;s How I Built 5 Offline NLP Tools](https://dev.to/kennedyraju55/your-voice-assistant-doesnt-need-the-cloud-heres-how-i-built-5-offline-nlp-tools-4n44)
+- [Stop Sending Your Security Alerts to Cloud AI — Build Local LLM Tools Instead](https://dev.to/kennedyraju55/stop-sending-your-security-alerts-to-cloud-ai-build-local-llm-tools-instead-1dgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
