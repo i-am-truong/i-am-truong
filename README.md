@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [April: The AI That Listens](https://dev.to/rnmwxljighcf/april-the-ai-that-listens-1a9e)
-- [I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#39;s the Open-Source Scanner I Built](https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2am8)
-- [Building a Pixel-Art AI Interrogation Game with Rust, Tauri, and Memvid](https://dev.to/harishkotra/building-a-pixel-art-ai-interrogation-game-with-rust-tauri-and-memvid-d74)
-- [Excel Crashed on Row 47,000 and I Lost 3 Hours of Work](https://dev.to/robertatkinson3570/excel-crashed-on-row-47000-and-i-lost-3-hours-of-work-3jgc)
-- [Is an AI Model Technically Defined as Software?](https://dev.to/tekk74/is-an-ai-model-technically-defined-as-software-3506)
+- [Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek)
+- [Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j)
+- [Building a Frontend That Makes AI Decisions Understandable](https://dev.to/ciyana_anilkumar/building-a-frontend-that-makes-ai-decisions-understandable-39i8)
+- [JavaScript Event Loop Explained: Macrotasks, Microtasks, and Async/Await Made Simple](https://dev.to/satishjaiswal/javascript-event-loop-explained-macrotasks-microtasks-and-asyncawait-made-simple-22cd)
+- [A Deep Dive into SQL Basics](https://dev.to/derickmenje/mastering-the-fundamentals-a-deep-dive-into-sql-basics-3onn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
