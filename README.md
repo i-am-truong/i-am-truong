@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Need a Free PDF Compressor Website Anymore](https://dev.to/igorgridel/you-dont-need-a-free-pdf-compressor-website-anymore-1o8j)
-- [I Got Badges 1, 2, and 4 on DEV.to — Badge #3 Is Currently in Witness Protection](https://dev.to/freerave/i-got-badges-1-2-and-4-on-devto-badge-3-is-currently-in-witness-protection-he4)
-- [Why Your AI Agent Can&#39;t Browse the Web &lpar;And How to Fix It in 3 Lines of Python&rpar;](https://dev.to/proxyclaw/why-your-ai-agent-cant-browse-the-web-and-how-to-fix-it-in-3-lines-of-python-14he)
-- [How to Build Sprite Sheets for 2D Games — A Practical Guide for Indie Devs](https://dev.to/code280fox/how-to-build-sprite-sheets-for-2d-games-a-practical-guide-for-indie-devs-46ib)
-- [How I Built an OCR-Based Defense Against Prompt Injection for Local LLM Search](https://dev.to/morfasco/how-i-built-an-ocr-based-defense-against-prompt-injection-for-local-llm-search-1mnl)
+- [The 7 Best MCP Servers for Stock Market Data &lpar;2026&rpar;](https://dev.to/kevin_menesesgonzlez/the-7-best-mcp-servers-for-stock-market-data-2026-389l)
+- [What We Learned from KongSwap: Product, Governance, Trust, and Exit Design in DeFi](https://dev.to/sssdefi/what-we-learned-from-kongswap-product-governance-trust-and-exit-design-in-defi-1g25)
+- [Brilliant on Paper, Blind in Practice](https://dev.to/rawveg/brilliant-on-paper-blind-in-practice-3ici)
+- [Why We Talk OSI but Live in a TCP/IP World &lpar;A Developer’s Guide&rpar;](https://dev.to/tahsin000/why-we-talk-osi-but-live-in-a-tcpip-world-a-developers-guide-140o)
+- [Write Claude Code Agent Skills That Actually Work](https://dev.to/kfuras/write-claude-code-agent-skills-that-actually-work-3b2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
