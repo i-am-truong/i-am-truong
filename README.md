@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Same churn signal, two different right answers](https://dev.to/prithvi_tomar_f4437bfefd4/-same-churn-signal-two-different-right-answers-32hg)
-- [Vitest Mocking: vi.mock vs vi.spyOn Explained](https://dev.to/maanu07/vitest-mocking-vimock-vs-vispyon-explained-19ho)
-- [How to Run GLM 4.7 Flash Locally with Ollama — 30B Quality at 3B Speed](https://dev.to/purpledoubled/how-to-run-glm-47-flash-locally-with-ollama-30b-quality-at-3b-speed-2lii)
-- [Your code is not the asset, your spec is](https://dev.to/dennis_b/your-code-is-not-the-asset-your-spec-is-4689)
-- [[2026-04] How I Currently Use Claude Code](https://dev.to/masutaka/2026-04-how-i-currently-use-claude-code-2nck)
+- [April: The AI That Listens](https://dev.to/rnmwxljighcf/april-the-ai-that-listens-1a9e)
+- [I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#39;s the Open-Source Scanner I Built](https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2am8)
+- [Building a Pixel-Art AI Interrogation Game with Rust, Tauri, and Memvid](https://dev.to/harishkotra/building-a-pixel-art-ai-interrogation-game-with-rust-tauri-and-memvid-d74)
+- [Excel Crashed on Row 47,000 and I Lost 3 Hours of Work](https://dev.to/robertatkinson3570/excel-crashed-on-row-47000-and-i-lost-3-hours-of-work-3jgc)
+- [Is an AI Model Technically Defined as Software?](https://dev.to/tekk74/is-an-ai-model-technically-defined-as-software-3506)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
