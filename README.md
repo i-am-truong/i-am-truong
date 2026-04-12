@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Data Engineering Lifecycle](https://dev.to/mirinagonzales/the-data-engineering-lifecycle-2n7m)
-- [Generate a PDF from JSON with one API call](https://dev.to/eduardmaghakyan/generate-a-pdf-from-json-with-one-api-call-5g08)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-5hef)
-- [El Ciclo de Vida de la Ingeniería de Datos](https://dev.to/mirinagonzales/el-ciclo-de-vida-de-la-ingenieria-de-datos-3cfg)
-- [How I use Claude Code to write tests for untested code — a complete workflow](https://dev.to/subprime2010/how-i-use-claude-code-to-write-tests-for-untested-code-a-complete-workflow-32oh)
+- [🏗️ Terraform Production Structure &lpar;Dev / Staging / Prod&rpar; — Part 6](https://dev.to/ahkarswe/terraform-production-structure-dev-staging-prod-part-6-4p3c)
+- [Before/After: What Claude Code Actually Sees](https://dev.to/ji_ai/beforeafter-what-claude-code-actually-sees-4em3)
+- [Connecting Flutter to Vehicle Signals: Building a Dart SDK for Eclipse KUKSA](https://dev.to/aki1770del/connecting-flutter-to-vehicle-signals-building-a-dart-sdk-for-eclipse-kuksa-121l)
+- [How AI Is Quietly Breaking Web3 Security &lpar;And Creating Invisible Attack Surfaces&rpar;](https://dev.to/codebyankita/how-ai-is-quietly-breaking-web3-security-and-creating-invisible-attack-surfaces-3i2d)
+- [Python’s Silent Production Killer: Why &quot;Pass-by-Reference&quot; is a Lie](https://dev.to/mr_harshkumar_jha/pythons-silent-production-killer-why-pass-by-reference-is-a-lie-b97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
