@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transcript: Sen. Mark Warner on &quot;Face the Nation with Margaret Brennan&quot;](https://dev.to/chx382/transcript-sen-mark-warner-on-face-the-nation-with-margaret-brennan-2k74)
-- [Building a Voice-Controlled AI Agent: Architecture, Models &amp; Lessons Learned](https://dev.to/mahi_vigneshvalleti_f791/building-a-voice-controlled-ai-agent-architecture-models-lessons-learned-3mje)
-- [Why AI-Generated Code Needs Architecture Standards &lpar;and How We Solved It&rpar;](https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh)
-- [SteeplyOpinionated: A PR Review Tool for Tea Recipes &lpar;Returns 418, Obviously&rpar;](https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k)
-- [EB1A for Developers: How to Build a Profile That Actually Gets Approved](https://dev.to/eb1a_team_c39616cb392f9ea/eb1a-for-developers-how-to-build-a-profile-that-actually-gets-approved-ai2)
+- [Building an AI Agent That Actually Remembers](https://dev.to/mithra_a443f9e25cabb3cea2/building-an-ai-agent-that-actually-remembers-1kd2)
+- [Understandind DDL and DML in SQL](https://dev.to/keim/understandind-ddl-and-dml-in-sql-3bhe)
+- [Website Testing Checklist Before Launch &lpar;What I Check on Every Project&rpar;](https://dev.to/abrahamhadd/website-testing-checklist-before-launch-what-i-check-on-every-project-46dk)
+- [Sub-Agent Architecture for AI Coding Harnesses: When to Spawn, How to Route, What It Costs](https://dev.to/bruce_he/sub-agent-architecture-for-ai-coding-harnesses-when-to-spawn-how-to-route-what-it-costs-1bno)
+- [12 things you can do today to make your transactional emails work for humans and AI agents](https://dev.to/broodnet/12-things-you-can-do-today-to-make-your-transactional-emails-work-for-humans-and-ai-agents-k1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
