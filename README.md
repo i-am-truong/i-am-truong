@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Agent That Actually Remembers](https://dev.to/mithra_a443f9e25cabb3cea2/building-an-ai-agent-that-actually-remembers-1kd2)
-- [Understandind DDL and DML in SQL](https://dev.to/keim/understandind-ddl-and-dml-in-sql-3bhe)
-- [Website Testing Checklist Before Launch &lpar;What I Check on Every Project&rpar;](https://dev.to/abrahamhadd/website-testing-checklist-before-launch-what-i-check-on-every-project-46dk)
-- [Sub-Agent Architecture for AI Coding Harnesses: When to Spawn, How to Route, What It Costs](https://dev.to/bruce_he/sub-agent-architecture-for-ai-coding-harnesses-when-to-spawn-how-to-route-what-it-costs-1bno)
-- [12 things you can do today to make your transactional emails work for humans and AI agents](https://dev.to/broodnet/12-things-you-can-do-today-to-make-your-transactional-emails-work-for-humans-and-ai-agents-k1b)
+- [MemPalace Benchmark Claims Don&#39;t Hold Up - A Technical Breakdown](https://dev.to/trippyengineer/mempalace-benchmark-claims-dont-hold-up-a-technical-breakdown-3l91)
+- [Building a Self-Healing Backend with AI + Docker](https://dev.to/kccab5b1/building-a-self-healing-backend-with-ai-docker-4pm4)
+- [Uncentered DIV](https://dev.to/karthikpaii/uncentered-div-569i)
+- [KMP Native UI Login and Profile screens, navigation, and more](https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461)
+- [AI编程真的让我有点震惊，作为安全工程师我开始认真思考自己的价值在哪里](https://dev.to/chinatiger/aibian-cheng-zhen-de-rang-wo-you-dian-zhen-liang-zuo-wei-an-quan-gong-cheng-shi-wo-kai-shi-ren-zhen-si-kao-zi-ji-de-jie-zhi-zai-na-li-4g35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
