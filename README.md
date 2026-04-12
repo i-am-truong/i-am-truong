@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MemPalace Benchmark Claims Don&#39;t Hold Up - A Technical Breakdown](https://dev.to/trippyengineer/mempalace-benchmark-claims-dont-hold-up-a-technical-breakdown-3l91)
-- [Building a Self-Healing Backend with AI + Docker](https://dev.to/kccab5b1/building-a-self-healing-backend-with-ai-docker-4pm4)
-- [Uncentered DIV](https://dev.to/karthikpaii/uncentered-div-569i)
-- [KMP Native UI Login and Profile screens, navigation, and more](https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461)
-- [AI编程真的让我有点震惊，作为安全工程师我开始认真思考自己的价值在哪里](https://dev.to/chinatiger/aibian-cheng-zhen-de-rang-wo-you-dian-zhen-liang-zuo-wei-an-quan-gong-cheng-shi-wo-kai-shi-ren-zhen-si-kao-zi-ji-de-jie-zhi-zai-na-li-4g35)
+- [I built an AI that remembers every production incident. Here&#39;s what changed.](https://dev.to/sanscode19/i-built-an-ai-that-remembers-every-production-incident-heres-what-changed-bll)
+- [The definitive guide to testing Slack bots &lpar;and why it&#39;s been so hard&rpar;](https://dev.to/markturk87/the-definitive-guide-to-testing-slack-bots-and-why-its-been-so-hard-5feh)
+- [Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think](https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j)
+- [Dockerized robotics development should be easy!](https://dev.to/pswaroopa/dockerized-robotics-development-should-be-easy-2phf)
+- [&quot;Backend Engineering for an AI Platform: The Infrastructure Decisions Nobody Talks About&quot;](https://dev.to/raghav_bansal_1e5718bd640/backend-engineering-for-an-ai-platform-the-infrastructure-decisions-nobody-talks-about-5gil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
