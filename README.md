@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekend Build Recap: Trust-Aware API Access with OpenID Federation](https://dev.to/darkedges/weekend-build-recap-trust-aware-api-access-with-openid-federation-3o3j)
-- [A userland process protector with a watchdog living inside explorer.exe](https://dev.to/000carloscar/a-userland-process-protector-with-a-watchdog-living-inside-explorerexe-2c1l)
-- [&quot;AI&quot; Code Reviewer That Only Complains &lpar;Never Says Anything Nice&rpar;](https://dev.to/arnoldwender/ai-code-reviewer-that-only-complains-never-says-anything-nice-53pi)
-- [ClipJot - your free open-source clipboard editor now available for DOWNLOAD!
-
-https://open.substack.com/pub/marvec/p/app-1-clipjot-edit-screenshots-straight?r=5ijt12&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true](https://dev.to/marvec/clipjot-your-free-open-source-clipboard-editor-now-available-for-download-2ppe)
-- [Bringing the LLM Wiki Idea to a Codebase](https://dev.to/yysun/bringing-the-llm-wiki-idea-to-a-codebase-22go)
+- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/anthony-gicheru/etl-vs-elt-which-one-should-you-use-and-why-412e)
+- [From Voltage to Logic: What I Learned While Digging into the CPU&#39;s Heart](https://dev.to/utkuhanakar/from-voltage-to-logic-what-i-learned-while-digging-into-the-cpus-heart-13f1)
+- [Why Most Study Planners Fail: A Student-Led Experiment on Real Behavior](https://dev.to/cryptic_melancholy/why-most-study-planners-fail-a-student-led-experiment-on-real-behavior-3h7i)
+- [Construindo uma rede social de estudos com IA: desafios e aprendizados](https://dev.to/josimar_canejo/construindo-uma-rede-social-de-estudos-com-ia-desafios-e-aprendizados-3og)
+- [Crucix: An Open OSINT Dashboard Aggregating 27 Real-Time Data Sources](https://dev.to/repairxpert/crucix-an-open-osint-dashboard-aggregating-27-real-time-data-sources-1jo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
