@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI that remembers every production incident. Here&#39;s what changed.](https://dev.to/sanscode19/i-built-an-ai-that-remembers-every-production-incident-heres-what-changed-bll)
-- [The definitive guide to testing Slack bots &lpar;and why it&#39;s been so hard&rpar;](https://dev.to/markturk87/the-definitive-guide-to-testing-slack-bots-and-why-its-been-so-hard-5feh)
-- [Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think](https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j)
-- [Dockerized robotics development should be easy!](https://dev.to/pswaroopa/dockerized-robotics-development-should-be-easy-2phf)
-- [&quot;Backend Engineering for an AI Platform: The Infrastructure Decisions Nobody Talks About&quot;](https://dev.to/raghav_bansal_1e5718bd640/backend-engineering-for-an-ai-platform-the-infrastructure-decisions-nobody-talks-about-5gil)
+- [SPF, DKIM &amp; DMARC Generators: How to Create Email Authentication Records](https://dev.to/toolbox_starnomina/spf-dkim-dmarc-generators-how-to-create-email-authentication-records-1f9i)
+- [ML Unchained: Machine Learning for Developers](https://dev.to/yotam_belgoroski_f38c49e2/ml-unchained-machine-learning-for-developers-5ch3)
+- [6 Agile Tools I Built Because Jira Dashboards Aren&#39;t Enough](https://dev.to/aralroca/6-agile-tools-i-built-because-jira-dashboards-arent-enough-1m3e)
+- [Salesmotion&#39;s MCP Server Turns Your AI Assistant into a Live Pipeline Analyst](https://dev.to/om_shree_0709/salesmotions-mcp-server-turns-your-ai-assistant-into-a-live-pipeline-analyst-1f5h)
+- [The monitoring gaps that page you at 3am are the ones you didn&#39;t know existed](https://dev.to/paulg7516/the-monitoring-gaps-that-page-you-at-3am-are-the-ones-you-didnt-know-existed-5f3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
