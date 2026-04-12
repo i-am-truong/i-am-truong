@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ Terraform Production Structure &lpar;Dev / Staging / Prod&rpar; — Part 6](https://dev.to/ahkarswe/terraform-production-structure-dev-staging-prod-part-6-4p3c)
-- [Before/After: What Claude Code Actually Sees](https://dev.to/ji_ai/beforeafter-what-claude-code-actually-sees-4em3)
-- [Connecting Flutter to Vehicle Signals: Building a Dart SDK for Eclipse KUKSA](https://dev.to/aki1770del/connecting-flutter-to-vehicle-signals-building-a-dart-sdk-for-eclipse-kuksa-121l)
-- [How AI Is Quietly Breaking Web3 Security &lpar;And Creating Invisible Attack Surfaces&rpar;](https://dev.to/codebyankita/how-ai-is-quietly-breaking-web3-security-and-creating-invisible-attack-surfaces-3i2d)
-- [Python’s Silent Production Killer: Why &quot;Pass-by-Reference&quot; is a Lie](https://dev.to/mr_harshkumar_jha/pythons-silent-production-killer-why-pass-by-reference-is-a-lie-b97)
+- [The Wrong GUID: How a Single Constant Broke WebSocket in Every Browser But Not Python](https://dev.to/ljkunal/the-wrong-guid-how-a-single-constant-broke-websocket-in-every-browser-but-not-python-1ojd)
+- [Building EchoKernel: A Voice-Controlled AI Agent That Actually Does Things](https://dev.to/manas_ranjanjena_6946ef7/building-echokernel-a-voice-controlled-ai-agent-that-actually-does-things-1l5a)
+- [A Repeatable Daily Shell Workflow: Bash workflow notes](https://dev.to/arnostorg/a-repeatable-daily-shell-workflow-bash-workflow-notes-2bg0)
+- [A Black-Box Framework for Evaluating Trust in AI Agents](https://dev.to/gaurav_mawari_99978969be3/a-black-box-framework-for-evaluating-trust-in-ai-agents-3681)
+- [Plug-and-Play Context Compression for Any LLM API — CRISP](https://dev.to/harshith_halejolad/plug-and-play-context-compression-for-any-llm-api-crisp-1lai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
