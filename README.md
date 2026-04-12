@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GKE&#39;s Noisy Neighbor Problem Can Be Invisible in Metrics Explorer](https://dev.to/katz/gkes-noisy-neighbor-problem-can-be-invisible-in-metrics-explorer-1bf4)
-- [Book review: 5 Love Languages](https://dev.to/nikola/book-review-5-love-languages-329b)
-- [.me URI Scheme &lpar;v1&rpar; - Eng](https://dev.to/suign/me-uri-scheme-v1-eng-4djp)
-- [Flutter WebでMoneyForwardを超える家計AIアドバイザーを実装した話](https://dev.to/kanta13jp1/flutter-webdemoneyforwardwochao-erujia-ji-aiadobaizawoshi-zhuang-sitahua-502g)
-- [Building Voca: I Built a 100% Local Voice AI Agent — No Cloud, No Compromise](https://dev.to/kuruvpatel/building-voca-i-built-a-100-local-voice-ai-agent-no-cloud-no-compromise-3dc2)
+- [YOLO Evolution: Comparing YOLOv5, v11, v12, and v26 on the Cars Detection Dataset](https://dev.to/nanditab35/yolo-evolution-comparing-yolov5-v11-v12-and-v26-on-the-cars-dataset-1ckj)
+- [A Keyboard-Driven HTML Entity Lookup That Lets You Copy All Three Forms](https://dev.to/sendotltd/a-keyboard-driven-html-entity-lookup-that-lets-you-copy-all-three-forms-2lf6)
+- [A Searchable HTTP Status Code Reference with 36 Codes, One-Line Descriptions, and Yes, 418](https://dev.to/sendotltd/a-searchable-http-status-code-reference-with-36-codes-one-line-descriptions-and-yes-418-1e0g)
+- [How to Test SSO Authentication with Cognito and OIDC Providers](https://dev.to/soldatov-ss/how-to-test-sso-authentication-with-cognito-and-oidc-providers-894)
+- [How to Configure AWS Cognito for SSO: A Step-by-Step Guide](https://dev.to/soldatov-ss/how-to-configure-aws-cognito-for-sso-a-step-by-step-guide-3j44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
