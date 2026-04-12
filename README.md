@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Fastest Sorting Algorithm? It Depends. A Deep Dive into Performance on Modern Hardware](https://dev.to/aza_10/the-fastest-sorting-algorithm-it-depends-a-deep-dive-into-performance-on-modern-hardware-24b9)
-- [I Built a Fully Local OSINT Agent with Ollama, LangChain, Telegram and Qwen3.5 14B — Running 24/7 on My Homelab, Zero Cloud, Zero Compromises](https://dev.to/miwaty/i-built-a-fully-local-osint-agent-with-ollama-langchain-telegram-and-qwen35-14b-running-247-1pfk)
-- [We Ran Four Security Tools Against Express.js. They Found Each Other&#39;s Proof.](https://dev.to/copyleftdev/we-ran-four-security-tools-against-expressjs-they-found-each-others-proof-34ah)
-- [Self-hosted NodeJS Authentication in 2026](https://dev.to/noorix1/self-hosted-nodejs-authentication-in-2026-9ao)
-- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/anthony-gicheru/etl-vs-elt-which-one-should-you-use-and-why-412e)
+- [How to catch N+1 queries in EF Core before they hit production](https://dev.to/kiwidevelopment/how-to-catch-n1-queries-in-ef-core-before-they-hit-production-4g7j)
+- [The AI Coding Assistant Stack That Actually Works in 2026](https://dev.to/silvesterdivas/the-ai-coding-assistant-stack-that-actually-works-in-2026-9cd)
+- [&quot;I Added AI to My Project in 2 Hours — Here&#39;s the Exact Code&quot;](https://dev.to/devraj_singh7/i-added-ai-to-my-project-in-2-hours-heres-the-exact-code-abf)
+- [TEAPOT.EXE &lpar;Enterprise SaaS for HTTP 418: Zero Coffee, 100% Compliance&rpar;](https://dev.to/abdullahdevs_/teapotexe-enterprise-saas-for-http-418-zero-coffee-100-compliance-b6c)
+- [Drumbeats vs Healthchecks.io: An Honest Comparison &lpar;2026&rpar;](https://dev.to/urtuba/drumbeats-vs-healthchecksio-an-honest-comparison-2026-1in9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
