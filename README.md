@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SPF, DKIM &amp; DMARC Generators: How to Create Email Authentication Records](https://dev.to/toolbox_starnomina/spf-dkim-dmarc-generators-how-to-create-email-authentication-records-1f9i)
-- [ML Unchained: Machine Learning for Developers](https://dev.to/yotam_belgoroski_f38c49e2/ml-unchained-machine-learning-for-developers-5ch3)
-- [6 Agile Tools I Built Because Jira Dashboards Aren&#39;t Enough](https://dev.to/aralroca/6-agile-tools-i-built-because-jira-dashboards-arent-enough-1m3e)
-- [Salesmotion&#39;s MCP Server Turns Your AI Assistant into a Live Pipeline Analyst](https://dev.to/om_shree_0709/salesmotions-mcp-server-turns-your-ai-assistant-into-a-live-pipeline-analyst-1f5h)
-- [The monitoring gaps that page you at 3am are the ones you didn&#39;t know existed](https://dev.to/paulg7516/the-monitoring-gaps-that-page-you-at-3am-are-the-ones-you-didnt-know-existed-5f3b)
+- [The Machine Is Real: An AI Escaped Its Sandbox and Sent an Email](https://dev.to/zaferdace/the-machine-is-real-an-ai-escaped-its-sandbox-and-sent-an-email-41hp)
+- [DotShare v3.0 — I Turned My VS Code Extension Into a Full Publishing Suite &lpar;Dev.to + Medium Inside&rpar;](https://dev.to/freerave/dotshare-v30-i-turned-my-vs-code-extension-into-a-full-publishing-suite-devto-medium-inside-15fe)
+- [HOW I BUILT A FULL STACK WEBSITE &lpar;MERN&rpar;](https://dev.to/nswarnob/how-i-built-a-full-stack-website-mern-2hg6)
+- [What code review process do you use for AI-generated code?](https://dev.to/manthanbhatt/what-code-review-process-do-you-use-for-ai-generated-code-4n4l)
+- [SPF Records Explained: Prevent Email Spoofing with Sender Policy Framework](https://dev.to/toolbox_starnomina/spf-records-explained-prevent-email-spoofing-with-sender-policy-framework-1lad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
