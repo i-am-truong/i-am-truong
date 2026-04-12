@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Specification-First Agentic Development: A Methodology for Structured, Traceable AI-Assisted Development](https://dev.to/holgerleichsenring/specification-first-agentic-development-a-methodology-for-structured-traceable-ai-assisted-la)
-- [How I Passed the AWS Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/ayaanahmad/how-i-passed-the-aws-cloud-practitioner-clf-c02-3dmn)
-- [&quot;Talk to Your Terminal: Building a Voice AI Agent in Python&quot;](https://dev.to/preethii_v_192006/talk-to-your-terminal-building-a-voice-ai-agent-in-python-51bm)
-- [Designing GenAI Infrastructure: How to Scale Video Generation](https://dev.to/karan_kumar_f09865ff0efe9/designing-genai-infrastructure-how-to-scale-video-generation-21bh)
-- [Building a Voice-Controlled AI Agent with Groq and Streamlit](https://dev.to/minal43/building-a-voice-controlled-ai-agent-with-groq-and-streamlit-3bc3)
+- [Weekend Build Recap: Trust-Aware API Access with OpenID Federation](https://dev.to/darkedges/weekend-build-recap-trust-aware-api-access-with-openid-federation-3o3j)
+- [A userland process protector with a watchdog living inside explorer.exe](https://dev.to/000carloscar/a-userland-process-protector-with-a-watchdog-living-inside-explorerexe-2c1l)
+- [&quot;AI&quot; Code Reviewer That Only Complains &lpar;Never Says Anything Nice&rpar;](https://dev.to/arnoldwender/ai-code-reviewer-that-only-complains-never-says-anything-nice-53pi)
+- [ClipJot - your free open-source clipboard editor now available for DOWNLOAD!
+
+https://open.substack.com/pub/marvec/p/app-1-clipjot-edit-screenshots-straight?r=5ijt12&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true](https://dev.to/marvec/clipjot-your-free-open-source-clipboard-editor-now-available-for-download-2ppe)
+- [Bringing the LLM Wiki Idea to a Codebase](https://dev.to/yysun/bringing-the-llm-wiki-idea-to-a-codebase-22go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
