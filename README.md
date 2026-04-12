@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SSRF to AWS Credential Harvest — The Capital One Attack Chain, Visualized| CAISD](https://dev.to/caisd/ssrf-to-aws-credential-harvest-the-capital-one-attack-chain-visualized-caisd-34i8)
-- [Your Agentic Workflows Are Making Decisions on Stale Data and You Probably Don&#39;t Know It](https://dev.to/romclerix/your-agentic-workflows-are-making-decisions-on-stale-data-and-you-probably-dont-know-it-10l3)
-- [SSRF Attack — When the Server Becomes the Attacker | CAISD](https://dev.to/kevin_mitnick_d472d4e23f6/ssrf-attack-when-the-server-becomes-the-attacker-caisd-36i0)
-- [My AI Agent Has Amnesia — And It’s Ruining My Business](https://dev.to/sameera_/my-ai-agent-has-amnesia-and-its-ruining-my-business-377j)
-- [I Built a Fully Local Voice AI Agent — Here&#39;s What Broke &lpar;and How I Fixed It&rpar;](https://dev.to/akhilesh0605/i-built-a-fully-local-voice-ai-agent-heres-what-broke-and-how-i-fixed-it-259m)
+- [My AI Agent Has Amnesia — And It’s Ruining My Business](https://dev.to/kritika_sharma_9ffe0d728c/my-ai-agent-has-amnesia-and-its-ruining-my-business-2a65)
+- [The “The Architecture Handbook for Milvus Vector Database” Book Review](https://dev.to/aairom/the-the-architecture-handbook-for-milvus-vector-database-book-review-1850)
+- [Deepfake Fraud Tripled to $1.1B. Your Evidence Workflow Didn&#39;t.](https://dev.to/caracomp/deepfake-fraud-tripled-to-11b-your-evidence-workflow-didnt-4d63)
+- [[Boost]](https://dev.to/matheusgondra/-4ji7)
+- [LLM Wiki Skill: Build a Second Brain With Claude Code and Obsidian](https://dev.to/alireza_rezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2ljg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
