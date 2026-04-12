@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek)
-- [Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j)
-- [Building a Frontend That Makes AI Decisions Understandable](https://dev.to/ciyana_anilkumar/building-a-frontend-that-makes-ai-decisions-understandable-39i8)
-- [JavaScript Event Loop Explained: Macrotasks, Microtasks, and Async/Await Made Simple](https://dev.to/satishjaiswal/javascript-event-loop-explained-macrotasks-microtasks-and-asyncawait-made-simple-22cd)
-- [A Deep Dive into SQL Basics](https://dev.to/derickmenje/mastering-the-fundamentals-a-deep-dive-into-sql-basics-3onn)
+- [I built an AI that turns small thoughts into full mental breakdowns | Brain Blast AI](https://dev.to/aakinchany_jain/i-built-an-ai-that-turns-small-thoughts-into-full-mental-breakdowns-brain-blast-ai-3ipc)
+- [I Built a Voice-Controlled Local AI Agent That Actually Works — Here&#39;s Everything I Learned](https://dev.to/srishti1806/i-built-a-voice-controlled-local-ai-agent-that-actually-works-heres-everything-i-learned-3lal)
+- [Learning PostgreSQL the Practical Way: Understanding DDL, DML, and Data Transformation](https://dev.to/gracemunyi/learning-postgresql-the-practical-way-understanding-ddl-dml-and-data-transformation-4a34)
+- [How I Wired Hindsight&#39;s Agent Memory Into a Species Detection Pipeline — and What the Alerts Map Taught Me](https://dev.to/harih2007/how-i-wired-hindsights-agent-memory-into-a-species-detection-pipeline-and-what-the-alerts-map-42ln)
+- [I Built a Loading Screen That Never Finishes](https://dev.to/adaikkappan2310/i-built-a-loading-screen-that-never-finishes-2043)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
