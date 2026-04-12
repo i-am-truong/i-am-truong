@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YOLO Evolution: Comparing YOLOv5, v11, v12, and v26 on the Cars Detection Dataset](https://dev.to/nanditab35/yolo-evolution-comparing-yolov5-v11-v12-and-v26-on-the-cars-dataset-1ckj)
-- [A Keyboard-Driven HTML Entity Lookup That Lets You Copy All Three Forms](https://dev.to/sendotltd/a-keyboard-driven-html-entity-lookup-that-lets-you-copy-all-three-forms-2lf6)
-- [A Searchable HTTP Status Code Reference with 36 Codes, One-Line Descriptions, and Yes, 418](https://dev.to/sendotltd/a-searchable-http-status-code-reference-with-36-codes-one-line-descriptions-and-yes-418-1e0g)
-- [How to Test SSO Authentication with Cognito and OIDC Providers](https://dev.to/soldatov-ss/how-to-test-sso-authentication-with-cognito-and-oidc-providers-894)
-- [How to Configure AWS Cognito for SSO: A Step-by-Step Guide](https://dev.to/soldatov-ss/how-to-configure-aws-cognito-for-sso-a-step-by-step-guide-3j44)
+- [Developers need to balance code and health — I wasn’t, so I built this](https://dev.to/gitbalance_f4db598037430518/developers-need-to-balance-code-and-health-i-wasnt-so-i-built-this-5d2)
+- [Your Pipeline Is 14.8h Behind: Catching Real Estate Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-148h-behind-catching-real-estate-sentiment-leads-with-pulsebit-59n4)
+- [From Django Library to AWS Cognito: My Journey Building Enterprise SSO](https://dev.to/soldatov-ss/from-django-library-to-aws-cognito-my-journey-building-enterprise-sso-30be)
+- [Build a Freelancer Payout Platform with the Afriex SDK and Next.js](https://dev.to/afriex/build-a-freelancer-payout-platform-with-the-afriex-sdk-and-nextjs-2oc8)
+- [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
