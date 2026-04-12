@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Agent - Your New AI Teammate for DevOps](https://dev.to/aws-builders/aws-devops-agent-your-new-ai-teammate-for-devops-4mbp)
-- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-lib)
-- [MCP vs CLI for Browser Automation: I Benchmarked Both and the Results Surprised Me](https://dev.to/achiya-automation/mcp-vs-cli-for-browser-automation-i-benchmarked-both-and-the-results-surprised-me-4cog)
-- [Voice Agent Project](https://dev.to/aaditya_kapruwan/voice-agent-project-46ka)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-37g2)
+- [The Data Engineering Lifecycle](https://dev.to/mirinagonzales/the-data-engineering-lifecycle-2n7m)
+- [Generate a PDF from JSON with one API call](https://dev.to/eduardmaghakyan/generate-a-pdf-from-json-with-one-api-call-5g08)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-5hef)
+- [El Ciclo de Vida de la Ingeniería de Datos](https://dev.to/mirinagonzales/el-ciclo-de-vida-de-la-ingenieria-de-datos-3cfg)
+- [How I use Claude Code to write tests for untested code — a complete workflow](https://dev.to/subprime2010/how-i-use-claude-code-to-write-tests-for-untested-code-a-complete-workflow-32oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
