@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Machine Is Real: An AI Escaped Its Sandbox and Sent an Email](https://dev.to/zaferdace/the-machine-is-real-an-ai-escaped-its-sandbox-and-sent-an-email-41hp)
-- [DotShare v3.0 — I Turned My VS Code Extension Into a Full Publishing Suite &lpar;Dev.to + Medium Inside&rpar;](https://dev.to/freerave/dotshare-v30-i-turned-my-vs-code-extension-into-a-full-publishing-suite-devto-medium-inside-15fe)
-- [HOW I BUILT A FULL STACK WEBSITE &lpar;MERN&rpar;](https://dev.to/nswarnob/how-i-built-a-full-stack-website-mern-2hg6)
-- [What code review process do you use for AI-generated code?](https://dev.to/manthanbhatt/what-code-review-process-do-you-use-for-ai-generated-code-4n4l)
-- [SPF Records Explained: Prevent Email Spoofing with Sender Policy Framework](https://dev.to/toolbox_starnomina/spf-records-explained-prevent-email-spoofing-with-sender-policy-framework-1lad)
+- [Specification-First Agentic Development: A Methodology for Structured, Traceable AI-Assisted Development](https://dev.to/holgerleichsenring/specification-first-agentic-development-a-methodology-for-structured-traceable-ai-assisted-la)
+- [How I Passed the AWS Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/ayaanahmad/how-i-passed-the-aws-cloud-practitioner-clf-c02-3dmn)
+- [&quot;Talk to Your Terminal: Building a Voice AI Agent in Python&quot;](https://dev.to/preethii_v_192006/talk-to-your-terminal-building-a-voice-ai-agent-in-python-51bm)
+- [Designing GenAI Infrastructure: How to Scale Video Generation](https://dev.to/karan_kumar_f09865ff0efe9/designing-genai-infrastructure-how-to-scale-video-generation-21bh)
+- [Building a Voice-Controlled AI Agent with Groq and Streamlit](https://dev.to/minal43/building-a-voice-controlled-ai-agent-with-groq-and-streamlit-3bc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
