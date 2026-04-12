@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to catch N+1 queries in EF Core before they hit production](https://dev.to/kiwidevelopment/how-to-catch-n1-queries-in-ef-core-before-they-hit-production-4g7j)
-- [The AI Coding Assistant Stack That Actually Works in 2026](https://dev.to/silvesterdivas/the-ai-coding-assistant-stack-that-actually-works-in-2026-9cd)
-- [&quot;I Added AI to My Project in 2 Hours — Here&#39;s the Exact Code&quot;](https://dev.to/devraj_singh7/i-added-ai-to-my-project-in-2-hours-heres-the-exact-code-abf)
-- [TEAPOT.EXE &lpar;Enterprise SaaS for HTTP 418: Zero Coffee, 100% Compliance&rpar;](https://dev.to/abdullahdevs_/teapotexe-enterprise-saas-for-http-418-zero-coffee-100-compliance-b6c)
-- [Drumbeats vs Healthchecks.io: An Honest Comparison &lpar;2026&rpar;](https://dev.to/urtuba/drumbeats-vs-healthchecksio-an-honest-comparison-2026-1in9)
+- [Semantic Search at Scale: What I Learned Building RAG Infrastructure at Microsoft Copilot](https://dev.to/kennedyraju55/semantic-search-at-scale-what-i-learned-building-rag-infrastructure-at-microsoft-copilot-3d0h)
+- [The Developer&#39;s Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don&#39;t Need an API Key](https://dev.to/kennedyraju55/the-developers-guide-to-running-llms-locally-ollama-gemma-4-and-why-your-side-projects-dont-54oe)
+- [Hook State Converter: Decode Xahau HookState ABI Without the Guesswork](https://dev.to/xrplwin/hook-state-converter-decode-xahau-hookstate-abi-without-the-guesswork-7j2)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-1jaj)
+- [Cost-Aware Serverless Architecture Reviews: A Practical Framework](https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
