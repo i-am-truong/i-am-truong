@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI that turns small thoughts into full mental breakdowns | Brain Blast AI](https://dev.to/aakinchany_jain/i-built-an-ai-that-turns-small-thoughts-into-full-mental-breakdowns-brain-blast-ai-3ipc)
-- [I Built a Voice-Controlled Local AI Agent That Actually Works — Here&#39;s Everything I Learned](https://dev.to/srishti1806/i-built-a-voice-controlled-local-ai-agent-that-actually-works-heres-everything-i-learned-3lal)
-- [Learning PostgreSQL the Practical Way: Understanding DDL, DML, and Data Transformation](https://dev.to/gracemunyi/learning-postgresql-the-practical-way-understanding-ddl-dml-and-data-transformation-4a34)
-- [How I Wired Hindsight&#39;s Agent Memory Into a Species Detection Pipeline — and What the Alerts Map Taught Me](https://dev.to/harih2007/how-i-wired-hindsights-agent-memory-into-a-species-detection-pipeline-and-what-the-alerts-map-42ln)
-- [I Built a Loading Screen That Never Finishes](https://dev.to/adaikkappan2310/i-built-a-loading-screen-that-never-finishes-2043)
+- [Transcript: Sen. Mark Warner on &quot;Face the Nation with Margaret Brennan&quot;](https://dev.to/chx382/transcript-sen-mark-warner-on-face-the-nation-with-margaret-brennan-2k74)
+- [Building a Voice-Controlled AI Agent: Architecture, Models &amp; Lessons Learned](https://dev.to/mahi_vigneshvalleti_f791/building-a-voice-controlled-ai-agent-architecture-models-lessons-learned-3mje)
+- [Why AI-Generated Code Needs Architecture Standards &lpar;and How We Solved It&rpar;](https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh)
+- [SteeplyOpinionated: A PR Review Tool for Tea Recipes &lpar;Returns 418, Obviously&rpar;](https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k)
+- [EB1A for Developers: How to Build a Profile That Actually Gets Approved](https://dev.to/eb1a_team_c39616cb392f9ea/eb1a-for-developers-how-to-build-a-profile-that-actually-gets-approved-ai2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
