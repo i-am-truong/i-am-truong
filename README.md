@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Wrong GUID: How a Single Constant Broke WebSocket in Every Browser But Not Python](https://dev.to/ljkunal/the-wrong-guid-how-a-single-constant-broke-websocket-in-every-browser-but-not-python-1ojd)
-- [Building EchoKernel: A Voice-Controlled AI Agent That Actually Does Things](https://dev.to/manas_ranjanjena_6946ef7/building-echokernel-a-voice-controlled-ai-agent-that-actually-does-things-1l5a)
-- [A Repeatable Daily Shell Workflow: Bash workflow notes](https://dev.to/arnostorg/a-repeatable-daily-shell-workflow-bash-workflow-notes-2bg0)
-- [A Black-Box Framework for Evaluating Trust in AI Agents](https://dev.to/gaurav_mawari_99978969be3/a-black-box-framework-for-evaluating-trust-in-ai-agents-3681)
-- [Plug-and-Play Context Compression for Any LLM API — CRISP](https://dev.to/harshith_halejolad/plug-and-play-context-compression-for-any-llm-api-crisp-1lai)
+- [GKE&#39;s Noisy Neighbor Problem Can Be Invisible in Metrics Explorer](https://dev.to/katz/gkes-noisy-neighbor-problem-can-be-invisible-in-metrics-explorer-1bf4)
+- [Book review: 5 Love Languages](https://dev.to/nikola/book-review-5-love-languages-329b)
+- [.me URI Scheme &lpar;v1&rpar; - Eng](https://dev.to/suign/me-uri-scheme-v1-eng-4djp)
+- [Flutter WebでMoneyForwardを超える家計AIアドバイザーを実装した話](https://dev.to/kanta13jp1/flutter-webdemoneyforwardwochao-erujia-ji-aiadobaizawoshi-zhuang-sitahua-502g)
+- [Building Voca: I Built a 100% Local Voice AI Agent — No Cloud, No Compromise](https://dev.to/kuruvpatel/building-voca-i-built-a-100-local-voice-ai-agent-no-cloud-no-compromise-3dc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
