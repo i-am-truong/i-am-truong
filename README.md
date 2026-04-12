@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Fastest Sorting Algorithm? It Depends. A Deep Dive into Performance on Modern Hardware](https://dev.to/aza_10/the-fastest-sorting-algorithm-it-depends-a-deep-dive-into-performance-on-modern-hardware-24b9)
+- [I Built a Fully Local OSINT Agent with Ollama, LangChain, Telegram and Qwen3.5 14B — Running 24/7 on My Homelab, Zero Cloud, Zero Compromises](https://dev.to/miwaty/i-built-a-fully-local-osint-agent-with-ollama-langchain-telegram-and-qwen35-14b-running-247-1pfk)
+- [We Ran Four Security Tools Against Express.js. They Found Each Other&#39;s Proof.](https://dev.to/copyleftdev/we-ran-four-security-tools-against-expressjs-they-found-each-others-proof-34ah)
+- [Self-hosted NodeJS Authentication in 2026](https://dev.to/noorix1/self-hosted-nodejs-authentication-in-2026-9ao)
 - [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/anthony-gicheru/etl-vs-elt-which-one-should-you-use-and-why-412e)
-- [From Voltage to Logic: What I Learned While Digging into the CPU&#39;s Heart](https://dev.to/utkuhanakar/from-voltage-to-logic-what-i-learned-while-digging-into-the-cpus-heart-13f1)
-- [Why Most Study Planners Fail: A Student-Led Experiment on Real Behavior](https://dev.to/cryptic_melancholy/why-most-study-planners-fail-a-student-led-experiment-on-real-behavior-3h7i)
-- [Construindo uma rede social de estudos com IA: desafios e aprendizados](https://dev.to/josimar_canejo/construindo-uma-rede-social-de-estudos-com-ia-desafios-e-aprendizados-3og)
-- [Crucix: An Open OSINT Dashboard Aggregating 27 Real-Time Data Sources](https://dev.to/repairxpert/crucix-an-open-osint-dashboard-aggregating-27-real-time-data-sources-1jo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
