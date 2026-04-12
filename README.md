@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Has Amnesia — And It’s Ruining My Business](https://dev.to/kritika_sharma_9ffe0d728c/my-ai-agent-has-amnesia-and-its-ruining-my-business-2a65)
-- [The “The Architecture Handbook for Milvus Vector Database” Book Review](https://dev.to/aairom/the-the-architecture-handbook-for-milvus-vector-database-book-review-1850)
-- [Deepfake Fraud Tripled to $1.1B. Your Evidence Workflow Didn&#39;t.](https://dev.to/caracomp/deepfake-fraud-tripled-to-11b-your-evidence-workflow-didnt-4d63)
-- [[Boost]](https://dev.to/matheusgondra/-4ji7)
-- [LLM Wiki Skill: Build a Second Brain With Claude Code and Obsidian](https://dev.to/alireza_rezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2ljg)
+- [# Same churn signal, two different right answers](https://dev.to/prithvi_tomar_f4437bfefd4/-same-churn-signal-two-different-right-answers-32hg)
+- [Vitest Mocking: vi.mock vs vi.spyOn Explained](https://dev.to/maanu07/vitest-mocking-vimock-vs-vispyon-explained-19ho)
+- [How to Run GLM 4.7 Flash Locally with Ollama — 30B Quality at 3B Speed](https://dev.to/purpledoubled/how-to-run-glm-47-flash-locally-with-ollama-30b-quality-at-3b-speed-2lii)
+- [Your code is not the asset, your spec is](https://dev.to/dennis_b/your-code-is-not-the-asset-your-spec-is-4689)
+- [[2026-04] How I Currently Use Claude Code](https://dev.to/masutaka/2026-04-how-i-currently-use-claude-code-2nck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
