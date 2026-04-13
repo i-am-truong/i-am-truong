@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Popular Frameworks in Real Combat: Experience of Implementation in Production](https://dev.to/devepro/comparing-popular-frameworks-in-real-combat-experience-of-implementation-in-production-lah)
-- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
-- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
-- [GIMP&#39;s Posterization: Simple Quantization vs. Median Cut for Better Visuals](https://dev.to/denlava/gimps-posterization-simple-quantization-vs-median-cut-for-better-visuals-h7f)
-- [Ghost Jobs: 30% of What You&#39;re Applying to Doesn&#39;t Exist](https://dev.to/remoet/ghost-jobs-30-of-what-youre-applying-to-doesnt-exist-ka)
+- [What is Apache Iceberg? The Table Format Revolution](https://dev.to/alexmercedcoder/what-is-apache-iceberg-the-table-format-revolution-4d62)
+- [[SC] Actores en Swift](https://dev.to/david_goyes_a488f58a17a53/sc-actores-en-swift-1ipb)
+- [What is Apache Parquet? Columns, Encoding, and Performance](https://dev.to/alexmercedcoder/what-is-apache-parquet-columns-encoding-and-performance-333i)
+- [Apache Software Foundation: History, Purpose, and Process](https://dev.to/alexmercedcoder/apache-software-foundation-history-purpose-and-process-199l)
+- [Giving AI Agents Eyes &lpar;Part 1&rpar;: 6 Tricks for Reading Web Pages Without Vision Models](https://dev.to/gauravchodwadia/giving-ai-agents-eyes-part-1-6-tricks-for-reading-web-pages-without-vision-models-4193)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
