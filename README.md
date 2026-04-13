@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, Amazon EKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h)
-- [The Gap Between Design and Development Is Finally Closing](https://dev.to/safiullahkorai/the-gap-between-design-and-development-is-finally-closing-2kio)
-- [7/9 implementations done quick!](https://dev.to/highcenburg/79-implementations-done-quick-39jh)
-- [Beyond Core Java: What Makes You a Professional Developer](https://dev.to/chaitanyakukwas1/beyond-core-java-what-makes-you-a-professional-developer-449g)
-- [Prompt Complexity vs Output Quality: When More Instructions Hurt Performance](https://dev.to/jasrandhawa/prompt-complexity-vs-output-quality-when-more-instructions-hurt-performance-2hi5)
+- [Essential AWS services every engineer should know](https://dev.to/altairlage/essential-aws-services-every-engineer-should-know-1p5j)
+- [The Claude Certified Architect Exam: 5 Domains, 6 Scenarios, and Everything You Need to Know](https://dev.to/aws-builders/the-claude-certified-architect-exam-5-domains-6-scenarios-and-everything-you-need-to-know-4le3)
+- [Resend vs SendGrid &lpar;2026&rpar; — SendGrid Killed Its Free Tier, Now What?](https://dev.to/thiago_alvarez_a7561753aa/resend-vs-sendgrid-2026-sendgrid-killed-its-free-tier-now-what-2gh4)
+- [Neon vs Supabase &lpar;2026&rpar; — Database or Backend? The Real Tradeoffs](https://dev.to/thiago_alvarez_a7561753aa/neon-vs-supabase-2026-database-or-backend-the-real-tradeoffs-3ggn)
+- [Clerk vs Better Auth &lpar;2026&rpar; — We Verified Every Price So You Don&#39;t Have To](https://dev.to/thiago_alvarez_a7561753aa/clerk-vs-better-auth-2026-we-verified-every-price-so-you-dont-have-to-13pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
