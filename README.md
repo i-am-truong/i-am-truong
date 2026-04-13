@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Copilot Spaces still loses the plot — and how knowledge graphs fix it](https://dev.to/authora/why-copilot-spaces-still-loses-the-plot-and-how-knowledge-graphs-fix-it-1371)
-- [Your Portfolio Is Already Outdated &lpar;Even If It Looks Perfect&rpar;](https://dev.to/bhavya_kapil_0feb7d6e6f64/your-portfolio-is-already-outdated-even-if-it-looks-perfect-1e08)
-- [Two Ways to Think of AI Without Outsourcing Your Mind](https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1)
-- [How Conversation Memory Improves Conversation experience](https://dev.to/balagmadhu/how-conversation-memory-improves-conversation-experience-19g8)
-- [Stop Automating Your AI&#39;s Memory. Talk to It Instead.](https://dev.to/nickmeinhold/stop-automating-your-ais-memory-talk-to-it-instead-3cnj)
+- [Your iOS App Needs a Privacy Policy. Here&#39;s How to Get One in 60 Seconds.](https://dev.to/devkoan/your-ios-app-needs-a-privacy-policy-heres-how-to-get-one-in-60-seconds-hhg)
+- [CRBR Scraper: Beneficjenci Rzeczywisci z API](https://dev.to/ucptools/crbr-scraper-beneficjenci-rzeczywisci-z-api-3ne9)
+- [Cooperative Cancellation: Propagating Shutdown Signals Through Async Trees](https://dev.to/dylan_dumont_266378d98367/cooperative-cancellation-propagating-shutdown-signals-through-async-trees-21bi)
+- [Why Real-Time Prompt Filtering Is Critical for AI Data Security in 2026](https://dev.to/langprotect/why-real-time-prompt-filtering-is-critical-for-ai-data-security-in-2026-5hmi)
+- [A Comprehensive Guide to Publishing Power Bi Reports](https://dev.to/urbanomonte/a-comprehensive-guide-to-publishing-power-bi-reports-4o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
