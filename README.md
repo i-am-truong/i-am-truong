@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [llm.txt: How to Make Your Wordpress Readable by AI Assistants](https://dev.to/antigymclub/llmtxt-how-to-make-your-wordpress-readable-by-ai-assistants-228j)
-- [Agent-as-a-Service: Comparing Claude Managed Agents and Amazon Bedrock AgentCore](https://dev.to/aws-builders/agent-as-a-service-comparing-claude-managed-agents-and-amazon-bedrock-agentcore-22eb)
-- [Automating Bank Statement Categorization for Efficient Tax Preparation](https://dev.to/denlava/automating-bank-statement-categorization-for-efficient-tax-preparation-1ljn)
-- [Your Voice Assistant Doesn&#39;t Need the Cloud — Here&#39;s How I Built 5 Offline NLP Tools](https://dev.to/kennedyraju55/your-voice-assistant-doesnt-need-the-cloud-heres-how-i-built-5-offline-nlp-tools-4n44)
-- [Stop Sending Your Security Alerts to Cloud AI — Build Local LLM Tools Instead](https://dev.to/kennedyraju55/stop-sending-your-security-alerts-to-cloud-ai-build-local-llm-tools-instead-1dgl)
+- [CameraFool](https://dev.to/zheyuse/project-name-camerafool-1180)
+- [We Scored 28 Famous Open Source PRs for Deploy Risk](https://dev.to/koalrapp/we-scored-28-famous-open-source-prs-for-deploy-risk-55bj)
+- [Reference Architecture for AI Evaluation at Scale](https://dev.to/eagleeyethinker/reference-architecture-for-ai-evaluation-at-scale-1ofb)
+- [Boost Your Output: The Best AI Productivity Prompts for ChatGPT, Claude &amp; More](https://dev.to/loseinwworld/boost-your-output-the-best-ai-productivity-prompts-for-chatgpt-claude-more-3o01)
+- [AgentHansa Platform Review: A New AI Agent Economy](https://dev.to/mimoliansong/agenthansa-platform-review-a-new-ai-agent-economy-3h7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
