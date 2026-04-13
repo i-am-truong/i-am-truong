@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fintech Backend Architecture: What Founders Get Wrong](https://dev.to/akshay_sharma_d1798ac6c5c/fintech-backend-architecture-what-founders-get-wrong-4ob6)
-- [Week 7](https://dev.to/timothy_imanuel_35225c051/week-7-310e)
-- [I built a custom AI assistant platform with Laravel + multi-provider LLMs + pgvector - here&#39;s what I learned](https://dev.to/mchisty/i-built-a-custom-ai-assistant-platform-with-laravel-multi-provider-llms-pgvector-heres-what-5h53)
-- [AD Pentesting 01: Getting your head right](https://dev.to/ahzek/ad-pentesting-01-getting-your-head-right-2n23)
-- [Week 6](https://dev.to/timothy_imanuel_35225c051/week-6-57ed)
+- [What are your goals for the week? #174](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-174-64d)
+- [App Interval Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/app-interval-timer-what-we-learned-building-random-tactical-timer-4kip)
+- [Comment un bloc est créé dans une blockchain ? &lpar;en 8 étapes simples&rpar;](https://dev.to/amel_in_tech/comment-un-bloc-est-cree-dans-une-blockchain-en-8-etapes-simples-2p79)
+- [The &quot;AI Psychosis&quot; Divide: Why Coders are Terrified and Everyone Else is Bored](https://dev.to/jet_xu/the-ai-psychosis-divide-why-coders-are-terrified-and-everyone-else-is-bored-2of2)
+- [List Files in PowerShell: Get-ChildItem Mastered](https://dev.to/arnostorg/list-files-in-powershell-get-childitem-mastered-176f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
