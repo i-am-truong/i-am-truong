@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How WebAssembly Powers Free Browser Tools With No Login](https://dev.to/nologintools/how-webassembly-powers-free-browser-tools-with-no-login-1bcf)
-- [Introducing Side-by-Side Store Compare: See How Any Two UCP Stores Stack Up](https://dev.to/benjifisher/introducing-side-by-side-store-compare-see-how-any-two-ucp-stores-stack-up-3djm)
-- [We Stopped Writing Code First. Here&#39;s Why Our Projects Got Better.](https://dev.to/decivo/we-stopped-writing-code-first-heres-why-our-projects-got-better-4871)
-- [How I Built a Multi-Agent Code Review Pipeline](https://dev.to/thegdsks/how-i-built-a-multi-agent-code-review-pipeline-2h7b)
-- [SSH hardening checklist for production servers](https://dev.to/saad_naeem/ssh-hardening-checklist-for-production-servers-jb8)
+- [Comparing Popular Frameworks in Real Combat: Experience of Implementation in Production](https://dev.to/devepro/comparing-popular-frameworks-in-real-combat-experience-of-implementation-in-production-lah)
+- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
+- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
+- [GIMP&#39;s Posterization: Simple Quantization vs. Median Cut for Better Visuals](https://dev.to/denlava/gimps-posterization-simple-quantization-vs-median-cut-for-better-visuals-h7f)
+- [Ghost Jobs: 30% of What You&#39;re Applying to Doesn&#39;t Exist](https://dev.to/remoet/ghost-jobs-30-of-what-youre-applying-to-doesnt-exist-ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
