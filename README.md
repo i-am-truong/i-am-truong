@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Firewall Premium Without TLS Inspection: That&#39;s $693/Month Wasted](https://dev.to/muskan_8abedcc7e12/azure-firewall-premium-without-tls-inspection-thats-693month-wasted-33ja)
-- [When Autoscaling Makes Your Bill Worse, Not Better](https://dev.to/muskan_8abedcc7e12/when-autoscaling-makes-your-bill-worse-not-better-285j)
-- [The &quot;Imposter Syndrome&quot; Phase in Development No One Talks About](https://dev.to/naushadap/the-imposter-syndrome-phase-in-development-no-one-talks-about-296g)
-- [Stop Overengineering: 7 Browser APIs You&#39;re Already Ignoring](https://dev.to/benriemer/stop-overengineering-7-browser-apis-youre-already-ignoring-4h8g)
-- [How I Built a Browser-Based UDF to PDF Converter for Turkish Legal Documents](https://dev.to/ox3adie1/how-i-built-a-browser-based-udf-to-pdf-converter-for-turkish-legal-documents-i5o)
+- [Building a Voice-Controlled AI Agent That Runs Entirely on Your Laptop](https://dev.to/ayush_kumar_bf1249d4c926c/building-a-voice-controlled-ai-agent-that-runs-entirely-on-your-laptop-4a5)
+- [Why Software Releases Keep Slipping Even When the Team Is Working Hard](https://dev.to/brainxtechnologies/why-software-releases-keep-slipping-even-when-the-team-is-working-hard-3j8e)
+- [SQL Basics: DDL, DML, Filtering &amp; Data Transformation](https://dev.to/reinhard_bonnke_3c96981a4/sql-basics-ddl-dml-filtering-data-transformation-2301)
+- [Automating Patent Risk Analysis for Amazon FBA Sellers](https://dev.to/ken_deng_ai/automating-patent-risk-analysis-for-amazon-fba-sellers-3ajc)
+- [Open-Sourcing Mano-P Today: Pure Vision GUI Agent, OSWorld #1, Apache 2.0](https://dev.to/mininglamp/open-sourcing-mano-p-today-pure-vision-gui-agent-osworld-1-apache-20-3c0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
