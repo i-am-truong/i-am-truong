@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Moment Your Project Knows You&#39;re There](https://dev.to/_0c004e5fde78250aee362/the-moment-your-project-knows-youre-there-5hjb)
-- [Building a Voice-Controlled AI Agent Using Whisper and Ollama](https://dev.to/naasgar_basha_2dd0c49ff/building-a-voice-controlled-ai-agent-using-whisper-and-ollama-5c88)
-- [The Moment Your Project Knows You&#39;re There](https://dev.to/_0c004e5fde78250aee362/the-moment-your-project-knows-youre-there-2ngm)
-- [Day 7](https://dev.to/thirusakthi-dev/day-7-4n2g)
-- [I Built a Directory of 1500+ MCP Tools — Here is What I Learned](https://dev.to/goldct/i-built-a-directory-of-1500-mcp-tools-here-is-what-i-learned-4hlj)
+- [Subgraphs and Iteration: Once more, from the top](https://dev.to/patonw/subgraphs-and-iteration-once-more-from-the-top-78n)
+- [Getting Started With Seal Reports: Sharing Filters Across Multiple Models](https://dev.to/vladg_dev/getting-started-with-seal-reports-sharing-filters-across-multiple-models-cl1)
+- [How Epic Games Scales to 100M+ Concurrent Users](https://dev.to/karan_kumar_f09865ff0efe9/how-epic-games-scales-to-100m-concurrent-users-1k0j)
+- [How Hindsight caught a vendor bug logs missed](https://dev.to/amudhan_1603/how-hindsight-caught-a-vendor-bug-logs-missed-10ne)
+- [x402 upto vs MPP Sessions: Two Philosophies of Usage-Based Payments](https://dev.to/philpher0x/x402-upto-vs-mpp-sessions-two-philosophies-of-usage-based-payments-25ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
