@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your iOS App Needs a Privacy Policy. Here&#39;s How to Get One in 60 Seconds.](https://dev.to/devkoan/your-ios-app-needs-a-privacy-policy-heres-how-to-get-one-in-60-seconds-hhg)
-- [CRBR Scraper: Beneficjenci Rzeczywisci z API](https://dev.to/ucptools/crbr-scraper-beneficjenci-rzeczywisci-z-api-3ne9)
-- [Cooperative Cancellation: Propagating Shutdown Signals Through Async Trees](https://dev.to/dylan_dumont_266378d98367/cooperative-cancellation-propagating-shutdown-signals-through-async-trees-21bi)
-- [Why Real-Time Prompt Filtering Is Critical for AI Data Security in 2026](https://dev.to/langprotect/why-real-time-prompt-filtering-is-critical-for-ai-data-security-in-2026-5hmi)
-- [A Comprehensive Guide to Publishing Power Bi Reports](https://dev.to/urbanomonte/a-comprehensive-guide-to-publishing-power-bi-reports-4o0k)
+- [Azure Firewall Premium Without TLS Inspection: That&#39;s $693/Month Wasted](https://dev.to/muskan_8abedcc7e12/azure-firewall-premium-without-tls-inspection-thats-693month-wasted-33ja)
+- [When Autoscaling Makes Your Bill Worse, Not Better](https://dev.to/muskan_8abedcc7e12/when-autoscaling-makes-your-bill-worse-not-better-285j)
+- [The &quot;Imposter Syndrome&quot; Phase in Development No One Talks About](https://dev.to/naushadap/the-imposter-syndrome-phase-in-development-no-one-talks-about-296g)
+- [Stop Overengineering: 7 Browser APIs You&#39;re Already Ignoring](https://dev.to/benriemer/stop-overengineering-7-browser-apis-youre-already-ignoring-4h8g)
+- [How I Built a Browser-Based UDF to PDF Converter for Turkish Legal Documents](https://dev.to/ox3adie1/how-i-built-a-browser-based-udf-to-pdf-converter-for-turkish-legal-documents-i5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
