@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Apache Iceberg? The Table Format Revolution](https://dev.to/alexmercedcoder/what-is-apache-iceberg-the-table-format-revolution-4d62)
-- [[SC] Actores en Swift](https://dev.to/david_goyes_a488f58a17a53/sc-actores-en-swift-1ipb)
-- [What is Apache Parquet? Columns, Encoding, and Performance](https://dev.to/alexmercedcoder/what-is-apache-parquet-columns-encoding-and-performance-333i)
-- [Apache Software Foundation: History, Purpose, and Process](https://dev.to/alexmercedcoder/apache-software-foundation-history-purpose-and-process-199l)
-- [Giving AI Agents Eyes &lpar;Part 1&rpar;: 6 Tricks for Reading Web Pages Without Vision Models](https://dev.to/gauravchodwadia/giving-ai-agents-eyes-part-1-6-tricks-for-reading-web-pages-without-vision-models-4193)
+- [JWT Is Not Encrypted &lpar;And That&#39;s By Design&rpar;](https://dev.to/neuraldownload/jwt-is-not-encrypted-and-thats-by-design-4fb1)
+- [I built an Agent Memory System for myself and got 90.8% &lpar;end-to-end&rpar; on LongMemEval](https://dev.to/shane-farkas/i-built-an-agent-memory-system-for-myself-and-got-908-end-to-end-on-longmemeval-3hfp)
+- [MUI v4/v5 Style Conflicts in single-spa — A Complete Debug Record](https://dev.to/czhoudev/mui-v4v5-style-conflicts-in-single-spa-a-complete-debug-record-438k)
+- [[SC] Actores globales](https://dev.to/david_goyes_a488f58a17a53/sc-actores-globales-384b)
+- [You Asked AI to Analyze Your Users. The Report Looks Amazing. It&#39;s Probably Wrong.](https://dev.to/matthewhou/you-asked-ai-to-analyze-your-users-the-report-looks-amazing-its-probably-wrong-1lpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
