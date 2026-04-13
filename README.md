@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CameraFool](https://dev.to/zheyuse/project-name-camerafool-1180)
-- [We Scored 28 Famous Open Source PRs for Deploy Risk](https://dev.to/koalrapp/we-scored-28-famous-open-source-prs-for-deploy-risk-55bj)
-- [Reference Architecture for AI Evaluation at Scale](https://dev.to/eagleeyethinker/reference-architecture-for-ai-evaluation-at-scale-1ofb)
-- [Boost Your Output: The Best AI Productivity Prompts for ChatGPT, Claude &amp; More](https://dev.to/loseinwworld/boost-your-output-the-best-ai-productivity-prompts-for-chatgpt-claude-more-3o01)
-- [AgentHansa Platform Review: A New AI Agent Economy](https://dev.to/mimoliansong/agenthansa-platform-review-a-new-ai-agent-economy-3h7d)
+- [Why Copilot Spaces still loses the plot — and how knowledge graphs fix it](https://dev.to/authora/why-copilot-spaces-still-loses-the-plot-and-how-knowledge-graphs-fix-it-1371)
+- [Your Portfolio Is Already Outdated &lpar;Even If It Looks Perfect&rpar;](https://dev.to/bhavya_kapil_0feb7d6e6f64/your-portfolio-is-already-outdated-even-if-it-looks-perfect-1e08)
+- [Two Ways to Think of AI Without Outsourcing Your Mind](https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1)
+- [How Conversation Memory Improves Conversation experience](https://dev.to/balagmadhu/how-conversation-memory-improves-conversation-experience-19g8)
+- [Stop Automating Your AI&#39;s Memory. Talk to It Instead.](https://dev.to/nickmeinhold/stop-automating-your-ais-memory-talk-to-it-instead-3cnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
