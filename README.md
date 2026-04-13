@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Türkiye&#39;de Sentry Logları Neden Düşmüyor?](https://dev.to/deveminsahin/turkiyede-sentry-loglari-neden-dusmuyor-3ah8)
-- [Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End](https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5)
-- [Codex CLI no dia a dia: como usar IA no terminal com boas práticas](https://dev.to/itagyba/codex-cli-no-dia-a-dia-como-usar-ia-no-terminal-com-boas-praticas-2iln)
-- [Voice-to-Action: A Local AI Agent with Llama 3.2 and Groq](https://dev.to/rupali_raj_it/voice-to-action-a-local-ai-agent-with-llama-32-and-groq-2o0p)
-- [I build free browser tools with Next.js — no backend, no uploads, everything runs client-side](https://dev.to/sreten/i-build-free-browser-tools-with-nextjs-no-backend-no-uploads-everything-runs-client-side-a0m)
+- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, Amazon EKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h)
+- [The Gap Between Design and Development Is Finally Closing](https://dev.to/safiullahkorai/the-gap-between-design-and-development-is-finally-closing-2kio)
+- [7/9 implementations done quick!](https://dev.to/highcenburg/79-implementations-done-quick-39jh)
+- [Beyond Core Java: What Makes You a Professional Developer](https://dev.to/chaitanyakukwas1/beyond-core-java-what-makes-you-a-professional-developer-449g)
+- [Prompt Complexity vs Output Quality: When More Instructions Hurt Performance](https://dev.to/jasrandhawa/prompt-complexity-vs-output-quality-when-more-instructions-hurt-performance-2hi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
