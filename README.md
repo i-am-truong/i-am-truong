@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Voice-Controlled AI Agent That Runs Entirely on Your Laptop](https://dev.to/ayush_kumar_bf1249d4c926c/building-a-voice-controlled-ai-agent-that-runs-entirely-on-your-laptop-4a5)
-- [Why Software Releases Keep Slipping Even When the Team Is Working Hard](https://dev.to/brainxtechnologies/why-software-releases-keep-slipping-even-when-the-team-is-working-hard-3j8e)
-- [SQL Basics: DDL, DML, Filtering &amp; Data Transformation](https://dev.to/reinhard_bonnke_3c96981a4/sql-basics-ddl-dml-filtering-data-transformation-2301)
-- [Automating Patent Risk Analysis for Amazon FBA Sellers](https://dev.to/ken_deng_ai/automating-patent-risk-analysis-for-amazon-fba-sellers-3ajc)
-- [Open-Sourcing Mano-P Today: Pure Vision GUI Agent, OSWorld #1, Apache 2.0](https://dev.to/mininglamp/open-sourcing-mano-p-today-pure-vision-gui-agent-osworld-1-apache-20-3c0h)
+- [Fintech Backend Architecture: What Founders Get Wrong](https://dev.to/akshay_sharma_d1798ac6c5c/fintech-backend-architecture-what-founders-get-wrong-4ob6)
+- [Week 7](https://dev.to/timothy_imanuel_35225c051/week-7-310e)
+- [I built a custom AI assistant platform with Laravel + multi-provider LLMs + pgvector - here&#39;s what I learned](https://dev.to/mchisty/i-built-a-custom-ai-assistant-platform-with-laravel-multi-provider-llms-pgvector-heres-what-5h53)
+- [AD Pentesting 01: Getting your head right](https://dev.to/ahzek/ad-pentesting-01-getting-your-head-right-2n23)
+- [Week 6](https://dev.to/timothy_imanuel_35225c051/week-6-57ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
