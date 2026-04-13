@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Subgraphs and Iteration: Once more, from the top](https://dev.to/patonw/subgraphs-and-iteration-once-more-from-the-top-78n)
-- [Getting Started With Seal Reports: Sharing Filters Across Multiple Models](https://dev.to/vladg_dev/getting-started-with-seal-reports-sharing-filters-across-multiple-models-cl1)
-- [How Epic Games Scales to 100M+ Concurrent Users](https://dev.to/karan_kumar_f09865ff0efe9/how-epic-games-scales-to-100m-concurrent-users-1k0j)
-- [How Hindsight caught a vendor bug logs missed](https://dev.to/amudhan_1603/how-hindsight-caught-a-vendor-bug-logs-missed-10ne)
-- [x402 upto vs MPP Sessions: Two Philosophies of Usage-Based Payments](https://dev.to/philpher0x/x402-upto-vs-mpp-sessions-two-philosophies-of-usage-based-payments-25ib)
+- [Türkiye&#39;de Sentry Logları Neden Düşmüyor?](https://dev.to/deveminsahin/turkiyede-sentry-loglari-neden-dusmuyor-3ah8)
+- [Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End](https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5)
+- [Codex CLI no dia a dia: como usar IA no terminal com boas práticas](https://dev.to/itagyba/codex-cli-no-dia-a-dia-como-usar-ia-no-terminal-com-boas-praticas-2iln)
+- [Voice-to-Action: A Local AI Agent with Llama 3.2 and Groq](https://dev.to/rupali_raj_it/voice-to-action-a-local-ai-agent-with-llama-32-and-groq-2o0p)
+- [I build free browser tools with Next.js — no backend, no uploads, everything runs client-side](https://dev.to/sreten/i-build-free-browser-tools-with-nextjs-no-backend-no-uploads-everything-runs-client-side-a0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
