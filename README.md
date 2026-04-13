@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #174](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-174-64d)
-- [App Interval Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/app-interval-timer-what-we-learned-building-random-tactical-timer-4kip)
-- [Comment un bloc est créé dans une blockchain ? &lpar;en 8 étapes simples&rpar;](https://dev.to/amel_in_tech/comment-un-bloc-est-cree-dans-une-blockchain-en-8-etapes-simples-2p79)
-- [The &quot;AI Psychosis&quot; Divide: Why Coders are Terrified and Everyone Else is Bored](https://dev.to/jet_xu/the-ai-psychosis-divide-why-coders-are-terrified-and-everyone-else-is-bored-2of2)
-- [List Files in PowerShell: Get-ChildItem Mastered](https://dev.to/arnostorg/list-files-in-powershell-get-childitem-mastered-176f)
+- [The Moment Your Project Knows You&#39;re There](https://dev.to/_0c004e5fde78250aee362/the-moment-your-project-knows-youre-there-5hjb)
+- [Building a Voice-Controlled AI Agent Using Whisper and Ollama](https://dev.to/naasgar_basha_2dd0c49ff/building-a-voice-controlled-ai-agent-using-whisper-and-ollama-5c88)
+- [The Moment Your Project Knows You&#39;re There](https://dev.to/_0c004e5fde78250aee362/the-moment-your-project-knows-youre-there-2ngm)
+- [Day 7](https://dev.to/thirusakthi-dev/day-7-4n2g)
+- [I Built a Directory of 1500+ MCP Tools — Here is What I Learned](https://dev.to/goldct/i-built-a-directory-of-1500-mcp-tools-here-is-what-i-learned-4hlj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
