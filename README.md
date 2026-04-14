@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVEs are vulnerabilities&lpar;!!!&rpar; and part 2 of my Notion automation](https://dev.to/missamarakay/cves-are-vulnerabilities-and-part-2-of-my-notion-automation-439o)
-- [Why AI React Component Generators Break in Real Projects &lpar;And How to Fix It&rpar;](https://dev.to/frontuna_system_0e112840e/why-ai-react-component-generators-break-in-real-projects-and-how-to-fix-it-4062)
-- [Spec Driven Development with ZeeSpec : greenfield vs brownfield](https://dev.to/vishalmysore/spec-driven-development-with-zeespec-greenfield-vs-brownfield-4103)
-- [How to Check If Your Magento Store Is Visible to ChatGPT — Free AEO Audit Module](https://dev.to/angeo/how-to-check-if-your-magento-store-is-visible-to-chatgpt-free-aeo-audit-module-4hkm)
-- [MiroMiro - The Chrome Extension That Replaces Half Your DevTools Workflow](https://dev.to/soraiadev/miromiro-the-chrome-extension-that-replaces-half-your-devtools-workflow-57id)
+- [elm-simple-icons: Another Elm package](https://dev.to/agj/elm-simple-icons-another-elm-package-23pk)
+- [Connecting PostgreSQL to Power BI for Data Analysis](https://dev.to/charles_ndungu/connecting-postgresql-to-power-bi-for-data-analysis-3pnj)
+- [Spiking Neural Network Hits 1B Parameters, Hints at New Behavior](https://dev.to/simon_paxton/spiking-neural-network-hits-1b-parameters-hints-at-new-behavior-5e0p)
+- [Claude Code Unleashes AI Workflow Routines &amp; Autoresesearch Agents for Production](https://dev.to/soytuber/claude-code-unleashes-ai-workflow-routines-autoresesearch-agents-for-production-2cmk)
+- [Design pattern visualization: Behavioral Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-behavioral-design-patterns-251i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
