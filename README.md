@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JWT Is Not Encrypted &lpar;And That&#39;s By Design&rpar;](https://dev.to/neuraldownload/jwt-is-not-encrypted-and-thats-by-design-4fb1)
-- [I built an Agent Memory System for myself and got 90.8% &lpar;end-to-end&rpar; on LongMemEval](https://dev.to/shane-farkas/i-built-an-agent-memory-system-for-myself-and-got-908-end-to-end-on-longmemeval-3hfp)
-- [MUI v4/v5 Style Conflicts in single-spa — A Complete Debug Record](https://dev.to/czhoudev/mui-v4v5-style-conflicts-in-single-spa-a-complete-debug-record-438k)
-- [[SC] Actores globales](https://dev.to/david_goyes_a488f58a17a53/sc-actores-globales-384b)
-- [You Asked AI to Analyze Your Users. The Report Looks Amazing. It&#39;s Probably Wrong.](https://dev.to/matthewhou/you-asked-ai-to-analyze-your-users-the-report-looks-amazing-its-probably-wrong-1lpm)
+- [How to Roll Out an Internal AI Product Without Lying to Yourself](https://dev.to/serhiip/how-to-roll-out-an-internal-ai-product-without-lying-to-yourself-3bl2)
+- [Best Ollama Models for Running OpenClaw Bazaar Skills Locally: Ranked and Tested](https://dev.to/zacvibecodez/best-ollama-models-for-running-openclaw-bazaar-skills-locally-ranked-and-tested-1g15)
+- [Stop Prompting. Start Engineering Perception.](https://dev.to/serhiip/stop-prompting-start-engineering-perception-4fh5)
+- [AI Context Window Overflow: Memory Pointer Fix](https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc)
+- [A Mirror Held by a Friend](https://dev.to/mindon/a-mirror-held-by-a-friend-4314)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
