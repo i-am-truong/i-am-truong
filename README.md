@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Aether-9 v3.0 A Policy-Aware Secure Bytecode Execution Layer for AI-Native and Automation Workflows](https://dev.to/adam_akeely_aether-9/aether-9-v30-a-policy-aware-secure-bytecode-execution-layer-for-ai-native-and-automation-workflows-e72)
-- [Mastering the Basics: A Deep Dive into SQL Fundamentals](https://dev.to/mbatiak/mastering-the-basics-a-deep-dive-into-sql-fundamentals-11mc)
-- [Implementing mergeMap and switchMap: &quot;The React Way&quot;](https://dev.to/riturathin/implementing-mergemap-and-switchmap-the-react-way-290e)
-- [Getting hands on with spec driven development](https://dev.to/094459/getting-hands-on-with-spec-driven-development-3ln8)
-- [The Competence Trap: Why Your Best AI Agent Might Be Your Biggest Risk](https://dev.to/the_bookmaster/the-competence-trap-why-your-best-ai-agent-might-be-your-biggest-risk-31b2)
+- [r](https://dev.to/munna_thakur_2019444f0351/from-rest-to-webrtc-the-complete-guide-to-real-time-web-apps-2iio)
+- [The $300K Solo SaaS Company: Why AI Unlocked a Million Markets Nobody Cared About](https://dev.to/hainanzhao/the-300k-solo-saas-company-why-ai-unlocked-a-million-markets-nobody-cared-about-316p)
+- [Context Window Blindness: Why Your AI Agent Doesn&#39;t Know It&#39;s Running Out of Space](https://dev.to/deenuu1/context-window-blindness-why-your-ai-agent-doesnt-know-its-running-out-of-space-4dji)
+- [Why Photo Studios Survived the Digital Camera — And What It Means for Software Engineers](https://dev.to/hainanzhao/why-photo-studios-survived-the-digital-camera-and-what-it-means-for-software-engineers-317g)
+- [Breaking the Code: Reshaping Workflow in Stagnant Tech Companies](https://dev.to/dd8888/breaking-the-code-reshaping-workflow-in-stagnant-tech-companies-1m98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
