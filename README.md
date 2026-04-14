@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Tunnel in 2026: Expose localhost Without Opening Ports or Buying an IP](https://dev.to/recca0120/cloudflare-tunnel-in-2026-expose-localhost-without-opening-ports-or-buying-an-ip-32l5)
-- [MCPs everywhere, wth is that?](https://dev.to/rita/mcps-everywhere-wth-is-that-41e0)
-- [I built a simulator for the hiring systems that filter candidates before humans ever see them](https://dev.to/luca151/i-built-a-simulator-for-the-hiring-systems-that-filter-candidates-before-humans-ever-see-them-452d)
-- [The CMS is Dead. Long Live the CMS.](https://dev.to/tonyspiro/the-cms-is-dead-long-live-the-cms-bjm)
-- [Why we ditched the knowledge graph approach for agent memory](https://dev.to/lax_cc17386/why-we-ditched-the-knowledge-graph-approach-for-agent-memory-4gp9)
+- [A/B Testing: What It Is and Why You Should Use It to Improve Your Decisions](https://dev.to/focused_dot_io/ab-testing-what-it-is-and-why-you-should-use-it-to-improve-your-decisions-2k4m)
+- [&quot;You Can&#39;t Just Trust the Vibes&quot;: A Deep Dive on AI Evaluations with Sarah Kainec](https://dev.to/focused_dot_io/you-cant-just-trust-the-vibes-a-deep-dive-on-ai-evaluations-with-sarah-kainec-3ioc)
+- [Parallel execution with LangChain and LangGraph.](https://dev.to/focused_dot_io/parallel-execution-with-langchain-and-langgraph-9j6)
+- [What XP Gets Right About Learning](https://dev.to/focused_dot_io/what-xp-gets-right-about-learning-13oh)
+- [Shifting to an Observability Mindset from a Developer&#39;s Point-of-view](https://dev.to/focused_dot_io/shifting-to-an-observability-mindset-from-a-developers-point-of-view-5fnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
