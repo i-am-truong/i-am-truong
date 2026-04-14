@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Hands-on] Midnight Deep Dive: Start Building Smart Contracts with Compact](https://dev.to/midnight-aliit/hands-on-midnight-deep-dive-start-building-smart-contracts-with-compact-1inb)
-- [How do AI video generation models work?](https://dev.to/googleai/how-do-ai-video-generation-models-work-a82)
-- [Understanding OpenClaw Memory: How Your Agent Remembers](https://dev.to/zacvibecodez/understanding-openclaw-memory-how-your-agent-remembers-306i)
-- [When the tool breaking is the only thing that makes you take a break](https://dev.to/bao_ngo_48313312086d5b368/when-the-tool-breaking-is-the-only-thing-that-makes-you-take-a-break-151d)
-- [TIFF in 2026: what I learned researching the format nobody uses on the web](https://dev.to/serhii_kalyna_730b636889c/tiff-in-2026-what-i-learned-researching-the-format-nobody-uses-on-the-web-50ln)
+- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/samwel_sam/etl-vs-eltwhich-one-should-you-use-and-why-5gja)
+- [I Tested 6 AI Headshot Generators With the Same Photos. Here&#39;s the Data](https://dev.to/sarwar_ai/best-ai-headshot-generators-b2p)
+- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama &lpar;72-hour run, 1,065 entries&rpar;](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280)
+- [The Backyard Quarry, Part 5: Digital Twins for Physical Objects](https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i)
+- [MXGo.ai: privacy-first AI layer for your emails that works without any installation](https://dev.to/satwikkansal/mxgoai-privacy-first-ai-layer-for-your-emails-that-works-without-any-installation-1mhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
