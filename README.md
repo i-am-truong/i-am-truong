@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/samwel_sam/etl-vs-eltwhich-one-should-you-use-and-why-5gja)
-- [I Tested 6 AI Headshot Generators With the Same Photos. Here&#39;s the Data](https://dev.to/sarwar_ai/best-ai-headshot-generators-b2p)
-- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama &lpar;72-hour run, 1,065 entries&rpar;](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280)
-- [The Backyard Quarry, Part 5: Digital Twins for Physical Objects](https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i)
-- [MXGo.ai: privacy-first AI layer for your emails that works without any installation](https://dev.to/satwikkansal/mxgoai-privacy-first-ai-layer-for-your-emails-that-works-without-any-installation-1mhd)
+- [Cloudflare Tunnel in 2026: Expose localhost Without Opening Ports or Buying an IP](https://dev.to/recca0120/cloudflare-tunnel-in-2026-expose-localhost-without-opening-ports-or-buying-an-ip-32l5)
+- [MCPs everywhere, wth is that?](https://dev.to/rita/mcps-everywhere-wth-is-that-41e0)
+- [I built a simulator for the hiring systems that filter candidates before humans ever see them](https://dev.to/luca151/i-built-a-simulator-for-the-hiring-systems-that-filter-candidates-before-humans-ever-see-them-452d)
+- [The CMS is Dead. Long Live the CMS.](https://dev.to/tonyspiro/the-cms-is-dead-long-live-the-cms-bjm)
+- [Why we ditched the knowledge graph approach for agent memory](https://dev.to/lax_cc17386/why-we-ditched-the-knowledge-graph-approach-for-agent-memory-4gp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
