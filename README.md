@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Declarative validation: keep bad data out of your database](https://dev.to/davidlastrucci/declarative-validation-keep-bad-data-out-of-your-database-1ekk)
-- [Autonomous Agents Need Money: Building Financial Infrastructure for the AI Economy](https://dev.to/sendersby/autonomous-agents-need-money-building-financial-infrastructure-for-the-ai-economy-3adp)
-- [Creating a Programming Language as an Amateur. What Is It Like?](https://dev.to/crackanddie/creating-a-programming-language-as-an-amateur-what-is-it-like-49dc)
-- [Accountability and the Payment Audit Trail](https://dev.to/kavinkimcreator/accountability-and-the-payment-audit-trail-fe0)
-- [Building with AI Agents: Is It Really Worth It??](https://dev.to/ciphernutz/building-with-ai-agents-is-it-really-worth-it-14h8)
+- [MCP at Scale: Access Control, Cost Governance, and 92% Lower Token Costs](https://dev.to/pranay_batta/mcp-at-scale-access-control-cost-governance-and-92-lower-token-costs-50jf)
+- [I Built an Email Validator &amp; Disposable Email Checker API - Day 5 of 21](https://dev.to/ruanmuller04/i-built-an-email-validator-disposable-email-checker-api-day-5-of-21-1pnc)
+- [Building the DEV Community Homepage with Pure Canvas](https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0)
+- [AUTOSELLER AI AGENT](https://dev.to/sandhya13r/autoseller-ai-agent-2bf8)
+- [Everyone Using DbContext Concurrently Is Making This Mistake](https://dev.to/temitope_okelola/everyone-using-dbcontext-concurrently-is-making-this-mistake-24bg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
