@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform](https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn)
-- [What Most Beginners Get Wrong About Building AI Apps](https://dev.to/raju_dandigam/what-most-beginners-get-wrong-about-building-ai-apps-32mg)
-- [Evaluating LLMs for Code Generation: Accuracy, Latency, and Failure Modes](https://dev.to/jasrandhawa/evaluating-llms-for-code-generation-accuracy-latency-and-failure-modes-3m2p)
-- [How FinOps is Shaping the Future of AI Cost Management](https://dev.to/datta_kharad_3fd1383b5036/how-finops-is-shaping-the-future-of-ai-cost-management-c20)
-- [Building Claude Skills That Connect to Obsidian: A Developer&#39;s Field Guide](https://dev.to/scorp323/building-claude-skills-that-connect-to-obsidian-a-developers-field-guide-4a2k)
+- [Declarative validation: keep bad data out of your database](https://dev.to/davidlastrucci/declarative-validation-keep-bad-data-out-of-your-database-1ekk)
+- [Autonomous Agents Need Money: Building Financial Infrastructure for the AI Economy](https://dev.to/sendersby/autonomous-agents-need-money-building-financial-infrastructure-for-the-ai-economy-3adp)
+- [Creating a Programming Language as an Amateur. What Is It Like?](https://dev.to/crackanddie/creating-a-programming-language-as-an-amateur-what-is-it-like-49dc)
+- [Accountability and the Payment Audit Trail](https://dev.to/kavinkimcreator/accountability-and-the-payment-audit-trail-fe0)
+- [Building with AI Agents: Is It Really Worth It??](https://dev.to/ciphernutz/building-with-ai-agents-is-it-really-worth-it-14h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
