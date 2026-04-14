@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [r](https://dev.to/munna_thakur_2019444f0351/from-rest-to-webrtc-the-complete-guide-to-real-time-web-apps-2iio)
-- [The $300K Solo SaaS Company: Why AI Unlocked a Million Markets Nobody Cared About](https://dev.to/hainanzhao/the-300k-solo-saas-company-why-ai-unlocked-a-million-markets-nobody-cared-about-316p)
-- [Context Window Blindness: Why Your AI Agent Doesn&#39;t Know It&#39;s Running Out of Space](https://dev.to/deenuu1/context-window-blindness-why-your-ai-agent-doesnt-know-its-running-out-of-space-4dji)
-- [Why Photo Studios Survived the Digital Camera — And What It Means for Software Engineers](https://dev.to/hainanzhao/why-photo-studios-survived-the-digital-camera-and-what-it-means-for-software-engineers-317g)
-- [Breaking the Code: Reshaping Workflow in Stagnant Tech Companies](https://dev.to/dd8888/breaking-the-code-reshaping-workflow-in-stagnant-tech-companies-1m98)
+- [I built phantom-ui - a Web Component that generates skeleton loaders from your real DOM](https://dev.to/aejkatappaja/i-built-a-web-component-that-generates-skeleton-loaders-from-your-real-dom-59ae)
+- [The fastest way to build a Telegram Bot natively](https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-54pg)
+- [Añadir aljibe a un proyecto que ya tiene Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/anadir-aljibe-a-un-proyecto-que-ya-tiene-ddev-c6m)
+- [El responsive te lo debo &lpar;mini proyecto en html&rpar;.](https://dev.to/gusgus/el-responsive-te-lo-debo-mini-proyecto-en-html-4c05)
+- [Rethinking WordPress Editing: Inline vs ACF Workflows](https://dev.to/steven-k/rethinking-wordpress-editing-inline-vs-acf-workflows-215i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
