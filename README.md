@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A/B Testing: What It Is and Why You Should Use It to Improve Your Decisions](https://dev.to/focused_dot_io/ab-testing-what-it-is-and-why-you-should-use-it-to-improve-your-decisions-2k4m)
-- [&quot;You Can&#39;t Just Trust the Vibes&quot;: A Deep Dive on AI Evaluations with Sarah Kainec](https://dev.to/focused_dot_io/you-cant-just-trust-the-vibes-a-deep-dive-on-ai-evaluations-with-sarah-kainec-3ioc)
-- [Parallel execution with LangChain and LangGraph.](https://dev.to/focused_dot_io/parallel-execution-with-langchain-and-langgraph-9j6)
-- [What XP Gets Right About Learning](https://dev.to/focused_dot_io/what-xp-gets-right-about-learning-13oh)
-- [Shifting to an Observability Mindset from a Developer&#39;s Point-of-view](https://dev.to/focused_dot_io/shifting-to-an-observability-mindset-from-a-developers-point-of-view-5fnl)
+- [How I Built a CoreOptimize FPS Calculator to Instantly Estimate Game Performance](https://dev.to/coreoptimize22/how-i-built-a-coreoptimize-fps-calculator-to-instantly-estimate-game-performance-ckp)
+- [Fonctionnement d’une blockchain — Étape 1/8 : Création d’une transaction](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-18-creation-dune-transaction-5fp2)
+- [Voice-Controlled Local AI Agent](https://dev.to/anjali_kumari_f7905d18f3a/voice-controlled-local-ai-agent-2dhk)
+- [This Concurrency Bug Stayed Hidden for a Year](https://dev.to/harshitsinghal13/this-concurrency-bug-stayed-hidden-for-a-year-2f6j)
+- [AVIF in 2026: The Complete Guide to the Image Format That Beat JPEG, PNG, and WebP](https://dev.to/aralroca/avif-in-2026-the-complete-guide-to-the-image-format-that-beat-jpeg-png-and-webp-34n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
