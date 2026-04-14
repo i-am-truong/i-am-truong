@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Roll Out an Internal AI Product Without Lying to Yourself](https://dev.to/serhiip/how-to-roll-out-an-internal-ai-product-without-lying-to-yourself-3bl2)
-- [Best Ollama Models for Running OpenClaw Bazaar Skills Locally: Ranked and Tested](https://dev.to/zacvibecodez/best-ollama-models-for-running-openclaw-bazaar-skills-locally-ranked-and-tested-1g15)
-- [Stop Prompting. Start Engineering Perception.](https://dev.to/serhiip/stop-prompting-start-engineering-perception-4fh5)
-- [AI Context Window Overflow: Memory Pointer Fix](https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc)
-- [A Mirror Held by a Friend](https://dev.to/mindon/a-mirror-held-by-a-friend-4314)
+- [🤯 Microservices Destroyed Our Startup. Yours Could Be Next.](https://dev.to/manojsatna31/microservices-destroyed-our-startup-yours-could-be-next-3a9p)
+- [Incident communication, status visibility, and SOC 2](https://dev.to/exemplar/incident-communication-status-visibility-and-soc-2-2532)
+- [Track Every Token You Save With contextzip gain](https://dev.to/ji_ai/track-every-token-you-save-with-contextzip-gain-5hc1)
+- [Heinrich Answered Its First Real Questions Today](https://dev.to/emphos_group/heinrich-answered-its-first-real-questions-today-1gf2)
+- [I Built a Free MCP Server for European Financial Data](https://dev.to/dimitri_roesing/i-built-a-free-mcp-server-for-european-financial-data-50co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
