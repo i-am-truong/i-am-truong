@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why File Paths Are Not Enough for AI Knowledge](https://dev.to/synthaicode_commander/why-file-paths-are-not-enough-for-ai-knowledge-17f8)
-- [SQL Fundamentals: DDL, DML, and Practical Data Manipulation](https://dev.to/muriuki_kahuthu_54/sql-fundamentals-ddl-dml-and-practical-data-manipulation-3bic)
-- [What Amazon, Google, and Meta actually test in coding interviews &lpar;with specific problems&rpar;](https://dev.to/subbu_uppalapati_727d6e7a/what-amazon-google-and-meta-actually-test-in-coding-interviews-with-specific-problems-2o6j)
-- [Complete Guide to System Testing: Types, Workflow, Tools &amp; Examples](https://dev.to/adam_zampa_/complete-guide-to-system-testing-types-workflow-tools-examples-33k0)
-- [UOKiK Scraper: Polish Banned Contract Clauses](https://dev.to/ucptools/uokik-scraper-polish-banned-contract-clauses-3m21)
+- [[Hands-on] Midnight Deep Dive: Start Building Smart Contracts with Compact](https://dev.to/midnight-aliit/hands-on-midnight-deep-dive-start-building-smart-contracts-with-compact-1inb)
+- [How do AI video generation models work?](https://dev.to/googleai/how-do-ai-video-generation-models-work-a82)
+- [Understanding OpenClaw Memory: How Your Agent Remembers](https://dev.to/zacvibecodez/understanding-openclaw-memory-how-your-agent-remembers-306i)
+- [When the tool breaking is the only thing that makes you take a break](https://dev.to/bao_ngo_48313312086d5b368/when-the-tool-breaking-is-the-only-thing-that-makes-you-take-a-break-151d)
+- [TIFF in 2026: what I learned researching the format nobody uses on the web](https://dev.to/serhii_kalyna_730b636889c/tiff-in-2026-what-i-learned-researching-the-format-nobody-uses-on-the-web-50ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
