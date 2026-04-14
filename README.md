@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP at Scale: Access Control, Cost Governance, and 92% Lower Token Costs](https://dev.to/pranay_batta/mcp-at-scale-access-control-cost-governance-and-92-lower-token-costs-50jf)
-- [I Built an Email Validator &amp; Disposable Email Checker API - Day 5 of 21](https://dev.to/ruanmuller04/i-built-an-email-validator-disposable-email-checker-api-day-5-of-21-1pnc)
-- [Building the DEV Community Homepage with Pure Canvas](https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0)
-- [AUTOSELLER AI AGENT](https://dev.to/sandhya13r/autoseller-ai-agent-2bf8)
-- [Everyone Using DbContext Concurrently Is Making This Mistake](https://dev.to/temitope_okelola/everyone-using-dbcontext-concurrently-is-making-this-mistake-24bg)
+- [Aether-9 v3.0 A Policy-Aware Secure Bytecode Execution Layer for AI-Native and Automation Workflows](https://dev.to/adam_akeely_aether-9/aether-9-v30-a-policy-aware-secure-bytecode-execution-layer-for-ai-native-and-automation-workflows-e72)
+- [Mastering the Basics: A Deep Dive into SQL Fundamentals](https://dev.to/mbatiak/mastering-the-basics-a-deep-dive-into-sql-fundamentals-11mc)
+- [Implementing mergeMap and switchMap: &quot;The React Way&quot;](https://dev.to/riturathin/implementing-mergemap-and-switchmap-the-react-way-290e)
+- [Getting hands on with spec driven development](https://dev.to/094459/getting-hands-on-with-spec-driven-development-3ln8)
+- [The Competence Trap: Why Your Best AI Agent Might Be Your Biggest Risk](https://dev.to/the_bookmaster/the-competence-trap-why-your-best-ai-agent-might-be-your-biggest-risk-31b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
