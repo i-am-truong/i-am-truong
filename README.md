@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤯 Microservices Destroyed Our Startup. Yours Could Be Next.](https://dev.to/manojsatna31/microservices-destroyed-our-startup-yours-could-be-next-3a9p)
-- [Incident communication, status visibility, and SOC 2](https://dev.to/exemplar/incident-communication-status-visibility-and-soc-2-2532)
-- [Track Every Token You Save With contextzip gain](https://dev.to/ji_ai/track-every-token-you-save-with-contextzip-gain-5hc1)
-- [Heinrich Answered Its First Real Questions Today](https://dev.to/emphos_group/heinrich-answered-its-first-real-questions-today-1gf2)
-- [I Built a Free MCP Server for European Financial Data](https://dev.to/dimitri_roesing/i-built-a-free-mcp-server-for-european-financial-data-50co)
+- [TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform](https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn)
+- [What Most Beginners Get Wrong About Building AI Apps](https://dev.to/raju_dandigam/what-most-beginners-get-wrong-about-building-ai-apps-32mg)
+- [Evaluating LLMs for Code Generation: Accuracy, Latency, and Failure Modes](https://dev.to/jasrandhawa/evaluating-llms-for-code-generation-accuracy-latency-and-failure-modes-3m2p)
+- [How FinOps is Shaping the Future of AI Cost Management](https://dev.to/datta_kharad_3fd1383b5036/how-finops-is-shaping-the-future-of-ai-cost-management-c20)
+- [Building Claude Skills That Connect to Obsidian: A Developer&#39;s Field Guide](https://dev.to/scorp323/building-claude-skills-that-connect-to-obsidian-a-developers-field-guide-4a2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
