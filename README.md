@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a CoreOptimize FPS Calculator to Instantly Estimate Game Performance](https://dev.to/coreoptimize22/how-i-built-a-coreoptimize-fps-calculator-to-instantly-estimate-game-performance-ckp)
-- [Fonctionnement d’une blockchain — Étape 1/8 : Création d’une transaction](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-18-creation-dune-transaction-5fp2)
-- [Voice-Controlled Local AI Agent](https://dev.to/anjali_kumari_f7905d18f3a/voice-controlled-local-ai-agent-2dhk)
-- [This Concurrency Bug Stayed Hidden for a Year](https://dev.to/harshitsinghal13/this-concurrency-bug-stayed-hidden-for-a-year-2f6j)
-- [AVIF in 2026: The Complete Guide to the Image Format That Beat JPEG, PNG, and WebP](https://dev.to/aralroca/avif-in-2026-the-complete-guide-to-the-image-format-that-beat-jpeg-png-and-webp-34n2)
+- [CVEs are vulnerabilities&lpar;!!!&rpar; and part 2 of my Notion automation](https://dev.to/missamarakay/cves-are-vulnerabilities-and-part-2-of-my-notion-automation-439o)
+- [Why AI React Component Generators Break in Real Projects &lpar;And How to Fix It&rpar;](https://dev.to/frontuna_system_0e112840e/why-ai-react-component-generators-break-in-real-projects-and-how-to-fix-it-4062)
+- [Spec Driven Development with ZeeSpec : greenfield vs brownfield](https://dev.to/vishalmysore/spec-driven-development-with-zeespec-greenfield-vs-brownfield-4103)
+- [How to Check If Your Magento Store Is Visible to ChatGPT — Free AEO Audit Module](https://dev.to/angeo/how-to-check-if-your-magento-store-is-visible-to-chatgpt-free-aeo-audit-module-4hkm)
+- [MiroMiro - The Chrome Extension That Replaces Half Your DevTools Workflow](https://dev.to/soraiadev/miromiro-the-chrome-extension-that-replaces-half-your-devtools-workflow-57id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
