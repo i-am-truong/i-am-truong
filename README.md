@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Monetizing Your Dataset Might Not Be Worth It](https://dev.to/shipaifast/why-monetizing-your-dataset-might-not-be-worth-it-2jl7)
-- [Why AI Features Fail in Production Even When The Demo Works](https://dev.to/soumya_ranjannanda_168b9/why-ai-features-fail-in-production-even-when-the-demo-works-5b54)
-- [Example of E-commice SQL in that specilises in the food industry](https://dev.to/benm7926/example-of-e-commice-sql-in-that-specilises-in-the-food-industry-2p7g)
-- [Why We Built AutoBot: The WordPress of AI](https://dev.to/mrveiss/why-we-built-autobot-the-wordpress-of-ai-4k7b)
-- [What Happens After You Vibe Code: Production Observability for Solo Developers](https://dev.to/alexcloudstar/what-happens-after-you-vibe-code-production-observability-for-solo-developers-2iba)
+- [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd)
+- [Leetcode # 107. Binary Tree Level Order Traversal II](https://dev.to/hectorw_tt/107-binary-tree-level-order-traversal-ii-534)
+- [From Prompt Engineer to Agent Engineer: The 7 Skills You Need to Build AI Agents](https://dev.to/manishmshiva/from-prompt-engineer-to-agent-engineer-the-7-skills-you-need-to-build-ai-agents-33o7)
+- [From Request to Production in One Push. No Mockup Tool Required.](https://dev.to/artanidos/from-request-to-production-in-one-push-no-mockup-tool-required-opa)
+- [How to Compress SVG Files: Tools, Techniques, Config](https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
