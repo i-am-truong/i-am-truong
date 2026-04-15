@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Voice AI Agent in 72 Hours — Here&#39;s Every Decision I&#39;d Make Differently](https://dev.to/akritah/i-built-a-voice-ai-agent-in-72-hours-heres-every-decision-id-make-differently-4d8e)
-- [Building a Multi-Tenant Platform with vCluster on AWS](https://dev.to/yevgeni_shapiro/building-a-multi-tenant-building-a-multi-tenant-platform-with-vcluster-on-aws-d19)
-- [LOS-starter — How I Built a File-Based OS for My Dev Work](https://dev.to/gad_ofir_076c468dd15d483b/los-starter-how-i-built-a-file-based-os-for-my-dev-work-1767)
-- [Your AI Stack Is Too Big](https://dev.to/inferencedaily/your-ai-stack-is-too-big-4eco)
-- [Building Mini Gravity: A Local, Private Voice AI Agent](https://dev.to/sri_balagi/building-mini-gravity-a-local-private-voice-ai-agent-30n)
+- [Claude Opus 4 and Sonnet 4 Retire June 15](https://dev.to/raxxostudios/claude-opus-4-and-sonnet-4-retire-june-15-2iog)
+- [Stop Wasting Hours on &quot;Project Setup&quot;: How I Automated Production-Ready Go APIs](https://dev.to/vivek_sharma_cb3c863dec26/stop-wasting-hours-on-project-setup-how-i-automated-production-ready-go-apis-3l45)
+- [How to Turn Word Documents into Reusable, API-Driven Templates](https://dev.to/templionix/how-to-turn-word-documents-into-reusable-api-driven-templates-4io8)
+- [I built a faster alternative to Unstoppable Copier &lpar;with a retro CLI twist&rpar;](https://dev.to/ignacio_rodriguez_fae5862/i-built-a-faster-alternative-to-unstoppable-copier-with-a-retro-cli-twist-111o)
+- [Optimize Images for Shopify: Free Guide [2026]](https://dev.to/samma1997/optimize-images-for-shopify-free-guide-2026-2g5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
