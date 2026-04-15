@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Dead Simple App Because Claude Code Couldn&#39;t Hear Me](https://dev.to/vientapps/i-built-a-dead-simple-app-because-claude-code-couldnt-hear-me-2l90)
-- [Git-Native AI Development: Every Action is a Commit](https://dev.to/orquesta_live/git-native-ai-development-every-action-is-a-commit-35p5)
-- [Cassandra Internals: LSM Tree, SSTables, and Compaction](https://dev.to/priteshsurana/cassandra-internals-lsm-tree-sstables-and-compaction-2ai8)
-- [I Built Four Tools with Claude Code. None of Them Had Tests. So I Fixed That](https://dev.to/nikhilj/i-built-four-tools-with-claude-code-none-of-them-had-tests-so-i-fixed-that-25gk)
-- [Greedy Algorithms](https://dev.to/sm1/greedy-algorithms-14bl)
+- [5 Important Logics to Understand About Liquidity Book Pair](https://dev.to/azeezabidoye/5-important-logics-to-understand-about-liquidity-book-pair-256o)
+- [How to Try Egonex ECP in .NET 8 and Send Emergency Alerts with an 8-Byte Payload](https://dev.to/geosegun/how-to-try-egonex-ecp-in-net-8-and-send-emergency-alerts-with-an-8-byte-payload-185p)
+- [GHSA-JJ6C-8H6C-HPPX: GHSA-JJ6C-8H6C-HPPX: Uncontrolled Resource Consumption in pypdf via Malformed PDF Streams](https://dev.to/cverports/ghsa-jj6c-8h6c-hppx-ghsa-jj6c-8h6c-hppx-uncontrolled-resource-consumption-in-pypdf-via-malformed-16jh)
+- [&quot;GitHub Copilot vs Claude vs ChatGPT — Which Helps You Code Faster?&quot;](https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj)
+- [Dependency: That One Line in build.gradle You Copy Without Thinking? Let&#39;s Actually Understand It.](https://dev.to/itsaalaa7/dependency-that-one-line-in-buildgradle-you-copy-without-thinking-lets-actually-understand-it-5l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
