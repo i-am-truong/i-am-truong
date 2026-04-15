@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code](https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16)
-- [How to Deploy Spring Boot Apps on Fly.io](https://dev.to/aerc18/how-to-deploy-spring-boot-apps-on-flyio-5390)
-- [From GitHub to Interview-Ready Resume: Why I Built GitLanded &lpar;and What It Actually Does&rpar;](https://dev.to/omarashry/from-github-to-interview-ready-resume-why-i-built-gitlanded-and-what-it-actually-does-5h0f)
-- [Microsoft MAI-Image-2-Efficient Review 2026: The AI Image Model Built for Production Scale](https://dev.to/bean_bean/microsoft-mai-image-2-efficient-review-2026-the-ai-image-model-built-for-production-scale-1ai5)
-- [Why I Named My Clothing Brand After a /32 And What It Says About IT Culture](https://dev.to/slash_32_7698d745b2b3618f/why-i-named-my-clothing-brand-after-a-32-and-what-it-says-about-it-culture-1ogo)
+- [A Password Strength Checker With Entropy Math and Crack-Time Estimates](https://dev.to/sendotltd/a-password-strength-checker-with-entropy-math-and-crack-time-estimates-1gjg)
+- [A Text Statistics Tool That Classifies Hiragana, Katakana, and Kanji Separately](https://dev.to/sendotltd/a-text-statistics-tool-that-classifies-hiragana-katakana-and-kanji-separately-523i)
+- [A Photo Mosaic Generator With Solid, Emoji, and ASCII Modes](https://dev.to/sendotltd/a-photo-mosaic-generator-with-solid-emoji-and-ascii-modes-j92)
+- [I Built a Zero-Cost Sleep Audio Factory in Python &lpar;Brown Noise, Binaural Beats, 10-Hour Tracks&rpar;](https://dev.to/whoffagents/i-built-a-zero-cost-sleep-audio-factory-in-python-brown-noise-binaural-beats-10-hour-tracks-anh)
+- [Claude&#39;s Prompt Cache TTL Silently Dropped from 1 Hour to 5 Minutes &lpar;Here&#39;s What to Do&rpar;](https://dev.to/whoffagents/claudes-prompt-cache-ttl-silently-dropped-from-1-hour-to-5-minutes-heres-what-to-do-13co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
