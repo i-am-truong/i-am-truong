@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python&#39;s urllib.robotparser Is Subtly Wrong — and Why That Matters for SEO](https://dev.to/sendotltd/pythons-urllibrobotparser-is-subtly-wrong-and-why-that-matters-for-seo-41kn)
-- [Writing a Polite Crawler: sitemap-gen for the Sites SSGs Forgot](https://dev.to/sendotltd/writing-a-polite-crawler-sitemap-gen-for-the-sites-ssgs-forgot-2bhm)
-- [What&#39;s actually in a modern favicon set &lpar;and why everyone gets it wrong&rpar;](https://dev.to/sendotltd/whats-actually-in-a-modern-favicon-set-and-why-everyone-gets-it-wrong-143j)
-- [AI Web Browsers &amp; Agents in 2026: The Complete Selection Guide](https://dev.to/sarvabharan/ai-web-browsers-agents-in-2026-the-complete-selection-guide-pkb)
-- [Why Relying Only on Passwords Is No Longer Secure Enough for UK Users](https://dev.to/devabkk/why-relying-only-on-passwords-is-no-longer-secure-enough-for-uk-users-595l)
+- [HMAC Webhook Signing Isn&#39;t Complicated — the Formats Are](https://dev.to/sendotltd/hmac-webhook-signing-isnt-complicated-the-formats-are-2di4)
+- [A Minimal HTTP Debug Server in Rust with axum](https://dev.to/sendotltd/a-minimal-http-debug-server-in-rust-with-axum-4i09)
+- [Docker Compose in Production: Is It a Good Idea?](https://dev.to/alex_boguslavets_b6280b12/docker-compose-in-production-is-it-a-good-idea-bgh)
+- [hexview: writing a color-aware hex dump in Rust with one dependency](https://dev.to/sendotltd/hexview-writing-a-color-aware-hex-dump-in-rust-with-one-dependency-l2i)
+- [The Compounding Effect of Domains: Why We Buy URLs Before Writing Code](https://dev.to/jakub_inithouse/the-compounding-effect-of-domains-why-we-buy-urls-before-writing-code-1j46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
