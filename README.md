@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HMAC Webhook Signing Isn&#39;t Complicated — the Formats Are](https://dev.to/sendotltd/hmac-webhook-signing-isnt-complicated-the-formats-are-2di4)
-- [A Minimal HTTP Debug Server in Rust with axum](https://dev.to/sendotltd/a-minimal-http-debug-server-in-rust-with-axum-4i09)
-- [Docker Compose in Production: Is It a Good Idea?](https://dev.to/alex_boguslavets_b6280b12/docker-compose-in-production-is-it-a-good-idea-bgh)
-- [hexview: writing a color-aware hex dump in Rust with one dependency](https://dev.to/sendotltd/hexview-writing-a-color-aware-hex-dump-in-rust-with-one-dependency-l2i)
-- [The Compounding Effect of Domains: Why We Buy URLs Before Writing Code](https://dev.to/jakub_inithouse/the-compounding-effect-of-domains-why-we-buy-urls-before-writing-code-1j46)
+- [I replaced $149/mo API error monitoring with $0.001 per fix — and agents pay only when it works](https://dev.to/carsonroelldebug/i-replaced-149mo-api-error-monitoring-with-0001-per-fix-and-agents-pay-only-when-it-works-19ij)
+- [Claude Code Routines: semanas ignorándolo y finalmente entendí por qué importa](https://dev.to/jtorchia/claude-code-routines-semanas-ignorandolo-y-finalmente-entendi-por-que-importa-4784)
+- [My Blog Syndication Strategy 📣](https://dev.to/souravdey777/my-blog-syndication-strategy-4ho8)
+- [There Are 5 Ways to Do Multi-Tenancy. I Automated the Hardest One.](https://dev.to/jonny2k26/there-are-5-ways-to-do-multi-tenancy-i-automated-the-hardest-one-3bd1)
+- [curl | bash for AI Agents: One-Command Install for pydantic-deep](https://dev.to/deenuu1/curl-bash-for-ai-agents-one-command-install-for-pydantic-deep-36jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
