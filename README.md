@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [zod-to-schema: A Zero-Config CLI That Runs Your TypeScript In-Process](https://dev.to/sendotltd/zod-to-schema-a-zero-config-cli-that-runs-your-typescript-in-process-54kh)
-- [Why AI Governance Committees Fail — And What to Do Instead](https://dev.to/nagasatish_chilakamarti_2/why-ai-governance-committees-fail-and-what-to-do-instead-1150)
-- [A local requestbin in 200 lines of PHP — why self-hosting beats webhook.site for production debugging](https://dev.to/sendotltd/a-local-requestbin-in-200-lines-of-php-why-self-hosting-beats-webhooksite-for-production-5h31)
-- [Your SSD is at 97% &quot;Healthy&quot; and it&#39;s Dying: The SMART Data Lie &lpar;5 Hard Lessons&rpar;](https://dev.to/hamada147/your-ssd-is-at-97-healthy-and-its-dying-the-smart-data-lie-5-hard-lessons-4ohn)
-- [Building a RAG Pipeline on Your Existing Django App: A Practical Guide](https://dev.to/lycore/building-a-rag-pipeline-on-your-existing-django-app-a-practical-guide-4a5b)
+- [How We Use the Web Crypto API to Build a Truly Fair Random Name Picker Wheel](https://dev.to/ismailgunaydin/how-we-use-the-web-crypto-api-to-build-a-truly-fair-random-name-picker-wheel-4565)
+- [Stop Scrolling Perfetto Timelines: Query Your Traces with SQL and Let AI Find the Bugs](https://dev.to/umang_sharma28/stop-scrolling-perfetto-timelines-query-your-traces-with-sql-and-let-ai-find-the-bugs-65a)
+- [How to prompt Gemini 3.1&#39;s new text to speech model](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb)
+- [The Hidden Cost of Running LLM Applications at Scale](https://dev.to/rohith_sargunan_56d47729f/the-hidden-cost-of-running-llm-applications-at-scale-56lg)
+- [The Claude Code Skill Set I Actually Run — Mapped by Dev Task](https://dev.to/lazydev_oh/the-claude-code-skill-set-i-actually-run-mapped-by-dev-task-5afm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
