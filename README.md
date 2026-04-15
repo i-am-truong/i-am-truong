@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is &quot;Learn C the Hard Way&quot; suitable for complete beginners?](https://dev.to/stack_overflowed/is-learn-c-the-hard-way-suitable-for-complete-beginners-257f)
-- [My Final Preparation for the Terraform Associate Exam](https://dev.to/stephanie_makori_845bb2c0/my-final-preparation-for-the-terraform-associate-exam-ie8)
-- [How to build a Crypto Payment Gateway with Fystack Programmable Wallet Infrastructure &lpar;Part 1&rpar;](https://dev.to/anhthii/how-to-build-a-crypto-payment-gateway-with-fystack-programmable-wallet-infrastructure-part-1-1lga)
-- [Best roadmap to learn SQL programming](https://dev.to/stack_overflowed/best-roadmap-to-learn-sql-programming-3680)
-- [We scored 108 bots on behavioral conduct. Here is what we found.](https://dev.to/botconductstandard/we-scored-108-bots-on-behavioral-conduct-here-is-what-we-found-1n57)
+- [Building an In-App E-Signature Flow Without DocuSign &lpar;Laravel + React + Canvas&rpar;](https://dev.to/devzakir/building-an-in-app-e-signature-flow-without-docusign-laravel-react-canvas-1a0m)
+- [Next.js 14 Server Actions: The Patterns Junior Devs Always Get Wrong](https://dev.to/apollo_ag/nextjs-14-server-actions-the-patterns-junior-devs-always-get-wrong-b0b)
+- [Ghidra Skills: Finding Logic Bombs in MIPS-based Router Firmware](https://dev.to/numbpill3d/ghidra-skills-finding-logic-bombs-in-mips-based-router-firmware-389g)
+- [Trade Unions Push Back: The EU Inc Worker Rights Debate](https://dev.to/euincnews/trade-unions-push-back-the-eu-inc-worker-rights-debate-mkl)
+- [SageMaker Feature Store with Terraform: Centralized ML Features for Training and Inference 🗃️](https://dev.to/suhas_mallesh/sagemaker-feature-store-with-terraform-centralized-ml-features-for-training-and-inference-8n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
