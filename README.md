@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Use the Web Crypto API to Build a Truly Fair Random Name Picker Wheel](https://dev.to/ismailgunaydin/how-we-use-the-web-crypto-api-to-build-a-truly-fair-random-name-picker-wheel-4565)
-- [Stop Scrolling Perfetto Timelines: Query Your Traces with SQL and Let AI Find the Bugs](https://dev.to/umang_sharma28/stop-scrolling-perfetto-timelines-query-your-traces-with-sql-and-let-ai-find-the-bugs-65a)
-- [How to prompt Gemini 3.1&#39;s new text to speech model](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb)
-- [The Hidden Cost of Running LLM Applications at Scale](https://dev.to/rohith_sargunan_56d47729f/the-hidden-cost-of-running-llm-applications-at-scale-56lg)
-- [The Claude Code Skill Set I Actually Run — Mapped by Dev Task](https://dev.to/lazydev_oh/the-claude-code-skill-set-i-actually-run-mapped-by-dev-task-5afm)
+- [I Built a Voice AI Agent in 72 Hours — Here&#39;s Every Decision I&#39;d Make Differently](https://dev.to/akritah/i-built-a-voice-ai-agent-in-72-hours-heres-every-decision-id-make-differently-4d8e)
+- [Building a Multi-Tenant Platform with vCluster on AWS](https://dev.to/yevgeni_shapiro/building-a-multi-tenant-building-a-multi-tenant-platform-with-vcluster-on-aws-d19)
+- [LOS-starter — How I Built a File-Based OS for My Dev Work](https://dev.to/gad_ofir_076c468dd15d483b/los-starter-how-i-built-a-file-based-os-for-my-dev-work-1767)
+- [Your AI Stack Is Too Big](https://dev.to/inferencedaily/your-ai-stack-is-too-big-4eco)
+- [Building Mini Gravity: A Local, Private Voice AI Agent](https://dev.to/sri_balagi/building-mini-gravity-a-local-private-voice-ai-agent-30n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
