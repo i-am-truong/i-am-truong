@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Important Logics to Understand About Liquidity Book Pair](https://dev.to/azeezabidoye/5-important-logics-to-understand-about-liquidity-book-pair-256o)
-- [How to Try Egonex ECP in .NET 8 and Send Emergency Alerts with an 8-Byte Payload](https://dev.to/geosegun/how-to-try-egonex-ecp-in-net-8-and-send-emergency-alerts-with-an-8-byte-payload-185p)
-- [GHSA-JJ6C-8H6C-HPPX: GHSA-JJ6C-8H6C-HPPX: Uncontrolled Resource Consumption in pypdf via Malformed PDF Streams](https://dev.to/cverports/ghsa-jj6c-8h6c-hppx-ghsa-jj6c-8h6c-hppx-uncontrolled-resource-consumption-in-pypdf-via-malformed-16jh)
-- [&quot;GitHub Copilot vs Claude vs ChatGPT — Which Helps You Code Faster?&quot;](https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj)
-- [Dependency: That One Line in build.gradle You Copy Without Thinking? Let&#39;s Actually Understand It.](https://dev.to/itsaalaa7/dependency-that-one-line-in-buildgradle-you-copy-without-thinking-lets-actually-understand-it-5l8)
+- [Database Optimization Strategies That Cut Query Execution Time by 60%: A Practical Guide](https://dev.to/oluwatosinolamilekan/database-optimization-strategies-that-cut-query-execution-time-by-60-a-practical-guide-4786)
+- [HTTP 402 waited 27 years for this moment: the x402 Foundation and the agent economy](https://dev.to/aaron_schnieder_4563d5d33/http-402-waited-27-years-for-this-moment-the-x402-foundation-and-the-agent-economy-db9)
+- [How WooCommerce Coupon Tracking Fails at Scale Without Automation](https://dev.to/nexuwp/how-woocommerce-coupon-tracking-fails-at-scale-without-automation-490n)
+- [Kubernetes Observability: What to Monitor and Why](https://dev.to/samson_tanimawo/kubernetes-observability-what-to-monitor-and-why-8ek)
+- [OpsMind: On-Prem AI for Manufacturing — No Cloud, No API Keys, No Budget](https://dev.to/pawan_singhkapkoti_ea8a0/opsmind-on-prem-ai-for-manufacturing-no-cloud-no-api-keys-no-budget-8m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
