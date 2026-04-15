@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd)
-- [Leetcode # 107. Binary Tree Level Order Traversal II](https://dev.to/hectorw_tt/107-binary-tree-level-order-traversal-ii-534)
-- [From Prompt Engineer to Agent Engineer: The 7 Skills You Need to Build AI Agents](https://dev.to/manishmshiva/from-prompt-engineer-to-agent-engineer-the-7-skills-you-need-to-build-ai-agents-33o7)
-- [From Request to Production in One Push. No Mockup Tool Required.](https://dev.to/artanidos/from-request-to-production-in-one-push-no-mockup-tool-required-opa)
-- [How to Compress SVG Files: Tools, Techniques, Config](https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028)
+- [Hide regions and services in the AWS console](https://dev.to/aws/hide-regions-and-services-in-the-aws-console-1m09)
+- [Making Your APIs Visible Using Capabilities for GitHub 7 GitBook Discovery and Documentation](https://dev.to/kinlane/making-your-apis-visible-using-capabilities-for-github-7-gitbook-discovery-and-documentation-mno)
+- [Building Crash-Recovery State Machines for Long-Running LLM Pipelines in Python](https://dev.to/german_yamil_e021eef8710d/building-crash-recovery-state-machines-for-long-running-llm-pipelines-in-python-2189)
+- [Architectural drift with Agentic coding. Here&#39;s what I built to fix it.](https://dev.to/deepcodersinc/agentic-coding-architectural-drift-heres-what-i-built-to-fix-it-4h2j)
+- [AI Writes the Code — But You Own the Consequences](https://dev.to/rohith_kn/ai-writes-the-code-but-you-own-the-consequences-116j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
