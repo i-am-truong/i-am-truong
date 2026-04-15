@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an In-App E-Signature Flow Without DocuSign &lpar;Laravel + React + Canvas&rpar;](https://dev.to/devzakir/building-an-in-app-e-signature-flow-without-docusign-laravel-react-canvas-1a0m)
-- [Next.js 14 Server Actions: The Patterns Junior Devs Always Get Wrong](https://dev.to/apollo_ag/nextjs-14-server-actions-the-patterns-junior-devs-always-get-wrong-b0b)
-- [Ghidra Skills: Finding Logic Bombs in MIPS-based Router Firmware](https://dev.to/numbpill3d/ghidra-skills-finding-logic-bombs-in-mips-based-router-firmware-389g)
-- [Trade Unions Push Back: The EU Inc Worker Rights Debate](https://dev.to/euincnews/trade-unions-push-back-the-eu-inc-worker-rights-debate-mkl)
-- [SageMaker Feature Store with Terraform: Centralized ML Features for Training and Inference 🗃️](https://dev.to/suhas_mallesh/sagemaker-feature-store-with-terraform-centralized-ml-features-for-training-and-inference-8n7)
+- [#45 The Paper Candle](https://dev.to/rintaromatsumoto/45-the-paper-candle-51f1)
+- [تصميم واجهات برمجة التطبيقات لوكلاء الذكاء الاصطناعي، وليس للبشر فقط](https://dev.to/yusuf_khalidd/tsmym-wjht-brmj-lttbyqt-lwkl-ldhk-lstny-wlys-llbshr-fqt-1m85)
+- [I Spent 3 Days Debugging Our LLM Setup. Turns Out We Needed an AI Gateway the Whole Time.](https://dev.to/varshithvhegde/i-spent-3-days-debugging-our-llm-setup-turns-out-we-needed-an-ai-gateway-the-whole-time-50a2)
+- [First Prune: Celebrate One Year of Pruna OSS](https://dev.to/pruna-ai/first-prune-celebrate-one-year-of-pruna-oss-50gp)
+- [How This Developer Built a Personalized Go Tutor Using Claude Code&#39;s](https://dev.to/gentic_news/how-this-developer-built-a-personalized-go-tutor-using-claude-codes-5bkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
