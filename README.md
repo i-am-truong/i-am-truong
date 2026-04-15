@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Proof Server and Indexer: How Midnight Processes Transactions - 2026-04-15](https://dev.to/aleen99/proof-server-and-indexer-how-midnight-processes-transactions-2026-04-15-5140)
-- [I Built an AI Chat in React Native in 30 Lines — Here&#39;s the Library That Made It Possible](https://dev.to/alexrixten/i-built-an-ai-chat-in-react-native-in-30-lines-heres-the-library-that-made-it-possible-4i12)
-- [An LLM Has No Idea It&#39;s Killing Your Infrastructure. That&#39;s Your Problem to Solve.](https://dev.to/ola_the_builder/an-llm-has-no-idea-its-killing-your-infrastructure-thats-your-problem-to-solve-2m19)
-- [AWS ECS vs EKS: A Practical Decision Framework for Startups](https://dev.to/instadevops/aws-ecs-vs-eks-a-practical-decision-framework-for-startups-3dgp)
-- [Mistake 11/14: Your E2E tests are checking email format](https://dev.to/testdino01/mistake-1114-your-e2e-tests-are-checking-email-format-11mk)
+- [zod-to-schema: A Zero-Config CLI That Runs Your TypeScript In-Process](https://dev.to/sendotltd/zod-to-schema-a-zero-config-cli-that-runs-your-typescript-in-process-54kh)
+- [Why AI Governance Committees Fail — And What to Do Instead](https://dev.to/nagasatish_chilakamarti_2/why-ai-governance-committees-fail-and-what-to-do-instead-1150)
+- [A local requestbin in 200 lines of PHP — why self-hosting beats webhook.site for production debugging](https://dev.to/sendotltd/a-local-requestbin-in-200-lines-of-php-why-self-hosting-beats-webhooksite-for-production-5h31)
+- [Your SSD is at 97% &quot;Healthy&quot; and it&#39;s Dying: The SMART Data Lie &lpar;5 Hard Lessons&rpar;](https://dev.to/hamada147/your-ssd-is-at-97-healthy-and-its-dying-the-smart-data-lie-5-hard-lessons-4ohn)
+- [Building a RAG Pipeline on Your Existing Django App: A Practical Guide](https://dev.to/lycore/building-a-rag-pipeline-on-your-existing-django-app-a-practical-guide-4a5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
