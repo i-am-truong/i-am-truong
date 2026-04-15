@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Password Strength Checker With Entropy Math and Crack-Time Estimates](https://dev.to/sendotltd/a-password-strength-checker-with-entropy-math-and-crack-time-estimates-1gjg)
-- [A Text Statistics Tool That Classifies Hiragana, Katakana, and Kanji Separately](https://dev.to/sendotltd/a-text-statistics-tool-that-classifies-hiragana-katakana-and-kanji-separately-523i)
-- [A Photo Mosaic Generator With Solid, Emoji, and ASCII Modes](https://dev.to/sendotltd/a-photo-mosaic-generator-with-solid-emoji-and-ascii-modes-j92)
-- [I Built a Zero-Cost Sleep Audio Factory in Python &lpar;Brown Noise, Binaural Beats, 10-Hour Tracks&rpar;](https://dev.to/whoffagents/i-built-a-zero-cost-sleep-audio-factory-in-python-brown-noise-binaural-beats-10-hour-tracks-anh)
-- [Claude&#39;s Prompt Cache TTL Silently Dropped from 1 Hour to 5 Minutes &lpar;Here&#39;s What to Do&rpar;](https://dev.to/whoffagents/claudes-prompt-cache-ttl-silently-dropped-from-1-hour-to-5-minutes-heres-what-to-do-13co)
+- [Building Immersive Web Apps in React: Fullscreen, Wake Lock, and Notifications](https://dev.to/childrentime/building-immersive-web-apps-in-react-fullscreen-wake-lock-and-notifications-4mcd)
+- [5 Seconds to Install. 60-90% Less Noise. Forever.](https://dev.to/ji_ai/5-seconds-to-install-60-90-less-noise-forever-lnh)
+- [CloudTrail Is Not Just a Log, It&#39;s Your AWS Security Camera](https://dev.to/karthiblip/cloudtrail-is-not-just-a-log-its-your-aws-security-camera-4dc9)
+- [The WordPress Stack I Keep Reaching For](https://dev.to/jorgearay/the-wordpress-stack-i-keep-reaching-for-3ggf)
+- [Meu primeiro bootcamp na DIO &lpar;CI&amp;T Java backend&rpar;](https://dev.to/thnocard36/meu-primeiro-bootcamp-na-dio-cit-java-backend-47l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
