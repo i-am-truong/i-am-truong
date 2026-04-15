@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4 and Sonnet 4 Retire June 15](https://dev.to/raxxostudios/claude-opus-4-and-sonnet-4-retire-june-15-2iog)
-- [Stop Wasting Hours on &quot;Project Setup&quot;: How I Automated Production-Ready Go APIs](https://dev.to/vivek_sharma_cb3c863dec26/stop-wasting-hours-on-project-setup-how-i-automated-production-ready-go-apis-3l45)
-- [How to Turn Word Documents into Reusable, API-Driven Templates](https://dev.to/templionix/how-to-turn-word-documents-into-reusable-api-driven-templates-4io8)
-- [I built a faster alternative to Unstoppable Copier &lpar;with a retro CLI twist&rpar;](https://dev.to/ignacio_rodriguez_fae5862/i-built-a-faster-alternative-to-unstoppable-copier-with-a-retro-cli-twist-111o)
-- [Optimize Images for Shopify: Free Guide [2026]](https://dev.to/samma1997/optimize-images-for-shopify-free-guide-2026-2g5c)
+- [Why Monetizing Your Dataset Might Not Be Worth It](https://dev.to/shipaifast/why-monetizing-your-dataset-might-not-be-worth-it-2jl7)
+- [Why AI Features Fail in Production Even When The Demo Works](https://dev.to/soumya_ranjannanda_168b9/why-ai-features-fail-in-production-even-when-the-demo-works-5b54)
+- [Example of E-commice SQL in that specilises in the food industry](https://dev.to/benm7926/example-of-e-commice-sql-in-that-specilises-in-the-food-industry-2p7g)
+- [Why We Built AutoBot: The WordPress of AI](https://dev.to/mrveiss/why-we-built-autobot-the-wordpress-of-ai-4k7b)
+- [What Happens After You Vibe Code: Production Observability for Solo Developers](https://dev.to/alexcloudstar/what-happens-after-you-vibe-code-production-observability-for-solo-developers-2iba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
