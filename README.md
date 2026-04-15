@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Immersive Web Apps in React: Fullscreen, Wake Lock, and Notifications](https://dev.to/childrentime/building-immersive-web-apps-in-react-fullscreen-wake-lock-and-notifications-4mcd)
-- [5 Seconds to Install. 60-90% Less Noise. Forever.](https://dev.to/ji_ai/5-seconds-to-install-60-90-less-noise-forever-lnh)
-- [CloudTrail Is Not Just a Log, It&#39;s Your AWS Security Camera](https://dev.to/karthiblip/cloudtrail-is-not-just-a-log-its-your-aws-security-camera-4dc9)
-- [The WordPress Stack I Keep Reaching For](https://dev.to/jorgearay/the-wordpress-stack-i-keep-reaching-for-3ggf)
-- [Meu primeiro bootcamp na DIO &lpar;CI&amp;T Java backend&rpar;](https://dev.to/thnocard36/meu-primeiro-bootcamp-na-dio-cit-java-backend-47l2)
+- [Is &quot;Learn C the Hard Way&quot; suitable for complete beginners?](https://dev.to/stack_overflowed/is-learn-c-the-hard-way-suitable-for-complete-beginners-257f)
+- [My Final Preparation for the Terraform Associate Exam](https://dev.to/stephanie_makori_845bb2c0/my-final-preparation-for-the-terraform-associate-exam-ie8)
+- [How to build a Crypto Payment Gateway with Fystack Programmable Wallet Infrastructure &lpar;Part 1&rpar;](https://dev.to/anhthii/how-to-build-a-crypto-payment-gateway-with-fystack-programmable-wallet-infrastructure-part-1-1lga)
+- [Best roadmap to learn SQL programming](https://dev.to/stack_overflowed/best-roadmap-to-learn-sql-programming-3680)
+- [We scored 108 bots on behavioral conduct. Here is what we found.](https://dev.to/botconductstandard/we-scored-108-bots-on-behavioral-conduct-here-is-what-we-found-1n57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
