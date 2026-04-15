@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hide regions and services in the AWS console](https://dev.to/aws/hide-regions-and-services-in-the-aws-console-1m09)
-- [Making Your APIs Visible Using Capabilities for GitHub 7 GitBook Discovery and Documentation](https://dev.to/kinlane/making-your-apis-visible-using-capabilities-for-github-7-gitbook-discovery-and-documentation-mno)
-- [Building Crash-Recovery State Machines for Long-Running LLM Pipelines in Python](https://dev.to/german_yamil_e021eef8710d/building-crash-recovery-state-machines-for-long-running-llm-pipelines-in-python-2189)
-- [Architectural drift with Agentic coding. Here&#39;s what I built to fix it.](https://dev.to/deepcodersinc/agentic-coding-architectural-drift-heres-what-i-built-to-fix-it-4h2j)
-- [AI Writes the Code — But You Own the Consequences](https://dev.to/rohith_kn/ai-writes-the-code-but-you-own-the-consequences-116j)
+- [I Built a Dead Simple App Because Claude Code Couldn&#39;t Hear Me](https://dev.to/vientapps/i-built-a-dead-simple-app-because-claude-code-couldnt-hear-me-2l90)
+- [Git-Native AI Development: Every Action is a Commit](https://dev.to/orquesta_live/git-native-ai-development-every-action-is-a-commit-35p5)
+- [Cassandra Internals: LSM Tree, SSTables, and Compaction](https://dev.to/priteshsurana/cassandra-internals-lsm-tree-sstables-and-compaction-2ai8)
+- [I Built Four Tools with Claude Code. None of Them Had Tests. So I Fixed That](https://dev.to/nikhilj/i-built-four-tools-with-claude-code-none-of-them-had-tests-so-i-fixed-that-25gk)
+- [Greedy Algorithms](https://dev.to/sm1/greedy-algorithms-14bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
