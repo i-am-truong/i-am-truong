@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I replaced $149/mo API error monitoring with $0.001 per fix — and agents pay only when it works](https://dev.to/carsonroelldebug/i-replaced-149mo-api-error-monitoring-with-0001-per-fix-and-agents-pay-only-when-it-works-19ij)
-- [Claude Code Routines: semanas ignorándolo y finalmente entendí por qué importa](https://dev.to/jtorchia/claude-code-routines-semanas-ignorandolo-y-finalmente-entendi-por-que-importa-4784)
-- [My Blog Syndication Strategy 📣](https://dev.to/souravdey777/my-blog-syndication-strategy-4ho8)
-- [There Are 5 Ways to Do Multi-Tenancy. I Automated the Hardest One.](https://dev.to/jonny2k26/there-are-5-ways-to-do-multi-tenancy-i-automated-the-hardest-one-3bd1)
-- [curl | bash for AI Agents: One-Command Install for pydantic-deep](https://dev.to/deenuu1/curl-bash-for-ai-agents-one-command-install-for-pydantic-deep-36jh)
+- [Proof Server and Indexer: How Midnight Processes Transactions - 2026-04-15](https://dev.to/aleen99/proof-server-and-indexer-how-midnight-processes-transactions-2026-04-15-5140)
+- [I Built an AI Chat in React Native in 30 Lines — Here&#39;s the Library That Made It Possible](https://dev.to/alexrixten/i-built-an-ai-chat-in-react-native-in-30-lines-heres-the-library-that-made-it-possible-4i12)
+- [An LLM Has No Idea It&#39;s Killing Your Infrastructure. That&#39;s Your Problem to Solve.](https://dev.to/ola_the_builder/an-llm-has-no-idea-its-killing-your-infrastructure-thats-your-problem-to-solve-2m19)
+- [AWS ECS vs EKS: A Practical Decision Framework for Startups](https://dev.to/instadevops/aws-ecs-vs-eks-a-practical-decision-framework-for-startups-3dgp)
+- [Mistake 11/14: Your E2E tests are checking email format](https://dev.to/testdino01/mistake-1114-your-e2e-tests-are-checking-email-format-11mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
