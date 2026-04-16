@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting Message Brokers for AI Inference](https://dev.to/optiwariindia/revisiting-message-brokers-for-ai-inference-3oic)
-- [ZSH + Starship: A Better Shell Experience for Linux Power Users](https://dev.to/dipadityadas/zsh-manager-for-fedora-based-systems-kbb)
-- [A Simple OpenClaw Workflow for HPC Job Analysis](https://dev.to/zubairakbar/a-simple-openclaw-workflow-for-hpc-job-analysis-3g0j)
-- [Wednesday Code Autopsy #4: The Canvas Arc Nobody Uses - PC Workman](https://dev.to/huckler/wednesday-code-autopsy-4-the-canvas-arc-nobody-uses-pc-workman-oob)
-- [Building a local audio &amp; video transcription API with FastAPI and faster-whisper](https://dev.to/mohammed_fashan_152d2c6a7/building-a-local-audio-video-transcription-api-with-fastapi-and-faster-whisper-47f8)
+- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-l58)
+- [Kiwi-chan Progress Report: Steady Mining!](https://dev.to/kiwi_tech/kiwi-chan-progress-report-steady-mining-2m6f)
+- [Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh](https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c)
+- [I Gave Claude Space to Decompress. It Started Thinking](https://dev.to/edwardkubiak/i-gave-claude-space-to-decompress-it-started-thinking-och)
+- [Level up CSS transitions with cubic-bezier](https://dev.to/railsdesigner/level-up-css-transitions-with-cubic-bezier-3955)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
