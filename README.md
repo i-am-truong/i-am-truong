@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Watching RubyGems.org in Real Time](https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o)
-- [# Sentinel Diary #4: From Dashboard to Incident Response — The deterministic path to reliable SRE](https://dev.to/boccato85/-sentinel-diary-4-from-dashboard-to-incident-response-the-deterministic-path-to-reliable-sre-4b0f)
-- [🚨 Anime Fans Are Losing It: A Chi‑From‑Chobits Skill You Can Drop Into Your AI Right Now](https://dev.to/owly/anime-fans-are-losing-it-a-chi-from-chobits-skill-you-can-drop-into-your-ai-right-now-21e7)
-- [Claude Opus 4.7 Debuts, Qwen 3.6-35B Open-Source, &amp; Claude Code Workflow](https://dev.to/soytuber/claude-opus-47-debuts-qwen-36-35b-open-source-claude-code-workflow-1ec)
-- [Java Without the JVM? A Journey into Spring Boot Native Images](https://dev.to/felipestanzani/java-without-the-jvm-a-journey-into-spring-boot-native-images-5ejp)
+- [I built the most honest AI coding agent: it tells you exactly what it did &lpar;nothing&rpar;](https://dev.to/saniel_doe_7c469c36088a98/i-built-the-most-honest-ai-coding-agent-it-tells-you-exactly-what-it-did-nothing-35ib)
+- [.NET Interview Questions: Key Concepts Explained](https://dev.to/sarupy/net-interview-questions-key-concepts-explained-3cf)
+- [Discussion: The Art of Imperfection: Why We’re obsessed with Digital Glitches | 0416-2239](https://dev.to/tacit_71799acf6d056b5155c/discussion-the-art-of-imperfection-why-were-obsessed-with-digital-glitches-0416-2239-25mk)
+- [`gh skill`: GitHub&#39;s New CLI Command Turns Agent Skills Into Installable Packages](https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82)
+- [So AI is making me Lazy...](https://dev.to/ametuercodr/so-ai-is-making-me-lazy-40oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
