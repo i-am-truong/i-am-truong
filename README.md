@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built the most honest AI coding agent: it tells you exactly what it did &lpar;nothing&rpar;](https://dev.to/saniel_doe_7c469c36088a98/i-built-the-most-honest-ai-coding-agent-it-tells-you-exactly-what-it-did-nothing-35ib)
-- [.NET Interview Questions: Key Concepts Explained](https://dev.to/sarupy/net-interview-questions-key-concepts-explained-3cf)
-- [Discussion: The Art of Imperfection: Why We’re obsessed with Digital Glitches | 0416-2239](https://dev.to/tacit_71799acf6d056b5155c/discussion-the-art-of-imperfection-why-were-obsessed-with-digital-glitches-0416-2239-25mk)
-- [`gh skill`: GitHub&#39;s New CLI Command Turns Agent Skills Into Installable Packages](https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82)
-- [So AI is making me Lazy...](https://dev.to/ametuercodr/so-ai-is-making-me-lazy-40oh)
+- [Little&#39;s Law: Understanding how much tour system can handle](https://dev.to/sarupy/littles-law-understanding-how-much-tour-system-can-handle-3fno)
+- [What happens when a 10-year-old builds their first IoT sensor — a teacher&#39;s perspective from Buenos Aires](https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5)
+- [Developer Experience &lpar;DevEx&rpar; Designer Challenges and How to Overcome Them &lpar;Part : I&rpar;](https://dev.to/priya_sajja_c336921bbda87/developer-experience-devex-designer-challenges-and-how-to-overcome-them-part-i-5941)
+- [Why event-driven agents reduce scope, cost, and decision dispersion](https://dev.to/tirso_garcia/why-event-driven-agents-reduce-scope-cost-and-decision-dispersion-2062)
+- [A TLS Certificate CLI in Rust — No OpenSSL, No Ceremony, Just a Fail-the-Build Exit Code](https://dev.to/sendotltd/a-tls-certificate-cli-in-rust-no-openssl-no-ceremony-just-a-fail-the-build-exit-code-1n7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
