@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;AI Inference Economics: The Unit Economics Framework Startups Actually Use&quot;](https://dev.to/stone_vell_6d4e932c750288/ai-inference-economics-the-unit-economics-framework-startups-actually-use-3ieg)
-- [Less, But Better: Dieter Rams&#39; Design Principles for Platform Engineering in the Agentic AI Era](https://dev.to/njoerd/less-but-better-dieter-rams-design-principles-for-platform-engineering-in-the-agentic-ai-era-5fh1)
-- [How I built a browser extension that converts at 64% &lpar;and kept it under 20KB&rpar;](https://dev.to/siakshit/how-i-built-a-browser-extension-that-converts-at-64-and-kept-it-under-20kb-34n2)
-- [Middle Scala Developer Resume Samples That Recruiters Notice](https://dev.to/hannah_usmedynska/middle-scala-developer-resume-samples-that-recruiters-notice-b1b)
-- [Bash vs. Zsh vs. Fish: Which One Should You Actually Use?](https://dev.to/sakibreza229/bash-vs-zsh-vs-fish-which-one-should-you-actually-use-1n9f)
+- [The $5 Trillion AI Boom Is Bypassing the Businesses That Need It Most](https://dev.to/maxmendes91/the-5-trillion-ai-boom-is-bypassing-the-businesses-that-need-it-most-4ie4)
+- [The Importance of Soft Skills](https://dev.to/fabiosarmento/the-importance-of-soft-skills-3fn6)
+- [The ‘Missing Middle’ of Data Processing in Java &lpar;10M Rows in ~40s&rpar;](https://dev.to/shridey/10m-records-40-seconds-o1-memory-why-i-built-a-lightweight-etl-engine-for-java-l1n)
+- [TradeMemory An AI-Powered Persistence Layer for Disciplined Trading](https://dev.to/balram_mahato_71e404dad14/tradememory-an-ai-powered-persistence-layer-for-disciplined-trading-33e5)
+- [Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
