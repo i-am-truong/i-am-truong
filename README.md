@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When](https://dev.to/robertatkinson3570/when-e3)
-- [We Scanned 200 SMB Domains. Here&#39;s What We Found.](https://dev.to/compliancelayer/we-scanned-200-smb-domains-heres-what-we-found-3abc)
-- [Benchmarking Memoria on LongMemEval: Strong Memory Retrieval, Clear Reader Separation](https://dev.to/origin_matrix_b790e656217/benchmarking-memoria-on-longmemeval-strong-memory-retrieval-clear-reader-separation-435b)
-- [Stop Googling &#39;Can I Use That AI Feature on the Free Plan&#39;](https://dev.to/snapsynapse/stop-googling-can-i-use-that-ai-feature-on-the-free-plan-5k)
-- [Most LCP Fixes Come Down to One Image](https://dev.to/nosyos/most-lcp-fixes-come-down-to-one-image-2i09)
+- [Greedy Arrays in PHP](https://dev.to/edmonddantes_14/greedy-arrays-in-php-2ei)
+- [Prism: A stateless payment integration library extracted from 4 years of production](https://dev.to/hyperswitchio/prism-a-stateless-payment-integration-library-extracted-from-4-years-of-production-555o)
+- [AI Agent Payments in India: The Complete Infrastructure Guide &lpar;2026&rpar;](https://dev.to/umangbuilds/ai-agent-payments-in-india-the-complete-infrastructure-guide-2026-11am)
+- [Your Perimeter Is Already Gone — Edge Security Isn&#39;t a Checkbox](https://dev.to/jon_zuanich/your-perimeter-is-already-gone-edge-security-isnt-a-checkbox-pok)
+- [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
