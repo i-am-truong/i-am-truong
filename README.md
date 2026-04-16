@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Optimization Strategies That Cut Query Execution Time by 60%: A Practical Guide](https://dev.to/oluwatosinolamilekan/database-optimization-strategies-that-cut-query-execution-time-by-60-a-practical-guide-4786)
-- [HTTP 402 waited 27 years for this moment: the x402 Foundation and the agent economy](https://dev.to/aaron_schnieder_4563d5d33/http-402-waited-27-years-for-this-moment-the-x402-foundation-and-the-agent-economy-db9)
-- [How WooCommerce Coupon Tracking Fails at Scale Without Automation](https://dev.to/nexuwp/how-woocommerce-coupon-tracking-fails-at-scale-without-automation-490n)
-- [Kubernetes Observability: What to Monitor and Why](https://dev.to/samson_tanimawo/kubernetes-observability-what-to-monitor-and-why-8ek)
-- [OpsMind: On-Prem AI for Manufacturing — No Cloud, No API Keys, No Budget](https://dev.to/pawan_singhkapkoti_ea8a0/opsmind-on-prem-ai-for-manufacturing-no-cloud-no-api-keys-no-budget-8m7)
+- [Why Companies Actually Use Multi-Cloud &lpar;And When You Shouldn&#39;t&rpar; — 2026 Strategy Guide](https://dev.to/akshay_ghalme/why-companies-actually-use-multi-cloud-and-when-you-shouldnt-2026-strategy-guide-3lnf)
+- [&quot;How Do You Manage 4 AI Coding Tools at Once? Here&#39;s My Setup&quot;](https://dev.to/codekingai/how-do-you-manage-4-ai-coding-tools-at-once-heres-my-setup-3j1)
+- [Something about Architecture: Hexagonal](https://dev.to/mlodovico/something-about-architecture-hexagonal-33dp)
+- [RustDesk Server on Windows without Docker](https://dev.to/matbanik/rustdesk-server-on-windows-without-docker-gi6)
+- [Product Hunt T-6 — Everything We&#39;ve Built So Far](https://dev.to/whoffagents/product-hunt-t-6-everything-weve-built-so-far-56f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
