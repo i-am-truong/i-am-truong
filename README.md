@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Competitive Analysis of 15 AI Testing Tools Pricing, Core Features, and Common User Complaints](https://dev.to/xiami9378389/competitive-analysis-of-15-ai-testing-toolspricing-core-features-and-common-user-complaints-5bhh)
-- [Structuring the Database: Building an AI Task System [Floxis #2]](https://dev.to/rina-park/structuring-the-database-building-an-ai-task-system-floxis-2-3g56)
-- [Move and Rename Files in PowerShell: Move-Item Explained](https://dev.to/arnostorg/move-and-rename-files-in-powershell-move-item-explained-35kl)
-- [JavaScript Execution Flow: Event Loop, Call Stack, Microtasks vs Macrotasks](https://dev.to/sachin_singhpatwal_cbaa0/javascript-execution-flow-event-loop-call-stack-microtasks-vs-macrotasks-15c3)
-- [Why Your LED Color Transitions Look Fake](https://dev.to/_0c004e5fde78250aee362/why-your-led-color-transitions-look-fake-395h)
+- [My New Developer Spent 2 Hours on Our README. Docker Fixed It in 5 Minutes.](https://dev.to/genuineswe/my-new-developer-spent-2-hours-on-our-readme-docker-fixed-it-in-5-minutes-17in)
+- [Why Sagas &lpar;and Why Not Distributed Transactions&rpar;](https://dev.to/pedrop3/why-sagas-and-why-not-distributed-transactions-5fi9)
+- [Vertex AI Feature Store with Terraform: BigQuery Offline + Bigtable Online Serving 🗃️](https://dev.to/suhas_mallesh/vertex-ai-feature-store-with-terraform-bigquery-offline-bigtable-online-serving-4n7g)
+- [Why Every Small Business Needs a CI/CD Pipeline in 2026](https://dev.to/alex_boguslavets_b6280b12/why-every-small-business-needs-a-cicd-pipeline-in-2026-22c4)
+- [AI in Practice](https://dev.to/gursharansingh/ai-in-practice-795)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
