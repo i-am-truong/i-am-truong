@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent Memory Without a Vector Database: The Markdown-First Approach](https://dev.to/whoffagents/multi-agent-memory-without-a-vector-database-the-markdown-first-approach-2lo0)
-- [Automate Code Reviews with Claude API and GitHub Actions in TypeScript](https://dev.to/whoffagents/automate-code-reviews-with-claude-api-and-github-actions-in-typescript-4j2e)
-- [Comment and Control: The GitHub AI Agent Attack That Three Vendors Hushed](https://dev.to/waxell/comment-and-control-the-github-ai-agent-attack-that-three-vendors-hushed-3d4o)
-- [Code Chains Graphs State Machines: An Engineer&#39;s Field Guide to AI Patterns](https://dev.to/shravaniparsi/code-chains-graphs-state-machines-an-engineers-field-guide-to-ai-patterns-31ai)
-- [Breaking Things and Building Better Tests: A Hackathon Snapshot](https://dev.to/hema_nambi_66c9/breaking-things-and-building-better-tests-a-hackathon-snapshot-2337)
+- [Building a Fully Automated Horse Racing AI Prediction Pipeline with Flutter + Supabase](https://dev.to/kanta13jp1/building-a-fully-automated-horse-racing-ai-prediction-pipeline-with-flutter-supabase-21b2)
+- [How I Published 21 Technical Articles in One Day Using GitHub Actions + Supabase](https://dev.to/kanta13jp1/how-i-published-21-technical-articles-in-one-day-using-github-actions-supabase-4585)
+- [Forge IL Can Now Compile Itself - And We Have a New Word for What We&#39;re Building](https://dev.to/artanidos/forge-il-can-now-compile-itself-and-we-have-a-new-word-for-what-were-building-5kd)
+- [Why Generative AI Isn’t Enough, Enter Agentic Systems](https://dev.to/darrenbro/why-generative-ai-isnt-enough-enter-agentic-systems-4i1l)
+- [Inside an AI Pipeline: What Actually Happens After You Train a Model](https://dev.to/siddhartha_reddy/inside-an-ai-pipeline-what-actually-happens-after-you-train-a-model-1gpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
