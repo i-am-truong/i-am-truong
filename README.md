@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Control Your Tesla from the Terminal with a Kiro CLI Skill](https://dev.to/aws-builders/control-your-tesla-from-the-terminal-with-a-kiro-cli-skill-472g)
-- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-3cbk)
-- [Your indie game didn&#39;t fail because of bad code. It failed because of bad design.](https://dev.to/hiroshi_takamura_c851fe71/your-indie-game-didnt-fail-because-of-bad-code-it-failed-because-of-bad-design-128f)
-- [The dependency vulnerability gap that CI/CD can’t fix](https://dev.to/djminikin/the-dependency-vulnerability-gap-that-cicd-cant-fix-hhn)
-- [CI/CD, GitLab Pipelines and Kaniko](https://dev.to/yepchaos/cicd-gitlab-pipelines-and-kaniko-4oie)
+- [Model Context Protocol en Producción: Por Qué el 80% de los Agentes AI Fallan Antes de los 30 Días](https://dev.to/aurimasmarkunas/model-context-protocol-en-produccion-por-que-el-80-de-los-agentes-ai-fallan-antes-de-los-30-dias-2gmg)
+- [The Prosodic Memory Layer: How AI Learns Your Voice &lpar;and Why It Matters&rpar;](https://dev.to/soulentheo/the-prosodic-memory-layer-how-ai-learns-your-voice-and-why-it-matters-10g3)
+- [the dx toolkit i wish existed when i started building blockchain frontends](https://dev.to/jynxbt/the-dx-toolkit-i-wish-existed-when-i-started-building-blockchain-frontends-7l1)
+- [Vibe Coding Is Making Us Worse Developers](https://dev.to/harsh2644/vibe-coding-is-making-us-worse-developers-39bd)
+- [How I Built a Memory System for Autonomous AI Agents &lpar;And Why You Need One Too&rpar;](https://dev.to/the_bookmaster/how-i-built-a-memory-system-for-autonomous-ai-agents-and-why-you-need-one-too-2pg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
