@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fully Automated Horse Racing AI Prediction Pipeline with Flutter + Supabase](https://dev.to/kanta13jp1/building-a-fully-automated-horse-racing-ai-prediction-pipeline-with-flutter-supabase-21b2)
-- [How I Published 21 Technical Articles in One Day Using GitHub Actions + Supabase](https://dev.to/kanta13jp1/how-i-published-21-technical-articles-in-one-day-using-github-actions-supabase-4585)
-- [Forge IL Can Now Compile Itself - And We Have a New Word for What We&#39;re Building](https://dev.to/artanidos/forge-il-can-now-compile-itself-and-we-have-a-new-word-for-what-were-building-5kd)
-- [Why Generative AI Isn’t Enough, Enter Agentic Systems](https://dev.to/darrenbro/why-generative-ai-isnt-enough-enter-agentic-systems-4i1l)
-- [Inside an AI Pipeline: What Actually Happens After You Train a Model](https://dev.to/siddhartha_reddy/inside-an-ai-pipeline-what-actually-happens-after-you-train-a-model-1gpj)
+- [Watching RubyGems.org in Real Time](https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o)
+- [# Sentinel Diary #4: From Dashboard to Incident Response — The deterministic path to reliable SRE](https://dev.to/boccato85/-sentinel-diary-4-from-dashboard-to-incident-response-the-deterministic-path-to-reliable-sre-4b0f)
+- [🚨 Anime Fans Are Losing It: A Chi‑From‑Chobits Skill You Can Drop Into Your AI Right Now](https://dev.to/owly/anime-fans-are-losing-it-a-chi-from-chobits-skill-you-can-drop-into-your-ai-right-now-21e7)
+- [Claude Opus 4.7 Debuts, Qwen 3.6-35B Open-Source, &amp; Claude Code Workflow](https://dev.to/soytuber/claude-opus-47-debuts-qwen-36-35b-open-source-claude-code-workflow-1ec)
+- [Java Without the JVM? A Journey into Spring Boot Native Images](https://dev.to/felipestanzani/java-without-the-jvm-a-journey-into-spring-boot-native-images-5ejp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
