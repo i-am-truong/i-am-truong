@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The $5 Trillion AI Boom Is Bypassing the Businesses That Need It Most](https://dev.to/maxmendes91/the-5-trillion-ai-boom-is-bypassing-the-businesses-that-need-it-most-4ie4)
-- [The Importance of Soft Skills](https://dev.to/fabiosarmento/the-importance-of-soft-skills-3fn6)
-- [The ‘Missing Middle’ of Data Processing in Java &lpar;10M Rows in ~40s&rpar;](https://dev.to/shridey/10m-records-40-seconds-o1-memory-why-i-built-a-lightweight-etl-engine-for-java-l1n)
-- [TradeMemory An AI-Powered Persistence Layer for Disciplined Trading](https://dev.to/balram_mahato_71e404dad14/tradememory-an-ai-powered-persistence-layer-for-disciplined-trading-33e5)
-- [Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)
+- [When](https://dev.to/robertatkinson3570/when-e3)
+- [We Scanned 200 SMB Domains. Here&#39;s What We Found.](https://dev.to/compliancelayer/we-scanned-200-smb-domains-heres-what-we-found-3abc)
+- [Benchmarking Memoria on LongMemEval: Strong Memory Retrieval, Clear Reader Separation](https://dev.to/origin_matrix_b790e656217/benchmarking-memoria-on-longmemeval-strong-memory-retrieval-clear-reader-separation-435b)
+- [Stop Googling &#39;Can I Use That AI Feature on the Free Plan&#39;](https://dev.to/snapsynapse/stop-googling-can-i-use-that-ai-feature-on-the-free-plan-5k)
+- [Most LCP Fixes Come Down to One Image](https://dev.to/nosyos/most-lcp-fixes-come-down-to-one-image-2i09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
