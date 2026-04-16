@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Companies Actually Use Multi-Cloud &lpar;And When You Shouldn&#39;t&rpar; — 2026 Strategy Guide](https://dev.to/akshay_ghalme/why-companies-actually-use-multi-cloud-and-when-you-shouldnt-2026-strategy-guide-3lnf)
-- [&quot;How Do You Manage 4 AI Coding Tools at Once? Here&#39;s My Setup&quot;](https://dev.to/codekingai/how-do-you-manage-4-ai-coding-tools-at-once-heres-my-setup-3j1)
-- [Something about Architecture: Hexagonal](https://dev.to/mlodovico/something-about-architecture-hexagonal-33dp)
-- [RustDesk Server on Windows without Docker](https://dev.to/matbanik/rustdesk-server-on-windows-without-docker-gi6)
-- [Product Hunt T-6 — Everything We&#39;ve Built So Far](https://dev.to/whoffagents/product-hunt-t-6-everything-weve-built-so-far-56f7)
+- [Competitive Analysis of 15 AI Testing Tools Pricing, Core Features, and Common User Complaints](https://dev.to/xiami9378389/competitive-analysis-of-15-ai-testing-toolspricing-core-features-and-common-user-complaints-5bhh)
+- [Structuring the Database: Building an AI Task System [Floxis #2]](https://dev.to/rina-park/structuring-the-database-building-an-ai-task-system-floxis-2-3g56)
+- [Move and Rename Files in PowerShell: Move-Item Explained](https://dev.to/arnostorg/move-and-rename-files-in-powershell-move-item-explained-35kl)
+- [JavaScript Execution Flow: Event Loop, Call Stack, Microtasks vs Macrotasks](https://dev.to/sachin_singhpatwal_cbaa0/javascript-execution-flow-event-loop-call-stack-microtasks-vs-macrotasks-15c3)
+- [Why Your LED Color Transitions Look Fake](https://dev.to/_0c004e5fde78250aee362/why-your-led-color-transitions-look-fake-395h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
