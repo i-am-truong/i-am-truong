@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-l58)
-- [Kiwi-chan Progress Report: Steady Mining!](https://dev.to/kiwi_tech/kiwi-chan-progress-report-steady-mining-2m6f)
-- [Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh](https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c)
-- [I Gave Claude Space to Decompress. It Started Thinking](https://dev.to/edwardkubiak/i-gave-claude-space-to-decompress-it-started-thinking-och)
-- [Level up CSS transitions with cubic-bezier](https://dev.to/railsdesigner/level-up-css-transitions-with-cubic-bezier-3955)
+- [Multi-Agent Memory Without a Vector Database: The Markdown-First Approach](https://dev.to/whoffagents/multi-agent-memory-without-a-vector-database-the-markdown-first-approach-2lo0)
+- [Automate Code Reviews with Claude API and GitHub Actions in TypeScript](https://dev.to/whoffagents/automate-code-reviews-with-claude-api-and-github-actions-in-typescript-4j2e)
+- [Comment and Control: The GitHub AI Agent Attack That Three Vendors Hushed](https://dev.to/waxell/comment-and-control-the-github-ai-agent-attack-that-three-vendors-hushed-3d4o)
+- [Code Chains Graphs State Machines: An Engineer&#39;s Field Guide to AI Patterns](https://dev.to/shravaniparsi/code-chains-graphs-state-machines-an-engineers-field-guide-to-ai-patterns-31ai)
+- [Breaking Things and Building Better Tests: A Hackathon Snapshot](https://dev.to/hema_nambi_66c9/breaking-things-and-building-better-tests-a-hackathon-snapshot-2337)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
