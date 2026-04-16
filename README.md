@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol en Producción: Por Qué el 80% de los Agentes AI Fallan Antes de los 30 Días](https://dev.to/aurimasmarkunas/model-context-protocol-en-produccion-por-que-el-80-de-los-agentes-ai-fallan-antes-de-los-30-dias-2gmg)
-- [The Prosodic Memory Layer: How AI Learns Your Voice &lpar;and Why It Matters&rpar;](https://dev.to/soulentheo/the-prosodic-memory-layer-how-ai-learns-your-voice-and-why-it-matters-10g3)
-- [the dx toolkit i wish existed when i started building blockchain frontends](https://dev.to/jynxbt/the-dx-toolkit-i-wish-existed-when-i-started-building-blockchain-frontends-7l1)
-- [Vibe Coding Is Making Us Worse Developers](https://dev.to/harsh2644/vibe-coding-is-making-us-worse-developers-39bd)
-- [How I Built a Memory System for Autonomous AI Agents &lpar;And Why You Need One Too&rpar;](https://dev.to/the_bookmaster/how-i-built-a-memory-system-for-autonomous-ai-agents-and-why-you-need-one-too-2pg1)
+- [&quot;AI Inference Economics: The Unit Economics Framework Startups Actually Use&quot;](https://dev.to/stone_vell_6d4e932c750288/ai-inference-economics-the-unit-economics-framework-startups-actually-use-3ieg)
+- [Less, But Better: Dieter Rams&#39; Design Principles for Platform Engineering in the Agentic AI Era](https://dev.to/njoerd/less-but-better-dieter-rams-design-principles-for-platform-engineering-in-the-agentic-ai-era-5fh1)
+- [How I built a browser extension that converts at 64% &lpar;and kept it under 20KB&rpar;](https://dev.to/siakshit/how-i-built-a-browser-extension-that-converts-at-64-and-kept-it-under-20kb-34n2)
+- [Middle Scala Developer Resume Samples That Recruiters Notice](https://dev.to/hannah_usmedynska/middle-scala-developer-resume-samples-that-recruiters-notice-b1b)
+- [Bash vs. Zsh vs. Fish: Which One Should You Actually Use?](https://dev.to/sakibreza229/bash-vs-zsh-vs-fish-which-one-should-you-actually-use-1n9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
