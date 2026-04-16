@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My New Developer Spent 2 Hours on Our README. Docker Fixed It in 5 Minutes.](https://dev.to/genuineswe/my-new-developer-spent-2-hours-on-our-readme-docker-fixed-it-in-5-minutes-17in)
-- [Why Sagas &lpar;and Why Not Distributed Transactions&rpar;](https://dev.to/pedrop3/why-sagas-and-why-not-distributed-transactions-5fi9)
-- [Vertex AI Feature Store with Terraform: BigQuery Offline + Bigtable Online Serving 🗃️](https://dev.to/suhas_mallesh/vertex-ai-feature-store-with-terraform-bigquery-offline-bigtable-online-serving-4n7g)
-- [Why Every Small Business Needs a CI/CD Pipeline in 2026](https://dev.to/alex_boguslavets_b6280b12/why-every-small-business-needs-a-cicd-pipeline-in-2026-22c4)
-- [AI in Practice](https://dev.to/gursharansingh/ai-in-practice-795)
+- [Control Your Tesla from the Terminal with a Kiro CLI Skill](https://dev.to/aws-builders/control-your-tesla-from-the-terminal-with-a-kiro-cli-skill-472g)
+- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-3cbk)
+- [Your indie game didn&#39;t fail because of bad code. It failed because of bad design.](https://dev.to/hiroshi_takamura_c851fe71/your-indie-game-didnt-fail-because-of-bad-code-it-failed-because-of-bad-design-128f)
+- [The dependency vulnerability gap that CI/CD can’t fix](https://dev.to/djminikin/the-dependency-vulnerability-gap-that-cicd-cant-fix-hhn)
+- [CI/CD, GitLab Pipelines and Kaniko](https://dev.to/yepchaos/cicd-gitlab-pipelines-and-kaniko-4oie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
