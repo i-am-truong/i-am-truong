@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Greedy Arrays in PHP](https://dev.to/edmonddantes_14/greedy-arrays-in-php-2ei)
-- [Prism: A stateless payment integration library extracted from 4 years of production](https://dev.to/hyperswitchio/prism-a-stateless-payment-integration-library-extracted-from-4-years-of-production-555o)
-- [AI Agent Payments in India: The Complete Infrastructure Guide &lpar;2026&rpar;](https://dev.to/umangbuilds/ai-agent-payments-in-india-the-complete-infrastructure-guide-2026-11am)
-- [Your Perimeter Is Already Gone — Edge Security Isn&#39;t a Checkbox](https://dev.to/jon_zuanich/your-perimeter-is-already-gone-edge-security-isnt-a-checkbox-pok)
-- [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682)
+- [Terminal themes assume you&#39;re scanning code. I&#39;m reading paragraphs.](https://dev.to/palo_alto_ai/terminal-themes-assume-youre-scanning-code-im-reading-paragraphs-337m)
+- [We Are Building a Hearing Aid Powered by Wave Physics](https://dev.to/emphos_group/we-are-building-a-hearing-aid-powered-by-wave-physics-5906)
+- [DuckDB in the Wild: What 6 Minutes of Benchmarking Across 4 Machines Taught Me About Real-World Performance](https://dev.to/_f751e50d019c73e72371f/duckdb-in-the-wild-what-6-minutes-of-benchmarking-across-4-machines-taught-me-about-real-world-3gff)
+- [HTML to PDF API: Convert Web Content to PDF Programmatically with Foxit](https://dev.to/luciench/html-to-pdf-api-convert-web-content-to-pdf-programmatically-with-foxit-1df0)
+- [What an MCP server for content publishing actually needs to do](https://dev.to/pipepost/what-an-mcp-server-for-content-publishing-actually-needs-to-do-51oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
