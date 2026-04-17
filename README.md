@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [El Dilema del Prisionero de la IA: Cómo Sobreviven los Bootstrapped Founders](https://dev.to/cristiantalasanchez/el-dilema-del-prisionero-de-la-ia-como-sobreviven-los-bootstrapped-founders-3dnl)
-- [State Is the Hardest Problem in AI Agents](https://dev.to/inferencedaily/state-is-the-hardest-problem-in-ai-agents-44m6)
-- [openai-agents 0.13.x Silently Dropped openai v1 Support — Here&#39;s What Breaks](https://dev.to/peytongreen_dev/openai-agents-013x-silently-dropped-openai-v1-support-heres-what-breaks-4ibm)
-- [Web Tech Update 2026: What Developers Should Watch Right Now](https://dev.to/mkkabirii/web-tech-update-2026-what-developers-should-watch-right-now-30mj)
-- [Understanding Transformers Part 9: Stacking Self-Attention Layers](https://dev.to/rijultp/understanding-transformers-part-9-stacking-self-attention-layers-3gg3)
+- [My Kubernetes Mastery Journey: Installing Local Kubernetes Clusters](https://dev.to/rahimah_dev/my-kubernetes-mastery-journey-installing-local-kubernetes-clusters-176)
+- [I built an AI log monitor for my homelab — local LLM reads my *arr logs so I don&#39;t have to](https://dev.to/pdegidio/i-built-an-ai-log-monitor-for-my-homelab-local-llm-reads-my-arr-logs-so-i-dont-have-to-503n)
+- [Qwen3.6 GGUF, RTX 4080 Cooling &amp; Pragmata GPU Benchmarks Drive Performance](https://dev.to/soytuber/qwen36-gguf-rtx-4080-cooling-pragmata-gpu-benchmarks-drive-performance-46d3)
+- [Claude Design, Opus 4.7 Regression, GPT-5.3 &amp; KIMI K2 Benchmarks](https://dev.to/soytuber/claude-design-opus-47-regression-gpt-53-kimi-k2-benchmarks-c21)
+- [Qwen3.6 GGUF Benchmarks, Ternary Bonsai 1.58-bit Models, &amp; Ollama Code Explainer Tool](https://dev.to/soytuber/qwen36-gguf-benchmarks-ternary-bonsai-158-bit-models-ollama-code-explainer-tool-397)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
