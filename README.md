@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Everyone&#39;s Talking About AI Agents &lpar;And Why You Should Be Too&rpar;](https://dev.to/aibughunter/why-everyones-talking-about-ai-agents-and-why-you-should-be-too-3bif)
-- [I replaced Zapier, Notion Web Clipper, and 3 other tools with a single Telegram bot](https://dev.to/dp_singh702_/i-replaced-zapier-notion-web-clipper-and-3-other-tools-with-a-single-telegram-bot-11e4)
-- [Four AWS VPC blueprints that will save your MLOps pipeline](https://dev.to/dev_tips/four-aws-vpc-blueprints-that-will-save-your-mlops-pipeline-5d04)
-- [AI Agents Need Real Email Infrastructure](https://dev.to/francofuji/ai-agents-need-real-email-infrastructure-9m3)
-- [iforgeAI v1.3.0: From AI Assistant to AI Team for Development Workflows](https://dev.to/nelson_li_c5265341756c7ab/iforgeai-v130-from-ai-assistant-to-ai-team-for-development-workflows-1b23)
+- [LLMs are excellent at novelty. Operations reward determinism.](https://dev.to/dominikj111/llms-are-excellent-at-novelty-operations-reward-determinism-2g8l)
+- [Voice of Earth: What If Nature Could Speak Back?](https://dev.to/preeti_yadav/voice-of-earth-what-if-nature-could-speak-back-f28)
+- [From Locks to Actors: The Four Pillars of Modern Concurrency](https://dev.to/harrison_guo_e01b4c8793a0/from-locks-to-actors-the-four-pillars-of-modern-concurrency-3o50)
+- [當 AI 練習正念，誰才是學生？](https://dev.to/yanggf8/dang-ai-lian-xi-zheng-nian-shui-cai-shi-xue-sheng--2jfb)
+- [Enterprise Agents Are Now Signing Purchase Orders. Who Controls the Payment Rail?](https://dev.to/kavinkimcreator/enterprise-agents-are-now-signing-purchase-orders-who-controls-the-payment-rail-23fc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
