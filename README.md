@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built an Ethical Hacking Scanner Tool – Open Source Project](https://dev.to/sayodya_hasaranga_8250504/i-built-an-ethical-hacking-scanner-tool-open-source-project-26bi)
-- [I Replaced /usage and /context in Claude Code With a Single Statusline](https://dev.to/vientapps/i-replaced-usage-and-context-in-claude-code-with-a-single-statusline-7h9)
-- [A Pythonic Way to Handle Emails &lpar;IMAP/SMTP&rpar; with Auto-Discovery and AI-Ready Design](https://dev.to/fernandocelmer/a-pythonic-way-to-handle-emails-imapsmtp-with-auto-discovery-and-ai-ready-design-3ad6)
-- [I Collected 8.9 Million Polymarket Price Points — Here&#39;s What I Found About How Markets Really Move](https://dev.to/manja316/i-collected-89-million-polymarket-price-points-heres-what-i-found-about-how-markets-really-move-2dil)
-- [EcoTrack AI — Carbon Footprint Tracker &amp; Dashboard](https://dev.to/gowtham_m_2c7f2a0ed2a274b/ecotrack-ai-carbon-footprint-tracker-dashboard-jb7)
+- [Agentic AI&#39;s Infrastructure Boom Meets Its Reliability Problem](https://dev.to/anikalp1/agentic-ais-infrastructure-boom-meets-its-reliability-problem-1h3m)
+- [Vertical and Horizontal Scaling](https://dev.to/shiwani08/vertical-and-horizontal-scaling-1en4)
+- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-1pap)
+- [The Restart Challenge: Day 05](https://dev.to/mk_novice/the-restart-challenge-day-05-d40)
+- [5 Things I Learned Reverse-Engineering Claude Code&#39;s Architecture](https://dev.to/_2b847605e5fbe8a8c9e26/5-things-i-learned-reverse-engineering-claude-codes-architecture-42hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
