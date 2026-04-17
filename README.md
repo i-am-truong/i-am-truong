@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agent Has Root Access to Everything &lpar;And How to Fix It in 3 Lines of Python&rpar;](https://dev.to/avinash_amudala_8712ab560/why-your-ai-agent-has-root-access-to-everything-and-how-to-fix-it-in-3-lines-of-python-476d)
-- [Why I stopped writing prompts and started compiling them](https://dev.to/brainbootdev/why-i-stopped-writing-prompts-and-started-compiling-them-53jn)
-- [Spec-Driven, AI-Assisted, Test-Validated — A Practitioner&#39;s Account](https://dev.to/kadetr/spec-driven-ai-assisted-test-validated-a-practitioners-account-3gd4)
-- [Security and String Interpolation](https://dev.to/cwprogram/security-and-string-interpolation-175)
-- [I got tired of writing the same CDK wiring, so I built simple-cdk](https://dev.to/pujaaan/i-got-tired-of-writing-the-same-cdk-wiring-so-i-built-simple-cdk-obg)
+- [Why Everyone&#39;s Talking About AI Agents &lpar;And Why You Should Be Too&rpar;](https://dev.to/aibughunter/why-everyones-talking-about-ai-agents-and-why-you-should-be-too-3bif)
+- [I replaced Zapier, Notion Web Clipper, and 3 other tools with a single Telegram bot](https://dev.to/dp_singh702_/i-replaced-zapier-notion-web-clipper-and-3-other-tools-with-a-single-telegram-bot-11e4)
+- [Four AWS VPC blueprints that will save your MLOps pipeline](https://dev.to/dev_tips/four-aws-vpc-blueprints-that-will-save-your-mlops-pipeline-5d04)
+- [AI Agents Need Real Email Infrastructure](https://dev.to/francofuji/ai-agents-need-real-email-infrastructure-9m3)
+- [iforgeAI v1.3.0: From AI Assistant to AI Team for Development Workflows](https://dev.to/nelson_li_c5265341756c7ab/iforgeai-v130-from-ai-assistant-to-ai-team-for-development-workflows-1b23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
