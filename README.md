@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Air Traffic Control Scaleway Ep.1](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep1-5hcj)
-- [I built a Twitch social network called Chattr](https://dev.to/michaelbrooks/i-built-a-twitch-social-network-called-chattr-5hfo)
-- [I Built an AI Scope Generator in 2 Weeks](https://dev.to/trishan_ab0d68a0890a36697/i-built-an-ai-scope-generator-in-2-weeks-15mh)
-- [Mastering Symfony UX 3.0.0 with a Modern Real Estate Platform](https://dev.to/mattleads/mastering-symfony-ux-300-with-a-modern-real-estate-platform-42h1)
-- [Your AI-Generated Text Stinks and Everyone Knows It — Here&#39;s What We Found Building Detection Tools](https://dev.to/gerus_team/your-ai-generated-text-stinks-and-everyone-knows-it-heres-what-we-found-building-detection-tools-410p)
+- [The Tech Industry Talks AGI Singularity — Meanwhile, the AI Itself Can&#39;t Find a Single Real Chinese Factory](https://dev.to/meachealai/the-tech-industry-talks-agi-singularity-meanwhile-the-ai-itself-cant-find-a-single-real-chinese-5cge)
+- [Managing Multiple APIs and Databases in a Single Frontend Using Redux](https://dev.to/skniyaznoor/managing-multiple-apis-and-databases-in-a-single-frontend-using-redux-1ml)
+- [How I Built a Profitable FreqAI Plugin Using Institutional ML Techniques](https://dev.to/stefano_viana_dda882cfae5/how-i-built-a-profitable-freqai-plugin-using-institutional-ml-techniques-1l9k)
+- [I Asked Claude to Analyze My Portfolio. Here’s What Happened.](https://dev.to/kevin_menesesgonzlez/i-asked-claude-to-analyze-my-portfolio-heres-what-happened-4km)
+- [Tailwind Guides #1: What Actually Broke Migrating to v4](https://dev.to/7onic/tailwind-guides-1-what-actually-broke-migrating-to-v4-485o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
