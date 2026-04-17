@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Little&#39;s Law: Understanding how much tour system can handle](https://dev.to/sarupy/littles-law-understanding-how-much-tour-system-can-handle-3fno)
-- [What happens when a 10-year-old builds their first IoT sensor — a teacher&#39;s perspective from Buenos Aires](https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5)
-- [Developer Experience &lpar;DevEx&rpar; Designer Challenges and How to Overcome Them &lpar;Part : I&rpar;](https://dev.to/priya_sajja_c336921bbda87/developer-experience-devex-designer-challenges-and-how-to-overcome-them-part-i-5941)
-- [Why event-driven agents reduce scope, cost, and decision dispersion](https://dev.to/tirso_garcia/why-event-driven-agents-reduce-scope-cost-and-decision-dispersion-2062)
-- [A TLS Certificate CLI in Rust — No OpenSSL, No Ceremony, Just a Fail-the-Build Exit Code](https://dev.to/sendotltd/a-tls-certificate-cli-in-rust-no-openssl-no-ceremony-just-a-fail-the-build-exit-code-1n7h)
+- [Why Your AI Agent Has Root Access to Everything &lpar;And How to Fix It in 3 Lines of Python&rpar;](https://dev.to/avinash_amudala_8712ab560/why-your-ai-agent-has-root-access-to-everything-and-how-to-fix-it-in-3-lines-of-python-476d)
+- [Why I stopped writing prompts and started compiling them](https://dev.to/brainbootdev/why-i-stopped-writing-prompts-and-started-compiling-them-53jn)
+- [Spec-Driven, AI-Assisted, Test-Validated — A Practitioner&#39;s Account](https://dev.to/kadetr/spec-driven-ai-assisted-test-validated-a-practitioners-account-3gd4)
+- [Security and String Interpolation](https://dev.to/cwprogram/security-and-string-interpolation-175)
+- [I got tired of writing the same CDK wiring, so I built simple-cdk](https://dev.to/pujaaan/i-got-tired-of-writing-the-same-cdk-wiring-so-i-built-simple-cdk-obg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
