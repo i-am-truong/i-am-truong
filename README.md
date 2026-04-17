@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried to Create GPT With Pure Math and No Training — Here&#39;s Where It Broke | Shivnath Tathe](https://dev.to/shivnathtathe/i-tried-to-create-gpt-with-pure-math-and-no-training-heres-where-it-broke-shivnath-tathe-23a6)
-- [I built 3 MCP servers so I can ask Claude about my DevOps stack](https://dev.to/peachjed/i-built-3-mcp-servers-so-i-can-ask-claude-about-my-devops-stack-4c08)
-- [Azure ML Feature Store with Terraform: Managed Feature Materialization for Training and Inference 🗃️](https://dev.to/suhas_mallesh/azure-ml-feature-store-with-terraform-managed-feature-materialization-for-training-and-inference-o38)
-- [Why does PHP need asynchrony?](https://dev.to/edmonddantes_14/why-does-php-need-asynchrony-23mn)
-- [2026 Goldman Sachs Coding Interview Real Questions &amp; Solutions](https://dev.to/programhelp-cs/2026-goldman-sachs-coding-interview-real-questions-solutions-4c7i)
+- [Day 5: I Almost Over-Engineered Everything](https://dev.to/gracesoftdev/day-5-i-almost-over-engineered-everything-1eo5)
+- [Building ONNX Embedding Workflows in Oracle AI Database with Python](https://dev.to/oracledevs/a-practical-guide-to-importing-an-onnx-embedding-model-generating-embeddings-and-running-semantic-4e1m)
+- [🌱 Green Habit Tracker](https://dev.to/siti_aisyahmatzainal_73/green-habit-tracker-244e)
+- [[2026] OpenTelemetry for LLM Observability — Self-Hosted Setup](https://dev.to/rapidclaw/2026-opentelemetry-for-llm-observability-self-hosted-setup-335o)
+- [Our Home Screen Renders 12 Components — Without Knowing Any of Them](https://dev.to/akash_gupta_1998/our-home-screen-renders-12-components-without-knowing-any-of-them-31k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
