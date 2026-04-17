@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bondi Sonoro: A Build Log of Real Data, Generative Music, and the MTA.me Mechanic](https://dev.to/jtorchia/bondi-sonoro-a-build-log-of-real-data-generative-music-and-the-mtame-mechanic-7g9)
-- [Open Data and Creativity: How I Made Buenos Aires Trains Play Music](https://dev.to/jtorchia/open-data-and-creativity-how-i-made-buenos-aires-trains-play-music-obg)
-- [How I&#39;m Preparing for Tech Interviews in the Age of AI](https://dev.to/ania_sniegula_055c8c6fc57/how-im-preparing-for-tech-interviews-in-the-age-of-ai-2fg6)
-- [Apple as the AI &#39;Loser&#39; That Ends Up Winning: I Lived It When Anthropic Ghosted Me for a Month](https://dev.to/jtorchia/apple-as-the-ai-loser-that-ends-up-winning-i-lived-it-when-anthropic-ghosted-me-for-a-month-49h5)
-- [Gmail, SPF, DKIM, DMARC, and 3 Weeks of Hell: 99% Reputation Isn&#39;t Enough](https://dev.to/jtorchia/gmail-spf-dkim-dmarc-and-3-weeks-of-hell-99-reputation-isnt-enough-256b)
+- [Context Is Not Memory, It Needs an Engine](https://dev.to/joacod/context-is-not-memory-it-needs-an-engine-f2)
+- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-g2o)
+- [Macrotasks: What a Task Actually Is](https://dev.to/marshateo/macrotasks-what-a-task-actually-is-4pbd)
+- [Where Voice AI Agents Are Actually Getting Used in 2026](https://dev.to/dograh/where-voice-ai-agents-are-actually-getting-used-in-2026-49oe)
+- [The Backend Architect Day 1: HTTP, TCP &amp; The OSI Model &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/the-backend-architect-day-1-http-tcp-the-osi-model-2026-523g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
