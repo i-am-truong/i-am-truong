@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embarrassment is cheap. Token spend isn&#39;t.](https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3)
-- [Half Your Free Trial Signups Are Fake: Here&#39;s How to Fix It](https://dev.to/mayno/half-your-free-trial-signups-are-fake-heres-how-to-fix-it-3h75)
-- [LinkedIn or LinkeDone?](https://dev.to/cafe_roamer/linkedin-or-linkedone-1ckk)
-- [Proven SSL Certificate Renewal Steps to Protect Your Site](https://dev.to/monstermegs/proven-ssl-certificate-renewal-steps-to-protect-your-site-2kpp)
-- [I Built a Real-Time Multilingual Dubbing Platform and Used TestSprite MCP to Test It](https://dev.to/crypticsaiyan/i-built-a-real-time-multilingual-dubbing-platform-and-used-testsprite-mcp-to-test-it-4dm4)
+- [El Dilema del Prisionero de la IA: Cómo Sobreviven los Bootstrapped Founders](https://dev.to/cristiantalasanchez/el-dilema-del-prisionero-de-la-ia-como-sobreviven-los-bootstrapped-founders-3dnl)
+- [State Is the Hardest Problem in AI Agents](https://dev.to/inferencedaily/state-is-the-hardest-problem-in-ai-agents-44m6)
+- [openai-agents 0.13.x Silently Dropped openai v1 Support — Here&#39;s What Breaks](https://dev.to/peytongreen_dev/openai-agents-013x-silently-dropped-openai-v1-support-heres-what-breaks-4ibm)
+- [Web Tech Update 2026: What Developers Should Watch Right Now](https://dev.to/mkkabirii/web-tech-update-2026-what-developers-should-watch-right-now-30mj)
+- [Understanding Transformers Part 9: Stacking Self-Attention Layers](https://dev.to/rijultp/understanding-transformers-part-9-stacking-self-attention-layers-3gg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
