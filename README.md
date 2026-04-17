@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Kubernetes Mastery Journey: Installing Local Kubernetes Clusters](https://dev.to/rahimah_dev/my-kubernetes-mastery-journey-installing-local-kubernetes-clusters-176)
-- [I built an AI log monitor for my homelab — local LLM reads my *arr logs so I don&#39;t have to](https://dev.to/pdegidio/i-built-an-ai-log-monitor-for-my-homelab-local-llm-reads-my-arr-logs-so-i-dont-have-to-503n)
-- [Qwen3.6 GGUF, RTX 4080 Cooling &amp; Pragmata GPU Benchmarks Drive Performance](https://dev.to/soytuber/qwen36-gguf-rtx-4080-cooling-pragmata-gpu-benchmarks-drive-performance-46d3)
-- [Claude Design, Opus 4.7 Regression, GPT-5.3 &amp; KIMI K2 Benchmarks](https://dev.to/soytuber/claude-design-opus-47-regression-gpt-53-kimi-k2-benchmarks-c21)
-- [Qwen3.6 GGUF Benchmarks, Ternary Bonsai 1.58-bit Models, &amp; Ollama Code Explainer Tool](https://dev.to/soytuber/qwen36-gguf-benchmarks-ternary-bonsai-158-bit-models-ollama-code-explainer-tool-397)
+- [SOLID&#39;s Packaging Principles Are Jointly Unsatisfiable](https://dev.to/yannick555/solids-packaging-principles-are-jointly-unsatisfiable-27mh)
+- [Mastering Git &amp; Github &lpar;12 most useful Git commands&rpar;](https://dev.to/codewithshahan/mastering-git-github-12-most-useful-git-commands-3l70)
+- [Using Gemini CLI with Vertex AI &lpar;Without Worrying About Your Data&rpar;](https://dev.to/hasanmn/using-gemini-cli-with-vertex-ai-without-worrying-about-your-data-4jb)
+- [How I sent 100 cold emails as a founder and none went to spam &lpar;2026 edition&rpar;](https://dev.to/tryevaluator/how-i-sent-100-cold-emails-as-a-founder-and-none-went-to-spam-2026-edition-4h3m)
+- [Arquitetura REST](https://dev.to/gabrieltme/arquitetura-rest-3d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
