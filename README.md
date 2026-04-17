@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI&#39;s Infrastructure Boom Meets Its Reliability Problem](https://dev.to/anikalp1/agentic-ais-infrastructure-boom-meets-its-reliability-problem-1h3m)
-- [Vertical and Horizontal Scaling](https://dev.to/shiwani08/vertical-and-horizontal-scaling-1en4)
-- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-1pap)
-- [The Restart Challenge: Day 05](https://dev.to/mk_novice/the-restart-challenge-day-05-d40)
-- [5 Things I Learned Reverse-Engineering Claude Code&#39;s Architecture](https://dev.to/_2b847605e5fbe8a8c9e26/5-things-i-learned-reverse-engineering-claude-codes-architecture-42hb)
+- [Embarrassment is cheap. Token spend isn&#39;t.](https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3)
+- [Half Your Free Trial Signups Are Fake: Here&#39;s How to Fix It](https://dev.to/mayno/half-your-free-trial-signups-are-fake-heres-how-to-fix-it-3h75)
+- [LinkedIn or LinkeDone?](https://dev.to/cafe_roamer/linkedin-or-linkedone-1ckk)
+- [Proven SSL Certificate Renewal Steps to Protect Your Site](https://dev.to/monstermegs/proven-ssl-certificate-renewal-steps-to-protect-your-site-2kpp)
+- [I Built a Real-Time Multilingual Dubbing Platform and Used TestSprite MCP to Test It](https://dev.to/crypticsaiyan/i-built-a-real-time-multilingual-dubbing-platform-and-used-testsprite-mcp-to-test-it-4dm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
