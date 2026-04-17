@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SOLID&#39;s Packaging Principles Are Jointly Unsatisfiable](https://dev.to/yannick555/solids-packaging-principles-are-jointly-unsatisfiable-27mh)
-- [Mastering Git &amp; Github &lpar;12 most useful Git commands&rpar;](https://dev.to/codewithshahan/mastering-git-github-12-most-useful-git-commands-3l70)
-- [Using Gemini CLI with Vertex AI &lpar;Without Worrying About Your Data&rpar;](https://dev.to/hasanmn/using-gemini-cli-with-vertex-ai-without-worrying-about-your-data-4jb)
-- [How I sent 100 cold emails as a founder and none went to spam &lpar;2026 edition&rpar;](https://dev.to/tryevaluator/how-i-sent-100-cold-emails-as-a-founder-and-none-went-to-spam-2026-edition-4h3m)
-- [Arquitetura REST](https://dev.to/gabrieltme/arquitetura-rest-3d6)
+- [From Pixels to Predictions: Data Pipelines and Training the Sequence Model &lpar;Part 2&rpar;](https://dev.to/_iametornam/from-pixels-to-predictions-data-pipelines-and-training-the-sequence-model-part-2-217d)
+- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-5g78)
+- [Qwen3.6-35B-A3B corre en mi laptop y dibuja mejor que Claude Opus 4.7](https://dev.to/jtorchia/qwen36-35b-a3b-corre-en-mi-laptop-y-dibuja-mejor-que-claude-opus-47-3g6i)
+- [I Built a Real-Time Notification System Inspired by Accra Traffic](https://dev.to/nlankwei5/i-built-a-real-time-notification-system-inspired-by-accra-traffic-gh4)
+- [I Built an App That Listens to Your Garden and Tells You What&#39;s Disappearing. 🌍](https://dev.to/_boweii/i-built-an-app-that-listens-to-your-garden-and-tells-you-whats-disappearing-3g92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
