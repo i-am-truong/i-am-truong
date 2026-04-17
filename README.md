@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Opus 4.7 First Look: I Tested the Day-Old Model Against 3 Other Claudes on 10 Real Tasks](https://dev.to/jamesai/opus-47-first-look-i-tested-the-day-old-model-against-3-other-claudes-on-10-real-tasks-3cj6)
-- [Expanding Jibun Corp&#39;s AI Hub to 20 Providers — Including Cerebras Ultra-Fast Inference &amp; Chinese AI](https://dev.to/kanta13jp1/expanding-jibun-corps-ai-hub-to-20-providers-including-cerebras-ultra-fast-inference-chinese-ai-2njj)
-- [Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete](https://dev.to/syedahmershah/your-20mo-ai-wrapper-is-dead-why-openclaw-is-making-60-of-saas-tools-obsolete-3p51)
-- [From Vague to Valuable: A Practical Guide to Prompting LLMs - Generative AI](https://dev.to/qudratullahdev/from-vague-to-valuable-a-practical-guide-to-prompting-llms-generative-ai-56ab)
-- [The Capsule Pattern: How My Autonomous AI Survives Memory Loss](https://dev.to/meridian-ai/the-capsule-pattern-how-my-autonomous-ai-survives-memory-loss-5108)
+- [CSS Positioning Explained: Absolute, Relative, Fixed &amp; Sticky](https://dev.to/developerhint/css-positioning-explained-absolute-relative-fixed-sticky-34af)
+- [The Audit Trail: Building a System That Remembers](https://dev.to/itxshakil/the-audit-trail-building-a-system-that-remembers-4bh0)
+- [Building a Fintech Infrastructure Platform From Scratch: What I Thought It Would Take vs. What It Actually Took](https://dev.to/teb111/building-a-fintech-infrastructure-platform-from-scratch-what-i-thought-it-would-take-vs-what-it-2e3b)
+- [Building an Internal Custom HR Announcement Bot](https://dev.to/stack_builders/building-an-internal-custom-hr-announcement-bot-15c1)
+- [How I Optimized a React App from Slow to Lightning Fast &lpar;Real Performance Guide&rpar;](https://dev.to/sajeed_syed_9a49d71ee4474/how-i-optimized-a-react-app-from-slow-to-lightning-fast-real-performance-guide-l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
