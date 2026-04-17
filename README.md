@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are excellent at novelty. Operations reward determinism.](https://dev.to/dominikj111/llms-are-excellent-at-novelty-operations-reward-determinism-2g8l)
-- [Voice of Earth: What If Nature Could Speak Back?](https://dev.to/preeti_yadav/voice-of-earth-what-if-nature-could-speak-back-f28)
-- [From Locks to Actors: The Four Pillars of Modern Concurrency](https://dev.to/harrison_guo_e01b4c8793a0/from-locks-to-actors-the-four-pillars-of-modern-concurrency-3o50)
-- [當 AI 練習正念，誰才是學生？](https://dev.to/yanggf8/dang-ai-lian-xi-zheng-nian-shui-cai-shi-xue-sheng--2jfb)
-- [Enterprise Agents Are Now Signing Purchase Orders. Who Controls the Payment Rail?](https://dev.to/kavinkimcreator/enterprise-agents-are-now-signing-purchase-orders-who-controls-the-payment-rail-23fc)
+- [I Tried to Create GPT With Pure Math and No Training — Here&#39;s Where It Broke | Shivnath Tathe](https://dev.to/shivnathtathe/i-tried-to-create-gpt-with-pure-math-and-no-training-heres-where-it-broke-shivnath-tathe-23a6)
+- [I built 3 MCP servers so I can ask Claude about my DevOps stack](https://dev.to/peachjed/i-built-3-mcp-servers-so-i-can-ask-claude-about-my-devops-stack-4c08)
+- [Azure ML Feature Store with Terraform: Managed Feature Materialization for Training and Inference 🗃️](https://dev.to/suhas_mallesh/azure-ml-feature-store-with-terraform-managed-feature-materialization-for-training-and-inference-o38)
+- [Why does PHP need asynchrony?](https://dev.to/edmonddantes_14/why-does-php-need-asynchrony-23mn)
+- [2026 Goldman Sachs Coding Interview Real Questions &amp; Solutions](https://dev.to/programhelp-cs/2026-goldman-sachs-coding-interview-real-questions-solutions-4c7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
