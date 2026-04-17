@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Positioning Explained: Absolute, Relative, Fixed &amp; Sticky](https://dev.to/developerhint/css-positioning-explained-absolute-relative-fixed-sticky-34af)
-- [The Audit Trail: Building a System That Remembers](https://dev.to/itxshakil/the-audit-trail-building-a-system-that-remembers-4bh0)
-- [Building a Fintech Infrastructure Platform From Scratch: What I Thought It Would Take vs. What It Actually Took](https://dev.to/teb111/building-a-fintech-infrastructure-platform-from-scratch-what-i-thought-it-would-take-vs-what-it-2e3b)
-- [Building an Internal Custom HR Announcement Bot](https://dev.to/stack_builders/building-an-internal-custom-hr-announcement-bot-15c1)
-- [How I Optimized a React App from Slow to Lightning Fast &lpar;Real Performance Guide&rpar;](https://dev.to/sajeed_syed_9a49d71ee4474/how-i-optimized-a-react-app-from-slow-to-lightning-fast-real-performance-guide-l8)
+- [Listing on MCPize + the Official MCP Registry while routing payments OUTSIDE the marketplace — how I kept 100% of my x402 revenue](https://dev.to/sai_93caeceb4f6a4d9969910/listing-on-mcpize-the-official-mcp-registry-while-routing-payments-outside-the-marketplace-how-2al8)
+- [Building an AI-Powered Risk Intelligence System Using Serverless Architecture](https://dev.to/saif_urrahman/building-an-ai-powered-risk-intelligence-system-using-serverless-architecture-263b)
+- [React Native Cross-Platform Development: One Codebase for Mobile, TV, and Beyond](https://dev.to/sundr_dev/react-native-cross-platform-development-one-codebase-for-mobile-tv-and-beyond-30jf)
+- [Jibun Corp&#39;s AI Hub Reaches 27 Providers — Adding Reka Flash-3 &amp; Writer Palmyra-X5](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-27-providers-adding-reka-flash-3-writer-palmyra-x5-2acl)
+- [Beyond the Castle and Moat: Designing for a Zero Trust Future](https://dev.to/glad_labs/beyond-the-castle-and-moat-designing-for-a-zero-trust-future-eh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
