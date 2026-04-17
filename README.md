@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Context Is Not Memory, It Needs an Engine](https://dev.to/joacod/context-is-not-memory-it-needs-an-engine-f2)
-- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-g2o)
-- [Macrotasks: What a Task Actually Is](https://dev.to/marshateo/macrotasks-what-a-task-actually-is-4pbd)
-- [Where Voice AI Agents Are Actually Getting Used in 2026](https://dev.to/dograh/where-voice-ai-agents-are-actually-getting-used-in-2026-49oe)
-- [The Backend Architect Day 1: HTTP, TCP &amp; The OSI Model &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/the-backend-architect-day-1-http-tcp-the-osi-model-2026-523g)
+- [Clawdvent: An AI Dungeon Master That Lives in Your Discord - With Live Scene Art](https://dev.to/shirisha_uppoju_b20d30705/clawdvent-an-ai-dungeon-master-that-lives-in-your-discord-with-live-scene-art-1gpd)
+- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl)
+- [I audited every npm package with &gt;10M weekly downloads. Here is the risk map.](https://dev.to/piiiico/i-audited-every-npm-package-with-10m-weekly-downloads-here-is-the-risk-map-16k0)
+- [The 96.3% Is a Trap: What Hermes 4 405B Actually Changed](https://dev.to/ji_ai/the-963-is-a-trap-what-hermes-4-405b-actually-changed-18ee)
+- [Building Sentinal: A Multi-Agent AI System to Break Doomscrolling](https://dev.to/apoorva_barapatre_24/building-sentinal-a-multi-agent-ai-system-to-break-doomscrolling-ceb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
