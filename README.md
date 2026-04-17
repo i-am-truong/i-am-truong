@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Industry Talks AGI Singularity — Meanwhile, the AI Itself Can&#39;t Find a Single Real Chinese Factory](https://dev.to/meachealai/the-tech-industry-talks-agi-singularity-meanwhile-the-ai-itself-cant-find-a-single-real-chinese-5cge)
-- [Managing Multiple APIs and Databases in a Single Frontend Using Redux](https://dev.to/skniyaznoor/managing-multiple-apis-and-databases-in-a-single-frontend-using-redux-1ml)
-- [How I Built a Profitable FreqAI Plugin Using Institutional ML Techniques](https://dev.to/stefano_viana_dda882cfae5/how-i-built-a-profitable-freqai-plugin-using-institutional-ml-techniques-1l9k)
-- [I Asked Claude to Analyze My Portfolio. Here’s What Happened.](https://dev.to/kevin_menesesgonzlez/i-asked-claude-to-analyze-my-portfolio-heres-what-happened-4km)
-- [Tailwind Guides #1: What Actually Broke Migrating to v4](https://dev.to/7onic/tailwind-guides-1-what-actually-broke-migrating-to-v4-485o)
+- [Bondi Sonoro: A Build Log of Real Data, Generative Music, and the MTA.me Mechanic](https://dev.to/jtorchia/bondi-sonoro-a-build-log-of-real-data-generative-music-and-the-mtame-mechanic-7g9)
+- [Open Data and Creativity: How I Made Buenos Aires Trains Play Music](https://dev.to/jtorchia/open-data-and-creativity-how-i-made-buenos-aires-trains-play-music-obg)
+- [How I&#39;m Preparing for Tech Interviews in the Age of AI](https://dev.to/ania_sniegula_055c8c6fc57/how-im-preparing-for-tech-interviews-in-the-age-of-ai-2fg6)
+- [Apple as the AI &#39;Loser&#39; That Ends Up Winning: I Lived It When Anthropic Ghosted Me for a Month](https://dev.to/jtorchia/apple-as-the-ai-loser-that-ends-up-winning-i-lived-it-when-anthropic-ghosted-me-for-a-month-49h5)
+- [Gmail, SPF, DKIM, DMARC, and 3 Weeks of Hell: 99% Reputation Isn&#39;t Enough](https://dev.to/jtorchia/gmail-spf-dkim-dmarc-and-3-weeks-of-hell-99-reputation-isnt-enough-256b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
