@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: I Almost Over-Engineered Everything](https://dev.to/gracesoftdev/day-5-i-almost-over-engineered-everything-1eo5)
-- [Building ONNX Embedding Workflows in Oracle AI Database with Python](https://dev.to/oracledevs/a-practical-guide-to-importing-an-onnx-embedding-model-generating-embeddings-and-running-semantic-4e1m)
-- [🌱 Green Habit Tracker](https://dev.to/siti_aisyahmatzainal_73/green-habit-tracker-244e)
-- [[2026] OpenTelemetry for LLM Observability — Self-Hosted Setup](https://dev.to/rapidclaw/2026-opentelemetry-for-llm-observability-self-hosted-setup-335o)
-- [Our Home Screen Renders 12 Components — Without Knowing Any of Them](https://dev.to/akash_gupta_1998/our-home-screen-renders-12-components-without-knowing-any-of-them-31k8)
+- [Air Traffic Control Scaleway Ep.1](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep1-5hcj)
+- [I built a Twitch social network called Chattr](https://dev.to/michaelbrooks/i-built-a-twitch-social-network-called-chattr-5hfo)
+- [I Built an AI Scope Generator in 2 Weeks](https://dev.to/trishan_ab0d68a0890a36697/i-built-an-ai-scope-generator-in-2-weeks-15mh)
+- [Mastering Symfony UX 3.0.0 with a Modern Real Estate Platform](https://dev.to/mattleads/mastering-symfony-ux-300-with-a-modern-real-estate-platform-42h1)
+- [Your AI-Generated Text Stinks and Everyone Knows It — Here&#39;s What We Found Building Detection Tools](https://dev.to/gerus_team/your-ai-generated-text-stinks-and-everyone-knows-it-heres-what-we-found-building-detection-tools-410p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
