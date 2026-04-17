@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clawdvent: An AI Dungeon Master That Lives in Your Discord - With Live Scene Art](https://dev.to/shirisha_uppoju_b20d30705/clawdvent-an-ai-dungeon-master-that-lives-in-your-discord-with-live-scene-art-1gpd)
-- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl)
-- [I audited every npm package with &gt;10M weekly downloads. Here is the risk map.](https://dev.to/piiiico/i-audited-every-npm-package-with-10m-weekly-downloads-here-is-the-risk-map-16k0)
-- [The 96.3% Is a Trap: What Hermes 4 405B Actually Changed](https://dev.to/ji_ai/the-963-is-a-trap-what-hermes-4-405b-actually-changed-18ee)
-- [Building Sentinal: A Multi-Agent AI System to Break Doomscrolling](https://dev.to/apoorva_barapatre_24/building-sentinal-a-multi-agent-ai-system-to-break-doomscrolling-ceb)
+- [Opus 4.7 First Look: I Tested the Day-Old Model Against 3 Other Claudes on 10 Real Tasks](https://dev.to/jamesai/opus-47-first-look-i-tested-the-day-old-model-against-3-other-claudes-on-10-real-tasks-3cj6)
+- [Expanding Jibun Corp&#39;s AI Hub to 20 Providers — Including Cerebras Ultra-Fast Inference &amp; Chinese AI](https://dev.to/kanta13jp1/expanding-jibun-corps-ai-hub-to-20-providers-including-cerebras-ultra-fast-inference-chinese-ai-2njj)
+- [Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete](https://dev.to/syedahmershah/your-20mo-ai-wrapper-is-dead-why-openclaw-is-making-60-of-saas-tools-obsolete-3p51)
+- [From Vague to Valuable: A Practical Guide to Prompting LLMs - Generative AI](https://dev.to/qudratullahdev/from-vague-to-valuable-a-practical-guide-to-prompting-llms-generative-ai-56ab)
+- [The Capsule Pattern: How My Autonomous AI Survives Memory Loss](https://dev.to/meridian-ai/the-capsule-pattern-how-my-autonomous-ai-survives-memory-loss-5108)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
