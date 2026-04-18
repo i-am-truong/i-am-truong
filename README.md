@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You dont know about javascript : Synchronous vs Asynchronous](https://dev.to/kunal_dev/you-dont-know-about-javascript-synchronous-vs-asynchronous-i91)
+- [Wordpress - Why Clients Keep Asking “Where To Edit This?”](https://dev.to/steven-k/wordpress-why-clients-keep-asking-where-to-edit-this-4hcl)
+- [Every day you delay a reply, a competitor closes your customer. You never find out. You never even know they reached out.](https://dev.to/iftikhar_sherwani/every-day-you-delay-a-reply-a-competitor-closes-your-customer-you-never-find-out-you-never-255j)
+- [Automate Customs Chaos: Build an AI-Ready Product Database](https://dev.to/ken_deng_ai/automate-customs-chaos-build-an-ai-ready-product-database-570)
 - [I built a terminal snippet manager that stores snippets as Markdown files you can git-track](https://dev.to/phlx0/i-built-a-terminal-snippet-manager-that-stores-snippets-as-markdown-files-you-can-git-track-4ci9)
-- [Kawaii Greenhouse | Earth Day Edition 🏞️🌞🌸🌵](https://dev.to/megzlawther1/kawaii-greenhouse-earth-day-edition-3lcn)
-- [🌍 Planetary Pulse — AI-Powered Earth Dashboard with 6 Prize Tech Integrations](https://dev.to/mamoor123/planetary-pulse-ai-powered-earth-dashboard-with-6-prize-tech-integrations-18i2)
-- [Why Anomaly Detection Can&#39;t Block the Ingestion Pipeline](https://dev.to/kingsleyonoh/why-anomaly-detection-cant-block-the-ingestion-pipeline-3n42)
-- [I Built the First Agentic AI Platform for Clinical Genomics. Here Is the Full Architecture](https://dev.to/anilatambharii/i-built-the-first-agentic-ai-platform-for-clinical-genomics-here-is-the-full-architecture-510i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
