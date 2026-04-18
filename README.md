@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-he2)
-- [Self-Hosted VPN: Benefits, Trade-Offs, and When It Makes Sense](https://dev.to/cacheguard/self-hosted-vpn-benefits-trade-offs-and-when-it-makes-sense-3dpc)
-- [How to Set Up Diction: The Self-Hosted Speech-to-Text Alternative to Wispr Flow](https://dev.to/omachala/how-to-set-up-diction-the-self-hosted-speech-to-text-alternative-to-wispr-flow-20km)
-- [Visualizing the Invisible: Seeing the Shape of AI Code Debt](https://dev.to/peng_cao/visualizing-the-invisible-seeing-the-shape-of-ai-code-debt-34i1)
-- [PHP to Go: The Mental Model Shift Nobody Warns You About](https://dev.to/gabrielanhaia/php-to-go-the-mental-model-shift-nobody-warns-you-about-2l7b)
+- [I built a terminal snippet manager that stores snippets as Markdown files you can git-track](https://dev.to/phlx0/i-built-a-terminal-snippet-manager-that-stores-snippets-as-markdown-files-you-can-git-track-4ci9)
+- [Kawaii Greenhouse | Earth Day Edition 🏞️🌞🌸🌵](https://dev.to/megzlawther1/kawaii-greenhouse-earth-day-edition-3lcn)
+- [🌍 Planetary Pulse — AI-Powered Earth Dashboard with 6 Prize Tech Integrations](https://dev.to/mamoor123/planetary-pulse-ai-powered-earth-dashboard-with-6-prize-tech-integrations-18i2)
+- [Why Anomaly Detection Can&#39;t Block the Ingestion Pipeline](https://dev.to/kingsleyonoh/why-anomaly-detection-cant-block-the-ingestion-pipeline-3n42)
+- [I Built the First Agentic AI Platform for Clinical Genomics. Here Is the Full Architecture](https://dev.to/anilatambharii/i-built-the-first-agentic-ai-platform-for-clinical-genomics-here-is-the-full-architecture-510i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
