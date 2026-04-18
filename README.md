@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Thought Fine-Tuning Needed an ML Team. I Was Wrong.](https://dev.to/dhananjay_lakkawar/i-thought-fine-tuning-needed-an-ml-team-i-was-wrong-28cg)
-- [Managing Access the Right Way](https://dev.to/ikoh_sylva/managing-access-the-right-way-1j5l)
-- [How to use Nakshora css framework that devoleped Rizwan Rahim Chowdhury](https://dev.to/debatesylhetbd/how-to-use-nakshora-css-framework-that-devoleped-rizwan-rahim-chowdhury-3h7i)
-- [How We Structure AI Agent Teams for Enterprise Clients &lpar;200+ Projects&rpar;](https://dev.to/krunal_groovy/how-we-structure-ai-agent-teams-for-enterprise-clients-200-projects-f3h)
-- [Do AI Agent Costs Grow Exponentially? I Ran My Logs and the Answer Surprised Me](https://dev.to/jtorchia/do-ai-agent-costs-grow-exponentially-i-ran-my-logs-and-the-answer-surprised-me-337b)
+- [Running AI Models on GPU Cloud Servers: A Beginner Guide](https://dev.to/big_mazzy_06d057cc24398c5/running-ai-models-on-gpu-cloud-servers-a-beginner-guide-5dk7)
+- [Event-driven media intelligence with AWS Step Functions and Bedrock](https://dev.to/aws-builders/event-driven-media-intelligence-with-aws-step-functions-and-bedrock-46lp)
+- [I scored 500 AI prompts across 8 quality dimensions — here&#39;s what broke](https://dev.to/onchainaiintel/i-scored-500-ai-prompts-across-8-quality-dimensions-heres-what-broke-23kn)
+- [The Portal Protocol: Reclaiming Human Connection in the Age of AI](https://dev.to/utteshkumar/the-portal-opens-at-2100-why-i-built-yeetsling-1adn)
+- [PromptCraft AI: Free Prompt Generator for Midjourney, DALL-E 3 &amp; Stable Diffusion](https://dev.to/tahosin/promptcraft-ai-free-prompt-generator-for-midjourney-dall-e-3-stable-diffusion-29ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
