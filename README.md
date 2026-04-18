@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shipping Global Keyboard Shortcuts on macOS Sandbox: The Part Apple Doesn&#39;t Document](https://dev.to/quicopy/shipping-global-keyboard-shortcuts-on-macos-sandbox-the-part-apple-doesnt-document-57no)
-- [I Built a Font Inspector Chrome Extension That Actually Identifies Japanese Fonts](https://dev.to/_350df62777eb55e1/i-built-a-font-inspector-chrome-extension-that-actually-identifies-japanese-fonts-50bd)
-- [Introducing Plumbed, self-healing integrations in days, not months](https://dev.to/sven_mrz_dfc2d01f06d7f20/introducing-plumbed-self-healing-integrations-in-days-not-months-1mm5)
-- [Built a simple DDNS service because existing ones felt too complicated. https://rjuip.com](https://dev.to/amit_vedante/built-a-simple-ddns-service-because-existing-ones-felt-too-complicated-httpsrjuipcom-2o0n)
-- [Your AI Isn’t Dumb. It Just Doesn’t Think Twice.](https://dev.to/saras_growth_space/your-ai-isnt-dumb-it-just-doesnt-think-twice-1nh4)
+- [SAP Hybris Impex When None of Us on the Team Can Read It](https://dev.to/aralroca/sap-hybris-impex-when-none-of-us-on-the-team-can-read-it-4ok)
+- [Arrays in Javascript](https://dev.to/anees_abdul_ec1dda9c7697b/arrays-in-javascript-1hgp)
+- [RAG in Practice — Part 5: Build a RAG System in Practice](https://dev.to/gursharansingh/rag-in-practice-part-5-build-a-rag-system-in-practice-4knd)
+- [AI-Assisted Debugging in Next.js 16 with Experimental Agent DevTools](https://dev.to/mericcintosun/ai-assisted-debugging-in-nextjs-16-with-experimental-agent-devtools-1obg)
+- [Building Scalable Blockchain Solutions with Go: A Developer&#39;s Journey](https://dev.to/tirixa/building-scalable-blockchain-solutions-with-go-a-developers-journey-360m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
