@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve built auth six times. Here&#39;s the system I would build today](https://dev.to/thegdsks/ive-built-auth-six-times-heres-the-system-i-would-build-today-5cpf)
-- [My keyboard can&#39;t speak my language: Here&#39;s how i fixed it](https://dev.to/ariyoaresa/my-keyboard-cant-speak-my-language-heres-how-i-fixed-it-1ogn)
-- [Can AI really learn from humans?](https://dev.to/novatrope/can-ai-really-learn-from-humans-4j1g)
-- [The Fed&#39;s Three Levers](https://dev.to/chandravanshi/the-feds-three-levers-4kia)
-- [My AI Workflow for Maximum Productivity as a Developer](https://dev.to/zeropercent/my-ai-workflow-for-maximum-productivity-as-a-developer-13nb)
+- [I replaced Auth0 with an open source library in 30 minutes. Here is what broke.](https://dev.to/thegdsks/i-replaced-auth0-with-an-open-source-library-in-30-minutes-here-is-what-broke-3l2c)
+- [A Game for the Mind](https://dev.to/pengeszikra/a-game-for-the-mind-2mj3)
+- [Why random.randint&lpar;300, 850&rpar; is a bad fake credit score](https://dev.to/crd/why-randomrandint300-850-is-a-bad-fake-credit-score-53jk)
+- [Speed vs. Velocity: The Difference for Software Teams](https://dev.to/the-coder-cafe/speed-vs-velocity-the-difference-for-software-teams-1e6l)
+- [The GKE Upgrade That Took Down Our Production Pods for 45 Minutes](https://dev.to/charlotte05478/the-gke-upgrade-that-took-down-our-production-pods-for-45-minutes-om9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
