@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NodeLLM 1.16: Advanced Tool Orchestration and Multimodal Manipulation](https://dev.to/eshaiju/nodellm-116-advanced-tool-orchestration-and-multimodal-manipulation-2c53)
-- [SIGNAL; shrinking agent skills so context stays for code](https://dev.to/mattbaconz/signal-shrinking-agent-skills-so-context-stays-for-code-40p1)
-- [The Signal Report — April 18, 2026](https://dev.to/prashanthgudlahub/the-signal-report-april-18-2026-3680)
-- [I built a privacy-first developer toolkit &lpar;runs 100% in your browser&rpar;](https://dev.to/adarsh_giri_e3911e50aeb15/i-built-a-privacy-first-developer-toolkit-runs-100-in-your-browser-41pe)
-- [Building a shielded token vault: deposit, accumulate, and withdraw](https://dev.to/tosin_akinbowa_0f25bbbd6f/building-a-shielded-token-vault-deposit-accumulate-and-withdraw-1c5l)
+- [Why I Built Yet Another AI Knowledge Tool &lpar;And How It&#39;s Different&rpar;](https://dev.to/akshay_kumarkataiah_d6e7/why-i-built-yet-another-ai-knowledge-tool-and-how-its-different-38b2)
+- [m2cgen: export your ML model without shipping Python to production](https://dev.to/jtorchia/m2cgen-export-your-ml-model-without-shipping-python-to-production-13j9)
+- [m2cgen: exportá tu modelo de ML sin llevar Python a producción](https://dev.to/jtorchia/m2cgen-exporta-tu-modelo-de-ml-sin-llevar-python-a-produccion-1e0g)
+- [The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project](https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f)
+- [Claude Opus 4.7 and the Beginning of the End of AI Abundance](https://dev.to/jtorchia/claude-opus-47-and-the-beginning-of-the-end-of-ai-abundance-1ik4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
