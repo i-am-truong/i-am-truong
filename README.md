@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Productionizing LLMs in Go: Distributed Budgeting, LangChain, and ROI Tracking](https://dev.to/oluwajubelo1/productionizing-llms-in-go-distributed-budgeting-langchain-and-roi-tracking-4omn)
-- [The Developer Who Reviews Everything and Ships Nothing](https://dev.to/adamthedeveloper/the-developer-who-reviews-everything-and-ships-nothing-1e28)
-- [Should We Still Care About Our Code?](https://dev.to/js402/should-we-still-care-about-our-code-47mc)
-- [I Built a Bulletproof Web Scraper That Hasn&#39;t Been Blocked in 6 Months — Here&#39;s Every Trick I Use](https://dev.to/vasquezventures/i-built-a-bulletproof-web-scraper-that-hasnt-been-blocked-in-6-months-heres-every-trick-i-use-1hc5)
-- [The Largest SQL Injection Breach Ever — How 77 Million PSN Accounts Were Exposed published](https://dev.to/caisd/the-largest-sql-injection-breach-ever-how-77-million-psn-accounts-were-exposedpublished-3pk9)
+- [🧅 Onion Architecture Explained Quickly](https://dev.to/narender_reddy_0fa71a7ec8/onion-architecture-explained-quickly-4ccj)
+- [Why 90% of ML Engineers Struggle in Real-World Systems](https://dev.to/siddhartha_reddy/why-90-of-ml-engineers-struggle-in-real-world-systems-19m)
+- [AWS ChatBot](https://dev.to/yuvaraj_r_25388937f9607d/aws-chatbot-2nfi)
+- [The Multi-Model Reality: Why Enterprise AI Needs a Unified Gateway in 2026](https://dev.to/nafgma2020/the-multi-model-reality-why-enterprise-ai-needs-a-unified-gateway-in-2026-2m63)
+- [AWS Observability vs OpenTelemetry](https://dev.to/yuvaraj_r_25388937f9607d/aws-observability-vs-opentelemetry-devops-10oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
