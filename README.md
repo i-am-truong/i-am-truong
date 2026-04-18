@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet](https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj)
-- [Built a freelance proposal generator that reads your CV](https://dev.to/propai/built-a-freelance-proposal-generator-that-reads-your-cv-4hm5)
-- [How to Check If You](https://dev.to/robertatkinson3570/how-to-check-if-you-72e)
-- [Building WhiteHat: An Autonomous Ethical Hacking Agent with OpenClaw](https://dev.to/prema_ananda/building-whitehat-an-autonomous-ethical-hacking-agent-with-openclaw-4ljc)
-- [Serverless Cold Starts: Why Your Lambda Functions Are Slow and How to Fix Them Permanently](https://dev.to/ciroveldran/serverless-cold-starts-why-your-lambda-functions-are-slow-and-how-to-fix-them-permanently-3og)
+- [Shipping Global Keyboard Shortcuts on macOS Sandbox: The Part Apple Doesn&#39;t Document](https://dev.to/quicopy/shipping-global-keyboard-shortcuts-on-macos-sandbox-the-part-apple-doesnt-document-57no)
+- [I Built a Font Inspector Chrome Extension That Actually Identifies Japanese Fonts](https://dev.to/_350df62777eb55e1/i-built-a-font-inspector-chrome-extension-that-actually-identifies-japanese-fonts-50bd)
+- [Introducing Plumbed, self-healing integrations in days, not months](https://dev.to/sven_mrz_dfc2d01f06d7f20/introducing-plumbed-self-healing-integrations-in-days-not-months-1mm5)
+- [Built a simple DDNS service because existing ones felt too complicated. https://rjuip.com](https://dev.to/amit_vedante/built-a-simple-ddns-service-because-existing-ones-felt-too-complicated-httpsrjuipcom-2o0n)
+- [Your AI Isn’t Dumb. It Just Doesn’t Think Twice.](https://dev.to/saras_growth_space/your-ai-isnt-dumb-it-just-doesnt-think-twice-1nh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
