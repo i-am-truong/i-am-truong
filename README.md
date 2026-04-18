@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧅 Onion Architecture Explained Quickly](https://dev.to/narender_reddy_0fa71a7ec8/onion-architecture-explained-quickly-4ccj)
-- [Why 90% of ML Engineers Struggle in Real-World Systems](https://dev.to/siddhartha_reddy/why-90-of-ml-engineers-struggle-in-real-world-systems-19m)
-- [AWS ChatBot](https://dev.to/yuvaraj_r_25388937f9607d/aws-chatbot-2nfi)
-- [The Multi-Model Reality: Why Enterprise AI Needs a Unified Gateway in 2026](https://dev.to/nafgma2020/the-multi-model-reality-why-enterprise-ai-needs-a-unified-gateway-in-2026-2m63)
-- [AWS Observability vs OpenTelemetry](https://dev.to/yuvaraj_r_25388937f9607d/aws-observability-vs-opentelemetry-devops-10oo)
+- [10 AI Copywriting Tools That Actually Drive ROI in 2026 &lpar;Tested on $50M Ad Spend&rpar;](https://dev.to/ireadcustomer/10-ai-copywriting-tools-that-actually-drive-roi-in-2026-tested-on-50m-ad-spend-21b)
+- [Why Claude Code Forces Itself to Read Files Before Editing Them](https://dev.to/_2b847605e5fbe8a8c9e26/why-claude-code-forces-itself-to-read-files-before-editing-them-21f3)
+- [4 products, 1 broadcasting infrastructure, 3 weeks, 1 non-technical founder](https://dev.to/praveen_sga/4-products-1-broadcasting-infrastructure-3-weeks-1-non-technical-founder-54ak)
+- [Gemini Footprint Tracker — See the Real Cost of Every AI Prompt](https://dev.to/southy404/gemini-footprint-tracker-see-the-real-cost-of-every-ai-prompt-3j7o)
+- [How I built a Zero-Upload AI Workspace in the browser using WebGPU](https://dev.to/felix_ne_47d1004255f7a66c/how-i-built-a-zero-upload-ai-workspace-in-the-browser-using-webgpu-2841)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
