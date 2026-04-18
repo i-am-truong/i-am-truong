@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;EDA Part-3&rpar; Univariate Analysis — Understanding Every Feature One at a Time](https://dev.to/shivappa/eda-part-3-univariate-analysis-understanding-every-feature-one-at-a-time-50aa)
-- [Building Stateful AI Agents with Backboard: A Complete Feature Deep Dive](https://dev.to/ranjancse/building-stateful-ai-agents-with-backboard-a-complete-feature-deep-dive-47b7)
-- [I Built a Carbon Footprint Tracker in 48 Hours — Here&#39;s How Copilot Saved Me](https://dev.to/ggle_in/i-built-a-carbon-footprint-tracker-in-48-hours-heres-how-copilot-saved-me-4mfn)
-- [Examlock](https://dev.to/zheyuse/examlock-257m)
-- [A declarative CLI framework in Rust](https://dev.to/kuangren_chu_0ca6da848be4/a-declarative-cli-framework-in-rust-d8i)
+- [Techn0tz Turns 1 — Help Shape What’s Next](https://dev.to/manjushaps/techn0tz-turns-1-help-shape-whats-next-5ehe)
+- [AWS Data &amp; AI Stories #02: Amazon Bedrock Data Automation](https://dev.to/aws-builders/aws-data-ai-stories-02-amazon-bedrock-data-automation-1gg7)
+- [Kubernetes v1.36 Drops April 22: What Platform Engineers Actually Need to Know](https://dev.to/mateenali66/kubernetes-v136-drops-april-22-what-platform-engineers-actually-need-to-know-3l81)
+- [I Did 2 Months of Work for a 2-Week Price — Here’s What I learned](https://dev.to/kenzicode/i-did-2-months-of-work-for-a-2-week-price-heres-what-i-learned-45gf)
+- [Split your AWS AppSync schema across multiple files](https://dev.to/moyarich/split-your-aws-appsync-schema-across-multiple-files-56c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
