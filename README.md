@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
+- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
+- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
 - [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
-- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
-- [SQL Functions You Will Actually Use in Data Work](https://dev.to/muriuki_kahuthu_54/sql-functions-you-will-actually-use-in-data-work-24g1)
-- [Monitoring an ML-Based Intrusion Detection System on AWS SageMaker](https://dev.to/ogambakerubo/monitoring-an-ml-based-intrusion-detection-system-on-aws-sagemaker-4182)
-- [Building an AI Travel Planner with Claude: and Using Claude Code to Build It](https://dev.to/kelson_qu/building-an-ai-travel-planner-with-claude-and-using-claude-code-to-build-it-1nfh)
+- [Nested Colored-Dot Symbol System: An Information-Theoretic and Semantic Alternative to QR Codes](https://dev.to/fc0web/nested-colored-dot-symbol-system-an-information-theoretic-and-semantic-alternative-to-qr-codes-3i56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
