@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SAP Hybris Impex When None of Us on the Team Can Read It](https://dev.to/aralroca/sap-hybris-impex-when-none-of-us-on-the-team-can-read-it-4ok)
-- [Arrays in Javascript](https://dev.to/anees_abdul_ec1dda9c7697b/arrays-in-javascript-1hgp)
-- [RAG in Practice — Part 5: Build a RAG System in Practice](https://dev.to/gursharansingh/rag-in-practice-part-5-build-a-rag-system-in-practice-4knd)
-- [AI-Assisted Debugging in Next.js 16 with Experimental Agent DevTools](https://dev.to/mericcintosun/ai-assisted-debugging-in-nextjs-16-with-experimental-agent-devtools-1obg)
-- [Building Scalable Blockchain Solutions with Go: A Developer&#39;s Journey](https://dev.to/tirixa/building-scalable-blockchain-solutions-with-go-a-developers-journey-360m)
+- [Day 60: Decoupling State and CloudWatch FinOps](https://dev.to/ericrodriguez10/day-60-decoupling-state-and-cloudwatch-finops-4g5f)
+- [The Attention Economy Inside Your Agent](https://dev.to/the_bookmaster/the-attention-economy-inside-your-agent-893)
+- [The 5 Questions to Ask Before Touching Any Component](https://dev.to/_0c004e5fde78250aee362/the-5-questions-to-ask-before-touching-any-component-4jjd)
+- [Why Your LED Strip Flickers Because of WiFi Interference](https://dev.to/_0c004e5fde78250aee362/why-your-led-strip-flickers-because-of-wifi-interference-4g27)
+- [Why Your Ultrasonic Sensor Lies to You](https://dev.to/_0c004e5fde78250aee362/why-your-ultrasonic-sensor-lies-to-you-2aj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
