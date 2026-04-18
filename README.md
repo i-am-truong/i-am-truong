@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 60: Decoupling State and CloudWatch FinOps](https://dev.to/ericrodriguez10/day-60-decoupling-state-and-cloudwatch-finops-4g5f)
-- [The Attention Economy Inside Your Agent](https://dev.to/the_bookmaster/the-attention-economy-inside-your-agent-893)
-- [The 5 Questions to Ask Before Touching Any Component](https://dev.to/_0c004e5fde78250aee362/the-5-questions-to-ask-before-touching-any-component-4jjd)
-- [Why Your LED Strip Flickers Because of WiFi Interference](https://dev.to/_0c004e5fde78250aee362/why-your-led-strip-flickers-because-of-wifi-interference-4g27)
-- [Why Your Ultrasonic Sensor Lies to You](https://dev.to/_0c004e5fde78250aee362/why-your-ultrasonic-sensor-lies-to-you-2aj2)
+- [NodeLLM 1.16: Advanced Tool Orchestration and Multimodal Manipulation](https://dev.to/eshaiju/nodellm-116-advanced-tool-orchestration-and-multimodal-manipulation-2c53)
+- [SIGNAL; shrinking agent skills so context stays for code](https://dev.to/mattbaconz/signal-shrinking-agent-skills-so-context-stays-for-code-40p1)
+- [The Signal Report — April 18, 2026](https://dev.to/prashanthgudlahub/the-signal-report-april-18-2026-3680)
+- [I built a privacy-first developer toolkit &lpar;runs 100% in your browser&rpar;](https://dev.to/adarsh_giri_e3911e50aeb15/i-built-a-privacy-first-developer-toolkit-runs-100-in-your-browser-41pe)
+- [Building a shielded token vault: deposit, accumulate, and withdraw](https://dev.to/tosin_akinbowa_0f25bbbd6f/building-a-shielded-token-vault-deposit-accumulate-and-withdraw-1c5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
