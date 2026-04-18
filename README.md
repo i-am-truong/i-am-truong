@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running AI Models on GPU Cloud Servers: A Beginner Guide](https://dev.to/big_mazzy_06d057cc24398c5/running-ai-models-on-gpu-cloud-servers-a-beginner-guide-5dk7)
-- [Event-driven media intelligence with AWS Step Functions and Bedrock](https://dev.to/aws-builders/event-driven-media-intelligence-with-aws-step-functions-and-bedrock-46lp)
-- [I scored 500 AI prompts across 8 quality dimensions — here&#39;s what broke](https://dev.to/onchainaiintel/i-scored-500-ai-prompts-across-8-quality-dimensions-heres-what-broke-23kn)
-- [The Portal Protocol: Reclaiming Human Connection in the Age of AI](https://dev.to/utteshkumar/the-portal-opens-at-2100-why-i-built-yeetsling-1adn)
-- [PromptCraft AI: Free Prompt Generator for Midjourney, DALL-E 3 &amp; Stable Diffusion](https://dev.to/tahosin/promptcraft-ai-free-prompt-generator-for-midjourney-dall-e-3-stable-diffusion-29ac)
+- [Protecting people from harmful manipulation](https://dev.to/minimal-architect/protecting-people-from-harmful-manipulation-20hf)
+- [Building AI Prompts for High-Stakes Documentation: A Healthcare Case Study](https://dev.to/peakflowlab/building-ai-prompts-for-high-stakes-documentation-a-healthcare-case-study-2me)
+- [AI Strategy in Practice: The Gap Between Governance and Adoption](https://dev.to/srinivas_53e82a3174fa73a8/ai-strategy-in-practice-the-gap-between-governance-and-adoption-f86)
+- [Configuring observability for your Qiskit runs with QObserva](https://dev.to/qobserva/configuring-observability-for-your-qiskit-runs-with-qobserva-480j)
+- [How to setup Azure Virtual Machine](https://dev.to/ojeniran_shola_bf233acd5e/how-to-setup-azure-virtual-machine-2nl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
