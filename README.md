@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Protecting people from harmful manipulation](https://dev.to/minimal-architect/protecting-people-from-harmful-manipulation-20hf)
-- [Building AI Prompts for High-Stakes Documentation: A Healthcare Case Study](https://dev.to/peakflowlab/building-ai-prompts-for-high-stakes-documentation-a-healthcare-case-study-2me)
-- [AI Strategy in Practice: The Gap Between Governance and Adoption](https://dev.to/srinivas_53e82a3174fa73a8/ai-strategy-in-practice-the-gap-between-governance-and-adoption-f86)
-- [Configuring observability for your Qiskit runs with QObserva](https://dev.to/qobserva/configuring-observability-for-your-qiskit-runs-with-qobserva-480j)
-- [How to setup Azure Virtual Machine](https://dev.to/ojeniran_shola_bf233acd5e/how-to-setup-azure-virtual-machine-2nl1)
+- [I&#39;ve built auth six times. Here&#39;s the system I would build today](https://dev.to/thegdsks/ive-built-auth-six-times-heres-the-system-i-would-build-today-5cpf)
+- [My keyboard can&#39;t speak my language: Here&#39;s how i fixed it](https://dev.to/ariyoaresa/my-keyboard-cant-speak-my-language-heres-how-i-fixed-it-1ogn)
+- [Can AI really learn from humans?](https://dev.to/novatrope/can-ai-really-learn-from-humans-4j1g)
+- [The Fed&#39;s Three Levers](https://dev.to/chandravanshi/the-feds-three-levers-4kia)
+- [My AI Workflow for Maximum Productivity as a Developer](https://dev.to/zeropercent/my-ai-workflow-for-maximum-productivity-as-a-developer-13nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
