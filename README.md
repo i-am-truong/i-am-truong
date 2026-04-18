@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I replaced Auth0 with an open source library in 30 minutes. Here is what broke.](https://dev.to/thegdsks/i-replaced-auth0-with-an-open-source-library-in-30-minutes-here-is-what-broke-3l2c)
-- [A Game for the Mind](https://dev.to/pengeszikra/a-game-for-the-mind-2mj3)
-- [Why random.randint&lpar;300, 850&rpar; is a bad fake credit score](https://dev.to/crd/why-randomrandint300-850-is-a-bad-fake-credit-score-53jk)
-- [Speed vs. Velocity: The Difference for Software Teams](https://dev.to/the-coder-cafe/speed-vs-velocity-the-difference-for-software-teams-1e6l)
-- [The GKE Upgrade That Took Down Our Production Pods for 45 Minutes](https://dev.to/charlotte05478/the-gke-upgrade-that-took-down-our-production-pods-for-45-minutes-om9)
+- [Built a free browser-only dev tools site, no server side slowness, no signup](https://dev.to/full_stacker/built-a-free-browser-only-dev-tools-site-no-server-side-slowness-no-signup-550h)
+- [Stuxnet: How a USB Drive Destroyed 1,000 Nuclear Centrifuges — A Technical Deep Dive](https://dev.to/john-paul/stuxnet-how-a-usb-drive-destroyed-1000-nuclear-centrifuges-a-technical-deep-dive-1c7c)
+- [Korea&#39;s #1 Real Estate Platform Has No Official API — So I Built a Scraper. Then Got Blocked.](https://dev.to/sessionzero_ai/koreas-1-real-estate-platform-has-no-official-api-so-i-built-a-scraper-then-got-blocked-381b)
+- [Flutter CI Broke With 2288 Errors — How dart fix --apply Saved Us](https://dev.to/kanta13jp1/flutter-ci-broke-with-2288-errors-how-dart-fix-apply-saved-us-4l6b)
+- [Security+ started, 3 tools built, real attacks found on my own machine](https://dev.to/narasimha_mallegari_/security-started-3-tools-built-real-attacks-found-on-my-own-machine-3pjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
