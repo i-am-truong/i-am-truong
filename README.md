@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Pixels to Predictions: Data Pipelines and Training the Sequence Model &lpar;Part 2&rpar;](https://dev.to/_iametornam/from-pixels-to-predictions-data-pipelines-and-training-the-sequence-model-part-2-217d)
-- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-5g78)
-- [Qwen3.6-35B-A3B corre en mi laptop y dibuja mejor que Claude Opus 4.7](https://dev.to/jtorchia/qwen36-35b-a3b-corre-en-mi-laptop-y-dibuja-mejor-que-claude-opus-47-3g6i)
-- [I Built a Real-Time Notification System Inspired by Accra Traffic](https://dev.to/nlankwei5/i-built-a-real-time-notification-system-inspired-by-accra-traffic-gh4)
-- [I Built an App That Listens to Your Garden and Tells You What&#39;s Disappearing. 🌍](https://dev.to/_boweii/i-built-an-app-that-listens-to-your-garden-and-tells-you-whats-disappearing-3g92)
+- [The Missing Piece Every Obsidian User Needs: Local RAG That Actually Works in 2026](https://dev.to/numbpill3d/the-missing-piece-every-obsidian-user-needs-local-rag-that-actually-works-in-2026-2gfp)
+- [How I Used AI ~MultiAgent~ Simulation to Fix My Ad Messaging](https://dev.to/motion_design/how-i-used-ai-multiagent-simulation-to-fix-my-ad-messaging-38o2)
+- [We raised $6.5M to kill vector databases... and it&#39;s been exactly 4 weeks. Here&#39;s what&#39;s actually happening.](https://dev.to/iharnoor/we-raised-65m-to-kill-vector-databases-and-its-been-exactly-4-weeks-heres-whats-actually-5d46)
+- [Challenge : 2 The Project Selection Trap](https://dev.to/priya_sajja_c336921bbda87/challenge-2-the-project-selection-trap-3okm)
+- [Why Azure Container Apps for AI Workloads](https://dev.to/bspann/why-azure-container-apps-for-ai-workloads-2djm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
