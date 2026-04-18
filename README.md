@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a free browser-only dev tools site, no server side slowness, no signup](https://dev.to/full_stacker/built-a-free-browser-only-dev-tools-site-no-server-side-slowness-no-signup-550h)
-- [Stuxnet: How a USB Drive Destroyed 1,000 Nuclear Centrifuges — A Technical Deep Dive](https://dev.to/john-paul/stuxnet-how-a-usb-drive-destroyed-1000-nuclear-centrifuges-a-technical-deep-dive-1c7c)
-- [Korea&#39;s #1 Real Estate Platform Has No Official API — So I Built a Scraper. Then Got Blocked.](https://dev.to/sessionzero_ai/koreas-1-real-estate-platform-has-no-official-api-so-i-built-a-scraper-then-got-blocked-381b)
-- [Flutter CI Broke With 2288 Errors — How dart fix --apply Saved Us](https://dev.to/kanta13jp1/flutter-ci-broke-with-2288-errors-how-dart-fix-apply-saved-us-4l6b)
-- [Security+ started, 3 tools built, real attacks found on my own machine](https://dev.to/narasimha_mallegari_/security-started-3-tools-built-real-attacks-found-on-my-own-machine-3pjn)
+- [Why Your JSON Keeps Breaking &lpar;And How to Fix It Fast&rpar;](https://dev.to/pioneer10/why-your-json-keeps-breaking-and-how-to-fix-it-fast-2lej)
+- [How to Compare Two JSON Objects and Spot the Differences Instantly](https://dev.to/pioneer10/how-to-compare-two-json-objects-and-spot-the-differences-instantly-1b4j)
+- [Day 2 at OHDSI Rotterdam: Everything You Learned Yesterday Isn&#39;t in Your Network Yet](https://dev.to/roryqis/day-2-at-ohdsi-rotterdam-everything-you-learned-yesterday-isnt-in-your-network-yet-45a)
+- [I’m Learning Hash Tables &lpar;And Why You Should Care&rpar;](https://dev.to/ahmadcod/im-learning-hash-tables-and-why-you-should-care-38k)
+- [Stuxnet: How a USB Drive Destroyed 1,000 Nuclear Centrifuges — A Technical Deep Dive](https://dev.to/john-paul/stuxnet-how-a-usb-drive-destroyed-1000-nuclear-centrifuges-a-technical-deep-dive-lp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
