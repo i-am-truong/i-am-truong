@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You dont know about javascript : Synchronous vs Asynchronous](https://dev.to/kunal_dev/you-dont-know-about-javascript-synchronous-vs-asynchronous-i91)
-- [Wordpress - Why Clients Keep Asking “Where To Edit This?”](https://dev.to/steven-k/wordpress-why-clients-keep-asking-where-to-edit-this-4hcl)
-- [Every day you delay a reply, a competitor closes your customer. You never find out. You never even know they reached out.](https://dev.to/iftikhar_sherwani/every-day-you-delay-a-reply-a-competitor-closes-your-customer-you-never-find-out-you-never-255j)
-- [Automate Customs Chaos: Build an AI-Ready Product Database](https://dev.to/ken_deng_ai/automate-customs-chaos-build-an-ai-ready-product-database-570)
-- [I built a terminal snippet manager that stores snippets as Markdown files you can git-track](https://dev.to/phlx0/i-built-a-terminal-snippet-manager-that-stores-snippets-as-markdown-files-you-can-git-track-4ci9)
+- [Automating the Brady Hunt: AI for Exculpatory Evidence Review](https://dev.to/ken_deng_ai/automating-the-brady-hunt-ai-for-exculpatory-evidence-review-977)
+- [FHE programs have precision bugs random testing can&#39;t find — here&#39;s an adversarial search tool that does](https://dev.to/bader82t/fhe-programs-have-precision-bugs-random-testing-cant-find-heres-an-adversarial-search-tool-that-1f75)
+- [Go Context Timeouts That Save Real Money](https://dev.to/speed_engineer/go-context-timeouts-that-save-real-money-4j95)
+- [Resurface Claude Code Usage Across Your Team with CloudWatch OTEL &lpar;No Lambda&rpar;](https://dev.to/aws-builders/resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i)
+- [Why I Built an AI Visibility Tool When Semrush Already Had One](https://dev.to/robertatkinson3570/why-i-built-an-ai-visibility-tool-when-semrush-already-had-one-1jo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
