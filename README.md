@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
-- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
-- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
-- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
-- [Nested Colored-Dot Symbol System: An Information-Theoretic and Semantic Alternative to QR Codes](https://dev.to/fc0web/nested-colored-dot-symbol-system-an-information-theoretic-and-semantic-alternative-to-qr-codes-3i56)
+- [Elixir Comprehensions: Learn Enough to be Dangerous](https://dev.to/figsify/elixir-comprehensions-learn-enough-to-be-dangerous-3514)
+- [I thought I had a bug](https://dev.to/michael_trifonov_0cb74f99/i-thought-i-had-a-bug-2kmc)
+- [Introducing Vectors And Vector Search](https://dev.to/kendricktech/introducing-vectors-and-vector-search-2388)
+- [ECOSYNAPSE A Living Data System for Planetary Intelligence](https://dev.to/peacebinflow/ecosynapsea-living-data-system-for-planetary-intelligence-58i4)
+- [Why would Go do this in its documentation?](https://dev.to/logicco/why-would-go-do-this-in-its-documentation-45e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
