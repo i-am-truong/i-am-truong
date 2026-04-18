@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Piece Every Obsidian User Needs: Local RAG That Actually Works in 2026](https://dev.to/numbpill3d/the-missing-piece-every-obsidian-user-needs-local-rag-that-actually-works-in-2026-2gfp)
-- [How I Used AI ~MultiAgent~ Simulation to Fix My Ad Messaging](https://dev.to/motion_design/how-i-used-ai-multiagent-simulation-to-fix-my-ad-messaging-38o2)
-- [We raised $6.5M to kill vector databases... and it&#39;s been exactly 4 weeks. Here&#39;s what&#39;s actually happening.](https://dev.to/iharnoor/we-raised-65m-to-kill-vector-databases-and-its-been-exactly-4-weeks-heres-whats-actually-5d46)
-- [Challenge : 2 The Project Selection Trap](https://dev.to/priya_sajja_c336921bbda87/challenge-2-the-project-selection-trap-3okm)
-- [Why Azure Container Apps for AI Workloads](https://dev.to/bspann/why-azure-container-apps-for-ai-workloads-2djm)
+- [&lpar;EDA Part-3&rpar; Univariate Analysis — Understanding Every Feature One at a Time](https://dev.to/shivappa/eda-part-3-univariate-analysis-understanding-every-feature-one-at-a-time-50aa)
+- [Building Stateful AI Agents with Backboard: A Complete Feature Deep Dive](https://dev.to/ranjancse/building-stateful-ai-agents-with-backboard-a-complete-feature-deep-dive-47b7)
+- [I Built a Carbon Footprint Tracker in 48 Hours — Here&#39;s How Copilot Saved Me](https://dev.to/ggle_in/i-built-a-carbon-footprint-tracker-in-48-hours-heres-how-copilot-saved-me-4mfn)
+- [Examlock](https://dev.to/zheyuse/examlock-257m)
+- [A declarative CLI framework in Rust](https://dev.to/kuangren_chu_0ca6da848be4/a-declarative-cli-framework-in-rust-d8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
