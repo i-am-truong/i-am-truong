@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor 3 Just Shipped a Coding Model Trained From Scratch. Here&#39;s Why That Changes the Stack.](https://dev.to/gabrielanhaia/cursor-3-just-shipped-a-coding-model-trained-from-scratch-heres-why-that-changes-the-stack-57g7)
-- [I got 2x faster with AI. I also got 2x better at shipping bugs I couldn&#39;t catch.](https://dev.to/sweekarkoirala/i-got-2x-faster-with-ai-i-also-got-2x-better-at-shipping-bugs-i-couldnt-catch-hmb)
-- [The State of Agentic Commerce — April 2026](https://dev.to/benjifisher/the-state-of-agentic-commerce-april-2026-l93)
-- [The RAG Chunking Strategy That Beat All the Trendy Ones in Production](https://dev.to/gabrielanhaia/the-rag-chunking-strategy-that-beat-all-the-trendy-ones-in-production-1en2)
-- [I Built a TikTok Downloader with Go — Here&#39;s What I Learned](https://dev.to/duc_t_356dc5761ba67044724/i-built-a-tiktok-downloader-with-go-heres-what-i-learned-o93)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-he2)
+- [Self-Hosted VPN: Benefits, Trade-Offs, and When It Makes Sense](https://dev.to/cacheguard/self-hosted-vpn-benefits-trade-offs-and-when-it-makes-sense-3dpc)
+- [How to Set Up Diction: The Self-Hosted Speech-to-Text Alternative to Wispr Flow](https://dev.to/omachala/how-to-set-up-diction-the-self-hosted-speech-to-text-alternative-to-wispr-flow-20km)
+- [Visualizing the Invisible: Seeing the Shape of AI Code Debt](https://dev.to/peng_cao/visualizing-the-invisible-seeing-the-shape-of-ai-code-debt-34i1)
+- [PHP to Go: The Mental Model Shift Nobody Warns You About](https://dev.to/gabrielanhaia/php-to-go-the-mental-model-shift-nobody-warns-you-about-2l7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
