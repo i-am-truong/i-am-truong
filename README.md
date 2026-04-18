@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 AI Copywriting Tools That Actually Drive ROI in 2026 &lpar;Tested on $50M Ad Spend&rpar;](https://dev.to/ireadcustomer/10-ai-copywriting-tools-that-actually-drive-roi-in-2026-tested-on-50m-ad-spend-21b)
-- [Why Claude Code Forces Itself to Read Files Before Editing Them](https://dev.to/_2b847605e5fbe8a8c9e26/why-claude-code-forces-itself-to-read-files-before-editing-them-21f3)
-- [4 products, 1 broadcasting infrastructure, 3 weeks, 1 non-technical founder](https://dev.to/praveen_sga/4-products-1-broadcasting-infrastructure-3-weeks-1-non-technical-founder-54ak)
-- [Gemini Footprint Tracker — See the Real Cost of Every AI Prompt](https://dev.to/southy404/gemini-footprint-tracker-see-the-real-cost-of-every-ai-prompt-3j7o)
-- [How I built a Zero-Upload AI Workspace in the browser using WebGPU](https://dev.to/felix_ne_47d1004255f7a66c/how-i-built-a-zero-upload-ai-workspace-in-the-browser-using-webgpu-2841)
+- [What is RAG? A Beginner&#39;s Guide to Retrieval-Augmented Generation &lpar;With a Full Pipeline Walkthrough&rpar;](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)
+- [Embeddings Explained: The Secret Language AI Uses to Understand the World](https://dev.to/egepakten/embeddings-explained-the-secret-language-ai-uses-to-understand-the-world-3e0o)
+- [The Vitamin We Never Knew We Needed](https://dev.to/7ard1grad3/the-vitamin-we-never-knew-we-needed-5066)
+- [The Llama Trap: How Meta&#39;s Pivot to Closed-Source &#39;Muse Spark&#39; Upends Thai Enterprise AI](https://dev.to/ireadcustomer/the-llama-trap-how-metas-pivot-to-closed-source-muse-spark-upends-thai-enterprise-ai-221d)
+- [The Ultimate NumPy Course: Zero to GPT in Pure NumPy](https://dev.to/suraj_aryan_087b015e5066e/the-ultimate-numpy-course-zero-to-gpt-in-pure-numpy-4h6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
