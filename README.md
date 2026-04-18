@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is RAG? A Beginner&#39;s Guide to Retrieval-Augmented Generation &lpar;With a Full Pipeline Walkthrough&rpar;](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)
-- [Embeddings Explained: The Secret Language AI Uses to Understand the World](https://dev.to/egepakten/embeddings-explained-the-secret-language-ai-uses-to-understand-the-world-3e0o)
-- [The Vitamin We Never Knew We Needed](https://dev.to/7ard1grad3/the-vitamin-we-never-knew-we-needed-5066)
-- [The Llama Trap: How Meta&#39;s Pivot to Closed-Source &#39;Muse Spark&#39; Upends Thai Enterprise AI](https://dev.to/ireadcustomer/the-llama-trap-how-metas-pivot-to-closed-source-muse-spark-upends-thai-enterprise-ai-221d)
-- [The Ultimate NumPy Course: Zero to GPT in Pure NumPy](https://dev.to/suraj_aryan_087b015e5066e/the-ultimate-numpy-course-zero-to-gpt-in-pure-numpy-4h6m)
+- [Cursor 3 Just Shipped a Coding Model Trained From Scratch. Here&#39;s Why That Changes the Stack.](https://dev.to/gabrielanhaia/cursor-3-just-shipped-a-coding-model-trained-from-scratch-heres-why-that-changes-the-stack-57g7)
+- [I got 2x faster with AI. I also got 2x better at shipping bugs I couldn&#39;t catch.](https://dev.to/sweekarkoirala/i-got-2x-faster-with-ai-i-also-got-2x-better-at-shipping-bugs-i-couldnt-catch-hmb)
+- [The State of Agentic Commerce — April 2026](https://dev.to/benjifisher/the-state-of-agentic-commerce-april-2026-l93)
+- [The RAG Chunking Strategy That Beat All the Trendy Ones in Production](https://dev.to/gabrielanhaia/the-rag-chunking-strategy-that-beat-all-the-trendy-ones-in-production-1en2)
+- [I Built a TikTok Downloader with Go — Here&#39;s What I Learned](https://dev.to/duc_t_356dc5761ba67044724/i-built-a-tiktok-downloader-with-go-heres-what-i-learned-o93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
