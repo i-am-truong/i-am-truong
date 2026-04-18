@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your JSON Keeps Breaking &lpar;And How to Fix It Fast&rpar;](https://dev.to/pioneer10/why-your-json-keeps-breaking-and-how-to-fix-it-fast-2lej)
-- [How to Compare Two JSON Objects and Spot the Differences Instantly](https://dev.to/pioneer10/how-to-compare-two-json-objects-and-spot-the-differences-instantly-1b4j)
-- [Day 2 at OHDSI Rotterdam: Everything You Learned Yesterday Isn&#39;t in Your Network Yet](https://dev.to/roryqis/day-2-at-ohdsi-rotterdam-everything-you-learned-yesterday-isnt-in-your-network-yet-45a)
-- [I’m Learning Hash Tables &lpar;And Why You Should Care&rpar;](https://dev.to/ahmadcod/im-learning-hash-tables-and-why-you-should-care-38k)
-- [Stuxnet: How a USB Drive Destroyed 1,000 Nuclear Centrifuges — A Technical Deep Dive](https://dev.to/john-paul/stuxnet-how-a-usb-drive-destroyed-1000-nuclear-centrifuges-a-technical-deep-dive-lp3)
+- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
+- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
+- [SQL Functions You Will Actually Use in Data Work](https://dev.to/muriuki_kahuthu_54/sql-functions-you-will-actually-use-in-data-work-24g1)
+- [Monitoring an ML-Based Intrusion Detection System on AWS SageMaker](https://dev.to/ogambakerubo/monitoring-an-ml-based-intrusion-detection-system-on-aws-sagemaker-4182)
+- [Building an AI Travel Planner with Claude: and Using Claude Code to Build It](https://dev.to/kelson_qu/building-an-ai-travel-planner-with-claude-and-using-claude-code-to-build-it-1nfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
