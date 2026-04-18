@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Techn0tz Turns 1 — Help Shape What’s Next](https://dev.to/manjushaps/techn0tz-turns-1-help-shape-whats-next-5ehe)
-- [AWS Data &amp; AI Stories #02: Amazon Bedrock Data Automation](https://dev.to/aws-builders/aws-data-ai-stories-02-amazon-bedrock-data-automation-1gg7)
-- [Kubernetes v1.36 Drops April 22: What Platform Engineers Actually Need to Know](https://dev.to/mateenali66/kubernetes-v136-drops-april-22-what-platform-engineers-actually-need-to-know-3l81)
-- [I Did 2 Months of Work for a 2-Week Price — Here’s What I learned](https://dev.to/kenzicode/i-did-2-months-of-work-for-a-2-week-price-heres-what-i-learned-45gf)
-- [Split your AWS AppSync schema across multiple files](https://dev.to/moyarich/split-your-aws-appsync-schema-across-multiple-files-56c5)
+- [Productionizing LLMs in Go: Distributed Budgeting, LangChain, and ROI Tracking](https://dev.to/oluwajubelo1/productionizing-llms-in-go-distributed-budgeting-langchain-and-roi-tracking-4omn)
+- [The Developer Who Reviews Everything and Ships Nothing](https://dev.to/adamthedeveloper/the-developer-who-reviews-everything-and-ships-nothing-1e28)
+- [Should We Still Care About Our Code?](https://dev.to/js402/should-we-still-care-about-our-code-47mc)
+- [I Built a Bulletproof Web Scraper That Hasn&#39;t Been Blocked in 6 Months — Here&#39;s Every Trick I Use](https://dev.to/vasquezventures/i-built-a-bulletproof-web-scraper-that-hasnt-been-blocked-in-6-months-heres-every-trick-i-use-1hc5)
+- [The Largest SQL Injection Breach Ever — How 77 Million PSN Accounts Were Exposed published](https://dev.to/caisd/the-largest-sql-injection-breach-ever-how-77-million-psn-accounts-were-exposedpublished-3pk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
