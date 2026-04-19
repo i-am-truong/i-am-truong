@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tại sao OCR đa ngôn ngữ thất bại dù đã mở rộng character set](https://dev.to/david_chan_1994/tai-sao-ocr-da-ngon-ngu-that-bai-du-da-mo-rong-character-set-1jnf)
-- [An Hour Down Claude Code&#39;s Memory Hole](https://dev.to/theskillsteam/an-hour-down-claude-codes-memory-hole-2j3j)
-- [Shipping My First Production Site with Lovable: What I Learned](https://dev.to/angojay/shipping-my-first-production-site-with-lovable-what-i-learned-43ko)
-- [I Built an AI Memory System. Then I Forgot About It.](https://dev.to/tadmstr/i-built-an-ai-memory-system-then-i-forgot-about-it-1g6d)
-- [How to Safely Execute LLM Commands in Production Systems](https://dev.to/dbalabs/how-to-safely-execute-llm-commands-in-production-systems-3g7f)
+- [Stop picking Cursor or Claude Code. Pay for both, you cheapskate.](https://dev.to/adioof/stop-picking-cursor-or-claude-code-pay-for-both-you-cheapskate-3f80)
+- [I built a Laravel queue monitoring tool because I got tired of not knowing what my jobs actually do](https://dev.to/__yammi/i-built-a-laravel-queue-monitoring-tool-because-i-got-tired-of-not-knowing-what-my-jobs-actually-do-33lh)
+- [We replaced our multi-agent middleware with a folder. 48 hours later, the AI invented 6 coordination patterns.](https://dev.to/joinwell52/we-replaced-our-multi-agent-middleware-with-a-folder-48-hours-later-the-ai-invented-6-42a9)
+- [Mixed co-simulation with IcarusVerilog and NGSpice using &quot;MixFighter&quot; bridge.](https://dev.to/alexandre_rusev_7c8e1c1b6/mixed-co-simulation-with-icarusverilog-and-ngspice-using-mixfighter-bridge-309e)
+- [Level Up Your SQL: Subqueries &amp; CTEs in the Real World](https://dev.to/adev3loper/level-up-your-sql-subqueries-ctes-in-the-real-world-539k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
