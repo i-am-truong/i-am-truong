@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Your Bandaid Needs a Bandaid: Migrating Away From Automerge in Production](https://dev.to/francoisvdm/when-your-bandaid-needs-a-bandaid-migrating-away-from-automerge-in-production-1d71)
-- [Talk to Our AI Phone Agent — Live Now &lpar;and We&#39;re Looking for Pilot Partners&rpar;](https://dev.to/novatrope/talk-to-our-ai-phone-agent-live-now-and-were-looking-for-pilot-partners-1288)
-- [GHSA-9J88-VVJ5-VHGR: GHSA-9j88-vvj5-vhgr: STARTTLS Response Injection and SASL Downgrade in MailKit](https://dev.to/cverports/ghsa-9j88-vvj5-vhgr-ghsa-9j88-vvj5-vhgr-starttls-response-injection-and-sasl-downgrade-in-mailkit-3c3f)
-- [Symbiote.js: superpowers for Web Components](https://dev.to/foxeyes/symbiotejs-superpowers-for-web-components-1gid)
-- [Easily showcase your skills on GitHub with clean SVG icons](https://dev.to/mzrdev/easily-showcase-your-skills-on-github-with-clean-svg-icons-1l2f)
+- [Zero Trust is Not a Security Tool — It’s a Software Design Problem](https://dev.to/sven_schuchardt_0aa51663a/zero-trust-is-not-a-security-tool-its-a-software-design-problem-25mh)
+- [Como instalar o gerenciador de pacotes Homebrew no macOS](https://dev.to/natorsc/como-instalar-o-gerenciador-de-pacotes-homebrew-no-macos-1mfm)
+- [Letterboxd For Music - BeatShelf](https://dev.to/akshit_suthar/letterboxd-for-music-beatshelf-38kn)
+- [Building MoviePro in Public: A Real-Time Dashboard to Tell About the Crowds](https://dev.to/arikatla_harshitha_938810/building-moviepro-in-public-a-real-time-dashboard-to-tell-about-the-crowds-5emc)
+- [Building a Smart Stadium AI Assistant using Google Cloud &lpar;Without Overengineering&rpar;](https://dev.to/mohammed_ansari_d2425db08/building-a-smart-stadium-ai-assistant-using-google-cloud-without-overengineering-4mnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
