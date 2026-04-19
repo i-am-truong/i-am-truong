@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Serverless CDC and Event Ingestion Patterns into Analytics Pipelines on AWS](https://dev.to/aws-builders/serverless-cdc-and-event-ingestion-patterns-into-analytics-pipelines-on-aws-4i56)
-- [ApplyPilot - self-hosted job search companion &lpar;open source, BYOK Gemini&rpar;](https://dev.to/eliornl/applypilot-self-hosted-job-search-companion-open-source-byok-gemini-212n)
-- [🐾 Green Paws: an Earth Day AI assistant helping dog owners go green one walk at a time](https://dev.to/nerisina/green-paws-an-earth-day-ai-assistant-helping-dog-owners-go-green-one-walk-at-a-time-4hjl)
-- [It Might Already Be Too Late to Fix This](https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m)
-- [Moyacchi ; Your AI Eco Companion](https://dev.to/devishwas/moyacchi-your-ai-eco-companion-487n)
+- [Build a Logger and Validator with TypeScript Decorators &lpar;Like NestJS&rpar;](https://dev.to/malloc72p/build-a-logger-and-validator-with-typescript-decorators-like-nestjs-376n)
+- [I Made a CLI That Talks to Any Smart Contract in Plain English](https://dev.to/pavelespitia/i-made-a-cli-that-talks-to-any-smart-contract-in-plain-english-1hoi)
+- [Stop Coding, Start Drawing: Butterfly CSS v4.2 🦋product hunt launch today](https://dev.to/butterflycss/stop-coding-start-drawing-introducing-butterfly-css-v42-1o1j)
+- [Rails 8 API with Devise-JWT](https://dev.to/rozaru/rails-8-api-with-devise-jwt-2136)
+- [Three Months of AI-Powered Freelancing with ClawX: The Raw Truth](https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
