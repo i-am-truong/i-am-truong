@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Just Released My Reading Ruler Browser Extension](https://dev.to/codebunny20/i-just-released-my-reading-ruler-browser-extension-4phm)
-- [The Restore Path Is the Most Neglected Part of Backup Design](https://dev.to/ntctech/the-restore-path-is-the-most-neglected-part-of-backup-design-la2)
-- [Green Spaces: I Built a Community Memory Map for Earth Day 🌿](https://dev.to/jakeflavin/green-spaces-i-built-a-community-memory-map-for-earth-day-1kd4)
-- [AI Agent Roadmap: Everything You Need to Build Agents &lpar;In the Right Order&rpar;](https://dev.to/ialijr/ai-agent-roadmap-everything-you-need-to-build-agents-in-the-right-order-2hh8)
-- [Arquitetura monolítica](https://dev.to/raffael_michels/arquitetura-monolitica-4keg)
+- [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih)
+- [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
+- [Building a Terminal for Prediction Markets &lpar;Aggregating Polymarket, Kalshi, +5 more&rpar;](https://dev.to/predictefy/building-a-terminal-for-prediction-markets-aggregating-polymarket-kalshi-5-more-3lfk)
+- [Web3 Security and OPSEC Checklist: Beyond the Smart Contract Audit](https://dev.to/0xluk3/web3-security-and-opsec-checklist-beyond-the-smart-contract-audit-4hb8)
+- [Bayan Flow 0.4.0: From Algorithm Visualization to Real Understanding](https://dev.to/ayoub3bidi/bayan-flow-040-from-algorithm-visualization-to-real-understanding-3oj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
