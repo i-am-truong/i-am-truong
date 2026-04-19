@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92)
-- [Agentes IA que pasan tus tests. Ese es el problema.](https://dev.to/jtorchia/agentes-ia-que-pasan-tus-tests-ese-es-el-problema-10ic)
-- [Binary search is O&lpar;log n&rpar;, but that&#39;s not the whole story](https://dev.to/abanicaisse/binary-search-is-olog-n-but-thats-not-the-whole-story-2531)
-- [HeyGen HyperFrames: How Code is Killing Traditional Video Editing](https://dev.to/hugh1st/heygen-hyperframes-how-code-is-killing-traditional-video-editing-3f2h)
-- [The Secret Sauce Leaked. Turns Out There Was No Secret.](https://dev.to/soon_seahtoh_3e917beae5e/the-secret-sauce-leaked-turns-out-there-was-no-secret-4o36)
+- [🚀 I Just Released My Reading Ruler Browser Extension](https://dev.to/codebunny20/i-just-released-my-reading-ruler-browser-extension-4phm)
+- [The Restore Path Is the Most Neglected Part of Backup Design](https://dev.to/ntctech/the-restore-path-is-the-most-neglected-part-of-backup-design-la2)
+- [Green Spaces: I Built a Community Memory Map for Earth Day 🌿](https://dev.to/jakeflavin/green-spaces-i-built-a-community-memory-map-for-earth-day-1kd4)
+- [AI Agent Roadmap: Everything You Need to Build Agents &lpar;In the Right Order&rpar;](https://dev.to/ialijr/ai-agent-roadmap-everything-you-need-to-build-agents-in-the-right-order-2hh8)
+- [Arquitetura monolítica](https://dev.to/raffael_michels/arquitetura-monolitica-4keg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
