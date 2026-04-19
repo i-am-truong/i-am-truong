@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Bot Approvals: Mobile-First Transaction Signing for AI Agents](https://dev.to/walletguy/telegram-bot-approvals-mobile-first-transaction-signing-for-ai-agents-26p)
-- [Scaling DNS in Multi-Cluster Kubernetes with ExternalDNS &lpar;AWS Route 53 &rpar;](https://dev.to/manoj_kr_5fe54af2495454e/scaling-dns-in-multi-cluster-kubernetes-with-externaldns-aws-route-53--11je)
-- [Making dart:ui_web Compile in Flutter Tests — The Conditional Import Pattern](https://dev.to/kanta13jp1/making-dartuiweb-compile-in-flutter-tests-the-conditional-import-pattern-1p97)
-- [How to Get Real-Time Traffic Camera Feeds via API](https://dev.to/road511/how-to-get-real-time-traffic-camera-feeds-via-api-39k3)
-- [GraphQL in Go looks simple at first: write a schema, run gqlgen, fill in the resolvers. But the real story starts later.](https://dev.to/aleksei_aleinikov/graphql-in-go-looks-simple-at-first-write-a-schema-run-gqlgen-fill-in-the-resolvers-but-the-n05)
+- [How to Containerize Your Python App and Deploy to VPS](https://dev.to/big_mazzy_06d057cc24398c5/how-to-containerize-your-python-app-and-deploy-to-vps-4bl8)
+- [Idempotency in CQRS and Event Sourcing — Part 2: commands, projections and outbox](https://dev.to/ohugonnot/idempotency-in-cqrs-and-event-sourcing-part-2-commands-projections-and-outbox-4ei)
+- [How I Got OpenStack Keystone Running on Windows: A Collection of Hacks](https://dev.to/stefor07/how-i-got-openstack-keystone-running-on-windows-a-collection-of-hacks-296h)
+- [Sub-queries vs Window Functions vs Common Table Expressions: Which Should You Use in SQL?](https://dev.to/braeson_nyahera/sub-queries-vs-window-functions-vs-common-table-expressions-which-should-you-use-in-sql-fnj)
+- [React Concepts That Finally Click &lpar;Vite, JSX, Components &amp; Folder Structure, npm vs npx and Dev Server&rpar;](https://dev.to/kathirvel-s/react-concepts-that-finally-click-vite-jsx-components-folder-structure-and-npm-vs-npx-19pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
