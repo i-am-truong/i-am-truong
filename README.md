@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitGarden - your GitHub contributions as a living pixel art garden 🌿](https://dev.to/monicafidalgo/gitgarden-your-github-contributions-as-a-living-pixel-art-garden-3211)
-- [Verdent 2.0](https://dev.to/minimal-architect/verdent-20-3094)
-- [I Analysed 200 PRs in Shadcn-UI/UI To Find Duplicates: It Went Surprisingly Well.](https://dev.to/chinmaymhatre/i-analysed-200-prs-in-shadcn-uiui-to-find-duplicates-it-went-surprisingly-well-3jh7)
-- [The Vercel Breach: What Actually Happened, Why It Matters, and What Every Developer Should Do Right Now](https://dev.to/freerave/the-vercel-breach-what-actually-happened-why-it-matters-and-what-every-developer-should-do-right-4mjn)
-- [I ran a security audit on my own Python codebase with an LLM for $0.90. Here is what it found.](https://dev.to/systagproject/i-ran-a-security-audit-on-my-own-python-codebase-with-an-llm-for-090-here-is-what-it-found-151c)
+- [Cloudflare Workers HTML to Markdown on the Free Plan](https://dev.to/rickcogley/cloudflare-workers-html-to-markdown-on-the-free-plan-3jlc)
+- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
+- [Recommendation Letters, Referrals, and Reputation: How Professional Trust Is Really Built in Tech](https://dev.to/d3one/recommendation-letters-referrals-and-reputation-how-professional-trust-is-really-built-in-tech-4316)
+- [The Agent Contract Problem: When Your Agent Commits to Something It Can&#39;t Deliver](https://dev.to/the_bookmaster/the-agent-contract-problem-when-your-agent-commits-to-something-it-cant-deliver-433f)
+- [I gave Earth a Wrapped. thisyear.earth](https://dev.to/saraeloop/i-gave-earth-a-wrapped-thisyearearth-4ll0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
