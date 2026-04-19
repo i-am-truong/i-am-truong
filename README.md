@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [my-cool-blog - jerseyctf6](https://dev.to/davidonlinearchive/my-cool-blog-jerseyctf6-1985)
-- [C# Lowering: The Compiler Magic Behind Your Code](https://dev.to/itplamen/c-lowering-the-compiler-magic-behind-your-code-298k)
-- [From GPS Coordinates to Screen Pixels: The Full AR Projection Math](https://dev.to/ananddhruv29/from-gps-coordinates-to-screen-pixels-the-full-ar-projection-math-4k7m)
-- [I&#39;m with STUPID ⤴️](https://dev.to/gesslar/im-with-stupid-g8m)
-- [Copilot ajuda muito, mas você continua 100% responsável pelo seu código .NET](https://dev.to/josemarcosit/copilot-ajuda-muito-mas-voce-continua-100-responsavel-pelo-seu-codigo-net-5hbh)
+- [The Self-Evolving AI Agent: How to Stop Correcting Your LLM Twice](https://dev.to/onurcinar/the-self-evolving-ai-agent-how-to-stop-correcting-your-llm-twice-15kj)
+- [[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA](https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a)
+- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8)
+- [I built a $250 website business that runs itself — here&#39;s the architecture](https://dev.to/erik_anderson_c41dbafd423/i-built-a-250-website-business-that-runs-itself-heres-the-architecture-1j37)
+- [I added profile-specific duplicate rules to my CSV intake console #5](https://dev.to/fastapier/i-added-profile-specific-duplicate-rules-to-my-csv-intake-console-4-4pno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
