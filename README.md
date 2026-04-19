@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop picking Cursor or Claude Code. Pay for both, you cheapskate.](https://dev.to/adioof/stop-picking-cursor-or-claude-code-pay-for-both-you-cheapskate-3f80)
-- [I built a Laravel queue monitoring tool because I got tired of not knowing what my jobs actually do](https://dev.to/__yammi/i-built-a-laravel-queue-monitoring-tool-because-i-got-tired-of-not-knowing-what-my-jobs-actually-do-33lh)
-- [We replaced our multi-agent middleware with a folder. 48 hours later, the AI invented 6 coordination patterns.](https://dev.to/joinwell52/we-replaced-our-multi-agent-middleware-with-a-folder-48-hours-later-the-ai-invented-6-42a9)
-- [Mixed co-simulation with IcarusVerilog and NGSpice using &quot;MixFighter&quot; bridge.](https://dev.to/alexandre_rusev_7c8e1c1b6/mixed-co-simulation-with-icarusverilog-and-ngspice-using-mixfighter-bridge-309e)
-- [Level Up Your SQL: Subqueries &amp; CTEs in the Real World](https://dev.to/adev3loper/level-up-your-sql-subqueries-ctes-in-the-real-world-539k)
+- [When Your Bandaid Needs a Bandaid: Migrating Away From Automerge in Production](https://dev.to/francoisvdm/when-your-bandaid-needs-a-bandaid-migrating-away-from-automerge-in-production-1d71)
+- [Talk to Our AI Phone Agent — Live Now &lpar;and We&#39;re Looking for Pilot Partners&rpar;](https://dev.to/novatrope/talk-to-our-ai-phone-agent-live-now-and-were-looking-for-pilot-partners-1288)
+- [GHSA-9J88-VVJ5-VHGR: GHSA-9j88-vvj5-vhgr: STARTTLS Response Injection and SASL Downgrade in MailKit](https://dev.to/cverports/ghsa-9j88-vvj5-vhgr-ghsa-9j88-vvj5-vhgr-starttls-response-injection-and-sasl-downgrade-in-mailkit-3c3f)
+- [Symbiote.js: superpowers for Web Components](https://dev.to/foxeyes/symbiotejs-superpowers-for-web-components-1gid)
+- [Easily showcase your skills on GitHub with clean SVG icons](https://dev.to/mzrdev/easily-showcase-your-skills-on-github-with-clean-svg-icons-1l2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
