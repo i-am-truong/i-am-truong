@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Containerize Your Python App and Deploy to VPS](https://dev.to/big_mazzy_06d057cc24398c5/how-to-containerize-your-python-app-and-deploy-to-vps-4bl8)
-- [Idempotency in CQRS and Event Sourcing — Part 2: commands, projections and outbox](https://dev.to/ohugonnot/idempotency-in-cqrs-and-event-sourcing-part-2-commands-projections-and-outbox-4ei)
-- [How I Got OpenStack Keystone Running on Windows: A Collection of Hacks](https://dev.to/stefor07/how-i-got-openstack-keystone-running-on-windows-a-collection-of-hacks-296h)
-- [Sub-queries vs Window Functions vs Common Table Expressions: Which Should You Use in SQL?](https://dev.to/braeson_nyahera/sub-queries-vs-window-functions-vs-common-table-expressions-which-should-you-use-in-sql-fnj)
-- [React Concepts That Finally Click &lpar;Vite, JSX, Components &amp; Folder Structure, npm vs npx and Dev Server&rpar;](https://dev.to/kathirvel-s/react-concepts-that-finally-click-vite-jsx-components-folder-structure-and-npm-vs-npx-19pg)
+- [The Attention Economy Inside Your Agent](https://dev.to/the_bookmaster/the-attention-economy-inside-your-agent-ofi)
+- [Microsoft Agent Framework: From Zero to Multi-Agent Pipeline](https://dev.to/rosidotidev/microsoft-agent-framework-from-zero-to-multi-agent-pipeline-1np2)
+- [I built an AI contract analyzer in 6 weeks - here&#39;s what I learned about prompting Claude for structured output](https://dev.to/fynprint_app/i-built-an-ai-contract-analyzer-in-6-weeks-heres-what-i-learned-about-prompting-claude-for-27ak)
+- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
+- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
