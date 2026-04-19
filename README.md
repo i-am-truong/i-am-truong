@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Workers HTML to Markdown on the Free Plan](https://dev.to/rickcogley/cloudflare-workers-html-to-markdown-on-the-free-plan-3jlc)
-- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
-- [Recommendation Letters, Referrals, and Reputation: How Professional Trust Is Really Built in Tech](https://dev.to/d3one/recommendation-letters-referrals-and-reputation-how-professional-trust-is-really-built-in-tech-4316)
-- [The Agent Contract Problem: When Your Agent Commits to Something It Can&#39;t Deliver](https://dev.to/the_bookmaster/the-agent-contract-problem-when-your-agent-commits-to-something-it-cant-deliver-433f)
-- [I gave Earth a Wrapped. thisyear.earth](https://dev.to/saraeloop/i-gave-earth-a-wrapped-thisyearearth-4ll0)
+- [Serverless CDC and Event Ingestion Patterns into Analytics Pipelines on AWS](https://dev.to/aws-builders/serverless-cdc-and-event-ingestion-patterns-into-analytics-pipelines-on-aws-4i56)
+- [ApplyPilot - self-hosted job search companion &lpar;open source, BYOK Gemini&rpar;](https://dev.to/eliornl/applypilot-self-hosted-job-search-companion-open-source-byok-gemini-212n)
+- [🐾 Green Paws: an Earth Day AI assistant helping dog owners go green one walk at a time](https://dev.to/nerisina/green-paws-an-earth-day-ai-assistant-helping-dog-owners-go-green-one-walk-at-a-time-4hjl)
+- [It Might Already Be Too Late to Fix This](https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m)
+- [Moyacchi ; Your AI Eco Companion](https://dev.to/devishwas/moyacchi-your-ai-eco-companion-487n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
