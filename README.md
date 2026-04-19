@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj)
-- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2)
-- [PortfolioForge: Building an AI‑Native Portfolio Platform with Next.js, Firebase, and Genkit](https://dev.to/onkar_koventures/portfolioforge-building-an-ai-native-portfolio-platform-with-nextjs-firebase-and-genkit-24j1)
-- [Building an Interactive Wind Turbine Calculator](https://dev.to/onkar_koventures/building-an-interactive-wind-turbine-calculator-20d3)
-- [从混沌到秩序：AI 时代的系统分层治理方法论](https://dev.to/senk/cong-hun-dun-dao-zhi-xu-ai-shi-dai-de-xi-tong-fen-ceng-zhi-li-fang-fa-lun-43fb)
+- [Green Habit Coach — AI-Powered Habit Analysis and Eco Coaching](https://dev.to/zoe_lin_0653/green-habit-coach-ai-powered-habit-analysis-and-eco-coaching-5dco)
+- [Paying $40/month for both Cursor and Claude Code is the new &quot;I use Vim btw](https://dev.to/adioof/paying-40month-for-both-cursor-and-claude-code-is-the-new-i-use-vim-btw-4622)
+- [I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework](https://dev.to/syedahmershah/i-almost-lost-commerza-the-brutal-reality-of-building-an-ecommerce-system-without-a-framework-5b78)
+- [I&#39;m Rebuilding My Old Invoice App and This Time I Actually Know What I&#39;m Doing](https://dev.to/sidharth_sangelia/im-rebuilding-my-old-invoice-app-and-this-time-i-actually-know-what-im-doing-4bg7)
+- [EcoQuest - From Concrete to Canopy with Gemini AI](https://dev.to/bhavna_b_baa952ae51dac930/ecoquest-from-concrete-to-canopy-with-gemini-ai-445o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
