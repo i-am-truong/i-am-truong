@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Code Breaks: How to Handle Errors Like a Pro](https://dev.to/yakhilesh/when-code-breaks-how-to-handle-errors-like-a-pro-3g02)
-- [How to Fix Inconsistent Checkout and Tax Labels in WooCommerce](https://dev.to/nexuwp/how-to-fix-inconsistent-checkout-and-tax-labels-in-woocommerce-1c2o)
-- [Build Your Own Types: Classes Explained Simply](https://dev.to/yakhilesh/build-your-own-types-classes-explained-simply-26dj)
-- [Dictionaries: When a List Just Isn&#39;t Enough](https://dev.to/yakhilesh/dictionaries-when-a-list-just-isnt-enough-27o9)
-- [Lists: The Most Useful Thing in Python](https://dev.to/yakhilesh/lists-the-most-useful-thing-in-python-4jpk)
+- [Why Rapido Uses a Static PIN &lpar;Rapid OTP Trade-offs&rpar;](https://dev.to/helloashish99/why-rapido-uses-a-static-pin-rapid-otp-trade-offs-f9c)
+- [Building Cinemind-AI 🎬 | My First AI Movie Chatbot with Flask, Gemini &amp; MongoDB](https://dev.to/narasimhamurthy4616/building-cinemind-ai-my-first-ai-movie-chatbot-with-flask-gemini-mongodb-12ik)
+- [Working with AI on Long Software Projects](https://dev.to/cnersmith/working-with-ai-on-long-software-projects-34e4)
+- [Reversing using C](https://dev.to/maximilianfeldthusen/reversing-using-c-21bd)
+- [Tired of Claude Code Ignoring Your CLAUDE.md? I Built claudemd-guard](https://dev.to/hirochiba/tired-of-claude-code-ignoring-your-claudemd-i-built-claudemd-guard-34k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
