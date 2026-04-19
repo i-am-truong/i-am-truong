@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Self-Evolving AI Agent: How to Stop Correcting Your LLM Twice](https://dev.to/onurcinar/the-self-evolving-ai-agent-how-to-stop-correcting-your-llm-twice-15kj)
-- [[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA](https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a)
-- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8)
-- [I built a $250 website business that runs itself — here&#39;s the architecture](https://dev.to/erik_anderson_c41dbafd423/i-built-a-250-website-business-that-runs-itself-heres-the-architecture-1j37)
-- [I added profile-specific duplicate rules to my CSV intake console #5](https://dev.to/fastapier/i-added-profile-specific-duplicate-rules-to-my-csv-intake-console-4-4pno)
+- [GitGarden - your GitHub contributions as a living pixel art garden 🌿](https://dev.to/monicafidalgo/gitgarden-your-github-contributions-as-a-living-pixel-art-garden-3211)
+- [Verdent 2.0](https://dev.to/minimal-architect/verdent-20-3094)
+- [I Analysed 200 PRs in Shadcn-UI/UI To Find Duplicates: It Went Surprisingly Well.](https://dev.to/chinmaymhatre/i-analysed-200-prs-in-shadcn-uiui-to-find-duplicates-it-went-surprisingly-well-3jh7)
+- [The Vercel Breach: What Actually Happened, Why It Matters, and What Every Developer Should Do Right Now](https://dev.to/freerave/the-vercel-breach-what-actually-happened-why-it-matters-and-what-every-developer-should-do-right-4mjn)
+- [I ran a security audit on my own Python codebase with an LLM for $0.90. Here is what it found.](https://dev.to/systagproject/i-ran-a-security-audit-on-my-own-python-codebase-with-an-llm-for-090-here-is-what-it-found-151c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
