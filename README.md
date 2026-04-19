@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Rapido Uses a Static PIN &lpar;Rapid OTP Trade-offs&rpar;](https://dev.to/helloashish99/why-rapido-uses-a-static-pin-rapid-otp-trade-offs-f9c)
-- [Building Cinemind-AI 🎬 | My First AI Movie Chatbot with Flask, Gemini &amp; MongoDB](https://dev.to/narasimhamurthy4616/building-cinemind-ai-my-first-ai-movie-chatbot-with-flask-gemini-mongodb-12ik)
-- [Working with AI on Long Software Projects](https://dev.to/cnersmith/working-with-ai-on-long-software-projects-34e4)
-- [Reversing using C](https://dev.to/maximilianfeldthusen/reversing-using-c-21bd)
-- [Tired of Claude Code Ignoring Your CLAUDE.md? I Built claudemd-guard](https://dev.to/hirochiba/tired-of-claude-code-ignoring-your-claudemd-i-built-claudemd-guard-34k5)
+- [I built a bird flight simulator you control by flapping your arms &lpar;Three.js + MediaPipe&rpar;](https://dev.to/ki-mathias/i-built-a-bird-flight-simulator-you-control-by-flapping-your-arms-threejs-mediapipe-ld6)
+- [I ran 4 autonomous Claude agents for 6 months. Here&#39;s the data.](https://dev.to/david_shin_0c7d69b704a649/i-ran-4-autonomous-claude-agents-for-6-months-heres-the-data-1op5)
+- [How to Store Code Intelligence Graphs Efficiently](https://dev.to/opprajwal/how-to-store-code-intelligence-graphs-efficiently-6d4)
+- [More than pretty pictures: Wendy Bishop on visual storytelling in tech](https://dev.to/mark0_617b45cda9782a/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech-4cim)
+- [How to Reorder WooCommerce Checkout Fields Without Breaking Autofill](https://dev.to/nexuwp/how-to-reorder-woocommerce-checkout-fields-without-breaking-autofill-2f1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
