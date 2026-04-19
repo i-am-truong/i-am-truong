@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a bird flight simulator you control by flapping your arms &lpar;Three.js + MediaPipe&rpar;](https://dev.to/ki-mathias/i-built-a-bird-flight-simulator-you-control-by-flapping-your-arms-threejs-mediapipe-ld6)
-- [I ran 4 autonomous Claude agents for 6 months. Here&#39;s the data.](https://dev.to/david_shin_0c7d69b704a649/i-ran-4-autonomous-claude-agents-for-6-months-heres-the-data-1op5)
-- [How to Store Code Intelligence Graphs Efficiently](https://dev.to/opprajwal/how-to-store-code-intelligence-graphs-efficiently-6d4)
-- [More than pretty pictures: Wendy Bishop on visual storytelling in tech](https://dev.to/mark0_617b45cda9782a/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech-4cim)
-- [How to Reorder WooCommerce Checkout Fields Without Breaking Autofill](https://dev.to/nexuwp/how-to-reorder-woocommerce-checkout-fields-without-breaking-autofill-2f1g)
+- [Telegram Bot Approvals: Mobile-First Transaction Signing for AI Agents](https://dev.to/walletguy/telegram-bot-approvals-mobile-first-transaction-signing-for-ai-agents-26p)
+- [Scaling DNS in Multi-Cluster Kubernetes with ExternalDNS &lpar;AWS Route 53 &rpar;](https://dev.to/manoj_kr_5fe54af2495454e/scaling-dns-in-multi-cluster-kubernetes-with-externaldns-aws-route-53--11je)
+- [Making dart:ui_web Compile in Flutter Tests — The Conditional Import Pattern](https://dev.to/kanta13jp1/making-dartuiweb-compile-in-flutter-tests-the-conditional-import-pattern-1p97)
+- [How to Get Real-Time Traffic Camera Feeds via API](https://dev.to/road511/how-to-get-real-time-traffic-camera-feeds-via-api-39k3)
+- [GraphQL in Go looks simple at first: write a schema, run gqlgen, fill in the resolvers. But the real story starts later.](https://dev.to/aleksei_aleinikov/graphql-in-go-looks-simple-at-first-write-a-schema-run-gqlgen-fill-in-the-resolvers-but-the-n05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
