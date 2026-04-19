@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust is Not a Security Tool — It’s a Software Design Problem](https://dev.to/sven_schuchardt_0aa51663a/zero-trust-is-not-a-security-tool-its-a-software-design-problem-25mh)
-- [Como instalar o gerenciador de pacotes Homebrew no macOS](https://dev.to/natorsc/como-instalar-o-gerenciador-de-pacotes-homebrew-no-macos-1mfm)
-- [Letterboxd For Music - BeatShelf](https://dev.to/akshit_suthar/letterboxd-for-music-beatshelf-38kn)
-- [Building MoviePro in Public: A Real-Time Dashboard to Tell About the Crowds](https://dev.to/arikatla_harshitha_938810/building-moviepro-in-public-a-real-time-dashboard-to-tell-about-the-crowds-5emc)
-- [Building a Smart Stadium AI Assistant using Google Cloud &lpar;Without Overengineering&rpar;](https://dev.to/mohammed_ansari_d2425db08/building-a-smart-stadium-ai-assistant-using-google-cloud-without-overengineering-4mnj)
+- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj)
+- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2)
+- [PortfolioForge: Building an AI‑Native Portfolio Platform with Next.js, Firebase, and Genkit](https://dev.to/onkar_koventures/portfolioforge-building-an-ai-native-portfolio-platform-with-nextjs-firebase-and-genkit-24j1)
+- [Building an Interactive Wind Turbine Calculator](https://dev.to/onkar_koventures/building-an-interactive-wind-turbine-calculator-20d3)
+- [从混沌到秩序：AI 时代的系统分层治理方法论](https://dev.to/senk/cong-hun-dun-dao-zhi-xu-ai-shi-dai-de-xi-tong-fen-ceng-zhi-li-fang-fa-lun-43fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
