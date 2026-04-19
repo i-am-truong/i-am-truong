@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Attention Economy Inside Your Agent](https://dev.to/the_bookmaster/the-attention-economy-inside-your-agent-ofi)
-- [Microsoft Agent Framework: From Zero to Multi-Agent Pipeline](https://dev.to/rosidotidev/microsoft-agent-framework-from-zero-to-multi-agent-pipeline-1np2)
-- [I built an AI contract analyzer in 6 weeks - here&#39;s what I learned about prompting Claude for structured output](https://dev.to/fynprint_app/i-built-an-ai-contract-analyzer-in-6-weeks-heres-what-i-learned-about-prompting-claude-for-27ak)
-- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
-- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
+- [Why I replaced Stripe with Polar, Prisma with Drizzle, and Clerk with BetterAuth and never looked back](https://dev.to/tejas_giri_19aa846141b778/why-i-replaced-stripe-with-polar-prisma-with-drizzle-and-clerk-with-betterauth-and-never-looked-f63)
+- [Building a Windows yt-dlp GUI with Tauri, React, and Rust](https://dev.to/halal_frfr/building-a-windows-yt-dlp-gui-with-tauri-react-and-rust-3bh6)
+- [Building an MS Project-Style Gantt Chart in Flutter Web — CustomPaint with Synchronized Scrolling](https://dev.to/kanta13jp1/building-an-ms-project-style-gantt-chart-in-flutter-web-custompaint-with-synchronized-scrolling-1c0i)
+- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
+- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
