@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Green Habit Coach — AI-Powered Habit Analysis and Eco Coaching](https://dev.to/zoe_lin_0653/green-habit-coach-ai-powered-habit-analysis-and-eco-coaching-5dco)
-- [Paying $40/month for both Cursor and Claude Code is the new &quot;I use Vim btw](https://dev.to/adioof/paying-40month-for-both-cursor-and-claude-code-is-the-new-i-use-vim-btw-4622)
-- [I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework](https://dev.to/syedahmershah/i-almost-lost-commerza-the-brutal-reality-of-building-an-ecommerce-system-without-a-framework-5b78)
-- [I&#39;m Rebuilding My Old Invoice App and This Time I Actually Know What I&#39;m Doing](https://dev.to/sidharth_sangelia/im-rebuilding-my-old-invoice-app-and-this-time-i-actually-know-what-im-doing-4bg7)
-- [EcoQuest - From Concrete to Canopy with Gemini AI](https://dev.to/bhavna_b_baa952ae51dac930/ecoquest-from-concrete-to-canopy-with-gemini-ai-445o)
+- [DocuSign Alternatives in 2026: What to Look for in an E-Signature Platform](https://dev.to/geo_606_66080dc1dabe33933/docusign-alternatives-in-2026-what-to-look-for-in-an-e-signature-platform-2n46)
+- [Beyond Page Speed: Why Every Developer Needs a Warmup Cache Request Strategy](https://dev.to/vinlyee_studios/beyond-page-speed-why-every-developer-needs-a-warmup-cache-request-strategy-2af3)
+- [Vibe Designing](https://dev.to/crawleyprint_71/vibe-designing-5hbo)
+- [Multi-Agenten-Systeme: Wenn KIs miteinander arbeiten](https://dev.to/codewithagents_de/multi-agenten-systeme-wenn-kis-miteinander-arbeiten-2m7g)
+- [Introduction to Machine Learning](https://dev.to/ngigi_nyawira_a938a3f3847/introduction-to-machine-learning-4p34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
