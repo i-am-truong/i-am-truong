@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Elixir Comprehensions: Learn Enough to be Dangerous](https://dev.to/figsify/elixir-comprehensions-learn-enough-to-be-dangerous-3514)
-- [I thought I had a bug](https://dev.to/michael_trifonov_0cb74f99/i-thought-i-had-a-bug-2kmc)
-- [Introducing Vectors And Vector Search](https://dev.to/kendricktech/introducing-vectors-and-vector-search-2388)
-- [ECOSYNAPSE A Living Data System for Planetary Intelligence](https://dev.to/peacebinflow/ecosynapsea-living-data-system-for-planetary-intelligence-58i4)
-- [Why would Go do this in its documentation?](https://dev.to/logicco/why-would-go-do-this-in-its-documentation-45e)
+- [When Code Breaks: How to Handle Errors Like a Pro](https://dev.to/yakhilesh/when-code-breaks-how-to-handle-errors-like-a-pro-3g02)
+- [How to Fix Inconsistent Checkout and Tax Labels in WooCommerce](https://dev.to/nexuwp/how-to-fix-inconsistent-checkout-and-tax-labels-in-woocommerce-1c2o)
+- [Build Your Own Types: Classes Explained Simply](https://dev.to/yakhilesh/build-your-own-types-classes-explained-simply-26dj)
+- [Dictionaries: When a List Just Isn&#39;t Enough](https://dev.to/yakhilesh/dictionaries-when-a-list-just-isnt-enough-27o9)
+- [Lists: The Most Useful Thing in Python](https://dev.to/yakhilesh/lists-the-most-useful-thing-in-python-4jpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
