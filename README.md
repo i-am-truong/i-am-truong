@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Recover Lost Linux Password Using Yescrypt Hash Cracking &lpar;Kali &amp; Shadow File Guide&rpar;](https://dev.to/ibrahim71reza/recover-lost-linux-password-using-yescrypt-hash-cracking-kali-shadow-file-guide-2645)
-- [Bun replaced 4 tools in my stack — here&#39;s what actually held up and what didn&#39;t](https://dev.to/svssdeva/bun-replaced-4-tools-in-my-stack-heres-what-actually-held-up-and-what-didnt-2ik8)
-- [I Had No Weekend Plans… So I Let Earth Tell Its Story 🌍](https://dev.to/hadil/i-had-no-weekend-plans-so-i-let-earth-tell-its-story-1no8)
-- [You know you are a coder couple when...](https://dev.to/annavi11arrea1/you-know-you-are-a-coder-couple-when-8an)
-- [AI in docs: Documentation dynamic shift most people seem to ignore](https://dev.to/davecodes/ai-in-docs-documentation-dynamic-shift-most-people-seem-to-ignore-2kgc)
+- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92)
+- [Agentes IA que pasan tus tests. Ese es el problema.](https://dev.to/jtorchia/agentes-ia-que-pasan-tus-tests-ese-es-el-problema-10ic)
+- [Binary search is O&lpar;log n&rpar;, but that&#39;s not the whole story](https://dev.to/abanicaisse/binary-search-is-olog-n-but-thats-not-the-whole-story-2531)
+- [HeyGen HyperFrames: How Code is Killing Traditional Video Editing](https://dev.to/hugh1st/heygen-hyperframes-how-code-is-killing-traditional-video-editing-3f2h)
+- [The Secret Sauce Leaked. Turns Out There Was No Secret.](https://dev.to/soon_seahtoh_3e917beae5e/the-secret-sauce-leaked-turns-out-there-was-no-secret-4o36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
