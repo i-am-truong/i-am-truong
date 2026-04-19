@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CQRS](https://dev.to/shashi_chaudhary/cqrs-95f)
-- [From ChatGPT System Prompt to a Music App](https://dev.to/ukasz_klimkiewicz_017637/from-chatgpt-system-prompt-to-a-music-app-1i6f)
-- [How I used Python to turn a cheap 20$ smartwatch into a PC remote!](https://dev.to/abrishyir/how-i-used-python-to-turn-a-cheap-20-smartwatch-into-a-pc-remote-15ef)
-- [Mastering Modern Hiring Demonstration: Using Docling and PostgreSQL by Bob to Build a Local Candidate RAG Database](https://dev.to/aairom/mastering-modern-hiring-demonstration-using-docling-and-postgresql-by-bob-to-build-a-local-584)
-- [How Early-Stage SaaS Teams Build Scalable DevOps Without Overengineering](https://dev.to/aziz_gainhq_c73700685a251/how-early-stage-saas-teams-build-scalable-devops-without-overengineering-3lmd)
+- [Tại sao OCR đa ngôn ngữ thất bại dù đã mở rộng character set](https://dev.to/david_chan_1994/tai-sao-ocr-da-ngon-ngu-that-bai-du-da-mo-rong-character-set-1jnf)
+- [An Hour Down Claude Code&#39;s Memory Hole](https://dev.to/theskillsteam/an-hour-down-claude-codes-memory-hole-2j3j)
+- [Shipping My First Production Site with Lovable: What I Learned](https://dev.to/angojay/shipping-my-first-production-site-with-lovable-what-i-learned-43ko)
+- [I Built an AI Memory System. Then I Forgot About It.](https://dev.to/tadmstr/i-built-an-ai-memory-system-then-i-forgot-about-it-1g6d)
+- [How to Safely Execute LLM Commands in Production Systems](https://dev.to/dbalabs/how-to-safely-execute-llm-commands-in-production-systems-3g7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
