@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih)
-- [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
-- [Building a Terminal for Prediction Markets &lpar;Aggregating Polymarket, Kalshi, +5 more&rpar;](https://dev.to/predictefy/building-a-terminal-for-prediction-markets-aggregating-polymarket-kalshi-5-more-3lfk)
-- [Web3 Security and OPSEC Checklist: Beyond the Smart Contract Audit](https://dev.to/0xluk3/web3-security-and-opsec-checklist-beyond-the-smart-contract-audit-4hb8)
-- [Bayan Flow 0.4.0: From Algorithm Visualization to Real Understanding](https://dev.to/ayoub3bidi/bayan-flow-040-from-algorithm-visualization-to-real-understanding-3oj3)
+- [CQRS](https://dev.to/shashi_chaudhary/cqrs-95f)
+- [From ChatGPT System Prompt to a Music App](https://dev.to/ukasz_klimkiewicz_017637/from-chatgpt-system-prompt-to-a-music-app-1i6f)
+- [How I used Python to turn a cheap 20$ smartwatch into a PC remote!](https://dev.to/abrishyir/how-i-used-python-to-turn-a-cheap-20-smartwatch-into-a-pc-remote-15ef)
+- [Mastering Modern Hiring Demonstration: Using Docling and PostgreSQL by Bob to Build a Local Candidate RAG Database](https://dev.to/aairom/mastering-modern-hiring-demonstration-using-docling-and-postgresql-by-bob-to-build-a-local-584)
+- [How Early-Stage SaaS Teams Build Scalable DevOps Without Overengineering](https://dev.to/aziz_gainhq_c73700685a251/how-early-stage-saas-teams-build-scalable-devops-without-overengineering-3lmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
