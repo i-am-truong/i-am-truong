@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DocuSign Alternatives in 2026: What to Look for in an E-Signature Platform](https://dev.to/geo_606_66080dc1dabe33933/docusign-alternatives-in-2026-what-to-look-for-in-an-e-signature-platform-2n46)
-- [Beyond Page Speed: Why Every Developer Needs a Warmup Cache Request Strategy](https://dev.to/vinlyee_studios/beyond-page-speed-why-every-developer-needs-a-warmup-cache-request-strategy-2af3)
-- [Vibe Designing](https://dev.to/crawleyprint_71/vibe-designing-5hbo)
-- [Multi-Agenten-Systeme: Wenn KIs miteinander arbeiten](https://dev.to/codewithagents_de/multi-agenten-systeme-wenn-kis-miteinander-arbeiten-2m7g)
-- [Introduction to Machine Learning](https://dev.to/ngigi_nyawira_a938a3f3847/introduction-to-machine-learning-4p34)
+- [my-cool-blog - jerseyctf6](https://dev.to/davidonlinearchive/my-cool-blog-jerseyctf6-1985)
+- [C# Lowering: The Compiler Magic Behind Your Code](https://dev.to/itplamen/c-lowering-the-compiler-magic-behind-your-code-298k)
+- [From GPS Coordinates to Screen Pixels: The Full AR Projection Math](https://dev.to/ananddhruv29/from-gps-coordinates-to-screen-pixels-the-full-ar-projection-math-4k7m)
+- [I&#39;m with STUPID ⤴️](https://dev.to/gesslar/im-with-stupid-g8m)
+- [Copilot ajuda muito, mas você continua 100% responsável pelo seu código .NET](https://dev.to/josemarcosit/copilot-ajuda-muito-mas-voce-continua-100-responsavel-pelo-seu-codigo-net-5hbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
