@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
-- [How to Get Real-Time Crypto Prices with the Mobula API in Python](https://dev.to/kevin_menesesgonzlez/how-to-get-real-time-crypto-prices-with-the-mobula-api-in-python-2oop)
-- [Guide to AI-Powered Frontend Testing with TWD](https://dev.to/kevinccbsg/guide-to-ai-powered-frontend-testing-with-twd-3i88)
-- [Công thức viết User Story &#39;thuyết phục mọi Dev&#39;: Hướng dẫn toàn diện và thực chiến](https://dev.to/itprepvn/cong-thuc-viet-user-story-thuyet-phuc-moi-dev-huong-dan-toan-dien-va-thuc-chien-58dm)
-- [Your WAF thinks in ATT&amp;CK. Your LLM app needs ATLAS. Here&#39;s the bridge.](https://dev.to/uzy1bit/your-waf-thinks-in-attck-your-llm-app-needs-atlas-heres-the-bridge-39ld)
+- [Recover Lost Linux Password Using Yescrypt Hash Cracking &lpar;Kali &amp; Shadow File Guide&rpar;](https://dev.to/ibrahim71reza/recover-lost-linux-password-using-yescrypt-hash-cracking-kali-shadow-file-guide-2645)
+- [Bun replaced 4 tools in my stack — here&#39;s what actually held up and what didn&#39;t](https://dev.to/svssdeva/bun-replaced-4-tools-in-my-stack-heres-what-actually-held-up-and-what-didnt-2ik8)
+- [I Had No Weekend Plans… So I Let Earth Tell Its Story 🌍](https://dev.to/hadil/i-had-no-weekend-plans-so-i-let-earth-tell-its-story-1no8)
+- [You know you are a coder couple when...](https://dev.to/annavi11arrea1/you-know-you-are-a-coder-couple-when-8an)
+- [AI in docs: Documentation dynamic shift most people seem to ignore](https://dev.to/davecodes/ai-in-docs-documentation-dynamic-shift-most-people-seem-to-ignore-2kgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
