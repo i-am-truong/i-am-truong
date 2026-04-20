@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MovieSync: Redefining Intermissions with Live Crowd Data](https://dev.to/koushik_raghavan_15bce601/moviesync-redefining-intermissions-with-live-crowd-data-5c3g)
-- [Construindo um explorador de rede societária com grafos em Python](https://dev.to/pedroparker/construindo-um-explorador-de-rede-societaria-com-grafos-em-python-jck)
-- [I touched X11 for the first time in 30 years to run wrangler login. YouTube audio came with it.](https://dev.to/kusnaware/i-touched-x11-for-the-first-time-in-30-years-to-run-wrangler-login-youtube-audio-came-with-it-1928)
-- [xDS Deep Dive: Dissecting the &quot;Nervous System&quot; of the Service Mesh](https://dev.to/kanywst/xds-deep-dive-dissecting-the-nervous-system-of-the-service-mesh-3m5i)
-- [Fully Automated Website Day 15: Amber Wall: First Defensive Tank for Rootline Defense](https://dev.to/dtannen/fully-automated-website-day-15-amber-wall-first-defensive-tank-for-rootline-defense-2dik)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a)
+- [Claude Managed Agents - How to Build a GitHub Repo Review Agent](https://dev.to/jayakumar_ramalingam/claude-managed-agents-how-to-build-a-github-repo-review-agent-23nn)
+- [Callbacks in JavaScript: Why They Exist](https://dev.to/anoop-rajoriya/callbacks-in-javascript-why-they-exist-1mi7)
+- [Deterministic Time: Don’t Break Ordering and Replay in Distributed Systems](https://dev.to/kanaria007/deterministic-time-dont-break-ordering-and-replay-in-distributed-systems-4h3l)
+- [Angular injection context lint rules: say goodbye to NG0203 error](https://dev.to/cyrilletuzi/angular-injection-context-lint-rules-say-goodbye-to-ng0203-error-3g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
