@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [strings Command in CTF: Hidden Data Guide](https://dev.to/rudycandy/strings-command-in-ctf-hidden-data-guide-4n9g)
-- [pngcheck in CTF: How to Analyze and Repair PNG Files](https://dev.to/rudycandy/pngcheck-in-ctf-how-to-analyze-and-repair-png-files-84o)
-- [I Think Therefore I Am… A Big Pain in the A$$](https://dev.to/robimbeault/i-think-therefore-i-am-a-big-pain-in-the-a-3a9m)
-- [Event Debouncing with Logic Apps and Azure Table Storage](https://dev.to/imdj/event-debouncing-with-logic-apps-and-azure-table-storage-58cd)
-- [INeedStorages – Fast, Password‑Free Cloud Storage &amp; API](https://dev.to/hitik_patel008_419d6714e/ineedstorages-fast-password-free-cloud-storage-api-4m8d)
+- [A Learnability Gap, Not a Capacity Gap: 353 Parameters vs a 3-Parameter Heuristic](https://dev.to/kit_good_c7f5b7ae0a9cfa0f/a-learnability-gap-not-a-capacity-gap-353-parameters-vs-a-3-parameter-heuristic-1m9f)
+- [I Stopped Using YouTube for Focus Music and My Pomodoro Sessions Got 10x Better](https://dev.to/aralroca/i-stopped-using-youtube-for-focus-music-and-my-pomodoro-sessions-got-10x-better-2p82)
+- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje)
+- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
+- [Implementing WebMCP on a Recruitment Website](https://dev.to/richardbaxter/implementing-webmcp-on-a-recruitment-website-19a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
