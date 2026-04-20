@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Learnability Gap, Not a Capacity Gap: 353 Parameters vs a 3-Parameter Heuristic](https://dev.to/kit_good_c7f5b7ae0a9cfa0f/a-learnability-gap-not-a-capacity-gap-353-parameters-vs-a-3-parameter-heuristic-1m9f)
-- [I Stopped Using YouTube for Focus Music and My Pomodoro Sessions Got 10x Better](https://dev.to/aralroca/i-stopped-using-youtube-for-focus-music-and-my-pomodoro-sessions-got-10x-better-2p82)
-- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje)
-- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
-- [Implementing WebMCP on a Recruitment Website](https://dev.to/richardbaxter/implementing-webmcp-on-a-recruitment-website-19a)
+- [The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don&#39;t Tell You in the Documentation](https://dev.to/kevinten10/the-brutal-truth-about-using-ai-for-my-personal-knowledge-base-what-they-dont-tell-you-in-the-26jc)
+- [Reach your home Mac from anywhere with Tailscale &lpar;so Claude Code can come with you&rpar;](https://dev.to/jagafarm/reach-your-home-mac-from-anywhere-with-tailscale-so-claude-code-can-come-with-you-1077)
+- [From Hello World to Production: My Brutal Journey with BRAG AI Agent Development](https://dev.to/kevinten10/from-hello-world-to-production-my-brutal-journey-with-brag-ai-agent-development-1nb4)
+- [WhatsApp Bot for Business 2026 — $1K-$4K &lpar;50+ Real Builds&rpar;](https://dev.to/achiya-automation/whatsapp-bot-for-business-2026-1k-4k-50-real-builds-ba4)
+- [Cursor Rules for TypeScript: 6 Rules That Make AI Write Type-Safe TypeScript](https://dev.to/olivia_craft/cursor-rules-for-typescript-6-rules-that-make-ai-write-type-safe-typescript-5em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
