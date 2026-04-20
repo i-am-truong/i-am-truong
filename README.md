@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Product.](https://dev.to/praneetaprakash/how-i-product-aec)
-- [How I cut my Claude Code bill 20 with a BYOK proxy &lpar;and what I learned about token economics&rpar;](https://dev.to/patl4588/how-i-cut-my-claude-code-bill-20-with-a-byok-proxy-and-what-i-learned-about-token-economics-1plc)
-- [I scanned the top 20 npm packages. Everyone passed CVE checks, but here&#39;s what the static analysis found](https://dev.to/rjcuff/i-scanned-the-top-20-npm-packages-everyone-passed-cve-checks-but-heres-what-the-static-analysis-hkg)
-- [Applied Claude: Data Recovery, Agent Orchestration, Real-time Content](https://dev.to/soytuber/applied-claude-data-recovery-agent-orchestration-real-time-content-248e)
-- [ReactJs Performance ~ Virtualization for Large Lists~](https://dev.to/kkr0423/reactjs-performance-virtualization-for-large-lists-1g53)
+- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
+- [Why Pull Requests Go Stale — And Why It&#39;s a Visibility Problem, Not a People Problem](https://dev.to/code-board/why-pull-requests-go-stale-and-why-its-a-visibility-problem-not-a-people-problem-343h)
+- [Privacy-first mind mapping app. Part 0: Motivations and Mind Maps](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-0-motivations-and-mind-maps-4k0m)
+- [The Engineering Capacity Trap: Why Custom Page Builders Stall Product Roadmaps and Drain Engineering Resources](https://dev.to/jasonbiondo/the-engineering-capacity-trap-why-custom-page-builders-stall-product-roadmaps-and-drain-3g8l)
+- [I built a $2/month AI assistant and hosted it myself — here&#39;s the full architecture](https://dev.to/subprime2010/i-built-a-2month-ai-assistant-and-hosted-it-myself-heres-the-full-architecture-28pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
