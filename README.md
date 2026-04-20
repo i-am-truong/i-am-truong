@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Background Tasks: The One Actor in the Codebase and the SIGTERM Bug That Only Broke on Linux](https://dev.to/ivan-magda/background-tasks-the-one-actor-in-the-codebase-and-the-sigterm-bug-that-only-broke-on-linux-4c26)
-- [Setting Up a Next.js Micro Frontend Host App: Complete Guide](https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg)
-- [The 7 Steps We Follow to Ship Production-Ready FlutterFlow Apps](https://dev.to/empiricinfotechllp/the-7-steps-we-follow-to-ship-production-ready-flutterflow-apps-ekm)
-- [Protecting Your macOS: How to Find Exactly Which IPs Are Trying to Attack Your System &lpar;And Stop Them&rpar;](https://dev.to/bhupeshchandrajoshi/protecting-your-macos-how-to-find-exactly-which-ips-are-trying-to-attack-your-system-and-stop-3ink)
-- [150+ regex patterns for Python developers: stop rebuilding the same wheel](https://dev.to/peytongreen_dev/150-regex-patterns-for-python-developers-stop-rebuilding-the-same-wheel-56m4)
+- [Почему мой real-time переводчик для Google Meet работает у вас на ноутбуке, а не на моём сервере](https://dev.to/alexey_grsm/pochiemu-moi-real-time-pierievodchik-dlia-google-meet-rabotaiet-u-vas-na-noutbukie-a-nie-na-moiom-siervierie-4423)
+- [State of Cloud Cost in Indian Mid-Market SaaS 2026 &lpar;research paper — executive summary&rpar;](https://dev.to/aicloudstrategist/state-of-cloud-cost-in-indian-mid-market-saas-2026-research-paper-executive-summary-1i4i)
+- [How IoT Sensors Are Predicting Powdery Mildew Before It Spreads Across Your Vineyard](https://dev.to/promeraki-developments/how-iot-sensors-are-predicting-powdery-mildew-before-it-spreads-across-your-vineyard-4f97)
+- [Microcontroller vs Microprocessor Explained: Differences, Uses &amp; Practical Examples](https://dev.to/no_engine/microcontroller-vs-microprocessor-explained-differences-uses-practical-examples-443)
+- [How to Use APM Tools Effectively](https://dev.to/safdarwahid/how-to-use-apm-tools-effectively-25ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
