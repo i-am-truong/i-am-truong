@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an MCP Server That Helps AI Coding Agents Apply Design Patterns Correctly](https://dev.to/siriuszuo/how-i-built-an-mcp-server-that-helps-ai-coding-agents-apply-design-patterns-correctly-51kf)
-- [Weekend Challenge: Earth Day Edition](https://dev.to/bolgercarol/weekend-challenge-earth-day-edition-2ogp)
-- [Claude Opus 4.7 Field Report: Eight Hours of Autonomous Work](https://dev.to/kai_outputs/claude-opus-47-field-report-eight-hours-of-autonomous-work-10e3)
-- [My AI-Heavy Indie Stack &lpar;Actually Honest Breakdown&rpar;](https://dev.to/kai_outputs/my-ai-heavy-indie-stack-actually-honest-breakdown-2jim)
-- [How I Built My AI Agent Learning Guide from Scratch: The Hard Truths](https://dev.to/kevinten10/how-i-built-my-ai-agent-learning-guide-from-scratch-the-hard-truths-112i)
+- [Arara Watch: a serverless global disaster monitor, developed with technology from Google Gemini, AWS, OpenWeather and NASA.](https://dev.to/isaque21/arara-watch-a-serverless-global-disaster-monitor-developed-with-technology-from-google-gemini-15m9)
+- [I Inherited a 40,000-Line Java File. Here&#39;s What I Found Inside.](https://dev.to/mihaaqarch/i-inherited-a-40000-line-java-file-heres-what-i-found-inside-3514)
+- [4 Engineering Patterns That Cut AI Inference Costs 60–80% Without Touching Output Quality](https://dev.to/ailoitte_sk/4-engineering-patterns-that-cut-ai-inference-costs-60-80-without-touching-output-quality-4g8e)
+- [Building Bloom: How AI-Assisted Development Changed My Workflow](https://dev.to/hemang_murugan_a9b77a329a/building-bloom-how-ai-assisted-development-changed-my-workflow-259i)
+- [I Built a VS Code Extension That Validates VAST XML as You Type](https://dev.to/aleksuix/i-built-a-vs-code-extension-that-validates-vast-xml-as-you-type-2ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
