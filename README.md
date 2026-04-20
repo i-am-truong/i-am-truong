@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Metrics to Meaning: How PaaS Helps Developers Understand Production](https://dev.to/manishmshiva/from-metrics-to-meaning-how-paas-helps-developers-understand-production-2hal)
-- [How I indexed 18,141 polynomial fan curves in Postgres and matched a duty point in 4 ms](https://dev.to/goncharovart/how-i-indexed-18141-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-4-ms-5aim)
-- [How to Publish Markdown to WordPress &lpar;Without Copy-Paste&rpar;](https://dev.to/kfuras/how-to-publish-markdown-to-wordpress-without-copy-paste-3be9)
-- [5 SQL FUNCTIONS EVERY BEGINNER SHOULD KNOW](https://dev.to/cnew_aerospace_85c7b7d3cb/5-sql-functions-every-beginner-should-know-6o6)
-- [Crise des outils API : pourquoi vos outils préférés se dégradent](https://dev.to/antoine_laurentt/crise-des-outils-api-pourquoi-vos-outils-preferes-se-degradent-44f)
+- [Background Tasks: The One Actor in the Codebase and the SIGTERM Bug That Only Broke on Linux](https://dev.to/ivan-magda/background-tasks-the-one-actor-in-the-codebase-and-the-sigterm-bug-that-only-broke-on-linux-4c26)
+- [Setting Up a Next.js Micro Frontend Host App: Complete Guide](https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg)
+- [The 7 Steps We Follow to Ship Production-Ready FlutterFlow Apps](https://dev.to/empiricinfotechllp/the-7-steps-we-follow-to-ship-production-ready-flutterflow-apps-ekm)
+- [Protecting Your macOS: How to Find Exactly Which IPs Are Trying to Attack Your System &lpar;And Stop Them&rpar;](https://dev.to/bhupeshchandrajoshi/protecting-your-macos-how-to-find-exactly-which-ips-are-trying-to-attack-your-system-and-stop-3ink)
+- [150+ regex patterns for Python developers: stop rebuilding the same wheel](https://dev.to/peytongreen_dev/150-regex-patterns-for-python-developers-stop-rebuilding-the-same-wheel-56m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
