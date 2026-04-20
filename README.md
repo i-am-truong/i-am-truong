@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a)
-- [Claude Managed Agents - How to Build a GitHub Repo Review Agent](https://dev.to/jayakumar_ramalingam/claude-managed-agents-how-to-build-a-github-repo-review-agent-23nn)
-- [Callbacks in JavaScript: Why They Exist](https://dev.to/anoop-rajoriya/callbacks-in-javascript-why-they-exist-1mi7)
-- [Deterministic Time: Don’t Break Ordering and Replay in Distributed Systems](https://dev.to/kanaria007/deterministic-time-dont-break-ordering-and-replay-in-distributed-systems-4h3l)
-- [Angular injection context lint rules: say goodbye to NG0203 error](https://dev.to/cyrilletuzi/angular-injection-context-lint-rules-say-goodbye-to-ng0203-error-3g5i)
+- [strings Command in CTF: Hidden Data Guide](https://dev.to/rudycandy/strings-command-in-ctf-hidden-data-guide-4n9g)
+- [pngcheck in CTF: How to Analyze and Repair PNG Files](https://dev.to/rudycandy/pngcheck-in-ctf-how-to-analyze-and-repair-png-files-84o)
+- [I Think Therefore I Am… A Big Pain in the A$$](https://dev.to/robimbeault/i-think-therefore-i-am-a-big-pain-in-the-a-3a9m)
+- [Event Debouncing with Logic Apps and Azure Table Storage](https://dev.to/imdj/event-debouncing-with-logic-apps-and-azure-table-storage-58cd)
+- [INeedStorages – Fast, Password‑Free Cloud Storage &amp; API](https://dev.to/hitik_patel008_419d6714e/ineedstorages-fast-password-free-cloud-storage-api-4m8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
