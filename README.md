@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arara Watch: a serverless global disaster monitor, developed with technology from Google Gemini, AWS, OpenWeather and NASA.](https://dev.to/isaque21/arara-watch-a-serverless-global-disaster-monitor-developed-with-technology-from-google-gemini-15m9)
-- [I Inherited a 40,000-Line Java File. Here&#39;s What I Found Inside.](https://dev.to/mihaaqarch/i-inherited-a-40000-line-java-file-heres-what-i-found-inside-3514)
-- [4 Engineering Patterns That Cut AI Inference Costs 60–80% Without Touching Output Quality](https://dev.to/ailoitte_sk/4-engineering-patterns-that-cut-ai-inference-costs-60-80-without-touching-output-quality-4g8e)
-- [Building Bloom: How AI-Assisted Development Changed My Workflow](https://dev.to/hemang_murugan_a9b77a329a/building-bloom-how-ai-assisted-development-changed-my-workflow-259i)
-- [I Built a VS Code Extension That Validates VAST XML as You Type](https://dev.to/aleksuix/i-built-a-vs-code-extension-that-validates-vast-xml-as-you-type-2ln)
+- [Chatlectify: turn your chat history into a writing style your LLM can reuse](https://dev.to/aditya_tiwari_techo/chatlectify-turn-your-chat-history-into-a-writing-style-your-llm-can-reuse-4d3e)
+- [How to Add Authentication to Any App in Under an Hour &lpar;2026 Guide&rpar;](https://dev.to/aadesh-kumar/how-to-add-authentication-to-any-app-in-under-an-hour-2026-guide-2n8k)
+- [Mastering the SQL Analytical Toolkit](https://dev.to/melody_mulei/mastering-the-sql-analytical-toolkit-2c3g)
+- [How to Optimize React &amp; Next.js Apps for SEO and Rank Faster](https://dev.to/alamin60/how-to-optimize-react-nextjs-apps-for-seo-and-rank-faster-lco)
+- [Introducing KyberSwap MCP](https://dev.to/merlinmerlin/introducing-kyberswap-mcp-pc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
