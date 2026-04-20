@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arquitectura Hexagonal con Spring Boot y Angular: lo que aprendí aplicándola en producción](https://dev.to/davidcreat/arquitectura-hexagonal-con-spring-boot-y-angular-lo-que-aprendi-aplicandola-en-produccion-4hid)
-- [The Unexpected Benefits of Knowledge Hoarding: What Two Years with Papers Taught Me About Information Addiction](https://dev.to/kevinten10/the-unexpected-benefits-of-knowledge-hoarding-what-two-years-with-papers-taught-me-about-46l)
-- [AgentCore - The Foundation of Agentic AI Systems](https://dev.to/darrenbro/agentcore-the-foundation-of-agentic-ai-systems-n30)
-- [How I got out of dependency hell with Docker &lpar;SpiderFoot OSINT lab&rpar;](https://dev.to/muzasio/how-i-got-out-of-dependency-hell-with-docker-spiderfoot-osint-lab-5e6d)
-- [How to Add Link Previews to Any App in One Line of Code](https://dev.to/bigyankarki/how-to-add-link-previews-to-any-app-in-one-line-of-code-28l0)
+- [How I Product.](https://dev.to/praneetaprakash/how-i-product-aec)
+- [How I cut my Claude Code bill 20 with a BYOK proxy &lpar;and what I learned about token economics&rpar;](https://dev.to/patl4588/how-i-cut-my-claude-code-bill-20-with-a-byok-proxy-and-what-i-learned-about-token-economics-1plc)
+- [I scanned the top 20 npm packages. Everyone passed CVE checks, but here&#39;s what the static analysis found](https://dev.to/rjcuff/i-scanned-the-top-20-npm-packages-everyone-passed-cve-checks-but-heres-what-the-static-analysis-hkg)
+- [Applied Claude: Data Recovery, Agent Orchestration, Real-time Content](https://dev.to/soytuber/applied-claude-data-recovery-agent-orchestration-real-time-content-248e)
+- [ReactJs Performance ~ Virtualization for Large Lists~](https://dev.to/kkr0423/reactjs-performance-virtualization-for-large-lists-1g53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
