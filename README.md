@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Patenting Your ML Pipeline: A Software Engineer&#39;s Guide to USPTO Flowcharts](https://dev.to/local_ai_28441e061d716cb1/patenting-your-ml-pipeline-a-software-engineers-guide-to-uspto-flowcharts-43nj)
-- [A Practical Guide to nylas webhook delete](https://dev.to/qasim157/a-practical-guide-to-nylas-webhook-delete-4efb)
-- [nylas webhook update for Developers — Quick Reference](https://dev.to/qasim157/nylas-webhook-update-for-developers-quick-reference-4am1)
-- [Hands-On with nylas webhook test send: Send a test webhook event to a URL](https://dev.to/qasim157/hands-on-with-nylas-webhook-test-send-send-a-test-webhook-event-to-a-url-2ech)
-- [List all available webhook trigger types from the Command Line](https://dev.to/qasim157/list-all-available-webhook-trigger-types-from-the-command-line-445a)
+- [5 Open Source Tools That Save Me 10 Hours Every Week](https://dev.to/_200fbc38096d6a856de30/5-open-source-tools-that-save-me-10-hours-every-week-4ee7)
+- [The Scoring Gap: What a Carnival Shooter Teaches Us About Real Design](https://dev.to/sam_novak_574b07811e18495/the-scoring-gap-what-a-carnival-shooter-teaches-us-about-real-design-3k2c)
+- [From site photos to submission-ready PDFs: I built a local-first app with Expo and React Native](https://dev.to/_b1c71b38247f99fd7e95f/from-site-photos-to-submission-ready-pdfs-i-built-a-local-first-app-with-expo-and-react-native-3ae4)
+- [Koko Eating Banana](https://dev.to/we_are_broken_compilers/koko-eating-banana-33ag)
+- [Building Dashboard: A Beginner&#39;s Case Study with E‑commerce Data](https://dev.to/yaw_baffoe/building-dashboard-a-beginners-case-study-with-e-commerce-data-dg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
