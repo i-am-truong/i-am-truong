@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Logger and Validator with TypeScript Decorators &lpar;Like NestJS&rpar;](https://dev.to/malloc72p/build-a-logger-and-validator-with-typescript-decorators-like-nestjs-376n)
-- [I Made a CLI That Talks to Any Smart Contract in Plain English](https://dev.to/pavelespitia/i-made-a-cli-that-talks-to-any-smart-contract-in-plain-english-1hoi)
-- [Stop Coding, Start Drawing: Butterfly CSS v4.2 🦋product hunt launch today](https://dev.to/butterflycss/stop-coding-start-drawing-introducing-butterfly-css-v42-1o1j)
-- [Rails 8 API with Devise-JWT](https://dev.to/rozaru/rails-8-api-with-devise-jwt-2136)
-- [Three Months of AI-Powered Freelancing with ClawX: The Raw Truth](https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70)
+- [How I Built an MCP Server That Helps AI Coding Agents Apply Design Patterns Correctly](https://dev.to/siriuszuo/how-i-built-an-mcp-server-that-helps-ai-coding-agents-apply-design-patterns-correctly-51kf)
+- [Weekend Challenge: Earth Day Edition](https://dev.to/bolgercarol/weekend-challenge-earth-day-edition-2ogp)
+- [Claude Opus 4.7 Field Report: Eight Hours of Autonomous Work](https://dev.to/kai_outputs/claude-opus-47-field-report-eight-hours-of-autonomous-work-10e3)
+- [My AI-Heavy Indie Stack &lpar;Actually Honest Breakdown&rpar;](https://dev.to/kai_outputs/my-ai-heavy-indie-stack-actually-honest-breakdown-2jim)
+- [How I Built My AI Agent Learning Guide from Scratch: The Hard Truths](https://dev.to/kevinten10/how-i-built-my-ai-agent-learning-guide-from-scratch-the-hard-truths-112i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
