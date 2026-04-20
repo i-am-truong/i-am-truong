@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Open Source Tools That Save Me 10 Hours Every Week](https://dev.to/_200fbc38096d6a856de30/5-open-source-tools-that-save-me-10-hours-every-week-4ee7)
-- [The Scoring Gap: What a Carnival Shooter Teaches Us About Real Design](https://dev.to/sam_novak_574b07811e18495/the-scoring-gap-what-a-carnival-shooter-teaches-us-about-real-design-3k2c)
-- [From site photos to submission-ready PDFs: I built a local-first app with Expo and React Native](https://dev.to/_b1c71b38247f99fd7e95f/from-site-photos-to-submission-ready-pdfs-i-built-a-local-first-app-with-expo-and-react-native-3ae4)
-- [Koko Eating Banana](https://dev.to/we_are_broken_compilers/koko-eating-banana-33ag)
-- [Building Dashboard: A Beginner&#39;s Case Study with E‑commerce Data](https://dev.to/yaw_baffoe/building-dashboard-a-beginners-case-study-with-e-commerce-data-dg8)
+- [MovieSync: Redefining Intermissions with Live Crowd Data](https://dev.to/koushik_raghavan_15bce601/moviesync-redefining-intermissions-with-live-crowd-data-5c3g)
+- [Construindo um explorador de rede societária com grafos em Python](https://dev.to/pedroparker/construindo-um-explorador-de-rede-societaria-com-grafos-em-python-jck)
+- [I touched X11 for the first time in 30 years to run wrangler login. YouTube audio came with it.](https://dev.to/kusnaware/i-touched-x11-for-the-first-time-in-30-years-to-run-wrangler-login-youtube-audio-came-with-it-1928)
+- [xDS Deep Dive: Dissecting the &quot;Nervous System&quot; of the Service Mesh](https://dev.to/kanywst/xds-deep-dive-dissecting-the-nervous-system-of-the-service-mesh-3m5i)
+- [Fully Automated Website Day 15: Amber Wall: First Defensive Tank for Rootline Defense](https://dev.to/dtannen/fully-automated-website-day-15-amber-wall-first-defensive-tank-for-rootline-defense-2dik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
