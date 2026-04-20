@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chatlectify: turn your chat history into a writing style your LLM can reuse](https://dev.to/aditya_tiwari_techo/chatlectify-turn-your-chat-history-into-a-writing-style-your-llm-can-reuse-4d3e)
-- [How to Add Authentication to Any App in Under an Hour &lpar;2026 Guide&rpar;](https://dev.to/aadesh-kumar/how-to-add-authentication-to-any-app-in-under-an-hour-2026-guide-2n8k)
-- [Mastering the SQL Analytical Toolkit](https://dev.to/melody_mulei/mastering-the-sql-analytical-toolkit-2c3g)
-- [How to Optimize React &amp; Next.js Apps for SEO and Rank Faster](https://dev.to/alamin60/how-to-optimize-react-nextjs-apps-for-seo-and-rank-faster-lco)
-- [Introducing KyberSwap MCP](https://dev.to/merlinmerlin/introducing-kyberswap-mcp-pc7)
+- [From Metrics to Meaning: How PaaS Helps Developers Understand Production](https://dev.to/manishmshiva/from-metrics-to-meaning-how-paas-helps-developers-understand-production-2hal)
+- [How I indexed 18,141 polynomial fan curves in Postgres and matched a duty point in 4 ms](https://dev.to/goncharovart/how-i-indexed-18141-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-4-ms-5aim)
+- [How to Publish Markdown to WordPress &lpar;Without Copy-Paste&rpar;](https://dev.to/kfuras/how-to-publish-markdown-to-wordpress-without-copy-paste-3be9)
+- [5 SQL FUNCTIONS EVERY BEGINNER SHOULD KNOW](https://dev.to/cnew_aerospace_85c7b7d3cb/5-sql-functions-every-beginner-should-know-6o6)
+- [Crise des outils API : pourquoi vos outils préférés se dégradent](https://dev.to/antoine_laurentt/crise-des-outils-api-pourquoi-vos-outils-preferes-se-degradent-44f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
