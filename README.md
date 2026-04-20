@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don&#39;t Tell You in the Documentation](https://dev.to/kevinten10/the-brutal-truth-about-using-ai-for-my-personal-knowledge-base-what-they-dont-tell-you-in-the-26jc)
-- [Reach your home Mac from anywhere with Tailscale &lpar;so Claude Code can come with you&rpar;](https://dev.to/jagafarm/reach-your-home-mac-from-anywhere-with-tailscale-so-claude-code-can-come-with-you-1077)
-- [From Hello World to Production: My Brutal Journey with BRAG AI Agent Development](https://dev.to/kevinten10/from-hello-world-to-production-my-brutal-journey-with-brag-ai-agent-development-1nb4)
-- [WhatsApp Bot for Business 2026 — $1K-$4K &lpar;50+ Real Builds&rpar;](https://dev.to/achiya-automation/whatsapp-bot-for-business-2026-1k-4k-50-real-builds-ba4)
-- [Cursor Rules for TypeScript: 6 Rules That Make AI Write Type-Safe TypeScript](https://dev.to/olivia_craft/cursor-rules-for-typescript-6-rules-that-make-ai-write-type-safe-typescript-5em)
+- [Arquitectura Hexagonal con Spring Boot y Angular: lo que aprendí aplicándola en producción](https://dev.to/davidcreat/arquitectura-hexagonal-con-spring-boot-y-angular-lo-que-aprendi-aplicandola-en-produccion-4hid)
+- [The Unexpected Benefits of Knowledge Hoarding: What Two Years with Papers Taught Me About Information Addiction](https://dev.to/kevinten10/the-unexpected-benefits-of-knowledge-hoarding-what-two-years-with-papers-taught-me-about-46l)
+- [AgentCore - The Foundation of Agentic AI Systems](https://dev.to/darrenbro/agentcore-the-foundation-of-agentic-ai-systems-n30)
+- [How I got out of dependency hell with Docker &lpar;SpiderFoot OSINT lab&rpar;](https://dev.to/muzasio/how-i-got-out-of-dependency-hell-with-docker-spiderfoot-osint-lab-5e6d)
+- [How to Add Link Previews to Any App in One Line of Code](https://dev.to/bigyankarki/how-to-add-link-previews-to-any-app-in-one-line-of-code-28l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
