@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
-- [Why Pull Requests Go Stale — And Why It&#39;s a Visibility Problem, Not a People Problem](https://dev.to/code-board/why-pull-requests-go-stale-and-why-its-a-visibility-problem-not-a-people-problem-343h)
-- [Privacy-first mind mapping app. Part 0: Motivations and Mind Maps](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-0-motivations-and-mind-maps-4k0m)
-- [The Engineering Capacity Trap: Why Custom Page Builders Stall Product Roadmaps and Drain Engineering Resources](https://dev.to/jasonbiondo/the-engineering-capacity-trap-why-custom-page-builders-stall-product-roadmaps-and-drain-3g8l)
-- [I built a $2/month AI assistant and hosted it myself — here&#39;s the full architecture](https://dev.to/subprime2010/i-built-a-2month-ai-assistant-and-hosted-it-myself-heres-the-full-architecture-28pc)
+- [How to Write Better Prompts for Bolt, Lovable, and Cursor](https://dev.to/jakay/how-to-write-better-prompts-for-bolt-lovable-and-cursor-do1)
+- [Why AI Systems Fail in Production - And How to Fix It](https://dev.to/randomchaos/why-ai-systems-fail-in-production-and-how-to-fix-it-3obe)
+- [HTB Lame - NO Metasploit Walkthrough](https://dev.to/micheaol/htb-lame-no-metasploit-walkthrough-1g34)
+- [From Knowledge Hoarding to Business Weapon: How My &quot;Second Brain&quot; Actually Made Money](https://dev.to/kevinten10/from-knowledge-hoarding-to-business-weapon-how-my-second-brain-actually-made-money-5gnd)
+- [We Open Sourced the Djowda Platform — Here Are 6 Challenges for the Community](https://dev.to/djowda/we-open-sourced-the-djowda-platform-here-are-6-challenges-for-the-community-38op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
