@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Почему мой real-time переводчик для Google Meet работает у вас на ноутбуке, а не на моём сервере](https://dev.to/alexey_grsm/pochiemu-moi-real-time-pierievodchik-dlia-google-meet-rabotaiet-u-vas-na-noutbukie-a-nie-na-moiom-siervierie-4423)
-- [State of Cloud Cost in Indian Mid-Market SaaS 2026 &lpar;research paper — executive summary&rpar;](https://dev.to/aicloudstrategist/state-of-cloud-cost-in-indian-mid-market-saas-2026-research-paper-executive-summary-1i4i)
-- [How IoT Sensors Are Predicting Powdery Mildew Before It Spreads Across Your Vineyard](https://dev.to/promeraki-developments/how-iot-sensors-are-predicting-powdery-mildew-before-it-spreads-across-your-vineyard-4f97)
-- [Microcontroller vs Microprocessor Explained: Differences, Uses &amp; Practical Examples](https://dev.to/no_engine/microcontroller-vs-microprocessor-explained-differences-uses-practical-examples-443)
-- [How to Use APM Tools Effectively](https://dev.to/safdarwahid/how-to-use-apm-tools-effectively-25ab)
+- [Patenting Your ML Pipeline: A Software Engineer&#39;s Guide to USPTO Flowcharts](https://dev.to/local_ai_28441e061d716cb1/patenting-your-ml-pipeline-a-software-engineers-guide-to-uspto-flowcharts-43nj)
+- [A Practical Guide to nylas webhook delete](https://dev.to/qasim157/a-practical-guide-to-nylas-webhook-delete-4efb)
+- [nylas webhook update for Developers — Quick Reference](https://dev.to/qasim157/nylas-webhook-update-for-developers-quick-reference-4am1)
+- [Hands-On with nylas webhook test send: Send a test webhook event to a URL](https://dev.to/qasim157/hands-on-with-nylas-webhook-test-send-send-a-test-webhook-event-to-a-url-2ech)
+- [List all available webhook trigger types from the Command Line](https://dev.to/qasim157/list-all-available-webhook-trigger-types-from-the-command-line-445a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
