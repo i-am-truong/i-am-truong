@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Linux Development - Part 6](https://dev.to/cangulmez/embedded-linux-development-part-6-122k)
-- [Building a Lead Capture Form with n8n, Notion, and Slack](https://dev.to/hackceleration/building-a-lead-capture-form-with-n8n-notion-and-slack-51ag)
-- [Why interviews expose your JS gaps](https://dev.to/samareshdas/why-interviews-expose-your-js-gaps-1h35)
-- [How Aave V4’s &quot;Design Choice&quot; Turned Into a $195M Liquidation Deadlock &lpar;KelpDAO/rsETH Case&rpar;](https://dev.to/rdin777/how-aave-v4s-design-choice-turned-into-a-195m-liquidation-deadlock-kelpdaorseth-case-57kk)
-- [CQRS in Go — Part 2: side-effect-free command handlers](https://dev.to/ohugonnot/cqrs-in-go-part-2-side-effect-free-command-handlers-3ocd)
+- [AI in 2026: The Year Intelligence Became Ambient](https://dev.to/jayashree_ramesh_d9402f3c/ai-in-2026-the-year-intelligence-became-ambient-4b5k)
+- [I Called an LLM 16 Times — Cheaper and Better Than Once &lpar;$0.005/run&rpar;](https://dev.to/otsuki_chihiro_60cd173322/i-called-an-llm-16-times-cheaper-and-better-than-once-0005runpublished-true-2igo)
+- [I leaked my GH token to Claude](https://dev.to/svn_arv/i-leaked-my-gh-token-to-claude-39dh)
+- [Here are the strategies I used to get my first 1000 users on my app as an indie app developer](https://dev.to/hotdogerino/here-are-the-strategies-i-used-to-get-my-first-1000-users-on-my-app-as-an-indie-app-developer-32b2)
+- [A practical guide to getting comfortable with AI coding tools](https://dev.to/liatmoss/a-practical-guide-to-getting-comfortable-with-ai-coding-tools-1noo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
