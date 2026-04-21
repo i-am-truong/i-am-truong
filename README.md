@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI in 2026: The Year Intelligence Became Ambient](https://dev.to/jayashree_ramesh_d9402f3c/ai-in-2026-the-year-intelligence-became-ambient-4b5k)
-- [I Called an LLM 16 Times — Cheaper and Better Than Once &lpar;$0.005/run&rpar;](https://dev.to/otsuki_chihiro_60cd173322/i-called-an-llm-16-times-cheaper-and-better-than-once-0005runpublished-true-2igo)
-- [I leaked my GH token to Claude](https://dev.to/svn_arv/i-leaked-my-gh-token-to-claude-39dh)
-- [Here are the strategies I used to get my first 1000 users on my app as an indie app developer](https://dev.to/hotdogerino/here-are-the-strategies-i-used-to-get-my-first-1000-users-on-my-app-as-an-indie-app-developer-32b2)
-- [A practical guide to getting comfortable with AI coding tools](https://dev.to/liatmoss/a-practical-guide-to-getting-comfortable-with-ai-coding-tools-1noo)
+- [Why is port 3000 always in use?](https://dev.to/arda_cankrko_00ac576b0/why-is-port-3000-always-in-use-2hk9)
+- [Getting Data from Multiple Sources in Power BI: Building the Foundation of a Data Analytics Career](https://dev.to/dreez/getting-data-from-multiple-sources-in-power-bi-building-the-foundation-of-a-data-analytics-career-2hha)
+- [7 Hidden Burp Suite Features That Save Hours of Manual Testing &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/7-hidden-burp-suite-features-that-save-hours-of-manual-testing-2026-1ghk)
+- [Claude Opus 4.7 is on Bedrock. Amazon just bet $25 billion it&#39;s the future. Here&#39;s what engineers need to know.](https://dev.to/ajbuilds/claude-opus-47-is-on-bedrock-amazon-just-bet-25-billion-its-the-future-heres-what-engineers-4ec8)
+- [Design by Contract in Go: Panics, Preconditions, and checkContracts&lpar;&rpar;](https://dev.to/bala_paranj_059d338e44e7e/design-by-contract-in-go-panics-preconditions-and-checkcontracts-503g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
