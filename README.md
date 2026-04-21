@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure AI Engineer vs Data Scientist: Understanding the Differences](https://dev.to/datta_kharad_3fd1383b5036/azure-ai-engineer-vs-data-scientist-understanding-the-differences-3i3b)
-- [System Design Fundamentals - Latency, Throughput, Availability, Consistency, Redundancy, Replication, and Congestion Explained](https://dev.to/imsushant12/system-design-fundamentals-latency-throughput-availability-consistency-redundancy-18np)
-- [Scrape vs Crawl vs Map: Picking the Right Anakin API for the Job](https://dev.to/tokozen/scrape-vs-crawl-vs-map-picking-the-right-anakin-api-for-the-job-4ha8)
-- [The Shift: From Forge to Cloud-Native](https://dev.to/supto_khan/the-shift-from-forge-to-cloud-native-2k61)
-- [How We Build High-Performance Animated Websites Without Killing Page Speed](https://dev.to/pixel_mosaic/how-we-build-high-performance-animated-websites-without-killing-page-speed-1pd6)
+- [AWS Generative AI vs Google Cloud AI: Key Differences Explained](https://dev.to/datta_kharad_3fd1383b5036/aws-generative-ai-vs-google-cloud-ai-key-differences-explained-33mi)
+- [AI in enterprise SDLC only works when Context, Constraints, and Collaboration are engineered](https://dev.to/afzalbshaikh/ai-in-enterprise-sdlc-only-works-when-context-constraints-and-collaboration-are-engineered-m64)
+- [Building tinymon — fair-priced error tracking, waitlist now open](https://dev.to/tinymon/building-tinymon-fair-priced-error-tracking-waitlist-now-open-e9l)
+- [Raising My Site’s Agent Readiness in NGINX/NJS: Content Signals and Markdown Negotiation](https://dev.to/kraftdorian/raising-my-sites-agent-readiness-in-nginxnjs-content-signals-and-markdown-negotiation-229e)
+- [Building the npm + Snyk + Jest for AI Agent Skills in 7 Days &lpar;Opus 4.7 Hackathon, Day 0&rpar;](https://dev.to/aabyzov/building-the-npm-snyk-jest-for-ai-agent-skills-in-7-days-opus-47-hackathon-day-0-254n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
