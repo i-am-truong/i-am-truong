@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Generative AI vs Google Cloud AI: Key Differences Explained](https://dev.to/datta_kharad_3fd1383b5036/aws-generative-ai-vs-google-cloud-ai-key-differences-explained-33mi)
-- [AI in enterprise SDLC only works when Context, Constraints, and Collaboration are engineered](https://dev.to/afzalbshaikh/ai-in-enterprise-sdlc-only-works-when-context-constraints-and-collaboration-are-engineered-m64)
-- [Building tinymon — fair-priced error tracking, waitlist now open](https://dev.to/tinymon/building-tinymon-fair-priced-error-tracking-waitlist-now-open-e9l)
-- [Raising My Site’s Agent Readiness in NGINX/NJS: Content Signals and Markdown Negotiation](https://dev.to/kraftdorian/raising-my-sites-agent-readiness-in-nginxnjs-content-signals-and-markdown-negotiation-229e)
-- [Building the npm + Snyk + Jest for AI Agent Skills in 7 Days &lpar;Opus 4.7 Hackathon, Day 0&rpar;](https://dev.to/aabyzov/building-the-npm-snyk-jest-for-ai-agent-skills-in-7-days-opus-47-hackathon-day-0-254n)
+- [Embedded Linux Development - Part 6](https://dev.to/cangulmez/embedded-linux-development-part-6-122k)
+- [Building a Lead Capture Form with n8n, Notion, and Slack](https://dev.to/hackceleration/building-a-lead-capture-form-with-n8n-notion-and-slack-51ag)
+- [Why interviews expose your JS gaps](https://dev.to/samareshdas/why-interviews-expose-your-js-gaps-1h35)
+- [How Aave V4’s &quot;Design Choice&quot; Turned Into a $195M Liquidation Deadlock &lpar;KelpDAO/rsETH Case&rpar;](https://dev.to/rdin777/how-aave-v4s-design-choice-turned-into-a-195m-liquidation-deadlock-kelpdaorseth-case-57kk)
+- [CQRS in Go — Part 2: side-effect-free command handlers](https://dev.to/ohugonnot/cqrs-in-go-part-2-side-effect-free-command-handlers-3ocd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
