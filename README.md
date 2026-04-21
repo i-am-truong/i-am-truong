@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is port 3000 always in use?](https://dev.to/arda_cankrko_00ac576b0/why-is-port-3000-always-in-use-2hk9)
-- [Getting Data from Multiple Sources in Power BI: Building the Foundation of a Data Analytics Career](https://dev.to/dreez/getting-data-from-multiple-sources-in-power-bi-building-the-foundation-of-a-data-analytics-career-2hha)
-- [7 Hidden Burp Suite Features That Save Hours of Manual Testing &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/7-hidden-burp-suite-features-that-save-hours-of-manual-testing-2026-1ghk)
-- [Claude Opus 4.7 is on Bedrock. Amazon just bet $25 billion it&#39;s the future. Here&#39;s what engineers need to know.](https://dev.to/ajbuilds/claude-opus-47-is-on-bedrock-amazon-just-bet-25-billion-its-the-future-heres-what-engineers-4ec8)
-- [Design by Contract in Go: Panics, Preconditions, and checkContracts&lpar;&rpar;](https://dev.to/bala_paranj_059d338e44e7e/design-by-contract-in-go-panics-preconditions-and-checkcontracts-503g)
+- [Shift-Left Chain Enforcement: Blocking Vulnerability Chains at Commit Time](https://dev.to/eldor_zufarov_1966/shift-left-chain-enforcement-blocking-vulnerability-chains-at-commit-time-4oac)
+- [The Model Context Protocol &lpar;MCP&rpar;: Bridging AI and the World](https://dev.to/dharshan_h/the-model-context-protocol-mcp-bridging-ai-and-the-world-3fl7)
+- [Building a Searchable Card-Game Glossary with Static HTML, Lightweight JS and SEO Pages](https://dev.to/ace_rei/building-a-searchable-card-game-glossary-with-static-html-lightweight-js-and-seo-pages-25hm)
+- [Gnoke flatJSON — My JSON detection logic is now a library you can use.](https://dev.to/edmundsparrow/gnoke-flatjson-my-json-detection-logic-is-now-a-library-you-can-use-21jg)
+- [MCP Security Is Broken](https://dev.to/hermetic3243/mcp-security-is-broken-3m3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
