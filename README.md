@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Ship systemd Logs to CloudWatch for $0 &lpar;Django + Celery on EC2&rpar;](https://dev.to/hemanth_22799aec3766938fd/how-i-ship-systemd-logs-to-cloudwatch-for-0-django-celery-on-ec2-1844)
-- [Turn Your YouTube Videos Into a Live FAQ For Your Website](https://dev.to/theindianappguy/turn-your-youtube-videos-into-a-live-faq-for-your-website-1hg9)
-- [Entendendo Render no React](https://dev.to/caiporas_lab/entendendo-render-no-react-54ib)
-- [I got tired of my GitHub profile card 429ing, so I built an alternative](https://dev.to/shay_manor_428011eaece64a/i-got-tired-of-my-github-profile-card-429ing-so-i-built-an-alternative-2jge)
-- [Как создать блог на Astro: установка, MDX, Content Collections](https://dev.to/_vproger_/kak-sozdat-blogh-na-astro-ustanovka-mdx-content-collections-3000)
+- [Your C4 Diagrams Are Lying to You &lpar;And AI Coding Is Making It Worse&rpar;](https://dev.to/uxxu/your-c4-diagrams-are-lying-to-you-and-ai-coding-is-making-it-worse-2198)
+- [CachyOS Kernel 7.0 Review on Ryzen 5 5500U &lpar;Hyprland Performance Test&rpar;](https://dev.to/nishrico0098/cachyos-kernel-70-review-on-ryzen-5-5500u-hyprland-performance-test-2peh)
+- [How to Capture Console Errors and Network Requests in JavaScript](https://dev.to/issuecapture/how-to-capture-console-errors-and-network-requests-in-javascript-1jn6)
+- [Migrating from Open Exchange Rates to AllRatesToday: A Developer&#39;s Guide](https://dev.to/chathuranga_basnayaka_d50/migrating-from-open-exchange-rates-to-allratestoday-a-developers-guide-38o1)
+- [Understanding Transformers Part 10: Final Step in Encoding](https://dev.to/rijultp/understanding-transformers-part-10-final-step-in-encoding-4f55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
