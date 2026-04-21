@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Master Destructuring in One Go](https://dev.to/kunal_dev/destructuring-in-javascript-4k8h)
-- [Indexing Strategies for Faster Database Queries](https://dev.to/safdarwahid/indexing-strategies-for-faster-database-queries-2epf)
-- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
-- [nylas contacts groups list for Developers — Quick Reference](https://dev.to/qasim157/nylas-contacts-groups-list-for-developers-quick-reference-512k)
-- [Working with nylas contacts list: List all contacts from your address book](https://dev.to/qasim157/working-with-nylas-contacts-list-list-all-contacts-from-your-address-book-190p)
+- [How I Ship systemd Logs to CloudWatch for $0 &lpar;Django + Celery on EC2&rpar;](https://dev.to/hemanth_22799aec3766938fd/how-i-ship-systemd-logs-to-cloudwatch-for-0-django-celery-on-ec2-1844)
+- [Turn Your YouTube Videos Into a Live FAQ For Your Website](https://dev.to/theindianappguy/turn-your-youtube-videos-into-a-live-faq-for-your-website-1hg9)
+- [Entendendo Render no React](https://dev.to/caiporas_lab/entendendo-render-no-react-54ib)
+- [I got tired of my GitHub profile card 429ing, so I built an alternative](https://dev.to/shay_manor_428011eaece64a/i-got-tired-of-my-github-profile-card-429ing-so-i-built-an-alternative-2jge)
+- [Как создать блог на Astro: установка, MDX, Content Collections](https://dev.to/_vproger_/kak-sozdat-blogh-na-astro-ustanovka-mdx-content-collections-3000)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
