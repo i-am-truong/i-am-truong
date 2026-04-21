@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a No-Code AI Agent in 30 Minutes Using n8n + Claude &lpar;Full Walkthrough&rpar;](https://dev.to/dextralabs/build-a-no-code-ai-agent-in-30-minutes-using-n8n-claude-full-walkthrough-3cid)
-- [I didn&#39;t set out to build a sustainability tool...](https://dev.to/jgravelle/i-didnt-set-out-to-build-a-sustainability-tool-cbh)
-- [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli)
-- [The AI Coding Comprehension Gap: Why Faster Isn&#39;t Always Better](https://dev.to/sarkar_305d0d2ab4f21cebb7/the-ai-coding-comprehension-gap-why-faster-isnt-always-better-140f)
-- [Understanding Recursion in JavaScript — Explained in Simple Words](https://dev.to/saurav_dev_2022/understanding-recursion-in-javascript-explained-in-simple-words-3bc0)
+- [El 44% de Deezer es IA. Corrí git blame sobre mis commits y encontré algo incómodo](https://dev.to/jtorchia/el-44-de-deezer-es-ia-corri-git-blame-sobre-mis-commits-y-encontre-algo-incomodo-al0)
+- [Delete Files in PowerShell: Remove-Item with Safety](https://dev.to/arnostorg/delete-files-in-powershell-remove-item-with-safety-3p5j)
+- [Lauren Bonvini on Building Confidence Through a More Practical Approach to Stage Fright](https://dev.to/lauren_bonvini/lauren-bonvini-on-building-confidence-through-a-more-practical-approach-to-stage-fright-5h05)
+- [A Developer Built an Open-Source Dropbox on a Dare. Here&#39;s How to Self-Host It.](https://dev.to/alphasec/a-developer-built-an-open-source-dropbox-on-a-dare-heres-how-to-self-host-it-39mi)
+- [Mastering vem Tasks: Create, Prioritize, Implement, and Ship — A Complete Guide](https://dev.to/vem/mastering-vem-tasks-create-prioritize-implement-and-ship-a-complete-guide-4a41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
