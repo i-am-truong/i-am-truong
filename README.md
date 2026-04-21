@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [El 44% de Deezer es IA. Corrí git blame sobre mis commits y encontré algo incómodo](https://dev.to/jtorchia/el-44-de-deezer-es-ia-corri-git-blame-sobre-mis-commits-y-encontre-algo-incomodo-al0)
-- [Delete Files in PowerShell: Remove-Item with Safety](https://dev.to/arnostorg/delete-files-in-powershell-remove-item-with-safety-3p5j)
-- [Lauren Bonvini on Building Confidence Through a More Practical Approach to Stage Fright](https://dev.to/lauren_bonvini/lauren-bonvini-on-building-confidence-through-a-more-practical-approach-to-stage-fright-5h05)
-- [A Developer Built an Open-Source Dropbox on a Dare. Here&#39;s How to Self-Host It.](https://dev.to/alphasec/a-developer-built-an-open-source-dropbox-on-a-dare-heres-how-to-self-host-it-39mi)
-- [Mastering vem Tasks: Create, Prioritize, Implement, and Ship — A Complete Guide](https://dev.to/vem/mastering-vem-tasks-create-prioritize-implement-and-ship-a-complete-guide-4a41)
+- [Master Destructuring in One Go](https://dev.to/kunal_dev/destructuring-in-javascript-4k8h)
+- [Indexing Strategies for Faster Database Queries](https://dev.to/safdarwahid/indexing-strategies-for-faster-database-queries-2epf)
+- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
+- [nylas contacts groups list for Developers — Quick Reference](https://dev.to/qasim157/nylas-contacts-groups-list-for-developers-quick-reference-512k)
+- [Working with nylas contacts list: List all contacts from your address book](https://dev.to/qasim157/working-with-nylas-contacts-list-list-all-contacts-from-your-address-book-190p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
