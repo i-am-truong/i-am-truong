@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-54hn)
-- [⏳ Your “Perfect” Decision Today Is a Nightmare Waiting to Happen](https://dev.to/manojsatna31/your-perfect-decision-today-is-a-nightmare-waiting-to-happen-3gg0)
-- [Running k3s on Proxmox: A Multi-Node Cluster with a VM and LXC Worker — The Hard Way and Back](https://dev.to/pendelabhargavasai/running-k3s-on-proxmox-a-multi-node-cluster-with-a-vm-and-lxc-worker-the-hard-way-and-back-1cb4)
-- [Kimi K2.6 vs Claude Opus 4.7: The 88% Cost Advantage](https://dev.to/max_quimby/kimi-k26-vs-claude-opus-47-the-88-cost-advantage-2916)
-- [Building HIPAA-Compliant Software for Dental Practices: What Developers Need to Know](https://dev.to/joegellatly/building-hipaa-compliant-software-for-dental-practices-what-developers-need-to-know-1b48)
+- [Azure AI Engineer vs Data Scientist: Understanding the Differences](https://dev.to/datta_kharad_3fd1383b5036/azure-ai-engineer-vs-data-scientist-understanding-the-differences-3i3b)
+- [System Design Fundamentals - Latency, Throughput, Availability, Consistency, Redundancy, Replication, and Congestion Explained](https://dev.to/imsushant12/system-design-fundamentals-latency-throughput-availability-consistency-redundancy-18np)
+- [Scrape vs Crawl vs Map: Picking the Right Anakin API for the Job](https://dev.to/tokozen/scrape-vs-crawl-vs-map-picking-the-right-anakin-api-for-the-job-4ha8)
+- [The Shift: From Forge to Cloud-Native](https://dev.to/supto_khan/the-shift-from-forge-to-cloud-native-2k61)
+- [How We Build High-Performance Animated Websites Without Killing Page Speed](https://dev.to/pixel_mosaic/how-we-build-high-performance-animated-websites-without-killing-page-speed-1pd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
