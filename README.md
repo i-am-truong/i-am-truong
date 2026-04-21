@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HoloCard UI: Reimagining Web Interfaces with Native Browser Technologies](https://dev.to/ciprianlocalpulse/holocard-ui-reimagining-web-interfaces-with-native-browser-technologies-5c77)
-- [Agent Package Manager &lpar;APM&rpar;: A DevOps Guide to Reproducible AI Agents](https://dev.to/pwd9000/agent-package-manager-apm-a-devops-guide-to-reproducible-ai-agents-4c25)
-- [Cutting our CI time in half thanks to custom AWS runners](https://dev.to/wecasa/cutting-our-ci-time-in-half-thanks-to-custom-aws-runners-390j)
-- [Migrating Yarn 1 to 4 in an Nx Monorepo](https://dev.to/wecasa/migrating-yarn-1-to-4-in-an-nx-monorepo-5bc2)
-- [MCP Access Governance Across Teams, Tenants, and Third-Party Integrations](https://dev.to/kuldeep_paul/mcp-access-governance-across-teams-tenants-and-third-party-integrations-1ike)
+- [Build a No-Code AI Agent in 30 Minutes Using n8n + Claude &lpar;Full Walkthrough&rpar;](https://dev.to/dextralabs/build-a-no-code-ai-agent-in-30-minutes-using-n8n-claude-full-walkthrough-3cid)
+- [I didn&#39;t set out to build a sustainability tool...](https://dev.to/jgravelle/i-didnt-set-out-to-build-a-sustainability-tool-cbh)
+- [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli)
+- [The AI Coding Comprehension Gap: Why Faster Isn&#39;t Always Better](https://dev.to/sarkar_305d0d2ab4f21cebb7/the-ai-coding-comprehension-gap-why-faster-isnt-always-better-140f)
+- [Understanding Recursion in JavaScript — Explained in Simple Words](https://dev.to/saurav_dev_2022/understanding-recursion-in-javascript-explained-in-simple-words-3bc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
