@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your C4 Diagrams Are Lying to You &lpar;And AI Coding Is Making It Worse&rpar;](https://dev.to/uxxu/your-c4-diagrams-are-lying-to-you-and-ai-coding-is-making-it-worse-2198)
-- [CachyOS Kernel 7.0 Review on Ryzen 5 5500U &lpar;Hyprland Performance Test&rpar;](https://dev.to/nishrico0098/cachyos-kernel-70-review-on-ryzen-5-5500u-hyprland-performance-test-2peh)
-- [How to Capture Console Errors and Network Requests in JavaScript](https://dev.to/issuecapture/how-to-capture-console-errors-and-network-requests-in-javascript-1jn6)
-- [Migrating from Open Exchange Rates to AllRatesToday: A Developer&#39;s Guide](https://dev.to/chathuranga_basnayaka_d50/migrating-from-open-exchange-rates-to-allratestoday-a-developers-guide-38o1)
-- [Understanding Transformers Part 10: Final Step in Encoding](https://dev.to/rijultp/understanding-transformers-part-10-final-step-in-encoding-4f55)
+- [What 1,000+ Developer Posts Told Me About the Biggest Pain Points Right Now](https://dev.to/rehndev/what-1000-developer-posts-told-me-about-the-biggest-pain-points-right-now-ide)
+- [feel i invaded half the world just by coding!](https://dev.to/butterflycss/feel-i-invaded-half-the-world-when-i-see-country-analytics-3cjj)
+- [20. Node.js](https://dev.to/avery_/20-nodejs-11d8)
+- [SQL Window Functions and CTEs](https://dev.to/brian_muriithi/sql-window-functions-and-ctes-m4g)
+- [Please Don’t Throw That Away](https://dev.to/lanternetwork/please-dont-throw-that-away-16jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
