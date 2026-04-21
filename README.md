@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Multi-Tenant SaaS Auth + Billing with Supabase RLS and Stripe Connect](https://dev.to/diven_rastdus_c5af27d68f3/how-i-built-multi-tenant-saas-auth-billing-with-supabase-rls-and-stripe-connect-3h08)
-- [REST - ESTILO ARQUITETURAL](https://dev.to/kamis-0810/rest-estilo-arquitetural-i47)
-- [From Code to Cash: How I Turned My Knowledge Hoarding into a Real Business](https://dev.to/kevinten10/from-code-to-cash-how-i-turned-my-knowledge-hoarding-into-a-real-business-4hkj)
-- [10 Agents, One Credential Nightmare — Solved](https://dev.to/rcsxplatform/10-agents-one-credential-nightmare-solved-26hf)
-- [From PDF Invoices to Formatted Spreadsheets in Two API Calls](https://dev.to/iterationlayer/from-pdf-invoices-to-formatted-spreadsheets-in-two-api-calls-56pm)
+- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-54hn)
+- [⏳ Your “Perfect” Decision Today Is a Nightmare Waiting to Happen](https://dev.to/manojsatna31/your-perfect-decision-today-is-a-nightmare-waiting-to-happen-3gg0)
+- [Running k3s on Proxmox: A Multi-Node Cluster with a VM and LXC Worker — The Hard Way and Back](https://dev.to/pendelabhargavasai/running-k3s-on-proxmox-a-multi-node-cluster-with-a-vm-and-lxc-worker-the-hard-way-and-back-1cb4)
+- [Kimi K2.6 vs Claude Opus 4.7: The 88% Cost Advantage](https://dev.to/max_quimby/kimi-k26-vs-claude-opus-47-the-88-cost-advantage-2916)
+- [Building HIPAA-Compliant Software for Dental Practices: What Developers Need to Know](https://dev.to/joegellatly/building-hipaa-compliant-software-for-dental-practices-what-developers-need-to-know-1b48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
