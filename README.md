@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shift-Left Chain Enforcement: Blocking Vulnerability Chains at Commit Time](https://dev.to/eldor_zufarov_1966/shift-left-chain-enforcement-blocking-vulnerability-chains-at-commit-time-4oac)
-- [The Model Context Protocol &lpar;MCP&rpar;: Bridging AI and the World](https://dev.to/dharshan_h/the-model-context-protocol-mcp-bridging-ai-and-the-world-3fl7)
-- [Building a Searchable Card-Game Glossary with Static HTML, Lightweight JS and SEO Pages](https://dev.to/ace_rei/building-a-searchable-card-game-glossary-with-static-html-lightweight-js-and-seo-pages-25hm)
-- [Gnoke flatJSON — My JSON detection logic is now a library you can use.](https://dev.to/edmundsparrow/gnoke-flatjson-my-json-detection-logic-is-now-a-library-you-can-use-21jg)
-- [MCP Security Is Broken](https://dev.to/hermetic3243/mcp-security-is-broken-3m3d)
+- [HoloCard UI: Reimagining Web Interfaces with Native Browser Technologies](https://dev.to/ciprianlocalpulse/holocard-ui-reimagining-web-interfaces-with-native-browser-technologies-5c77)
+- [Agent Package Manager &lpar;APM&rpar;: A DevOps Guide to Reproducible AI Agents](https://dev.to/pwd9000/agent-package-manager-apm-a-devops-guide-to-reproducible-ai-agents-4c25)
+- [Cutting our CI time in half thanks to custom AWS runners](https://dev.to/wecasa/cutting-our-ci-time-in-half-thanks-to-custom-aws-runners-390j)
+- [Migrating Yarn 1 to 4 in an Nx Monorepo](https://dev.to/wecasa/migrating-yarn-1-to-4-in-an-nx-monorepo-5bc2)
+- [MCP Access Governance Across Teams, Tenants, and Third-Party Integrations](https://dev.to/kuldeep_paul/mcp-access-governance-across-teams-tenants-and-third-party-integrations-1ike)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
