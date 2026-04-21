@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 58th Attempt: When Your &quot;Meta-Promotion&quot; Becomes Your Actual Product](https://dev.to/kevinten10/the-58th-attempt-when-your-meta-promotion-becomes-your-actual-product-1j1c)
-- [Dapper Has 464 Open Issues. I Had My pengdows.crud Codebase Audited Against Every One of Them.](https://dev.to/pengdows/dapper-has-464-open-issues-i-had-my-pengdowscrud-codebase-audited-against-every-one-of-them-25dk)
-- [Evaluating AI Tools for Research: A Framework for Accuracy, Bias, and Trustworthiness](https://dev.to/jasrandhawa/evaluating-ai-tools-for-research-a-framework-for-accuracy-bias-and-trustworthiness-g24)
-- [Secure User Authentication System Using PHP &amp; MySQL](https://dev.to/yasmin_aya_b981502107dd8e/secure-user-authentication-system-using-php-mysql-1j2m)
-- [📜 Event Sourcing Explained Like You&#39;re 5](https://dev.to/esreekarreddy/event-sourcing-explained-like-youre-5-ih9)
+- [Unpopular Opinion: Do not use OpenClaw...not yet.](https://dev.to/francistrdev/unpopular-opinion-do-not-use-openclawnot-yet-5foe)
+- [Next.js 15 &amp; AI Agents: 4 Engineering Hacks to Save Your Production in 2026](https://dev.to/mihokoto/nextjs-15-ai-agents-4-engineering-hacks-to-save-your-production-in-2026-333g)
+- [.gitignore Done Right — What to Ignore, Why, and the Pattern Every Production Codebase Uses](https://dev.to/digvijay_singhrajput/gitignore-done-right-what-to-ignore-why-and-the-pattern-every-production-codebase-uses-23o)
+- [Challenge : 4 System-Level Challenges in Developer Experience &lpar;DevEx&rpar; Design](https://dev.to/priya_sajja_c336921bbda87/challenge-4-system-level-challenges-in-developer-experience-devex-design-2fjl)
+- [Pygame Snake, Pt. 3](https://dev.to/paxfeline/pygame-snake-pt-3-27np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
