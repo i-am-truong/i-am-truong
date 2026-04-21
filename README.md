@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What 1,000+ Developer Posts Told Me About the Biggest Pain Points Right Now](https://dev.to/rehndev/what-1000-developer-posts-told-me-about-the-biggest-pain-points-right-now-ide)
-- [feel i invaded half the world just by coding!](https://dev.to/butterflycss/feel-i-invaded-half-the-world-when-i-see-country-analytics-3cjj)
-- [20. Node.js](https://dev.to/avery_/20-nodejs-11d8)
-- [SQL Window Functions and CTEs](https://dev.to/brian_muriithi/sql-window-functions-and-ctes-m4g)
-- [Please Don’t Throw That Away](https://dev.to/lanternetwork/please-dont-throw-that-away-16jh)
+- [🚀 Open Source: Svelte 5 + GSAP Creative Agency Template](https://dev.to/yusufcengiz/open-source-svelte-5-gsap-creative-agency-template-2e4i)
+- [Search Sofascore from Your Browser&#39;s Address Bar](https://dev.to/kkuj/search-sofascore-from-your-browsers-address-bar-56e0)
+- [Fundamentos de IA moderna: agentes, MCP, skills e orquestração](https://dev.to/mayzaynara/fundamentos-de-ia-moderna-agentes-mcp-skills-e-orquestracao-2136)
+- [Use an Adversarial Model Challenge in Your Opus 4.7 Development Workflow](https://dev.to/heyclos/why-you-need-an-adversarial-model-challenge-in-your-ai-development-workflow-3hce)
+- [The AI Agent Identity Crisis Is Here. The Infrastructure to Solve It Already Exists.](https://dev.to/aaron_schnieder_4563d5d33/the-ai-agent-identity-crisis-is-here-the-infrastructure-to-solve-it-already-exists-35ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
