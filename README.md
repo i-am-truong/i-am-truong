@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Better Prompts for Bolt, Lovable, and Cursor](https://dev.to/jakay/how-to-write-better-prompts-for-bolt-lovable-and-cursor-do1)
-- [Why AI Systems Fail in Production - And How to Fix It](https://dev.to/randomchaos/why-ai-systems-fail-in-production-and-how-to-fix-it-3obe)
-- [HTB Lame - NO Metasploit Walkthrough](https://dev.to/micheaol/htb-lame-no-metasploit-walkthrough-1g34)
-- [From Knowledge Hoarding to Business Weapon: How My &quot;Second Brain&quot; Actually Made Money](https://dev.to/kevinten10/from-knowledge-hoarding-to-business-weapon-how-my-second-brain-actually-made-money-5gnd)
-- [We Open Sourced the Djowda Platform — Here Are 6 Challenges for the Community](https://dev.to/djowda/we-open-sourced-the-djowda-platform-here-are-6-challenges-for-the-community-38op)
+- [How I Built Multi-Tenant SaaS Auth + Billing with Supabase RLS and Stripe Connect](https://dev.to/diven_rastdus_c5af27d68f3/how-i-built-multi-tenant-saas-auth-billing-with-supabase-rls-and-stripe-connect-3h08)
+- [REST - ESTILO ARQUITETURAL](https://dev.to/kamis-0810/rest-estilo-arquitetural-i47)
+- [From Code to Cash: How I Turned My Knowledge Hoarding into a Real Business](https://dev.to/kevinten10/from-code-to-cash-how-i-turned-my-knowledge-hoarding-into-a-real-business-4hkj)
+- [10 Agents, One Credential Nightmare — Solved](https://dev.to/rcsxplatform/10-agents-one-credential-nightmare-solved-26hf)
+- [From PDF Invoices to Formatted Spreadsheets in Two API Calls](https://dev.to/iterationlayer/from-pdf-invoices-to-formatted-spreadsheets-in-two-api-calls-56pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
