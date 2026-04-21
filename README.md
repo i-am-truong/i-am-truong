@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Open Source: Svelte 5 + GSAP Creative Agency Template](https://dev.to/yusufcengiz/open-source-svelte-5-gsap-creative-agency-template-2e4i)
-- [Search Sofascore from Your Browser&#39;s Address Bar](https://dev.to/kkuj/search-sofascore-from-your-browsers-address-bar-56e0)
-- [Fundamentos de IA moderna: agentes, MCP, skills e orquestração](https://dev.to/mayzaynara/fundamentos-de-ia-moderna-agentes-mcp-skills-e-orquestracao-2136)
-- [Use an Adversarial Model Challenge in Your Opus 4.7 Development Workflow](https://dev.to/heyclos/why-you-need-an-adversarial-model-challenge-in-your-ai-development-workflow-3hce)
-- [The AI Agent Identity Crisis Is Here. The Infrastructure to Solve It Already Exists.](https://dev.to/aaron_schnieder_4563d5d33/the-ai-agent-identity-crisis-is-here-the-infrastructure-to-solve-it-already-exists-35ha)
+- [The Delegation Debt Problem: When Your Agent Owes More Than It Can Deliver](https://dev.to/the_bookmaster/the-delegation-debt-problem-when-your-agent-owes-more-than-it-can-deliver-13e3)
+- [Stop Losing Your API Calls: Build a Production-Ready Browser Cache in 5 Minutes](https://dev.to/mjavadsf/stop-losing-your-api-calls-build-a-production-ready-browser-cache-in-5-minutes-2apb)
+- [Building a C# Agent with Microsoft Agent Framework and Ollama](https://dev.to/bspann/building-a-c-agent-with-microsoft-agent-framework-and-ollama-26m4)
+- [6 AI App Builders Tested on Full Products: Which One Shipped a Real Multi-Screen App in 2026?](https://dev.to/fan-song/6-ai-app-builders-tested-on-full-products-which-one-shipped-a-real-multi-screen-app-in-2026-3p0k)
+- [What would you do with an AI model capable of continuous learning?](https://dev.to/jballanc/what-would-you-do-with-an-ai-model-capable-of-continuous-learning-31c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
