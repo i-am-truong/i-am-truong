@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Simple Tasks Feel So Complicated Online](https://dev.to/dio_a931969c7d95bbbc2e4f3/why-simple-tasks-feel-so-complicated-online-3cm5)
-- [I Built a Job Search Engine That Scores Every Listing Against My Resume — 0 API Keys, Runs Locally](https://dev.to/mohamed_alqouqa_279d1ec18/i-built-a-job-search-engine-that-scores-every-listing-against-my-resume-0-api-keys-runs-locally-1g6k)
-- [What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱](https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51)
-- [I&#39;m losing my own brand SERP to 3rd-party articles. Here&#39;s the JSON-LD stack I&#39;m shipping to claw it back.](https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1)
-- [Vibe Coding Turned Me into a Mouse on a Wheel: How I Fixed It](https://dev.to/benteigland11/vibe-coding-turned-me-into-a-mouse-on-a-wheel-how-i-fixed-it-282n)
+- [AI built your codebase in 2 months. Who&#39;s going to maintain it?](https://dev.to/rp1run/ai-built-your-codebase-in-2-months-whos-going-to-maintain-it-30eb)
+- [I built a Shopify app that makes stores feel instant using link prefetching](https://dev.to/stackedboost/i-built-a-shopify-app-that-makes-stores-feel-instant-using-link-prefetching-56af)
+- [Thunder Client Pro Paywall: What Changed and Your Best Alternatives](https://dev.to/preecha/thunder-client-pro-paywall-what-changed-and-your-best-alternatives-2jgm)
+- [The Freelance Rate Formula I Wish I Knew Earlier &lpar;Free Calculator Included&rpar;](https://dev.to/kineticgoods/the-freelance-rate-formula-i-wish-i-knew-earlier-free-calculator-included-6lh)
+- [### Ribbon: A CLI Project with the Potential to Become the Next Mainstream Tool](https://dev.to/transpective_ecf841cb1a37/-ribbon-a-cli-project-with-the-potential-to-become-the-next-mainstream-tool-40nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
