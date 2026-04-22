@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Company Knowledge Base That Doesn&#39;t Become a Dump](https://dev.to/trackstack/how-to-build-a-company-knowledge-base-that-doesnt-become-a-dump-41e6)
-- [Day 12: Burp Suite Setup — Intercept Your First Web Request in 10 Minutes &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/day-12-burp-suite-setup-intercept-your-first-web-request-in-10-minutes-2026-58e5)
-- [Designing Interfaces That Fail Gracefully: What Happens When Things Break &lpar;And How Good Systems Respond&rpar;](https://dev.to/elizabethefeelobari/designing-interfaces-that-fail-gracefully-what-happens-when-things-break-and-how-good-systems-4m88)
-- [Build a Data Processor: Your First Real Python Project](https://dev.to/yakhilesh/build-a-data-processor-your-first-real-python-project-f8n)
-- [Getting Started with the ant CLI: Deploy Claude Agents](https://dev.to/aavisangle/getting-started-with-the-ant-cli-deploy-claude-agents-50ml)
+- [Why Simple Tasks Feel So Complicated Online](https://dev.to/dio_a931969c7d95bbbc2e4f3/why-simple-tasks-feel-so-complicated-online-3cm5)
+- [I Built a Job Search Engine That Scores Every Listing Against My Resume — 0 API Keys, Runs Locally](https://dev.to/mohamed_alqouqa_279d1ec18/i-built-a-job-search-engine-that-scores-every-listing-against-my-resume-0-api-keys-runs-locally-1g6k)
+- [What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱](https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51)
+- [I&#39;m losing my own brand SERP to 3rd-party articles. Here&#39;s the JSON-LD stack I&#39;m shipping to claw it back.](https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1)
+- [Vibe Coding Turned Me into a Mouse on a Wheel: How I Fixed It](https://dev.to/benteigland11/vibe-coding-turned-me-into-a-mouse-on-a-wheel-how-i-fixed-it-282n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
