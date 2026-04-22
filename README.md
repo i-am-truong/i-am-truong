@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When your Phoenix socket has no identity at all &lpar;and why that was the right call&rpar;](https://dev.to/wycliffogembo/when-your-phoenix-socket-has-no-identity-at-all-and-why-that-was-the-right-call-nm5)
-- [Zero-Code-Change Stacktrace Filtering for Spring Boot: An Infrastructure-Level Integration](https://dev.to/mgantman/zero-code-change-stacktrace-filtering-for-spring-boot-an-infrastructure-level-integration-3fk5)
-- [2026 Web Development Trends: AI, Performance &amp; WebAssembly Convergence](https://dev.to/elysiumquill/2026-web-development-trends-ai-performance-webassembly-convergence-3n1c)
-- [I created my first game and decided to leave GameDev](https://dev.to/embernoglow/i-created-my-first-game-and-decided-to-leave-gamedev-o9n)
-- [Technologies And Concepts: Cheat Sheet for Solutions Architect Associate &lpar;SAA-C03&rpar;](https://dev.to/aws-builders/technologies-and-concepts-cheat-sheet-for-solutions-architect-associate-saa-c03-h52)
+- [ETL vs ELT: Which One Should You Use and Why](https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7)
+- [16 constitutional AI models built on a Chromebook](https://dev.to/scuradimensions/16-constitutional-ai-models-built-on-a-chromebook-1a9b)
+- [Hello World](https://dev.to/soohidden/hello-world-31jh)
+- [I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.](https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i)
+- [Breaking Down Linux File-System](https://dev.to/ritam369/breaking-down-linux-file-system-56ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
