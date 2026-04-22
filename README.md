@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Change impact analysis is the silent time-sink in every medtech QMS](https://dev.to/priya_nair_ree/change-impact-analysis-is-the-silent-time-sink-in-every-medtech-qms-50bh)
-- [everyone should check how its easy to loose weight](https://dev.to/mathewdev/everyone-should-check-how-its-easy-to-loose-weight-36kg)
-- [Implementing Soft Delete with Filtered Indexes in Entity Framework Core](https://dev.to/imzihad21/implementing-soft-delete-with-filtered-indexes-in-entity-framework-core-49ip)
-- [🔥 The Modern Web is Broken: Why I Built 25+ Zero-Friction SaaS Utilities &lpar;No Signups,](https://dev.to/mrdisloyal/the-modern-web-is-broken-why-i-built-25-zero-friction-saas-utilities-no-signups-4f7a)
-- [SaaS or Self-Hosting? What I Would Actually Use?](https://dev.to/sagiadinos/saas-or-self-hosting-what-i-would-actually-use-54f)
+- [When your Phoenix socket has no identity at all &lpar;and why that was the right call&rpar;](https://dev.to/wycliffogembo/when-your-phoenix-socket-has-no-identity-at-all-and-why-that-was-the-right-call-nm5)
+- [Zero-Code-Change Stacktrace Filtering for Spring Boot: An Infrastructure-Level Integration](https://dev.to/mgantman/zero-code-change-stacktrace-filtering-for-spring-boot-an-infrastructure-level-integration-3fk5)
+- [2026 Web Development Trends: AI, Performance &amp; WebAssembly Convergence](https://dev.to/elysiumquill/2026-web-development-trends-ai-performance-webassembly-convergence-3n1c)
+- [I created my first game and decided to leave GameDev](https://dev.to/embernoglow/i-created-my-first-game-and-decided-to-leave-gamedev-o9n)
+- [Technologies And Concepts: Cheat Sheet for Solutions Architect Associate &lpar;SAA-C03&rpar;](https://dev.to/aws-builders/technologies-and-concepts-cheat-sheet-for-solutions-architect-associate-saa-c03-h52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
