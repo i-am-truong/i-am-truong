@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-3mn1)
-- [I Built a Swarm Agent RAG System Inspired by Karpathy&#39;s LLM Wiki](https://dev.to/arananet/i-built-a-swarm-agent-rag-system-inspired-by-karpathys-llm-wiki-2adn)
-- [Lovable Just Proved Everything We Found in Our 600K Line Audit](https://dev.to/pawel_reszka/lovable-just-proved-everything-we-found-in-our-600k-line-audit-21kl)
-- [TLS Certificate Expiry: Detection, Renewal, and the 47-Day Future](https://dev.to/xdsai/tls-certificate-expiry-detection-renewal-and-the-47-day-future-2alp)
-- [AI made devs feel 20% faster but measured 19% slower. Nobody&#39;s ready for that conversation.](https://dev.to/adioof/ai-made-devs-feel-20-faster-but-measured-19-slower-nobodys-ready-for-that-conversation-1ki8)
+- [Meta Consent Mode + CAPI: The Deduplication Pattern That Actually Works](https://dev.to/mehwish_malik_4f29ff7fb04/meta-consent-mode-capi-the-deduplication-pattern-that-actually-works-479b)
+- [Generating Realistic Seed Data That Respects Foreign Keys, in 20 Seconds](https://dev.to/gillarohith/generating-realistic-seed-data-that-respects-foreign-keys-in-20-seconds-2617)
+- [BB Day 14: Command Injection Bug Bounty 2026 — Find OS Injection in Web Apps &amp; APIs That Pay](https://dev.to/lucky_lonerusher/bb-day-14-command-injection-bug-bounty-2026-find-os-injection-in-web-apps-apis-that-pay-5911)
+- [Deep Linking in React Native with AppDelegate.swift](https://dev.to/peakiqofficial/deep-linking-in-react-native-with-appdelegateswift-47l4)
+- [Building a Content Factory with Claude Code + Remotion](https://dev.to/nextools/building-a-content-factory-with-claude-code-remotion-415h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
