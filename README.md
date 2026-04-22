@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coroutine series 3&rpar; Coroutines for LLM inference](https://dev.to/jun07/coroutine-series-3-coroutines-for-llm-inference-1o8j)
-- [Tune In and Join the Google Cloud NEXT &#39;26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd)
-- [Coroutine series 2&rpar; Useful Asyncio Functions](https://dev.to/jun07/coroutine-series-2-useful-asyncio-functions-3km6)
-- [How To Install Mac App Store Apps From The Terminal](https://dev.to/dev_neil_a/how-to-install-mac-app-store-apps-from-the-terminal-kbo)
-- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 6 Using GraalVM Native Image](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-6-34ni)
+- [Android File Transfer on Mac is Broken, So I Built SwiftMTP](https://dev.to/neighbor-z/android-file-transfer-on-mac-is-broken-so-i-built-swiftmtp-5eae)
+- [Taming the Prompt Monster: Effortless AI Image Generation with Smart Generation](https://dev.to/om_prakash_3311f8a4576605/taming-the-prompt-monster-effortless-ai-image-generation-with-smart-generation-3oc6)
+- [Adding PDF support to a Rust image converter — what I learned about libvips and PDF rendering](https://dev.to/serhii_kalyna_730b636889c/adding-pdf-support-to-a-rust-image-converter-what-i-learned-about-libvips-and-pdf-rendering-3g9k)
+- [Guaranteed Message Ordering in Apache Kafka: What It Really Takes in Production &lpar;Spring Boot&rpar;](https://dev.to/yogesh_kale_9e617cb1c2561/guaranteed-message-ordering-in-apache-kafka-what-it-really-takes-in-production-spring-boot-2h3o)
+- [If only life had an XP bar](https://dev.to/nikola/if-only-life-had-an-xp-bar-5ffd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
