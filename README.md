@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ETL vs ELT: Which One Should You Use and Why](https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7)
-- [16 constitutional AI models built on a Chromebook](https://dev.to/scuradimensions/16-constitutional-ai-models-built-on-a-chromebook-1a9b)
-- [Hello World](https://dev.to/soohidden/hello-world-31jh)
-- [I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.](https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i)
-- [Breaking Down Linux File-System](https://dev.to/ritam369/breaking-down-linux-file-system-56ga)
+- [Most SEO Audit Tools Are Broken for Modern Websites. Here’s How We Fixed It.](https://dev.to/cag1145/most-seo-audit-tools-are-broken-for-modern-websites-heres-how-we-fixed-it-1f71)
+- [PNG to JPG vs WebP: Which One Should You Actually Use in 2026](https://dev.to/samma1997/png-to-jpg-vs-webp-which-one-should-you-actually-use-in-2026-4o2m)
+- [Merge PDFs Privately: No Upload, No Adobe [2026 Guide]](https://dev.to/samma1997/merge-pdfs-privately-no-upload-no-adobe-2026-guide-15ll)
+- [Understanding Transformers Part 11: How Decoding Begins](https://dev.to/rijultp/understanding-transformers-part-11-how-decoding-begins-4dal)
+- [Everyone Talked About Gemini. Nobody Talked About the Thing That Will Actually Change Your Work.](https://dev.to/onirestart/everyone-talked-about-gemini-nobody-talked-about-the-thing-that-will-actually-change-your-work-lof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
