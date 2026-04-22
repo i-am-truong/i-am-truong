@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
-- [Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/go-3oi2)
-- [Built Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/built-gova-a-declarative-gui-framework-for-go-48m6)
-- [A Practical Guide to AWS Solutions Architect Certification Training](https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk)
-- [My Junior Can Explain It. My Senior Can Defend It. The AI Just... Did It.](https://dev.to/jonoherrington/my-junior-can-explain-it-my-senior-can-defend-it-the-ai-just-did-it-40ip)
+- [تعلم Html](https://dev.to/__0a0cce4e1c2b76f0/tlm-html-84p)
+- [Aximo — a local Rust STT API for CPU-only inference](https://dev.to/if/aximo-a-local-rust-stt-api-for-cpu-only-inference-3e5d)
+- [Announcing ObjeX | We Built Our Own S3](https://dev.to/meritonaliu/announcing-objex-we-built-our-own-s3-459l)
+- [The utm_source you should NOT use for Meta Ads &lpar;and why GA4 makes it disappear&rpar;](https://dev.to/toshihiro_shishido/the-utmsource-you-should-not-use-for-meta-ads-and-why-ga4-makes-it-disappear-19a3)
+- [Entity Optimization for Brands in AI Search](https://dev.to/chudi_nnorukam/entity-optimization-for-brands-in-ai-search-hbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
