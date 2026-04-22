@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most SEO Audit Tools Are Broken for Modern Websites. Here’s How We Fixed It.](https://dev.to/cag1145/most-seo-audit-tools-are-broken-for-modern-websites-heres-how-we-fixed-it-1f71)
-- [PNG to JPG vs WebP: Which One Should You Actually Use in 2026](https://dev.to/samma1997/png-to-jpg-vs-webp-which-one-should-you-actually-use-in-2026-4o2m)
-- [Merge PDFs Privately: No Upload, No Adobe [2026 Guide]](https://dev.to/samma1997/merge-pdfs-privately-no-upload-no-adobe-2026-guide-15ll)
-- [Understanding Transformers Part 11: How Decoding Begins](https://dev.to/rijultp/understanding-transformers-part-11-how-decoding-begins-4dal)
-- [Everyone Talked About Gemini. Nobody Talked About the Thing That Will Actually Change Your Work.](https://dev.to/onirestart/everyone-talked-about-gemini-nobody-talked-about-the-thing-that-will-actually-change-your-work-lof)
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178)
+- [Privacy-first mind mapping app. Part 1: Constraints Before Tech](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-1-constraints-before-tech-50p3)
+- [I Ditched iCloud Photo Sharing and Built My Own &lpar;with an AI partner&rpar;](https://dev.to/dougdonohoe/i-ditched-icloud-photo-sharing-and-built-my-own-with-an-ai-partner-10he)
+- [Créer un système d’authentification avec PHP et MySQL &lpar;étape par étape&rpar;](https://dev.to/sabriiine15/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-1c68)
+- [Announcing ElementsKit: a toolkit of reactive primitives for building the web UI](https://dev.to/wael/announcing-elementskit-a-toolkit-of-reactive-primitives-for-building-the-web-ui-2gbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
