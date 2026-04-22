@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI built your codebase in 2 months. Who&#39;s going to maintain it?](https://dev.to/rp1run/ai-built-your-codebase-in-2-months-whos-going-to-maintain-it-30eb)
-- [I built a Shopify app that makes stores feel instant using link prefetching](https://dev.to/stackedboost/i-built-a-shopify-app-that-makes-stores-feel-instant-using-link-prefetching-56af)
-- [Thunder Client Pro Paywall: What Changed and Your Best Alternatives](https://dev.to/preecha/thunder-client-pro-paywall-what-changed-and-your-best-alternatives-2jgm)
-- [The Freelance Rate Formula I Wish I Knew Earlier &lpar;Free Calculator Included&rpar;](https://dev.to/kineticgoods/the-freelance-rate-formula-i-wish-i-knew-earlier-free-calculator-included-6lh)
-- [### Ribbon: A CLI Project with the Potential to Become the Next Mainstream Tool](https://dev.to/transpective_ecf841cb1a37/-ribbon-a-cli-project-with-the-potential-to-become-the-next-mainstream-tool-40nc)
+- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-3mn1)
+- [I Built a Swarm Agent RAG System Inspired by Karpathy&#39;s LLM Wiki](https://dev.to/arananet/i-built-a-swarm-agent-rag-system-inspired-by-karpathys-llm-wiki-2adn)
+- [Lovable Just Proved Everything We Found in Our 600K Line Audit](https://dev.to/pawel_reszka/lovable-just-proved-everything-we-found-in-our-600k-line-audit-21kl)
+- [TLS Certificate Expiry: Detection, Renewal, and the 47-Day Future](https://dev.to/xdsai/tls-certificate-expiry-detection-renewal-and-the-47-day-future-2alp)
+- [AI made devs feel 20% faster but measured 19% slower. Nobody&#39;s ready for that conversation.](https://dev.to/adioof/ai-made-devs-feel-20-faster-but-measured-19-slower-nobodys-ready-for-that-conversation-1ki8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
