@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Toqen.app Mobile is Now Open Source](https://dev.to/antonmb/toqenapp-mobile-is-now-open-source-4o78)
-- [Wireshark for Cybersecurity and Troubleshooting: A Practical Guide to Seeing the Network Clearly](https://dev.to/soumya_k19/wireshark-for-cybersecurity-and-troubleshooting-a-practical-guide-to-seeing-the-network-clearly-11ej)
-- [My First Foray into Harness Engineers](https://dev.to/neo_efecd668f2fc8966c7e72/my-first-foray-into-harness-engineers-j3p)
-- [The Quantum Measurement Problem as an Eight-Attractor Classification in D-FUMT8 Logic &lpar;Rei-AIOS Paper 129&rpar;](https://dev.to/fc0web/the-quantum-measurement-problem-as-an-eight-attractor-classification-in-d-fumt8-logic-rei-aios-289o)
-- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-kjh)
+- [How to Build a Company Knowledge Base That Doesn&#39;t Become a Dump](https://dev.to/trackstack/how-to-build-a-company-knowledge-base-that-doesnt-become-a-dump-41e6)
+- [Day 12: Burp Suite Setup — Intercept Your First Web Request in 10 Minutes &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/day-12-burp-suite-setup-intercept-your-first-web-request-in-10-minutes-2026-58e5)
+- [Designing Interfaces That Fail Gracefully: What Happens When Things Break &lpar;And How Good Systems Respond&rpar;](https://dev.to/elizabethefeelobari/designing-interfaces-that-fail-gracefully-what-happens-when-things-break-and-how-good-systems-4m88)
+- [Build a Data Processor: Your First Real Python Project](https://dev.to/yakhilesh/build-a-data-processor-your-first-real-python-project-f8n)
+- [Getting Started with the ant CLI: Deploy Claude Agents](https://dev.to/aavisangle/getting-started-with-the-ant-cli-deploy-claude-agents-50ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
