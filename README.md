@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding OpenClaw’s Hook: The Key to Evaluating Agents Properly](https://dev.to/neurl_creators_org/understanding-openclaws-hook-the-key-to-evaluating-agents-properly-23ip)
-- [Building for the Next 10 Years: The Design Principles of apcore](https://dev.to/tercelyi/building-for-the-next-10-years-the-design-principles-of-apcore-3777)
-- [Why Your AI Productivity Dashboard Is Lying to You](https://dev.to/my2centsonai/why-your-ai-productivity-dashboard-is-lying-to-you-131e)
-- [The WSL2 Guide I Wish I Had: 4 Gotchas That Will Eat Your Afternoon](https://dev.to/alvarito1983/the-wsl2-guide-i-wish-i-had-4-gotchas-that-will-eat-your-afternoon-5aal)
-- [How I Built an AI-Powered Code Review Bot That Saves 10 Hours/Week—Here&#39;s the Cheapest Way to Deploy It](https://dev.to/ramosai/how-i-built-an-ai-powered-code-review-bot-that-saves-10-hoursweek-heres-the-cheapest-way-to-3aig)
+- [Coroutine series 3&rpar; Coroutines for LLM inference](https://dev.to/jun07/coroutine-series-3-coroutines-for-llm-inference-1o8j)
+- [Tune In and Join the Google Cloud NEXT &#39;26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd)
+- [Coroutine series 2&rpar; Useful Asyncio Functions](https://dev.to/jun07/coroutine-series-2-useful-asyncio-functions-3km6)
+- [How To Install Mac App Store Apps From The Terminal](https://dev.to/dev_neil_a/how-to-install-mac-app-store-apps-from-the-terminal-kbo)
+- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 6 Using GraalVM Native Image](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-6-34ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
