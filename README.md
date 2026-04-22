@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta Consent Mode + CAPI: The Deduplication Pattern That Actually Works](https://dev.to/mehwish_malik_4f29ff7fb04/meta-consent-mode-capi-the-deduplication-pattern-that-actually-works-479b)
-- [Generating Realistic Seed Data That Respects Foreign Keys, in 20 Seconds](https://dev.to/gillarohith/generating-realistic-seed-data-that-respects-foreign-keys-in-20-seconds-2617)
-- [BB Day 14: Command Injection Bug Bounty 2026 — Find OS Injection in Web Apps &amp; APIs That Pay](https://dev.to/lucky_lonerusher/bb-day-14-command-injection-bug-bounty-2026-find-os-injection-in-web-apps-apis-that-pay-5911)
-- [Deep Linking in React Native with AppDelegate.swift](https://dev.to/peakiqofficial/deep-linking-in-react-native-with-appdelegateswift-47l4)
-- [Building a Content Factory with Claude Code + Remotion](https://dev.to/nextools/building-a-content-factory-with-claude-code-remotion-415h)
+- [Understanding OpenClaw’s Hook: The Key to Evaluating Agents Properly](https://dev.to/neurl_creators_org/understanding-openclaws-hook-the-key-to-evaluating-agents-properly-23ip)
+- [Building for the Next 10 Years: The Design Principles of apcore](https://dev.to/tercelyi/building-for-the-next-10-years-the-design-principles-of-apcore-3777)
+- [Why Your AI Productivity Dashboard Is Lying to You](https://dev.to/my2centsonai/why-your-ai-productivity-dashboard-is-lying-to-you-131e)
+- [The WSL2 Guide I Wish I Had: 4 Gotchas That Will Eat Your Afternoon](https://dev.to/alvarito1983/the-wsl2-guide-i-wish-i-had-4-gotchas-that-will-eat-your-afternoon-5aal)
+- [How I Built an AI-Powered Code Review Bot That Saves 10 Hours/Week—Here&#39;s the Cheapest Way to Deploy It](https://dev.to/ramosai/how-i-built-an-ai-powered-code-review-bot-that-saves-10-hoursweek-heres-the-cheapest-way-to-3aig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
