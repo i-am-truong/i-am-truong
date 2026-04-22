@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178)
-- [Privacy-first mind mapping app. Part 1: Constraints Before Tech](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-1-constraints-before-tech-50p3)
-- [I Ditched iCloud Photo Sharing and Built My Own &lpar;with an AI partner&rpar;](https://dev.to/dougdonohoe/i-ditched-icloud-photo-sharing-and-built-my-own-with-an-ai-partner-10he)
-- [Créer un système d’authentification avec PHP et MySQL &lpar;étape par étape&rpar;](https://dev.to/sabriiine15/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-1c68)
-- [Announcing ElementsKit: a toolkit of reactive primitives for building the web UI](https://dev.to/wael/announcing-elementskit-a-toolkit-of-reactive-primitives-for-building-the-web-ui-2gbd)
+- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
+- [Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/go-3oi2)
+- [Built Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/built-gova-a-declarative-gui-framework-for-go-48m6)
+- [A Practical Guide to AWS Solutions Architect Certification Training](https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk)
+- [My Junior Can Explain It. My Senior Can Defend It. The AI Just... Did It.](https://dev.to/jonoherrington/my-junior-can-explain-it-my-senior-can-defend-it-the-ai-just-did-it-40ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
