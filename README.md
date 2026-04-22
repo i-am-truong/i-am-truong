@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Android File Transfer on Mac is Broken, So I Built SwiftMTP](https://dev.to/neighbor-z/android-file-transfer-on-mac-is-broken-so-i-built-swiftmtp-5eae)
-- [Taming the Prompt Monster: Effortless AI Image Generation with Smart Generation](https://dev.to/om_prakash_3311f8a4576605/taming-the-prompt-monster-effortless-ai-image-generation-with-smart-generation-3oc6)
-- [Adding PDF support to a Rust image converter — what I learned about libvips and PDF rendering](https://dev.to/serhii_kalyna_730b636889c/adding-pdf-support-to-a-rust-image-converter-what-i-learned-about-libvips-and-pdf-rendering-3g9k)
-- [Guaranteed Message Ordering in Apache Kafka: What It Really Takes in Production &lpar;Spring Boot&rpar;](https://dev.to/yogesh_kale_9e617cb1c2561/guaranteed-message-ordering-in-apache-kafka-what-it-really-takes-in-production-spring-boot-2h3o)
-- [If only life had an XP bar](https://dev.to/nikola/if-only-life-had-an-xp-bar-5ffd)
+- [Change impact analysis is the silent time-sink in every medtech QMS](https://dev.to/priya_nair_ree/change-impact-analysis-is-the-silent-time-sink-in-every-medtech-qms-50bh)
+- [everyone should check how its easy to loose weight](https://dev.to/mathewdev/everyone-should-check-how-its-easy-to-loose-weight-36kg)
+- [Implementing Soft Delete with Filtered Indexes in Entity Framework Core](https://dev.to/imzihad21/implementing-soft-delete-with-filtered-indexes-in-entity-framework-core-49ip)
+- [🔥 The Modern Web is Broken: Why I Built 25+ Zero-Friction SaaS Utilities &lpar;No Signups,](https://dev.to/mrdisloyal/the-modern-web-is-broken-why-i-built-25-zero-friction-saas-utilities-no-signups-4f7a)
+- [SaaS or Self-Hosting? What I Would Actually Use?](https://dev.to/sagiadinos/saas-or-self-hosting-what-i-would-actually-use-54f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
