@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unpopular Opinion: Do not use OpenClaw...not yet.](https://dev.to/francistrdev/unpopular-opinion-do-not-use-openclawnot-yet-5foe)
-- [Next.js 15 &amp; AI Agents: 4 Engineering Hacks to Save Your Production in 2026](https://dev.to/mihokoto/nextjs-15-ai-agents-4-engineering-hacks-to-save-your-production-in-2026-333g)
-- [.gitignore Done Right — What to Ignore, Why, and the Pattern Every Production Codebase Uses](https://dev.to/digvijay_singhrajput/gitignore-done-right-what-to-ignore-why-and-the-pattern-every-production-codebase-uses-23o)
-- [Challenge : 4 System-Level Challenges in Developer Experience &lpar;DevEx&rpar; Design](https://dev.to/priya_sajja_c336921bbda87/challenge-4-system-level-challenges-in-developer-experience-devex-design-2fjl)
-- [Pygame Snake, Pt. 3](https://dev.to/paxfeline/pygame-snake-pt-3-27np)
+- [LLM routing per tier via OpenRouter — when one model doesn&#39;t fit all](https://dev.to/sm1ck/llm-routing-per-tier-via-openrouter-when-one-model-doesnt-fit-all-3ami)
+- [Why Your Image Pipeline Breaks at 3am and How to Fix It](https://dev.to/iterationlayer/why-your-image-pipeline-breaks-at-3am-and-how-to-fix-it-1m1h)
+- [Sheet Generation from JSON: Replacing Manual Spreadsheet Assembly](https://dev.to/iterationlayer/sheet-generation-from-json-replacing-manual-spreadsheet-assembly-49om)
+- [Replacing Puppeteer, Sharp, and Tesseract with One API](https://dev.to/iterationlayer/replacing-puppeteer-sharp-and-tesseract-with-one-api-84a)
+- [Generating PDFs from JSON Instead of HTML: Why Templates Are a Dead End](https://dev.to/iterationlayer/generating-pdfs-from-json-instead-of-html-why-templates-are-a-dead-end-5acd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
