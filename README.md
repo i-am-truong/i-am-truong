@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM routing per tier via OpenRouter — when one model doesn&#39;t fit all](https://dev.to/sm1ck/llm-routing-per-tier-via-openrouter-when-one-model-doesnt-fit-all-3ami)
-- [Why Your Image Pipeline Breaks at 3am and How to Fix It](https://dev.to/iterationlayer/why-your-image-pipeline-breaks-at-3am-and-how-to-fix-it-1m1h)
-- [Sheet Generation from JSON: Replacing Manual Spreadsheet Assembly](https://dev.to/iterationlayer/sheet-generation-from-json-replacing-manual-spreadsheet-assembly-49om)
-- [Replacing Puppeteer, Sharp, and Tesseract with One API](https://dev.to/iterationlayer/replacing-puppeteer-sharp-and-tesseract-with-one-api-84a)
-- [Generating PDFs from JSON Instead of HTML: Why Templates Are a Dead End](https://dev.to/iterationlayer/generating-pdfs-from-json-instead-of-html-why-templates-are-a-dead-end-5acd)
+- [Toqen.app Mobile is Now Open Source](https://dev.to/antonmb/toqenapp-mobile-is-now-open-source-4o78)
+- [Wireshark for Cybersecurity and Troubleshooting: A Practical Guide to Seeing the Network Clearly](https://dev.to/soumya_k19/wireshark-for-cybersecurity-and-troubleshooting-a-practical-guide-to-seeing-the-network-clearly-11ej)
+- [My First Foray into Harness Engineers](https://dev.to/neo_efecd668f2fc8966c7e72/my-first-foray-into-harness-engineers-j3p)
+- [The Quantum Measurement Problem as an Eight-Attractor Classification in D-FUMT8 Logic &lpar;Rei-AIOS Paper 129&rpar;](https://dev.to/fc0web/the-quantum-measurement-problem-as-an-eight-attractor-classification-in-d-fumt8-logic-rei-aios-289o)
+- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-kjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
