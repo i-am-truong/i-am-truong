@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [تعلم Html](https://dev.to/__0a0cce4e1c2b76f0/tlm-html-84p)
-- [Aximo — a local Rust STT API for CPU-only inference](https://dev.to/if/aximo-a-local-rust-stt-api-for-cpu-only-inference-3e5d)
-- [Announcing ObjeX | We Built Our Own S3](https://dev.to/meritonaliu/announcing-objex-we-built-our-own-s3-459l)
-- [The utm_source you should NOT use for Meta Ads &lpar;and why GA4 makes it disappear&rpar;](https://dev.to/toshihiro_shishido/the-utmsource-you-should-not-use-for-meta-ads-and-why-ga4-makes-it-disappear-19a3)
-- [Entity Optimization for Brands in AI Search](https://dev.to/chudi_nnorukam/entity-optimization-for-brands-in-ai-search-hbn)
+- [Salesforce Headless 360: Run Your CRM Without a Browser](https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4)
+- [Build a typed CLI from scratch with Commander.js + Zod](https://dev.to/f3rnox/build-a-typed-cli-from-scratch-with-commanderjs-zod-4oj6)
+- [RAG Systems in Production: Building Enterprise Knowledge Search](https://dev.to/krunal_groovy/rag-systems-in-production-building-enterprise-knowledge-search-2g9f)
+- [We Built a 31-Agent AI Team That Hires Itself, Critiques Itself, and Dreams](https://dev.to/ikhaled_elazab/we-built-a-31-agent-ai-team-that-hires-itself-critiques-itself-and-dreams-35dj)
+- [What is MCP and Why Java Developers Should Care](https://dev.to/pedrop3/what-is-mcp-and-why-java-developers-should-care-5d94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
