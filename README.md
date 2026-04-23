@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP Servers in Python: a production primer for 2026](https://dev.to/tufailkhan457/building-mcp-servers-in-python-a-production-primer-for-2026-4kh2)
-- [I Built a Local AI VRAM Calculator &amp; GPU Planner &lpar;Beta&rpar;](https://dev.to/logarithmicspirals/i-built-a-local-ai-vram-calculator-gpu-planner-beta-g7b)
-- [Why Technical Startups Fail: Building in a Vacuum](https://dev.to/glad_labs/why-technical-startups-fail-building-in-a-vacuum-l2g)
-- [gpt-image-2 API Developer Guide: Pricing, Thinking Mode, and Production Integration &lpar;2026&rpar;](https://dev.to/tokenmixai/gpt-image-2-api-developer-guide-pricing-thinking-mode-and-production-integration-2026-28p5)
-- [The Primeagen&#39;s &#39;99&#39;: A New Approach to AI in Code Editors](https://dev.to/stelixx-insider/the-primeagens-99-a-new-approach-to-ai-in-code-editors-2nea)
+- [From Marketplace to Independent Stack: Migrating a B2B Industrial Site to Nuxt 3 &amp; Spring Boot](https://dev.to/tarzant/from-marketplace-to-independent-stack-migrating-a-b2b-industrial-site-to-nuxt-3-vue-spring-boot-3nnm)
+- [Making illegal state unrepresentable](https://dev.to/nfrankel/making-illegal-state-unrepresentable-3bid)
+- [Stop memorizing JS — think in execution context](https://dev.to/samareshdas/stop-memorizing-js-think-in-execution-context-2ne4)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-323i)
+- [CQRS in Go — Part 4: PostgreSQL as an event store](https://dev.to/ohugonnot/cqrs-in-go-part-4-postgresql-as-an-event-store-be4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
