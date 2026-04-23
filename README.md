@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como instalar a linguagem de programação Go &lpar;Golang&rpar;](https://dev.to/natorsc/como-instalar-a-linguagem-de-programacao-go-golang-4db6)
-- [Modernizing Data Movement for the AI-Ready Enterprises](https://dev.to/josemichael/modernizing-data-movement-for-the-ai-ready-enterprises-3odj)
-- [We built a free live-scores widget you can drop into any website in 30 seconds](https://dev.to/sportscore/we-built-a-free-live-scores-widget-you-can-drop-into-any-website-in-30-seconds-4mib)
-- [I audited my own Claude Code setup and found 21 issues in 72 artifacts](https://dev.to/grippado/i-audited-my-own-claude-code-setup-and-found-21-issues-in-72-artifacts-35gl)
-- [What an event-driven agent pipeline looks like when you trace it end-to-end](https://dev.to/tirso_garcia/what-an-event-driven-agent-pipeline-looks-like-when-you-trace-it-end-to-end-1cck)
+- [The Execution Pipeline: A Secured Journey for Every Call](https://dev.to/tercelyi/the-11-step-execution-pipeline-a-secured-journey-for-every-call-50lp)
+- [From Chatbots to Coworkers: How Google Cloud NEXT ’26 Redefined Software as Agent Systems](https://dev.to/kanyingidickson-dev/from-chatbots-to-coworkers-how-google-cloud-next-26-redefined-software-as-agent-systems-1cfa)
+- [The Skill Ecosystem Has a Locked Door Problem — So I&#39;m Building the Lock](https://dev.to/amitgandhi-skill/the-skill-ecosystem-has-a-locked-door-problem-so-im-building-the-lock-3dc8)
+- [AWS vs GCP ตอนที่ 3: Organization &amp; User Management](https://dev.to/perajit/aws-vs-gcp-tnthii-3-organization-user-management-2omc)
+- [Giving Your Accounting App a Brain: NestJS &quot;MCP&quot;](https://dev.to/siren/giving-your-accounting-app-a-brain-nestjs-mcp-4nfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
