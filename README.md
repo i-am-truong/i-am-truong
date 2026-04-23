@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AETHERIS Day 53: On-chain bounty board — Component #106/730](https://dev.to/yaseen98bit/aetheris-day-53-on-chain-bounty-board-component-106730-18n0)
-- [The fastest way to build a Telegram Bot natively](https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-3pd)
-- [A Looming Crisis of AI Generated Text](https://dev.to/nathanepstein/a-looming-crisis-of-ai-generated-text-e4f)
-- [I Let an AI Agent Run a Product Launch for a Week. The Product Was Fine. Nobody Needed It.](https://dev.to/kairi_outputs/i-let-an-ai-agent-run-a-product-launch-for-a-week-the-product-was-fine-nobody-needed-it-7cn)
-- [I Built a Live Subscription Dashboard on RevenueCat&#39;s Charts API in One HTML File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc)
+- [Fintech + AWS + RBI: the compliance myth](https://dev.to/aicloudstrategist/fintech-aws-rbi-the-compliance-myth-o4a)
+- [How to Delete Your Digital Footprint &lpar;Practical Guide&rpar;](https://dev.to/juan_diegoisazaa_5362a/how-to-delete-your-digital-footprint-practical-guide-fm3)
+- [Claude Code Agentic Stack: cc-switch &amp; claude-context MCP](https://dev.to/max_quimby/claude-code-agentic-stack-cc-switch-claude-context-mcp-1dg2)
+- [Tagging — the 20% that drives 80% of cost allocation](https://dev.to/aicloudstrategist/tagging-the-20-that-drives-80-of-cost-allocation-4efg)
+- [Why I built yet another JSON formatter &lpar;and what I did differently&rpar;](https://dev.to/tommy_art/why-i-built-yet-another-json-formatter-and-what-i-did-differently-4am3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
