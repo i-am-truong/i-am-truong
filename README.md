@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Word ladders the right way: BFS, bidirectional search, and why Dijkstra is overkill](https://dev.to/dean_gilley/word-ladders-the-right-way-bfs-bidirectional-search-and-why-dijkstra-is-overkill-2ipb)
-- [Spelling correction at scale: Levenshtein distance, BK-trees, and symmetric deletion](https://dev.to/dean_gilley/spelling-correction-at-scale-levenshtein-distance-bk-trees-and-symmetric-deletion-4c1p)
-- [How I Built a React JSON Tool That Handles 150k+ Lines Without Freezing the Browser](https://dev.to/divyanshu_deepam_f78b286a/how-i-built-a-react-json-tool-that-handles-150k-lines-without-freezing-the-browser-4l97)
-- [How to Secure a System with mTLS Certificates &lpar;Mutual TLS&rpar;](https://dev.to/oscar_ricardosncheguti/how-to-secure-a-system-with-mtls-certificates-mutual-tls-3i39)
-- [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://dev.to/mlxio_ai/microsofts-new-xbox-chief-is-reevaluating-exclusive-games-4571)
+- [Sylvester-Schur Partial Lean 4 Formalization and the 699 &lt;-&gt; 961 Bridge &lpar;Rei-AIOS Paper 133&rpar;](https://dev.to/fc0web/sylvester-schur-partial-lean-4-formalization-and-the-699-961-bridge-rei-aios-paper-133-53bf)
+- [bisql &lpar;Clojure Data Access Library&rpar; released v0.4.0: Support Malli Validation](https://dev.to/conpoi/bisql-clojure-data-access-library-released-v040-support-malli-validation-1o0o)
+- [SIMDVec Supercharges Vector Hunt](https://dev.to/mordodemaru/simdvec-supercharges-vector-hunt-3co8)
+- [Agent2Agent Protocol, IBM Vault, &amp; OAuth 2.0 On-Behalf-Of](https://dev.to/joatmon08/agent2agent-protocol-ibm-vault-oauth-20-on-behalf-of-1hba)
+- [I built FuelFox to make finding cheap fuel in the UK much faster](https://dev.to/builtbytm/i-built-fuelfox-to-make-finding-cheap-fuel-in-the-uk-much-faster-3ome)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
