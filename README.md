@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce Headless 360: Run Your CRM Without a Browser](https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4)
-- [Build a typed CLI from scratch with Commander.js + Zod](https://dev.to/f3rnox/build-a-typed-cli-from-scratch-with-commanderjs-zod-4oj6)
-- [RAG Systems in Production: Building Enterprise Knowledge Search](https://dev.to/krunal_groovy/rag-systems-in-production-building-enterprise-knowledge-search-2g9f)
-- [We Built a 31-Agent AI Team That Hires Itself, Critiques Itself, and Dreams](https://dev.to/ikhaled_elazab/we-built-a-31-agent-ai-team-that-hires-itself-critiques-itself-and-dreams-35dj)
-- [What is MCP and Why Java Developers Should Care](https://dev.to/pedrop3/what-is-mcp-and-why-java-developers-should-care-5d94)
+- [AETHERIS Day 53: On-chain bounty board — Component #106/730](https://dev.to/yaseen98bit/aetheris-day-53-on-chain-bounty-board-component-106730-18n0)
+- [The fastest way to build a Telegram Bot natively](https://dev.to/apollo_ag/the-fastest-way-to-build-a-telegram-bot-natively-3pd)
+- [A Looming Crisis of AI Generated Text](https://dev.to/nathanepstein/a-looming-crisis-of-ai-generated-text-e4f)
+- [I Let an AI Agent Run a Product Launch for a Week. The Product Was Fine. Nobody Needed It.](https://dev.to/kairi_outputs/i-let-an-ai-agent-run-a-product-launch-for-a-week-the-product-was-fine-nobody-needed-it-7cn)
+- [I Built a Live Subscription Dashboard on RevenueCat&#39;s Charts API in One HTML File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
