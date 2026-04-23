@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Raft Consensus Algorithm: Leader Election and Log Replication Explained](https://dev.to/dylan_dumont_266378d98367/the-raft-consensus-algorithm-leader-election-and-log-replication-explained-2j7b)
-- [Universal Basic Tokens: The Future of Technological Capitalism?](https://dev.to/souliane/universal-basic-tokens-the-future-of-technological-capitalism-4lff)
-- [How to add Apple Game Center leaderboards to an Expo app](https://dev.to/marioprieta/how-to-add-apple-game-center-leaderboards-to-an-expo-app-hpj)
-- [I built a browser daemon for AI coding agents because Playwright wasn&#39;t enough](https://dev.to/lipski/i-built-a-browser-daemon-for-ai-coding-agents-because-playwright-wasnt-enough-jp0)
-- [Doppar vs Laravel: A Brutally Honest PHP Framework Comparison &lpar;2026&rpar;](https://dev.to/mahedi1501/doppar-vs-laravel-a-brutally-honest-php-framework-comparison-2026-1d8e)
+- [A Practical Guide to Building a Vision AI Model Serving Pipeline with AWS CDK](https://dev.to/aws-builders/a-practical-guide-to-building-a-vision-ai-model-serving-pipeline-with-aws-cdk-31i)
+- [Self Host Docker Guide on a VPS &lpar;Secure + Simple&rpar;](https://dev.to/juan_diegoisazaa_5362a/self-host-docker-guide-on-a-vps-secure-simple-56pj)
+- [I Am Building a Cloud: Lessons from Designing Your Own Cloud Infrastructure from Scratch](https://dev.to/_d916d77be80d376e49d8e/i-am-building-a-cloud-lessons-from-designing-your-own-cloud-infrastructure-from-scratch-2j79)
+- [The Math Doesn&#39;t Work](https://dev.to/jonoherrington/the-math-doesnt-work-4f13)
+- [External Client Apps in Salesforce Spring &#39;26: A Practical Migration Guide](https://dev.to/dipojjal/external-client-apps-in-salesforce-spring-26-a-practical-migration-guide-37o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
