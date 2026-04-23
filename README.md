@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking web apps](https://dev.to/ifeanyichima/breaking-web-apps-26bl)
-- [Notes from Reading Claude Code&#39;s Leaked Source](https://dev.to/arasovic/notes-from-reading-claude-codes-leaked-source-4eb5)
-- [Backend AI Needs an Action Surface, Not Just a Chat Box](https://dev.to/rapidkit/backend-ai-needs-an-action-surface-not-just-a-chat-box-40h4)
-- [Using AI to Build Your Year-End Performance Case](https://dev.to/9thquadrant/using-ai-to-build-your-year-end-performance-case-26kj)
-- [LLM OCR Benchmarks, Claude Code Context Issues, &amp; Cloud GPU Pricing Tool](https://dev.to/soytuber/llm-ocr-benchmarks-claude-code-context-issues-cloud-gpu-pricing-tool-4d2g)
+- [Como instalar a linguagem de programação Go &lpar;Golang&rpar;](https://dev.to/natorsc/como-instalar-a-linguagem-de-programacao-go-golang-4db6)
+- [Modernizing Data Movement for the AI-Ready Enterprises](https://dev.to/josemichael/modernizing-data-movement-for-the-ai-ready-enterprises-3odj)
+- [We built a free live-scores widget you can drop into any website in 30 seconds](https://dev.to/sportscore/we-built-a-free-live-scores-widget-you-can-drop-into-any-website-in-30-seconds-4mib)
+- [I audited my own Claude Code setup and found 21 issues in 72 artifacts](https://dev.to/grippado/i-audited-my-own-claude-code-setup-and-found-21-issues-in-72-artifacts-35gl)
+- [What an event-driven agent pipeline looks like when you trace it end-to-end](https://dev.to/tirso_garcia/what-an-event-driven-agent-pipeline-looks-like-when-you-trace-it-end-to-end-1cck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
