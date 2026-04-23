@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Building a Vision AI Model Serving Pipeline with AWS CDK](https://dev.to/aws-builders/a-practical-guide-to-building-a-vision-ai-model-serving-pipeline-with-aws-cdk-31i)
-- [Self Host Docker Guide on a VPS &lpar;Secure + Simple&rpar;](https://dev.to/juan_diegoisazaa_5362a/self-host-docker-guide-on-a-vps-secure-simple-56pj)
-- [I Am Building a Cloud: Lessons from Designing Your Own Cloud Infrastructure from Scratch](https://dev.to/_d916d77be80d376e49d8e/i-am-building-a-cloud-lessons-from-designing-your-own-cloud-infrastructure-from-scratch-2j79)
-- [The Math Doesn&#39;t Work](https://dev.to/jonoherrington/the-math-doesnt-work-4f13)
-- [External Client Apps in Salesforce Spring &#39;26: A Practical Migration Guide](https://dev.to/dipojjal/external-client-apps-in-salesforce-spring-26-a-practical-migration-guide-37o0)
+- [Beyond the Dashboard: The Trick to Winning Over Your Clients with AI](https://dev.to/jestebandev/beyond-the-dashboard-the-trick-to-winning-over-your-clients-with-ai-kc4)
+- [I Built a Toast Library Where a Robot Delivers Your Notifications 🤖](https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo)
+- [The MCP Discovery Problem: Why 7,500+ Servers Is Both a Victory and a Warning](https://dev.to/codemalasartes/the-mcp-discovery-problem-why-7500-servers-is-both-a-victory-and-a-warning-3joe)
+- [I Tested Google Cloud Fraud Defense, Here is What Actually Changed 👇](https://dev.to/rasu-555/i-tested-google-cloud-fraud-defense-here-is-what-actually-changed-4aga)
+- [Fundamentals of Modern AI: Agents, MCP, Skills, and Orchestration](https://dev.to/mayzaynara/fundamentals-of-modern-ai-agents-mcp-skills-and-orchestration-1elm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
