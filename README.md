@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [De ticket a deploy sin tocar nada: cómo Claude Code orquesta mi flujo entero](https://dev.to/ayozebarrera/de-ticket-a-deploy-sin-tocar-nada-como-claude-code-orquesta-mi-flujo-entero-2kpm)
-- [I Built a 24/7 Freelance Operations Agent with OpenClaw — It Runs My Business While I Sleep](https://dev.to/farooqshabbir/i-built-a-247-freelance-operations-agent-with-openclaw-it-runs-my-business-while-i-sleep-4lde)
-- [10 Chunking Strategies That Make or Break Your RAG Pipeline](https://dev.to/klement_gunndu/10-chunking-strategies-that-make-or-break-your-rag-pipeline-4cng)
-- [How to Detect a User&#39;s Country and Currency from the IP in JavaScript](https://dev.to/mateen993/how-to-detect-a-users-country-and-currency-from-their-ip-in-javascript-3ijc)
-- [The Discovery Gap: Why AI Agents Can&#39;t Find Your Store](https://dev.to/rohit_from_agentified/the-discovery-gap-why-ai-agents-cant-find-your-store-11a)
+- [The Raft Consensus Algorithm: Leader Election and Log Replication Explained](https://dev.to/dylan_dumont_266378d98367/the-raft-consensus-algorithm-leader-election-and-log-replication-explained-2j7b)
+- [Universal Basic Tokens: The Future of Technological Capitalism?](https://dev.to/souliane/universal-basic-tokens-the-future-of-technological-capitalism-4lff)
+- [How to add Apple Game Center leaderboards to an Expo app](https://dev.to/marioprieta/how-to-add-apple-game-center-leaderboards-to-an-expo-app-hpj)
+- [I built a browser daemon for AI coding agents because Playwright wasn&#39;t enough](https://dev.to/lipski/i-built-a-browser-daemon-for-ai-coding-agents-because-playwright-wasnt-enough-jp0)
+- [Doppar vs Laravel: A Brutally Honest PHP Framework Comparison &lpar;2026&rpar;](https://dev.to/mahedi1501/doppar-vs-laravel-a-brutally-honest-php-framework-comparison-2026-1d8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
