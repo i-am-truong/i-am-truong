@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Marketplace to Independent Stack: Migrating a B2B Industrial Site to Nuxt 3 &amp; Spring Boot](https://dev.to/tarzant/from-marketplace-to-independent-stack-migrating-a-b2b-industrial-site-to-nuxt-3-vue-spring-boot-3nnm)
-- [Making illegal state unrepresentable](https://dev.to/nfrankel/making-illegal-state-unrepresentable-3bid)
-- [Stop memorizing JS — think in execution context](https://dev.to/samareshdas/stop-memorizing-js-think-in-execution-context-2ne4)
-- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-323i)
-- [CQRS in Go — Part 4: PostgreSQL as an event store](https://dev.to/ohugonnot/cqrs-in-go-part-4-postgresql-as-an-event-store-be4)
+- [Directory-as-ID: Scaling Module Discovery Without Configuration](https://dev.to/tercelyi/directory-as-id-scaling-module-discovery-without-configuration-492p)
+- [Designing a Hooks System for AI Agent CLIs: 4 Lifecycle Points That Cover Everything](https://dev.to/esengine/designing-a-hooks-system-for-ai-agent-clis-4-lifecycle-points-that-cover-everything-251g)
+- [Wallet-Led Privacy Paymasters, GasLiteAA, Privacy Path for Frame Transactions, ETHGas &amp; etherfi $3B Blockspace Deal](https://dev.to/etherspot/wallet-led-privacy-paymasters-gasliteaa-privacy-path-for-frame-transactions-ethgas-etherfi-3b-25g7)
+- [Optimizing Web Scraping Data to Reduce RAG Token Costs](https://dev.to/alterlab/optimizing-web-scraping-data-to-reduce-rag-token-costs-3ecm)
+- [We Shipped to 3 Platforms With One Merge. Here&#39;s Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
