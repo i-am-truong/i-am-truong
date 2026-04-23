@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Exporting The Viewport: How Zoomed Image Editors Map Back To Original Pixels](https://dev.to/byeval/stop-exporting-the-viewport-how-zoomed-image-editors-map-back-to-original-pixels-3ko5)
-- [Building an LLM Tool Calling Workflow with DigitalOcean and Connected Databases](https://dev.to/digitalocean/building-an-llm-tool-calling-workflow-with-digitalocean-and-connected-databases-12op)
-- [Stay tuned for the Monthly Report for April next week!!! :D](https://dev.to/francistrdev/stay-tuned-for-the-monthly-report-for-april-next-week-d-19pi)
-- [Mastering Your Frontend Build with Bazel: Consolidating Tests](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-consolidating-tests-26nl)
-- [Stop Wasting GitHub Actions Minutes: How We Built a Commit-Driven CI System for iOS](https://dev.to/daksh-gargas/stop-wasting-github-actions-minutes-how-we-built-a-commit-driven-ci-system-for-ios-47cd)
+- [Word ladders the right way: BFS, bidirectional search, and why Dijkstra is overkill](https://dev.to/dean_gilley/word-ladders-the-right-way-bfs-bidirectional-search-and-why-dijkstra-is-overkill-2ipb)
+- [Spelling correction at scale: Levenshtein distance, BK-trees, and symmetric deletion](https://dev.to/dean_gilley/spelling-correction-at-scale-levenshtein-distance-bk-trees-and-symmetric-deletion-4c1p)
+- [How I Built a React JSON Tool That Handles 150k+ Lines Without Freezing the Browser](https://dev.to/divyanshu_deepam_f78b286a/how-i-built-a-react-json-tool-that-handles-150k-lines-without-freezing-the-browser-4l97)
+- [How to Secure a System with mTLS Certificates &lpar;Mutual TLS&rpar;](https://dev.to/oscar_ricardosncheguti/how-to-secure-a-system-with-mtls-certificates-mutual-tls-3i39)
+- [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://dev.to/mlxio_ai/microsofts-new-xbox-chief-is-reevaluating-exclusive-games-4571)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
