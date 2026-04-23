@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fintech + AWS + RBI: the compliance myth](https://dev.to/aicloudstrategist/fintech-aws-rbi-the-compliance-myth-o4a)
-- [How to Delete Your Digital Footprint &lpar;Practical Guide&rpar;](https://dev.to/juan_diegoisazaa_5362a/how-to-delete-your-digital-footprint-practical-guide-fm3)
-- [Claude Code Agentic Stack: cc-switch &amp; claude-context MCP](https://dev.to/max_quimby/claude-code-agentic-stack-cc-switch-claude-context-mcp-1dg2)
-- [Tagging — the 20% that drives 80% of cost allocation](https://dev.to/aicloudstrategist/tagging-the-20-that-drives-80-of-cost-allocation-4efg)
-- [Why I built yet another JSON formatter &lpar;and what I did differently&rpar;](https://dev.to/tommy_art/why-i-built-yet-another-json-formatter-and-what-i-did-differently-4am3)
+- [Building MCP Servers in Python: a production primer for 2026](https://dev.to/tufailkhan457/building-mcp-servers-in-python-a-production-primer-for-2026-4kh2)
+- [I Built a Local AI VRAM Calculator &amp; GPU Planner &lpar;Beta&rpar;](https://dev.to/logarithmicspirals/i-built-a-local-ai-vram-calculator-gpu-planner-beta-g7b)
+- [Why Technical Startups Fail: Building in a Vacuum](https://dev.to/glad_labs/why-technical-startups-fail-building-in-a-vacuum-l2g)
+- [gpt-image-2 API Developer Guide: Pricing, Thinking Mode, and Production Integration &lpar;2026&rpar;](https://dev.to/tokenmixai/gpt-image-2-api-developer-guide-pricing-thinking-mode-and-production-integration-2026-28p5)
+- [The Primeagen&#39;s &#39;99&#39;: A New Approach to AI in Code Editors](https://dev.to/stelixx-insider/the-primeagens-99-a-new-approach-to-ai-in-code-editors-2nea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
