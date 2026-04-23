@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Directory-as-ID: Scaling Module Discovery Without Configuration](https://dev.to/tercelyi/directory-as-id-scaling-module-discovery-without-configuration-492p)
-- [Designing a Hooks System for AI Agent CLIs: 4 Lifecycle Points That Cover Everything](https://dev.to/esengine/designing-a-hooks-system-for-ai-agent-clis-4-lifecycle-points-that-cover-everything-251g)
-- [Wallet-Led Privacy Paymasters, GasLiteAA, Privacy Path for Frame Transactions, ETHGas &amp; etherfi $3B Blockspace Deal](https://dev.to/etherspot/wallet-led-privacy-paymasters-gasliteaa-privacy-path-for-frame-transactions-ethgas-etherfi-3b-25g7)
-- [Optimizing Web Scraping Data to Reduce RAG Token Costs](https://dev.to/alterlab/optimizing-web-scraping-data-to-reduce-rag-token-costs-3ecm)
-- [We Shipped to 3 Platforms With One Merge. Here&#39;s Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
+- [De ticket a deploy sin tocar nada: cómo Claude Code orquesta mi flujo entero](https://dev.to/ayozebarrera/de-ticket-a-deploy-sin-tocar-nada-como-claude-code-orquesta-mi-flujo-entero-2kpm)
+- [I Built a 24/7 Freelance Operations Agent with OpenClaw — It Runs My Business While I Sleep](https://dev.to/farooqshabbir/i-built-a-247-freelance-operations-agent-with-openclaw-it-runs-my-business-while-i-sleep-4lde)
+- [10 Chunking Strategies That Make or Break Your RAG Pipeline](https://dev.to/klement_gunndu/10-chunking-strategies-that-make-or-break-your-rag-pipeline-4cng)
+- [How to Detect a User&#39;s Country and Currency from the IP in JavaScript](https://dev.to/mateen993/how-to-detect-a-users-country-and-currency-from-their-ip-in-javascript-3ijc)
+- [The Discovery Gap: Why AI Agents Can&#39;t Find Your Store](https://dev.to/rohit_from_agentified/the-discovery-gap-why-ai-agents-cant-find-your-store-11a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
