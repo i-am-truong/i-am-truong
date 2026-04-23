@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [-- WinToLin -- Easy tool to swtich from Windows to Linux.](https://dev.to/wintolin/-wintolin-easy-tool-to-swtich-from-windows-to-linux-8f5)
-- [From DALL-E to gpt-image-2: The Architectural Bet That Finally Fixed AI Text](https://dev.to/davide_mibelli_c4ef6b5c48/from-dall-e-to-gpt-image-2-the-architectural-bet-that-finally-fixed-ai-text-5347)
-- [Designing HPC Cluster Networking: What Speeds You Actually Need](https://dev.to/zubairakbar/designing-hpc-cluster-networking-what-speeds-you-actually-need-5akf)
-- [How to Build a Vendor-Agnostic Logger &lpar;with a Grafana Implementation&rpar;](https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo)
-- [I Replaced $800/mo in API Costs with a Local Llama 4 Setup for E-Commerce](https://dev.to/doltter/i-replaced-800mo-in-api-costs-with-a-local-llama-4-setup-for-e-commerce-2ipm)
+- [Breaking web apps](https://dev.to/ifeanyichima/breaking-web-apps-26bl)
+- [Notes from Reading Claude Code&#39;s Leaked Source](https://dev.to/arasovic/notes-from-reading-claude-codes-leaked-source-4eb5)
+- [Backend AI Needs an Action Surface, Not Just a Chat Box](https://dev.to/rapidkit/backend-ai-needs-an-action-surface-not-just-a-chat-box-40h4)
+- [Using AI to Build Your Year-End Performance Case](https://dev.to/9thquadrant/using-ai-to-build-your-year-end-performance-case-26kj)
+- [LLM OCR Benchmarks, Claude Code Context Issues, &amp; Cloud GPU Pricing Tool](https://dev.to/soytuber/llm-ocr-benchmarks-claude-code-context-issues-cloud-gpu-pricing-tool-4d2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
