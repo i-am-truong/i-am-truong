@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Dashboard: The Trick to Winning Over Your Clients with AI](https://dev.to/jestebandev/beyond-the-dashboard-the-trick-to-winning-over-your-clients-with-ai-kc4)
-- [I Built a Toast Library Where a Robot Delivers Your Notifications 🤖](https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo)
-- [The MCP Discovery Problem: Why 7,500+ Servers Is Both a Victory and a Warning](https://dev.to/codemalasartes/the-mcp-discovery-problem-why-7500-servers-is-both-a-victory-and-a-warning-3joe)
-- [I Tested Google Cloud Fraud Defense, Here is What Actually Changed 👇](https://dev.to/rasu-555/i-tested-google-cloud-fraud-defense-here-is-what-actually-changed-4aga)
-- [Fundamentals of Modern AI: Agents, MCP, Skills, and Orchestration](https://dev.to/mayzaynara/fundamentals-of-modern-ai-agents-mcp-skills-and-orchestration-1elm)
+- [Stop Exporting The Viewport: How Zoomed Image Editors Map Back To Original Pixels](https://dev.to/byeval/stop-exporting-the-viewport-how-zoomed-image-editors-map-back-to-original-pixels-3ko5)
+- [Building an LLM Tool Calling Workflow with DigitalOcean and Connected Databases](https://dev.to/digitalocean/building-an-llm-tool-calling-workflow-with-digitalocean-and-connected-databases-12op)
+- [Stay tuned for the Monthly Report for April next week!!! :D](https://dev.to/francistrdev/stay-tuned-for-the-monthly-report-for-april-next-week-d-19pi)
+- [Mastering Your Frontend Build with Bazel: Consolidating Tests](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-consolidating-tests-26nl)
+- [Stop Wasting GitHub Actions Minutes: How We Built a Commit-Driven CI System for iOS](https://dev.to/daksh-gargas/stop-wasting-github-actions-minutes-how-we-built-a-commit-driven-ci-system-for-ios-47cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
