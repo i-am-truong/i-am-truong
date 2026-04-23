@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sylvester-Schur Partial Lean 4 Formalization and the 699 &lt;-&gt; 961 Bridge &lpar;Rei-AIOS Paper 133&rpar;](https://dev.to/fc0web/sylvester-schur-partial-lean-4-formalization-and-the-699-961-bridge-rei-aios-paper-133-53bf)
-- [bisql &lpar;Clojure Data Access Library&rpar; released v0.4.0: Support Malli Validation](https://dev.to/conpoi/bisql-clojure-data-access-library-released-v040-support-malli-validation-1o0o)
-- [SIMDVec Supercharges Vector Hunt](https://dev.to/mordodemaru/simdvec-supercharges-vector-hunt-3co8)
-- [Agent2Agent Protocol, IBM Vault, &amp; OAuth 2.0 On-Behalf-Of](https://dev.to/joatmon08/agent2agent-protocol-ibm-vault-oauth-20-on-behalf-of-1hba)
-- [I built FuelFox to make finding cheap fuel in the UK much faster](https://dev.to/builtbytm/i-built-fuelfox-to-make-finding-cheap-fuel-in-the-uk-much-faster-3ome)
+- [-- WinToLin -- Easy tool to swtich from Windows to Linux.](https://dev.to/wintolin/-wintolin-easy-tool-to-swtich-from-windows-to-linux-8f5)
+- [From DALL-E to gpt-image-2: The Architectural Bet That Finally Fixed AI Text](https://dev.to/davide_mibelli_c4ef6b5c48/from-dall-e-to-gpt-image-2-the-architectural-bet-that-finally-fixed-ai-text-5347)
+- [Designing HPC Cluster Networking: What Speeds You Actually Need](https://dev.to/zubairakbar/designing-hpc-cluster-networking-what-speeds-you-actually-need-5akf)
+- [How to Build a Vendor-Agnostic Logger &lpar;with a Grafana Implementation&rpar;](https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo)
+- [I Replaced $800/mo in API Costs with a Local Llama 4 Setup for E-Commerce](https://dev.to/doltter/i-replaced-800mo-in-api-costs-with-a-local-llama-4-setup-for-e-commerce-2ipm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
