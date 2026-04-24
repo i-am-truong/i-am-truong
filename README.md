@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Industry Quietly Killed Junior Developer Jobs](https://dev.to/pavel_polivka/the-industry-quietly-killed-junior-developer-jobs-5eil)
-- [Google&#39;s Most Important NEXT &#39;26 Announcement Wasn&#39;t a Model — It Was an Architecture](https://dev.to/ritwikareddykancharla/googles-most-important-next-26-announcement-wasnt-a-model-it-was-an-architecture-1kke)
-- [Playwright Just Shipped the Fix For Flaky Tests I Built 3 Years Ago](https://dev.to/aiwithanton/playwright-just-shipped-the-fix-for-flaky-tests-i-built-3-years-ago-56nf)
-- [Gatekeeping Your Software](https://dev.to/theprinceofprogramming/gatekeeping-your-software-3n2i)
-- [Implementing a JSON Schema Validator from Scratch - Week 9](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-9-1jhe)
+- [LuxTorrent – a simple and lightweight torrent client 🟢](https://dev.to/daexoum/luxtorrent-a-simple-and-lightweight-torrent-client-283b)
+- [A few hours ago, I woke up to an email I didn&#39;t expect.](https://dev.to/scuradimensions/a-few-hours-ago-i-woke-up-to-an-email-i-didnt-expect-5371)
+- [Why Your Servo Installation Twitches Before It Starts](https://dev.to/_0c004e5fde78250aee362/why-your-servo-installation-twitches-before-it-starts-4e7k)
+- [Less human AI agents, please](https://dev.to/bansac1981/less-human-ai-agents-please-590l)
+- [¿Cuándo esta terminado?](https://dev.to/jagj77/cuando-esta-terminado-49ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
