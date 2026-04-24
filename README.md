@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I benchmarked 10 LLMs on slopsquatting — up to 87% installed fake packages](https://dev.to/depscope/i-benchmarked-10-llms-on-slopsquatting-up-to-87-installed-fake-packages-51e2)
-- [i burnt $127 in api credits before i fixed these openclaw mistakes](https://dev.to/aniruddhaadak/i-burnt-127-in-api-credits-before-i-fixed-these-openclaw-mistakes-1lf3)
-- [Kubernetes Building Blocks&lpar;1&rpar;](https://dev.to/rahimah_dev/kubernetes-building-blocks1-815)
-- [Open Source And The Contribution Cemetery](https://dev.to/cwprogram/open-source-and-the-contribution-cemetery-2kbm)
-- [Bitcoin Core Guix Attestation Guide](https://dev.to/nkatha_kaburu/bitcoin-core-guix-attestation-guide-3cf8)
+- [Top 6 Cryptocurrency Data APIs: Comprehensive Comparison &lpar;2026&rpar;](https://dev.to/kevin_menesesgonzlez/top-6-cryptocurrency-data-apis-comprehensive-comparison-2026-307m)
+- [Unpacking Git 2.54: Key Updates and Their Impact on Tech Startups](https://dev.to/dd8888/unpacking-git-254-key-updates-and-their-impact-on-tech-startups-1c5d)
+- [Combining Microsoft AGT Policies with Waxell Observability: A Reference Architecture](https://dev.to/waxell/combining-microsoft-agt-policies-with-waxell-observability-a-reference-architecture-bhp)
+- [TCP worked, UDP silently died: shipping a DNS proxy to fly.io](https://dev.to/kakarotdev/tcp-worked-udp-silently-died-shipping-a-dns-proxy-to-flyio-3e9n)
+- [DeepSeek V4 Price: Pro vs Flash API Costs](https://dev.to/super_jarvis_76aa3fc6035d/deepseek-v4-price-pro-vs-flash-api-costs-4lba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
