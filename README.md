@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Markdown editor &lpar;Markflow&rpar;](https://dev.to/igorkha/building-a-markdown-editor-markflow-2oam)
-- [Sustainability Isn&#39;t an Afterthought — It&#39;s an Architectural Choice](https://dev.to/fatih_sengul/sustainability-isnt-an-afterthought-its-an-architectural-choice-3796)
-- [I Stopped Using Playwright. Here&#39;s What Replaced It.](https://dev.to/arnaldo_delisio_5e35889d/i-stopped-using-playwright-heres-what-replaced-it-48mo)
-- [LLM-Native APIs: How the Runtime behind REST Changed Fundamentally in 2026](https://dev.to/epam_india_python/llm-native-apis-how-the-runtime-behind-rest-changed-fundamentally-in-2026-508f)
-- [Setting Up Docker on My Hosting Server &lpar;selfmade.lab&rpar;](https://dev.to/bharath_kumar_30_vog/setting-up-docker-on-my-hosting-server-selfmadelab-3pa8)
+- [From Figma to Production in Six Weeks: The Design-to-Code Pipeline We Use to Ship Flutter Apps](https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-production-in-six-weeks-the-design-to-code-pipeline-we-use-to-ship-flutter-apps-18p7)
+- [I Rode a Scooter in the Rain for 12 Hours. My 6 AI Agents Shipped a Product.](https://dev.to/bfo_ships/i-rode-a-scooter-in-the-rain-for-12-hours-my-6-ai-agents-shipped-a-product-19cj)
+- [Frontend and Backend of client #3 finally deployed to their respective cloud hosting providers! Now to test it..](https://dev.to/highcenburg/frontend-and-backend-of-client-3-finally-deployed-to-their-respective-cloud-hosting-providers-now-1jl9)
+- [Why Does 0.999… Equal 1? The Surprising Truth Explained Simply](https://dev.to/m_orkhan/why-does-0999-equal-1-the-surprising-truth-explained-simply-8he)
+- [Error Handling in JavaScript: Try, Catch, Finally](https://dev.to/kunal_dev/error-handling-in-javascript-try-catch-finally-28ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
