@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Figma to Production in Six Weeks: The Design-to-Code Pipeline We Use to Ship Flutter Apps](https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-production-in-six-weeks-the-design-to-code-pipeline-we-use-to-ship-flutter-apps-18p7)
-- [I Rode a Scooter in the Rain for 12 Hours. My 6 AI Agents Shipped a Product.](https://dev.to/bfo_ships/i-rode-a-scooter-in-the-rain-for-12-hours-my-6-ai-agents-shipped-a-product-19cj)
-- [Frontend and Backend of client #3 finally deployed to their respective cloud hosting providers! Now to test it..](https://dev.to/highcenburg/frontend-and-backend-of-client-3-finally-deployed-to-their-respective-cloud-hosting-providers-now-1jl9)
-- [Why Does 0.999… Equal 1? The Surprising Truth Explained Simply](https://dev.to/m_orkhan/why-does-0999-equal-1-the-surprising-truth-explained-simply-8he)
-- [Error Handling in JavaScript: Try, Catch, Finally](https://dev.to/kunal_dev/error-handling-in-javascript-try-catch-finally-28ip)
+- [Why Debugging Docker Containers Still Sucks &lpar;and How I Fixed It&rpar;](https://dev.to/ajitrai9878/why-debugging-docker-containers-still-sucks-and-how-i-fixed-it-3280)
+- [Why Your Go Service Has Latency Spikes &lpar;Even If It’s “Fast”&rpar;](https://dev.to/chiman_jain/why-your-go-service-has-latency-spikes-even-if-its-fast-oeo)
+- [Top Tools and Resources for AI Chatbot Automation](https://dev.to/it_zainlee_0f7f70ea3dc172/top-tools-and-resources-for-ai-chatbot-automation-99c)
+- [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
+- [How I Built a Personal Training Coach in One Week](https://dev.to/bokuno_log/how-i-built-a-personal-training-coach-in-one-week-47m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
