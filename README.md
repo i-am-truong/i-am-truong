@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Spreads Across Studios, Hospitals, and Cloud Infrastructure](https://dev.to/anikalp1/ai-spreads-across-studios-hospitals-and-cloud-infrastructure-5647)
-- [Business Object Tool: Powering AI Agents with Structured Enterprise Data](https://dev.to/halton_chen/business-object-tool-powering-ai-agents-with-structured-enterprise-data-21jm)
-- [Build a Real-Time Australian Emergency Map with JavaScript &lpar;Free API&rpar;](https://dev.to/jack_demps/build-a-real-time-australian-emergency-map-with-javascript-free-api-3ope)
-- [The Three Layers Developers Miss When They “Swap Models” &lpar;And Why Proxy‑Routing Claude Code Breaks All of Them&rpar;](https://dev.to/narnaiezzsshaa/the-three-layers-developers-miss-when-they-swap-models-and-why-proxy-routing-claude-code-breaks-59ge)
-- [Token Gated Access: The Hidden Key to Building Exclusive Web3 Communities](https://dev.to/yos/token-gated-access-the-hidden-key-to-building-exclusive-web3-communities-5c7e)
+- [Hello World](https://dev.to/harryy2510/hello-world-581f)
+- [Multi-Region Disaster Recovery: What Your RPO/RTO Decisions Actually Cost](https://dev.to/riya_mittal_cdd264250ad45/multi-region-disaster-recovery-what-your-rporto-decisions-actually-cost-5e0p)
+- [Backstage Is Not Free: The Real TCO of Building vs Buying an Internal Developer Platform](https://dev.to/riya_mittal_cdd264250ad45/backstage-is-not-free-the-real-tco-of-building-vs-buying-an-internal-developer-platform-5ce)
+- [Achieving Consistent Cinematic Color Grading for Your Image Series](https://dev.to/om_prakash_3311f8a4576605/achieving-consistent-cinematic-color-grading-for-your-image-series-4h7o)
+- [Deployment Frequency: How We Went From Weekly to 20x/Day](https://dev.to/samson_tanimawo/deployment-frequency-how-we-went-from-weekly-to-20xday-3lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
