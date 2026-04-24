@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Feature Flags to React in 5 Minutes](https://dev.to/domenico_giordano_e441224/how-to-add-feature-flags-to-react-in-5-minutes-mck)
-- [Layers Made It Universal. Harnesses Made It Run](https://dev.to/svasylenko/layers-made-it-universal-harnesses-made-it-run-2307)
-- [Flip the Axis: A Layer-Based Approach to Multi-Service Migrations](https://dev.to/svasylenko/flip-the-axis-a-layer-based-approach-to-multi-service-migrations-3a5d)
-- [Correlation-Aware Memory Search: How I Taught OpenClaw to Remember What Matters](https://dev.to/emkra/correlation-aware-memory-search-how-i-taught-openclaw-to-remember-what-matters-5djo)
-- [I Run My AI Content Pipeline on a $20 VPS &lpar;Because My $200 PC Crashed&rpar;](https://dev.to/jonoherrington/i-run-my-ai-content-pipeline-on-a-20-vps-because-my-200-pc-crashed-4e3m)
+- [Stop Chatting With Your AI. Start Scheduling It. A HEARTBEAT.md + Cron Tutorial for OpenClaw](https://dev.to/benjaminsqlserver/stop-chatting-with-your-ai-start-scheduling-it-a-heartbeatmd-cron-tutorial-for-openclaw-4386)
+- [CloudFormation Diagram Generator — Visualize AWS Templates Instantly](https://dev.to/pandey-raghvendra/cloudformation-diagram-generator-visualize-aws-templates-instantly-4038)
+- [Why Your API Calls Are Being Blocked In The Browser &lpar;and How to Fix It in 12 Lines&rpar;](https://dev.to/jordan_sterchele/why-your-api-calls-are-being-blocked-in-the-browser-and-how-to-fix-it-in-12-lines-17ip)
+- [Kotori, strongly typed and modular i18n library for React](https://dev.to/tylim88/kotori-strongly-typed-and-modular-i18n-library-for-react-pip)
+- [Why We Rarely Use GraphQL &lpar;And When We Do&rpar;](https://dev.to/ujjawal_tyagi_c5a84255da4/why-we-rarely-use-graphql-and-when-we-do-5dpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
