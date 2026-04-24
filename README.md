@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [40 cents a day, three weeks of corrupted writes, zero alerts fired](https://dev.to/nathanielc85523/40-cents-a-day-three-weeks-of-corrupted-writes-zero-alerts-fired-54i0)
-- [Discover PowerShell Commands: Advanced Searching](https://dev.to/arnostorg/discover-powershell-commands-advanced-searching-1ao2)
-- [Auth: It&#39;s Easier Than You Think](https://dev.to/neuraldownload/auth-its-easier-than-you-think-1phm)
-- [Why would you give your agents an email address?](https://dev.to/broodnet/why-would-you-give-your-agents-an-email-address-3a08)
-- [🤖 AI Dev Tools](https://dev.to/kalpesh47/ai-dev-tools-bmh)
+- [The Industry Quietly Killed Junior Developer Jobs](https://dev.to/pavel_polivka/the-industry-quietly-killed-junior-developer-jobs-5eil)
+- [Google&#39;s Most Important NEXT &#39;26 Announcement Wasn&#39;t a Model — It Was an Architecture](https://dev.to/ritwikareddykancharla/googles-most-important-next-26-announcement-wasnt-a-model-it-was-an-architecture-1kke)
+- [Playwright Just Shipped the Fix For Flaky Tests I Built 3 Years Ago](https://dev.to/aiwithanton/playwright-just-shipped-the-fix-for-flaky-tests-i-built-3-years-ago-56nf)
+- [Gatekeeping Your Software](https://dev.to/theprinceofprogramming/gatekeeping-your-software-3n2i)
+- [Implementing a JSON Schema Validator from Scratch - Week 9](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-9-1jhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
