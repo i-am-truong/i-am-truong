@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI agents need operating rules, not just prompts](https://dev.to/linou518/ai-agents-need-operating-rules-not-just-prompts-2d70)
-- [QuecPython + 1-Wire: IoT Device Communication Guide + Application Examples](https://dev.to/quecpython/quecpython-1-wire-iot-device-communication-guide-application-examples-53a7)
-- [COBOL Migration: A CTO&#39;s Risk-Balanced Playbook](https://dev.to/horizondev/cobol-migration-a-ctos-risk-balanced-playbook-37l9)
-- [Why We Killed Our SaaS to Open-Source LLM Observability for the EU](https://dev.to/iizzyy/why-we-killed-our-saas-to-open-source-llm-observability-for-the-eu-4gb)
-- [Building An AI Content Pipeline From Scratch: What Actually Works &lpar;And What&#39;s a Waste of Time&rpar;](https://dev.to/renc/building-an-ai-content-pipeline-from-scratch-what-actually-works-and-whats-a-waste-of-time-kl2)
+- [Claude Code, the Pricing Gap, and the Rise of Build-Your-Own AI](https://dev.to/andresclua/claude-code-the-pricing-gap-and-the-rise-of-build-your-own-ai-3j3i)
+- [How to Extract Colors from Images Using JavaScript 🎨](https://dev.to/devpalettes/-how-to-extract-colors-from-images-using-javascript-3mmk)
+- [🚀 REST vs gRPC Performance in Go: A Practical Benchmark-Driven Guide](https://dev.to/chiman_jain/rest-vs-grpc-performance-in-go-a-practical-benchmark-driven-guide-3dc)
+- [Probability: How AI Deals With Uncertainty](https://dev.to/yakhilesh/probability-how-ai-deals-with-uncertainty-5e34)
+- [GPU Prices Up 48% in Two Months. I Run LLMs in My Garage.](https://dev.to/pat9000/gpu-prices-up-48-in-two-months-i-run-llms-in-my-garage-1mkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
