@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Chatting With Your AI. Start Scheduling It. A HEARTBEAT.md + Cron Tutorial for OpenClaw](https://dev.to/benjaminsqlserver/stop-chatting-with-your-ai-start-scheduling-it-a-heartbeatmd-cron-tutorial-for-openclaw-4386)
-- [CloudFormation Diagram Generator — Visualize AWS Templates Instantly](https://dev.to/pandey-raghvendra/cloudformation-diagram-generator-visualize-aws-templates-instantly-4038)
-- [Why Your API Calls Are Being Blocked In The Browser &lpar;and How to Fix It in 12 Lines&rpar;](https://dev.to/jordan_sterchele/why-your-api-calls-are-being-blocked-in-the-browser-and-how-to-fix-it-in-12-lines-17ip)
-- [Kotori, strongly typed and modular i18n library for React](https://dev.to/tylim88/kotori-strongly-typed-and-modular-i18n-library-for-react-pip)
-- [Why We Rarely Use GraphQL &lpar;And When We Do&rpar;](https://dev.to/ujjawal_tyagi_c5a84255da4/why-we-rarely-use-graphql-and-when-we-do-5dpe)
+- [How Google Cloud NEXT &#39;26 Makes Building Full Stack Apps &lpar;Flutter + AI&rpar; Way Easier](https://dev.to/builddastaan/how-google-cloud-next-26-makes-building-full-stack-apps-flutter-ai-way-easier-3eh3)
+- [I just want to be unique in my own way](https://dev.to/dravonix_ltd_90f43c2dadd0/i-just-want-to-be-unique-in-my-own-way-knj)
+- [70,000 Empty Accounts: The Owner Doesn&#39;t Know He Left 120 SOL Behind](https://dev.to/solchekers/70000-empty-accounts-the-owner-doesnt-know-he-left-120-sol-behind-198j)
+- [I finally found a way to get rid of emojis in ChatGPT](https://dev.to/math-krish/i-finally-found-a-way-to-get-rid-of-emojis-in-chatgpt-52lf)
+- [A2A + MCP — The Two Protocols That Were the Actual Story of Google Cloud NEXT &#39;26](https://dev.to/devsaquib/a2a-mcp-the-two-protocols-that-were-the-actual-story-of-google-cloud-next-26-3pj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
