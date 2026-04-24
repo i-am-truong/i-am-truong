@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Cryptocurrency Data APIs: Comprehensive Comparison &lpar;2026&rpar;](https://dev.to/kevin_menesesgonzlez/top-6-cryptocurrency-data-apis-comprehensive-comparison-2026-307m)
-- [Unpacking Git 2.54: Key Updates and Their Impact on Tech Startups](https://dev.to/dd8888/unpacking-git-254-key-updates-and-their-impact-on-tech-startups-1c5d)
-- [Combining Microsoft AGT Policies with Waxell Observability: A Reference Architecture](https://dev.to/waxell/combining-microsoft-agt-policies-with-waxell-observability-a-reference-architecture-bhp)
-- [TCP worked, UDP silently died: shipping a DNS proxy to fly.io](https://dev.to/kakarotdev/tcp-worked-udp-silently-died-shipping-a-dns-proxy-to-flyio-3e9n)
-- [DeepSeek V4 Price: Pro vs Flash API Costs](https://dev.to/super_jarvis_76aa3fc6035d/deepseek-v4-price-pro-vs-flash-api-costs-4lba)
+- [How I turned raw product data into an interactive dashboard with GitHub Copilot CLI](https://dev.to/juliamuiruri4/how-i-turned-raw-product-data-into-an-interactive-dashboard-with-github-copilot-cli-3na7)
+- [VoteWise AI — Making the Election Process Simple, Interactive, and Intelligent](https://dev.to/tanish_diwakar_9a16972ca4/votewise-ai-making-the-election-process-simple-interactive-and-intelligent-28n8)
+- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://dev.to/pmbanugo/the-tokiorayon-trap-and-why-asyncawait-fails-concurrency-5cn6)
+- [Are technical writers being pushed to the side in tech?](https://dev.to/baddocsbettercareer/are-technical-writers-being-pushed-to-the-side-in-tech-1e6e)
+- [I Built a SaaS That Turns Any Website Into a Support Agent — Here&#39;s What I Learned](https://dev.to/sitewhisper/i-built-a-saas-that-turns-any-website-into-a-support-agent-heres-what-i-learned-939)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
