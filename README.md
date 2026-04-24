@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I turned raw product data into an interactive dashboard with GitHub Copilot CLI](https://dev.to/juliamuiruri4/how-i-turned-raw-product-data-into-an-interactive-dashboard-with-github-copilot-cli-3na7)
-- [VoteWise AI — Making the Election Process Simple, Interactive, and Intelligent](https://dev.to/tanish_diwakar_9a16972ca4/votewise-ai-making-the-election-process-simple-interactive-and-intelligent-28n8)
-- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://dev.to/pmbanugo/the-tokiorayon-trap-and-why-asyncawait-fails-concurrency-5cn6)
-- [Are technical writers being pushed to the side in tech?](https://dev.to/baddocsbettercareer/are-technical-writers-being-pushed-to-the-side-in-tech-1e6e)
-- [I Built a SaaS That Turns Any Website Into a Support Agent — Here&#39;s What I Learned](https://dev.to/sitewhisper/i-built-a-saas-that-turns-any-website-into-a-support-agent-heres-what-i-learned-939)
+- [40 cents a day, three weeks of corrupted writes, zero alerts fired](https://dev.to/nathanielc85523/40-cents-a-day-three-weeks-of-corrupted-writes-zero-alerts-fired-54i0)
+- [Discover PowerShell Commands: Advanced Searching](https://dev.to/arnostorg/discover-powershell-commands-advanced-searching-1ao2)
+- [Auth: It&#39;s Easier Than You Think](https://dev.to/neuraldownload/auth-its-easier-than-you-think-1phm)
+- [Why would you give your agents an email address?](https://dev.to/broodnet/why-would-you-give-your-agents-an-email-address-3a08)
+- [🤖 AI Dev Tools](https://dev.to/kalpesh47/ai-dev-tools-bmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
