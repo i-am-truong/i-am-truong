@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Execution Pipeline: A Secured Journey for Every Call](https://dev.to/tercelyi/the-11-step-execution-pipeline-a-secured-journey-for-every-call-50lp)
-- [From Chatbots to Coworkers: How Google Cloud NEXT ’26 Redefined Software as Agent Systems](https://dev.to/kanyingidickson-dev/from-chatbots-to-coworkers-how-google-cloud-next-26-redefined-software-as-agent-systems-1cfa)
-- [The Skill Ecosystem Has a Locked Door Problem — So I&#39;m Building the Lock](https://dev.to/amitgandhi-skill/the-skill-ecosystem-has-a-locked-door-problem-so-im-building-the-lock-3dc8)
-- [AWS vs GCP ตอนที่ 3: Organization &amp; User Management](https://dev.to/perajit/aws-vs-gcp-tnthii-3-organization-user-management-2omc)
-- [Giving Your Accounting App a Brain: NestJS &quot;MCP&quot;](https://dev.to/siren/giving-your-accounting-app-a-brain-nestjs-mcp-4nfc)
+- [Your CLAUDE.md Is an Instruction File. It Should Be a Failure Log.](https://dev.to/shipwithaiio/your-claudemd-is-an-instruction-file-it-should-be-a-failure-log-2i5c)
+- [I was tired of pulling in 500KB just to retry a HTTP call — so I built my own](https://dev.to/amine_from_laygab/i-was-tired-of-pulling-in-500kb-just-to-retry-a-http-call-so-i-built-my-own-4kn6)
+- [AWS RDS: Optimización de Performance para Database Engineers](https://dev.to/8infinitecloud/aws-rds-optimizacion-de-performance-para-database-engineers-22ij)
+- [How I&#39;d Build a Multi-Tenant Digital Employee Platform: Multi-LLM Routing, Approval Gates, MCP, and SOC2-Ready Audit Trails](https://dev.to/chen115y/how-id-build-a-multi-tenant-digital-employee-platform-multi-llm-routing-approval-gates-mcp-and-3fg0)
+- [Testing MCP Servers: The Five Gates Between Demo and Production](https://dev.to/guyernest/testing-mcp-servers-the-five-gates-between-demo-and-production-2inf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
