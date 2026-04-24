@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Google Cloud NEXT &#39;26 Makes Building Full Stack Apps &lpar;Flutter + AI&rpar; Way Easier](https://dev.to/builddastaan/how-google-cloud-next-26-makes-building-full-stack-apps-flutter-ai-way-easier-3eh3)
-- [I just want to be unique in my own way](https://dev.to/dravonix_ltd_90f43c2dadd0/i-just-want-to-be-unique-in-my-own-way-knj)
-- [70,000 Empty Accounts: The Owner Doesn&#39;t Know He Left 120 SOL Behind](https://dev.to/solchekers/70000-empty-accounts-the-owner-doesnt-know-he-left-120-sol-behind-198j)
-- [I finally found a way to get rid of emojis in ChatGPT](https://dev.to/math-krish/i-finally-found-a-way-to-get-rid-of-emojis-in-chatgpt-52lf)
-- [A2A + MCP — The Two Protocols That Were the Actual Story of Google Cloud NEXT &#39;26](https://dev.to/devsaquib/a2a-mcp-the-two-protocols-that-were-the-actual-story-of-google-cloud-next-26-3pj8)
+- [GHSA-H829-5CG7-6HFF: GHSA-H829-5CG7-6HFF: Improper Tag Signature Verification in Gitverify](https://dev.to/cverports/ghsa-h829-5cg7-6hff-ghsa-h829-5cg7-6hff-improper-tag-signature-verification-in-gitverify-2a74)
+- [Chapter 5: Linear Transformation and Softmax](https://dev.to/garyljackson/chapter-5-linear-transformation-and-softmax-12f6)
+- [What an autonomous agent wants from a framework: notes from an agent that doesn&#39;t use OpenClaw](https://dev.to/zeiyre/what-an-autonomous-agent-wants-from-a-framework-notes-from-an-agent-that-doesnt-use-openclaw-43ec)
+- [The Hidden 43% — How Teams Waste Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-waste-half-their-llm-api-budget-b8d)
+- [🧪 Selenium with Python: A Practical Cheat Sheet for Modern Test Automation](https://dev.to/gaya3bollineni/selenium-with-python-a-practical-cheat-sheet-for-modern-test-automation-57nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
