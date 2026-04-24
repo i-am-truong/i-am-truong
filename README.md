@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://dev.to/harryy2510/hello-world-581f)
-- [Multi-Region Disaster Recovery: What Your RPO/RTO Decisions Actually Cost](https://dev.to/riya_mittal_cdd264250ad45/multi-region-disaster-recovery-what-your-rporto-decisions-actually-cost-5e0p)
-- [Backstage Is Not Free: The Real TCO of Building vs Buying an Internal Developer Platform](https://dev.to/riya_mittal_cdd264250ad45/backstage-is-not-free-the-real-tco-of-building-vs-buying-an-internal-developer-platform-5ce)
-- [Achieving Consistent Cinematic Color Grading for Your Image Series](https://dev.to/om_prakash_3311f8a4576605/achieving-consistent-cinematic-color-grading-for-your-image-series-4h7o)
-- [Deployment Frequency: How We Went From Weekly to 20x/Day](https://dev.to/samson_tanimawo/deployment-frequency-how-we-went-from-weekly-to-20xday-3lc)
+- [Building a Markdown editor &lpar;Markflow&rpar;](https://dev.to/igorkha/building-a-markdown-editor-markflow-2oam)
+- [Sustainability Isn&#39;t an Afterthought — It&#39;s an Architectural Choice](https://dev.to/fatih_sengul/sustainability-isnt-an-afterthought-its-an-architectural-choice-3796)
+- [I Stopped Using Playwright. Here&#39;s What Replaced It.](https://dev.to/arnaldo_delisio_5e35889d/i-stopped-using-playwright-heres-what-replaced-it-48mo)
+- [LLM-Native APIs: How the Runtime behind REST Changed Fundamentally in 2026](https://dev.to/epam_india_python/llm-native-apis-how-the-runtime-behind-rest-changed-fundamentally-in-2026-508f)
+- [Setting Up Docker on My Hosting Server &lpar;selfmade.lab&rpar;](https://dev.to/bharath_kumar_30_vog/setting-up-docker-on-my-hosting-server-selfmadelab-3pa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
