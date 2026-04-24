@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code, the Pricing Gap, and the Rise of Build-Your-Own AI](https://dev.to/andresclua/claude-code-the-pricing-gap-and-the-rise-of-build-your-own-ai-3j3i)
-- [How to Extract Colors from Images Using JavaScript 🎨](https://dev.to/devpalettes/-how-to-extract-colors-from-images-using-javascript-3mmk)
-- [🚀 REST vs gRPC Performance in Go: A Practical Benchmark-Driven Guide](https://dev.to/chiman_jain/rest-vs-grpc-performance-in-go-a-practical-benchmark-driven-guide-3dc)
-- [Probability: How AI Deals With Uncertainty](https://dev.to/yakhilesh/probability-how-ai-deals-with-uncertainty-5e34)
-- [GPU Prices Up 48% in Two Months. I Run LLMs in My Garage.](https://dev.to/pat9000/gpu-prices-up-48-in-two-months-i-run-llms-in-my-garage-1mkd)
+- [AI治理最重要的能力：缺乏证据支持时懂得暂停](https://dev.to/senk/aizhi-li-zui-zhong-yao-de-neng-li-hui-ting-xia-er-bu-shi-zhi-wang-qian-chong-1247)
+- [I Built a Chrome Extension That Adds Playback Speed and Picture-in-Picture to Japan&#39;s Free Streaming Service](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-adds-playback-speed-and-picture-in-picture-to-japans-free-5bbo)
+- [I Built a Multi-LLM Debate Engine That Fact-Checks Itself in Real Time](https://dev.to/suat_cad1c7e9617374be97b2/i-built-a-multi-llm-debate-engine-that-fact-checks-itself-in-real-time-3oib)
+- [Why I built a Zero-Trust Proxy for my AI-controlled Robot 为什么我要为我的 AI 控制机器人构建零信任代理](https://dev.to/loopgap/why-i-built-a-zero-trust-proxy-for-my-ai-controlled-robot-wei-shi-yao-wo-yao-wei-wo-de-ai-kong-zhi-ji-qi-ren-gou-jian-ling-xin-ren-dai-li-55oh)
+- [Consistent Project Scaffolding at Scale with structkit](https://dev.to/structkit/consistent-project-scaffolding-at-scale-with-structkit-d8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
