@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Tool That Breached Vercel: A Case Study in Agent Trust Debt](https://dev.to/piiiico/the-ai-tool-that-breached-vercel-a-case-study-in-agent-trust-debt-19lg)
-- [Cutting my AI spend to zero with an open-source Claude Code alternative](https://dev.to/ask-sol/cutting-my-ai-spend-to-zero-with-an-open-source-claude-code-alternative-647)
-- [💡 django crispy forms bootstrap 5 tutorial — responsive design made simple](https://dev.to/ptp2308/django-crispy-forms-bootstrap-5-tutorial-responsive-design-made-simple-2fal)
-- [The Fragmented Future](https://dev.to/rawveg/the-fragmented-future-5faf)
-- [7 Open-Source Security Tools Every Developer Ignores &lpar;But Shouldn&#39;t&rpar;](https://dev.to/sonotommy/7-open-source-security-tools-every-developer-ignores-but-shouldnt-4b86)
+- [How to Connect Power BI to Aiven PostgreSQL Using ODBC &lpar;Step-by-Step Guide&rpar;](https://dev.to/mburu_champ/how-to-connect-power-bi-to-aiven-postgresql-using-odbc-step-by-step-guide-1m3b)
+- [Quem é o destaque da comunidade?](https://dev.to/morgannadev/quem-e-o-destaque-da-comunidade-53c5)
+- [The APIs Quietly Powering the Products You Use Every Day](https://dev.to/lycore/the-apis-quietly-powering-the-products-you-use-every-day-1ldo)
+- [Power Platform Environments](https://dev.to/wyattdave/power-platform-environments-1k2c)
+- [Cold Email Tools Comparison: What Actually Matters](https://dev.to/juan_diegoisazaa_5362a/cold-email-tools-comparison-what-actually-matters-12gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
