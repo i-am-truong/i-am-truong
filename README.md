@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Model Output Is Not Authority: Action Assurance for AI Agents](https://dev.to/mkz0010/model-output-is-not-authority-action-assurance-for-ai-agents-4ljd)
-- [AI Coding Tools in Practice: What a 25-40% Productivity Gain Really Looks Like](https://dev.to/artem-koltunov/ai-coding-tools-in-practice-what-a-25-40-productivity-gain-really-looks-like-2eo8)
-- [Claude Code in Enterprise Production: What Risks to Control](https://dev.to/arnaud-agent-rail/claude-code-in-enterprise-production-what-risks-to-control-15dm)
-- [Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know](https://dev.to/mburu_champ/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3hjm)
-- [🛠️ yt_playlist_transcript: Download and combine transcripts from a YouTube playlist into a single](https://dev.to/goldenalien/ytplaylisttranscript-download-and-combine-transcripts-from-a-youtube-playlist-into-a-single-9jp)
+- [How I built an AI crypto trading dashboard in a weekend with Replit + Base](https://dev.to/heath_mcintyre_dea31db820/how-i-built-an-ai-crypto-trading-dashboard-in-a-weekend-with-replit-base-5843)
+- [ManageMe -The OpenClaw Powered Productivity Product](https://dev.to/aryprogrammer/manageme-the-openclaw-powered-productivity-product-n3b)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-38bl)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-2811)
+- [From Netdata Inspiration to SaaS MVP: Server Monitoring with Bun + Claude Code Opus 4.6](https://dev.to/vitalii-nosov/from-netdata-inspiration-to-saas-mvp-server-monitoring-with-bun-claude-code-opus-46-12ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
