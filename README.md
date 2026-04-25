@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The best thing about Next 2026? The people.](https://dev.to/xbill/the-best-thing-about-next-2026-the-people-3nje)
-- [Give Your AI Agent Real-Time Product Data with BuyWhere](https://dev.to/buywhere/give-your-ai-agent-real-time-product-data-with-buywhere-3895)
-- [Reddit Subreddit Tracker 深度测评：批量追踪 Reddit 热门内容](https://dev.to/muskert/reddit-subreddit-tracker-shen-du-ce-ping-pi-liang-zhui-zong-reddit-re-men-nei-rong-23k8)
-- [Privacy-first mind mapping app. Part 4: Zero Knowledge and Private Thought](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-4-zero-knowledge-and-private-thought-4jf5)
-- [[SC] Usar un ejecutor de actor personalizado](https://dev.to/david_goyes_a488f58a17a53/sc-usar-un-ejecutor-de-actor-personalizado-ocm)
+- [Model Output Is Not Authority: Action Assurance for AI Agents](https://dev.to/mkz0010/model-output-is-not-authority-action-assurance-for-ai-agents-4ljd)
+- [AI Coding Tools in Practice: What a 25-40% Productivity Gain Really Looks Like](https://dev.to/artem-koltunov/ai-coding-tools-in-practice-what-a-25-40-productivity-gain-really-looks-like-2eo8)
+- [Claude Code in Enterprise Production: What Risks to Control](https://dev.to/arnaud-agent-rail/claude-code-in-enterprise-production-what-risks-to-control-15dm)
+- [Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know](https://dev.to/mburu_champ/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3hjm)
+- [🛠️ yt_playlist_transcript: Download and combine transcripts from a YouTube playlist into a single](https://dev.to/goldenalien/ytplaylisttranscript-download-and-combine-transcripts-from-a-youtube-playlist-into-a-single-9jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
