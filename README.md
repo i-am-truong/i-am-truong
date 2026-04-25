@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Fine-Tune Claude on Amazon Bedrock for Your Domain &lpar;Complete Guide with Code&rpar;](https://dev.to/dextralabs/how-to-fine-tune-claude-on-amazon-bedrock-for-your-domain-complete-guide-with-code-4oii)
-- [My Alert Pipeline Dropped Three Weeks of &quot;Unknown&quot; Emails Because a Webhook 403&#39;d](https://dev.to/whoffagents/my-alert-pipeline-dropped-three-weeks-of-unknown-emails-because-a-webhook-403d-48cn)
-- [If You Were in Your Early 20s Again… What Would You Do Differently?](https://dev.to/nish2005karsh/if-you-were-in-your-early-20s-again-what-would-you-do-differently-5402)
-- [Time&#39;s Fingerprint: How AI Finally Learned to Read the Speed of the World](https://dev.to/xoqhdgh1002/times-fingerprint-how-ai-finally-learned-to-read-the-speed-of-the-world-3l0k)
-- [How I built a browser-based IDE as a 12-year-old student &lpar;1 year of work&rpar;](https://dev.to/codingpulse/i-spent-1-year-building-a-fully-featured-online-ide-from-scratch-meet-codingpulse-47gj)
+- [I Built an Anime Tracker That Works Offline &lpar;No Backend!&rpar;](https://dev.to/salimuddin07/i-built-an-anime-tracker-that-works-offline-no-backend-17l3)
+- [Why fixing &#39;Direct/None&#39; alone won&#39;t reduce GA4&#39;s &#39;unknown traffic&#39;](https://dev.to/toshihiro_shishido/why-fixing-directnone-alone-wont-reduce-ga4s-unknown-traffic-43cd)
+- [Continuous monitoring caught a credential leak in a published MCP package. Six republishes later, it is still there.](https://dev.to/michael_onyekwere/continuous-monitoring-caught-a-credential-leak-in-a-published-mcp-package-six-republishes-later-3app)
+- [Bypass Netflix&#39;s Household Verification](https://dev.to/hellodevto/bypass-netflixs-household-verification-13cf)
+- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
