@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot CRUD Generator v1.1.0 — JPA Relationships, Done Right](https://dev.to/karansahani78/spring-boot-crud-generator-v110-jpa-relationships-done-right-2cb)
-- [Best AI Writing Tool in 2026: A Practical Guide](https://dev.to/juan_diegoisazaa_5362a/best-ai-writing-tool-in-2026-a-practical-guide-4ib8)
-- [Shipping x402 USDC Payments to Base + Solana Mainnet for an MCP Server](https://dev.to/rascal3/shipping-x402-usdc-payments-to-base-solana-mainnet-for-an-mcp-server-3a6o)
-- [A reader comment made me realise I&#39;d only solved half the problem](https://dev.to/krissv/a-reader-comment-made-me-realise-id-only-solved-half-the-problem-3cpg)
-- [Tian AI Self-Evolution: Code Modification Engine](https://dev.to/3969129510/tian-ai-self-evolution-code-modification-engine-2ig9)
+- [Master-Class: Sending Real-Time Updates from Server to Clients: Server to Server, Android, iOS](https://dev.to/piyush6348/master-class-sending-real-time-updates-from-server-to-clients-server-to-server-android-ios-10cg)
+- [I Document Like a Professional at Work. My Side Projects Are a Disaster.](https://dev.to/evanlausier/i-document-like-a-professional-at-work-my-side-projects-are-a-disaster-4p3h)
+- [Prompt as Authorization](https://dev.to/thatechmaestro/prompt-as-authorization-1kgp)
+- [What If You Could Text Your Laptop? Using OpenClaw to Control Your System via WhatsApp](https://dev.to/goldenthrust/what-if-you-could-text-your-laptop-using-openclaw-to-control-your-system-via-whatsapp-ge2)
+- [Project Management Frameworks That Deliver by Pablo M. Rivera](https://dev.to/pablo_rivera_dd7e4dc0faeb/project-management-frameworks-that-deliver-by-pablo-m-rivera-2cma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
