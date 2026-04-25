@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Rebuilt a Three-Layer Cache System in Java — Redis, L1, and MongoDB Done Right](https://dev.to/bingulhan/how-i-rebuilt-a-three-layer-cache-system-in-java-redis-l1-and-mongodb-done-right-165f)
-- [You Can&#39;t Build a Palace on a Broken Base ---My honest reaction to Google Cloud NEXT &#39;26 — from a loyalist](https://dev.to/kanchan_ghosh_ab4fceafe66/you-cant-build-a-palace-on-a-broken-base-my-honest-reaction-to-google-cloud-next-26-from-a-3cak)
-- [Why LLM Agents Fail: Four Mechanisms of Cognitive Decay and the Reasoning Harness Layer](https://dev.to/frank_brsrk/why-llm-agents-fail-four-mechanisms-of-cognitive-decay-and-the-reasoning-harness-layer-3148)
-- [Stop Building One Giant Prompt: A Better Way to Design LLM Systems](https://dev.to/swapneswar_sundarray/stop-building-one-giant-prompt-a-better-way-to-design-llm-systems-3g4n)
-- [Bayes&#39; theorem in machine learning](https://dev.to/silver_dev/bayes-theorem-in-machine-learning-ila)
+- [Week one: no code, just the work that makes the code possible](https://dev.to/earlgreyhot1701d/week-one-no-code-just-the-work-that-makes-the-code-possible-1gn3)
+- [Understanding Transformers Part 13: Introducing Encoder–Decoder Attention](https://dev.to/rijultp/understanding-transformers-part-13-introducing-encoder-decoder-attention-544e)
+- [I’m thinking of building my own AI-first personal operating system](https://dev.to/manthanbhatt/im-thinking-of-building-my-own-ai-first-personal-operating-system-13o5)
+- [Testing Bedrock Guardrails without the AWS bill](https://dev.to/vieiralucas/testing-bedrock-guardrails-without-the-aws-bill-38a8)
+- [Three Gaps, One Platform](https://dev.to/kadetr/three-gaps-one-platform-3pp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
