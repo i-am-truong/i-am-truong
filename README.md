@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a swing boat that reacts to doom scrolling](https://dev.to/edriso/i-made-a-swing-boat-that-reacts-to-doom-scrolling-1cmh)
-- [Grooming operates over time. Here&#39;s how behavioral detection tracks it.](https://dev.to/sentinelsafety/grooming-operates-over-time-heres-how-behavioral-detection-tracks-it-fb1)
-- [TodoMaster Pro — Launch](https://dev.to/venkatesh_annabathina_7fa/todomaster-pro-launch-55oh)
-- [Your Pipeline Is 28.3h Behind: Catching Business Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-283h-behind-catching-business-sentiment-leads-with-pulsebit-ibg)
-- [The Art of Reverse Prompting](https://dev.to/taarimalta/the-art-of-reverse-prompting-174c)
+- [The best thing about Next 2026? The people.](https://dev.to/xbill/the-best-thing-about-next-2026-the-people-3nje)
+- [Give Your AI Agent Real-Time Product Data with BuyWhere](https://dev.to/buywhere/give-your-ai-agent-real-time-product-data-with-buywhere-3895)
+- [Reddit Subreddit Tracker 深度测评：批量追踪 Reddit 热门内容](https://dev.to/muskert/reddit-subreddit-tracker-shen-du-ce-ping-pi-liang-zhui-zong-reddit-re-men-nei-rong-23k8)
+- [Privacy-first mind mapping app. Part 4: Zero Knowledge and Private Thought](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-4-zero-knowledge-and-private-thought-4jf5)
+- [[SC] Usar un ejecutor de actor personalizado](https://dev.to/david_goyes_a488f58a17a53/sc-usar-un-ejecutor-de-actor-personalizado-ocm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
