@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect Power BI to Aiven PostgreSQL Using ODBC &lpar;Step-by-Step Guide&rpar;](https://dev.to/mburu_champ/how-to-connect-power-bi-to-aiven-postgresql-using-odbc-step-by-step-guide-1m3b)
-- [Quem é o destaque da comunidade?](https://dev.to/morgannadev/quem-e-o-destaque-da-comunidade-53c5)
-- [The APIs Quietly Powering the Products You Use Every Day](https://dev.to/lycore/the-apis-quietly-powering-the-products-you-use-every-day-1ldo)
-- [Power Platform Environments](https://dev.to/wyattdave/power-platform-environments-1k2c)
-- [Cold Email Tools Comparison: What Actually Matters](https://dev.to/juan_diegoisazaa_5362a/cold-email-tools-comparison-what-actually-matters-12gc)
+- [Cancelé Claude: medí el deterioro de calidad con mis propios benchmarks antes de irme](https://dev.to/jtorchia/cancele-claude-medi-el-deterioro-de-calidad-con-mis-propios-benchmarks-antes-de-irme-11ca)
+- [etcd Is Your Kubernetes Database: What Breaks and What to Watch](https://dev.to/ntctech/etcd-is-your-kubernetes-database-what-breaks-and-what-to-watch-50i3)
+- [Introducing ExcaliClaw: A Skill for OpenClaw to Generate Excalidraw Diagrams](https://dev.to/nickytonline/introducing-excaliclaw-a-skill-for-openclaw-to-generate-excalidraw-diagrams-48k6)
+- [Quark&#39;s Outlines: Python Internal Types](https://dev.to/mike-vincent/quarks-outlines-python-internal-types-5581)
+- [The surprise AI bill problem is killing small products](https://dev.to/johns23424234324234/the-surprise-ai-bill-problem-is-killing-small-products-3298)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
