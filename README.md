@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agency Is the New Risk](https://dev.to/bridget_amana/agency-is-the-new-risk-2329)
-- [Buy a mac mini to Run OpenClaw? Anyone Can Get a Safer Sandbox in 1 Minute](https://dev.to/rednakta/buy-a-mac-mini-to-run-openclaw-anyone-can-get-a-safer-sandbox-in-1-minute-44c0)
-- [HappyDemon](https://dev.to/cybercrip22/happydemon-12ih)
-- [Bridging the Gap in Election Education with DemocracyEdu! 🗳️](https://dev.to/lalit_055/bridging-the-gap-in-election-education-with-democracyedu-3g2o)
-- [Building OpenClaw for Off-Grid Solar: Why AI Agents Are the Infrastructure Africa Actually Needs](https://dev.to/emmanuel_tomia_a736547da7/building-openclaw-for-off-grid-solar-why-ai-agents-are-the-infrastructure-africa-actually-needs-1p34)
+- [Mythos and Cyber Models: What does it mean for the future of software?](https://dev.to/shakti_mishra_308e9f36b5d/mythos-and-cyber-models-what-does-it-mean-for-the-future-of-software-edb)
+- [Software Developers: Redundant or Resilient?](https://dev.to/codisfy/software-developers-redundant-or-resilient-35b3)
+- [A Simple macOS Tool for Securely Overwriting Files &lpar;Without the CLI Headaches&rpar;](https://dev.to/brianna_morgan_efe5e75511/a-simple-macos-tool-for-securely-overwriting-files-without-the-cli-headaches-50pc)
+- [Why I Needed a Safe Way to Inspect QR Codes on iOS &lpar;and the Tool That Solved It&rpar;](https://dev.to/brianna_morgan_efe5e75511/why-i-needed-a-safe-way-to-inspect-qr-codes-on-ios-and-the-tool-that-solved-it-20f9)
+- [How We Think About Helping People Find Event Venues Without Making Search Feel Like Spam](https://dev.to/member_5432fd74/how-we-think-about-helping-people-find-event-venues-without-making-search-feel-like-spam-16la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
