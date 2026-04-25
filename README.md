@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to scrape RedNote &lpar;Xiaohongshu&rpar; with Python in 2026 — the auth/signing problem and how to handle it](https://dev.to/sami_8858131362756585e4f4/how-to-scrape-rednote-xiaohongshu-with-python-in-2026-the-authsigning-problem-and-how-to-3f9e)
-- [Top 3 AI Tools for Developers This Week](https://dev.to/learnairesource/top-3-ai-tools-for-developers-this-week-fjp)
-- [Azure Monitor: Deployment and Configuration](https://dev.to/pirrezz/azure-monitor-deployment-and-configuration-3mji)
-- [I Gave OpenClaw a Way to Bi-Directionally Communicate with other AI Tools and a Memory That All of them &lpar;10+&rpar; Can Read Simultaneously](https://dev.to/shawnsammartano/i-gave-openclaw-a-way-to-communicate-with-other-ai-tools-and-a-memory-that-all-of-them-11-can-3k99)
-- [Seeing Fast and Slow: Learning the Flow of Time in Videos](https://dev.to/xoqhdgh1002/seeing-fast-and-slow-learning-the-flow-of-time-in-videos-ec9)
+- [The Intention-Action Gap in Autonomous Agents](https://dev.to/the_bookmaster/the-intention-action-gap-in-autonomous-agents-15kj)
+- [The Fastest Way to Land Solana Transactions in 2026](https://dev.to/techmystique_/the-fastest-way-to-land-solana-transactions-in-2026-5gg9)
+- [SQL Injection Explained: How Hackers Bypass Login Forms &lpar;and How to Stop Them&rpar;](https://dev.to/sanjayghosh/sql-injection-explained-how-hackers-bypass-login-forms-and-how-to-stop-them-1gll)
+- [KickJS Asset Manager — Type-Safe File Resolution from Dev to Dist](https://dev.to/forinda/kickjs-asset-manager-type-safe-file-resolution-from-dev-to-dist-3ih9)
+- [Building MCP Apps with Angular](https://dev.to/dalenguyen/building-mcp-apps-with-angular-3849)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
