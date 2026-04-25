@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 6: Embeddings, the Forward Pass, and the Loss Function](https://dev.to/garyljackson/chapter-6-embeddings-the-forward-pass-and-the-loss-function-48dc)
-- [AI, Language, and the Guilt We Don’t Need](https://dev.to/baddocsbuildbettercareer/ai-language-and-the-guilt-we-dont-need-4c0j)
-- [I built a shields.io alternative that renders badges as shadcn/ui buttons](https://dev.to/jal-co/i-built-a-shieldsio-alternative-that-renders-badges-as-shadcnui-buttons-4bhn)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-4ocn)
-- [Hijacking OpenClaw with Claude](https://dev.to/siren/hijacking-openclaw-with-claude-49dg)
+- [Agency Is the New Risk](https://dev.to/bridget_amana/agency-is-the-new-risk-2329)
+- [Buy a mac mini to Run OpenClaw? Anyone Can Get a Safer Sandbox in 1 Minute](https://dev.to/rednakta/buy-a-mac-mini-to-run-openclaw-anyone-can-get-a-safer-sandbox-in-1-minute-44c0)
+- [HappyDemon](https://dev.to/cybercrip22/happydemon-12ih)
+- [Bridging the Gap in Election Education with DemocracyEdu! 🗳️](https://dev.to/lalit_055/bridging-the-gap-in-election-education-with-democracyedu-3g2o)
+- [Building OpenClaw for Off-Grid Solar: Why AI Agents Are the Infrastructure Africa Actually Needs](https://dev.to/emmanuel_tomia_a736547da7/building-openclaw-for-off-grid-solar-why-ai-agents-are-the-infrastructure-africa-actually-needs-1p34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
