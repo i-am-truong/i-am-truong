@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Anime Tracker That Works Offline &lpar;No Backend!&rpar;](https://dev.to/salimuddin07/i-built-an-anime-tracker-that-works-offline-no-backend-17l3)
-- [Why fixing &#39;Direct/None&#39; alone won&#39;t reduce GA4&#39;s &#39;unknown traffic&#39;](https://dev.to/toshihiro_shishido/why-fixing-directnone-alone-wont-reduce-ga4s-unknown-traffic-43cd)
-- [Continuous monitoring caught a credential leak in a published MCP package. Six republishes later, it is still there.](https://dev.to/michael_onyekwere/continuous-monitoring-caught-a-credential-leak-in-a-published-mcp-package-six-republishes-later-3app)
-- [Bypass Netflix&#39;s Household Verification](https://dev.to/hellodevto/bypass-netflixs-household-verification-13cf)
-- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo)
+- [IPC Pipe vs Unix Socket for a Resident Daemon in Tauri — What I Learned](https://dev.to/hiyoyok/ipc-pipe-vs-unix-socket-for-a-resident-daemon-in-tauri-what-i-learned-fa6)
+- [introduction to C: Why the &quot;Latin&quot; of programming Languages still Matters🚀](https://dev.to/aitaj_khudieva_7b6efcecd0/-title-introduction-to-c-why-the-latin-of-programming-languages-still-matters-2mfo)
+- [Process Modeling Using BPMN 2.0 &lpar;Using Visio BPMN Feature&rpar;](https://dev.to/pranay_trivedi_9e2af65696/process-modeling-using-bpmn-20-using-visio-bpmn-feature-kl8)
+- [We scanned 1,764 vibe-coded apps. 453 had critical vulnerabilities. Here&#39;s what we found beyond Supabase RLS.](https://dev.to/stefan_lederer_8b1bbcef01/we-scanned-1764-vibe-coded-apps-453-had-critical-vulnerabilities-heres-what-we-found-beyond-464e)
+- [Adaptadores USB 10 GbE con chip RTL8159: $80 y mitad del tamaño Thunderbolt](https://dev.to/lu1tr0n/adaptadores-usb-10-gbe-con-chip-rtl8159-80-y-mitad-del-tamano-thunderbolt-10pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
