@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cancelé Claude: medí el deterioro de calidad con mis propios benchmarks antes de irme](https://dev.to/jtorchia/cancele-claude-medi-el-deterioro-de-calidad-con-mis-propios-benchmarks-antes-de-irme-11ca)
-- [etcd Is Your Kubernetes Database: What Breaks and What to Watch](https://dev.to/ntctech/etcd-is-your-kubernetes-database-what-breaks-and-what-to-watch-50i3)
-- [Introducing ExcaliClaw: A Skill for OpenClaw to Generate Excalidraw Diagrams](https://dev.to/nickytonline/introducing-excaliclaw-a-skill-for-openclaw-to-generate-excalidraw-diagrams-48k6)
-- [Quark&#39;s Outlines: Python Internal Types](https://dev.to/mike-vincent/quarks-outlines-python-internal-types-5581)
-- [The surprise AI bill problem is killing small products](https://dev.to/johns23424234324234/the-surprise-ai-bill-problem-is-killing-small-products-3298)
+- [Spring Boot CRUD Generator v1.1.0 — JPA Relationships, Done Right](https://dev.to/karansahani78/spring-boot-crud-generator-v110-jpa-relationships-done-right-2cb)
+- [Best AI Writing Tool in 2026: A Practical Guide](https://dev.to/juan_diegoisazaa_5362a/best-ai-writing-tool-in-2026-a-practical-guide-4ib8)
+- [Shipping x402 USDC Payments to Base + Solana Mainnet for an MCP Server](https://dev.to/rascal3/shipping-x402-usdc-payments-to-base-solana-mainnet-for-an-mcp-server-3a6o)
+- [A reader comment made me realise I&#39;d only solved half the problem](https://dev.to/krissv/a-reader-comment-made-me-realise-id-only-solved-half-the-problem-3cpg)
+- [Tian AI Self-Evolution: Code Modification Engine](https://dev.to/3969129510/tian-ai-self-evolution-code-modification-engine-2ig9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
