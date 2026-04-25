@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IPC Pipe vs Unix Socket for a Resident Daemon in Tauri — What I Learned](https://dev.to/hiyoyok/ipc-pipe-vs-unix-socket-for-a-resident-daemon-in-tauri-what-i-learned-fa6)
-- [introduction to C: Why the &quot;Latin&quot; of programming Languages still Matters🚀](https://dev.to/aitaj_khudieva_7b6efcecd0/-title-introduction-to-c-why-the-latin-of-programming-languages-still-matters-2mfo)
-- [Process Modeling Using BPMN 2.0 &lpar;Using Visio BPMN Feature&rpar;](https://dev.to/pranay_trivedi_9e2af65696/process-modeling-using-bpmn-20-using-visio-bpmn-feature-kl8)
-- [We scanned 1,764 vibe-coded apps. 453 had critical vulnerabilities. Here&#39;s what we found beyond Supabase RLS.](https://dev.to/stefan_lederer_8b1bbcef01/we-scanned-1764-vibe-coded-apps-453-had-critical-vulnerabilities-heres-what-we-found-beyond-464e)
-- [Adaptadores USB 10 GbE con chip RTL8159: $80 y mitad del tamaño Thunderbolt](https://dev.to/lu1tr0n/adaptadores-usb-10-gbe-con-chip-rtl8159-80-y-mitad-del-tamano-thunderbolt-10pl)
+- [Kilo CLI — Installation &amp; Usage Guide](https://dev.to/kalpesh47/kilo-cli-installation-usage-guid-3del)
+- [The Machine Learning Lifecycle: 10 Steps From Problem to Production &lpar;And Why Most Projects Fail at Step 3&rpar;](https://dev.to/egepakten/the-machine-learning-lifecycle-10-steps-from-problem-to-production-and-why-most-projects-fail-at-b38)
+- [How I Finally Let a Bot Handle My &quot;Boring&quot; Work](https://dev.to/arnav_gawade_4e4a7b7dbae2/how-i-finally-let-a-bot-handle-my-boring-work-2020)
+- [Learn Kubernetes the Manga Way](https://dev.to/aoi/learn-kubernetes-the-manga-way-25of)
+- [AI actually made my tutorial addiction worse](https://dev.to/samareshdas/ai-actually-made-my-tutorial-addiction-worse-5ei7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
