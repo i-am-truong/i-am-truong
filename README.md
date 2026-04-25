@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Quick-ish Rundown of LLM Basics](https://dev.to/someoddcodeguy/a-quick-ish-rundown-of-llm-basics-4n14)
-- [Claude Code Billing Alert, Workflow Enhancements &amp; Open-Source OCR Benchmarks](https://dev.to/soytuber/claude-code-billing-alert-workflow-enhancements-open-source-ocr-benchmarks-nl1)
-- [CVMetric — Free ATS Resume Builder - Built for Modern Hiring Systems](https://dev.to/vexosoft_27/cvmetric-free-ats-resume-builder-built-for-modern-hiring-systems-gho)
-- [I Failed My Azure AI-102 Exam the First Time -Here&#39;s What I Learned](https://dev.to/aromal-cm/i-failed-my-azure-ai-102-exam-the-first-time-heres-what-i-learned-3moi)
-- [I built an AI-powered PDF generation API — here&#39;s how](https://dev.to/sanidhya_dev/i-built-an-ai-powered-pdf-generation-api-heres-how-4jcj)
+- [Chapter 6: Embeddings, the Forward Pass, and the Loss Function](https://dev.to/garyljackson/chapter-6-embeddings-the-forward-pass-and-the-loss-function-48dc)
+- [AI, Language, and the Guilt We Don’t Need](https://dev.to/baddocsbuildbettercareer/ai-language-and-the-guilt-we-dont-need-4c0j)
+- [I built a shields.io alternative that renders badges as shadcn/ui buttons](https://dev.to/jal-co/i-built-a-shieldsio-alternative-that-renders-badges-as-shadcnui-buttons-4bhn)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-4ocn)
+- [Hijacking OpenClaw with Claude](https://dev.to/siren/hijacking-openclaw-with-claude-49dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
