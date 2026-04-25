@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
-- [MCP + gRPC: The Missing Piece for Production-Ready AI Agents &lpar;No More JSON Pain!&rpar;](https://dev.to/akshitzatakia/mcp-grpc-the-missing-piece-for-production-ready-ai-agents-no-more-json-pain-4gah)
-- [Your Solana Address Is Actually Your SSH Key: Understanding On-Chain Identity](https://dev.to/lymah/your-solana-address-is-actually-your-ssh-key-understanding-on-chain-identity-a7h)
-- [Plexus: A WiFi Graph RAG for Network Troubleshooting](https://dev.to/sruthik_issac/plexus-a-wifi-graph-rag-for-network-troubleshooting-476k)
-- [Will AI replace technical writers?](https://dev.to/baddocsbuildbettercareer/will-ai-replace-technical-writers-21g0)
+- [I made a swing boat that reacts to doom scrolling](https://dev.to/edriso/i-made-a-swing-boat-that-reacts-to-doom-scrolling-1cmh)
+- [Grooming operates over time. Here&#39;s how behavioral detection tracks it.](https://dev.to/sentinelsafety/grooming-operates-over-time-heres-how-behavioral-detection-tracks-it-fb1)
+- [TodoMaster Pro — Launch](https://dev.to/venkatesh_annabathina_7fa/todomaster-pro-launch-55oh)
+- [Your Pipeline Is 28.3h Behind: Catching Business Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-283h-behind-catching-business-sentiment-leads-with-pulsebit-ibg)
+- [The Art of Reverse Prompting](https://dev.to/taarimalta/the-art-of-reverse-prompting-174c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
