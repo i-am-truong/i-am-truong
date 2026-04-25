@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming MCPs, Skills, and Agent Chaos with ToolHive](https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e)
-- [Self-Improving Python Scripts with LLMs: My Journey](https://dev.to/rtt_enjoy_321ecb2d475c379/self-improving-python-scripts-with-llms-my-journey-1ma5)
-- [CodeGuard: Open Source AI Security Scanner for Developers and SecOps Teams](https://dev.to/collins73/codeguard-open-source-ai-security-scanner-for-developers-and-secops-teams-4g58)
-- [I built a competitor pricing monitor in 3 days, here&#39;s how it actually works](https://dev.to/erramix01/i-built-a-competitor-pricing-monitor-in-3-days-heres-how-it-actually-works-1mg7)
-- [The Journey from Scattered Data to an Apache Iceberg Lakehouse with Governed Agentic Analytics](https://dev.to/alexmercedcoder/the-journey-from-scattered-data-to-an-apache-iceberg-lakehouse-with-governed-agentic-analytics-1o3o)
+- [A Quick-ish Rundown of LLM Basics](https://dev.to/someoddcodeguy/a-quick-ish-rundown-of-llm-basics-4n14)
+- [Claude Code Billing Alert, Workflow Enhancements &amp; Open-Source OCR Benchmarks](https://dev.to/soytuber/claude-code-billing-alert-workflow-enhancements-open-source-ocr-benchmarks-nl1)
+- [CVMetric — Free ATS Resume Builder - Built for Modern Hiring Systems](https://dev.to/vexosoft_27/cvmetric-free-ats-resume-builder-built-for-modern-hiring-systems-gho)
+- [I Failed My Azure AI-102 Exam the First Time -Here&#39;s What I Learned](https://dev.to/aromal-cm/i-failed-my-azure-ai-102-exam-the-first-time-heres-what-i-learned-3moi)
+- [I built an AI-powered PDF generation API — here&#39;s how](https://dev.to/sanidhya_dev/i-built-an-ai-powered-pdf-generation-api-heres-how-4jcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
