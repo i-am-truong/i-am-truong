@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week one: no code, just the work that makes the code possible](https://dev.to/earlgreyhot1701d/week-one-no-code-just-the-work-that-makes-the-code-possible-1gn3)
-- [Understanding Transformers Part 13: Introducing Encoder–Decoder Attention](https://dev.to/rijultp/understanding-transformers-part-13-introducing-encoder-decoder-attention-544e)
-- [I’m thinking of building my own AI-first personal operating system](https://dev.to/manthanbhatt/im-thinking-of-building-my-own-ai-first-personal-operating-system-13o5)
-- [Testing Bedrock Guardrails without the AWS bill](https://dev.to/vieiralucas/testing-bedrock-guardrails-without-the-aws-bill-38a8)
-- [Three Gaps, One Platform](https://dev.to/kadetr/three-gaps-one-platform-3pp6)
+- [⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever](https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855)
+- [Silicon Valley Builds for One Time Zone. I Built My Own Way In.](https://dev.to/jaayy213/silicon-valley-builds-for-one-time-zone-i-built-my-own-way-in-3a7l)
+- [Is AI Changing the Future of Developers? &lpar;Spoiler: It’s Not the End It’s the Upgrade&rpar;](https://dev.to/kashafabdullah/is-ai-changing-the-future-of-developers-spoiler-its-not-the-end-its-the-upgrade-809)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-jk0)
+- [InversifyJS + OpenAPI: One Schema to Validate Them All](https://dev.to/notaphplover/stop-maintaining-two-schemas-let-your-openapi-spec-validate-your-requests-egi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
