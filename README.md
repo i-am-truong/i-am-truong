@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built an AI crypto trading dashboard in a weekend with Replit + Base](https://dev.to/heath_mcintyre_dea31db820/how-i-built-an-ai-crypto-trading-dashboard-in-a-weekend-with-replit-base-5843)
-- [ManageMe -The OpenClaw Powered Productivity Product](https://dev.to/aryprogrammer/manageme-the-openclaw-powered-productivity-product-n3b)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-38bl)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-2811)
-- [From Netdata Inspiration to SaaS MVP: Server Monitoring with Bun + Claude Code Opus 4.6](https://dev.to/vitalii-nosov/from-netdata-inspiration-to-saas-mvp-server-monitoring-with-bun-claude-code-opus-46-12ja)
+- [How I Rebuilt a Three-Layer Cache System in Java — Redis, L1, and MongoDB Done Right](https://dev.to/bingulhan/how-i-rebuilt-a-three-layer-cache-system-in-java-redis-l1-and-mongodb-done-right-165f)
+- [You Can&#39;t Build a Palace on a Broken Base ---My honest reaction to Google Cloud NEXT &#39;26 — from a loyalist](https://dev.to/kanchan_ghosh_ab4fceafe66/you-cant-build-a-palace-on-a-broken-base-my-honest-reaction-to-google-cloud-next-26-from-a-3cak)
+- [Why LLM Agents Fail: Four Mechanisms of Cognitive Decay and the Reasoning Harness Layer](https://dev.to/frank_brsrk/why-llm-agents-fail-four-mechanisms-of-cognitive-decay-and-the-reasoning-harness-layer-3148)
+- [Stop Building One Giant Prompt: A Better Way to Design LLM Systems](https://dev.to/swapneswar_sundarray/stop-building-one-giant-prompt-a-better-way-to-design-llm-systems-3g4n)
+- [Bayes&#39; theorem in machine learning](https://dev.to/silver_dev/bayes-theorem-in-machine-learning-ila)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
