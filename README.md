@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Master-Class: Sending Real-Time Updates from Server to Clients: Server to Server, Android, iOS](https://dev.to/piyush6348/master-class-sending-real-time-updates-from-server-to-clients-server-to-server-android-ios-10cg)
-- [I Document Like a Professional at Work. My Side Projects Are a Disaster.](https://dev.to/evanlausier/i-document-like-a-professional-at-work-my-side-projects-are-a-disaster-4p3h)
-- [Prompt as Authorization](https://dev.to/thatechmaestro/prompt-as-authorization-1kgp)
-- [What If You Could Text Your Laptop? Using OpenClaw to Control Your System via WhatsApp](https://dev.to/goldenthrust/what-if-you-could-text-your-laptop-using-openclaw-to-control-your-system-via-whatsapp-ge2)
-- [Project Management Frameworks That Deliver by Pablo M. Rivera](https://dev.to/pablo_rivera_dd7e4dc0faeb/project-management-frameworks-that-deliver-by-pablo-m-rivera-2cma)
+- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
+- [MCP + gRPC: The Missing Piece for Production-Ready AI Agents &lpar;No More JSON Pain!&rpar;](https://dev.to/akshitzatakia/mcp-grpc-the-missing-piece-for-production-ready-ai-agents-no-more-json-pain-4gah)
+- [Your Solana Address Is Actually Your SSH Key: Understanding On-Chain Identity](https://dev.to/lymah/your-solana-address-is-actually-your-ssh-key-understanding-on-chain-identity-a7h)
+- [Plexus: A WiFi Graph RAG for Network Troubleshooting](https://dev.to/sruthik_issac/plexus-a-wifi-graph-rag-for-network-troubleshooting-476k)
+- [Will AI replace technical writers?](https://dev.to/baddocsbuildbettercareer/will-ai-replace-technical-writers-21g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
