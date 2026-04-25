@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kilo CLI — Installation &amp; Usage Guide](https://dev.to/kalpesh47/kilo-cli-installation-usage-guid-3del)
-- [The Machine Learning Lifecycle: 10 Steps From Problem to Production &lpar;And Why Most Projects Fail at Step 3&rpar;](https://dev.to/egepakten/the-machine-learning-lifecycle-10-steps-from-problem-to-production-and-why-most-projects-fail-at-b38)
-- [How I Finally Let a Bot Handle My &quot;Boring&quot; Work](https://dev.to/arnav_gawade_4e4a7b7dbae2/how-i-finally-let-a-bot-handle-my-boring-work-2020)
-- [Learn Kubernetes the Manga Way](https://dev.to/aoi/learn-kubernetes-the-manga-way-25of)
-- [AI actually made my tutorial addiction worse](https://dev.to/samareshdas/ai-actually-made-my-tutorial-addiction-worse-5ei7)
+- [How to build an website by using the Node.js](https://dev.to/gaurav_kamble_d3ecdbc36d2/how-to-build-an-website-by-using-the-nodejs-2ada)
+- [DeepSeek V4 核爆之后：开源 AI 真的在颠覆市场，还是只是泡沫？](https://dev.to/_cbd692d476c5faf3b61bcf/deepseek-v4-he-bao-zhi-hou-kai-yuan-ai-zhen-de-zai-dian-fu-shi-chang-huan-shi-zhi-shi-pao-mo--l4n)
+- [Google Cloud NEXT &#39;26: A FULL STACK Developer’s Take on Cloud Run &amp; AI](https://dev.to/syedahmershah/google-cloud-next-26-a-full-stack-developers-take-on-cloud-run-ai-37fl)
+- [What Is Mascot Engine? A Practical System for Building Interactive AI Mascots in Real Products](https://dev.to/uianimation/what-is-mascot-engine-a-practical-system-for-building-interactive-ai-mascots-in-real-products-26em)
+- [Screening Opportunities](https://dev.to/towernter/screening-opportunities-4g72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
