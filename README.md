@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built malloc&lpar;&rpar; from Scratch in C — Here’s What Went Wrong](https://dev.to/prajwal_zore_lm10/i-built-malloc-from-scratch-in-c-heres-what-went-wrong-5f60)
-- [Is Your Developer Community Just a Glorified Forum? Let&#39;s Change That.](https://dev.to/apives_ecosystem/is-your-developer-community-just-a-glorified-forum-lets-change-that-fi8)
-- [Why OPA and Rego Don&#39;t Work for AI Governance](https://dev.to/aguardic/why-opa-and-rego-dont-work-for-ai-governance-27hn)
-- [Top Free AI Tools That Boost Developer Productivity in 2026](https://dev.to/orbit_websites_b004ed2787/top-free-ai-tools-that-boost-developer-productivity-in-2026-4j6n)
-- [I built a visual traceroute game that transforms network routes into art [AMA]](https://dev.to/hallegbg/i-built-a-visual-traceroute-game-that-transforms-network-routes-into-art-ama-48im)
+- [repoDoc](https://dev.to/yashdodwani/repodoc-2498)
+- [Invincat: A CLI agent with structured, tiered memory governance for long-term engineering collaboration](https://dev.to/dogqiuqiu_9d49c09779ead05/invincat-a-cli-agent-with-structured-tiered-memory-governance-for-long-term-engineering-328p)
+- [How SSH Works—and How It Breaks &lpar;Part 2&rpar;: Simulating a Man-in-the-Middle Attack](https://dev.to/jodaut/how-ssh-works-and-how-it-breaks-part-2-simulating-a-man-in-the-middle-attack-iod)
+- [🦞 Deploying OpenClaw in 2026: The Complete Security &amp; Privacy Guide &lpar;macOS, Windows, Linux&rpar;](https://dev.to/samir_vaniya_ce9cc284f2f8/deploying-openclaw-in-2026-the-complete-security-privacy-guide-macos-windows-linux-4798)
+- [🕵️‍♂️ How Computers &quot;Hide&quot; a Minus Sign: The 2&#39;s Complement Trick](https://dev.to/laiba_90/how-computers-hide-a-minus-sign-the-2s-complement-trick-38f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
