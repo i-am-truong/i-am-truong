@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
-- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
-- [CrabTrap](https://dev.to/om_shinde_85b36685a779e14/crabtrap-2o20)
-- [From Broke Bots to Streaming Economies: Building the Agent Economy Wallet](https://dev.to/xavier_script/from-broke-bots-to-streaming-economies-building-the-agent-economy-wallet-edb)
-- [Your First Plot: Matplotlib Without the Pain](https://dev.to/yakhilesh/your-first-plot-matplotlib-without-the-pain-3hd9)
+- [Fonctionnement d’une blockchain - Étape 7/8 : Propagation &amp; validation du bloc](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-78-propagation-validation-du-bloc-16np)
+- [From Reviews to Revenue: An Autonomous Brand Ops Engine Powered by OpenClaw](https://dev.to/olawolemoses/from-reviews-to-revenue-an-autonomous-brand-ops-engine-powered-by-openclaw-26pi)
+- [New Track: Aurora Rise](https://dev.to/goldenalien/new-track-aurora-rise-1ii2)
+- [scaling backend servers: what nobody explains until you&#39;re already on fire](https://dev.to/asheeshh/scaling-backend-servers-what-nobody-explains-until-youre-already-on-fire-4p86)
+- [Eigenvectors and Eigenvalues: The Quantum Computing Secret Sauce &lpar;No PhD Required&rpar;](https://dev.to/malcolmlow/eigenvectors-and-eigenvalues-the-quantum-computing-secret-sauce-no-phd-required-2dpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
