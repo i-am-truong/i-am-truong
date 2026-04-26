@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Information Hits a Wall: Barriers in Cellular Automata](https://dev.to/jsamwrites/when-information-hits-a-wall-barriers-in-cellular-automata-3g32)
-- [Time-Series, Document, or Relational? The 5-Question Test Every New Project Needs](https://dev.to/gabrielanhaia/time-series-document-or-relational-the-5-question-test-every-new-project-needs-4ao6)
-- [How are you managing git &amp; gh access with Agents?](https://dev.to/thisisryanswift/how-are-you-managing-git-gh-access-with-agents-1gel)
-- [Agent Script: Salesforce&#39;s Open Language for Deterministic Agent Orchestration](https://dev.to/conor_61d358cde152bb5800a/agent-script-salesforces-open-language-for-deterministic-agent-orchestration-2h1o)
-- [Why Every RAG Company Is Quietly Building a Graph Layer in 2026](https://dev.to/gabrielanhaia/why-every-rag-company-is-quietly-building-a-graph-layer-in-2026-70p)
+- [How I Turned “It Works, But Users Are Confused” Into a Clear Onboarding Flow](https://dev.to/ezejah_chimkamma_06758a9b/how-i-turned-it-works-but-users-are-confused-into-a-clear-onboarding-flow-35b6)
+- [Chapter 7: The Training Loop and Adam Optimiser](https://dev.to/garyljackson/chapter-7-the-training-loop-and-adam-optimiser-1ca2)
+- [Hangout Planner - fighting cognitive atrophy and full process of making app](https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0)
+- [HOW TO SETUP PERFECTLY BGFX IN SDL2 &lpar;LINUX WAYLAND SUPPORT&rpar;](https://dev.to/pinggdevelop/how-to-setup-perfectly-bgfx-in-sdl2-linux-wayland-support-535b)
+- [Why I’m building a Python-only UI framework &lpar;and how v1.5 will change the game&rpar;](https://dev.to/rehan_mazhar_542c0a8b2074/why-im-building-a-python-only-ui-framework-and-how-v15-will-change-the-game-559h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
