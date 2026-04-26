@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3-Year Mobile Development TCO: What US Enterprises Actually Pay 2026](https://dev.to/alichherawalla/3-year-mobile-development-tco-what-us-enterprises-actually-pay-2026-1pdo)
-- [How to Add AI to an Enterprise Mobile App Without Triggering a Compliance Review: 2026 Playbook](https://dev.to/alichherawalla/how-to-add-ai-to-an-enterprise-mobile-app-without-triggering-a-compliance-review-2026-playbook-o9b)
-- [AI-Augmented Flutter Development: How US Enterprise Teams Ship Twice as Fast in 2026](https://dev.to/alichherawalla/ai-augmented-flutter-development-how-us-enterprise-teams-ship-twice-as-fast-in-2026-53og)
-- [AI-Augmented Native Android Development: How US Enterprise Teams Ship Faster in 2026](https://dev.to/alichherawalla/ai-augmented-native-android-development-how-us-enterprise-teams-ship-faster-in-2026-37lo)
-- [AI-Augmented Native iOS Development: How US Enterprise Teams Ship Faster in 2026](https://dev.to/alichherawalla/ai-augmented-native-ios-development-how-us-enterprise-teams-ship-faster-in-2026-651)
+- [Prowler is great. Here&#39;s what to do with 400 findings.](https://dev.to/bangullia/prowler-is-great-heres-what-to-do-with-400-findings-3g8g)
+- [Two Types of npm Supply Chain Attack: What Catches Each](https://dev.to/piiiico/two-types-of-npm-supply-chain-attack-what-catches-each-655)
+- [Under the Hood: The AI Architecture Powering AppInsight&#39;s Review Mining Pipeline](https://dev.to/tian_hao_79ba653a7d06ec46/under-the-hood-the-ai-architecture-powering-appinsights-review-mining-pipeline-4p0b)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 1](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-1-43og)
+- [&quot;Beating 250,000 Mental Comparisons: A Cross-Domain Engineer&#39;s Entity Resolution Case Study&quot;](https://dev.to/_d3709cf9e80fc6babbff/beating-250000-mental-comparisons-a-cross-domain-engineers-entity-resolution-case-study-3j1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
