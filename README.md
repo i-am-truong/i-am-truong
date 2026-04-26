@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fonctionnement d’une blockchain - Étape 7/8 : Propagation &amp; validation du bloc](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-78-propagation-validation-du-bloc-16np)
-- [From Reviews to Revenue: An Autonomous Brand Ops Engine Powered by OpenClaw](https://dev.to/olawolemoses/from-reviews-to-revenue-an-autonomous-brand-ops-engine-powered-by-openclaw-26pi)
-- [New Track: Aurora Rise](https://dev.to/goldenalien/new-track-aurora-rise-1ii2)
-- [scaling backend servers: what nobody explains until you&#39;re already on fire](https://dev.to/asheeshh/scaling-backend-servers-what-nobody-explains-until-youre-already-on-fire-4p86)
-- [Eigenvectors and Eigenvalues: The Quantum Computing Secret Sauce &lpar;No PhD Required&rpar;](https://dev.to/malcolmlow/eigenvectors-and-eigenvalues-the-quantum-computing-secret-sauce-no-phd-required-2dpa)
+- [What Is Sovereign?](https://dev.to/andreimerlescu/what-is-sovereign-4ikb)
+- [Use your Obsidian vault from Neovim, organized by project](https://dev.to/abhsss96/use-your-obsidian-vault-from-neovim-organized-by-project-3gm9)
+- [How I Stopped Chasing Production Errors Before My Coffee Got Cold](https://dev.to/nebulagg/how-i-stopped-chasing-production-errors-before-my-coffee-got-cold-3ail)
+- [I Let an AI Agent Review My PRs for a Week — Here&#39;s What It Caught](https://dev.to/nebulagg/i-let-an-ai-agent-review-my-prs-for-a-week-heres-what-it-caught-4geb)
+- [✋Await!! Aren&#39;t you hindering concurrency?](https://dev.to/krishnendudg/await-arent-you-hindering-concurrency-3db6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
