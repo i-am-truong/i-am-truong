@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of the Jira Git PR ritual, so I automated it](https://dev.to/aashishwastaken/i-got-tired-of-the-jira-git-pr-ritual-so-i-automated-it-36c9)
-- [Why Your Shipping Speed Hasn&#39;t Changed Since You Started Using AI](https://dev.to/daviidy/why-your-shipping-speed-hasnt-changed-since-you-started-using-ai-cl3)
-- [7 days of Solana](https://dev.to/smsonline/7-days-of-solana-1kk7)
-- [🚀 L&#39;IA générative transforme la révision juridique : ce que ça signifie pour les équipes légales au Québec](https://dev.to/alekclopez/lia-generative-transforme-la-revision-juridique-ce-que-ca-signifie-pour-les-equipes-legales-au-3792)
-- [Your Coding Agent&#39;s Best Feature Isn&#39;t the Code](https://dev.to/stevengonsalvez/your-coding-agents-best-feature-isnt-the-code-pgd)
+- [When Information Hits a Wall: Barriers in Cellular Automata](https://dev.to/jsamwrites/when-information-hits-a-wall-barriers-in-cellular-automata-3g32)
+- [Time-Series, Document, or Relational? The 5-Question Test Every New Project Needs](https://dev.to/gabrielanhaia/time-series-document-or-relational-the-5-question-test-every-new-project-needs-4ao6)
+- [How are you managing git &amp; gh access with Agents?](https://dev.to/thisisryanswift/how-are-you-managing-git-gh-access-with-agents-1gel)
+- [Agent Script: Salesforce&#39;s Open Language for Deterministic Agent Orchestration](https://dev.to/conor_61d358cde152bb5800a/agent-script-salesforces-open-language-for-deterministic-agent-orchestration-2h1o)
+- [Why Every RAG Company Is Quietly Building a Graph Layer in 2026](https://dev.to/gabrielanhaia/why-every-rag-company-is-quietly-building-a-graph-layer-in-2026-70p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
