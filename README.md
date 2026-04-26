@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building ASSISTLY: Integrating MongoDB into an AI Community Care Platform](https://dev.to/saimanoharigodavarty/building-assistly-integrating-mongodb-into-an-ai-community-care-platform-3ebi)
-- [My Harness Is Not a Cage. It&#39;s an Org Chart.](https://dev.to/synthaicode_commander/my-harness-is-not-a-cage-its-an-org-chart-3gl1)
-- [Micro-frontends with AI - it solves everything](https://dev.to/martindanielson/micro-frontends-with-ai-it-solves-everything-fo8)
-- [From HTTP Chaos to Kafka: How We Fixed Inter-Service Communication in a NestJS Microservices Platform](https://dev.to/riteshmacwan/from-http-chaos-to-kafka-how-we-fixed-inter-service-communication-in-a-nestjs-microservices-c46)
-- [The Importance of Tech Debt](https://dev.to/fabiosarmento/the-importance-of-tech-debt-2fcg)
+- [How to Build a SvelteKit SPA with FastAPI Backend](https://dev.to/tortoise62/how-to-build-a-sveltekit-spa-with-fastapi-backend-4p59)
+- [Using hf tokenizers in Rust](https://dev.to/wheynelau/using-hf-tokenizers-in-rust-1k5p)
+- [Celery + Redis at Scale: Designing a Reliable and Efficient Task Queue in Production](https://dev.to/artemooon/celery-redis-at-scale-designing-a-reliable-and-efficient-task-queue-in-production-27nh)
+- [AliExpress API Stress Test: 200 Requests, 100% Success Rate, and What It Means for AI Agents](https://dev.to/anh_nguyen_589e1928a98305/aliexpress-api-stress-test-200-requests-100-success-rate-and-what-it-means-for-ai-agents-5d67)
+- [Building Java Projects Without the Bloat: Introducing JAR Cart and the No-Build Extension Pack](https://dev.to/sudhanshuambastha/building-java-projects-without-the-bloat-introducing-jar-cart-and-the-no-build-extension-pack-27kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
