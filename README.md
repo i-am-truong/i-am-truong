@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 Practical Boto3 Scripts for S3 Every DevOps Engineer Should Know](https://dev.to/zubairakbar/4-practical-boto3-scripts-for-s3-every-devops-engineer-should-know-4m27)
-- [👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API](https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d)
-- [I Spent Weeks Reverse-Engineering OpenClaw. Here&#39;s What Nobody Tells You.](https://dev.to/nazarf/i-spent-weeks-reverse-engineering-openclaw-heres-what-nobody-tells-you-4bch)
-- [Your Data Doppelgänger is Already Here.](https://dev.to/gimi5555/your-data-doppelganger-is-already-here-30a6)
-- [UCP Tech Council Expands: What the Meeting Minutes Tell Us About Where the Protocol Is Heading](https://dev.to/benjifisher/ucp-tech-council-expands-what-the-meeting-minutes-tell-us-about-where-the-protocol-is-heading-5a92)
+- [The Real Token Economy Is Not About Spending Less. It Is About Thinking Smaller.](https://dev.to/marcosomma/the-real-token-economy-is-not-about-spending-less-it-is-about-thinking-smaller-3j3e)
+- [Built a native MCP server for Odoo so Claude, Cursor, and Codex can drive it directly](https://dev.to/keshrath/built-a-native-mcp-server-for-odoo-so-claude-cursor-and-codex-can-drive-it-directly-3g1f)
+- [The Bug That Cost Me Three Weeks: Why Your SL/TP Logic Is Probably Wrong](https://dev.to/stanco23/the-bug-that-cost-me-three-weeks-why-your-sltp-logic-is-probably-wrong-30eb)
+- [on the plane, again](https://dev.to/shrouwoods/on-the-plane-again-3j90)
+- [logic](https://dev.to/shrouwoods/logic-3360)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
