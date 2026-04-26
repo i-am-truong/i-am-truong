@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When my RL agent started writing about Star Wars instead of fixing servers](https://dev.to/yahid_8a7de5acccfed5466/when-my-rl-agent-started-writing-about-star-wars-instead-of-fixing-servers-29p8)
-- [What I learned about Claude Code Skills](https://dev.to/zain_7facb849d15c435622f8/what-i-learned-about-claude-code-skills-28dn)
-- [Why Docker is No Longer Optional: Moving from &quot;It Works on My Machine&quot; to Production](https://dev.to/vinodkumarjaipal/why-docker-is-no-longer-optional-moving-from-it-works-on-my-machine-to-production-3end)
-- [Giving README-Driven Development Superpowers with bbt](https://dev.to/lioneldraghi/giving-readme-driven-development-superpowers-with-bbt-2a1h)
-- [Testing Emails in 2026: Why I Built a Better Mailcatcher &lpar;And Why You Should Switch&rpar;](https://dev.to/erkenes/testing-emails-in-2026-why-i-built-a-better-mailcatcher-and-why-you-should-switch-5gan)
+- [Anthropic is paying $570k for engineers..why not just use Claude Code? 🤔](https://dev.to/horsecoder/anthropic-is-paying-570k-for-engineerswhy-not-just-use-claude-code-36ci)
+- [Creating AWS S3 Bucket using Terraform](https://dev.to/brian_mengo/creating-aws-s3-bucket-using-terraform-4f6k)
+- [Connecting Power BI to PostgreSQL Database](https://dev.to/mburu_champ/connecting-power-bi-to-postgresql-database-e9d)
+- [I built a landing page for my CLI tool! and used the CLI tool itself to manage the workspace](https://dev.to/dev_for55/i-built-a-landing-page-for-my-cli-tool-and-used-the-cli-tool-itself-to-manage-the-workspace-1949)
+- [Configuring Tool Traces In Your MCP Gateway](https://dev.to/thenjdevopsguy/configuring-tool-traces-in-your-mcp-gateway-7mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
