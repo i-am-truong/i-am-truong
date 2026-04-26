@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic is paying $570k for engineers..why not just use Claude Code? 🤔](https://dev.to/horsecoder/anthropic-is-paying-570k-for-engineerswhy-not-just-use-claude-code-36ci)
-- [Creating AWS S3 Bucket using Terraform](https://dev.to/brian_mengo/creating-aws-s3-bucket-using-terraform-4f6k)
-- [Connecting Power BI to PostgreSQL Database](https://dev.to/mburu_champ/connecting-power-bi-to-postgresql-database-e9d)
-- [I built a landing page for my CLI tool! and used the CLI tool itself to manage the workspace](https://dev.to/dev_for55/i-built-a-landing-page-for-my-cli-tool-and-used-the-cli-tool-itself-to-manage-the-workspace-1949)
-- [Configuring Tool Traces In Your MCP Gateway](https://dev.to/thenjdevopsguy/configuring-tool-traces-in-your-mcp-gateway-7mc)
+- [Building ASSISTLY: Integrating MongoDB into an AI Community Care Platform](https://dev.to/saimanoharigodavarty/building-assistly-integrating-mongodb-into-an-ai-community-care-platform-3ebi)
+- [My Harness Is Not a Cage. It&#39;s an Org Chart.](https://dev.to/synthaicode_commander/my-harness-is-not-a-cage-its-an-org-chart-3gl1)
+- [Micro-frontends with AI - it solves everything](https://dev.to/martindanielson/micro-frontends-with-ai-it-solves-everything-fo8)
+- [From HTTP Chaos to Kafka: How We Fixed Inter-Service Communication in a NestJS Microservices Platform](https://dev.to/riteshmacwan/from-http-chaos-to-kafka-how-we-fixed-inter-service-communication-in-a-nestjs-microservices-c46)
+- [The Importance of Tech Debt](https://dev.to/fabiosarmento/the-importance-of-tech-debt-2fcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
