@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-4n78)
-- [A Discord Group Accessed a Restricted AI That Finds Zero-Day Bugs -Here’s How It Happened](https://dev.to/dravidpa7/a-discord-group-accessed-a-restricted-ai-that-finds-zero-day-bugs-heres-how-it-happened-529m)
-- [ntop vs Commercial Traffic Analyzers: When Free Tools Hit Their Limits](https://dev.to/anatraf_482389aa982e/ntop-vs-commercial-traffic-analyzers-when-free-tools-hit-their-limits-34k9)
-- [How a 3-Location Dental Group Doubled Patients, and What It Teaches Us About How to Grow a Restaurant Chain Without a Big Marketing Budget](https://dev.to/__oddmodish/how-a-3-location-dental-group-doubled-patients-and-what-it-teaches-us-about-how-to-grow-a-28fo)
-- [80% of AI Projects in Banks Fail - Here’s Why &lpar;And How We Fixed It&rpar;](https://dev.to/swapneswar_sundarray/80-of-ai-projects-in-banks-fail-heres-why-and-how-we-fixed-it-5bab)
+- [Anthropic Just Proved Agents Can Do Commerce. Here&#39;s What They Didn&#39;t Build.](https://dev.to/aaron_schnieder_4563d5d33/anthropic-just-proved-agents-can-do-commerce-heres-what-they-didnt-build-5209)
+- [Stich接入Codex教程](https://dev.to/gokuscraper/stichjie-ru-codexjiao-cheng-4kp6)
+- [The Taste Problem: When Your AI Agent Starts Having Preferences](https://dev.to/the_bookmaster/the-taste-problem-when-your-ai-agent-starts-having-preferences-1i33)
+- [TokTranscript: turn any TikTok into a transcript, then study why it worked](https://dev.to/shixin_zhang_060518ea1143/toktranscript-turn-any-tiktok-into-a-transcript-then-study-why-it-worked-4hp5)
+- [Your AI Agent Is Reading Poisoned Web Pages &lpar;And You Don&#39;t Know It&rpar;](https://dev.to/coridev/your-ai-agent-is-reading-poisoned-web-pages-and-you-dont-know-it-3ea8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
