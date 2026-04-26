@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [repoDoc](https://dev.to/yashdodwani/repodoc-2498)
-- [Invincat: A CLI agent with structured, tiered memory governance for long-term engineering collaboration](https://dev.to/dogqiuqiu_9d49c09779ead05/invincat-a-cli-agent-with-structured-tiered-memory-governance-for-long-term-engineering-328p)
-- [How SSH Works—and How It Breaks &lpar;Part 2&rpar;: Simulating a Man-in-the-Middle Attack](https://dev.to/jodaut/how-ssh-works-and-how-it-breaks-part-2-simulating-a-man-in-the-middle-attack-iod)
-- [🦞 Deploying OpenClaw in 2026: The Complete Security &amp; Privacy Guide &lpar;macOS, Windows, Linux&rpar;](https://dev.to/samir_vaniya_ce9cc284f2f8/deploying-openclaw-in-2026-the-complete-security-privacy-guide-macos-windows-linux-4798)
-- [🕵️‍♂️ How Computers &quot;Hide&quot; a Minus Sign: The 2&#39;s Complement Trick](https://dev.to/laiba_90/how-computers-hide-a-minus-sign-the-2s-complement-trick-38f0)
+- [Implementing Robust UDS Diagnostics and Secure ECU Flashing](https://dev.to/beefedai/implementing-robust-uds-diagnostics-and-secure-ecu-flashing-2g73)
+- [I wrote my third XML parser. Here&#39;s why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i)
+- [Mastermind: A Practical Agentic SDLC Workflow for VS Code + Copilot &lpar;Prototype Release&rpar;](https://dev.to/arkadiuszsieracki/mastermind-a-practical-agentic-sdlc-workflow-for-vs-code-copilot-prototype-release-72f)
+- [ConfigCat Alternative: Why Developers Are Switching to Rollgate](https://dev.to/domenico_giordano_e441224/configcat-alternative-why-developers-are-switching-to-rollgate-1ekf)
+- [Shortcut &amp; Mirroring](https://dev.to/sankalp_fabric_data_architect/shortcut-mirroring-jma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
