@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a SvelteKit SPA with FastAPI Backend](https://dev.to/tortoise62/how-to-build-a-sveltekit-spa-with-fastapi-backend-4p59)
-- [Using hf tokenizers in Rust](https://dev.to/wheynelau/using-hf-tokenizers-in-rust-1k5p)
-- [Celery + Redis at Scale: Designing a Reliable and Efficient Task Queue in Production](https://dev.to/artemooon/celery-redis-at-scale-designing-a-reliable-and-efficient-task-queue-in-production-27nh)
-- [AliExpress API Stress Test: 200 Requests, 100% Success Rate, and What It Means for AI Agents](https://dev.to/anh_nguyen_589e1928a98305/aliexpress-api-stress-test-200-requests-100-success-rate-and-what-it-means-for-ai-agents-5d67)
-- [Building Java Projects Without the Bloat: Introducing JAR Cart and the No-Build Extension Pack](https://dev.to/sudhanshuambastha/building-java-projects-without-the-bloat-introducing-jar-cart-and-the-no-build-extension-pack-27kc)
+- [15 Essential Sections Every README Needs: Give Your Project What It Deserves](https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie)
+- [How we used MongoDB as the persistence layer in TradeEval — a real-time stock behavior analysis platform](https://dev.to/lakshmivishali_kalvakolanu/how-we-used-mongodb-as-the-persistence-layer-in-tradeeval-a-real-time-stock-behavior-analysis-1l70)
+- [From Static to Runtime: Choosing Between CloudFront + S3, Amplify, and ECS for Frontends on AWS](https://dev.to/muhammad_ahmad_khan/from-static-to-runtime-choosing-between-cloudfront-s3-amplify-and-ecs-for-frontends-on-aws-15i5)
+- [I Built a GitHub Portfolio Analyzer with Next.js + Gemini AI](https://dev.to/nischayb99/i-built-a-github-portfolio-analyzer-with-nextjs-gemini-ai-2nb8)
+- [AWS Certification: Which One First? A Practical Path](https://dev.to/juan_diegoisazaa_5362a/aws-certification-which-one-first-a-practical-path-15ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
