@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mythos and Cyber Models: What does it mean for the future of software?](https://dev.to/shakti_mishra_308e9f36b5d/mythos-and-cyber-models-what-does-it-mean-for-the-future-of-software-edb)
-- [Software Developers: Redundant or Resilient?](https://dev.to/codisfy/software-developers-redundant-or-resilient-35b3)
-- [A Simple macOS Tool for Securely Overwriting Files &lpar;Without the CLI Headaches&rpar;](https://dev.to/brianna_morgan_efe5e75511/a-simple-macos-tool-for-securely-overwriting-files-without-the-cli-headaches-50pc)
-- [Why I Needed a Safe Way to Inspect QR Codes on iOS &lpar;and the Tool That Solved It&rpar;](https://dev.to/brianna_morgan_efe5e75511/why-i-needed-a-safe-way-to-inspect-qr-codes-on-ios-and-the-tool-that-solved-it-20f9)
-- [How We Think About Helping People Find Event Venues Without Making Search Feel Like Spam](https://dev.to/member_5432fd74/how-we-think-about-helping-people-find-event-venues-without-making-search-feel-like-spam-16la)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-4n78)
+- [A Discord Group Accessed a Restricted AI That Finds Zero-Day Bugs -Here’s How It Happened](https://dev.to/dravidpa7/a-discord-group-accessed-a-restricted-ai-that-finds-zero-day-bugs-heres-how-it-happened-529m)
+- [ntop vs Commercial Traffic Analyzers: When Free Tools Hit Their Limits](https://dev.to/anatraf_482389aa982e/ntop-vs-commercial-traffic-analyzers-when-free-tools-hit-their-limits-34k9)
+- [How a 3-Location Dental Group Doubled Patients, and What It Teaches Us About How to Grow a Restaurant Chain Without a Big Marketing Budget](https://dev.to/__oddmodish/how-a-3-location-dental-group-doubled-patients-and-what-it-teaches-us-about-how-to-grow-a-28fo)
+- [80% of AI Projects in Banks Fail - Here’s Why &lpar;And How We Fixed It&rpar;](https://dev.to/swapneswar_sundarray/80-of-ai-projects-in-banks-fail-heres-why-and-how-we-fixed-it-5bab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
