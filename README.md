@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prowler is great. Here&#39;s what to do with 400 findings.](https://dev.to/bangullia/prowler-is-great-heres-what-to-do-with-400-findings-3g8g)
-- [Two Types of npm Supply Chain Attack: What Catches Each](https://dev.to/piiiico/two-types-of-npm-supply-chain-attack-what-catches-each-655)
-- [Under the Hood: The AI Architecture Powering AppInsight&#39;s Review Mining Pipeline](https://dev.to/tian_hao_79ba653a7d06ec46/under-the-hood-the-ai-architecture-powering-appinsights-review-mining-pipeline-4p0b)
-- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 1](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-1-43og)
-- [&quot;Beating 250,000 Mental Comparisons: A Cross-Domain Engineer&#39;s Entity Resolution Case Study&quot;](https://dev.to/_d3709cf9e80fc6babbff/beating-250000-mental-comparisons-a-cross-domain-engineers-entity-resolution-case-study-3j1b)
+- [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-under-409d)
+- [Cursor Rules for Vue 3 and Nuxt: AI Dev Guide 2026](https://dev.to/olivia_craft/cursor-rules-for-vue-3-and-nuxt-ai-dev-guide-2026-iim)
+- [Beyond the APK: Mastering Model Lifecycles and AICore in Modern Android Development](https://dev.to/programmingcentral/beyond-the-apk-mastering-model-lifecycles-and-aicore-in-modern-android-development-4khh)
+- [WEB UI in Go? Nothing Can Stop Me!](https://dev.to/alzhi_f93e67fa45b972/web-ui-in-go-nothing-can-stop-me-2j7k)
+- [Overcoming Core Challenges in Web3 and Blockchain Development](https://dev.to/jessewalker322/overcoming-core-challenges-in-web3-and-blockchain-development-2i8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
