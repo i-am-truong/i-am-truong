@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Robust UDS Diagnostics and Secure ECU Flashing](https://dev.to/beefedai/implementing-robust-uds-diagnostics-and-secure-ecu-flashing-2g73)
-- [I wrote my third XML parser. Here&#39;s why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i)
-- [Mastermind: A Practical Agentic SDLC Workflow for VS Code + Copilot &lpar;Prototype Release&rpar;](https://dev.to/arkadiuszsieracki/mastermind-a-practical-agentic-sdlc-workflow-for-vs-code-copilot-prototype-release-72f)
-- [ConfigCat Alternative: Why Developers Are Switching to Rollgate](https://dev.to/domenico_giordano_e441224/configcat-alternative-why-developers-are-switching-to-rollgate-1ekf)
-- [Shortcut &amp; Mirroring](https://dev.to/sankalp_fabric_data_architect/shortcut-mirroring-jma)
+- [I got tired of the Jira Git PR ritual, so I automated it](https://dev.to/aashishwastaken/i-got-tired-of-the-jira-git-pr-ritual-so-i-automated-it-36c9)
+- [Why Your Shipping Speed Hasn&#39;t Changed Since You Started Using AI](https://dev.to/daviidy/why-your-shipping-speed-hasnt-changed-since-you-started-using-ai-cl3)
+- [7 days of Solana](https://dev.to/smsonline/7-days-of-solana-1kk7)
+- [🚀 L&#39;IA générative transforme la révision juridique : ce que ça signifie pour les équipes légales au Québec](https://dev.to/alekclopez/lia-generative-transforme-la-revision-juridique-ce-que-ca-signifie-pour-les-equipes-legales-au-3792)
+- [Your Coding Agent&#39;s Best Feature Isn&#39;t the Code](https://dev.to/stevengonsalvez/your-coding-agents-best-feature-isnt-the-code-pgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
