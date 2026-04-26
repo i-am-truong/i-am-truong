@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Sovereign?](https://dev.to/andreimerlescu/what-is-sovereign-4ikb)
-- [Use your Obsidian vault from Neovim, organized by project](https://dev.to/abhsss96/use-your-obsidian-vault-from-neovim-organized-by-project-3gm9)
-- [How I Stopped Chasing Production Errors Before My Coffee Got Cold](https://dev.to/nebulagg/how-i-stopped-chasing-production-errors-before-my-coffee-got-cold-3ail)
-- [I Let an AI Agent Review My PRs for a Week — Here&#39;s What It Caught](https://dev.to/nebulagg/i-let-an-ai-agent-review-my-prs-for-a-week-heres-what-it-caught-4geb)
-- [✋Await!! Aren&#39;t you hindering concurrency?](https://dev.to/krishnendudg/await-arent-you-hindering-concurrency-3db6)
+- [I Built malloc&lpar;&rpar; from Scratch in C — Here’s What Went Wrong](https://dev.to/prajwal_zore_lm10/i-built-malloc-from-scratch-in-c-heres-what-went-wrong-5f60)
+- [Is Your Developer Community Just a Glorified Forum? Let&#39;s Change That.](https://dev.to/apives_ecosystem/is-your-developer-community-just-a-glorified-forum-lets-change-that-fi8)
+- [Why OPA and Rego Don&#39;t Work for AI Governance](https://dev.to/aguardic/why-opa-and-rego-dont-work-for-ai-governance-27hn)
+- [Top Free AI Tools That Boost Developer Productivity in 2026](https://dev.to/orbit_websites_b004ed2787/top-free-ai-tools-that-boost-developer-productivity-in-2026-4j6n)
+- [I built a visual traceroute game that transforms network routes into art [AMA]](https://dev.to/hallegbg/i-built-a-visual-traceroute-game-that-transforms-network-routes-into-art-ama-48im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
