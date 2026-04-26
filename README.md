@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to install python package in Spyder standalone](https://dev.to/twomoresteps/how-to-install-python-package-in-spyder-standalone-d5m)
-- [I built a Chrome extension that tells you exactly why your resume isn&#39;t getting callbacks](https://dev.to/deckdout/i-built-a-chrome-extension-that-tells-you-exactly-why-your-resume-isnt-getting-callbacks-4ao0)
-- [I Was Building a Live Trading Bot and a Patented Wagering System. The Bug I Found Is Now Breaking AI Agents Everywhere.](https://dev.to/azender1/i-was-building-a-live-trading-bot-and-a-patented-wagering-system-the-bug-i-found-is-now-breaking-2oeg)
-- [The Many Ways Software Engineers Can Go Independent](https://dev.to/sap1ens/the-many-ways-software-engineers-can-go-independent-16h1)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-1735)
+- [3-Year Mobile Development TCO: What US Enterprises Actually Pay 2026](https://dev.to/alichherawalla/3-year-mobile-development-tco-what-us-enterprises-actually-pay-2026-1pdo)
+- [How to Add AI to an Enterprise Mobile App Without Triggering a Compliance Review: 2026 Playbook](https://dev.to/alichherawalla/how-to-add-ai-to-an-enterprise-mobile-app-without-triggering-a-compliance-review-2026-playbook-o9b)
+- [AI-Augmented Flutter Development: How US Enterprise Teams Ship Twice as Fast in 2026](https://dev.to/alichherawalla/ai-augmented-flutter-development-how-us-enterprise-teams-ship-twice-as-fast-in-2026-53og)
+- [AI-Augmented Native Android Development: How US Enterprise Teams Ship Faster in 2026](https://dev.to/alichherawalla/ai-augmented-native-android-development-how-us-enterprise-teams-ship-faster-in-2026-37lo)
+- [AI-Augmented Native iOS Development: How US Enterprise Teams Ship Faster in 2026](https://dev.to/alichherawalla/ai-augmented-native-ios-development-how-us-enterprise-teams-ship-faster-in-2026-651)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
