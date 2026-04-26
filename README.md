@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [15 Essential Sections Every README Needs: Give Your Project What It Deserves](https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie)
-- [How we used MongoDB as the persistence layer in TradeEval — a real-time stock behavior analysis platform](https://dev.to/lakshmivishali_kalvakolanu/how-we-used-mongodb-as-the-persistence-layer-in-tradeeval-a-real-time-stock-behavior-analysis-1l70)
-- [From Static to Runtime: Choosing Between CloudFront + S3, Amplify, and ECS for Frontends on AWS](https://dev.to/muhammad_ahmad_khan/from-static-to-runtime-choosing-between-cloudfront-s3-amplify-and-ecs-for-frontends-on-aws-15i5)
-- [I Built a GitHub Portfolio Analyzer with Next.js + Gemini AI](https://dev.to/nischayb99/i-built-a-github-portfolio-analyzer-with-nextjs-gemini-ai-2nb8)
-- [AWS Certification: Which One First? A Practical Path](https://dev.to/juan_diegoisazaa_5362a/aws-certification-which-one-first-a-practical-path-15ok)
+- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
+- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
+- [CrabTrap](https://dev.to/om_shinde_85b36685a779e14/crabtrap-2o20)
+- [From Broke Bots to Streaming Economies: Building the Agent Economy Wallet](https://dev.to/xavier_script/from-broke-bots-to-streaming-economies-building-the-agent-economy-wallet-edb)
+- [Your First Plot: Matplotlib Without the Pain](https://dev.to/yakhilesh/your-first-plot-matplotlib-without-the-pain-3hd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
