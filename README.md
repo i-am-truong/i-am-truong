@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Real Token Economy Is Not About Spending Less. It Is About Thinking Smaller.](https://dev.to/marcosomma/the-real-token-economy-is-not-about-spending-less-it-is-about-thinking-smaller-3j3e)
-- [Built a native MCP server for Odoo so Claude, Cursor, and Codex can drive it directly](https://dev.to/keshrath/built-a-native-mcp-server-for-odoo-so-claude-cursor-and-codex-can-drive-it-directly-3g1f)
-- [The Bug That Cost Me Three Weeks: Why Your SL/TP Logic Is Probably Wrong](https://dev.to/stanco23/the-bug-that-cost-me-three-weeks-why-your-sltp-logic-is-probably-wrong-30eb)
-- [on the plane, again](https://dev.to/shrouwoods/on-the-plane-again-3j90)
-- [logic](https://dev.to/shrouwoods/logic-3360)
+- [Production-Grade Serverless Web App Architecture on AWS with CloudFront, S3, API Gateway, Lambda, and DynamoDB](https://dev.to/aws-builders/production-grade-serverless-web-app-architecture-on-aws-with-cloudfront-s3-api-gateway-lambda-1646)
+- [Technical Report: EU AI Act Code Footprint Analysis](https://dev.to/kuzivaai/technical-report-eu-ai-act-code-footprint-analysis-4l6i)
+- [It&#39;s time for a refreshment](https://dev.to/landb/its-time-for-a-refreshment-1p1c)
+- [Why Headless CMS Is the Wrong Category](https://dev.to/tonyspiro/why-headless-cms-is-the-wrong-category-n1e)
+- [The Bulletproof FastAPI Stack](https://dev.to/sreeraj_sreenivasan_2b932/the-bulletproof-fastapi-stack-52md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
