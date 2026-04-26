@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-under-409d)
-- [Cursor Rules for Vue 3 and Nuxt: AI Dev Guide 2026](https://dev.to/olivia_craft/cursor-rules-for-vue-3-and-nuxt-ai-dev-guide-2026-iim)
-- [Beyond the APK: Mastering Model Lifecycles and AICore in Modern Android Development](https://dev.to/programmingcentral/beyond-the-apk-mastering-model-lifecycles-and-aicore-in-modern-android-development-4khh)
-- [WEB UI in Go? Nothing Can Stop Me!](https://dev.to/alzhi_f93e67fa45b972/web-ui-in-go-nothing-can-stop-me-2j7k)
-- [Overcoming Core Challenges in Web3 and Blockchain Development](https://dev.to/jessewalker322/overcoming-core-challenges-in-web3-and-blockchain-development-2i8c)
+- [When my RL agent started writing about Star Wars instead of fixing servers](https://dev.to/yahid_8a7de5acccfed5466/when-my-rl-agent-started-writing-about-star-wars-instead-of-fixing-servers-29p8)
+- [What I learned about Claude Code Skills](https://dev.to/zain_7facb849d15c435622f8/what-i-learned-about-claude-code-skills-28dn)
+- [Why Docker is No Longer Optional: Moving from &quot;It Works on My Machine&quot; to Production](https://dev.to/vinodkumarjaipal/why-docker-is-no-longer-optional-moving-from-it-works-on-my-machine-to-production-3end)
+- [Giving README-Driven Development Superpowers with bbt](https://dev.to/lioneldraghi/giving-readme-driven-development-superpowers-with-bbt-2a1h)
+- [Testing Emails in 2026: Why I Built a Better Mailcatcher &lpar;And Why You Should Switch&rpar;](https://dev.to/erkenes/testing-emails-in-2026-why-i-built-a-better-mailcatcher-and-why-you-should-switch-5gan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
