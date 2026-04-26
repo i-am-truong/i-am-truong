@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Just Proved Agents Can Do Commerce. Here&#39;s What They Didn&#39;t Build.](https://dev.to/aaron_schnieder_4563d5d33/anthropic-just-proved-agents-can-do-commerce-heres-what-they-didnt-build-5209)
-- [Stich接入Codex教程](https://dev.to/gokuscraper/stichjie-ru-codexjiao-cheng-4kp6)
-- [The Taste Problem: When Your AI Agent Starts Having Preferences](https://dev.to/the_bookmaster/the-taste-problem-when-your-ai-agent-starts-having-preferences-1i33)
-- [TokTranscript: turn any TikTok into a transcript, then study why it worked](https://dev.to/shixin_zhang_060518ea1143/toktranscript-turn-any-tiktok-into-a-transcript-then-study-why-it-worked-4hp5)
-- [Your AI Agent Is Reading Poisoned Web Pages &lpar;And You Don&#39;t Know It&rpar;](https://dev.to/coridev/your-ai-agent-is-reading-poisoned-web-pages-and-you-dont-know-it-3ea8)
+- [How to install python package in Spyder standalone](https://dev.to/twomoresteps/how-to-install-python-package-in-spyder-standalone-d5m)
+- [I built a Chrome extension that tells you exactly why your resume isn&#39;t getting callbacks](https://dev.to/deckdout/i-built-a-chrome-extension-that-tells-you-exactly-why-your-resume-isnt-getting-callbacks-4ao0)
+- [I Was Building a Live Trading Bot and a Patented Wagering System. The Bug I Found Is Now Breaking AI Agents Everywhere.](https://dev.to/azender1/i-was-building-a-live-trading-bot-and-a-patented-wagering-system-the-bug-i-found-is-now-breaking-2oeg)
+- [The Many Ways Software Engineers Can Go Independent](https://dev.to/sap1ens/the-many-ways-software-engineers-can-go-independent-16h1)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-1735)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
