@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Turned “It Works, But Users Are Confused” Into a Clear Onboarding Flow](https://dev.to/ezejah_chimkamma_06758a9b/how-i-turned-it-works-but-users-are-confused-into-a-clear-onboarding-flow-35b6)
-- [Chapter 7: The Training Loop and Adam Optimiser](https://dev.to/garyljackson/chapter-7-the-training-loop-and-adam-optimiser-1ca2)
-- [Hangout Planner - fighting cognitive atrophy and full process of making app](https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0)
-- [HOW TO SETUP PERFECTLY BGFX IN SDL2 &lpar;LINUX WAYLAND SUPPORT&rpar;](https://dev.to/pinggdevelop/how-to-setup-perfectly-bgfx-in-sdl2-linux-wayland-support-535b)
-- [Why I’m building a Python-only UI framework &lpar;and how v1.5 will change the game&rpar;](https://dev.to/rehan_mazhar_542c0a8b2074/why-im-building-a-python-only-ui-framework-and-how-v15-will-change-the-game-559h)
+- [4 Practical Boto3 Scripts for S3 Every DevOps Engineer Should Know](https://dev.to/zubairakbar/4-practical-boto3-scripts-for-s3-every-devops-engineer-should-know-4m27)
+- [👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API](https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d)
+- [I Spent Weeks Reverse-Engineering OpenClaw. Here&#39;s What Nobody Tells You.](https://dev.to/nazarf/i-spent-weeks-reverse-engineering-openclaw-heres-what-nobody-tells-you-4bch)
+- [Your Data Doppelgänger is Already Here.](https://dev.to/gimi5555/your-data-doppelganger-is-already-here-30a6)
+- [UCP Tech Council Expands: What the Meeting Minutes Tell Us About Where the Protocol Is Heading](https://dev.to/benjifisher/ucp-tech-council-expands-what-the-meeting-minutes-tell-us-about-where-the-protocol-is-heading-5a92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
