@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GKE Gateway API: Full Setup &amp; Troubleshooting Runbook](https://dev.to/durrello/gke-gateway-api-full-setup-troubleshooting-runbook-145j)
-- [Neurotechnology Ethics Framework](https://dev.to/rawveg/neurotechnology-ethics-framework-3e4n)
-- [Notion Database Limits &amp; Workarounds — 7 Walls Every Power User Hits](https://dev.to/kanta13jp1/notion-database-limits-workarounds-7-walls-every-power-user-hits-5n0)
-- [How nylas audit export Works: Export audit logs to JSON or CSV for compliance, analysis, or backup](https://dev.to/qasim157/how-nylas-audit-export-works-export-audit-logs-to-json-or-csv-for-compliance-analysis-or-backup-3d44)
-- [MongoDB Associate Developer Certification: A Complete Preparation Guide](https://dev.to/hasiniginikunta/mongodb-associate-developer-certification-a-complete-preparation-guide-33ao)
+- [TrustShield AI: Hybrid ML-Based Phishing Detection using Flask, scikit-learn &amp; MongoDB](https://dev.to/yadagani_saitejus/trustshield-ai-hybrid-ml-based-phishing-detection-using-flask-scikit-learn-mongodb-3d3j)
+- [Protecting Node.js APIs: Audiences, Scopes, and Bearer Tokens](https://dev.to/monocloud_admin/protecting-nodejs-apis-audiences-scopes-and-bearer-tokens-1dg3)
+- [We Built an Agent That Analyzes Itself — Here’s What We Learned](https://dev.to/seekdb/we-built-an-agent-that-analyzes-itself-heres-what-we-learned-md9)
+- [Outfit Styling Suggestion Tool](https://dev.to/zoe_lily_1c8586c03261a2f3/outfit-styling-suggestion-tool-4e9a)
+- [Why I Built a Self-Hosted Alternative to Helicone &lpar;and What I Learned&rpar;](https://dev.to/torrixai/why-i-built-a-self-hosted-alternative-to-helicone-and-what-i-learned-2hbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
