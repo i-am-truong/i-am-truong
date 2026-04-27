@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I repurposed Karpathy&#39;s LLM Wiki for product discovery. It worked surprisingly well.](https://dev.to/kat_laszlo/i-repurposed-karpathys-llm-wiki-for-product-discovery-it-worked-surprisingly-well-2ngn)
-- [RSC as a serializer, not a model](https://dev.to/lazarv/rsc-as-a-serializer-not-a-model-56nj)
-- [Express is the only major framework where FastAPI-style automated API docs still don&#39;t exist](https://dev.to/dhruv_bhalodia/why-is-express-the-only-framework-where-you-have-to-explain-your-own-validation-twice-1239)
-- [I got tired of AI agents trashing my codebase, so I built a skill to fix that](https://dev.to/flyingsquirrel0419/i-got-tired-of-ai-agents-trashing-my-codebase-so-i-built-a-skill-to-fix-that-mgc)
-- [3 LINQ Mistakes That Hurt Backend API Performance in .NET](https://dev.to/a95yman/3-linq-mistakes-that-hurt-backend-api-performance-in-net-415k)
+- [Smarter Cloud Spending: FinOps Agent Powered by Strands SDK and Amazon Bedrock](https://dev.to/aws-builders/smarter-cloud-spending-finops-agent-powered-by-strands-sdk-and-amazon-bedrock-359o)
+- [Redis 9 vs. Dragonfly 1.20: Throughput and Memory Efficiency Benchmarks for Caching Layers](https://dev.to/johalputt/redis-9-vs-dragonfly-120-throughput-and-memory-efficiency-benchmarks-for-caching-layers-42nd)
+- [Building a Two-Tier AWS Infrastructure with Terraform, Flask &amp; Ansible — Every File Explained](https://dev.to/swapnil_uppin_3c823bdc459/building-a-two-tier-aws-infrastructure-with-terraform-flask-ansible-every-file-explained-3f53)
+- [The Hidden Cost of AI Coding: Technical Debt You Can&#39;t See](https://dev.to/maishsk/the-hidden-cost-of-ai-coding-technical-debt-you-cant-see-1767)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
