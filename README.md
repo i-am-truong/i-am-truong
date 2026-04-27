@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I shipped v1.2.0 of my Chrome extension for intentional website blocking](https://dev.to/gojer16/i-shipped-v120-of-my-chrome-extension-for-intentional-website-blocking-430n)
-- [Identity: A cryptographic tale](https://dev.to/coding-cosmos/identity-a-cryptographic-tale-ja3)
-- [Enforcing Domain Invariants: Ontologic Part 2](https://dev.to/sacha/enforcing-domain-invariants-ontologic-part-2-2ea9)
-- [OptimaOS: A Rust Kernel That Boots on Real x86_64 Hardware](https://dev.to/antony_developerrbs/optimaos-a-rust-kernel-that-boots-on-real-x8664-hardware-786)
-- [From Keypairs to Identity: My First 4 Days Learning Solana as a Web2 Dev](https://dev.to/bitan_biswas/from-keypairs-to-identity-my-first-4-days-learning-solana-as-a-web2-dev-4o27)
+- [GKE Gateway API: Full Setup &amp; Troubleshooting Runbook](https://dev.to/durrello/gke-gateway-api-full-setup-troubleshooting-runbook-145j)
+- [Neurotechnology Ethics Framework](https://dev.to/rawveg/neurotechnology-ethics-framework-3e4n)
+- [Notion Database Limits &amp; Workarounds — 7 Walls Every Power User Hits](https://dev.to/kanta13jp1/notion-database-limits-workarounds-7-walls-every-power-user-hits-5n0)
+- [How nylas audit export Works: Export audit logs to JSON or CSV for compliance, analysis, or backup](https://dev.to/qasim157/how-nylas-audit-export-works-export-audit-logs-to-json-or-csv-for-compliance-analysis-or-backup-3d44)
+- [MongoDB Associate Developer Certification: A Complete Preparation Guide](https://dev.to/hasiniginikunta/mongodb-associate-developer-certification-a-complete-preparation-guide-33ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
