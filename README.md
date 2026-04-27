@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Python Course 2026: How to Choose &lpar;and Win&rpar;](https://dev.to/juan_diegoisazaa_5362a/best-python-course-2026-how-to-choose-and-win-5gf9)
-- [DoorDash Pilots Stablecoin Payouts on Tempo](https://dev.to/tomwangcn/doordash-pilots-stablecoin-payouts-on-tempo-3fl7)
-- [What Good Technical Communities Should Actually Organize in 2026](https://dev.to/d3one/what-good-technical-communities-should-actually-organize-in-2026-bc7)
-- [I Built a Web-Based Fruit Ninja Controlled by Your Hands — A Step Toward Cybernetic Interfaces](https://dev.to/obinexusofficial/i-built-a-web-based-fruit-ninja-controlled-by-your-hands-a-step-toward-cybernetic-interfaces-2eg0)
-- [Token Budget Negotiator](https://dev.to/nilofer_tweets/token-budget-negotiator-1ijg)
+- [What Structured Data Your Product Page Needs in 2026](https://dev.to/robertatkinson3570/what-structured-data-your-product-page-needs-in-2026-3234)
+- [Bridging &#39;I Want to Build&#39; and &#39;I Want to Publish Safely&#39; for Non-Engineers — Sandbox MCP](https://dev.to/ryosuke_tsuji_f08e20fdca1/bridging-i-want-to-build-and-i-want-to-publish-safely-for-non-engineers-sandbox-mcp-392a)
+- [Part 1: One Spec To Rule Them All](https://dev.to/ttypic/part-1-one-spec-to-rule-them-all-hf5)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-303j)
+- [Segurança em nuvem na prática: o que aprendi sobre misconfiguration com Datadog](https://dev.to/aws-builders/seguranca-em-nuvem-na-pratica-o-que-aprendi-sobre-misconfiguration-com-datadog-1kpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
