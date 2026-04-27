@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Three Platforms for Dental Professionals — Here&#39;s What the Data Taught Me](https://dev.to/nickgrigora/i-built-three-platforms-for-dental-professionals-heres-what-the-data-taught-me-3nbl)
-- [🧠 AI is not replacing developers — it’s exposing the gap between them](https://dev.to/frxncisxo/ai-is-not-replacing-developers-its-exposing-the-gap-between-them-3k3n)
-- [Machine Learning Driven Crop Yield Prediction with NLP-Based Insight](https://dev.to/chittiprolu_dakshayani/machine-learning-driven-crop-yield-prediction-with-nlp-based-insight-5fmg)
-- [The Two Joys of Coding Before AI](https://dev.to/lazarv/the-two-joys-of-coding-before-ai-1pbp)
-- [Tokenizer-Aware Markdown Chunking That Doesn&#39;t Shred Tables](https://dev.to/gabrielanhaia/tokenizer-aware-markdown-chunking-that-doesnt-shred-tables-3kd7)
+- [The Wolf Project - Reworking a Real-World Project](https://dev.to/zacharysturman/the-wolf-project-reworking-a-real-world-project-5e3m)
+- [Aximo - offline-first STT API](https://dev.to/if/aximo-offline-first-stt-api-4le)
+- [code-shot: the code-screenshot API that I wish existed](https://dev.to/basenull/i-built-the-hosted-code-screenshot-api-that-i-wish-existed-37ln)
+- [The Hidden Cost of AI Programming &lpar;and How to Use It Mindfully&rpar;](https://dev.to/swapneswar_sundarray/the-hidden-cost-of-ai-programming-and-how-to-use-it-mindfully-5hde)
+- [Beyond the Next &#39;26 Keynote: How to Actually Build a Secure Agent with Remote MCPs &lpar;step-by-step&rpar;](https://dev.to/soloiaros/beyond-the-next-26-keynote-how-to-actually-build-a-secure-agent-with-remote-mcps-step-by-step-22h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
