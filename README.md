@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [62.8% on Aider Polyglot from a MacBook Pro. Then the other model we tried scored 4%. Here&#39;s what actually happened, with a working cost loop attached.](https://dev.to/defilan/628-on-aider-polyglot-from-a-macbook-pro-then-the-other-model-we-tried-scored-4-heres-what-17ed)
-- [How I used Launch Templates to deploy AI workloads elastically across GPU providers and finally avoided vendor lock-in](https://dev.to/yukixing6star/how-i-used-launch-templates-to-deploy-ai-workloads-elastically-across-gpu-providers-and-finally-477e)
-- [Ownership starts before anyone asks](https://dev.to/apetryla/ownership-starts-before-anyone-asks-4bol)
-- [How to Add AI Features to Your SaaS App Without Breaking Everything](https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4)
-- [8 Open-Source Frameworks for Building AI Agents That Actually Work in 2026](https://dev.to/sonotommy/8-open-source-frameworks-for-building-ai-agents-that-actually-work-in-2026-1hhm)
+- [I shipped v1.2.0 of my Chrome extension for intentional website blocking](https://dev.to/gojer16/i-shipped-v120-of-my-chrome-extension-for-intentional-website-blocking-430n)
+- [Identity: A cryptographic tale](https://dev.to/coding-cosmos/identity-a-cryptographic-tale-ja3)
+- [Enforcing Domain Invariants: Ontologic Part 2](https://dev.to/sacha/enforcing-domain-invariants-ontologic-part-2-2ea9)
+- [OptimaOS: A Rust Kernel That Boots on Real x86_64 Hardware](https://dev.to/antony_developerrbs/optimaos-a-rust-kernel-that-boots-on-real-x8664-hardware-786)
+- [From Keypairs to Identity: My First 4 Days Learning Solana as a Web2 Dev](https://dev.to/bitan_biswas/from-keypairs-to-identity-my-first-4-days-learning-solana-as-a-web2-dev-4o27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
