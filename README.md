@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Brain Behind Intelligent AI: MongoDB Meets Zero-Shot Learning](https://dev.to/hasini_sivaram/the-brain-behind-intelligent-ai-mongodb-meets-zero-shot-learning-4c2c)
-- [The Properties Panel Provider Contract: What the Official Docs Leave Out](https://dev.to/samabaasi/the-properties-panel-provider-contract-what-the-official-docs-leave-out-16n2)
-- [My Friends Spent 14 Minutes Deciding Where to Go Train. A Wheel Spinner Fixed It in 3 Seconds.](https://dev.to/aralroca/my-friends-spent-14-minutes-deciding-where-to-go-train-a-wheel-spinner-fixed-it-in-3-seconds-5f50)
-- [Rewriting LinkaGoGo - my 25 year old Online Bookmark Manager](https://dev.to/hbroek/rewriting-linkagogo-my-25-year-old-online-bookmark-manager-25c9)
-- [Building PitchRoom: AI-Powered Script Discovery using Flask &amp; MongoDB Vector Search](https://dev.to/srilakshmi_amarawadhi/building-pitchroom-ai-powered-script-discovery-using-flask-mongodb-vector-search-4hec)
+- [I repurposed Karpathy&#39;s LLM Wiki for product discovery. It worked surprisingly well.](https://dev.to/kat_laszlo/i-repurposed-karpathys-llm-wiki-for-product-discovery-it-worked-surprisingly-well-2ngn)
+- [RSC as a serializer, not a model](https://dev.to/lazarv/rsc-as-a-serializer-not-a-model-56nj)
+- [Express is the only major framework where FastAPI-style automated API docs still don&#39;t exist](https://dev.to/dhruv_bhalodia/why-is-express-the-only-framework-where-you-have-to-explain-your-own-validation-twice-1239)
+- [I got tired of AI agents trashing my codebase, so I built a skill to fix that](https://dev.to/flyingsquirrel0419/i-got-tired-of-ai-agents-trashing-my-codebase-so-i-built-a-skill-to-fix-that-mgc)
+- [3 LINQ Mistakes That Hurt Backend API Performance in .NET](https://dev.to/a95yman/3-linq-mistakes-that-hurt-backend-api-performance-in-net-415k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
