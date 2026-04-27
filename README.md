@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Production-Grade Serverless Web App Architecture on AWS with CloudFront, S3, API Gateway, Lambda, and DynamoDB](https://dev.to/aws-builders/production-grade-serverless-web-app-architecture-on-aws-with-cloudfront-s3-api-gateway-lambda-1646)
-- [Technical Report: EU AI Act Code Footprint Analysis](https://dev.to/kuzivaai/technical-report-eu-ai-act-code-footprint-analysis-4l6i)
-- [It&#39;s time for a refreshment](https://dev.to/landb/its-time-for-a-refreshment-1p1c)
-- [Why Headless CMS Is the Wrong Category](https://dev.to/tonyspiro/why-headless-cms-is-the-wrong-category-n1e)
-- [The Bulletproof FastAPI Stack](https://dev.to/sreeraj_sreenivasan_2b932/the-bulletproof-fastapi-stack-52md)
+- [GPT-5.5 Just Dropped. Here&#39;s What the Benchmarks Are Hiding.](https://dev.to/kowshik_jallipalli_a7e0a5/gpt-55-just-dropped-heres-what-the-benchmarks-are-hiding-3ich)
+- [Harness Engineering with Nothing but Markdown](https://dev.to/aws-builders/harness-engineering-with-nothing-but-markdown-g6b)
+- [Pixshop — consistent portraits from a single selfie](https://dev.to/likaiwei99/pixshop-consistent-portraits-from-a-single-selfie-33ch)
+- [Deep Generative Dual Memory Network for Continual Learning](https://dev.to/paperium/deep-generative-dual-memory-network-for-continual-learning-2o80)
+- [Indian Developers: How to Build AI Side Income with $0 Capital in 2026](https://dev.to/_omqxansi_258d1166f7/indian-developers-how-to-build-ai-side-income-with-0-capital-in-2026-8h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
