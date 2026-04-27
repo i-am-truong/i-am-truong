@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TrustShield AI: Hybrid ML-Based Phishing Detection using Flask, scikit-learn &amp; MongoDB](https://dev.to/yadagani_saitejus/trustshield-ai-hybrid-ml-based-phishing-detection-using-flask-scikit-learn-mongodb-3d3j)
-- [Protecting Node.js APIs: Audiences, Scopes, and Bearer Tokens](https://dev.to/monocloud_admin/protecting-nodejs-apis-audiences-scopes-and-bearer-tokens-1dg3)
-- [We Built an Agent That Analyzes Itself — Here’s What We Learned](https://dev.to/seekdb/we-built-an-agent-that-analyzes-itself-heres-what-we-learned-md9)
-- [Outfit Styling Suggestion Tool](https://dev.to/zoe_lily_1c8586c03261a2f3/outfit-styling-suggestion-tool-4e9a)
-- [Why I Built a Self-Hosted Alternative to Helicone &lpar;and What I Learned&rpar;](https://dev.to/torrixai/why-i-built-a-self-hosted-alternative-to-helicone-and-what-i-learned-2hbf)
+- [Your MVP Isn&#39;t Minimum. I Timed Mine. Here&#39;s the Verdict.](https://dev.to/yogya_goyal/your-mvp-isnt-minimum-i-timed-mine-heres-the-verdict-lck)
+- [Building MedAI — An AI-Powered Disease Prediction &amp; Clinical Decision Support System](https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3)
+- [Stop Redeploying to Update Translations: Granular Edge Cache Invalidation with Cloudflare Purge API](https://dev.to/garyedgekits/stop-redeploying-to-update-translations-granular-edge-cache-invalidation-with-cloudflare-purge-api-2cm7)
+- [Automating Data Workflows with Apache Airflow](https://dev.to/edmund_eryuba/automating-data-workflows-with-apache-airflow-1llg)
+- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
