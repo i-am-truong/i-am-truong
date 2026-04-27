@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Open Agent SDK &lpar;Part 6&rpar;: Multi-LLM Providers and Runtime Controls](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-6-multi-llm-providers-and-runtime-controls-187n)
-- [Deep Dive into Open Agent SDK &lpar;Part 5&rpar;: Session Persistence and Security](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-5-session-persistence-and-security-17dj)
-- [Deep Dive into Open Agent SDK &lpar;Part 4&rpar;: Multi-Agent Collaboration](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-4-multi-agent-collaboration-5374)
-- [Deep Dive into Open Agent SDK &lpar;Part 3&rpar;: MCP Integration in Practice](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-3-mcp-integration-in-practice-5af3)
-- [Deep Dive into Open Agent SDK &lpar;Part 2&rpar;: Behind the 34 Built-in Tools](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-2-behind-the-34-built-in-tools-4chj)
+- [62.8% on Aider Polyglot from a MacBook Pro. Then the other model we tried scored 4%. Here&#39;s what actually happened, with a working cost loop attached.](https://dev.to/defilan/628-on-aider-polyglot-from-a-macbook-pro-then-the-other-model-we-tried-scored-4-heres-what-17ed)
+- [How I used Launch Templates to deploy AI workloads elastically across GPU providers and finally avoided vendor lock-in](https://dev.to/yukixing6star/how-i-used-launch-templates-to-deploy-ai-workloads-elastically-across-gpu-providers-and-finally-477e)
+- [Ownership starts before anyone asks](https://dev.to/apetryla/ownership-starts-before-anyone-asks-4bol)
+- [How to Add AI Features to Your SaaS App Without Breaking Everything](https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4)
+- [8 Open-Source Frameworks for Building AI Agents That Actually Work in 2026](https://dev.to/sonotommy/8-open-source-frameworks-for-building-ai-agents-that-actually-work-in-2026-1hhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
