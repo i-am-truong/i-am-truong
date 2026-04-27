@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Wolf Project - Reworking a Real-World Project](https://dev.to/zacharysturman/the-wolf-project-reworking-a-real-world-project-5e3m)
-- [Aximo - offline-first STT API](https://dev.to/if/aximo-offline-first-stt-api-4le)
-- [code-shot: the code-screenshot API that I wish existed](https://dev.to/basenull/i-built-the-hosted-code-screenshot-api-that-i-wish-existed-37ln)
-- [The Hidden Cost of AI Programming &lpar;and How to Use It Mindfully&rpar;](https://dev.to/swapneswar_sundarray/the-hidden-cost-of-ai-programming-and-how-to-use-it-mindfully-5hde)
-- [Beyond the Next &#39;26 Keynote: How to Actually Build a Secure Agent with Remote MCPs &lpar;step-by-step&rpar;](https://dev.to/soloiaros/beyond-the-next-26-keynote-how-to-actually-build-a-secure-agent-with-remote-mcps-step-by-step-22h1)
+- [Best Python Course 2026: How to Choose &lpar;and Win&rpar;](https://dev.to/juan_diegoisazaa_5362a/best-python-course-2026-how-to-choose-and-win-5gf9)
+- [DoorDash Pilots Stablecoin Payouts on Tempo](https://dev.to/tomwangcn/doordash-pilots-stablecoin-payouts-on-tempo-3fl7)
+- [What Good Technical Communities Should Actually Organize in 2026](https://dev.to/d3one/what-good-technical-communities-should-actually-organize-in-2026-bc7)
+- [I Built a Web-Based Fruit Ninja Controlled by Your Hands — A Step Toward Cybernetic Interfaces](https://dev.to/obinexusofficial/i-built-a-web-based-fruit-ninja-controlled-by-your-hands-a-step-toward-cybernetic-interfaces-2eg0)
+- [Token Budget Negotiator](https://dev.to/nilofer_tweets/token-budget-negotiator-1ijg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
