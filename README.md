@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Cloud Spending: FinOps Agent Powered by Strands SDK and Amazon Bedrock](https://dev.to/aws-builders/smarter-cloud-spending-finops-agent-powered-by-strands-sdk-and-amazon-bedrock-359o)
-- [Redis 9 vs. Dragonfly 1.20: Throughput and Memory Efficiency Benchmarks for Caching Layers](https://dev.to/johalputt/redis-9-vs-dragonfly-120-throughput-and-memory-efficiency-benchmarks-for-caching-layers-42nd)
-- [Building a Two-Tier AWS Infrastructure with Terraform, Flask &amp; Ansible — Every File Explained](https://dev.to/swapnil_uppin_3c823bdc459/building-a-two-tier-aws-infrastructure-with-terraform-flask-ansible-every-file-explained-3f53)
-- [The Hidden Cost of AI Coding: Technical Debt You Can&#39;t See](https://dev.to/maishsk/the-hidden-cost-of-ai-coding-technical-debt-you-cant-see-1767)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl)
+- [I Built Three Platforms for Dental Professionals — Here&#39;s What the Data Taught Me](https://dev.to/nickgrigora/i-built-three-platforms-for-dental-professionals-heres-what-the-data-taught-me-3nbl)
+- [🧠 AI is not replacing developers — it’s exposing the gap between them](https://dev.to/frxncisxo/ai-is-not-replacing-developers-its-exposing-the-gap-between-them-3k3n)
+- [Machine Learning Driven Crop Yield Prediction with NLP-Based Insight](https://dev.to/chittiprolu_dakshayani/machine-learning-driven-crop-yield-prediction-with-nlp-based-insight-5fmg)
+- [The Two Joys of Coding Before AI](https://dev.to/lazarv/the-two-joys-of-coding-before-ai-1pbp)
+- [Tokenizer-Aware Markdown Chunking That Doesn&#39;t Shred Tables](https://dev.to/gabrielanhaia/tokenizer-aware-markdown-chunking-that-doesnt-shred-tables-3kd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
