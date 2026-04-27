@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.5 Just Dropped. Here&#39;s What the Benchmarks Are Hiding.](https://dev.to/kowshik_jallipalli_a7e0a5/gpt-55-just-dropped-heres-what-the-benchmarks-are-hiding-3ich)
-- [Harness Engineering with Nothing but Markdown](https://dev.to/aws-builders/harness-engineering-with-nothing-but-markdown-g6b)
-- [Pixshop — consistent portraits from a single selfie](https://dev.to/likaiwei99/pixshop-consistent-portraits-from-a-single-selfie-33ch)
-- [Deep Generative Dual Memory Network for Continual Learning](https://dev.to/paperium/deep-generative-dual-memory-network-for-continual-learning-2o80)
-- [Indian Developers: How to Build AI Side Income with $0 Capital in 2026](https://dev.to/_omqxansi_258d1166f7/indian-developers-how-to-build-ai-side-income-with-0-capital-in-2026-8h4)
+- [Deep Dive into Open Agent SDK &lpar;Part 6&rpar;: Multi-LLM Providers and Runtime Controls](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-6-multi-llm-providers-and-runtime-controls-187n)
+- [Deep Dive into Open Agent SDK &lpar;Part 5&rpar;: Session Persistence and Security](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-5-session-persistence-and-security-17dj)
+- [Deep Dive into Open Agent SDK &lpar;Part 4&rpar;: Multi-Agent Collaboration](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-4-multi-agent-collaboration-5374)
+- [Deep Dive into Open Agent SDK &lpar;Part 3&rpar;: MCP Integration in Practice](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-3-mcp-integration-in-practice-5af3)
+- [Deep Dive into Open Agent SDK &lpar;Part 2&rpar;: Behind the 34 Built-in Tools](https://dev.to/terryso/deep-dive-into-open-agent-sdk-part-2-behind-the-34-built-in-tools-4chj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
