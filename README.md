@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your MVP Isn&#39;t Minimum. I Timed Mine. Here&#39;s the Verdict.](https://dev.to/yogya_goyal/your-mvp-isnt-minimum-i-timed-mine-heres-the-verdict-lck)
-- [Building MedAI — An AI-Powered Disease Prediction &amp; Clinical Decision Support System](https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3)
-- [Stop Redeploying to Update Translations: Granular Edge Cache Invalidation with Cloudflare Purge API](https://dev.to/garyedgekits/stop-redeploying-to-update-translations-granular-edge-cache-invalidation-with-cloudflare-purge-api-2cm7)
-- [Automating Data Workflows with Apache Airflow](https://dev.to/edmund_eryuba/automating-data-workflows-with-apache-airflow-1llg)
-- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
+- [The Brain Behind Intelligent AI: MongoDB Meets Zero-Shot Learning](https://dev.to/hasini_sivaram/the-brain-behind-intelligent-ai-mongodb-meets-zero-shot-learning-4c2c)
+- [The Properties Panel Provider Contract: What the Official Docs Leave Out](https://dev.to/samabaasi/the-properties-panel-provider-contract-what-the-official-docs-leave-out-16n2)
+- [My Friends Spent 14 Minutes Deciding Where to Go Train. A Wheel Spinner Fixed It in 3 Seconds.](https://dev.to/aralroca/my-friends-spent-14-minutes-deciding-where-to-go-train-a-wheel-spinner-fixed-it-in-3-seconds-5f50)
+- [Rewriting LinkaGoGo - my 25 year old Online Bookmark Manager](https://dev.to/hbroek/rewriting-linkagogo-my-25-year-old-online-bookmark-manager-25c9)
+- [Building PitchRoom: AI-Powered Script Discovery using Flask &amp; MongoDB Vector Search](https://dev.to/srilakshmi_amarawadhi/building-pitchroom-ai-powered-script-discovery-using-flask-mongodb-vector-search-4hec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
