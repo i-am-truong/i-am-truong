@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Code Review Mistakes That Let Performance Issues Slip](https://dev.to/jhavtech/top-10-code-review-mistakes-that-let-performance-issues-slip-88p)
-- [Building Real HMI Interfaces with a 4.3-inch ESP32-S3 Touch Display &lpar;WiFi + LVGL&rpar;](https://dev.to/alan12/building-real-hmi-interfaces-with-a-43-inch-esp32-s3-touch-display-wifi-lvgl-14o9)
-- [Gemini-3-Flash: My ai agent benchmark terminalbench Win &amp; 3 Fixes](https://dev.to/umair24171/gemini-3-flash-my-ai-agent-benchmark-terminalbench-win-3-fixes-44eb)
-- [Weekly Dev Log 2026-W03](https://dev.to/umitomo-lab/weekly-dev-log-2026-w03-30a6)
-- [I Had a Free Oracle Cloud ARM Box With 24GB RAM — So I Got Weird With It](https://dev.to/tedtalk/i-had-a-free-oracle-cloud-arm-box-with-24gb-ram-so-i-got-weird-with-it-390d)
+- [How I&#39;m running an autonomous Claude Code loop on a real shipped product](https://dev.to/_khanshaheb/how-im-running-an-autonomous-claude-code-loop-on-a-real-shipped-product-48lf)
+- [🦀 PicoClaw Deep Dive — A Field Guide to Building an Ultra-Light AI Agent in Go 🐹](https://dev.to/truongpx396/picoclaw-deep-dive-a-field-guide-to-building-an-ultra-light-ai-agent-in-go-ojd)
+- [Circuits Are Not Functions. That Confusion Will Break You](https://dev.to/midnight-aliit/circuits-are-not-functions-that-confusion-will-break-you-2do6)
+- [When your safety tool needs a safety review](https://dev.to/tiamatenity/when-your-safety-tool-needs-a-safety-review-i49)
+- [We audited the same codebase twice. The score went down. The audit got better. Here is why.](https://dev.to/intentguard_ole/we-audited-the-same-codebase-twice-the-score-went-down-the-audit-got-better-here-is-why-9jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
