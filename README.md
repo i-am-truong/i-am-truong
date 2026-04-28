@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
-- [Postmortem: A Kafka 4.0 Broker Failure on Kubernetes 1.34 Caused 1 Hour of Message Lag for 10k Topics](https://dev.to/johalputt/postmortem-a-kafka-40-broker-failure-on-kubernetes-134-caused-1-hour-of-message-lag-for-10k-2kdc)
-- [Building a Custom Ambulance Job Script for QBCore — Why I&#39;m Replacing the Default One](https://dev.to/tackk3/building-a-custom-ambulance-job-script-for-qbcore-why-im-replacing-the-default-one-4icp)
-- [TestSprite — localized dev review with feedback](https://dev.to/sieok/testsprite-localized-dev-review-with-feedback-36b9)
-- [Prompt Non-Compete Clauses: When Your Prompt Library Belongs to Your Employer](https://dev.to/velocityai/prompt-non-compete-clauses-when-your-prompt-library-belongs-to-your-employer-3b24)
+- [The PHP Criticism You&#39;ve Never Actually Thought Through](https://dev.to/silvafilipe/the-php-criticism-youve-never-actually-thought-through-1jib)
+- [Understanding Subquery and Common Table Expressions&lpar;CTEs&rpar;](https://dev.to/gabriel_njoroge_5be6652c3/understanding-subquery-and-common-table-expressionsctes-391j)
+- [Why We Replaced Whisper 2.0 with Deepgram 2.0 and Cut Voice Transcription Costs by 45%](https://dev.to/johalputt/why-we-replaced-whisper-20-with-deepgram-20-and-cut-voice-transcription-costs-by-45-3pgg)
+- [How to Write a Perfect README: A Complete Guide for Developers](https://dev.to/aartijangid23/how-to-write-a-perfect-readme-a-complete-guide-for-developers-100p)
+- [How I Governance-Proofed Our Bedrock Agents Across Multiple AWS Accounts](https://dev.to/neziribass/how-i-governance-proofed-our-bedrock-agents-across-multiple-aws-accounts-4fb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
