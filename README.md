@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Native Drag-and-Drop Automation Arrives in Playwright MCP](https://dev.to/aiwithanton/native-drag-and-drop-automation-arrives-in-playwright-mcp-3e16)
-- [What device users actually notice first when quality starts to fall apart](https://dev.to/jwithfield_qa/what-device-users-actually-notice-first-when-quality-starts-to-fall-apart-2c1m)
-- [How to detect AI hallucinations inside n8n — RagMetrics node walkthrough](https://dev.to/olivier_cohen_ragmet/how-to-detect-ai-hallucinations-inside-n8n-ragmetrics-node-walkthrough-2ncd)
-- [🛡️ حل احترافي لثغرة Prototype Pollution في protobufjs](https://dev.to/warrior_bugfinderwarri/hl-htrfy-lthgr-prototype-pollution-fy-protobufjs-5fbk)
-- [Comparison: k9s 0.32.0 vs. Lens 6.0 vs. Octant 0.25.0 for K8s 1.32 Administration](https://dev.to/johalputt/comparison-k9s-0320-vs-lens-60-vs-octant-0250-for-k8s-132-administration-4g55)
+- [Can AI Agents Communicate Across Different Networks Without APIs?](https://dev.to/pstayet/can-ai-agents-communicate-across-different-networks-without-apis-2fgg)
+- [How to Run Multiple AI Agents Without Losing Control](https://dev.to/michael_xero_ai/how-to-run-multiple-ai-agents-without-losing-control-k99)
+- [I Built a Job Description Keyword Extractor &lpar;and Here&#39;s What I Learned About ATS&rpar;](https://dev.to/charliemorrison/i-built-a-job-description-keyword-extractor-and-heres-what-i-learned-about-ats-2oi8)
+- [Pylon: Self-Host Your Own AI Agent Pipeline That Fixes Sentry Errors via](https://dev.to/gentic_news/pylon-self-host-your-own-ai-agent-pipeline-that-fixes-sentry-errors-via-c27)
+- [What 200 Concurrent Users Taught Me About SQLite Performance](https://dev.to/eugenioenko/what-200-concurrent-users-taught-me-about-sqlite-performance-442j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
