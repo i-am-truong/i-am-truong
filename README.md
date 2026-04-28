@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The PHP Criticism You&#39;ve Never Actually Thought Through](https://dev.to/silvafilipe/the-php-criticism-youve-never-actually-thought-through-1jib)
-- [Understanding Subquery and Common Table Expressions&lpar;CTEs&rpar;](https://dev.to/gabriel_njoroge_5be6652c3/understanding-subquery-and-common-table-expressionsctes-391j)
-- [Why We Replaced Whisper 2.0 with Deepgram 2.0 and Cut Voice Transcription Costs by 45%](https://dev.to/johalputt/why-we-replaced-whisper-20-with-deepgram-20-and-cut-voice-transcription-costs-by-45-3pgg)
-- [How to Write a Perfect README: A Complete Guide for Developers](https://dev.to/aartijangid23/how-to-write-a-perfect-readme-a-complete-guide-for-developers-100p)
-- [How I Governance-Proofed Our Bedrock Agents Across Multiple AWS Accounts](https://dev.to/neziribass/how-i-governance-proofed-our-bedrock-agents-across-multiple-aws-accounts-4fb7)
+- [I Replaced My Monitoring Dashboard With a Factory Warning Light](https://dev.to/kusnaware/i-replaced-my-monitoring-dashboard-with-a-factory-warning-light-5dm6)
+- [The Most Complete Public APIs Directory in 2026 &lpar;1,555 APIs with Auth, SDKs &amp; Rate Limits&rpar;](https://dev.to/datastackhq/the-most-complete-public-apis-directory-in-2026-1555-apis-with-auth-sdks-rate-limits-31ee)
+- [Stop Re-explaining Your Code to AI: How I Built a Local-First &quot;Long-Term Memory&quot; Engine](https://dev.to/tamatar/stop-re-explaining-your-code-to-ai-how-i-built-a-local-first-long-term-memory-engine-38nk)
+- [I Thought Solana Identity Would Be Complicated… It’s Actually Just SSH Keys &lpar;Kind Of&rpar;](https://dev.to/sb58/i-thought-solana-identity-would-be-complicated-its-actually-just-ssh-keys-kind-of-gbc)
+- [Elegant Ways to Distribute Commercial Laravel Source Code Without Sacrificing Developer Experience](https://dev.to/fiandev/elegant-ways-to-distribute-commercial-laravel-source-code-without-sacrificing-developer-experience-3gh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
