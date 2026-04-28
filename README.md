@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kiro Specs: Deja de Improvisar y Empieza a Planificar Features con IA](https://dev.to/antitopy/kiro-specs-deja-de-improvisar-y-empieza-a-planificar-features-con-ia-41mf)
-- [RAG vs MCP is the wrong debate — here&#39;s the right framing for production AI systems](https://dev.to/ajaydevineni/rag-vs-mcp-is-the-wrong-debate-heres-the-right-framing-for-production-ai-systems-2pef)
-- [I Built a System That Catches Hackers in Real Time](https://dev.to/nneomau/how-i-built-a-real-time-ddos-detection-engine-from-scratch-beginners-guide-2mde)
-- [Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;](https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99)
-- [Creating and Configuring an Azure Storage Account for IT Teams](https://dev.to/dev_werne/creating-and-configuring-an-azure-storage-account-for-it-teams-33o9)
+- [The Decomposition Problem: Why Breaking Tasks into Agent-Sized Pieces Is Harder Than It Looks](https://dev.to/the_bookmaster/the-decomposition-problem-why-breaking-tasks-into-agent-sized-pieces-is-harder-than-it-looks-3kci)
+- [Arrowjet is now a Cross-Database Sync Tool in Python &lpar;PG, MySQL, Redshift&rpar;](https://dev.to/abdumasah/arrowjet-is-now-a-cross-database-sync-tool-in-python-pg-mysql-redshift-min)
+- [I Made a CLI That Yells at Your Code Until It Gets an A](https://dev.to/dtannen/i-made-a-cli-that-yells-at-your-code-until-it-gets-an-a-4a26)
+- [Field Learnings with OpenClaw and WhatsApp](https://dev.to/ggondim/field-learnings-with-openclaw-and-whatsapp-3d27)
+- [React vs. React Native: The difference, and which is best for you](https://dev.to/hugodev/react-vs-react-native-the-difference-and-which-is-best-for-you-4jm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
