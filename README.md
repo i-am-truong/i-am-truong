@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced My Monitoring Dashboard With a Factory Warning Light](https://dev.to/kusnaware/i-replaced-my-monitoring-dashboard-with-a-factory-warning-light-5dm6)
-- [The Most Complete Public APIs Directory in 2026 &lpar;1,555 APIs with Auth, SDKs &amp; Rate Limits&rpar;](https://dev.to/datastackhq/the-most-complete-public-apis-directory-in-2026-1555-apis-with-auth-sdks-rate-limits-31ee)
-- [Stop Re-explaining Your Code to AI: How I Built a Local-First &quot;Long-Term Memory&quot; Engine](https://dev.to/tamatar/stop-re-explaining-your-code-to-ai-how-i-built-a-local-first-long-term-memory-engine-38nk)
-- [I Thought Solana Identity Would Be Complicated… It’s Actually Just SSH Keys &lpar;Kind Of&rpar;](https://dev.to/sb58/i-thought-solana-identity-would-be-complicated-its-actually-just-ssh-keys-kind-of-gbc)
-- [Elegant Ways to Distribute Commercial Laravel Source Code Without Sacrificing Developer Experience](https://dev.to/fiandev/elegant-ways-to-distribute-commercial-laravel-source-code-without-sacrificing-developer-experience-3gh5)
+- [Why We Use useState in React — Explained Simply with Real Examples](https://dev.to/dhanraj_s_8fe1023a6e88992/why-we-use-usestate-in-react-explained-simply-with-real-examples-200g)
+- [Accounting Integration](https://dev.to/apideck/accounting-integration-3hpk)
+- [I Stopped Paying for Subtitle Services After Running Whisper in a Browser Tab](https://dev.to/aralroca/i-stopped-paying-for-subtitle-services-after-running-whisper-in-a-browser-tab-1bd8)
+- [How I scaled a TikTok Ads automation SaaS to 7M requests/day as a solo dev](https://dev.to/opaozinh0/how-i-scaled-a-tiktok-ads-automation-saas-to-7m-requestsday-as-a-solo-dev-5c8n)
+- [Connecting .NET Web API hosted in Azure App Service with Azure SQL Database using managed identities](https://dev.to/aditya1962/connecting-net-web-api-hosted-in-azure-app-service-with-azure-sql-database-using-managed-identities-1h2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
