@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Agents Communicate Across Different Networks Without APIs?](https://dev.to/pstayet/can-ai-agents-communicate-across-different-networks-without-apis-2fgg)
-- [How to Run Multiple AI Agents Without Losing Control](https://dev.to/michael_xero_ai/how-to-run-multiple-ai-agents-without-losing-control-k99)
-- [I Built a Job Description Keyword Extractor &lpar;and Here&#39;s What I Learned About ATS&rpar;](https://dev.to/charliemorrison/i-built-a-job-description-keyword-extractor-and-heres-what-i-learned-about-ats-2oi8)
-- [Pylon: Self-Host Your Own AI Agent Pipeline That Fixes Sentry Errors via](https://dev.to/gentic_news/pylon-self-host-your-own-ai-agent-pipeline-that-fixes-sentry-errors-via-c27)
-- [What 200 Concurrent Users Taught Me About SQLite Performance](https://dev.to/eugenioenko/what-200-concurrent-users-taught-me-about-sqlite-performance-442j)
+- [Kiro Specs: Deja de Improvisar y Empieza a Planificar Features con IA](https://dev.to/antitopy/kiro-specs-deja-de-improvisar-y-empieza-a-planificar-features-con-ia-41mf)
+- [RAG vs MCP is the wrong debate — here&#39;s the right framing for production AI systems](https://dev.to/ajaydevineni/rag-vs-mcp-is-the-wrong-debate-heres-the-right-framing-for-production-ai-systems-2pef)
+- [I Built a System That Catches Hackers in Real Time](https://dev.to/nneomau/how-i-built-a-real-time-ddos-detection-engine-from-scratch-beginners-guide-2mde)
+- [Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;](https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99)
+- [Creating and Configuring an Azure Storage Account for IT Teams](https://dev.to/dev_werne/creating-and-configuring-an-azure-storage-account-for-it-teams-33o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
