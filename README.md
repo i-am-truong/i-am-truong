@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I&#39;m running an autonomous Claude Code loop on a real shipped product](https://dev.to/_khanshaheb/how-im-running-an-autonomous-claude-code-loop-on-a-real-shipped-product-48lf)
-- [🦀 PicoClaw Deep Dive — A Field Guide to Building an Ultra-Light AI Agent in Go 🐹](https://dev.to/truongpx396/picoclaw-deep-dive-a-field-guide-to-building-an-ultra-light-ai-agent-in-go-ojd)
-- [Circuits Are Not Functions. That Confusion Will Break You](https://dev.to/midnight-aliit/circuits-are-not-functions-that-confusion-will-break-you-2do6)
-- [When your safety tool needs a safety review](https://dev.to/tiamatenity/when-your-safety-tool-needs-a-safety-review-i49)
-- [We audited the same codebase twice. The score went down. The audit got better. Here is why.](https://dev.to/intentguard_ole/we-audited-the-same-codebase-twice-the-score-went-down-the-audit-got-better-here-is-why-9jm)
+- [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
+- [Postmortem: A Kafka 4.0 Broker Failure on Kubernetes 1.34 Caused 1 Hour of Message Lag for 10k Topics](https://dev.to/johalputt/postmortem-a-kafka-40-broker-failure-on-kubernetes-134-caused-1-hour-of-message-lag-for-10k-2kdc)
+- [Building a Custom Ambulance Job Script for QBCore — Why I&#39;m Replacing the Default One](https://dev.to/tackk3/building-a-custom-ambulance-job-script-for-qbcore-why-im-replacing-the-default-one-4icp)
+- [TestSprite — localized dev review with feedback](https://dev.to/sieok/testsprite-localized-dev-review-with-feedback-36b9)
+- [Prompt Non-Compete Clauses: When Your Prompt Library Belongs to Your Employer](https://dev.to/velocityai/prompt-non-compete-clauses-when-your-prompt-library-belongs-to-your-employer-3b24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
