@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a real SSH workspace for iPhone and iPad](https://dev.to/yaser_a_0b83c94f4d5e388cd/building-a-real-ssh-workspace-for-iphone-and-ipad-52j9)
-- [5 Rotary Encoder Projects That Add Precision Input to Your Projects](https://dev.to/_0c004e5fde78250aee362/5-rotary-encoder-projects-that-add-precision-input-to-your-projects-4925)
-- [GitHub Actions linters compared - actionlint, ci-doctor, sherif, octoscan](https://dev.to/depmedicdevbyte/github-actions-linters-compared-actionlint-ci-doctor-sherif-octoscan-3cc3)
-- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
-- [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
+- [Clean, Transform, and Load Data in Power BI: A Practical Guide to Data Preparation](https://dev.to/atinuke77/clean-transform-and-load-data-in-power-bi-a-practical-guide-to-data-preparation-34bj)
+- [Ruby on Rails Has Scalability Issues. Here&#39;s How We Solved Them](https://dev.to/devansh2002/ruby-on-rails-has-scalability-issues-heres-how-we-solved-them-3b50)
+- [Building Evenfield: An AI Homeschool Platform That Never Forgets](https://dev.to/jonomor_ecosystem/building-evenfield-an-ai-homeschool-platform-that-never-forgets-24cp)
+- [Shipping Better Dev Tools: What I Learned After Launching My React Generator CLI](https://dev.to/aditya_sengar_18547ba3ce7/shipping-better-dev-tools-what-i-learned-after-launching-my-react-generator-cli-55lh)
+- [Privacy policy generator — free browser tool for developers](https://dev.to/orbit_websites_b004ed2787/privacy-policy-generator-free-browser-tool-for-developers-1egm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
