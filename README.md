@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Use useState in React — Explained Simply with Real Examples](https://dev.to/dhanraj_s_8fe1023a6e88992/why-we-use-usestate-in-react-explained-simply-with-real-examples-200g)
-- [Accounting Integration](https://dev.to/apideck/accounting-integration-3hpk)
-- [I Stopped Paying for Subtitle Services After Running Whisper in a Browser Tab](https://dev.to/aralroca/i-stopped-paying-for-subtitle-services-after-running-whisper-in-a-browser-tab-1bd8)
-- [How I scaled a TikTok Ads automation SaaS to 7M requests/day as a solo dev](https://dev.to/opaozinh0/how-i-scaled-a-tiktok-ads-automation-saas-to-7m-requestsday-as-a-solo-dev-5c8n)
-- [Connecting .NET Web API hosted in Azure App Service with Azure SQL Database using managed identities](https://dev.to/aditya1962/connecting-net-web-api-hosted-in-azure-app-service-with-azure-sql-database-using-managed-identities-1h2o)
+- [Native Drag-and-Drop Automation Arrives in Playwright MCP](https://dev.to/aiwithanton/native-drag-and-drop-automation-arrives-in-playwright-mcp-3e16)
+- [What device users actually notice first when quality starts to fall apart](https://dev.to/jwithfield_qa/what-device-users-actually-notice-first-when-quality-starts-to-fall-apart-2c1m)
+- [How to detect AI hallucinations inside n8n — RagMetrics node walkthrough](https://dev.to/olivier_cohen_ragmet/how-to-detect-ai-hallucinations-inside-n8n-ragmetrics-node-walkthrough-2ncd)
+- [🛡️ حل احترافي لثغرة Prototype Pollution في protobufjs](https://dev.to/warrior_bugfinderwarri/hl-htrfy-lthgr-prototype-pollution-fy-protobufjs-5fbk)
+- [Comparison: k9s 0.32.0 vs. Lens 6.0 vs. Octant 0.25.0 for K8s 1.32 Administration](https://dev.to/johalputt/comparison-k9s-0320-vs-lens-60-vs-octant-0250-for-k8s-132-administration-4g55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
