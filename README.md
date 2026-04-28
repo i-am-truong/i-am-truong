@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Structured Data Your Product Page Needs in 2026](https://dev.to/robertatkinson3570/what-structured-data-your-product-page-needs-in-2026-3234)
-- [Bridging &#39;I Want to Build&#39; and &#39;I Want to Publish Safely&#39; for Non-Engineers — Sandbox MCP](https://dev.to/ryosuke_tsuji_f08e20fdca1/bridging-i-want-to-build-and-i-want-to-publish-safely-for-non-engineers-sandbox-mcp-392a)
-- [Part 1: One Spec To Rule Them All](https://dev.to/ttypic/part-1-one-spec-to-rule-them-all-hf5)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-303j)
-- [Segurança em nuvem na prática: o que aprendi sobre misconfiguration com Datadog](https://dev.to/aws-builders/seguranca-em-nuvem-na-pratica-o-que-aprendi-sobre-misconfiguration-com-datadog-1kpc)
+- [Building a real SSH workspace for iPhone and iPad](https://dev.to/yaser_a_0b83c94f4d5e388cd/building-a-real-ssh-workspace-for-iphone-and-ipad-52j9)
+- [5 Rotary Encoder Projects That Add Precision Input to Your Projects](https://dev.to/_0c004e5fde78250aee362/5-rotary-encoder-projects-that-add-precision-input-to-your-projects-4925)
+- [GitHub Actions linters compared - actionlint, ci-doctor, sherif, octoscan](https://dev.to/depmedicdevbyte/github-actions-linters-compared-actionlint-ci-doctor-sherif-octoscan-3cc3)
+- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
+- [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
