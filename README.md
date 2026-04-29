@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time HTTP Anomaly Detection Engine for Nextcloud with Python, Nginx, and iptables](https://dev.to/ajebordev/building-a-real-time-http-anomaly-detection-engine-for-nextcloud-with-python-nginx-and-iptables-5770)
-- [github failed at the only thing they should do: git](https://dev.to/pvgomes/github-failed-at-the-only-thing-they-should-do-git-2gm)
-- [Running Azure Logic Apps Standard on Azure Container Apps](https://dev.to/imdj/running-azure-logic-apps-standard-on-azure-container-apps-3nm1)
-- [Database Migrations — Zero-Downtime SQL, Alembic &amp;amp; Schema Evolution &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/database-migrations-zero-downtime-sql-alembic-amp-schema-evolution-2026-3i8n)
-- [AI Governance in Practice: FastAPI on EKS with Model Cards, Audit Logging, and Helm](https://dev.to/tsekatm/ai-governance-in-practice-fastapi-on-eks-with-model-cards-audit-logging-and-helm-37p5)
+- [Beyond the API: Why the Agent Development Kit &lpar;ADK&rpar; is the New Backend Standard](https://dev.to/sithuni_nudara_3889a66050/beyond-the-api-why-the-agent-development-kit-adk-is-the-new-backend-standard-4f6d)
+- [Creating a Rabbit PubSub client with Dapr](https://dev.to/sergioarmgpl/creating-a-rabbit-pubsub-client-with-dapr-3h96)
+- [The Hidden Cost of AI-Generated Code: What Nobody Tells You About Maintenance](https://dev.to/elysiumquill/the-hidden-cost-of-ai-generated-code-what-nobody-tells-you-about-maintenance-3om)
+- [May 1 - Best of WACV 2026](https://dev.to/voxel51/may-1-best-of-wacv-2026-5e53)
+- [AWS CDK + Clef: Secrets that work the way you might expect in IaC](https://dev.to/clef_sh/aws-cdk-clef-secrets-that-work-the-way-you-might-expect-123c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
