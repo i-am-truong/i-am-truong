@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading Kiwi-chan’s Brain: Pushing a 30GB &quot;Frankenstein&quot; GPU Rig to the Limit with Qwen 3.6-35B-A3B](https://dev.to/kiwi_tech/upgrading-kiwi-chans-brain-pushing-a-30gb-frankenstein-gpu-rig-to-the-limit-with-qwen-4g2o)
-- [Como restaurar chaves SSH](https://dev.to/natorsc/como-restaurar-chaves-ssh-2g6f)
-- [Atomic Redis Value Replacement Without Downtime: The Temporary Key Pattern](https://dev.to/imzihad21/atomic-redis-value-replacement-without-downtime-the-temporary-key-pattern-nf2)
-- [The easiest Chinese platform to scrape in Python in 2026: Bilibili in under 30 lines](https://dev.to/sami_8858131362756585e4f4/the-easiest-chinese-platform-to-scrape-in-python-in-2026-bilibili-in-under-30-lines-5216)
-- [OpenTelemetry in .NET Microservices: A Practical Guide to Observable Distributed Systems](https://dev.to/aldacosta/opentelemetry-in-net-microservices-a-practical-guide-to-observable-distributed-systems-2pd0)
+- [Building a Local AI Agent &lpar;Part 1&rpar;: Six Technical Challenges](https://dev.to/flo1632/building-a-local-ai-agent-part-1-six-technical-challenges-424b)
+- [War Story: We Replaced AWS IAM with Vault 1.16 and Cut Our Permission Error Rate by 60% for 500+ Developers](https://dev.to/johalputt/war-story-we-replaced-aws-iam-with-vault-116-and-cut-our-permission-error-rate-by-60-for-500-5eam)
+- [Beyond configuration drift: how Barbacane reimagines the API gateway with Rust and WASM](https://dev.to/ndreno/beyond-configuration-drift-how-barbacane-reimagines-the-api-gateway-with-rust-and-wasm-god)
+- [Why Firestore Keeps Throwing “Missing Index” Errors — And How to Fix It Like an Engineer](https://dev.to/shantih_palani/why-firestore-keeps-throwing-missing-index-errors-and-how-to-fix-it-like-an-engineer-4m9k)
+- [How Lazarus Used AI Zoom Lures to Drain Wallets in 5 Minutes &lpar;and How to Stop It&rpar;](https://dev.to/rushanksavant/how-lazarus-used-ai-zoom-lures-to-drain-wallets-in-5-minutes-and-how-to-stop-it-36d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
