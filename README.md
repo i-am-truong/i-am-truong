@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Kubeconfig for GKE That Doesn&#39;t Need gcloud](https://dev.to/saiyam1814/a-kubeconfig-for-gke-that-doesnt-need-gcloud-5b8m)
-- [The Ingress NGINX Migration Just Got Easier: 119 Annotations, 3 Targets, Impact Ratings](https://dev.to/saiyam1814/the-ingress-nginx-migration-just-got-easier-119-annotations-3-targets-impact-ratings-27mj)
-- [What Actually Happens When You Run kubectl run nginx](https://dev.to/saiyam1814/what-actually-happens-when-you-run-kubectl-run-nginx-34bh)
-- [What Actually Happens When kube-scheduler Picks a Node &lpar;13 Stages Inside Kubernetes&rpar;](https://dev.to/saiyam1814/what-actually-happens-when-kube-scheduler-picks-a-node-13-stages-inside-kubernetes-3g6o)
-- [Supabase RLS Deep Dive — Multi-tenant Access Control](https://dev.to/kanta13jp1/supabase-rls-deep-dive-multi-tenant-access-control-11ig)
+- [Automated Perpetual Trading on Solana: Building Drift Protocol Bots](https://dev.to/walletguy/automated-perpetual-trading-on-solana-building-drift-protocol-bots-3ce3)
+- [Why Model Context Protocol &lpar;MCP&rpar; is the Real MVP of Cloud Next &#39;26](https://dev.to/a-man-agr/why-model-context-protocol-mcp-is-the-real-mvp-of-cloud-next-26-3nne)
+- [Building an AI Chat Interface in React Native with Streaming Responses](https://dev.to/famitha_ma_b9c13ab1d324e/building-an-ai-chat-interface-in-react-native-with-streaming-responses-1b8g)
+- [J&#39;ai ajouté 20 lignes de code pour empêcher mon ERP de me mentir](https://dev.to/michelfaure/jai-ajoute-20-lignes-de-code-pour-empecher-mon-erp-de-me-mentir-l6h)
+- [I added 20 lines of code to stop my ERP from lying to me](https://dev.to/michelfaure/i-added-20-lines-of-code-to-stop-my-erp-from-lying-to-me-ohd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
