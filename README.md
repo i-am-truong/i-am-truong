@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the API: Why the Agent Development Kit &lpar;ADK&rpar; is the New Backend Standard](https://dev.to/sithuni_nudara_3889a66050/beyond-the-api-why-the-agent-development-kit-adk-is-the-new-backend-standard-4f6d)
-- [Creating a Rabbit PubSub client with Dapr](https://dev.to/sergioarmgpl/creating-a-rabbit-pubsub-client-with-dapr-3h96)
-- [The Hidden Cost of AI-Generated Code: What Nobody Tells You About Maintenance](https://dev.to/elysiumquill/the-hidden-cost-of-ai-generated-code-what-nobody-tells-you-about-maintenance-3om)
-- [May 1 - Best of WACV 2026](https://dev.to/voxel51/may-1-best-of-wacv-2026-5e53)
-- [AWS CDK + Clef: Secrets that work the way you might expect in IaC](https://dev.to/clef_sh/aws-cdk-clef-secrets-that-work-the-way-you-might-expect-123c)
+- [Upgrading Kiwi-chan’s Brain: Pushing a 30GB &quot;Frankenstein&quot; GPU Rig to the Limit with Qwen 3.6-35B-A3B](https://dev.to/kiwi_tech/upgrading-kiwi-chans-brain-pushing-a-30gb-frankenstein-gpu-rig-to-the-limit-with-qwen-4g2o)
+- [Como restaurar chaves SSH](https://dev.to/natorsc/como-restaurar-chaves-ssh-2g6f)
+- [Atomic Redis Value Replacement Without Downtime: The Temporary Key Pattern](https://dev.to/imzihad21/atomic-redis-value-replacement-without-downtime-the-temporary-key-pattern-nf2)
+- [The easiest Chinese platform to scrape in Python in 2026: Bilibili in under 30 lines](https://dev.to/sami_8858131362756585e4f4/the-easiest-chinese-platform-to-scrape-in-python-in-2026-bilibili-in-under-30-lines-5216)
+- [OpenTelemetry in .NET Microservices: A Practical Guide to Observable Distributed Systems](https://dev.to/aldacosta/opentelemetry-in-net-microservices-a-practical-guide-to-observable-distributed-systems-2pd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
