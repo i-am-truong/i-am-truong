@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [$5.3M Address Poisoning Network — 2 Months Later: The Follow-Up](https://dev.to/rascal3/53m-address-poisoning-network-2-months-later-the-follow-up-1ekh)
-- [Stop Duct-Taping Your Agent Sandbox. GKE Just Built It Properly.](https://dev.to/rizali12/stop-duct-taping-your-agent-sandbox-gke-just-built-it-properly-2lm1)
-- [That $500k AI rewrite story is actually a story about test suites](https://dev.to/adioof/that-500k-ai-rewrite-story-is-actually-a-story-about-test-suites-4mpf)
-- [Security by Design in Healthcare Data Platforms](https://dev.to/oluwatosinolamilekan/security-by-design-in-healthcare-data-platforms-5dfh)
-- [Drained for $7.95 — How a Solana Phishing Attack Became a Multi-Chain AML Platform](https://dev.to/rascal3/drained-for-795-how-a-solana-phishing-attack-became-a-multi-chain-aml-platform-316l)
+- [I Built an AI to Monitor Servers. Then I Built a Chaos Proxy to Break Them 💥](https://dev.to/ajayagrawal/i-built-an-ai-to-monitor-servers-then-i-built-a-chaos-proxy-to-break-them-pla)
+- [📝 Documentation-as-Code Has Silently Won For Tech Content](https://dev.to/zenika/documentation-as-code-has-silently-won-for-tech-content-e5o)
+- [The 3 things that break first when you integrate a gift card API](https://dev.to/dalia_gifq/the-3-things-that-break-first-when-you-integrate-a-gift-card-api-204h)
+- [Style HTML without writing a single class — introducing classless.css](https://dev.to/njbsaab/style-html-without-writing-a-single-class-introducing-classlesscss-4fcd)
+- [Dart FFI Advanced — C Library Integration, Memory Management, and Flutter Plugin](https://dev.to/kanta13jp1/dart-ffi-advanced-c-library-integration-memory-management-and-flutter-plugin-24fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
