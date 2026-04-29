@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter GoRouter Complete Guide — Full Control Over Navigation 2.0](https://dev.to/kanta13jp1/flutter-gorouter-complete-guide-full-control-over-navigation-20-i15)
-- [Stop Saying “We’re Working on It” — Show Your Product Roadmap Instead](https://dev.to/slarda_8140e179ef5ab42369/stop-saying-were-working-on-it-show-your-product-roadmap-instead-59g2)
-- [Flutter Web Rendering Complete Guide — CanvasKit vs HTML Renderer](https://dev.to/kanta13jp1/flutter-web-rendering-complete-guide-canvaskit-vs-html-renderer-3jbe)
-- [How to Turn Filament v5&#39;s Rich Editor Into a Full Block Editor](https://dev.to/tallcms/how-to-turn-filament-v5s-rich-editor-into-a-full-block-editor-3g5g)
-- [A jornada natural de um webapp:](https://dev.to/venelouis/a-jornada-natural-de-um-webapp-5d37)
+- [A Kubeconfig for GKE That Doesn&#39;t Need gcloud](https://dev.to/saiyam1814/a-kubeconfig-for-gke-that-doesnt-need-gcloud-5b8m)
+- [The Ingress NGINX Migration Just Got Easier: 119 Annotations, 3 Targets, Impact Ratings](https://dev.to/saiyam1814/the-ingress-nginx-migration-just-got-easier-119-annotations-3-targets-impact-ratings-27mj)
+- [What Actually Happens When You Run kubectl run nginx](https://dev.to/saiyam1814/what-actually-happens-when-you-run-kubectl-run-nginx-34bh)
+- [What Actually Happens When kube-scheduler Picks a Node &lpar;13 Stages Inside Kubernetes&rpar;](https://dev.to/saiyam1814/what-actually-happens-when-kube-scheduler-picks-a-node-13-stages-inside-kubernetes-3g6o)
+- [Supabase RLS Deep Dive — Multi-tenant Access Control](https://dev.to/kanta13jp1/supabase-rls-deep-dive-multi-tenant-access-control-11ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
