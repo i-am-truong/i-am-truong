@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI to Monitor Servers. Then I Built a Chaos Proxy to Break Them 💥](https://dev.to/ajayagrawal/i-built-an-ai-to-monitor-servers-then-i-built-a-chaos-proxy-to-break-them-pla)
-- [📝 Documentation-as-Code Has Silently Won For Tech Content](https://dev.to/zenika/documentation-as-code-has-silently-won-for-tech-content-e5o)
-- [The 3 things that break first when you integrate a gift card API](https://dev.to/dalia_gifq/the-3-things-that-break-first-when-you-integrate-a-gift-card-api-204h)
-- [Style HTML without writing a single class — introducing classless.css](https://dev.to/njbsaab/style-html-without-writing-a-single-class-introducing-classlesscss-4fcd)
-- [Dart FFI Advanced — C Library Integration, Memory Management, and Flutter Plugin](https://dev.to/kanta13jp1/dart-ffi-advanced-c-library-integration-memory-management-and-flutter-plugin-24fa)
+- [Building a Real-Time HTTP Anomaly Detection Engine for Nextcloud with Python, Nginx, and iptables](https://dev.to/ajebordev/building-a-real-time-http-anomaly-detection-engine-for-nextcloud-with-python-nginx-and-iptables-5770)
+- [github failed at the only thing they should do: git](https://dev.to/pvgomes/github-failed-at-the-only-thing-they-should-do-git-2gm)
+- [Running Azure Logic Apps Standard on Azure Container Apps](https://dev.to/imdj/running-azure-logic-apps-standard-on-azure-container-apps-3nm1)
+- [Database Migrations — Zero-Downtime SQL, Alembic &amp;amp; Schema Evolution &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/database-migrations-zero-downtime-sql-alembic-amp-schema-evolution-2026-3i8n)
+- [AI Governance in Practice: FastAPI on EKS with Model Cards, Audit Logging, and Helm](https://dev.to/tsekatm/ai-governance-in-practice-fastapi-on-eks-with-model-cards-audit-logging-and-helm-37p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
