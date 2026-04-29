@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter GoRouter Advanced — Nested Navigation, Auth Guards, and Deep Links](https://dev.to/kanta13jp1/flutter-gorouter-advanced-nested-navigation-auth-guards-and-deep-links-138o)
-- [The Small Documentation Mistakes That Turn Good Products Into Frustrating Ones](https://dev.to/ezejah_chimkamma_06758a9b/the-small-documentation-mistakes-that-turn-good-products-into-frustrating-ones-1h7i)
-- [Supabase Stripe — Implement Subscription Billing with Edge Functions](https://dev.to/kanta13jp1/supabase-x-stripe-implement-subscription-billing-with-edge-functions-hah)
-- [Indie Dev Incorporation — When Should You Form a Company?](https://dev.to/kanta13jp1/indie-dev-incorporation-when-should-you-form-a-company-482d)
-- [Dart 3 New Features — Sealed Classes, Pattern Matching, and Records](https://dev.to/kanta13jp1/dart-3-new-features-sealed-classes-pattern-matching-and-records-4f19)
+- [Fantasty Football feedback](https://dev.to/doug_trier_48bd83065738b1/fantasty-football-feedback-456)
+- [Don&#39;t Open a Pull Request Yet](https://dev.to/vhcosta/dont-open-a-pull-request-yet-14p5)
+- [Real Project: Analyze a Dataset End to End](https://dev.to/yakhilesh/real-project-analyze-a-dataset-end-to-end-3ffn)
+- [OpenAI Agents SDK Tutorial: Build Multi-Agent AI Systems in Python &lpar;2025&rpar;](https://dev.to/akhileshpothuri/openai-agents-sdk-tutorial-build-multi-agent-ai-systems-in-python-2025-1pe5)
+- [Testing Godot Code Is Harder Than Testing a Webapp. Here&#39;s What Helps.](https://dev.to/ziva/testing-godot-code-is-harder-than-testing-a-webapp-heres-what-helps-5gb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
