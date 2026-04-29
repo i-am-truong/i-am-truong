@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automated Perpetual Trading on Solana: Building Drift Protocol Bots](https://dev.to/walletguy/automated-perpetual-trading-on-solana-building-drift-protocol-bots-3ce3)
-- [Why Model Context Protocol &lpar;MCP&rpar; is the Real MVP of Cloud Next &#39;26](https://dev.to/a-man-agr/why-model-context-protocol-mcp-is-the-real-mvp-of-cloud-next-26-3nne)
-- [Building an AI Chat Interface in React Native with Streaming Responses](https://dev.to/famitha_ma_b9c13ab1d324e/building-an-ai-chat-interface-in-react-native-with-streaming-responses-1b8g)
-- [J&#39;ai ajouté 20 lignes de code pour empêcher mon ERP de me mentir](https://dev.to/michelfaure/jai-ajoute-20-lignes-de-code-pour-empecher-mon-erp-de-me-mentir-l6h)
-- [I added 20 lines of code to stop my ERP from lying to me](https://dev.to/michelfaure/i-added-20-lines-of-code-to-stop-my-erp-from-lying-to-me-ohd)
+- [$5.3M Address Poisoning Network — 2 Months Later: The Follow-Up](https://dev.to/rascal3/53m-address-poisoning-network-2-months-later-the-follow-up-1ekh)
+- [Stop Duct-Taping Your Agent Sandbox. GKE Just Built It Properly.](https://dev.to/rizali12/stop-duct-taping-your-agent-sandbox-gke-just-built-it-properly-2lm1)
+- [That $500k AI rewrite story is actually a story about test suites](https://dev.to/adioof/that-500k-ai-rewrite-story-is-actually-a-story-about-test-suites-4mpf)
+- [Security by Design in Healthcare Data Platforms](https://dev.to/oluwatosinolamilekan/security-by-design-in-healthcare-data-platforms-5dfh)
+- [Drained for $7.95 — How a Solana Phishing Attack Became a Multi-Chain AML Platform](https://dev.to/rascal3/drained-for-795-how-a-solana-phishing-attack-became-a-multi-chain-aml-platform-316l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
