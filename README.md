@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fantasty Football feedback](https://dev.to/doug_trier_48bd83065738b1/fantasty-football-feedback-456)
-- [Don&#39;t Open a Pull Request Yet](https://dev.to/vhcosta/dont-open-a-pull-request-yet-14p5)
-- [Real Project: Analyze a Dataset End to End](https://dev.to/yakhilesh/real-project-analyze-a-dataset-end-to-end-3ffn)
-- [OpenAI Agents SDK Tutorial: Build Multi-Agent AI Systems in Python &lpar;2025&rpar;](https://dev.to/akhileshpothuri/openai-agents-sdk-tutorial-build-multi-agent-ai-systems-in-python-2025-1pe5)
-- [Testing Godot Code Is Harder Than Testing a Webapp. Here&#39;s What Helps.](https://dev.to/ziva/testing-godot-code-is-harder-than-testing-a-webapp-heres-what-helps-5gb1)
+- [Flutter GoRouter Complete Guide — Full Control Over Navigation 2.0](https://dev.to/kanta13jp1/flutter-gorouter-complete-guide-full-control-over-navigation-20-i15)
+- [Stop Saying “We’re Working on It” — Show Your Product Roadmap Instead](https://dev.to/slarda_8140e179ef5ab42369/stop-saying-were-working-on-it-show-your-product-roadmap-instead-59g2)
+- [Flutter Web Rendering Complete Guide — CanvasKit vs HTML Renderer](https://dev.to/kanta13jp1/flutter-web-rendering-complete-guide-canvaskit-vs-html-renderer-3jbe)
+- [How to Turn Filament v5&#39;s Rich Editor Into a Full Block Editor](https://dev.to/tallcms/how-to-turn-filament-v5s-rich-editor-into-a-full-block-editor-3g5g)
+- [A jornada natural de um webapp:](https://dev.to/venelouis/a-jornada-natural-de-um-webapp-5d37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
