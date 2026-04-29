@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Morpheus Plugin A Practical Walkthrough](https://dev.to/emre_baykal_a4a7a479d48c5/building-a-morpheus-plugin-a-practical-walkthrough-3gbh)
-- [Lemonade v10.3: Run Local LLMs, Image Gen, and Speech on Your Own GPU for Free](https://dev.to/arshtechpro/lemonade-v103-run-local-llms-image-gen-and-speech-on-your-own-gpu-for-free-29ob)
-- [Meteor 3.4.1 is out: Rspack consolidation, revitalized examples, and important fixes](https://dev.to/meteor/meteor-341-is-out-rspack-consolidation-revitalized-examples-and-important-fixes-4lac)
-- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/damilola_ejalonibu_7f5cfd/how-i-built-a-real-time-ddos-detection-engine-from-scratch-54f4)
-- [Swift 6 Concurrency: How to Build Rock-Solid AI Apps with Sendable and Actors](https://dev.to/programmingcentral/swift-6-concurrency-how-to-build-rock-solid-ai-apps-with-sendable-and-actors-54bo)
+- [Mapa de Ciberseguridad en AWS: Guía Completa de Servicios](https://dev.to/byron_lainez/mapa-de-ciberseguridad-en-aws-guia-completa-de-servicios-1jh8)
+- [ProGate: A 3-Tier React Server Component Pattern for SaaS Subscriptions](https://dev.to/matthias_studiomeyer/progate-a-3-tier-react-server-component-pattern-for-saas-subscriptions-7gp)
+- [Chapter 10: Multi-Head Attention and the MLP Block](https://dev.to/garyljackson/chapter-10-multi-head-attention-and-the-mlp-block-57cp)
+- [Easily benchmark all your app&#39;s endpoints at once](https://dev.to/mackoverflow/easily-benchmark-all-your-apps-endpoints-at-once-2fod)
+- [Agents are building their own UIs now. Here&#39;s when that&#39;s worth doing.](https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
