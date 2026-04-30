@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Really Happens When You Move Your Mouse?](https://dev.to/karanjain2527/what-really-happens-when-you-move-your-mouse-4nj2)
-- [GhostPilot: GPS-Denied Drone Navigation with Visual SLAM and Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-gps-denied-drone-navigation-with-visual-slam-and-agentic-ai-416l)
-- [Use AI to do ML - vibe forecasting is coming](https://dev.to/mindsdbteam/use-ai-to-do-ml-vibe-forecasting-is-coming-4jkg)
-- [[Boost]](https://dev.to/chriswhong/-28f5)
-- [I built two Apify actors that scrape U.S. Congress trading data — directly from government sources, no QuiverQuant](https://dev.to/seralifatih/i-built-two-apify-actors-that-scrape-us-congress-trading-data-directly-from-government-sources-47m1)
+- [Zero-config Golang Heap Profiling](https://dev.to/coroot/zero-config-golang-heap-profiling-33fi)
+- [React + fetchstream-js: Render JSON as It Arrives](https://dev.to/coding_inblood_7cb339747/react-fetchstream-js-render-json-as-it-arrives-58jo)
+- [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4)
+- [Why God Kit? A Lightweight Vue 3 UI Library and Design System for Admin Apps](https://dev.to/parsajiravand/why-god-kit-a-lightweight-vue-3-ui-library-and-design-system-for-admin-apps-55al)
+- [nylas init — Guided setup wizard for first-time Nylas CLI users](https://dev.to/qasim157/nylas-init-guided-setup-wizard-for-first-time-nylas-cli-users-4g96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
