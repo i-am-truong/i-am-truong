@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-config Golang Heap Profiling](https://dev.to/coroot/zero-config-golang-heap-profiling-33fi)
-- [React + fetchstream-js: Render JSON as It Arrives](https://dev.to/coding_inblood_7cb339747/react-fetchstream-js-render-json-as-it-arrives-58jo)
-- [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4)
-- [Why God Kit? A Lightweight Vue 3 UI Library and Design System for Admin Apps](https://dev.to/parsajiravand/why-god-kit-a-lightweight-vue-3-ui-library-and-design-system-for-admin-apps-55al)
-- [nylas init — Guided setup wizard for first-time Nylas CLI users](https://dev.to/qasim157/nylas-init-guided-setup-wizard-for-first-time-nylas-cli-users-4g96)
+- [Why 42i?](https://dev.to/cristianventura/why-42i-b83)
+- [Developers vs AI: Can You Spot When AI Is Wrong?](https://dev.to/marxon/developers-vs-ai-can-you-spot-when-ai-is-wrong-7g7)
+- [Stop Ranking Ad Channels by Sessions: Use RPS &lpar;Revenue Per Session&rpar; Instead](https://dev.to/toshihiro_shishido/stop-ranking-ad-channels-by-sessions-use-rps-revenue-per-session-instead-4inc)
+- [Building an AI Agent Harness from Scratch: The Architecture Between LLM and Agent](https://dev.to/nebulagg/building-an-ai-agent-harness-from-scratch-the-architecture-between-llm-and-agent-5gg6)
+- [What&#39;s New At Releem  -  WHM/cPanel integration is available](https://dev.to/drupaladmin/whats-new-at-releem-whmcpanel-integration-is-available-1fid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
