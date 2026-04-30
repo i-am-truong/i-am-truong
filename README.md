@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Shift from Determinism to Probabilism Is Bigger Than Analog to Digital](https://dev.to/aralroca/the-shift-from-determinism-to-probabilism-is-bigger-than-analog-to-digital-lim)
-- [End Toil by Doing Nothing. But Better. Perpetually.](https://dev.to/stevenacoffman/dissolving-toil-from-do-nothing-script-to-unattended-reconciliation-126m)
-- [Your AI agent shouldn&#39;t write HTML. It should call a UI runtime.](https://dev.to/aboss123/your-ai-agent-shouldnt-write-html-it-should-call-a-ui-runtime-3f96)
-- [React won&#39;t die because LLMs won&#39;t let it](https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o)
-- [Audit Your VPC: Find Accidentally Public Subnets with Python](https://dev.to/thinkkun/audit-your-vpc-find-accidentally-public-subnets-with-python-2ml2)
+- [What Really Happens When You Move Your Mouse?](https://dev.to/karanjain2527/what-really-happens-when-you-move-your-mouse-4nj2)
+- [GhostPilot: GPS-Denied Drone Navigation with Visual SLAM and Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-gps-denied-drone-navigation-with-visual-slam-and-agentic-ai-416l)
+- [Use AI to do ML - vibe forecasting is coming](https://dev.to/mindsdbteam/use-ai-to-do-ml-vibe-forecasting-is-coming-4jkg)
+- [[Boost]](https://dev.to/chriswhong/-28f5)
+- [I built two Apify actors that scrape U.S. Congress trading data — directly from government sources, no QuiverQuant](https://dev.to/seralifatih/i-built-two-apify-actors-that-scrape-us-congress-trading-data-directly-from-government-sources-47m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
