@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI coding agent is a while loop with delusions of grandeur](https://dev.to/frr149/your-ai-coding-agent-is-a-while-loop-with-delusions-of-grandeur-1h6e)
-- [Your Terminal is Burning Battery Like It&#39;s Mining Bitcoin](https://dev.to/frr149/your-terminal-is-burning-battery-like-its-mining-bitcoin-4e7l)
-- [How to Scrape Swedish Real Estate Data from Hemnet &lpar;No Code, No API&rpar;](https://dev.to/mayno/how-to-scrape-swedish-real-estate-data-from-hemnet-no-code-no-api-324o)
-- [Advancing Your Own AWS Architect with DrawIO Skills and Living Documentation](https://dev.to/gitaroktato/advancing-your-own-aws-architect-with-drawio-skills-and-living-documentation-3di7)
-- [I spent 5 months building a full-stack e-commerce app from scratch — now I&#39;m selling it for $3,000](https://dev.to/buddhima_ryan_e7a70ea9f83/i-spent-5-months-building-a-full-stack-e-commerce-app-from-scratch-now-im-selling-it-for-3000-fmb)
+- [Benchmark: 2026 Backup Tools — Velero 2.0 vs. Restic 0.17 vs. Duplicati 2.0 for 1TB Data](https://dev.to/johalputt/benchmark-2026-backup-tools-velero-20-vs-restic-017-vs-duplicati-20-for-1tb-data-22b8)
+- [Stop Slacking your secrets. Use GitHub instead.](https://dev.to/boltenv/stop-slacking-your-secrets-use-github-instead-5706)
+- [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941)
+- [The Guardian: Human-in-the-Loop AI Governance](https://dev.to/kenwalger/the-guardian-human-in-the-loop-ai-governance-jgf)
+- [Kiwi-chan&#39;s Persistent Planking Problem &amp; The Endless Search for a Table! 🥝🔨](https://dev.to/kiwi_tech/kiwi-chans-persistent-planking-problem-the-endless-search-for-a-table-5d5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
