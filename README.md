@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why 42i?](https://dev.to/cristianventura/why-42i-b83)
-- [Developers vs AI: Can You Spot When AI Is Wrong?](https://dev.to/marxon/developers-vs-ai-can-you-spot-when-ai-is-wrong-7g7)
-- [Stop Ranking Ad Channels by Sessions: Use RPS &lpar;Revenue Per Session&rpar; Instead](https://dev.to/toshihiro_shishido/stop-ranking-ad-channels-by-sessions-use-rps-revenue-per-session-instead-4inc)
-- [Building an AI Agent Harness from Scratch: The Architecture Between LLM and Agent](https://dev.to/nebulagg/building-an-ai-agent-harness-from-scratch-the-architecture-between-llm-and-agent-5gg6)
-- [What&#39;s New At Releem  -  WHM/cPanel integration is available](https://dev.to/drupaladmin/whats-new-at-releem-whmcpanel-integration-is-available-1fid)
+- [How I passed the AZ-900 Exam and what I studied](https://dev.to/cinthiabs/how-i-passed-the-az-900-exam-and-what-i-studied-3p3h)
+- [The Factory Must Grow &lpar;Part II&rpar;: From Spaghetti AI Agent Orchestrator to a Main Bus](https://dev.to/logicalicy/the-factory-must-grow-part-ii-from-spaghetti-ai-agent-orchestrator-to-a-main-bus-25hl)
+- [MiniScript Weekly News — April 30, 2026](https://dev.to/joestrout/miniscript-weekly-news-april-30-2026-6dd)
+- [Why 50% of Developers Use Raycast 2.0 Over Alfred 5.0 in 2026: 300 Mac Developer Survey](https://dev.to/johalputt/why-50-of-developers-use-raycast-20-over-alfred-50-in-2026-300-mac-developer-survey-4f4e)
+- [Splitting Correctness from Throughput: A Hybrid Approach to XLSX Streaming Writes](https://dev.to/scndry/splitting-correctness-from-throughput-a-hybrid-approach-to-xlsx-streaming-writes-21n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
