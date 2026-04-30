@@ -120,19 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React tip:
-Don’t wait for full JSON responses.
-
-Stream it 👇
-fetchStream&lpar;&quot;/api/users&quot;&rpar;.live&lpar;setState&rpar;
-Faster perceived performance, better UX.
-
-Guide:
-https://dev.to/coding_inblood_7cb339747/react-fetchstream-js-render-json-as-it-arrives-3603](https://dev.to/coding_inblood_7cb339747/react-tip-dont-wait-for-full-json-responses-stream-it-js-55g5)
-- [&quot;I Pointed Claude Code at Google&#39;s Antigravity — Here&#39;s the 5-Minute OAuth Setup&quot;](https://dev.to/codekingai/i-pointed-claude-code-at-googles-antigravity-heres-the-5-minute-oauth-setup-45bp)
-- [Deploying Apache Superset on Azure From Scratch: My CCF501 Assessment 3](https://dev.to/lfariaus/deploying-apache-superset-on-azure-from-scratch-my-ccf501-assessment-3-27c7)
-- [🦀 ZeroClaw Deep Dive 🤖 — A Build-It-Yourself Guide 📘](https://dev.to/truongpx396/zeroclaw-deep-dive-a-build-it-yourself-guide-1hmi)
-- [How to Set Up Developer Metrics for 500+ Engineers Using Linear 2.0, Grafana 11.0, and PostHog 3.0](https://dev.to/johalputt/how-to-set-up-developer-metrics-for-500-engineers-using-linear-20-grafana-110-and-posthog-30-3l73)
+- [Cache Stampede Prevention](https://dev.to/godofgeeks/cache-stampede-prevention-2mj6)
+- [🤖 Multica Deep Dive — How to Build a Managed-Agents Platform 🌐](https://dev.to/truongpx396/multica-deep-dive-how-to-build-a-managed-agents-platform-54l2)
+- [Three Mastodon issues because of Cloudflare Bot protection](https://dev.to/nfrankel/three-mastodon-issues-because-of-cloudflare-bot-protection-1el3)
+- [Using AI as backend training wheels](https://dev.to/samareshdas/using-ai-as-backend-training-wheels-3ef2)
+- [How AI Is Helping 10,000+ Indian Students Prepare for NEET and JEE for Free](https://dev.to/enrollai_erudify/how-ai-is-helping-10000-indian-students-prepare-for-neet-and-jee-for-free-3lmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
