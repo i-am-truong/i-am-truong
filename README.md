@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Putting AI-Generated Blocks into Your Working System](https://dev.to/karllui/putting-ai-generated-blocks-into-your-working-system-45p7)
-- [I Got Bored and Cleaned Up 150+ GitHub Repos with a Tool I Built in Go](https://dev.to/christophervistal25/i-got-bored-and-cleaned-up-150-github-repos-with-a-tool-i-built-in-go-1a4i)
-- [The Day ‘Containers Everywhere’ Met a Database – Part 2](https://dev.to/yaddah/the-day-containers-everywhere-met-a-database-part-2-2454)
-- [The database is where AI agents in production get weird](https://dev.to/saluc28/the-database-is-where-ai-agents-in-production-get-weird-4lj4)
-- [SaaSpocalypse: 35% of SaaS Tools Will Be Dead by 2030](https://dev.to/nishilbhave/saaspocalypse-35-of-saas-tools-will-be-dead-by-2030-313h)
+- [The Shift from Determinism to Probabilism Is Bigger Than Analog to Digital](https://dev.to/aralroca/the-shift-from-determinism-to-probabilism-is-bigger-than-analog-to-digital-lim)
+- [End Toil by Doing Nothing. But Better. Perpetually.](https://dev.to/stevenacoffman/dissolving-toil-from-do-nothing-script-to-unattended-reconciliation-126m)
+- [Your AI agent shouldn&#39;t write HTML. It should call a UI runtime.](https://dev.to/aboss123/your-ai-agent-shouldnt-write-html-it-should-call-a-ui-runtime-3f96)
+- [React won&#39;t die because LLMs won&#39;t let it](https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o)
+- [Audit Your VPC: Find Accidentally Public Subnets with Python](https://dev.to/thinkkun/audit-your-vpc-find-accidentally-public-subnets-with-python-2ml2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
