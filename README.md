@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose OpenClaw and Hermes Hosting in 2026](https://dev.to/eliofbm/how-to-choose-between-openclaw-hosting-and-hermes-agent-hosting-in-2026-25ha)
-- [Async Runtime Internals: How tokio Schedules Your Futures](https://dev.to/dylan_dumont_266378d98367/async-runtime-internals-how-tokio-schedules-your-futures-3kn8)
-- [Bangla Code Runner: Revolutionizing Bangla Programming Language](https://dev.to/anisurrahmanlikhon/bangla-code-runner-revolutionizing-bangla-programming-language-2gp3)
-- [Ghostty Leaves GitHub: What My Usage Logs Say About Devs&#39; Real Dependency on Microsoft Platforms](https://dev.to/jtorchia/ghostty-leaves-github-what-my-usage-logs-say-about-devs-real-dependency-on-microsoft-platforms-44d2)
-- [Ghostty deja GitHub: lo que mis logs de uso dicen sobre la dependencia real de los devs en plataformas de Microsoft](https://dev.to/jtorchia/ghostty-deja-github-lo-que-mis-logs-de-uso-dicen-sobre-la-dependencia-real-de-los-devs-en-1nha)
+- [Your AI coding agent is a while loop with delusions of grandeur](https://dev.to/frr149/your-ai-coding-agent-is-a-while-loop-with-delusions-of-grandeur-1h6e)
+- [Your Terminal is Burning Battery Like It&#39;s Mining Bitcoin](https://dev.to/frr149/your-terminal-is-burning-battery-like-its-mining-bitcoin-4e7l)
+- [How to Scrape Swedish Real Estate Data from Hemnet &lpar;No Code, No API&rpar;](https://dev.to/mayno/how-to-scrape-swedish-real-estate-data-from-hemnet-no-code-no-api-324o)
+- [Advancing Your Own AWS Architect with DrawIO Skills and Living Documentation](https://dev.to/gitaroktato/advancing-your-own-aws-architect-with-drawio-skills-and-living-documentation-3di7)
+- [I spent 5 months building a full-stack e-commerce app from scratch — now I&#39;m selling it for $3,000](https://dev.to/buddhima_ryan_e7a70ea9f83/i-spent-5-months-building-a-full-stack-e-commerce-app-from-scratch-now-im-selling-it-for-3000-fmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
