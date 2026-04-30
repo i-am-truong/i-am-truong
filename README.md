@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building on Midnight with Windows — A Real Developer&#39;s WSL2 Setup Guide](https://dev.to/midnight-aliit/building-on-midnight-with-windows-a-real-developers-wsl2-setup-guide-om6)
-- [Move Over Python: PHP Is the Sleeping Giant of AI Agents](https://dev.to/zadro/move-over-python-php-is-the-sleeping-giant-of-ai-agents-577b)
-- [The Missing Link: Securing Gemini Agents with the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/milton_gardener_f38223d14/the-missing-link-securing-gemini-agents-with-the-model-context-protocol-mcp-12bj)
-- [Spec Driven Development: Build Software That Actually Does What You Promised](https://dev.to/jefferson_rosas/bbdbdb-431)
-- [Teaching Claude to Stop Reaching for git diff — git-prism v0.7.0](https://dev.to/mikelane/teaching-claude-to-stop-reaching-for-git-diff-git-prism-v070-4nel)
+- [SysMaster: The Webmaster Evolution](https://dev.to/edulazaro/sysmaster-the-webmaster-evolution-4bna)
+- [From IT Manager to AI Engineer: Build a Cloud Infrastructure Agent with Cloud Run&#39;s Managed MCP Server](https://dev.to/joshyfruit/from-it-manager-to-ai-engineer-build-a-cloud-infrastructure-agent-with-cloud-runs-managed-mcp-pan)
+- [Salesforce Data Engineering Interview Questions](https://dev.to/gowthampotureddi/salesforce-data-engineering-interview-questions-5bo9)
+- [Create and preview your own design system with shadcncraft create](https://dev.to/shadcncraft/create-and-preview-your-own-design-system-with-shadcncraft-create-4iip)
+- [[I ran ONE AI agent for 30 days straight — here&#39;s what actually broke]](https://dev.to/rapidclaw/i-ran-one-ai-agent-for-30-days-straight-heres-what-actually-broke-7df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
