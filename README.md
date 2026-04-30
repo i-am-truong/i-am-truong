@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Ditched New Relic for Grafana 10 and Loki 2.9: 60% Monitoring Cost Savings](https://dev.to/johalputt/we-ditched-new-relic-for-grafana-10-and-loki-29-60-monitoring-cost-savings-2ap1)
-- [Good reminder that tools can improve structure, but not judgment.](https://dev.to/kunalmehta6/good-reminder-that-tools-can-improve-structure-but-not-judgment-2a32)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-4hnn)
-- [Agent Amnesia and the Case of Henry Molaison](https://dev.to/joshua_wheelock_6c5d6e380/agent-amnesia-and-the-case-of-henry-molaison-2cka)
-- [Proven Patterns for OpenAI Codex in 2026: Prompts, Validation, and Gateway Governance](https://dev.to/kuldeep_paul/proven-patterns-for-openai-codex-in-2026-prompts-validation-and-gateway-governance-1jhm)
+- [How to Choose OpenClaw and Hermes Hosting in 2026](https://dev.to/eliofbm/how-to-choose-between-openclaw-hosting-and-hermes-agent-hosting-in-2026-25ha)
+- [Async Runtime Internals: How tokio Schedules Your Futures](https://dev.to/dylan_dumont_266378d98367/async-runtime-internals-how-tokio-schedules-your-futures-3kn8)
+- [Bangla Code Runner: Revolutionizing Bangla Programming Language](https://dev.to/anisurrahmanlikhon/bangla-code-runner-revolutionizing-bangla-programming-language-2gp3)
+- [Ghostty Leaves GitHub: What My Usage Logs Say About Devs&#39; Real Dependency on Microsoft Platforms](https://dev.to/jtorchia/ghostty-leaves-github-what-my-usage-logs-say-about-devs-real-dependency-on-microsoft-platforms-44d2)
+- [Ghostty deja GitHub: lo que mis logs de uso dicen sobre la dependencia real de los devs en plataformas de Microsoft](https://dev.to/jtorchia/ghostty-deja-github-lo-que-mis-logs-de-uso-dicen-sobre-la-dependencia-real-de-los-devs-en-1nha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
