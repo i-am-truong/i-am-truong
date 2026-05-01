@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Four MCP packages, four ways the supply chain shifted in two weeks of npm monitoring](https://dev.to/michael_onyekwere/four-mcp-packages-four-ways-the-supply-chain-shifted-in-two-weeks-of-npm-monitoring-1b6o)
-- [Cutting Self-Built MCP Server Token Usage by 90% — The Parking Pattern](https://dev.to/ryosuke_tsuji_f08e20fdca1/cutting-self-built-mcp-server-token-usage-by-90-the-parking-pattern-3e7o)
-- [Level Up Your Logic: 5 JavaScript Tips for Modern Full-Stack Developers](https://dev.to/frankstack/level-up-your-logic-5-javascript-tips-for-modern-full-stack-developers-114i)
-- [LangChain fundamentals part 2: structured outputs and tool calling](https://dev.to/youngtee100/langchain-fundamentals-part-2-structured-outputs-and-tool-calling-52ja)
-- [Stuck in the Birch-muda Triangle! 🪵😵‍💫](https://dev.to/kiwi_tech/stuck-in-the-birch-muda-triangle-eko)
+- [CLAUDE.md Is Not Enough: The Governance Stack for Agentic Development](https://dev.to/anthony_etherealogic/claudemd-is-not-enough-the-governance-stack-for-agentic-development-3m3b)
+- [📸 Google Pay–Like Screenshot Sharing in FlutterFlow](https://dev.to/codexlancers/google-pay-like-screenshot-sharing-in-flutterflow-4mc5)
+- [AI Has Turned Ignorance into an Advantage](https://dev.to/skyguan92/ai-has-turned-ignorance-into-an-advantage-41k4)
+- [Hello everyone! How do you spend your Thursday night?](https://dev.to/marcelo_earth/hello-everyone-how-do-you-spend-your-thursday-night-511p)
+- [&quot;The CEO Wrote This with MCP&quot; — How I Used an AI Agent to Examine the Translation Industry&#39;s Pain Points](https://dev.to/kozo-ki/the-ceo-wrote-this-with-mcp-how-i-used-an-ai-agent-to-examine-the-translation-industrys-pain-1f20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
