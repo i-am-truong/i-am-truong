@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Next-Generation Developer Path: From First Line of Code to First Job](https://dev.to/mlhacks/the-next-generation-developer-path-from-first-line-of-code-to-first-job-e3)
-- [A No-Build Markdown Site for Study Notes &lpar;or any docs&rpar;](https://dev.to/edriso/a-no-build-markdown-site-for-study-notes-or-any-docs-83e)
-- [Debug MCP Like Network Tab: Seeing Every Tool Call in Real Time](https://dev.to/abdlrahmansaberabdo/debug-mcp-like-network-tab-seeing-every-tool-call-in-real-time-2gdf)
-- [Beyond Just Code: Why I Choose Automation to Solve Real-World Problems](https://dev.to/ashishvail/beyond-just-code-why-i-choose-automation-to-solve-real-world-problems-589m)
-- [Claude Code Routines: 5 production workflows that ship real work](https://dev.to/arcade/claude-code-routines-5-production-workflows-that-ship-real-work-25il)
+- [VirtualJoystick in Godot 4.7: Endlich ein nativer Touchscreen-Stick](https://dev.to/ziva/virtualjoystick-in-godot-47-endlich-ein-nativer-touchscreen-stick-1enb)
+- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
+- [How to Set Up a Self-Hosted Forum When You&#39;re Tired of Renting Your Community](https://dev.to/alanwest/how-to-set-up-a-self-hosted-forum-when-youre-tired-of-renting-your-community-ge0)
+- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
+- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
