@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I passed the AZ-900 Exam and what I studied](https://dev.to/cinthiabs/how-i-passed-the-az-900-exam-and-what-i-studied-3p3h)
-- [The Factory Must Grow &lpar;Part II&rpar;: From Spaghetti AI Agent Orchestrator to a Main Bus](https://dev.to/logicalicy/the-factory-must-grow-part-ii-from-spaghetti-ai-agent-orchestrator-to-a-main-bus-25hl)
-- [MiniScript Weekly News — April 30, 2026](https://dev.to/joestrout/miniscript-weekly-news-april-30-2026-6dd)
-- [Why 50% of Developers Use Raycast 2.0 Over Alfred 5.0 in 2026: 300 Mac Developer Survey](https://dev.to/johalputt/why-50-of-developers-use-raycast-20-over-alfred-50-in-2026-300-mac-developer-survey-4f4e)
-- [Splitting Correctness from Throughput: A Hybrid Approach to XLSX Streaming Writes](https://dev.to/scndry/splitting-correctness-from-throughput-a-hybrid-approach-to-xlsx-streaming-writes-21n0)
+- [Four MCP packages, four ways the supply chain shifted in two weeks of npm monitoring](https://dev.to/michael_onyekwere/four-mcp-packages-four-ways-the-supply-chain-shifted-in-two-weeks-of-npm-monitoring-1b6o)
+- [Cutting Self-Built MCP Server Token Usage by 90% — The Parking Pattern](https://dev.to/ryosuke_tsuji_f08e20fdca1/cutting-self-built-mcp-server-token-usage-by-90-the-parking-pattern-3e7o)
+- [Level Up Your Logic: 5 JavaScript Tips for Modern Full-Stack Developers](https://dev.to/frankstack/level-up-your-logic-5-javascript-tips-for-modern-full-stack-developers-114i)
+- [LangChain fundamentals part 2: structured outputs and tool calling](https://dev.to/youngtee100/langchain-fundamentals-part-2-structured-outputs-and-tool-calling-52ja)
+- [Stuck in the Birch-muda Triangle! 🪵😵‍💫](https://dev.to/kiwi_tech/stuck-in-the-birch-muda-triangle-eko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
