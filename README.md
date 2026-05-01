@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [System Architecture of React Playground: What Actually Happens Behind the Scenes](https://dev.to/rjs/system-architecture-what-actually-happens-behind-the-scenes-51mk)
-- [Your team is shipping faster than ever. That might be your biggest problem.](https://dev.to/asahi_tech_samurai/your-team-is-shipping-faster-than-ever-that-might-be-your-biggest-problem-2od8)
-- [[Boost]](https://dev.to/atrandafir/-4229)
-- [The AI church with no Christ](https://dev.to/bogomil/the-ai-church-with-no-christ-l6p)
-- [Why ML accuracy numbers are unfalsifiable, and what a 1287-line Python tool does about it&quot; published: false](https://dev.to/sk8ordie84/why-ml-accuracy-numbers-are-unfalsifiable-and-what-a-1287-line-python-tool-does-about-it-40e1)
+- [GCC 16.1 ya está aquí: C++20 por defecto, reflection de C++26 y soporte para AMD Zen 6](https://dev.to/lu1tr0n/gcc-161-ya-esta-aqui-c20-por-defecto-reflection-de-c26-y-soporte-para-amd-zen-6-bje)
+- [Authenticating CLI Tools With Descope](https://dev.to/descope/authenticating-cli-tools-with-descope-401f)
+- [The Hidden Layer of AI: Orchestration, Workflows, and System Design](https://dev.to/velspark_tech/the-hidden-layer-of-ai-orchestration-workflows-and-system-design-26k1)
+- [HCC Risk Adjustment Data Model: Building Accurate Risk Score Pipelines in SQL](https://dev.to/season_mudbhary_7856e4083/hcc-risk-adjustment-data-model-building-accurate-risk-score-pipelines-in-sql-57dj)
+- [LLM on EKS: Serving with vLLM](https://dev.to/aws-builders/llm-on-eks-serving-with-vllm-2khg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
