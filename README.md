@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop paying for AI transcription! 🎙️ WritHer: 100% Local Voice Assistant for Windows. Privacy-first, Whisper + Ollama powered. Open Source on GitHub!](https://dev.to/benito_mallamaci_c902e934/stop-paying-for-ai-transcription-writher-100-local-voice-assistant-for-windows-42k9)
-- [The Subscription You Did Not Ask For](https://dev.to/vivian-voss/the-subscription-you-did-not-ask-for-15o7)
-- [tokens are now more expensive than juniors, and less predictable](https://dev.to/pvgomes/tokens-are-now-more-expensive-than-juniors-and-less-predictable-ei5)
-- [Why AI Agents Need a Firewall: Introducing Suprawall](https://dev.to/supra-dev/why-ai-agents-need-a-firewall-introducing-suprawall-1fin)
-- [The Case for IDE-Native Coding Agents](https://dev.to/catatafishen/the-case-for-ide-native-coding-agents-5i4)
+- [Specifications in Go: Composable Query Predicates Without an ORM Leak](https://dev.to/gabrielanhaia/specifications-in-go-composable-query-predicates-without-an-orm-leak-3fko)
+- [Skills Without Evals Are Just Markdown and Hope](https://dev.to/danielsogl/skills-without-evals-are-just-markdown-and-hope-3a71)
+- [Domain Primitives in Go: One Type Per Real-World Concept](https://dev.to/gabrielanhaia/domain-primitives-in-go-one-type-per-real-world-concept-2gja)
+- [How to Build a Serverless Data Lake Foundation with AWS Glue](https://dev.to/sertaoseracloud/how-to-build-a-serverless-data-lake-foundation-with-aws-glue-l9o)
+- [Benchmark: Vue 3.5 vs. Angular 18 for Large Dashboard Applications](https://dev.to/johalputt/benchmark-vue-35-vs-angular-18-for-large-dashboard-applications-47kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
