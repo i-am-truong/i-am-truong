@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Specifications in Go: Composable Query Predicates Without an ORM Leak](https://dev.to/gabrielanhaia/specifications-in-go-composable-query-predicates-without-an-orm-leak-3fko)
-- [Skills Without Evals Are Just Markdown and Hope](https://dev.to/danielsogl/skills-without-evals-are-just-markdown-and-hope-3a71)
-- [Domain Primitives in Go: One Type Per Real-World Concept](https://dev.to/gabrielanhaia/domain-primitives-in-go-one-type-per-real-world-concept-2gja)
-- [How to Build a Serverless Data Lake Foundation with AWS Glue](https://dev.to/sertaoseracloud/how-to-build-a-serverless-data-lake-foundation-with-aws-glue-l9o)
-- [Benchmark: Vue 3.5 vs. Angular 18 for Large Dashboard Applications](https://dev.to/johalputt/benchmark-vue-35-vs-angular-18-for-large-dashboard-applications-47kf)
+- [PeachBot Core: An Early-Stage Edge AI System Prototype &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-core-an-early-stage-edge-ai-system-prototype-how-it-works-how-to-run-11j1)
+- [Packaging anonymized data taught me what diligence really tests](https://dev.to/emopulse/packaging-anonymized-data-taught-me-what-diligence-really-tests-48jn)
+- [We Were Wrong to Call It a Medical Device](https://dev.to/emopulse/we-were-wrong-to-call-it-a-medical-device-pin)
+- [Shipping liveness in four hours changed everything](https://dev.to/emopulse/shipping-liveness-in-four-hours-changed-everything-lki)
+- [rPPG chaos: a noisy signal&#39;s unexpected role](https://dev.to/emopulse/rppg-chaos-a-noisy-signals-unexpected-role-30ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
