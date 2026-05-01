@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLAUDE.md Is Not Enough: The Governance Stack for Agentic Development](https://dev.to/anthony_etherealogic/claudemd-is-not-enough-the-governance-stack-for-agentic-development-3m3b)
-- [📸 Google Pay–Like Screenshot Sharing in FlutterFlow](https://dev.to/codexlancers/google-pay-like-screenshot-sharing-in-flutterflow-4mc5)
-- [AI Has Turned Ignorance into an Advantage](https://dev.to/skyguan92/ai-has-turned-ignorance-into-an-advantage-41k4)
-- [Hello everyone! How do you spend your Thursday night?](https://dev.to/marcelo_earth/hello-everyone-how-do-you-spend-your-thursday-night-511p)
-- [&quot;The CEO Wrote This with MCP&quot; — How I Used an AI Agent to Examine the Translation Industry&#39;s Pain Points](https://dev.to/kozo-ki/the-ceo-wrote-this-with-mcp-how-i-used-an-ai-agent-to-examine-the-translation-industrys-pain-1f20)
+- [Understanding Variables and Data Types in JavaScript](https://dev.to/abhishek_sahni_c83807f8fe/understanding-variables-and-data-types-in-javascript-j73)
+- [Network Part 1 - The OSI Model as a Fault Map](https://dev.to/lukyday007/network-part-1-the-osi-model-as-a-fault-map-2846)
+- [I built a side project that turns YouTube videos into study notes — here&#39;s what I learned shipping solo](https://dev.to/deadlypants0623/i-built-a-side-project-that-turns-youtube-videos-into-study-notes-heres-what-i-learned-shipping-1bf9)
+- [Rethinking Focus Apps: An Awareness-Based Approach](https://dev.to/syedishtiyaqahmed/rethinking-focus-apps-an-awareness-based-approach-4ed2)
+- [Understanding Pointers in Go; The Two Runes &lpar;&amp; and *&rpar; of Go](https://dev.to/gr8soln/understanding-pointers-in-go-the-two-runes-and-of-go-1p5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
