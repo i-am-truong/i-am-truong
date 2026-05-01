@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We stopped leaving GitHub to debug test failures. Here&#39;s how.](https://dev.to/tomerli/we-stopped-leaving-github-to-debug-test-failures-heres-how-g29)
-- [Claude Code refuses commits with &#39;OpenClaw&#39;: I reproduced it on my real repo and the behavior is weirder than the viral post describes](https://dev.to/jtorchia/claude-code-refuses-commits-with-openclaw-i-reproduced-it-on-my-real-repo-and-the-behavior-is-26bl)
-- [Claude Code rechaza commits con &#39;OpenClaw&#39;: lo reproduje en mi repo real y el comportamiento es más raro de lo que el post viral describe](https://dev.to/jtorchia/claude-code-rechaza-commits-con-openclaw-lo-reproduje-en-mi-repo-real-y-el-comportamiento-es-mas-4aci)
-- [IA de Graça em 2026: O Guia Definitivo da Infraestrutura Gratuita](https://dev.to/kabrau/ia-de-graca-em-2026-o-guia-definitivo-da-infraestrutura-gratuita-228c)
-- [Sprint Briefing Agent: When Your AI Works While You Sleep](https://dev.to/elenarevicheva/sprint-briefing-agent-when-your-ai-works-while-you-sleep-4hfa)
+- [System Architecture of React Playground: What Actually Happens Behind the Scenes](https://dev.to/rjs/system-architecture-what-actually-happens-behind-the-scenes-51mk)
+- [Your team is shipping faster than ever. That might be your biggest problem.](https://dev.to/asahi_tech_samurai/your-team-is-shipping-faster-than-ever-that-might-be-your-biggest-problem-2od8)
+- [[Boost]](https://dev.to/atrandafir/-4229)
+- [The AI church with no Christ](https://dev.to/bogomil/the-ai-church-with-no-christ-l6p)
+- [Why ML accuracy numbers are unfalsifiable, and what a 1287-line Python tool does about it&quot; published: false](https://dev.to/sk8ordie84/why-ml-accuracy-numbers-are-unfalsifiable-and-what-a-1287-line-python-tool-does-about-it-40e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
