@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Grade Tools for AI Agents: What Works After 100 Deployments](https://dev.to/nebulagg/building-production-grade-tools-for-ai-agents-what-works-after-100-deployments-20om)
-- [I Threw Away My ILIKE Queries and My Search Bar Finally Works - MeiliSearch](https://dev.to/codexam/i-threw-away-my-ilike-queries-and-my-search-bar-finally-works-meilisearch-gg4)
-- [I Built a Full-Stack Invoice App from Scratch. Here&#39;s the Complete Breakdown](https://dev.to/carter254g/i-built-a-full-stack-invoice-app-from-scratch-heres-the-complete-breakdown-2mmb)
-- [Why I&#39;m Learning ROS 2 as a Database Person](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce)
-- [Prompt engineering techniques](https://dev.to/silver_dev/prompt-engineering-techniques-5fp7)
+- [1Password, GitHub, and Git CLI with Multiple Users](https://dev.to/hacksore/1password-github-and-git-cli-with-multiple-users-a0j)
+- [me_irl](https://dev.to/ben/meirl-5g6i)
+- [High-Traffic Shopify Architecture Patterns: 8 Systems Every Scaling Store Needs](https://dev.to/asad_abdullah_zafar/high-traffic-shopify-architecture-patterns-8-systems-every-scaling-store-needs-1ng5)
+- [Building a Game Boy to Teach an AI Tetris](https://dev.to/hokos/building-a-game-boy-to-teach-an-ai-tetris-4gcd)
+- [The Agent Economy is Here: Why Infrastructure Matters](https://dev.to/alex_rivers_d55e687005477/the-agent-economy-is-here-why-infrastructure-matters-5cc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
