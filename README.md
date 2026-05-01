@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You are a piggy bank Big Corps help themselves to](https://dev.to/lostbeard/you-are-a-piggy-bank-big-corps-help-themselves-to-1h47)
-- [Stop Paying the Intercom Tax: When to Build Instead of Buy](https://dev.to/slickrockdev/stop-paying-the-intercom-tax-when-to-build-instead-of-buy-58n4)
-- [notkyc.life - no-KYC swap aggregator .stay anonymous. stay free.](https://dev.to/notkyc_life/notkyclife-no-kyc-swap-aggregatorstay-anonymous-stay-free-1b21)
-- [Best Practices To Ensure Fintech Compliance in Africa](https://dev.to/flutterwaveeng/best-practices-to-ensure-fintech-compliance-in-africa-48a3)
-- [The Quiet Shift: AI Is Moving Onto Your Device, and It Changes Everything](https://dev.to/hoomanaskari/the-quiet-shift-ai-is-moving-onto-your-device-and-it-changes-everything-dl5)
+- [The Next-Generation Developer Path: From First Line of Code to First Job](https://dev.to/mlhacks/the-next-generation-developer-path-from-first-line-of-code-to-first-job-e3)
+- [A No-Build Markdown Site for Study Notes &lpar;or any docs&rpar;](https://dev.to/edriso/a-no-build-markdown-site-for-study-notes-or-any-docs-83e)
+- [Debug MCP Like Network Tab: Seeing Every Tool Call in Real Time](https://dev.to/abdlrahmansaberabdo/debug-mcp-like-network-tab-seeing-every-tool-call-in-real-time-2gdf)
+- [Beyond Just Code: Why I Choose Automation to Solve Real-World Problems](https://dev.to/ashishvail/beyond-just-code-why-i-choose-automation-to-solve-real-world-problems-589m)
+- [Claude Code Routines: 5 production workflows that ship real work](https://dev.to/arcade/claude-code-routines-5-production-workflows-that-ship-real-work-25il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
