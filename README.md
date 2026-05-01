@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Variables and Data Types in JavaScript](https://dev.to/abhishek_sahni_c83807f8fe/understanding-variables-and-data-types-in-javascript-j73)
-- [Network Part 1 - The OSI Model as a Fault Map](https://dev.to/lukyday007/network-part-1-the-osi-model-as-a-fault-map-2846)
-- [I built a side project that turns YouTube videos into study notes — here&#39;s what I learned shipping solo](https://dev.to/deadlypants0623/i-built-a-side-project-that-turns-youtube-videos-into-study-notes-heres-what-i-learned-shipping-1bf9)
-- [Rethinking Focus Apps: An Awareness-Based Approach](https://dev.to/syedishtiyaqahmed/rethinking-focus-apps-an-awareness-based-approach-4ed2)
-- [Understanding Pointers in Go; The Two Runes &lpar;&amp; and *&rpar; of Go](https://dev.to/gr8soln/understanding-pointers-in-go-the-two-runes-and-of-go-1p5e)
+- [Stop paying for AI transcription! 🎙️ WritHer: 100% Local Voice Assistant for Windows. Privacy-first, Whisper + Ollama powered. Open Source on GitHub!](https://dev.to/benito_mallamaci_c902e934/stop-paying-for-ai-transcription-writher-100-local-voice-assistant-for-windows-42k9)
+- [The Subscription You Did Not Ask For](https://dev.to/vivian-voss/the-subscription-you-did-not-ask-for-15o7)
+- [tokens are now more expensive than juniors, and less predictable](https://dev.to/pvgomes/tokens-are-now-more-expensive-than-juniors-and-less-predictable-ei5)
+- [Why AI Agents Need a Firewall: Introducing Suprawall](https://dev.to/supra-dev/why-ai-agents-need-a-firewall-introducing-suprawall-1fin)
+- [The Case for IDE-Native Coding Agents](https://dev.to/catatafishen/the-case-for-ide-native-coding-agents-5i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
