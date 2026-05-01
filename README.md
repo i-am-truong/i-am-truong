@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Skills Are Just Header Files &lpar;And Virtual Memory, And Unix Pipes&rpar;](https://dev.to/botticelli/agent-skills-are-just-header-files-and-virtual-memory-and-unix-pipes-4hcp)
-- [Device distinct messaging: why I killed multi-device and how fingerprint hashing enforces it.](https://dev.to/xmkx/device-distinct-messaging-why-i-killed-multi-device-and-how-fingerprint-hashing-enforces-it-333j)
-- [Tailwind CSS vs. Styled Components: Which One Should You Choose in 2026](https://dev.to/jeetvora331/tailwind-css-vs-styled-components-which-one-should-you-choose-in-2026-11aa)
-- [Taking Notes to Forget — The Idea of Cognitive Offloading &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/taking-notes-to-forget-the-idea-of-cognitive-offloading-bite-size-article-2l96)
-- [Building a Personalized Code Learning Platform with LangChain 0.2 and Next.js 15](https://dev.to/johalputt/building-a-personalized-code-learning-platform-with-langchain-02-and-nextjs-15-5ad6)
+- [Building Production-Grade Tools for AI Agents: What Works After 100 Deployments](https://dev.to/nebulagg/building-production-grade-tools-for-ai-agents-what-works-after-100-deployments-20om)
+- [I Threw Away My ILIKE Queries and My Search Bar Finally Works - MeiliSearch](https://dev.to/codexam/i-threw-away-my-ilike-queries-and-my-search-bar-finally-works-meilisearch-gg4)
+- [I Built a Full-Stack Invoice App from Scratch. Here&#39;s the Complete Breakdown](https://dev.to/carter254g/i-built-a-full-stack-invoice-app-from-scratch-heres-the-complete-breakdown-2mmb)
+- [Why I&#39;m Learning ROS 2 as a Database Person](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce)
+- [Prompt engineering techniques](https://dev.to/silver_dev/prompt-engineering-techniques-5fp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
