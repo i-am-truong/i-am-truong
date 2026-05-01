@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VirtualJoystick in Godot 4.7: Endlich ein nativer Touchscreen-Stick](https://dev.to/ziva/virtualjoystick-in-godot-47-endlich-ein-nativer-touchscreen-stick-1enb)
-- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
-- [How to Set Up a Self-Hosted Forum When You&#39;re Tired of Renting Your Community](https://dev.to/alanwest/how-to-set-up-a-self-hosted-forum-when-youre-tired-of-renting-your-community-ge0)
-- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
-- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
+- [Getting Started with Azure Kubernetes Service &lpar;AKS&rpar;.](https://dev.to/lotanna_obianefo/getting-started-with-azure-kubernetes-service-aks-21fg)
+- [iOS 26 Liquid Glass Gotcha: Adjacent Buttons Silently Swallowing Taps](https://dev.to/daksh-gargas/ios-26-liquid-glass-gotcha-adjacent-buttons-silently-swallowing-taps-3124)
+- [This tiny friction has stolen more developer hours than any bug ever will.](https://dev.to/charmi_soni_95bf0498cc45d/this-tiny-friction-has-stolen-more-developer-hours-than-any-bug-ever-will-5cbo)
+- [People Follow Incentives -Not Instructions](https://dev.to/chandravanshi/people-follow-incentives-not-instructions-4579)
+- [People Don’t Change — Incentives Do](https://dev.to/chandravanshi/people-dont-change-incentives-do-247)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
