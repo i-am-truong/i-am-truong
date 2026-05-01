@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Azure Kubernetes Service &lpar;AKS&rpar;.](https://dev.to/lotanna_obianefo/getting-started-with-azure-kubernetes-service-aks-21fg)
-- [iOS 26 Liquid Glass Gotcha: Adjacent Buttons Silently Swallowing Taps](https://dev.to/daksh-gargas/ios-26-liquid-glass-gotcha-adjacent-buttons-silently-swallowing-taps-3124)
-- [This tiny friction has stolen more developer hours than any bug ever will.](https://dev.to/charmi_soni_95bf0498cc45d/this-tiny-friction-has-stolen-more-developer-hours-than-any-bug-ever-will-5cbo)
-- [People Follow Incentives -Not Instructions](https://dev.to/chandravanshi/people-follow-incentives-not-instructions-4579)
-- [People Don’t Change — Incentives Do](https://dev.to/chandravanshi/people-dont-change-incentives-do-247)
+- [Your First Full-Stack App with Appwrite — Auth, Database, Storage, and Functions in One Backend](https://dev.to/jordan_sterchele/your-first-full-stack-app-with-appwrite-auth-database-storage-and-functions-in-one-backend-40dl)
+- [Why I’m killing &quot;Blank Canvas Syndrome&quot; in Database Seeding](https://dev.to/lgpoliveira/why-im-killing-blank-canvas-syndrome-in-database-seeding-5fd7)
+- [War Story: Debugging a Firebase 2026 Real-Time Database Bug That Lost 1k User Messages](https://dev.to/johalputt/war-story-debugging-a-firebase-2026-real-time-database-bug-that-lost-1k-user-messages-2kbh)
+- [What is OpenAI&#39;s Parameter Golf Challenge, and why I spent a month on it](https://dev.to/swapp1990/what-is-parameter-golf-and-why-i-spent-a-month-on-it-4gch)
+- [CI/CD for your Dockerized App with AWS CodeBuild, CodeDeploy and CodePipeline &lpar;Part 3/3&rpar;](https://dev.to/tanmoyatb/cicd-for-your-dockerized-app-with-aws-codebuild-codedeploy-and-codepipeline-part-33-1gd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
