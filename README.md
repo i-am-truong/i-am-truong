@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PeachBot Core: An Early-Stage Edge AI System Prototype &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-core-an-early-stage-edge-ai-system-prototype-how-it-works-how-to-run-11j1)
-- [Packaging anonymized data taught me what diligence really tests](https://dev.to/emopulse/packaging-anonymized-data-taught-me-what-diligence-really-tests-48jn)
-- [We Were Wrong to Call It a Medical Device](https://dev.to/emopulse/we-were-wrong-to-call-it-a-medical-device-pin)
-- [Shipping liveness in four hours changed everything](https://dev.to/emopulse/shipping-liveness-in-four-hours-changed-everything-lki)
-- [rPPG chaos: a noisy signal&#39;s unexpected role](https://dev.to/emopulse/rppg-chaos-a-noisy-signals-unexpected-role-30ca)
+- [We stopped leaving GitHub to debug test failures. Here&#39;s how.](https://dev.to/tomerli/we-stopped-leaving-github-to-debug-test-failures-heres-how-g29)
+- [Claude Code refuses commits with &#39;OpenClaw&#39;: I reproduced it on my real repo and the behavior is weirder than the viral post describes](https://dev.to/jtorchia/claude-code-refuses-commits-with-openclaw-i-reproduced-it-on-my-real-repo-and-the-behavior-is-26bl)
+- [Claude Code rechaza commits con &#39;OpenClaw&#39;: lo reproduje en mi repo real y el comportamiento es más raro de lo que el post viral describe](https://dev.to/jtorchia/claude-code-rechaza-commits-con-openclaw-lo-reproduje-en-mi-repo-real-y-el-comportamiento-es-mas-4aci)
+- [IA de Graça em 2026: O Guia Definitivo da Infraestrutura Gratuita](https://dev.to/kabrau/ia-de-graca-em-2026-o-guia-definitivo-da-infraestrutura-gratuita-228c)
+- [Sprint Briefing Agent: When Your AI Works While You Sleep](https://dev.to/elenarevicheva/sprint-briefing-agent-when-your-ai-works-while-you-sleep-4hfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
