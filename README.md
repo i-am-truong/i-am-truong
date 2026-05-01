@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your First Full-Stack App with Appwrite — Auth, Database, Storage, and Functions in One Backend](https://dev.to/jordan_sterchele/your-first-full-stack-app-with-appwrite-auth-database-storage-and-functions-in-one-backend-40dl)
-- [Why I’m killing &quot;Blank Canvas Syndrome&quot; in Database Seeding](https://dev.to/lgpoliveira/why-im-killing-blank-canvas-syndrome-in-database-seeding-5fd7)
-- [War Story: Debugging a Firebase 2026 Real-Time Database Bug That Lost 1k User Messages](https://dev.to/johalputt/war-story-debugging-a-firebase-2026-real-time-database-bug-that-lost-1k-user-messages-2kbh)
-- [What is OpenAI&#39;s Parameter Golf Challenge, and why I spent a month on it](https://dev.to/swapp1990/what-is-parameter-golf-and-why-i-spent-a-month-on-it-4gch)
-- [CI/CD for your Dockerized App with AWS CodeBuild, CodeDeploy and CodePipeline &lpar;Part 3/3&rpar;](https://dev.to/tanmoyatb/cicd-for-your-dockerized-app-with-aws-codebuild-codedeploy-and-codepipeline-part-33-1gd9)
+- [Agent Skills Are Just Header Files &lpar;And Virtual Memory, And Unix Pipes&rpar;](https://dev.to/botticelli/agent-skills-are-just-header-files-and-virtual-memory-and-unix-pipes-4hcp)
+- [Device distinct messaging: why I killed multi-device and how fingerprint hashing enforces it.](https://dev.to/xmkx/device-distinct-messaging-why-i-killed-multi-device-and-how-fingerprint-hashing-enforces-it-333j)
+- [Tailwind CSS vs. Styled Components: Which One Should You Choose in 2026](https://dev.to/jeetvora331/tailwind-css-vs-styled-components-which-one-should-you-choose-in-2026-11aa)
+- [Taking Notes to Forget — The Idea of Cognitive Offloading &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/taking-notes-to-forget-the-idea-of-cognitive-offloading-bite-size-article-2l96)
+- [Building a Personalized Code Learning Platform with LangChain 0.2 and Next.js 15](https://dev.to/johalputt/building-a-personalized-code-learning-platform-with-langchain-02-and-nextjs-15-5ad6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
