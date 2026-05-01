@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GCC 16.1 ya está aquí: C++20 por defecto, reflection de C++26 y soporte para AMD Zen 6](https://dev.to/lu1tr0n/gcc-161-ya-esta-aqui-c20-por-defecto-reflection-de-c26-y-soporte-para-amd-zen-6-bje)
-- [Authenticating CLI Tools With Descope](https://dev.to/descope/authenticating-cli-tools-with-descope-401f)
-- [The Hidden Layer of AI: Orchestration, Workflows, and System Design](https://dev.to/velspark_tech/the-hidden-layer-of-ai-orchestration-workflows-and-system-design-26k1)
-- [HCC Risk Adjustment Data Model: Building Accurate Risk Score Pipelines in SQL](https://dev.to/season_mudbhary_7856e4083/hcc-risk-adjustment-data-model-building-accurate-risk-score-pipelines-in-sql-57dj)
-- [LLM on EKS: Serving with vLLM](https://dev.to/aws-builders/llm-on-eks-serving-with-vllm-2khg)
+- [You are a piggy bank Big Corps help themselves to](https://dev.to/lostbeard/you-are-a-piggy-bank-big-corps-help-themselves-to-1h47)
+- [Stop Paying the Intercom Tax: When to Build Instead of Buy](https://dev.to/slickrockdev/stop-paying-the-intercom-tax-when-to-build-instead-of-buy-58n4)
+- [notkyc.life - no-KYC swap aggregator .stay anonymous. stay free.](https://dev.to/notkyc_life/notkyclife-no-kyc-swap-aggregatorstay-anonymous-stay-free-1b21)
+- [Best Practices To Ensure Fintech Compliance in Africa](https://dev.to/flutterwaveeng/best-practices-to-ensure-fintech-compliance-in-africa-48a3)
+- [The Quiet Shift: AI Is Moving Onto Your Device, and It Changes Everything](https://dev.to/hoomanaskari/the-quiet-shift-ai-is-moving-onto-your-device-and-it-changes-everything-dl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
