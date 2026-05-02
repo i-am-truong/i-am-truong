@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚖️ Software Crimes Won’t Put You in Jail. They’ll Just Kill Your Career.](https://dev.to/manojsatna31/software-crimes-wont-put-you-in-jail-theyll-just-kill-your-career-hj6)
-- [SOoooo I made an extension](https://dev.to/itsflashframe/sooooo-i-made-an-extension-2hkn)
-- [Git: Version Control For People Who&#39;ve Lost Code Before](https://dev.to/yakhilesh/git-version-control-for-people-whove-lost-code-before-4ien)
-- [npm installs packages blindly — I built a CLI to fix that](https://dev.to/nithindj192/npm-installs-packages-blindly-i-built-a-cli-to-fix-that-1dd)
-- [Prompt Engineering for Log Diagnosis — What Actually Works With Gemini](https://dev.to/hiyoyok/prompt-engineering-for-log-diagnosis-what-actually-works-with-gemini-3a1m)
+- [Day 13: Building Health AI for India - When &#39;Big Data&#39; Misses the Point](https://dev.to/godavaii/day-13-building-health-ai-for-india-when-big-data-misses-the-point-p3b)
+- [30 seconds to a real diagnosis with mureo v0.8.0 demo scenarios](https://dev.to/yoshinaga/30-seconds-to-a-real-diagnosis-with-mureo-v080-demo-scenarios-4cfg)
+- [The CocoaPods Sunset: What Dec 2, 2026 Means for Your React Native App](https://dev.to/subraatakumar/the-cocoapods-sunset-what-dec-2-2026-means-for-your-react-native-app-4g4i)
+- [Stop Trusting Your AI-Generated Tests: Hardening Codebases with PITest and Claude Code Agentic Loops](https://dev.to/machinecodingmaster/stop-trusting-your-ai-generated-tests-hardening-codebases-with-pitest-and-claude-code-agentic-loops-hba)
+- [Benchmark: Azure Sentinel vs. Splunk 10.0 vs. AWS Security Hub for SIEM in Multi-Cloud Environments](https://dev.to/johalputt/benchmark-azure-sentinel-vs-splunk-100-vs-aws-security-hub-for-siem-in-multi-cloud-environments-4inl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
