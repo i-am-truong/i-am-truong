@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Spring Security Works Internally &lpar;Filters, Authentication &amp; Authorization Explained&rpar;](https://dev.to/piyush_kumarsingh_da3833/how-spring-security-works-internally-filters-authentication-authorization-explained-2686)
-- [Asyncio - in Python Explained Like You’re Ordering Food &lpar;A Beginner Guide&rpar;](https://dev.to/anantmishra1729/asyncio-in-python-explained-like-youre-ordering-food-a-beginner-guide-3gm7)
-- [What is Meta-Architect?](https://dev.to/justinedevs/what-is-meta-architect-l3c)
-- [The Story of Building Zoom&#39;s Video Compression 2026 – C++ and WebAssembly 2.0](https://dev.to/johalputt/the-story-of-building-zooms-video-compression-2026-c-and-webassembly-20-o04)
-- [The Heartbeat Frame](https://dev.to/geniusmind9999/the-heartbeat-frame-4oej)
+- [Why Your Vibe-Coded App Keeps Breaking Every Time You Fix Something](https://dev.to/anatolysilko/why-your-vibe-coded-app-keeps-breaking-every-time-you-fix-something-48p0)
+- [ClickHouse ReplacingMergeTree - Why Your Row Count Does Not Match](https://dev.to/ankitmalikg/clickhouse-replacingmergetree-why-your-row-count-does-not-match-3akb)
+- [I Was About to Quit Ollama — Then I Deleted One File and Never Looked Back](https://dev.to/jamesjf7/i-was-about-to-quit-ollama-then-i-deleted-one-file-and-never-looked-back-27a9)
+- [You’re Not Bad at Programming. You Just Escape When It Gets Hard.](https://dev.to/yogya_goyal/youre-not-bad-at-programming-you-just-quit-too-early-3d8e)
+- [War Story: We Survived a 2-Hour Outage with Redis 8.0 Cluster and Sentinel](https://dev.to/johalputt/war-story-we-survived-a-2-hour-outage-with-redis-80-cluster-and-sentinel-3ek1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
