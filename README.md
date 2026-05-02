@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1Password, GitHub, and Git CLI with Multiple Users](https://dev.to/hacksore/1password-github-and-git-cli-with-multiple-users-a0j)
-- [me_irl](https://dev.to/ben/meirl-5g6i)
-- [High-Traffic Shopify Architecture Patterns: 8 Systems Every Scaling Store Needs](https://dev.to/asad_abdullah_zafar/high-traffic-shopify-architecture-patterns-8-systems-every-scaling-store-needs-1ng5)
-- [Building a Game Boy to Teach an AI Tetris](https://dev.to/hokos/building-a-game-boy-to-teach-an-ai-tetris-4gcd)
-- [The Agent Economy is Here: Why Infrastructure Matters](https://dev.to/alex_rivers_d55e687005477/the-agent-economy-is-here-why-infrastructure-matters-5cc1)
+- [Chrome Web Store SEO: How I Optimized 17 Extensions for Search](https://dev.to/_350df62777eb55e1/chrome-web-store-seo-how-i-optimized-17-extensions-for-search-2maj)
+- [O Maestro do Ecossistema: Orquestrando Ordens de Mercado com Kafka, RabbitMQ e Spring Boot](https://dev.to/rvneto/o-maestro-do-ecossistema-orquestrando-ordens-de-mercado-com-kafka-rabbitmq-e-spring-boot-1ji0)
+- [Engineering LLMOps: Building Robust CI/CD Pipelines for LLM Applications on Google Cloud](https://dev.to/jubinsoni/engineering-llmops-building-robust-cicd-pipelines-for-llm-applications-on-google-cloud-22hc)
+- [A/B Testing with Feature Flags: Ship Experiments Without the Complexity](https://dev.to/domenico_giordano_e441224/ab-testing-with-feature-flags-ship-experiments-without-the-complexity-2jkd)
+- [They Don&#39;t Get the File Until They Pay: How I Built a Payment-Gated Delivery System](https://dev.to/searumm_6ad53fdfe29f11658/they-dont-get-the-file-until-they-pay-how-i-built-a-payment-gated-delivery-system-28fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
