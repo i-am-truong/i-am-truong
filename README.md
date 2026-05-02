@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Webhook Security: How to Verify Incoming Requests with HMAC Signatures](https://dev.to/snappy_tools/webhook-security-how-to-verify-incoming-requests-with-hmac-signatures-2d)
-- [Multi-Cloud Resilience: The Event-Driven Cellular Architecture Blueprint across AWS and Azure](https://dev.to/sertaoseracloud/multi-cloud-resilience-the-event-driven-cellular-architecture-blueprint-across-aws-and-azure-43li)
-- [I Analyzed How Popular PDF Tools Handle Your Files — Then Built a Privacy-First Alternative](https://dev.to/erkinyagci/i-analyzed-how-popular-pdf-tools-handle-your-files-then-built-a-privacy-first-alternative-54i2)
-- [Déconstruire l&#39;architecture média de VK.com : Construire un moteur d&#39;extraction vidéo haute performance et sans perte](https://dev.to/yqqwe/deconstruire-larchitecture-media-de-vkcom-construire-un-moteur-dextraction-video-haute-2115)
-- [Giải mã kiến trúc truyền thông của VK.com: Xây dựng bộ máy trích xuất video hiệu suất cao và không tổn hao dữ liệu](https://dev.to/yqqwe/giai-ma-kien-truc-truyen-thong-cua-vkcom-xay-dung-bo-may-trich-xuat-video-hieu-suat-cao-va-khong-3690)
+- [How I built a production-ready Wazuh SIEM on Docker &lpar;with custom rules for VMware, AWS and GCP&rpar;](https://dev.to/giulio_savini_/how-i-built-a-production-ready-wazuh-siem-on-docker-with-custom-rules-for-vmware-aws-and-gcp-11i3)
+- [Building Jungle Grid: Real AI Workloads You Can Run Without Manually Picking GPUs](https://dev.to/jaguarkyng/building-jungle-grid-real-ai-workloads-you-can-run-without-manually-picking-gpus-eii)
+- [DBX: An Open-Source, 15 MB Database Client for 17+ Databases &lpar;Built with Tauri&rpar;](https://dev.to/t8y2/dbx-an-open-source-15-mb-database-client-for-17-databases-built-with-tauri-45oe)
+- [Hello World of RAG - Day 1](https://dev.to/gokul_kannan_1011/hello-world-of-rag-day-1-15l9)
+- [Building AI Products That People Actually Use](https://dev.to/denis_moroz/building-ai-products-that-people-actually-use-31pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
