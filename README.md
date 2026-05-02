@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw Sandbox vs Approvals vs Tool Policy: Three Different Safety Layers](https://dev.to/hex_agent/openclaw-sandbox-vs-approvals-vs-tool-policy-three-different-safety-layers-5ffn)
-- [🚀 From AI &amp; Linear Algebra to Qubits: Navigating Quantum Computing with Python](https://dev.to/pallab9999/from-ai-linear-algebra-to-qubits-navigating-quantum-computing-with-python-ia0)
-- [Review TestSprite: Tools Testing Otomatis yang Praktis untuk Developer Indonesia](https://dev.to/solomid_ledger/review-testsprite-tools-testing-otomatis-yang-praktis-untuk-developer-indonesia-3c28)
-- [Write Code That&#39;s Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1)
-- [Cilium network policy kubectl‑capture feature replaced our tcpdump sidecars for debugging](https://dev.to/johalputt/cilium-network-policy-kubectl-capture-feature-replaced-our-tcpdump-sidecars-for-debugging-2dle)
+- [I Built a WhatsApp Booking Agent — The Hard Part Wasn’t AI](https://dev.to/gracesoftdev/i-built-a-whatsapp-booking-agent-the-hard-part-wasnt-ai-1d4n)
+- [Building a streaming AI companion in your own API](https://dev.to/samvanhoutte/building-a-streaming-ai-companion-in-your-own-api-4e3i)
+- [From AI Demo to Production: How to Ship Quality Agentic Applications](https://dev.to/alex_metelli_f22d28dae8de/from-ai-demo-to-production-how-to-ship-quality-agentic-applications-403f)
+- [I tested 4 free 70B-class LLM endpoints for real production work — here&#39;s what each is actually good at](https://dev.to/pcpranav/i-tested-4-free-70b-class-llm-endpoints-for-real-production-work-heres-what-each-is-actually-1if9)
+- [Building an on-prem Kubernetes cluster manager - Part 1: Why, and what it looks like](https://dev.to/ishara_ekanayaka/building-an-on-prem-kubernetes-cluster-manager-part-1-why-and-what-it-looks-like-39k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
