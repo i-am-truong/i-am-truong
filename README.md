@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Vibe-Coded App Keeps Breaking Every Time You Fix Something](https://dev.to/anatolysilko/why-your-vibe-coded-app-keeps-breaking-every-time-you-fix-something-48p0)
-- [ClickHouse ReplacingMergeTree - Why Your Row Count Does Not Match](https://dev.to/ankitmalikg/clickhouse-replacingmergetree-why-your-row-count-does-not-match-3akb)
-- [I Was About to Quit Ollama — Then I Deleted One File and Never Looked Back](https://dev.to/jamesjf7/i-was-about-to-quit-ollama-then-i-deleted-one-file-and-never-looked-back-27a9)
-- [You’re Not Bad at Programming. You Just Escape When It Gets Hard.](https://dev.to/yogya_goyal/youre-not-bad-at-programming-you-just-quit-too-early-3d8e)
-- [War Story: We Survived a 2-Hour Outage with Redis 8.0 Cluster and Sentinel](https://dev.to/johalputt/war-story-we-survived-a-2-hour-outage-with-redis-80-cluster-and-sentinel-3ek1)
+- [Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files](https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7)
+- [MCP Tool Poisoning: The AI Supply Chain Attack Nobody Is Talking About](https://dev.to/aevrisai/mcp-tool-poisoning-the-ai-supply-chain-attack-nobody-is-talking-about-44fc)
+- [AI Agents Don&#39;t Fail at Code. They Fail at Learning.](https://dev.to/nagarjuna_yelisetty/ai-agents-dont-fail-at-code-they-fail-at-learning-51om)
+- [Beyond the Agent: The Google Ecosystem as a Unified Computational Intelligence Paradigm](https://dev.to/peacebinflow-labs/beyond-the-agent-the-google-ecosystem-as-a-unified-computational-intelligence-paradigm-jmk)
+- [Solana Week 2: From Terminal Logs to a Live Browser Dashboard](https://dev.to/0xunlin/solana-week-2-from-terminal-logs-to-a-live-browser-dashboard-33mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
