@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files](https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7)
-- [MCP Tool Poisoning: The AI Supply Chain Attack Nobody Is Talking About](https://dev.to/aevrisai/mcp-tool-poisoning-the-ai-supply-chain-attack-nobody-is-talking-about-44fc)
-- [AI Agents Don&#39;t Fail at Code. They Fail at Learning.](https://dev.to/nagarjuna_yelisetty/ai-agents-dont-fail-at-code-they-fail-at-learning-51om)
-- [Beyond the Agent: The Google Ecosystem as a Unified Computational Intelligence Paradigm](https://dev.to/peacebinflow-labs/beyond-the-agent-the-google-ecosystem-as-a-unified-computational-intelligence-paradigm-jmk)
-- [Solana Week 2: From Terminal Logs to a Live Browser Dashboard](https://dev.to/0xunlin/solana-week-2-from-terminal-logs-to-a-live-browser-dashboard-33mh)
+- [100% CSS: repeat&lpar;--n, anything&rpar;](https://dev.to/janeori/100-css-repeat-n-anything-59ni)
+- [AI Isn&#39;t Stupid. Your Setup Is. 🛠️](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn)
+- [Building a Claude Stack for a Regulated Vertical &lpar;What I Learned Shipping for Law Firms&rpar;](https://dev.to/lawyersmarketer/building-a-claude-stack-for-a-regulated-vertical-what-i-learned-shipping-for-law-firms-3cc9)
+- [You’re Using GitHub Wrong &lpar;Here’s a Better Way&rpar;](https://dev.to/konark_13/youre-using-github-wrong-heres-a-better-way-4p3j)
+- [Comparison: Haystack 2.0 vs. RAGatouille 0.3 for Building High-Accuracy RAG Pipelines for Developer Docs](https://dev.to/johalputt/comparison-haystack-20-vs-ragatouille-03-for-building-high-accuracy-rag-pipelines-for-developer-142m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
