@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Building Health AI for India - When &#39;Big Data&#39; Misses the Point](https://dev.to/godavaii/day-13-building-health-ai-for-india-when-big-data-misses-the-point-p3b)
-- [30 seconds to a real diagnosis with mureo v0.8.0 demo scenarios](https://dev.to/yoshinaga/30-seconds-to-a-real-diagnosis-with-mureo-v080-demo-scenarios-4cfg)
-- [The CocoaPods Sunset: What Dec 2, 2026 Means for Your React Native App](https://dev.to/subraatakumar/the-cocoapods-sunset-what-dec-2-2026-means-for-your-react-native-app-4g4i)
-- [Stop Trusting Your AI-Generated Tests: Hardening Codebases with PITest and Claude Code Agentic Loops](https://dev.to/machinecodingmaster/stop-trusting-your-ai-generated-tests-hardening-codebases-with-pitest-and-claude-code-agentic-loops-hba)
-- [Benchmark: Azure Sentinel vs. Splunk 10.0 vs. AWS Security Hub for SIEM in Multi-Cloud Environments](https://dev.to/johalputt/benchmark-azure-sentinel-vs-splunk-100-vs-aws-security-hub-for-siem-in-multi-cloud-environments-4inl)
+- [Why Deno 2.0’s npm compatibility made us drop Node.js 22 for our CLI tools](https://dev.to/johalputt/why-deno-20s-npm-compatibility-made-us-drop-nodejs-22-for-our-cli-tools-5bhb)
+- [The Browser That Brought Its Own AI](https://dev.to/vivian-voss/the-browser-that-brought-its-own-ai-30fd)
+- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il)
+- [Switching to Secondary Is Faster](https://dev.to/wheynelau/switching-to-secondary-is-faster-mhc)
+- [Real-Time Object Recognition using Multimodal Deep Learning on the Edge](https://dev.to/swastik-swarup-dash/real-time-object-recognition-using-multimodal-deep-learning-on-the-edge-2emi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
