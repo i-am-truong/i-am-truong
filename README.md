@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explaining CSS Specificity Rules](https://dev.to/drprime01/explaining-css-specificity-rules-58i6)
-- [Codd&#39;s Connection Trap and Oracle&#39;s JOIN TO ONE](https://dev.to/franckpachot/codds-connection-trap-and-oracles-join-to-one-292f)
-- [Are We Overcomplicating React State? A Look at Valtio](https://dev.to/kensaadi/are-we-overcomplicating-react-state-a-look-at-valtio-3oh1)
-- [I built a free shift scheduler that checks Taiwan labor law compliance](https://dev.to/lumandpei_647a9d81c6ce869/i-built-a-free-shift-scheduler-that-checks-taiwan-labor-law-compliance-976)
-- [AGENTS.md, SKILL.md, DESIGN.md: How AI Instructions Split into Three Layers](https://dev.to/aws-builders/agentsmd-skillmd-designmd-how-ai-instructions-split-into-three-layers-d0g)
+- [Deleting the “Nice” Anti-Pattern: A Personal Systems Refactor](https://dev.to/khalisollis/deleting-the-nice-anti-pattern-a-personal-systems-refactor-56k)
+- [GitHub: Put Your Work Where Anyone Can See It](https://dev.to/yakhilesh/github-put-your-work-where-anyone-can-see-it-2fkf)
+- [[05] When to Pull the Trigger on FIRE — Monte Carlo Says You&#39;re Already Free](https://dev.to/soytuber/05-when-to-pull-the-trigger-on-fire-monte-carlo-says-youre-already-free-1h26)
+- [[04] The 90/10 Portfolio — Dividend Core + Growth Satellite with a Live Simulator](https://dev.to/soytuber/04-the-9010-portfolio-dividend-core-growth-satellite-with-a-live-simulator-4eak)
+- [Binalyzer: Phase 3 is now complete!](https://dev.to/angban2x/binalyzer-phase-3-is-now-complete-4im9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
