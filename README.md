@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hermes-Backchannel](https://dev.to/cybershield/hermes-backchannel-304o)
-- [The Nine-Day Gap](https://dev.to/chandravanshi/the-nine-day-gap-9b1)
-- [I Built a Benchmark for the Failures Generic LLM Evaluations Miss](https://dev.to/nebiyuephrata/i-built-a-benchmark-for-the-failures-generic-llm-evaluations-miss-jd9)
-- [OLTP vs. OLAP: The Two Sides of the Data Coin](https://dev.to/kashafabdullah/oltp-vs-olap-the-two-sides-of-the-data-coin-2kl7)
-- [Engineering the Modern Turing Test: Building BotSpot](https://dev.to/harishkotra/engineering-the-modern-turing-test-building-botspot-o6e)
+- [How Spring Security Works Internally &lpar;Filters, Authentication &amp; Authorization Explained&rpar;](https://dev.to/piyush_kumarsingh_da3833/how-spring-security-works-internally-filters-authentication-authorization-explained-2686)
+- [Asyncio - in Python Explained Like You’re Ordering Food &lpar;A Beginner Guide&rpar;](https://dev.to/anantmishra1729/asyncio-in-python-explained-like-youre-ordering-food-a-beginner-guide-3gm7)
+- [What is Meta-Architect?](https://dev.to/justinedevs/what-is-meta-architect-l3c)
+- [The Story of Building Zoom&#39;s Video Compression 2026 – C++ and WebAssembly 2.0](https://dev.to/johalputt/the-story-of-building-zooms-video-compression-2026-c-and-webassembly-20-o04)
+- [The Heartbeat Frame](https://dev.to/geniusmind9999/the-heartbeat-frame-4oej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
