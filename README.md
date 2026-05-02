@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a WhatsApp Booking Agent — The Hard Part Wasn’t AI](https://dev.to/gracesoftdev/i-built-a-whatsapp-booking-agent-the-hard-part-wasnt-ai-1d4n)
-- [Building a streaming AI companion in your own API](https://dev.to/samvanhoutte/building-a-streaming-ai-companion-in-your-own-api-4e3i)
-- [From AI Demo to Production: How to Ship Quality Agentic Applications](https://dev.to/alex_metelli_f22d28dae8de/from-ai-demo-to-production-how-to-ship-quality-agentic-applications-403f)
-- [I tested 4 free 70B-class LLM endpoints for real production work — here&#39;s what each is actually good at](https://dev.to/pcpranav/i-tested-4-free-70b-class-llm-endpoints-for-real-production-work-heres-what-each-is-actually-1if9)
-- [Building an on-prem Kubernetes cluster manager - Part 1: Why, and what it looks like](https://dev.to/ishara_ekanayaka/building-an-on-prem-kubernetes-cluster-manager-part-1-why-and-what-it-looks-like-39k)
+- [Webhook Security: How to Verify Incoming Requests with HMAC Signatures](https://dev.to/snappy_tools/webhook-security-how-to-verify-incoming-requests-with-hmac-signatures-2d)
+- [Multi-Cloud Resilience: The Event-Driven Cellular Architecture Blueprint across AWS and Azure](https://dev.to/sertaoseracloud/multi-cloud-resilience-the-event-driven-cellular-architecture-blueprint-across-aws-and-azure-43li)
+- [I Analyzed How Popular PDF Tools Handle Your Files — Then Built a Privacy-First Alternative](https://dev.to/erkinyagci/i-analyzed-how-popular-pdf-tools-handle-your-files-then-built-a-privacy-first-alternative-54i2)
+- [Déconstruire l&#39;architecture média de VK.com : Construire un moteur d&#39;extraction vidéo haute performance et sans perte](https://dev.to/yqqwe/deconstruire-larchitecture-media-de-vkcom-construire-un-moteur-dextraction-video-haute-2115)
+- [Giải mã kiến trúc truyền thông của VK.com: Xây dựng bộ máy trích xuất video hiệu suất cao và không tổn hao dữ liệu](https://dev.to/yqqwe/giai-ma-kien-truc-truyen-thong-cua-vkcom-xay-dung-bo-may-trich-xuat-video-hieu-suat-cao-va-khong-3690)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
