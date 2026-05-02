@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a High-Traffic Laravel App &lpar;Practical Guide&rpar;](https://dev.to/yogeshgalav7/how-to-create-a-high-traffic-laravel-app-practical-guide-5dh0)
-- [The Untold issues with AI job-takeover theory &lpar; chapter 2&rpar;](https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-2-3k2j)
-- [Mythos Got Loose — Why AI Agent Security Needs More Than Access Control](https://dev.to/agentshield/mythos-got-loose-why-ai-agent-security-needs-more-than-access-control-1hm)
-- [I shipped a polished hanafuda card game in 2 days with Claude and Godot](https://dev.to/morinaga/i-shipped-a-polished-hanafuda-card-game-in-2-days-with-claude-and-godot-5a7j)
-- [Claude, Gemini, and Copilot Got Hijacked — Here&#39;s What Went Wrong](https://dev.to/agentshield/claude-gemini-and-copilot-got-hijacked-heres-what-went-wrong-3a3p)
+- [Fifty Ways to Fail at Attaching One Ped to Another](https://dev.to/tackk3/fifty-ways-to-fail-at-attaching-one-ped-to-another-6i)
+- [AtCoder Beginner Contest 456 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-456-can-jia-ji-lu-tojie-da-li-adwen-ti--1p70)
+- [How I Automated the Web3.py v6 to v7 Migration with AST + AI](https://dev.to/rohan_santhosh_28d9bee22a/how-i-automated-the-web3py-v6-to-v7-migration-with-ast-ai-4dld)
+- [I tracked my referral sources for 30 days. AI chatbots are beating Google.](https://dev.to/acewhitmore/i-tracked-my-referral-sources-for-30-days-ai-chatbots-are-beating-google-dkm)
+- [How React Works &lpar;Part 7&rpar;? The Trap of Vibe Coding `useCallback`](https://dev.to/samabaasi/how-react-works-part-7-the-trap-of-vibe-coding-usecallback-25cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
