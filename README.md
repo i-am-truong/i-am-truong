@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GCP Hands-on: Deploying OpenAB - Building a Gemini ACP Bridge for Telegram on GCE](https://dev.to/evanlin/gcp-hands-on-deploying-openab-building-a-gemini-acp-bridge-for-telegram-on-gce-1bd)
-- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/evanlin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg)
-- [Postmortem: The 2026 Slack Outage Due to Istio 1.22 Circuit Breaker Misconfiguration](https://dev.to/johalputt/postmortem-the-2026-slack-outage-due-to-istio-122-circuit-breaker-misconfiguration-ofg)
-- [Reproducing Chinchilla Scaling on a Budget](https://dev.to/thokozani_buthelezi_2cd41/reproducing-chinchilla-scaling-on-a-budget-227b)
-- [Stop Passing string for User IDs. Branded Types Aren&#39;t Optional Anymore](https://dev.to/gabrielanhaia/stop-passing-string-for-user-ids-branded-types-arent-optional-anymore-229p)
+- [How to Create a High-Traffic Laravel App &lpar;Practical Guide&rpar;](https://dev.to/yogeshgalav7/how-to-create-a-high-traffic-laravel-app-practical-guide-5dh0)
+- [The Untold issues with AI job-takeover theory &lpar; chapter 2&rpar;](https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-2-3k2j)
+- [Mythos Got Loose — Why AI Agent Security Needs More Than Access Control](https://dev.to/agentshield/mythos-got-loose-why-ai-agent-security-needs-more-than-access-control-1hm)
+- [I shipped a polished hanafuda card game in 2 days with Claude and Godot](https://dev.to/morinaga/i-shipped-a-polished-hanafuda-card-game-in-2-days-with-claude-and-godot-5a7j)
+- [Claude, Gemini, and Copilot Got Hijacked — Here&#39;s What Went Wrong](https://dev.to/agentshield/claude-gemini-and-copilot-got-hijacked-heres-what-went-wrong-3a3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
