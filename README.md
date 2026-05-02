@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized Oracle Manipulation and Price Feed Security](https://dev.to/mericcintosun/decentralized-oracle-manipulation-and-price-feed-security-2mla)
-- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobu_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
-- [I put Claude inside Blender&#39;s Text Editor](https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo)
-- [Running Caddy on Cloudflare Workers via WebAssembly](https://dev.to/theuargb/running-caddy-on-cloudflare-workers-via-webassembly-4mai)
-- [How I Built an AI Character That Lives on My Desktop and Learns New Expressions](https://dev.to/jakimli/how-i-built-an-ai-character-that-lives-on-my-desktop-and-learns-new-expressions-454j)
+- [Hermes-Backchannel](https://dev.to/cybershield/hermes-backchannel-304o)
+- [The Nine-Day Gap](https://dev.to/chandravanshi/the-nine-day-gap-9b1)
+- [I Built a Benchmark for the Failures Generic LLM Evaluations Miss](https://dev.to/nebiyuephrata/i-built-a-benchmark-for-the-failures-generic-llm-evaluations-miss-jd9)
+- [OLTP vs. OLAP: The Two Sides of the Data Coin](https://dev.to/kashafabdullah/oltp-vs-olap-the-two-sides-of-the-data-coin-2kl7)
+- [Engineering the Modern Turing Test: Building BotSpot](https://dev.to/harishkotra/engineering-the-modern-turing-test-building-botspot-o6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
