@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Digital Trust: A Relational Deep Dive into the LocalHands Prisma Schema](https://dev.to/tianipekinsebika/architecting-digital-trust-a-relational-deep-dive-into-the-localhands-prisma-schema-12dk)
-- [Postmortem: How a LangGraph 0.1 Multi-Agent Bug Broke Our 2026 Customer Support Bot](https://dev.to/johalputt/postmortem-how-a-langgraph-01-multi-agent-bug-broke-our-2026-customer-support-bot-37pp)
-- [TestSprite: Review Teknis Mendalam untuk Developer Indonesia — Termasuk Isu Locale Handling](https://dev.to/bajuriasadrgb/testsprite-review-teknis-mendalam-untuk-developer-indonesia-termasuk-isu-locale-handling-bbn)
-- [Why I&#39;m Building a Database From Scratch in Raw C++ &lpar;And Why I Banned the STL&rpar;](https://dev.to/hari5616/why-im-building-a-database-from-scratch-in-raw-c-and-why-i-banned-the-stl-41p2)
-- [i made a free list of 100 places where you can promote your SaaS](https://dev.to/nocodeboring/i-made-a-free-list-of-100-places-where-you-can-promote-your-saas-29ha)
+- [Explaining CSS Specificity Rules](https://dev.to/drprime01/explaining-css-specificity-rules-58i6)
+- [Codd&#39;s Connection Trap and Oracle&#39;s JOIN TO ONE](https://dev.to/franckpachot/codds-connection-trap-and-oracles-join-to-one-292f)
+- [Are We Overcomplicating React State? A Look at Valtio](https://dev.to/kensaadi/are-we-overcomplicating-react-state-a-look-at-valtio-3oh1)
+- [I built a free shift scheduler that checks Taiwan labor law compliance](https://dev.to/lumandpei_647a9d81c6ce869/i-built-a-free-shift-scheduler-that-checks-taiwan-labor-law-compliance-976)
+- [AGENTS.md, SKILL.md, DESIGN.md: How AI Instructions Split into Three Layers](https://dev.to/aws-builders/agentsmd-skillmd-designmd-how-ai-instructions-split-into-three-layers-d0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
