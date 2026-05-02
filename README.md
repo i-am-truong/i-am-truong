@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deleting the “Nice” Anti-Pattern: A Personal Systems Refactor](https://dev.to/khalisollis/deleting-the-nice-anti-pattern-a-personal-systems-refactor-56k)
-- [GitHub: Put Your Work Where Anyone Can See It](https://dev.to/yakhilesh/github-put-your-work-where-anyone-can-see-it-2fkf)
-- [[05] When to Pull the Trigger on FIRE — Monte Carlo Says You&#39;re Already Free](https://dev.to/soytuber/05-when-to-pull-the-trigger-on-fire-monte-carlo-says-youre-already-free-1h26)
-- [[04] The 90/10 Portfolio — Dividend Core + Growth Satellite with a Live Simulator](https://dev.to/soytuber/04-the-9010-portfolio-dividend-core-growth-satellite-with-a-live-simulator-4eak)
-- [Binalyzer: Phase 3 is now complete!](https://dev.to/angban2x/binalyzer-phase-3-is-now-complete-4im9)
+- [Illustration: Network Policies](https://dev.to/aoi/illustration-network-policies-5fbp)
+- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
+- [Your AI Is Doing the Wrong Job. That&#39;s On You.](https://dev.to/edfife/your-ai-is-doing-the-wrong-job-thats-on-you-3182)
+- [AI Coding Autopilot vs Manual Control: What Aviation Taught Us About Skill Decay](https://dev.to/alanwest/ai-coding-autopilot-vs-manual-control-what-aviation-taught-us-about-skill-decay-2h1g)
+- [Can the 4b Gemma 4 at 16 bit really use CLI like a 120b?](https://dev.to/brandon_beam_f4b2752055f4/can-the-4b-gemma-4-at-16-bit-really-use-cli-like-a-120b-3d1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
