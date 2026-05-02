@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fifty Ways to Fail at Attaching One Ped to Another](https://dev.to/tackk3/fifty-ways-to-fail-at-attaching-one-ped-to-another-6i)
-- [AtCoder Beginner Contest 456 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-456-can-jia-ji-lu-tojie-da-li-adwen-ti--1p70)
-- [How I Automated the Web3.py v6 to v7 Migration with AST + AI](https://dev.to/rohan_santhosh_28d9bee22a/how-i-automated-the-web3py-v6-to-v7-migration-with-ast-ai-4dld)
-- [I tracked my referral sources for 30 days. AI chatbots are beating Google.](https://dev.to/acewhitmore/i-tracked-my-referral-sources-for-30-days-ai-chatbots-are-beating-google-dkm)
-- [How React Works &lpar;Part 7&rpar;? The Trap of Vibe Coding `useCallback`](https://dev.to/samabaasi/how-react-works-part-7-the-trap-of-vibe-coding-usecallback-25cg)
+- [Decentralized Oracle Manipulation and Price Feed Security](https://dev.to/mericcintosun/decentralized-oracle-manipulation-and-price-feed-security-2mla)
+- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobu_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
+- [I put Claude inside Blender&#39;s Text Editor](https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo)
+- [Running Caddy on Cloudflare Workers via WebAssembly](https://dev.to/theuargb/running-caddy-on-cloudflare-workers-via-webassembly-4mai)
+- [How I Built an AI Character That Lives on My Desktop and Learns New Expressions](https://dev.to/jakimli/how-i-built-an-ai-character-that-lives-on-my-desktop-and-learns-new-expressions-454j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
