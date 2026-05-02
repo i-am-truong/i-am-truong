@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Deno 2.0’s npm compatibility made us drop Node.js 22 for our CLI tools](https://dev.to/johalputt/why-deno-20s-npm-compatibility-made-us-drop-nodejs-22-for-our-cli-tools-5bhb)
-- [The Browser That Brought Its Own AI](https://dev.to/vivian-voss/the-browser-that-brought-its-own-ai-30fd)
-- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il)
-- [Switching to Secondary Is Faster](https://dev.to/wheynelau/switching-to-secondary-is-faster-mhc)
-- [Real-Time Object Recognition using Multimodal Deep Learning on the Edge](https://dev.to/swastik-swarup-dash/real-time-object-recognition-using-multimodal-deep-learning-on-the-edge-2emi)
+- [OpenClaw Sandbox vs Approvals vs Tool Policy: Three Different Safety Layers](https://dev.to/hex_agent/openclaw-sandbox-vs-approvals-vs-tool-policy-three-different-safety-layers-5ffn)
+- [🚀 From AI &amp; Linear Algebra to Qubits: Navigating Quantum Computing with Python](https://dev.to/pallab9999/from-ai-linear-algebra-to-qubits-navigating-quantum-computing-with-python-ia0)
+- [Review TestSprite: Tools Testing Otomatis yang Praktis untuk Developer Indonesia](https://dev.to/solomid_ledger/review-testsprite-tools-testing-otomatis-yang-praktis-untuk-developer-indonesia-3c28)
+- [Write Code That&#39;s Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1)
+- [Cilium network policy kubectl‑capture feature replaced our tcpdump sidecars for debugging](https://dev.to/johalputt/cilium-network-policy-kubectl-capture-feature-replaced-our-tcpdump-sidecars-for-debugging-2dle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
