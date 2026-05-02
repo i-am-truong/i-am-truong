@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built a production-ready Wazuh SIEM on Docker &lpar;with custom rules for VMware, AWS and GCP&rpar;](https://dev.to/giulio_savini_/how-i-built-a-production-ready-wazuh-siem-on-docker-with-custom-rules-for-vmware-aws-and-gcp-11i3)
-- [Building Jungle Grid: Real AI Workloads You Can Run Without Manually Picking GPUs](https://dev.to/jaguarkyng/building-jungle-grid-real-ai-workloads-you-can-run-without-manually-picking-gpus-eii)
-- [DBX: An Open-Source, 15 MB Database Client for 17+ Databases &lpar;Built with Tauri&rpar;](https://dev.to/t8y2/dbx-an-open-source-15-mb-database-client-for-17-databases-built-with-tauri-45oe)
-- [Hello World of RAG - Day 1](https://dev.to/gokul_kannan_1011/hello-world-of-rag-day-1-15l9)
-- [Building AI Products That People Actually Use](https://dev.to/denis_moroz/building-ai-products-that-people-actually-use-31pp)
+- [GCP Hands-on: Deploying OpenAB - Building a Gemini ACP Bridge for Telegram on GCE](https://dev.to/evanlin/gcp-hands-on-deploying-openab-building-a-gemini-acp-bridge-for-telegram-on-gce-1bd)
+- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/evanlin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg)
+- [Postmortem: The 2026 Slack Outage Due to Istio 1.22 Circuit Breaker Misconfiguration](https://dev.to/johalputt/postmortem-the-2026-slack-outage-due-to-istio-122-circuit-breaker-misconfiguration-ofg)
+- [Reproducing Chinchilla Scaling on a Budget](https://dev.to/thokozani_buthelezi_2cd41/reproducing-chinchilla-scaling-on-a-budget-227b)
+- [Stop Passing string for User IDs. Branded Types Aren&#39;t Optional Anymore](https://dev.to/gabrielanhaia/stop-passing-string-for-user-ids-branded-types-arent-optional-anymore-229p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
