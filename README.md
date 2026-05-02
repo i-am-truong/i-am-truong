@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Web Store SEO: How I Optimized 17 Extensions for Search](https://dev.to/_350df62777eb55e1/chrome-web-store-seo-how-i-optimized-17-extensions-for-search-2maj)
-- [O Maestro do Ecossistema: Orquestrando Ordens de Mercado com Kafka, RabbitMQ e Spring Boot](https://dev.to/rvneto/o-maestro-do-ecossistema-orquestrando-ordens-de-mercado-com-kafka-rabbitmq-e-spring-boot-1ji0)
-- [Engineering LLMOps: Building Robust CI/CD Pipelines for LLM Applications on Google Cloud](https://dev.to/jubinsoni/engineering-llmops-building-robust-cicd-pipelines-for-llm-applications-on-google-cloud-22hc)
-- [A/B Testing with Feature Flags: Ship Experiments Without the Complexity](https://dev.to/domenico_giordano_e441224/ab-testing-with-feature-flags-ship-experiments-without-the-complexity-2jkd)
-- [They Don&#39;t Get the File Until They Pay: How I Built a Payment-Gated Delivery System](https://dev.to/searumm_6ad53fdfe29f11658/they-dont-get-the-file-until-they-pay-how-i-built-a-payment-gated-delivery-system-28fd)
+- [⚖️ Software Crimes Won’t Put You in Jail. They’ll Just Kill Your Career.](https://dev.to/manojsatna31/software-crimes-wont-put-you-in-jail-theyll-just-kill-your-career-hj6)
+- [SOoooo I made an extension](https://dev.to/itsflashframe/sooooo-i-made-an-extension-2hkn)
+- [Git: Version Control For People Who&#39;ve Lost Code Before](https://dev.to/yakhilesh/git-version-control-for-people-whove-lost-code-before-4ien)
+- [npm installs packages blindly — I built a CLI to fix that](https://dev.to/nithindj192/npm-installs-packages-blindly-i-built-a-cli-to-fix-that-1dd)
+- [Prompt Engineering for Log Diagnosis — What Actually Works With Gemini](https://dev.to/hiyoyok/prompt-engineering-for-log-diagnosis-what-actually-works-with-gemini-3a1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
