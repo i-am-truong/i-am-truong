@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Subqueries vs. CTEs in SQL: What They Are and When to Use Each.](https://dev.to/samkaruri/subqueries-vs-ctes-in-sql-what-they-are-and-when-to-use-each-4nae)
-- [From on-prem to the cloud - Lessons Learned](https://dev.to/deathsaber/from-on-prem-to-the-cloud-lessons-learned-4pge)
-- [10 Powerful Tools 90% of Full-Stack Developers Ignore](https://dev.to/developerchandan/10-powerful-tools-90-of-full-stack-developers-ignore-dg1)
-- [ReactJs Performance ~ Web Workers for Heavy Computations ~](https://dev.to/kkr0423/reactjs-performance-web-workers-for-heavy-computations--3m07)
-- [I Built a Mood Ring for the Internet in 24 Hours](https://dev.to/acode123/i-built-a-mood-ring-for-the-internet-in-24-hours-3d5n)
+- [Vibe Code with Confidence: Testing AI-Built Apps with QA Agents](https://dev.to/appdeploy/vibe-code-with-confidence-testing-ai-built-apps-with-qa-agents-2e14)
+- [De Keras a Bare-Metal C++: Construyendo un motor de inferencia dentro de un Arduino Uno &lpar;Parte 3&rpar;](https://dev.to/galp76/de-keras-a-bare-metal-c-construyendo-un-motor-de-inferencia-dentro-de-un-arduino-uno-parte-3-25cd)
+- [Vibe coding: where it helps and where it breaks](https://dev.to/pcornelissen/vibe-coding-where-it-helps-and-where-it-breaks-71k)
+- [GFG technical scripter winner 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/gfg-technical-scripter-winner-2p12)
+- [A .NET Dinosaur in Web3. #3](https://dev.to/alenadevsoft/a-net-dinosaur-in-web3-3-7j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
