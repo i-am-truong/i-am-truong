@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months](https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n)
-- [I Just Wanted My Text to Look “Better”… Not Boring](https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca)
-- [I built a VS Code extension that gives AI instant context about your codebase - 20+ organic installs in 2 hours.](https://dev.to/charmi_soni_95bf0498cc45d/i-built-a-vs-code-extension-that-gives-ai-instant-context-about-your-codebase-20-organic-4o5d)
-- [Workspace 2026 : one USB-C to charge them all](https://dev.to/hexfloor/workspace-2026-one-usb-c-to-charge-them-all-36of)
-- [عملت Chrome Extension يصلح مشكلة النص العربي في البراوزر](https://dev.to/ezzeldin/mlt-chrome-extension-yslh-mshkl-lns-lrby-fy-lbrwzr-31ld)
+- [Floci &lpar;LocalStack alternative&rpar; storage modes: pick the right tradeoff per service &lpar;and never pay for it&rpar;](https://dev.to/hectorvent/floci-localstack-alternative-storage-modes-pick-the-right-tradeoff-per-service-and-never-pay-3nj5)
+- [Running Production-Grade Databases on K8s](https://dev.to/kalpesh47/running-production-grade-databases-on-kubernetes-a-complete-guide-1f53)
+- [Step-by-Step: Migrating from Node.js 21 to Bun 1.2 for Your Backend APIs](https://dev.to/johalputt/step-by-step-migrating-from-nodejs-21-to-bun-12-for-your-backend-apis-3nb4)
+- [Build Club Week Two: The PRD doesn&#39;t catch everything](https://dev.to/earlgreyhot1701d/build-club-week-two-the-prd-doesnt-catch-everything-459)
+- [Why I&#39;m Moving from Go to C After Building a Load Balancer](https://dev.to/voidhyr/why-im-moving-from-go-to-c-after-building-a-load-balancer-55go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
