@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why your MCP server should serve OAuth Protected Resource Metadata — AuthKit + RFC 9728](https://dev.to/kanta13jp1/why-your-mcp-server-should-serve-oauth-protected-resource-metadata-authkit-rfc-9728-2ofe)
-- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/emailnophone/ow-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-1m63)
-- [How to Write an Incident Postmortem That Actually Prevents Future Outages](https://dev.to/arshi_mustafa_e8d709b4827/how-to-write-an-incident-postmortem-that-actually-prevents-future-outages-1op9)
-- [Selective Disclosure Patterns in Compact](https://dev.to/akanji_rahman_45ea46f9a7a/selective-disclosure-patterns-in-compact-1745)
-- [LLM Foundry finally stops being a toy and starts acting like a system](https://dev.to/aman_sachan_126d19c4a2773/llm-foundry-finally-stops-being-a-toy-and-starts-acting-like-a-system-4pk5)
+- [Why Your Reddit Video Downloads Have No Sound &lpar;And How to Fix It&rpar;](https://dev.to/hiteshm_devapp/why-your-reddit-video-downloads-have-no-sound-and-how-to-fix-it-1ila)
+- [I built a real-time competitive coding platform — Dev-Battle](https://dev.to/nitish_kumar_19ec9e83be25/i-built-a-real-time-competitive-coding-platform-dev-battle-173l)
+- [Pygame Snake, Pt. 5](https://dev.to/paxfeline/pygame-snake-pt-5-1h2g)
+- [🚀 Starting a new journey: Learning LLD in Public](https://dev.to/megha_jain_465ce5e39f75ae/starting-a-new-journey-learning-lld-in-public-3k6o)
+- [Forced to code without AI yesterday](https://dev.to/yousrasd/forced-to-code-without-ai-yesterday-28l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
