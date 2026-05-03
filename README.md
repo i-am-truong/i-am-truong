@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using AI to Learn and Prepare for Certification Exams](https://dev.to/pbaletkeman/using-ai-to-learn-and-prepare-for-certification-exams-1og)
-- [GitHub Copilot&#39;s 27x Billing Trap is Closing — The Budget Guard Deadline](https://dev.to/amedinat/github-copilots-27x-billing-trap-is-closing-the-budget-guard-deadline-1ioc)
-- [I always worried my READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5)
-- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f)
-- [How I Automated the Entire Web3 Frontend Stack Migration in One Command](https://dev.to/tobiasbond/how-i-automated-the-entire-web3-frontend-stack-migration-in-one-command-5clm)
+- [Why your MCP server should serve OAuth Protected Resource Metadata — AuthKit + RFC 9728](https://dev.to/kanta13jp1/why-your-mcp-server-should-serve-oauth-protected-resource-metadata-authkit-rfc-9728-2ofe)
+- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/emailnophone/ow-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-1m63)
+- [How to Write an Incident Postmortem That Actually Prevents Future Outages](https://dev.to/arshi_mustafa_e8d709b4827/how-to-write-an-incident-postmortem-that-actually-prevents-future-outages-1op9)
+- [Selective Disclosure Patterns in Compact](https://dev.to/akanji_rahman_45ea46f9a7a/selective-disclosure-patterns-in-compact-1745)
+- [LLM Foundry finally stops being a toy and starts acting like a system](https://dev.to/aman_sachan_126d19c4a2773/llm-foundry-finally-stops-being-a-toy-and-starts-acting-like-a-system-4pk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
