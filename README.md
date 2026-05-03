@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Day We Discovered Defer Was Costing Us $78K &lpar;And I Almost Missed It&rpar;](https://dev.to/speed_engineer/the-day-we-discovered-defer-was-costing-us-78k-and-i-almost-missed-it-339a)
-- [Code Is a Commodity. Judgment Is Not.](https://dev.to/sargentjamesa/code-is-a-commodity-judgment-is-not-214a)
-- [Real-Time on the Frontend - SSE, WebSockets &amp; Polling](https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f)
-- [ƎUИИ](https://dev.to/sebastiandevelops/-5c89)
-- [How I Built a Multi-Department Workflow Routing System in Laravel with Inertia.js](https://dev.to/chrislfallaria/how-i-built-a-multi-department-workflow-routing-system-in-laravel-with-inertiajs-4gm9)
+- [What Is a “Tool” in MCP &lpar;And Why It Matters More Than You Think&rpar;](https://dev.to/saras_growth_space/what-is-a-tool-in-mcp-and-why-it-matters-more-than-you-think-2idc)
+- [Cryptographic Proof of Exchange: How We Use Ed25519 to Sign Every Transaction Before It Happens](https://dev.to/0trace_io/cryptographic-proof-of-exchange-how-we-use-ed25519-to-sign-every-transaction-before-it-happens-1b8n)
+- [SUMMER PLAN 2026](https://dev.to/arjun_verma_1e9e07050ed7d/summer-plan-2026-hhb)
+- [Detecting paying Cloudflare customers &lpar;for fun and profit&rpar;](https://dev.to/henley_wing_9424eb9a3177c/detecting-paying-cloudflare-customers-for-fun-and-profit-2dko)
+- [Reviewing AI-Generated Code: Check Boundaries Before Logic](https://dev.to/elpic/reviewing-ai-generated-code-check-boundaries-before-logic-1i7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
