@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Where do retrospective action items belong? &lpar;Probably not in Jira&rpar;](https://dev.to/kelly_lewandowski_845215e/where-do-retrospective-action-items-belong-probably-not-in-jira-239i)
-- [OpenSearch isn&#39;t trying to be a better Elasticsearch anymore](https://dev.to/thegatewayguy/opensearch-isnt-trying-to-be-a-better-elasticsearch-anymore-40i4)
-- [I Tested TestSprite on a Real Project — Here&#39;s My Honest Dev Review &lpar;Including Locale Surprises&rpar;](https://dev.to/mipiarl/i-tested-testsprite-on-a-real-project-heres-my-honest-dev-review-including-locale-surprises-h9)
-- [I Let TestSprite&#39;s AI Agent Test My App — Here&#39;s What It Found &lpar;And What It Missed&rpar;](https://dev.to/vspissak68940/i-let-testsprites-ai-agent-test-my-app-heres-what-it-found-and-what-it-missed-1ke4)
-- [TestSprite Review: I Tested It for Locale Handling — Here&#39;s What Actually Happened](https://dev.to/cemdil3/testsprite-review-i-tested-it-for-locale-handling-heres-what-actually-happened-4ae9)
+- [Mythos Found a 27-Year-Old Bug in OpenBSD. Your Code Is Next.](https://dev.to/michelle-jones/mythos-found-a-27-year-old-bug-in-openbsd-your-code-is-next-2om2)
+- [Logic Apps Agent Loop + MCP: Two Bugs Worth Knowing About](https://dev.to/imdj/logic-apps-agent-loop-mcp-two-bugs-worth-knowing-about-3h6n)
+- [Feature Flags That Actually Ship: Lessons From the Trenches](https://dev.to/pravin-khandke/feature-flags-that-actually-ship-lessons-from-the-trenches-b7a)
+- [How to Prevent IDOR Vulnerabilities in Django REST APIs](https://dev.to/securitystefan/how-to-prevent-idor-vulnerabilities-in-django-rest-apis-5763)
+- [How I stopped my README.md and README.zh.md from drifting apart](https://dev.to/_alexander_a_/how-i-stopped-my-readmemd-and-readmezhmd-from-drifting-apart-44lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
