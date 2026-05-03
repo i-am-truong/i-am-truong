@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Reddit Video Downloads Have No Sound &lpar;And How to Fix It&rpar;](https://dev.to/hiteshm_devapp/why-your-reddit-video-downloads-have-no-sound-and-how-to-fix-it-1ila)
-- [I built a real-time competitive coding platform — Dev-Battle](https://dev.to/nitish_kumar_19ec9e83be25/i-built-a-real-time-competitive-coding-platform-dev-battle-173l)
-- [Pygame Snake, Pt. 5](https://dev.to/paxfeline/pygame-snake-pt-5-1h2g)
-- [🚀 Starting a new journey: Learning LLD in Public](https://dev.to/megha_jain_465ce5e39f75ae/starting-a-new-journey-learning-lld-in-public-3k6o)
-- [Forced to code without AI yesterday](https://dev.to/yousrasd/forced-to-code-without-ai-yesterday-28l4)
+- [Subqueries vs. CTEs in SQL: What They Are and When to Use Each.](https://dev.to/samkaruri/subqueries-vs-ctes-in-sql-what-they-are-and-when-to-use-each-4nae)
+- [From on-prem to the cloud - Lessons Learned](https://dev.to/deathsaber/from-on-prem-to-the-cloud-lessons-learned-4pge)
+- [10 Powerful Tools 90% of Full-Stack Developers Ignore](https://dev.to/developerchandan/10-powerful-tools-90-of-full-stack-developers-ignore-dg1)
+- [ReactJs Performance ~ Web Workers for Heavy Computations ~](https://dev.to/kkr0423/reactjs-performance-web-workers-for-heavy-computations--3m07)
+- [I Built a Mood Ring for the Internet in 24 Hours](https://dev.to/acode123/i-built-a-mood-ring-for-the-internet-in-24-hours-3d5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
