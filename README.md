@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Micro Frontends Without Regretting It](https://dev.to/gouranga-das-khulna/how-to-use-micro-frontends-without-regretting-it-aal)
-- [Pandas&#39; secret mini-language](https://dev.to/aaronmaxwell/pandas-secret-mini-language-3h96)
-- [Hey Guys, I&#39;ve Created Modern Alternative for Windows XCOPY](https://dev.to/lyneetrastudio/hey-guys-ive-created-modern-alternative-for-windows-xcopy-9nl)
-- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
-- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic)
+- [The Day We Discovered Defer Was Costing Us $78K &lpar;And I Almost Missed It&rpar;](https://dev.to/speed_engineer/the-day-we-discovered-defer-was-costing-us-78k-and-i-almost-missed-it-339a)
+- [Code Is a Commodity. Judgment Is Not.](https://dev.to/sargentjamesa/code-is-a-commodity-judgment-is-not-214a)
+- [Real-Time on the Frontend - SSE, WebSockets &amp; Polling](https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f)
+- [ƎUИИ](https://dev.to/sebastiandevelops/-5c89)
+- [How I Built a Multi-Department Workflow Routing System in Laravel with Inertia.js](https://dev.to/chrislfallaria/how-i-built-a-multi-department-workflow-routing-system-in-laravel-with-inertiajs-4gm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
