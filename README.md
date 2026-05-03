@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Code with Confidence: Testing AI-Built Apps with QA Agents](https://dev.to/appdeploy/vibe-code-with-confidence-testing-ai-built-apps-with-qa-agents-2e14)
-- [De Keras a Bare-Metal C++: Construyendo un motor de inferencia dentro de un Arduino Uno &lpar;Parte 3&rpar;](https://dev.to/galp76/de-keras-a-bare-metal-c-construyendo-un-motor-de-inferencia-dentro-de-un-arduino-uno-parte-3-25cd)
-- [Vibe coding: where it helps and where it breaks](https://dev.to/pcornelissen/vibe-coding-where-it-helps-and-where-it-breaks-71k)
-- [GFG technical scripter winner 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/gfg-technical-scripter-winner-2p12)
-- [A .NET Dinosaur in Web3. #3](https://dev.to/alenadevsoft/a-net-dinosaur-in-web3-3-7j9)
+- [USB-C for AI Agents](https://dev.to/rawveg/usb-c-for-ai-agents-4f3)
+- [Agenv — A Full IDE for Building, Running, and Monitoring AI Agents](https://dev.to/adibenmati/agenv-a-full-ide-for-building-running-and-monitoring-ai-agents-4dpa)
+- [OpenZeppelin v5](https://dev.to/pratik_daithankar_4a5c141/openzeppelin-v5-final-case-study-116k)
+- [How to Automate Code Documentation with the Claude API and Python](https://dev.to/jon_ibanezdelcampo/how-to-build-a-code-assistant-chatbot-with-the-claude-api-and-python-361)
+- [Your Small Acts Matter More Than You Think — So I Built Proof🌍](https://dev.to/aditthya/i-built-a-gamified-kindness-app-in-24-hours-and-it-changed-how-i-see-the-world-12k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
