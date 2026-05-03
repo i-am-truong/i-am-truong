@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [So, you want to vibecode another note taking app? &lpar;Part 1&rpar;](https://dev.to/fernand0/so-you-want-to-vibecode-another-note-taking-app-part-1-j2o)
-- [Two billing bugs that looked fine until production proved otherwise](https://dev.to/nareshipme/two-billing-bugs-that-looked-fine-until-production-proved-otherwise-1nme)
-- [The Biryani Mystery That Explains Docker](https://dev.to/hariharan_sj_2003/the-biryani-mystery-that-explains-docker-14d1)
-- [I Built a Spam-Comment Review Bot After Almost Moving a GitHub Issue Conversation to Telegram](https://dev.to/syi0808/i-built-a-spam-comment-review-bot-after-almost-moving-a-github-issue-conversation-to-telegram-ikf)
-- [Ladybird Browser Engine: SerenityOS&#39;s Independent Vision to Disrupt Web Monoculture](https://dev.to/nilesh_kasar_2b00e7247dd5/ladybird-browser-engine-serenityoss-independent-vision-to-disrupt-web-monoculture-35o4)
+- [How to Use Micro Frontends Without Regretting It](https://dev.to/gouranga-das-khulna/how-to-use-micro-frontends-without-regretting-it-aal)
+- [Pandas&#39; secret mini-language](https://dev.to/aaronmaxwell/pandas-secret-mini-language-3h96)
+- [Hey Guys, I&#39;ve Created Modern Alternative for Windows XCOPY](https://dev.to/lyneetrastudio/hey-guys-ive-created-modern-alternative-for-windows-xcopy-9nl)
+- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
+- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
