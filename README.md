@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [USB-C for AI Agents](https://dev.to/rawveg/usb-c-for-ai-agents-4f3)
-- [Agenv — A Full IDE for Building, Running, and Monitoring AI Agents](https://dev.to/adibenmati/agenv-a-full-ide-for-building-running-and-monitoring-ai-agents-4dpa)
-- [OpenZeppelin v5](https://dev.to/pratik_daithankar_4a5c141/openzeppelin-v5-final-case-study-116k)
-- [How to Automate Code Documentation with the Claude API and Python](https://dev.to/jon_ibanezdelcampo/how-to-build-a-code-assistant-chatbot-with-the-claude-api-and-python-361)
-- [Your Small Acts Matter More Than You Think — So I Built Proof🌍](https://dev.to/aditthya/i-built-a-gamified-kindness-app-in-24-hours-and-it-changed-how-i-see-the-world-12k)
+- [So, you want to vibecode another note taking app? &lpar;Part 1&rpar;](https://dev.to/fernand0/so-you-want-to-vibecode-another-note-taking-app-part-1-j2o)
+- [Two billing bugs that looked fine until production proved otherwise](https://dev.to/nareshipme/two-billing-bugs-that-looked-fine-until-production-proved-otherwise-1nme)
+- [The Biryani Mystery That Explains Docker](https://dev.to/hariharan_sj_2003/the-biryani-mystery-that-explains-docker-14d1)
+- [I Built a Spam-Comment Review Bot After Almost Moving a GitHub Issue Conversation to Telegram](https://dev.to/syi0808/i-built-a-spam-comment-review-bot-after-almost-moving-a-github-issue-conversation-to-telegram-ikf)
+- [Ladybird Browser Engine: SerenityOS&#39;s Independent Vision to Disrupt Web Monoculture](https://dev.to/nilesh_kasar_2b00e7247dd5/ladybird-browser-engine-serenityoss-independent-vision-to-disrupt-web-monoculture-35o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
