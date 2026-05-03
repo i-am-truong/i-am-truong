@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This Month in Networking - APR 2026](https://dev.to/sruthik_issac/this-month-in-networking-apr-2026-3ech)
-- [Understanding Logic, Reusability and Integrity On SQL ; Procedures, Functions and Transactions.](https://dev.to/braeson_nyahera/understanding-logic-reusability-and-integrity-on-sql-procedures-functions-and-transactions-f7a)
-- [# Introducing Conté UI](https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj)
-- [Understanding Multi-Head Attention in Transformers](https://dev.to/rijultp/understanding-multi-head-attention-in-transformers-gj1)
-- [FastAPI Quickstart in 2026](https://dev.to/dido739/fastapi-quickstart-in-2026-1j93)
+- [TestSprite Review: Localization Testing That Actually Works](https://dev.to/bocobobitch100/testsprite-review-localization-testing-that-actually-works-533o)
+- [Lessons from building a multi-platform social sync pipeline](https://dev.to/autoclaw/lessons-from-building-a-multi-platform-social-sync-pipeline-5f22)
+- [TestSprite: The Autonomous Testing Layer AI Development Actually Needed](https://dev.to/aslturnagol/testsprite-the-autonomous-testing-layer-ai-development-actually-needed-2h86)
+- [How I Built an AI Agent That Handles On-Call Incidents and Pauses for Human Approval Before Touching Production](https://dev.to/krishna_kittu_1d2837d30bb/how-i-built-an-ai-agent-that-handles-on-call-incidents-and-pauses-for-human-approval-before-53a3)
+- [Why Your Browser Extension Doesn&#39;t Need an Account &lpar;And Why That Matters&rpar;](https://dev.to/weatherclockdash/why-your-browser-extension-doesnt-need-an-account-and-why-that-matters-16nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
