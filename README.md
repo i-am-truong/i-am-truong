@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Floci &lpar;LocalStack alternative&rpar; storage modes: pick the right tradeoff per service &lpar;and never pay for it&rpar;](https://dev.to/hectorvent/floci-localstack-alternative-storage-modes-pick-the-right-tradeoff-per-service-and-never-pay-3nj5)
-- [Running Production-Grade Databases on K8s](https://dev.to/kalpesh47/running-production-grade-databases-on-kubernetes-a-complete-guide-1f53)
-- [Step-by-Step: Migrating from Node.js 21 to Bun 1.2 for Your Backend APIs](https://dev.to/johalputt/step-by-step-migrating-from-nodejs-21-to-bun-12-for-your-backend-apis-3nb4)
-- [Build Club Week Two: The PRD doesn&#39;t catch everything](https://dev.to/earlgreyhot1701d/build-club-week-two-the-prd-doesnt-catch-everything-459)
-- [Why I&#39;m Moving from Go to C After Building a Load Balancer](https://dev.to/voidhyr/why-im-moving-from-go-to-c-after-building-a-load-balancer-55go)
+- [This Month in Networking - APR 2026](https://dev.to/sruthik_issac/this-month-in-networking-apr-2026-3ech)
+- [Understanding Logic, Reusability and Integrity On SQL ; Procedures, Functions and Transactions.](https://dev.to/braeson_nyahera/understanding-logic-reusability-and-integrity-on-sql-procedures-functions-and-transactions-f7a)
+- [# Introducing Conté UI](https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj)
+- [Understanding Multi-Head Attention in Transformers](https://dev.to/rijultp/understanding-multi-head-attention-in-transformers-gj1)
+- [FastAPI Quickstart in 2026](https://dev.to/dido739/fastapi-quickstart-in-2026-1j93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
