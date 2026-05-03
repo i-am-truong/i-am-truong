@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is a “Tool” in MCP &lpar;And Why It Matters More Than You Think&rpar;](https://dev.to/saras_growth_space/what-is-a-tool-in-mcp-and-why-it-matters-more-than-you-think-2idc)
-- [Cryptographic Proof of Exchange: How We Use Ed25519 to Sign Every Transaction Before It Happens](https://dev.to/0trace_io/cryptographic-proof-of-exchange-how-we-use-ed25519-to-sign-every-transaction-before-it-happens-1b8n)
-- [SUMMER PLAN 2026](https://dev.to/arjun_verma_1e9e07050ed7d/summer-plan-2026-hhb)
-- [Detecting paying Cloudflare customers &lpar;for fun and profit&rpar;](https://dev.to/henley_wing_9424eb9a3177c/detecting-paying-cloudflare-customers-for-fun-and-profit-2dko)
-- [Reviewing AI-Generated Code: Check Boundaries Before Logic](https://dev.to/elpic/reviewing-ai-generated-code-check-boundaries-before-logic-1i7n)
+- [Finding Structurally Duplicate Go Functions with AST Hashing](https://dev.to/alzhi_f93e67fa45b972/finding-structurally-duplicate-go-functions-with-ast-hashing-4i26)
+- [IPC in Tauri — Tauri Commands vs Custom IPC, What to Use When](https://dev.to/hiyoyok/ipc-in-tauri-tauri-commands-vs-custom-ipc-what-to-use-when-2ab4)
+- [How I Built FixerLab: A Simple Tool to Organize Repair Workflows](https://dev.to/alex9978/how-i-built-fixerlab-a-simple-tool-to-organize-repair-workflows-3koe)
+- [Building one focused calculator in the open &lpar;Next.js, honesty, and IndexNow&rpar;](https://dev.to/souhayb_kamaldine_a79d37/building-one-focused-calculator-in-the-open-nextjs-honesty-and-indexnow-4gh2)
+- [OneDialect — Unified Assistive Communication System &lpar;UACS&rpar;](https://dev.to/anand_ps/onedialect-unified-assistive-communication-system-uacs-580f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
