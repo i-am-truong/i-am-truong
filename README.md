@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Which global AI principles fail in weak-regulation countries like Nigeria and why ?](https://dev.to/spiff/which-global-ai-principles-fail-in-weak-regulation-countries-like-nigeria-and-why--49ee)
-- [AI Coding Has Its Own Language Now — Here&#39;s How to Decode It](https://dev.to/alanwest/ai-coding-has-its-own-language-now-heres-how-to-decode-it-5o5)
-- [Beyond SEO: Why We Need SGO to Prevent &quot;Semantic Poisoning&quot; in the AI Era](https://dev.to/myc911/title-beyond-seo-why-we-need-sgo-to-prevent-semantic-poisoning-in-the-ai-era-9mf)
-- [I Hired Two AI Developers. One Is a Rocket. The Other One Checks the Wiring.](https://dev.to/canceylan1988/i-hired-two-ai-developers-one-is-a-rocket-the-other-one-checks-the-wiring-40af)
-- [Building a Travel Power Adapter Tool with Claude in a Weekend](https://dev.to/vientapps/building-a-travel-power-adapter-tool-with-claude-in-a-weekend-56i8)
+- [How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months](https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n)
+- [I Just Wanted My Text to Look “Better”… Not Boring](https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca)
+- [I built a VS Code extension that gives AI instant context about your codebase - 20+ organic installs in 2 hours.](https://dev.to/charmi_soni_95bf0498cc45d/i-built-a-vs-code-extension-that-gives-ai-instant-context-about-your-codebase-20-organic-4o5d)
+- [Workspace 2026 : one USB-C to charge them all](https://dev.to/hexfloor/workspace-2026-one-usb-c-to-charge-them-all-36of)
+- [عملت Chrome Extension يصلح مشكلة النص العربي في البراوزر](https://dev.to/ezzeldin/mlt-chrome-extension-yslh-mshkl-lns-lrby-fy-lbrwzr-31ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
