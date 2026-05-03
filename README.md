@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark: Gitea 1.24 vs. GitLab 17.0 for Git Repository Performance](https://dev.to/johalputt/benchmark-gitea-124-vs-gitlab-170-for-git-repository-performance-4icc)
-- [MFA is Not the Holy Grail of Security](https://dev.to/ewright3/mfa-is-not-the-holy-grail-of-security-j1)
-- [The AI Agent Destroyed Its Mail Server to Keep a Secret](https://dev.to/zaferdace/the-ai-agent-destroyed-its-mail-server-to-keep-a-secret-26kg)
-- [How Redis Actually Works — RAM, Single Thread, and the Expiry Behavior Nobody Explains](https://dev.to/piyush_kumarsingh_da3833/how-redis-actually-works-ram-single-thread-and-the-expiry-behavior-nobody-explains-2j4n)
-- [Gemini vs Claude vs GPT-4 for Code Debugging — Practical Comparison &lpar;2026&rpar;](https://dev.to/hiyoyok/gemini-vs-claude-vs-gpt-4-for-code-debugging-practical-comparison-2026-dpb)
+- [Which global AI principles fail in weak-regulation countries like Nigeria and why ?](https://dev.to/spiff/which-global-ai-principles-fail-in-weak-regulation-countries-like-nigeria-and-why--49ee)
+- [AI Coding Has Its Own Language Now — Here&#39;s How to Decode It](https://dev.to/alanwest/ai-coding-has-its-own-language-now-heres-how-to-decode-it-5o5)
+- [Beyond SEO: Why We Need SGO to Prevent &quot;Semantic Poisoning&quot; in the AI Era](https://dev.to/myc911/title-beyond-seo-why-we-need-sgo-to-prevent-semantic-poisoning-in-the-ai-era-9mf)
+- [I Hired Two AI Developers. One Is a Rocket. The Other One Checks the Wiring.](https://dev.to/canceylan1988/i-hired-two-ai-developers-one-is-a-rocket-the-other-one-checks-the-wiring-40af)
+- [Building a Travel Power Adapter Tool with Claude in a Weekend](https://dev.to/vientapps/building-a-travel-power-adapter-tool-with-claude-in-a-weekend-56i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
