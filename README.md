@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Visual Studio 2026 to VS Code: Paledev Dark Theme](https://dev.to/jtgmagic/from-visual-studio-2026-to-vs-code-paledev-dark-theme-2j43)
+- [Consistência Eventual em Sistemas Distribuídos](https://dev.to/guilherme_ryu/consistencia-eventual-em-sistemas-distribuidos-26oj)
+- [Why I Used wttr.in Instead of OpenWeatherMap for My Firefox Extension](https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k)
+- [¿Cuánta energía, agua, dinero e infraestructura estamos dispuestos a gastar para sostenerla?](https://dev.to/miigangls/cuanta-energia-agua-dinero-e-infraestructura-estamos-dispuestos-a-gastar-para-sostenerla-57l3)
 - [Mythos Found a 27-Year-Old Bug in OpenBSD. Your Code Is Next.](https://dev.to/michelle-jones/mythos-found-a-27-year-old-bug-in-openbsd-your-code-is-next-2om2)
-- [Logic Apps Agent Loop + MCP: Two Bugs Worth Knowing About](https://dev.to/imdj/logic-apps-agent-loop-mcp-two-bugs-worth-knowing-about-3h6n)
-- [Feature Flags That Actually Ship: Lessons From the Trenches](https://dev.to/pravin-khandke/feature-flags-that-actually-ship-lessons-from-the-trenches-b7a)
-- [How to Prevent IDOR Vulnerabilities in Django REST APIs](https://dev.to/securitystefan/how-to-prevent-idor-vulnerabilities-in-django-rest-apis-5763)
-- [How I stopped my README.md and README.zh.md from drifting apart](https://dev.to/_alexander_a_/how-i-stopped-my-readmemd-and-readmezhmd-from-drifting-apart-44lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
