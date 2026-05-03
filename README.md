@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding Structurally Duplicate Go Functions with AST Hashing](https://dev.to/alzhi_f93e67fa45b972/finding-structurally-duplicate-go-functions-with-ast-hashing-4i26)
-- [IPC in Tauri — Tauri Commands vs Custom IPC, What to Use When](https://dev.to/hiyoyok/ipc-in-tauri-tauri-commands-vs-custom-ipc-what-to-use-when-2ab4)
-- [How I Built FixerLab: A Simple Tool to Organize Repair Workflows](https://dev.to/alex9978/how-i-built-fixerlab-a-simple-tool-to-organize-repair-workflows-3koe)
-- [Building one focused calculator in the open &lpar;Next.js, honesty, and IndexNow&rpar;](https://dev.to/souhayb_kamaldine_a79d37/building-one-focused-calculator-in-the-open-nextjs-honesty-and-indexnow-4gh2)
-- [OneDialect — Unified Assistive Communication System &lpar;UACS&rpar;](https://dev.to/anand_ps/onedialect-unified-assistive-communication-system-uacs-580f)
+- [Benchmark: Gitea 1.24 vs. GitLab 17.0 for Git Repository Performance](https://dev.to/johalputt/benchmark-gitea-124-vs-gitlab-170-for-git-repository-performance-4icc)
+- [MFA is Not the Holy Grail of Security](https://dev.to/ewright3/mfa-is-not-the-holy-grail-of-security-j1)
+- [The AI Agent Destroyed Its Mail Server to Keep a Secret](https://dev.to/zaferdace/the-ai-agent-destroyed-its-mail-server-to-keep-a-secret-26kg)
+- [How Redis Actually Works — RAM, Single Thread, and the Expiry Behavior Nobody Explains](https://dev.to/piyush_kumarsingh_da3833/how-redis-actually-works-ram-single-thread-and-the-expiry-behavior-nobody-explains-2j4n)
+- [Gemini vs Claude vs GPT-4 for Code Debugging — Practical Comparison &lpar;2026&rpar;](https://dev.to/hiyoyok/gemini-vs-claude-vs-gpt-4-for-code-debugging-practical-comparison-2026-dpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
