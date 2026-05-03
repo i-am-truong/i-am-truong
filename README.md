@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TestSprite Review: Localization Testing That Actually Works](https://dev.to/bocobobitch100/testsprite-review-localization-testing-that-actually-works-533o)
-- [Lessons from building a multi-platform social sync pipeline](https://dev.to/autoclaw/lessons-from-building-a-multi-platform-social-sync-pipeline-5f22)
-- [TestSprite: The Autonomous Testing Layer AI Development Actually Needed](https://dev.to/aslturnagol/testsprite-the-autonomous-testing-layer-ai-development-actually-needed-2h86)
-- [How I Built an AI Agent That Handles On-Call Incidents and Pauses for Human Approval Before Touching Production](https://dev.to/krishna_kittu_1d2837d30bb/how-i-built-an-ai-agent-that-handles-on-call-incidents-and-pauses-for-human-approval-before-53a3)
-- [Why Your Browser Extension Doesn&#39;t Need an Account &lpar;And Why That Matters&rpar;](https://dev.to/weatherclockdash/why-your-browser-extension-doesnt-need-an-account-and-why-that-matters-16nl)
+- [Where do retrospective action items belong? &lpar;Probably not in Jira&rpar;](https://dev.to/kelly_lewandowski_845215e/where-do-retrospective-action-items-belong-probably-not-in-jira-239i)
+- [OpenSearch isn&#39;t trying to be a better Elasticsearch anymore](https://dev.to/thegatewayguy/opensearch-isnt-trying-to-be-a-better-elasticsearch-anymore-40i4)
+- [I Tested TestSprite on a Real Project — Here&#39;s My Honest Dev Review &lpar;Including Locale Surprises&rpar;](https://dev.to/mipiarl/i-tested-testsprite-on-a-real-project-heres-my-honest-dev-review-including-locale-surprises-h9)
+- [I Let TestSprite&#39;s AI Agent Test My App — Here&#39;s What It Found &lpar;And What It Missed&rpar;](https://dev.to/vspissak68940/i-let-testsprites-ai-agent-test-my-app-heres-what-it-found-and-what-it-missed-1ke4)
+- [TestSprite Review: I Tested It for Locale Handling — Here&#39;s What Actually Happened](https://dev.to/cemdil3/testsprite-review-i-tested-it-for-locale-handling-heres-what-actually-happened-4ae9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
