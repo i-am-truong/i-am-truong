@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A superscript-1 walks past every Go SSRF guard](https://dev.to/sankalp_gilda_92ba4374021/a-superscript-1-walks-past-every-go-ssrf-guard-3gk3)
-- [Adding a Trust Boundary to a Haystack Pipeline](https://dev.to/anviren/adding-a-trust-boundary-to-a-haystack-pipeline-1e5d)
-- [Why do you keep starting new things but can&#39;t finish them?](https://dev.to/rifat240510/why-do-you-keep-starting-new-things-but-cant-finish-them-586p)
-- [When DynamoDB Global Tables Go Stale: Chaos Testing Replication Lag with AWS FIS](https://dev.to/aws-builders/when-dynamodb-global-tables-go-stale-chaos-testing-replication-lag-with-aws-fis-2ij8)
-- [Building B2B feedback, NPS, and announcements as a drop-in embed &lpar;not another heavy SDK&rpar;](https://dev.to/vipinlahoti/building-b2b-feedback-nps-and-announcements-as-a-drop-in-embed-not-another-heavy-sdk-2pel)
+- [EU Digital Product Passports in 2026: A Developer&#39;s Implementation Guide](https://dev.to/julien786534/eu-digital-product-passports-in-2026-a-developers-implementation-guide-2njo)
+- [When PowerShell Classes and Functions Depend on Each Other — How PSScriptBuilder Handles It](https://dev.to/tim_hartling/when-powershell-classes-and-functions-depend-on-each-other-how-psscriptbuilder-handles-it-4ik2)
+- [Deploy your own open-source Web GIS server instance on a VPS in 15 minutes with Docker](https://dev.to/kazakov_e/deploy-your-own-open-source-web-gis-server-instance-on-a-vps-in-15-minutes-with-docker-1hp1)
+- [Kubernetes Multi-Tenancy: Namespace Isolation, RBAC, and Network Policies Explained](https://dev.to/muskan_8abedcc7e12/kubernetes-multi-tenancy-namespace-isolation-rbac-and-network-policies-explained-3jjm)
+- [ZopNight v2.0: The Control Layer Your Cloud Bill Has Been Missing](https://dev.to/muskan_8abedcc7e12/zopnight-v20-the-control-layer-your-cloud-bill-has-been-missing-2aem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
