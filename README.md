@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHP Magic Methods to TypeScript Proxy: 5 Idioms That Translate](https://dev.to/gabrielanhaia/php-magic-methods-to-typescript-proxy-5-idioms-that-translate-32j)
-- [Benchmark: JetBrains DataGrip 2026 vs. DBeaver 24.0: Query Execution Speed for PostgreSQL 17](https://dev.to/johalputt/benchmark-jetbrains-datagrip-2026-vs-dbeaver-240-query-execution-speed-for-postgresql-17-1hhk)
-- [Test Doubles in Go Without a Mocking Framework: 4 Patterns](https://dev.to/gabrielanhaia/test-doubles-in-go-without-a-mocking-framework-4-patterns-ipc)
-- [OpenAI Codex is free right now. That&#39;s the trap.](https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5)
-- [Introducing Skills Over MCP – the better way to share and distribute skills](https://dev.to/spencerpauly/introducing-skills-over-mcp-the-better-way-to-share-and-distribute-skills-bb)
+- [CLAUDE.md for Redis: 13 Rules That Stop AI From Writing Cache Anti-Patterns](https://dev.to/olivia_craft/claudemd-for-redis-13-rules-that-stop-ai-from-writing-cache-anti-patterns-28ih)
+- [Behind the Scenes of AWS Student Community Day Amravati](https://dev.to/yash_sathe_aee337eaa28be3/behind-the-scenes-of-aws-student-community-day-amravati-1mlk)
+- [Why I Chose Regex Over AST Parsing in My SAST Tool &lpar;And When That Would Be Wrong&rpar;](https://dev.to/pgmpofu/why-i-chose-regex-over-ast-parsing-in-my-sast-tool-and-when-that-would-be-wrong-md2)
+- [Why Most Crypto Bots Get Sandwiched &lpar;And How to Prevent It&rpar;](https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-248l)
+- [Who cares about speed?](https://dev.to/wootcot/who-cares-about-speed-1pl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
