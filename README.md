@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Superpowers vs Compound Engineering: is the &#39;vs&#39; even real?](https://dev.to/ikramar/superpowers-vs-compound-engineering-is-the-vs-even-real-58gc)
-- [The Data Refinery: Why Apache Spark is the Engine Behind Real-World Big Data Use Cases](https://dev.to/manishpodiyal/the-data-refinery-why-apache-spark-is-the-engine-behind-real-world-big-data-use-cases-1f0j)
-- [Optimizing Developer Metrics: Mastering GitHub Actions Secrets Management](https://dev.to/devactivity/optimizing-developer-metrics-mastering-github-actions-secrets-management-hd1)
-- [Scaling GitHub Actions: Centralized Secrets Management for High Performance Engineering](https://dev.to/devactivity/scaling-github-actions-centralized-secrets-management-for-high-performance-engineering-36fg)
-- [Git tabanlı altyapı yönetiminde güvenlik stratejileri ve uygulama esasları](https://dev.to/nesil_teknoloji/git-tabanli-altyapi-yonetiminde-guvenlik-stratejileri-ve-uygulama-esaslari-34d1)
+- [Streaming Gemini API Responses in Rust + Tauri — Real-Time Token Display](https://dev.to/hiyoyok/streaming-gemini-api-responses-in-rust-tauri-real-time-token-display-2i2o)
+- [VR Coding in the AI Coding Era: Watching 5 AI Agents at Once](https://dev.to/samchon/vr-coding-in-the-ai-coding-era-watching-5-ai-agents-at-once-422f)
+- [Demystifying HTTP Status Codes](https://dev.to/riteshkokam/demystifying-http-status-codes-47ho)
+- [Architecting a Deterministic Chokehold for Web3 AI Agents: Inside the Lirix Engine](https://dev.to/lokii_ding/architecting-a-deterministic-chokehold-for-web3-ai-agents-inside-the-lirix-engine-4mef)
+- [Hero&#39;s AI](https://dev.to/hudson_mathew_j/heros-ai-enn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
