@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Performance Optimization — A Developer&#39;s Guide by Riad Hasan](https://dev.to/riadhasan11/wordpress-performance-optimization-a-developers-guide-by-riad-hasan-g5a)
-- [Performance Tips for Firefox New Tab Extensions: Sub-100ms Load Times](https://dev.to/weatherclockdash/performance-tips-for-firefox-new-tab-extensions-sub-100ms-load-times-4mhi)
-- [Showdown: esbuild 0.21 vs. SWC 1.5 vs. Babel 8 for Transpiling TypeScript 5.6 Code](https://dev.to/johalputt/showdown-esbuild-021-vs-swc-15-vs-babel-8-for-transpiling-typescript-56-code-ooi)
-- [Manifest V3 Migration Pitfalls — Lessons from 17 Chrome Extensions](https://dev.to/_350df62777eb55e1/manifest-v3-migration-pitfalls-lessons-from-17-chrome-extensions-2j3h)
-- [Dark Mode in Firefox Extensions: Respecting System Preferences](https://dev.to/weatherclockdash/dark-mode-in-firefox-extensions-respecting-system-preferences-1iok)
+- [White Labeling in Angular: One Codebase, Multiple Clients](https://dev.to/pbouillon/white-labeling-in-angular-one-codebase-multiple-clients-jp5)
+- [Roadmap Profesional en Tecnología: Diseña tu crecimiento más allá de la empresa](https://dev.to/8infinitecloud/roadmap-profesional-en-tecnologia-disena-tu-crecimiento-mas-alla-de-la-empresa-2bi2)
+- [CI/CD con GitHub Actions, Terraform y AWS desplegando OWASP Juice Shop](https://dev.to/8infinitecloud/cicd-con-github-actions-terraform-y-aws-desplegando-owasp-juice-shop-1e8o)
+- [A Practical Project Structure for FastAPI Applications](https://dev.to/sreeraj_sreenivasan_2b932/a-practical-project-structure-for-fastapi-applications-lb6)
+- [How to Use the OpenWeatherMap API in a Firefox Extension](https://dev.to/weatherclockdash/how-to-use-the-openweathermap-api-in-a-firefox-extension-16po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
