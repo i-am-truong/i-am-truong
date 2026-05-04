@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streaming Gemini API Responses in Rust + Tauri — Real-Time Token Display](https://dev.to/hiyoyok/streaming-gemini-api-responses-in-rust-tauri-real-time-token-display-2i2o)
-- [VR Coding in the AI Coding Era: Watching 5 AI Agents at Once](https://dev.to/samchon/vr-coding-in-the-ai-coding-era-watching-5-ai-agents-at-once-422f)
-- [Demystifying HTTP Status Codes](https://dev.to/riteshkokam/demystifying-http-status-codes-47ho)
-- [Architecting a Deterministic Chokehold for Web3 AI Agents: Inside the Lirix Engine](https://dev.to/lokii_ding/architecting-a-deterministic-chokehold-for-web3-ai-agents-inside-the-lirix-engine-4mef)
-- [Hero&#39;s AI](https://dev.to/hudson_mathew_j/heros-ai-enn)
+- [PHP Magic Methods to TypeScript Proxy: 5 Idioms That Translate](https://dev.to/gabrielanhaia/php-magic-methods-to-typescript-proxy-5-idioms-that-translate-32j)
+- [Benchmark: JetBrains DataGrip 2026 vs. DBeaver 24.0: Query Execution Speed for PostgreSQL 17](https://dev.to/johalputt/benchmark-jetbrains-datagrip-2026-vs-dbeaver-240-query-execution-speed-for-postgresql-17-1hhk)
+- [Test Doubles in Go Without a Mocking Framework: 4 Patterns](https://dev.to/gabrielanhaia/test-doubles-in-go-without-a-mocking-framework-4-patterns-ipc)
+- [OpenAI Codex is free right now. That&#39;s the trap.](https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5)
+- [Introducing Skills Over MCP – the better way to share and distribute skills](https://dev.to/spencerpauly/introducing-skills-over-mcp-the-better-way-to-share-and-distribute-skills-bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
