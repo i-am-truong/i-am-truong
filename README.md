@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EU Digital Product Passports in 2026: A Developer&#39;s Implementation Guide](https://dev.to/julien786534/eu-digital-product-passports-in-2026-a-developers-implementation-guide-2njo)
-- [When PowerShell Classes and Functions Depend on Each Other — How PSScriptBuilder Handles It](https://dev.to/tim_hartling/when-powershell-classes-and-functions-depend-on-each-other-how-psscriptbuilder-handles-it-4ik2)
-- [Deploy your own open-source Web GIS server instance on a VPS in 15 minutes with Docker](https://dev.to/kazakov_e/deploy-your-own-open-source-web-gis-server-instance-on-a-vps-in-15-minutes-with-docker-1hp1)
-- [Kubernetes Multi-Tenancy: Namespace Isolation, RBAC, and Network Policies Explained](https://dev.to/muskan_8abedcc7e12/kubernetes-multi-tenancy-namespace-isolation-rbac-and-network-policies-explained-3jjm)
-- [ZopNight v2.0: The Control Layer Your Cloud Bill Has Been Missing](https://dev.to/muskan_8abedcc7e12/zopnight-v20-the-control-layer-your-cloud-bill-has-been-missing-2aem)
+- [Your ILP solver license has expired. Now what?](https://dev.to/agile_developer_874dda396/your-ilp-solver-license-has-expired-now-what-1b93)
+- [Why did coding suddenly become so boring? And what I did to feel different](https://dev.to/gabizaor/why-did-coding-suddenly-become-so-boring-and-what-i-did-to-feel-different-k4p)
+- [I built a free chess platform that brings back Yahoo Chess &lpar;Node.js + Socket.IO + chess.js&rpar;](https://dev.to/chessdada/i-built-a-free-chess-platform-that-brings-back-yahoo-chess-nodejs-socketio-chessjs-4f2)
+- [AI Agents vs Code Vulnerabilities: Was Anthropic Mythos a Big Deal or Fear-mongering?](https://dev.to/maximsaplin/ai-agents-vs-code-vulnerabilities-was-anthropic-mythos-a-big-deal-or-fear-mongering-8ci)
+- [Unlock Free Auto-Renewing SSL on Namecheap: The Ultimate Let&#39;s Encrypt &amp; Acme.sh Guide](https://dev.to/shahibur_rahman_6670cd024/unlock-free-auto-renewing-ssl-on-namecheap-the-ultimate-lets-encrypt-acmesh-guide-4opc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
