@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shipping TanStack Start and Bun to Railway](https://dev.to/andreasbergstrom/shipping-tanstack-start-and-bun-to-railway-2o7k)
-- [Why is Anthropic&#39;s archived Postgres MCP server still getting 312k installs a month?](https://dev.to/spencerpauly/why-is-anthropics-archived-postgres-mcp-server-still-getting-312k-installs-a-month-3oeh)
-- [52. The Rule That Prevents You From Cheating Your Own Model](https://dev.to/yakhilesh/52-the-rule-that-prevents-you-from-cheating-your-own-model-2kjb)
-- [OneKey Classic 1S Review &lpar;vs Ledger&rpar; — My Honest Take After 7 Years](https://dev.to/baransel/onekey-classic-1s-review-vs-ledger-my-honest-take-after-7-years-2g0h)
-- [Finance Shields, Local Agents, and Proxies for Safer Code](https://dev.to/anikalp1/finance-shields-local-agents-and-proxies-for-safer-code-1d5p)
+- [5 Nylas CLI commands every AI agent should have access to](https://dev.to/qasim157/5-nylas-cli-commands-every-ai-agent-should-have-access-to-2e87)
+- [Send email from any Linux server in 60 seconds — no SMTP config](https://dev.to/qasim157/send-email-from-any-linux-server-in-60-seconds-no-smtp-config-11ac)
+- [From Gmail OAuth hell to one-line agent identity](https://dev.to/qasim157/from-gmail-oauth-hell-to-one-line-agent-identity-cpp)
+- [AI agents need email — your MCP setup is incomplete without it](https://dev.to/qasim157/ai-agents-need-email-your-mcp-setup-is-incomplete-without-it-ic6)
+- [Per-PR ephemeral email inboxes for E2E tests in GitHub Actions](https://dev.to/qasim157/per-pr-ephemeral-email-inboxes-for-e2e-tests-in-github-actions-352j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
