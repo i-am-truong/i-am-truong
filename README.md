@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your ILP solver license has expired. Now what?](https://dev.to/agile_developer_874dda396/your-ilp-solver-license-has-expired-now-what-1b93)
-- [Why did coding suddenly become so boring? And what I did to feel different](https://dev.to/gabizaor/why-did-coding-suddenly-become-so-boring-and-what-i-did-to-feel-different-k4p)
-- [I built a free chess platform that brings back Yahoo Chess &lpar;Node.js + Socket.IO + chess.js&rpar;](https://dev.to/chessdada/i-built-a-free-chess-platform-that-brings-back-yahoo-chess-nodejs-socketio-chessjs-4f2)
-- [AI Agents vs Code Vulnerabilities: Was Anthropic Mythos a Big Deal or Fear-mongering?](https://dev.to/maximsaplin/ai-agents-vs-code-vulnerabilities-was-anthropic-mythos-a-big-deal-or-fear-mongering-8ci)
-- [Unlock Free Auto-Renewing SSL on Namecheap: The Ultimate Let&#39;s Encrypt &amp; Acme.sh Guide](https://dev.to/shahibur_rahman_6670cd024/unlock-free-auto-renewing-ssl-on-namecheap-the-ultimate-lets-encrypt-acmesh-guide-4opc)
+- [Superpowers vs Compound Engineering: is the &#39;vs&#39; even real?](https://dev.to/ikramar/superpowers-vs-compound-engineering-is-the-vs-even-real-58gc)
+- [The Data Refinery: Why Apache Spark is the Engine Behind Real-World Big Data Use Cases](https://dev.to/manishpodiyal/the-data-refinery-why-apache-spark-is-the-engine-behind-real-world-big-data-use-cases-1f0j)
+- [Optimizing Developer Metrics: Mastering GitHub Actions Secrets Management](https://dev.to/devactivity/optimizing-developer-metrics-mastering-github-actions-secrets-management-hd1)
+- [Scaling GitHub Actions: Centralized Secrets Management for High Performance Engineering](https://dev.to/devactivity/scaling-github-actions-centralized-secrets-management-for-high-performance-engineering-36fg)
+- [Git tabanlı altyapı yönetiminde güvenlik stratejileri ve uygulama esasları](https://dev.to/nesil_teknoloji/git-tabanli-altyapi-yonetiminde-guvenlik-stratejileri-ve-uygulama-esaslari-34d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
