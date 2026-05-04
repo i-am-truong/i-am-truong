@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [White Labeling in Angular: One Codebase, Multiple Clients](https://dev.to/pbouillon/white-labeling-in-angular-one-codebase-multiple-clients-jp5)
-- [Roadmap Profesional en Tecnología: Diseña tu crecimiento más allá de la empresa](https://dev.to/8infinitecloud/roadmap-profesional-en-tecnologia-disena-tu-crecimiento-mas-alla-de-la-empresa-2bi2)
-- [CI/CD con GitHub Actions, Terraform y AWS desplegando OWASP Juice Shop](https://dev.to/8infinitecloud/cicd-con-github-actions-terraform-y-aws-desplegando-owasp-juice-shop-1e8o)
-- [A Practical Project Structure for FastAPI Applications](https://dev.to/sreeraj_sreenivasan_2b932/a-practical-project-structure-for-fastapi-applications-lb6)
-- [How to Use the OpenWeatherMap API in a Firefox Extension](https://dev.to/weatherclockdash/how-to-use-the-openweathermap-api-in-a-firefox-extension-16po)
+- [A superscript-1 walks past every Go SSRF guard](https://dev.to/sankalp_gilda_92ba4374021/a-superscript-1-walks-past-every-go-ssrf-guard-3gk3)
+- [Adding a Trust Boundary to a Haystack Pipeline](https://dev.to/anviren/adding-a-trust-boundary-to-a-haystack-pipeline-1e5d)
+- [Why do you keep starting new things but can&#39;t finish them?](https://dev.to/rifat240510/why-do-you-keep-starting-new-things-but-cant-finish-them-586p)
+- [When DynamoDB Global Tables Go Stale: Chaos Testing Replication Lag with AWS FIS](https://dev.to/aws-builders/when-dynamodb-global-tables-go-stale-chaos-testing-replication-lag-with-aws-fis-2ij8)
+- [Building B2B feedback, NPS, and announcements as a drop-in embed &lpar;not another heavy SDK&rpar;](https://dev.to/vipinlahoti/building-b2b-feedback-nps-and-announcements-as-a-drop-in-embed-not-another-heavy-sdk-2pel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
