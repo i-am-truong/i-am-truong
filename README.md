@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Visual Studio 2026 to VS Code: Paledev Dark Theme](https://dev.to/jtgmagic/from-visual-studio-2026-to-vs-code-paledev-dark-theme-2j43)
-- [Consistência Eventual em Sistemas Distribuídos](https://dev.to/guilherme_ryu/consistencia-eventual-em-sistemas-distribuidos-26oj)
-- [Why I Used wttr.in Instead of OpenWeatherMap for My Firefox Extension](https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k)
-- [¿Cuánta energía, agua, dinero e infraestructura estamos dispuestos a gastar para sostenerla?](https://dev.to/miigangls/cuanta-energia-agua-dinero-e-infraestructura-estamos-dispuestos-a-gastar-para-sostenerla-57l3)
-- [Mythos Found a 27-Year-Old Bug in OpenBSD. Your Code Is Next.](https://dev.to/michelle-jones/mythos-found-a-27-year-old-bug-in-openbsd-your-code-is-next-2om2)
+- [WordPress Performance Optimization — A Developer&#39;s Guide by Riad Hasan](https://dev.to/riadhasan11/wordpress-performance-optimization-a-developers-guide-by-riad-hasan-g5a)
+- [Performance Tips for Firefox New Tab Extensions: Sub-100ms Load Times](https://dev.to/weatherclockdash/performance-tips-for-firefox-new-tab-extensions-sub-100ms-load-times-4mhi)
+- [Showdown: esbuild 0.21 vs. SWC 1.5 vs. Babel 8 for Transpiling TypeScript 5.6 Code](https://dev.to/johalputt/showdown-esbuild-021-vs-swc-15-vs-babel-8-for-transpiling-typescript-56-code-ooi)
+- [Manifest V3 Migration Pitfalls — Lessons from 17 Chrome Extensions](https://dev.to/_350df62777eb55e1/manifest-v3-migration-pitfalls-lessons-from-17-chrome-extensions-2j3h)
+- [Dark Mode in Firefox Extensions: Respecting System Preferences](https://dev.to/weatherclockdash/dark-mode-in-firefox-extensions-respecting-system-preferences-1iok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
