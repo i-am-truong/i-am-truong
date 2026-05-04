@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Nylas CLI commands every AI agent should have access to](https://dev.to/qasim157/5-nylas-cli-commands-every-ai-agent-should-have-access-to-2e87)
-- [Send email from any Linux server in 60 seconds — no SMTP config](https://dev.to/qasim157/send-email-from-any-linux-server-in-60-seconds-no-smtp-config-11ac)
-- [From Gmail OAuth hell to one-line agent identity](https://dev.to/qasim157/from-gmail-oauth-hell-to-one-line-agent-identity-cpp)
-- [AI agents need email — your MCP setup is incomplete without it](https://dev.to/qasim157/ai-agents-need-email-your-mcp-setup-is-incomplete-without-it-ic6)
-- [Per-PR ephemeral email inboxes for E2E tests in GitHub Actions](https://dev.to/qasim157/per-pr-ephemeral-email-inboxes-for-e2e-tests-in-github-actions-352j)
+- [Developer ego and why regulating it will make you a better professional](https://dev.to/marilau-tech/developer-ego-and-why-regulating-it-will-make-you-a-better-professional-4dnn)
+- [Claude Code Skills: A Practical Guide for 2026](https://dev.to/muhammad_moeed/claude-code-skills-a-practical-guide-for-2026-3f6p)
+- [I’m shipping zerocopy, a Flutter package that eliminates the &quot;Copy Tax&quot; between Dart and C++. No serialization, no cloning, and zero GC pressure.](https://dev.to/muhammad_omar_0f70d9ecf59/im-shipping-zerocopy-a-flutter-package-that-eliminates-the-copy-tax-between-dart-and-c-no-2kc3)
+- [What are distributed systems?](https://dev.to/charliet1802/what-are-distributed-systems-4j42)
+- [You Vibe-Coded Your SaaS Landing Page — Google Can&#39;t See It](https://dev.to/amedinat/you-vibe-coded-your-saas-landing-page-google-cant-see-it-16cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
