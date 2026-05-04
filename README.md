@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLAUDE.md for Redis: 13 Rules That Stop AI From Writing Cache Anti-Patterns](https://dev.to/olivia_craft/claudemd-for-redis-13-rules-that-stop-ai-from-writing-cache-anti-patterns-28ih)
-- [Behind the Scenes of AWS Student Community Day Amravati](https://dev.to/yash_sathe_aee337eaa28be3/behind-the-scenes-of-aws-student-community-day-amravati-1mlk)
-- [Why I Chose Regex Over AST Parsing in My SAST Tool &lpar;And When That Would Be Wrong&rpar;](https://dev.to/pgmpofu/why-i-chose-regex-over-ast-parsing-in-my-sast-tool-and-when-that-would-be-wrong-md2)
-- [Why Most Crypto Bots Get Sandwiched &lpar;And How to Prevent It&rpar;](https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-248l)
-- [Who cares about speed?](https://dev.to/wootcot/who-cares-about-speed-1pl1)
+- [Shipping TanStack Start and Bun to Railway](https://dev.to/andreasbergstrom/shipping-tanstack-start-and-bun-to-railway-2o7k)
+- [Why is Anthropic&#39;s archived Postgres MCP server still getting 312k installs a month?](https://dev.to/spencerpauly/why-is-anthropics-archived-postgres-mcp-server-still-getting-312k-installs-a-month-3oeh)
+- [52. The Rule That Prevents You From Cheating Your Own Model](https://dev.to/yakhilesh/52-the-rule-that-prevents-you-from-cheating-your-own-model-2kjb)
+- [OneKey Classic 1S Review &lpar;vs Ledger&rpar; — My Honest Take After 7 Years](https://dev.to/baransel/onekey-classic-1s-review-vs-ledger-my-honest-take-after-7-years-2g0h)
+- [Finance Shields, Local Agents, and Proxies for Safer Code](https://dev.to/anikalp1/finance-shields-local-agents-and-proxies-for-safer-code-1d5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
