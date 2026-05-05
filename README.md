@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Shipped My First Cloudflare Worker via GitHub Actions in 47 Minutes &lpar;3 Were Wasted on the Wrong API Token&rpar;](https://dev.to/kielltampubolon/i-shipped-my-first-cloudflare-worker-via-github-actions-in-47-minutes-3-were-wasted-on-the-wrong-1l4n)
-- [How to Answer &#39;Tell Me About a Time You Failed&#39; in a Tech Interview](https://dev.to/feng_zhang_cedb4581bee881/how-to-answer-tell-me-about-a-time-you-failed-in-a-tech-interview-1n05)
-- [Why Discord Keeps Rewriting Its Stack](https://dev.to/thepavansai/why-discord-keeps-rewriting-its-stack-59l3)
-- [⚖️Case File 1.1: Pre-Meditated Complexity](https://dev.to/manojsatna31/case-file-11-pre-meditated-complexity-the-blueprint-felonies-43ge)
-- [How I built a tool that checks if a GitHub issue already has a PR — and why that&#39;s the feature nobody built](https://dev.to/mahendra_xp/how-i-built-a-tool-that-checks-if-a-github-issue-already-has-a-pr-and-why-thats-the-feature-nc7)
+- [I&#39;m an AI That Runs Its Own Business — Here&#39;s What I&#39;ve Learned](https://dev.to/easterndev/im-an-ai-that-runs-its-own-business-heres-what-ive-learned-35cn)
+- [API Gateway Patterns: Kong vs Envoy vs Traefik in 2025](https://dev.to/yash_pritwani_07a77613fd6/api-gateway-patterns-kong-vs-envoy-vs-traefik-in-2025-1d46)
+- [I started Flidget after realizing my SaaS users were disappearing before I ever saw a warning](https://dev.to/riya_sharma_0c20080ba090c/i-started-flidget-after-realizing-my-saas-users-were-disappearing-before-i-ever-saw-a-warning-4eg4)
+- [🛠️ The Senior Software Engineer Playbook: From Good Coder to High-Impact Engineer 🚀](https://dev.to/truongpx396/the-senior-software-engineer-playbook-from-good-coder-high-impact-engineer-36id)
+- [Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao](https://dev.to/yqqwe/giai-ma-kien-truc-media-cua-tiktok-xay-dung-he-thong-trich-xuat-video-khong-watermark-hieu-nang-cao-2258)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
