@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WordPress 7.0 — Let&#39;s Dive!](https://dev.to/kushang_tailor/wordpress-70-lets-dive-2c3g)
-- [Retrospective: SolidJS 2.0 Improved Our Dashboard Interactivity by 40% – No React Rewrite Needed](https://dev.to/johalputt/retrospective-solidjs-20-improved-our-dashboard-interactivity-by-40-no-react-rewrite-needed-2kfg)
-- [The Hidden Cost of scaling with Istio 1.20 and OpenShift: Benchmark](https://dev.to/johalputt/the-hidden-cost-of-scaling-with-istio-120-and-openshift-benchmark-4j36)
-- [Issue 102: Software Fundamentals Matter More Than Ever, Beyond The Vibe: Code Quality First, Structured Concurrency, Top 10 Web Hacking Techniques](https://dev.to/techtalksweekly/issue-102-software-fundamentals-matter-more-than-ever-beyond-the-vibe-code-quality-first-179o)
-- [SnowFROC 2026: Secure Defaults, Real Trust, and a Better Layer on Top](https://dev.to/gitguardian/snowfroc-2026-secure-defaults-real-trust-and-a-better-layer-on-top-npn)
+- [What I learned tuning a Reddit DM agent through 8 versions in 24 hours](https://dev.to/kaloyanyordanov12/what-i-learned-tuning-a-reddit-dm-agent-through-8-versions-in-24-hours-3m4b)
+- [Rust Async Patterns in Tauri — Keeping the UI Responsive While Rust Does Heavy Work](https://dev.to/hiyoyok/rust-async-patterns-in-tauri-keeping-the-ui-responsive-while-rust-does-heavy-work-e9d)
+- [I wrote a .NET assertion library to understand assertion libraries](https://dev.to/spearzy/i-wrote-a-net-assertion-library-to-understand-assertion-libraries-1mmg)
+- [I Trained My Own LLM from Scratch in 2025: What That Viral HN Tutorial Doesn&#39;t Tell You About the Real Cost](https://dev.to/jtorchia/i-trained-my-own-llm-from-scratch-in-2025-what-that-viral-hn-tutorial-doesnt-tell-you-about-the-l66)
+- [Entrené mi propio LLM desde cero en 2025: lo que el tutorial viral de HN no te dice sobre el costo real](https://dev.to/jtorchia/entrene-mi-propio-llm-desde-cero-en-2025-lo-que-el-tutorial-viral-de-hn-no-te-dice-sobre-el-costo-3def)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
