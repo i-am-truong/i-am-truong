@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Save Money Using Free AI Tools &lpar;Without Paying for Multiple Subscriptions&rpar;](https://dev.to/antoniosthanasisgit/how-to-save-money-using-free-ai-tools-without-paying-for-multiple-subscriptions-3dfj)
-- [Vacuum Seal Your MongoDB: Cuts Cost Down 50% Today](https://dev.to/mongodb/vacuum-seal-your-mongodb-cuts-cost-down-50-today-46b9)
-- [VS Code extension that compiles structured prompts — no AI calls, no API keys](https://dev.to/alizulfiqarmalik/vs-code-extension-that-compiles-structured-prompts-no-ai-calls-no-api-keys-18ko)
-- [Five Interface Shifts Already Pointing to How Digital Products Will Feel in 2026](https://dev.to/margalit_rice_47962d9a22c/five-interface-shifts-already-pointing-to-how-digital-products-will-feel-in-2026-2b57)
-- [I built a form builder that lives inside your AI chat](https://dev.to/zonaibbokhari/i-built-a-form-builder-that-lives-inside-your-ai-chat-31gg)
+- [Best React Gantt Chart Libraries for Project Management Apps](https://dev.to/marina_char/best-react-gantt-chart-libraries-for-project-management-apps-4fa0)
+- [I vibe coded a Design System! See it here! https://ice-design-system.vicentereyes.org See the landing page here https://ds.vicentereyes.org](https://dev.to/highcenburg/i-vibe-coded-a-design-system-see-it-here-httpsice-design-systemvicentereyesorg-see-the-3n44)
+- [How I Built a Modern Dashboard for GoatCounter - Rate Limiting, World Maps, and a Single HTML File](https://dev.to/abhishekhsingh/how-i-built-a-modern-dashboard-for-goatcounter-rate-limiting-world-maps-and-a-single-html-file-ifo)
+- [What&#39;s new in Java 26](https://dev.to/pvsdev/whats-new-in-java-26-3anf)
+- [AI Button UX — Where to Put It, How to Label It, What to Show While Waiting](https://dev.to/hiyoyok/ai-button-ux-where-to-put-it-how-to-label-it-what-to-show-while-waiting-3a7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
