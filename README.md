@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI That Runs Its Own Business — Here&#39;s What I&#39;ve Learned](https://dev.to/easterndev/im-an-ai-that-runs-its-own-business-heres-what-ive-learned-35cn)
-- [API Gateway Patterns: Kong vs Envoy vs Traefik in 2025](https://dev.to/yash_pritwani_07a77613fd6/api-gateway-patterns-kong-vs-envoy-vs-traefik-in-2025-1d46)
-- [I started Flidget after realizing my SaaS users were disappearing before I ever saw a warning](https://dev.to/riya_sharma_0c20080ba090c/i-started-flidget-after-realizing-my-saas-users-were-disappearing-before-i-ever-saw-a-warning-4eg4)
-- [🛠️ The Senior Software Engineer Playbook: From Good Coder to High-Impact Engineer 🚀](https://dev.to/truongpx396/the-senior-software-engineer-playbook-from-good-coder-high-impact-engineer-36id)
-- [Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao](https://dev.to/yqqwe/giai-ma-kien-truc-media-cua-tiktok-xay-dung-he-thong-trich-xuat-video-khong-watermark-hieu-nang-cao-2258)
+- [How to Migrate MySQL to PostgreSQL Without Breaking Everything &lpar;With Real Examples&rpar;](https://dev.to/rehman_afzal_536/how-to-migrate-mysql-to-postgresql-without-breaking-everything-with-real-examples-2m21)
+- [Inside a 2017 Nightmare: Simulating WannaCry Ransomware in a Controlled Lab](https://dev.to/saumyaaggarwal/inside-a-2017-nightmare-simulating-wannacry-ransomware-in-a-controlled-lab-3ohl)
+- [I Built a Free TypeScript &amp; React Quiz with 125 Questions – Test Your Real Skills](https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9)
+- [From Idea to Deployed Tool in 3 Hours — How AI Coding Agents Changed My Workflow](https://dev.to/samhartley_dev/from-idea-to-deployed-tool-in-3-hours-how-ai-coding-agents-changed-my-workflow-3dd0)
+- [How to Set Up CI/CD with GitLab CI 16.0, SonarQube 11.0, and Snyk 2026](https://dev.to/johalputt/how-to-set-up-cicd-with-gitlab-ci-160-sonarqube-110-and-snyk-2026-7o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
