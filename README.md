@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UUIDs Explained Simply &lpar;and Why Every Developer Needs Them&rpar;](https://dev.to/codexneo/uuids-explained-simply-and-why-every-developer-needs-them-2l01)
-- [Caching AI Responses in a Desktop App — Don&#39;t Pay Twice for the Same Question](https://dev.to/hiyoyok/caching-ai-responses-in-a-desktop-app-dont-pay-twice-for-the-same-question-cfe)
-- [LLM386: borrowing a 1990s idea for managing LLM context](https://dev.to/matt_fitzgerald_e0904a636/llm386-borrowing-a-1990s-idea-for-managing-llm-context-4pga)
-- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
-- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
+- [I Shipped My First Cloudflare Worker via GitHub Actions in 47 Minutes &lpar;3 Were Wasted on the Wrong API Token&rpar;](https://dev.to/kielltampubolon/i-shipped-my-first-cloudflare-worker-via-github-actions-in-47-minutes-3-were-wasted-on-the-wrong-1l4n)
+- [How to Answer &#39;Tell Me About a Time You Failed&#39; in a Tech Interview](https://dev.to/feng_zhang_cedb4581bee881/how-to-answer-tell-me-about-a-time-you-failed-in-a-tech-interview-1n05)
+- [Why Discord Keeps Rewriting Its Stack](https://dev.to/thepavansai/why-discord-keeps-rewriting-its-stack-59l3)
+- [⚖️Case File 1.1: Pre-Meditated Complexity](https://dev.to/manojsatna31/case-file-11-pre-meditated-complexity-the-blueprint-felonies-43ge)
+- [How I built a tool that checks if a GitHub issue already has a PR — and why that&#39;s the feature nobody built](https://dev.to/mahendra_xp/how-i-built-a-tool-that-checks-if-a-github-issue-already-has-a-pr-and-why-thats-the-feature-nc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
