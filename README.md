@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 New Moats for AI Agent Infrastructure — Trust Score, Deployment, SLA, Identity, Compliance-as-Code](https://dev.to/vystartasv/6-new-moats-for-ai-agent-infrastructure-trust-score-deployment-sla-identity-compliance-as-code-ikl)
-- [Lithos UI: The Neo-Brutalist React Library &lpar;100% Free &amp; Open Source&rpar;](https://dev.to/incrediblestand/lithos-ui-the-neo-brutalist-react-library-100-free-open-source-fec)
-- [Health checks are integral to website maintenance programmes](https://dev.to/dcentrica/health-checks-are-integral-to-website-maintenance-programmes-210o)
-- [I cut my AWS bill by 93% by ditching Fargate for a single Lightsail VM](https://dev.to/toolmango/i-cut-my-aws-bill-by-93-by-ditching-fargate-for-a-single-lightsail-vm-16lf)
-- [There will still be art in software](https://dev.to/josnun/there-will-still-be-art-in-software-388g)
+- [I built an MCP server so AI agents can flash 1,000+ embedded boards](https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd)
+- [The Hidden TCO of Self-Hosting Your EC Revenue Dashboard in 2026](https://dev.to/toshihiro_shishido/the-hidden-tco-of-self-hosting-your-ec-revenue-dashboard-in-2026-3d6k)
+- [[Day 3] I Had a Local LLM Analyze a Year of My Credit Card Statements](https://dev.to/peppercorn_llm/day-3-i-had-a-local-llm-analyze-a-year-of-my-credit-card-statements-4eab)
+- [# How to Run Qwen3.6-35B on Your Mac at 77 tok/s](https://dev.to/oreocato/-how-to-run-qwen36-35b-on-your-mac-at-77-toks-49e8)
+- [AlgoExpert vs NeetCode: The Interview Skill Neither One Actually Trains](https://dev.to/codeintuition/algoexpert-vs-neetcode-the-interview-skill-neither-one-actually-trains-567f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
