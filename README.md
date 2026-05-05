@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best React Gantt Chart Libraries for Project Management Apps](https://dev.to/marina_char/best-react-gantt-chart-libraries-for-project-management-apps-4fa0)
-- [I vibe coded a Design System! See it here! https://ice-design-system.vicentereyes.org See the landing page here https://ds.vicentereyes.org](https://dev.to/highcenburg/i-vibe-coded-a-design-system-see-it-here-httpsice-design-systemvicentereyesorg-see-the-3n44)
-- [How I Built a Modern Dashboard for GoatCounter - Rate Limiting, World Maps, and a Single HTML File](https://dev.to/abhishekhsingh/how-i-built-a-modern-dashboard-for-goatcounter-rate-limiting-world-maps-and-a-single-html-file-ifo)
-- [What&#39;s new in Java 26](https://dev.to/pvsdev/whats-new-in-java-26-3anf)
-- [AI Button UX — Where to Put It, How to Label It, What to Show While Waiting](https://dev.to/hiyoyok/ai-button-ux-where-to-put-it-how-to-label-it-what-to-show-while-waiting-3a7m)
+- [WordPress 7.0 — Let&#39;s Dive!](https://dev.to/kushang_tailor/wordpress-70-lets-dive-2c3g)
+- [Retrospective: SolidJS 2.0 Improved Our Dashboard Interactivity by 40% – No React Rewrite Needed](https://dev.to/johalputt/retrospective-solidjs-20-improved-our-dashboard-interactivity-by-40-no-react-rewrite-needed-2kfg)
+- [The Hidden Cost of scaling with Istio 1.20 and OpenShift: Benchmark](https://dev.to/johalputt/the-hidden-cost-of-scaling-with-istio-120-and-openshift-benchmark-4j36)
+- [Issue 102: Software Fundamentals Matter More Than Ever, Beyond The Vibe: Code Quality First, Structured Concurrency, Top 10 Web Hacking Techniques](https://dev.to/techtalksweekly/issue-102-software-fundamentals-matter-more-than-ever-beyond-the-vibe-code-quality-first-179o)
+- [SnowFROC 2026: Secure Defaults, Real Trust, and a Better Layer on Top](https://dev.to/gitguardian/snowfroc-2026-secure-defaults-real-trust-and-a-better-layer-on-top-npn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
