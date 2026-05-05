@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I learned tuning a Reddit DM agent through 8 versions in 24 hours](https://dev.to/kaloyanyordanov12/what-i-learned-tuning-a-reddit-dm-agent-through-8-versions-in-24-hours-3m4b)
-- [Rust Async Patterns in Tauri — Keeping the UI Responsive While Rust Does Heavy Work](https://dev.to/hiyoyok/rust-async-patterns-in-tauri-keeping-the-ui-responsive-while-rust-does-heavy-work-e9d)
-- [I wrote a .NET assertion library to understand assertion libraries](https://dev.to/spearzy/i-wrote-a-net-assertion-library-to-understand-assertion-libraries-1mmg)
-- [I Trained My Own LLM from Scratch in 2025: What That Viral HN Tutorial Doesn&#39;t Tell You About the Real Cost](https://dev.to/jtorchia/i-trained-my-own-llm-from-scratch-in-2025-what-that-viral-hn-tutorial-doesnt-tell-you-about-the-l66)
-- [Entrené mi propio LLM desde cero en 2025: lo que el tutorial viral de HN no te dice sobre el costo real](https://dev.to/jtorchia/entrene-mi-propio-llm-desde-cero-en-2025-lo-que-el-tutorial-viral-de-hn-no-te-dice-sobre-el-costo-3def)
+- [List 10 trending posts about Ai Agent](https://dev.to/sieok/list-10-trending-posts-about-ai-agent-3pfh)
+- [Multimodal RAG with the Gemini API File Search Tool: A Developer Guide](https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878)
+- [Building a Zulip Style Collaborative Chat App with Next.js and Velt](https://dev.to/studio1hq/building-a-zulip-style-collaborative-chat-app-with-nextjs-and-velt-2mcp)
+- [Beyond the Code: Mentoring the Next Generation of Engineers at Six Flags](https://dev.to/mainuddin_1/beyond-the-code-mentoring-the-next-generation-of-engineers-at-six-flags-58f2)
+- [Demystifying Mapbox Styles](https://dev.to/mapbox/demystifying-mapbox-styles-2igc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
