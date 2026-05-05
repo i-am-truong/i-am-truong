@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [List 10 trending posts about Ai Agent](https://dev.to/sieok/list-10-trending-posts-about-ai-agent-3pfh)
-- [Multimodal RAG with the Gemini API File Search Tool: A Developer Guide](https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878)
-- [Building a Zulip Style Collaborative Chat App with Next.js and Velt](https://dev.to/studio1hq/building-a-zulip-style-collaborative-chat-app-with-nextjs-and-velt-2mcp)
-- [Beyond the Code: Mentoring the Next Generation of Engineers at Six Flags](https://dev.to/mainuddin_1/beyond-the-code-mentoring-the-next-generation-of-engineers-at-six-flags-58f2)
-- [Demystifying Mapbox Styles](https://dev.to/mapbox/demystifying-mapbox-styles-2igc)
+- [🌿 Plant Disease Detection System](https://dev.to/buildwithsomnath/plant-disease-detection-system-20i2)
+- [Why I spun my benchmark into its own repo &lpar;and why every dev tool with a benchmark should&rpar;](https://dev.to/nike-17/why-i-spun-my-benchmark-into-its-own-repo-and-why-every-dev-tool-with-a-benchmark-should-229n)
+- [Legacy Flash to Modern HTML5: A Developer&#39;s Migration Guide](https://dev.to/oceanviewgames/legacy-flash-to-modern-html5-a-developers-migration-guide-4ik0)
+- [Expose Your App to AI Agents in 30 Minutes: A MCP Integration Pattern](https://dev.to/yiliuli/expose-your-app-to-ai-agents-in-30-minutes-a-mcp-integration-pattern-55fi)
+- [5 silent failure modes in production AI agents &lpar;and how we instrument for them&rpar;](https://dev.to/zvone187/5-silent-failure-modes-in-production-ai-agents-and-how-we-instrument-for-them-oca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
