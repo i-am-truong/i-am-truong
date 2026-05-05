@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate MySQL to PostgreSQL Without Breaking Everything &lpar;With Real Examples&rpar;](https://dev.to/rehman_afzal_536/how-to-migrate-mysql-to-postgresql-without-breaking-everything-with-real-examples-2m21)
-- [Inside a 2017 Nightmare: Simulating WannaCry Ransomware in a Controlled Lab](https://dev.to/saumyaaggarwal/inside-a-2017-nightmare-simulating-wannacry-ransomware-in-a-controlled-lab-3ohl)
-- [I Built a Free TypeScript &amp; React Quiz with 125 Questions – Test Your Real Skills](https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9)
-- [From Idea to Deployed Tool in 3 Hours — How AI Coding Agents Changed My Workflow](https://dev.to/samhartley_dev/from-idea-to-deployed-tool-in-3-hours-how-ai-coding-agents-changed-my-workflow-3dd0)
-- [How to Set Up CI/CD with GitLab CI 16.0, SonarQube 11.0, and Snyk 2026](https://dev.to/johalputt/how-to-set-up-cicd-with-gitlab-ci-160-sonarqube-110-and-snyk-2026-7o0)
+- [How to Save Money Using Free AI Tools &lpar;Without Paying for Multiple Subscriptions&rpar;](https://dev.to/antoniosthanasisgit/how-to-save-money-using-free-ai-tools-without-paying-for-multiple-subscriptions-3dfj)
+- [Vacuum Seal Your MongoDB: Cuts Cost Down 50% Today](https://dev.to/mongodb/vacuum-seal-your-mongodb-cuts-cost-down-50-today-46b9)
+- [VS Code extension that compiles structured prompts — no AI calls, no API keys](https://dev.to/alizulfiqarmalik/vs-code-extension-that-compiles-structured-prompts-no-ai-calls-no-api-keys-18ko)
+- [Five Interface Shifts Already Pointing to How Digital Products Will Feel in 2026](https://dev.to/margalit_rice_47962d9a22c/five-interface-shifts-already-pointing-to-how-digital-products-will-feel-in-2026-2b57)
+- [I built a form builder that lives inside your AI chat](https://dev.to/zonaibbokhari/i-built-a-form-builder-that-lives-inside-your-ai-chat-31gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
