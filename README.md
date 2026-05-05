@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌿 Plant Disease Detection System](https://dev.to/buildwithsomnath/plant-disease-detection-system-20i2)
-- [Why I spun my benchmark into its own repo &lpar;and why every dev tool with a benchmark should&rpar;](https://dev.to/nike-17/why-i-spun-my-benchmark-into-its-own-repo-and-why-every-dev-tool-with-a-benchmark-should-229n)
-- [Legacy Flash to Modern HTML5: A Developer&#39;s Migration Guide](https://dev.to/oceanviewgames/legacy-flash-to-modern-html5-a-developers-migration-guide-4ik0)
-- [Expose Your App to AI Agents in 30 Minutes: A MCP Integration Pattern](https://dev.to/yiliuli/expose-your-app-to-ai-agents-in-30-minutes-a-mcp-integration-pattern-55fi)
-- [5 silent failure modes in production AI agents &lpar;and how we instrument for them&rpar;](https://dev.to/zvone187/5-silent-failure-modes-in-production-ai-agents-and-how-we-instrument-for-them-oca)
+- [From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software](https://dev.to/remojansen/from-rigidity-to-explicitness-how-ai-changes-the-role-of-constraints-in-software-5cp5)
+- [I Built a Living Brain on a $140 Laptop: Why Your LLM is &quot;Dead&quot;](https://dev.to/taterlabsllc/i-built-a-living-brain-on-a-140-laptop-why-your-llm-is-dead-4mdm)
+- [I have no idea what my AI agents are doing right now. Here is how I fixed that.](https://dev.to/artem_a/i-have-no-idea-what-my-ai-agents-are-doing-right-now-here-is-how-i-fixed-that-13mf)
+- [Supabase dual-DB gotcha — test vs live, and how I stopped shipping broken data](https://dev.to/jakub_inithouse/supabase-dual-db-gotcha-test-vs-live-and-how-i-stopped-shipping-broken-data-10ao)
+- [Apps That See: Bringing Vision AI to Your Projects](https://dev.to/reka/apps-that-see-bringing-vision-ai-to-your-projects-7l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
