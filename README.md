@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software](https://dev.to/remojansen/from-rigidity-to-explicitness-how-ai-changes-the-role-of-constraints-in-software-5cp5)
-- [I Built a Living Brain on a $140 Laptop: Why Your LLM is &quot;Dead&quot;](https://dev.to/taterlabsllc/i-built-a-living-brain-on-a-140-laptop-why-your-llm-is-dead-4mdm)
-- [I have no idea what my AI agents are doing right now. Here is how I fixed that.](https://dev.to/artem_a/i-have-no-idea-what-my-ai-agents-are-doing-right-now-here-is-how-i-fixed-that-13mf)
-- [Supabase dual-DB gotcha — test vs live, and how I stopped shipping broken data](https://dev.to/jakub_inithouse/supabase-dual-db-gotcha-test-vs-live-and-how-i-stopped-shipping-broken-data-10ao)
-- [Apps That See: Bringing Vision AI to Your Projects](https://dev.to/reka/apps-that-see-bringing-vision-ai-to-your-projects-7l1)
+- [Claude Code Integration, Token Burn Analysis &amp; Qwen2-VL Fine-tuning Insights](https://dev.to/soytuber/claude-code-integration-token-burn-analysis-qwen2-vl-fine-tuning-insights-19bf)
+- [50% Compliance, Not 0%: How a Logging Spike Almost Triggered the Wrong Architecture Rewrite](https://dev.to/francise_liang_e4544eadb9/50-compliance-not-0-how-a-logging-spike-almost-triggered-the-wrong-architecture-rewrite-1lna)
+- [Distancia en una Esfera](https://dev.to/denelesan/distancia-en-una-esfera-34)
+- [OpenSCAP with SOPS: The Hidden Cost of supply chain for Production](https://dev.to/johalputt/openscap-with-sops-the-hidden-cost-of-supply-chain-for-production-13hm)
+- [App Analytics Strategy for Startups: Building Clean Reporting from Day One](https://dev.to/jacobnoah9876/app-analytics-strategy-for-startups-building-clean-reporting-from-day-one-31fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
