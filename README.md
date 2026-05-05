@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Sagas with Real Failure Scenarios](https://dev.to/pedrop3/testing-sagas-with-real-failure-scenarios-mog)
-- [Why MCP Apps are going to be the next big thing](https://dev.to/quotentiroler/why-mcp-apps-are-going-to-be-the-next-big-thing-3611)
-- [Token Consumption Anxiety and the Open Source App I Built to Solve It](https://dev.to/regnard/token-consumption-anxiety-and-the-open-source-app-i-built-to-solve-it-395k)
-- [Good Enough Is Good Enough](https://dev.to/lingxin_wang_3b88f34b4014/good-enough-is-good-enough-5ejj)
-- [I asked 3 AIs to ship a tool together. Here&#39;s what actually shipped.](https://dev.to/agentstackteam/i-asked-3-ais-to-ship-a-tool-together-heres-what-actually-shipped-3p3c)
+- [UUIDs Explained Simply &lpar;and Why Every Developer Needs Them&rpar;](https://dev.to/codexneo/uuids-explained-simply-and-why-every-developer-needs-them-2l01)
+- [Caching AI Responses in a Desktop App — Don&#39;t Pay Twice for the Same Question](https://dev.to/hiyoyok/caching-ai-responses-in-a-desktop-app-dont-pay-twice-for-the-same-question-cfe)
+- [LLM386: borrowing a 1990s idea for managing LLM context](https://dev.to/matt_fitzgerald_e0904a636/llm386-borrowing-a-1990s-idea-for-managing-llm-context-4pga)
+- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
+- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
