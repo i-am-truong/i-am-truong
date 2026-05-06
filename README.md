@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Price My Indie Mac Apps — The Thinking Behind $7, $39, and $50](https://dev.to/hiyoyok/how-i-price-my-indie-mac-apps-the-thinking-behind-7-39-and-50-4bpk)
-- [Salesforce ECA Security Compliance for AppExchange ISVs: A Technical Breakdown of the Four OAuth Controls](https://dev.to/devam_gupta_92/salesforce-eca-security-compliance-for-appexchange-isvs-a-technical-breakdown-of-the-four-oauth-255o)
-- [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6)
-- [Apache Data Lakehouse Weekly: April 30–May 6, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-30-may-6-2026-1ibl)
-- [Building an Autonomous Vehicle Safety Test Framework: Automating MISRA &amp; CERT C Compliance](https://dev.to/rishumishra/building-an-autonomous-vehicle-safety-test-framework-automating-misra-cert-c-compliance-3c9l)
+- [The NPM Audit Trap: A Thursday Morning Tragedy](https://dev.to/proco/the-npm-audit-trap-a-thursday-morning-tragedy-57h)
+- [Top 5 Secure Password Generators for Developers in 2026](https://dev.to/toolsmatic/top-5-secure-password-generators-for-developers-in-2026-12n5)
+- [Dealing with &quot;DevTools remote debugging is disallowed by the system admin&quot;](https://dev.to/danuw/dealing-with-devtools-remote-debugging-is-disallowed-by-the-system-admin-2imp)
+- [Stop Shipping Breaking Go APIs by Accident](https://dev.to/alzhi_f93e67fa45b972/stop-shipping-breaking-go-apis-by-accident-4nln)
+- [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
