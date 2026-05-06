@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leveling Up Your Termux Experience: A Lightweight GUI/TUI Alternative Package Manager](https://dev.to/wsoe/leveling-up-your-termux-experience-a-lightweight-guitui-alternative-package-manager-3dcp)
-- [Skills and the discovery ceiling: why your AI coding agent ignores most of what you install](https://dev.to/cdelgado70/skills-and-the-discovery-ceiling-why-your-ai-coding-agent-ignores-most-of-what-you-install-45f9)
-- [I got tired of AI agents roaming my codebase — so I built a harness layer](https://dev.to/enmanuelmag/i-got-tired-of-ai-agents-roaming-my-codebase-so-i-built-a-harness-layer-1o88)
-- [NVM: como atualizar o Node LTS sem perder seus packages globais](https://dev.to/kbdemiranda/nvm-como-atualizar-o-node-lts-sem-perder-seus-packages-globais-28dj)
-- [Spec-Driven Development: Slowing Down to Ship Faster](https://dev.to/aoligama/spec-driven-development-slowing-down-to-ship-faster-995)
+- [🚀 FF Designer: AI-Powered UI Generation for FlutterFlow Builders](https://dev.to/codexlancers/ff-designer-ai-powered-ui-generation-for-flutterflow-builders-3me1)
+- [Blockchain Beyond Crypto: Enterprise Use Cases and Architectural Realities](https://dev.to/vishaluttammane/blockchain-beyond-crypto-enterprise-use-cases-and-architectural-realities-1dnj)
+- [CLAUDE.md for Scala: 13 Rules That Make AI Write Idiomatic Functional Code](https://dev.to/olivia_craft/claudemd-for-scala-13-rules-that-make-ai-write-idiomatic-functional-code-3cgi)
+- [Replacing Elasticsearch with ClickHouse : A 90% Cost-Reduction Migration](https://dev.to/rakeshtherani/replacing-elasticsearch-with-clickhouse-for-otel-logs-traces-metrics-a-90-cost-reduction-28c)
+- [55. Multiple Regression: More Features, More Power &lpar;And More Ways to Break Things&rpar;](https://dev.to/yakhilesh/55-multiple-regression-more-features-more-power-and-more-ways-to-break-things-4e5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
