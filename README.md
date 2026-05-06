@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 FF Designer: AI-Powered UI Generation for FlutterFlow Builders](https://dev.to/codexlancers/ff-designer-ai-powered-ui-generation-for-flutterflow-builders-3me1)
-- [Blockchain Beyond Crypto: Enterprise Use Cases and Architectural Realities](https://dev.to/vishaluttammane/blockchain-beyond-crypto-enterprise-use-cases-and-architectural-realities-1dnj)
-- [CLAUDE.md for Scala: 13 Rules That Make AI Write Idiomatic Functional Code](https://dev.to/olivia_craft/claudemd-for-scala-13-rules-that-make-ai-write-idiomatic-functional-code-3cgi)
-- [Replacing Elasticsearch with ClickHouse : A 90% Cost-Reduction Migration](https://dev.to/rakeshtherani/replacing-elasticsearch-with-clickhouse-for-otel-logs-traces-metrics-a-90-cost-reduction-28c)
-- [55. Multiple Regression: More Features, More Power &lpar;And More Ways to Break Things&rpar;](https://dev.to/yakhilesh/55-multiple-regression-more-features-more-power-and-more-ways-to-break-things-4e5d)
+- [Video Search with MongoDB](https://dev.to/gayathriabcde/video-search-with-mongodb-5a1p)
+- [Designing a Transaction ID for a Payment System: What I Learned](https://dev.to/asm_tarek/designing-a-transaction-id-for-a-payment-system-what-i-learned-49bf)
+- [Seven principles of real memory for AI agents](https://dev.to/vbcherepanov/seven-principles-of-real-memory-for-ai-agents-1k8k)
+- [Forkline: Building AI runners for engineering teams](https://dev.to/pando85/forkline-building-ai-runners-for-engineering-teams-4oea)
+- [LeetCode 819: Most Common Word — Simple Explanation with Carry Logic &lpar;Java&rpar;](https://dev.to/jerin_babu/leetcode-819-most-common-word-simple-explanation-with-carry-logic-java-190e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
