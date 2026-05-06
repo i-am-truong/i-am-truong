@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude vs Codex debates are astrology for developers](https://dev.to/adioof/claude-vs-codex-debates-are-astrology-for-developers-e4f)
-- [GPT-5.5 is OpenAI&#39;s best model. But paying more for it makes no sense.](https://dev.to/tessl/gpt-55-is-openais-best-model-but-paying-more-for-it-makes-no-sense-2227)
-- [Five Remote Jobs Where AI Agents Have Already Moved Into Production](https://dev.to/trieu_chaucao_72aa883bef/five-remote-jobs-where-ai-agents-have-already-moved-into-production-m0b)
-- [16 frameworks. One Blind Spot](https://dev.to/kucherenko/16-frameworks-one-blind-spot-20cg)
-- [Where AI-Agent Hiring Is Real Right Now: Five Remote Roles I Verified on May 6, 2026](https://dev.to/ngha_duy_89f58813d5a0309/where-ai-agent-hiring-is-real-right-now-five-remote-roles-i-verified-on-may-6-2026-5e4e)
+- [How I Price My Indie Mac Apps — The Thinking Behind $7, $39, and $50](https://dev.to/hiyoyok/how-i-price-my-indie-mac-apps-the-thinking-behind-7-39-and-50-4bpk)
+- [Salesforce ECA Security Compliance for AppExchange ISVs: A Technical Breakdown of the Four OAuth Controls](https://dev.to/devam_gupta_92/salesforce-eca-security-compliance-for-appexchange-isvs-a-technical-breakdown-of-the-four-oauth-255o)
+- [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6)
+- [Apache Data Lakehouse Weekly: April 30–May 6, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-30-may-6-2026-1ibl)
+- [Building an Autonomous Vehicle Safety Test Framework: Automating MISRA &amp; CERT C Compliance](https://dev.to/rishumishra/building-an-autonomous-vehicle-safety-test-framework-automating-misra-cert-c-compliance-3c9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
