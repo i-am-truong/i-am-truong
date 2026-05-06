@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an MCP server so AI agents can flash 1,000+ embedded boards](https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd)
-- [The Hidden TCO of Self-Hosting Your EC Revenue Dashboard in 2026](https://dev.to/toshihiro_shishido/the-hidden-tco-of-self-hosting-your-ec-revenue-dashboard-in-2026-3d6k)
-- [[Day 3] I Had a Local LLM Analyze a Year of My Credit Card Statements](https://dev.to/peppercorn_llm/day-3-i-had-a-local-llm-analyze-a-year-of-my-credit-card-statements-4eab)
-- [# How to Run Qwen3.6-35B on Your Mac at 77 tok/s](https://dev.to/oreocato/-how-to-run-qwen36-35b-on-your-mac-at-77-toks-49e8)
-- [AlgoExpert vs NeetCode: The Interview Skill Neither One Actually Trains](https://dev.to/codeintuition/algoexpert-vs-neetcode-the-interview-skill-neither-one-actually-trains-567f)
+- [Leveling Up Your Termux Experience: A Lightweight GUI/TUI Alternative Package Manager](https://dev.to/wsoe/leveling-up-your-termux-experience-a-lightweight-guitui-alternative-package-manager-3dcp)
+- [Skills and the discovery ceiling: why your AI coding agent ignores most of what you install](https://dev.to/cdelgado70/skills-and-the-discovery-ceiling-why-your-ai-coding-agent-ignores-most-of-what-you-install-45f9)
+- [I got tired of AI agents roaming my codebase — so I built a harness layer](https://dev.to/enmanuelmag/i-got-tired-of-ai-agents-roaming-my-codebase-so-i-built-a-harness-layer-1o88)
+- [NVM: como atualizar o Node LTS sem perder seus packages globais](https://dev.to/kbdemiranda/nvm-como-atualizar-o-node-lts-sem-perder-seus-packages-globais-28dj)
+- [Spec-Driven Development: Slowing Down to Ship Faster](https://dev.to/aoligama/spec-driven-development-slowing-down-to-ship-faster-995)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
