@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing React Dojo - Learn React by Actually Practicing It](https://dev.to/dayanperez/introducing-react-dojo-learn-react-by-actually-practicing-it-4jp5)
-- [Predetermined change-control plans for AI/ML SaMD — how to make them audit-proof](https://dev.to/jwithfield_qa/predetermined-change-control-plans-for-aiml-samd-how-to-make-them-audit-proof-hmm)
-- [Gazing at a Crystal Ball](https://dev.to/ilyakaznacheev/gazing-at-a-crystal-ball-na8)
-- [Anthropic strikes compute deal with SpaceX — what it means for the future of AI](https://dev.to/mcrolly/anthropic-strikes-compute-deal-with-spacex-what-it-means-for-the-future-of-ai-1moj)
-- [Testing Long-Horizon Coherence in MusicGen: A Real-Data Mech Interp Pipeline](https://dev.to/perfect7613/testing-long-horizon-coherence-in-musicgen-a-real-data-mech-interp-pipeline-3end)
+- [4 Open-Source Security Tools Every Dev Should Know](https://dev.to/lovestaco/4-open-source-security-tools-every-dev-should-know-35om)
+- [Building a Skills Updater Pipeline for AI Platforms](https://dev.to/niclydon/building-a-skills-updater-pipeline-for-ai-platforms-2jan)
+- [How I Conquered the Brimble Task: Insights and Strategies](https://dev.to/onatade_abdulmajeed/how-i-conquered-the-brimble-task-insights-and-strategies-20bn)
+- [Stop editing 500 products: rule-based discounts in WooCommerce](https://dev.to/tivnet/stop-editing-500-products-rule-based-discounts-in-woocommerce-3a1j)
+- [Protecting Keycloak Auth with Proof of Work](https://dev.to/mr_buch/protecting-keycloak-auth-with-proof-of-work-2i4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
