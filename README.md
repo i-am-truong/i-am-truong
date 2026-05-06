@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Video Search with MongoDB](https://dev.to/gayathriabcde/video-search-with-mongodb-5a1p)
-- [Designing a Transaction ID for a Payment System: What I Learned](https://dev.to/asm_tarek/designing-a-transaction-id-for-a-payment-system-what-i-learned-49bf)
-- [Seven principles of real memory for AI agents](https://dev.to/vbcherepanov/seven-principles-of-real-memory-for-ai-agents-1k8k)
-- [Forkline: Building AI runners for engineering teams](https://dev.to/pando85/forkline-building-ai-runners-for-engineering-teams-4oea)
-- [LeetCode 819: Most Common Word — Simple Explanation with Carry Logic &lpar;Java&rpar;](https://dev.to/jerin_babu/leetcode-819-most-common-word-simple-explanation-with-carry-logic-java-190e)
+- [Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job](https://dev.to/luca1iu/stop-using-spark-for-your-small-data-why-azure-functions-is-the-right-tool-for-the-job-4j66)
+- [Data Analyst: Does Your Work Actually Matter?](https://dev.to/luca1iu/data-analyst-does-your-work-actually-matter-3in2)
+- [Shadcn Form Builder Is Live: Build React Forms Using AI Prompts](https://dev.to/shadcnspace/shadcn-form-builder-is-live-build-react-forms-using-ai-prompts-4ge8)
+- [Advanced Navigation in Flutter Web: A Deep Dive with Go Router](https://dev.to/hraj_07/advanced-navigation-in-flutter-web-a-deep-dive-with-go-router-1eg0)
+- [LeetCode 387: First Unique Character in a String — Simple Explanation with Carry Logic &lpar;Java&rpar;](https://dev.to/jerin_babu/leetcode-387-first-unique-character-in-a-string-simple-explanation-with-carry-logic-java-4fem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
