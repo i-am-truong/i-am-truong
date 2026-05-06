@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job](https://dev.to/luca1iu/stop-using-spark-for-your-small-data-why-azure-functions-is-the-right-tool-for-the-job-4j66)
-- [Data Analyst: Does Your Work Actually Matter?](https://dev.to/luca1iu/data-analyst-does-your-work-actually-matter-3in2)
-- [Shadcn Form Builder Is Live: Build React Forms Using AI Prompts](https://dev.to/shadcnspace/shadcn-form-builder-is-live-build-react-forms-using-ai-prompts-4ge8)
-- [Advanced Navigation in Flutter Web: A Deep Dive with Go Router](https://dev.to/hraj_07/advanced-navigation-in-flutter-web-a-deep-dive-with-go-router-1eg0)
-- [LeetCode 387: First Unique Character in a String — Simple Explanation with Carry Logic &lpar;Java&rpar;](https://dev.to/jerin_babu/leetcode-387-first-unique-character-in-a-string-simple-explanation-with-carry-logic-java-4fem)
+- [How I built subdomain-based multi-tenancy with Next.js 14, Supabase RLS, and Cloudflare — for free](https://dev.to/prontodev/how-i-built-subdomain-based-multi-tenancy-with-nextjs-14-supabase-rls-and-cloudflare-for-free-2m02)
+- [The Real Truth Behind IT Layoffs — What No One Tells You &lpar;And How to Survive It&rpar;](https://dev.to/kushang_tailor/the-real-truth-behind-it-layoffs-what-no-one-tells-you-and-how-to-survive-it-5c19)
+- [Google Indexing API multi-sources en Node.js : 600 URLs/jour gratuitement](https://dev.to/dilm_informatique_54dbfbd/google-indexing-api-multi-sources-en-nodejs-600-urlsjour-gratuitement-30b2)
+- [llms.txt : optimiser son site pour ChatGPT et les LLMs en 2026](https://dev.to/dilm_informatique_54dbfbd/llmstxt-optimiser-son-site-pour-chatgpt-et-les-llms-en-2026-4b9e)
+- [Why Most Internal Developer Platforms Fail &lpar;And What To Do About It&rpar;](https://dev.to/itzdaninja/why-most-internal-developer-platforms-fail-and-what-to-do-about-it-pd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
