@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The NPM Audit Trap: A Thursday Morning Tragedy](https://dev.to/proco/the-npm-audit-trap-a-thursday-morning-tragedy-57h)
-- [Top 5 Secure Password Generators for Developers in 2026](https://dev.to/toolsmatic/top-5-secure-password-generators-for-developers-in-2026-12n5)
-- [Dealing with &quot;DevTools remote debugging is disallowed by the system admin&quot;](https://dev.to/danuw/dealing-with-devtools-remote-debugging-is-disallowed-by-the-system-admin-2imp)
-- [Stop Shipping Breaking Go APIs by Accident](https://dev.to/alzhi_f93e67fa45b972/stop-shipping-breaking-go-apis-by-accident-4nln)
-- [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c)
+- [Finding Memory Leaks in Legacy C++ Applications with Valgrind](https://dev.to/legacycpp/finding-memory-leaks-in-legacy-c-applications-with-valgrind-254i)
+- [SwiftDeploy: Building a Self-Governing Deployment Tool with OPA, Prometheus, and a Single YAML File](https://dev.to/trojanhorse7/swiftdeploy-building-a-self-governing-deployment-tool-with-opa-prometheus-and-a-single-yaml-file-50cp)
+- [I built a PDF + Image + Invoice API platform — free tier, no card required](https://dev.to/forgelabafrica/i-built-a-pdf-image-invoice-api-platform-free-tier-no-card-required-4le4)
+- [How I Built a Screenshot API That Doesn&#39;t Suck](https://dev.to/namornimash/how-i-built-a-screenshot-api-that-doesnt-suck-7a2)
+- [How I, knowing only IF, vibecoded CivicSurvival: a 158K-line mod for Cities: Skylines II, a RAG server, and 300 analyzers in 3 months](https://dev.to/valentyn_kurchenkohai_7f/how-i-knowing-only-if-vibecoded-civicsurvival-a-158k-line-mod-a-rag-server-and-300-analyzers-375c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
