@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built subdomain-based multi-tenancy with Next.js 14, Supabase RLS, and Cloudflare — for free](https://dev.to/prontodev/how-i-built-subdomain-based-multi-tenancy-with-nextjs-14-supabase-rls-and-cloudflare-for-free-2m02)
-- [The Real Truth Behind IT Layoffs — What No One Tells You &lpar;And How to Survive It&rpar;](https://dev.to/kushang_tailor/the-real-truth-behind-it-layoffs-what-no-one-tells-you-and-how-to-survive-it-5c19)
-- [Google Indexing API multi-sources en Node.js : 600 URLs/jour gratuitement](https://dev.to/dilm_informatique_54dbfbd/google-indexing-api-multi-sources-en-nodejs-600-urlsjour-gratuitement-30b2)
-- [llms.txt : optimiser son site pour ChatGPT et les LLMs en 2026](https://dev.to/dilm_informatique_54dbfbd/llmstxt-optimiser-son-site-pour-chatgpt-et-les-llms-en-2026-4b9e)
-- [Why Most Internal Developer Platforms Fail &lpar;And What To Do About It&rpar;](https://dev.to/itzdaninja/why-most-internal-developer-platforms-fail-and-what-to-do-about-it-pd7)
+- [Claude vs Codex debates are astrology for developers](https://dev.to/adioof/claude-vs-codex-debates-are-astrology-for-developers-e4f)
+- [GPT-5.5 is OpenAI&#39;s best model. But paying more for it makes no sense.](https://dev.to/tessl/gpt-55-is-openais-best-model-but-paying-more-for-it-makes-no-sense-2227)
+- [Five Remote Jobs Where AI Agents Have Already Moved Into Production](https://dev.to/trieu_chaucao_72aa883bef/five-remote-jobs-where-ai-agents-have-already-moved-into-production-m0b)
+- [16 frameworks. One Blind Spot](https://dev.to/kucherenko/16-frameworks-one-blind-spot-20cg)
+- [Where AI-Agent Hiring Is Real Right Now: Five Remote Roles I Verified on May 6, 2026](https://dev.to/ngha_duy_89f58813d5a0309/where-ai-agent-hiring-is-real-right-now-five-remote-roles-i-verified-on-may-6-2026-5e4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
