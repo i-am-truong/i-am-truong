@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 Open-Source Security Tools Every Dev Should Know](https://dev.to/lovestaco/4-open-source-security-tools-every-dev-should-know-35om)
-- [Building a Skills Updater Pipeline for AI Platforms](https://dev.to/niclydon/building-a-skills-updater-pipeline-for-ai-platforms-2jan)
-- [How I Conquered the Brimble Task: Insights and Strategies](https://dev.to/onatade_abdulmajeed/how-i-conquered-the-brimble-task-insights-and-strategies-20bn)
-- [Stop editing 500 products: rule-based discounts in WooCommerce](https://dev.to/tivnet/stop-editing-500-products-rule-based-discounts-in-woocommerce-3a1j)
-- [Protecting Keycloak Auth with Proof of Work](https://dev.to/mr_buch/protecting-keycloak-auth-with-proof-of-work-2i4d)
+- [Can LLMs Audit Smart Contracts? Benchmarking Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro](https://dev.to/hayitov/can-llms-audit-smart-contracts-benchmarking-claude-opus-47-gpt-55-and-gemini-31-pro-29jg)
+- [Lessons from Log4Shell: Building a CRA-Ready Log4j](https://dev.to/theasf/lessons-from-log4shell-building-a-cra-ready-log4j-j43)
+- [Generative Simulation Benchmarking for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-during-mission-critical-1ef6)
+- [Stop Credentialing Your AI Agents Like It&#39;s 2019](https://dev.to/t_devonartis_c9f34e5721/stop-credentialing-your-ai-agents-like-its-2019-ec9)
+- [Three Security Issues Specific to Multi-Agent AI Systems &lpar;OWASP Agentic AI Top 10&rpar;](https://dev.to/ashutoshrana/the-owasp-agentic-ai-top-10-three-attacks-that-actually-happen-in-production-with-code-38o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
