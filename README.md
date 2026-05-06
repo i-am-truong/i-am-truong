@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding Memory Leaks in Legacy C++ Applications with Valgrind](https://dev.to/legacycpp/finding-memory-leaks-in-legacy-c-applications-with-valgrind-254i)
-- [SwiftDeploy: Building a Self-Governing Deployment Tool with OPA, Prometheus, and a Single YAML File](https://dev.to/trojanhorse7/swiftdeploy-building-a-self-governing-deployment-tool-with-opa-prometheus-and-a-single-yaml-file-50cp)
-- [I built a PDF + Image + Invoice API platform — free tier, no card required](https://dev.to/forgelabafrica/i-built-a-pdf-image-invoice-api-platform-free-tier-no-card-required-4le4)
-- [How I Built a Screenshot API That Doesn&#39;t Suck](https://dev.to/namornimash/how-i-built-a-screenshot-api-that-doesnt-suck-7a2)
-- [How I, knowing only IF, vibecoded CivicSurvival: a 158K-line mod for Cities: Skylines II, a RAG server, and 300 analyzers in 3 months](https://dev.to/valentyn_kurchenkohai_7f/how-i-knowing-only-if-vibecoded-civicsurvival-a-158k-line-mod-a-rag-server-and-300-analyzers-375c)
+- [Introducing React Dojo - Learn React by Actually Practicing It](https://dev.to/dayanperez/introducing-react-dojo-learn-react-by-actually-practicing-it-4jp5)
+- [Predetermined change-control plans for AI/ML SaMD — how to make them audit-proof](https://dev.to/jwithfield_qa/predetermined-change-control-plans-for-aiml-samd-how-to-make-them-audit-proof-hmm)
+- [Gazing at a Crystal Ball](https://dev.to/ilyakaznacheev/gazing-at-a-crystal-ball-na8)
+- [Anthropic strikes compute deal with SpaceX — what it means for the future of AI](https://dev.to/mcrolly/anthropic-strikes-compute-deal-with-spacex-what-it-means-for-the-future-of-ai-1moj)
+- [Testing Long-Horizon Coherence in MusicGen: A Real-Data Mech Interp Pipeline](https://dev.to/perfect7613/testing-long-horizon-coherence-in-musicgen-a-real-data-mech-interp-pipeline-3end)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
