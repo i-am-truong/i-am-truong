@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can LLMs Audit Smart Contracts? Benchmarking Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro](https://dev.to/hayitov/can-llms-audit-smart-contracts-benchmarking-claude-opus-47-gpt-55-and-gemini-31-pro-29jg)
-- [Lessons from Log4Shell: Building a CRA-Ready Log4j](https://dev.to/theasf/lessons-from-log4shell-building-a-cra-ready-log4j-j43)
-- [Generative Simulation Benchmarking for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-during-mission-critical-1ef6)
-- [Stop Credentialing Your AI Agents Like It&#39;s 2019](https://dev.to/t_devonartis_c9f34e5721/stop-credentialing-your-ai-agents-like-its-2019-ec9)
-- [Three Security Issues Specific to Multi-Agent AI Systems &lpar;OWASP Agentic AI Top 10&rpar;](https://dev.to/ashutoshrana/the-owasp-agentic-ai-top-10-three-attacks-that-actually-happen-in-production-with-code-38o7)
+- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
+- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
+- [Introducing Cossmology: a Map of the Commercial OSS Universe](https://dev.to/sabirchinstrap/introducing-cossmology-a-map-of-the-commercial-oss-universe-406n)
+- [[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology](https://dev.to/_d2a1ea24c442526a9777/fabcon-atlanta-2026-report-my-take-on-fabric-iq-ontology-4hp3)
+- [𝐘𝐨𝐮𝐫 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐊𝐧𝐨𝐰𝐬 𝐖𝐡𝐚𝐭 𝐓𝐨 𝐃𝐨… 𝐁𝐮𝐭 𝐃𝐨𝐞𝐬 𝐈𝐭 𝐊𝐧𝐨𝐰 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐨 𝐈𝐭? 🤔](https://dev.to/sreeni5018/your-ai-agent-knows-what-to-do-but-does-it-know-how-5836)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
