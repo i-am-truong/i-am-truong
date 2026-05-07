@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best LLMs for Agentic Coding in 2026 &lpar;Real-World, Not Just Benchmarks&rpar;](https://dev.to/danishashko/the-best-llms-for-agentic-coding-in-2026-real-world-not-just-benchmarks-96n)
-- [Building AI Systems for Healthcare: My Journey into Applied Machine Learning and Software Engineering](https://dev.to/enochlabs/building-ai-systems-for-healthcare-my-journey-into-applied-machine-learning-and-software-2151)
-- [MERN Stack Development – Day 1 🚀](https://dev.to/monikaranjithkumar/mern-stack-development-day-1-4j8)
-- [Stop Putting AWS Access Keys in GitHub Secrets. Use OIDC Instead.](https://dev.to/neil_4e5a9c0f3c99/stop-putting-aws-access-keys-in-github-secrets-use-oidc-instead-5c13)
-- [OverTheWire: Bandit Level 3](https://dev.to/amandaigwe/overthewire-bandit-level-3-4ej4)
+- [🚀 Building OSSI — An AI-Powered Open Source Intelligence System with Kestra](https://dev.to/mohit5upadhyay/building-ossi-an-ai-powered-open-source-intelligence-system-with-kestra-1i47)
+- [I&#39;m Only Building Dead Simple Apps From Now On](https://dev.to/vientapps/im-only-building-dead-simple-apps-from-now-on-42b)
+- [Just released a new version of AutoFilterWpfDataGrid](https://dev.to/markoee_mnc/just-released-a-new-version-of-autofilterwpfdatagrid-2ipb)
+- [How to for YouTube Blogging: Lessons Learned](https://dev.to/johalputt/how-to-for-youtube-blogging-lessons-learned-113b)
+- [Eval Set Sizing: The Statistical Power Math Behind LLM A/B Tests](https://dev.to/gabrielanhaia/eval-set-sizing-the-statistical-power-math-behind-llm-ab-tests-4gpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
