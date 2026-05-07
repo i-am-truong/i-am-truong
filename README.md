@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
-- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
-- [Introducing Cossmology: a Map of the Commercial OSS Universe](https://dev.to/sabirchinstrap/introducing-cossmology-a-map-of-the-commercial-oss-universe-406n)
-- [[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology](https://dev.to/_d2a1ea24c442526a9777/fabcon-atlanta-2026-report-my-take-on-fabric-iq-ontology-4hp3)
-- [𝐘𝐨𝐮𝐫 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐊𝐧𝐨𝐰𝐬 𝐖𝐡𝐚𝐭 𝐓𝐨 𝐃𝐨… 𝐁𝐮𝐭 𝐃𝐨𝐞𝐬 𝐈𝐭 𝐊𝐧𝐨𝐰 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐨 𝐈𝐭? 🤔](https://dev.to/sreeni5018/your-ai-agent-knows-what-to-do-but-does-it-know-how-5836)
+- [Building an AI tool landing page with Next.js 14 — chat mockup, FAQ accordion, and zero dependencies](https://dev.to/juan_maya_6479056cdf0c8d6/building-an-ai-tool-landing-page-with-nextjs-14-chat-mockup-faq-accordion-and-zero-dependencies-22n7)
+- [5 Tips to Keep Your VPS Safe from Vulnerabilities](https://dev.to/vincent4486/5-tips-to-keep-your-vps-safe-from-vulnerabilities-4e4i)
+- [Setting up Archipelago used to take an hour. Now it&#39;s three clicks.](https://dev.to/mathisbls/setting-up-archipelago-used-to-take-an-hour-now-its-three-clicks-395)
+- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
+- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
