@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pay-Per-Use MCP Server with Micropayments](https://dev.to/anassetti20prog/pay-per-use-mcp-server-with-micropayments-4632)
-- [I Built a Personal Knowledge Graph. Apple Had Already Built One on My Laptop.](https://dev.to/niclydon/i-built-a-personal-knowledge-graph-apple-had-already-built-one-on-my-laptop-54l8)
-- [Realtime deepfake software is a SaaS product now](https://dev.to/thoams_aidetection/realtime-deepfake-software-is-a-saas-product-now-13no)
-- [Las mejores herramientas gratuitas de monitoreo de sitios web &lpar;2026&rpar;: Sin tarjeta de crédito, sin rodeos](https://dev.to/guardlabs_team/las-mejores-herramientas-gratuitas-de-monitoreo-de-sitios-web-2026-sin-tarjeta-de-credito-sin-gcn)
-- [DuckLake 1.0: el formato de data lake que mueve el catálogo de archivos a SQL y promete 926 más velocidad que Iceberg](https://dev.to/lu1tr0n/ducklake-10-el-formato-de-data-lake-que-mueve-el-catalogo-de-archivos-a-sql-y-promete-926x-mas-28h2)
+- [Day 3: Building the Editing Layer](https://dev.to/carryologist/day-3-building-the-editing-layer-53jn)
+- [I Built a Free Firefox New Tab Extension with Live Weather and World Clocks](https://dev.to/wclockdash/i-built-a-free-firefox-new-tab-extension-with-live-weather-and-world-clocks-2bp1)
+- [I was a half-builder](https://dev.to/deeflect/i-was-a-half-builder-47e9)
+- [WordPress / WooCommerce Checkout Anti-Fraud — 9 Production-Tested Defenses &lpar;2026&rpar;](https://dev.to/guardlabs_team/wordpress-woocommerce-checkout-anti-fraud-9-production-tested-defenses-2026-35b6)
+- [How to Make Your Website AI-Agent Readable in 2026 &lpar;llms.txt, MCP Cards, Structured Data&rpar;](https://dev.to/guardlabs_team/how-to-make-your-website-ai-agent-readable-in-2026-llmstxt-mcp-cards-structured-data-m8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
