@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop your AI Coding Agent from making the same mistake twice](https://dev.to/khaitrang1995/stop-your-ai-coding-agent-from-making-the-same-mistake-twice-blh)
-- [VibeCoding State-of-the-Art-Driven Development](https://dev.to/fullagenticstack/vibecoding-state-of-the-art-driven-development-31ne)
-- [The 3 questions that separate high-value engineers from everyone else](https://dev.to/ajay_mudettula/the-3-questions-that-separate-high-value-engineers-from-everyone-else-1h5b)
-- [Three types of founders walk through our door. Only one of them doesn&#39;t pay twice.](https://dev.to/pawel_reszka/three-types-of-founders-walk-through-our-door-only-one-of-them-doesnt-pay-twice-2o6p)
-- [ML-KEM: Future of Key Encapsulation](https://dev.to/quantumsequrity/ml-kem-future-of-key-encapsulation-37ek)
+- [Chinese LLMs Are Ridiculously Cheap — Why Aren&#39;t More Developers Using Them?](https://dev.to/swb1225/chinese-llms-are-ridiculously-cheap-why-arent-more-developers-using-them-m3p)
+- [Hooks vs Pipelines: Why I Stopped Injecting Logic and Started Designing Flow](https://dev.to/stinklewinks/hooks-vs-pipelines-why-i-stopped-injecting-logic-and-started-designing-flow-loj)
+- [Building OrinIDE — A Browser-Based IDE for Android with AI Support](https://dev.to/nandan_das_369/building-orinide-a-browser-based-ide-for-android-with-ai-support-2hjj)
+- [Building a Fully Offline AI Coding Assistant with Gemma 4 — No Cloud Required 🤖](https://dev.to/mamoor_ahmad/building-a-fully-offline-ai-coding-assistant-with-gemma-4-no-cloud-required-37op)
+- [Las 6 Mejores Alternativas a Airtable en 2026 &lpar;bases de datos visuales&rpar;](https://dev.to/genzetadigital/las-6-mejores-alternativas-a-airtable-en-2026-bases-de-datos-visuales-122l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
