@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha)
-- [Building an Android-like Platform for Embedded Linux Devices — Without Docker](https://dev.to/pharris/building-an-android-like-platform-for-embedded-linux-devices-without-docker-l57)
-- [Harness Engineering is REAL Engineering](https://dev.to/tacoda/harness-engineering-is-real-engineering-emh)
-- [A Framework for Building My First Multi-Agent System](https://dev.to/sachin_magon/a-framework-for-building-my-first-multi-agent-system-3eh0)
-- [Why Most Crypto Bots Get Sandwiched &lpar;And How to Prevent It&rpar;](https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-a2e)
+- [Pay-Per-Use MCP Server with Micropayments](https://dev.to/anassetti20prog/pay-per-use-mcp-server-with-micropayments-4632)
+- [I Built a Personal Knowledge Graph. Apple Had Already Built One on My Laptop.](https://dev.to/niclydon/i-built-a-personal-knowledge-graph-apple-had-already-built-one-on-my-laptop-54l8)
+- [Realtime deepfake software is a SaaS product now](https://dev.to/thoams_aidetection/realtime-deepfake-software-is-a-saas-product-now-13no)
+- [Las mejores herramientas gratuitas de monitoreo de sitios web &lpar;2026&rpar;: Sin tarjeta de crédito, sin rodeos](https://dev.to/guardlabs_team/las-mejores-herramientas-gratuitas-de-monitoreo-de-sitios-web-2026-sin-tarjeta-de-credito-sin-gcn)
+- [DuckLake 1.0: el formato de data lake que mueve el catálogo de archivos a SQL y promete 926 más velocidad que Iceberg](https://dev.to/lu1tr0n/ducklake-10-el-formato-de-data-lake-que-mueve-el-catalogo-de-archivos-a-sql-y-promete-926x-mas-28h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
