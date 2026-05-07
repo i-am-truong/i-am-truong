@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EU AI Act Compliance Checklist for AI Agents &lpar;87 Days Until Enforcement&rpar;](https://dev.to/verisigilai/eu-ai-act-compliance-checklist-for-ai-agents-87-days-until-enforcement-3m1a)
-- [TypeScript strict Mode Is 8 Flags. Turn strictNullChecks On Last.](https://dev.to/gabrielanhaia/typescript-strict-mode-is-8-flags-turn-strictnullchecks-on-last-52mj)
-- [Stop Guessing &#39;chmod&#39; I Built a Free Visual Permissions Builder for Linux](https://dev.to/bashsnippets/stop-guessing-chmod-i-built-a-free-visual-permissions-builder-for-linux-2m1a)
-- [Gemma-4-26B on v6e-4 TPU Benchmarks](https://dev.to/xbill/gemma-4-26b-on-v6e-4-tpu-benchmarks-3cah)
-- [Proofly — Honest Review: Zero-Friction Video Testimonials for Builders](https://dev.to/txlabs/proofly-honest-review-zero-friction-video-testimonials-for-builders-5ej8)
+- [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha)
+- [Building an Android-like Platform for Embedded Linux Devices — Without Docker](https://dev.to/pharris/building-an-android-like-platform-for-embedded-linux-devices-without-docker-l57)
+- [Harness Engineering is REAL Engineering](https://dev.to/tacoda/harness-engineering-is-real-engineering-emh)
+- [A Framework for Building My First Multi-Agent System](https://dev.to/sachin_magon/a-framework-for-building-my-first-multi-agent-system-3eh0)
+- [Why Most Crypto Bots Get Sandwiched &lpar;And How to Prevent It&rpar;](https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-a2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
