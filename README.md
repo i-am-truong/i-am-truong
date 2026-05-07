@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI tool landing page with Next.js 14 — chat mockup, FAQ accordion, and zero dependencies](https://dev.to/juan_maya_6479056cdf0c8d6/building-an-ai-tool-landing-page-with-nextjs-14-chat-mockup-faq-accordion-and-zero-dependencies-22n7)
-- [5 Tips to Keep Your VPS Safe from Vulnerabilities](https://dev.to/vincent4486/5-tips-to-keep-your-vps-safe-from-vulnerabilities-4e4i)
-- [Setting up Archipelago used to take an hour. Now it&#39;s three clicks.](https://dev.to/mathisbls/setting-up-archipelago-used-to-take-an-hour-now-its-three-clicks-395)
-- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
-- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
+- [More ‘Kryten’ and Less ‘Replicant’: The Case for the Mechanical Tell](https://dev.to/gigaelk/more-kryten-and-less-replicant-the-case-for-the-mechanical-tell-2gp2)
+- [How to Use WireGuard 2.0 with Kubernetes 1.38 for Secure Cluster Networking](https://dev.to/johalputt/how-to-use-wireguard-20-with-kubernetes-138-for-secure-cluster-networking-1de7)
+- [From Zero to Job Data Visualization vs Power BI: Which Wins?](https://dev.to/johalputt/from-zero-to-job-data-visualization-vs-power-bi-which-wins-l9p)
+- [How to Install NVIDIA Drivers on Fedora 44](https://dev.to/kavindotdev/how-to-install-nvidia-drivers-on-fedora-44-1b9a)
+- [Building EDIFlow - Infrastructure Layer: Parsers, Repositories &amp; Data Packages &lpar;Part 4&rpar;](https://dev.to/helloediflow/building-ediflow-infrastructure-layer-parsers-repositories-data-packages-part-4-4hjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
