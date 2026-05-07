@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [More ‘Kryten’ and Less ‘Replicant’: The Case for the Mechanical Tell](https://dev.to/gigaelk/more-kryten-and-less-replicant-the-case-for-the-mechanical-tell-2gp2)
-- [How to Use WireGuard 2.0 with Kubernetes 1.38 for Secure Cluster Networking](https://dev.to/johalputt/how-to-use-wireguard-20-with-kubernetes-138-for-secure-cluster-networking-1de7)
-- [From Zero to Job Data Visualization vs Power BI: Which Wins?](https://dev.to/johalputt/from-zero-to-job-data-visualization-vs-power-bi-which-wins-l9p)
-- [How to Install NVIDIA Drivers on Fedora 44](https://dev.to/kavindotdev/how-to-install-nvidia-drivers-on-fedora-44-1b9a)
-- [Building EDIFlow - Infrastructure Layer: Parsers, Repositories &amp; Data Packages &lpar;Part 4&rpar;](https://dev.to/helloediflow/building-ediflow-infrastructure-layer-parsers-repositories-data-packages-part-4-4hjn)
+- [Your Python Tool Needs Persistence - It Doesn&#39;t Need a Database Server](https://dev.to/devasservice/your-python-tool-needs-persistence-it-doesnt-need-a-database-server-47co)
+- [L&#39;IA m&#39;aide à mieux écrire parce que je lui interdis d&#39;écrire à ma place.](https://dev.to/agaches/lia-maide-a-mieux-ecrire-parce-que-je-lui-interdis-decrire-a-ma-place-255c)
+- [An agent can now buy a domain. The trust gap stopped being a slide.](https://dev.to/piiiico/an-agent-can-now-buy-a-domain-the-trust-gap-stopped-being-a-slide-532e)
+- [How I Monetized My Dev Tools and APIs in 2026 &lpar;And What Actually Worked&rpar;](https://dev.to/hopkins_jesse_cdb68cfa22c/how-i-monetized-my-dev-tools-and-apis-in-2026-and-what-actually-worked-j92)
+- [Client-Side LLM Optimization Is Misunderstood](https://dev.to/talvinder/client-side-llm-optimization-is-misunderstood-2eip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
