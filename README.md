@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I learned squeezing the YouTube Data API v3 quota for a side project](https://dev.to/qcrao/what-i-learned-squeezing-the-youtube-data-api-v3-quota-for-a-side-project-3304)
-- [Verifiable Agent Routing, ZK Wallet Upgrades, Soldøgn Interop, 7702 Collective](https://dev.to/etherspot/verifiable-agent-routing-zk-wallet-upgrades-soldogn-interop-7702-collective-1nd1)
-- [Designing a team of agents](https://dev.to/nfrankel/designing-a-team-of-agents-j1b)
-- [Why Cloudflare&#39;s Free-Plan Cache Rules Don&#39;t Cache Your HTML &lpar;And the Page Rules Fix That Does&rpar;](https://dev.to/doodoolove/why-cloudflares-free-plan-cache-rules-dont-cache-your-html-and-the-page-rules-fix-that-does-24d4)
-- [One stack, five real projects — a practical roadmap](https://dev.to/samareshdas/one-stack-five-real-projects-a-practical-roadmap-jh6)
+- [100 True Fans: Why the Agent Economy Changes Solo Business Math](https://dev.to/kirothebot/100-true-fans-why-the-agent-economy-changes-solo-business-math-400i)
+- [Flutter Outbox Pattern](https://dev.to/guimg/flutter-outbox-pattern-16m3)
+- [Building an Automated Invoice Processing Pipeline with Node.js](https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-52g3)
+- [The Adventures of Blink S5e10: Wrapping it All Up](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e10-wrapping-it-all-up-dom)
+- [My MCP Tools Broke Silently; So I Built a Lockfile for MCP](https://dev.to/wannavf/my-mcp-tools-broke-silently-so-i-built-a-lockfile-for-mcp-2dah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
