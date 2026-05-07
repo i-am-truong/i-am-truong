@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Python Tool Needs Persistence - It Doesn&#39;t Need a Database Server](https://dev.to/devasservice/your-python-tool-needs-persistence-it-doesnt-need-a-database-server-47co)
-- [L&#39;IA m&#39;aide à mieux écrire parce que je lui interdis d&#39;écrire à ma place.](https://dev.to/agaches/lia-maide-a-mieux-ecrire-parce-que-je-lui-interdis-decrire-a-ma-place-255c)
-- [An agent can now buy a domain. The trust gap stopped being a slide.](https://dev.to/piiiico/an-agent-can-now-buy-a-domain-the-trust-gap-stopped-being-a-slide-532e)
-- [How I Monetized My Dev Tools and APIs in 2026 &lpar;And What Actually Worked&rpar;](https://dev.to/hopkins_jesse_cdb68cfa22c/how-i-monetized-my-dev-tools-and-apis-in-2026-and-what-actually-worked-j92)
-- [Client-Side LLM Optimization Is Misunderstood](https://dev.to/talvinder/client-side-llm-optimization-is-misunderstood-2eip)
+- [What I learned squeezing the YouTube Data API v3 quota for a side project](https://dev.to/qcrao/what-i-learned-squeezing-the-youtube-data-api-v3-quota-for-a-side-project-3304)
+- [Verifiable Agent Routing, ZK Wallet Upgrades, Soldøgn Interop, 7702 Collective](https://dev.to/etherspot/verifiable-agent-routing-zk-wallet-upgrades-soldogn-interop-7702-collective-1nd1)
+- [Designing a team of agents](https://dev.to/nfrankel/designing-a-team-of-agents-j1b)
+- [Why Cloudflare&#39;s Free-Plan Cache Rules Don&#39;t Cache Your HTML &lpar;And the Page Rules Fix That Does&rpar;](https://dev.to/doodoolove/why-cloudflares-free-plan-cache-rules-dont-cache-your-html-and-the-page-rules-fix-that-does-24d4)
+- [One stack, five real projects — a practical roadmap](https://dev.to/samareshdas/one-stack-five-real-projects-a-practical-roadmap-jh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
