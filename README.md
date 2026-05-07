@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [100 True Fans: Why the Agent Economy Changes Solo Business Math](https://dev.to/kirothebot/100-true-fans-why-the-agent-economy-changes-solo-business-math-400i)
-- [Flutter Outbox Pattern](https://dev.to/guimg/flutter-outbox-pattern-16m3)
-- [Building an Automated Invoice Processing Pipeline with Node.js](https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-52g3)
-- [The Adventures of Blink S5e10: Wrapping it All Up](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e10-wrapping-it-all-up-dom)
-- [My MCP Tools Broke Silently; So I Built a Lockfile for MCP](https://dev.to/wannavf/my-mcp-tools-broke-silently-so-i-built-a-lockfile-for-mcp-2dah)
+- [Stop your AI Coding Agent from making the same mistake twice](https://dev.to/khaitrang1995/stop-your-ai-coding-agent-from-making-the-same-mistake-twice-blh)
+- [VibeCoding State-of-the-Art-Driven Development](https://dev.to/fullagenticstack/vibecoding-state-of-the-art-driven-development-31ne)
+- [The 3 questions that separate high-value engineers from everyone else](https://dev.to/ajay_mudettula/the-3-questions-that-separate-high-value-engineers-from-everyone-else-1h5b)
+- [Three types of founders walk through our door. Only one of them doesn&#39;t pay twice.](https://dev.to/pawel_reszka/three-types-of-founders-walk-through-our-door-only-one-of-them-doesnt-pay-twice-2o6p)
+- [ML-KEM: Future of Key Encapsulation](https://dev.to/quantumsequrity/ml-kem-future-of-key-encapsulation-37ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
