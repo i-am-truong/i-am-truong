@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chinese LLMs Are Ridiculously Cheap — Why Aren&#39;t More Developers Using Them?](https://dev.to/swb1225/chinese-llms-are-ridiculously-cheap-why-arent-more-developers-using-them-m3p)
-- [Hooks vs Pipelines: Why I Stopped Injecting Logic and Started Designing Flow](https://dev.to/stinklewinks/hooks-vs-pipelines-why-i-stopped-injecting-logic-and-started-designing-flow-loj)
-- [Building OrinIDE — A Browser-Based IDE for Android with AI Support](https://dev.to/nandan_das_369/building-orinide-a-browser-based-ide-for-android-with-ai-support-2hjj)
-- [Building a Fully Offline AI Coding Assistant with Gemma 4 — No Cloud Required 🤖](https://dev.to/mamoor_ahmad/building-a-fully-offline-ai-coding-assistant-with-gemma-4-no-cloud-required-37op)
-- [Las 6 Mejores Alternativas a Airtable en 2026 &lpar;bases de datos visuales&rpar;](https://dev.to/genzetadigital/las-6-mejores-alternativas-a-airtable-en-2026-bases-de-datos-visuales-122l)
+- [The Best LLMs for Agentic Coding in 2026 &lpar;Real-World, Not Just Benchmarks&rpar;](https://dev.to/danishashko/the-best-llms-for-agentic-coding-in-2026-real-world-not-just-benchmarks-96n)
+- [Building AI Systems for Healthcare: My Journey into Applied Machine Learning and Software Engineering](https://dev.to/enochlabs/building-ai-systems-for-healthcare-my-journey-into-applied-machine-learning-and-software-2151)
+- [MERN Stack Development – Day 1 🚀](https://dev.to/monikaranjithkumar/mern-stack-development-day-1-4j8)
+- [Stop Putting AWS Access Keys in GitHub Secrets. Use OIDC Instead.](https://dev.to/neil_4e5a9c0f3c99/stop-putting-aws-access-keys-in-github-secrets-use-oidc-instead-5c13)
+- [OverTheWire: Bandit Level 3](https://dev.to/amandaigwe/overthewire-bandit-level-3-4ej4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
