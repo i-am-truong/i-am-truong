@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building OSSI — An AI-Powered Open Source Intelligence System with Kestra](https://dev.to/mohit5upadhyay/building-ossi-an-ai-powered-open-source-intelligence-system-with-kestra-1i47)
-- [I&#39;m Only Building Dead Simple Apps From Now On](https://dev.to/vientapps/im-only-building-dead-simple-apps-from-now-on-42b)
-- [Just released a new version of AutoFilterWpfDataGrid](https://dev.to/markoee_mnc/just-released-a-new-version-of-autofilterwpfdatagrid-2ipb)
-- [How to for YouTube Blogging: Lessons Learned](https://dev.to/johalputt/how-to-for-youtube-blogging-lessons-learned-113b)
-- [Eval Set Sizing: The Statistical Power Math Behind LLM A/B Tests](https://dev.to/gabrielanhaia/eval-set-sizing-the-statistical-power-math-behind-llm-ab-tests-4gpc)
+- [EU AI Act Compliance Checklist for AI Agents &lpar;87 Days Until Enforcement&rpar;](https://dev.to/verisigilai/eu-ai-act-compliance-checklist-for-ai-agents-87-days-until-enforcement-3m1a)
+- [TypeScript strict Mode Is 8 Flags. Turn strictNullChecks On Last.](https://dev.to/gabrielanhaia/typescript-strict-mode-is-8-flags-turn-strictnullchecks-on-last-52mj)
+- [Stop Guessing &#39;chmod&#39; I Built a Free Visual Permissions Builder for Linux](https://dev.to/bashsnippets/stop-guessing-chmod-i-built-a-free-visual-permissions-builder-for-linux-2m1a)
+- [Gemma-4-26B on v6e-4 TPU Benchmarks](https://dev.to/xbill/gemma-4-26b-on-v6e-4-tpu-benchmarks-3cah)
+- [Proofly — Honest Review: Zero-Friction Video Testimonials for Builders](https://dev.to/txlabs/proofly-honest-review-zero-friction-video-testimonials-for-builders-5ej8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
