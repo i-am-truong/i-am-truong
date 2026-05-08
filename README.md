@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building An Mcp Native Prompt Tool Architecture](https://dev.to/dwelvin_morgan_38be4ff3ba/building-an-mcp-native-prompt-tool-architecture-1pnf)
-- [Why Higher-Order Engineering Skills May Matter Even More in the Age of AI](https://dev.to/ms_74/why-higher-order-engineering-skills-may-matter-even-more-in-the-age-of-ai-o85)
-- [I Built a Local-First VSCode Code Mentor with Gemma 4 — Your Code Never Leaves Your Machine](https://dev.to/theelmix/i-built-a-local-first-vscode-code-mentor-with-gemma-4-your-code-never-leaves-your-machine-143c)
-- [Zero-Config DNS and Monitoring for Your Traefik Homelab](https://dev.to/wolf361/zero-config-dns-and-monitoring-for-your-traefik-homelab-2ph2)
-- [Is ChatGPT / OpenAi down?](https://dev.to/safdarali25/is-ai-down-today-full-status-report-for-chatgpt-claude-gemini-more-1i4g)
+- [Hot Take: Developer Conferences Are Useless — Use YouTube 2026 and Blogs Instead of Paid Courses](https://dev.to/johalputt/hot-take-developer-conferences-are-useless-use-youtube-2026-and-blogs-instead-of-paid-courses-4g30)
+- [AI Content Filter: The Practitioner&#39;s Playbook for Killing Low-Quality LLM Slop at Scale](https://dev.to/ariauser13/ai-content-filter-the-practitioners-playbook-for-killing-low-quality-llm-slop-at-scale-3172)
+- [How I’m Using Agent Harnesses, TDD, and the Seam Model to Improve Development in Legacy Systems](https://dev.to/rafaeltedesco/how-im-using-agent-harnesses-tdd-and-the-seam-model-to-improve-development-in-legacy-systems-1a7)
+- [Why Enterprise Transformation Fails Without System Standardization](https://dev.to/denizceylan_kurt/why-enterprise-transformation-fails-without-system-standardization-3mop)
+- [Why Most Side Projects Die Before Launch](https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
