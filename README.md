@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [T3 vs T2 EC2: Save Costs and Avoid CPU Throttling in AWS](https://dev.to/sanjay_yadav_df9aa9af10ef/t3-vs-t2-ec2-save-costs-and-avoid-cpu-throttling-in-aws-3m2o)
-- [PostgreSQL 17 with DuckDB 1.2: how we cut cloud spend 40% #6949](https://dev.to/johalputt/postgresql-17-with-duckdb-12-how-we-cut-cloud-spend-40-6949-3e53)
-- [PCIe Device Passthrough: NIC Name Instability and MAC Pinning](https://dev.to/futhgar/pcie-device-passthrough-nic-name-instability-and-mac-pinning-4di7)
-- [Real Startup Engineering Lessons From 4+ Years of Experience](https://dev.to/programmerraja/real-startup-engineering-lessons-from-4-years-of-experience-5fh7)
-- [🚀 Angular 6 20 Migration in Days, Not Weeks](https://dev.to/ankita_sharma_afadaa2e449/angular-6-20-migration-in-days-not-weeks-2p3p)
+- [Supabase Scheduled Functions Monitoring: How to Catch Missed Runs Before They Break Production](https://dev.to/quietpulse-social/supabase-scheduled-functions-monitoring-how-to-catch-missed-runs-before-they-break-production-373b)
+- [The Onboarding-to-Delivery Handoff That Prevents Losing Clients in Month 2](https://dev.to/lisasakura/the-onboarding-to-delivery-handoff-that-prevents-losing-clients-in-month-2-3c3m)
+- [ESP32-E22 Lands with Wi-Fi 6E: The First Tri-Band ESP32 Module for Makers](https://dev.to/bittobuild/esp32-e22-lands-with-wi-fi-6e-the-first-tri-band-esp32-module-for-makers-i9a)
+- [pgAssistant 2.8 — Deterministic PostgreSQL Analysis with the new Global Advisor](https://dev.to/bertrand_hartwig_309d1958/pgassistant-28-deterministic-postgresql-analysis-with-the-new-global-advisor-ig4)
+- [We Audited 12 Startups&#39; AWS Bills — Average Waste: 43%](https://dev.to/yash_pritwani_07a77613fd6/we-audited-12-startups-aws-bills-average-waste-43-100c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
