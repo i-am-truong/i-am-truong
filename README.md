@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I never expected this response ~robot-toast](https://dev.to/pratham_kumar_8cc837c51ed/i-never-expected-this-response-robot-toast-3gh7)
-- [Pairing PHY chips with Gigabit network transformers is less “universal” than I expected](https://dev.to/voohu_electronictech_e9a/pairing-phy-chips-with-gigabit-network-transformers-is-less-universal-than-i-expected-g8b)
-- [Stop using UUID v4 as your database primary key](https://dev.to/mike_knights_2bd665cff58c/uuid-v7-is-here-why-you-should-stop-using-v4-for-database-primary-keys-l0a)
-- [The AI-First API Gateway: Why Your 2026 Strategy Needs More Than Just &quot;Management](https://dev.to/oshadha_pathiraja/the-ai-first-api-gateway-why-your-2026-strategy-needs-more-than-just-management-1pok)
-- [AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems](https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4)
+- [ServiceNow MCP: Automate ITSM workflows without leaving your AI agent](https://dev.to/curatedmcp/servicenow-mcp-automate-itsm-workflows-without-leaving-your-ai-agent-cmd)
+- [Beyond Competitors: How to Use ChangeCrab Sonar to Monitor Your Dependencies](https://dev.to/changecrab/beyond-competitors-how-to-use-changecrab-sonar-to-monitor-your-dependencies-3h5d)
+- [Agent-CLI: What is it, and how to use it from Prompt to Production](https://dev.to/patitonav/agent-cli-what-is-it-and-how-to-use-it-from-prompt-to-production-3k74)
+- [Build an MCP Server for Agentic Web Scraping and Real-Time LLM Grounding](https://dev.to/alterlab/build-an-mcp-server-for-agentic-web-scraping-and-real-time-llm-grounding-2230)
+- [Implementing Claude API Tool Use in Next.js: Full Code, 27 Minutes](https://dev.to/mintototo1/implementing-claude-api-tool-use-in-nextjs-full-code-27-minutes-bik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
