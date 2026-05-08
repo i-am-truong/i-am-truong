@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The wacky 2026 world of bot traffic](https://dev.to/street-air-5461/the-wacky-2026-world-of-bot-traffic-3fe9)
-- [The Complete Claude Code Harness Engineering Guide &lpar;5 Layers, 8 Deep-Dives&rpar;](https://dev.to/shipwithaiio/the-complete-claude-code-harness-engineering-guide-5-layers-8-deep-dives-3d4j)
-- [Kotlin 2.0 vs Python 3.13: The Definitive Guide to benchmark in Production](https://dev.to/johalputt/kotlin-20-vs-python-313-the-definitive-guide-to-benchmark-in-production-46gj)
-- [Construindo Sistemas Multiagentes Resilientes](https://dev.to/denisarruda/construindo-sistemas-multiagentes-resilientes-26h9)
-- [Forensic Engineering: Decoding the 37-Gear Architecture of a 2,000-Year-Old Computer](https://dev.to/historical-insights/forensic-engineering-decoding-the-37-gear-architecture-of-a-2000-year-old-computer-pbm)
+- [T3 vs T2 EC2: Save Costs and Avoid CPU Throttling in AWS](https://dev.to/sanjay_yadav_df9aa9af10ef/t3-vs-t2-ec2-save-costs-and-avoid-cpu-throttling-in-aws-3m2o)
+- [PostgreSQL 17 with DuckDB 1.2: how we cut cloud spend 40% #6949](https://dev.to/johalputt/postgresql-17-with-duckdb-12-how-we-cut-cloud-spend-40-6949-3e53)
+- [PCIe Device Passthrough: NIC Name Instability and MAC Pinning](https://dev.to/futhgar/pcie-device-passthrough-nic-name-instability-and-mac-pinning-4di7)
+- [Real Startup Engineering Lessons From 4+ Years of Experience](https://dev.to/programmerraja/real-startup-engineering-lessons-from-4-years-of-experience-5fh7)
+- [🚀 Angular 6 20 Migration in Days, Not Weeks](https://dev.to/ankita_sharma_afadaa2e449/angular-6-20-migration-in-days-not-weeks-2p3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
