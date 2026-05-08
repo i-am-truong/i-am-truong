@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Phishing vs Passkeys: A Head-to-Head](https://dev.to/johalputt/lessons-phishing-vs-passkeys-a-head-to-head-3k28)
-- [Why Your LLM Agent Forgot What It Did 5 Steps Ago](https://dev.to/dopove/why-your-llm-agent-forgot-what-it-did-5-steps-ago-3ojd)
-- [I had never asked Google what chmod meant before this week](https://dev.to/chiefmojo79/i-had-never-asked-google-what-chmod-meant-before-this-week-5dil)
-- [Computer Use Is 45x More Expensive Than APIs. Here&#39;s When To Use Each.](https://dev.to/pat9000/computer-use-is-45x-more-expensive-than-apis-heres-when-to-use-each-lpe)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1aha)
+- [AWS Just Took Half the Internet Down Because a Building Got Too Hot](https://dev.to/arthurpro/aws-just-took-half-the-internet-down-because-a-building-got-too-hot-17je)
+- [Shopify New Customer Accounts 2026 — What Changed, What Broke, and What to Do](https://dev.to/ogresto/shopify-new-customer-accounts-2026-what-changed-what-broke-and-what-to-do-38h8)
+- [Build an Instagram Competitor Report Generator with Python](https://dev.to/prodkit/build-an-instagram-competitor-report-generator-with-python-28hf)
+- [Prisma relationships, finally explained &lpar;with MySQL side by side&rpar;](https://dev.to/edriso/prisma-relationships-finally-explained-with-mysql-side-by-side-2ap)
+- [Gemma 4 Challenge: Gemma Sonar Scout](https://dev.to/changecrab/gemma-4-challenge-gemma-sonar-scout-1ph1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
