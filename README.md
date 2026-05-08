@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Scheduled Functions Monitoring: How to Catch Missed Runs Before They Break Production](https://dev.to/quietpulse-social/supabase-scheduled-functions-monitoring-how-to-catch-missed-runs-before-they-break-production-373b)
-- [The Onboarding-to-Delivery Handoff That Prevents Losing Clients in Month 2](https://dev.to/lisasakura/the-onboarding-to-delivery-handoff-that-prevents-losing-clients-in-month-2-3c3m)
-- [ESP32-E22 Lands with Wi-Fi 6E: The First Tri-Band ESP32 Module for Makers](https://dev.to/bittobuild/esp32-e22-lands-with-wi-fi-6e-the-first-tri-band-esp32-module-for-makers-i9a)
-- [pgAssistant 2.8 — Deterministic PostgreSQL Analysis with the new Global Advisor](https://dev.to/bertrand_hartwig_309d1958/pgassistant-28-deterministic-postgresql-analysis-with-the-new-global-advisor-ig4)
-- [We Audited 12 Startups&#39; AWS Bills — Average Waste: 43%](https://dev.to/yash_pritwani_07a77613fd6/we-audited-12-startups-aws-bills-average-waste-43-100c)
+- [Stop writing TypeScript interfaces by hand - generate them from JSON, CSV, and OpenAPI in one command](https://dev.to/nathmaxx/stop-writing-typescript-interfaces-by-hand-generate-them-from-json-csv-and-openapi-in-one-561h)
+- [How Gemma 4 Changed the Economics of Local AI](https://dev.to/adityac/how-gemma-4-changed-the-economics-of-local-ai-i80)
+- [I Built My Mom an AI Recipe Helper for Mother&#39;s Day](https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5)
+- [Using Appium Inspector: Full Guide + Why Drizz Doesn&#39;t Need It](https://dev.to/drizzdev/using-appium-inspector-full-guide-why-drizz-doesnt-need-it-41f0)
+- [Back to the Basics - Website Hosting on VPS](https://dev.to/marian_s/back-to-the-basics-website-hosting-on-vps-10h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
