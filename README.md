@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Firebase for Startups: When to Switch to Enterprise Solutions](https://dev.to/horizondev/firebase-for-startups-when-to-switch-to-enterprise-solutions-30kn)
-- [My Engineering Portfolio is Live](https://dev.to/serial-commit-dev/my-engineering-portfolio-is-live-5d51)
-- [Clean Architecture in Flutter 2026 - Practical Implementation Guide](https://dev.to/techwithsam/clean-architecture-in-flutter-2026-practical-implementation-guide-1dfb)
-- [How I Built an Autonomous SRE &lpar;and made it into the OpenAI Cookbook!&rpar;](https://dev.to/aws-builders/how-i-built-an-autonomous-sre-and-made-it-into-the-openai-cookbook-1pn2)
-- [What KubeCon Amsterdam 2026 Taught Me About Infrastructure as Transformation](https://dev.to/soumia_g_9dc322fc4404cecd/what-kubecon-amsterdam-2026-taught-me-about-infrastructure-as-transformation-3o1o)
+- [Lessons Phishing vs Passkeys: A Head-to-Head](https://dev.to/johalputt/lessons-phishing-vs-passkeys-a-head-to-head-3k28)
+- [Why Your LLM Agent Forgot What It Did 5 Steps Ago](https://dev.to/dopove/why-your-llm-agent-forgot-what-it-did-5-steps-ago-3ojd)
+- [I had never asked Google what chmod meant before this week](https://dev.to/chiefmojo79/i-had-never-asked-google-what-chmod-meant-before-this-week-5dil)
+- [Computer Use Is 45x More Expensive Than APIs. Here&#39;s When To Use Each.](https://dev.to/pat9000/computer-use-is-45x-more-expensive-than-apis-heres-when-to-use-each-lpe)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1aha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
