@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
-- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
-- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
-- [# The Hidden Scalability Problems of x402 and Machine Payments](https://dev.to/ritesh1ds20ee056_83a50af/-the-hidden-scalability-problems-of-x402-and-machine-payments-1j9g)
-- [Full Stack Authentication in 2026 with Better Auth, Drizzle, Neon, Shadcn UI, and Next.js](https://dev.to/iampandit/full-stack-authentication-in-2026-with-better-auth-drizzle-neon-shadcn-ui-and-nextjs-32nb)
+- [Building An Mcp Native Prompt Tool Architecture](https://dev.to/dwelvin_morgan_38be4ff3ba/building-an-mcp-native-prompt-tool-architecture-1pnf)
+- [Why Higher-Order Engineering Skills May Matter Even More in the Age of AI](https://dev.to/ms_74/why-higher-order-engineering-skills-may-matter-even-more-in-the-age-of-ai-o85)
+- [I Built a Local-First VSCode Code Mentor with Gemma 4 — Your Code Never Leaves Your Machine](https://dev.to/theelmix/i-built-a-local-first-vscode-code-mentor-with-gemma-4-your-code-never-leaves-your-machine-143c)
+- [Zero-Config DNS and Monitoring for Your Traefik Homelab](https://dev.to/wolf361/zero-config-dns-and-monitoring-for-your-traefik-homelab-2ph2)
+- [Is ChatGPT / OpenAi down?](https://dev.to/safdarali25/is-ai-down-today-full-status-report-for-chatgpt-claude-gemini-more-1i4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
