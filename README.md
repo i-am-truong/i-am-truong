@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Job Search AI: Engineering Ethics Into Multi-Agent Systems](https://dev.to/elenarevicheva/autonomous-job-search-ai-engineering-ethics-into-multi-agent-systems-2f1p)
-- [Deploy a Real MCP Server in Two Minutes — Naftiko Shipyard on Cloudflare Containers](https://dev.to/kinlane/deploy-a-real-mcp-server-in-two-minutes-naftiko-shipyard-on-cloudflare-containers-32mo)
-- [Error Handling in Go: Stop Panicking, Start Wrapping](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d)
-- [We built an MCP server for employment contracts — remote HTTP, QES/eIDAS, 12 tools](https://dev.to/iparker96/we-built-an-mcp-server-for-employment-contracts-remote-http-qeseidas-12-tools-4gh3)
-- [SunnyDayBPF: Post-Syscall User-Buffer Telemetry Deception with eBPF](https://dev.to/azqzazq1/sunnydaybpf-post-syscall-user-buffer-telemetry-deception-with-ebpf-3p7d)
+- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
+- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
+- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
+- [# The Hidden Scalability Problems of x402 and Machine Payments](https://dev.to/ritesh1ds20ee056_83a50af/-the-hidden-scalability-problems-of-x402-and-machine-payments-1j9g)
+- [Full Stack Authentication in 2026 with Better Auth, Drizzle, Neon, Shadcn UI, and Next.js](https://dev.to/iampandit/full-stack-authentication-in-2026-with-better-auth-drizzle-neon-shadcn-ui-and-nextjs-32nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
