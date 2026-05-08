@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop writing TypeScript interfaces by hand - generate them from JSON, CSV, and OpenAPI in one command](https://dev.to/nathmaxx/stop-writing-typescript-interfaces-by-hand-generate-them-from-json-csv-and-openapi-in-one-561h)
-- [How Gemma 4 Changed the Economics of Local AI](https://dev.to/adityac/how-gemma-4-changed-the-economics-of-local-ai-i80)
-- [I Built My Mom an AI Recipe Helper for Mother&#39;s Day](https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5)
-- [Using Appium Inspector: Full Guide + Why Drizz Doesn&#39;t Need It](https://dev.to/drizzdev/using-appium-inspector-full-guide-why-drizz-doesnt-need-it-41f0)
-- [Back to the Basics - Website Hosting on VPS](https://dev.to/marian_s/back-to-the-basics-website-hosting-on-vps-10h5)
+- [I never expected this response ~robot-toast](https://dev.to/pratham_kumar_8cc837c51ed/i-never-expected-this-response-robot-toast-3gh7)
+- [Pairing PHY chips with Gigabit network transformers is less “universal” than I expected](https://dev.to/voohu_electronictech_e9a/pairing-phy-chips-with-gigabit-network-transformers-is-less-universal-than-i-expected-g8b)
+- [Stop using UUID v4 as your database primary key](https://dev.to/mike_knights_2bd665cff58c/uuid-v7-is-here-why-you-should-stop-using-v4-for-database-primary-keys-l0a)
+- [The AI-First API Gateway: Why Your 2026 Strategy Needs More Than Just &quot;Management](https://dev.to/oshadha_pathiraja/the-ai-first-api-gateway-why-your-2026-strategy-needs-more-than-just-management-1pok)
+- [AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems](https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
