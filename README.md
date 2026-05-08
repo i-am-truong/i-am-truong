@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Trends 2026: A Mid-Year Reading From the Engine Room](https://dev.to/studiomeyer_io/ai-trends-2026-a-mid-year-reading-from-the-engine-room-4ma4)
-- [The Subsidy Era Is Over: A Reality Check on AI-Powered Dev Tool Pricing](https://dev.to/shrsv/the-subsidy-era-is-over-a-reality-check-on-ai-powered-dev-tool-pricing-51dn)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-237h)
-- [How I built a Discord &#39;ship-tracker&#39; bot in a weekend &lpar;and the 3-process architecture that keeps it alive 24/7&rpar;](https://dev.to/chalom_ellezam_5989bce65e/how-i-built-a-discord-ship-tracker-bot-in-a-weekend-and-the-3-process-architecture-that-keeps-it-a71)
-- [[Lime #1] OAuth Login](https://dev.to/min38/lime-1-oauth-login-33ae)
+- [Autonomous Job Search AI: Engineering Ethics Into Multi-Agent Systems](https://dev.to/elenarevicheva/autonomous-job-search-ai-engineering-ethics-into-multi-agent-systems-2f1p)
+- [Deploy a Real MCP Server in Two Minutes — Naftiko Shipyard on Cloudflare Containers](https://dev.to/kinlane/deploy-a-real-mcp-server-in-two-minutes-naftiko-shipyard-on-cloudflare-containers-32mo)
+- [Error Handling in Go: Stop Panicking, Start Wrapping](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d)
+- [We built an MCP server for employment contracts — remote HTTP, QES/eIDAS, 12 tools](https://dev.to/iparker96/we-built-an-mcp-server-for-employment-contracts-remote-http-qeseidas-12-tools-4gh3)
+- [SunnyDayBPF: Post-Syscall User-Buffer Telemetry Deception with eBPF](https://dev.to/azqzazq1/sunnydaybpf-post-syscall-user-buffer-telemetry-deception-with-ebpf-3p7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
