@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hot Take: Developer Conferences Are Useless — Use YouTube 2026 and Blogs Instead of Paid Courses](https://dev.to/johalputt/hot-take-developer-conferences-are-useless-use-youtube-2026-and-blogs-instead-of-paid-courses-4g30)
-- [AI Content Filter: The Practitioner&#39;s Playbook for Killing Low-Quality LLM Slop at Scale](https://dev.to/ariauser13/ai-content-filter-the-practitioners-playbook-for-killing-low-quality-llm-slop-at-scale-3172)
-- [How I’m Using Agent Harnesses, TDD, and the Seam Model to Improve Development in Legacy Systems](https://dev.to/rafaeltedesco/how-im-using-agent-harnesses-tdd-and-the-seam-model-to-improve-development-in-legacy-systems-1a7)
-- [Why Enterprise Transformation Fails Without System Standardization](https://dev.to/denizceylan_kurt/why-enterprise-transformation-fails-without-system-standardization-3mop)
-- [Why Most Side Projects Die Before Launch](https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l)
+- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
+- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
+- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
+- [Modernizing Legacy Systems Using Agent Harnesses TDD and the Seam Model](https://dev.to/rafaeltedesco/modernizing-legacy-systems-using-agent-harnesses-tdd-and-the-seam-model-1f96)
+- [What I learned about App Store screenshots after shipping 3 apps](https://dev.to/youssef_ziat_198fd66bd2af/what-i-learned-about-app-store-screenshots-after-shipping-3-apps-57ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
