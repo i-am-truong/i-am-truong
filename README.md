@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Just Took Half the Internet Down Because a Building Got Too Hot](https://dev.to/arthurpro/aws-just-took-half-the-internet-down-because-a-building-got-too-hot-17je)
-- [Shopify New Customer Accounts 2026 — What Changed, What Broke, and What to Do](https://dev.to/ogresto/shopify-new-customer-accounts-2026-what-changed-what-broke-and-what-to-do-38h8)
-- [Build an Instagram Competitor Report Generator with Python](https://dev.to/prodkit/build-an-instagram-competitor-report-generator-with-python-28hf)
-- [Prisma relationships, finally explained &lpar;with MySQL side by side&rpar;](https://dev.to/edriso/prisma-relationships-finally-explained-with-mysql-side-by-side-2ap)
-- [Gemma 4 Challenge: Gemma Sonar Scout](https://dev.to/changecrab/gemma-4-challenge-gemma-sonar-scout-1ph1)
+- [I just shipped my 50th free browser tool — here&#39;s what building alone at midnight looks like](https://dev.to/dngzihng114379/i-just-shipped-my-50th-free-browser-tool-heres-what-building-alone-at-midnight-looks-like-175m)
+- [Learning AI Out Loud — Full Series Index](https://dev.to/aws/learning-ai-out-loud-full-series-index-kf9)
+- [requestAnimationFrame: The Missing Scheduling Layer](https://dev.to/marshateo/requestanimationframe-the-missing-scheduling-layer-1el0)
+- [Database Which No-Code: A Data-Backed Analysis](https://dev.to/johalputt/database-which-no-code-a-data-backed-analysis-1b34)
+- [Advanced Serverless Architecture Patterns Tutorial: Building Scalable, Modern Applications](https://dev.to/eriklundstrom/advanced-serverless-architecture-patterns-tutorial-building-scalable-modern-applications-f22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
