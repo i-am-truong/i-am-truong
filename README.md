@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow MCP: Automate ITSM workflows without leaving your AI agent](https://dev.to/curatedmcp/servicenow-mcp-automate-itsm-workflows-without-leaving-your-ai-agent-cmd)
-- [Beyond Competitors: How to Use ChangeCrab Sonar to Monitor Your Dependencies](https://dev.to/changecrab/beyond-competitors-how-to-use-changecrab-sonar-to-monitor-your-dependencies-3h5d)
-- [Agent-CLI: What is it, and how to use it from Prompt to Production](https://dev.to/patitonav/agent-cli-what-is-it-and-how-to-use-it-from-prompt-to-production-3k74)
-- [Build an MCP Server for Agentic Web Scraping and Real-Time LLM Grounding](https://dev.to/alterlab/build-an-mcp-server-for-agentic-web-scraping-and-real-time-llm-grounding-2230)
-- [Implementing Claude API Tool Use in Next.js: Full Code, 27 Minutes](https://dev.to/mintototo1/implementing-claude-api-tool-use-in-nextjs-full-code-27-minutes-bik)
+- [Firebase for Startups: When to Switch to Enterprise Solutions](https://dev.to/horizondev/firebase-for-startups-when-to-switch-to-enterprise-solutions-30kn)
+- [My Engineering Portfolio is Live](https://dev.to/serial-commit-dev/my-engineering-portfolio-is-live-5d51)
+- [Clean Architecture in Flutter 2026 - Practical Implementation Guide](https://dev.to/techwithsam/clean-architecture-in-flutter-2026-practical-implementation-guide-1dfb)
+- [How I Built an Autonomous SRE &lpar;and made it into the OpenAI Cookbook!&rpar;](https://dev.to/aws-builders/how-i-built-an-autonomous-sre-and-made-it-into-the-openai-cookbook-1pn2)
+- [What KubeCon Amsterdam 2026 Taught Me About Infrastructure as Transformation](https://dev.to/soumia_g_9dc322fc4404cecd/what-kubecon-amsterdam-2026-taught-me-about-infrastructure-as-transformation-3o1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
