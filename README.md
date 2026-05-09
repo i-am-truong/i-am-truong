@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Emoji Generator with Next.js 15 &amp; Cloudflare Workers AI](https://dev.to/lucas_zhuang/how-i-built-an-ai-emoji-generator-with-nextjs-15-cloudflare-workers-ai-4hn2)
-- [Worth of coding, in my mind](https://dev.to/kination/worth-of-coding-in-my-mind-3n76)
-- [54 ADR en 35 jours : pourquoi j&#39;écris la décision avant la première ligne de code](https://dev.to/michelfaure/54-adr-en-35-jours-pourquoi-jecris-la-decision-avant-la-premiere-ligne-de-code-17cl)
-- [54 ADRs in 35 days: why I write the decision before the first line of code](https://dev.to/michelfaure/54-adrs-in-35-days-why-i-write-the-decision-before-the-first-line-of-code-11e)
-- [Claude vs GPT: Which AI Model Fits Your Production Workflow &lpar;And Why It Actually Matters&rpar;](https://dev.to/chiefwebofficer/claude-vs-gpt-which-ai-model-fits-your-production-workflow-and-why-it-actually-matters-526)
+- [One API Call to Audit Any Domain&#39;s Email Security](https://dev.to/lgogolin/one-api-call-to-audit-any-domains-email-security-2b6k)
+- [Add a 3-Sat Pay-to-Skip Tier to Your Self-Hosted CAPTCHA](https://dev.to/zekebuilds/add-a-3-sat-pay-to-skip-tier-to-your-self-hosted-captcha-53bp)
+- [Pathfinding Algorithms [2D simulation : A*, Dijkstra, GBFS]](https://dev.to/memrys/pathfinding-algorithms-2d-simulation-a-dijkstra-gbfs-2c5d)
+- [The Rise of the Swarm: Mastering AI Agent Architectures 🐝](https://dev.to/syed_mehrab_08fb0419feedf/the-rise-of-the-swarm-mastering-ai-agent-architectures-2fc5)
+- [I Built 10 AI Applications in 5 Days as a Beginner — Here&#39;s What Actually Happened](https://dev.to/mohan-01/i-built-10-ai-applications-in-5-days-as-a-beginner-heres-what-actually-happened-19ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
