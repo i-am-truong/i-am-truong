@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Attractor Engineering: Seeing Software Development as Field Dynamics](https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5)
-- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
-- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
-- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
-- [How to Prepare a Legacy Codebase for AI-Assisted Refactoring](https://dev.to/137foundry/how-to-prepare-a-legacy-codebase-for-ai-assisted-refactoring-18k5)
+- [What is Node.js? JavaScript on the Server Explained](https://dev.to/satyasootar/what-is-nodejs-javascript-on-the-server-explained-3i1c)
+- [Quark&#39;s Outlines: Python Slice Objects](https://dev.to/mike-vincent/quarks-outlines-python-slice-objects-2dea)
+- [Setting Up Your First Node.js Application Step-by-Step](https://dev.to/satyasootar/setting-up-your-first-nodejs-application-step-by-step-fef)
+- [DNSSEC: The Developer&#39;s Setup Guide &lpar;2026&rpar;](https://dev.to/rronyecz/dnssec-the-developers-setup-guide-2026-4hlj)
+- [Designing public vs. private state: what goes where and why](https://dev.to/tosin_akinbowa_0f25bbbd6f/-designing-public-vs-private-state-what-goes-where-and-why-bmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
