@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel’de Backed Enum Nedir? Pure Enum ile Farkı Ne?](https://dev.to/baris/laravelde-backed-enum-nedir-pure-enum-ile-farki-ne-170n)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-28i3)
-- [Free Google Places API Alternative: 37 Business Categories, No API Key](https://dev.to/marketoracle/free-google-places-api-alternative-37-business-categories-no-api-key-2m9e)
-- [Apache NiFi a quick guide](https://dev.to/manojjagtap/apache-nifi-a-quick-guide-24p)
-- [Fast, Efficient, and Confidently Delivered — But Wrong](https://dev.to/dreiclabs/fast-efficient-and-confidently-delivered-but-wrong-1n58)
+- [Build an MCP Server in Node.js &amp; TypeScript: A Practical HazelJS Tutorial](https://dev.to/arslan_mecom/build-an-mcp-server-in-nodejs-typescript-a-practical-hazeljs-tutorial-3n75)
+- [Building a Food Blog Platform with Django — Daily Dev Log](https://dev.to/cyberb0x/building-a-food-blog-platform-with-django-daily-dev-log-3n3)
+- [Automated SQL Migration Review with Real CLI Output &lpar;MySQL, PostgreSQL, TiDB&rpar;](https://dev.to/fanduzi/automated-sql-migration-review-with-real-cli-output-mysql-postgresql-tidb-17b5)
+- [I let my OpenAPI spec do the work: one contract for Go, Flutter, and the LLM](https://dev.to/tkode_dev/i-let-my-openapi-spec-do-the-work-one-contract-for-go-flutter-and-the-llm-c20)
+- [I Built a Permissionless On-Chain Agent Training Arena on Solana in 3 Weeks](https://dev.to/lymah/i-built-a-permissionless-on-chain-agent-training-arena-on-solana-in-3-weeks-2on2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
