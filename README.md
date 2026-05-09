@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [@supports Lies: When CSS Says &#39;Yes&#39; but Browsers Say &#39;LOL No&#39;](https://dev.to/alvaromontoro/supports-lies-when-css-says-yes-but-browsers-say-lol-no-2bjh)
-- [FileFy](https://dev.to/mr1mmdrza/filefy-136b)
-- [AtCoder Beginner Contest 457 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-457-can-jia-ji-lu-tojie-da-li-a-dwen-ti--2lji)
-- [The Offset Massacre — Why Cursor Pagination is Mandatory &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/the-offset-massacre-why-cursor-pagination-is-mandatory-2026-p4i)
-- [Descomplicando RPC e gRPC](https://dev.to/yuripeixinho/descomplicando-rpc-e-grpc-20p7)
+- [Laravel’de Backed Enum Nedir? Pure Enum ile Farkı Ne?](https://dev.to/baris/laravelde-backed-enum-nedir-pure-enum-ile-farki-ne-170n)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-28i3)
+- [Free Google Places API Alternative: 37 Business Categories, No API Key](https://dev.to/marketoracle/free-google-places-api-alternative-37-business-categories-no-api-key-2m9e)
+- [Apache NiFi a quick guide](https://dev.to/manojjagtap/apache-nifi-a-quick-guide-24p)
+- [Fast, Efficient, and Confidently Delivered — But Wrong](https://dev.to/dreiclabs/fast-efficient-and-confidently-delivered-but-wrong-1n58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
