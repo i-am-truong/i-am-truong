@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running Grafana on AWS ECS &lpar;Fargate&rpar;](https://dev.to/ikoh_sylva/running-grafana-on-aws-ecs-fargate-p9g)
-- [Your RAG can&#39;t answer &#39;why&#39; -- GraphRAG finds what vector search misses](https://dev.to/kenimo49/your-rag-cant-answer-why-graphrag-finds-what-vector-search-misses-16eg)
-- [How We Forecast Pollen at Planetary Scale](https://dev.to/devdavidkarlsson/how-we-forecast-pollen-at-planetary-scale-2m85)
-- [half of x402 volume is gamified — agents need proof-of-real-payment](https://dev.to/t49qnsx7qtkpanks/half-of-x402-volume-is-gamified-agents-need-proof-of-real-payment-6e2)
-- [LangChain issue requests EU AI Act audit logging — frameworks need this now](https://dev.to/t49qnsx7qtkpanks/langchain-issue-requests-eu-ai-act-audit-logging-frameworks-need-this-now-2cin)
+- [🛰 Mission Drishti 📡: How GalaxEye Built the World’s 🌏 First OptoSAR Imaging Satellite 🛰](https://dev.to/hemant_007/mission-drishti-how-galaxeye-built-the-worlds-first-optosar-imaging-satellite-4069)
+- [How I Built a Terraform Plan JSON Parser in Python](https://dev.to/sudarshan_thakur_1e141b99/how-i-built-a-terraform-plan-json-parser-in-python-gm)
+- [WebAssembly Is Making No-Login Browser Tools Better — Here&#39;s How](https://dev.to/nologintools/webassembly-is-making-no-login-browser-tools-better-heres-how-9mj)
+- [AI Soft Skills Every Developer Needs](https://dev.to/devk3/ai-soft-skills-every-developer-needs-3icl)
+- [Hedystia 2.3: Universal WebSocket, Native Node.js, PostgreSQL, and 20+ New Validations](https://dev.to/zastinian/hedystia-23-universal-websocket-native-nodejs-postgresql-and-20-new-validations-1akd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
