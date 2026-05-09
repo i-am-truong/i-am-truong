@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an MCP Server in Node.js &amp; TypeScript: A Practical HazelJS Tutorial](https://dev.to/arslan_mecom/build-an-mcp-server-in-nodejs-typescript-a-practical-hazeljs-tutorial-3n75)
-- [Building a Food Blog Platform with Django — Daily Dev Log](https://dev.to/cyberb0x/building-a-food-blog-platform-with-django-daily-dev-log-3n3)
-- [Automated SQL Migration Review with Real CLI Output &lpar;MySQL, PostgreSQL, TiDB&rpar;](https://dev.to/fanduzi/automated-sql-migration-review-with-real-cli-output-mysql-postgresql-tidb-17b5)
-- [I let my OpenAPI spec do the work: one contract for Go, Flutter, and the LLM](https://dev.to/tkode_dev/i-let-my-openapi-spec-do-the-work-one-contract-for-go-flutter-and-the-llm-c20)
-- [I Built a Permissionless On-Chain Agent Training Arena on Solana in 3 Weeks](https://dev.to/lymah/i-built-a-permissionless-on-chain-agent-training-arena-on-solana-in-3-weeks-2on2)
+- [I built a tool to generate academic PDFs from Markdown without installing LaTeX](https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80)
+- [Building Your First Runbook: A Template That Actually Works](https://dev.to/samson_tanimawo/building-your-first-runbook-a-template-that-actually-works-33ld)
+- [AI Video Pricing Is a Mess. Here&#39;s How to Actually Calculate It.](https://dev.to/bytecalculators/ai-video-pricing-is-a-mess-heres-how-to-actually-calculate-it-n62)
+- [De investigador postdoctoral a Data Scientist: dos proyectos reales, una transición](https://dev.to/pelu100/de-investigador-postdoctoral-a-data-scientist-dos-proyectos-reales-una-transicion-1gmo)
+- [Why I stopped using exceptions for control flow in my .NET 8 APIs](https://dev.to/fenixkit/why-i-stopped-using-exceptions-for-control-flow-in-my-net-8-apis-29j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
