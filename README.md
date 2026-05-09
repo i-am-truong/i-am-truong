@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I audited 25 of my open-source repos. Stars lied.](https://dev.to/studiomeyer_io/i-audited-25-of-my-open-source-repos-stars-lied-2ak4)
-- [I Was Tired of Slow Online File Compressors, So I Built My Own](https://dev.to/nevyn_vaz_26/i-built-a-fast-browser-based-image-compressor-because-most-online-tools-felt-terrible-572d)
-- [Reference Architectures Are Lying to You](https://dev.to/itzdaninja/reference-architectures-are-lying-to-you-579n)
-- [RSC Is Not the Input Boundary](https://dev.to/lazarv/rsc-is-not-the-input-boundary-2aao)
-- [Dissatisfaction Is a Spark](https://dev.to/lazarv/dissatisfaction-is-a-spark-2ejp)
+- [Running Grafana on AWS ECS &lpar;Fargate&rpar;](https://dev.to/ikoh_sylva/running-grafana-on-aws-ecs-fargate-p9g)
+- [Your RAG can&#39;t answer &#39;why&#39; -- GraphRAG finds what vector search misses](https://dev.to/kenimo49/your-rag-cant-answer-why-graphrag-finds-what-vector-search-misses-16eg)
+- [How We Forecast Pollen at Planetary Scale](https://dev.to/devdavidkarlsson/how-we-forecast-pollen-at-planetary-scale-2m85)
+- [half of x402 volume is gamified — agents need proof-of-real-payment](https://dev.to/t49qnsx7qtkpanks/half-of-x402-volume-is-gamified-agents-need-proof-of-real-payment-6e2)
+- [LangChain issue requests EU AI Act audit logging — frameworks need this now](https://dev.to/t49qnsx7qtkpanks/langchain-issue-requests-eu-ai-act-audit-logging-frameworks-need-this-now-2cin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
