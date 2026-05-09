@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛰 Mission Drishti 📡: How GalaxEye Built the World’s 🌏 First OptoSAR Imaging Satellite 🛰](https://dev.to/hemant_007/mission-drishti-how-galaxeye-built-the-worlds-first-optosar-imaging-satellite-4069)
-- [How I Built a Terraform Plan JSON Parser in Python](https://dev.to/sudarshan_thakur_1e141b99/how-i-built-a-terraform-plan-json-parser-in-python-gm)
-- [WebAssembly Is Making No-Login Browser Tools Better — Here&#39;s How](https://dev.to/nologintools/webassembly-is-making-no-login-browser-tools-better-heres-how-9mj)
-- [AI Soft Skills Every Developer Needs](https://dev.to/devk3/ai-soft-skills-every-developer-needs-3icl)
-- [Hedystia 2.3: Universal WebSocket, Native Node.js, PostgreSQL, and 20+ New Validations](https://dev.to/zastinian/hedystia-23-universal-websocket-native-nodejs-postgresql-and-20-new-validations-1akd)
+- [How HPC Clusters Accelerate AI/ML Training](https://dev.to/zubairakbar/how-hpc-clusters-accelerate-aiml-training-15a2)
+- [SQLite `generate_series` Precision Bug, PostgreSQL Pagination Tuning, &amp; Large Table Replication](https://dev.to/soytuber/sqlite-generateseries-precision-bug-postgresql-pagination-tuning-large-table-replication-153n)
+- [AI Needs RNA, Not Just Weights](https://dev.to/vishalmysore/ai-needs-rna-not-just-weights-1p47)
+- [Building My First AI Agent with Strands SDK and Amazon Bedrock Errors, Fixes &amp; Lessons Learned](https://dev.to/tidding/building-my-first-ai-agent-with-strands-sdk-and-amazon-bedrock-errors-fixes-lessons-learned-4753)
+- [What Pipelock Inspects, And What Tool Policy Inspects Instead](https://dev.to/luckypipewrench/what-pipelock-inspects-and-what-tool-policy-inspects-instead-4joe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
