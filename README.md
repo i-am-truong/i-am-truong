@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a tool to generate academic PDFs from Markdown without installing LaTeX](https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80)
-- [Building Your First Runbook: A Template That Actually Works](https://dev.to/samson_tanimawo/building-your-first-runbook-a-template-that-actually-works-33ld)
-- [AI Video Pricing Is a Mess. Here&#39;s How to Actually Calculate It.](https://dev.to/bytecalculators/ai-video-pricing-is-a-mess-heres-how-to-actually-calculate-it-n62)
-- [De investigador postdoctoral a Data Scientist: dos proyectos reales, una transición](https://dev.to/pelu100/de-investigador-postdoctoral-a-data-scientist-dos-proyectos-reales-una-transicion-1gmo)
-- [Why I stopped using exceptions for control flow in my .NET 8 APIs](https://dev.to/fenixkit/why-i-stopped-using-exceptions-for-control-flow-in-my-net-8-apis-29j2)
+- [I audited 25 of my open-source repos. Stars lied.](https://dev.to/studiomeyer_io/i-audited-25-of-my-open-source-repos-stars-lied-2ak4)
+- [I Was Tired of Slow Online File Compressors, So I Built My Own](https://dev.to/nevyn_vaz_26/i-built-a-fast-browser-based-image-compressor-because-most-online-tools-felt-terrible-572d)
+- [Reference Architectures Are Lying to You](https://dev.to/itzdaninja/reference-architectures-are-lying-to-you-579n)
+- [RSC Is Not the Input Boundary](https://dev.to/lazarv/rsc-is-not-the-input-boundary-2aao)
+- [Dissatisfaction Is a Spark](https://dev.to/lazarv/dissatisfaction-is-a-spark-2ejp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
