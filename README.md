@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Paper That Taught Neural Networks to Learn Backwards](https://dev.to/harshil_rami_8533a7388ef7/the-paper-that-taught-neural-networks-to-learn-backwards-4kmn)
-- [I audited 18 A2A agent cards. 17 graded F. Mine was the 18th.](https://dev.to/piiiico/i-audited-18-a2a-agent-cards-17-graded-f-mine-was-the-18th-540n)
-- [I shipped a video player to npm — twice. What I learned about scoped CSS, &quot;use client&quot;, and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl)
-- [How I Automated My Investing Workflow with EODHD and Claude Cowork](https://dev.to/kevin_menesesgonzlez/how-i-automated-my-investing-workflow-with-eodhd-and-claude-cowork-94i)
-- [Bridging the gap between Agentic AI theory and Hands-on Labs](https://dev.to/rohan_ghosh_be74b4d10e263/bridging-the-gap-between-agentic-ai-theory-and-hands-on-labs-mm3)
+- [Attractor Engineering: Seeing Software Development as Field Dynamics](https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5)
+- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
+- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
+- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
+- [How to Prepare a Legacy Codebase for AI-Assisted Refactoring](https://dev.to/137foundry/how-to-prepare-a-legacy-codebase-for-ai-assisted-refactoring-18k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
