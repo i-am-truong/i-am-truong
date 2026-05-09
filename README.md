@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Schema Markup JSON-LD for Local Businesses: A Practical Implementation Guide](https://dev.to/sabrielagency/schema-markup-json-ld-for-local-businesses-a-practical-implementation-guide-2n25)
-- [Building an AI-Powered ERP System with Gemma 26B MoE, .NET 8, Python &amp; React](https://dev.to/kheai/building-an-ai-powered-erp-system-with-gemma-26b-moe-net-8-python-react-3noh)
-- [Two SQL primitives for when alert clustering gets it wrong](https://dev.to/stella_lin_82914c71e25769/two-sql-primitives-for-when-alert-clustering-gets-it-wrong-10m5)
-- [Stop Debugging in the Dark: The &quot;Day Zero&quot; Observability Checklist](https://dev.to/dakshin_g/stop-debugging-in-the-dark-the-day-zero-observability-checklist-5g7e)
-- [Building a Systemic Autonomy Agent: OpenClaw + Gemma 4 &amp; TurboQuant on Raspberry Pi 4B](https://dev.to/kheai/building-a-systemic-autonomy-agent-openclaw-gemma-4-turboquant-on-raspberry-pi-4b-49jk)
+- [How I Built an AI Emoji Generator with Next.js 15 &amp; Cloudflare Workers AI](https://dev.to/lucas_zhuang/how-i-built-an-ai-emoji-generator-with-nextjs-15-cloudflare-workers-ai-4hn2)
+- [Worth of coding, in my mind](https://dev.to/kination/worth-of-coding-in-my-mind-3n76)
+- [54 ADR en 35 jours : pourquoi j&#39;écris la décision avant la première ligne de code](https://dev.to/michelfaure/54-adr-en-35-jours-pourquoi-jecris-la-decision-avant-la-premiere-ligne-de-code-17cl)
+- [54 ADRs in 35 days: why I write the decision before the first line of code](https://dev.to/michelfaure/54-adrs-in-35-days-why-i-write-the-decision-before-the-first-line-of-code-11e)
+- [Claude vs GPT: Which AI Model Fits Your Production Workflow &lpar;And Why It Actually Matters&rpar;](https://dev.to/chiefwebofficer/claude-vs-gpt-which-ai-model-fits-your-production-workflow-and-why-it-actually-matters-526)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
