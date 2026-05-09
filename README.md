@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 FlutterFlow’s New Feature: App Events &lpar;A Game Changer for Scalable Apps&rpar;](https://dev.to/codexlancers/flutterflows-new-feature-app-events-a-game-changer-for-scalable-apps-1hp9)
-- [Why I Chose to Learn Cloud Computing as a Full-Stack Developer](https://dev.to/anushka_shinde_99/why-i-chose-to-learn-cloud-computing-as-a-full-stack-developer-2g59)
-- [I Built an Issue-Based Claude Code Plugin &quot;cadenza&quot; for Technical Output Creation](https://dev.to/yokomachi/i-built-an-issue-based-claude-code-plugin-cadenza-for-technical-output-creation-37hc)
-- [NTROP7: a new way to manage files. Give it a try](https://dev.to/onceupontry/ntrop7-a-new-way-to-manage-files-give-it-a-try-597j)
-- [Your Cron Jobs Can&#39;t Think. These Can.](https://dev.to/rakesh_dhote_9c40b0164ee3/your-cron-jobs-cant-think-these-can-26hm)
+- [Schema Markup JSON-LD for Local Businesses: A Practical Implementation Guide](https://dev.to/sabrielagency/schema-markup-json-ld-for-local-businesses-a-practical-implementation-guide-2n25)
+- [Building an AI-Powered ERP System with Gemma 26B MoE, .NET 8, Python &amp; React](https://dev.to/kheai/building-an-ai-powered-erp-system-with-gemma-26b-moe-net-8-python-react-3noh)
+- [Two SQL primitives for when alert clustering gets it wrong](https://dev.to/stella_lin_82914c71e25769/two-sql-primitives-for-when-alert-clustering-gets-it-wrong-10m5)
+- [Stop Debugging in the Dark: The &quot;Day Zero&quot; Observability Checklist](https://dev.to/dakshin_g/stop-debugging-in-the-dark-the-day-zero-observability-checklist-5g7e)
+- [Building a Systemic Autonomy Agent: OpenClaw + Gemma 4 &amp; TurboQuant on Raspberry Pi 4B](https://dev.to/kheai/building-a-systemic-autonomy-agent-openclaw-gemma-4-turboquant-on-raspberry-pi-4b-49jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
