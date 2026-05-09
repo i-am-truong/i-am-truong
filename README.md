@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One API Call to Audit Any Domain&#39;s Email Security](https://dev.to/lgogolin/one-api-call-to-audit-any-domains-email-security-2b6k)
-- [Add a 3-Sat Pay-to-Skip Tier to Your Self-Hosted CAPTCHA](https://dev.to/zekebuilds/add-a-3-sat-pay-to-skip-tier-to-your-self-hosted-captcha-53bp)
-- [Pathfinding Algorithms [2D simulation : A*, Dijkstra, GBFS]](https://dev.to/memrys/pathfinding-algorithms-2d-simulation-a-dijkstra-gbfs-2c5d)
-- [The Rise of the Swarm: Mastering AI Agent Architectures 🐝](https://dev.to/syed_mehrab_08fb0419feedf/the-rise-of-the-swarm-mastering-ai-agent-architectures-2fc5)
-- [I Built 10 AI Applications in 5 Days as a Beginner — Here&#39;s What Actually Happened](https://dev.to/mohan-01/i-built-10-ai-applications-in-5-days-as-a-beginner-heres-what-actually-happened-19ke)
+- [The Paper That Taught Neural Networks to Learn Backwards](https://dev.to/harshil_rami_8533a7388ef7/the-paper-that-taught-neural-networks-to-learn-backwards-4kmn)
+- [I audited 18 A2A agent cards. 17 graded F. Mine was the 18th.](https://dev.to/piiiico/i-audited-18-a2a-agent-cards-17-graded-f-mine-was-the-18th-540n)
+- [I shipped a video player to npm — twice. What I learned about scoped CSS, &quot;use client&quot;, and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl)
+- [How I Automated My Investing Workflow with EODHD and Claude Cowork](https://dev.to/kevin_menesesgonzlez/how-i-automated-my-investing-workflow-with-eodhd-and-claude-cowork-94i)
+- [Bridging the gap between Agentic AI theory and Hands-on Labs](https://dev.to/rohan_ghosh_be74b4d10e263/bridging-the-gap-between-agentic-ai-theory-and-hands-on-labs-mm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
