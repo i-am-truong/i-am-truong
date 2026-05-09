@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Node.js? JavaScript on the Server Explained](https://dev.to/satyasootar/what-is-nodejs-javascript-on-the-server-explained-3i1c)
-- [Quark&#39;s Outlines: Python Slice Objects](https://dev.to/mike-vincent/quarks-outlines-python-slice-objects-2dea)
-- [Setting Up Your First Node.js Application Step-by-Step](https://dev.to/satyasootar/setting-up-your-first-nodejs-application-step-by-step-fef)
-- [DNSSEC: The Developer&#39;s Setup Guide &lpar;2026&rpar;](https://dev.to/rronyecz/dnssec-the-developers-setup-guide-2026-4hlj)
-- [Designing public vs. private state: what goes where and why](https://dev.to/tosin_akinbowa_0f25bbbd6f/-designing-public-vs-private-state-what-goes-where-and-why-bmk)
+- [Node.js or PHPহোস্টিং অ্যাকাউন্টের &quot;Number of Processes&quot; লিমিট ১০০% এ পৌঁছে গেলে করনিয় কি ?](https://dev.to/swapnil-ahmmed-shishir/nodejs-or-phphosttin-ayaakaauntter-number-of-processes-limitt-100-e-paunche-gele-krniyy-ki--1jjl)
+- [The Future of AI and Next.js](https://dev.to/pat9000/the-future-of-ai-and-nextjs-21jd)
+- [n8n vs Make vs Custom Scripts: When to Use What for AI Workflow Automation](https://dev.to/pat9000/n8n-vs-make-vs-custom-scripts-when-to-use-what-for-ai-workflow-automation-3pdc)
+- [Run PHP and MySQL in Docker](https://dev.to/raflizocky_/run-php-and-mysql-in-docker-5935)
+- [I built a cross-platform remote access tool because I wanted unlimited remote sessions](https://dev.to/ht_fe463f3af9bf18f/i-built-a-cross-platform-remote-access-tool-because-i-wanted-unlimited-remote-sessions-461j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
