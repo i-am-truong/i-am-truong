@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How HPC Clusters Accelerate AI/ML Training](https://dev.to/zubairakbar/how-hpc-clusters-accelerate-aiml-training-15a2)
-- [SQLite `generate_series` Precision Bug, PostgreSQL Pagination Tuning, &amp; Large Table Replication](https://dev.to/soytuber/sqlite-generateseries-precision-bug-postgresql-pagination-tuning-large-table-replication-153n)
-- [AI Needs RNA, Not Just Weights](https://dev.to/vishalmysore/ai-needs-rna-not-just-weights-1p47)
-- [Building My First AI Agent with Strands SDK and Amazon Bedrock Errors, Fixes &amp; Lessons Learned](https://dev.to/tidding/building-my-first-ai-agent-with-strands-sdk-and-amazon-bedrock-errors-fixes-lessons-learned-4753)
-- [What Pipelock Inspects, And What Tool Policy Inspects Instead](https://dev.to/luckypipewrench/what-pipelock-inspects-and-what-tool-policy-inspects-instead-4joe)
+- [No Degree. No Team. No API Bill. I Shipped Gemma 4 Into My Travel App at 58 — And So Can You. Gemma 4 Challenge: Write About Gemma 4 Submission](https://dev.to/nightowl/no-degree-no-team-no-api-bill-i-shipped-gemma-4-into-my-travel-app-at-58-and-so-can-you-gemma-3oi7)
+- [IndexNow, libSQL, and three other tools I reached for this week](https://dev.to/morinaga/indexnow-libsql-and-three-other-tools-i-reached-for-this-week-5c4m)
+- [I built the same MVP twice. The autonomous agent wrote 4.6x more tests — none caught two stubbed core methods.](https://dev.to/lutz_leonhardt/i-built-the-same-mvp-twice-the-autonomous-agent-wrote-46x-more-tests-none-caught-two-stubbed-24ho)
+- [I Built an Open Source PHP SDK for Mono — Here&#39;s Why It Was Worth It](https://dev.to/itamelions/i-built-an-open-source-php-sdk-for-mono-heres-why-it-was-worth-it-21m4)
+- [Filling a maintainer&#39;s &quot;Help needed&quot;: shipping a Next.js 16 Redis cache handler](https://dev.to/_a9b502091e5f4cba28f13/filling-a-maintainers-help-needed-shipping-a-nextjs-16-redis-cache-handler-1dbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
