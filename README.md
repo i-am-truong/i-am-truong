@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Cloud Bill: AI-Driven Cloud FinOps](https://dev.to/sunbirdlabs/decoding-the-cloud-bill-ai-driven-cloud-finops-1nnm)
-- [[Boost]](https://dev.to/elizabethfuentes12/-f98)
-- [We Measured It: LSP Saves AI Agents 5-34x Tokens vs Grep](https://dev.to/daynablackwell/we-measured-it-lsp-saves-ai-agents-5-34x-tokens-vs-grep-427)
-- [How I built a JS Framework that beats Vanilla JS in row selection performance](https://dev.to/yanivsuzana/how-i-built-a-js-framework-that-beats-vanilla-js-in-row-selection-performance-5e6e)
-- [The Token Waste Problem: Why your AI Agents shouldn&#39;t evaluate permissions](https://dev.to/glendel/the-token-waste-problem-why-your-ai-agents-shouldnt-evaluate-permissions-2a2c)
+- [🚀 FlutterFlow’s New Feature: App Events &lpar;A Game Changer for Scalable Apps&rpar;](https://dev.to/codexlancers/flutterflows-new-feature-app-events-a-game-changer-for-scalable-apps-1hp9)
+- [Why I Chose to Learn Cloud Computing as a Full-Stack Developer](https://dev.to/anushka_shinde_99/why-i-chose-to-learn-cloud-computing-as-a-full-stack-developer-2g59)
+- [I Built an Issue-Based Claude Code Plugin &quot;cadenza&quot; for Technical Output Creation](https://dev.to/yokomachi/i-built-an-issue-based-claude-code-plugin-cadenza-for-technical-output-creation-37hc)
+- [NTROP7: a new way to manage files. Give it a try](https://dev.to/onceupontry/ntrop7-a-new-way-to-manage-files-give-it-a-try-597j)
+- [Your Cron Jobs Can&#39;t Think. These Can.](https://dev.to/rakesh_dhote_9c40b0164ee3/your-cron-jobs-cant-think-these-can-26hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
