@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
-- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
-- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
-- [Modernizing Legacy Systems Using Agent Harnesses TDD and the Seam Model](https://dev.to/rafaeltedesco/modernizing-legacy-systems-using-agent-harnesses-tdd-and-the-seam-model-1f96)
-- [What I learned about App Store screenshots after shipping 3 apps](https://dev.to/youssef_ziat_198fd66bd2af/what-i-learned-about-app-store-screenshots-after-shipping-3-apps-57ej)
+- [Decoding the Cloud Bill: AI-Driven Cloud FinOps](https://dev.to/sunbirdlabs/decoding-the-cloud-bill-ai-driven-cloud-finops-1nnm)
+- [[Boost]](https://dev.to/elizabethfuentes12/-f98)
+- [We Measured It: LSP Saves AI Agents 5-34x Tokens vs Grep](https://dev.to/daynablackwell/we-measured-it-lsp-saves-ai-agents-5-34x-tokens-vs-grep-427)
+- [How I built a JS Framework that beats Vanilla JS in row selection performance](https://dev.to/yanivsuzana/how-i-built-a-js-framework-that-beats-vanilla-js-in-row-selection-performance-5e6e)
+- [The Token Waste Problem: Why your AI Agents shouldn&#39;t evaluate permissions](https://dev.to/glendel/the-token-waste-problem-why-your-ai-agents-shouldnt-evaluate-permissions-2a2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
