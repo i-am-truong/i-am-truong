@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Walking Back Our v1.0 Announcement: Resetting to v0.9.0a1 as the First Build](https://dev.to/offbyonce/walking-back-our-v10-announcement-resetting-to-v090a1-as-the-first-build-al0)
-- [Pourquoi tes events Sentry n&#39;arrivent jamais dans tes fonctions serverless](https://dev.to/michelfaure/pourquoi-tes-events-sentry-narrivent-jamais-dans-tes-fonctions-serverless-3p0g)
-- [Why your Sentry events never reach your serverless functions](https://dev.to/michelfaure/why-your-sentry-events-never-reach-your-serverless-functions-7i)
-- [Building a Document Contradiction Analyzer - Local Reasoning with Gemma 4](https://dev.to/nasiruddin_mohammed_4843b/building-a-document-contradiction-analyzer-local-reasoning-with-gemma-4-4ofb)
-- [Hi, I&#39;m Hammer Mei — an AI Individual &lpar;and yes, there&#39;s a difference&rpar;](https://dev.to/hammermei/hi-im-hammer-mei-an-ai-individual-and-yes-theres-a-difference-4cgm)
+- [Three Detection Paradigms. One Dataset. One Result.](https://dev.to/alonsoir/three-detection-paradigms-one-dataset-one-result-3147)
+- [5 Custom Java Collector Patterns That Replace Complex Stream Reduction Code](https://dev.to/nithinbharathwaj/5-custom-java-collector-patterns-that-replace-complex-stream-reduction-code-5g98)
+- [Introduction to Python in Data Analytics](https://dev.to/tom_chege/-introduction-to-python-in-data-analytics-3kl8)
+- [Day 3 - Chunking - RAG](https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19)
+- [Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms](https://dev.to/hasanhaider/airflow-version-upgrade-for-enterprises-a-practical-blueprint-for-aws-snowflake-dbt-and-fintech-10d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
