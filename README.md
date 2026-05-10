@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [API-First with Hono: OpenAPI to Typed Routes Without Lock-in](https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad)
-- [Why Visual Workflow Builders Are the Future of AI Agent Development](https://dev.to/omnithium/why-visual-workflow-builders-are-the-future-of-ai-agent-development-31dp)
-- [I Built an AI Agent Orchestrator Where Gemma 4 Only Knows What You Teach It](https://dev.to/bzaid94/gemma-agents-orchestrator-8cm)
-- [THE RECEIPT TRAIL: WHAT THEY CHARGE VS WHAT YOU ACTUALLY PAY](https://dev.to/cafeinadesign/the-receipt-trail-what-they-charge-vs-what-you-actually-pay-obd)
-- [Nginx Reverse Proxy: Managing Multiple Docker Services on a Single VPS](https://dev.to/merbayerp/nginx-reverse-proxy-managing-multiple-docker-services-on-a-single-vps-2g4h)
+- [Fixing NVIDIA BadTLP PCIe Freezes on Linux - or an ASUS TUF gaming laptop odyssey](https://dev.to/tolvo/fixing-nvidia-badtlp-pcie-freezes-on-linux-or-an-asus-tuf-gaming-laptop-odyssey-hp9)
+- [Install Android SDK Command Line Tools for Flutter &lpar;Without Android Studio&rpar;](https://dev.to/raflizocky_/install-android-sdk-command-line-tools-for-flutter-without-android-studio-25nb)
+- [ADB Wireless Debugging in Android Development](https://dev.to/raflizocky_/adb-wireless-debugging-in-android-development-4je0)
+- [Multiple Sheets Excel Export in Laravel](https://dev.to/raflizocky_/multiple-sheets-excel-export-in-laravel-9od)
+- [Server-Side DataTables Rendering in Laravel](https://dev.to/raflizocky_/server-side-datatables-rendering-in-laravel-2918)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
