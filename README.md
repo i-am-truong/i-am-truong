@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We built a kitten care app that surfaces today&#39;s task, not a static guide](https://dev.to/niixolabs/we-built-a-kitten-care-app-that-surfaces-todays-task-not-a-static-guide-54h3)
-- [# How to Build a Multi-Step Form Wizard in Next.js with TypeScript](https://dev.to/nnanyelugo/-how-to-build-a-multi-step-form-wizard-in-nextjs-with-typescript-24jg)
-- [Shipped v2 of go-js-array-methods — JS-style Filter, Map, Reduce for Go slices](https://dev.to/gbubemi_attah_8220489db16/shipped-v2-of-go-js-array-methods-js-style-filter-map-reduce-for-go-slices-1k77)
-- [One Receipt, Nine Regulators](https://dev.to/jagmarques/one-receipt-nine-regulators-gbk)
-- [How We Cut Datadog Bills by 60% Without Losing Observability](https://dev.to/samson_tanimawo/how-we-cut-datadog-bills-by-60-without-losing-observability-3d9d)
+- [Developer journal day2. Building CarVault 🚗](https://dev.to/laudisdominguezsvg/developer-journal-day2-building-carvault-a-developer-journal-3me4)
+- [React Hook Form vs. TanStack Form vs. Formisch: React Form Libraries Compared](https://dev.to/oluwawunmiadesewa/react-hook-form-vs-tanstack-form-vs-formisch-react-form-libraries-compared-22ig)
+- [Build your own AI-powered Voice To-Do Assistant using a Waveshare 1.75&quot; display + Cursor + DuckyClaw — from setup to full feature implementation](https://dev.to/tuyadeveloper/build-your-own-ai-powered-voice-to-do-assistant-using-a-waveshare-175-display-cursor--keh)
+- [Python argparse: Build CLI Tools in 10 Minutes](https://dev.to/german_yamil_e021eef8710d/python-argparse-build-cli-tools-in-10-minutes-4faj)
+- [What Building a SAST Tool Taught Me About AppSec That 13 Years of Software Engineering Didn&#39;t](https://dev.to/pgmpofu/what-building-a-sast-tool-taught-me-about-appsec-that-13-years-of-software-engineering-didnt-3n2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
