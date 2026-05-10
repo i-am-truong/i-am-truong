@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why not Lannguage Specific SLMs as coding agents](https://dev.to/mainak55512/why-not-lannguage-specific-slms-as-coding-agents-n79)
-- [A small Vite plugin for moving heavy JSX attributes into comments](https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn)
-- [The Accidental C2 - Exploring Dev Tunnels for Remote Access](https://dev.to/mark0_617b45cda9782a/the-accidental-c2-exploring-dev-tunnels-for-remote-access-bbp)
-- [Wireshark dissector for a proprietary DVRIP/Sofia application layer protocol found on Xiongmai-based IP cameras.](https://dev.to/kostasereksonas/wireshark-dissector-for-a-proprietary-dvripsofia-application-layer-protocol-found-on-61b)
-- [Why I Stopped Using Random Online JSON Formatters &lpar;And Why You Should Too&rpar;](https://dev.to/rahulthummar/why-i-stopped-using-random-online-json-formatters-and-why-you-should-too-bea)
+- [Walking Back Our v1.0 Announcement: Resetting to v0.9.0a1 as the First Build](https://dev.to/offbyonce/walking-back-our-v10-announcement-resetting-to-v090a1-as-the-first-build-al0)
+- [Pourquoi tes events Sentry n&#39;arrivent jamais dans tes fonctions serverless](https://dev.to/michelfaure/pourquoi-tes-events-sentry-narrivent-jamais-dans-tes-fonctions-serverless-3p0g)
+- [Why your Sentry events never reach your serverless functions](https://dev.to/michelfaure/why-your-sentry-events-never-reach-your-serverless-functions-7i)
+- [Building a Document Contradiction Analyzer - Local Reasoning with Gemma 4](https://dev.to/nasiruddin_mohammed_4843b/building-a-document-contradiction-analyzer-local-reasoning-with-gemma-4-4ofb)
+- [Hi, I&#39;m Hammer Mei — an AI Individual &lpar;and yes, there&#39;s a difference&rpar;](https://dev.to/hammermei/hi-im-hammer-mei-an-ai-individual-and-yes-theres-a-difference-4cgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
