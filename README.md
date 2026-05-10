@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bulletproofing LLM Structured Output in Python: Healing Retries, Cost Caps, and Drift Detection &lpar;Runnable Code&rpar;](https://dev.to/velsof/bulletproofing-llm-structured-output-in-python-healing-retries-cost-caps-and-drift-detection-c89)
-- [CDP Bridge MCP —— a bridge service that connects MCP clients to real browser sessions](https://dev.to/lala_par_c28d6b5df2765c7a/cdp-bridge-mcp-a-bridge-service-that-connects-mcp-clients-to-real-browser-sessions-52h8)
-- [Tokenmaxxing: Codex + Claude Code Operator Stack 2026](https://dev.to/max_quimby/tokenmaxxing-codex-claude-code-operator-stack-2026-318)
-- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/pratham69/string-polyfills-and-common-interview-methods-in-javascript-4ha6)
-- [My MCP Server Got Rate-Limited After Auth. Here&#39;s the 5-Line Fix.](https://dev.to/zekebuilds/my-mcp-server-got-rate-limited-after-auth-heres-the-5-line-fix-2gl)
+- [Why not Lannguage Specific SLMs as coding agents](https://dev.to/mainak55512/why-not-lannguage-specific-slms-as-coding-agents-n79)
+- [A small Vite plugin for moving heavy JSX attributes into comments](https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn)
+- [The Accidental C2 - Exploring Dev Tunnels for Remote Access](https://dev.to/mark0_617b45cda9782a/the-accidental-c2-exploring-dev-tunnels-for-remote-access-bbp)
+- [Wireshark dissector for a proprietary DVRIP/Sofia application layer protocol found on Xiongmai-based IP cameras.](https://dev.to/kostasereksonas/wireshark-dissector-for-a-proprietary-dvripsofia-application-layer-protocol-found-on-61b)
+- [Why I Stopped Using Random Online JSON Formatters &lpar;And Why You Should Too&rpar;](https://dev.to/rahulthummar/why-i-stopped-using-random-online-json-formatters-and-why-you-should-too-bea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
