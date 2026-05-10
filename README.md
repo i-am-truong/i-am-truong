@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sessions vs JWT vs Cookies: Understanding Authentication Approaches](https://dev.to/satyasootar/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches-1ojo)
-- [What I Finally Understand About Solana Transactions &lpar;After 20 Days of Learning&rpar;](https://dev.to/fachiny17/what-i-finally-understand-about-solana-transactions-after-20-days-of-learning-34k8)
-- [Micro-SaaS 90-Day Build — Stripe·Supabase·Vercel Free Plan to $1,200 MRR &lpar;2026&rpar;](https://dev.to/brandon-vibestart/micro-saas-90-day-build-stripesupabasevercel-free-plan-to-1200-mrr-2026-2k63)
-- [AI agents could solve crypto&#39;s user problem — and trustless settlement is the missing layer](https://dev.to/barissozen/ai-agents-could-solve-cryptos-user-problem-and-trustless-settlement-is-the-missing-layer-2l1a)
-- [Circuit Breakers Under Stress: Anatomy of a Payment Cascade](https://dev.to/pponali/circuit-breakers-under-stress-anatomy-of-a-payment-cascade-hn0)
+- [I Shipped an npm Package With an AGENTS.md File — Here&#39;s Why Every Library Should Do This](https://dev.to/jeetvora331/i-shipped-an-npm-package-with-an-agentsmd-file-heres-why-every-library-should-do-this-3ofn)
+- [Model Showdown Round 3: Ditching Ollama in Favor of llama.cpp](https://dev.to/carryologist/model-showdown-round-3-ditching-ollama-in-favor-of-llamacpp-5g8n)
+- [I Built openapi-mcp-gateway: Multi-Spec OpenAPI-to-MCP With Real OAuth2 In Python](https://dev.to/_7e886d07966b9c443e1b80d/i-built-openapi-mcp-gateway-multi-spec-openapi-to-mcp-with-real-oauth2-in-python-46d2)
+- [AWS Terraform Type Constarints](https://dev.to/brian_mengo/aws-terraform-type-constarints-gnd)
+- [I Built an Addictive Crypto Timing Game in Pure HTML/JS &lpar;No Dependencies&rpar;](https://dev.to/nova_crypto_90c7ee2ad16e5/i-built-an-addictive-crypto-timing-game-in-pure-htmljs-no-dependencies-50o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
