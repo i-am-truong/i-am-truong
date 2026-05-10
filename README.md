@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bullwhip: What The Beer Game Teaches Us About Uneven AI Adoption](https://dev.to/keithjmackay/the-ai-bullwhip-what-the-beer-game-teaches-us-about-uneven-ai-adoption-2k9i)
-- [XML Tags Don&#39;t Help Short Prompts — Here&#39;s When They Actually Matter &lpar;2026&rpar;](https://dev.to/manishramavat/xml-tags-dont-help-short-prompts-heres-when-they-actually-matter-2026-25gf)
-- [The Invisible Wall: Hardening Your BI Infrastructure Against Modern Data Breaches](https://dev.to/dattasable/the-invisible-wall-hardening-your-bi-infrastructure-against-modern-data-breaches-1j5)
-- [It’s Not Just the College Kids](https://dev.to/niclydon/its-not-just-the-college-kids-57ha)
-- [Beyond the SELECT: Mastering Advanced SQL for Surgical BI](https://dev.to/dattasable/beyond-the-select-mastering-advanced-sql-for-surgical-bi-k3g)
+- [I Built a Smarter 20-20-20 App Because Every Other One Annoyed Me](https://dev.to/daksh-gargas/i-built-a-smarter-20-20-20-app-because-every-other-one-annoyed-me-533o)
+- [The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI](https://dev.to/tlnyylmz/the-it-works-on-my-machine-problem-devops-transformation-the-impact-of-ai-43j5)
+- [Conquering Windows Server 2022: How to Manually Sideload Winget &lpar;Without the Microsoft Store&rpar;](https://dev.to/scg/conquering-windows-server-2022-how-to-manually-sideload-winget-without-the-microsoft-store-2pmg)
+- [My Own VPS Crisis: That Moment of Panic During a Client Meeting](https://dev.to/merbayerp/my-own-vps-crisis-that-moment-of-panic-during-a-client-meeting-423e)
+- [The Cypress i18n Mistake: Testing Words Instead of Meaning - i18next is your partner](https://dev.to/sebastianclavijo/the-cypress-i18n-mistake-testing-words-instead-of-meaning-i18next-is-your-partner-k8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
