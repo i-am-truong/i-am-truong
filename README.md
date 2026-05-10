@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Shipped an npm Package With an AGENTS.md File — Here&#39;s Why Every Library Should Do This](https://dev.to/jeetvora331/i-shipped-an-npm-package-with-an-agentsmd-file-heres-why-every-library-should-do-this-3ofn)
-- [Model Showdown Round 3: Ditching Ollama in Favor of llama.cpp](https://dev.to/carryologist/model-showdown-round-3-ditching-ollama-in-favor-of-llamacpp-5g8n)
-- [I Built openapi-mcp-gateway: Multi-Spec OpenAPI-to-MCP With Real OAuth2 In Python](https://dev.to/_7e886d07966b9c443e1b80d/i-built-openapi-mcp-gateway-multi-spec-openapi-to-mcp-with-real-oauth2-in-python-46d2)
-- [AWS Terraform Type Constarints](https://dev.to/brian_mengo/aws-terraform-type-constarints-gnd)
-- [I Built an Addictive Crypto Timing Game in Pure HTML/JS &lpar;No Dependencies&rpar;](https://dev.to/nova_crypto_90c7ee2ad16e5/i-built-an-addictive-crypto-timing-game-in-pure-htmljs-no-dependencies-50o5)
+- [I cannot believe that I am posting about tech stuff but then again.....it is something that excites me. So I will post.](https://dev.to/damiabitikare/i-cannot-believe-that-i-am-posting-about-tech-stuff-but-then-againit-is-something-that-excites-2emh)
+- [Automate Your Boring File Tasks with Python: 5 Scripts You Can Use Today](https://dev.to/smn729/automate-your-boring-file-tasks-with-python-5-scripts-you-can-use-today-1elp)
+- [I shipped Filament Studio 1.3.0, and it is the first version that feels AI-ready](https://dev.to/serhii_fedorenko/i-shipped-filament-studio-130-and-it-is-the-first-version-that-feels-ai-ready-2c37)
+- [One Input Box, Two AI Modes — Detecting Whether the User Wants Error Help or Command Explanation](https://dev.to/hiyoyok/one-input-box-two-ai-modes-detecting-whether-the-user-wants-error-help-or-command-explanation-1ok)
+- [Is Your Claude Code Safe From Base64? Inside 2026 AI Agent Attacks](https://dev.to/akari_iku/is-your-claude-code-safe-from-base64-inside-2026-ai-agent-attacks-13ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
