@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Cat Oran S2 Ep1 — The Excel Republic](https://dev.to/syslayer/coding-cat-oran-s2-ep1-the-excel-republic-5g15)
-- [Learning Xahau: Debunking Common Myths About Xahau](https://dev.to/ekiserrepe/learning-xahau-debunking-common-myths-about-xahau-1eke)
-- [Why Your RAG Chatbot Looks Great in Week 1 and Hallucinates by Month 2](https://dev.to/akshay_kumar_bm/why-your-rag-chatbot-looks-great-in-week-1-and-hallucinates-by-month-2-52k5)
-- [I Built Graphode — An AI-Powered GitHub Repository Visualizer](https://dev.to/harshkalia/i-built-graphode-an-ai-powered-github-repository-visualizer-3bpm)
-- [Why We Render Everything in the Browser](https://dev.to/vivian-voss/why-we-render-everything-in-the-browser-bak)
+- [Simple DEV Blog Post Writer with LangGraph Multi Agents with Memory, AWS Bedrock Nova: Generator &amp; Evaluator Pattern](https://dev.to/aws-builders/simple-dev-blog-post-writer-with-langgraph-multi-agents-with-memory-aws-bedrock-nova-generator--5b1)
+- [PHP vs Node.js &lpar;2026&rpar;: I Benchmarked Both — Here&#39;s What Surprised Me](https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj)
+- [Why Node.js Is Perfect for Building Fast Web Applications](https://dev.to/pratham69/why-nodejs-is-perfect-for-building-fast-web-applications-59o1)
+- [Local LLMs in 2026: What Actually Works on Consumer Hardware](https://dev.to/studiomeyer_io/local-llms-in-2026-what-actually-works-on-consumer-hardware-50me)
+- [Cursor Pagination Step by Step](https://dev.to/edriso/cursor-pagination-step-by-step-1iff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
