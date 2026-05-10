@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Developer journal day2. Building CarVault 🚗](https://dev.to/laudisdominguezsvg/developer-journal-day2-building-carvault-a-developer-journal-3me4)
-- [React Hook Form vs. TanStack Form vs. Formisch: React Form Libraries Compared](https://dev.to/oluwawunmiadesewa/react-hook-form-vs-tanstack-form-vs-formisch-react-form-libraries-compared-22ig)
-- [Build your own AI-powered Voice To-Do Assistant using a Waveshare 1.75&quot; display + Cursor + DuckyClaw — from setup to full feature implementation](https://dev.to/tuyadeveloper/build-your-own-ai-powered-voice-to-do-assistant-using-a-waveshare-175-display-cursor--keh)
-- [Python argparse: Build CLI Tools in 10 Minutes](https://dev.to/german_yamil_e021eef8710d/python-argparse-build-cli-tools-in-10-minutes-4faj)
-- [What Building a SAST Tool Taught Me About AppSec That 13 Years of Software Engineering Didn&#39;t](https://dev.to/pgmpofu/what-building-a-sast-tool-taught-me-about-appsec-that-13-years-of-software-engineering-didnt-3n2l)
+- [Bulletproofing LLM Structured Output in Python: Healing Retries, Cost Caps, and Drift Detection &lpar;Runnable Code&rpar;](https://dev.to/velsof/bulletproofing-llm-structured-output-in-python-healing-retries-cost-caps-and-drift-detection-c89)
+- [CDP Bridge MCP —— a bridge service that connects MCP clients to real browser sessions](https://dev.to/lala_par_c28d6b5df2765c7a/cdp-bridge-mcp-a-bridge-service-that-connects-mcp-clients-to-real-browser-sessions-52h8)
+- [Tokenmaxxing: Codex + Claude Code Operator Stack 2026](https://dev.to/max_quimby/tokenmaxxing-codex-claude-code-operator-stack-2026-318)
+- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/pratham69/string-polyfills-and-common-interview-methods-in-javascript-4ha6)
+- [My MCP Server Got Rate-Limited After Auth. Here&#39;s the 5-Line Fix.](https://dev.to/zekebuilds/my-mcp-server-got-rate-limited-after-auth-heres-the-5-line-fix-2gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
