@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Static Analysis for LLM Prompt Security: A Methodology for Pre-Deploy Vulnerability Detection.](https://dev.to/meghal_parikh_b8c5c6e3244/static-analysis-for-llm-prompt-security-a-methodology-for-pre-deploy-vulnerability-detection-48oc)
-- [I built a custom Codex-powered code review bot for GitLab](https://dev.to/sleeyax/i-built-a-custom-codex-powered-code-review-bot-for-gitlab-5eap)
-- [I Review 50+ AI Tools a Month — Here&#39;s My Evaluation Framework](https://dev.to/samchenreviews/i-review-50-ai-tools-a-month-heres-my-evaluation-framework-5fd9)
-- [The Home Automation Stack That Actually Works &lpar;After 3 Years of Tweaking&rpar;](https://dev.to/samchenreviews/the-home-automation-stack-that-actually-works-after-3-years-of-tweaking-3o68)
-- [Feature Based Clean Architecture. Part 4: FBCA: Formalizing Responsibility Boundaries in a NestJS Module](https://dev.to/pendulum/feature-based-clean-architecture-part-4-fbca-formalizing-responsibility-boundaries-in-a-nestjs-223d)
+- [The AI Bullwhip: What The Beer Game Teaches Us About Uneven AI Adoption](https://dev.to/keithjmackay/the-ai-bullwhip-what-the-beer-game-teaches-us-about-uneven-ai-adoption-2k9i)
+- [XML Tags Don&#39;t Help Short Prompts — Here&#39;s When They Actually Matter &lpar;2026&rpar;](https://dev.to/manishramavat/xml-tags-dont-help-short-prompts-heres-when-they-actually-matter-2026-25gf)
+- [The Invisible Wall: Hardening Your BI Infrastructure Against Modern Data Breaches](https://dev.to/dattasable/the-invisible-wall-hardening-your-bi-infrastructure-against-modern-data-breaches-1j5)
+- [It’s Not Just the College Kids](https://dev.to/niclydon/its-not-just-the-college-kids-57ha)
+- [Beyond the SELECT: Mastering Advanced SQL for Surgical BI](https://dev.to/dattasable/beyond-the-select-mastering-advanced-sql-for-surgical-bi-k3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
