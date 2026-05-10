@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Three Detection Paradigms. One Dataset. One Result.](https://dev.to/alonsoir/three-detection-paradigms-one-dataset-one-result-3147)
-- [5 Custom Java Collector Patterns That Replace Complex Stream Reduction Code](https://dev.to/nithinbharathwaj/5-custom-java-collector-patterns-that-replace-complex-stream-reduction-code-5g98)
-- [Introduction to Python in Data Analytics](https://dev.to/tom_chege/-introduction-to-python-in-data-analytics-3kl8)
-- [Day 3 - Chunking - RAG](https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19)
-- [Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms](https://dev.to/hasanhaider/airflow-version-upgrade-for-enterprises-a-practical-blueprint-for-aws-snowflake-dbt-and-fintech-10d3)
+- [Coding Cat Oran S2 Ep1 — The Excel Republic](https://dev.to/syslayer/coding-cat-oran-s2-ep1-the-excel-republic-5g15)
+- [Learning Xahau: Debunking Common Myths About Xahau](https://dev.to/ekiserrepe/learning-xahau-debunking-common-myths-about-xahau-1eke)
+- [Why Your RAG Chatbot Looks Great in Week 1 and Hallucinates by Month 2](https://dev.to/akshay_kumar_bm/why-your-rag-chatbot-looks-great-in-week-1-and-hallucinates-by-month-2-52k5)
+- [I Built Graphode — An AI-Powered GitHub Repository Visualizer](https://dev.to/harshkalia/i-built-graphode-an-ai-powered-github-repository-visualizer-3bpm)
+- [Why We Render Everything in the Browser](https://dev.to/vivian-voss/why-we-render-everything-in-the-browser-bak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
