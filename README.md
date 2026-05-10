@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I cannot believe that I am posting about tech stuff but then again.....it is something that excites me. So I will post.](https://dev.to/damiabitikare/i-cannot-believe-that-i-am-posting-about-tech-stuff-but-then-againit-is-something-that-excites-2emh)
-- [Automate Your Boring File Tasks with Python: 5 Scripts You Can Use Today](https://dev.to/smn729/automate-your-boring-file-tasks-with-python-5-scripts-you-can-use-today-1elp)
-- [I shipped Filament Studio 1.3.0, and it is the first version that feels AI-ready](https://dev.to/serhii_fedorenko/i-shipped-filament-studio-130-and-it-is-the-first-version-that-feels-ai-ready-2c37)
-- [One Input Box, Two AI Modes — Detecting Whether the User Wants Error Help or Command Explanation](https://dev.to/hiyoyok/one-input-box-two-ai-modes-detecting-whether-the-user-wants-error-help-or-command-explanation-1ok)
-- [Is Your Claude Code Safe From Base64? Inside 2026 AI Agent Attacks](https://dev.to/akari_iku/is-your-claude-code-safe-from-base64-inside-2026-ai-agent-attacks-13ab)
+- [Beyond Keywords: Mastering HyDE for Smarter Retrieval 🧠](https://dev.to/rushanksavant/beyond-keywords-mastering-hyde-for-smarter-retrieval-3p5c)
+- [An LLM Walks Into General Relativity - Lessons from a Devoxx Talk](https://dev.to/tasenikol/an-llm-walks-into-general-relativity-lessons-from-a-devoxx-talk-133l)
+- [Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked](https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05)
+- [Improve Filament Import UX with Persistent Error CSV Downloads](https://dev.to/filamentmastery/improve-filament-import-ux-with-persistent-error-csv-downloads-54jj)
+- [Moving 1,100 Paying Customers Between Stripe Accounts in a 3-Hour Window](https://dev.to/vatsalpatel/moving-1100-paying-customers-between-stripe-accounts-in-a-3-hour-window-19c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
