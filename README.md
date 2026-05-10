@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Living on My Own Server: The Balance of Time and Freedom](https://dev.to/merbayerp/living-on-my-own-server-the-balance-of-time-and-freedom-15j1)
-- [The Features That Make OrinIDE Different From Other Browser IDEs](https://dev.to/nandan_das_369/the-features-that-make-orinide-different-from-other-browser-ides-4j0i)
-- [Building an Interactive Virtual Courtroom Website](https://dev.to/code-name-js/building-an-interactive-virtual-courtroom-website-3k9l)
-- [The Configuration Drift Discovery During a Drill](https://dev.to/ntctech/the-configuration-drift-discovery-during-a-drill-1oak)
-- [GitHub Merge Queue Incident: A Wake-Up Call for How to Measure Developer Productivity](https://dev.to/devactivity/github-merge-queue-incident-a-wake-up-call-for-how-to-measure-developer-productivity-549p)
+- [Sessions vs JWT vs Cookies: Understanding Authentication Approaches](https://dev.to/satyasootar/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches-1ojo)
+- [What I Finally Understand About Solana Transactions &lpar;After 20 Days of Learning&rpar;](https://dev.to/fachiny17/what-i-finally-understand-about-solana-transactions-after-20-days-of-learning-34k8)
+- [Micro-SaaS 90-Day Build — Stripe·Supabase·Vercel Free Plan to $1,200 MRR &lpar;2026&rpar;](https://dev.to/brandon-vibestart/micro-saas-90-day-build-stripesupabasevercel-free-plan-to-1200-mrr-2026-2k63)
+- [AI agents could solve crypto&#39;s user problem — and trustless settlement is the missing layer](https://dev.to/barissozen/ai-agents-could-solve-cryptos-user-problem-and-trustless-settlement-is-the-missing-layer-2l1a)
+- [Circuit Breakers Under Stress: Anatomy of a Payment Cascade](https://dev.to/pponali/circuit-breakers-under-stress-anatomy-of-a-payment-cascade-hn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
