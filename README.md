@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Task Manager API in FastAPI](https://dev.to/damian_marchewka_bdf5aec2/task-manager-api-in-fastapi-302a)
-- [Your Scrum Isn&#39;t Scrum. The Scrum Guide Is 13 Pages. Your Process Has 300.](https://dev.to/nbouvrette/your-scrum-isnt-scrum-the-scrum-guide-is-13-pages-your-process-has-300-2330)
-- [Flutter Actions &lpar;mutations&rpar;](https://dev.to/guimg/flutter-actions-mutations-125d)
-- [We&#39;re Linear Thinkers in an Exponentially-Changing World](https://dev.to/keithjmackay/were-linear-thinkers-in-an-exponentially-changing-world-53jc)
-- [Simplphoto for iPhone combines a manual camera, stop motion, and collages](https://dev.to/vasilii_andreev/simplphoto-for-iphone-combines-a-manual-camera-stop-motion-and-collages-21am)
+- [Static Analysis for LLM Prompt Security: A Methodology for Pre-Deploy Vulnerability Detection.](https://dev.to/meghal_parikh_b8c5c6e3244/static-analysis-for-llm-prompt-security-a-methodology-for-pre-deploy-vulnerability-detection-48oc)
+- [I built a custom Codex-powered code review bot for GitLab](https://dev.to/sleeyax/i-built-a-custom-codex-powered-code-review-bot-for-gitlab-5eap)
+- [I Review 50+ AI Tools a Month — Here&#39;s My Evaluation Framework](https://dev.to/samchenreviews/i-review-50-ai-tools-a-month-heres-my-evaluation-framework-5fd9)
+- [The Home Automation Stack That Actually Works &lpar;After 3 Years of Tweaking&rpar;](https://dev.to/samchenreviews/the-home-automation-stack-that-actually-works-after-3-years-of-tweaking-3o68)
+- [Feature Based Clean Architecture. Part 4: FBCA: Formalizing Responsibility Boundaries in a NestJS Module](https://dev.to/pendulum/feature-based-clean-architecture-part-4-fbca-formalizing-responsibility-boundaries-in-a-nestjs-223d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
