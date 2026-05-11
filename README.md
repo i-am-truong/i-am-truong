@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS in a month with Claude. Here is what actually happened.](https://dev.to/edwin_shibu_62f27da991422/i-built-a-saas-in-a-month-with-claude-here-is-what-actually-happened-41d3)
-- [Top 5 AWS Migration Tools for a Smooth and Secure Cloud Transition](https://dev.to/khushi_dubey/top-5-aws-migration-tools-for-a-smooth-and-secure-cloud-transition-4jok)
-- [Gitlfow Secrets Management](https://dev.to/neil_4e5a9c0f3c99/gitlfow-secrets-management-55pa)
-- [AI Cost Optimization: A Simple Guide by Opslyft](https://dev.to/khushi_dubey/ai-cost-optimization-a-simple-guide-by-opslyft-3l52)
-- [10 questions before choosing a cloud optimizer](https://dev.to/khushi_dubey/10-questions-before-choosing-a-cloud-optimizer-2695)
+- [Getting Started with Playwright E2E Testing](https://dev.to/glnurltn/getting-started-with-playwright-e2e-testing-14a)
+- [68. PCA: Shrinking Data Without Losing Information](https://dev.to/yakhilesh/68-pca-shrinking-data-without-losing-information-516g)
+- [Where Do Your AWS Network Rules Actually Live?](https://dev.to/mr_good_cat/where-do-your-aws-network-rules-actually-live-4ofe)
+- [WordPress Themes Are Architectural Debt](https://dev.to/mangesh_yadav_e20ebad2c7f/wordpress-themes-are-architectural-debt-1bpc)
+- [🛠️ Developer&#39;s Guide: Mastering Programmatic Row Injection in Joget Advance Grid](https://dev.to/exploringmylifeworks/developers-guide-mastering-programmatic-row-injection-in-joget-advance-grid-413a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
