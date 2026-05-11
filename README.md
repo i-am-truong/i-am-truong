@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Every AI Coding Assistant in 2026 — Here&#39;s My Honest Ranking](https://dev.to/suifeng023/i-tested-every-ai-coding-assistant-in-2026-heres-my-honest-ranking-3n51)
-- [Anthropic&amp;#8217;s Multi-Agent Blueprint: What Production Constraints Add](https://dev.to/sebastian_chedal/anthropic8217s-multi-agent-blueprint-what-production-constraints-add-2fm7)
-- [Inline style attributes vs CSS variables: a Tailwind v4 light-mode debug story](https://dev.to/forrestmiller/inline-style-attributes-vs-css-variables-a-tailwind-v4-light-mode-debug-story-28ic)
-- [Tailwind v4 dark mode: the @theme vs @theme inline gotcha that broke my contrast tests](https://dev.to/forrestmiller/tailwind-v4-dark-mode-the-theme-vs-theme-inline-gotcha-that-broke-my-contrast-tests-3p3o)
-- [I added a grid_size column. Two months later I dropped it. What I learned about derived state in Postgres.](https://dev.to/forrestmiller/i-added-a-gridsize-column-two-months-later-i-dropped-it-what-i-learned-about-derived-state-in-4j8b)
+- [I Built a Chrome Extension That Writes LinkedIn DMs Using Claude AI](https://dev.to/sujal_meena_cf186b9b452cd/i-built-a-chrome-extension-that-writes-linkedin-dms-using-claude-ai-42b3)
+- [MCP, A2A, and Pilot Protocol Are Not Competing. Your Agent Stack Probably Needs All Three.](https://dev.to/artem_a/mcp-a2a-and-pilot-protocol-are-not-competing-your-agent-stack-probably-needs-all-three-323e)
+- [BTT Pad 7 vs Creality Sonic Pad 2026: Which Klipper Touchscreen?](https://dev.to/noperai42eng/btt-pad-7-vs-creality-sonic-pad-2026-which-klipper-touchscreen-5fpb)
+- [Linux Essentials](https://dev.to/akaiissen/linux-essentials-2898)
+- [Best ESP32 Development Boards in 2026](https://dev.to/noperai42eng/best-esp32-development-boards-in-2026-52m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
