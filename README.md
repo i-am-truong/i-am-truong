@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP server — lessons from thunderbit-mcp](https://dev.to/ethan_thunderbit/building-an-mcp-server-lessons-from-thunderbit-mcp-opf)
-- [Four Pillars, One Platform: How Cybrium Unifies Code, Cloud, AI, and GRC](https://dev.to/grumpysage/four-pillars-one-platform-how-cybrium-unifies-code-cloud-ai-and-grc-jff)
-- [67. DBSCAN: Clustering That Handles Messy Data](https://dev.to/yakhilesh/67-dbscan-clustering-that-handles-messy-data-5he7)
-- [OpenCode Integration Practice: Architectural Evolution from Standalone Process to Shared Runtime](https://dev.to/newbe36524/opencode-integration-practice-architectural-evolution-from-standalone-process-to-shared-runtime-3mj0)
-- [Created a agent friendly API directory 
-https://findapi.dev/](https://dev.to/sobchakkk/created-a-agent-friendly-api-directory-httpsfindapidev-4e7o)
+- [When os.walk&lpar;&rpar; Freezes: Diagnosing and Fixing Silent Network Hangs on NetApp Shared Storage with Python](https://dev.to/guy_gontar_7dca4bc5499c48/when-oswalk-freezes-diagnosing-and-fixing-silent-network-hangs-on-netapp-shared-storage-with-3o1p)
+- [Clean, Transform, and Load Data in Power BI: A Beginner-Friendly Guide](https://dev.to/temmy_32/clean-transform-and-load-data-in-power-bi-a-beginner-friendly-guide-okm)
+- [Vibe-Coding Works. That&#39;s Exactly Why It Will Destroy Your Codebase at Scale.](https://dev.to/theprodsde/vibe-coding-works-thats-exactly-why-it-will-destroy-your-codebase-at-scale-1e56)
+- [Configuring a Custom “From” Email Address in Oracle Integration Cloud &lpar;OIC&rpar;](https://dev.to/naveen6735/configuring-a-custom-from-email-address-in-oracle-integration-cloud-oic-2cn6)
+- [Beyond the Vibe: Why “Secure by Default” is the Only Way to Build in 2026](https://dev.to/hymanaharon/beyond-the-vibe-why-secure-by-default-is-the-only-way-to-build-in-2026-2oh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
