@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When os.walk&lpar;&rpar; Freezes: Diagnosing and Fixing Silent Network Hangs on NetApp Shared Storage with Python](https://dev.to/guy_gontar_7dca4bc5499c48/when-oswalk-freezes-diagnosing-and-fixing-silent-network-hangs-on-netapp-shared-storage-with-3o1p)
-- [Clean, Transform, and Load Data in Power BI: A Beginner-Friendly Guide](https://dev.to/temmy_32/clean-transform-and-load-data-in-power-bi-a-beginner-friendly-guide-okm)
-- [Vibe-Coding Works. That&#39;s Exactly Why It Will Destroy Your Codebase at Scale.](https://dev.to/theprodsde/vibe-coding-works-thats-exactly-why-it-will-destroy-your-codebase-at-scale-1e56)
-- [Configuring a Custom “From” Email Address in Oracle Integration Cloud &lpar;OIC&rpar;](https://dev.to/naveen6735/configuring-a-custom-from-email-address-in-oracle-integration-cloud-oic-2cn6)
-- [Beyond the Vibe: Why “Secure by Default” is the Only Way to Build in 2026](https://dev.to/hymanaharon/beyond-the-vibe-why-secure-by-default-is-the-only-way-to-build-in-2026-2oh6)
+- [I built a SaaS in a month with Claude. Here is what actually happened.](https://dev.to/edwin_shibu_62f27da991422/i-built-a-saas-in-a-month-with-claude-here-is-what-actually-happened-41d3)
+- [Top 5 AWS Migration Tools for a Smooth and Secure Cloud Transition](https://dev.to/khushi_dubey/top-5-aws-migration-tools-for-a-smooth-and-secure-cloud-transition-4jok)
+- [Gitlfow Secrets Management](https://dev.to/neil_4e5a9c0f3c99/gitlfow-secrets-management-55pa)
+- [AI Cost Optimization: A Simple Guide by Opslyft](https://dev.to/khushi_dubey/ai-cost-optimization-a-simple-guide-by-opslyft-3l52)
+- [10 questions before choosing a cloud optimizer](https://dev.to/khushi_dubey/10-questions-before-choosing-a-cloud-optimizer-2695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
