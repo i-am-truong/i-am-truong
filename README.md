@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My SonarQube scans were crawling; turns out Docker on WSL 2 only had 1 CPU and 1 GB of RAM](https://dev.to/trivedivatsal/my-sonarqube-scans-were-crawling-turns-out-docker-on-wsl-2-only-had-1-cpu-and-1-gb-of-ram-661)
-- [[Tutorial] Building a Shielded Token dApp on Midnight: From Compact Contract to React UI](https://dev.to/0xfdbu/tutorial-building-a-shielded-token-dapp-on-midnight-from-compact-contract-to-react-ui-183g)
-- [How Knowledge-Based AI Works — From Rules to Inference](https://dev.to/zeromathai/how-knowledge-based-ai-works-from-rules-to-inference-3o1o)
-- [How Intelligent Agents Work — From Perception to Decision and Action](https://dev.to/zeromathai/how-intelligent-agents-work-from-perception-to-decision-and-action-im1)
-- [Your MCP server eats 55,000 tokens before your agent says a word -- I measured the real cost](https://dev.to/kenimo49/your-mcp-server-eats-55000-tokens-before-your-agent-says-a-word-i-measured-the-real-cost-19l8)
+- [Building an MCP server — lessons from thunderbit-mcp](https://dev.to/ethan_thunderbit/building-an-mcp-server-lessons-from-thunderbit-mcp-opf)
+- [Four Pillars, One Platform: How Cybrium Unifies Code, Cloud, AI, and GRC](https://dev.to/grumpysage/four-pillars-one-platform-how-cybrium-unifies-code-cloud-ai-and-grc-jff)
+- [67. DBSCAN: Clustering That Handles Messy Data](https://dev.to/yakhilesh/67-dbscan-clustering-that-handles-messy-data-5he7)
+- [OpenCode Integration Practice: Architectural Evolution from Standalone Process to Shared Runtime](https://dev.to/newbe36524/opencode-integration-practice-architectural-evolution-from-standalone-process-to-shared-runtime-3mj0)
+- [Created a agent friendly API directory 
+https://findapi.dev/](https://dev.to/sobchakkk/created-a-agent-friendly-api-directory-httpsfindapidev-4e7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
