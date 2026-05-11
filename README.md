@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing NVIDIA BadTLP PCIe Freezes on Linux - or an ASUS TUF gaming laptop odyssey](https://dev.to/tolvo/fixing-nvidia-badtlp-pcie-freezes-on-linux-or-an-asus-tuf-gaming-laptop-odyssey-hp9)
-- [Install Android SDK Command Line Tools for Flutter &lpar;Without Android Studio&rpar;](https://dev.to/raflizocky_/install-android-sdk-command-line-tools-for-flutter-without-android-studio-25nb)
-- [ADB Wireless Debugging in Android Development](https://dev.to/raflizocky_/adb-wireless-debugging-in-android-development-4je0)
-- [Multiple Sheets Excel Export in Laravel](https://dev.to/raflizocky_/multiple-sheets-excel-export-in-laravel-9od)
-- [Server-Side DataTables Rendering in Laravel](https://dev.to/raflizocky_/server-side-datatables-rendering-in-laravel-2918)
+- [My SonarQube scans were crawling; turns out Docker on WSL 2 only had 1 CPU and 1 GB of RAM](https://dev.to/trivedivatsal/my-sonarqube-scans-were-crawling-turns-out-docker-on-wsl-2-only-had-1-cpu-and-1-gb-of-ram-661)
+- [[Tutorial] Building a Shielded Token dApp on Midnight: From Compact Contract to React UI](https://dev.to/0xfdbu/tutorial-building-a-shielded-token-dapp-on-midnight-from-compact-contract-to-react-ui-183g)
+- [How Knowledge-Based AI Works — From Rules to Inference](https://dev.to/zeromathai/how-knowledge-based-ai-works-from-rules-to-inference-3o1o)
+- [How Intelligent Agents Work — From Perception to Decision and Action](https://dev.to/zeromathai/how-intelligent-agents-work-from-perception-to-decision-and-action-im1)
+- [Your MCP server eats 55,000 tokens before your agent says a word -- I measured the real cost](https://dev.to/kenimo49/your-mcp-server-eats-55000-tokens-before-your-agent-says-a-word-i-measured-the-real-cost-19l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
