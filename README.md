@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [REPUTATION_THRESHOLD Policy: Only Let High-Rep AI Agents Touch Your Funds](https://dev.to/walletguy/reputationthreshold-policy-only-let-high-rep-ai-agents-touch-your-funds-16o7)
-- [So I built a Figma Design Agent for an Agentic AI Hackathon #kiro #figma #agents #geminicli](https://dev.to/hisukurifu/so-we-built-a-figma-design-agent-for-an-agentic-ai-hackathon-kiro-figma-agents-geminicli-1dff)
-- [RLS sounds great until it isn&#39;t](https://dev.to/planetscale/rls-sounds-great-until-it-isnt-4d5p)
-- [The Great Data Debate: Should You Build Your Warehouse Top-Down or Bottom-Up?](https://dev.to/lawrence_murithi/the-great-data-debate-should-you-build-your-warehouse-top-down-or-bottom-up-4pbe)
-- [Developers switch environments 20 times a day. Why are you still editing URLs manually?](https://dev.to/charmi_soni_95bf0498cc45d/developers-switch-environments-20-times-a-day-why-are-you-still-editing-urls-manually-2gj1)
+- [I Tested Every AI Coding Assistant in 2026 — Here&#39;s My Honest Ranking](https://dev.to/suifeng023/i-tested-every-ai-coding-assistant-in-2026-heres-my-honest-ranking-3n51)
+- [Anthropic&amp;#8217;s Multi-Agent Blueprint: What Production Constraints Add](https://dev.to/sebastian_chedal/anthropic8217s-multi-agent-blueprint-what-production-constraints-add-2fm7)
+- [Inline style attributes vs CSS variables: a Tailwind v4 light-mode debug story](https://dev.to/forrestmiller/inline-style-attributes-vs-css-variables-a-tailwind-v4-light-mode-debug-story-28ic)
+- [Tailwind v4 dark mode: the @theme vs @theme inline gotcha that broke my contrast tests](https://dev.to/forrestmiller/tailwind-v4-dark-mode-the-theme-vs-theme-inline-gotcha-that-broke-my-contrast-tests-3p3o)
+- [I added a grid_size column. Two months later I dropped it. What I learned about derived state in Postgres.](https://dev.to/forrestmiller/i-added-a-gridsize-column-two-months-later-i-dropped-it-what-i-learned-about-derived-state-in-4j8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
