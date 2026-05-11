@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Playwright E2E Testing](https://dev.to/glnurltn/getting-started-with-playwright-e2e-testing-14a)
-- [68. PCA: Shrinking Data Without Losing Information](https://dev.to/yakhilesh/68-pca-shrinking-data-without-losing-information-516g)
-- [Where Do Your AWS Network Rules Actually Live?](https://dev.to/mr_good_cat/where-do-your-aws-network-rules-actually-live-4ofe)
-- [WordPress Themes Are Architectural Debt](https://dev.to/mangesh_yadav_e20ebad2c7f/wordpress-themes-are-architectural-debt-1bpc)
-- [🛠️ Developer&#39;s Guide: Mastering Programmatic Row Injection in Joget Advance Grid](https://dev.to/exploringmylifeworks/developers-guide-mastering-programmatic-row-injection-in-joget-advance-grid-413a)
+- [REPUTATION_THRESHOLD Policy: Only Let High-Rep AI Agents Touch Your Funds](https://dev.to/walletguy/reputationthreshold-policy-only-let-high-rep-ai-agents-touch-your-funds-16o7)
+- [So I built a Figma Design Agent for an Agentic AI Hackathon #kiro #figma #agents #geminicli](https://dev.to/hisukurifu/so-we-built-a-figma-design-agent-for-an-agentic-ai-hackathon-kiro-figma-agents-geminicli-1dff)
+- [RLS sounds great until it isn&#39;t](https://dev.to/planetscale/rls-sounds-great-until-it-isnt-4d5p)
+- [The Great Data Debate: Should You Build Your Warehouse Top-Down or Bottom-Up?](https://dev.to/lawrence_murithi/the-great-data-debate-should-you-build-your-warehouse-top-down-or-bottom-up-4pbe)
+- [Developers switch environments 20 times a day. Why are you still editing URLs manually?](https://dev.to/charmi_soni_95bf0498cc45d/developers-switch-environments-20-times-a-day-why-are-you-still-editing-urls-manually-2gj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
