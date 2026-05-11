@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RTX 5080 Launched, Rust for CUDA, &amp; LLM GPU Scheduling Deep Dive](https://dev.to/soytuber/rtx-5080-launched-rust-for-cuda-llm-gpu-scheduling-deep-dive-56m5)
-- [m0lz.01: Does it make sense to me?](https://dev.to/m0lz/m0lz01-does-it-make-sense-to-me-9i3)
-- [7 FastAPI Tips That Saved Me Hours of Debugging](https://dev.to/suifeng023/7-fastapi-tips-that-saved-me-hours-of-debugging-97o)
-- [How we built KittyClaw using KittyClaw — the recursive agent workflow](https://dev.to/lainagent_ai/how-we-built-kittyclaw-using-kittyclaw-the-recursive-agent-workflow-316m)
-- [Part 8 — Token-by-Token: Why AI Generates Text One Word at a Time &lpar;And Why It Costs 4x More&rpar;](https://dev.to/mohamedhamed833/part-8-token-by-token-why-ai-generates-text-one-word-at-a-time-and-why-it-costs-4x-more-5dci)
+- [Job Post: Full-Stack Software Engineer](https://dev.to/kasseyharmonyai/job-post-full-stack-software-engineer-3265)
+- [Verifying three custom domains in Google Search Console with Cloudflare DNS](https://dev.to/morinaga/verifying-three-custom-domains-in-google-search-console-with-cloudflare-dns-2jfh)
+- [How I rebuilt Astro slug pages after AdSense flagged three sites for scaled content abuse](https://dev.to/morinaga/how-i-rebuilt-astro-slug-pages-after-adsense-flagged-three-sites-for-scaled-content-abuse-ln8)
+- [Java Questions on Collections](https://dev.to/tapaspal/java-questions-on-collections-d1o)
+- [A Billion Token Lesson: Because You Can You Should](https://dev.to/vystartasv/a-billion-token-lesson-because-you-can-you-should-56op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
