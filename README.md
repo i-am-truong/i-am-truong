@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Headless Shopify Store with Next.js in 2026](https://dev.to/ogresto/how-to-build-a-headless-shopify-store-with-nextjs-in-2026-4eka)
-- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-4f2c)
-- [Remove text and watermarks from any image — one API call](https://dev.to/om_prakash_3311f8a4576605/remove-text-and-watermarks-from-any-image-one-api-call-1b33)
-- [Advanced provideHttpClient Interceptors](https://dev.to/abdelaaziz_ouakala/advanced-providehttpclient-interceptors-5de0)
-- [Open Directory Listings: The WordPress Security Hole You Forgot](https://dev.to/jonathan_pimperton_971ac1/open-directory-listings-the-wordpress-security-hole-you-forgot-480p)
+- [Your GitHub Profile README Is Boring. Here&#39;s How to Fix It with SVG and GitHub Actions.](https://dev.to/flyingsquirrel0419/your-github-profile-readme-is-boring-heres-how-to-fix-it-with-svg-and-github-actions-3pim)
+- [Lean System Design](https://dev.to/anivan/lean-system-design-km7)
+- [validatorgo v1.0.0 is here 🎉 — the validator.js you&#39;ve been missing in Go](https://dev.to/gbubemi_attah_8220489db16/validatorgo-v100-is-here-the-validatorjs-youve-been-missing-in-go-55bo)
+- [Your API ranks on Google. But does it rank for AI agents?](https://dev.to/anhmtk/your-api-ranks-on-google-but-does-it-rank-for-ai-agents-1hg)
+- [The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and &quot;Pay-per-Citation&quot; by Law](https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
