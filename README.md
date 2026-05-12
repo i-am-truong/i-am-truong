@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your prompt is getting longer without you knowing it &lpar;and it&#39;s killing your margins&rpar;](https://dev.to/amedinat/your-prompt-is-getting-longer-without-you-knowing-it-and-its-killing-your-margins-1b71)
-- [Win11 Zero-Days, npm Supply Chain, &amp; AI Agent Security Threats](https://dev.to/soytuber/win11-zero-days-npm-supply-chain-ai-agent-security-threats-5h76)
-- [Claude Code &#39;Run Until Done&#39; Mode, AI Concierge, &amp; Mythos Scan for Curl Bugs](https://dev.to/soytuber/claude-code-run-until-done-mode-ai-concierge-mythos-scan-for-curl-bugs-ic1)
-- [SQLite Corruption in Sandboxes, PostgreSQL Caching, &amp; Rust DB Proxy Architecture](https://dev.to/soytuber/sqlite-corruption-in-sandboxes-postgresql-caching-rust-db-proxy-architecture-35hp)
-- [Testing TanStack Router + Query apps in the real browser](https://dev.to/kevinccbsg/testing-tanstack-router-query-apps-in-the-real-browser-j3j)
+- [🚀 Taming the AI: I built a Self-Healing SysAdmin Agent in a Docker Sandbox 🛡️](https://dev.to/kernelcero/taming-the-ai-i-built-a-self-healing-sysadmin-agent-in-a-docker-sandbox-2o9i)
+- [Hexagonal Architecture Should Be Your Default](https://dev.to/tacoda/hexagonal-architecture-should-be-your-default-4jdc)
+- [The 20-Minute Compromise: CI/CD Audit Guide for the TanStack Supply Chain Attack](https://dev.to/narnaiezzsshaa/the-20-minute-compromise-cicd-audit-guide-for-the-tanstack-supply-chain-attack-48g7)
+- [I Built Compressly Because Most Image Conversion Tools Were Honestly Frustrating](https://dev.to/athenis/i-built-compressly-because-most-image-conversion-tools-were-honestly-frustrating-380k)
+- [Can you stop attacking #npm packages? I&#39;m scared of installing packages. Now it&#39;s time to switch 100% to PNPM...](https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
