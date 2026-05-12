@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI agent saved the first paragraph and the last. It dropped 41 in between.](https://dev.to/achiya-automation/my-ai-agent-saved-the-first-paragraph-and-the-last-it-dropped-41-in-between-app)
-- [I Built a Browser-Only Image Vectorizer with WebAssembly](https://dev.to/scofieldfree/i-built-a-browser-only-image-vectorizer-with-webassembly-3fnf)
-- [Analyzing HLS Audio Streams with Web Audio API and hls.js](https://dev.to/andreyburov30/analyzing-hls-audio-streams-with-web-audio-api-and-hlsjs-ffb)
-- [ML fraud detection platform using AI agents](https://dev.to/souptik96/ml-fraud-detection-platform-using-ai-agents-39k8)
-- [LLD Foundations: Understanding Requirements &lpar;the step most people skip&rpar;](https://dev.to/saras_growth_space/lld-foundations-understanding-requirements-the-step-most-people-skip-2f96)
+- [Broadcast Joins vs. Sort-Merge Joins: Choosing the Right Join Strategy in Apache Spark](https://dev.to/hvardhan28/broadcast-joins-vs-sort-merge-joins-choosing-the-right-join-strategy-in-apache-spark-d52)
+- [Best AI Code Reviewer in 2026? We Ran 4 in Parallel for 3 Weeks &lpar;146 PRs, 679 Findings&rpar;](https://dev.to/_vjk/best-ai-code-reviewer-in-2026-we-ran-4-in-parallel-for-3-weeks-146-prs-679-findings-1c0f)
+- [Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn)
+- [Why Applications Work Locally But Fail in Production](https://dev.to/ifydev/why-applications-work-locally-but-fail-in-production-4i53)
+- [Albumentations in Life Sciences: Who Actually Uses It](https://dev.to/viglovikov/albumentations-in-life-sciences-who-actually-uses-it-525i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
