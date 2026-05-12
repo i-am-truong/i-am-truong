@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Broadcast Joins vs. Sort-Merge Joins: Choosing the Right Join Strategy in Apache Spark](https://dev.to/hvardhan28/broadcast-joins-vs-sort-merge-joins-choosing-the-right-join-strategy-in-apache-spark-d52)
-- [Best AI Code Reviewer in 2026? We Ran 4 in Parallel for 3 Weeks &lpar;146 PRs, 679 Findings&rpar;](https://dev.to/_vjk/best-ai-code-reviewer-in-2026-we-ran-4-in-parallel-for-3-weeks-146-prs-679-findings-1c0f)
-- [Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn)
-- [Why Applications Work Locally But Fail in Production](https://dev.to/ifydev/why-applications-work-locally-but-fail-in-production-4i53)
-- [Albumentations in Life Sciences: Who Actually Uses It](https://dev.to/viglovikov/albumentations-in-life-sciences-who-actually-uses-it-525i)
+- [How We Built a Programmatic SEO Platform with 500+ Pages for Turkey&#39;s LED Lighting Industry](https://dev.to/ismailgunaydin/how-we-built-a-programmatic-seo-platform-with-500-pages-for-turkeys-led-lighting-industry-5f9a)
+- [GitHub Weekly: Security Scanning Hits Your IDE, Enterprise Migrations Go Live](https://dev.to/htekdev/github-weekly-security-scanning-hits-your-ide-enterprise-migrations-go-live-18k0)
+- [I Cut Coding Agent Context Usage by 22–45% by Killing Context Bloat](https://dev.to/gauzzastrip/i-cut-coding-agent-context-usage-by-22-45-by-killing-context-bloat-2g3k)
+- [Cambié el Cerebro de Mi Coding Agent: De Opus a Modelos Open-Source por $30/mes](https://dev.to/cristiantalasanchez/cambie-el-cerebro-de-mi-coding-agent-de-opus-a-modelos-open-source-por-30mes-3d2e)
+- [How a fake npm package made Cursor backdoor a Next.js admin route](https://dev.to/oopssec-store/how-a-fake-npm-package-made-cursor-backdoor-a-nextjs-admin-route-1fie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
