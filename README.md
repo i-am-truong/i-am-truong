@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Context in Context: Why AI Tools Degrade Over Longer Work Sessions](https://dev.to/keithjmackay/context-in-context-why-ai-tools-degrade-over-longer-work-sessions-4m0m)
-- [Use Data Stores In Application Development | 🏗️ Build A Product Catalog API](https://dev.to/aws-builders/use-data-stores-in-application-development-build-a-product-catalog-api-404f)
-- [Stop Sharing Prompts — Start Shipping Claude Plugins](https://dev.to/montells/stop-sharing-prompts-start-shipping-claude-plugins-od2)
-- [Introduction to Dinghy: a Swiss-army knife for everyday engineering](https://dev.to/mrduguo/introduction-to-dinghy-a-swiss-army-knife-for-everyday-engineering-20l2)
-- [What Nigeria&#39;s Stock Market Taught Me About System Reliability](https://dev.to/okeke_chukwudubem_5f3bf49/what-nigerias-stock-market-taught-me-about-system-reliability-19n4)
+- [Your prompt is getting longer without you knowing it &lpar;and it&#39;s killing your margins&rpar;](https://dev.to/amedinat/your-prompt-is-getting-longer-without-you-knowing-it-and-its-killing-your-margins-1b71)
+- [Win11 Zero-Days, npm Supply Chain, &amp; AI Agent Security Threats](https://dev.to/soytuber/win11-zero-days-npm-supply-chain-ai-agent-security-threats-5h76)
+- [Claude Code &#39;Run Until Done&#39; Mode, AI Concierge, &amp; Mythos Scan for Curl Bugs](https://dev.to/soytuber/claude-code-run-until-done-mode-ai-concierge-mythos-scan-for-curl-bugs-ic1)
+- [SQLite Corruption in Sandboxes, PostgreSQL Caching, &amp; Rust DB Proxy Architecture](https://dev.to/soytuber/sqlite-corruption-in-sandboxes-postgresql-caching-rust-db-proxy-architecture-35hp)
+- [Testing TanStack Router + Query apps in the real browser](https://dev.to/kevinccbsg/testing-tanstack-router-query-apps-in-the-real-browser-j3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
