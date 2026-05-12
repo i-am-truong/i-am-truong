@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling Midnight SDK Breaking Changes: A Developer&#39;s Upgrade Playbook](https://dev.to/iamharrie/handling-midnight-sdk-breaking-changes-a-developers-upgrade-playbook-1lcc)
-- [Dead Light Framework: An Experimental Framework for Human-AI Collaboration #Post 1](https://dev.to/letuhao/dead-light-framework-an-experimental-framework-for-human-ai-collaboration-post-1-5bh8)
-- [Getting Selected — The Night I Couldn&#39;t Sleep](https://dev.to/magic-peach/getting-selected-the-night-i-couldnt-sleep-596j)
-- [ETL Pipeline for Data Engineering: A Beginner&#39;s Guide to Extract, Transform, and Load](https://dev.to/gowthampotureddi/etl-pipeline-for-data-engineering-a-beginners-guide-to-extract-transform-and-load-4i1f)
-- [Why post-deploy verification deserves its own category](https://dev.to/lazypl82/why-post-deploy-verification-deserves-its-own-category-1po)
+- [The Hidden Cost of &quot;It Works&quot;: Why Quick Fixes Kill Long-Term Speed](https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5)
+- [🚀 I built askdiff — a Claude Code skill that lets you ask questions to the same session that wrote the code](https://dev.to/narghev/i-built-askdiff-a-claude-code-skill-that-lets-you-ask-questions-to-the-same-session-that-wrote-45d3)
+- [Weekly Challenge: Joining and splitting lists](https://dev.to/simongreennet/weekly-challenge-joining-and-splitting-lists-18gh)
+- [Dive Into Containerization, Docker &amp; Docker Compose](https://dev.to/edmund_eryuba/dive-into-containerization-docker-docker-compose-aik)
+- [I haven’t finished a single project 100%](https://dev.to/orchidfiles/i-havent-finished-a-single-project-100-2mfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
