@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of &quot;It Works&quot;: Why Quick Fixes Kill Long-Term Speed](https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5)
-- [🚀 I built askdiff — a Claude Code skill that lets you ask questions to the same session that wrote the code](https://dev.to/narghev/i-built-askdiff-a-claude-code-skill-that-lets-you-ask-questions-to-the-same-session-that-wrote-45d3)
-- [Weekly Challenge: Joining and splitting lists](https://dev.to/simongreennet/weekly-challenge-joining-and-splitting-lists-18gh)
-- [Dive Into Containerization, Docker &amp; Docker Compose](https://dev.to/edmund_eryuba/dive-into-containerization-docker-docker-compose-aik)
-- [I haven’t finished a single project 100%](https://dev.to/orchidfiles/i-havent-finished-a-single-project-100-2mfn)
+- [How to Build a Headless Shopify Store with Next.js in 2026](https://dev.to/ogresto/how-to-build-a-headless-shopify-store-with-nextjs-in-2026-4eka)
+- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-4f2c)
+- [Remove text and watermarks from any image — one API call](https://dev.to/om_prakash_3311f8a4576605/remove-text-and-watermarks-from-any-image-one-api-call-1b33)
+- [Advanced provideHttpClient Interceptors](https://dev.to/abdelaaziz_ouakala/advanced-providehttpclient-interceptors-5de0)
+- [Open Directory Listings: The WordPress Security Hole You Forgot](https://dev.to/jonathan_pimperton_971ac1/open-directory-listings-the-wordpress-security-hole-you-forgot-480p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
