@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RCS Business Messaging: 5 Templates You Can Use Today &lpar;JSON + Validation Checklist&rpar;](https://dev.to/rcsxplatform/rcs-business-messaging-5-templates-you-can-use-today-json-validation-checklist-4f52)
-- [The SEO-to-GEO workflow diff: what we kept, cut, and rewrote](https://dev.to/code_pocket_99fdbc771/the-seo-to-geo-workflow-diff-what-we-kept-cut-and-rewrote-2ogb)
-- [How we tier-coded 800 AI search citations &lpar;and re-coded 174 of them&rpar;](https://dev.to/code_pocket_99fdbc771/how-we-tier-coded-800-ai-search-citations-and-re-coded-174-of-them-1i4o)
-- [Back-End Web Development — VPS vs Vercel vs Netlify](https://dev.to/wadethomastt/back-end-web-development-vps-vs-vercel-vs-netlify-3cok)
-- [The Missing Axiom for Stateless Agents](https://dev.to/ajaxstardust/the-missing-axiom-for-stateless-agents-bfm)
+- [Handling Midnight SDK Breaking Changes: A Developer&#39;s Upgrade Playbook](https://dev.to/iamharrie/handling-midnight-sdk-breaking-changes-a-developers-upgrade-playbook-1lcc)
+- [Dead Light Framework: An Experimental Framework for Human-AI Collaboration #Post 1](https://dev.to/letuhao/dead-light-framework-an-experimental-framework-for-human-ai-collaboration-post-1-5bh8)
+- [Getting Selected — The Night I Couldn&#39;t Sleep](https://dev.to/magic-peach/getting-selected-the-night-i-couldnt-sleep-596j)
+- [ETL Pipeline for Data Engineering: A Beginner&#39;s Guide to Extract, Transform, and Load](https://dev.to/gowthampotureddi/etl-pipeline-for-data-engineering-a-beginners-guide-to-extract-transform-and-load-4i1f)
+- [Why post-deploy verification deserves its own category](https://dev.to/lazypl82/why-post-deploy-verification-deserves-its-own-category-1po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
