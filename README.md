@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Programmatic SEO Platform with 500+ Pages for Turkey&#39;s LED Lighting Industry](https://dev.to/ismailgunaydin/how-we-built-a-programmatic-seo-platform-with-500-pages-for-turkeys-led-lighting-industry-5f9a)
-- [GitHub Weekly: Security Scanning Hits Your IDE, Enterprise Migrations Go Live](https://dev.to/htekdev/github-weekly-security-scanning-hits-your-ide-enterprise-migrations-go-live-18k0)
-- [I Cut Coding Agent Context Usage by 22–45% by Killing Context Bloat](https://dev.to/gauzzastrip/i-cut-coding-agent-context-usage-by-22-45-by-killing-context-bloat-2g3k)
-- [Cambié el Cerebro de Mi Coding Agent: De Opus a Modelos Open-Source por $30/mes](https://dev.to/cristiantalasanchez/cambie-el-cerebro-de-mi-coding-agent-de-opus-a-modelos-open-source-por-30mes-3d2e)
-- [How a fake npm package made Cursor backdoor a Next.js admin route](https://dev.to/oopssec-store/how-a-fake-npm-package-made-cursor-backdoor-a-nextjs-admin-route-1fie)
+- [Context in Context: Why AI Tools Degrade Over Longer Work Sessions](https://dev.to/keithjmackay/context-in-context-why-ai-tools-degrade-over-longer-work-sessions-4m0m)
+- [Use Data Stores In Application Development | 🏗️ Build A Product Catalog API](https://dev.to/aws-builders/use-data-stores-in-application-development-build-a-product-catalog-api-404f)
+- [Stop Sharing Prompts — Start Shipping Claude Plugins](https://dev.to/montells/stop-sharing-prompts-start-shipping-claude-plugins-od2)
+- [Introduction to Dinghy: a Swiss-army knife for everyday engineering](https://dev.to/mrduguo/introduction-to-dinghy-a-swiss-army-knife-for-everyday-engineering-20l2)
+- [What Nigeria&#39;s Stock Market Taught Me About System Reliability](https://dev.to/okeke_chukwudubem_5f3bf49/what-nigerias-stock-market-taught-me-about-system-reliability-19n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
