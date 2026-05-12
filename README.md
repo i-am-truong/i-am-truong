@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Used Codex to Build, Structure, Validate, and Deploy an SEO Glossary](https://dev.to/time20260320/i-used-codex-to-build-structure-validate-and-deploy-an-seo-glossary-71)
-- [The Agent Space Is About to Have Its TCP/IP Moment. Here Is What That Means for Builders.](https://dev.to/artem_a/the-agent-space-is-about-to-have-its-tcpip-moment-here-is-what-that-means-for-builders-1eof)
-- [The ESP32 Has Quietly Become One of the Most Interesting Hacker Devices Alive](https://dev.to/numbpill3d/the-esp32-has-quietly-become-one-of-the-most-interesting-hacker-devices-alive-3fa3)
-- [Embed mruby as a Single Binary That Runs Everywhere](https://dev.to/eldemcan/embed-mruby-as-a-single-binary-that-runs-everywhere-10o0)
-- [From Zero to Scripts: My Bitcoin CLI Learning Journey &lpar;Btrust Builders Program&rpar;](https://dev.to/muhammad_ademola/from-zero-to-scripts-my-bitcoin-cli-learning-journey-btrust-builders-program-2i27)
+- [RCS Business Messaging: 5 Templates You Can Use Today &lpar;JSON + Validation Checklist&rpar;](https://dev.to/rcsxplatform/rcs-business-messaging-5-templates-you-can-use-today-json-validation-checklist-4f52)
+- [The SEO-to-GEO workflow diff: what we kept, cut, and rewrote](https://dev.to/code_pocket_99fdbc771/the-seo-to-geo-workflow-diff-what-we-kept-cut-and-rewrote-2ogb)
+- [How we tier-coded 800 AI search citations &lpar;and re-coded 174 of them&rpar;](https://dev.to/code_pocket_99fdbc771/how-we-tier-coded-800-ai-search-citations-and-re-coded-174-of-them-1i4o)
+- [Back-End Web Development — VPS vs Vercel vs Netlify](https://dev.to/wadethomastt/back-end-web-development-vps-vs-vercel-vs-netlify-3cok)
+- [The Missing Axiom for Stateless Agents](https://dev.to/ajaxstardust/the-missing-axiom-for-stateless-agents-bfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
