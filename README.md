@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your GitHub Profile README Is Boring. Here&#39;s How to Fix It with SVG and GitHub Actions.](https://dev.to/flyingsquirrel0419/your-github-profile-readme-is-boring-heres-how-to-fix-it-with-svg-and-github-actions-3pim)
-- [Lean System Design](https://dev.to/anivan/lean-system-design-km7)
-- [validatorgo v1.0.0 is here 🎉 — the validator.js you&#39;ve been missing in Go](https://dev.to/gbubemi_attah_8220489db16/validatorgo-v100-is-here-the-validatorjs-youve-been-missing-in-go-55bo)
-- [Your API ranks on Google. But does it rank for AI agents?](https://dev.to/anhmtk/your-api-ranks-on-google-but-does-it-rank-for-ai-agents-1hg)
-- [The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and &quot;Pay-per-Citation&quot; by Law](https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl)
+- [My AI agent saved the first paragraph and the last. It dropped 41 in between.](https://dev.to/achiya-automation/my-ai-agent-saved-the-first-paragraph-and-the-last-it-dropped-41-in-between-app)
+- [I Built a Browser-Only Image Vectorizer with WebAssembly](https://dev.to/scofieldfree/i-built-a-browser-only-image-vectorizer-with-webassembly-3fnf)
+- [Analyzing HLS Audio Streams with Web Audio API and hls.js](https://dev.to/andreyburov30/analyzing-hls-audio-streams-with-web-audio-api-and-hlsjs-ffb)
+- [ML fraud detection platform using AI agents](https://dev.to/souptik96/ml-fraud-detection-platform-using-ai-agents-39k8)
+- [LLD Foundations: Understanding Requirements &lpar;the step most people skip&rpar;](https://dev.to/saras_growth_space/lld-foundations-understanding-requirements-the-step-most-people-skip-2f96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
