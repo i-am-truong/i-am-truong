@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an Open-Source Alternative to Shorebird for Flutter Android](https://dev.to/_55d75133ad4e878cdf076/why-i-built-an-open-source-alternative-to-shorebird-for-flutter-android-dol)
-- [5 Python Scripts Every Freelancer Should Run on Autopilot](https://dev.to/brad_20095bd4959b60ad2335/5-python-scripts-every-freelancer-should-run-on-autopilot-1ni3)
-- [CI/CD for Terraform on GCP: Plan on Pull Request, Apply with Approval, No Static Keys](https://dev.to/abrahamparn/cicd-for-terraform-on-gcp-plan-on-pull-request-apply-with-approval-no-static-keys-3kpm)
-- [Untimely feedback as a root cause of tech debt](https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd)
-- [The Production Problem with Async Dual Writes](https://dev.to/rishabh_pahwa_1a2b93e60b0/the-production-problem-with-async-dual-writes-ao4)
+- [I&#39;ve white-labeled the same CRM codebase 7 times for 7 different clients. I never touch the core. Here&#39;s how the override layer works.](https://dev.to/seedlycrm/ive-white-labeled-the-same-crm-codebase-7-times-for-7-different-clients-i-never-touch-the-core-5haa)
+- [5 AWS Migration Strategies](https://dev.to/khushi_dubey/5-aws-migration-strategies-47ob)
+- [# I Spent 6 Hours Debugging AWS Before Realising the Bug Was a Capital Letter](https://dev.to/edithasante/-i-spent-6-hours-debugging-aws-before-realising-the-bug-was-a-capital-letter-5369)
+- [Replace Zapier With 50 Lines of Python &lpar;Save $50/Month&rpar;](https://dev.to/brad_20095bd4959b60ad2335/replace-zapier-with-50-lines-of-python-save-50month-4nl8)
+- [Dev Log: From Combat MVP to Map Mode - Building the Strategic Core of &quot;CIDER&quot;](https://dev.to/gamedecisiondiagram/dev-log-from-combat-mvp-to-map-mode-building-the-strategic-core-of-cider-55jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
