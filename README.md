@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apostrophe and quotes](https://dev.to/orchidfiles/apostrophe-and-quotes-10o4)
-- [Online Telehealth Services in 2026: What Actually Works &lpar;and What&#39;s Just Marketing&rpar;](https://dev.to/verticomply/online-telehealth-services-in-2026-what-actually-works-and-whats-just-marketing-e57)
-- [Limites de Taxa da API GPT: Níveis, Limites de Uso e Como Testar com Apidog](https://dev.to/lucas_ferreira/limites-de-taxa-da-api-gpt-niveis-limites-de-uso-e-como-testar-com-apidog-4jk8)
-- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
-- [AI Wrote My Code, But I Still Own the Bug](https://dev.to/yingcai_wu_54540bf36aeff0/ai-wrote-my-code-but-i-still-own-the-bug-3l4e)
+- [Every AI coding assistant is shipping the same security bugs.](https://dev.to/a-leks/every-ai-coding-assistant-is-shipping-the-same-security-bugs-25oi)
+- [Building a Simple Web Server in Go](https://dev.to/steve_omollo/building-a-simple-web-server-in-go-59hl)
+- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- [I have talked to dozens of AI teams about production. The same things keep breaking.](https://dev.to/neethu_eve_/i-have-talked-to-dozens-of-ai-teams-about-production-the-same-things-keep-breaking-1n6b)
+- [Image Compression &amp; Privacy: Why You Shouldn&#39;t Upload Private Photos to Online Tools](https://dev.to/hunkwu/image-compression-privacy-why-you-shouldnt-upload-private-photos-to-online-tools-1aij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
