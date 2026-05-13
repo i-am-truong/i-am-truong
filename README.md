@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I kept noticing my overtime paycheck felt wrong, so I built a small calculator](https://dev.to/leviali12/i-kept-noticing-my-overtime-paycheck-felt-wrong-so-i-built-a-small-calculator-3oik)
-- [How to Build a Privacy-First Search Engine in 2026](https://dev.to/james12345000/how-to-build-a-privacy-first-search-engine-in-2026-3735)
-- [Claude Code Stops Pausing Every Turn: /goal, /loop, /batch, /background](https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-3lkm)
-- [How I built an AI reporter for Playwright that explains test failures](https://dev.to/sechavarriar/how-i-built-an-ai-reporter-for-playwright-that-explains-test-failures-5ep)
-- [How LumiClip Finds the Best Moments in Your Video and Reframes Them for Mobile](https://dev.to/garrywilliamss/how-lumiclip-finds-the-best-moments-in-your-video-and-reframes-them-for-mobile-2hlh)
+- [Emberroad](https://dev.to/cberube_5/emberroad-2lfd)
+- [Healthcare AI that runs where there&#39;s no internet — Gemma 4 on a $150 phone](https://dev.to/brenosalves/healthcare-ai-that-runs-where-theres-no-internet-gemma-4-on-a-150-phone-53p5)
+- [Minimum Viable DSGVO Compliance for Startups](https://dev.to/james12345000/minimum-viable-dsgvo-compliance-for-startups-34mh)
+- [Azure Portal 101: Deploy a Windows 10 VM Without Ever Touching the CLI](https://dev.to/degreatkhali/azure-portal-101-deploy-a-windows-10-vm-without-ever-touching-the-cli-33db)
+- [Building a Compliance Early Warning System](https://dev.to/james12345000/building-a-compliance-early-warning-system-1aee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
