@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Happens During an Incident &lpar;Part 4&rpar;](https://dev.to/aws-builders/what-happens-during-an-incident-part-4-2i8j)
-- [6 architectures I considered for a privacy-first personal SaaS — and why I built two of them](https://dev.to/deeshansharma/6-architectures-i-considered-for-a-privacy-first-personal-saas-and-why-i-built-two-of-them-pcc)
-- [I asked Cursor to rename a function. It sent 8,400 tokens. I checked.](https://dev.to/thegdsks/i-asked-cursor-to-rename-a-function-it-sent-8400-tokens-i-checked-434h)
-- [I built an AI Agent that lives directly in your CLI and Desktop](https://dev.to/pheem49/i-built-an-ai-agent-that-lives-directly-in-your-cli-and-desktop-3dkf)
-- [Tired of typing `cd`? I built a Proton-T is a smarter cd command, blazing-fast directory jumper in Rust](https://dev.to/pheem49/tired-of-typing-cd-i-built-a-smarter-blazing-fast-directory-jumper-in-rust-407b)
+- [Apostrophe and quotes](https://dev.to/orchidfiles/apostrophe-and-quotes-10o4)
+- [Online Telehealth Services in 2026: What Actually Works &lpar;and What&#39;s Just Marketing&rpar;](https://dev.to/verticomply/online-telehealth-services-in-2026-what-actually-works-and-whats-just-marketing-e57)
+- [Limites de Taxa da API GPT: Níveis, Limites de Uso e Como Testar com Apidog](https://dev.to/lucas_ferreira/limites-de-taxa-da-api-gpt-niveis-limites-de-uso-e-como-testar-com-apidog-4jk8)
+- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
+- [AI Wrote My Code, But I Still Own the Bug](https://dev.to/yingcai_wu_54540bf36aeff0/ai-wrote-my-code-but-i-still-own-the-bug-3l4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
