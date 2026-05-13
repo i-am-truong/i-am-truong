@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hardware Stack for Forest Environmental Testing: Sensors, Instruments, and Field Deployment](https://dev.to/nikita_rabari_1189133ac83/the-hardware-stack-for-forest-environmental-testing-sensors-instruments-and-field-deployment-48mg)
-- [Mistral AI PyPI Supply Chain Attack &lpar;mistralai 2.4.6&rpar;: What Python &amp; AI Developers Must Do Right Now](https://dev.to/cryip/mistral-ai-pypi-supply-chain-attack-mistralai-246-what-python-ai-developers-must-do-right-now-c8i)
-- [🔐 BENQI Security: Audits, Risk Architecture &amp; What Every Developer Should Know](https://dev.to/cryptosigma1/benqi-security-audits-risk-architecture-what-every-developer-should-know-211f)
-- [Microservices Architecture Best Practices: A CTO&#39;s Decision Framework for 2026](https://dev.to/asifthewebguy/microservices-architecture-best-practices-a-ctos-decision-framework-for-2026-2ng3)
-- [Introducing circ, a small language for digital circuits](https://dev.to/jeffersonmourak/introducing-circ-a-small-language-for-digital-circuits-22pc)
+- [Why I Built an Open-Source Alternative to Shorebird for Flutter Android](https://dev.to/_55d75133ad4e878cdf076/why-i-built-an-open-source-alternative-to-shorebird-for-flutter-android-dol)
+- [5 Python Scripts Every Freelancer Should Run on Autopilot](https://dev.to/brad_20095bd4959b60ad2335/5-python-scripts-every-freelancer-should-run-on-autopilot-1ni3)
+- [CI/CD for Terraform on GCP: Plan on Pull Request, Apply with Approval, No Static Keys](https://dev.to/abrahamparn/cicd-for-terraform-on-gcp-plan-on-pull-request-apply-with-approval-no-static-keys-3kpm)
+- [Untimely feedback as a root cause of tech debt](https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd)
+- [The Production Problem with Async Dual Writes](https://dev.to/rishabh_pahwa_1a2b93e60b0/the-production-problem-with-async-dual-writes-ao4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
