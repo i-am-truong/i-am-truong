@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [containers are becoming policy wrappers for ai agents](https://dev.to/pvgomes/containers-are-becoming-policy-wrappers-for-ai-agents-935)
-- [Why Your Form Auto-Reply Email Did Not Arrive](https://dev.to/lovanaut55/why-your-form-auto-reply-email-did-not-arrive-4ef2)
-- [I Built a Private AI Assistant That Runs 100% Locally — No Cloud, No Subscriptions](https://dev.to/davesimoes/i-built-a-private-ai-assistant-that-runs-100-locally-no-cloud-no-subscriptions-kph)
-- [Formspree vs Formgrid in 2026: Which One Actually Helps You Win Customers?](https://dev.to/allenarduino/formspree-vs-formgrid-in-2026-which-one-actually-helps-you-win-customers-5dfc)
-- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-547f)
+- [What Happens During an Incident &lpar;Part 4&rpar;](https://dev.to/aws-builders/what-happens-during-an-incident-part-4-2i8j)
+- [6 architectures I considered for a privacy-first personal SaaS — and why I built two of them](https://dev.to/deeshansharma/6-architectures-i-considered-for-a-privacy-first-personal-saas-and-why-i-built-two-of-them-pcc)
+- [I asked Cursor to rename a function. It sent 8,400 tokens. I checked.](https://dev.to/thegdsks/i-asked-cursor-to-rename-a-function-it-sent-8400-tokens-i-checked-434h)
+- [I built an AI Agent that lives directly in your CLI and Desktop](https://dev.to/pheem49/i-built-an-ai-agent-that-lives-directly-in-your-cli-and-desktop-3dkf)
+- [Tired of typing `cd`? I built a Proton-T is a smarter cd command, blazing-fast directory jumper in Rust](https://dev.to/pheem49/tired-of-typing-cd-i-built-a-smarter-blazing-fast-directory-jumper-in-rust-407b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
