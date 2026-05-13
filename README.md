@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every AI coding assistant is shipping the same security bugs.](https://dev.to/a-leks/every-ai-coding-assistant-is-shipping-the-same-security-bugs-25oi)
-- [Building a Simple Web Server in Go](https://dev.to/steve_omollo/building-a-simple-web-server-in-go-59hl)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [I have talked to dozens of AI teams about production. The same things keep breaking.](https://dev.to/neethu_eve_/i-have-talked-to-dozens-of-ai-teams-about-production-the-same-things-keep-breaking-1n6b)
-- [Image Compression &amp; Privacy: Why You Shouldn&#39;t Upload Private Photos to Online Tools](https://dev.to/hunkwu/image-compression-privacy-why-you-shouldnt-upload-private-photos-to-online-tools-1aij)
+- [The Hardware Stack for Forest Environmental Testing: Sensors, Instruments, and Field Deployment](https://dev.to/nikita_rabari_1189133ac83/the-hardware-stack-for-forest-environmental-testing-sensors-instruments-and-field-deployment-48mg)
+- [Mistral AI PyPI Supply Chain Attack &lpar;mistralai 2.4.6&rpar;: What Python &amp; AI Developers Must Do Right Now](https://dev.to/cryip/mistral-ai-pypi-supply-chain-attack-mistralai-246-what-python-ai-developers-must-do-right-now-c8i)
+- [🔐 BENQI Security: Audits, Risk Architecture &amp; What Every Developer Should Know](https://dev.to/cryptosigma1/benqi-security-audits-risk-architecture-what-every-developer-should-know-211f)
+- [Microservices Architecture Best Practices: A CTO&#39;s Decision Framework for 2026](https://dev.to/asifthewebguy/microservices-architecture-best-practices-a-ctos-decision-framework-for-2026-2ng3)
+- [Introducing circ, a small language for digital circuits](https://dev.to/jeffersonmourak/introducing-circ-a-small-language-for-digital-circuits-22pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
