@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Taming the AI: I built a Self-Healing SysAdmin Agent in a Docker Sandbox 🛡️](https://dev.to/kernelcero/taming-the-ai-i-built-a-self-healing-sysadmin-agent-in-a-docker-sandbox-2o9i)
-- [Hexagonal Architecture Should Be Your Default](https://dev.to/tacoda/hexagonal-architecture-should-be-your-default-4jdc)
-- [The 20-Minute Compromise: CI/CD Audit Guide for the TanStack Supply Chain Attack](https://dev.to/narnaiezzsshaa/the-20-minute-compromise-cicd-audit-guide-for-the-tanstack-supply-chain-attack-48g7)
-- [I Built Compressly Because Most Image Conversion Tools Were Honestly Frustrating](https://dev.to/athenis/i-built-compressly-because-most-image-conversion-tools-were-honestly-frustrating-380k)
-- [Can you stop attacking #npm packages? I&#39;m scared of installing packages. Now it&#39;s time to switch 100% to PNPM...](https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4)
+- [containers are becoming policy wrappers for ai agents](https://dev.to/pvgomes/containers-are-becoming-policy-wrappers-for-ai-agents-935)
+- [Why Your Form Auto-Reply Email Did Not Arrive](https://dev.to/lovanaut55/why-your-form-auto-reply-email-did-not-arrive-4ef2)
+- [I Built a Private AI Assistant That Runs 100% Locally — No Cloud, No Subscriptions](https://dev.to/davesimoes/i-built-a-private-ai-assistant-that-runs-100-locally-no-cloud-no-subscriptions-kph)
+- [Formspree vs Formgrid in 2026: Which One Actually Helps You Win Customers?](https://dev.to/allenarduino/formspree-vs-formgrid-in-2026-which-one-actually-helps-you-win-customers-5dfc)
+- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-547f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
