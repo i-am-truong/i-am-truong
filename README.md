@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I open-sourced passport photo specs for 100 countries &lpar;MIT, JSON, public API&rpar;](https://dev.to/whitetirocket/i-open-sourced-passport-photo-specs-for-100-countries-mit-json-public-api-50d2)
-- [How Slurm Handles Resource Allocation Internally](https://dev.to/zubairakbar/how-slurm-handles-resource-allocation-internally-3fj5)
-- [Data Analytics with Python as a Beginner](https://dev.to/ericmwaimiri/data-analytics-with-python-as-a-beginner-1hp2)
-- [Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l)
-- [I built DeFi contracts as portable, sealed .js files — no blockchain require](https://dev.to/freedom_dev/i-built-defi-contracts-as-portable-sealed-js-files-no-blockchain-require-527c)
+- [Understanding Reinforcement Learning with Neural Networks Part 4: Positive and Negative Rewards](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-4-positive-and-negative-rewards-23h0)
+- [Building a Cross-Country Payroll API: The Weird Problems I Didn’t Expect](https://dev.to/obolus_dario/building-a-cross-country-payroll-api-the-weird-problems-i-didnt-expect-13e1)
+- [I Built fintech-fraud-sim: A TypeScript CLI for Synthetic Fraud Testing Data](https://dev.to/oluwatosinolamilekan/i-built-fintech-fraud-sim-a-typescript-cli-for-synthetic-fraud-testing-data-34kj)
+- [We moved daily standups into Slack](https://dev.to/kelly_lewandowski_845215e/we-moved-daily-standups-into-slack-14c6)
+- [How AI and Cursor Are Transforming Product Management: From PM to Builder](https://dev.to/jam_dev_3a18124ce120e7dd9/how-ai-and-cursor-are-transforming-product-management-from-pm-to-builder-k4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
