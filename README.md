@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Fitness Wearable Companion App with React Native &lpar;HealthKit + Health Connect&rpar;](https://dev.to/famitha_ma_b9c13ab1d324e/build-a-fitness-wearable-companion-app-with-react-native-healthkit-health-connect-57en)
-- [Context is what you are missing in your AI Agents](https://dev.to/pavanbelagatti/context-is-what-you-are-missing-in-ai-agents-3clj)
-- [The Firmware Engineer’s Nightmare: When &#39;If-Else&#39; is no longer enough](https://dev.to/durva_shah/the-firmware-engineers-nightmare-when-if-else-is-no-longer-enough-357e)
-- [A Beginner’s Guide to Apache Kafka: The Engine of Real-Time Data](https://dev.to/lawrence_murithi/a-beginners-guide-to-apache-kafka-the-engine-of-real-time-data-2k7j)
-- [Advanced Array Methods in JavaScript: map, filter, reduce, and forEach](https://dev.to/sharique_siddiqui_8242dad/advanced-array-methods-in-javascript-map-filter-reduce-and-foreach-fcm)
+- [How to Build a Traffic Dashboard with Road511 + Leaflet](https://dev.to/road511/how-to-build-a-traffic-dashboard-with-road511-leaflet-220l)
+- [Your AI Trading Agent Is One Token Leak From Real Trades](https://dev.to/rednakta/your-ai-trading-agent-is-one-token-leak-from-real-trades-3a26)
+- [Sliding Window &amp; Two Pointers: The Decision Framework Nobody Teaches You](https://dev.to/expora/sliding-window-two-pointers-the-decision-framework-nobody-teaches-you-4p4c)
+- [Traffic Generator AI: The Future of Smart Website Growth and Automated Audience Expansion](https://dev.to/anita_singhal_3f29911035f/traffic-generator-ai-the-future-of-smart-website-growth-and-automated-audience-expansion-1f5)
+- [My 2 cents on Yii3](https://dev.to/xwero/my-2-cents-on-yii3-28i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
