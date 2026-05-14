@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Emberroad](https://dev.to/cberube_5/emberroad-2lfd)
-- [Healthcare AI that runs where there&#39;s no internet — Gemma 4 on a $150 phone](https://dev.to/brenosalves/healthcare-ai-that-runs-where-theres-no-internet-gemma-4-on-a-150-phone-53p5)
-- [Minimum Viable DSGVO Compliance for Startups](https://dev.to/james12345000/minimum-viable-dsgvo-compliance-for-startups-34mh)
-- [Azure Portal 101: Deploy a Windows 10 VM Without Ever Touching the CLI](https://dev.to/degreatkhali/azure-portal-101-deploy-a-windows-10-vm-without-ever-touching-the-cli-33db)
-- [Building a Compliance Early Warning System](https://dev.to/james12345000/building-a-compliance-early-warning-system-1aee)
+- [I Ran a Local AI on a 16-Year-Old Windows 7 PC with Only 4GB RAM — And It Actually Works! 🚀](https://dev.to/rexthony/i-ran-a-local-ai-on-a-16-year-old-windows-7-pc-with-only-4gb-ram-and-it-actually-works-14kc)
+- [MineCraft高版本服务端封禁插件！](https://dev.to/ukiyograin/minecraftgao-ban-ben-fu-wu-duan-feng-jin-cha-jian--15hf)
+- [How I Monitor AI Agents: CloudWatch for Infra, Arize Phoenix for Traces and OpenTelemetry, LLM-as-Judge for Quality](https://dev.to/aws-heroes/how-i-monitor-ai-agents-cloudwatch-for-infra-arize-phoenix-for-traces-and-opentelemetry-4iam)
+- [How to dynamically generate a maze using Prim&#39;s algorithm](https://dev.to/frydayfreebie/dynamic-maze-generation-using-prims-algorithm-1o7g)
+- [best video-to-ascii working on browser?](https://dev.to/goddesstex/best-ascii-to-video-working-on-browser-5031)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
