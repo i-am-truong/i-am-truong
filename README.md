@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Traffic Dashboard with Road511 + Leaflet](https://dev.to/road511/how-to-build-a-traffic-dashboard-with-road511-leaflet-220l)
-- [Your AI Trading Agent Is One Token Leak From Real Trades](https://dev.to/rednakta/your-ai-trading-agent-is-one-token-leak-from-real-trades-3a26)
-- [Sliding Window &amp; Two Pointers: The Decision Framework Nobody Teaches You](https://dev.to/expora/sliding-window-two-pointers-the-decision-framework-nobody-teaches-you-4p4c)
-- [Traffic Generator AI: The Future of Smart Website Growth and Automated Audience Expansion](https://dev.to/anita_singhal_3f29911035f/traffic-generator-ai-the-future-of-smart-website-growth-and-automated-audience-expansion-1f5)
-- [My 2 cents on Yii3](https://dev.to/xwero/my-2-cents-on-yii3-28i0)
+- [There are small things you can code yourself instead of paying for a SaaS](https://dev.to/hi3ris/there-are-small-things-you-can-code-yourself-instead-of-paying-for-a-saas-1lad)
+- [The Rise of Self-Hosted AI Workspaces for Modern Teams](https://dev.to/agntable/the-rise-of-self-hosted-ai-workspaces-for-modern-teams-3ca7)
+- [Y a de petites choses qu&#39;on peut coder soi-meme au lieu de payer un SaaS](https://dev.to/hi3ris/y-a-des-petites-choses-quon-peut-coder-soi-meme-au-lieu-de-payer-un-saas-252d)
+- [How to Add Free Trials to Your SaaS Without Friction: A Step-by-Step Guide With Kinde](https://dev.to/sholajegede/how-to-add-free-trials-to-your-saas-without-friction-a-step-by-step-guide-with-kinde-23ce)
+- [Laravel RateLimiter and a race condition](https://dev.to/vladislav_rajtmajer_18389/laravel-ratelimiter-and-a-race-condition-4b55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
