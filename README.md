@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Ran a Local AI on a 16-Year-Old Windows 7 PC with Only 4GB RAM — And It Actually Works! 🚀](https://dev.to/rexthony/i-ran-a-local-ai-on-a-16-year-old-windows-7-pc-with-only-4gb-ram-and-it-actually-works-14kc)
-- [MineCraft高版本服务端封禁插件！](https://dev.to/ukiyograin/minecraftgao-ban-ben-fu-wu-duan-feng-jin-cha-jian--15hf)
-- [How I Monitor AI Agents: CloudWatch for Infra, Arize Phoenix for Traces and OpenTelemetry, LLM-as-Judge for Quality](https://dev.to/aws-heroes/how-i-monitor-ai-agents-cloudwatch-for-infra-arize-phoenix-for-traces-and-opentelemetry-4iam)
-- [How to dynamically generate a maze using Prim&#39;s algorithm](https://dev.to/frydayfreebie/dynamic-maze-generation-using-prims-algorithm-1o7g)
-- [best video-to-ascii working on browser?](https://dev.to/goddesstex/best-ascii-to-video-working-on-browser-5031)
+- [The &quot;WS&quot; Evolution: Why I’m Switching to @rabbx/ws in 2026](https://dev.to/rabbxdev/the-ws-evolution-why-im-switching-to-rabbxws-in-2026-23go)
+- [The Ultimate Developer Guide to the Top Five Kubernetes Serverless Frameworks in 2026](https://dev.to/mechcloud_academy/the-ultimate-developer-guide-to-the-top-five-kubernetes-serverless-frameworks-in-2026-196a)
+- [Two Gates Are Closing on AI Web Scraping](https://dev.to/simon_paxton/two-gates-are-closing-on-ai-web-scraping-3l95)
+- [From Piper to Polly: How I Built a Production-Ready Text-to-Speech API &lpar;and Everything That Broke Along the Way&rpar;](https://dev.to/elizabeththomas7/from-piper-to-polly-how-i-built-a-production-ready-text-to-speech-api-and-everything-that-broke-nl9)
+- [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
