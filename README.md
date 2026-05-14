@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Platform to Help Beginners in Computer Science Stop Feeling Lost](https://dev.to/dreameater_619/we-built-a-platform-to-help-beginners-in-computer-science-stop-feeling-lost-64c)
-- [How to create a Microsoft Azure storage account for securing private data and file backup](https://dev.to/tjasper/how-to-create-a-microsoft-azure-storage-account-for-securing-private-data-and-file-backup-3ol5)
-- [I built a free AI-powered Linktree alternative that generates your page algorithmically — Xefna](https://dev.to/smshahbaj/i-built-a-free-ai-powered-linktree-alternative-that-generates-your-page-algorithmically-xefna-34ml)
-- [HTMX or React? Why I chose a Third Way](https://dev.to/0x1/htmx-or-react-why-i-chose-a-third-way-5516)
-- [The Python Survival Guide I Built the Night Before My Assessment](https://dev.to/ithiria894/python-coding-cheatsheet-everything-you-need-for-timed-assessments-70n)
+- [ArcadeLab vs itch.io vs Glitch vs GitHub Pages — which to use?](https://dev.to/arcadelab/arcadelab-vs-itchio-vs-glitch-vs-github-pages-which-to-use-2eg2)
+- [Using Cypress Component Testing with Angular and Vite](https://dev.to/brandontroberts/using-cypress-component-testing-with-angular-and-vite-2f31)
+- [Where can I publish an interactive visualization online?](https://dev.to/arcadelab/where-can-i-publish-an-interactive-visualization-online-4pep)
+- [How do I share an interactive thing I made with Claude or AI?](https://dev.to/arcadelab/how-do-i-share-an-interactive-thing-i-made-with-claude-or-ai-5c5p)
+- [Incremental Modernization Architecture: Designing Multi-Tenant Extensibility for Enterprise SaaS](https://dev.to/sauloos/incremental-modernization-architecture-designing-multi-tenant-extensibility-for-enterprise-saas-125h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
