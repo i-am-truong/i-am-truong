@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stay Tuned on May 22 for the Gemma 4 Writing Challenge Post Featuring 4 DEVengers!](https://dev.to/devengers/stay-tuned-on-may-22-for-the-gemma-4-writing-challenge-post-featuring-4-devengers-593)
-- [The primary reader changed](https://dev.to/jucelinux/the-primary-reader-changed-4glo)
-- [NLP Video Editing Copilot](https://dev.to/nickvalenciatech/nlp-video-editing-copilot-3ama)
-- [What I learned generating OG images for articles with Playwright and zero API cost](https://dev.to/morinaga/what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost-3c0e)
-- [I Built Rune Because the Internet Started Feeling Disconnected](https://dev.to/ksparth12/i-built-rune-because-the-internet-started-feeling-disconnected-2nbg)
+- [RAG - Sliding Window, Token Based Chunking and PDF Chunking Packages](https://dev.to/ramya_perumal_e93721ef2fa/rag-sliding-window-token-based-chunking-and-pdf-chunking-packages-18nd)
+- [The Worst Developers Quit Too Early](https://dev.to/amoreno/the-worst-developers-quit-too-early-6dp)
+- [How Probabilistic Graphical Models Represent Uncertainty](https://dev.to/zeromathai/how-probabilistic-graphical-models-represent-uncertainty-5gcd)
+- [The Cruise Passengers](https://dev.to/ldkrx/the-cruise-passengers-4bno)
+- [Bitcoin’s Secret Math: Modular Arithmetic &amp; Finite Fields](https://dev.to/muhammad_ademola/bitcoins-secret-math-modular-arithmetic-finite-fields-4165)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
