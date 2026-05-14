@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Knowledge Base Software for B2B Support: Architecture, API Design, and AI Readiness](https://dev.to/kumarharsh/knowledge-base-software-for-b2b-support-architecture-api-design-and-ai-readiness-3pme)
-- [Why Gemma 4 Matters More Than Most People Realize](https://dev.to/denial_123/why-gemma-4-matters-more-than-most-people-realize-3334)
-- [Security in SQLite: Protecting Data in a Database That Trusts the File System](https://dev.to/lovestaco/security-in-sqlite-protecting-data-in-a-database-that-trusts-the-file-system-57ek)
-- [I built a permission-first CLAUDE.md + agent stack for Claude Code &lpar;free, MIT&rpar;](https://dev.to/sabahattink/i-built-a-permission-first-claudemd-agent-stack-for-claude-code-free-mit-4ep6)
-- [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l)
+- [Stay Tuned on May 22 for the Gemma 4 Writing Challenge Post Featuring 4 DEVengers!](https://dev.to/devengers/stay-tuned-on-may-22-for-the-gemma-4-writing-challenge-post-featuring-4-devengers-593)
+- [The primary reader changed](https://dev.to/jucelinux/the-primary-reader-changed-4glo)
+- [NLP Video Editing Copilot](https://dev.to/nickvalenciatech/nlp-video-editing-copilot-3ama)
+- [What I learned generating OG images for articles with Playwright and zero API cost](https://dev.to/morinaga/what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost-3c0e)
+- [I Built Rune Because the Internet Started Feeling Disconnected](https://dev.to/ksparth12/i-built-rune-because-the-internet-started-feeling-disconnected-2nbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
