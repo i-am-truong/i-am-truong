@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Pareto Principle applied to software engineering](https://dev.to/markjivko/the-pareto-principle-applied-to-software-engineering-5ajf)
-- [From Fuzzy Matching to Evidence Capsules: Building an Explainable Sanctions Screening Engine](https://dev.to/verifex/from-fuzzy-matching-to-evidence-capsules-building-an-explainable-sanctions-screening-engine-62c)
-- [Why AI Architectural Governance Needs Precedence Semantics](https://dev.to/mnemehq/why-ai-architectural-governance-needs-precedence-semantics-2ob6)
-- [Why Your Recommendation Engine Passes Every Test and Fails in Production](https://dev.to/vf-insights/why-your-recommendation-engine-passes-every-test-and-fails-in-production-4mef)
-- [Why RAG Fails for Architectural Governance](https://dev.to/mnemehq/why-rag-fails-for-architectural-governance-4h79)
+- [Leakage in ML Pipelines: How to build a bulletproof preprocessing architecture](https://dev.to/pasquale_molinaro/leakage-in-ml-pipelines-how-to-build-a-bulletproof-preprocessing-architecture-1ip4)
+- [Delhi Court Guts Tharoor Deepfake in Hours — and Rewrites the Rules for Every Investigator](https://dev.to/caracomp/delhi-court-guts-tharoor-deepfake-in-hours-and-rewrites-the-rules-for-every-investigator-4f57)
+- [What We Mean by &quot;AI Worker&quot; — And How We Actually Build Them](https://dev.to/leon_from_connective_labs/what-we-mean-by-ai-worker-and-how-we-actually-build-them-5ad9)
+- [AVIF encoding speed — the numbers nobody talks about](https://dev.to/serhii_kalyna_730b636889c/avif-encoding-speed-the-numbers-nobody-talks-about-a2h)
+- [CE marking under MDR — what&#39;s actually new, and what teams still get wrong](https://dev.to/priya_nair_ree/ce-marking-under-mdr-whats-actually-new-and-what-teams-still-get-wrong-4m13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
