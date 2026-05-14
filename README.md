@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ArcadeLab vs itch.io vs Glitch vs GitHub Pages — which to use?](https://dev.to/arcadelab/arcadelab-vs-itchio-vs-glitch-vs-github-pages-which-to-use-2eg2)
-- [Using Cypress Component Testing with Angular and Vite](https://dev.to/brandontroberts/using-cypress-component-testing-with-angular-and-vite-2f31)
-- [Where can I publish an interactive visualization online?](https://dev.to/arcadelab/where-can-i-publish-an-interactive-visualization-online-4pep)
-- [How do I share an interactive thing I made with Claude or AI?](https://dev.to/arcadelab/how-do-i-share-an-interactive-thing-i-made-with-claude-or-ai-5c5p)
-- [Incremental Modernization Architecture: Designing Multi-Tenant Extensibility for Enterprise SaaS](https://dev.to/sauloos/incremental-modernization-architecture-designing-multi-tenant-extensibility-for-enterprise-saas-125h)
+- [Knowledge Base Software for B2B Support: Architecture, API Design, and AI Readiness](https://dev.to/kumarharsh/knowledge-base-software-for-b2b-support-architecture-api-design-and-ai-readiness-3pme)
+- [Why Gemma 4 Matters More Than Most People Realize](https://dev.to/denial_123/why-gemma-4-matters-more-than-most-people-realize-3334)
+- [Security in SQLite: Protecting Data in a Database That Trusts the File System](https://dev.to/lovestaco/security-in-sqlite-protecting-data-in-a-database-that-trusts-the-file-system-57ek)
+- [I built a permission-first CLAUDE.md + agent stack for Claude Code &lpar;free, MIT&rpar;](https://dev.to/sabahattink/i-built-a-permission-first-claudemd-agent-stack-for-claude-code-free-mit-4ep6)
+- [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
