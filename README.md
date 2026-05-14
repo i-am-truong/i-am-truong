@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [There are small things you can code yourself instead of paying for a SaaS](https://dev.to/hi3ris/there-are-small-things-you-can-code-yourself-instead-of-paying-for-a-saas-1lad)
-- [The Rise of Self-Hosted AI Workspaces for Modern Teams](https://dev.to/agntable/the-rise-of-self-hosted-ai-workspaces-for-modern-teams-3ca7)
-- [Y a de petites choses qu&#39;on peut coder soi-meme au lieu de payer un SaaS](https://dev.to/hi3ris/y-a-des-petites-choses-quon-peut-coder-soi-meme-au-lieu-de-payer-un-saas-252d)
-- [How to Add Free Trials to Your SaaS Without Friction: A Step-by-Step Guide With Kinde](https://dev.to/sholajegede/how-to-add-free-trials-to-your-saas-without-friction-a-step-by-step-guide-with-kinde-23ce)
-- [Laravel RateLimiter and a race condition](https://dev.to/vladislav_rajtmajer_18389/laravel-ratelimiter-and-a-race-condition-4b55)
+- [The Pareto Principle applied to software engineering](https://dev.to/markjivko/the-pareto-principle-applied-to-software-engineering-5ajf)
+- [From Fuzzy Matching to Evidence Capsules: Building an Explainable Sanctions Screening Engine](https://dev.to/verifex/from-fuzzy-matching-to-evidence-capsules-building-an-explainable-sanctions-screening-engine-62c)
+- [Why AI Architectural Governance Needs Precedence Semantics](https://dev.to/mnemehq/why-ai-architectural-governance-needs-precedence-semantics-2ob6)
+- [Why Your Recommendation Engine Passes Every Test and Fails in Production](https://dev.to/vf-insights/why-your-recommendation-engine-passes-every-test-and-fails-in-production-4mef)
+- [Why RAG Fails for Architectural Governance](https://dev.to/mnemehq/why-rag-fails-for-architectural-governance-4h79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
