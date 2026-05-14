@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;WS&quot; Evolution: Why I’m Switching to @rabbx/ws in 2026](https://dev.to/rabbxdev/the-ws-evolution-why-im-switching-to-rabbxws-in-2026-23go)
-- [The Ultimate Developer Guide to the Top Five Kubernetes Serverless Frameworks in 2026](https://dev.to/mechcloud_academy/the-ultimate-developer-guide-to-the-top-five-kubernetes-serverless-frameworks-in-2026-196a)
-- [Two Gates Are Closing on AI Web Scraping](https://dev.to/simon_paxton/two-gates-are-closing-on-ai-web-scraping-3l95)
-- [From Piper to Polly: How I Built a Production-Ready Text-to-Speech API &lpar;and Everything That Broke Along the Way&rpar;](https://dev.to/elizabeththomas7/from-piper-to-polly-how-i-built-a-production-ready-text-to-speech-api-and-everything-that-broke-nl9)
-- [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
+- [Build a Fitness Wearable Companion App with React Native &lpar;HealthKit + Health Connect&rpar;](https://dev.to/famitha_ma_b9c13ab1d324e/build-a-fitness-wearable-companion-app-with-react-native-healthkit-health-connect-57en)
+- [Context is what you are missing in your AI Agents](https://dev.to/pavanbelagatti/context-is-what-you-are-missing-in-ai-agents-3clj)
+- [The Firmware Engineer’s Nightmare: When &#39;If-Else&#39; is no longer enough](https://dev.to/durva_shah/the-firmware-engineers-nightmare-when-if-else-is-no-longer-enough-357e)
+- [A Beginner’s Guide to Apache Kafka: The Engine of Real-Time Data](https://dev.to/lawrence_murithi/a-beginners-guide-to-apache-kafka-the-engine-of-real-time-data-2k7j)
+- [Advanced Array Methods in JavaScript: map, filter, reduce, and forEach](https://dev.to/sharique_siddiqui_8242dad/advanced-array-methods-in-javascript-map-filter-reduce-and-foreach-fcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
