@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leakage in ML Pipelines: How to build a bulletproof preprocessing architecture](https://dev.to/pasquale_molinaro/leakage-in-ml-pipelines-how-to-build-a-bulletproof-preprocessing-architecture-1ip4)
-- [Delhi Court Guts Tharoor Deepfake in Hours — and Rewrites the Rules for Every Investigator](https://dev.to/caracomp/delhi-court-guts-tharoor-deepfake-in-hours-and-rewrites-the-rules-for-every-investigator-4f57)
-- [What We Mean by &quot;AI Worker&quot; — And How We Actually Build Them](https://dev.to/leon_from_connective_labs/what-we-mean-by-ai-worker-and-how-we-actually-build-them-5ad9)
-- [AVIF encoding speed — the numbers nobody talks about](https://dev.to/serhii_kalyna_730b636889c/avif-encoding-speed-the-numbers-nobody-talks-about-a2h)
-- [CE marking under MDR — what&#39;s actually new, and what teams still get wrong](https://dev.to/priya_nair_ree/ce-marking-under-mdr-whats-actually-new-and-what-teams-still-get-wrong-4m13)
+- [We Built a Platform to Help Beginners in Computer Science Stop Feeling Lost](https://dev.to/dreameater_619/we-built-a-platform-to-help-beginners-in-computer-science-stop-feeling-lost-64c)
+- [How to create a Microsoft Azure storage account for securing private data and file backup](https://dev.to/tjasper/how-to-create-a-microsoft-azure-storage-account-for-securing-private-data-and-file-backup-3ol5)
+- [I built a free AI-powered Linktree alternative that generates your page algorithmically — Xefna](https://dev.to/smshahbaj/i-built-a-free-ai-powered-linktree-alternative-that-generates-your-page-algorithmically-xefna-34ml)
+- [HTMX or React? Why I chose a Third Way](https://dev.to/0x1/htmx-or-react-why-i-chose-a-third-way-5516)
+- [The Python Survival Guide I Built the Night Before My Assessment](https://dev.to/ithiria894/python-coding-cheatsheet-everything-you-need-for-timed-assessments-70n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
