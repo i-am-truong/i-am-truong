@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best GPU for Llama 70B in 2026 &lpar;48GB+ VRAM Required&rpar;](https://dev.to/thurmon_demich/best-gpu-for-llama-70b-in-2026-48gb-vram-required-3jal)
-- [Seeded Universe Recreation Engine: Building a Deterministic Universe Timeline from One Seed](https://dev.to/tizwildin/seeded-universe-recreation-engine-building-a-deterministic-universe-timeline-from-one-seed-3kg2)
-- [React Compiler and and the promise of automated memoization](https://dev.to/dhwang/react-compiler-and-and-the-promise-of-automated-memoization-4g78)
-- [ARC Turbo OS: Building a Seed-Rooted Runtime That Collapses Redundant Computation](https://dev.to/tizwildin/arc-turbo-os-building-a-seed-rooted-runtime-that-collapses-redundant-computation-2k2n)
-- [Proto-Synth Grid Engine: Building a Math-First 2D World Runtime That Feels 3D](https://dev.to/tizwildin/proto-synth-grid-engine-building-a-math-first-2d-world-runtime-that-feels-3d-4j17)
+- [Global Accessibility Awareness Day 2026: A Small-Business Action Plan for the Week Leading Up to May 21](https://dev.to/agentkit/global-accessibility-awareness-day-2026-a-small-business-action-plan-for-the-week-leading-up-to-5ggn)
+- [Shared expert pool reduces parameters while maintaining performance](https://dev.to/olaughter/shared-expert-pool-reduces-parameters-while-maintaining-performance-2gm5)
+- [Stop trusting your agent skills with vibes. Eliminate the context security risk.](https://dev.to/tessl-io/stop-trusting-your-agent-skills-with-vibes-eliminate-the-context-security-risk-1jld)
+- [Building Scalable Web Solutions &amp; Business Automation: My Journey as a Software Engineer](https://dev.to/mhmdragb01/building-scalable-web-solutions-business-automation-my-journey-as-a-software-engineer-35l3)
+- [Weekly Dev Log 2026-W05](https://dev.to/umitomo-lab/weekly-dev-log-2026-w05-3f1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
