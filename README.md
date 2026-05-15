@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Global Accessibility Awareness Day 2026: A Small-Business Action Plan for the Week Leading Up to May 21](https://dev.to/agentkit/global-accessibility-awareness-day-2026-a-small-business-action-plan-for-the-week-leading-up-to-5ggn)
-- [Shared expert pool reduces parameters while maintaining performance](https://dev.to/olaughter/shared-expert-pool-reduces-parameters-while-maintaining-performance-2gm5)
-- [Stop trusting your agent skills with vibes. Eliminate the context security risk.](https://dev.to/tessl-io/stop-trusting-your-agent-skills-with-vibes-eliminate-the-context-security-risk-1jld)
-- [Building Scalable Web Solutions &amp; Business Automation: My Journey as a Software Engineer](https://dev.to/mhmdragb01/building-scalable-web-solutions-business-automation-my-journey-as-a-software-engineer-35l3)
-- [Weekly Dev Log 2026-W05](https://dev.to/umitomo-lab/weekly-dev-log-2026-w05-3f1g)
+- [Agent Poke: Keeping AI CLI Usage Windows Ready](https://dev.to/semiherdogan/agent-poke-keeping-ai-cli-usage-windows-ready-acl)
+- [Acesso Seguro do Agente Bitwarden: Compartilhando Credenciais do Vault com Agentes de IA de Codificação](https://dev.to/lucas_ferreira/acesso-seguro-do-agente-bitwarden-compartilhando-credenciais-do-vault-com-agentes-de-ia-de-3knd)
+- [Beyond the CLI: Building an Enterprise Terraform Impact Dashboard](https://dev.to/praveenha/beyond-the-cli-building-an-enterprise-terraform-impact-dashboard-4ldb)
+- [Using dio HTTP Client in Dart](https://dev.to/niamtokik/using-dio-http-client-in-dart-29ic)
+- [Linux Kernel CVEs Don&#39;t Care About Your Distro&#39;s Release Schedule — Here&#39;s What Actually Happens](https://dev.to/ericwoooo_kr/linux-kernel-cves-dont-care-about-your-distros-release-schedule-heres-what-actually-happens-1kf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
