@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [the agent identity debate at w3c](https://dev.to/t49qnsx7qtkpanks/the-agent-identity-debate-at-w3c-36g)
-- [ai agent payments need web standards now](https://dev.to/t49qnsx7qtkpanks/ai-agent-payments-need-web-standards-now-46n6)
-- [Building a Batch Image Converter for Android: Overcoming Mobile Memory Limits](https://dev.to/getinfotoyou/building-a-batch-image-converter-for-android-overcoming-mobile-memory-limits-3m78)
-- [Don&#39;t Use SERP APIs in Your AI Agents for Search Data](https://dev.to/chandan-kumar/dont-use-serp-apis-in-your-ai-agents-for-search-data-339e)
-- [Violence Detection in Video Files: Training AI to detect human-centric emotional responses](https://dev.to/troywebconsulting/violence-detection-in-video-files-training-ai-to-detect-human-centric-emotional-responses-2483)
+- [UK government replaces Palantir software with internally-built refugee system](https://dev.to/technoblogger14o3/uk-government-replaces-palantir-software-with-internally-built-refugee-system-1akm)
+- [Your AI Agent Should Not Grade Itself: Software Self-Verification Crisis](https://dev.to/omermorad/your-ai-agent-should-not-grade-itself-software-self-verification-crisis-29en)
+- [Securing Your MCP Server with Firebase Auth: A Production Walkthrough](https://dev.to/dalenguyen/securing-your-mcp-server-with-firebase-auth-a-production-walkthrough-53j7)
+- [Gemma 4 and the End of API-Dependent AI](https://dev.to/akyavagal/gemma-4-and-the-end-of-api-dependent-ai-1bb8)
+- [Join the Hermes Agent Challenge: $1,000 in Prizes!](https://dev.to/devteam/join-the-hermes-agent-challenge-1000-in-prizes-13cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
