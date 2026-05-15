@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UK government replaces Palantir software with internally-built refugee system](https://dev.to/technoblogger14o3/uk-government-replaces-palantir-software-with-internally-built-refugee-system-1akm)
-- [Your AI Agent Should Not Grade Itself: Software Self-Verification Crisis](https://dev.to/omermorad/your-ai-agent-should-not-grade-itself-software-self-verification-crisis-29en)
-- [Securing Your MCP Server with Firebase Auth: A Production Walkthrough](https://dev.to/dalenguyen/securing-your-mcp-server-with-firebase-auth-a-production-walkthrough-53j7)
-- [Gemma 4 and the End of API-Dependent AI](https://dev.to/akyavagal/gemma-4-and-the-end-of-api-dependent-ai-1bb8)
-- [Join the Hermes Agent Challenge: $1,000 in Prizes!](https://dev.to/devteam/join-the-hermes-agent-challenge-1000-in-prizes-13cd)
+- [The Art of the Side Project: How to Ship Fast and Validate Early](https://dev.to/armorbreak/the-art-of-the-side-project-how-to-ship-fast-and-validate-early-3e26)
+- [7 TypeScript Patterns I Use in Every Project](https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-33bi)
+- [Why I Stopped Using PostgreSQL for Side Projects &lpar;And You Should Too&rpar;](https://dev.to/armorbreak/why-i-stopped-using-postgresql-for-side-projects-and-you-should-too-1o70)
+- [My GitHub Graveyard Has 23 Dead Projects. Here is the Uncomfortable Truth About Why](https://dev.to/guayoyo_tech/my-github-graveyard-has-23-dead-projects-here-is-the-uncomfortable-truth-about-why-13jh)
+- [The Complete React Context Journey Beginner to Professional](https://dev.to/kenneth732/the-complete-react-context-journey-beginner-to-professional-eoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
