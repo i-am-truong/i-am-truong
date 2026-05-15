@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ovie for Absolute Beginners: Your First Programming Language Could Be This One](https://dev.to/southwarridev/ovie-for-absolute-beginners-your-first-programming-language-could-be-this-one-4h6j)
-- [What Is Token 2022 and Why Solana Built It](https://dev.to/100daysofsolana/what-is-token-2022-and-why-solana-built-it-53io)
-- [React Performance: 8 Fixes That Actually Matter &lpar;2026&rpar;](https://dev.to/armorbreak/react-performance-8-fixes-that-actually-matter-2026-151f)
-- [Intentional Model Selection — How to Actually Choose the Right Gemma 4 Variant for Your Workload](https://dev.to/abhishekmauryageek/intentional-model-selection-how-to-actually-choose-the-right-gemma-4-variant-for-your-workload-4lj7)
-- [Error Handling in Node.js: The Missing Guide](https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6)
+- [Learning the Term “Tool Sprawl” Helped Me Rethink My Distance from Tools &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/learning-the-term-tool-sprawl-helped-me-rethink-my-distance-from-tools-bite-size-article-4if0)
+- [Understanding Reinforcement Learning with Neural Networks Part 5: Connecting Reward, Derivative, and Step Size](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-5-connecting-reward-derivative-2dk)
+- [Swift Protocol Magic II: Designing a Reusable Location Tracking System](https://dev.to/salahamassi/swift-protocol-magic-ii-designing-a-reusable-location-tracking-system-2heh)
+- [AndroidAppLockscreen: drop a PIN lockscreen into any Android app in minutes](https://dev.to/fayazbuilds_n5f2t7/androidapplockscreen-drop-a-pin-lockscreen-into-any-android-app-in-minutes-5dch)
+- [I priced out self-hosted AI agents on a mini PC and realized I was about to spend my weekend, not save money](https://dev.to/lars_winstand/i-priced-out-self-hosted-ai-agents-on-a-mini-pc-and-realized-i-was-about-to-spend-my-weekend-not-367c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
