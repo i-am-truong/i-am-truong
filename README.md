@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Art of the Side Project: How to Ship Fast and Validate Early](https://dev.to/armorbreak/the-art-of-the-side-project-how-to-ship-fast-and-validate-early-3e26)
-- [7 TypeScript Patterns I Use in Every Project](https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-33bi)
-- [Why I Stopped Using PostgreSQL for Side Projects &lpar;And You Should Too&rpar;](https://dev.to/armorbreak/why-i-stopped-using-postgresql-for-side-projects-and-you-should-too-1o70)
-- [My GitHub Graveyard Has 23 Dead Projects. Here is the Uncomfortable Truth About Why](https://dev.to/guayoyo_tech/my-github-graveyard-has-23-dead-projects-here-is-the-uncomfortable-truth-about-why-13jh)
-- [The Complete React Context Journey Beginner to Professional](https://dev.to/kenneth732/the-complete-react-context-journey-beginner-to-professional-eoi)
+- [Ovie for Absolute Beginners: Your First Programming Language Could Be This One](https://dev.to/southwarridev/ovie-for-absolute-beginners-your-first-programming-language-could-be-this-one-4h6j)
+- [What Is Token 2022 and Why Solana Built It](https://dev.to/100daysofsolana/what-is-token-2022-and-why-solana-built-it-53io)
+- [React Performance: 8 Fixes That Actually Matter &lpar;2026&rpar;](https://dev.to/armorbreak/react-performance-8-fixes-that-actually-matter-2026-151f)
+- [Intentional Model Selection — How to Actually Choose the Right Gemma 4 Variant for Your Workload](https://dev.to/abhishekmauryageek/intentional-model-selection-how-to-actually-choose-the-right-gemma-4-variant-for-your-workload-4lj7)
+- [Error Handling in Node.js: The Missing Guide](https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
