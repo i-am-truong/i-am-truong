@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t 3D print a house. You print your tools.](https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00)
-- [Join &amp; Contribute to FormFlow](https://dev.to/vishnuchoudhary/join-contribute-to-formflow-1khh)
-- [I Built a Blender Plugin That Exports Scenes to HTML + CSS 3D](https://dev.to/georgiancoder/pure-css-tractor-34b7)
-- [I encoded indie hacker discipline into Claude Code agents — here&#39;s the pattern](https://dev.to/taste_kim_2dec5824a9065cd/i-encoded-indie-hacker-discipline-into-claude-code-agents-heres-the-pattern-1ejc)
-- [The Review Bottleneck: Why Faster Code Generation Broke Your PR Process](https://dev.to/code-board/the-review-bottleneck-why-faster-code-generation-broke-your-pr-process-31gi)
+- [the agent identity debate at w3c](https://dev.to/t49qnsx7qtkpanks/the-agent-identity-debate-at-w3c-36g)
+- [ai agent payments need web standards now](https://dev.to/t49qnsx7qtkpanks/ai-agent-payments-need-web-standards-now-46n6)
+- [Building a Batch Image Converter for Android: Overcoming Mobile Memory Limits](https://dev.to/getinfotoyou/building-a-batch-image-converter-for-android-overcoming-mobile-memory-limits-3m78)
+- [Don&#39;t Use SERP APIs in Your AI Agents for Search Data](https://dev.to/chandan-kumar/dont-use-serp-apis-in-your-ai-agents-for-search-data-339e)
+- [Violence Detection in Video Files: Training AI to detect human-centric emotional responses](https://dev.to/troywebconsulting/violence-detection-in-video-files-training-ai-to-detect-human-centric-emotional-responses-2483)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
