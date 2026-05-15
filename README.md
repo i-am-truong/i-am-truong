@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript DOM Manipulation: The Practical Guide](https://dev.to/armorbreak/javascript-dom-manipulation-the-practical-guide-3nao)
-- [ForgeZero: How I stopped fearing linkers and wrote a universal assembly builder &lpar;Node.js Go&rpar;](https://dev.to/alexvoste/forgezero-how-i-stopped-fearing-linkers-and-wrote-a-universal-assembly-builder-nodejs-go-4p1f)
-- [Async/Await in JavaScript: From Callbacks to Clean Code](https://dev.to/armorbreak/asyncawait-in-javascript-from-callbacks-to-clean-code-24ec)
-- [I built skelm because n8n, OpenClaw, and Hermes didn&#39;t fit my use case](https://dev.to/scottgl9/i-built-skelm-because-n8n-openclaw-and-hermes-didnt-fit-my-use-case-25ob)
-- [TSI Nexus: An Open-Source Digital Brain Powered by Local Gemma 4 26B and Context Graphs](https://dev.to/satish_ayyaswami_0a47d90a/tsi-nexus-an-open-source-digital-brain-powered-by-local-gemma-4-26b-and-context-graphs-5eac)
+- [I built a Kotlin DSL test automation framework because existing ones kept failing their own standards](https://dev.to/anevisser/i-built-a-kotlin-dsl-test-automation-framework-because-existing-ones-kept-failing-their-own-184n)
+- [Working with Dates and Times in JavaScript &lpar;2026&rpar;](https://dev.to/armorbreak/working-with-dates-and-times-in-javascript-2026-1ghb)
+- [Why we built A11y Studio — WCAG 2.2 accessibility for React developers](https://dev.to/a11ystudio/why-we-built-a11y-studio-wcag-22-accessibility-for-react-developers-4lgg)
+- [JavaScript String Methods: The Ultimate Cheat Sheet](https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg)
+- [Node.js Streams: The Practical Guide](https://dev.to/armorbreak/nodejs-streams-the-practical-guide-kia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
