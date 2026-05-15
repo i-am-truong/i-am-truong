@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG - Sliding Window, Token Based Chunking and PDF Chunking Packages](https://dev.to/ramya_perumal_e93721ef2fa/rag-sliding-window-token-based-chunking-and-pdf-chunking-packages-18nd)
-- [The Worst Developers Quit Too Early](https://dev.to/amoreno/the-worst-developers-quit-too-early-6dp)
-- [How Probabilistic Graphical Models Represent Uncertainty](https://dev.to/zeromathai/how-probabilistic-graphical-models-represent-uncertainty-5gcd)
-- [The Cruise Passengers](https://dev.to/ldkrx/the-cruise-passengers-4bno)
-- [Bitcoin’s Secret Math: Modular Arithmetic &amp; Finite Fields](https://dev.to/muhammad_ademola/bitcoins-secret-math-modular-arithmetic-finite-fields-4165)
+- [Best GPU for Llama 70B in 2026 &lpar;48GB+ VRAM Required&rpar;](https://dev.to/thurmon_demich/best-gpu-for-llama-70b-in-2026-48gb-vram-required-3jal)
+- [Seeded Universe Recreation Engine: Building a Deterministic Universe Timeline from One Seed](https://dev.to/tizwildin/seeded-universe-recreation-engine-building-a-deterministic-universe-timeline-from-one-seed-3kg2)
+- [React Compiler and and the promise of automated memoization](https://dev.to/dhwang/react-compiler-and-and-the-promise-of-automated-memoization-4g78)
+- [ARC Turbo OS: Building a Seed-Rooted Runtime That Collapses Redundant Computation](https://dev.to/tizwildin/arc-turbo-os-building-a-seed-rooted-runtime-that-collapses-redundant-computation-2k2n)
+- [Proto-Synth Grid Engine: Building a Math-First 2D World Runtime That Feels 3D](https://dev.to/tizwildin/proto-synth-grid-engine-building-a-math-first-2d-world-runtime-that-feels-3d-4j17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
