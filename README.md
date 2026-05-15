@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed ChatGPT’s UI Performance Bottlenecks: A Deep Dive into DOM Management](https://dev.to/bgsn/how-i-fixed-chatgpts-performance-bottlenecks-a-deep-dive-into-dom-management-523b)
-- [You Don’t Need a Backend: How I Built an AI Document Generator in the Browser](https://dev.to/emp_creator/you-dont-need-a-backend-how-i-built-an-ai-document-generator-in-the-browser-gc)
-- [Your CLAUDE.md Is Wasting Tokens &lpar;And It&#39;s Probably Not Helping&rpar;](https://dev.to/abdlrahmansaberabdo/your-claudemd-is-wasting-tokens-and-its-probably-not-helping-3jdh)
-- [Moby-Dick Book Review: Why Moby-Dick Is Still One of Literature’s Most Challenging and Rewarding Reads](https://dev.to/knowledgeinsider/moby-dick-book-review-why-moby-dick-is-still-one-of-literatures-most-challenging-and-rewarding-2050)
-- [Finally, Everything.. is going well ?](https://dev.to/notprs/finally-everything-is-going-well--1la3)
+- [You don&#39;t 3D print a house. You print your tools.](https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00)
+- [Join &amp; Contribute to FormFlow](https://dev.to/vishnuchoudhary/join-contribute-to-formflow-1khh)
+- [I Built a Blender Plugin That Exports Scenes to HTML + CSS 3D](https://dev.to/georgiancoder/pure-css-tractor-34b7)
+- [I encoded indie hacker discipline into Claude Code agents — here&#39;s the pattern](https://dev.to/taste_kim_2dec5824a9065cd/i-encoded-indie-hacker-discipline-into-claude-code-agents-heres-the-pattern-1ejc)
+- [The Review Bottleneck: Why Faster Code Generation Broke Your PR Process](https://dev.to/code-board/the-review-bottleneck-why-faster-code-generation-broke-your-pr-process-31gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
