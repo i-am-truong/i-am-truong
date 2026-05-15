@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Poke: Keeping AI CLI Usage Windows Ready](https://dev.to/semiherdogan/agent-poke-keeping-ai-cli-usage-windows-ready-acl)
-- [Acesso Seguro do Agente Bitwarden: Compartilhando Credenciais do Vault com Agentes de IA de Codificação](https://dev.to/lucas_ferreira/acesso-seguro-do-agente-bitwarden-compartilhando-credenciais-do-vault-com-agentes-de-ia-de-3knd)
-- [Beyond the CLI: Building an Enterprise Terraform Impact Dashboard](https://dev.to/praveenha/beyond-the-cli-building-an-enterprise-terraform-impact-dashboard-4ldb)
-- [Using dio HTTP Client in Dart](https://dev.to/niamtokik/using-dio-http-client-in-dart-29ic)
-- [Linux Kernel CVEs Don&#39;t Care About Your Distro&#39;s Release Schedule — Here&#39;s What Actually Happens](https://dev.to/ericwoooo_kr/linux-kernel-cves-dont-care-about-your-distros-release-schedule-heres-what-actually-happens-1kf8)
+- [How I Fixed ChatGPT’s UI Performance Bottlenecks: A Deep Dive into DOM Management](https://dev.to/bgsn/how-i-fixed-chatgpts-performance-bottlenecks-a-deep-dive-into-dom-management-523b)
+- [You Don’t Need a Backend: How I Built an AI Document Generator in the Browser](https://dev.to/emp_creator/you-dont-need-a-backend-how-i-built-an-ai-document-generator-in-the-browser-gc)
+- [Your CLAUDE.md Is Wasting Tokens &lpar;And It&#39;s Probably Not Helping&rpar;](https://dev.to/abdlrahmansaberabdo/your-claudemd-is-wasting-tokens-and-its-probably-not-helping-3jdh)
+- [Moby-Dick Book Review: Why Moby-Dick Is Still One of Literature’s Most Challenging and Rewarding Reads](https://dev.to/knowledgeinsider/moby-dick-book-review-why-moby-dick-is-still-one-of-literatures-most-challenging-and-rewarding-2050)
+- [Finally, Everything.. is going well ?](https://dev.to/notprs/finally-everything-is-going-well--1la3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
