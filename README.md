@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✦ DevPen: The AI-Powered Note-Taking App for Developers 🚀](https://dev.to/pranay_rauthu/devpen-the-ai-powered-note-taking-app-for-developers-2jb9)
-- [Understanding Reinforcement Learning with Neural Networks Part 6: Completing the Reinforcement Learning Process](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-6-completing-the-reinforcement-5g8b)
-- [SMM Turbo: Hybrid AI Instagram Editor via Gemma 4](https://dev.to/digital-abetka/smm-turbo-hybrid-ai-instagram-editor-via-gemma-4-5d7o)
-- [Capacitor Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/capacitor-live-updates-a-complete-guide-to-ota-updates-5fco)
-- [ASP .NET Core Bootstrap toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-570)
+- [How to Deploy an Ubuntu Linux VM in Azure](https://dev.to/degreatkhali/how-to-deploy-an-ubuntu-linux-vm-in-azure-347o)
+- [LLM Persistent Memory &amp; Python Tooling Elevate AI Agent Workflows](https://dev.to/soytuber/llm-persistent-memory-python-tooling-elevate-ai-agent-workflows-1je4)
+- [Building My Portfolio site with AI: Speed, Superpowers, and Surprising Trade-offs](https://dev.to/phillip-mogale/building-my-portfolio-site-with-ai-speed-superpowers-and-surprising-trade-offs-2ie0)
+- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
+- [الذكاء الاصطناعي في 2025: من التجارب المعملية إلى العمود الفقري للأعمال](https://dev.to/ismail_zamareh_d099419122bc4f/ldhk-lstny-fy-2025-mn-ltjrb-lmmly-l-lmwd-lfqry-llml-1341)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
