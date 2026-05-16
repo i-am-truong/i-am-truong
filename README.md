@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About Agent Swarming: What the Gurus Won&#39;t Tell You About Cost, Failure, and Security](https://dev.to/tomtokita/the-truth-about-agent-swarming-what-the-gurus-wont-tell-you-about-cost-failure-and-security-1775)
-- [CSS Pixel Art Battle Items — Potions, Shards, Balls &amp; Loot with Code](https://dev.to/abduarrahman/css-pixel-art-battle-items-potions-shards-balls-loot-with-code-45e1)
-- [CSS Pixel Art Terrain Tiles — Ground, Paths &amp; Structures with Code](https://dev.to/abduarrahman/css-pixel-art-terrain-tiles-ground-paths-structures-with-code-3ea5)
-- [CSS Pixel Art Weather &amp; Sky — Sun, Moon, Rain &amp; Aurora with Code](https://dev.to/abduarrahman/css-pixel-art-weather-sky-sun-moon-rain-aurora-with-code-1596)
-- [CSS Pixel Art Nature — Trees, Plants &amp; Environment with Code](https://dev.to/abduarrahman/css-pixel-art-nature-trees-plants-environment-with-code-36lp)
+- [The Hardest Part of Modern C++ Isn&#39;t the Language.](https://dev.to/whetlan/the-hardest-part-of-modern-c-isnt-the-language-3d6j)
+- [Here it is. A realworld fullstack PureScript project](https://dev.to/0x1/here-it-is-a-realworld-fullstack-purescript-project-1mcn)
+- [I Built a Telegram-Based AI Career Agent with Hermes Agent](https://dev.to/sai_22/i-built-a-telegram-based-ai-career-agent-with-hermes-agent-98n)
+- [The Synthesis Wall: Frontier AI Without Sending Your Data](https://dev.to/iwwomi/the-synthesis-wall-frontier-ai-without-sending-your-data-1k92)
+- [From Public Cloud to Self-Hosted PaaS: A Migration Story](https://dev.to/iwwomi/from-public-cloud-to-self-hosted-paas-a-migration-story-311c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
