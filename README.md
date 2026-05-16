@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Kotlin DSL test automation framework because existing ones kept failing their own standards](https://dev.to/anevisser/i-built-a-kotlin-dsl-test-automation-framework-because-existing-ones-kept-failing-their-own-184n)
-- [Working with Dates and Times in JavaScript &lpar;2026&rpar;](https://dev.to/armorbreak/working-with-dates-and-times-in-javascript-2026-1ghb)
-- [Why we built A11y Studio — WCAG 2.2 accessibility for React developers](https://dev.to/a11ystudio/why-we-built-a11y-studio-wcag-22-accessibility-for-react-developers-4lgg)
-- [JavaScript String Methods: The Ultimate Cheat Sheet](https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg)
-- [Node.js Streams: The Practical Guide](https://dev.to/armorbreak/nodejs-streams-the-practical-guide-kia)
+- [AI Engineer vs Machine Learning Engineer in 2026: Salary, Skills](https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf)
+- [Claude Mythos vs Claude Opus 4.6: what the leaked benchmarks mean for developers](https://dev.to/preecha/claude-mythos-vs-claude-opus-46-what-the-leaked-benchmarks-mean-for-developers-1h84)
+- [AgenticTrade vs RapidAPI: Why 10% Commission Is the Better Deal for Developers](https://dev.to/judy_miranttie/agentictrade-vs-rapidapi-why-10-commission-is-the-better-deal-for-developers-5da4)
+- [When handoff.md Stops Being Enough for AI Agents](https://dev.to/a2cr_mcp/when-handoffmd-stops-being-enough-for-ai-agents-5h64)
+- [How I auto-enrich a brand database with AI on cache miss &lpar;Lovable + Claude API&rpar;](https://dev.to/tokidigital/how-i-auto-enrich-a-brand-database-with-ai-on-cache-miss-lovable-claude-api-1kfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
