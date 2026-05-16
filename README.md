@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineer vs Machine Learning Engineer in 2026: Salary, Skills](https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf)
-- [Claude Mythos vs Claude Opus 4.6: what the leaked benchmarks mean for developers](https://dev.to/preecha/claude-mythos-vs-claude-opus-46-what-the-leaked-benchmarks-mean-for-developers-1h84)
-- [AgenticTrade vs RapidAPI: Why 10% Commission Is the Better Deal for Developers](https://dev.to/judy_miranttie/agentictrade-vs-rapidapi-why-10-commission-is-the-better-deal-for-developers-5da4)
-- [When handoff.md Stops Being Enough for AI Agents](https://dev.to/a2cr_mcp/when-handoffmd-stops-being-enough-for-ai-agents-5h64)
-- [How I auto-enrich a brand database with AI on cache miss &lpar;Lovable + Claude API&rpar;](https://dev.to/tokidigital/how-i-auto-enrich-a-brand-database-with-ai-on-cache-miss-lovable-claude-api-1kfd)
+- [From Zero to Mastery: A Complete Pixel Art Guide for Modern Game Developers](https://dev.to/autosprites/from-zero-to-mastery-a-complete-pixel-art-guide-for-modern-game-developers-205i)
+- [Do You Have Trouble with Online Collaboration?](https://dev.to/leoharrison/do-you-have-trouble-with-online-collaboration-3ldp)
+- [When Your Content Bot Hits an LLM Quota, Ship the Fallback](https://dev.to/robust_true_try/when-your-content-bot-hits-an-llm-quota-ship-the-fallback-1f7c)
+- [I Ran Hermes Agent on the Same Task for 7 Days. The Skill File on Day 7 Looked Nothing Like Day 1.](https://dev.to/sreejit_/i-ran-hermes-agent-on-the-same-task-for-7-days-the-skill-file-on-day-7-looked-nothing-like-day-1-2oa8)
+- [2.Ansible Install Package](https://dev.to/thukhakyawe_cloud/2ansible-install-package-2a6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
