@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Structured Data Extraction from PDFs: Regex vs Template Matching vs AI](https://dev.to/toolkitonline/structured-data-extraction-from-pdfs-regex-vs-template-matching-vs-ai-2mha)
-- [Introducing React AI Stream: Unlock the Power of AI in Your Applications](https://dev.to/trimooo/introducing-react-ai-stream-unlock-the-power-of-ai-in-your-applications-526e)
-- [[Boost]](https://dev.to/syedahmershah/-352n)
-- [Claude Code didn&#39;t get worse. The harness did. And that ends one of the most common AI complaints of 2026.](https://dev.to/practiceoverflow/claude-code-didnt-get-worse-the-harness-did-and-that-ends-one-of-the-most-common-ai-complaints-od5)
-- [MCP just walked into enterprise SaaS like it belonged there, and most people missed it](https://dev.to/practiceoverflow/mcp-just-walked-into-enterprise-saas-like-it-belonged-there-and-most-people-missed-it-1jh5)
+- [The Truth About Agent Swarming: What the Gurus Won&#39;t Tell You About Cost, Failure, and Security](https://dev.to/tomtokita/the-truth-about-agent-swarming-what-the-gurus-wont-tell-you-about-cost-failure-and-security-1775)
+- [CSS Pixel Art Battle Items — Potions, Shards, Balls &amp; Loot with Code](https://dev.to/abduarrahman/css-pixel-art-battle-items-potions-shards-balls-loot-with-code-45e1)
+- [CSS Pixel Art Terrain Tiles — Ground, Paths &amp; Structures with Code](https://dev.to/abduarrahman/css-pixel-art-terrain-tiles-ground-paths-structures-with-code-3ea5)
+- [CSS Pixel Art Weather &amp; Sky — Sun, Moon, Rain &amp; Aurora with Code](https://dev.to/abduarrahman/css-pixel-art-weather-sky-sun-moon-rain-aurora-with-code-1596)
+- [CSS Pixel Art Nature — Trees, Plants &amp; Environment with Code](https://dev.to/abduarrahman/css-pixel-art-nature-trees-plants-environment-with-code-36lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
