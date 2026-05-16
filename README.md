@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Coding Tools Over-engineer Your MVP — And the One Fix](https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-ai-coding-tools-over-engineer-your-mvp-and-the-one-fix-p11)
-- [CSS Container Queries: how to forget about Media Queries in 2026](https://dev.to/nickbenksim/css-container-queries-how-to-forget-about-media-queries-in-2026-24hi)
-- [I Built an IoT Forensic Investigation Simulator Powered by Gemma 4 — Paste Any Incident, Get a Full Case with Evidence, Decisions, and a Forensic Report](https://dev.to/tagzauthor/i-built-an-iot-forensic-investigation-simulator-powered-by-gemma-4-paste-any-incident-get-a-full-239n)
-- [From CTO to Freelancer: What 12 Years in Technical Leadership Taught Me](https://dev.to/iurii_rogulia/from-cto-to-freelancer-what-12-years-in-technical-leadership-taught-me-32ed)
-- [Building an Ambient Developer Daemon with Nous Hermes](https://dev.to/piwe/building-an-ambient-developer-daemon-with-nous-hermes-1667)
+- [qqq &lpar;IDE&rpar;: Paste Everything into VS Code / Code-OSS / VSCodium](https://dev.to/gh555com/qqq-ide-paste-everything-into-vs-code-code-oss-vscodium-3j3p)
+- [Resolving deletion in AVL trees](https://dev.to/satyaaytas/resolving-deletion-in-avl-trees-117a)
+- [Why ADA Lawsuits Are Now Targeting Small Web Agencies — And What Developers Need to Know](https://dev.to/huzefa/why-ada-lawsuits-are-now-targeting-small-web-agencies-and-what-developers-need-to-know-1fe4)
+- [I Gave Hermes Agent 5 Impossible Tasks](https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16)
+- [Fetch API Documentation: A Beginner-Friendly Guide to HTTP Requests](https://dev.to/sushensanthush/fetch-api-documentation-a-beginner-friendly-guide-to-http-requests-2f1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
