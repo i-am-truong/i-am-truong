@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I just open-sourced 13 MIT libraries for web visual effects](https://dev.to/thomasdolso/i-just-open-sourced-13-mit-libraries-for-web-visual-effects-2g86)
-- [Mapping the Shadows: RecomendeMe Intelligence and the Revolution in Combating Human Trafficking in Brazil](https://dev.to/sampseiol1/mapping-the-shadows-recomendeme-intelligence-and-the-revolution-in-combating-human-trafficking-in-7mk)
-- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
-- [How I reverse-engineered Playtomic&#39;s mobile payment API to build a padel court booking bot](https://dev.to/hadriel33/how-i-reverse-engineered-playtomics-mobile-payment-api-to-build-a-padel-court-booking-bot-5ehb)
-- [Beyond the Basics: Offline Models, Custom Signs, and Production Scaling &lpar;Part 4&rpar;](https://dev.to/_iametornam/beyond-the-basics-offline-models-custom-signs-and-production-scaling-part-4-b40)
+- [OpenTelemetry on Spring Boot 3: when logs say OK and traces show the problem](https://dev.to/jtorchia/opentelemetry-on-spring-boot-3-when-logs-say-ok-and-traces-show-the-problem-193o)
+- [OpenTelemetry en Spring Boot 3: cuando el log dice OK y el trace muestra el problema](https://dev.to/jtorchia/opentelemetry-en-spring-boot-3-cuando-el-log-dice-ok-y-el-trace-muestra-el-problema-4639)
+- [The Hidden Reason AI Botches Your Specs &lpar;and the Layered Fix That Works&rpar;](https://dev.to/renatodts/the-hidden-reason-ai-botches-your-specs-and-the-layered-fix-that-works-17kd)
+- [Merge Sort vs Bubble Sort — Why 800 Comparisons Beats 147 Every Time](https://dev.to/amargul/merge-sort-vs-bubble-sort-why-800-comparisons-beats-147-every-time-1de0)
+- [Kubernetes in Production:](https://dev.to/jyothi_kumar_e50d1adf42ce/kubernetes-in-production-3kpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
