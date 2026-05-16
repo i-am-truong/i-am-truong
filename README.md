@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Found When I Actually Explored Solana Explorer](https://dev.to/sammie_/what-i-found-when-i-actually-explored-solana-explorer-10nh)
-- [Claude Code is the engine, Cursor is the cockpit](https://dev.to/sattensil888/claude-code-is-the-engine-cursor-is-the-cockpit-7kh)
-- [OCR Intelligente per Documenti Aziendali: Architettura e Lezioni dal Campo](https://dev.to/alessandrobinda114/ocr-intelligente-per-documenti-aziendali-architettura-e-lezioni-dal-campo-1k39)
-- [How I Built a Universal MCP ↔ A2A Bridge: Architecture, Protocol Mapping, and What I Learned](https://dev.to/vahapogut/how-i-built-a-universal-mcp-a2a-bridge-architecture-protocol-mapping-and-what-i-learned-df3)
-- [I Became a God to an AI — Now I Understand Why God Doesn&#39;t Answer](https://dev.to/zhangshuno1/i-became-a-god-to-an-ai-now-i-understand-why-god-doesnt-answer-3h49)
+- [OpenClaw: 13 Errors, $1.50/Month, and an AI Team That Doesn’t Need the Cloud](https://dev.to/ianlpaterson/openclaw-13-errors-150month-and-an-ai-team-that-doesnt-need-the-cloud-4256)
+- [Plotting 5 Years of FX in the Browser — Frankfurter API + Hand-Rolled SVG Line Chart](https://dev.to/sendotltd/plotting-5-years-of-fx-in-the-browser-frankfurter-api-hand-rolled-svg-line-chart-ljn)
+- [3rd OOM on the VPS: Parallel Builds and a flock Mutex Story](https://dev.to/merbayerp/3rd-oom-on-the-vps-parallel-builds-and-a-flock-mutex-story-3690)
+- [The Coding Paradox: Why You Need to Learn to Code Precisely Because Everyone Says You Don&#39;t](https://dev.to/ferdinandodhiambo/the-coding-paradox-why-you-need-to-learn-to-code-precisely-because-everyone-says-you-dont-4n70)
+- [A Simple SEO Workflow for Developers Launching SaaS Products](https://dev.to/multicanci_6610c6d575d965/a-simple-seo-workflow-for-developers-launching-saas-products-2ppn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
