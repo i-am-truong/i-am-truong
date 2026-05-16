@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [qqq &lpar;IDE&rpar;: Paste Everything into VS Code / Code-OSS / VSCodium](https://dev.to/gh555com/qqq-ide-paste-everything-into-vs-code-code-oss-vscodium-3j3p)
-- [Resolving deletion in AVL trees](https://dev.to/satyaaytas/resolving-deletion-in-avl-trees-117a)
-- [Why ADA Lawsuits Are Now Targeting Small Web Agencies — And What Developers Need to Know](https://dev.to/huzefa/why-ada-lawsuits-are-now-targeting-small-web-agencies-and-what-developers-need-to-know-1fe4)
-- [I Gave Hermes Agent 5 Impossible Tasks](https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16)
-- [Fetch API Documentation: A Beginner-Friendly Guide to HTTP Requests](https://dev.to/sushensanthush/fetch-api-documentation-a-beginner-friendly-guide-to-http-requests-2f1m)
+- [Structured Data Extraction from PDFs: Regex vs Template Matching vs AI](https://dev.to/toolkitonline/structured-data-extraction-from-pdfs-regex-vs-template-matching-vs-ai-2mha)
+- [Introducing React AI Stream: Unlock the Power of AI in Your Applications](https://dev.to/trimooo/introducing-react-ai-stream-unlock-the-power-of-ai-in-your-applications-526e)
+- [[Boost]](https://dev.to/syedahmershah/-352n)
+- [Claude Code didn&#39;t get worse. The harness did. And that ends one of the most common AI complaints of 2026.](https://dev.to/practiceoverflow/claude-code-didnt-get-worse-the-harness-did-and-that-ends-one-of-the-most-common-ai-complaints-od5)
+- [MCP just walked into enterprise SaaS like it belonged there, and most people missed it](https://dev.to/practiceoverflow/mcp-just-walked-into-enterprise-saas-like-it-belonged-there-and-most-people-missed-it-1jh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
