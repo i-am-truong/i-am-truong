@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy an Ubuntu Linux VM in Azure](https://dev.to/degreatkhali/how-to-deploy-an-ubuntu-linux-vm-in-azure-347o)
-- [LLM Persistent Memory &amp; Python Tooling Elevate AI Agent Workflows](https://dev.to/soytuber/llm-persistent-memory-python-tooling-elevate-ai-agent-workflows-1je4)
-- [Building My Portfolio site with AI: Speed, Superpowers, and Surprising Trade-offs](https://dev.to/phillip-mogale/building-my-portfolio-site-with-ai-speed-superpowers-and-surprising-trade-offs-2ie0)
-- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
-- [الذكاء الاصطناعي في 2025: من التجارب المعملية إلى العمود الفقري للأعمال](https://dev.to/ismail_zamareh_d099419122bc4f/ldhk-lstny-fy-2025-mn-ltjrb-lmmly-l-lmwd-lfqry-llml-1341)
+- [What I Found When I Actually Explored Solana Explorer](https://dev.to/sammie_/what-i-found-when-i-actually-explored-solana-explorer-10nh)
+- [Claude Code is the engine, Cursor is the cockpit](https://dev.to/sattensil888/claude-code-is-the-engine-cursor-is-the-cockpit-7kh)
+- [OCR Intelligente per Documenti Aziendali: Architettura e Lezioni dal Campo](https://dev.to/alessandrobinda114/ocr-intelligente-per-documenti-aziendali-architettura-e-lezioni-dal-campo-1k39)
+- [How I Built a Universal MCP ↔ A2A Bridge: Architecture, Protocol Mapping, and What I Learned](https://dev.to/vahapogut/how-i-built-a-universal-mcp-a2a-bridge-architecture-protocol-mapping-and-what-i-learned-df3)
+- [I Became a God to an AI — Now I Understand Why God Doesn&#39;t Answer](https://dev.to/zhangshuno1/i-became-a-god-to-an-ai-now-i-understand-why-god-doesnt-answer-3h49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
