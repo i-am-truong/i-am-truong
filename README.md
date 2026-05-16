@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Building Features and Started Shipping Experiments](https://dev.to/potatolab/why-i-stopped-building-features-and-started-shipping-experiments-4hc5)
-- [Organise Before You Stage: Changelists for Git](https://dev.to/bhfock/organise-before-you-stage-changelists-for-git-59ep)
-- [Start with NvChad](https://dev.to/ralvaracode/start-with-nvchad-50ee)
-- [I Built a Phone Validation API — Live on RapidAPI published: true tags: python, fastapi, api, productivity](https://dev.to/pabscueto/i-built-a-phone-validation-api-live-on-rapidapi-published-true-tags-python-fastapi-api-a9g)
-- [The Voice Assistant Revolution: Architecture, Accuracy, and the Race for Real-Time Intelligence](https://dev.to/ismail_zamareh_d099419122bc4f/the-voice-assistant-revolution-architecture-accuracy-and-the-race-for-real-time-intelligence-2n4i)
+- [✦ DevPen: The AI-Powered Note-Taking App for Developers 🚀](https://dev.to/pranay_rauthu/devpen-the-ai-powered-note-taking-app-for-developers-2jb9)
+- [Understanding Reinforcement Learning with Neural Networks Part 6: Completing the Reinforcement Learning Process](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-6-completing-the-reinforcement-5g8b)
+- [SMM Turbo: Hybrid AI Instagram Editor via Gemma 4](https://dev.to/digital-abetka/smm-turbo-hybrid-ai-instagram-editor-via-gemma-4-5d7o)
+- [Capacitor Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/capacitor-live-updates-a-complete-guide-to-ota-updates-5fco)
+- [ASP .NET Core Bootstrap toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-570)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
