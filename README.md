@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Another simple TCP chat in C#? Why not](https://dev.to/lukematt574/another-simple-tcp-chat-in-c-why-not-4ma0)
-- [How to Estimate LLM API Cost Before Shipping Your AI App](https://dev.to/superml/how-to-estimate-llm-api-cost-before-shipping-your-ai-app-4fid)
-- [COSS Weekly: RadixArk launches with $100M in seed funding, Hermes Agent surpasses OpenClaw, SAP invests in n8n at a $5.2B valuation, and more](https://dev.to/sabirchinstrap/coss-weekly-radixark-launches-with-100m-in-seed-funding-hermes-agent-surpasses-openclaw-sap-19ac)
-- [Breaking the Stateless Curse: Hermes Agent and the Case for Persistent AI Agents](https://dev.to/aashitanegii/breaking-the-stateless-curse-why-hermes-agent-could-change-open-source-ai-agents-4phl)
-- [I Built 7 Free Minecraft Plugins in a Weekend](https://dev.to/astroworldmc/i-built-7-free-minecraft-plugins-in-a-weekend-3f78)
+- [I just open-sourced 13 MIT libraries for web visual effects](https://dev.to/thomasdolso/i-just-open-sourced-13-mit-libraries-for-web-visual-effects-2g86)
+- [Mapping the Shadows: RecomendeMe Intelligence and the Revolution in Combating Human Trafficking in Brazil](https://dev.to/sampseiol1/mapping-the-shadows-recomendeme-intelligence-and-the-revolution-in-combating-human-trafficking-in-7mk)
+- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
+- [How I reverse-engineered Playtomic&#39;s mobile payment API to build a padel court booking bot](https://dev.to/hadriel33/how-i-reverse-engineered-playtomics-mobile-payment-api-to-build-a-padel-court-booking-bot-5ehb)
+- [Beyond the Basics: Offline Models, Custom Signs, and Production Scaling &lpar;Part 4&rpar;](https://dev.to/_iametornam/beyond-the-basics-offline-models-custom-signs-and-production-scaling-part-4-b40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
