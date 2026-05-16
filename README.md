@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hardest Part of Modern C++ Isn&#39;t the Language.](https://dev.to/whetlan/the-hardest-part-of-modern-c-isnt-the-language-3d6j)
-- [Here it is. A realworld fullstack PureScript project](https://dev.to/0x1/here-it-is-a-realworld-fullstack-purescript-project-1mcn)
-- [I Built a Telegram-Based AI Career Agent with Hermes Agent](https://dev.to/sai_22/i-built-a-telegram-based-ai-career-agent-with-hermes-agent-98n)
-- [The Synthesis Wall: Frontier AI Without Sending Your Data](https://dev.to/iwwomi/the-synthesis-wall-frontier-ai-without-sending-your-data-1k92)
-- [From Public Cloud to Self-Hosted PaaS: A Migration Story](https://dev.to/iwwomi/from-public-cloud-to-self-hosted-paas-a-migration-story-311c)
+- [I got sick of boring AI chatbots, so I built a 1940s detective to roast my dreams 🕵️‍♂️](https://dev.to/aniket_mehra_21b26691abf8/i-got-sick-of-boring-ai-chatbots-so-i-built-a-1940s-detective-to-roast-my-dreams-3efj)
+- [Building Stateful Agricultural AI: The Power of Hindsight Memory and CascadeFlow Routing](https://dev.to/aman_tebriwal/building-stateful-agricultural-ai-the-power-of-hindsight-memory-and-cascadeflow-routing-207n)
+- [AI Has Already Solved &quot;Impossible&quot; Problems. You Just Missed It.](https://dev.to/gregthevibecoder/ai-has-already-solved-impossible-problems-you-just-missed-it-4e91)
+- [Why I Built Quantum Bases: A Developer&#39;s Honest Take on the Agency Model](https://dev.to/hamzayasin1/why-i-built-quantum-bases-a-developers-honest-take-on-the-agency-model-n53)
+- [I built a zero-dependency C# Vector Database that saturates DDR5 RAM bandwidth](https://dev.to/iancowley/i-built-a-zero-dependency-c-vector-database-that-saturates-ddr5-ram-bandwidth-5f9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
