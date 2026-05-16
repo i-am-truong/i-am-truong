@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I got sick of boring AI chatbots, so I built a 1940s detective to roast my dreams 🕵️‍♂️](https://dev.to/aniket_mehra_21b26691abf8/i-got-sick-of-boring-ai-chatbots-so-i-built-a-1940s-detective-to-roast-my-dreams-3efj)
-- [Building Stateful Agricultural AI: The Power of Hindsight Memory and CascadeFlow Routing](https://dev.to/aman_tebriwal/building-stateful-agricultural-ai-the-power-of-hindsight-memory-and-cascadeflow-routing-207n)
-- [AI Has Already Solved &quot;Impossible&quot; Problems. You Just Missed It.](https://dev.to/gregthevibecoder/ai-has-already-solved-impossible-problems-you-just-missed-it-4e91)
-- [Why I Built Quantum Bases: A Developer&#39;s Honest Take on the Agency Model](https://dev.to/hamzayasin1/why-i-built-quantum-bases-a-developers-honest-take-on-the-agency-model-n53)
-- [I built a zero-dependency C# Vector Database that saturates DDR5 RAM bandwidth](https://dev.to/iancowley/i-built-a-zero-dependency-c-vector-database-that-saturates-ddr5-ram-bandwidth-5f9a)
+- [Python Boolean Expression Evaluation Explained](https://dev.to/abhishekganji27/python-boolean-expression-evaluation-explained-59oo)
+- [Practice Real-World Testing Scenarios for QA: Solution to Challenge 1 - Login with Different Users](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-solution-to-challenge-1-login-with-different-users-27di)
+- [Inline context for every article, without leaving the page](https://dev.to/palo_alto_ai/inline-context-for-every-article-without-leaving-the-page-1fkn)
+- [I Tested 6 Local Models on Real Agent Tasks. The Best Scored 50%.](https://dev.to/vystartasv/i-tested-6-local-models-on-real-agent-tasks-the-best-scored-50-384o)
+- [Build and Deploy an Automatic Sync Solution for Amazon Bedrock Knowledge Bases](https://dev.to/aws-builders/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases-4olf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
