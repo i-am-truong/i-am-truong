@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The easiest way to test React Router v7 apps](https://dev.to/kevinccbsg/the-easiest-way-to-test-react-router-v7-apps-92p)
-- [Monté un mini-SOC en mi portátil con honeypot, Wazuh e IA local — proyecto del Máster en Evolve](https://dev.to/evolve-space/monte-un-mini-soc-en-mi-portatil-con-honeypot-wazuh-e-ia-local-proyecto-del-master-en-evolve-52mc)
-- [How to Connect a Namecheap Domain to a DigitalOcean Droplet with Nginx](https://dev.to/tahsin000/how-to-connect-a-namecheap-domain-to-a-digitalocean-droplet-with-nginx-2mok)
-- [Hiring a Product Engineering Studio in India in 2026: A Founder&#39;s Checklist](https://dev.to/ujjawal_tyagi_c5a84255da4/hiring-a-product-engineering-studio-in-india-in-2026-a-founders-checklist-14cc)
-- [Why I chose human-edited subtitles over AI auto-captions for vocabulary mining](https://dev.to/qcrao/why-i-chose-human-edited-subtitles-over-ai-auto-captions-for-vocabulary-mining-3lig)
+- [Another simple TCP chat in C#? Why not](https://dev.to/lukematt574/another-simple-tcp-chat-in-c-why-not-4ma0)
+- [How to Estimate LLM API Cost Before Shipping Your AI App](https://dev.to/superml/how-to-estimate-llm-api-cost-before-shipping-your-ai-app-4fid)
+- [COSS Weekly: RadixArk launches with $100M in seed funding, Hermes Agent surpasses OpenClaw, SAP invests in n8n at a $5.2B valuation, and more](https://dev.to/sabirchinstrap/coss-weekly-radixark-launches-with-100m-in-seed-funding-hermes-agent-surpasses-openclaw-sap-19ac)
+- [Breaking the Stateless Curse: Hermes Agent and the Case for Persistent AI Agents](https://dev.to/aashitanegii/breaking-the-stateless-curse-why-hermes-agent-could-change-open-source-ai-agents-4phl)
+- [I Built 7 Free Minecraft Plugins in a Weekend](https://dev.to/astroworldmc/i-built-7-free-minecraft-plugins-in-a-weekend-3f78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
