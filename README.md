@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed](https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj)
-- [Why Google gave away a goldmine for $0? 👀](https://dev.to/archak_aryan_7a8eeb83c265/why-google-gave-away-a-goldmine-for-0-jbk)
-- [redb.Route — Apache Camel for .NET: 22 transports, 30+ EIP patterns, compiled DSL](https://dev.to/rinat_kozin_d0a2ef43e7824/redbroute-apache-camel-for-net-22-transports-30-eip-patterns-compiled-dsl-11m0)
-- [I built Threadbase to give AI coding tools a shared memory inside the repo](https://dev.to/aniketrode3198/i-built-threadbase-to-give-ai-coding-tools-a-shared-memory-inside-the-repo-1jmd)
-- [How to keep bug bounty findings alive in the queue: the HEAD verification matrix](https://dev.to/jae0y2n/how-to-keep-bug-bounty-findings-alive-in-the-queue-the-head-verification-matrix-3gk9)
+- [Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using Gemma 4](https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534)
+- [Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulkan](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap)
+- [The AI Ghostwriter Experiment](https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a)
+- [Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective](https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea)
+- [I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes](https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
