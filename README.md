@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Per-Section Briefs: How to Stop AI Agents Losing the Plot at 2000 Words](https://dev.to/lukasz_blania_4b7d226fa2a/per-section-briefs-how-to-stop-ai-agents-losing-the-plot-at-2000-words-431o)
-- [Bonus : Règles du standard ERC-20](https://dev.to/amel_in_tech/bonus-regles-du-standard-erc-20-edm)
-- [How to keep your OTA updates lean and fast](https://dev.to/expo/how-to-keep-your-ota-updates-lean-and-fast-3afn)
-- [Social Features](https://dev.to/rmpasta/social-features-njd)
-- [Ethereum VS BNB Smart Chain &lpar;BSC&rpar;](https://dev.to/amel_in_tech/ethereum-vs-bnb-smart-chain-bsc-29ed)
+- [Azertio: API and Database Testing Without the Glue Code](https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl)
+- [How to Test a REST API Automatically Without Writing Code](https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam)
+- [One Day, These Posts Will Be Running on Kiwi Engine](https://dev.to/stinklewinks/one-day-these-posts-will-be-running-on-kiwi-engine-5365)
+- [CodeGraph: Stop Your AI Agent From Grepping the Same Files 50 Times](https://dev.to/arshtechpro/codegraph-stop-your-ai-agent-from-grepping-the-same-files-50-times-3bgm)
+- [Superpowers: Giving Your Coding Agent a Workflow It Can&#39;t Skip](https://dev.to/arshtechpro/superpowers-giving-your-coding-agent-a-workflow-it-cant-skip-41m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
