@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent as a Farmer&#39;s AI Advisor — Built on Android, Tested in Assam](https://dev.to/divinesouljoy/hermes-agent-as-a-farmers-ai-advisor-built-on-android-tested-in-assam-57dn)
-- [IaC Drift Management: Unexpected Infrastructure Discrepancies and](https://dev.to/merbayerp/iac-drift-management-unexpected-infrastructure-discrepancies-and-1f2o)
-- [Offline-First iOS Architecture with Core Data and Sync](https://dev.to/beefedai/offline-first-ios-architecture-with-core-data-and-sync-5kc)
-- [This Week In React #281 : Next.js, TanStack, Security, Redact | Redraw, Expo, Tabs, Screens | TC39, Rolldown, Node](https://dev.to/sebastienlorber/this-week-in-react-281-nextjs-tanstack-security-redact-redraw-expo-tabs-screens-tc39-1m01)
-- [Claude Code Routines: Automate AI Workflows on Autopilot in 2026](https://dev.to/rams901/claude-code-routines-automate-ai-workflows-on-autopilot-in-2026-4ebg)
+- [🔎Do You ACTUALLY Need NgRx? &lpar;Or Are You Solving the Wrong Problem?&rpar;](https://dev.to/abdelaaziz_ouakala/do-you-actually-need-ngrx-or-are-you-solving-the-wrong-problem-2hp5)
+- [Bulk Emails from a chat input — without Redis, queues, or worker services](https://dev.to/roshan_ican/bulk-emails-from-a-chat-input-without-redis-queues-or-worker-services-4oak)
+- [System Design: SSO Authentication Using Shared Cookie for Multiple Apps](https://dev.to/forceki/system-design-shared-cookie-authentication-for-multiple-apps-49jn)
+- [How I designed the SDLC state machine for agentic coding](https://dev.to/great_cto/how-i-designed-the-sdlc-state-machine-for-agentic-coding-2pch)
+- [First real shipped feature with this stack — receipts](https://dev.to/great_cto/first-real-shipped-feature-with-this-stack-receipts-45c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
