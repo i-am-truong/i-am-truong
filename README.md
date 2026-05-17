@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [xAI open-sourced their ranker. It doesn&#39;t compile.](https://dev.to/roobie/xai-open-sourced-their-ranker-it-doesnt-compile-2gfj)
-- [Configuration in Go Should Be Typed: Introducing confkit](https://dev.to/alexanderglawk/configuration-in-go-should-be-typed-introducing-confkit-36eo)
-- [De Data-Chaos a Data-Driven Decisions: Pipeline ETL Automatizado en Microsoft Fabric y PowerBI](https://dev.to/evolve-space/de-data-chaos-a-data-driven-decisions-pipeline-etl-automatizado-en-microsoft-fabric-y-powerbi-3ce3)
-- [Title: I Built a Production GPU Energy Optimizer in One Day — From My Phone](https://dev.to/mikebains41debug/titlei-built-a-production-gpu-energy-optimizer-in-one-day-from-my-phone-1d2e)
-- [6 n8n Workflow Patterns for AI Automation &lpar;Lead Gen, Enrichment, RAG, Self-Healing&rpar;](https://dev.to/blncraft/6-n8n-workflow-patterns-for-ai-automation-lead-gen-enrichment-rag-self-healing-51g0)
+- [I Wrote an MCP Server for My 3D Printer](https://dev.to/niclydon/i-wrote-an-mcp-server-for-my-3d-printer-4om3)
+- [What We Lose When Everything Is a Wrapper](https://dev.to/lazarv/what-we-lose-when-everything-is-a-wrapper-42e4)
+- [How I Submitted My First WordPress Core Patch &lpar;And What I Learned&rpar;](https://dev.to/kunal_pareek/how-i-submitted-my-first-wordpress-core-patch-and-what-i-learned-a72)
+- [Why I built Inktag — a `&lt;img&gt;`-shaped tag that locks AI images to your brand](https://dev.to/panda_5de1fe91fe39e7af730/why-i-built-inktag-a-shaped-tag-that-locks-ai-images-to-your-brand-38d0)
+- [Learning Progress Pt.11](https://dev.to/muhamedmaxhuni/learning-progress-pt11-3d26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
