@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔎Do You ACTUALLY Need NgRx? &lpar;Or Are You Solving the Wrong Problem?&rpar;](https://dev.to/abdelaaziz_ouakala/do-you-actually-need-ngrx-or-are-you-solving-the-wrong-problem-2hp5)
-- [Bulk Emails from a chat input — without Redis, queues, or worker services](https://dev.to/roshan_ican/bulk-emails-from-a-chat-input-without-redis-queues-or-worker-services-4oak)
-- [System Design: SSO Authentication Using Shared Cookie for Multiple Apps](https://dev.to/forceki/system-design-shared-cookie-authentication-for-multiple-apps-49jn)
-- [How I designed the SDLC state machine for agentic coding](https://dev.to/great_cto/how-i-designed-the-sdlc-state-machine-for-agentic-coding-2pch)
-- [First real shipped feature with this stack — receipts](https://dev.to/great_cto/first-real-shipped-feature-with-this-stack-receipts-45c5)
+- [Why my Reddit scraper went from 92% to 61% success rate in 30 days &lpar;and the one-line fix&rpar;](https://dev.to/perufitlife/why-my-reddit-scraper-went-from-92-to-61-success-rate-in-30-days-and-the-one-line-fix-3013)
+- [I deleted 4080 lines and rebuilt from scratch. Here&#39;s why call graphs are wrong for AI-generated code.](https://dev.to/kakacheaper/i-deleted-4080-lines-and-rebuilt-from-scratch-heres-why-call-graphs-are-wrong-for-ai-generated-1606)
+- [Graphify + code-review-graph: Build a Self-Updating Knowledge Graph for Claude Code and other AI Coding Agent](https://dev.to/mir_mursalin_ankur/graphify-code-review-graph-build-a-self-updating-knowledge-graph-for-claude-code-and-other-ai-j1m)
+- [The Missing Engineering Stack for Production AI Agents](https://dev.to/karl_mehta/the-missing-engineering-stack-for-production-ai-agents-316h)
+- [Music and Code Ask the Same Thing of Me](https://dev.to/lazarv/music-and-code-ask-the-same-thing-of-me-1dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
