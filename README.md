@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Grid: A Beginner-Friendly Breakdown](https://dev.to/johalputt/understanding-grid-a-beginner-friendly-breakdown-2ege)
-- [How we tracked down a mysterious latency issue in our AWS Lambda + RDS Proxy stack, and discovered Prisma was the culprit all along.](https://dev.to/jayesh_shinde/how-we-tracked-down-a-mysterious-latency-issue-in-our-aws-lambda-rds-proxy-stack-and-discovered-4h0i)
-- [I Built an AI Agent Risk Auditor for Agentic Repositories](https://dev.to/james_bridges_5511048e2cf/i-built-an-ai-agent-risk-auditor-for-agentic-repositories-4hli)
-- [How to Auto-Deploy a Laravel App to DigitalOcean Using GitHub Actions](https://dev.to/jenueldev/how-to-auto-deploy-a-laravel-app-to-digitalocean-using-github-actions-3bon)
-- [Stop Writing Webhook Boilerplate in Spring Boot](https://dev.to/dinuka_karunarathna/stop-writing-webhook-boilerplate-in-spring-boot-1og)
+- [Interim Log: My First Real Mobile Coding Session – Voice, AI Connectors &amp; The Current State of Developer Tooling](https://dev.to/alexrebula/interim-log-my-first-real-mobile-coding-session-voice-ai-connectors-the-current-state-of-2m1d)
+- [Introducing nest-drizzle-native: A Nest-native Drizzle ORM integration](https://dev.to/rodrigobnogueira/introducing-nest-drizzle-native-a-nest-native-drizzle-orm-integration-21pe)
+- [The Agent Is 20% of the Work. The Platform Is the Other 80%.](https://dev.to/todd_linnertz_871a076f68e/the-agent-is-20-of-the-work-the-platform-is-the-other-80-4cf8)
+- [Beyond REST: Architecting High-Performance Microservices with gRPC in Go](https://dev.to/murtuza/beyond-rest-architecting-high-performance-microservices-with-grpc-in-go-57e5)
+- [I Stayed Up Until 3 AM to Build a Better Claude Code Guide Than the One With 52,000 Stars — Here&#39;s What I Found](https://dev.to/apples_one_cd174284bffb/i-stayed-up-until-3-am-to-build-a-better-claude-code-guide-than-the-one-with-52000-stars-heres-15cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
