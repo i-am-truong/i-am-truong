@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azertio: API and Database Testing Without the Glue Code](https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl)
-- [How to Test a REST API Automatically Without Writing Code](https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam)
-- [One Day, These Posts Will Be Running on Kiwi Engine](https://dev.to/stinklewinks/one-day-these-posts-will-be-running-on-kiwi-engine-5365)
-- [CodeGraph: Stop Your AI Agent From Grepping the Same Files 50 Times](https://dev.to/arshtechpro/codegraph-stop-your-ai-agent-from-grepping-the-same-files-50-times-3bgm)
-- [Superpowers: Giving Your Coding Agent a Workflow It Can&#39;t Skip](https://dev.to/arshtechpro/superpowers-giving-your-coding-agent-a-workflow-it-cant-skip-41m3)
+- [Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring](https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33)
+- [Add PoW-skip + Lightning payments to any MCP server in 10 lines](https://dev.to/zekebuilds/add-pow-skip-lightning-payments-to-any-mcp-server-in-10-lines-1nac)
+- [Debugging Multi-Agent Systems in TypeScript: From Flat Logs to Execution Trees](https://dev.to/chintanonweb/debugging-multi-agent-systems-in-typescript-from-flat-logs-to-execution-trees-1foo)
+- [Your cert exam is 10 weeks away. You&#39;ve studied three times. Here&#39;s the pattern.](https://dev.to/miad_ea7faef80e5125861119/your-cert-exam-is-10-weeks-away-youve-studied-three-times-heres-the-pattern-53nk)
+- [Building a Low-Cost Image Converter on AWS With Rust Lambda](https://dev.to/fayismahmood/building-a-low-cost-image-converter-on-aws-with-rust-lambda-1d11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
