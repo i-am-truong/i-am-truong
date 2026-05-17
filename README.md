@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Does Google Keep Changing My Language? &lpar;And How to Fix It&rpar;](https://dev.to/samthuku/why-does-google-keep-changing-my-language-and-how-to-fix-it-2ifp)
-- [Event-Driven Ransomware Detection with ONTAP ARP + Datadog](https://dev.to/aws-builders/event-driven-ransomware-detection-with-ontap-arp-datadog-4cda)
-- [Shipping FSx for ONTAP Logs to Datadog — The Serverless Way](https://dev.to/aws-builders/shipping-fsx-for-ontap-logs-to-datadog-the-serverless-way-n9c)
-- [Mental Algorithms: How AI Changes the Cost of Thinking](https://dev.to/vladimirivanov/mental-algorithms-how-ai-changes-the-cost-of-thinking-48ho)
-- [Reducing LLM Hallucinations in 2026: LoRA, F-DPO, and the Math That Actually Works](https://dev.to/soumia_g_9dc322fc4404cecd/reducing-llm-hallucinations-in-2026-lora-f-dpo-and-the-math-that-actually-works-50e0)
+- [I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed](https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj)
+- [Why Google gave away a goldmine for $0? 👀](https://dev.to/archak_aryan_7a8eeb83c265/why-google-gave-away-a-goldmine-for-0-jbk)
+- [redb.Route — Apache Camel for .NET: 22 transports, 30+ EIP patterns, compiled DSL](https://dev.to/rinat_kozin_d0a2ef43e7824/redbroute-apache-camel-for-net-22-transports-30-eip-patterns-compiled-dsl-11m0)
+- [I built Threadbase to give AI coding tools a shared memory inside the repo](https://dev.to/aniketrode3198/i-built-threadbase-to-give-ai-coding-tools-a-shared-memory-inside-the-repo-1jmd)
+- [How to keep bug bounty findings alive in the queue: the HEAD verification matrix](https://dev.to/jae0y2n/how-to-keep-bug-bounty-findings-alive-in-the-queue-the-head-verification-matrix-3gk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
