@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why my Reddit scraper went from 92% to 61% success rate in 30 days &lpar;and the one-line fix&rpar;](https://dev.to/perufitlife/why-my-reddit-scraper-went-from-92-to-61-success-rate-in-30-days-and-the-one-line-fix-3013)
-- [I deleted 4080 lines and rebuilt from scratch. Here&#39;s why call graphs are wrong for AI-generated code.](https://dev.to/kakacheaper/i-deleted-4080-lines-and-rebuilt-from-scratch-heres-why-call-graphs-are-wrong-for-ai-generated-1606)
-- [Graphify + code-review-graph: Build a Self-Updating Knowledge Graph for Claude Code and other AI Coding Agent](https://dev.to/mir_mursalin_ankur/graphify-code-review-graph-build-a-self-updating-knowledge-graph-for-claude-code-and-other-ai-j1m)
-- [The Missing Engineering Stack for Production AI Agents](https://dev.to/karl_mehta/the-missing-engineering-stack-for-production-ai-agents-316h)
-- [Music and Code Ask the Same Thing of Me](https://dev.to/lazarv/music-and-code-ask-the-same-thing-of-me-1dh)
+- [Per-Section Briefs: How to Stop AI Agents Losing the Plot at 2000 Words](https://dev.to/lukasz_blania_4b7d226fa2a/per-section-briefs-how-to-stop-ai-agents-losing-the-plot-at-2000-words-431o)
+- [Bonus : Règles du standard ERC-20](https://dev.to/amel_in_tech/bonus-regles-du-standard-erc-20-edm)
+- [How to keep your OTA updates lean and fast](https://dev.to/expo/how-to-keep-your-ota-updates-lean-and-fast-3afn)
+- [Social Features](https://dev.to/rmpasta/social-features-njd)
+- [Ethereum VS BNB Smart Chain &lpar;BSC&rpar;](https://dev.to/amel_in_tech/ethereum-vs-bnb-smart-chain-bsc-29ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
