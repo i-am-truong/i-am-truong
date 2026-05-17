@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring](https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33)
-- [Add PoW-skip + Lightning payments to any MCP server in 10 lines](https://dev.to/zekebuilds/add-pow-skip-lightning-payments-to-any-mcp-server-in-10-lines-1nac)
-- [Debugging Multi-Agent Systems in TypeScript: From Flat Logs to Execution Trees](https://dev.to/chintanonweb/debugging-multi-agent-systems-in-typescript-from-flat-logs-to-execution-trees-1foo)
-- [Your cert exam is 10 weeks away. You&#39;ve studied three times. Here&#39;s the pattern.](https://dev.to/miad_ea7faef80e5125861119/your-cert-exam-is-10-weeks-away-youve-studied-three-times-heres-the-pattern-53nk)
-- [Building a Low-Cost Image Converter on AWS With Rust Lambda](https://dev.to/fayismahmood/building-a-low-cost-image-converter-on-aws-with-rust-lambda-1d11)
+- [xAI open-sourced their ranker. It doesn&#39;t compile.](https://dev.to/roobie/xai-open-sourced-their-ranker-it-doesnt-compile-2gfj)
+- [Configuration in Go Should Be Typed: Introducing confkit](https://dev.to/alexanderglawk/configuration-in-go-should-be-typed-introducing-confkit-36eo)
+- [De Data-Chaos a Data-Driven Decisions: Pipeline ETL Automatizado en Microsoft Fabric y PowerBI](https://dev.to/evolve-space/de-data-chaos-a-data-driven-decisions-pipeline-etl-automatizado-en-microsoft-fabric-y-powerbi-3ce3)
+- [Title: I Built a Production GPU Energy Optimizer in One Day — From My Phone](https://dev.to/mikebains41debug/titlei-built-a-production-gpu-energy-optimizer-in-one-day-from-my-phone-1d2e)
+- [6 n8n Workflow Patterns for AI Automation &lpar;Lead Gen, Enrichment, RAG, Self-Healing&rpar;](https://dev.to/blncraft/6-n8n-workflow-patterns-for-ai-automation-lead-gen-enrichment-rag-self-healing-51g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
