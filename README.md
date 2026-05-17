@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw: 13 Errors, $1.50/Month, and an AI Team That Doesn’t Need the Cloud](https://dev.to/ianlpaterson/openclaw-13-errors-150month-and-an-ai-team-that-doesnt-need-the-cloud-4256)
-- [Plotting 5 Years of FX in the Browser — Frankfurter API + Hand-Rolled SVG Line Chart](https://dev.to/sendotltd/plotting-5-years-of-fx-in-the-browser-frankfurter-api-hand-rolled-svg-line-chart-ljn)
-- [3rd OOM on the VPS: Parallel Builds and a flock Mutex Story](https://dev.to/merbayerp/3rd-oom-on-the-vps-parallel-builds-and-a-flock-mutex-story-3690)
-- [The Coding Paradox: Why You Need to Learn to Code Precisely Because Everyone Says You Don&#39;t](https://dev.to/ferdinandodhiambo/the-coding-paradox-why-you-need-to-learn-to-code-precisely-because-everyone-says-you-dont-4n70)
-- [A Simple SEO Workflow for Developers Launching SaaS Products](https://dev.to/multicanci_6610c6d575d965/a-simple-seo-workflow-for-developers-launching-saas-products-2ppn)
+- [Understanding Grid: A Beginner-Friendly Breakdown](https://dev.to/johalputt/understanding-grid-a-beginner-friendly-breakdown-2ege)
+- [How we tracked down a mysterious latency issue in our AWS Lambda + RDS Proxy stack, and discovered Prisma was the culprit all along.](https://dev.to/jayesh_shinde/how-we-tracked-down-a-mysterious-latency-issue-in-our-aws-lambda-rds-proxy-stack-and-discovered-4h0i)
+- [I Built an AI Agent Risk Auditor for Agentic Repositories](https://dev.to/james_bridges_5511048e2cf/i-built-an-ai-agent-risk-auditor-for-agentic-repositories-4hli)
+- [How to Auto-Deploy a Laravel App to DigitalOcean Using GitHub Actions](https://dev.to/jenueldev/how-to-auto-deploy-a-laravel-app-to-digitalocean-using-github-actions-3bon)
+- [Stop Writing Webhook Boilerplate in Spring Boot](https://dev.to/dinuka_karunarathna/stop-writing-webhook-boilerplate-in-spring-boot-1og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
