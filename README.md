@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Interim Log: My First Real Mobile Coding Session – Voice, AI Connectors &amp; The Current State of Developer Tooling](https://dev.to/alexrebula/interim-log-my-first-real-mobile-coding-session-voice-ai-connectors-the-current-state-of-2m1d)
-- [Introducing nest-drizzle-native: A Nest-native Drizzle ORM integration](https://dev.to/rodrigobnogueira/introducing-nest-drizzle-native-a-nest-native-drizzle-orm-integration-21pe)
-- [The Agent Is 20% of the Work. The Platform Is the Other 80%.](https://dev.to/todd_linnertz_871a076f68e/the-agent-is-20-of-the-work-the-platform-is-the-other-80-4cf8)
-- [Beyond REST: Architecting High-Performance Microservices with gRPC in Go](https://dev.to/murtuza/beyond-rest-architecting-high-performance-microservices-with-grpc-in-go-57e5)
-- [I Stayed Up Until 3 AM to Build a Better Claude Code Guide Than the One With 52,000 Stars — Here&#39;s What I Found](https://dev.to/apples_one_cd174284bffb/i-stayed-up-until-3-am-to-build-a-better-claude-code-guide-than-the-one-with-52000-stars-heres-15cg)
+- [GitHub enters the terminal agent wars with Copilot CLI](https://dev.to/thegatewayguy/github-enters-the-terminal-agent-wars-with-copilot-cli-285)
+- [HTML Is the New Markdown](https://dev.to/vishal_veerareddy_9cdd17d/html-is-the-new-markdown-3hf8)
+- [LLMs Diverge, Humans Converge — LLMs Can&#39;t Come Up With Ideas](https://dev.to/nishimura/llms-diverge-humans-converge-llms-cant-come-up-with-ideas-161m)
+- [Algorithmic Challenge: How do we mathematically audit semantic authority in LLMs? &lpar;Open-sourcing LSW&rpar;](https://dev.to/myc911/algorithmic-challenge-how-do-we-mathematically-audit-semantic-authority-in-llms-open-sourcing-1i6g)
+- [What Should You Use Now That Google Interview Warmup Is Dead?](https://dev.to/ankit_singhchadda_6570f3/what-should-you-use-now-that-google-interview-warmup-is-dead-2fci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
