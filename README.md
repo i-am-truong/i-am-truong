@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub enters the terminal agent wars with Copilot CLI](https://dev.to/thegatewayguy/github-enters-the-terminal-agent-wars-with-copilot-cli-285)
-- [HTML Is the New Markdown](https://dev.to/vishal_veerareddy_9cdd17d/html-is-the-new-markdown-3hf8)
-- [LLMs Diverge, Humans Converge — LLMs Can&#39;t Come Up With Ideas](https://dev.to/nishimura/llms-diverge-humans-converge-llms-cant-come-up-with-ideas-161m)
-- [Algorithmic Challenge: How do we mathematically audit semantic authority in LLMs? &lpar;Open-sourcing LSW&rpar;](https://dev.to/myc911/algorithmic-challenge-how-do-we-mathematically-audit-semantic-authority-in-llms-open-sourcing-1i6g)
-- [What Should You Use Now That Google Interview Warmup Is Dead?](https://dev.to/ankit_singhchadda_6570f3/what-should-you-use-now-that-google-interview-warmup-is-dead-2fci)
+- [Why Does Google Keep Changing My Language? &lpar;And How to Fix It&rpar;](https://dev.to/samthuku/why-does-google-keep-changing-my-language-and-how-to-fix-it-2ifp)
+- [Event-Driven Ransomware Detection with ONTAP ARP + Datadog](https://dev.to/aws-builders/event-driven-ransomware-detection-with-ontap-arp-datadog-4cda)
+- [Shipping FSx for ONTAP Logs to Datadog — The Serverless Way](https://dev.to/aws-builders/shipping-fsx-for-ontap-logs-to-datadog-the-serverless-way-n9c)
+- [Mental Algorithms: How AI Changes the Cost of Thinking](https://dev.to/vladimirivanov/mental-algorithms-how-ai-changes-the-cost-of-thinking-48ho)
+- [Reducing LLM Hallucinations in 2026: LoRA, F-DPO, and the Math That Actually Works](https://dev.to/soumia_g_9dc322fc4404cecd/reducing-llm-hallucinations-in-2026-lora-f-dpo-and-the-math-that-actually-works-50e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
