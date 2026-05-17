@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote an MCP Server for My 3D Printer](https://dev.to/niclydon/i-wrote-an-mcp-server-for-my-3d-printer-4om3)
-- [What We Lose When Everything Is a Wrapper](https://dev.to/lazarv/what-we-lose-when-everything-is-a-wrapper-42e4)
-- [How I Submitted My First WordPress Core Patch &lpar;And What I Learned&rpar;](https://dev.to/kunal_pareek/how-i-submitted-my-first-wordpress-core-patch-and-what-i-learned-a72)
-- [Why I built Inktag — a `&lt;img&gt;`-shaped tag that locks AI images to your brand](https://dev.to/panda_5de1fe91fe39e7af730/why-i-built-inktag-a-shaped-tag-that-locks-ai-images-to-your-brand-38d0)
-- [Learning Progress Pt.11](https://dev.to/muhamedmaxhuni/learning-progress-pt11-3d26)
+- [Spring Boot 2026: Why Measuring Only Startup Time Is a Trap](https://dev.to/jtorchia/spring-boot-2026-why-measuring-only-startup-time-is-a-trap-2oa3)
+- [Spring Boot 2026: por qué medir solo startup time es una trampa](https://dev.to/jtorchia/spring-boot-2026-por-que-medir-solo-startup-time-es-una-trampa-2o0h)
+- [Agentic AI Implementation Runs Through Change Control | Focused Labs](https://dev.to/focused_dot_io/agentic-ai-implementation-runs-through-change-control-focused-labs-37pi)
+- [Building a Crypto Funding Rate Data Pipeline with Python](https://dev.to/fundingkai/building-a-crypto-funding-rate-data-pipeline-with-python-2go4)
+- [You&#39;re probably underusing middleware for HTTP response handling](https://dev.to/arturplysiuk/youre-probably-underusing-middleware-for-http-response-handling-1djf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
