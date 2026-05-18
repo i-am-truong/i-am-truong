@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [kovax-react 0.6: Pagination, breakpoint hooks, and one source of truth for responsive layout](https://dev.to/mrkamura/kovax-react-06-pagination-breakpoint-hooks-and-one-source-of-truth-for-responsive-layout-3in)
-- [I Built a Free, Modern Alternative to Paid Universal Sign-In for Expo](https://dev.to/sagnik2001/i-built-a-free-modern-alternative-to-paid-universal-sign-in-for-expo-51j2)
-- [The Log Management Cost Trap: Part II — Storage](https://dev.to/bronto_io/the-log-management-cost-trap-part-ii-storage-45la)
-- [Can some one guide me about how to think like a programmer? , How to solve the problem ?](https://dev.to/manoz-code/can-some-one-guide-me-about-how-to-think-like-a-programmer-how-to-solve-the-problem--1de1)
-- [Orchestrated Multi-Agent Safety &amp; Test Oversight - AKA &quot;`O MAS TO&quot;](https://dev.to/marcosomma/orchestrated-multi-agent-safety-test-oversight-aka-o-masto-5hje)
+- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-in-carbon-negative-5ap2)
+- [I Cut My LLM API Bill by 73% — Here&#39;s the Exact Optimization Playbook](https://dev.to/kollittle/i-cut-my-llm-api-bill-by-73-heres-the-exact-optimization-playbook-ei5)
+- [What Gemma 4 Actually Unlocks for a Local Security Swarm &lpar;And Why I Don&#39;t Use the Same Variant Everywhere&rpar;](https://dev.to/mxguru1/what-gemma-4-actually-unlocks-for-a-local-security-swarm-and-why-i-dont-use-the-same-variant-nc8)
+- [Surviving Azure Policies: Zero-Trust Hub &amp; Spoke with Terraform](https://dev.to/dwoitzik/surviving-azure-policies-zero-trust-hub-spoke-with-terraform-2b6l)
+- [Meet nette-maker: A CLI Code Generator for Nette Framework](https://dev.to/unquam/meet-nette-maker-a-cli-code-generator-for-nette-framework-1p80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
