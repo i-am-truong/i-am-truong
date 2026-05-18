@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-in-carbon-negative-5ap2)
-- [I Cut My LLM API Bill by 73% — Here&#39;s the Exact Optimization Playbook](https://dev.to/kollittle/i-cut-my-llm-api-bill-by-73-heres-the-exact-optimization-playbook-ei5)
-- [What Gemma 4 Actually Unlocks for a Local Security Swarm &lpar;And Why I Don&#39;t Use the Same Variant Everywhere&rpar;](https://dev.to/mxguru1/what-gemma-4-actually-unlocks-for-a-local-security-swarm-and-why-i-dont-use-the-same-variant-nc8)
-- [Surviving Azure Policies: Zero-Trust Hub &amp; Spoke with Terraform](https://dev.to/dwoitzik/surviving-azure-policies-zero-trust-hub-spoke-with-terraform-2b6l)
-- [Meet nette-maker: A CLI Code Generator for Nette Framework](https://dev.to/unquam/meet-nette-maker-a-cli-code-generator-for-nette-framework-1p80)
+- [The second-order cost of a&lpar;nother&rpar; layoff year.](https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl)
+- [FMix: пакетный менеджер для Forth](https://dev.to/ua3mqj/fmix-pakietnyi-mieniedzhier-dlia-forth-o3p)
+- [FMix: a package manager for Forth](https://dev.to/ua3mqj/fmix-a-package-manager-for-forth-37ld)
+- [🚀 ForgeZero v1.9.0 — The &quot;Architect&quot; Update: LSP Integration, Cross-Compilation &amp; Industrial-Grade Reliability](https://dev.to/alexvoste/forgezero-v190-the-architect-update-lsp-integration-cross-compilation-industrial-grade-4f44)
+- [Untangling 40-Year-Old COBOL Monoliths with Gemma 4 &lpar;Yes, Completely Offline&rpar;](https://dev.to/karteek_yadavilli_c8fa768/untangling-40-year-old-cobol-monoliths-with-gemma-4-yes-completely-offline-223n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
