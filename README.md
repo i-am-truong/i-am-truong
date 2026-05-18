@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SMTP Relay Server Setup 2026: Secure High-Volume Email Sending Guide](https://dev.to/dhiraj_chatpar_e54b46b388/smtp-relay-server-setup-2026-secure-high-volume-email-sending-guide-l60)
-- [Building a Dead Letter Queue for Shopify Webhooks &lpar;Production-Ready Guide&rpar;](https://dev.to/masadashraf/building-a-dead-letter-queue-for-shopify-webhooks-production-ready-guide-55ad)
-- [I disabled push notifications on my own AI app in 24 hours — here is what I rebuilt](https://dev.to/k08200/i-disabled-push-notifications-on-my-own-ai-app-in-24-hours-here-is-what-i-rebuilt-58mj)
-- [Ubuntu 26.04: Goodbye sudo, Hello Rust and Post-Quantum SSH](https://dev.to/arthurpro/ubuntu-2604-goodbye-sudo-hello-rust-and-post-quantum-ssh-a4a)
-- [AI Agents in Practice — Part 1: The Demo Worked. Production Didn&#39;t.](https://dev.to/gursharansingh/ai-agents-in-practice-part-1-the-demo-worked-production-didnt-1o1j)
+- [Building a Solana Account Explorer: Query On-Chain Data Like a Database](https://dev.to/lymah/building-a-solana-account-explorer-query-on-chain-data-like-a-database-293d)
+- [The Role of the Semantic Layer in Data Governance](https://dev.to/alexmercedcoder/the-role-of-the-semantic-layer-in-data-governance-1gne)
+- [PCA &lpar;Principal Component Analysis&rpar;: Finding the Hidden Structure in High‑Dimensional Data](https://dev.to/jacobjerryarackal/pca-principal-component-analysis-finding-the-hidden-structure-in-high-dimensional-data-8h6)
+- [Install Hexabot CLI and Create Your First AI Workflow](https://dev.to/marrouchi/install-hexabot-cli-and-create-your-first-ai-workflow-3ah0)
+- [Building Automated AWS Permission Testing Infrastructure for CI/CD](https://dev.to/tallgray1/building-automated-aws-permission-testing-infrastructure-for-cicd-3jai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
