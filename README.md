@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prisma Server Actions in Next.js 16: the patterns that work and the N+1 that sneaks up on you](https://dev.to/jtorchia/prisma-server-actions-in-nextjs-16-the-patterns-that-work-and-the-n1-that-sneaks-up-on-you-19h2)
-- [Prisma Server Actions en Next.js 16: los patrones que funcionan y el N+1 que aparece cuando no lo esperás](https://dev.to/jtorchia/prisma-server-actions-en-nextjs-16-los-patrones-que-funcionan-y-el-n1-que-aparece-cuando-no-lo-135e)
-- [How Apache Kafka Powers Real-Time Data Pipelines](https://dev.to/cliffe_okoth/how-apache-kafka-powers-real-time-data-pipelines-3ef9)
-- [I Built a 3D Weather App with Live Wind and Temperature Maps &lpar;React + Three.js&rpar;](https://dev.to/sehbaj_cuber_77f9bea7eaf1/i-built-a-3d-weather-app-with-live-wind-and-temperature-maps-react-threejs-4lli)
-- [2,775 Downloads in 3 Days With Zero Marketing Budget](https://dev.to/ad_man_cf946186dc71743c9b/2775-downloads-in-3-days-with-zero-marketing-budget-7d2)
+- [SMTP Relay Server Setup 2026: Secure High-Volume Email Sending Guide](https://dev.to/dhiraj_chatpar_e54b46b388/smtp-relay-server-setup-2026-secure-high-volume-email-sending-guide-l60)
+- [Building a Dead Letter Queue for Shopify Webhooks &lpar;Production-Ready Guide&rpar;](https://dev.to/masadashraf/building-a-dead-letter-queue-for-shopify-webhooks-production-ready-guide-55ad)
+- [I disabled push notifications on my own AI app in 24 hours — here is what I rebuilt](https://dev.to/k08200/i-disabled-push-notifications-on-my-own-ai-app-in-24-hours-here-is-what-i-rebuilt-58mj)
+- [Ubuntu 26.04: Goodbye sudo, Hello Rust and Post-Quantum SSH](https://dev.to/arthurpro/ubuntu-2604-goodbye-sudo-hello-rust-and-post-quantum-ssh-a4a)
+- [AI Agents in Practice — Part 1: The Demo Worked. Production Didn&#39;t.](https://dev.to/gursharansingh/ai-agents-in-practice-part-1-the-demo-worked-production-didnt-1o1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
