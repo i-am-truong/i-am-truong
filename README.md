@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging DNS leaks: why your VPN isn&#39;t hiding what you think it is](https://dev.to/alanwest/debugging-dns-leaks-why-your-vpn-isnt-hiding-what-you-think-it-is-4ecg)
-- [Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally](https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a)
-- [Engineering RAG Systems That Actually Work: Conversational Retrieval, Page Awareness &amp; Debugging &lpar;Part 5&rpar;](https://dev.to/sharathkurup/engineering-rag-systems-that-actually-work-conversational-retrieval-page-awareness-debugging-52bm)
-- [Taming the Spike: Predicting Glucose Peaks 30 Minutes Ahead with Transformers and TensorFlow 🩸🚀](https://dev.to/wellallytech/taming-the-spike-predicting-glucose-peaks-30-minutes-ahead-with-transformers-and-tensorflow-5ekg)
-- [Local AI on the move](https://dev.to/anushka_singh09/local-ai-on-the-move-3j2d)
+- [I gave Claude six months of our retros. It found three things I&#39;d missed.](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p)
+- [ML Engineer vs AI Engineer: What&#39;s Actually the Difference?](https://dev.to/sreeni5018/ml-engineer-vs-ai-engineer-whats-actually-the-difference-hca)
+- [Why I stopped using useEffect for everything and what I do instead](https://dev.to/tharun_lingala_a304dda79e/why-i-stopped-using-useeffect-for-everything-and-what-i-do-instead-2g1g)
+- [Stripe Payment and Processing](https://dev.to/guslift/stripe-payment-and-processing-3146)
+- [The Scheduling Boundaries Behind Responsive UI](https://dev.to/marshateo/the-scheduling-boundaries-behind-responsive-ui-2m56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
