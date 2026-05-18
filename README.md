@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I gave Claude six months of our retros. It found three things I&#39;d missed.](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p)
-- [ML Engineer vs AI Engineer: What&#39;s Actually the Difference?](https://dev.to/sreeni5018/ml-engineer-vs-ai-engineer-whats-actually-the-difference-hca)
-- [Why I stopped using useEffect for everything and what I do instead](https://dev.to/tharun_lingala_a304dda79e/why-i-stopped-using-useeffect-for-everything-and-what-i-do-instead-2g1g)
-- [Stripe Payment and Processing](https://dev.to/guslift/stripe-payment-and-processing-3146)
-- [The Scheduling Boundaries Behind Responsive UI](https://dev.to/marshateo/the-scheduling-boundaries-behind-responsive-ui-2m56)
+- [Introducing MAIS: A Privacy-Preserving Identity Standard for AI Agents on Midnight](https://dev.to/midnight-aliit/introducing-mais-a-privacy-preserving-identity-standard-for-ai-agents-on-midnight-53ip)
+- [Why Most Productivity Apps Slowly Become Anxiety Machines](https://dev.to/vaicurious/why-most-productivity-apps-slowly-become-anxiety-machines-57c1)
+- [Agent Development Kit for Google Apps Script](https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho)
+- [5 empty responses from gemma4:e4b. 4 hypotheses. 0 root cause.](https://dev.to/hashevolution/5-empty-responses-from-gemma4e4b-4-hypotheses-0-root-cause-1ggd)
+- [The $2 Million Permission You Forgot You Granted](https://dev.to/cnrco/the-2-million-permission-you-forgot-you-granted-1ahn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
