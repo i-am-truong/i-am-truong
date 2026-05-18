@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing MAIS: A Privacy-Preserving Identity Standard for AI Agents on Midnight](https://dev.to/midnight-aliit/introducing-mais-a-privacy-preserving-identity-standard-for-ai-agents-on-midnight-53ip)
-- [Why Most Productivity Apps Slowly Become Anxiety Machines](https://dev.to/vaicurious/why-most-productivity-apps-slowly-become-anxiety-machines-57c1)
-- [Agent Development Kit for Google Apps Script](https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho)
-- [5 empty responses from gemma4:e4b. 4 hypotheses. 0 root cause.](https://dev.to/hashevolution/5-empty-responses-from-gemma4e4b-4-hypotheses-0-root-cause-1ggd)
-- [The $2 Million Permission You Forgot You Granted](https://dev.to/cnrco/the-2-million-permission-you-forgot-you-granted-1ahn)
+- [Prisma Server Actions in Next.js 16: the patterns that work and the N+1 that sneaks up on you](https://dev.to/jtorchia/prisma-server-actions-in-nextjs-16-the-patterns-that-work-and-the-n1-that-sneaks-up-on-you-19h2)
+- [Prisma Server Actions en Next.js 16: los patrones que funcionan y el N+1 que aparece cuando no lo esperás](https://dev.to/jtorchia/prisma-server-actions-en-nextjs-16-los-patrones-que-funcionan-y-el-n1-que-aparece-cuando-no-lo-135e)
+- [How Apache Kafka Powers Real-Time Data Pipelines](https://dev.to/cliffe_okoth/how-apache-kafka-powers-real-time-data-pipelines-3ef9)
+- [I Built a 3D Weather App with Live Wind and Temperature Maps &lpar;React + Three.js&rpar;](https://dev.to/sehbaj_cuber_77f9bea7eaf1/i-built-a-3d-weather-app-with-live-wind-and-temperature-maps-react-threejs-4lli)
+- [2,775 Downloads in 3 Days With Zero Marketing Budget](https://dev.to/ad_man_cf946186dc71743c9b/2775-downloads-in-3-days-with-zero-marketing-budget-7d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
