@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Solana Account Explorer: Query On-Chain Data Like a Database](https://dev.to/lymah/building-a-solana-account-explorer-query-on-chain-data-like-a-database-293d)
-- [The Role of the Semantic Layer in Data Governance](https://dev.to/alexmercedcoder/the-role-of-the-semantic-layer-in-data-governance-1gne)
-- [PCA &lpar;Principal Component Analysis&rpar;: Finding the Hidden Structure in High‑Dimensional Data](https://dev.to/jacobjerryarackal/pca-principal-component-analysis-finding-the-hidden-structure-in-high-dimensional-data-8h6)
-- [Install Hexabot CLI and Create Your First AI Workflow](https://dev.to/marrouchi/install-hexabot-cli-and-create-your-first-ai-workflow-3ah0)
-- [Building Automated AWS Permission Testing Infrastructure for CI/CD](https://dev.to/tallgray1/building-automated-aws-permission-testing-infrastructure-for-cicd-3jai)
+- [The LLM Kept Saying “Fixed.” For Three Months, It Wasn’t.](https://dev.to/ianlpaterson/the-llm-kept-saying-fixed-for-three-months-it-wasnt-20nn)
+- [How I Track Claude, Codex, and Gemini Quotas from One Script](https://dev.to/ianlpaterson/how-i-track-claude-codex-and-gemini-quotas-from-one-script-36n5)
+- [First-call checklist before trying a new LLM gateway](https://dev.to/xuxu_8309f491756bc5701316/first-call-checklist-before-trying-a-new-llm-gateway-4f60)
+- [From Burnout to Building: One Indie Dev&#39;s Story Behind Mozart](https://dev.to/t1m4lc/from-burnout-to-building-one-indie-devs-story-behind-mozart-4k80)
+- [Understanding Reinforcement Learning with Human Feedback Part 1: Pre-Training Large Language Models](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-1-pre-training-large-language-models-42hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
