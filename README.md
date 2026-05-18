@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The LLM Kept Saying “Fixed.” For Three Months, It Wasn’t.](https://dev.to/ianlpaterson/the-llm-kept-saying-fixed-for-three-months-it-wasnt-20nn)
-- [How I Track Claude, Codex, and Gemini Quotas from One Script](https://dev.to/ianlpaterson/how-i-track-claude-codex-and-gemini-quotas-from-one-script-36n5)
-- [First-call checklist before trying a new LLM gateway](https://dev.to/xuxu_8309f491756bc5701316/first-call-checklist-before-trying-a-new-llm-gateway-4f60)
-- [From Burnout to Building: One Indie Dev&#39;s Story Behind Mozart](https://dev.to/t1m4lc/from-burnout-to-building-one-indie-devs-story-behind-mozart-4k80)
-- [Understanding Reinforcement Learning with Human Feedback Part 1: Pre-Training Large Language Models](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-1-pre-training-large-language-models-42hg)
+- [kovax-react 0.6: Pagination, breakpoint hooks, and one source of truth for responsive layout](https://dev.to/mrkamura/kovax-react-06-pagination-breakpoint-hooks-and-one-source-of-truth-for-responsive-layout-3in)
+- [I Built a Free, Modern Alternative to Paid Universal Sign-In for Expo](https://dev.to/sagnik2001/i-built-a-free-modern-alternative-to-paid-universal-sign-in-for-expo-51j2)
+- [The Log Management Cost Trap: Part II — Storage](https://dev.to/bronto_io/the-log-management-cost-trap-part-ii-storage-45la)
+- [Can some one guide me about how to think like a programmer? , How to solve the problem ?](https://dev.to/manoz-code/can-some-one-guide-me-about-how-to-think-like-a-programmer-how-to-solve-the-problem--1de1)
+- [Orchestrated Multi-Agent Safety &amp; Test Oversight - AKA &quot;`O MAS TO&quot;](https://dev.to/marcosomma/orchestrated-multi-agent-safety-test-oversight-aka-o-masto-5hje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
