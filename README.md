@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your ICP Is a Trap](https://dev.to/michal_szalinski_91bf893d/your-icp-is-a-trap-3i3o)
-- [Open VSX vs VS Code Marketplace — where should you publish your extension first?](https://dev.to/sidikiconde/-open-vsx-vs-vs-code-marketplace-where-should-you-publish-your-extension-first-2eep)
-- [Im a Nvidia Developer Champion!](https://dev.to/1grace/im-a-nvidia-developer-champion-17a4)
-- [OpenAI GPT 5.5 Event](https://dev.to/1grace/openai-gpt-55-event-pd3)
-- [Build a Type-Safe Next.js 15 + Strapi v5 Blog in 10 Minutes](https://dev.to/dearonski/build-a-type-safe-nextjs-15-strapi-v5-blog-in-10-minutes-2b22)
+- [Debugging DNS leaks: why your VPN isn&#39;t hiding what you think it is](https://dev.to/alanwest/debugging-dns-leaks-why-your-vpn-isnt-hiding-what-you-think-it-is-4ecg)
+- [Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally](https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a)
+- [Engineering RAG Systems That Actually Work: Conversational Retrieval, Page Awareness &amp; Debugging &lpar;Part 5&rpar;](https://dev.to/sharathkurup/engineering-rag-systems-that-actually-work-conversational-retrieval-page-awareness-debugging-52bm)
+- [Taming the Spike: Predicting Glucose Peaks 30 Minutes Ahead with Transformers and TensorFlow 🩸🚀](https://dev.to/wellallytech/taming-the-spike-predicting-glucose-peaks-30-minutes-ahead-with-transformers-and-tensorflow-5ekg)
+- [Local AI on the move](https://dev.to/anushka_singh09/local-ai-on-the-move-3j2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
