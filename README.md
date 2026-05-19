@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Property-Based Testing for Domain Rules in PHP](https://dev.to/gabrielanhaia/property-based-testing-for-domain-rules-in-php-25be)
-- [Geometric Alignment: Can Curved Embedding Spaces Make AI Safer?](https://dev.to/felipe_muniz_grsba/geometric-alignment-can-curved-embedding-spaces-make-ai-safer-3bih)
-- [Application Services vs Use Cases: The Actual Difference](https://dev.to/gabrielanhaia/application-services-vs-use-cases-the-actual-difference-3jbn)
-- [Supervising AI Coding Agents from Anywhere on Earth: Why I&#39;m Building Cipher](https://dev.to/amaar_ali/supervising-ai-coding-agents-from-anywhere-on-earth-why-im-building-cipher-2pf4)
-- [Junior devs using Copilot are speedrunning their own irrelevance](https://dev.to/adioof/junior-devs-using-copilot-are-speedrunning-their-own-irrelevance-3587)
+- [google i/o 2026 just changed everything - here&#39;s what i learned after testing](https://dev.to/aniruddhaadak/google-io-2026-just-changed-everything-heres-what-i-learned-after-testing-de0)
+- [Reserved Instances sound like an easy win at first.](https://dev.to/usage_9835/reserved-instances-sound-like-an-easy-win-at-first-4pgo)
+- [Understanding Correlation in PHP: Pearson vs Spearman vs Kendall Tau](https://dev.to/robertobutti/understanding-correlation-in-php-pearson-vs-spearman-vs-kendall-tau-28m1)
+- [What schools get wrong about cybersecurity education?](https://dev.to/romann/what-schools-get-wrong-about-cybersecurity-education-52a4)
+- [Sanity SEO done right: Open Graph, JSON-LD, fallbacks](https://dev.to/jonoroboto/sanity-seo-done-right-open-graph-json-ld-fallbacks-32dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
