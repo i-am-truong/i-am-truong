@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic just proved agent commerce works. Their own data shows why verification infrastructure needs to exist.](https://dev.to/gengeo-ai/anthropic-just-proved-agent-commerce-works-their-own-data-shows-why-verification-infrastructure-48fh)
-- [3 takeaways from the IO &#39;26 developer keynote](https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2)
-- [The Engineer Atlassian Laid Off Who Responded with a 38-Minute Documentary: What Every Leader Must Learn](https://dev.to/guayoyo_tech/the-engineer-atlassian-laid-off-who-responded-with-a-38-minute-documentary-what-every-leader-must-552f)
-- [El Ingeniero que Atlassian Despidió y Respondió con un Documental de 38 Minutos: Lo que Todo Líder Debe Aprender](https://dev.to/guayoyo_tech/el-ingeniero-que-atlassian-despidio-y-respondio-con-un-documental-de-38-minutos-lo-que-todo-lider-9he)
-- [Meet @vysmo/text - 243 text animation presets in 3 KB](https://dev.to/thomasdolso/meet-vysmotext-243-text-animation-presets-in-3-kb-2318)
+- [The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch](https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg)
+- [Eu quero Vibe: Codar! Mas a IA local me fez repensar a infraestrutura](https://dev.to/francislin123/eu-quero-vibe-codar-mas-a-ia-local-me-fez-repensar-a-infraestrutura-2kfc)
+- [Developers keep pasting JSON into online formatters and leaking secrets — so I built json-explorer](https://dev.to/mumicrotools/developers-keep-pasting-json-into-online-formatters-and-leaking-secrets-so-i-built-json-explorer-2a1p)
+- [Reading the Chain, Querying Data, and Understanding Solana&#39;s Storage Model](https://dev.to/boblee24/reading-the-chain-querying-data-and-understanding-solanas-storage-model-o81)
+- [Running a non-English audiobook through an AI voice pipeline: what&#39;s involved](https://dev.to/audioproducer-ai/running-a-non-english-audiobook-through-an-ai-voice-pipeline-whats-involved-182m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
