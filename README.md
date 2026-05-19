@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting on to the vibe coding train...in a hackathon](https://dev.to/oagutu/getting-in-to-the-vibe-coding-trainin-a-hackathon-3gn9)
-- [My first wordpress plugin](https://dev.to/phpspiderblog/my-first-wordpress-plugin-1a7d)
-- [AI Coding Is Fast Now. Engineering Trust Still Has to Be Earned.](https://dev.to/kair_akhmettayev_0a8ba408/ai-coding-is-fast-now-engineering-trust-still-has-to-be-earned-40ok)
-- [DevOps Security Gaps in Startups: What Fast-Growing Teams Keep Getting Wrong](https://dev.to/sygitech/devops-security-gaps-in-startups-what-fast-growing-teams-keep-getting-wrong-7nn)
-- [I Built a Programming Language from Scratch — No C, No LLVM, Just Raw Assembly](https://dev.to/jai_lalawat_84c750c65b525/i-built-a-programming-language-from-scratch-no-c-no-llvm-just-raw-assembly-2ja8)
+- [Property-Based Testing for Domain Rules in PHP](https://dev.to/gabrielanhaia/property-based-testing-for-domain-rules-in-php-25be)
+- [Geometric Alignment: Can Curved Embedding Spaces Make AI Safer?](https://dev.to/felipe_muniz_grsba/geometric-alignment-can-curved-embedding-spaces-make-ai-safer-3bih)
+- [Application Services vs Use Cases: The Actual Difference](https://dev.to/gabrielanhaia/application-services-vs-use-cases-the-actual-difference-3jbn)
+- [Supervising AI Coding Agents from Anywhere on Earth: Why I&#39;m Building Cipher](https://dev.to/amaar_ali/supervising-ai-coding-agents-from-anywhere-on-earth-why-im-building-cipher-2pf4)
+- [Junior devs using Copilot are speedrunning their own irrelevance](https://dev.to/adioof/junior-devs-using-copilot-are-speedrunning-their-own-irrelevance-3587)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
