@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [google i/o 2026 just changed everything - here&#39;s what i learned after testing](https://dev.to/aniruddhaadak/google-io-2026-just-changed-everything-heres-what-i-learned-after-testing-de0)
-- [Reserved Instances sound like an easy win at first.](https://dev.to/usage_9835/reserved-instances-sound-like-an-easy-win-at-first-4pgo)
-- [Understanding Correlation in PHP: Pearson vs Spearman vs Kendall Tau](https://dev.to/robertobutti/understanding-correlation-in-php-pearson-vs-spearman-vs-kendall-tau-28m1)
-- [What schools get wrong about cybersecurity education?](https://dev.to/romann/what-schools-get-wrong-about-cybersecurity-education-52a4)
-- [Sanity SEO done right: Open Graph, JSON-LD, fallbacks](https://dev.to/jonoroboto/sanity-seo-done-right-open-graph-json-ld-fallbacks-32dg)
+- [Anthropic just proved agent commerce works. Their own data shows why verification infrastructure needs to exist.](https://dev.to/gengeo-ai/anthropic-just-proved-agent-commerce-works-their-own-data-shows-why-verification-infrastructure-48fh)
+- [3 takeaways from the IO &#39;26 developer keynote](https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2)
+- [The Engineer Atlassian Laid Off Who Responded with a 38-Minute Documentary: What Every Leader Must Learn](https://dev.to/guayoyo_tech/the-engineer-atlassian-laid-off-who-responded-with-a-38-minute-documentary-what-every-leader-must-552f)
+- [El Ingeniero que Atlassian Despidió y Respondió con un Documental de 38 Minutos: Lo que Todo Líder Debe Aprender](https://dev.to/guayoyo_tech/el-ingeniero-que-atlassian-despidio-y-respondio-con-un-documental-de-38-minutos-lo-que-todo-lider-9he)
+- [Meet @vysmo/text - 243 text animation presets in 3 KB](https://dev.to/thomasdolso/meet-vysmotext-243-text-animation-presets-in-3-kb-2318)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
