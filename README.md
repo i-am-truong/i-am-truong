@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Backtest Is Lying to You: Data Biases That Ruin Equity Research](https://dev.to/pickuma/why-your-backtest-is-lying-to-you-data-biases-that-ruin-equity-research-22hd)
-- [现代化 UI 架构总结：设计主权回归与团队落地](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-zong-jie-she-ji-zhu-quan-hui-gui-yu-tuan-dui-luo-di-5h5j)
-- [Hermes Agent: Why Open Agentic Systems Matter](https://dev.to/printo_tom/hermes-agent-why-open-agentic-systems-matter-46ma)
-- [SEC EDGAR for Developers: The Free Fundamentals API Hiding in Plain Sight](https://dev.to/pickuma/sec-edgar-for-developers-the-free-fundamentals-api-hiding-in-plain-sight-1cbi)
-- [现代化 UI 架构：Style 层如何系统性消除代码冗余](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-style-ceng-ru-he-xi-tong-xing-xiao-chu-dai-ma-rong-yu-4nmb)
+- [Getting Started with Python: A Structured Guide for New Beginners.](https://dev.to/ephantus_macharia_/getting-started-with-python-a-structured-guide-for-new-beginners-5ded)
+- [Two majors, one README, one demo: two cheap design reviews](https://dev.to/mellonis/two-majors-one-readme-one-demo-two-cheap-design-reviews-2pgn)
+- [Three majors, two mistakes: designing a pause API for a Turing-machine interpreter](https://dev.to/mellonis/three-majors-two-mistakes-designing-a-pause-api-for-a-turing-machine-interpreter-137j)
+- [How Kafka and Nginx Move Data Faster: The Magic of Zero Copy](https://dev.to/dakshin_g/how-kafka-and-nginx-move-data-faster-the-magic-of-zero-copy-52fb)
+- [Two Local-Agent Philosophies: Where Hermes Earns Its Design, and Where the Tradeoffs Invert](https://dev.to/mxguru1/two-local-agent-philosophies-where-hermes-earns-its-design-and-where-the-tradeoffs-invert-k95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
