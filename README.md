@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A hard-earned rule from incident retrospectives:](https://dev.to/neeraja_khanapure_4a33a5f/a-hard-earned-rule-from-incident-retrospectives-1ln6)
-- [Stop Writing Code First](https://dev.to/juststevemcd/stop-writing-code-first-5ggp)
-- [Shaping Before You Build](https://dev.to/juststevemcd/shaping-before-you-build-16p9)
-- [Thinking In Layers](https://dev.to/juststevemcd/thinking-in-layers-3m9j)
-- [The Mid-Level Mindset](https://dev.to/juststevemcd/the-mid-level-mindset-2hcb)
+- [Google Cloud NoSQL Databases - Webinar Series Announced!](https://dev.to/shenoy/google-cloud-nosql-databases-webinar-series-announced-7i1)
+- [Why I Chose Hard Math Over AI for a 38,000 Ticker Financial Engine](https://dev.to/alexv_data/why-i-chose-hard-math-over-ai-for-a-38000-ticker-financial-engine-42pm)
+- [Most of Your Client JavaScript Exists to Hydrate Pages Users Already See](https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf)
+- [Day 4 — AWS Organizations &amp; Multi-Account Structure](https://dev.to/ismailg/day-4-aws-organizations-multi-account-structure-2e26)
+- [A Programmer’s Inferno: We Didn&#39;t Notice Software Rotting—Until It Was Too Late!](https://dev.to/ezmu/a-programmers-inferno-we-didnt-notice-software-rotting-until-it-was-too-late-15e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
