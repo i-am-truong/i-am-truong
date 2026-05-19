@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every AI database answer needs a source trail](https://dev.to/mads_hansen_27b33ebfee4c9/every-ai-database-answer-needs-a-source-trail-2de3)
-- [The Smartest Founders I Know Aren’t Building Unicorns](https://dev.to/imamabubakar/the-smartest-founders-i-know-arent-building-unicorns-5fle)
-- [lysofdev-ailog: A git log for Why Your AI Agent Did What It Did](https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea)
-- [I Kept Hitting Claude Code&#39;s 5-Hour Limit After 2 Hours. So I Built This.](https://dev.to/ec1980/i-kept-hitting-claude-codes-5-hour-limit-after-2-hours-so-i-built-this-34nl)
-- [The Shai-Hulud Worm Is Now Open Source — Here&#39;s How to Stop Self-Replicating Prompts Before They Reach Your LLM](https://dev.to/coridev/the-shai-hulud-worm-is-now-open-source-heres-how-to-stop-self-replicating-prompts-before-they-13jl)
+- [Why Your Backtest Is Lying to You: Data Biases That Ruin Equity Research](https://dev.to/pickuma/why-your-backtest-is-lying-to-you-data-biases-that-ruin-equity-research-22hd)
+- [现代化 UI 架构总结：设计主权回归与团队落地](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-zong-jie-she-ji-zhu-quan-hui-gui-yu-tuan-dui-luo-di-5h5j)
+- [Hermes Agent: Why Open Agentic Systems Matter](https://dev.to/printo_tom/hermes-agent-why-open-agentic-systems-matter-46ma)
+- [SEC EDGAR for Developers: The Free Fundamentals API Hiding in Plain Sight](https://dev.to/pickuma/sec-edgar-for-developers-the-free-fundamentals-api-hiding-in-plain-sight-1cbi)
+- [现代化 UI 架构：Style 层如何系统性消除代码冗余](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-style-ceng-ru-he-xi-tong-xing-xiao-chu-dai-ma-rong-yu-4nmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
