@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud NoSQL Databases - Webinar Series Announced!](https://dev.to/shenoy/google-cloud-nosql-databases-webinar-series-announced-7i1)
-- [Why I Chose Hard Math Over AI for a 38,000 Ticker Financial Engine](https://dev.to/alexv_data/why-i-chose-hard-math-over-ai-for-a-38000-ticker-financial-engine-42pm)
-- [Most of Your Client JavaScript Exists to Hydrate Pages Users Already See](https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf)
-- [Day 4 — AWS Organizations &amp; Multi-Account Structure](https://dev.to/ismailg/day-4-aws-organizations-multi-account-structure-2e26)
-- [A Programmer’s Inferno: We Didn&#39;t Notice Software Rotting—Until It Was Too Late!](https://dev.to/ezmu/a-programmers-inferno-we-didnt-notice-software-rotting-until-it-was-too-late-15e5)
+- [Getting on to the vibe coding train...in a hackathon](https://dev.to/oagutu/getting-in-to-the-vibe-coding-trainin-a-hackathon-3gn9)
+- [My first wordpress plugin](https://dev.to/phpspiderblog/my-first-wordpress-plugin-1a7d)
+- [AI Coding Is Fast Now. Engineering Trust Still Has to Be Earned.](https://dev.to/kair_akhmettayev_0a8ba408/ai-coding-is-fast-now-engineering-trust-still-has-to-be-earned-40ok)
+- [DevOps Security Gaps in Startups: What Fast-Growing Teams Keep Getting Wrong](https://dev.to/sygitech/devops-security-gaps-in-startups-what-fast-growing-teams-keep-getting-wrong-7nn)
+- [I Built a Programming Language from Scratch — No C, No LLVM, Just Raw Assembly](https://dev.to/jai_lalawat_84c750c65b525/i-built-a-programming-language-from-scratch-no-c-no-llvm-just-raw-assembly-2ja8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
