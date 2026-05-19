@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Python: A Structured Guide for New Beginners.](https://dev.to/ephantus_macharia_/getting-started-with-python-a-structured-guide-for-new-beginners-5ded)
-- [Two majors, one README, one demo: two cheap design reviews](https://dev.to/mellonis/two-majors-one-readme-one-demo-two-cheap-design-reviews-2pgn)
-- [Three majors, two mistakes: designing a pause API for a Turing-machine interpreter](https://dev.to/mellonis/three-majors-two-mistakes-designing-a-pause-api-for-a-turing-machine-interpreter-137j)
-- [How Kafka and Nginx Move Data Faster: The Magic of Zero Copy](https://dev.to/dakshin_g/how-kafka-and-nginx-move-data-faster-the-magic-of-zero-copy-52fb)
-- [Two Local-Agent Philosophies: Where Hermes Earns Its Design, and Where the Tradeoffs Invert](https://dev.to/mxguru1/two-local-agent-philosophies-where-hermes-earns-its-design-and-where-the-tradeoffs-invert-k95)
+- [A hard-earned rule from incident retrospectives:](https://dev.to/neeraja_khanapure_4a33a5f/a-hard-earned-rule-from-incident-retrospectives-1ln6)
+- [Stop Writing Code First](https://dev.to/juststevemcd/stop-writing-code-first-5ggp)
+- [Shaping Before You Build](https://dev.to/juststevemcd/shaping-before-you-build-16p9)
+- [Thinking In Layers](https://dev.to/juststevemcd/thinking-in-layers-3m9j)
+- [The Mid-Level Mindset](https://dev.to/juststevemcd/the-mid-level-mindset-2hcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
