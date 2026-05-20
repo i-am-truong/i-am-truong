@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What You Actually Get from GitHub Student Developer Pack &lpar;No Corporate Fluff&rpar; ⚡](https://dev.to/amals367/what-you-actually-get-from-github-student-developer-pack-no-corporate-fluff-2g3a)
-- [Unshackling Freelance Payments in Nigeria: Why I Abandoned Traditional Platforms](https://dev.to/sovereignty-advocate/unshackling-freelance-payments-in-nigeria-why-i-abandoned-traditional-platforms-1j9h)
-- [Unchaining Freelance Payments in Nigeria: Why Traditional Platforms Are Failing Us](https://dev.to/on-chain-commerce/unchaining-freelance-payments-in-nigeria-why-traditional-platforms-are-failing-us-492n)
-- [I Tested Every Godot AI Plugin So You Don&#39;t Have To](https://dev.to/ziva/i-tested-every-godot-ai-plugin-so-you-dont-have-to-oke)
-- [MCP Server Integrations Aren&#39;t the Security Risk. Your Vendor Might Be.](https://dev.to/taboomustang/mcp-server-integrations-arent-the-security-risk-your-vendor-might-be-3ncl)
+- [What I Learned Building a 402-Powered API for Agent Workflows](https://dev.to/max_holloway/what-i-learned-building-a-402-powered-api-for-agent-workflows-5kj)
+- [Faking a Payment Gateway in a Country Stripe Does Not Support](https://dev.to/micro-saas-journal/faking-a-payment-gateway-in-a-country-stripe-does-not-support-3d29)
+- [Running an Online Store Without a Credit Card Processing Account is a Myth](https://dev.to/global-creator-lab/running-an-online-store-without-a-credit-card-processing-account-is-a-myth-18ao)
+- [Handling Non-Stationary Time Series: Building a Probabilistic Engine with XGBoost &amp; Python](https://dev.to/_3f894c66c75105a0ef8/handling-non-stationary-time-series-building-a-probabilistic-engine-with-xgboost-python-3m7m)
+- [AI-Written Code Is Only Better When a Skilled Programmer Is Holding the Wheel](https://dev.to/fatihsennik/ai-written-code-is-only-better-when-a-skilled-programmer-is-holding-the-wheel-2c4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
