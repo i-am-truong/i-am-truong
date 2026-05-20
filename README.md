@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Todoist vs Toggl: Why You Need Both &lpar;Or One Tool That Does It All&rpar;](https://dev.to/maxunbearable/todoist-vs-toggl-why-you-need-both-or-one-tool-that-does-it-all-3mlj)
-- [Net-Zero Infrastructure: Implementing Solar-Scheduled Tunnel Egress](https://dev.to/instatunnel/net-zero-infrastructure-implementing-solar-scheduled-tunnel-egress-3imb)
-- [The Whitepaper Thunderdome: NeuSymMS vs. State Contamination](https://dev.to/vektor_memory_43f51a32376/the-whitepaper-thunderdome-neusymms-vs-state-contamination-5cb5)
-- [The Hardest Part Of Building A RAG App Wasn’t The AI](https://dev.to/dev-in-progress/the-hardest-part-of-building-a-rag-app-wasnt-the-ai-4a78)
-- [Introduction to LLMs for Developers: Tokens, Prompts, Context Windows, and First AI Apps](https://dev.to/ashutosh_piprode_cb7575e3/introduction-to-llms-for-developers-tokens-prompts-context-windows-and-first-ai-apps-4gi5)
+- [Agent Token Kosten reduzieren per CLI &lpar;2026 Anleitung&rpar;](https://dev.to/emree_demir/agent-token-kosten-reduzieren-per-cli-2026-anleitung-1lcd)
+- [We Stopped Using Microservices. Here Is What We Learned.](https://dev.to/zny10289/we-stopped-using-microservices-here-is-what-we-learned-2g0k)
+- [The Monitoring Stack We Actually Use in Production](https://dev.to/zny10289/the-monitoring-stack-we-actually-use-in-production-20ke)
+- [I thought we needed another agent framework — turns out we needed a job_id and a boring config folder](https://dev.to/lars_winstand/i-thought-we-needed-another-agent-framework-turns-out-we-needed-a-jobid-and-a-boring-config-4hfk)
+- [New Here 👋 eCommerce Developer &amp; Digital Marketing Enthusiast](https://dev.to/ecommercebrain/new-here-ecommerce-developer-digital-marketing-enthusiast-41jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
