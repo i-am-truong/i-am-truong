@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Building a 402-Powered API for Agent Workflows](https://dev.to/max_holloway/what-i-learned-building-a-402-powered-api-for-agent-workflows-5kj)
-- [Faking a Payment Gateway in a Country Stripe Does Not Support](https://dev.to/micro-saas-journal/faking-a-payment-gateway-in-a-country-stripe-does-not-support-3d29)
-- [Running an Online Store Without a Credit Card Processing Account is a Myth](https://dev.to/global-creator-lab/running-an-online-store-without-a-credit-card-processing-account-is-a-myth-18ao)
-- [Handling Non-Stationary Time Series: Building a Probabilistic Engine with XGBoost &amp; Python](https://dev.to/_3f894c66c75105a0ef8/handling-non-stationary-time-series-building-a-probabilistic-engine-with-xgboost-python-3m7m)
-- [AI-Written Code Is Only Better When a Skilled Programmer Is Holding the Wheel](https://dev.to/fatihsennik/ai-written-code-is-only-better-when-a-skilled-programmer-is-holding-the-wheel-2c4i)
+- [Benchmarking AWS Nova on Log Data: How It Compares to ChatGPT-3.5](https://dev.to/bronto_io/benchmarking-aws-nova-on-log-data-how-it-compares-to-chatgpt-35-2aa1)
+- [Strands Agents + AgentCore Runtime - a perfect match](https://dev.to/aws-heroes/strands-agents-agentcore-runtime-a-perfect-match-3a51)
+- [Data Ingestion: RSS Feeds, Knowledge Base, S3 Vectors, and Metadata Filtering](https://dev.to/aws-heroes/data-ingestion-rss-feeds-knowledge-base-s3-vectors-and-metadata-filtering-4n8m)
+- [Building a Full-Stack AI Agent on Amazon Bedrock AgentCore](https://dev.to/aws-heroes/building-a-full-stack-ai-agent-on-amazon-bedrock-agentcore-2p)
+- [Tencent just released a RAG framework and nobody&#39;s talking about it](https://dev.to/retrovirusretro/tencent-just-released-a-rag-framework-and-nobodys-talking-about-it-2c9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
