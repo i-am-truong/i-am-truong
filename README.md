@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent&#39;s Learning Loop Is the Only Thing That Makes an Agent Actually Get Better. Here&#39;s How It Works](https://dev.to/om_shree_0709/hermes-agents-learning-loop-is-the-only-thing-that-makes-an-agent-actually-get-better-heres-how-3l2k)
-- [How to set up refresh-token-only OAuth for a multi-tenant Apify Actor &lpar;Gmail, 10 minutes&rpar;](https://dev.to/foxck016077/how-to-set-up-refresh-token-only-oauth-for-a-multi-tenant-apify-actor-gmail-10-minutes-2l6l)
-- [DeepSeek V4 vs Claude Opus 4.5 for coding: benchmark comparison](https://dev.to/preecha/deepseek-v4-vs-claude-opus-45-for-coding-benchmark-comparison-52gc)
-- [Practical Guide to Preventing Prompt Injection - From an AI Team&#39;s Operations Perspective](https://dev.to/judy_miranttie/practical-guide-to-preventing-prompt-injection-from-an-ai-teams-operations-perspective-1p4j)
-- [Unload All llama.cpp Router Models Without Restarting](https://dev.to/rosgluk/unload-all-llamacpp-router-models-without-restarting-8dj)
+- [Todoist vs Toggl: Why You Need Both &lpar;Or One Tool That Does It All&rpar;](https://dev.to/maxunbearable/todoist-vs-toggl-why-you-need-both-or-one-tool-that-does-it-all-3mlj)
+- [Net-Zero Infrastructure: Implementing Solar-Scheduled Tunnel Egress](https://dev.to/instatunnel/net-zero-infrastructure-implementing-solar-scheduled-tunnel-egress-3imb)
+- [The Whitepaper Thunderdome: NeuSymMS vs. State Contamination](https://dev.to/vektor_memory_43f51a32376/the-whitepaper-thunderdome-neusymms-vs-state-contamination-5cb5)
+- [The Hardest Part Of Building A RAG App Wasn’t The AI](https://dev.to/dev-in-progress/the-hardest-part-of-building-a-rag-app-wasnt-the-ai-4a78)
+- [Introduction to LLMs for Developers: Tokens, Prompts, Context Windows, and First AI Apps](https://dev.to/ashutosh_piprode_cb7575e3/introduction-to-llms-for-developers-tokens-prompts-context-windows-and-first-ai-apps-4gi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
