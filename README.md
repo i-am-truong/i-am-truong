@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hybrid Method: when Claude.ai supervises Claude Code](https://dev.to/kryscekk/the-hybrid-method-when-claudeai-supervises-claude-code-2inn)
-- [LLMs Are Probabilistic. Your Workflow Shouldn&#39;t Be.](https://dev.to/restofstack/llms-are-probabilistic-your-workflow-shouldnt-be-hg)
-- [Deploying Tempo Distributed Tracing Backend on Ubuntu 24.04](https://dev.to/vultr/deploying-tempo-distributed-tracing-backend-on-ubuntu-2404-32kl)
-- [Deploying Technitium DNS Server Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-technitium-dns-server-platform-on-ubuntu-2404-99d)
-- [Deploying Gitea Self-Hosted Git Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-gitea-self-hosted-git-platform-on-ubuntu-2404-34h4)
+- [What You Actually Get from GitHub Student Developer Pack &lpar;No Corporate Fluff&rpar; ⚡](https://dev.to/amals367/what-you-actually-get-from-github-student-developer-pack-no-corporate-fluff-2g3a)
+- [Unshackling Freelance Payments in Nigeria: Why I Abandoned Traditional Platforms](https://dev.to/sovereignty-advocate/unshackling-freelance-payments-in-nigeria-why-i-abandoned-traditional-platforms-1j9h)
+- [Unchaining Freelance Payments in Nigeria: Why Traditional Platforms Are Failing Us](https://dev.to/on-chain-commerce/unchaining-freelance-payments-in-nigeria-why-traditional-platforms-are-failing-us-492n)
+- [I Tested Every Godot AI Plugin So You Don&#39;t Have To](https://dev.to/ziva/i-tested-every-godot-ai-plugin-so-you-dont-have-to-oke)
+- [MCP Server Integrations Aren&#39;t the Security Risk. Your Vendor Might Be.](https://dev.to/taboomustang/mcp-server-integrations-arent-the-security-risk-your-vendor-might-be-3ncl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
