@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Token Kosten reduzieren per CLI &lpar;2026 Anleitung&rpar;](https://dev.to/emree_demir/agent-token-kosten-reduzieren-per-cli-2026-anleitung-1lcd)
-- [We Stopped Using Microservices. Here Is What We Learned.](https://dev.to/zny10289/we-stopped-using-microservices-here-is-what-we-learned-2g0k)
-- [The Monitoring Stack We Actually Use in Production](https://dev.to/zny10289/the-monitoring-stack-we-actually-use-in-production-20ke)
-- [I thought we needed another agent framework — turns out we needed a job_id and a boring config folder](https://dev.to/lars_winstand/i-thought-we-needed-another-agent-framework-turns-out-we-needed-a-jobid-and-a-boring-config-4hfk)
-- [New Here 👋 eCommerce Developer &amp; Digital Marketing Enthusiast](https://dev.to/ecommercebrain/new-here-ecommerce-developer-digital-marketing-enthusiast-41jf)
+- [How to build a film look in a renderer without just adding grain](https://dev.to/chibataku0815/how-to-build-a-film-look-in-a-renderer-without-just-adding-grain-3h14)
+- [Healthchecks.io alternatives for developers &lpar;2026&rpar;](https://dev.to/mike_tickstem/healthchecksio-alternatives-for-developers-2026-bj5)
+- [When the Sensitivity Metric Lies: A Drift-Inversion in Mixed-Precision LLM Quantization](https://dev.to/mxguru1/when-the-sensitivity-metric-lies-a-drift-inversion-in-mixed-precision-llm-quantization-32ff)
+- [AWS CloudFront Cache Policies: Complete Guide](https://dev.to/u11d/aws-cloudfront-cache-policies-complete-guide-4cdi)
+- [Why CJK Support in Rust Is Hard](https://dev.to/kent-tokyo/why-cjk-support-in-rust-is-hard-5bcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
