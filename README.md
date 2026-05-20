@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch](https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg)
-- [Eu quero Vibe: Codar! Mas a IA local me fez repensar a infraestrutura](https://dev.to/francislin123/eu-quero-vibe-codar-mas-a-ia-local-me-fez-repensar-a-infraestrutura-2kfc)
-- [Developers keep pasting JSON into online formatters and leaking secrets — so I built json-explorer](https://dev.to/mumicrotools/developers-keep-pasting-json-into-online-formatters-and-leaking-secrets-so-i-built-json-explorer-2a1p)
-- [Reading the Chain, Querying Data, and Understanding Solana&#39;s Storage Model](https://dev.to/boblee24/reading-the-chain-querying-data-and-understanding-solanas-storage-model-o81)
-- [Running a non-English audiobook through an AI voice pipeline: what&#39;s involved](https://dev.to/audioproducer-ai/running-a-non-english-audiobook-through-an-ai-voice-pipeline-whats-involved-182m)
+- [Hermes Agent&#39;s Learning Loop Is the Only Thing That Makes an Agent Actually Get Better. Here&#39;s How It Works](https://dev.to/om_shree_0709/hermes-agents-learning-loop-is-the-only-thing-that-makes-an-agent-actually-get-better-heres-how-3l2k)
+- [How to set up refresh-token-only OAuth for a multi-tenant Apify Actor &lpar;Gmail, 10 minutes&rpar;](https://dev.to/foxck016077/how-to-set-up-refresh-token-only-oauth-for-a-multi-tenant-apify-actor-gmail-10-minutes-2l6l)
+- [DeepSeek V4 vs Claude Opus 4.5 for coding: benchmark comparison](https://dev.to/preecha/deepseek-v4-vs-claude-opus-45-for-coding-benchmark-comparison-52gc)
+- [Practical Guide to Preventing Prompt Injection - From an AI Team&#39;s Operations Perspective](https://dev.to/judy_miranttie/practical-guide-to-preventing-prompt-injection-from-an-ai-teams-operations-perspective-1p4j)
+- [Unload All llama.cpp Router Models Without Restarting](https://dev.to/rosgluk/unload-all-llamacpp-router-models-without-restarting-8dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
