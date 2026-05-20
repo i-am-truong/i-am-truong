@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking AWS Nova on Log Data: How It Compares to ChatGPT-3.5](https://dev.to/bronto_io/benchmarking-aws-nova-on-log-data-how-it-compares-to-chatgpt-35-2aa1)
-- [Strands Agents + AgentCore Runtime - a perfect match](https://dev.to/aws-heroes/strands-agents-agentcore-runtime-a-perfect-match-3a51)
-- [Data Ingestion: RSS Feeds, Knowledge Base, S3 Vectors, and Metadata Filtering](https://dev.to/aws-heroes/data-ingestion-rss-feeds-knowledge-base-s3-vectors-and-metadata-filtering-4n8m)
-- [Building a Full-Stack AI Agent on Amazon Bedrock AgentCore](https://dev.to/aws-heroes/building-a-full-stack-ai-agent-on-amazon-bedrock-agentcore-2p)
-- [Tencent just released a RAG framework and nobody&#39;s talking about it](https://dev.to/retrovirusretro/tencent-just-released-a-rag-framework-and-nobodys-talking-about-it-2c9g)
+- [Pain Points Will Always Outlive Platforms](https://dev.to/micro-saas-journal/pain-points-will-always-outlive-platforms-2bbd)
+- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
+- [QAOA vs. 75,000 Nodes: Building a Hybrid Architecture to Solve NP-Hard Problems When Quantum Simulators Hit a Wall](https://dev.to/emperoq/qaoa-vs-75000-nodes-building-a-hybrid-architecture-to-solve-np-hard-problems-when-quantum-613)
+- [E2B? E4B? 26B A4B? The Gemma 4 Model Names Finally Explained](https://dev.to/shastraa_430/e2b-e4b-26b-a4b-the-gemma-4-model-names-finally-explained-2hjb)
+- [One Tool That Cuts Token Costs 40-80% for Claude Code, Codex, opencode, and openclaw](https://dev.to/zelys_dfkhelper/one-tool-that-cuts-token-costs-40-80-for-claude-code-codex-opencode-and-openclaw-hh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
