@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build a film look in a renderer without just adding grain](https://dev.to/chibataku0815/how-to-build-a-film-look-in-a-renderer-without-just-adding-grain-3h14)
-- [Healthchecks.io alternatives for developers &lpar;2026&rpar;](https://dev.to/mike_tickstem/healthchecksio-alternatives-for-developers-2026-bj5)
-- [When the Sensitivity Metric Lies: A Drift-Inversion in Mixed-Precision LLM Quantization](https://dev.to/mxguru1/when-the-sensitivity-metric-lies-a-drift-inversion-in-mixed-precision-llm-quantization-32ff)
-- [AWS CloudFront Cache Policies: Complete Guide](https://dev.to/u11d/aws-cloudfront-cache-policies-complete-guide-4cdi)
-- [Why CJK Support in Rust Is Hard](https://dev.to/kent-tokyo/why-cjk-support-in-rust-is-hard-5bcf)
+- [The Hybrid Method: when Claude.ai supervises Claude Code](https://dev.to/kryscekk/the-hybrid-method-when-claudeai-supervises-claude-code-2inn)
+- [LLMs Are Probabilistic. Your Workflow Shouldn&#39;t Be.](https://dev.to/restofstack/llms-are-probabilistic-your-workflow-shouldnt-be-hg)
+- [Deploying Tempo Distributed Tracing Backend on Ubuntu 24.04](https://dev.to/vultr/deploying-tempo-distributed-tracing-backend-on-ubuntu-2404-32kl)
+- [Deploying Technitium DNS Server Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-technitium-dns-server-platform-on-ubuntu-2404-99d)
+- [Deploying Gitea Self-Hosted Git Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-gitea-self-hosted-git-platform-on-ubuntu-2404-34h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
