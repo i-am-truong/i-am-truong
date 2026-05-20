@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pain Points Will Always Outlive Platforms](https://dev.to/micro-saas-journal/pain-points-will-always-outlive-platforms-2bbd)
-- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
-- [QAOA vs. 75,000 Nodes: Building a Hybrid Architecture to Solve NP-Hard Problems When Quantum Simulators Hit a Wall](https://dev.to/emperoq/qaoa-vs-75000-nodes-building-a-hybrid-architecture-to-solve-np-hard-problems-when-quantum-613)
-- [E2B? E4B? 26B A4B? The Gemma 4 Model Names Finally Explained](https://dev.to/shastraa_430/e2b-e4b-26b-a4b-the-gemma-4-model-names-finally-explained-2hjb)
-- [One Tool That Cuts Token Costs 40-80% for Claude Code, Codex, opencode, and openclaw](https://dev.to/zelys_dfkhelper/one-tool-that-cuts-token-costs-40-80-for-claude-code-codex-opencode-and-openclaw-hh2)
+- [AI 2026AI](https://dev.to/zny10289/ai-2026ai-47pd)
+- [76 RLS policies rewritten in one migration: the auth.uid&lpar;&rpar; init-plan trap in Supabase](https://dev.to/arvavit/76-rls-policies-rewritten-in-one-migration-the-authuid-init-plan-trap-in-supabase-4hg)
+- [Codex Has No Real Memory: Three Ways to Fix It, One in 30 Seconds](https://dev.to/studiomeyer_io/codex-has-no-real-memory-three-ways-to-fix-it-one-in-30-seconds-34i1)
+- [Put Copilot Metadata Where Your Team Can Review It](https://dev.to/shai_karmani_2521c2f8e837/put-copilot-metadata-where-your-team-can-review-it-5f0o)
+- [What is CPA — Cost Per Acquisition Basics and How to Set the Right Target](https://dev.to/toshihiro_shishido/what-is-cpa-cost-per-acquisition-basics-and-how-to-set-the-right-target-2jb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
