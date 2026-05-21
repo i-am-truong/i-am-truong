@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Github Speckit: Revolucionando o Desenvolvimento com SDD](https://dev.to/jadysmgodoi/github-speckit-revolucionando-o-desenvolvimento-com-sdd-l66)
-- [Cloud Cost Elasticity](https://dev.to/khushi_dubey/cloud-cost-elasticity-pd6)
-- [I Built a Payment System for Bangladesh—Heres Why Stripe Failed Us](https://dev.to/exit-own/i-built-a-payment-system-for-bangladesh-heres-why-stripe-failed-us-1elf)
-- [Polyglot Persistence in Microservices: Choosing the Right Database for Each Service](https://dev.to/dancodingbr/polyglot-persistence-in-microservices-choosing-the-right-database-for-each-service-1m8g)
-- [Centralized Authentication for a Multi-Brand Laravel Ecosystem](https://dev.to/laraartisan/centralized-authentication-for-a-multi-brand-laravel-ecosystem-29jp)
+- [How React&#39;s Virtual DOM Works Under the Hood](https://dev.to/janmejaisingh/how-reacts-virtual-dom-works-under-the-hood-5g7)
+- [Build a Dropbox Paper-Style Collaborative Editor with Next.js and Velt💥](https://dev.to/astrodevil/build-a-dropbox-paper-style-collaborative-editor-with-nextjs-and-velt-40b9)
+- [Holy Typos, Batman! How I Built &#39;SpellJump&#39;](https://dev.to/prakhar54byte/holy-typos-batman-how-i-built-spelljump-h6h)
+- [How to Test Frontend Error States Without Breaking Your Backend](https://dev.to/rusedev/how-to-test-frontend-error-states-without-breaking-your-backend-1ojd)
+- [A .NET Dinosaur in Web3. Day 8 — Reading &amp; Writing — WishList Chain](https://dev.to/alenadevsoft/a-net-dinosaur-in-web3-day-8-reading-writing-wishlist-chain-4c4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
