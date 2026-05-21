@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Didn&#39;t Fail. People Did](https://dev.to/uradical/microservices-didnt-fail-people-did-3g18)
-- [400+ Remote Companies Using React in 2026](https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb)
-- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200)
-- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-2nbn)
-- [Grafana &#39;No Data&#39; after migration: 7 reconcilers we had to kill first](https://dev.to/infraforge/grafana-no-data-after-migration-7-reconcilers-we-had-to-kill-first-4gfc)
+- [RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures &lpar;part-3&rpar;](https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-3-3eah)
+- [Wir haben einen Website-Crawler gebaut, der 50+ Checks in einem Scan macht — kostenlos](https://dev.to/enjyn_3feb58e98fa3/wir-haben-einen-website-crawler-gebaut-der-50-checks-in-einem-scan-macht-kostenlos-5704)
+- [Build Your First AI App with NVIDIA NIM in 30 Minutes](https://dev.to/torkian/build-your-first-ai-app-with-nvidia-nim-in-30-minutes-1i43)
+- [Contributing to Laravel Maestro Starter Kits Without Losing Your Changes](https://dev.to/catatsumuri/contributing-to-laravel-maestro-starter-kits-without-losing-your-changes-5oi)
+- [Git Advanced: The Commands I Wish I Knew Earlier &lpar;2026&rpar;](https://dev.to/armorbreak/git-advanced-the-commands-i-wish-i-knew-earlier-2026-4om9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
