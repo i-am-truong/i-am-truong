@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Expo SDK 56](https://dev.to/expo/expo-sdk-56-5eb5)
-- [HashiCorp built an MCP server for writing Terraform. I built one for reviewing it](https://dev.to/sanjeevkkansal/hashicorp-built-an-mcp-server-for-writing-terraform-i-built-one-for-reviewing-it-9mn)
-- [Why Enterprise AI Agent Deployments Keep Failing](https://dev.to/forgeflows/why-enterprise-ai-agent-deployments-keep-failing-5di0)
-- [Date Shear: A New Term for a Common Programming Pain Point](https://dev.to/robert_perkins_21a60d83d5/date-shear-a-new-term-for-a-common-programming-pain-point-2997)
-- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-4fa0)
+- [African Creators Deserve Better: How I Built a Payment Gateway for Every Corner of the Continent](https://dev.to/micro-saas-journal/african-creators-deserve-better-how-i-built-a-payment-gateway-for-every-corner-of-the-continent-425k)
+- [React vite CRUD basics](https://dev.to/forlife/react-crud-1je3)
+- [Should Websites Allow AI Search Crawlers?](https://dev.to/aivsrank/should-websites-allow-ai-search-crawlers-2n78)
+- [Beyond the Prompt: How to Build Stateful AI Agents with Persistent Memory and Self-Learning Loops](https://dev.to/programmingcentral/beyond-the-prompt-how-to-build-stateful-ai-agents-with-persistent-memory-and-self-learning-loops-2e1k)
+- [The Universal Remote for AI: A Deep Dive into the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/rs9000/the-universal-remote-for-ai-a-deep-dive-into-the-model-context-protocol-mcp-3eg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
