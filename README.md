@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures &lpar;part-3&rpar;](https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-3-3eah)
-- [Wir haben einen Website-Crawler gebaut, der 50+ Checks in einem Scan macht — kostenlos](https://dev.to/enjyn_3feb58e98fa3/wir-haben-einen-website-crawler-gebaut-der-50-checks-in-einem-scan-macht-kostenlos-5704)
-- [Build Your First AI App with NVIDIA NIM in 30 Minutes](https://dev.to/torkian/build-your-first-ai-app-with-nvidia-nim-in-30-minutes-1i43)
-- [Contributing to Laravel Maestro Starter Kits Without Losing Your Changes](https://dev.to/catatsumuri/contributing-to-laravel-maestro-starter-kits-without-losing-your-changes-5oi)
-- [Git Advanced: The Commands I Wish I Knew Earlier &lpar;2026&rpar;](https://dev.to/armorbreak/git-advanced-the-commands-i-wish-i-knew-earlier-2026-4om9)
+- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
+- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
+- [Per-user cost attribution for your AI APP](https://dev.to/seenfinity/per-user-cost-attribution-for-your-ai-app-16o)
+- [I Built a Safari Extension That Shows When Your YouTube Video Ends](https://dev.to/fluphalicious/i-built-a-safari-extension-that-shows-when-your-youtube-video-ends-1jfh)
+- [What It Actually Takes to Audit Aurora PostgreSQL on AWS](https://dev.to/pranay_raavi/what-it-actually-takes-to-audit-aurora-postgresql-on-aws-l7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
