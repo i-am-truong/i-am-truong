@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Closing the feedback loop: how mistake classification drives adaptive problem selection in NumPath](https://dev.to/orieken/closing-the-feedback-loop-how-mistake-classification-drives-adaptive-problem-selection-in-numpath-5ce9)
-- [&quot;My Coding Agent Remembered Sessions, Not Work. That Was the Bug&quot;](https://dev.to/codekingai/my-coding-agent-remembered-sessions-not-work-that-was-the-bug-1n3e)
-- [SecOps Salary Guide 2025: GRC CTC Ranges in Indian GCCs vs Product Companies](https://dev.to/pramod_pr_d9eda13502236e8/secops-salary-guide-2025-grc-ctc-ranges-in-indian-gccs-vs-product-companies-1l1c)
-- [🐍 python global vs nonlocal keyword — when to use each?](https://dev.to/ptp2308/python-global-vs-nonlocal-keyword-when-to-use-each-17df)
-- [6 Free Online Video Cutters That Don’t Completely Ruin Your Footage &lpar;2026&rpar;](https://dev.to/jeenie61647c593c1930/6-free-online-video-cutters-that-dont-completely-ruin-your-footage-2026-am9)
+- [I built my own uptime monitor because UptimeRobot felt cluttered - here&#39;s what I learned](https://dev.to/rak2315/i-built-my-own-uptime-monitor-because-uptimerobot-felt-cluttered-heres-what-i-learned-5ed2)
+- [GraphQL là gì — Tại sao nên dùng cho Social App?](https://dev.to/jacktt/graphql-la-gi-tai-sao-nen-dung-cho-social-app-ihj)
+- [How I shipped my PWA to Google Play as a TWA &lpar;and what actually went wrong&rpar;](https://dev.to/markusbnet/how-i-shipped-my-pwa-to-google-play-as-a-twa-and-what-actually-went-wrong-392j)
+- [I Built a Free URL Slug Generator with Next.js 16 — Open Source](https://dev.to/_497ee2730944de371918/i-built-a-free-url-slug-generator-with-nextjs-16-59io)
+- [I’m Building Apps for 14 Days Straight](https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
