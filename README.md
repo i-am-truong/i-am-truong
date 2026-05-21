@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [African Creators Deserve Better: How I Built a Payment Gateway for Every Corner of the Continent](https://dev.to/micro-saas-journal/african-creators-deserve-better-how-i-built-a-payment-gateway-for-every-corner-of-the-continent-425k)
-- [React vite CRUD basics](https://dev.to/forlife/react-crud-1je3)
-- [Should Websites Allow AI Search Crawlers?](https://dev.to/aivsrank/should-websites-allow-ai-search-crawlers-2n78)
-- [Beyond the Prompt: How to Build Stateful AI Agents with Persistent Memory and Self-Learning Loops](https://dev.to/programmingcentral/beyond-the-prompt-how-to-build-stateful-ai-agents-with-persistent-memory-and-self-learning-loops-2e1k)
-- [The Universal Remote for AI: A Deep Dive into the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/rs9000/the-universal-remote-for-ai-a-deep-dive-into-the-model-context-protocol-mcp-3eg0)
+- [Microservices Didn&#39;t Fail. People Did](https://dev.to/uradical/microservices-didnt-fail-people-did-3g18)
+- [400+ Remote Companies Using React in 2026](https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb)
+- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200)
+- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-2nbn)
+- [Grafana &#39;No Data&#39; after migration: 7 reconcilers we had to kill first](https://dev.to/infraforge/grafana-no-data-after-migration-7-reconcilers-we-had-to-kill-first-4gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
