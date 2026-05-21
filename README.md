@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How React&#39;s Virtual DOM Works Under the Hood](https://dev.to/janmejaisingh/how-reacts-virtual-dom-works-under-the-hood-5g7)
-- [Build a Dropbox Paper-Style Collaborative Editor with Next.js and Velt💥](https://dev.to/astrodevil/build-a-dropbox-paper-style-collaborative-editor-with-nextjs-and-velt-40b9)
-- [Holy Typos, Batman! How I Built &#39;SpellJump&#39;](https://dev.to/prakhar54byte/holy-typos-batman-how-i-built-spelljump-h6h)
-- [How to Test Frontend Error States Without Breaking Your Backend](https://dev.to/rusedev/how-to-test-frontend-error-states-without-breaking-your-backend-1ojd)
-- [A .NET Dinosaur in Web3. Day 8 — Reading &amp; Writing — WishList Chain](https://dev.to/alenadevsoft/a-net-dinosaur-in-web3-day-8-reading-writing-wishlist-chain-4c4o)
+- [Expo SDK 56](https://dev.to/expo/expo-sdk-56-5eb5)
+- [HashiCorp built an MCP server for writing Terraform. I built one for reviewing it](https://dev.to/sanjeevkkansal/hashicorp-built-an-mcp-server-for-writing-terraform-i-built-one-for-reviewing-it-9mn)
+- [Why Enterprise AI Agent Deployments Keep Failing](https://dev.to/forgeflows/why-enterprise-ai-agent-deployments-keep-failing-5di0)
+- [Date Shear: A New Term for a Common Programming Pain Point](https://dev.to/robert_perkins_21a60d83d5/date-shear-a-new-term-for-a-common-programming-pain-point-2997)
+- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-4fa0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
