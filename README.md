@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI 2026AI](https://dev.to/zny10289/ai-2026ai-47pd)
-- [76 RLS policies rewritten in one migration: the auth.uid&lpar;&rpar; init-plan trap in Supabase](https://dev.to/arvavit/76-rls-policies-rewritten-in-one-migration-the-authuid-init-plan-trap-in-supabase-4hg)
-- [Codex Has No Real Memory: Three Ways to Fix It, One in 30 Seconds](https://dev.to/studiomeyer_io/codex-has-no-real-memory-three-ways-to-fix-it-one-in-30-seconds-34i1)
-- [Put Copilot Metadata Where Your Team Can Review It](https://dev.to/shai_karmani_2521c2f8e837/put-copilot-metadata-where-your-team-can-review-it-5f0o)
-- [What is CPA — Cost Per Acquisition Basics and How to Set the Right Target](https://dev.to/toshihiro_shishido/what-is-cpa-cost-per-acquisition-basics-and-how-to-set-the-right-target-2jb5)
+- [Closing the feedback loop: how mistake classification drives adaptive problem selection in NumPath](https://dev.to/orieken/closing-the-feedback-loop-how-mistake-classification-drives-adaptive-problem-selection-in-numpath-5ce9)
+- [&quot;My Coding Agent Remembered Sessions, Not Work. That Was the Bug&quot;](https://dev.to/codekingai/my-coding-agent-remembered-sessions-not-work-that-was-the-bug-1n3e)
+- [SecOps Salary Guide 2025: GRC CTC Ranges in Indian GCCs vs Product Companies](https://dev.to/pramod_pr_d9eda13502236e8/secops-salary-guide-2025-grc-ctc-ranges-in-indian-gccs-vs-product-companies-1l1c)
+- [🐍 python global vs nonlocal keyword — when to use each?](https://dev.to/ptp2308/python-global-vs-nonlocal-keyword-when-to-use-each-17df)
+- [6 Free Online Video Cutters That Don’t Completely Ruin Your Footage &lpar;2026&rpar;](https://dev.to/jeenie61647c593c1930/6-free-online-video-cutters-that-dont-completely-ruin-your-footage-2026-am9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
