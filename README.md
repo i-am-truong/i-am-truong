@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built my own uptime monitor because UptimeRobot felt cluttered - here&#39;s what I learned](https://dev.to/rak2315/i-built-my-own-uptime-monitor-because-uptimerobot-felt-cluttered-heres-what-i-learned-5ed2)
-- [GraphQL là gì — Tại sao nên dùng cho Social App?](https://dev.to/jacktt/graphql-la-gi-tai-sao-nen-dung-cho-social-app-ihj)
-- [How I shipped my PWA to Google Play as a TWA &lpar;and what actually went wrong&rpar;](https://dev.to/markusbnet/how-i-shipped-my-pwa-to-google-play-as-a-twa-and-what-actually-went-wrong-392j)
-- [I Built a Free URL Slug Generator with Next.js 16 — Open Source](https://dev.to/_497ee2730944de371918/i-built-a-free-url-slug-generator-with-nextjs-16-59io)
-- [I’m Building Apps for 14 Days Straight](https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c)
+- [We Connected an LLM to a 12-Year-Old Codebase. Here&#39;s What Broke.](https://dev.to/empiricinfotechllp/we-connected-an-llm-to-a-12-year-old-codebase-heres-what-broke-28ci)
+- [The Fallacy of Digital Platforms: Why Stripe Isn&#39;t Always King](https://dev.to/micro-saas-journal/the-fallacy-of-digital-platforms-why-stripe-isnt-always-king-24p2)
+- [Sizce Google&#39;ın 26 Mayıs tarihinde arama bölümünü tamamen yapay zekaya devredecek olması açık webin devamı için nasıl sonuçlanır?](https://dev.to/kazuslu/sizce-googlein-26-mayis-tarihinde-arama-bolumunu-tamamen-yapay-zekaya-devredecek-olmasi-acik-webin-25ao)
+- [When Should You Use GraphRAG Instead of RAG?](https://dev.to/memgraph/when-should-you-use-graphrag-instead-of-rag-4fja)
+- [Big Data Is Not Just About “Huge Data”](https://dev.to/kingsterdam/-big-data-is-not-just-about-huge-data-4bp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
