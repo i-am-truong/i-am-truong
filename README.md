@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Assistants to Agents: My Take on Google I/O 2026](https://dev.to/codedbyasim/from-assistants-to-agents-my-take-on-google-io-2026-52na)
-- [Learning Progress Pt.16](https://dev.to/muhamedmaxhuni/learning-progress-pt16-og)
-- [From Unfinished Idea to Real Product: My BuildGenAI Comeback](https://dev.to/samarth28/from-unfinished-idea-to-real-product-my-buildgenai-comeback-1igk)
-- [The Quiet Strategy](https://dev.to/mrnasdog/the-quiet-strategy-28d)
-- [I Revived a 9-Year-Old App with OpenAI Codex with a Product Engineer Mindset](https://dev.to/heriberto_codes/i-revived-a-9-year-old-app-with-openai-codex-with-a-product-engineer-mindset-19c9)
+- [Your MCP Server Is Probably Overprivileged - Here&#39;s a Scanner For It](https://dev.to/david_dev_sec/your-mcp-server-is-probably-overprivileged-heres-a-scanner-for-it-3cmb)
+- [Maatru: An agentic Telugu literacy app for kids, built with Gemma 4](https://dev.to/avinash431/maatru-an-agentic-telugu-literacy-app-for-kids-built-with-gemma-4-48k0)
+- [Gemma 4 Is Not Just Another Open Model — It Changes What Developers Can Build Locally](https://dev.to/samarth28/gemma-4-is-not-just-another-open-model-it-changes-what-developers-can-build-locally-1el5)
+- [OpenVibe: An Open-Source AI Coding IDE That Works With Any Model](https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf)
+- [I Inspected the System Program and It Looked Just Like My Wallet](https://dev.to/sammie_/i-inspected-the-system-program-and-it-looked-just-like-my-wallet-16b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
