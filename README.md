@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Treasure Map to Avoid Data Decay in Veltrix](https://dev.to/dev-architecture-blog/choosing-the-right-treasure-map-to-avoid-data-decay-in-veltrix-3jm8)
-- [Migrating to Apache Iceberg: Strategies for Every Source System](https://dev.to/alexmercedcoder/migrating-to-apache-iceberg-strategies-for-every-source-system-424j)
-- [Stop Reviewing Every Line of AI Code - Build the Trust Stack Instead](https://dev.to/sag1v/stop-reviewing-every-line-of-ai-code-build-the-trust-stack-instead-1pie)
-- [Implementation of AI in mobile applications: Comparative analysis of On-Device and On-Server approaches on Native Android and Flutter](https://dev.to/ratratatyu/implementation-of-ai-in-mobile-applications-comparative-analysis-of-on-device-and-on-server-1g5a)
-- [Should you use Gemma 4 for your Development? A Multiversal Analysis to Determine if Gemma 4 is Right for You!](https://dev.to/devengers/should-you-use-gemma-4-for-your-development-a-multiversal-analysis-to-determine-if-gemma-4-is-2iol)
+- [From Assistants to Agents: My Take on Google I/O 2026](https://dev.to/codedbyasim/from-assistants-to-agents-my-take-on-google-io-2026-52na)
+- [Learning Progress Pt.16](https://dev.to/muhamedmaxhuni/learning-progress-pt16-og)
+- [From Unfinished Idea to Real Product: My BuildGenAI Comeback](https://dev.to/samarth28/from-unfinished-idea-to-real-product-my-buildgenai-comeback-1igk)
+- [The Quiet Strategy](https://dev.to/mrnasdog/the-quiet-strategy-28d)
+- [I Revived a 9-Year-Old App with OpenAI Codex with a Product Engineer Mindset](https://dev.to/heriberto_codes/i-revived-a-9-year-old-app-with-openai-codex-with-a-product-engineer-mindset-19c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
