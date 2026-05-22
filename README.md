@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
-- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
-- [Per-user cost attribution for your AI APP](https://dev.to/seenfinity/per-user-cost-attribution-for-your-ai-app-16o)
-- [I Built a Safari Extension That Shows When Your YouTube Video Ends](https://dev.to/fluphalicious/i-built-a-safari-extension-that-shows-when-your-youtube-video-ends-1jfh)
-- [What It Actually Takes to Audit Aurora PostgreSQL on AWS](https://dev.to/pranay_raavi/what-it-actually-takes-to-audit-aurora-postgresql-on-aws-l7j)
+- [Before AI we had ...](https://dev.to/0shuvo0/before-ai-we-had--5a0g)
+- [How I Built a Philippine Tech Blog to 1 Million Monthly Readers &lpar;And Then Watched Google Destroy It&rpar;](https://dev.to/loythegreat/how-i-built-a-philippine-tech-blog-to-1-million-monthly-readers-and-then-watched-google-destroy-it-o57)
+- [Chess](https://dev.to/java35/chess-110m)
+- [Power Apps Project Planning: 7 Simple Steps to Build Better Apps](https://dev.to/mattbuildsapps/power-apps-project-planning-7-simple-steps-to-build-better-apps-4ccm)
+- [Design a Distributed Key-Value Store](https://dev.to/josephakayesi/design-a-distributed-key-value-store-2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
