@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When I Realized We Were Throwing Away Half Our Engine&#39;s Potential](https://dev.to/built-from-africa/when-i-realized-we-were-throwing-away-half-our-engines-potential-1be8)
-- [TokenJuice and the 20-Minute Cron: Inside OpenHuman’s Aggressive Context-Harvesting Engine](https://dev.to/numbpill3d/tokenjuice-and-the-20-minute-cron-inside-openhumans-aggressive-context-harvesting-engine-1b08)
-- [CodeDNA: AI Codebase Archaeologist Built with Gemma 4 Thinking Mode](https://dev.to/sujal_gupta_3dc0d9052e350/codedna-ai-codebase-archaeologist-built-with-gemma-4-thinking-mode-1ihg)
-- [Building a semantic search API in Go with Meilisearch](https://dev.to/ayinedjimi-consultants/building-a-semantic-search-api-in-go-with-meilisearch-17ck)
-- [April 2026 DigitalOcean Tutorials: Inference Optimization and AI Infrastructure](https://dev.to/digitalocean/april-2026-digitalocean-tutorials-inference-optimization-and-ai-infrastructure-5fcf)
+- [I built a free AI-powered Git CLI that writes your commit messages for you](https://dev.to/david_chinwenmeri_6a0a73f/i-built-a-free-ai-powered-git-cli-that-writes-your-commit-messages-for-you-cca)
+- [OpenLiDARViewer: A Browser-Based LiDAR and Point-Cloud Viewer](https://dev.to/aurtechmx/building-openlidarviewer-a-browser-based-lidar-and-point-cloud-viewer-3dcl)
+- [Why most freelancers undercharge &lpar;and the maths behind fixing it&rpar;](https://dev.to/promptspt/why-most-freelancers-undercharge-and-the-maths-behind-fixing-it-4i60)
+- [We built a mahjong dangerous-tile predictor calibrated on 4.97M real hands](https://dev.to/niixolabs/we-built-a-mahjong-dangerous-tile-predictor-calibrated-on-497m-real-hands-4hm4)
+- [Building a Chord Progression Generator in the Browser — Music Theory in JS, Sound via Web Audio API](https://dev.to/sendotltd/building-a-chord-progression-generator-in-the-browser-music-theory-in-js-sound-via-web-audio-api-519j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
