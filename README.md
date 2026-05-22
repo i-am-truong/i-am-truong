@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Before AI we had ...](https://dev.to/0shuvo0/before-ai-we-had--5a0g)
-- [How I Built a Philippine Tech Blog to 1 Million Monthly Readers &lpar;And Then Watched Google Destroy It&rpar;](https://dev.to/loythegreat/how-i-built-a-philippine-tech-blog-to-1-million-monthly-readers-and-then-watched-google-destroy-it-o57)
-- [Chess](https://dev.to/java35/chess-110m)
-- [Power Apps Project Planning: 7 Simple Steps to Build Better Apps](https://dev.to/mattbuildsapps/power-apps-project-planning-7-simple-steps-to-build-better-apps-4ccm)
-- [Design a Distributed Key-Value Store](https://dev.to/josephakayesi/design-a-distributed-key-value-store-2f)
+- [How we run our newsletter on our own Astro stack instead of Substack](https://dev.to/nadyyym/how-we-run-our-newsletter-on-our-own-astro-stack-instead-of-substack-20fb)
+- [The Three Durable Function Forms: Orchestrators, Activities, and Entities &lpar;With Real Code&rpar;](https://dev.to/ericwoooo_kr/the-three-durable-function-forms-orchestrators-activities-and-entities-with-real-code-57kk)
+- [I Finally Understood Elasticsearch After Thinking About Libraries](https://dev.to/diksha_sharma15/i-finally-understood-elasticsearch-after-thinking-about-libraries-1jhh)
+- [🚀 My First Day in the Cloud: How I Built a Secured Digital Fortress in Azure](https://dev.to/abhishek_kadlii_9ef4ca8bc/my-first-day-in-the-cloud-how-i-built-a-secured-digital-fortress-in-azure-3aka)
+- [From a Phone in a &quot;Cave&quot; to Global Open Source: Why Google’s Gemma Models are a Lifeline for Budget Developers](https://dev.to/mohammed_thaha/from-a-phone-in-a-cave-to-global-open-source-why-googles-gemma-models-are-a-lifeline-for-budget-3ebe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
