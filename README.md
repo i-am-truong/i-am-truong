@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding works until it doesn&#39;t. The debt is real.](https://dev.to/adioof/vibe-coding-works-until-it-doesnt-the-debt-is-real-nbj)
-- [Shipping at the Edge: Migrating a Coffee Subscription Platform to Cloudflare Workers](https://dev.to/oleksandr_devops/shipping-at-the-edge-migrating-a-coffee-subscription-platform-to-cloudflare-workers-3ip4)
-- [Stop Tab-Switching: A Developer&#39;s Guide to Color Tools That Actually Fit the Workflow](https://dev.to/ilovehue_bdaacb4cdd904a14/stop-tab-switching-a-developers-guide-to-color-tools-that-actually-fit-the-workflow-44kg)
-- [DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started](https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g)
-- [Run Powerful AI Coding Locally on a Normal Laptop](https://dev.to/devfirstcommunity/run-powerful-ai-coding-locally-on-a-normal-laptop-13hl)
+- [Apache Iceberg Metadata Tables: Querying the Internals](https://dev.to/alexmercedcoder/apache-iceberg-metadata-tables-querying-the-internals-jgb)
+- [Hermes, The Self-Improving Agent You Can Actually Run Yourself](https://dev.to/emmanuelthecoder/hermes-the-self-improving-agent-you-can-actually-run-yourself-555l)
+- [Unity vs Unreal: 5 Things I Had to Relearn the Hard Way](https://dev.to/gamedevnotes/unity-vs-unreal-5-things-i-had-to-relearn-the-hard-way-1kej)
+- [Building Agentic Commerce Infrastructure: Overcoming SQLite Concurrency for Autonomous Procurement Agents](https://dev.to/anhmtk/building-agentic-commerce-infrastructure-overcoming-sqlite-concurrency-for-autonomous-procurement-22i1)
+- [Solana Accounts vs Databases](https://dev.to/kayode96max/solana-accounts-vs-databases-3i4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
