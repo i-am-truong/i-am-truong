@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Internal Repositories Breached: Source Code and Internal Data Allegedly Exfiltrated in 2026 Supply Chain Attack](https://dev.to/foresiet_cybersecurity_2/github-internal-repositories-breached-source-code-and-internal-data-allegedly-exfiltrated-in-2026-360d)
-- [Stop drowning in files: auto-organize your Google Drive with n8n &lpar;free workflow JSON&rpar;](https://dev.to/flowkithq/stop-drowning-in-files-auto-organize-your-google-drive-with-n8n-free-workflow-json-39g)
-- [Secure Firmware Updates with a Secure Element: Building Trust Into the Bootloader](https://dev.to/pratha_maniar/secure-firmware-updates-with-a-secure-element-building-trust-into-the-bootloader-pip)
-- [I Thought Domain-Driven Design Was a Waste of Time. I Was Wrong.](https://dev.to/mostafij/i-thought-domain-driven-design-was-a-waste-of-time-i-was-wrong-cmk)
-- [AI Content Is Getting Tagged Like Livestock — And That&#39;s Actually Good](https://dev.to/sujankoirala021/ai-content-is-getting-tagged-like-livestock-and-thats-actually-good-28ba)
+- [Vibe coding works until it doesn&#39;t. The debt is real.](https://dev.to/adioof/vibe-coding-works-until-it-doesnt-the-debt-is-real-nbj)
+- [Shipping at the Edge: Migrating a Coffee Subscription Platform to Cloudflare Workers](https://dev.to/oleksandr_devops/shipping-at-the-edge-migrating-a-coffee-subscription-platform-to-cloudflare-workers-3ip4)
+- [Stop Tab-Switching: A Developer&#39;s Guide to Color Tools That Actually Fit the Workflow](https://dev.to/ilovehue_bdaacb4cdd904a14/stop-tab-switching-a-developers-guide-to-color-tools-that-actually-fit-the-workflow-44kg)
+- [DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started](https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g)
+- [Run Powerful AI Coding Locally on a Normal Laptop](https://dev.to/devfirstcommunity/run-powerful-ai-coding-locally-on-a-normal-laptop-13hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
