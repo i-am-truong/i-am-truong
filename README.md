@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your MCP Server Is Probably Overprivileged - Here&#39;s a Scanner For It](https://dev.to/david_dev_sec/your-mcp-server-is-probably-overprivileged-heres-a-scanner-for-it-3cmb)
-- [Maatru: An agentic Telugu literacy app for kids, built with Gemma 4](https://dev.to/avinash431/maatru-an-agentic-telugu-literacy-app-for-kids-built-with-gemma-4-48k0)
-- [Gemma 4 Is Not Just Another Open Model — It Changes What Developers Can Build Locally](https://dev.to/samarth28/gemma-4-is-not-just-another-open-model-it-changes-what-developers-can-build-locally-1el5)
-- [OpenVibe: An Open-Source AI Coding IDE That Works With Any Model](https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf)
-- [I Inspected the System Program and It Looked Just Like My Wallet](https://dev.to/sammie_/i-inspected-the-system-program-and-it-looked-just-like-my-wallet-16b9)
+- [When I Realized We Were Throwing Away Half Our Engine&#39;s Potential](https://dev.to/built-from-africa/when-i-realized-we-were-throwing-away-half-our-engines-potential-1be8)
+- [TokenJuice and the 20-Minute Cron: Inside OpenHuman’s Aggressive Context-Harvesting Engine](https://dev.to/numbpill3d/tokenjuice-and-the-20-minute-cron-inside-openhumans-aggressive-context-harvesting-engine-1b08)
+- [CodeDNA: AI Codebase Archaeologist Built with Gemma 4 Thinking Mode](https://dev.to/sujal_gupta_3dc0d9052e350/codedna-ai-codebase-archaeologist-built-with-gemma-4-thinking-mode-1ihg)
+- [Building a semantic search API in Go with Meilisearch](https://dev.to/ayinedjimi-consultants/building-a-semantic-search-api-in-go-with-meilisearch-17ck)
+- [April 2026 DigitalOcean Tutorials: Inference Optimization and AI Infrastructure](https://dev.to/digitalocean/april-2026-digitalocean-tutorials-inference-optimization-and-ai-infrastructure-5fcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
