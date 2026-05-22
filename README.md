@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How we run our newsletter on our own Astro stack instead of Substack](https://dev.to/nadyyym/how-we-run-our-newsletter-on-our-own-astro-stack-instead-of-substack-20fb)
-- [The Three Durable Function Forms: Orchestrators, Activities, and Entities &lpar;With Real Code&rpar;](https://dev.to/ericwoooo_kr/the-three-durable-function-forms-orchestrators-activities-and-entities-with-real-code-57kk)
-- [I Finally Understood Elasticsearch After Thinking About Libraries](https://dev.to/diksha_sharma15/i-finally-understood-elasticsearch-after-thinking-about-libraries-1jhh)
-- [🚀 My First Day in the Cloud: How I Built a Secured Digital Fortress in Azure](https://dev.to/abhishek_kadlii_9ef4ca8bc/my-first-day-in-the-cloud-how-i-built-a-secured-digital-fortress-in-azure-3aka)
-- [From a Phone in a &quot;Cave&quot; to Global Open Source: Why Google’s Gemma Models are a Lifeline for Budget Developers](https://dev.to/mohammed_thaha/from-a-phone-in-a-cave-to-global-open-source-why-googles-gemma-models-are-a-lifeline-for-budget-3ebe)
+- [GitHub Internal Repositories Breached: Source Code and Internal Data Allegedly Exfiltrated in 2026 Supply Chain Attack](https://dev.to/foresiet_cybersecurity_2/github-internal-repositories-breached-source-code-and-internal-data-allegedly-exfiltrated-in-2026-360d)
+- [Stop drowning in files: auto-organize your Google Drive with n8n &lpar;free workflow JSON&rpar;](https://dev.to/flowkithq/stop-drowning-in-files-auto-organize-your-google-drive-with-n8n-free-workflow-json-39g)
+- [Secure Firmware Updates with a Secure Element: Building Trust Into the Bootloader](https://dev.to/pratha_maniar/secure-firmware-updates-with-a-secure-element-building-trust-into-the-bootloader-pip)
+- [I Thought Domain-Driven Design Was a Waste of Time. I Was Wrong.](https://dev.to/mostafij/i-thought-domain-driven-design-was-a-waste-of-time-i-was-wrong-cmk)
+- [AI Content Is Getting Tagged Like Livestock — And That&#39;s Actually Good](https://dev.to/sujankoirala021/ai-content-is-getting-tagged-like-livestock-and-thats-actually-good-28ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
