@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Iceberg Metadata Tables: Querying the Internals](https://dev.to/alexmercedcoder/apache-iceberg-metadata-tables-querying-the-internals-jgb)
-- [Hermes, The Self-Improving Agent You Can Actually Run Yourself](https://dev.to/emmanuelthecoder/hermes-the-self-improving-agent-you-can-actually-run-yourself-555l)
-- [Unity vs Unreal: 5 Things I Had to Relearn the Hard Way](https://dev.to/gamedevnotes/unity-vs-unreal-5-things-i-had-to-relearn-the-hard-way-1kej)
-- [Building Agentic Commerce Infrastructure: Overcoming SQLite Concurrency for Autonomous Procurement Agents](https://dev.to/anhmtk/building-agentic-commerce-infrastructure-overcoming-sqlite-concurrency-for-autonomous-procurement-22i1)
-- [Solana Accounts vs Databases](https://dev.to/kayode96max/solana-accounts-vs-databases-3i4b)
+- [Choosing the Right Treasure Map to Avoid Data Decay in Veltrix](https://dev.to/dev-architecture-blog/choosing-the-right-treasure-map-to-avoid-data-decay-in-veltrix-3jm8)
+- [Migrating to Apache Iceberg: Strategies for Every Source System](https://dev.to/alexmercedcoder/migrating-to-apache-iceberg-strategies-for-every-source-system-424j)
+- [Stop Reviewing Every Line of AI Code - Build the Trust Stack Instead](https://dev.to/sag1v/stop-reviewing-every-line-of-ai-code-build-the-trust-stack-instead-1pie)
+- [Implementation of AI in mobile applications: Comparative analysis of On-Device and On-Server approaches on Native Android and Flutter](https://dev.to/ratratatyu/implementation-of-ai-in-mobile-applications-comparative-analysis-of-on-device-and-on-server-1g5a)
+- [Should you use Gemma 4 for your Development? A Multiversal Analysis to Determine if Gemma 4 is Right for You!](https://dev.to/devengers/should-you-use-gemma-4-for-your-development-a-multiversal-analysis-to-determine-if-gemma-4-is-2iol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
