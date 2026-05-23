@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FAQ Schema Markup Generators: What They Actually Do &lpar;and What They Don&#39;t Tell You&rpar;](https://dev.to/99tools/faq-schema-markup-generators-what-they-actually-do-and-what-they-dont-tell-you-494l)
-- [How a pure-TypeScript flex layout engine closed the last WASM-Yoga gap](https://dev.to/zhijiewong/how-a-pure-typescript-flex-layout-engine-closed-the-last-wasm-yoga-gap-12ef)
-- [Spot instances as GitHub Actions runners](https://dev.to/lanycrost/spot-instances-as-github-actions-runners-h19)
-- [Agents Need Receipts, Not Just Better Prompts](https://dev.to/armorer_labs/agents-need-receipts-not-just-better-prompts-1cg)
-- [readmegen — Generate beautiful README.md in seconds &lpar;12 templates, open source&rpar;](https://dev.to/feiwei8889/readmegen-generate-beautiful-readmemd-in-seconds-12-templates-open-source-1bcj)
+- [Gemini 3.5 Flash Has a 1M Token Context Window. Here&#39;s What You Can Actually Build With It.](https://dev.to/pulkitgovrani/gemini-35-flash-has-a-1m-token-context-window-heres-what-you-can-actually-build-with-it-4he3)
+- [I built a ultra-polished developer portfolio template using React &amp; Tailwind v4 &lpar;with zero-JSX configuration&rpar;](https://dev.to/pavan_siddharthareddy_f1/i-built-a-ultra-polished-developer-portfolio-template-using-react-tailwind-v4-with-zero-jsx-278a)
+- [Gemini CLI Is Dead. Here&#39;s the Better Thing That Replaced It](https://dev.to/pulkitgovrani/gemini-cli-is-dead-heres-the-better-thing-that-replaced-it-272e)
+- [Post-quantum cryptography for embedded and IoT: secure boot, TLS and OTA](https://dev.to/pezzullo/post-quantum-cryptography-for-embedded-and-iot-secure-boot-tls-and-ota-34e4)
+- [Understanding Optimistic Preloading in Modern Applications](https://dev.to/bytebyvipul/understanding-optimistic-preloading-in-modern-applications-54ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
