@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pause menus, asset deduplication, end-screen nodes &lpar;Devlog #2&rpar;](https://dev.to/choicestorystudio/pause-menus-asset-deduplication-end-screen-nodes-devlog-2-3k5m)
-- [From Models to Meaning: How Building NeuroSense AI with Gemma 4 Changed My View of Local AI](https://dev.to/ekram_zafar_f31942cd01173/from-models-to-meaning-how-building-neurosense-ai-with-gemma-4-changed-my-view-of-local-ai-ckk)
-- [Docker Alternatives in 2026: Podman, Lima, containerd, and the End of the Docker Monopoly](https://dev.to/zny10289/docker-alternatives-in-2026-podman-lima-containerd-and-the-end-of-the-docker-monopoly-k76)
-- [TypeScript 5.5 — The Features That Actually Matter for Production Code](https://dev.to/zny10289/typescript-55-the-features-that-actually-matter-for-production-code-5di0)
-- [Database Migration Strategies That Actually Work in Production](https://dev.to/zny10289/database-migration-strategies-that-actually-work-in-production-4a8)
+- [Stop Letting AI Guess Your Playwright Tests: Use Context7 MCP](https://dev.to/muhammadjon_sanaev/stop-letting-ai-guess-your-playwright-tests-use-context7-mcp-3k0i)
+- [End-to-End &lpar;E2E&rpar; testing pipeline](https://dev.to/kyl67899/end-to-end-e2e-testing-pipeline-dl8)
+- [The AI Coding Assistant Landscape in 2026: Cursor vs GitHub Copilot vs Claude Code vs JetBrains AI](https://dev.to/zny10289/the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai-4h59)
+- [Rust and the Reinvention of Operating Systems](https://dev.to/srijan-xi/rust-and-the-reinvention-of-operating-systems-28ef)
+- [Observability in 2026: Distributed Tracing Replaced Logs, and OpenTelemetry Won](https://dev.to/zny10289/observability-in-2026-distributed-tracing-replaced-logs-and-opentelemetry-won-560k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
