@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Works 24/7 and Earns $0. I Built the Fix.](https://dev.to/alpha-network/your-ai-agent-works-247-and-earns-0-i-built-the-fix-20na)
-- [Your AI Trading Agent Will Lose All Your Money — Here&#39;s How To Stop It](https://dev.to/guardlabs_team/your-ai-trading-agent-will-lose-all-your-money-heres-how-to-stop-it-1e15)
-- [Google I/O 2026: What Happens When Everything Connects?](https://dev.to/r_elena_mendez_escobar/google-io-2026-what-happens-when-everything-connects-4gf8)
-- [Why AI writes software but doesn’t build a good product](https://dev.to/karsten_biedermann/why-ai-writes-software-but-doesnt-build-a-good-product-3o9c)
-- [Beyond the Hype: How Google I/O 2026 Secretly Democratized Production-Ready AI Agents with Managed Sandboxes.](https://dev.to/mbwahnche_kyerimen_e59385/beyond-the-hype-how-google-io-2026-secretly-democratized-production-ready-ai-agents-with-managed-45ke)
+- [Why Zed Is Replacing VS Code in My AI-Augmented Workflow](https://dev.to/numbpill3d/why-zed-is-replacing-vs-code-in-my-ai-augmented-workflow-2m9)
+- [Karpathy&#39;s LLM Wiki? No Code with Claude or Github Copilot!](https://dev.to/rosidotidev/karpathys-llm-wiki-no-code-with-claude-or-github-copilot-5fb0)
+- [Why Platform Governance and Transparency Matter for Developers and Freelancers](https://dev.to/mosbat/why-platform-governance-and-transparency-matter-for-developers-and-freelancers-39ap)
+- [Using an LLM to automate a task that used to take hours by hand](https://dev.to/yahya_saleh_d157cf3d7fe2e/using-an-llm-to-automate-a-task-that-used-to-take-hours-by-hand-16c2)
+- [CyberArena – Interactive Cyber Security Simulation &amp; Threat Analysis Platform](https://dev.to/omu47/cyberarena-interactive-cyber-security-simulation-threat-analysis-platform-3ec2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
