@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI can read. Gemma 4 can see](https://dev.to/amionweb/your-ai-can-read-gemma-4-can-see-3264)
-- [The Battle of the Senior Dev: Why AI Gives You Wings But Only If You&#39;re Ready to Pilot](https://dev.to/brixmavu/the-battle-of-the-senior-dev-why-ai-gives-you-wings-but-only-if-youre-ready-to-pilot-58kn)
-- [SafeSMS: On-Device Threat Detection with Gemma 4 E4B, no internet required](https://dev.to/parulmalhotraiitk/safesms-on-device-threat-detection-with-gemma-4-e4b-no-internet-required-24p3)
-- [I Built OpenKap — A Loom Alternative for Small Teams Who Just Want to Ship](https://dev.to/gurpreetkait/i-built-openkap-a-loom-alternative-for-small-teams-who-just-want-to-ship-27ij)
-- [Gemma 4 is Here: The Dawn of Local Multimodal Reasoning](https://dev.to/parulmalhotraiitk/gemma-4-is-here-the-dawn-of-local-multimodal-reasoning-6a7)
+- [FAQ Schema Markup Generators: What They Actually Do &lpar;and What They Don&#39;t Tell You&rpar;](https://dev.to/99tools/faq-schema-markup-generators-what-they-actually-do-and-what-they-dont-tell-you-494l)
+- [How a pure-TypeScript flex layout engine closed the last WASM-Yoga gap](https://dev.to/zhijiewong/how-a-pure-typescript-flex-layout-engine-closed-the-last-wasm-yoga-gap-12ef)
+- [Spot instances as GitHub Actions runners](https://dev.to/lanycrost/spot-instances-as-github-actions-runners-h19)
+- [Agents Need Receipts, Not Just Better Prompts](https://dev.to/armorer_labs/agents-need-receipts-not-just-better-prompts-1cg)
+- [readmegen — Generate beautiful README.md in seconds &lpar;12 templates, open source&rpar;](https://dev.to/feiwei8889/readmegen-generate-beautiful-readmemd-in-seconds-12-templates-open-source-1bcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
