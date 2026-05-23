@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Tools 2026: Cursor vs GitHub Copilot vs Claude Code &lpar;Real Comparison&rpar;](https://dev.to/storm_son_b44db572b250b68/ai-coding-tools-2026-cursor-vs-github-copilot-vs-claude-code-real-comparison-1kj4)
-- [Building a Redis Clone in Go](https://dev.to/saleh_enab/building-a-redis-clone-in-go-22)
-- [A practical AI-assisted engineering checklist for frontend developers](https://dev.to/rizwan_saleem_0d5be25d040/a-practical-ai-assisted-engineering-checklist-for-frontend-developers-2hkh)
-- [Crafting Trustworthy Custom Linter Rules](https://dev.to/beefedai/crafting-trustworthy-custom-linter-rules-36l8)
-- [Range Scans and Tombstones in Bf-Tree](https://dev.to/lovestaco/range-scans-and-tombstones-in-bf-tree-26bj)
+- [Pause menus, asset deduplication, end-screen nodes &lpar;Devlog #2&rpar;](https://dev.to/choicestorystudio/pause-menus-asset-deduplication-end-screen-nodes-devlog-2-3k5m)
+- [From Models to Meaning: How Building NeuroSense AI with Gemma 4 Changed My View of Local AI](https://dev.to/ekram_zafar_f31942cd01173/from-models-to-meaning-how-building-neurosense-ai-with-gemma-4-changed-my-view-of-local-ai-ckk)
+- [Docker Alternatives in 2026: Podman, Lima, containerd, and the End of the Docker Monopoly](https://dev.to/zny10289/docker-alternatives-in-2026-podman-lima-containerd-and-the-end-of-the-docker-monopoly-k76)
+- [TypeScript 5.5 — The Features That Actually Matter for Production Code](https://dev.to/zny10289/typescript-55-the-features-that-actually-matter-for-production-code-5di0)
+- [Database Migration Strategies That Actually Work in Production](https://dev.to/zny10289/database-migration-strategies-that-actually-work-in-production-4a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
