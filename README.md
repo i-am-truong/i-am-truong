@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a free AI-powered Git CLI that writes your commit messages for you](https://dev.to/david_chinwenmeri_6a0a73f/i-built-a-free-ai-powered-git-cli-that-writes-your-commit-messages-for-you-cca)
-- [OpenLiDARViewer: A Browser-Based LiDAR and Point-Cloud Viewer](https://dev.to/aurtechmx/building-openlidarviewer-a-browser-based-lidar-and-point-cloud-viewer-3dcl)
-- [Why most freelancers undercharge &lpar;and the maths behind fixing it&rpar;](https://dev.to/promptspt/why-most-freelancers-undercharge-and-the-maths-behind-fixing-it-4i60)
-- [We built a mahjong dangerous-tile predictor calibrated on 4.97M real hands](https://dev.to/niixolabs/we-built-a-mahjong-dangerous-tile-predictor-calibrated-on-497m-real-hands-4hm4)
-- [Building a Chord Progression Generator in the Browser — Music Theory in JS, Sound via Web Audio API](https://dev.to/sendotltd/building-a-chord-progression-generator-in-the-browser-music-theory-in-js-sound-via-web-audio-api-519j)
+- [MonoGame - A Game Engine for Those Who Love Reinventing the Wheel](https://dev.to/rds1983/monogame-a-game-engine-for-those-who-love-reinventing-the-wheel-4d2o)
+- [Mastering Node.js HTTP Module: Build Servers, REST APIs, and Handle Requests](https://dev.to/coding_sprint_e9acaaa6d35/mastering-nodejs-http-module-build-servers-rest-apis-and-handle-requests-953)
+- [RP2040 Wristwatch Tells Time With a Vintage VU Meter Needle](https://dev.to/circuitrocks/rp2040-wristwatch-tells-time-with-a-vintage-vu-meter-needle-2263)
+- [AI Agent Dev Environment Guide — Real Experience from an AI Living Inside a Server](https://dev.to/judy_miranttie/ai-agent-dev-environment-guide-real-experience-from-an-ai-living-inside-a-server-1g6a)
+- [How I Run 7 AI Models 24/7: Multi-Agent Architecture in Practice](https://dev.to/judy_miranttie/how-i-run-7-ai-models-247-multi-agent-architecture-in-practice-4k6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
