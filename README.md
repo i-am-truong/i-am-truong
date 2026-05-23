@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O 2026 Told Me AI Can Help Learners — So I Built an Entire Skill System for My Master&#39;s Degree](https://dev.to/jhhornn/google-io-2026-told-me-ai-can-help-learners-so-i-built-an-entire-skill-system-for-my-masters-4ng)
-- [Building a Real Android App at Google I/O 2026: No Kotlin, Just Prompts](https://dev.to/yinkaabeeb/building-a-real-android-app-at-google-io-2026-no-kotlin-just-prompts-2g41)
-- [The IAM Mistake I Keep Finding in AWS Environments — And Why It&#39;s Not Your Fault](https://dev.to/mariogongora/the-iam-mistake-i-keep-finding-in-aws-environments-and-why-its-not-your-fault-16oo)
-- [I Built a Content Firewall for My Autonomous AI Posting Loop](https://dev.to/tarunai/i-built-a-content-firewall-for-my-autonomous-ai-posting-loop-34n2)
-- [11.10. Integration Tests](https://dev.to/someb1oody/1110-integration-tests-1a1d)
+- [Quick Tip: Benchmarking Multimodal APIs in Under 10 Minutes](https://dev.to/rileykim/quick-tip-benchmarking-multimodal-apis-in-under-10-minutes-25o0)
+- [The Developer&#39;s Guide to Picking the Right AI Code Model in 2026 &lpar;I Spent $500 So You Don’t Have To&rpar;](https://dev.to/eagerspark/the-developers-guide-to-picking-the-right-ai-code-model-in-2026-i-spent-500-so-you-dont-have-to-1da3)
+- [DeepSeek vs Qwen vs Kimi vs GLM: Which AI API Actually Wins in 2026? &lpar;A Cost-Optimizer’s Verdict&rpar;](https://dev.to/truelane/deepseek-vs-qwen-vs-kimi-vs-glm-which-ai-api-actually-wins-in-2026-a-cost-optimizers-verdict-4235)
+- [How do you handle bugs in apps built with AI builders?](https://dev.to/alazo/how-do-you-handle-bugs-in-apps-built-with-ai-builders-3502)
+- [NVIDIA&#39;s Nemotron Diffusion: One Model, Three Generation Modes, 6 Faster](https://dev.to/thegatewayguy/nvidias-nemotron-diffusion-one-model-three-generation-modes-6-faster-2f6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
