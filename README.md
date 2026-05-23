@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Rewrote Our Python CLI in Go &lpar;and What We Gained&rpar;](https://dev.to/orieken/why-we-rewrote-our-python-cli-in-go-and-what-we-gained-21bg)
-- [Why We Built TestSmith: The Test Coverage Problem Nobody Talks About](https://dev.to/orieken/why-we-built-testsmith-the-test-coverage-problem-nobody-talks-about-2mjk)
-- [Building a local-first AI tutor for my daughter &lpar;and 10–14 year-olds in Austrian schools&rpar; with Gemma 4](https://dev.to/georgpiwonka/building-a-local-first-ai-tutor-for-my-daughter-and-10-14-year-olds-in-austrian-schools-with-j17)
-- [EC2 SSH Not Connecting? Here Are the 5 Things That Were Wrong &lpar;And How I Fixed Them&rpar;](https://dev.to/pwnjoshi/ec2-ssh-not-connecting-here-are-the-5-things-that-were-wrong-and-how-i-fixed-them-4ccp)
-- [Best AI Tools for HVAC Contractors 2026](https://dev.to/nevermiss/best-ai-tools-for-hvac-contractors-2026-2pbm)
+- [Google I/O 2026 Wasn’t About Features — It Was About AI Becoming the Developer Environment](https://dev.to/ajx1tech/google-io-2026-wasnt-about-features-it-was-about-ai-becoming-the-developer-environment-5c6d)
+- [Building an AI Vedic Astrology App in 25 Days — What Actually Worked &lpar;and What Didn&#39;t&rpar;](https://dev.to/abhishek_gupta_cc27e9b33a/building-an-ai-vedic-astrology-app-in-25-days-what-actually-worked-and-what-didnt-2257)
+- [Hermes Agent Has Four Memories — And That&#39;s Why It Doesn&#39;t Forget You](https://dev.to/manikant92/hermes-agent-has-four-memories-and-thats-why-it-doesnt-forget-you-2e55)
+- [Pressure Isn&#39;t Killing You -Your Relationship With It Is](https://dev.to/anushka_shinde_99/pressure-isnt-killing-you-your-relationship-with-it-is-4j5e)
+- [🐳 How to Run Any Project in Docker: A Complete Guide](https://dev.to/oketch/how-to-run-any-project-in-docker-a-complete-guide-24a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
