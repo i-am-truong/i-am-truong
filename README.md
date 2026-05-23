@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Letting AI Guess Your Playwright Tests: Use Context7 MCP](https://dev.to/muhammadjon_sanaev/stop-letting-ai-guess-your-playwright-tests-use-context7-mcp-3k0i)
-- [End-to-End &lpar;E2E&rpar; testing pipeline](https://dev.to/kyl67899/end-to-end-e2e-testing-pipeline-dl8)
-- [The AI Coding Assistant Landscape in 2026: Cursor vs GitHub Copilot vs Claude Code vs JetBrains AI](https://dev.to/zny10289/the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai-4h59)
-- [Rust and the Reinvention of Operating Systems](https://dev.to/srijan-xi/rust-and-the-reinvention-of-operating-systems-28ef)
-- [Observability in 2026: Distributed Tracing Replaced Logs, and OpenTelemetry Won](https://dev.to/zny10289/observability-in-2026-distributed-tracing-replaced-logs-and-opentelemetry-won-560k)
+- [Google I/O 2026 Told Me AI Can Help Learners — So I Built an Entire Skill System for My Master&#39;s Degree](https://dev.to/jhhornn/google-io-2026-told-me-ai-can-help-learners-so-i-built-an-entire-skill-system-for-my-masters-4ng)
+- [Building a Real Android App at Google I/O 2026: No Kotlin, Just Prompts](https://dev.to/yinkaabeeb/building-a-real-android-app-at-google-io-2026-no-kotlin-just-prompts-2g41)
+- [The IAM Mistake I Keep Finding in AWS Environments — And Why It&#39;s Not Your Fault](https://dev.to/mariogongora/the-iam-mistake-i-keep-finding-in-aws-environments-and-why-its-not-your-fault-16oo)
+- [I Built a Content Firewall for My Autonomous AI Posting Loop](https://dev.to/tarunai/i-built-a-content-firewall-for-my-autonomous-ai-posting-loop-34n2)
+- [11.10. Integration Tests](https://dev.to/someb1oody/1110-integration-tests-1a1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
