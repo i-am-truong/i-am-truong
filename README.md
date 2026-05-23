@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O 2026 Wasn’t About Features — It Was About AI Becoming the Developer Environment](https://dev.to/ajx1tech/google-io-2026-wasnt-about-features-it-was-about-ai-becoming-the-developer-environment-5c6d)
-- [Building an AI Vedic Astrology App in 25 Days — What Actually Worked &lpar;and What Didn&#39;t&rpar;](https://dev.to/abhishek_gupta_cc27e9b33a/building-an-ai-vedic-astrology-app-in-25-days-what-actually-worked-and-what-didnt-2257)
-- [Hermes Agent Has Four Memories — And That&#39;s Why It Doesn&#39;t Forget You](https://dev.to/manikant92/hermes-agent-has-four-memories-and-thats-why-it-doesnt-forget-you-2e55)
-- [Pressure Isn&#39;t Killing You -Your Relationship With It Is](https://dev.to/anushka_shinde_99/pressure-isnt-killing-you-your-relationship-with-it-is-4j5e)
-- [🐳 How to Run Any Project in Docker: A Complete Guide](https://dev.to/oketch/how-to-run-any-project-in-docker-a-complete-guide-24a)
+- [Prisma Generator NestJS DTO — pluggable DTOs with annotations and custom generators](https://dev.to/tommasomeli/prisma-generator-nestjs-dto-pluggable-dtos-with-annotations-and-custom-generators-26d8)
+- [I Spent a Month Testing Decentralized Poker Sites. Here&#39;s What Actually Works.](https://dev.to/mm_cc_62ed7bf86a804a3f340/i-spent-a-month-testing-decentralized-poker-sites-heres-what-actually-works-1po6)
+- [DeepSeek-R1: The $0 o1 Alternative You Can Run Right Now](https://dev.to/lingdas1/deepseek-r1-the-0-o1-alternative-you-can-run-right-now-24a5)
+- [The PHP Stack I Built TrustGate On — And Why I&#39;d Do It Differently Today](https://dev.to/pratap_h/the-php-stack-i-built-trustgate-on-and-why-id-do-it-differently-today-397a)
+- [Building High-Throughput Data Pipelines: Why Chaining Encryption and Compression is a Performance Killer](https://dev.to/ygal_brami_561905d06d4ab6/building-high-throughput-data-pipelines-why-chaining-encryption-and-compression-is-a-performance-4pcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
