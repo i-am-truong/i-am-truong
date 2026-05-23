@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Business Logic Flaws: How Attackers Skip Steps in Your App to Get What They Should Never Have](https://dev.to/jer_catallo/how-business-logic-flaws-let-anyone-skip-payment-and-get-pro-access-for-free-2mbd)
-- [Why Vibe Coders Need Boilerplates to Save Time, Tokens, and Build More Secure SaaS Projects](https://dev.to/martintonev/why-vibe-coders-need-boilerplates-to-save-time-tokens-and-build-more-secure-saas-projects-1m49)
-- [Idle Cloud Cost Is the New Egress Cost](https://dev.to/ntctech/idle-cloud-cost-is-the-new-egress-cost-3mnn)
-- [Quark&#39;s Outlines: Python Traceback Objects](https://dev.to/mike-vincent/quarks-outlines-python-traceback-objects-3970)
-- [Ghost in the Stack &lpar;Part 1&rpar;: Why uninitialized variables remember old data](https://dev.to/sommi/ghost-in-the-stack-part-1-why-uninitialized-variables-remember-old-data-3kjb)
+- [Your AI Agent Works 24/7 and Earns $0. I Built the Fix.](https://dev.to/alpha-network/your-ai-agent-works-247-and-earns-0-i-built-the-fix-20na)
+- [Your AI Trading Agent Will Lose All Your Money — Here&#39;s How To Stop It](https://dev.to/guardlabs_team/your-ai-trading-agent-will-lose-all-your-money-heres-how-to-stop-it-1e15)
+- [Google I/O 2026: What Happens When Everything Connects?](https://dev.to/r_elena_mendez_escobar/google-io-2026-what-happens-when-everything-connects-4gf8)
+- [Why AI writes software but doesn’t build a good product](https://dev.to/karsten_biedermann/why-ai-writes-software-but-doesnt-build-a-good-product-3o9c)
+- [Beyond the Hype: How Google I/O 2026 Secretly Democratized Production-Ready AI Agents with Managed Sandboxes.](https://dev.to/mbwahnche_kyerimen_e59385/beyond-the-hype-how-google-io-2026-secretly-democratized-production-ready-ai-agents-with-managed-45ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
