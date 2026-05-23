@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3.5 Flash Has a 1M Token Context Window. Here&#39;s What You Can Actually Build With It.](https://dev.to/pulkitgovrani/gemini-35-flash-has-a-1m-token-context-window-heres-what-you-can-actually-build-with-it-4he3)
-- [I built a ultra-polished developer portfolio template using React &amp; Tailwind v4 &lpar;with zero-JSX configuration&rpar;](https://dev.to/pavan_siddharthareddy_f1/i-built-a-ultra-polished-developer-portfolio-template-using-react-tailwind-v4-with-zero-jsx-278a)
-- [Gemini CLI Is Dead. Here&#39;s the Better Thing That Replaced It](https://dev.to/pulkitgovrani/gemini-cli-is-dead-heres-the-better-thing-that-replaced-it-272e)
-- [Post-quantum cryptography for embedded and IoT: secure boot, TLS and OTA](https://dev.to/pezzullo/post-quantum-cryptography-for-embedded-and-iot-secure-boot-tls-and-ota-34e4)
-- [Understanding Optimistic Preloading in Modern Applications](https://dev.to/bytebyvipul/understanding-optimistic-preloading-in-modern-applications-54ah)
+- [Business Logic Flaws: How Attackers Skip Steps in Your App to Get What They Should Never Have](https://dev.to/jer_catallo/how-business-logic-flaws-let-anyone-skip-payment-and-get-pro-access-for-free-2mbd)
+- [Why Vibe Coders Need Boilerplates to Save Time, Tokens, and Build More Secure SaaS Projects](https://dev.to/martintonev/why-vibe-coders-need-boilerplates-to-save-time-tokens-and-build-more-secure-saas-projects-1m49)
+- [Idle Cloud Cost Is the New Egress Cost](https://dev.to/ntctech/idle-cloud-cost-is-the-new-egress-cost-3mnn)
+- [Quark&#39;s Outlines: Python Traceback Objects](https://dev.to/mike-vincent/quarks-outlines-python-traceback-objects-3970)
+- [Ghost in the Stack &lpar;Part 1&rpar;: Why uninitialized variables remember old data](https://dev.to/sommi/ghost-in-the-stack-part-1-why-uninitialized-variables-remember-old-data-3kjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
