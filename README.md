@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Synaptic: A Local-First AI Dev Companion That Remembers How You Think](https://dev.to/octanexyz/synaptic-a-local-first-ai-dev-companion-that-remembers-how-you-think-24o6)
-- [HDD Eksternal Tiba-Tiba Tidak Bisa Diakses di Windows? Ini Tiga Lapis Fix-nya](https://dev.to/technubie/hdd-eksternal-tiba-tiba-tidak-bisa-diakses-di-windows-ini-tiga-lapis-fix-nya-1l7)
-- [DSA Application in Real Life: How Git Diff Works: LCS Intuition, Myers Algorithm, and Real Code Changes](https://dev.to/naimur_rahman_lam/dsa-application-in-real-life-how-git-diff-works-lcs-intuition-myers-algorithm-and-real-code-4ma2)
-- [I built an AI faceless video generator in 2 months — here&#39;s the stack](https://dev.to/mannpriteshh/i-built-an-ai-faceless-video-generator-in-2-months-heres-the-stack-266h)
-- [Diffusion Language Models: How NVIDIA Nemotron-Labs Diffusion Shatters the Autoregressive Speed Ceiling](https://dev.to/monuminu/diffusion-language-models-how-nvidia-nemotron-labs-diffusion-shatters-the-autoregressive-speed-3dak)
+- [Your AI can read. Gemma 4 can see](https://dev.to/amionweb/your-ai-can-read-gemma-4-can-see-3264)
+- [The Battle of the Senior Dev: Why AI Gives You Wings But Only If You&#39;re Ready to Pilot](https://dev.to/brixmavu/the-battle-of-the-senior-dev-why-ai-gives-you-wings-but-only-if-youre-ready-to-pilot-58kn)
+- [SafeSMS: On-Device Threat Detection with Gemma 4 E4B, no internet required](https://dev.to/parulmalhotraiitk/safesms-on-device-threat-detection-with-gemma-4-e4b-no-internet-required-24p3)
+- [I Built OpenKap — A Loom Alternative for Small Teams Who Just Want to Ship](https://dev.to/gurpreetkait/i-built-openkap-a-loom-alternative-for-small-teams-who-just-want-to-ship-27ij)
+- [Gemma 4 is Here: The Dawn of Local Multimodal Reasoning](https://dev.to/parulmalhotraiitk/gemma-4-is-here-the-dawn-of-local-multimodal-reasoning-6a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
