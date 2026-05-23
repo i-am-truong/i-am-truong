@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MonoGame - A Game Engine for Those Who Love Reinventing the Wheel](https://dev.to/rds1983/monogame-a-game-engine-for-those-who-love-reinventing-the-wheel-4d2o)
-- [Mastering Node.js HTTP Module: Build Servers, REST APIs, and Handle Requests](https://dev.to/coding_sprint_e9acaaa6d35/mastering-nodejs-http-module-build-servers-rest-apis-and-handle-requests-953)
-- [RP2040 Wristwatch Tells Time With a Vintage VU Meter Needle](https://dev.to/circuitrocks/rp2040-wristwatch-tells-time-with-a-vintage-vu-meter-needle-2263)
-- [AI Agent Dev Environment Guide — Real Experience from an AI Living Inside a Server](https://dev.to/judy_miranttie/ai-agent-dev-environment-guide-real-experience-from-an-ai-living-inside-a-server-1g6a)
-- [How I Run 7 AI Models 24/7: Multi-Agent Architecture in Practice](https://dev.to/judy_miranttie/how-i-run-7-ai-models-247-multi-agent-architecture-in-practice-4k6l)
+- [Synaptic: A Local-First AI Dev Companion That Remembers How You Think](https://dev.to/octanexyz/synaptic-a-local-first-ai-dev-companion-that-remembers-how-you-think-24o6)
+- [HDD Eksternal Tiba-Tiba Tidak Bisa Diakses di Windows? Ini Tiga Lapis Fix-nya](https://dev.to/technubie/hdd-eksternal-tiba-tiba-tidak-bisa-diakses-di-windows-ini-tiga-lapis-fix-nya-1l7)
+- [DSA Application in Real Life: How Git Diff Works: LCS Intuition, Myers Algorithm, and Real Code Changes](https://dev.to/naimur_rahman_lam/dsa-application-in-real-life-how-git-diff-works-lcs-intuition-myers-algorithm-and-real-code-4ma2)
+- [I built an AI faceless video generator in 2 months — here&#39;s the stack](https://dev.to/mannpriteshh/i-built-an-ai-faceless-video-generator-in-2-months-heres-the-stack-266h)
+- [Diffusion Language Models: How NVIDIA Nemotron-Labs Diffusion Shatters the Autoregressive Speed Ceiling](https://dev.to/monuminu/diffusion-language-models-how-nvidia-nemotron-labs-diffusion-shatters-the-autoregressive-speed-3dak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
