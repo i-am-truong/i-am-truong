@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Zed Is Replacing VS Code in My AI-Augmented Workflow](https://dev.to/numbpill3d/why-zed-is-replacing-vs-code-in-my-ai-augmented-workflow-2m9)
-- [Karpathy&#39;s LLM Wiki? No Code with Claude or Github Copilot!](https://dev.to/rosidotidev/karpathys-llm-wiki-no-code-with-claude-or-github-copilot-5fb0)
-- [Why Platform Governance and Transparency Matter for Developers and Freelancers](https://dev.to/mosbat/why-platform-governance-and-transparency-matter-for-developers-and-freelancers-39ap)
-- [Using an LLM to automate a task that used to take hours by hand](https://dev.to/yahya_saleh_d157cf3d7fe2e/using-an-llm-to-automate-a-task-that-used-to-take-hours-by-hand-16c2)
-- [CyberArena – Interactive Cyber Security Simulation &amp; Threat Analysis Platform](https://dev.to/omu47/cyberarena-interactive-cyber-security-simulation-threat-analysis-platform-3ec2)
+- [Why We Rewrote Our Python CLI in Go &lpar;and What We Gained&rpar;](https://dev.to/orieken/why-we-rewrote-our-python-cli-in-go-and-what-we-gained-21bg)
+- [Why We Built TestSmith: The Test Coverage Problem Nobody Talks About](https://dev.to/orieken/why-we-built-testsmith-the-test-coverage-problem-nobody-talks-about-2mjk)
+- [Building a local-first AI tutor for my daughter &lpar;and 10–14 year-olds in Austrian schools&rpar; with Gemma 4](https://dev.to/georgpiwonka/building-a-local-first-ai-tutor-for-my-daughter-and-10-14-year-olds-in-austrian-schools-with-j17)
+- [EC2 SSH Not Connecting? Here Are the 5 Things That Were Wrong &lpar;And How I Fixed Them&rpar;](https://dev.to/pwnjoshi/ec2-ssh-not-connecting-here-are-the-5-things-that-were-wrong-and-how-i-fixed-them-4ccp)
+- [Best AI Tools for HVAC Contractors 2026](https://dev.to/nevermiss/best-ai-tools-for-hvac-contractors-2026-2pbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
