@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prisma Generator NestJS DTO — pluggable DTOs with annotations and custom generators](https://dev.to/tommasomeli/prisma-generator-nestjs-dto-pluggable-dtos-with-annotations-and-custom-generators-26d8)
-- [I Spent a Month Testing Decentralized Poker Sites. Here&#39;s What Actually Works.](https://dev.to/mm_cc_62ed7bf86a804a3f340/i-spent-a-month-testing-decentralized-poker-sites-heres-what-actually-works-1po6)
-- [DeepSeek-R1: The $0 o1 Alternative You Can Run Right Now](https://dev.to/lingdas1/deepseek-r1-the-0-o1-alternative-you-can-run-right-now-24a5)
-- [The PHP Stack I Built TrustGate On — And Why I&#39;d Do It Differently Today](https://dev.to/pratap_h/the-php-stack-i-built-trustgate-on-and-why-id-do-it-differently-today-397a)
-- [Building High-Throughput Data Pipelines: Why Chaining Encryption and Compression is a Performance Killer](https://dev.to/ygal_brami_561905d06d4ab6/building-high-throughput-data-pipelines-why-chaining-encryption-and-compression-is-a-performance-4pcf)
+- [AI Coding Tools 2026: Cursor vs GitHub Copilot vs Claude Code &lpar;Real Comparison&rpar;](https://dev.to/storm_son_b44db572b250b68/ai-coding-tools-2026-cursor-vs-github-copilot-vs-claude-code-real-comparison-1kj4)
+- [Building a Redis Clone in Go](https://dev.to/saleh_enab/building-a-redis-clone-in-go-22)
+- [A practical AI-assisted engineering checklist for frontend developers](https://dev.to/rizwan_saleem_0d5be25d040/a-practical-ai-assisted-engineering-checklist-for-frontend-developers-2hkh)
+- [Crafting Trustworthy Custom Linter Rules](https://dev.to/beefedai/crafting-trustworthy-custom-linter-rules-36l8)
+- [Range Scans and Tombstones in Bf-Tree](https://dev.to/lovestaco/range-scans-and-tombstones-in-bf-tree-26bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
