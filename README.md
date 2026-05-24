@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quick Tip: Benchmarking Multimodal APIs in Under 10 Minutes](https://dev.to/rileykim/quick-tip-benchmarking-multimodal-apis-in-under-10-minutes-25o0)
-- [The Developer&#39;s Guide to Picking the Right AI Code Model in 2026 &lpar;I Spent $500 So You Don’t Have To&rpar;](https://dev.to/eagerspark/the-developers-guide-to-picking-the-right-ai-code-model-in-2026-i-spent-500-so-you-dont-have-to-1da3)
-- [DeepSeek vs Qwen vs Kimi vs GLM: Which AI API Actually Wins in 2026? &lpar;A Cost-Optimizer’s Verdict&rpar;](https://dev.to/truelane/deepseek-vs-qwen-vs-kimi-vs-glm-which-ai-api-actually-wins-in-2026-a-cost-optimizers-verdict-4235)
-- [How do you handle bugs in apps built with AI builders?](https://dev.to/alazo/how-do-you-handle-bugs-in-apps-built-with-ai-builders-3502)
-- [NVIDIA&#39;s Nemotron Diffusion: One Model, Three Generation Modes, 6 Faster](https://dev.to/thegatewayguy/nvidias-nemotron-diffusion-one-model-three-generation-modes-6-faster-2f6d)
+- [React.js ~use&lpar;&rpar; hook for Caching Problem~](https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47)
+- [Surviving Google&#39;s core algorithm updates](https://dev.to/joseph_anady_214bacedf939/surviving-googles-core-algorithm-updates-db8)
+- [Google&#39;s Helpful Content System &lpar;HCS&rpar; explained](https://dev.to/joseph_anady_214bacedf939/googles-helpful-content-system-hcs-explained-80n)
+- [YMYL: when Google holds you to higher standards](https://dev.to/joseph_anady_214bacedf939/ymyl-when-google-holds-you-to-higher-standards-17k7)
+- [Schema.org + JSON-LD: the complete pattern reference](https://dev.to/joseph_anady_214bacedf939/schemaorg-json-ld-the-complete-pattern-reference-143e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
