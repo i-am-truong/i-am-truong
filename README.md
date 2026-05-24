@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Technical SEO Checklist for WordPress Websites](https://dev.to/talha-maqbool/technical-seo-checklist-for-wordpress-websites-458c)
-- [I built a security scanner, never shipped it, and finally finished the job](https://dev.to/thisissecurl/i-built-a-security-scanner-never-shipped-it-and-finally-finished-the-job-39o6)
-- [Audience Builder vs Data Filter: Which Segmentation Tool When?](https://dev.to/sapotacorp/audience-builder-vs-data-filter-which-segmentation-tool-when-66k)
-- [IoT data into D365 Supply Chain: the Azure-native pattern](https://dev.to/sapotacorp/iot-data-into-d365-supply-chain-the-azure-native-pattern-593o)
-- [PostgreSQL VACUUM Tuning: A Technical Deep Dive Into Autovacuum Configuration](https://dev.to/pranay_raavi/postgresql-vacuum-tuning-a-technical-deep-dive-into-autovacuum-configuration-3gf0)
+- [I Got Tired of Forgetting. So I Built PwnLog.](https://dev.to/toklas495/i-got-tired-of-forgetting-so-i-built-pwnlog-ggp)
+- [Building Production-Ready Semantic Search with Python and Snowflake Cortex](https://dev.to/artemooon/building-production-ready-semantic-search-with-python-and-snowflake-cortex-42a7)
+- [What If a Supplier Could Prove They Qualify For a Deal Without Showing You Their Cards?](https://dev.to/nioomeee/what-if-a-supplier-could-prove-they-qualify-for-a-deal-without-showing-you-their-cards-40kj)
+- [Axomind : planning, encrypted messaging and mind maps. Self-hosted.](https://dev.to/seb_c1a097a/i-built-a-collaborative-platform-alone-it-runs-on-a-100eu-pc-2aai)
+- [Building MCP Servers in TypeScript That Don&#39;t Fall Apart](https://dev.to/mudassirworks/building-mcp-servers-in-typescript-that-dont-fall-apart-2m6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
