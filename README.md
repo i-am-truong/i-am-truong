@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Multi-Provider LLM Problem: Why “One API” Is Not Enough](https://dev.to/samirhosnimet/the-multi-provider-llm-problem-why-one-api-is-not-enough-k44)
-- [How I indexed 69,000 Claude Code skills &lpar;and what I learned doing it&rpar;](https://dev.to/adamlankamer/how-i-indexed-69000-claude-code-skills-and-what-i-learned-doing-it-76f)
-- [RememberMe CareGrid: Local Gemma 4 for dementia memory and safety](https://dev.to/manjunathpatil/rememberme-caregrid-local-gemma-4-for-dementia-memory-and-safety-3002)
-- [Google Is Killing Gemini CLI on June 18. Here Is What to Do Before Then](https://dev.to/toboreeee/google-is-killing-gemini-cli-on-june-18-here-is-what-to-do-before-then-4907)
-- [Do Domínio ao Deploy: Hospedando Arquivos de Deep Links no Cloudflare Pages &lpar;Parte 7.1&rpar;](https://dev.to/cdornelles/do-dominio-ao-deploy-hospedando-arquivos-de-deep-links-no-cloudflare-pages-parte-71-5e32)
+- [I Resurrected a Dead F1 Project and Accidentally Built a Race Intelligence OS](https://dev.to/nilamadhab47/i-resurrected-a-dead-f1-project-and-accidentally-built-a-race-intelligence-os-2886)
+- [Remix Mini PC: After a Year of Dead Ends, the eMMC Finally Talks](https://dev.to/matemiller/remix-mini-pc-after-a-year-of-dead-ends-the-emmc-finally-talks-16p6)
+- [Not All Games Are Equal: The Real Difference Between a Trap and a Tool](https://dev.to/wetcat/not-all-games-are-equal-the-real-difference-between-a-trap-and-a-tool-5gf0)
+- [How to add Peppol e-invoicing to your SaaS without making it your team&#39;s problem](https://dev.to/zerolooplabs/how-to-add-peppol-e-invoicing-to-your-saas-without-making-it-your-teams-problem-1jj7)
+- [I Built a Hermes Agent to Tell Me Which Hackathons to Enter. It Told Me to Enter This One.](https://dev.to/earlgreyhot1701d/i-built-a-hermes-agent-to-tell-me-which-hackathons-to-enter-it-told-me-to-enter-this-one-jh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
