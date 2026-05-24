@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Student Dev to Agent Architect: What Google I/O 2026 Changed for Me](https://dev.to/chetanngavali/from-student-dev-to-agent-architect-what-google-io-2026-changed-for-me-5h6f)
-- [Google I/O 2026: The Entire Stack Is Now Built for Agents — An Indie Dev&#39;s Honest Take](https://dev.to/abinjith_tk_e85889d1609a4/google-io-2026-the-entire-stack-is-now-built-for-agents-an-indie-devs-honest-take-3b2j)
-- [Small Language Models: Rethinking What Intelligence Actually Requires](https://dev.to/soohan_abbasi/small-language-models-rethinking-what-intelligence-actually-requires-3fjb)
-- [WebMCP Is the Most Underrated Announcement from Google I/O 2026](https://dev.to/pulkitgovrani/webmcp-is-the-most-underrated-announcement-from-google-io-2026-4od7)
-- [tsc-correctness != runtime-correctness](https://dev.to/oscar_green_2836be55d3b02/tsc-correctness-runtime-correctness-3ol5)
+- [Gemma 4 Needs More Than a Chat Box: Why Local AI Needs Generative UI](https://dev.to/aj0070/gemma-4-needs-more-than-a-chat-box-why-local-ai-needs-generative-ui-4fjk)
+- [Using SQL Developer Web &lpar;Database Actions&rpar; in ATP to Create Tables &amp; REST APIs](https://dev.to/naveen6735/using-sql-developer-web-database-actions-in-atp-to-create-tables-rest-apis-2j27)
+- [5 Days of Full Autonomy: The Quiet Failures No Demo Shows](https://dev.to/tarunai/5-days-of-full-autonomy-the-quiet-failures-no-demo-shows-ce2)
+- [Why Does DeepSeek Pursue Alpha in Finance?](https://dev.to/denniskim/why-does-deepseek-pursue-alpha-in-finance-40go)
+- [How to Register a Domain Name With Your AI Agent &lpar;No Human Needed&rpar;](https://dev.to/marsheer/how-to-register-a-domain-name-with-your-ai-agent-no-human-needed-h26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
