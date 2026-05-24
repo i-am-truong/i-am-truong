@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [터미널 AI 에이전트 구축 &lpar;v12&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v12-42c9)
-- [Building Instagram-Powered Apps with HikerAPI &lpar;Without Fighting Scrapers&rpar;](https://dev.to/baroque_ai_383066a9394165/building-instagram-powered-apps-with-hikerapi-without-fighting-scrapers-3nh9)
-- [Checkpoints, Not Transcripts: Rethinking AI Coding Agent Memory](https://dev.to/lweiss01/checkpoints-not-transcripts-rethinking-ai-coding-agent-memory-21pj)
-- [From Side Project to Student Savior: My AI PPT &amp; Resume Tool Crossed 1.5K+ Users](https://dev.to/chandrakant_kelgire_79721/from-side-project-to-student-savior-my-ai-ppt-resume-tool-crossed-15k-users-2c1o)
-- [Why Story Points Don’t Work in the AI Era, And What Should Take Their Place Instead.](https://dev.to/rsri/why-story-points-dont-work-in-the-ai-era-and-what-should-take-their-place-instead-5a27)
+- [The Multi-Provider LLM Problem: Why “One API” Is Not Enough](https://dev.to/samirhosnimet/the-multi-provider-llm-problem-why-one-api-is-not-enough-k44)
+- [How I indexed 69,000 Claude Code skills &lpar;and what I learned doing it&rpar;](https://dev.to/adamlankamer/how-i-indexed-69000-claude-code-skills-and-what-i-learned-doing-it-76f)
+- [RememberMe CareGrid: Local Gemma 4 for dementia memory and safety](https://dev.to/manjunathpatil/rememberme-caregrid-local-gemma-4-for-dementia-memory-and-safety-3002)
+- [Google Is Killing Gemini CLI on June 18. Here Is What to Do Before Then](https://dev.to/toboreeee/google-is-killing-gemini-cli-on-june-18-here-is-what-to-do-before-then-4907)
+- [Do Domínio ao Deploy: Hospedando Arquivos de Deep Links no Cloudflare Pages &lpar;Parte 7.1&rpar;](https://dev.to/cdornelles/do-dominio-ao-deploy-hospedando-arquivos-de-deep-links-no-cloudflare-pages-parte-71-5e32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
