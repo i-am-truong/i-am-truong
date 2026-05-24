@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Forgetting. So I Built PwnLog.](https://dev.to/toklas495/i-got-tired-of-forgetting-so-i-built-pwnlog-ggp)
-- [Building Production-Ready Semantic Search with Python and Snowflake Cortex](https://dev.to/artemooon/building-production-ready-semantic-search-with-python-and-snowflake-cortex-42a7)
-- [What If a Supplier Could Prove They Qualify For a Deal Without Showing You Their Cards?](https://dev.to/nioomeee/what-if-a-supplier-could-prove-they-qualify-for-a-deal-without-showing-you-their-cards-40kj)
-- [Axomind : planning, encrypted messaging and mind maps. Self-hosted.](https://dev.to/seb_c1a097a/i-built-a-collaborative-platform-alone-it-runs-on-a-100eu-pc-2aai)
-- [Building MCP Servers in TypeScript That Don&#39;t Fall Apart](https://dev.to/mudassirworks/building-mcp-servers-in-typescript-that-dont-fall-apart-2m6a)
+- [From Student Dev to Agent Architect: What Google I/O 2026 Changed for Me](https://dev.to/chetanngavali/from-student-dev-to-agent-architect-what-google-io-2026-changed-for-me-5h6f)
+- [Google I/O 2026: The Entire Stack Is Now Built for Agents — An Indie Dev&#39;s Honest Take](https://dev.to/abinjith_tk_e85889d1609a4/google-io-2026-the-entire-stack-is-now-built-for-agents-an-indie-devs-honest-take-3b2j)
+- [Small Language Models: Rethinking What Intelligence Actually Requires](https://dev.to/soohan_abbasi/small-language-models-rethinking-what-intelligence-actually-requires-3fjb)
+- [WebMCP Is the Most Underrated Announcement from Google I/O 2026](https://dev.to/pulkitgovrani/webmcp-is-the-most-underrated-announcement-from-google-io-2026-4od7)
+- [tsc-correctness != runtime-correctness](https://dev.to/oscar_green_2836be55d3b02/tsc-correctness-runtime-correctness-3ol5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
