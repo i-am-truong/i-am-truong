@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué significan esas letras del CVSS? Guía para entenderlo de una vez](https://dev.to/byron_lainez/que-significan-esas-letras-del-cvss-guia-para-entenderlo-de-una-vez-gmh)
-- [scrcpy Integration in a Tauri App — Android Screen Mirroring on Mac](https://dev.to/hiyoyok/scrcpy-integration-in-a-tauri-app-android-screen-mirroring-on-mac-27k3)
-- [SimGemma: Democratizing STEM Education with Offline-First AI Simulations](https://dev.to/damodharanj/simgemma-democratizing-stem-education-with-offline-first-ai-simulations-4409)
-- [Diffusion Language Models Are Here: Deep Dive into NVIDIA&#39;s Nemotron-Labs DLM Architecture](https://dev.to/monuminu/diffusion-language-models-are-here-deep-dive-into-nvidias-nemotron-labs-dlm-architecture-2ke2)
-- [[Boost]](https://dev.to/aretasndi/-13e6)
+- [Regression Testing in Agile: How to Test Without Slowing Down Your Sprints](https://dev.to/delta-qa/regression-testing-in-agile-how-to-test-without-slowing-down-your-sprints-5b39)
+- [I build projects and manage teams without a single call](https://dev.to/orchidfiles/i-build-projects-and-manage-teams-without-a-single-call-439d)
+- [Making a Calculator UI with HTML5 and CSS3](https://dev.to/zamfir80/making-a-calculator-ui-with-html5-and-css3-4800)
+- [Beyond RAG: Architecting Local Long-Context Pipelines with Gemma 4&#39;s 31B Dense Model](https://dev.to/jagadeesh961982/beyond-rag-architecting-local-long-context-pipelines-with-gemma-4s-31b-dense-model-5a1n)
+- [KloudAudit vs AWS Cost Explorer: Why I Stopped Using Cost Explorer for Waste Detection](https://dev.to/kloudaudit/kloudaudit-vs-aws-cost-explorer-why-i-stopped-using-cost-explorer-for-waste-detection-5cbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
