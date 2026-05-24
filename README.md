@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Regression Testing in Agile: How to Test Without Slowing Down Your Sprints](https://dev.to/delta-qa/regression-testing-in-agile-how-to-test-without-slowing-down-your-sprints-5b39)
-- [I build projects and manage teams without a single call](https://dev.to/orchidfiles/i-build-projects-and-manage-teams-without-a-single-call-439d)
-- [Making a Calculator UI with HTML5 and CSS3](https://dev.to/zamfir80/making-a-calculator-ui-with-html5-and-css3-4800)
-- [Beyond RAG: Architecting Local Long-Context Pipelines with Gemma 4&#39;s 31B Dense Model](https://dev.to/jagadeesh961982/beyond-rag-architecting-local-long-context-pipelines-with-gemma-4s-31b-dense-model-5a1n)
-- [KloudAudit vs AWS Cost Explorer: Why I Stopped Using Cost Explorer for Waste Detection](https://dev.to/kloudaudit/kloudaudit-vs-aws-cost-explorer-why-i-stopped-using-cost-explorer-for-waste-detection-5cbc)
+- [Technical SEO Checklist for WordPress Websites](https://dev.to/talha-maqbool/technical-seo-checklist-for-wordpress-websites-458c)
+- [I built a security scanner, never shipped it, and finally finished the job](https://dev.to/thisissecurl/i-built-a-security-scanner-never-shipped-it-and-finally-finished-the-job-39o6)
+- [Audience Builder vs Data Filter: Which Segmentation Tool When?](https://dev.to/sapotacorp/audience-builder-vs-data-filter-which-segmentation-tool-when-66k)
+- [IoT data into D365 Supply Chain: the Azure-native pattern](https://dev.to/sapotacorp/iot-data-into-d365-supply-chain-the-azure-native-pattern-593o)
+- [PostgreSQL VACUUM Tuning: A Technical Deep Dive Into Autovacuum Configuration](https://dev.to/pranay_raavi/postgresql-vacuum-tuning-a-technical-deep-dive-into-autovacuum-configuration-3gf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
