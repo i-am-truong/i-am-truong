@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 Needs More Than a Chat Box: Why Local AI Needs Generative UI](https://dev.to/aj0070/gemma-4-needs-more-than-a-chat-box-why-local-ai-needs-generative-ui-4fjk)
-- [Using SQL Developer Web &lpar;Database Actions&rpar; in ATP to Create Tables &amp; REST APIs](https://dev.to/naveen6735/using-sql-developer-web-database-actions-in-atp-to-create-tables-rest-apis-2j27)
-- [5 Days of Full Autonomy: The Quiet Failures No Demo Shows](https://dev.to/tarunai/5-days-of-full-autonomy-the-quiet-failures-no-demo-shows-ce2)
-- [Why Does DeepSeek Pursue Alpha in Finance?](https://dev.to/denniskim/why-does-deepseek-pursue-alpha-in-finance-40go)
-- [How to Register a Domain Name With Your AI Agent &lpar;No Human Needed&rpar;](https://dev.to/marsheer/how-to-register-a-domain-name-with-your-ai-agent-no-human-needed-h26)
+- [Caching Layers in 2026: CDN, App, DB, Query: What Goes Where](https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m)
+- [Your Inbox Knows Too Much: Parsli for the Privacy Paranoid](https://dev.to/olgabraginskaya/your-inbox-knows-too-much-parsli-for-the-privacy-paranoid-7ah)
+- [I Ran Every Gemma 4 Model on My Home Lab. E4B Crushes E2B. Here&#39;s the Data.](https://dev.to/paper_scratcher_bafb0086c/i-ran-every-gemma-4-model-on-my-home-lab-e4b-crushes-e2b-heres-the-data-18gi)
+- [How Microsoft Azure Ensures Reliability, Scalability, and Business Continuity](https://dev.to/adenugaadeyemi/how-microsoft-azure-ensures-reliability-scalability-and-business-continuity-1eo7)
+- [Shelfie: I Built a Book Scanner That Runs Entirely on a $75 Raspberry Pi &lpar;Using Gemma 4&rpar;](https://dev.to/paper_scratcher_bafb0086c/shelfie-i-built-a-book-scanner-that-runs-entirely-on-a-75-raspberry-pi-using-gemma-4-4jn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
