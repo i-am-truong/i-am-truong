@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of clicking through the Stripe dashboard, so I built a CLI](https://dev.to/eduardmaghakyan/i-got-tired-of-clicking-through-the-stripe-dashboard-so-i-built-a-cli-1p3h)
-- [Getting Data from Multiple Sources in Power BI: A Practical Guide to Modern Data Integration](https://dev.to/opeloyeru_hikmah_26/getting-data-from-multiple-sources-in-power-bi-a-practical-guide-to-modern-data-integration-1lca)
-- [Google Is No Longer Just a Search Engine](https://dev.to/bridget_amana/google-is-no-longer-just-a-search-engine-1bji)
-- [I built GemmaPod - A truly composable and portable AI agent solution powered by your local LLM](https://dev.to/apprider/i-built-gemmapod-a-truly-composable-and-portable-ai-agent-solution-powered-by-your-local-llm-4430)
-- [Gemma 4 E4B caught three planted fabrications in 50 seconds — on a laptop, no cloud](https://dev.to/arthurpro/gemma-4-e4b-caught-three-planted-fabrications-in-50-seconds-on-a-laptop-no-cloud-1ehh)
+- [Vestige: A Gemma 4 Brain Tracker That Won&#39;t Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
+- [Gemminate: Transforming Static Textbooks into Interactive Learning Journeys with Gemma 4](https://dev.to/folefac_martins_44a2bca70/gemminate-transforming-static-textbooks-into-interactive-learning-journeys-with-gemma-4-65g)
+- [Where Did All the Code Playgrounds Go?](https://dev.to/madrigal-a/where-did-all-the-code-playgrounds-go-4lk2)
+- [I built PROOFER - Privacy first Chrome extension that proofreads your texts using Gemma 4](https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7)
+- [I Automated My Entire Digital Product Business on a $13/Month GCP VM. Here&#39;s the Architecture.](https://dev.to/contrite42/i-automated-my-entire-digital-product-business-on-a-13month-gcp-vm-heres-the-architecture-1imb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
