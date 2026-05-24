@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Caching Layers in 2026: CDN, App, DB, Query: What Goes Where](https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m)
-- [Your Inbox Knows Too Much: Parsli for the Privacy Paranoid](https://dev.to/olgabraginskaya/your-inbox-knows-too-much-parsli-for-the-privacy-paranoid-7ah)
-- [I Ran Every Gemma 4 Model on My Home Lab. E4B Crushes E2B. Here&#39;s the Data.](https://dev.to/paper_scratcher_bafb0086c/i-ran-every-gemma-4-model-on-my-home-lab-e4b-crushes-e2b-heres-the-data-18gi)
-- [How Microsoft Azure Ensures Reliability, Scalability, and Business Continuity](https://dev.to/adenugaadeyemi/how-microsoft-azure-ensures-reliability-scalability-and-business-continuity-1eo7)
-- [Shelfie: I Built a Book Scanner That Runs Entirely on a $75 Raspberry Pi &lpar;Using Gemma 4&rpar;](https://dev.to/paper_scratcher_bafb0086c/shelfie-i-built-a-book-scanner-that-runs-entirely-on-a-75-raspberry-pi-using-gemma-4-4jn9)
+- [The Multilingual SEO Trap: When Your Meta Description Speaks the Wrong Language](https://dev.to/aukedh/the-multilingual-seo-trap-when-your-meta-description-speaks-the-wrong-language-j39)
+- [young-colleague-job-worries](https://dev.to/keithjmackay/young-colleague-job-worries-2902)
+- [What I Learned About Token Design on Solana as a Web2 Developer](https://dev.to/jay_gurav_88c6986f4a9e5d7/what-i-learned-about-token-design-on-solana-as-a-web2-developer-1j5b)
+- [Tabula vs Camelot vs pdfplumber in 2026: Which Python Library Actually Wins?](https://dev.to/martin_pdfexcel/tabula-vs-camelot-vs-pdfplumber-in-2026-which-python-library-actually-wins-22kn)
+- [Experienced devs are slower with AI and they don&#39;t even know it](https://dev.to/adioof/experienced-devs-are-slower-with-ai-and-they-dont-even-know-it-8g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
