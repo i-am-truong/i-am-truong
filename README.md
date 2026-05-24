@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AllasCode Intitute / FullAgenticStack: The Intent-Based Router](https://dev.to/fullagenticstack/allascode-intitute-fullagenticstack-the-intent-based-router-a6d)
-- [Introducing LogicGrid — Multi-Agent AI Orchestration for .NET](https://dev.to/logicgriddev/introducing-logicgrid-multi-agent-ai-orchestration-for-net-3380)
-- [AI Prompt Injection, Drupal SQLi Exploitation, and Nmap for Hardening](https://dev.to/soytuber/ai-prompt-injection-drupal-sqli-exploitation-and-nmap-for-hardening-32nd)
-- [AI Agents &amp; Python Workflows: Anthropic Skills, Jupyter Challenges, and Edge Deployment](https://dev.to/soytuber/ai-agents-python-workflows-anthropic-skills-jupyter-challenges-and-edge-deployment-3kk9)
-- [SQLite Optimization, PostgreSQL Async Queries, &amp; DuckLake Dataframe Spec](https://dev.to/soytuber/sqlite-optimization-postgresql-async-queries-ducklake-dataframe-spec-4c3m)
+- [I got tired of clicking through the Stripe dashboard, so I built a CLI](https://dev.to/eduardmaghakyan/i-got-tired-of-clicking-through-the-stripe-dashboard-so-i-built-a-cli-1p3h)
+- [Getting Data from Multiple Sources in Power BI: A Practical Guide to Modern Data Integration](https://dev.to/opeloyeru_hikmah_26/getting-data-from-multiple-sources-in-power-bi-a-practical-guide-to-modern-data-integration-1lca)
+- [Google Is No Longer Just a Search Engine](https://dev.to/bridget_amana/google-is-no-longer-just-a-search-engine-1bji)
+- [I built GemmaPod - A truly composable and portable AI agent solution powered by your local LLM](https://dev.to/apprider/i-built-gemmapod-a-truly-composable-and-portable-ai-agent-solution-powered-by-your-local-llm-4430)
+- [Gemma 4 E4B caught three planted fabrications in 50 seconds — on a laptop, no cloud](https://dev.to/arthurpro/gemma-4-e4b-caught-three-planted-fabrications-in-50-seconds-on-a-laptop-no-cloud-1ehh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
