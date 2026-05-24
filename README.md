@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Multilingual SEO Trap: When Your Meta Description Speaks the Wrong Language](https://dev.to/aukedh/the-multilingual-seo-trap-when-your-meta-description-speaks-the-wrong-language-j39)
-- [young-colleague-job-worries](https://dev.to/keithjmackay/young-colleague-job-worries-2902)
-- [What I Learned About Token Design on Solana as a Web2 Developer](https://dev.to/jay_gurav_88c6986f4a9e5d7/what-i-learned-about-token-design-on-solana-as-a-web2-developer-1j5b)
-- [Tabula vs Camelot vs pdfplumber in 2026: Which Python Library Actually Wins?](https://dev.to/martin_pdfexcel/tabula-vs-camelot-vs-pdfplumber-in-2026-which-python-library-actually-wins-22kn)
-- [Experienced devs are slower with AI and they don&#39;t even know it](https://dev.to/adioof/experienced-devs-are-slower-with-ai-and-they-dont-even-know-it-8g0)
+- [FHE Prompt Privacy: The Metadata Leak Your Demo Still Has](https://dev.to/aicryptosystems/fhe-prompt-privacy-the-metadata-leak-your-demo-still-has-1kok)
+- [Adaptive Model Routing and Fallback Logic: Routing Around LLM Provider Outages with Bifrost](https://dev.to/kuldeep_paul/adaptive-model-routing-and-fallback-logic-routing-around-llm-provider-outages-with-bifrost-4g3m)
+- [C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)
+- [🎙️Interview Coach AI — Practice Mock Interviews Locally with Gemma 4 + Jan](https://dev.to/minhlong2605/interview-coach-ai-practice-mock-interviews-locally-with-gemma-4-jan-1816)
+- [Basics of Gemma 4 with Google ADK](https://dev.to/networkandcode/basics-of-gemma-4-with-google-adk-4jh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
