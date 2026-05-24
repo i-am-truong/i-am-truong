@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React.js ~use&lpar;&rpar; hook for Caching Problem~](https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47)
-- [Surviving Google&#39;s core algorithm updates](https://dev.to/joseph_anady_214bacedf939/surviving-googles-core-algorithm-updates-db8)
-- [Google&#39;s Helpful Content System &lpar;HCS&rpar; explained](https://dev.to/joseph_anady_214bacedf939/googles-helpful-content-system-hcs-explained-80n)
-- [YMYL: when Google holds you to higher standards](https://dev.to/joseph_anady_214bacedf939/ymyl-when-google-holds-you-to-higher-standards-17k7)
-- [Schema.org + JSON-LD: the complete pattern reference](https://dev.to/joseph_anady_214bacedf939/schemaorg-json-ld-the-complete-pattern-reference-143e)
+- [¿Qué significan esas letras del CVSS? Guía para entenderlo de una vez](https://dev.to/byron_lainez/que-significan-esas-letras-del-cvss-guia-para-entenderlo-de-una-vez-gmh)
+- [scrcpy Integration in a Tauri App — Android Screen Mirroring on Mac](https://dev.to/hiyoyok/scrcpy-integration-in-a-tauri-app-android-screen-mirroring-on-mac-27k3)
+- [SimGemma: Democratizing STEM Education with Offline-First AI Simulations](https://dev.to/damodharanj/simgemma-democratizing-stem-education-with-offline-first-ai-simulations-4409)
+- [Diffusion Language Models Are Here: Deep Dive into NVIDIA&#39;s Nemotron-Labs DLM Architecture](https://dev.to/monuminu/diffusion-language-models-are-here-deep-dive-into-nvidias-nemotron-labs-dlm-architecture-2ke2)
+- [[Boost]](https://dev.to/aretasndi/-13e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
