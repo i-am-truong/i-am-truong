@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FHE Prompt Privacy: The Metadata Leak Your Demo Still Has](https://dev.to/aicryptosystems/fhe-prompt-privacy-the-metadata-leak-your-demo-still-has-1kok)
-- [Adaptive Model Routing and Fallback Logic: Routing Around LLM Provider Outages with Bifrost](https://dev.to/kuldeep_paul/adaptive-model-routing-and-fallback-logic-routing-around-llm-provider-outages-with-bifrost-4g3m)
-- [C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)
-- [🎙️Interview Coach AI — Practice Mock Interviews Locally with Gemma 4 + Jan](https://dev.to/minhlong2605/interview-coach-ai-practice-mock-interviews-locally-with-gemma-4-jan-1816)
-- [Basics of Gemma 4 with Google ADK](https://dev.to/networkandcode/basics-of-gemma-4-with-google-adk-4jh4)
+- [터미널 AI 에이전트 구축 &lpar;v12&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v12-42c9)
+- [Building Instagram-Powered Apps with HikerAPI &lpar;Without Fighting Scrapers&rpar;](https://dev.to/baroque_ai_383066a9394165/building-instagram-powered-apps-with-hikerapi-without-fighting-scrapers-3nh9)
+- [Checkpoints, Not Transcripts: Rethinking AI Coding Agent Memory](https://dev.to/lweiss01/checkpoints-not-transcripts-rethinking-ai-coding-agent-memory-21pj)
+- [From Side Project to Student Savior: My AI PPT &amp; Resume Tool Crossed 1.5K+ Users](https://dev.to/chandrakant_kelgire_79721/from-side-project-to-student-savior-my-ai-ppt-resume-tool-crossed-15k-users-2c1o)
+- [Why Story Points Don’t Work in the AI Era, And What Should Take Their Place Instead.](https://dev.to/rsri/why-story-points-dont-work-in-the-ai-era-and-what-should-take-their-place-instead-5a27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
