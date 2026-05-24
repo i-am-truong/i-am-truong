@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Resurrected a Dead F1 Project and Accidentally Built a Race Intelligence OS](https://dev.to/nilamadhab47/i-resurrected-a-dead-f1-project-and-accidentally-built-a-race-intelligence-os-2886)
-- [Remix Mini PC: After a Year of Dead Ends, the eMMC Finally Talks](https://dev.to/matemiller/remix-mini-pc-after-a-year-of-dead-ends-the-emmc-finally-talks-16p6)
-- [Not All Games Are Equal: The Real Difference Between a Trap and a Tool](https://dev.to/wetcat/not-all-games-are-equal-the-real-difference-between-a-trap-and-a-tool-5gf0)
-- [How to add Peppol e-invoicing to your SaaS without making it your team&#39;s problem](https://dev.to/zerolooplabs/how-to-add-peppol-e-invoicing-to-your-saas-without-making-it-your-teams-problem-1jj7)
-- [I Built a Hermes Agent to Tell Me Which Hackathons to Enter. It Told Me to Enter This One.](https://dev.to/earlgreyhot1701d/i-built-a-hermes-agent-to-tell-me-which-hackathons-to-enter-it-told-me-to-enter-this-one-jh2)
+- [AllasCode Intitute / FullAgenticStack: The Intent-Based Router](https://dev.to/fullagenticstack/allascode-intitute-fullagenticstack-the-intent-based-router-a6d)
+- [Introducing LogicGrid — Multi-Agent AI Orchestration for .NET](https://dev.to/logicgriddev/introducing-logicgrid-multi-agent-ai-orchestration-for-net-3380)
+- [AI Prompt Injection, Drupal SQLi Exploitation, and Nmap for Hardening](https://dev.to/soytuber/ai-prompt-injection-drupal-sqli-exploitation-and-nmap-for-hardening-32nd)
+- [AI Agents &amp; Python Workflows: Anthropic Skills, Jupyter Challenges, and Edge Deployment](https://dev.to/soytuber/ai-agents-python-workflows-anthropic-skills-jupyter-challenges-and-edge-deployment-3kk9)
+- [SQLite Optimization, PostgreSQL Async Queries, &amp; DuckLake Dataframe Spec](https://dev.to/soytuber/sqlite-optimization-postgresql-async-queries-ducklake-dataframe-spec-4c3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
