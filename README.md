@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A prompt is not a conversation. It&#39;s a component contract.](https://dev.to/csalda3a/a-prompt-is-not-a-conversation-its-a-component-contract-4jk8)
-- [How to Pass the EAA 2025 Accessibility Audit — A Step-by-Step WCAG Checklist](https://dev.to/toolkitonline/how-to-pass-the-eaa-2025-accessibility-audit-a-step-by-step-wcag-checklist-1kl)
-- [Building an Autonomous MCP Lead Generation System with Hermes Agent](https://dev.to/nujovich/building-an-autonomous-mcp-lead-generation-system-with-hermes-agent-gf4)
-- [LangGraph 워크플로우 템플릿 &lpar;v40&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v40-195l)
-- [How I Built 100 Browser-Based Image Tools With No Server &lpar;FFmpeg WASM, PDF-lib, AI Background Removal&rpar;](https://dev.to/imgtoolkit/how-i-built-100-browser-based-image-tools-with-no-server-ffmpeg-wasm-pdf-lib-ai-background-5838)
+- [SCS-Lab1 — CloudTrail: Trail + S3 + KMS + Log Validation](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2)
+- [How the Events Table That Looked Right Killed Our Queue](https://dev.to/dev-architecture-blog/how-the-events-table-that-looked-right-killed-our-queue-4gnl)
+- [Three Failures My AI Memory System Tested — And the Flaw It Revealed in Itself](https://dev.to/zep1997/three-failures-my-ai-memory-system-caught-and-the-flaw-it-revealed-in-itself-186c)
+- [dotnet Framework life cycle tool](https://dev.to/karenpayneoregon/dotnet-framework-life-cycle-tool-103d)
+- [LangGraph 워크플로우 템플릿 &lpar;v41&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v41-2iap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
