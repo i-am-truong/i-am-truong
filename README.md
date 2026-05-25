@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring AI workflow Orchestration: Comparing Weft, Python &amp; Alternative Pipeline Approaches](https://dev.to/rpreetha/exploring-ai-workflow-orchestration-comparing-weft-python-alternative-pipeline-approaches-82g)
-- [El Poder del Aprendizaje Federado: Cuando los Algoritmos Distribuidos Entrenan a la IA](https://dev.to/hernndez_juarezfernando/el-poder-del-aprendizaje-federado-cuando-los-algoritmos-distribuidos-entrenan-a-la-ia-4imd)
-- [Email Marketing Automation in 2026: 5 Tools &lpar;and 1 Self-Hosted&rpar; Through Their APIs](https://dev.to/trackstack/email-marketing-automation-in-2026-5-tools-and-1-self-hosted-through-their-apis-5fo3)
-- [A Replay Runbook For Missed Publishing Windows](https://dev.to/yash_pritwani_07a77613fd6/a-replay-runbook-for-missed-publishing-windows-27ko)
-- [Why timeout handling matters more than most backend logic](https://dev.to/jayesh_pamnani_4ecb1c7338/why-timeout-handling-matters-more-than-most-backend-logic-2me9)
+- [Class and Pseudo Class](https://dev.to/dev_saravanan_journey/class-and-pseudo-class-3hk9)
+- [Git &amp; GitLab Basics](https://dev.to/ezhil_abinayak_e38eec8fb/git-gitlab-basics-kj3)
+- [고객은 우리를 사기꾼으로 봤다: 아무도 믿지 않는 신사업을 단 둘이서 검증한 3개월](https://dev.to/jycho94/gogaegeun-urireul-sagigguneuro-bwassda-amudo-midji-anhneun-sinsaeobeul-dan-duliseo-geomjeunghan-3gaeweol-57m3)
+- [Cron Not Working on Mac? How to Fix the macOS Sleep Trap with launchd](https://dev.to/arjun_adhikari_4ac4ca1052/cron-not-working-on-mac-how-to-fix-the-macos-sleep-trap-with-launchd-3l4g)
+- [Cache Everything: Advanced Caching Strategies in Vue 3 &amp; Nuxt 4](https://dev.to/parsajiravand/cache-everything-advanced-caching-strategies-in-vue-3-nuxt-4-bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
