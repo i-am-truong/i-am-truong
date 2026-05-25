@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Flutter Has Become the Go-To Framework for Fintech App Development](https://dev.to/sanket-parmar/why-flutter-has-become-the-go-to-framework-for-fintech-app-development-4c0c)
-- [We built a scripting language just for AI agents. Here&#39;s why.](https://dev.to/hoanluong123/we-built-a-scripting-language-just-for-ai-agents-heres-why-1gm9)
-- [Stop building AI inboxes. Build decision layers instead.](https://dev.to/k08200/stop-building-ai-inboxes-build-decision-layers-instead-3id7)
-- [Meme Monday](https://dev.to/ben/meme-monday-194f)
-- [Why I Built @editora/ui-react?](https://dev.to/ajaykr089/why-i-built-editoraui-react-27hj)
+- [The Hidden Cost of Downtime: How SRE Error Budgets Protect National Economic Infrastructure](https://dev.to/npayyappilly/the-hidden-cost-of-downtime-how-sre-error-budgets-protect-national-economic-infrastructure-h4j)
+- [Getting started with openHUMANS can be an exciting venture for developers looking to create innovative applications in the realm of human-ce](https://dev.to/autonomousworld/getting-started-with-openhumans-can-be-an-exciting-venture-for-developers-looking-to-create-266e)
+- [From Language Models to Humanoid Minds ✨](https://dev.to/hemant_007/from-language-models-to-humanoid-minds-2ip5)
+- [Road to Senior #2: How Computers Think in Numbers](https://dev.to/danielledvina/road-to-senior-how-computers-think-in-numbers-1mec)
+- [How to Deploy a LangGraph Agent on AWS Bedrock AgentCore](https://dev.to/vfazal/how-to-deploy-a-langgraph-agent-on-aws-bedrock-agentcore-2a9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
