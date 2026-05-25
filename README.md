@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GoBadge Dynamic: From Module Stats to Universal Badges](https://dev.to/cinfinitedev_engine/gobadge-dynamic-from-module-stats-to-universal-badges-361l)
-- [LangGraph 워크플로우 템플릿 &lpar;v39&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v39-293)
-- [The git Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-git-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-2gb8)
-- [Six Levels of MCP Servers](https://dev.to/david_golverdingen_b133a5/six-levels-of-mcp-servers-2b25)
-- [One container to replace Grafana + Loki + Tempo + Prometheus](https://dev.to/adiakys/one-container-to-replace-grafana-loki-tempo-prometheus-1kki)
+- [A prompt is not a conversation. It&#39;s a component contract.](https://dev.to/csalda3a/a-prompt-is-not-a-conversation-its-a-component-contract-4jk8)
+- [How to Pass the EAA 2025 Accessibility Audit — A Step-by-Step WCAG Checklist](https://dev.to/toolkitonline/how-to-pass-the-eaa-2025-accessibility-audit-a-step-by-step-wcag-checklist-1kl)
+- [Building an Autonomous MCP Lead Generation System with Hermes Agent](https://dev.to/nujovich/building-an-autonomous-mcp-lead-generation-system-with-hermes-agent-gf4)
+- [LangGraph 워크플로우 템플릿 &lpar;v40&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v40-195l)
+- [How I Built 100 Browser-Based Image Tools With No Server &lpar;FFmpeg WASM, PDF-lib, AI Background Removal&rpar;](https://dev.to/imgtoolkit/how-i-built-100-browser-based-image-tools-with-no-server-ffmpeg-wasm-pdf-lib-ai-background-5838)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
