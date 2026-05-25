@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI résumé tool that refuses to lie about your experience](https://dev.to/jaberoma_77/i-built-an-ai-resume-tool-that-refuses-to-lie-about-your-experience-n7b)
-- [Azure Entra ID User &amp; Role Management — Step-by-Step Practical Guide With A Simple Excercise](https://dev.to/olakunle_makanjuola_92754/azure-entra-id-user-role-management-step-by-step-practical-guide-with-a-simple-excercise-3h5n)
-- [Why I built Trinavo for the MENA merchants Western platforms ignore](https://dev.to/doonfrs/why-i-built-trinavo-for-the-mena-merchants-western-platforms-ignore-pap)
-- [The N+1 Query That Killed Our Database, And How I Fixed It](https://dev.to/ezeanamichael/the-n1-query-that-killed-our-database-and-how-i-fixed-it-2al5)
-- [Docstrings vs Markdown Docs: What Should Developers Actually Write?](https://dev.to/wonderer-tech/docstrings-vs-markdown-docs-what-should-developers-actually-write-3hb7)
+- [LangGraph 워크플로우 템플릿 &lpar;v38&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v38-1081)
+- [Sustainable AI Starts with Efficient AI](https://dev.to/pruna-ai/sustainable-ai-starts-with-efficient-ai-1i61)
+- [Find Remove duplicated files in Google Drive](https://dev.to/phuongtran/find-remove-duplicated-files-in-google-drive-4kk1)
+- [How to Detect GPU Waste in a Kubernetes Cluster](https://dev.to/sam_hosseini_4b7dd131c8ee/how-to-detect-gpu-waste-in-a-kubernetes-cluster-594f)
+- [The Privacy Bug in My First Chrome Extension &lpar;And How to Avoid It&rpar;](https://dev.to/khaled_kmp/the-privacy-bug-in-my-first-chrome-extension-and-how-to-avoid-it-1ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
