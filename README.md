@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Pointer Hooks: Hover, Long-Press, Double-Click, Scratch, and Click-Outside Without the Bugs](https://dev.to/childrentime/react-pointer-hooks-hover-long-press-double-click-scratch-and-click-outside-without-the-bugs-1pfb)
-- [Engineering decisions for my video call tool](https://dev.to/prgrmr/engineering-decisions-for-my-video-call-tool-1167)
-- [The End of Web Scraping: Introducing WebMCP &amp; Chrome DevTools for Agents](https://dev.to/ajaymourya/the-end-of-web-scraping-introducing-webmcp-chrome-devtools-for-agents-4k81)
-- [Treasure Hunt Engine: Where Optimism Meets Reality](https://dev.to/built-from-africa/treasure-hunt-engine-where-optimism-meets-reality-1dn8)
-- [Building a comfortable workflow for debugging an old version of the Linux kernel](https://dev.to/ddupard/building-a-comfortable-workflow-for-debugging-an-old-version-of-the-linux-kernel-557c)
+- [Exploring AI workflow Orchestration: Comparing Weft, Python &amp; Alternative Pipeline Approaches](https://dev.to/rpreetha/exploring-ai-workflow-orchestration-comparing-weft-python-alternative-pipeline-approaches-82g)
+- [El Poder del Aprendizaje Federado: Cuando los Algoritmos Distribuidos Entrenan a la IA](https://dev.to/hernndez_juarezfernando/el-poder-del-aprendizaje-federado-cuando-los-algoritmos-distribuidos-entrenan-a-la-ia-4imd)
+- [Email Marketing Automation in 2026: 5 Tools &lpar;and 1 Self-Hosted&rpar; Through Their APIs](https://dev.to/trackstack/email-marketing-automation-in-2026-5-tools-and-1-self-hosted-through-their-apis-5fo3)
+- [A Replay Runbook For Missed Publishing Windows](https://dev.to/yash_pritwani_07a77613fd6/a-replay-runbook-for-missed-publishing-windows-27ko)
+- [Why timeout handling matters more than most backend logic](https://dev.to/jayesh_pamnani_4ecb1c7338/why-timeout-handling-matters-more-than-most-backend-logic-2me9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
