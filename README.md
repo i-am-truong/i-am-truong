@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Downtime: How SRE Error Budgets Protect National Economic Infrastructure](https://dev.to/npayyappilly/the-hidden-cost-of-downtime-how-sre-error-budgets-protect-national-economic-infrastructure-h4j)
-- [Getting started with openHUMANS can be an exciting venture for developers looking to create innovative applications in the realm of human-ce](https://dev.to/autonomousworld/getting-started-with-openhumans-can-be-an-exciting-venture-for-developers-looking-to-create-266e)
-- [From Language Models to Humanoid Minds ✨](https://dev.to/hemant_007/from-language-models-to-humanoid-minds-2ip5)
-- [Road to Senior #2: How Computers Think in Numbers](https://dev.to/danielledvina/road-to-senior-how-computers-think-in-numbers-1mec)
-- [How to Deploy a LangGraph Agent on AWS Bedrock AgentCore](https://dev.to/vfazal/how-to-deploy-a-langgraph-agent-on-aws-bedrock-agentcore-2a9p)
+- [I built an AI résumé tool that refuses to lie about your experience](https://dev.to/jaberoma_77/i-built-an-ai-resume-tool-that-refuses-to-lie-about-your-experience-n7b)
+- [Azure Entra ID User &amp; Role Management — Step-by-Step Practical Guide With A Simple Excercise](https://dev.to/olakunle_makanjuola_92754/azure-entra-id-user-role-management-step-by-step-practical-guide-with-a-simple-excercise-3h5n)
+- [Why I built Trinavo for the MENA merchants Western platforms ignore](https://dev.to/doonfrs/why-i-built-trinavo-for-the-mena-merchants-western-platforms-ignore-pap)
+- [The N+1 Query That Killed Our Database, And How I Fixed It](https://dev.to/ezeanamichael/the-n1-query-that-killed-our-database-and-how-i-fixed-it-2al5)
+- [Docstrings vs Markdown Docs: What Should Developers Actually Write?](https://dev.to/wonderer-tech/docstrings-vs-markdown-docs-what-should-developers-actually-write-3hb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
