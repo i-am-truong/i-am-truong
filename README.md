@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vestige: A Gemma 4 Brain Tracker That Won&#39;t Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
-- [Gemminate: Transforming Static Textbooks into Interactive Learning Journeys with Gemma 4](https://dev.to/folefac_martins_44a2bca70/gemminate-transforming-static-textbooks-into-interactive-learning-journeys-with-gemma-4-65g)
-- [Where Did All the Code Playgrounds Go?](https://dev.to/madrigal-a/where-did-all-the-code-playgrounds-go-4lk2)
-- [I built PROOFER - Privacy first Chrome extension that proofreads your texts using Gemma 4](https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7)
-- [I Automated My Entire Digital Product Business on a $13/Month GCP VM. Here&#39;s the Architecture.](https://dev.to/contrite42/i-automated-my-entire-digital-product-business-on-a-13month-gcp-vm-heres-the-architecture-1imb)
+- [React Pointer Hooks: Hover, Long-Press, Double-Click, Scratch, and Click-Outside Without the Bugs](https://dev.to/childrentime/react-pointer-hooks-hover-long-press-double-click-scratch-and-click-outside-without-the-bugs-1pfb)
+- [Engineering decisions for my video call tool](https://dev.to/prgrmr/engineering-decisions-for-my-video-call-tool-1167)
+- [The End of Web Scraping: Introducing WebMCP &amp; Chrome DevTools for Agents](https://dev.to/ajaymourya/the-end-of-web-scraping-introducing-webmcp-chrome-devtools-for-agents-4k81)
+- [Treasure Hunt Engine: Where Optimism Meets Reality](https://dev.to/built-from-africa/treasure-hunt-engine-where-optimism-meets-reality-1dn8)
+- [Building a comfortable workflow for debugging an old version of the Linux kernel](https://dev.to/ddupard/building-a-comfortable-workflow-for-debugging-an-old-version-of-the-linux-kernel-557c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
