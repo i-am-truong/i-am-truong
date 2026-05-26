@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Future class in Dart](https://dev.to/niamtokik/the-future-class-in-dart-37dk)
-- [Building a Lightweight Crypto Trading Monitor: From Idea to Open Source](https://dev.to/rdin777/building-a-lightweight-crypto-trading-monitor-from-idea-to-open-source-1cn0)
-- [Stop posting boring black-and-white screenshots of your code. I built a free tool to fix this.](https://dev.to/ritesh_kumar_ad57de7b168b/stop-posting-boring-black-and-white-screenshots-of-your-code-i-built-a-free-tool-to-fix-this-2gd3)
-- [The Mind of Ada Lovelace: How a Victorian Woman Invented the Future of Coding](https://dev.to/bioshistory/the-mind-of-ada-lovelace-how-a-victorian-woman-invented-the-future-of-coding-4o7i)
-- [Why Real Browser Automation Is Replacing Simple HTTP Scraping](https://dev.to/promptcloud_services/why-real-browser-automation-is-replacing-simple-http-scraping-58m5)
+- [Stop Avoiding Bitwise Operators](https://dev.to/ainga/stop-avoiding-bitwise-operators-b2g)
+- [ERP Product Tree Denormalization: The Maintenance and Scale Conundrum](https://dev.to/merbayerp/erp-product-tree-denormalization-the-maintenance-and-scale-conundrum-5957)
+- [We Leaked 1,368 Customers into Our LIVE Stripe Account via E2E Tests](https://dev.to/lawebe/we-leaked-1368-customers-into-our-live-stripe-account-via-e2e-tests-58kk)
+- [Overlay Widgets vs Real WCAG Scanners: A 2026 Buyer&amp;apos;s Guide](https://dev.to/lawebe/overlay-widgets-vs-real-wcag-scanners-a-2026-buyeraposs-guide-1mha)
+- [How an Accessibility SaaS Broke Its Own Landing &lpar;and How We Fixed It&rpar;](https://dev.to/lawebe/how-an-accessibility-saas-broke-its-own-landing-and-how-we-fixed-it-5802)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
