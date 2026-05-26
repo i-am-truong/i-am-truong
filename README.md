@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Programmatic SEO Site with 16,750 Pages Using FastAPI and PostgreSQL](https://dev.to/lactustech/how-i-built-a-programmatic-seo-site-with-16750-pages-using-fastapi-and-postgresql-33ji)
-- [I Built an AI Agent That Tells Me When to Go Wing Foiling](https://dev.to/vsenger/i-built-an-ai-agent-that-tells-me-when-to-go-wing-foiling-46p)
-- [Toward a Standard Model for Agent Memory](https://dev.to/dannwaneri/toward-a-standard-model-for-agent-memory-3807)
-- [Does Every Developer Need a Figma Dev Mode Seat? An Honest 2026 Review](https://dev.to/tgospodinov/does-every-developer-need-a-figma-dev-mode-seat-an-honest-2026-review-1b1c)
-- [I Applied SLA Concepts to My Email Inbox — Here&#39;s What I Learned Building the Chrome Extension](https://dev.to/ktg0215/i-applied-sla-concepts-to-my-email-inbox-heres-what-i-learned-building-the-chrome-extension-3dmh)
+- [Qwen Is Not Yet Ready to Power Local OpenClaw Deployments](https://dev.to/carryologist/qwen-is-not-yet-ready-to-power-local-openclaw-deployments-5ha3)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na)
+- [Why I got frustrated with AI job search tools and built my own](https://dev.to/prateek_puri_a081b16b1c2d/why-i-got-frustrated-with-ai-job-search-tools-and-built-my-own-11ja)
+- [10 Best Open-Source AI Agents for 2026](https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p)
+- [Contract Analysis Will Replace Legal Gatekeeping](https://dev.to/jonomor_ecosystem/contract-analysis-will-replace-legal-gatekeeping-1p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
