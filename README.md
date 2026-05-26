@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCS-Lab1 — CloudTrail: Trail + S3 + KMS + Log Validation](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2)
-- [How the Events Table That Looked Right Killed Our Queue](https://dev.to/dev-architecture-blog/how-the-events-table-that-looked-right-killed-our-queue-4gnl)
-- [Three Failures My AI Memory System Tested — And the Flaw It Revealed in Itself](https://dev.to/zep1997/three-failures-my-ai-memory-system-caught-and-the-flaw-it-revealed-in-itself-186c)
-- [dotnet Framework life cycle tool](https://dev.to/karenpayneoregon/dotnet-framework-life-cycle-tool-103d)
-- [LangGraph 워크플로우 템플릿 &lpar;v41&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v41-2iap)
+- [VCP-Virtual Private Cloud](https://dev.to/supul_gintota_4fbe1ec4ced/vcp-virtual-private-cloud-5hbe)
+- [RAG 시스템 실전 구축 &lpar;v42&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v42-377d)
+- [copilot cloud agent is becoming an automation api](https://dev.to/pvgomes/copilot-cloud-agent-is-becoming-an-automation-api-3e0l)
+- [Cx Dev Log — 2026-04-23](https://dev.to/commenterthe9/cx-dev-log-2026-04-23-1pki)
+- [Why Tesla Is Becoming the AI Enterprise Case Study Every Leader Should Understand](https://dev.to/eagleeyethinker/why-tesla-is-becoming-the-ai-enterprise-case-study-every-leader-should-understand-2ca4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
