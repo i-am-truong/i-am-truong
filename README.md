@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Vector Search Engine from Scratch: The Math and Mechanics of HNSW](https://dev.to/ebendttl/building-a-vector-search-engine-from-scratch-the-math-and-mechanics-of-hnsw-4om3)
-- [Technical Due Diligence Checklist for Startup Investors &lpar;2026&rpar;](https://dev.to/themuneebh/technical-due-diligence-checklist-for-startup-investors-2026-2akg)
-- [My AI agent ran overnight and I woke up to a $47 bill — so I built a kill-switch](https://dev.to/robat_das_3c6e956212f6408/my-ai-agent-ran-overnight-and-i-woke-up-to-a-47-bill-so-i-built-a-kill-switch-3c9)
-- [Run your first AI agent in Java — for free, with Mistral](https://dev.to/asekka/run-your-first-ai-agent-in-java-for-free-with-mistral-3dhj)
-- [The Joke Worked: Building an AI-Powered COBOL Meeting Auditor with Hermes Agent](https://dev.to/kenwalger/the-joke-worked-building-an-ai-powered-cobol-meeting-auditor-with-hermes-agent-1d4f)
+- [Use Blunt Prompts and Get Shit Done](https://dev.to/suckup_de/use-blunt-prompts-and-get-shit-done-4mdd)
+- [MCP servers are just REST APIs in a polite wrapper - here&#39;s 5 lines of Python](https://dev.to/connerlambden/mcp-servers-are-just-rest-apis-in-a-polite-wrapper-heres-5-lines-of-python-58pn)
+- [I Got Tired of LLMs Hallucinating Compliance, So I Built an Open-Source Governance Layer](https://dev.to/nelson_amaya_16872e58232b/i-got-tired-of-llms-hallucinating-compliance-so-i-built-an-open-source-governance-layer-3geg)
+- [Containers &amp; Agents with Docker &amp; OpenClaw](https://dev.to/pawper/containers-agents-with-docker-openclaw-4pbd)
+- [All About AI &amp; Using Claude](https://dev.to/pawper/all-about-ai-using-claude-385e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
