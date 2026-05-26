@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VCP-Virtual Private Cloud](https://dev.to/supul_gintota_4fbe1ec4ced/vcp-virtual-private-cloud-5hbe)
-- [RAG 시스템 실전 구축 &lpar;v42&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v42-377d)
-- [copilot cloud agent is becoming an automation api](https://dev.to/pvgomes/copilot-cloud-agent-is-becoming-an-automation-api-3e0l)
-- [Cx Dev Log — 2026-04-23](https://dev.to/commenterthe9/cx-dev-log-2026-04-23-1pki)
-- [Why Tesla Is Becoming the AI Enterprise Case Study Every Leader Should Understand](https://dev.to/eagleeyethinker/why-tesla-is-becoming-the-ai-enterprise-case-study-every-leader-should-understand-2ca4)
+- [How we connect two strangers&#39; webcams fast &lpar;and keep the TURN bill small&rpar;](https://dev.to/camdiv/how-we-connect-two-strangers-webcams-fast-and-keep-the-turn-bill-small-4fcc)
+- [LLM Agents Are Now Finding Zero-Days: How AI is Autonomously Rewriting the Rules of Vulnerability Research](https://dev.to/monuminu/llm-agents-are-now-finding-zero-days-how-ai-is-autonomously-rewriting-the-rules-of-vulnerability-3d2i)
+- [Minimal Code Doesn’t Mean Stable Code](https://dev.to/adamthedeveloper/minimal-code-doesnt-mean-stable-code-4mbd)
+- [How I manage 40+ skills across Claude Code, Codex, and .agents folders](https://dev.to/bso_ba7259e2ef221ebb7166a/how-i-manage-40-skills-across-claude-code-codex-and-agents-folders-1aal)
+- [Hardening Stealth Browser Fingerprint Integrity and State Persistence](https://dev.to/evgeniy_karafinka_ae5681c/hardening-stealth-browser-fingerprint-integrity-and-state-persistence-4dll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
