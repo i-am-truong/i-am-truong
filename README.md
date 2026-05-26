@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qwen Is Not Yet Ready to Power Local OpenClaw Deployments](https://dev.to/carryologist/qwen-is-not-yet-ready-to-power-local-openclaw-deployments-5ha3)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na)
-- [Why I got frustrated with AI job search tools and built my own](https://dev.to/prateek_puri_a081b16b1c2d/why-i-got-frustrated-with-ai-job-search-tools-and-built-my-own-11ja)
-- [10 Best Open-Source AI Agents for 2026](https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p)
-- [Contract Analysis Will Replace Legal Gatekeeping](https://dev.to/jonomor_ecosystem/contract-analysis-will-replace-legal-gatekeeping-1p8)
+- [Building a Vector Search Engine from Scratch: The Math and Mechanics of HNSW](https://dev.to/ebendttl/building-a-vector-search-engine-from-scratch-the-math-and-mechanics-of-hnsw-4om3)
+- [Technical Due Diligence Checklist for Startup Investors &lpar;2026&rpar;](https://dev.to/themuneebh/technical-due-diligence-checklist-for-startup-investors-2026-2akg)
+- [My AI agent ran overnight and I woke up to a $47 bill — so I built a kill-switch](https://dev.to/robat_das_3c6e956212f6408/my-ai-agent-ran-overnight-and-i-woke-up-to-a-47-bill-so-i-built-a-kill-switch-3c9)
+- [Run your first AI agent in Java — for free, with Mistral](https://dev.to/asekka/run-your-first-ai-agent-in-java-for-free-with-mistral-3dhj)
+- [The Joke Worked: Building an AI-Powered COBOL Meeting Auditor with Hermes Agent](https://dev.to/kenwalger/the-joke-worked-building-an-ai-powered-cobol-meeting-auditor-with-hermes-agent-1d4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
