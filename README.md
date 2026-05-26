@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Avoiding Bitwise Operators](https://dev.to/ainga/stop-avoiding-bitwise-operators-b2g)
-- [ERP Product Tree Denormalization: The Maintenance and Scale Conundrum](https://dev.to/merbayerp/erp-product-tree-denormalization-the-maintenance-and-scale-conundrum-5957)
-- [We Leaked 1,368 Customers into Our LIVE Stripe Account via E2E Tests](https://dev.to/lawebe/we-leaked-1368-customers-into-our-live-stripe-account-via-e2e-tests-58kk)
-- [Overlay Widgets vs Real WCAG Scanners: A 2026 Buyer&amp;apos;s Guide](https://dev.to/lawebe/overlay-widgets-vs-real-wcag-scanners-a-2026-buyeraposs-guide-1mha)
-- [How an Accessibility SaaS Broke Its Own Landing &lpar;and How We Fixed It&rpar;](https://dev.to/lawebe/how-an-accessibility-saas-broke-its-own-landing-and-how-we-fixed-it-5802)
+- [How I Built a Programmatic SEO Site with 16,750 Pages Using FastAPI and PostgreSQL](https://dev.to/lactustech/how-i-built-a-programmatic-seo-site-with-16750-pages-using-fastapi-and-postgresql-33ji)
+- [I Built an AI Agent That Tells Me When to Go Wing Foiling](https://dev.to/vsenger/i-built-an-ai-agent-that-tells-me-when-to-go-wing-foiling-46p)
+- [Toward a Standard Model for Agent Memory](https://dev.to/dannwaneri/toward-a-standard-model-for-agent-memory-3807)
+- [Does Every Developer Need a Figma Dev Mode Seat? An Honest 2026 Review](https://dev.to/tgospodinov/does-every-developer-need-a-figma-dev-mode-seat-an-honest-2026-review-1b1c)
+- [I Applied SLA Concepts to My Email Inbox — Here&#39;s What I Learned Building the Chrome Extension](https://dev.to/ktg0215/i-applied-sla-concepts-to-my-email-inbox-heres-what-i-learned-building-the-chrome-extension-3dmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
