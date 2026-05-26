@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How we connect two strangers&#39; webcams fast &lpar;and keep the TURN bill small&rpar;](https://dev.to/camdiv/how-we-connect-two-strangers-webcams-fast-and-keep-the-turn-bill-small-4fcc)
-- [LLM Agents Are Now Finding Zero-Days: How AI is Autonomously Rewriting the Rules of Vulnerability Research](https://dev.to/monuminu/llm-agents-are-now-finding-zero-days-how-ai-is-autonomously-rewriting-the-rules-of-vulnerability-3d2i)
-- [Minimal Code Doesn’t Mean Stable Code](https://dev.to/adamthedeveloper/minimal-code-doesnt-mean-stable-code-4mbd)
-- [How I manage 40+ skills across Claude Code, Codex, and .agents folders](https://dev.to/bso_ba7259e2ef221ebb7166a/how-i-manage-40-skills-across-claude-code-codex-and-agents-folders-1aal)
-- [Hardening Stealth Browser Fingerprint Integrity and State Persistence](https://dev.to/evgeniy_karafinka_ae5681c/hardening-stealth-browser-fingerprint-integrity-and-state-persistence-4dll)
+- [The Future class in Dart](https://dev.to/niamtokik/the-future-class-in-dart-37dk)
+- [Building a Lightweight Crypto Trading Monitor: From Idea to Open Source](https://dev.to/rdin777/building-a-lightweight-crypto-trading-monitor-from-idea-to-open-source-1cn0)
+- [Stop posting boring black-and-white screenshots of your code. I built a free tool to fix this.](https://dev.to/ritesh_kumar_ad57de7b168b/stop-posting-boring-black-and-white-screenshots-of-your-code-i-built-a-free-tool-to-fix-this-2gd3)
+- [The Mind of Ada Lovelace: How a Victorian Woman Invented the Future of Coding](https://dev.to/bioshistory/the-mind-of-ada-lovelace-how-a-victorian-woman-invented-the-future-of-coding-4o7i)
+- [Why Real Browser Automation Is Replacing Simple HTTP Scraping](https://dev.to/promptcloud_services/why-real-browser-automation-is-replacing-simple-http-scraping-58m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
