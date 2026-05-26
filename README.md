@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Use Blunt Prompts and Get Shit Done](https://dev.to/suckup_de/use-blunt-prompts-and-get-shit-done-4mdd)
-- [MCP servers are just REST APIs in a polite wrapper - here&#39;s 5 lines of Python](https://dev.to/connerlambden/mcp-servers-are-just-rest-apis-in-a-polite-wrapper-heres-5-lines-of-python-58pn)
-- [I Got Tired of LLMs Hallucinating Compliance, So I Built an Open-Source Governance Layer](https://dev.to/nelson_amaya_16872e58232b/i-got-tired-of-llms-hallucinating-compliance-so-i-built-an-open-source-governance-layer-3geg)
-- [Containers &amp; Agents with Docker &amp; OpenClaw](https://dev.to/pawper/containers-agents-with-docker-openclaw-4pbd)
-- [All About AI &amp; Using Claude](https://dev.to/pawper/all-about-ai-using-claude-385e)
+- [TIL 5/22/2026](https://dev.to/nofoster/til-5222026-1668)
+- [How We Shipped more than 60 Design System Components in 5 Weeks Using Figma as the Single Source of Truth](https://dev.to/akollu72/how-we-shipped-60-design-system-components-in-5-weeks-using-figma-as-the-single-source-of-truth-1lkc)
+- [Why HVAC Owners Lose More Money in the Office Than They Make in the Field](https://dev.to/nevermiss/why-hvac-owners-lose-more-money-in-the-office-than-they-make-in-the-field-al3)
+- [What will you think of when you read about a neural network!!? Mathematics? 🤔](https://dev.to/_hm/-39k2)
+- [I Built a Free Finance Dashboard as a Solo Dev — Here&#39;s What I Learned](https://dev.to/collectcx/i-built-a-free-finance-dashboard-as-a-solo-dev-heres-what-i-learned-43ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
