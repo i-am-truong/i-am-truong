@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TIL 5/22/2026](https://dev.to/nofoster/til-5222026-1668)
-- [How We Shipped more than 60 Design System Components in 5 Weeks Using Figma as the Single Source of Truth](https://dev.to/akollu72/how-we-shipped-60-design-system-components-in-5-weeks-using-figma-as-the-single-source-of-truth-1lkc)
-- [Why HVAC Owners Lose More Money in the Office Than They Make in the Field](https://dev.to/nevermiss/why-hvac-owners-lose-more-money-in-the-office-than-they-make-in-the-field-al3)
-- [What will you think of when you read about a neural network!!? Mathematics? 🤔](https://dev.to/_hm/-39k2)
-- [I Built a Free Finance Dashboard as a Solo Dev — Here&#39;s What I Learned](https://dev.to/collectcx/i-built-a-free-finance-dashboard-as-a-solo-dev-heres-what-i-learned-43ek)
+- [MartinLoop: a control plane for AI coding agents](https://dev.to/cryptokeesan/martinloop-a-control-plane-for-ai-coding-agents-3dg5)
+- [Stop Cloning Entire Repos for Your Doc Builds](https://dev.to/saipramod/stop-cloning-entire-repos-for-your-doc-builds-28i0)
+- [Rux: A Modern Systems Programming Language Worth Watching](https://dev.to/natuworkguy/rux-a-modern-systems-programming-language-worth-watching-178o)
+- [Building calculatefreelance: A lightweight Next.js utility for the 1099 economy](https://dev.to/flo_1ea5a2c70fd4e87100928/building-calculatefreelance-a-lightweight-nextjs-utility-for-the-1099-economy-1bpf)
+- [MUDs — The Grandfather MMOs](https://dev.to/rds1983/muds-the-grandfather-mmos-12l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
