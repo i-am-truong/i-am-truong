@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Memory Providers: A Complete Breakdown for New Users](https://dev.to/paper_scratcher_bafb0086c/hermes-memory-providers-a-complete-breakdown-for-new-users-1ki3)
-- [How I Built a Cinematic Scroll Experience with GSAP and ScrollTrigger](https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj)
-- [I Built a Free Spelling Bee Solver and Analysis Tool — Here&#39;s What It Does](https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j)
-- [Stop Over-Engineering Your UI: Material 3 for Blazor &lpar;Without the JS State Management Nightmare&rpar;](https://dev.to/kourosz/stop-over-engineering-your-ui-material-3-for-blazor-without-the-js-state-management-nightmare-3co3)
-- [I just created the best web FullStack framework in Rust language: the Rullst! I did with the help of AI, but my tokens are over, can you help me?](https://dev.to/venelouis/i-just-created-the-best-web-fullstack-framework-in-rust-language-the-rullst-i-did-with-the-help-g74)
+- [I Should Have Put Events in the Same Database as the Aggregate Root—Heres What Happened](https://dev.to/dev-architecture-blog/i-should-have-put-events-in-the-same-database-as-the-aggregate-root-heres-what-happened-1dp3)
+- [The SilentRecon Agent Loop Architecture: How We Build AI That Doesn’t Stall](https://dev.to/cristiano_gabrieli_83f5f1/the-silentrecon-agent-loop-architecture-how-we-build-ai-that-doesnt-stall-1e48)
+- [How I Built a Dark Cinematic Restaurant Landing Page Template and Listed It For Sale](https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm)
+- [Claude Code Slash Commands You Should Know &lpar;I wasn&#39;t either&rpar;](https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf)
+- [&quot;7 Free GitHub Repos Every Beginner Should Star Right Now&quot;](https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
