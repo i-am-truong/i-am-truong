@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Exactly Encription is?](https://dev.to/ho3na3/what-exactly-encription-is-273g)
-- [Maintenance WordPress : les 7 incidents qui auraient pu être évités](https://dev.to/lyodefr/maintenance-wordpress-les-7-incidents-qui-auraient-pu-etre-evites-3456)
-- [CTEF v0.3.2 — the substrate gate just closed for cross-framework agent trust](https://dev.to/agentgraph/ctef-v032-the-substrate-gate-just-closed-for-cross-framework-agent-trust-2c0a)
-- [Transformers &amp; Agile Sprints: The Art of Incremental Evolution](https://dev.to/sreeni5018/transformers-agile-sprints-the-art-of-incremental-evolution-3411)
-- [How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files](https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi)
+- [Hermes Memory Providers: A Complete Breakdown for New Users](https://dev.to/paper_scratcher_bafb0086c/hermes-memory-providers-a-complete-breakdown-for-new-users-1ki3)
+- [How I Built a Cinematic Scroll Experience with GSAP and ScrollTrigger](https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj)
+- [I Built a Free Spelling Bee Solver and Analysis Tool — Here&#39;s What It Does](https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j)
+- [Stop Over-Engineering Your UI: Material 3 for Blazor &lpar;Without the JS State Management Nightmare&rpar;](https://dev.to/kourosz/stop-over-engineering-your-ui-material-3-for-blazor-without-the-js-state-management-nightmare-3co3)
+- [I just created the best web FullStack framework in Rust language: the Rullst! I did with the help of AI, but my tokens are over, can you help me?](https://dev.to/venelouis/i-just-created-the-best-web-fullstack-framework-in-rust-language-the-rullst-i-did-with-the-help-g74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
