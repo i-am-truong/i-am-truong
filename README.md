@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looping in Python](https://dev.to/sivakumar_mathiyalagan_/looping-in-python-52je)
-- [I Built a Retro Gaming Console Using ESP32 and OLED Display 🎮](https://dev.to/karthick965938/i-built-a-retro-gaming-console-using-esp32-and-oled-display-4k1d)
-- [ORA-00255 오류 원인과 해결 방법 완벽 가이드](https://dev.to/oraerror/ora-00255-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-1i4d)
-- [Why Hytale Treasure Hunt Servers Throttle at 100 Players &lpar;And How We Fixed It&rpar;](https://dev.to/built-from-africa/why-hytale-treasure-hunt-servers-throttle-at-100-players-and-how-we-fixed-it-3939)
-- [Product Update: Post-Quantum Cryptography meets &lt;1s Kubernetes Syncs](https://dev.to/ennote/product-update-post-quantum-cryptography-meets-1s-kubernetes-syncs-5bpf)
+- [Building Autonomous DeFi Agents on Arbitrum: From Events to Execution](https://dev.to/claudia-ve/building-autonomous-defi-agents-on-arbitrum-from-events-to-execution-5c4h)
+- [The One Cache That Broke Our Treasure Hunt Engine](https://dev.to/dev-architecture-blog/the-one-cache-that-broke-our-treasure-hunt-engine-425m)
+- [Why your AI chat reconnects but your session doesn&#39;t](https://dev.to/ably/why-your-ai-chat-reconnects-but-your-session-doesnt-36jg)
+- [Why I Built Tenurr: A Private Career Ledger and Document Vault for Engineers &lpar;And Solved &quot;Career Amnesia&quot;&rpar;](https://dev.to/inreachbit/why-i-built-tenurr-a-private-career-ledger-and-document-vault-for-engineers-and-solved-career-24c4)
+- [Rate Limiting in C# — Don&#39;t Let Your API Get Hammered](https://dev.to/printo_tom/rate-limiting-in-c-dont-let-your-api-get-hammered-4hjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
