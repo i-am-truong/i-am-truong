@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MartinLoop: a control plane for AI coding agents](https://dev.to/cryptokeesan/martinloop-a-control-plane-for-ai-coding-agents-3dg5)
-- [Stop Cloning Entire Repos for Your Doc Builds](https://dev.to/saipramod/stop-cloning-entire-repos-for-your-doc-builds-28i0)
-- [Rux: A Modern Systems Programming Language Worth Watching](https://dev.to/natuworkguy/rux-a-modern-systems-programming-language-worth-watching-178o)
-- [Building calculatefreelance: A lightweight Next.js utility for the 1099 economy](https://dev.to/flo_1ea5a2c70fd4e87100928/building-calculatefreelance-a-lightweight-nextjs-utility-for-the-1099-economy-1bpf)
-- [MUDs — The Grandfather MMOs](https://dev.to/rds1983/muds-the-grandfather-mmos-12l1)
+- [Looping in Python](https://dev.to/sivakumar_mathiyalagan_/looping-in-python-52je)
+- [I Built a Retro Gaming Console Using ESP32 and OLED Display 🎮](https://dev.to/karthick965938/i-built-a-retro-gaming-console-using-esp32-and-oled-display-4k1d)
+- [ORA-00255 오류 원인과 해결 방법 완벽 가이드](https://dev.to/oraerror/ora-00255-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-1i4d)
+- [Why Hytale Treasure Hunt Servers Throttle at 100 Players &lpar;And How We Fixed It&rpar;](https://dev.to/built-from-africa/why-hytale-treasure-hunt-servers-throttle-at-100-players-and-how-we-fixed-it-3939)
+- [Product Update: Post-Quantum Cryptography meets &lt;1s Kubernetes Syncs](https://dev.to/ennote/product-update-post-quantum-cryptography-meets-1s-kubernetes-syncs-5bpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
