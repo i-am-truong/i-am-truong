@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Privacy-First Discord Alternative](https://dev.to/allyapp/why-i-built-a-privacy-first-discord-alternative-1j6a)
-- [How Some Books Shaped My Way of Thinking](https://dev.to/ghrabla/how-some-books-shaped-my-way-of-thinking-4mjf)
-- [A 701-acre campus in Texas is treating physical distance like network latency — and re-architecting an entire supply chain to kill it](https://dev.to/lumina_surge_9f23e1b76747/a-701-acre-campus-in-texas-is-treating-physical-distance-like-network-latency-and-re-architecting-45pg)
-- [Beyond the Numbers: How Ada Lovelace Envisioned the Dawn of Symbolic Computation &lpar;1833–1834&rpar;](https://dev.to/bioshistory/beyond-the-numbers-how-ada-lovelace-envisioned-the-dawn-of-symbolic-computation-1833-1834-4f9i)
-- [Millwright-Inspector: A Methodology for Software Development with AI Coding Agents](https://dev.to/emin_akkoc/millwright-inspector-a-methodology-for-software-development-with-ai-coding-agents-p10)
+- [What Exactly Encription is?](https://dev.to/ho3na3/what-exactly-encription-is-273g)
+- [Maintenance WordPress : les 7 incidents qui auraient pu être évités](https://dev.to/lyodefr/maintenance-wordpress-les-7-incidents-qui-auraient-pu-etre-evites-3456)
+- [CTEF v0.3.2 — the substrate gate just closed for cross-framework agent trust](https://dev.to/agentgraph/ctef-v032-the-substrate-gate-just-closed-for-cross-framework-agent-trust-2c0a)
+- [Transformers &amp; Agile Sprints: The Art of Incremental Evolution](https://dev.to/sreeni5018/transformers-agile-sprints-the-art-of-incremental-evolution-3411)
+- [How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files](https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
