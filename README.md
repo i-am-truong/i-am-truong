@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Autonomous DeFi Agents on Arbitrum: From Events to Execution](https://dev.to/claudia-ve/building-autonomous-defi-agents-on-arbitrum-from-events-to-execution-5c4h)
-- [The One Cache That Broke Our Treasure Hunt Engine](https://dev.to/dev-architecture-blog/the-one-cache-that-broke-our-treasure-hunt-engine-425m)
-- [Why your AI chat reconnects but your session doesn&#39;t](https://dev.to/ably/why-your-ai-chat-reconnects-but-your-session-doesnt-36jg)
-- [Why I Built Tenurr: A Private Career Ledger and Document Vault for Engineers &lpar;And Solved &quot;Career Amnesia&quot;&rpar;](https://dev.to/inreachbit/why-i-built-tenurr-a-private-career-ledger-and-document-vault-for-engineers-and-solved-career-24c4)
-- [Rate Limiting in C# — Don&#39;t Let Your API Get Hammered](https://dev.to/printo_tom/rate-limiting-in-c-dont-let-your-api-get-hammered-4hjj)
+- [Polymarket 5分钟 BTC 真实剥头皮策略：Stale Order Book 狙击](https://dev.to/nevosaynevo/polymarket-5fen-zhong-btc-zhen-shi-bo-tou-pi-ce-lue-stale-order-book-ju-ji-2agj)
+- [Playwright MCP vs Rendershot MCP: choosing a browser MCP server in 2026](https://dev.to/rendershot/playwright-mcp-vs-rendershot-mcp-choosing-a-browser-mcp-server-in-2026-3kk2)
+- [How Real 5-Minute BTC Scalpers Work on Polymarket: Stale Order Book Sniping](https://dev.to/nevosaynevo/how-real-5-minute-btc-scalpers-work-on-polymarket-stale-order-book-sniping-4727)
+- [An Official Claude SDK for .NET? Yes, Really.](https://dev.to/iamprincejkc/an-official-claude-sdk-for-net-yes-really-2bdn)
+- [FlashAlpha vs Quant Data: What an AI Agent Can Actually Reason Over](https://dev.to/tomasz_dobrowolski_35d32c/flashalpha-vs-quant-data-what-an-ai-agent-can-actually-reason-over-39ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
