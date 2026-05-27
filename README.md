@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10.430 muertes, 10 preguntas y un pipeline en Python: lo que los datos de violencia policial en EE.UU. no te cuentan a simple vista](https://dev.to/evolve-space/10430-muertes-10-preguntas-y-un-pipeline-en-python-lo-que-los-datos-de-violencia-policial-en-54j6)
-- [Payment Provider Profiles for Agent Task Markets](https://dev.to/supertrained/payment-provider-profiles-for-agent-task-markets-56of)
-- [Dual Encoder vs Cross-Encoder: Why Your RAG Pipeline Needs Both](https://dev.to/krunalkanojiya/dual-encoder-vs-cross-encoder-why-your-rag-pipeline-needs-both-4bd)
-- [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
-- [When you bring your data home, who is going to keep an eye on it?](https://dev.to/justyn_larry_e12a0d9779f4/when-you-bring-your-data-home-who-is-going-to-keep-an-eye-on-it-gap)
+- [Why I Built a Privacy-First Discord Alternative](https://dev.to/allyapp/why-i-built-a-privacy-first-discord-alternative-1j6a)
+- [How Some Books Shaped My Way of Thinking](https://dev.to/ghrabla/how-some-books-shaped-my-way-of-thinking-4mjf)
+- [A 701-acre campus in Texas is treating physical distance like network latency — and re-architecting an entire supply chain to kill it](https://dev.to/lumina_surge_9f23e1b76747/a-701-acre-campus-in-texas-is-treating-physical-distance-like-network-latency-and-re-architecting-45pg)
+- [Beyond the Numbers: How Ada Lovelace Envisioned the Dawn of Symbolic Computation &lpar;1833–1834&rpar;](https://dev.to/bioshistory/beyond-the-numbers-how-ada-lovelace-envisioned-the-dawn-of-symbolic-computation-1833-1834-4f9i)
+- [Millwright-Inspector: A Methodology for Software Development with AI Coding Agents](https://dev.to/emin_akkoc/millwright-inspector-a-methodology-for-software-development-with-ai-coding-agents-p10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
