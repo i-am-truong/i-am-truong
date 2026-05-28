@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 Best AI TTS APIs in 2026](https://dev.to/agent-one/4-best-ai-tts-apis-in-2026-n43)
-- [Claude Opus 4.8: What Developers Need to Know About Anthropic&#39;s New Flagship](https://dev.to/comparedge_com/claude-opus-48-what-developers-need-to-know-about-anthropics-new-flagship-3m37)
-- [Full Stack Developer Looking for Internship Opportunities](https://dev.to/trojanmocx/full-stack-developer-looking-for-internship-opportunities-5amh)
-- [How Microservices Talk to Each Other Using WebClient](https://dev.to/devpabodha/how-microservices-talk-to-each-other-using-webclient-2lpn)
-- [After burning through tens of billions of tokens, I built an Android-like OS that runs entirely in the browser](https://dev.to/rui_hao_9e47ab3e86da7b802/after-burning-through-tens-of-billions-of-tokens-i-built-an-android-like-os-that-runs-entirely-in-3n02)
+- [The x3.16 Developer | Part 1](https://dev.to/amirarad/the-x316-developer-part-1-2jc4)
+- [bQuery.js Grows Up: From Tiny jQuery Tribute to a Full-Stack Framework — and a Brand New Home at bquery.js.org 🎉](https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa)
+- [I shipped super-time-tracker-ui, a local web UI for my CLI time sheets](https://dev.to/f3rnox/i-shipped-super-time-tracker-ui-a-local-web-ui-for-my-cli-time-sheets-574a)
+- [Before SQL, We Had to Tell Computers Everything. Then One Idea Changed That Forever.](https://dev.to/baldwin_apps/before-sql-we-had-to-tell-computers-everything-then-one-idea-changed-that-forever-3ddl)
+- [Why Distributed Transactions Fail and How the Outbox Pattern Helps](https://dev.to/morpheus-vera/why-distributed-transactions-fail-and-how-the-outbox-pattern-helps-1id4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
