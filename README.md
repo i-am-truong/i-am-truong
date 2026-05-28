@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The x3.16 Developer | Part 1](https://dev.to/amirarad/the-x316-developer-part-1-2jc4)
-- [bQuery.js Grows Up: From Tiny jQuery Tribute to a Full-Stack Framework — and a Brand New Home at bquery.js.org 🎉](https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa)
-- [I shipped super-time-tracker-ui, a local web UI for my CLI time sheets](https://dev.to/f3rnox/i-shipped-super-time-tracker-ui-a-local-web-ui-for-my-cli-time-sheets-574a)
-- [Before SQL, We Had to Tell Computers Everything. Then One Idea Changed That Forever.](https://dev.to/baldwin_apps/before-sql-we-had-to-tell-computers-everything-then-one-idea-changed-that-forever-3ddl)
-- [Why Distributed Transactions Fail and How the Outbox Pattern Helps](https://dev.to/morpheus-vera/why-distributed-transactions-fail-and-how-the-outbox-pattern-helps-1id4)
+- [You Don&#39;t Have to Learn Hermes From Scratch — I Brought My Existing Skills In](https://dev.to/yuens1002/you-dont-have-to-learn-hermes-from-scratch-i-brought-my-existing-skills-in-18f0)
+- [GHES Key Rotation, Bug Bounty Program Refocus, AI Agent Permission Fatigue](https://dev.to/soytuber/ghes-key-rotation-bug-bounty-program-refocus-ai-agent-permission-fatigue-d8i)
+- [RAG SOTA, Agent Harnessing, and Langfuse Observability for AI Frameworks](https://dev.to/soytuber/rag-sota-agent-harnessing-and-langfuse-observability-for-ai-frameworks-1ko5)
+- [RAG SOTA: I Tested 7 Pipelines and Built SEQUOIA &lpar;Open Source&rpar;](https://dev.to/__2ddbae6bb7d/rag-sota-i-tested-7-pipelines-and-built-sequoia-open-source-223o)
+- [Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent](https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
