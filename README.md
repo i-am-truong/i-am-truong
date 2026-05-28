@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying WebP to PNG: Secure Serverless Edge Routing Configurations Without Leaking Credentials](https://dev.to/aitranxuan/demystifying-webp-to-png-secure-serverless-edge-routing-configurations-without-leaking-credentials-3hl8)
-- [Age Verification&#39;s Dirty Secret: The Tech Works. The System Doesn&#39;t.](https://dev.to/caracomp/age-verifications-dirty-secret-the-tech-works-the-system-doesnt-28c8)
-- [Tipos de errores, Wrapping e Inspección en Go](https://dev.to/jcmexdev/tipos-de-errores-wrapping-e-inspeccion-en-go-345o)
-- [The Next Decade of Data Engineering: From Modern Data Stack to Data Engineering Harness](https://dev.to/seatunnel/the-next-decade-of-data-engineering-from-modern-data-stack-to-data-engineering-harness-4cjo)
-- [Tell me which LLM and cloud base suitable for creating agentic coding AI. it&#39;s all coverup the BMDA like
-1. Business Understanding
-2. Model / Architecture Design
-3. Agile Development
-4. Deployment &amp; Monitoring](https://dev.to/ananth_r_d397caa9d8c68cb0/tell-me-which-is-suitable-for-creating-agentic-coding-ai-its-all-coverup-the-bmda-like-1-2o8)
+- [I Built an MCP Agent Framework for My B.Tech Major Project. It Got 750+ npm Downloads in Week One. Here&#39;s the Comeback Story.](https://dev.to/om_shree_0709/i-built-an-mcp-agent-framework-for-my-btech-major-project-it-got-750-npm-downloads-in-week-one-14f1)
+- [From the Strait of Hormuz to Singapore: Building a Real-Time Ship Tracking Analyser with Flask and AISStream](https://dev.to/mafr1de/from-the-strait-of-hormuz-to-singapore-building-a-real-time-ship-tracking-analyser-with-flask-and-2g8m)
+- [I got tired of paying to emulate a 1970s terminal, so I built a native macOS client in C++ &lpar;DX3270&rpar;](https://dev.to/el_dockerr/i-got-tired-of-paying-to-emulate-a-1970s-terminal-so-i-built-a-native-macos-client-in-c-dx3270-38kg)
+- [Why We Open-Sourced OpenLoomi AI](https://dev.to/lumis/why-we-open-sourced-openloomi-ai-4k9l)
+- [Best Secure Platforms to Connect AI Agents with Slack](https://dev.to/tomzielinski/best-secure-platforms-to-connect-ai-agents-with-slack-3cbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
