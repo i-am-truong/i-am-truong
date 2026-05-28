@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Have to Learn Hermes From Scratch — I Brought My Existing Skills In](https://dev.to/yuens1002/you-dont-have-to-learn-hermes-from-scratch-i-brought-my-existing-skills-in-18f0)
-- [GHES Key Rotation, Bug Bounty Program Refocus, AI Agent Permission Fatigue](https://dev.to/soytuber/ghes-key-rotation-bug-bounty-program-refocus-ai-agent-permission-fatigue-d8i)
-- [RAG SOTA, Agent Harnessing, and Langfuse Observability for AI Frameworks](https://dev.to/soytuber/rag-sota-agent-harnessing-and-langfuse-observability-for-ai-frameworks-1ko5)
-- [RAG SOTA: I Tested 7 Pipelines and Built SEQUOIA &lpar;Open Source&rpar;](https://dev.to/__2ddbae6bb7d/rag-sota-i-tested-7-pipelines-and-built-sequoia-open-source-223o)
-- [Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent](https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04)
+- [Opening Your SaaS to AI Agents Over MCP: Hold the Reins on the Server Side](https://dev.to/lovanaut55/opening-your-saas-to-ai-agents-over-mcp-hold-the-reins-on-the-server-side-4901)
+- [Why I chose MCP over RAG for live infrastructure auditing](https://dev.to/dnyandeo/why-i-chose-mcp-over-rag-for-live-infrastructure-auditing-1ce8)
+- [I built a premium AI Dashboard UI Template with clean file separation. Offering it 100% FREE!](https://dev.to/steven160118/i-built-a-premium-ai-dashboard-ui-template-with-clean-file-separation-offering-it-100-free-gae)
+- [Build Power BI Columns That Adapt to Each User](https://dev.to/shai_karmani_2521c2f8e837/build-power-bi-columns-that-adapt-to-each-user-35p8)
+- [How hard can it be to build a CI/CD system?](https://dev.to/xescugc/how-hard-can-it-be-to-build-a-cicd-system-1cnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
