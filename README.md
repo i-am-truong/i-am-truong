@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Agent Framework for My B.Tech Major Project. It Got 750+ npm Downloads in Week One. Here&#39;s the Comeback Story.](https://dev.to/om_shree_0709/i-built-an-mcp-agent-framework-for-my-btech-major-project-it-got-750-npm-downloads-in-week-one-14f1)
-- [From the Strait of Hormuz to Singapore: Building a Real-Time Ship Tracking Analyser with Flask and AISStream](https://dev.to/mafr1de/from-the-strait-of-hormuz-to-singapore-building-a-real-time-ship-tracking-analyser-with-flask-and-2g8m)
-- [I got tired of paying to emulate a 1970s terminal, so I built a native macOS client in C++ &lpar;DX3270&rpar;](https://dev.to/el_dockerr/i-got-tired-of-paying-to-emulate-a-1970s-terminal-so-i-built-a-native-macos-client-in-c-dx3270-38kg)
-- [Why We Open-Sourced OpenLoomi AI](https://dev.to/lumis/why-we-open-sourced-openloomi-ai-4k9l)
-- [Best Secure Platforms to Connect AI Agents with Slack](https://dev.to/tomzielinski/best-secure-platforms-to-connect-ai-agents-with-slack-3cbn)
+- [4 Best AI TTS APIs in 2026](https://dev.to/agent-one/4-best-ai-tts-apis-in-2026-n43)
+- [Claude Opus 4.8: What Developers Need to Know About Anthropic&#39;s New Flagship](https://dev.to/comparedge_com/claude-opus-48-what-developers-need-to-know-about-anthropics-new-flagship-3m37)
+- [Full Stack Developer Looking for Internship Opportunities](https://dev.to/trojanmocx/full-stack-developer-looking-for-internship-opportunities-5amh)
+- [How Microservices Talk to Each Other Using WebClient](https://dev.to/devpabodha/how-microservices-talk-to-each-other-using-webclient-2lpn)
+- [After burning through tens of billions of tokens, I built an Android-like OS that runs entirely in the browser](https://dev.to/rui_hao_9e47ab3e86da7b802/after-burning-through-tens-of-billions-of-tokens-i-built-an-android-like-os-that-runs-entirely-in-3n02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
