@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Should Have Put Events in the Same Database as the Aggregate Root—Heres What Happened](https://dev.to/dev-architecture-blog/i-should-have-put-events-in-the-same-database-as-the-aggregate-root-heres-what-happened-1dp3)
-- [The SilentRecon Agent Loop Architecture: How We Build AI That Doesn’t Stall](https://dev.to/cristiano_gabrieli_83f5f1/the-silentrecon-agent-loop-architecture-how-we-build-ai-that-doesnt-stall-1e48)
-- [How I Built a Dark Cinematic Restaurant Landing Page Template and Listed It For Sale](https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm)
-- [Claude Code Slash Commands You Should Know &lpar;I wasn&#39;t either&rpar;](https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf)
-- [&quot;7 Free GitHub Repos Every Beginner Should Star Right Now&quot;](https://dev.to/devraj_singh7/7-free-github-repos-every-beginner-should-star-right-now-57ij)
+- [The Golang Trinity: Functions, Methods, Interfaces](https://dev.to/kev_luciano/the-golang-trinity-functions-methods-interfaces-31pa)
+- [gitwink — a read-only tray git glance for the AI-agent era](https://dev.to/curioustore_48788631d0e2e/gitwink-a-read-only-tray-git-glance-for-the-ai-agent-era-2km0)
+- [I built a free PHP &amp; Laravel tutorial site — 49 lessons from scratch](https://dev.to/codebysuraj109/i-built-a-free-php-laravel-tutorial-site-49-lessons-from-scratch-43g8)
+- [Sniffing Modbus Traffic with 5 Lines of Python &lpar;And Why It Should Scare Your OT Team&rpar;](https://dev.to/philyeh/sniffing-modbus-traffic-with-5-lines-of-python-and-why-it-should-scare-your-ot-team-27ja)
+- [Why Hytale Treasure Hunts Explode In Production &lpar;And How We Fixed It&rpar;](https://dev.to/dev-architecture-blog/why-hytale-treasure-hunts-explode-in-production-and-how-we-fixed-it-5h8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
