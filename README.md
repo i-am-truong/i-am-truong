@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Golang Trinity: Functions, Methods, Interfaces](https://dev.to/kev_luciano/the-golang-trinity-functions-methods-interfaces-31pa)
-- [gitwink — a read-only tray git glance for the AI-agent era](https://dev.to/curioustore_48788631d0e2e/gitwink-a-read-only-tray-git-glance-for-the-ai-agent-era-2km0)
-- [I built a free PHP &amp; Laravel tutorial site — 49 lessons from scratch](https://dev.to/codebysuraj109/i-built-a-free-php-laravel-tutorial-site-49-lessons-from-scratch-43g8)
-- [Sniffing Modbus Traffic with 5 Lines of Python &lpar;And Why It Should Scare Your OT Team&rpar;](https://dev.to/philyeh/sniffing-modbus-traffic-with-5-lines-of-python-and-why-it-should-scare-your-ot-team-27ja)
-- [Why Hytale Treasure Hunts Explode In Production &lpar;And How We Fixed It&rpar;](https://dev.to/dev-architecture-blog/why-hytale-treasure-hunts-explode-in-production-and-how-we-fixed-it-5h8f)
+- [Harness Engineering for AI Agents](https://dev.to/akki907/harness-engineering-for-ai-agents-16a0)
+- [Building RepoRank — The Open Source Impact &amp; Funding Readiness Engine](https://dev.to/himanshu_748/building-reporank-the-open-source-impact-funding-readiness-engine-47k9)
+- [Building with Gemma 4 E2B showed me that small models are more reliable when the backend handles orchestration.](https://dev.to/gramli/building-with-gemma-4-e2b-showed-me-that-small-models-are-more-reliable-when-the-backend-3lka)
+- [Color Grading at Scale: How I Stopped Wrestling with ImageMagick and Just Used an API](https://dev.to/om_prakash_3311f8a4576605/color-grading-at-scale-how-i-stopped-wrestling-with-imagemagick-and-just-used-an-api-166c)
+- [One Open Source Project a Day &lpar;No. 78&rpar;: stop-slop - A Skill File That Teaches AI to Eliminate Its Own Writing Tells](https://dev.to/wonderlab/one-open-source-project-a-day-no-78-stop-slop-a-skill-file-that-teaches-ai-to-eliminate-its-2nci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
