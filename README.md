@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Opening Your SaaS to AI Agents Over MCP: Hold the Reins on the Server Side](https://dev.to/lovanaut55/opening-your-saas-to-ai-agents-over-mcp-hold-the-reins-on-the-server-side-4901)
-- [Why I chose MCP over RAG for live infrastructure auditing](https://dev.to/dnyandeo/why-i-chose-mcp-over-rag-for-live-infrastructure-auditing-1ce8)
-- [I built a premium AI Dashboard UI Template with clean file separation. Offering it 100% FREE!](https://dev.to/steven160118/i-built-a-premium-ai-dashboard-ui-template-with-clean-file-separation-offering-it-100-free-gae)
-- [Build Power BI Columns That Adapt to Each User](https://dev.to/shai_karmani_2521c2f8e837/build-power-bi-columns-that-adapt-to-each-user-35p8)
-- [How hard can it be to build a CI/CD system?](https://dev.to/xescugc/how-hard-can-it-be-to-build-a-cicd-system-1cnj)
+- [This Rewrite Isnt the Constraint: How a 300ms Tail Latency Hunt Led to a New Event Pipeline](https://dev.to/built-from-africa/this-rewrite-isnt-the-constraint-how-a-300ms-tail-latency-hunt-led-to-a-new-event-pipeline-203g)
+- [I Built a Local AI Agent That Thinks Like a Brain, Not a Database](https://dev.to/lymy1205/i-built-a-local-ai-agent-that-thinks-like-a-brain-not-a-database-2f06)
+- [The most important AI use case isn&#39;t in Silicon Valley](https://dev.to/saulolinares10/the-most-important-ai-use-case-isnt-in-silicon-valley-4mce)
+- [Bizbox Build Log — Week of 2026-05-30](https://dev.to/joincitro/bizbox-build-log-week-of-2026-05-30-4n3)
+- [Oracle ORA-00022 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00022-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-3lfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
