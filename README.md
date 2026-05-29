@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Genera la tua prima fattura elettronica XML per lo SDI in TypeScript — in 10 minuti](https://dev.to/giuseppeserio/genera-la-tua-prima-fattura-elettronica-xml-per-lo-sdi-in-typescript-in-10-minuti-1f40)
-- [Stop Running psql Commands by Hand — Build a REST API for PostgreSQL User Management](https://dev.to/pranay_raavi/stop-running-psql-commands-by-hand-build-a-rest-api-for-postgresql-user-management-1bba)
-- [Finishing the e-commerce app I abandoned in 2023](https://dev.to/hashaam011/finishing-the-e-commerce-app-i-abandoned-in-2023-5dha)
-- [Learning Progress Pt.22](https://dev.to/muhamedmaxhuni/learning-progress-pt22-5f7f)
-- [DuckDB 1.5.3 Iceberg updates, PostgreSQL TDE extension &amp; AI index tuning](https://dev.to/soytuber/duckdb-153-iceberg-updates-postgresql-tde-extension-ai-index-tuning-399o)
+- [I Told a Robot to &quot;Clean the Kitchen&quot;, and It Actually Did](https://dev.to/sudee_sim/i-told-a-robot-to-clean-the-kitchen-and-it-actually-did-1d76)
+- [3 Files Every AI-Assisted Project Needs Before You Write a Line of Code](https://dev.to/blncraft/3-files-every-ai-assisted-project-needs-before-you-write-a-line-of-code-4k4d)
+- [5 .cursorrules Antipatterns Killing Your AI Productivity](https://dev.to/blncraft/5-cursorrules-antipatterns-killing-your-ai-productivity-gpl)
+- [5 CLAUDE.md Patterns That Make AI Actually Follow Your Rules](https://dev.to/blncraft/5-claudemd-patterns-that-make-ai-actually-follow-your-rules-3kj1)
+- [The Homelab Rabbit Hole](https://dev.to/franute/the-homelab-rabbit-hole-369l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
