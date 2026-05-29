@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s why your Prompt is WRONG 😑](https://dev.to/aws-builders/heres-why-your-prompt-is-wrong-3dlm)
-- [React Best Practices: Building Production-Ready Frontend Architecture](https://dev.to/julianneagu/react-best-practices-building-production-ready-frontend-architecture-5g6g)
-- [Part 08: Designing Tables, Data Types and Constraints](https://dev.to/edriso/part-08-designing-tables-data-types-and-constraints-397p)
-- [How to Decode, Encode, and Validate JWTs inside Claude Code](https://dev.to/auth0/how-to-decode-encode-and-validate-jwts-inside-claude-code-240b)
-- [Distributed Messaging Systems Explained Simply: How Kafka, RabbitMQ, and Modern Apps Really Work](https://dev.to/abdullahmubin/distributed-messaging-systems-explained-simply-how-kafka-rabbitmq-and-modern-apps-really-work-42k4)
+- [Building a Self-Healing AI Agent: How to Run Untrusted Code Safely Without Blowing Up Your Server](https://dev.to/programmingcentral/building-a-self-healing-ai-agent-how-to-run-untrusted-code-safely-without-blowing-up-your-server-4859)
+- [Knowing Doesn&#39;t Mean Feeling &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/knowing-doesnt-mean-feeling-bite-size-article-kke)
+- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g)
+- [Building software in C#: part 2 - code architecture](https://dev.to/czmirek/building-software-in-c-part-2-code-architecture-1ofo)
+- [New PKM tool for MacOS](https://dev.to/mjwegenka/new-pkm-tool-for-macos-436n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
