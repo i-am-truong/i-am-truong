@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [79% of companies are already deploying Physical AI. Is yours one of them? Here&#39;s what you missed this week.](https://dev.to/xberry-tech/79-of-companies-are-already-deploying-physical-ai-is-yours-one-of-them-heres-what-you-missed-4fn)
-- [You Can&#39;t Prompt Your Way Out of a Hard Constraint](https://dev.to/connectengine/you-cant-prompt-your-way-out-of-a-hard-constraint-2ab0)
-- [The Hidden Cost of Cloud-First API Clients](https://dev.to/kreya/the-hidden-cost-of-cloud-first-api-clients-55hi)
-- [MaaS 2026: Beyond the &#39;Model Supermarket&#39; — The Infrastructure Battle](https://dev.to/silas_von/maas-2026-beyond-the-model-supermarket-the-infrastructure-battle-cd1)
-- [How to set up PostgreSQL permissions for AI coding tools &lpar;Cursor, Claude, Copilot&rpar;](https://dev.to/andrei_mironov_3484cf5cb5/how-to-set-up-postgresql-permissions-for-ai-coding-tools-cursor-claude-copilot-28kj)
+- [Week 5 #100DaysOfSolana: Not Just Minting Tokens Anymore, Building Systems](https://dev.to/peter_okoh_/week-5-100daysofsolana-not-just-minting-tokens-anymore-building-systems-4ip8)
+- [Day 18. Still $0 revenue. Here&#39;s the honest update nobody writes.](https://dev.to/ratecalc/day-18-still-0-revenue-heres-the-honest-update-nobody-writes-12dg)
+- [AI-Built Apps and the Production Gap: What the 60% Failure Rate Is Actually Telling Us](https://dev.to/8080_ai/ai-built-apps-and-the-production-gap-what-the-60-failure-rate-is-actually-telling-us-584j)
+- [Architecting Secure AI Agents: The Fatal Flaw in Standard API Integrations](https://dev.to/mohamed0x/architecting-secure-ai-agents-the-fatal-flaw-in-standard-api-integrations-2lk8)
+- [Claude Opus 4.8 Is Here: Benchmarks, Dynamic Workflows, and Whether to Upgrade From 4.7](https://dev.to/alexcloudstar/claude-opus-48-is-here-benchmarks-dynamic-workflows-and-whether-to-upgrade-from-47-4eee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
