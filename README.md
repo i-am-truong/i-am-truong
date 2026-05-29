@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This Rewrite Isnt the Constraint: How a 300ms Tail Latency Hunt Led to a New Event Pipeline](https://dev.to/built-from-africa/this-rewrite-isnt-the-constraint-how-a-300ms-tail-latency-hunt-led-to-a-new-event-pipeline-203g)
-- [I Built a Local AI Agent That Thinks Like a Brain, Not a Database](https://dev.to/lymy1205/i-built-a-local-ai-agent-that-thinks-like-a-brain-not-a-database-2f06)
-- [The most important AI use case isn&#39;t in Silicon Valley](https://dev.to/saulolinares10/the-most-important-ai-use-case-isnt-in-silicon-valley-4mce)
-- [Bizbox Build Log — Week of 2026-05-30](https://dev.to/joincitro/bizbox-build-log-week-of-2026-05-30-4n3)
-- [Oracle ORA-00022 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00022-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-3lfp)
+- [Why AI Image Generation Should Be Async](https://dev.to/natalia_c8ace1e6703e8f29f/why-ai-image-generation-should-be-async-k81)
+- [AI Search Systems for Businesses: The Next Big Opportunity for Developers](https://dev.to/kailasvs_94/ai-search-systems-for-businesses-the-next-big-opportunity-for-developers-567p)
+- [BoxAgnts Introduction &lpar;5&rpar; — Rust Has Become a New Option for AI Agents](https://dev.to/guyoung/boxagnts-introduction-5-rust-has-become-a-new-option-for-ai-agents-2kk4)
+- [5090 vs 4090 for AI Workloads: Buy, Rent, or Validate in the Cloud?](https://dev.to/runcai/5090-vs-4090-for-ai-workloads-buy-rent-or-validate-in-the-cloud-1mh3)
+- [The Prometheus label that blew our monitoring bill out 6x](https://dev.to/claire_nguyen/the-prometheus-label-that-blew-our-monitoring-bill-out-6x-57hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
