@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 5 #100DaysOfSolana: Not Just Minting Tokens Anymore, Building Systems](https://dev.to/peter_okoh_/week-5-100daysofsolana-not-just-minting-tokens-anymore-building-systems-4ip8)
-- [Day 18. Still $0 revenue. Here&#39;s the honest update nobody writes.](https://dev.to/ratecalc/day-18-still-0-revenue-heres-the-honest-update-nobody-writes-12dg)
-- [AI-Built Apps and the Production Gap: What the 60% Failure Rate Is Actually Telling Us](https://dev.to/8080_ai/ai-built-apps-and-the-production-gap-what-the-60-failure-rate-is-actually-telling-us-584j)
-- [Architecting Secure AI Agents: The Fatal Flaw in Standard API Integrations](https://dev.to/mohamed0x/architecting-secure-ai-agents-the-fatal-flaw-in-standard-api-integrations-2lk8)
-- [Claude Opus 4.8 Is Here: Benchmarks, Dynamic Workflows, and Whether to Upgrade From 4.7](https://dev.to/alexcloudstar/claude-opus-48-is-here-benchmarks-dynamic-workflows-and-whether-to-upgrade-from-47-4eee)
+- [The Ultimate Python Logic Journey: Chocolates -&gt; Divisors -&gt; Primes](https://dev.to/kathirvel-s/the-ultimate-python-logic-journey-chocolates-divisors-primes-19h5)
+- [Nexthena app](https://dev.to/blackstar/nexthena-app-5g9i)
+- [No Template Fits? Generate Your Own Awesome DESIGN.md with .NET and Ollama](https://dev.to/auyeungdavid_2847435260/no-template-fits-generate-your-own-awesome-designmd-with-net-and-ollama-2o)
+- [DeepSeek API Complete Guide: Setup, Pricing, and Best Practices](https://dev.to/shadie_ai/deepseek-api-complete-guide-setup-pricing-and-best-practices-2g3c)
+- [Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
