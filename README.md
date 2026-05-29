@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Image Generation Should Be Async](https://dev.to/natalia_c8ace1e6703e8f29f/why-ai-image-generation-should-be-async-k81)
-- [AI Search Systems for Businesses: The Next Big Opportunity for Developers](https://dev.to/kailasvs_94/ai-search-systems-for-businesses-the-next-big-opportunity-for-developers-567p)
-- [BoxAgnts Introduction &lpar;5&rpar; — Rust Has Become a New Option for AI Agents](https://dev.to/guyoung/boxagnts-introduction-5-rust-has-become-a-new-option-for-ai-agents-2kk4)
-- [5090 vs 4090 for AI Workloads: Buy, Rent, or Validate in the Cloud?](https://dev.to/runcai/5090-vs-4090-for-ai-workloads-buy-rent-or-validate-in-the-cloud-1mh3)
-- [The Prometheus label that blew our monitoring bill out 6x](https://dev.to/claire_nguyen/the-prometheus-label-that-blew-our-monitoring-bill-out-6x-57hj)
+- [79% of companies are already deploying Physical AI. Is yours one of them? Here&#39;s what you missed this week.](https://dev.to/xberry-tech/79-of-companies-are-already-deploying-physical-ai-is-yours-one-of-them-heres-what-you-missed-4fn)
+- [You Can&#39;t Prompt Your Way Out of a Hard Constraint](https://dev.to/connectengine/you-cant-prompt-your-way-out-of-a-hard-constraint-2ab0)
+- [The Hidden Cost of Cloud-First API Clients](https://dev.to/kreya/the-hidden-cost-of-cloud-first-api-clients-55hi)
+- [MaaS 2026: Beyond the &#39;Model Supermarket&#39; — The Infrastructure Battle](https://dev.to/silas_von/maas-2026-beyond-the-model-supermarket-the-infrastructure-battle-cd1)
+- [How to set up PostgreSQL permissions for AI coding tools &lpar;Cursor, Claude, Copilot&rpar;](https://dev.to/andrei_mironov_3484cf5cb5/how-to-set-up-postgresql-permissions-for-ai-coding-tools-cursor-claude-copilot-28kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
