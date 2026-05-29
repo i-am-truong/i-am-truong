@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Self-Healing AI Agent: How to Run Untrusted Code Safely Without Blowing Up Your Server](https://dev.to/programmingcentral/building-a-self-healing-ai-agent-how-to-run-untrusted-code-safely-without-blowing-up-your-server-4859)
-- [Knowing Doesn&#39;t Mean Feeling &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/knowing-doesnt-mean-feeling-bite-size-article-kke)
-- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g)
-- [Building software in C#: part 2 - code architecture](https://dev.to/czmirek/building-software-in-c-part-2-code-architecture-1ofo)
-- [New PKM tool for MacOS](https://dev.to/mjwegenka/new-pkm-tool-for-macos-436n)
+- [Genera la tua prima fattura elettronica XML per lo SDI in TypeScript — in 10 minuti](https://dev.to/giuseppeserio/genera-la-tua-prima-fattura-elettronica-xml-per-lo-sdi-in-typescript-in-10-minuti-1f40)
+- [Stop Running psql Commands by Hand — Build a REST API for PostgreSQL User Management](https://dev.to/pranay_raavi/stop-running-psql-commands-by-hand-build-a-rest-api-for-postgresql-user-management-1bba)
+- [Finishing the e-commerce app I abandoned in 2023](https://dev.to/hashaam011/finishing-the-e-commerce-app-i-abandoned-in-2023-5dha)
+- [Learning Progress Pt.22](https://dev.to/muhamedmaxhuni/learning-progress-pt22-5f7f)
+- [DuckDB 1.5.3 Iceberg updates, PostgreSQL TDE extension &amp; AI index tuning](https://dev.to/soytuber/duckdb-153-iceberg-updates-postgresql-tde-extension-ai-index-tuning-399o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
