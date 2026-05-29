@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Python Logic Journey: Chocolates -&gt; Divisors -&gt; Primes](https://dev.to/kathirvel-s/the-ultimate-python-logic-journey-chocolates-divisors-primes-19h5)
-- [Nexthena app](https://dev.to/blackstar/nexthena-app-5g9i)
-- [No Template Fits? Generate Your Own Awesome DESIGN.md with .NET and Ollama](https://dev.to/auyeungdavid_2847435260/no-template-fits-generate-your-own-awesome-designmd-with-net-and-ollama-2o)
-- [DeepSeek API Complete Guide: Setup, Pricing, and Best Practices](https://dev.to/shadie_ai/deepseek-api-complete-guide-setup-pricing-and-best-practices-2g3c)
-- [Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3)
+- [Here&#39;s why your Prompt is WRONG 😑](https://dev.to/aws-builders/heres-why-your-prompt-is-wrong-3dlm)
+- [React Best Practices: Building Production-Ready Frontend Architecture](https://dev.to/julianneagu/react-best-practices-building-production-ready-frontend-architecture-5g6g)
+- [Part 08: Designing Tables, Data Types and Constraints](https://dev.to/edriso/part-08-designing-tables-data-types-and-constraints-397p)
+- [How to Decode, Encode, and Validate JWTs inside Claude Code](https://dev.to/auth0/how-to-decode-encode-and-validate-jwts-inside-claude-code-240b)
+- [Distributed Messaging Systems Explained Simply: How Kafka, RabbitMQ, and Modern Apps Really Work](https://dev.to/abdullahmubin/distributed-messaging-systems-explained-simply-how-kafka-rabbitmq-and-modern-apps-really-work-42k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
