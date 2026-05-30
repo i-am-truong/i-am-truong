@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built a dependency risk scanner with Coral in 7 days](https://dev.to/m_rayhankhan_71c3f2ed50c/how-i-built-a-dependency-risk-scanner-with-coral-in-7-days-4p9)
-- [Local-first: a Model on Your Own Machine, Zero Cloud](https://dev.to/dalenguyen/local-first-a-model-on-your-own-machine-zero-cloud-26dh)
-- [2487. Remove Nodes From Linked List](https://dev.to/ram1234/2487-remove-nodes-from-linked-list-42bb)
-- [C_STD : A Leak-Free, Cross-Platform Standard Library for Modern C](https://dev.to/amin_tahmasebi_8e3767ffa4/cstd-a-leak-free-cross-platform-standard-library-for-modern-c-3ke8)
-- [How to build your professional network as a developer — authentic strategies](https://dev.to/therizwansaleem/how-to-build-your-professional-network-as-a-developer-authentic-strategies-32dn)
+- [The Intent Layer](https://dev.to/pathmodeio/the-intent-layer-15e3)
+- [Your AI Coding Agent Does Not Need a Bigger Prompt](https://dev.to/nimay_04/your-ai-coding-agent-does-not-need-a-bigger-prompt-4df3)
+- [How I solved a problem in my house using with an AI-powered application!](https://dev.to/svisu1063/how-i-solved-a-problem-in-my-house-using-with-an-ai-powered-application-6ej)
+- [Structure: A Local-First Interview IDE Powered by Gemma 4](https://dev.to/intelliot/structure-a-local-first-interview-ide-powered-by-gemma-4-43bh)
+- [Build in public, month 2: 615 of 616 visitors never clicked anything](https://dev.to/ahnhyeongkyu/build-in-public-month-2-615-of-616-visitors-never-clicked-anything-2341)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
