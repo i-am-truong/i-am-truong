@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Chrome extension because I couldn&#39;t stop opening Twitter between Pomodoro sessions](https://dev.to/promise_uzoechi/i-built-a-chrome-extension-because-i-couldnt-stop-opening-twitter-between-pomodoro-sessions-1gnj)
-- [AI cheating in technical interviews is invisible to interviewers — here&#39;s how we detect it](https://dev.to/vaibhav_devere/ai-cheating-in-technical-interviews-is-invisible-to-interviewers-heres-how-we-detect-it-4bdo)
-- [Lean4 Might Be the Missing Piece in AI: Why Theorem Provers Are Suddenly Everywhere](https://dev.to/shrsv/lean4-might-be-the-missing-piece-in-ai-why-theorem-provers-are-suddenly-everywhere-3b7l)
-- [The Zero-Drift API Series: Stop Trusting a Green Build You Can&#39;t Explain](https://dev.to/prasadmk/the-zero-drift-api-series-stop-trusting-a-green-build-you-cant-explain-k56)
-- [How I Deployed My First Project on AWS &lpar;And Didn&#39;t Break Everything&rpar;](https://dev.to/anany_dubey/how-i-deployed-my-first-project-on-aws-and-didnt-break-everything-3add)
+- [How I built a dependency risk scanner with Coral in 7 days](https://dev.to/m_rayhankhan_71c3f2ed50c/how-i-built-a-dependency-risk-scanner-with-coral-in-7-days-4p9)
+- [Local-first: a Model on Your Own Machine, Zero Cloud](https://dev.to/dalenguyen/local-first-a-model-on-your-own-machine-zero-cloud-26dh)
+- [2487. Remove Nodes From Linked List](https://dev.to/ram1234/2487-remove-nodes-from-linked-list-42bb)
+- [C_STD : A Leak-Free, Cross-Platform Standard Library for Modern C](https://dev.to/amin_tahmasebi_8e3767ffa4/cstd-a-leak-free-cross-platform-standard-library-for-modern-c-3ke8)
+- [How to build your professional network as a developer — authentic strategies](https://dev.to/therizwansaleem/how-to-build-your-professional-network-as-a-developer-authentic-strategies-32dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
