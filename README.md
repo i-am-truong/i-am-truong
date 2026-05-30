@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 25-Agent Polish Parliament That Drafts Bills With Real Legal Citations](https://dev.to/msadlok/i-built-a-25-agent-polish-parliament-that-drafts-bills-with-real-legal-citations-45h7)
-- [Claude Code&#39;s workflow docs are a menu.](https://dev.to/mjmirza/claude-codes-workflow-docs-are-a-menu-here-is-what-a-real-solo-founder-orders-2c9e)
-- [Building a home server with a mini PC](https://dev.to/javibarbaran/building-a-home-server-with-a-mini-pc-48f0)
-- [Stop Shipping AI Slop: Build an Anti-Slop Harness Around Your LLM](https://dev.to/turacthethinker/stop-shipping-ai-slop-build-an-anti-slop-harness-around-your-llm-273b)
-- [Great Stack to Doesn&#39;t Work #3 — Redis: &quot;99% Cache Hit Ratio, System Down&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-3-redis-99-cache-hit-ratio-system-down-3lh2)
+- [Session Management, Rate Limiting &amp; Caching using Redis](https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi)
+- [Why Accuracy Is Not Enough: Evaluation Metrics Every AI Engineer Should Understand](https://dev.to/mneetika/why-accuracy-is-not-enough-evaluation-metrics-every-ai-engineer-should-understand-cah)
+- [How I Built One](https://dev.to/arishsingh99/ai-platform-that-turns-your-resume-into-proof-that-you-can-actually-code-k9i)
+- [AGTP: A Transport Protocol Built for Agents](https://dev.to/chrishood/agtp-a-transport-protocol-built-for-agents-2j7p)
+- [I built Snipworth a Chrome extension to turn code into shareable images — and keep them for later](https://dev.to/alextdev/i-built-snipworth-a-chrome-extension-to-turn-code-into-shareable-images-and-keep-them-for-later-13nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
