@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built and Monetized a Currency Exchange Rate API with FastAPI, Deployed it on Render, and Published it on RapidAPI.](https://dev.to/dhritich20baruah/how-i-built-and-monetized-a-currency-exchange-rate-api-with-fastapi-deployed-it-on-render-and-27ne)
-- [The 7 Best Reddit Scrapers in 2026 &lpar;Free &amp; Paid, Tested&rpar;](https://dev.to/benthepythondev/the-7-best-reddit-scrapers-in-2026-free-paid-tested-32nb)
-- [An AI runs my company. A solo dev vibe-coded $15K in a week — we made $[X]. A cold autopsy.](https://dev.to/ahnhyeongkyu/an-ai-runs-my-company-a-solo-dev-vibe-coded-15k-in-a-week-we-made-x-a-cold-autopsy-4fc2)
-- [I am new here](https://dev.to/chrislim0067/i-am-new-here-2abp)
-- [Stop Pasting Your Code Into ChatGPT For Debugging—Run LLMs Locally Instead](https://dev.to/learnairesource/stop-pasting-your-code-into-chatgpt-for-debugging-run-llms-locally-instead-3lkp)
+- [Your AI Agent Needs a Manager, Not a Superhero](https://dev.to/ariefwara/your-ai-agent-needs-a-manager-not-a-superhero-3olf)
+- [I Built CausalLens — A Free, Open-Source Causal Impact Calculator for Time Series &lpar;5 Methods, Zero Setup&rpar;](https://dev.to/sentinelcipher/i-built-causallens-a-free-open-source-causal-impact-calculator-for-time-series-5-methods-zero-3hm5)
+- [How to write good commit messages and pull requests — a team guide](https://dev.to/therizwansaleem/how-to-write-good-commit-messages-and-pull-requests-a-team-guide-57pb)
+- [Cipher: The Jarvis with a Hermes Core](https://dev.to/trickell/cipher-the-jarvis-with-a-hermes-core-1c4o)
+- [How to build a second brain with Obsidian and Claude Code &lpar;step by step&rpar;](https://dev.to/malik_chohra/how-to-build-a-second-brain-with-obsidian-and-claude-code-step-by-step-5gol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
