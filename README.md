@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Agent That Earns $500/Month in Open Source Bounties — Full Architecture, Real Code, and Honest Numbers After 72 Hours](https://dev.to/zeroknowledge0x/how-i-built-an-ai-agent-that-earns-500month-in-open-source-bounties-full-architecture-real-4b2i)
-- [Building with Bun and Cosmic: The Fastest JavaScript Stack in 2026](https://dev.to/tonyspiro/building-with-bun-and-cosmic-the-fastest-javascript-stack-in-2026-3ci2)
-- [Observability Telemetry and Predictive AIOps](https://dev.to/venkatahemanthguddanti/observability-telemetry-and-predictive-aiops-44b0)
-- [Hermes Agent for Developers: The Open Source AI Agent That Learns &amp; Remembers](https://dev.to/soumyadeepdey/hermes-agent-for-developers-the-open-source-ai-agent-that-learns-remembers-4mb6)
-- [Demystifying the Trinity: Functor, Applicative, and Monad in PureScript](https://dev.to/shubham399/demystifying-the-trinity-functor-applicative-and-monad-in-purescript-30m9)
+- [I Spent a Decade Chasing Microservices Before Realizing What Scalability Actually Means](https://dev.to/jeevansrivastava/i-spent-a-decade-chasing-microservices-before-realizing-what-scalability-actually-means-2aj)
+- [Every Medium Publication That Accepts 3D Content &lpar;2026 Map&rpar;](https://dev.to/josh_green_dev/every-medium-publication-that-accepts-3d-content-2026-map-4ni1)
+- [From NumPy to JAX: My First &quot;Aha!&quot; Moments with Accelerated AI](https://dev.to/shinigamiflanker0208/from-numpy-to-jax-my-first-aha-moments-with-accelerated-ai-n2n)
+- [I Analyzed 200 Small Business Websites — Here&#39;s What&#39;s Actually Hurting Their Performance &lpar;And How to Fix It&rpar;](https://dev.to/webperfdev/i-analyzed-200-small-business-websites-heres-whats-actually-hurting-their-performance-and-how-15c5)
+- [The Death of the React Native Bridge: Moving from JSON to JSI in 2026](https://dev.to/subraatakumar/the-death-of-the-react-native-bridge-moving-from-json-to-jsi-in-2026-2614)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
