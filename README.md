@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
-- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
-- [Today My Portfolio Started Talking Back 👀](https://dev.to/casperday11/today-my-portfolio-started-talking-back-3ehb)
-- [“Extensions by Bunny” hub launch](https://dev.to/codebunny20/extensions-by-bunny-hub-launch-51gd)
-- [Transducers in JavaScript: When `reduce&lpar;&rpar;` Is Not the End of the Story](https://dev.to/amrishkhan05/transducers-in-javascript-when-reduce-is-not-the-end-of-the-story-3h6j)
+- [Arquitectura backend de identidad digital: las decisiones que los tutoriales omiten](https://dev.to/jtorchia/arquitectura-backend-de-identidad-digital-las-decisiones-que-los-tutoriales-omiten-kko)
+- [How to Debug JavaScript Like a Senior Developer in 2025](https://dev.to/kui_luo/how-to-debug-javascript-like-a-senior-developer-in-2025-2hel)
+- [Frontend Observability: The React Habit That Protects Product Trust](https://dev.to/therizwansaleem/frontend-observability-the-react-habit-that-protects-product-trust-2nje)
+- [Google Has 1,000 Platform Engineers Making Security Invisible. You Have Zero. Here&#39;s How Agents Close the Gap.](https://dev.to/bala_paranj_059d338e44e7e/google-has-1000-platform-engineers-making-security-invisible-you-have-zero-heres-how-agents-58ed)
+- [Hermes Agent vs. The Cloud: A Developer&#39;s Guide to Local AI Agents](https://dev.to/gaurang_bhatt_b6d91a19879/hermes-agent-vs-the-cloud-a-developers-guide-to-local-ai-agents-51e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
