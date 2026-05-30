@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bots read fast pages too: what we reprioritised after an AI-crawler audit](https://dev.to/apogeewatcher/bots-read-fast-pages-too-what-we-reprioritised-after-an-ai-crawler-audit-2jnf)
-- [Tu navegador te conoce mejor de lo que crees: privacidad en 2026](https://dev.to/johantovar/tu-navegador-te-conoce-mejor-de-lo-que-crees-privacidad-en-2026-468m)
-- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
-- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
-- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
+- [I Built a 25-Agent Polish Parliament That Drafts Bills With Real Legal Citations](https://dev.to/msadlok/i-built-a-25-agent-polish-parliament-that-drafts-bills-with-real-legal-citations-45h7)
+- [Claude Code&#39;s workflow docs are a menu.](https://dev.to/mjmirza/claude-codes-workflow-docs-are-a-menu-here-is-what-a-real-solo-founder-orders-2c9e)
+- [Building a home server with a mini PC](https://dev.to/javibarbaran/building-a-home-server-with-a-mini-pc-48f0)
+- [Stop Shipping AI Slop: Build an Anti-Slop Harness Around Your LLM](https://dev.to/turacthethinker/stop-shipping-ai-slop-build-an-anti-slop-harness-around-your-llm-273b)
+- [Great Stack to Doesn&#39;t Work #3 — Redis: &quot;99% Cache Hit Ratio, System Down&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-3-redis-99-cache-hit-ratio-system-down-3lh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
