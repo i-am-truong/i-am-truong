@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arquitectura backend de identidad digital: las decisiones que los tutoriales omiten](https://dev.to/jtorchia/arquitectura-backend-de-identidad-digital-las-decisiones-que-los-tutoriales-omiten-kko)
-- [How to Debug JavaScript Like a Senior Developer in 2025](https://dev.to/kui_luo/how-to-debug-javascript-like-a-senior-developer-in-2025-2hel)
-- [Frontend Observability: The React Habit That Protects Product Trust](https://dev.to/therizwansaleem/frontend-observability-the-react-habit-that-protects-product-trust-2nje)
-- [Google Has 1,000 Platform Engineers Making Security Invisible. You Have Zero. Here&#39;s How Agents Close the Gap.](https://dev.to/bala_paranj_059d338e44e7e/google-has-1000-platform-engineers-making-security-invisible-you-have-zero-heres-how-agents-58ed)
-- [Hermes Agent vs. The Cloud: A Developer&#39;s Guide to Local AI Agents](https://dev.to/gaurang_bhatt_b6d91a19879/hermes-agent-vs-the-cloud-a-developers-guide-to-local-ai-agents-51e0)
+- [Why ChatGPT sucks at generating Types &lpar;and how I fixed it&rpar;](https://dev.to/_904affc0d58589ee2ac5/why-chatgpt-sucks-at-generating-types-and-how-i-fixed-it-4did)
+- [Modelling a codebase as a requirements ontology in Neo4j, keeping AI coding agents oriented](https://dev.to/carl_ward_2d0e6fee9693587/modelling-a-codebase-as-a-requirements-ontology-in-neo4j-keeping-ai-coding-agents-oriented-1db)
+- [Opinion: Peter Steinberger &amp; Lex Fridman Interview](https://dev.to/absterellio/opinion-peter-steinberger-lex-fridman-interview-1ag0)
+- [Agent Harness Explained: Build Production-Ready AI Agents with Microsoft Agent Framework](https://dev.to/monuminu/agent-harness-explained-build-production-ready-ai-agents-with-microsoft-agent-framework-666)
+- [How to stop Cursor AI forgetting your .NET architecture &lpar;the $9 fix&rpar;](https://dev.to/agentic_standard/how-to-stop-cursor-ai-forgetting-your-net-architecture-the-9-fix-25ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
