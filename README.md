@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Intent Layer](https://dev.to/pathmodeio/the-intent-layer-15e3)
-- [Your AI Coding Agent Does Not Need a Bigger Prompt](https://dev.to/nimay_04/your-ai-coding-agent-does-not-need-a-bigger-prompt-4df3)
-- [How I solved a problem in my house using with an AI-powered application!](https://dev.to/svisu1063/how-i-solved-a-problem-in-my-house-using-with-an-ai-powered-application-6ej)
-- [Structure: A Local-First Interview IDE Powered by Gemma 4](https://dev.to/intelliot/structure-a-local-first-interview-ide-powered-by-gemma-4-43bh)
-- [Build in public, month 2: 615 of 616 visitors never clicked anything](https://dev.to/ahnhyeongkyu/build-in-public-month-2-615-of-616-visitors-never-clicked-anything-2341)
+- [Bots read fast pages too: what we reprioritised after an AI-crawler audit](https://dev.to/apogeewatcher/bots-read-fast-pages-too-what-we-reprioritised-after-an-ai-crawler-audit-2jnf)
+- [Tu navegador te conoce mejor de lo que crees: privacidad en 2026](https://dev.to/johantovar/tu-navegador-te-conoce-mejor-de-lo-que-crees-privacidad-en-2026-468m)
+- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
+- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
+- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
