@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Needs a Manager, Not a Superhero](https://dev.to/ariefwara/your-ai-agent-needs-a-manager-not-a-superhero-3olf)
-- [I Built CausalLens — A Free, Open-Source Causal Impact Calculator for Time Series &lpar;5 Methods, Zero Setup&rpar;](https://dev.to/sentinelcipher/i-built-causallens-a-free-open-source-causal-impact-calculator-for-time-series-5-methods-zero-3hm5)
-- [How to write good commit messages and pull requests — a team guide](https://dev.to/therizwansaleem/how-to-write-good-commit-messages-and-pull-requests-a-team-guide-57pb)
-- [Cipher: The Jarvis with a Hermes Core](https://dev.to/trickell/cipher-the-jarvis-with-a-hermes-core-1c4o)
-- [How to build a second brain with Obsidian and Claude Code &lpar;step by step&rpar;](https://dev.to/malik_chohra/how-to-build-a-second-brain-with-obsidian-and-claude-code-step-by-step-5gol)
+- [I built a Chrome extension because I couldn&#39;t stop opening Twitter between Pomodoro sessions](https://dev.to/promise_uzoechi/i-built-a-chrome-extension-because-i-couldnt-stop-opening-twitter-between-pomodoro-sessions-1gnj)
+- [AI cheating in technical interviews is invisible to interviewers — here&#39;s how we detect it](https://dev.to/vaibhav_devere/ai-cheating-in-technical-interviews-is-invisible-to-interviewers-heres-how-we-detect-it-4bdo)
+- [Lean4 Might Be the Missing Piece in AI: Why Theorem Provers Are Suddenly Everywhere](https://dev.to/shrsv/lean4-might-be-the-missing-piece-in-ai-why-theorem-provers-are-suddenly-everywhere-3b7l)
+- [The Zero-Drift API Series: Stop Trusting a Green Build You Can&#39;t Explain](https://dev.to/prasadmk/the-zero-drift-api-series-stop-trusting-a-green-build-you-cant-explain-k56)
+- [How I Deployed My First Project on AWS &lpar;And Didn&#39;t Break Everything&rpar;](https://dev.to/anany_dubey/how-i-deployed-my-first-project-on-aws-and-didnt-break-everything-3add)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
