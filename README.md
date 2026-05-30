@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Told a Robot to &quot;Clean the Kitchen&quot;, and It Actually Did](https://dev.to/sudee_sim/i-told-a-robot-to-clean-the-kitchen-and-it-actually-did-1d76)
-- [3 Files Every AI-Assisted Project Needs Before You Write a Line of Code](https://dev.to/blncraft/3-files-every-ai-assisted-project-needs-before-you-write-a-line-of-code-4k4d)
-- [5 .cursorrules Antipatterns Killing Your AI Productivity](https://dev.to/blncraft/5-cursorrules-antipatterns-killing-your-ai-productivity-gpl)
-- [5 CLAUDE.md Patterns That Make AI Actually Follow Your Rules](https://dev.to/blncraft/5-claudemd-patterns-that-make-ai-actually-follow-your-rules-3kj1)
-- [The Homelab Rabbit Hole](https://dev.to/franute/the-homelab-rabbit-hole-369l)
+- [A Simple Dynamic Array for C](https://dev.to/pauljlucas/a-simple-dynamic-array-for-c-1k24)
+- [Your AI coding agent forgets everything outside the chat. I built OpenContext to fix that.](https://dev.to/glenn_chencg33_10528ea/your-ai-coding-agent-forgets-everything-outside-the-chat-i-built-opencontext-to-fix-that-2ofm)
+- [Agentic Web Browsing Workflows with Python and Playwright](https://dev.to/alterlab/agentic-web-browsing-workflows-with-python-and-playwright-3nd9)
+- [Programmatic SEO for Developers: Build a Content Engine That Actually Ranks](https://dev.to/ulnit/programmatic-seo-for-developers-build-a-content-engine-that-actually-ranks-3m2)
+- [When Traditional Web Scraping Fails: A Practical AI Approach](https://dev.to/__c1b9e06dc90a7e0a676b/when-traditional-web-scraping-fails-a-practical-ai-approach-3o6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
