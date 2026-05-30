@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Needed to Remove a QR Code from an Image, But Every Solution Was Complicated](https://dev.to/ahmadfarazcrypto/i-needed-to-remove-a-qr-code-from-an-image-but-every-solution-was-complicated-7oa)
-- [How to build a reusable Excel export service in ASP.NET Core](https://dev.to/mirzaleka/how-to-build-a-reusable-excel-export-service-in-aspnet-core-an7)
-- [Accept the Official Hack - Build-Time OpenAPI Detection in .NET 10 Minimal APIs](https://dev.to/nausaf/accept-the-official-hack-build-time-openapi-detection-in-net-10-minimal-apis-25bc)
-- [Coding agents keep losing context between tools, so I built a local-first handoff CLI](https://dev.to/shuo_xiao_c7d1a80c798f8ec/coding-agents-keep-losing-context-between-tools-so-i-built-a-local-first-handoff-cli-4h01)
-- [Google AI Studio Mobile + Gemini Managed Agents: Build and Deploy AI Agents Without Infrastructure in 2026](https://dev.to/rams901/google-ai-studio-mobile-gemini-managed-agents-build-and-deploy-ai-agents-without-infrastructure-4pe7)
+- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
+- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
+- [Today My Portfolio Started Talking Back 👀](https://dev.to/casperday11/today-my-portfolio-started-talking-back-3ehb)
+- [“Extensions by Bunny” hub launch](https://dev.to/codebunny20/extensions-by-bunny-hub-launch-51gd)
+- [Transducers in JavaScript: When `reduce&lpar;&rpar;` Is Not the End of the Story](https://dev.to/amrishkhan05/transducers-in-javascript-when-reduce-is-not-the-end-of-the-story-3h6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
