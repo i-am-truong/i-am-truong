@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why ChatGPT sucks at generating Types &lpar;and how I fixed it&rpar;](https://dev.to/_904affc0d58589ee2ac5/why-chatgpt-sucks-at-generating-types-and-how-i-fixed-it-4did)
-- [Modelling a codebase as a requirements ontology in Neo4j, keeping AI coding agents oriented](https://dev.to/carl_ward_2d0e6fee9693587/modelling-a-codebase-as-a-requirements-ontology-in-neo4j-keeping-ai-coding-agents-oriented-1db)
-- [Opinion: Peter Steinberger &amp; Lex Fridman Interview](https://dev.to/absterellio/opinion-peter-steinberger-lex-fridman-interview-1ag0)
-- [Agent Harness Explained: Build Production-Ready AI Agents with Microsoft Agent Framework](https://dev.to/monuminu/agent-harness-explained-build-production-ready-ai-agents-with-microsoft-agent-framework-666)
-- [How to stop Cursor AI forgetting your .NET architecture &lpar;the $9 fix&rpar;](https://dev.to/agentic_standard/how-to-stop-cursor-ai-forgetting-your-net-architecture-the-9-fix-25ij)
+- [How I Built and Monetized a Currency Exchange Rate API with FastAPI, Deployed it on Render, and Published it on RapidAPI.](https://dev.to/dhritich20baruah/how-i-built-and-monetized-a-currency-exchange-rate-api-with-fastapi-deployed-it-on-render-and-27ne)
+- [The 7 Best Reddit Scrapers in 2026 &lpar;Free &amp; Paid, Tested&rpar;](https://dev.to/benthepythondev/the-7-best-reddit-scrapers-in-2026-free-paid-tested-32nb)
+- [An AI runs my company. A solo dev vibe-coded $15K in a week — we made $[X]. A cold autopsy.](https://dev.to/ahnhyeongkyu/an-ai-runs-my-company-a-solo-dev-vibe-coded-15k-in-a-week-we-made-x-a-cold-autopsy-4fc2)
+- [I am new here](https://dev.to/chrislim0067/i-am-new-here-2abp)
+- [Stop Pasting Your Code Into ChatGPT For Debugging—Run LLMs Locally Instead](https://dev.to/learnairesource/stop-pasting-your-code-into-chatgpt-for-debugging-run-llms-locally-instead-3lkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
