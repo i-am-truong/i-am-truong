@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Dynamic Array for C](https://dev.to/pauljlucas/a-simple-dynamic-array-for-c-1k24)
-- [Your AI coding agent forgets everything outside the chat. I built OpenContext to fix that.](https://dev.to/glenn_chencg33_10528ea/your-ai-coding-agent-forgets-everything-outside-the-chat-i-built-opencontext-to-fix-that-2ofm)
-- [Agentic Web Browsing Workflows with Python and Playwright](https://dev.to/alterlab/agentic-web-browsing-workflows-with-python-and-playwright-3nd9)
-- [Programmatic SEO for Developers: Build a Content Engine That Actually Ranks](https://dev.to/ulnit/programmatic-seo-for-developers-build-a-content-engine-that-actually-ranks-3m2)
-- [When Traditional Web Scraping Fails: A Practical AI Approach](https://dev.to/__c1b9e06dc90a7e0a676b/when-traditional-web-scraping-fails-a-practical-ai-approach-3o6p)
+- [How I Built an AI Agent That Earns $500/Month in Open Source Bounties — Full Architecture, Real Code, and Honest Numbers After 72 Hours](https://dev.to/zeroknowledge0x/how-i-built-an-ai-agent-that-earns-500month-in-open-source-bounties-full-architecture-real-4b2i)
+- [Building with Bun and Cosmic: The Fastest JavaScript Stack in 2026](https://dev.to/tonyspiro/building-with-bun-and-cosmic-the-fastest-javascript-stack-in-2026-3ci2)
+- [Observability Telemetry and Predictive AIOps](https://dev.to/venkatahemanthguddanti/observability-telemetry-and-predictive-aiops-44b0)
+- [Hermes Agent for Developers: The Open Source AI Agent That Learns &amp; Remembers](https://dev.to/soumyadeepdey/hermes-agent-for-developers-the-open-source-ai-agent-that-learns-remembers-4mb6)
+- [Demystifying the Trinity: Functor, Applicative, and Monad in PureScript](https://dev.to/shubham399/demystifying-the-trinity-functor-applicative-and-monad-in-purescript-30m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
