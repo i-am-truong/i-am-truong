@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Sent 240 PRs to Open Source Repos Using an AI Agent — Here&#39;s the Brutal Truth About What Actually Gets Merged](https://dev.to/zeroknowledge0x/i-sent-240-prs-to-open-source-repos-using-an-ai-agent-heres-the-brutal-truth-about-what-actually-16ic)
-- [Odoo Website Promo Bars Without Custom Theme Code Every Black Friday](https://dev.to/zackbm/odoo-website-promo-bars-without-custom-theme-code-every-black-friday-2f41)
-- [Your AI&#39;s tests pass. That doesn&#39;t mean the code works.](https://dev.to/moonrunnerkc/your-ais-tests-pass-that-doesnt-mean-the-code-works-239c)
-- [When Is 100% Vibe Coding OK ?](https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p)
-- [GIT Cheatsheet](https://dev.to/erixero/git-cheatsheet-18gj)
+- [Why ROU Asset Depreciation Checks Fail When Schedule And Journal Logic Drift](https://dev.to/adamjomi222/why-rou-asset-depreciation-checks-fail-when-schedule-and-journal-logic-drift-2bk9)
+- [Tossed The T.V. but Kept the Remote? Here&#39;s how to NOT generate more E-Waste.](https://dev.to/brisk4t/tossed-the-tv-but-kept-the-remote-heres-how-to-not-generate-more-e-waste-8ha)
+- [The Architecture Decisions That Actually Mattered: Building a Production-Ready Multi-Service Backend](https://dev.to/vix1209/the-architecture-decisions-that-actually-mattered-building-a-production-ready-multi-service-backend-4ekj)
+- [Frontier Logic at Local Speed: The 2026 Strix Halo Ultimate Benchmark Suite](https://dev.to/agustinsacco/frontier-logic-at-local-speed-the-2026-strix-halo-ultimate-benchmark-suite-2cdf)
+- [Why I Stopped Letting AI Write My Code &lpar;May 2026&rpar;](https://dev.to/kentanishida/why-i-stopped-letting-ai-write-my-code-may-2026-441c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
