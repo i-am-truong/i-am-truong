@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your RL Agent Failed a 12-Step Task. Which Step Was Wrong? &lpar;The Supervision Problem in Agentic RL&rpar;](https://dev.to/shoaibalimir/your-rl-agent-failed-a-12-step-task-which-step-was-wrong-the-supervision-problem-in-agentic-rl-14al)
-- [Token Budgeting](https://dev.to/loknathkumarmishra/token-budgeting-ega)
-- [The Fastest Part of Your Stack Is Already Installed: Rethinking Web IDEs](https://dev.to/nitroide/the-fastest-part-of-your-stack-is-already-installed-rethinking-web-ides-2he3)
-- [How a Small Product Sync Automation Changed Onboarding at Scale](https://dev.to/suganth_g/how-a-small-product-sync-automation-changed-onboarding-at-scale-57de)
-- [A .NET Dinosaur in Web3. Day 18 - Automated Market Maker](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-18-automated-market-maker-5c9k)
+- [Building a Psychological Safety Framework for Engineering Teams](https://dev.to/therizwansaleem/building-a-psychological-safety-framework-for-engineering-teams-4cke)
+- [I built a freelance client + invoice tracker in ~3 hours using Cursor — here&#39;s everything I shipped](https://dev.to/ibrh96prog/i-built-a-freelance-client-invoice-tracker-in-3-hours-using-cursor-heres-everything-i-shipped-36b6)
+- [How to Parse Invoices in Python Using an API &lpar;2026 Guide&rpar;](https://dev.to/othmane_merny_3d032356669/how-to-parse-invoices-in-python-using-an-api-2026-guide-25cp)
+- [Shifting from Mobile to Web: How I Built a 3-Pane Desktop AI Interface with Expo Web &amp; FastAPI](https://dev.to/jxlee007/shifting-from-mobile-to-web-how-i-built-a-3-pane-desktop-ai-interface-with-expo-web-fastapi-3lad)
+- [LeetCode Solution: 17. Letter Combinations of a Phone Number](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-17-letter-combinations-of-a-phone-number-20aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
