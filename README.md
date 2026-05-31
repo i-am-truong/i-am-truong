@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LangGraph Production, RAG Memory Challenges, and AI Agent Patterns](https://dev.to/soytuber/langgraph-production-rag-memory-challenges-and-ai-agent-patterns-1bae)
-- [known_hosts](https://dev.to/erixero/knownhosts-40f0)
-- [UbuCon26 Kenya](https://dev.to/markngugi/ubucon26-2g91)
-- [The Engineering Manager Is the Most Informed Person in the AI Room](https://dev.to/pixari/the-engineering-manager-is-the-most-informed-person-in-the-ai-room-54g1)
-- [I built PhysioFlow — clinic software for Indian physiotherapists, solo in a week](https://dev.to/amarguptatech/i-built-physioflow-clinic-software-for-indian-physiotherapists-solo-in-a-week-3k0k)
+- [I Sent 240 PRs to Open Source Repos Using an AI Agent — Here&#39;s the Brutal Truth About What Actually Gets Merged](https://dev.to/zeroknowledge0x/i-sent-240-prs-to-open-source-repos-using-an-ai-agent-heres-the-brutal-truth-about-what-actually-16ic)
+- [Odoo Website Promo Bars Without Custom Theme Code Every Black Friday](https://dev.to/zackbm/odoo-website-promo-bars-without-custom-theme-code-every-black-friday-2f41)
+- [Your AI&#39;s tests pass. That doesn&#39;t mean the code works.](https://dev.to/moonrunnerkc/your-ais-tests-pass-that-doesnt-mean-the-code-works-239c)
+- [When Is 100% Vibe Coding OK ?](https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p)
+- [GIT Cheatsheet](https://dev.to/erixero/git-cheatsheet-18gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
