@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [pypdf vs PdfPig: Text Extraction at Scale](https://dev.to/milliseconds/pypdf-vs-pdfpig-text-extraction-at-scale-21nd)
-- [NetworkX vs CSR + TensorPrimitives: PageRank on 28M Edges](https://dev.to/milliseconds/networkx-vs-csr-tensorprimitives-pagerank-on-28m-edges-3i8c)
-- [CareSync: A Local Health Memory Agent for Family Caregivers](https://dev.to/naomi_pereira_28531c3d5de/caresync-a-local-health-memory-agent-for-family-caregivers-337c)
-- [The compiler caught a lot. It didn&#39;t catch enough.](https://dev.to/extractdata/the-compiler-caught-a-lot-it-didnt-catch-enough-17ln)
-- [Automated Client Reporting](https://dev.to/white_oak_intel/automated-client-reporting-29ck)
+- [Day 23 of 60: Someone Asked Me a Question on Day 3. I Put It on My Build List. Today I Shipped the Answer.](https://dev.to/mbugua_cessy/day-23-of-60-someone-asked-me-a-question-on-day-3-i-put-it-on-my-build-list-today-i-shipped-the-267f)
+- [Reconnaissance Is Not Hacking &lpar;And That&#39;s Why It&#39;s So Powerful&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/reconnaissance-is-not-hacking-and-thats-why-its-so-powerful-3h10)
+- [The Illusion of Scale, Part 4: Latency Is a Design Decision, Not a Measurement](https://dev.to/anusha_mukka/the-illusion-of-scale-part-4-latency-is-a-design-decision-not-a-measurement-1h4n)
+- [Obolus is now available as a ChatGPT App.](https://dev.to/obolus_dario/obolus-is-now-available-as-a-chatgpt-app-298l)
+- [10 Important Azure Security Settings That Are Easy to Miss](https://dev.to/octopusshield/10-important-azure-security-settings-that-are-easy-to-miss-5360)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
