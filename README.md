@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Psychological Safety Framework for Engineering Teams](https://dev.to/therizwansaleem/building-a-psychological-safety-framework-for-engineering-teams-4cke)
-- [I built a freelance client + invoice tracker in ~3 hours using Cursor — here&#39;s everything I shipped](https://dev.to/ibrh96prog/i-built-a-freelance-client-invoice-tracker-in-3-hours-using-cursor-heres-everything-i-shipped-36b6)
-- [How to Parse Invoices in Python Using an API &lpar;2026 Guide&rpar;](https://dev.to/othmane_merny_3d032356669/how-to-parse-invoices-in-python-using-an-api-2026-guide-25cp)
-- [Shifting from Mobile to Web: How I Built a 3-Pane Desktop AI Interface with Expo Web &amp; FastAPI](https://dev.to/jxlee007/shifting-from-mobile-to-web-how-i-built-a-3-pane-desktop-ai-interface-with-expo-web-fastapi-3lad)
-- [LeetCode Solution: 17. Letter Combinations of a Phone Number](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-17-letter-combinations-of-a-phone-number-20aj)
+- [pypdf vs PdfPig: Text Extraction at Scale](https://dev.to/milliseconds/pypdf-vs-pdfpig-text-extraction-at-scale-21nd)
+- [NetworkX vs CSR + TensorPrimitives: PageRank on 28M Edges](https://dev.to/milliseconds/networkx-vs-csr-tensorprimitives-pagerank-on-28m-edges-3i8c)
+- [CareSync: A Local Health Memory Agent for Family Caregivers](https://dev.to/naomi_pereira_28531c3d5de/caresync-a-local-health-memory-agent-for-family-caregivers-337c)
+- [The compiler caught a lot. It didn&#39;t catch enough.](https://dev.to/extractdata/the-compiler-caught-a-lot-it-didnt-catch-enough-17ln)
+- [Automated Client Reporting](https://dev.to/white_oak_intel/automated-client-reporting-29ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
