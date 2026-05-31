@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Scalable Event-Driven Data Processing Pipeline with Apache Kafka Streams](https://dev.to/therizwansaleem/designing-a-scalable-event-driven-data-processing-pipeline-with-apache-kafka-streams-2lde)
-- [Calling GET API &amp; Mapping Response in VBCS &lpar;Service Connection&rpar;](https://dev.to/naveen6735/calling-get-api-mapping-response-in-vbcs-service-connection-113)
-- [How to Connect a Trailhead Org to Salesforce CLI](https://dev.to/exploring_agentforce/how-to-connect-trailhead-org-to-salesforce-cli-2o07)
-- [I built a CLI tool to find worthwhile GitHub issues to contribute to](https://dev.to/edelweiss-f/i-built-a-cli-tool-to-find-worthwhile-github-issues-to-contribute-to-15hf)
-- [I Built a Global Location Data API with 12M+ Cities — Here&#39;s How](https://dev.to/localityapi/i-built-a-global-location-data-api-with-12m-cities-heres-how-4mg9)
+- [Your RL Agent Failed a 12-Step Task. Which Step Was Wrong? &lpar;The Supervision Problem in Agentic RL&rpar;](https://dev.to/shoaibalimir/your-rl-agent-failed-a-12-step-task-which-step-was-wrong-the-supervision-problem-in-agentic-rl-14al)
+- [Token Budgeting](https://dev.to/loknathkumarmishra/token-budgeting-ega)
+- [The Fastest Part of Your Stack Is Already Installed: Rethinking Web IDEs](https://dev.to/nitroide/the-fastest-part-of-your-stack-is-already-installed-rethinking-web-ides-2he3)
+- [How a Small Product Sync Automation Changed Onboarding at Scale](https://dev.to/suganth_g/how-a-small-product-sync-automation-changed-onboarding-at-scale-57de)
+- [A .NET Dinosaur in Web3. Day 18 - Automated Market Maker](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-18-automated-market-maker-5c9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
