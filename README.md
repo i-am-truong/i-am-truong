@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a GitHub Stats MCP Server with Security Metrics](https://dev.to/anajsana95/building-a-github-stats-mcp-server-with-security-metrics-3omi)
-- [Your Agent Made a $500 Mistake. Who Pays?](https://dev.to/kavinkimcreator/your-agent-made-a-500-mistake-who-pays-545a)
-- [Bypassing Cloudflare WAF and Akamai in Python Using TLS Fingerprinting: The curl_cffi Guide](https://dev.to/amendamax2025/bypassing-cloudflare-waf-and-akamai-in-python-using-tls-fingerprinting-the-curlcffi-guide-53l7)
-- [Moonrepo: Open-Source Build Systems for LLMs](https://dev.to/jaychkdsk/moonrepo-open-source-build-systems-for-llms-3a9c)
-- [Add AudioObject Schema to Your Blog Posts](https://dev.to/stanlymt/add-audioobject-schema-to-your-blog-posts-3jh8)
+- [AI Smart Contract Review: The Finding Is Not the Audit](https://dev.to/aicryptosystems/ai-smart-contract-review-the-finding-is-not-the-audit-1lmb)
+- [Bing Search API Replacement: scrape SERP results for $1.05/1K](https://dev.to/devil_scrapes/bing-search-api-replacement-scrape-serp-results-for-1051k-6lg)
+- [The Junior Developer Is Disappearing. Here&#39;s What AI Editors Did to the Entry Ramp.](https://dev.to/zyvop/the-junior-developer-is-disappearing-heres-what-ai-editors-did-to-the-entry-ramp-26e6)
+- [ATS Tech Stack Detector: pull company back-end stacks from jobs for $5.05/1K](https://dev.to/devil_scrapes/ats-tech-stack-detector-pull-company-back-end-stacks-from-jobs-for-5051k-1444)
+- [Is AWS Certification Worth It in 2026?](https://dev.to/vivek-pillai/is-aws-certification-worth-it-in-2026-524b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
