@@ -120,17 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PgBouncer: Effectively Managing Your PostgreSQL Connection Pool](https://dev.to/gouranga-das-khulna/pgbouncer-effectively-managing-your-postgresql-connection-pool-587m)
-- [How much should I charge for 3D prints? A complete pricing breakdown for Etsy sellers](https://dev.to/polyformprints/how-much-should-i-charge-for-3d-prints-a-complete-pricing-breakdown-for-etsy-sellers-2kpl)
-- [How I Built Hidden Collector Game in Unity](https://dev.to/sinxcos07/how-i-built-hidden-collector-in-unity-541g)
-- [Moving Beyond the Context Window: The Agentic Memory Architecture](https://dev.to/dhruvagg/moving-beyond-the-context-window-the-agentic-memory-architecture-2lgo)
-- [🚀 Building an open-source email blast tool — free, self-hosted, no Mailchimp needed.
-
-Looking for contributors to help add:
-📊 Open &amp; click tracking
-🐳 Docker support
- All issues are open. Jump in 👇
-https://github.com/nikhilt101/email-blast-tool](https://dev.to/tech2nikhil_e0c26b10c6113/building-an-open-source-email-blast-tool-free-self-hosted-no-mailchimp-needed-looking-for-1k97)
+- [Designing a Scalable Event-Driven Data Processing Pipeline with Apache Kafka Streams](https://dev.to/therizwansaleem/designing-a-scalable-event-driven-data-processing-pipeline-with-apache-kafka-streams-2lde)
+- [Calling GET API &amp; Mapping Response in VBCS &lpar;Service Connection&rpar;](https://dev.to/naveen6735/calling-get-api-mapping-response-in-vbcs-service-connection-113)
+- [How to Connect a Trailhead Org to Salesforce CLI](https://dev.to/exploring_agentforce/how-to-connect-trailhead-org-to-salesforce-cli-2o07)
+- [I built a CLI tool to find worthwhile GitHub issues to contribute to](https://dev.to/edelweiss-f/i-built-a-cli-tool-to-find-worthwhile-github-issues-to-contribute-to-15hf)
+- [I Built a Global Location Data API with 12M+ Cities — Here&#39;s How](https://dev.to/localityapi/i-built-a-global-location-data-api-with-12m-cities-heres-how-4mg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
