@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Environment Variables Securely with Keycheck](https://dev.to/omrajguru05/managing-environment-variables-securely-with-keycheck-2i7n)
-- [How WhatsApp Works Without Internet: Offline Messaging and Sync Explained](https://dev.to/satyasootar/how-whatsapp-works-without-internet-offline-messaging-and-sync-explained-3nle)
-- [How I Built a Permanent Testing Server Using Cloudflare Tunnel](https://dev.to/omdongaonkar03/how-i-built-a-permanent-testing-server-using-cloudflare-tunnel-4ef7)
-- [Guia definitivo para usar o Claude Code com modelos gratuitos &lpar;depois de testar 6 métodos&rpar;](https://dev.to/vitor_maverickfonsecado/guia-definitivo-para-usar-o-claude-code-com-modelos-gratuitos-depois-de-testar-5-metodos-1ieo)
-- [&quot;I Built a Developer-Only Social Platform — Meet Devand 🛠️&quot;](https://dev.to/nandan_das_369/i-built-a-developer-only-social-platform-meet-devand--33aj)
+- [Building a GitHub Stats MCP Server with Security Metrics](https://dev.to/anajsana95/building-a-github-stats-mcp-server-with-security-metrics-3omi)
+- [Your Agent Made a $500 Mistake. Who Pays?](https://dev.to/kavinkimcreator/your-agent-made-a-500-mistake-who-pays-545a)
+- [Bypassing Cloudflare WAF and Akamai in Python Using TLS Fingerprinting: The curl_cffi Guide](https://dev.to/amendamax2025/bypassing-cloudflare-waf-and-akamai-in-python-using-tls-fingerprinting-the-curlcffi-guide-53l7)
+- [Moonrepo: Open-Source Build Systems for LLMs](https://dev.to/jaychkdsk/moonrepo-open-source-build-systems-for-llms-3a9c)
+- [Add AudioObject Schema to Your Blog Posts](https://dev.to/stanlymt/add-audioobject-schema-to-your-blog-posts-3jh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
