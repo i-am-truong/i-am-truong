@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Adversary-in-the-Middle &lpar;T1557&rpar; with Data Science](https://dev.to/cgivre/detecting-adversary-in-the-middle-t1557-with-data-science-3n6h)
-- [HTTP Headers Every Developer Should Know &lpar;2026&rpar;](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-1ih)
-- [Detecting Ingress Tool Transfer &lpar;T1105&rpar; with Python](https://dev.to/cgivre/detecting-ingress-tool-transfer-t1105-with-python-b92)
-- [Three SQL Injection Patterns That Still Ship in Node.js — And the ESLint Rule That Catches Them](https://dev.to/ofri-peretz/three-sql-injection-patterns-that-still-ship-in-nodejs-and-the-linter-that-catches-them-onb)
-- [From Idea to Production: How I Built a Decoupled Chatbot Ordering Engine](https://dev.to/dillibe/from-idea-to-production-how-i-built-a-decoupled-chatbot-ordering-engine-49fm)
+- [Managing Environment Variables Securely with Keycheck](https://dev.to/omrajguru05/managing-environment-variables-securely-with-keycheck-2i7n)
+- [How WhatsApp Works Without Internet: Offline Messaging and Sync Explained](https://dev.to/satyasootar/how-whatsapp-works-without-internet-offline-messaging-and-sync-explained-3nle)
+- [How I Built a Permanent Testing Server Using Cloudflare Tunnel](https://dev.to/omdongaonkar03/how-i-built-a-permanent-testing-server-using-cloudflare-tunnel-4ef7)
+- [Guia definitivo para usar o Claude Code com modelos gratuitos &lpar;depois de testar 6 métodos&rpar;](https://dev.to/vitor_maverickfonsecado/guia-definitivo-para-usar-o-claude-code-com-modelos-gratuitos-depois-de-testar-5-metodos-1ieo)
+- [&quot;I Built a Developer-Only Social Platform — Meet Devand 🛠️&quot;](https://dev.to/nandan_das_369/i-built-a-developer-only-social-platform-meet-devand--33aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
