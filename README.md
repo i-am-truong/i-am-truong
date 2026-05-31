@@ -120,11 +120,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Smart Contract Review: The Finding Is Not the Audit](https://dev.to/aicryptosystems/ai-smart-contract-review-the-finding-is-not-the-audit-1lmb)
-- [Bing Search API Replacement: scrape SERP results for $1.05/1K](https://dev.to/devil_scrapes/bing-search-api-replacement-scrape-serp-results-for-1051k-6lg)
-- [The Junior Developer Is Disappearing. Here&#39;s What AI Editors Did to the Entry Ramp.](https://dev.to/zyvop/the-junior-developer-is-disappearing-heres-what-ai-editors-did-to-the-entry-ramp-26e6)
-- [ATS Tech Stack Detector: pull company back-end stacks from jobs for $5.05/1K](https://dev.to/devil_scrapes/ats-tech-stack-detector-pull-company-back-end-stacks-from-jobs-for-5051k-1444)
-- [Is AWS Certification Worth It in 2026?](https://dev.to/vivek-pillai/is-aws-certification-worth-it-in-2026-524b)
+- [PgBouncer: Effectively Managing Your PostgreSQL Connection Pool](https://dev.to/gouranga-das-khulna/pgbouncer-effectively-managing-your-postgresql-connection-pool-587m)
+- [How much should I charge for 3D prints? A complete pricing breakdown for Etsy sellers](https://dev.to/polyformprints/how-much-should-i-charge-for-3d-prints-a-complete-pricing-breakdown-for-etsy-sellers-2kpl)
+- [How I Built Hidden Collector Game in Unity](https://dev.to/sinxcos07/how-i-built-hidden-collector-in-unity-541g)
+- [Moving Beyond the Context Window: The Agentic Memory Architecture](https://dev.to/dhruvagg/moving-beyond-the-context-window-the-agentic-memory-architecture-2lgo)
+- [🚀 Building an open-source email blast tool — free, self-hosted, no Mailchimp needed.
+
+Looking for contributors to help add:
+📊 Open &amp; click tracking
+🐳 Docker support
+ All issues are open. Jump in 👇
+https://github.com/nikhilt101/email-blast-tool](https://dev.to/tech2nikhil_e0c26b10c6113/building-an-open-source-email-blast-tool-free-self-hosted-no-mailchimp-needed-looking-for-1k97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
