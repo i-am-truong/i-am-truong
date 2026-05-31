@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Session Management, Rate Limiting &amp; Caching using Redis](https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi)
-- [Why Accuracy Is Not Enough: Evaluation Metrics Every AI Engineer Should Understand](https://dev.to/mneetika/why-accuracy-is-not-enough-evaluation-metrics-every-ai-engineer-should-understand-cah)
-- [How I Built One](https://dev.to/arishsingh99/ai-platform-that-turns-your-resume-into-proof-that-you-can-actually-code-k9i)
-- [AGTP: A Transport Protocol Built for Agents](https://dev.to/chrishood/agtp-a-transport-protocol-built-for-agents-2j7p)
-- [I built Snipworth a Chrome extension to turn code into shareable images — and keep them for later](https://dev.to/alextdev/i-built-snipworth-a-chrome-extension-to-turn-code-into-shareable-images-and-keep-them-for-later-13nl)
+- [《认知革命播客》：个人AI基础设施的深度实践与安全思辨](https://dev.to/cognitalk/-ge-ren-aiji-chu-she-shi-de-shen-du-shi-jian-yu-an-quan-si-bian-5hna)
+- [Weekend Supervised Vibe Coding](https://dev.to/qainsights/weekend-supervised-vibe-coding-26ip)
+- [Why I Run Claude Code Plugins for Brand Voice Enforcement](https://dev.to/raxxostudios/why-i-run-claude-code-plugins-for-brand-voice-enforcement-m8k)
+- [x.klickd v4.1: Portable, Encrypted, Human-Governed Memory for AI Workflows That Don’t Reset](https://dev.to/davincc77/xklickd-v41-portable-encrypted-human-governed-memory-for-ai-workflows-that-dont-reset-60p)
+- [AI Can Introduce Complexity Without Introducing Noise — But Only If the Repo Knows How to Hold the Complexity](https://dev.to/scarab-systems/ai-can-introduce-complexity-without-introducing-noise-but-only-if-the-repo-knows-how-to-hold-the-18pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
