@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 23 of 60: Someone Asked Me a Question on Day 3. I Put It on My Build List. Today I Shipped the Answer.](https://dev.to/mbugua_cessy/day-23-of-60-someone-asked-me-a-question-on-day-3-i-put-it-on-my-build-list-today-i-shipped-the-267f)
-- [Reconnaissance Is Not Hacking &lpar;And That&#39;s Why It&#39;s So Powerful&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/reconnaissance-is-not-hacking-and-thats-why-its-so-powerful-3h10)
-- [The Illusion of Scale, Part 4: Latency Is a Design Decision, Not a Measurement](https://dev.to/anusha_mukka/the-illusion-of-scale-part-4-latency-is-a-design-decision-not-a-measurement-1h4n)
-- [Obolus is now available as a ChatGPT App.](https://dev.to/obolus_dario/obolus-is-now-available-as-a-chatgpt-app-298l)
-- [10 Important Azure Security Settings That Are Easy to Miss](https://dev.to/octopusshield/10-important-azure-security-settings-that-are-easy-to-miss-5360)
+- [Ethical considerations of working with Microsoft technologies](https://dev.to/czmirek/ethical-considerations-of-working-with-microsoft-technologies-3eco)
+- [The Agent Economy: How AI Agents Are Earning Real Money in Open Source &lpar;And Why Most Fail&rpar;](https://dev.to/zeroknowledge0x/the-agent-economy-how-ai-agents-are-earning-real-money-in-open-source-and-why-most-fail-9j2)
+- [Anahata ASI Studio: The Autonomous JVM Agent for Enterprise Java 🚀](https://dev.to/rishi_priyadarshi_8b46cd3/anahata-asi-studio-the-autonomous-jvm-agent-for-enterprise-java-22m4)
+- [How to name your project the way naming studios do &lpar;free Claude skill&rpar;](https://dev.to/bazingga08/how-to-name-your-project-the-way-naming-studios-do-free-claude-skill-7n1)
+- [What Is ssh-keygen](https://dev.to/erixero/what-is-ssh-keygen-17dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
