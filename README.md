@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrated Biological Data Collection Platform: An Architecture for Automated Curation of Public Repositories](https://dev.to/jeferson0993/integrated-biological-data-collection-platform-an-architecture-for-automated-curation-of-public-3fl7)
-- [Testing Discipline: A Beginner&#39;s Guide](https://dev.to/fcharles/testing-discipline-a-beginners-guide-5ckb)
-- [From vibe coding to clear thinking: what non-technical builders need in the age of AI](https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd)
-- [I built an AI contract review and reader tool for plain-language contract understanding](https://dev.to/casie_ccc532d51744c77745d/i-built-an-ai-contract-review-and-reader-tool-for-plain-language-contract-understanding-1915)
-- [What the 10 Best Mobile Games of 2026 Teach Us About Game Design](https://dev.to/sam_novak_574b07811e18495/what-the-10-best-mobile-games-of-2026-teach-us-about-game-design-191m)
+- [Skills Are a Mess. Let&#39;s Fix That.](https://dev.to/tracepilot_2841f1db6718a1/skills-are-a-mess-lets-fix-that-5glh)
+- [I Built rtl-text-tools &lpar; A Complete RTL Text Processing Toolkit for JavaScript &rpar;](https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4)
+- [Stop pretending your scraper worked: honest JSON for AI agents](https://dev.to/zee_builds/stop-pretending-your-scraper-worked-honest-json-for-ai-agents-1bm3)
+- [Turn Figma frames into clean React, Angular, Vue, or HTML with AI — meet PixToCode](https://dev.to/zarko_savic_91/turn-figma-frames-into-clean-react-angular-vue-or-html-with-ai-meet-pixtocode-35gf)
+- [Clean Audio Before Whisper: How Noise Removal Improves Transcription Accuracy &lpar;With Code&rpar;](https://dev.to/stevecase430/clean-audio-before-whisper-how-noise-removal-improves-transcription-accuracy-with-code-pko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
