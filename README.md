@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [llms.txt for Magento 2: Free vs Paid Modules &lpar;2026 Review&rpar;](https://dev.to/angeo/llmstxt-for-magento-2-free-vs-paid-modules-2026-review-308l)
-- [Why Attractor Guided Engineering Cannot Be Demoted to an AI Agent Skill](https://dev.to/canonical/why-attractor-guided-engineering-cannot-be-demoted-to-an-ai-agent-skill-2iik)
-- [I found this Massive 10M Context Window AI Model](https://dev.to/kimkom588r/i-found-this-massive-10m-context-window-ai-model-473c)
-- [What I Learned in Week 4 of Python — Files, Real Programs &amp; My First Class](https://dev.to/om_k_4314/what-i-learned-in-week-4-of-python-files-real-programs-my-first-class-5ec3)
-- [Building a Privacy-First Agentic OS: Announcing SamarthyaBot v2.3.0 🚀](https://dev.to/mebishnusahu0595/building-a-privacy-first-agentic-os-announcing-samarthyabot-v230-ogm)
+- [Integrated Biological Data Collection Platform: An Architecture for Automated Curation of Public Repositories](https://dev.to/jeferson0993/integrated-biological-data-collection-platform-an-architecture-for-automated-curation-of-public-3fl7)
+- [Testing Discipline: A Beginner&#39;s Guide](https://dev.to/fcharles/testing-discipline-a-beginners-guide-5ckb)
+- [From vibe coding to clear thinking: what non-technical builders need in the age of AI](https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd)
+- [I built an AI contract review and reader tool for plain-language contract understanding](https://dev.to/casie_ccc532d51744c77745d/i-built-an-ai-contract-review-and-reader-tool-for-plain-language-contract-understanding-1915)
+- [What the 10 Best Mobile Games of 2026 Teach Us About Game Design](https://dev.to/sam_novak_574b07811e18495/what-the-10-best-mobile-games-of-2026-teach-us-about-game-design-191m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
