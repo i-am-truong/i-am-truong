@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Skills Are a Mess. Let&#39;s Fix That.](https://dev.to/tracepilot_2841f1db6718a1/skills-are-a-mess-lets-fix-that-5glh)
-- [I Built rtl-text-tools &lpar; A Complete RTL Text Processing Toolkit for JavaScript &rpar;](https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4)
-- [Stop pretending your scraper worked: honest JSON for AI agents](https://dev.to/zee_builds/stop-pretending-your-scraper-worked-honest-json-for-ai-agents-1bm3)
-- [Turn Figma frames into clean React, Angular, Vue, or HTML with AI — meet PixToCode](https://dev.to/zarko_savic_91/turn-figma-frames-into-clean-react-angular-vue-or-html-with-ai-meet-pixtocode-35gf)
-- [Clean Audio Before Whisper: How Noise Removal Improves Transcription Accuracy &lpar;With Code&rpar;](https://dev.to/stevecase430/clean-audio-before-whisper-how-noise-removal-improves-transcription-accuracy-with-code-pko)
+- [A real bug you can&#39;t see - and one that fixed itself &lpar;Devlog #4&rpar;](https://dev.to/choicestorystudio/a-real-bug-you-cant-see-and-one-that-fixed-itself-devlog-4-5g69)
+- [Agent Orchestration &amp; Workflow Automation: Dynamic Workflows, Robust Agent Patterns, and On-Commit AI Code Review](https://dev.to/soytuber/agent-orchestration-workflow-automation-dynamic-workflows-robust-agent-patterns-and-on-commit-2ceb)
+- [PostgreSQL 19 Graph Queries &amp; REPACK; SQLite Advanced SQL Patterns](https://dev.to/soytuber/postgresql-19-graph-queries-repack-sqlite-advanced-sql-patterns-1ccg)
+- [S3 zipper challenge: a parallel zip assembly that beats the single Lambda approach](https://dev.to/aws-builders/s3-zipper-challenge-a-parallel-zip-assembly-that-beats-the-single-lambda-approach-37gf)
+- [Soulbound Credentials on Solana: Building Revocable Tokens with Non-Transferable + Permanent Delegate](https://dev.to/lymah/soulbound-credentials-on-solana-building-revocable-tokens-with-non-transferable-permanent-5h2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
