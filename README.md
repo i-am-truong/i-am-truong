@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A real bug you can&#39;t see - and one that fixed itself &lpar;Devlog #4&rpar;](https://dev.to/choicestorystudio/a-real-bug-you-cant-see-and-one-that-fixed-itself-devlog-4-5g69)
-- [Agent Orchestration &amp; Workflow Automation: Dynamic Workflows, Robust Agent Patterns, and On-Commit AI Code Review](https://dev.to/soytuber/agent-orchestration-workflow-automation-dynamic-workflows-robust-agent-patterns-and-on-commit-2ceb)
-- [PostgreSQL 19 Graph Queries &amp; REPACK; SQLite Advanced SQL Patterns](https://dev.to/soytuber/postgresql-19-graph-queries-repack-sqlite-advanced-sql-patterns-1ccg)
-- [S3 zipper challenge: a parallel zip assembly that beats the single Lambda approach](https://dev.to/aws-builders/s3-zipper-challenge-a-parallel-zip-assembly-that-beats-the-single-lambda-approach-37gf)
-- [Soulbound Credentials on Solana: Building Revocable Tokens with Non-Transferable + Permanent Delegate](https://dev.to/lymah/soulbound-credentials-on-solana-building-revocable-tokens-with-non-transferable-permanent-5h2a)
+- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df)
+- [How to add a contact form to a static site without a backend](https://dev.to/vaibhav_jain_3b62a5510248/how-to-add-a-contact-form-to-a-static-site-without-a-backend-3je9)
+- [Interview Q &amp; A Non-technical](https://dev.to/tapaspal/interview-q-a-non-technical-5541)
+- [SAA-Lab1 — Scaling en AWS &lpar;baseline&rpar;: ALB + Auto Scaling + CloudFront](https://dev.to/llunarg/saa-lab1-scaling-en-aws-baseline-alb-auto-scaling-cloudfront-3pc3)
+- [Your AI Team Is Building Debt Your CFO Can&#39;t See. Here&#39;s the Ledger.](https://dev.to/keithjmackay/your-ai-team-is-building-debt-your-cfo-cant-see-heres-the-ledger-65c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
