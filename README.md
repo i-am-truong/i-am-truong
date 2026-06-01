@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Becoming: I gave an AI a blank sketchbook and it invented its own art style](https://dev.to/liztacular/the-becoming-i-gave-an-ai-a-blank-sketchbook-and-it-invented-its-own-art-style-14m2)
-- [Fork: I made an AI live out both sides of a hard decision, in parallel](https://dev.to/liztacular/fork-i-made-an-ai-live-out-both-sides-of-a-hard-decision-in-parallel-1k0g)
-- [The Psychology of Open Source: Why Your PR Gets Ignored &lpar;And the Science of Getting Merged After 240 Attempts&rpar;](https://dev.to/zeroknowledge0x/the-psychology-of-open-source-why-your-pr-gets-ignored-and-the-science-of-getting-merged-after-3ig0)
-- [When Writing Software, the Typing Was Never the Job. Neither Is the Prompting.](https://dev.to/keithjmackay/when-writing-software-the-typing-was-never-the-job-neither-is-the-prompting-11n5)
-- [Why My Analytics Was Logging Every Page Visit Twice &lpar;And How I Fixed It&rpar;](https://dev.to/highcenburg/why-my-analytics-was-logging-every-page-visit-twice-and-how-i-fixed-it-59co)
+- [llms.txt for Magento 2: Free vs Paid Modules &lpar;2026 Review&rpar;](https://dev.to/angeo/llmstxt-for-magento-2-free-vs-paid-modules-2026-review-308l)
+- [Why Attractor Guided Engineering Cannot Be Demoted to an AI Agent Skill](https://dev.to/canonical/why-attractor-guided-engineering-cannot-be-demoted-to-an-ai-agent-skill-2iik)
+- [I found this Massive 10M Context Window AI Model](https://dev.to/kimkom588r/i-found-this-massive-10m-context-window-ai-model-473c)
+- [What I Learned in Week 4 of Python — Files, Real Programs &amp; My First Class](https://dev.to/om_k_4314/what-i-learned-in-week-4-of-python-files-real-programs-my-first-class-5ec3)
+- [Building a Privacy-First Agentic OS: Announcing SamarthyaBot v2.3.0 🚀](https://dev.to/mebishnusahu0595/building-a-privacy-first-agentic-os-announcing-samarthyabot-v230-ogm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
