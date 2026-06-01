@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why ROU Asset Depreciation Checks Fail When Schedule And Journal Logic Drift](https://dev.to/adamjomi222/why-rou-asset-depreciation-checks-fail-when-schedule-and-journal-logic-drift-2bk9)
-- [Tossed The T.V. but Kept the Remote? Here&#39;s how to NOT generate more E-Waste.](https://dev.to/brisk4t/tossed-the-tv-but-kept-the-remote-heres-how-to-not-generate-more-e-waste-8ha)
-- [The Architecture Decisions That Actually Mattered: Building a Production-Ready Multi-Service Backend](https://dev.to/vix1209/the-architecture-decisions-that-actually-mattered-building-a-production-ready-multi-service-backend-4ekj)
-- [Frontier Logic at Local Speed: The 2026 Strix Halo Ultimate Benchmark Suite](https://dev.to/agustinsacco/frontier-logic-at-local-speed-the-2026-strix-halo-ultimate-benchmark-suite-2cdf)
-- [Why I Stopped Letting AI Write My Code &lpar;May 2026&rpar;](https://dev.to/kentanishida/why-i-stopped-letting-ai-write-my-code-may-2026-441c)
+- [The Becoming: I gave an AI a blank sketchbook and it invented its own art style](https://dev.to/liztacular/the-becoming-i-gave-an-ai-a-blank-sketchbook-and-it-invented-its-own-art-style-14m2)
+- [Fork: I made an AI live out both sides of a hard decision, in parallel](https://dev.to/liztacular/fork-i-made-an-ai-live-out-both-sides-of-a-hard-decision-in-parallel-1k0g)
+- [The Psychology of Open Source: Why Your PR Gets Ignored &lpar;And the Science of Getting Merged After 240 Attempts&rpar;](https://dev.to/zeroknowledge0x/the-psychology-of-open-source-why-your-pr-gets-ignored-and-the-science-of-getting-merged-after-3ig0)
+- [When Writing Software, the Typing Was Never the Job. Neither Is the Prompting.](https://dev.to/keithjmackay/when-writing-software-the-typing-was-never-the-job-neither-is-the-prompting-11n5)
+- [Why My Analytics Was Logging Every Page Visit Twice &lpar;And How I Fixed It&rpar;](https://dev.to/highcenburg/why-my-analytics-was-logging-every-page-visit-twice-and-how-i-fixed-it-59co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
