@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Home Labs #3: Running Hermes Agent on Raspberry Pi 3 Model B+](https://dev.to/arisdolanan/home-labs-3-running-hermes-agent-on-raspberry-pi-3-model-b-448)
-- [Java Constructors Demystified: What Happens Before Your Object Exists?](https://dev.to/hariharan_sj_2003/java-constructors-demystified-what-happens-before-your-object-exists-5h9c)
-- [Qwen3-Coder-Next review 2026: 80B params, 3B active, and the cheapest credible coding agent API](https://dev.to/jovan_chan_9500711396d4e6/qwen3-coder-next-review-2026-80b-params-3b-active-and-the-cheapest-credible-coding-agent-api-5h3j)
-- [Three things AI agents keep getting wrong &lpar;and why I&#39;m rebuilding the platform from scratch&rpar;](https://dev.to/tianshu_ai/three-things-ai-agents-keep-getting-wrong-and-why-im-rebuilding-the-platform-from-scratch-42p6)
-- [Architectural Mastery in Node.js: Designing a Robust, Multi-Platform NPM Package](https://dev.to/gaurav101/architectural-mastery-in-nodejs-implementing-the-factory-and-strategy-patternsfor-a-npm-package-2hpj)
+- [Moving my SAAS away from React &lpar;and Inertia&rpar; to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
+- [How to Write a Ticket an Agent Can Act On](https://dev.to/tacoda/how-to-write-a-ticket-an-agent-can-act-on-52ic)
+- [Mathematical Intuition of Linear Regression](https://dev.to/ganesh-kumar/mathematical-intuition-of-linear-regression-3n5j)
+- [GitHub Copilot Token Billing 2026: Full Cost Guide and Alternatives](https://dev.to/akaranjkar08/github-copilot-token-billing-2026-full-cost-guide-and-alternatives-3bcf)
+- [Installing Netskope Client on Ubuntu 20.04, 22.04, 24.04, and 26.04 &lpar;2026 Guide&rpar;](https://dev.to/sysadmin_desk/installing-netskope-client-on-ubuntu-2004-2204-2404-and-2604-2026-guide-121p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
