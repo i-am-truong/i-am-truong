@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a small API in a space with big competitors](https://dev.to/kyej_dev/building-a-small-api-in-a-space-with-big-competitors-k9k)
-- [Graphing the Future: How We Built HealthCurve Nova AI for HackHazards 2026 🚀](https://dev.to/aman_raj_960/graphing-the-future-how-we-built-healthcurve-nova-ai-for-hackhazards-2026-2ig4)
-- [How does VuReact optimize Vue 3&#39;s top-level constants and variables for React?](https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-constants-and-variables-for-react-233n)
-- [How to Model Teams Inside a Multi-Tenant Product](https://dev.to/oladele-david/how-to-model-teams-inside-a-multi-tenant-product-1h4i)
-- [The Git &amp; GitHub Guide I Wish I Had Before Losing My University Project](https://dev.to/khadija_sajid/the-git-github-guide-i-wish-i-had-before-losing-my-university-project-285d)
+- [The 5.2 kB editor I had to write because nothing else fit](https://dev.to/thedevankit/the-52-kb-editor-i-had-to-write-because-nothing-else-fit-h0)
+- [Persistent Agent Memory with Azure AI Foundry: A Complete Developer Guide](https://dev.to/monuminu/persistent-agent-memory-with-azure-ai-foundry-a-complete-developer-guide-1pom)
+- [Real-time relighting of Gaussian Splatting reflections on iPhone &lpar;Metal&rpar;](https://dev.to/john-rocky/real-time-relighting-of-gaussian-splatting-reflections-on-iphone-metal-3b26)
+- [Adding UI to Google Colab: forms, sliders, buttons and more](https://dev.to/john-rocky/adding-ui-to-google-colab-forms-sliders-buttons-and-more-1ad2)
+- [throw and throws in Java](https://dev.to/harini_magesh_fa40041cf8d/throw-and-throws-in-java-46na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
