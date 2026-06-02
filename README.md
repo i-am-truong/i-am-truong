@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Moving my SAAS away from React &lpar;and Inertia&rpar; to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
-- [How to Write a Ticket an Agent Can Act On](https://dev.to/tacoda/how-to-write-a-ticket-an-agent-can-act-on-52ic)
-- [Mathematical Intuition of Linear Regression](https://dev.to/ganesh-kumar/mathematical-intuition-of-linear-regression-3n5j)
-- [GitHub Copilot Token Billing 2026: Full Cost Guide and Alternatives](https://dev.to/akaranjkar08/github-copilot-token-billing-2026-full-cost-guide-and-alternatives-3bcf)
-- [Installing Netskope Client on Ubuntu 20.04, 22.04, 24.04, and 26.04 &lpar;2026 Guide&rpar;](https://dev.to/sysadmin_desk/installing-netskope-client-on-ubuntu-2004-2204-2404-and-2604-2026-guide-121p)
+- [PostgreSQL for Data Engineers: Indexes, Bulk Loads, and the Patterns That Actually Matter](https://dev.to/de_clerke/postgresql-for-data-engineers-indexes-bulk-loads-and-the-patterns-that-actually-matter-25fl)
+- [I built DBeast: a PostgreSQL MCP server that gives AI assistants DBA-level tools](https://dev.to/snss5312/i-built-dbeast-a-postgresql-mcp-server-that-gives-ai-assistants-dba-level-tools-229d)
+- [Give your AI agent long-term memory with MCP &lpar;no code&rpar;](https://dev.to/lrdeoliveira/give-your-ai-agent-long-term-memory-with-mcp-no-code-4b4h)
+- [“The “Ideal Professional”: A Reflection on the Job Market”](https://dev.to/camilasrody/the-ideal-professional-a-reflection-on-the-job-market-4k44)
+- [&quot;Profissional ideal&quot;: Uma reflexão sobre o mercado](https://dev.to/camilasrody/profissional-ideal-uma-reflexao-sobre-o-mercado-8ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
