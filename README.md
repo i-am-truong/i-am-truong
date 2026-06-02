@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Keywords, Arithmetic Operators &amp; Type Conversion](https://dev.to/ezhil_abinayak_e38eec8fb/javascript-keywords-arithmetic-operators-type-conversion-64k)
-- [I Built Expo Go for Bare React Native — Wireless Install via QR](https://dev.to/hasangonen91/i-built-expo-go-for-bare-react-native-wireless-install-via-qr-5gin)
-- [Why Every Student Should Start Contributing to Open Source in 2026](https://dev.to/aryanvijaykar/why-every-student-should-start-contributing-to-open-source-in-2026-2486)
-- [The 10 Svelte 5 &amp; SvelteKit footguns your AI review bot waves through — and how to catch them in PR review](https://dev.to/isabelle_hue/the-10-svelte-5-sveltekit-footguns-your-ai-review-bot-waves-through-and-how-to-catch-them-in-pr-16g7)
-- [10 Security Mistakes Most Express APIs Make &lpar;And How to Fix Them&rpar;](https://dev.to/davanesh/10-security-mistakes-most-express-apis-make-and-how-to-fix-them-4jki)
+- [Home Labs #3: Running Hermes Agent on Raspberry Pi 3 Model B+](https://dev.to/arisdolanan/home-labs-3-running-hermes-agent-on-raspberry-pi-3-model-b-448)
+- [Java Constructors Demystified: What Happens Before Your Object Exists?](https://dev.to/hariharan_sj_2003/java-constructors-demystified-what-happens-before-your-object-exists-5h9c)
+- [Qwen3-Coder-Next review 2026: 80B params, 3B active, and the cheapest credible coding agent API](https://dev.to/jovan_chan_9500711396d4e6/qwen3-coder-next-review-2026-80b-params-3b-active-and-the-cheapest-credible-coding-agent-api-5h3j)
+- [Three things AI agents keep getting wrong &lpar;and why I&#39;m rebuilding the platform from scratch&rpar;](https://dev.to/tianshu_ai/three-things-ai-agents-keep-getting-wrong-and-why-im-rebuilding-the-platform-from-scratch-42p6)
+- [Architectural Mastery in Node.js: Designing a Robust, Multi-Platform NPM Package](https://dev.to/gaurav101/architectural-mastery-in-nodejs-implementing-the-factory-and-strategy-patternsfor-a-npm-package-2hpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
