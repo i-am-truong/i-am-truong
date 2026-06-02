@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df)
-- [How to add a contact form to a static site without a backend](https://dev.to/vaibhav_jain_3b62a5510248/how-to-add-a-contact-form-to-a-static-site-without-a-backend-3je9)
-- [Interview Q &amp; A Non-technical](https://dev.to/tapaspal/interview-q-a-non-technical-5541)
-- [SAA-Lab1 — Scaling en AWS &lpar;baseline&rpar;: ALB + Auto Scaling + CloudFront](https://dev.to/llunarg/saa-lab1-scaling-en-aws-baseline-alb-auto-scaling-cloudfront-3pc3)
-- [Your AI Team Is Building Debt Your CFO Can&#39;t See. Here&#39;s the Ledger.](https://dev.to/keithjmackay/your-ai-team-is-building-debt-your-cfo-cant-see-heres-the-ledger-65c)
+- [Building a small API in a space with big competitors](https://dev.to/kyej_dev/building-a-small-api-in-a-space-with-big-competitors-k9k)
+- [Graphing the Future: How We Built HealthCurve Nova AI for HackHazards 2026 🚀](https://dev.to/aman_raj_960/graphing-the-future-how-we-built-healthcurve-nova-ai-for-hackhazards-2026-2ig4)
+- [How does VuReact optimize Vue 3&#39;s top-level constants and variables for React?](https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-constants-and-variables-for-react-233n)
+- [How to Model Teams Inside a Multi-Tenant Product](https://dev.to/oladele-david/how-to-model-teams-inside-a-multi-tenant-product-1h4i)
+- [The Git &amp; GitHub Guide I Wish I Had Before Losing My University Project](https://dev.to/khadija_sajid/the-git-github-guide-i-wish-i-had-before-losing-my-university-project-285d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
