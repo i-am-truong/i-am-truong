@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 5.2 kB editor I had to write because nothing else fit](https://dev.to/thedevankit/the-52-kb-editor-i-had-to-write-because-nothing-else-fit-h0)
-- [Persistent Agent Memory with Azure AI Foundry: A Complete Developer Guide](https://dev.to/monuminu/persistent-agent-memory-with-azure-ai-foundry-a-complete-developer-guide-1pom)
-- [Real-time relighting of Gaussian Splatting reflections on iPhone &lpar;Metal&rpar;](https://dev.to/john-rocky/real-time-relighting-of-gaussian-splatting-reflections-on-iphone-metal-3b26)
-- [Adding UI to Google Colab: forms, sliders, buttons and more](https://dev.to/john-rocky/adding-ui-to-google-colab-forms-sliders-buttons-and-more-1ad2)
-- [throw and throws in Java](https://dev.to/harini_magesh_fa40041cf8d/throw-and-throws-in-java-46na)
+- [JavaScript Keywords, Arithmetic Operators &amp; Type Conversion](https://dev.to/ezhil_abinayak_e38eec8fb/javascript-keywords-arithmetic-operators-type-conversion-64k)
+- [I Built Expo Go for Bare React Native — Wireless Install via QR](https://dev.to/hasangonen91/i-built-expo-go-for-bare-react-native-wireless-install-via-qr-5gin)
+- [Why Every Student Should Start Contributing to Open Source in 2026](https://dev.to/aryanvijaykar/why-every-student-should-start-contributing-to-open-source-in-2026-2486)
+- [The 10 Svelte 5 &amp; SvelteKit footguns your AI review bot waves through — and how to catch them in PR review](https://dev.to/isabelle_hue/the-10-svelte-5-sveltekit-footguns-your-ai-review-bot-waves-through-and-how-to-catch-them-in-pr-16g7)
+- [10 Security Mistakes Most Express APIs Make &lpar;And How to Fix Them&rpar;](https://dev.to/davanesh/10-security-mistakes-most-express-apis-make-and-how-to-fix-them-4jki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
