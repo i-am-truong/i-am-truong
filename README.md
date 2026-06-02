@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL for Data Engineers: Indexes, Bulk Loads, and the Patterns That Actually Matter](https://dev.to/de_clerke/postgresql-for-data-engineers-indexes-bulk-loads-and-the-patterns-that-actually-matter-25fl)
-- [I built DBeast: a PostgreSQL MCP server that gives AI assistants DBA-level tools](https://dev.to/snss5312/i-built-dbeast-a-postgresql-mcp-server-that-gives-ai-assistants-dba-level-tools-229d)
-- [Give your AI agent long-term memory with MCP &lpar;no code&rpar;](https://dev.to/lrdeoliveira/give-your-ai-agent-long-term-memory-with-mcp-no-code-4b4h)
-- [“The “Ideal Professional”: A Reflection on the Job Market”](https://dev.to/camilasrody/the-ideal-professional-a-reflection-on-the-job-market-4k44)
-- [&quot;Profissional ideal&quot;: Uma reflexão sobre o mercado](https://dev.to/camilasrody/profissional-ideal-uma-reflexao-sobre-o-mercado-8ha)
+- [How TradingAgents &lpar;82K★&rpar; could slash 70% of LLM costs with a gateway layer](https://dev.to/lynkr/how-tradingagents-82k-could-slash-70-of-llm-costs-with-a-gateway-layer-40p5)
+- [Data Architectures Powering Agentic AI](https://dev.to/shieldstring/data-architectures-powering-agentic-ai-4ll1)
+- [How to Pass CCNA on Your First Attempt: A Realistic 60-Day Study Plan](https://dev.to/fatemesmenodeacademy/how-to-pass-ccna-on-your-first-attempt-a-realistic-60-day-study-plan-57)
+- [Users Can Tell When Your UI Was AI-Generated - And They Don&#39;t Like It](https://dev.to/olehvolos/users-can-tell-when-your-ui-was-ai-generated-and-they-dont-like-it-33kn)
+- [Implement Authentication And/Or Authorization For Applications And AWS Services | 🏗️ Build A Secure Notes API](https://dev.to/aws-builders/implement-authentication-andor-authorization-for-applications-and-aws-services-build-a-secure-13op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
