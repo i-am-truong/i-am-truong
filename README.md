@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cut Your Claude Token Consumption By 70x](https://dev.to/lorenzojkrl/cut-your-claude-token-consumption-by-70x-3kh2)
-- [Before You Self-Host n8n, Ask These Production Questions](https://dev.to/agntable/before-you-self-host-n8n-ask-these-production-questions-21c8)
-- [AI Crypto Glossary: Four Words That Break Wallet Agents](https://dev.to/aicryptosystems/ai-crypto-glossary-four-words-that-break-wallet-agents-2a6b)
-- [Local AST scanner that reduces AI coding agent token costs](https://dev.to/win_8885d862ed01a4/local-ast-scanner-that-reduces-ai-coding-agent-token-costs-12lp)
-- [5 Multi-Agent Patterns in Strands Agents: Which One and When](https://dev.to/aws-builders/5-multi-agent-patterns-in-strands-agents-which-one-and-when-48gh)
+- [Git rerere: the feature you didnt know you needed](https://dev.to/schiff_heimlich/git-rerere-the-feature-you-didnt-know-you-needed-383o)
+- [A Practical Git-First Deployment Orchestration](https://dev.to/therizwansaleem/a-practical-git-first-deployment-orchestration-1k7l)
+- [My first 8 months with AI](https://dev.to/chicks/my-first-8-months-with-ai-390i)
+- [I Built a Prediction Market Insider Trading Detector in One Afternoon &lpar;Because George Santos&rpar;](https://dev.to/lweiss01/i-built-a-prediction-market-insider-trading-detector-in-one-afternoon-because-george-santos-4dkk)
+- [⚡ Revisiting My Old ML Project: Battery Drain Predictor Using Linear Regression](https://dev.to/manvanthgowda/revisiting-my-old-ml-project-battery-drain-predictor-using-linear-regression-31f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
