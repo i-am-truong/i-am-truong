@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git rerere: the feature you didnt know you needed](https://dev.to/schiff_heimlich/git-rerere-the-feature-you-didnt-know-you-needed-383o)
-- [A Practical Git-First Deployment Orchestration](https://dev.to/therizwansaleem/a-practical-git-first-deployment-orchestration-1k7l)
-- [My first 8 months with AI](https://dev.to/chicks/my-first-8-months-with-ai-390i)
-- [I Built a Prediction Market Insider Trading Detector in One Afternoon &lpar;Because George Santos&rpar;](https://dev.to/lweiss01/i-built-a-prediction-market-insider-trading-detector-in-one-afternoon-because-george-santos-4dkk)
-- [⚡ Revisiting My Old ML Project: Battery Drain Predictor Using Linear Regression](https://dev.to/manvanthgowda/revisiting-my-old-ml-project-battery-drain-predictor-using-linear-regression-31f0)
+- [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla)
+- [The new Power Platform Pro-Code Era: Code Apps vs Power Pages SPA](https://dev.to/_neronotte/the-new-power-platform-pro-code-era-code-apps-vs-power-pages-spa-4d37)
+- [Building a Real-Time, Event-Sourced Feature Flag System with Rust and WebAssembly](https://dev.to/therizwansaleem/building-a-real-time-event-sourced-feature-flag-system-with-rust-and-webassembly-3db9)
+- [Agentic Tech Debt](https://dev.to/brandincanfield/agentic-tech-debt-4g9l)
+- [Sentry SDK 2.x Auto-Integrations Flood Your Inbox — Here&#39;s the Filter](https://dev.to/sm1ck/sentry-sdk-2x-auto-integrations-flood-your-inbox-heres-the-filter-2b24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
