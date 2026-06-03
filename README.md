@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI wrote the PR. How do you know it actually works?](https://dev.to/moonrunnerkc/ai-wrote-the-pr-how-do-you-know-it-actually-works-40ai)
-- [Stop Typos in Your Browser IDE: The Best Spell Checker for VS Code Web Environments](https://dev.to/alphashark/stop-typos-in-your-browser-ide-the-best-spell-checker-for-vs-code-web-environments-195h)
-- [How To Write A Post Mortem Report Without Blame Language](https://dev.to/alphashark/how-to-write-a-post-mortem-report-without-blame-language-3j6n)
-- [100cc: roll your own Claude Code in 100 lines](https://dev.to/yujqiao/100cc-roll-your-own-claude-code-in-100-lines-26dp)
-- [The annoying part of building with company data is not displaying it, it’s cleaning it](https://dev.to/kyej_dev/the-annoying-part-of-building-with-company-data-is-not-displaying-it-its-cleaning-it-5e31)
+- [The SMS Verification Market is Bigger Than Most People Realise: Data from 67,000+ Virtual Phone Numbers](https://dev.to/quackr/the-sms-verification-market-is-bigger-than-most-people-realise-data-from-67000-virtual-phone-2oh2)
+- [How Do You Design and Develop APIs the Git-Native Way?](https://dev.to/hassann/how-do-you-design-and-develop-apis-the-git-native-way-2691)
+- [The Container Port Binding Mistake That Breaks Almost Every First Deploy](https://dev.to/thpl/the-container-port-binding-mistake-that-breaks-almost-every-first-deploy-3fng)
+- [AI Native DevCon Day 2: From Agent Demos to Operating Models](https://dev.to/tessl/ai-native-devcon-day-2-from-agent-demos-to-operating-models-51hf)
+- [Building an Edge REST API with Hono.js + TypeScript — From Bun Local Server to Cloudflare Workers](https://dev.to/jangwook_kim_e31e7291ad98/building-an-edge-rest-api-with-honojs-typescript-from-bun-local-server-to-cloudflare-workers-4b4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
