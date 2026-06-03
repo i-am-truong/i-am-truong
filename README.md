@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How TradingAgents &lpar;82K★&rpar; could slash 70% of LLM costs with a gateway layer](https://dev.to/lynkr/how-tradingagents-82k-could-slash-70-of-llm-costs-with-a-gateway-layer-40p5)
-- [Data Architectures Powering Agentic AI](https://dev.to/shieldstring/data-architectures-powering-agentic-ai-4ll1)
-- [How to Pass CCNA on Your First Attempt: A Realistic 60-Day Study Plan](https://dev.to/fatemesmenodeacademy/how-to-pass-ccna-on-your-first-attempt-a-realistic-60-day-study-plan-57)
-- [Users Can Tell When Your UI Was AI-Generated - And They Don&#39;t Like It](https://dev.to/olehvolos/users-can-tell-when-your-ui-was-ai-generated-and-they-dont-like-it-33kn)
-- [Implement Authentication And/Or Authorization For Applications And AWS Services | 🏗️ Build A Secure Notes API](https://dev.to/aws-builders/implement-authentication-andor-authorization-for-applications-and-aws-services-build-a-secure-13op)
+- [AI wrote the PR. How do you know it actually works?](https://dev.to/moonrunnerkc/ai-wrote-the-pr-how-do-you-know-it-actually-works-40ai)
+- [Stop Typos in Your Browser IDE: The Best Spell Checker for VS Code Web Environments](https://dev.to/alphashark/stop-typos-in-your-browser-ide-the-best-spell-checker-for-vs-code-web-environments-195h)
+- [How To Write A Post Mortem Report Without Blame Language](https://dev.to/alphashark/how-to-write-a-post-mortem-report-without-blame-language-3j6n)
+- [100cc: roll your own Claude Code in 100 lines](https://dev.to/yujqiao/100cc-roll-your-own-claude-code-in-100-lines-26dp)
+- [The annoying part of building with company data is not displaying it, it’s cleaning it](https://dev.to/kyej_dev/the-annoying-part-of-building-with-company-data-is-not-displaying-it-its-cleaning-it-5e31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
