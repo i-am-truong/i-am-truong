@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Join the June Solstice Game Jam: $1,000 in prizes!](https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla)
-- [The new Power Platform Pro-Code Era: Code Apps vs Power Pages SPA](https://dev.to/_neronotte/the-new-power-platform-pro-code-era-code-apps-vs-power-pages-spa-4d37)
-- [Building a Real-Time, Event-Sourced Feature Flag System with Rust and WebAssembly](https://dev.to/therizwansaleem/building-a-real-time-event-sourced-feature-flag-system-with-rust-and-webassembly-3db9)
-- [Agentic Tech Debt](https://dev.to/brandincanfield/agentic-tech-debt-4g9l)
-- [Sentry SDK 2.x Auto-Integrations Flood Your Inbox — Here&#39;s the Filter](https://dev.to/sm1ck/sentry-sdk-2x-auto-integrations-flood-your-inbox-heres-the-filter-2b24)
+- [EcoVision: Reviving an AI-Powered Mobile App for Visually Impaired Accessibility with YOLOv8](https://dev.to/wilberbarcaya/ecovision-reviving-an-ai-powered-mobile-app-for-visually-impaired-accessibility-with-yolov8-3oa8)
+- [Stop Reading Documentation. Start Reading GitHub Issues.](https://dev.to/priya_sajja_c336921bbda87/stop-reading-documentation-start-reading-github-issues-1a6k)
+- [Triggering Lambda Durable Functions from SQS](https://dev.to/aws-builders/triggering-lambda-durable-functions-from-sqs-350e)
+- [Stop letting your hackathon API keys rot](https://dev.to/backboardio/stop-letting-your-hackathon-api-keys-rot-542j)
+- [Scarab Diagnostic Suite Field Test #006: Terraform Console Panic](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-006-terraform-console-panic-3n68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
