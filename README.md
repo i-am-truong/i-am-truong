@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The SMS Verification Market is Bigger Than Most People Realise: Data from 67,000+ Virtual Phone Numbers](https://dev.to/quackr/the-sms-verification-market-is-bigger-than-most-people-realise-data-from-67000-virtual-phone-2oh2)
-- [How Do You Design and Develop APIs the Git-Native Way?](https://dev.to/hassann/how-do-you-design-and-develop-apis-the-git-native-way-2691)
-- [The Container Port Binding Mistake That Breaks Almost Every First Deploy](https://dev.to/thpl/the-container-port-binding-mistake-that-breaks-almost-every-first-deploy-3fng)
-- [AI Native DevCon Day 2: From Agent Demos to Operating Models](https://dev.to/tessl/ai-native-devcon-day-2-from-agent-demos-to-operating-models-51hf)
-- [Building an Edge REST API with Hono.js + TypeScript — From Bun Local Server to Cloudflare Workers](https://dev.to/jangwook_kim_e31e7291ad98/building-an-edge-rest-api-with-honojs-typescript-from-bun-local-server-to-cloudflare-workers-4b4m)
+- [Cut Your Claude Token Consumption By 70x](https://dev.to/lorenzojkrl/cut-your-claude-token-consumption-by-70x-3kh2)
+- [Before You Self-Host n8n, Ask These Production Questions](https://dev.to/agntable/before-you-self-host-n8n-ask-these-production-questions-21c8)
+- [AI Crypto Glossary: Four Words That Break Wallet Agents](https://dev.to/aicryptosystems/ai-crypto-glossary-four-words-that-break-wallet-agents-2a6b)
+- [Local AST scanner that reduces AI coding agent token costs](https://dev.to/win_8885d862ed01a4/local-ast-scanner-that-reduces-ai-coding-agent-token-costs-12lp)
+- [5 Multi-Agent Patterns in Strands Agents: Which One and When](https://dev.to/aws-builders/5-multi-agent-patterns-in-strands-agents-which-one-and-when-48gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
