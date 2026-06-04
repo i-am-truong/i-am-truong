@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EcoVision: Reviving an AI-Powered Mobile App for Visually Impaired Accessibility with YOLOv8](https://dev.to/wilberbarcaya/ecovision-reviving-an-ai-powered-mobile-app-for-visually-impaired-accessibility-with-yolov8-3oa8)
-- [Stop Reading Documentation. Start Reading GitHub Issues.](https://dev.to/priya_sajja_c336921bbda87/stop-reading-documentation-start-reading-github-issues-1a6k)
-- [Triggering Lambda Durable Functions from SQS](https://dev.to/aws-builders/triggering-lambda-durable-functions-from-sqs-350e)
-- [Stop letting your hackathon API keys rot](https://dev.to/backboardio/stop-letting-your-hackathon-api-keys-rot-542j)
-- [Scarab Diagnostic Suite Field Test #006: Terraform Console Panic](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-006-terraform-console-panic-3n68)
+- [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc)
+- [Why AI Agents Keep Breaking Your Code &lpar;And What to Do About It&rpar;](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5bp0)
+- [Why AI Agents Keep Breaking Your Code — And What to Do About It](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5f14)
+- [Building a Rate Limiter That Actually Works](https://dev.to/timevolt/building-a-rate-limiter-that-actually-works-422p)
+- [The Safety Workaround That Worked, Until It Didn&#39;t](https://dev.to/sudee_sim/the-safety-workaround-that-worked-until-it-didnt-4hlb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
