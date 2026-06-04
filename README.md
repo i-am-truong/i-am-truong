@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous error remediation boosts AI coding agents with live context](https://dev.to/davekurian/autonomous-error-remediation-boosts-ai-coding-agents-with-live-context-2haf)
-- [I used Fennara MCP to build a real Godot demo project](https://dev.to/fennaraofficial/i-used-fennara-mcp-to-build-a-real-godot-demo-project-34dh)
-- [Self-Harm Detection in Online Platforms: Why It Matters More Than Ever](https://dev.to/cautionlabs/self-harm-detection-in-online-platforms-why-it-matters-more-than-ever-4m2h)
-- [CLT ou PJ? Descubra em 10 Minutos](https://dev.to/rafaelfl/clt-ou-pj-descubra-em-10-minutos-com-numeros-reais-5d13)
-- [Auth0 removes enabled_clients from connection reads July 13 — Terraform/Pulumi will silently see every client as disabled](https://dev.to/flarecanary/auth0-removes-enabledclients-from-connection-reads-july-13-terraformpulumi-will-silently-see-51hj)
+- [Conditional Statements](https://dev.to/raja_b_0c9d242e2c26cf063b/conditional-statements-4adb)
+- [RTL Shims: System.SysUtils and Classes | RTL: shims System.SysUtils e Classes](https://dev.to/crabpascal/rtl-shims-systemsysutils-and-classes-rtl-shims-systemsysutils-e-classes-39pl)
+- [Swift Enums](https://dev.to/gamya_m/swift-enums-3741)
+- [How I rotate Sanity draft mode secrets at the edge without redeploying Next.js](https://dev.to/nayankyada/how-i-rotate-sanity-draft-mode-secrets-at-the-edge-without-redeploying-nextjs-81b)
+- [Proof of Compute: The Receipt Is Not the Benchmark](https://dev.to/aicryptosystems/proof-of-compute-the-receipt-is-not-the-benchmark-lgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
