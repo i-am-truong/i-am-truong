@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc)
-- [Why AI Agents Keep Breaking Your Code &lpar;And What to Do About It&rpar;](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5bp0)
-- [Why AI Agents Keep Breaking Your Code — And What to Do About It](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5f14)
-- [Building a Rate Limiter That Actually Works](https://dev.to/timevolt/building-a-rate-limiter-that-actually-works-422p)
-- [The Safety Workaround That Worked, Until It Didn&#39;t](https://dev.to/sudee_sim/the-safety-workaround-that-worked-until-it-didnt-4hlb)
+- [Autonomous error remediation boosts AI coding agents with live context](https://dev.to/davekurian/autonomous-error-remediation-boosts-ai-coding-agents-with-live-context-2haf)
+- [I used Fennara MCP to build a real Godot demo project](https://dev.to/fennaraofficial/i-used-fennara-mcp-to-build-a-real-godot-demo-project-34dh)
+- [Self-Harm Detection in Online Platforms: Why It Matters More Than Ever](https://dev.to/cautionlabs/self-harm-detection-in-online-platforms-why-it-matters-more-than-ever-4m2h)
+- [CLT ou PJ? Descubra em 10 Minutos](https://dev.to/rafaelfl/clt-ou-pj-descubra-em-10-minutos-com-numeros-reais-5d13)
+- [Auth0 removes enabled_clients from connection reads July 13 — Terraform/Pulumi will silently see every client as disabled](https://dev.to/flarecanary/auth0-removes-enabledclients-from-connection-reads-july-13-terraformpulumi-will-silently-see-51hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
