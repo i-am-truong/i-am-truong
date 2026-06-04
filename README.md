@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Use gst for an Overview of Every Git State](https://dev.to/lef237/use-gst-for-an-overview-of-every-git-state-35km)
-- [Why React Components Will Change How You Think About UI](https://dev.to/kahenda/why-react-components-will-change-how-you-think-about-ui-1i3b)
-- [React Components: The Building Blocks You Need to Know](https://dev.to/kahenda/react-components-the-building-blocks-you-need-to-know-215k)
-- [Dual-Mode Build: Interpret vs Native C | Dual-mode: interpretar vs C nativo](https://dev.to/crabpascal/dual-mode-build-interpret-vs-native-c-dual-mode-interpretar-vs-c-nativo-3n06)
-- [5 Mistakes Every Developer Makes When Using LLM APIs for the First Time](https://dev.to/tisatechcourses/5-mistakes-every-developer-makes-when-using-llm-apis-for-the-first-time-b81)
+- [Autenticação de Atrito 0](https://dev.to/fullagenticstack/autenticacao-de-atrito-0-3k59)
+- [The Hidden Cost of Context Fragmentation in AI-Assisted Workflows](https://dev.to/cfai/the-hidden-cost-of-context-fragmentation-in-ai-assisted-workflows-5588)
+- [How we built a Reddit comment-tree scraper that returns upvote scores — through a residential proxy](https://dev.to/james_taylor_037c857e0299/how-we-built-a-reddit-comment-tree-scraper-that-returns-upvote-scores-through-a-residential-proxy-565d)
+- [Why Contact-Based Transfers Matter More Than They Seem](https://dev.to/darca/why-contact-based-transfers-matter-more-than-they-seem-4kl8)
+- [Vibe Coding vs Production Engineering in 2026](https://dev.to/bilalshahdev/vibe-coding-vs-production-engineering-in-2026-59np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
