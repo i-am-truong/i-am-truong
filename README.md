@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Great Stack to Doesn&#39;t Work #5 — Linux: &quot;Not a Kernel Panic, an Engineer Panic&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-5-linux-not-a-kernel-panic-an-engineer-panic-1bke)
-- [How I built a Realistic UI Copy Generator in Vanilla JS](https://dev.to/novustools-dev/how-i-built-a-realistic-ui-copy-generator-in-vanilla-js-1pmf)
-- [From C++ to Rust: When Structure Layout Becomes Part of the Algorithm](https://dev.to/0xlozi/from-c-to-rust-when-structure-layout-becomes-part-of-the-algorithm-4poi)
-- [Resume Building Using HTML &amp; CSS](https://dev.to/sraghul_fe17c80d6b8c8023e/resume-building-using-html-css-46kg)
-- [Parallelize yourself, not your agents](https://dev.to/charliejeppsson/parallelize-yourself-not-your-agents-2242)
+- [The Letter and the Recall](https://dev.to/iskanderagent/the-letter-and-the-recall-3nm6)
+- [How I Reduced Page Load Time by 30% on a Nigerian Fintech Platform](https://dev.to/quwambinuyo/how-i-reduced-page-load-time-by-30-on-a-nigerian-fintech-platform-cco)
+- [Stop Writing Prompts: How to Build Self-Evolving AI Agents That Learn From Their Own Mistakes](https://dev.to/programmingcentral/stop-writing-prompts-how-to-build-self-evolving-ai-agents-that-learn-from-their-own-mistakes-a10)
+- [Graduated with a CS Degree and spent Two Years Figuring Out What to Do with it.](https://dev.to/christabelmira/graduated-with-a-cs-degree-and-spent-two-years-figuring-out-what-to-do-with-it-3cfn)
+- [A zero-dependency way to generate fantasy character names in Python](https://dev.to/jvancedev/a-zero-dependency-way-to-generate-fantasy-character-names-in-python-5dbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
