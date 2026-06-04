@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Autenticação de Atrito 0](https://dev.to/fullagenticstack/autenticacao-de-atrito-0-3k59)
-- [The Hidden Cost of Context Fragmentation in AI-Assisted Workflows](https://dev.to/cfai/the-hidden-cost-of-context-fragmentation-in-ai-assisted-workflows-5588)
-- [How we built a Reddit comment-tree scraper that returns upvote scores — through a residential proxy](https://dev.to/james_taylor_037c857e0299/how-we-built-a-reddit-comment-tree-scraper-that-returns-upvote-scores-through-a-residential-proxy-565d)
-- [Why Contact-Based Transfers Matter More Than They Seem](https://dev.to/darca/why-contact-based-transfers-matter-more-than-they-seem-4kl8)
-- [Vibe Coding vs Production Engineering in 2026](https://dev.to/bilalshahdev/vibe-coding-vs-production-engineering-in-2026-59np)
+- [Great Stack to Doesn&#39;t Work #5 — Linux: &quot;Not a Kernel Panic, an Engineer Panic&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-5-linux-not-a-kernel-panic-an-engineer-panic-1bke)
+- [How I built a Realistic UI Copy Generator in Vanilla JS](https://dev.to/novustools-dev/how-i-built-a-realistic-ui-copy-generator-in-vanilla-js-1pmf)
+- [From C++ to Rust: When Structure Layout Becomes Part of the Algorithm](https://dev.to/0xlozi/from-c-to-rust-when-structure-layout-becomes-part-of-the-algorithm-4poi)
+- [Resume Building Using HTML &amp; CSS](https://dev.to/sraghul_fe17c80d6b8c8023e/resume-building-using-html-css-46kg)
+- [Parallelize yourself, not your agents](https://dev.to/charliejeppsson/parallelize-yourself-not-your-agents-2242)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
