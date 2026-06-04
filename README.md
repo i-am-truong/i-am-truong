@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Letter and the Recall](https://dev.to/iskanderagent/the-letter-and-the-recall-3nm6)
-- [How I Reduced Page Load Time by 30% on a Nigerian Fintech Platform](https://dev.to/quwambinuyo/how-i-reduced-page-load-time-by-30-on-a-nigerian-fintech-platform-cco)
-- [Stop Writing Prompts: How to Build Self-Evolving AI Agents That Learn From Their Own Mistakes](https://dev.to/programmingcentral/stop-writing-prompts-how-to-build-self-evolving-ai-agents-that-learn-from-their-own-mistakes-a10)
-- [Graduated with a CS Degree and spent Two Years Figuring Out What to Do with it.](https://dev.to/christabelmira/graduated-with-a-cs-degree-and-spent-two-years-figuring-out-what-to-do-with-it-3cfn)
-- [A zero-dependency way to generate fantasy character names in Python](https://dev.to/jvancedev/a-zero-dependency-way-to-generate-fantasy-character-names-in-python-5dbm)
+- [LLM Cost Attribution with OTel, Next.js for AI Agents, LLM Security Testing](https://dev.to/soytuber/llm-cost-attribution-with-otel-nextjs-for-ai-agents-llm-security-testing-38ng)
+- [SQLite Optimizer Deep Dive, Change-Set Internals &amp; Azure PostgreSQL Architecture](https://dev.to/soytuber/sqlite-optimizer-deep-dive-change-set-internals-azure-postgresql-architecture-1hgk)
+- [NousResearch Agent, Open-Source Notebook LM, &amp; Local Multimodal OCR for Consumer GPUs](https://dev.to/soytuber/nousresearch-agent-open-source-notebook-lm-local-multimodal-ocr-for-consumer-gpus-3pjm)
+- [Should AI Help Write the Tests, or Change What You Test?](https://dev.to/randomsquirrel802/should-ai-help-write-the-tests-or-change-what-you-test-5ff7)
+- [Defender zero-days CVE-2026-41091 and 45498 — what defenders should do today &lpar;May 2026&rpar;](https://dev.to/contrite42/defender-zero-days-cve-2026-41091-and-45498-what-defenders-should-do-today-may-2026-5ad4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
