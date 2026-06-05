@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up OpenClaw on ZimaCube: It&#39;s Easier Than You Think](https://dev.to/opensourceyllen/setting-up-openclaw-on-zimacube-its-easier-than-you-think-2ma3)
-- [We found a data-loss bug that alembic downgrade ran clean](https://dev.to/croc100/we-found-a-data-loss-bug-that-alembic-downgrade-ran-clean-n4h)
-- [Passive Event Listeners in JavaScript: A Simple Fix for Smooth Mobile Scrolling](https://dev.to/joodi/passive-event-listeners-in-javascript-a-simple-fix-for-smooth-mobile-scrolling-55lp)
-- [From Forgotten Repo to Production: Rebuilding AdeptAI for the GitHub Finish-Up-A-Thon](https://dev.to/gurudev007/from-forgotten-repo-to-production-rebuilding-adeptai-for-the-github-finish-up-a-thon-150o)
-- [EnvArmor: AI-Aware Env Secrets Security Platform](https://dev.to/alimahmood/envarmor-ai-aware-env-secrets-security-platform-4ho5)
+- [Google Colab, but in your favourite terminal](https://dev.to/gde/google-colab-but-in-your-favourite-terminal-5hf8)
+- [Open Source, Co-Ops and a History of Bias in Corporate America](https://dev.to/glind/open-source-co-ops-and-a-history-of-bias-in-corporate-america-3k60)
+- [AI Code Security: Claude&#39;s rsync Bugs; Europe&#39;s GNSS Interference &amp; GPS Anomalies](https://dev.to/soytuber/ai-code-security-claudes-rsync-bugs-europes-gnss-interference-gps-anomalies-5acf)
+- [Dropbox Nova for AI Coding Agents, OpenAI&#39;s Codex Sandbox, &amp; Puppeteer MCP Server](https://dev.to/soytuber/dropbox-nova-for-ai-coding-agents-openais-codex-sandbox-puppeteer-mcp-server-3ff5)
+- [DuckDB Integrates Lance Lakehouse; SQLite CVE Fix; Postgres 19 Beta on K8s](https://dev.to/soytuber/duckdb-integrates-lance-lakehouse-sqlite-cve-fix-postgres-19-beta-on-k8s-4m91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
