@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Release on Demand](https://dev.to/imacto/release-on-demand-4cpm)
-- [SOLID Principles Explained in Simple Words🌻](https://dev.to/rashmi_010/solid-principles-explained-in-simple-words-1m93)
-- [Applying Checkov to Terraform as Code: A TFSEC Alternative](https://dev.to/ikers/applying-checkov-to-terraform-as-code-a-tfsec-alternative-3nga)
-- [FHIR Patient identity as the spine of clinic platform design](https://dev.to/black_flow_f64ebf0bdf6fde/fhir-patient-identity-as-the-spine-of-clinic-platform-design-3p44)
-- [Machine Learning for Data Engineers: The Patterns I Actually Used Across 7 Projects](https://dev.to/de_clerke/machine-learning-for-data-engineers-the-patterns-i-actually-used-across-7-projects-eoi)
+- [Setting Up OpenClaw on ZimaCube: It&#39;s Easier Than You Think](https://dev.to/opensourceyllen/setting-up-openclaw-on-zimacube-its-easier-than-you-think-2ma3)
+- [We found a data-loss bug that alembic downgrade ran clean](https://dev.to/croc100/we-found-a-data-loss-bug-that-alembic-downgrade-ran-clean-n4h)
+- [Passive Event Listeners in JavaScript: A Simple Fix for Smooth Mobile Scrolling](https://dev.to/joodi/passive-event-listeners-in-javascript-a-simple-fix-for-smooth-mobile-scrolling-55lp)
+- [From Forgotten Repo to Production: Rebuilding AdeptAI for the GitHub Finish-Up-A-Thon](https://dev.to/gurudev007/from-forgotten-repo-to-production-rebuilding-adeptai-for-the-github-finish-up-a-thon-150o)
+- [EnvArmor: AI-Aware Env Secrets Security Platform](https://dev.to/alimahmood/envarmor-ai-aware-env-secrets-security-platform-4ho5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
