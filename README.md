@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What bothered me about the new SafeBreach Gemini paper wasn&#39;t the exploit](https://dev.to/agentshield/what-bothered-me-about-the-new-safebreach-gemini-paper-wasnt-the-exploit-1h29)
-- [Automating Threat Hunts: Building a SOC on a Startup Budget](https://dev.to/mamuaminu/automating-threat-hunts-building-a-soc-on-a-startup-budget-4fch)
-- [Security in React, React Compiler Rust Port, Server Functions in parallel, Auth book, Vercel Sandbox Docker Support](https://dev.to/erfanebrahimnia/security-in-react-react-compiler-rust-port-server-functions-in-parallel-auth-book-vercel-2d0d)
-- [usePagination: 3 lines of code, infinite possibilities](https://dev.to/coderhu/usepagination-3-lines-of-code-infinite-possibilities-43mp)
-- [The One Thing That Actually Got Me Through FAANG Interviews](https://dev.to/timevolt/the-one-thing-that-actually-got-me-through-faang-interviews-360h)
+- [Picking the right resale platform is a routing problem, not a price problem](https://dev.to/shoogarsoft/picking-the-right-resale-platform-is-a-routing-problem-not-a-price-problem-34md)
+- [&#39;Just export it&#39; is the most expensive advice in vibe-coding](https://dev.to/davekurian/just-export-it-is-the-most-expensive-advice-in-vibe-coding-24fi)
+- [Rork can scaffold a React Native app. It can&#39;t follow you to the App Store.](https://dev.to/davekurian/rork-can-scaffold-a-react-native-app-it-cant-follow-you-to-the-app-store-9h)
+- [AZ-900 vs AZ-104: Which Azure Certification Should You Take First?](https://dev.to/nerdexam/az-900-vs-az-104-which-azure-certification-should-you-take-first-mmb)
+- [I deleted a working server to save a recurring fee](https://dev.to/chiefmojo79/i-deleted-a-working-server-to-save-a-recurring-fee-3cn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
