@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Colab, but in your favourite terminal](https://dev.to/gde/google-colab-but-in-your-favourite-terminal-5hf8)
-- [Open Source, Co-Ops and a History of Bias in Corporate America](https://dev.to/glind/open-source-co-ops-and-a-history-of-bias-in-corporate-america-3k60)
-- [AI Code Security: Claude&#39;s rsync Bugs; Europe&#39;s GNSS Interference &amp; GPS Anomalies](https://dev.to/soytuber/ai-code-security-claudes-rsync-bugs-europes-gnss-interference-gps-anomalies-5acf)
-- [Dropbox Nova for AI Coding Agents, OpenAI&#39;s Codex Sandbox, &amp; Puppeteer MCP Server](https://dev.to/soytuber/dropbox-nova-for-ai-coding-agents-openais-codex-sandbox-puppeteer-mcp-server-3ff5)
-- [DuckDB Integrates Lance Lakehouse; SQLite CVE Fix; Postgres 19 Beta on K8s](https://dev.to/soytuber/duckdb-integrates-lance-lakehouse-sqlite-cve-fix-postgres-19-beta-on-k8s-4m91)
+- [June 2026 Check In: A Progress Update on the Last 6 Months](https://dev.to/theoriginalbpc/june-2026-check-in-a-progress-update-on-the-last-6-months-595g)
+- [Here to Learn](https://dev.to/teeteate/here-to-learn-242j)
+- [REST API Design: Building APIs That Developers Love &lpar;2026&rpar;](https://dev.to/armorbreak/rest-api-design-building-apis-that-developers-love-2026-3lp3)
+- [Git: The Tool That Saves Your Code and Your Career](https://dev.to/agenticdevops/git-the-tool-that-saves-your-code-and-your-career-2ahd)
+- [Enigma Breaker - A Cipher Decoding Game Built as an Ode to Alan Turing published](https://dev.to/snipforge/enigma-breaker-a-cipher-decoding-game-built-as-an-ode-to-alan-turingpublished-5hb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
