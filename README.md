@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Estou criando minha própria linguagem de programação em Python](https://dev.to/callebe_josuecantu/estou-criando-minha-propria-linguagem-de-programacao-em-python-57e2)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-i5m)
-- [AI at the Crossroads: Between the Profitability Mirage and the Reality of Efficiency](https://dev.to/ndabene/ai-at-the-crossroads-between-the-profitability-mirage-and-the-reality-of-efficiency-1m0)
-- [Bridging the Rigidity Gap: Deploying Secure Agentic RAG in Healthcare Governance](https://dev.to/mindy_jen_phd/bridging-the-rigidity-gap-deploying-secure-agentic-rag-in-healthcare-governance-462n)
+- [Building a Real-Time Chat Feature with Django Channels and React](https://dev.to/uchitchakma/building-a-real-time-chat-feature-with-django-channels-and-react-4e7e)
+- [Build Your Own MCP Server from Scratch](https://dev.to/michal_szalinski_91bf893d/build-your-own-mcp-server-from-scratch-2mn7)
+- [Claude agent vs Claude Code: which one are you actually building?](https://dev.to/zied_mnif_2f4225fb8d70342/claude-agent-vs-claude-code-which-one-are-you-actually-building-5ek9)
+- [the developer laptop is the first production environment for agents](https://dev.to/pvgomes/the-developer-laptop-is-the-first-production-environment-for-agents-201f)
+- [Oracle ORA-00264 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00264-error-causes-and-solutions-complete-guide-330)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
