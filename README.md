@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Chat Feature with Django Channels and React](https://dev.to/uchitchakma/building-a-real-time-chat-feature-with-django-channels-and-react-4e7e)
-- [Build Your Own MCP Server from Scratch](https://dev.to/michal_szalinski_91bf893d/build-your-own-mcp-server-from-scratch-2mn7)
-- [Claude agent vs Claude Code: which one are you actually building?](https://dev.to/zied_mnif_2f4225fb8d70342/claude-agent-vs-claude-code-which-one-are-you-actually-building-5ek9)
-- [the developer laptop is the first production environment for agents](https://dev.to/pvgomes/the-developer-laptop-is-the-first-production-environment-for-agents-201f)
-- [Oracle ORA-00264 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00264-error-causes-and-solutions-complete-guide-330)
+- [YAML Formatter: a YAML Formatter tool that never sees your data](https://dev.to/crypto_plato_26/yaml-formatter-a-yaml-formatter-tool-that-never-sees-your-data-4ch2)
+- [Rate Limiting Done Right: Respecting X&#39;s Anti-Abuse Stack](https://dev.to/helperx/rate-limiting-done-right-respecting-xs-anti-abuse-stack-3md2)
+- [Variables and Data Types in Python](https://dev.to/nicholus_mush_af352791aab/variables-and-data-types-in-python-3975)
+- [Day 25 - Helm Chart](https://dev.to/17j/day-25-helm-chart-898)
+- [Preventing Cloud Configuration Drift Without the Headache of State Files](https://dev.to/mechcloud/preventing-cloud-configuration-drift-without-the-headache-of-state-files-34la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
