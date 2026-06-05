@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Stopped Fighting Regex and Finally Extracted Data with LLMs](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-stopped-fighting-regex-and-finally-extracted-data-with-llms-555i)
-- [Spectre and Meltdown: When CPUs Leak Secrets by Guessing](https://dev.to/havenmessenger/spectre-and-meltdown-when-cpus-leak-secrets-by-guessing-1kcm)
-- [Building a bridge to connect AI coding agents with your UI smoothly](https://dev.to/davekurian/building-a-bridge-to-connect-ai-coding-agents-with-your-ui-smoothly-5aoh)
-- [AI needs a brake pedal before the next model jump](https://dev.to/jenueldev/ai-needs-a-brake-pedal-before-the-next-model-jump-3jcj)
-- [Local AI: The Hidden Green Revolution Inside Your Computer](https://dev.to/perkysue/local-ai-the-hidden-green-revolution-inside-your-computer-521c)
+- [What bothered me about the new SafeBreach Gemini paper wasn&#39;t the exploit](https://dev.to/agentshield/what-bothered-me-about-the-new-safebreach-gemini-paper-wasnt-the-exploit-1h29)
+- [Automating Threat Hunts: Building a SOC on a Startup Budget](https://dev.to/mamuaminu/automating-threat-hunts-building-a-soc-on-a-startup-budget-4fch)
+- [Security in React, React Compiler Rust Port, Server Functions in parallel, Auth book, Vercel Sandbox Docker Support](https://dev.to/erfanebrahimnia/security-in-react-react-compiler-rust-port-server-functions-in-parallel-auth-book-vercel-2d0d)
+- [usePagination: 3 lines of code, infinite possibilities](https://dev.to/coderhu/usepagination-3-lines-of-code-infinite-possibilities-43mp)
+- [The One Thing That Actually Got Me Through FAANG Interviews](https://dev.to/timevolt/the-one-thing-that-actually-got-me-through-faang-interviews-360h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
