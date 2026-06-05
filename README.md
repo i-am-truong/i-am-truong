@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Picking the right resale platform is a routing problem, not a price problem](https://dev.to/shoogarsoft/picking-the-right-resale-platform-is-a-routing-problem-not-a-price-problem-34md)
-- [&#39;Just export it&#39; is the most expensive advice in vibe-coding](https://dev.to/davekurian/just-export-it-is-the-most-expensive-advice-in-vibe-coding-24fi)
-- [Rork can scaffold a React Native app. It can&#39;t follow you to the App Store.](https://dev.to/davekurian/rork-can-scaffold-a-react-native-app-it-cant-follow-you-to-the-app-store-9h)
-- [AZ-900 vs AZ-104: Which Azure Certification Should You Take First?](https://dev.to/nerdexam/az-900-vs-az-104-which-azure-certification-should-you-take-first-mmb)
-- [I deleted a working server to save a recurring fee](https://dev.to/chiefmojo79/i-deleted-a-working-server-to-save-a-recurring-fee-3cn0)
+- [Analyzing Polymarket Order Books with Python: Building Liquidity Intelligence for Prediction Markets](https://dev.to/mateosoul/analyzing-polymarket-order-books-with-python-building-liquidity-intelligence-for-prediction-markets-1ipi)
+- [Getting Started with pg_durable: Durable Workflows Inside PostgreSQL](https://dev.to/franckpachot/getting-started-with-pgdurable-durable-workflows-inside-postgresql-3980)
+- [Road To KiwiEngine #10: Why Sugar Isn’t Just Another Page Builder](https://dev.to/stinklewinks/road-to-kiwiengine-10-why-sugar-isnt-just-another-page-builder-1n2d)
+- [MAI-Thinking-1: Microsoft&#39;s New Reasoning Model and What It Means for Developers](https://dev.to/arshtechpro/mai-thinking-1-microsofts-new-reasoning-model-and-what-it-means-for-developers-2fma)
+- [Building Dynamic Yup Validation Schemas from JSON in React + Formik &lpar;Part 2&rpar;](https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
