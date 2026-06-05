@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing Polymarket Order Books with Python: Building Liquidity Intelligence for Prediction Markets](https://dev.to/mateosoul/analyzing-polymarket-order-books-with-python-building-liquidity-intelligence-for-prediction-markets-1ipi)
-- [Getting Started with pg_durable: Durable Workflows Inside PostgreSQL](https://dev.to/franckpachot/getting-started-with-pgdurable-durable-workflows-inside-postgresql-3980)
-- [Road To KiwiEngine #10: Why Sugar Isn’t Just Another Page Builder](https://dev.to/stinklewinks/road-to-kiwiengine-10-why-sugar-isnt-just-another-page-builder-1n2d)
-- [MAI-Thinking-1: Microsoft&#39;s New Reasoning Model and What It Means for Developers](https://dev.to/arshtechpro/mai-thinking-1-microsofts-new-reasoning-model-and-what-it-means-for-developers-2fma)
-- [Building Dynamic Yup Validation Schemas from JSON in React + Formik &lpar;Part 2&rpar;](https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d)
+- [Release on Demand](https://dev.to/imacto/release-on-demand-4cpm)
+- [SOLID Principles Explained in Simple Words🌻](https://dev.to/rashmi_010/solid-principles-explained-in-simple-words-1m93)
+- [Applying Checkov to Terraform as Code: A TFSEC Alternative](https://dev.to/ikers/applying-checkov-to-terraform-as-code-a-tfsec-alternative-3nga)
+- [FHIR Patient identity as the spine of clinic platform design](https://dev.to/black_flow_f64ebf0bdf6fde/fhir-patient-identity-as-the-spine-of-clinic-platform-design-3p44)
+- [Machine Learning for Data Engineers: The Patterns I Actually Used Across 7 Projects](https://dev.to/de_clerke/machine-learning-for-data-engineers-the-patterns-i-actually-used-across-7-projects-eoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
