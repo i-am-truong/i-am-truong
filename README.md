@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YAML Formatter: a YAML Formatter tool that never sees your data](https://dev.to/crypto_plato_26/yaml-formatter-a-yaml-formatter-tool-that-never-sees-your-data-4ch2)
-- [Rate Limiting Done Right: Respecting X&#39;s Anti-Abuse Stack](https://dev.to/helperx/rate-limiting-done-right-respecting-xs-anti-abuse-stack-3md2)
-- [Variables and Data Types in Python](https://dev.to/nicholus_mush_af352791aab/variables-and-data-types-in-python-3975)
-- [Day 25 - Helm Chart](https://dev.to/17j/day-25-helm-chart-898)
-- [Preventing Cloud Configuration Drift Without the Headache of State Files](https://dev.to/mechcloud/preventing-cloud-configuration-drift-without-the-headache-of-state-files-34la)
+- [How I Stopped Fighting Regex and Finally Extracted Data with LLMs](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-stopped-fighting-regex-and-finally-extracted-data-with-llms-555i)
+- [Spectre and Meltdown: When CPUs Leak Secrets by Guessing](https://dev.to/havenmessenger/spectre-and-meltdown-when-cpus-leak-secrets-by-guessing-1kcm)
+- [Building a bridge to connect AI coding agents with your UI smoothly](https://dev.to/davekurian/building-a-bridge-to-connect-ai-coding-agents-with-your-ui-smoothly-5aoh)
+- [AI needs a brake pedal before the next model jump](https://dev.to/jenueldev/ai-needs-a-brake-pedal-before-the-next-model-jump-3jcj)
+- [Local AI: The Hidden Green Revolution Inside Your Computer](https://dev.to/perkysue/local-ai-the-hidden-green-revolution-inside-your-computer-521c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
