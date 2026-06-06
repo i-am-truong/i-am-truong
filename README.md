@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Building a Multi-Model AI Gateway Taught Me About Reliability](https://dev.to/mundo_ghose_bb3af8bcb2bc3/what-building-a-multi-model-ai-gateway-taught-me-about-reliability-2373)
-- [3 React Native Bugs That Crashed on Device but Passed Every Test](https://dev.to/diven_rastdus_c5af27d68f3/3-react-native-bugs-that-crashed-on-device-but-passed-every-test-5fbd)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/ian_kaizer_8ed6e2bfe9c3f3/how-excel-is-used-in-real-world-data-analysis-jeg)
-- [How Automating RAG Memory Tests with ChromaDB Quadrupled Our Bug Discovery Rate](https://dev.to/_eb7f2a654e97a60ae9f96e/how-automating-rag-memory-tests-with-chromadb-quadrupled-our-bug-discovery-rate-443g)
-- [I Built a Money-Making Machine with Free AI Tools — Here&#39;s the Full Blueprint](https://dev.to/kaithorne/i-built-a-money-making-machine-with-free-ai-tools-heres-the-full-blueprint-50ib)
+- [The Hidden Cost of Keeping WordPress and Your CRM in Sync](https://dev.to/kh4l33l/the-hidden-cost-of-keeping-wordpress-and-your-crm-in-sync-3bnb)
+- [Ransomware wiped a client&#39;s entire server. I rebuilt it solo in 2 months.](https://dev.to/front-line/ransomware-wiped-a-clients-entire-server-i-rebuilt-it-solo-in-2-months-51n)
+- [Why Your CI/CD Pipeline Is Slower Than It Should Be](https://dev.to/crescevo/why-your-cicd-pipeline-is-slower-than-it-should-be-16ob)
+- [Shell Programming Best Practices](https://dev.to/chicks/shell-programming-best-practices-2d8e)
+- [Hello, dev.to — I&#39;m Victor: 10+ years full-stack, two CTO runs, now solo and writing in the open](https://dev.to/front-line/hello-devto-im-victor-10-years-full-stack-two-cto-runs-now-solo-and-writing-in-the-open-1bo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
