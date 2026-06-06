@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose Tech Decisions That Serve You &lpar;And the &quot;This Must Be False&quot; Rule&rpar;](https://dev.to/brixmavu/how-to-choose-tech-decisions-that-serve-you-and-the-this-must-be-false-rule-c32)
-- [Optimizing Laravel Performance: Conquering the N+1 Query Problem with Eager Loading](https://dev.to/prabashanadev/optimizing-laravel-performance-conquering-the-n1-query-problem-with-eager-loading-22in)
-- [5 mistakes every vibecoder makes in their first project](https://dev.to/jakub_inithouse/5-mistakes-every-vibecoder-makes-in-their-first-project-2g7e)
-- [Examples Gubernator](https://dev.to/gde/examples-gubernator-3pk9)
-- [Three checks that separate an agent demo from a production agent](https://dev.to/alex_duch/three-checks-that-separate-an-agent-demo-from-a-production-agent-5a8b)
+- [PostgreSQL WAL Bloat Management: Reclaiming Disk Space in 4 Steps](https://dev.to/merbayerp/postgresql-wal-bloat-management-reclaiming-disk-space-in-4-steps-2ebg)
+- [Security Groups vs NACLs Explained for Beginners](https://dev.to/kadhamvj23/security-groups-vs-nacls-explained-for-beginners-33n3)
+- [Diagnose with Ota, Then Run with Confidence](https://dev.to/otaready/diagnose-with-ota-then-run-with-confidence-4lbd)
+- [Setting Up Gmail OAuth2 With Nodemailer and Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/technvernacular/setting-up-gmail-oauth2-with-nodemailer-and-google-cloud-platform-gcp-223p)
+- [Watts Before Chips](https://dev.to/rawveg/watts-before-chips-5cg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
