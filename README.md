@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Keeping WordPress and Your CRM in Sync](https://dev.to/kh4l33l/the-hidden-cost-of-keeping-wordpress-and-your-crm-in-sync-3bnb)
-- [Ransomware wiped a client&#39;s entire server. I rebuilt it solo in 2 months.](https://dev.to/front-line/ransomware-wiped-a-clients-entire-server-i-rebuilt-it-solo-in-2-months-51n)
-- [Why Your CI/CD Pipeline Is Slower Than It Should Be](https://dev.to/crescevo/why-your-cicd-pipeline-is-slower-than-it-should-be-16ob)
-- [Shell Programming Best Practices](https://dev.to/chicks/shell-programming-best-practices-2d8e)
-- [Hello, dev.to — I&#39;m Victor: 10+ years full-stack, two CTO runs, now solo and writing in the open](https://dev.to/front-line/hello-devto-im-victor-10-years-full-stack-two-cto-runs-now-solo-and-writing-in-the-open-1bo2)
+- [Road To KiwiEngine #11: Why I’m Building Sovereign AI Instead of Another AI Wrapper](https://dev.to/stinklewinks/road-to-kiwiengine-11-why-im-building-sovereign-ai-instead-of-another-ai-wrapper-49j)
+- [Online School, Messy Billing, and the Proration Rabbit Hole](https://dev.to/tomiloba2/online-school-messy-billing-and-the-proration-rabbit-hole-d66)
+- [Accessible Forms in React Native: A Complete Reference Guide](https://dev.to/alexjjackson/accessible-forms-in-react-native-a-complete-reference-guide-115o)
+- [Crack the Code Before the Sun Sets — My June Solstice Game Jam Entry](https://dev.to/gtxoffic/crack-the-code-before-the-sun-sets-my-june-solstice-game-jam-entry-2598)
+- [GBase 8c DDL Change Risks: Object Dependencies and Troubleshooting](https://dev.to/michaelfv/gbase-8c-ddl-change-risks-object-dependencies-and-troubleshooting-2jlb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
