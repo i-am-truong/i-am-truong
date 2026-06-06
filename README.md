@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Give your AI coding agent a publish-HTML button &lpar;with MCP&rpar;](https://dev.to/stevysmith/give-your-ai-coding-agent-a-publish-html-button-with-mcp-1ghi)
-- [Time Math Is Harder Than It Looks: 6 Duration Bugs and How to Avoid Them](https://dev.to/anh_qunnguyn_57549060f/time-math-is-harder-than-it-looks-6-duration-bugs-and-how-to-avoid-them-3j8m)
-- [Reset Windows Are Product Design](https://dev.to/amitrix/reset-windows-are-product-design-17n8)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-7gb)
-- [FadeKey: zero-knowledge, self-destructing secret sharing engine](https://dev.to/juliangn/fadekey-zero-knowledge-self-destructing-secret-sharing-engine-598k)
+- [Thank you .](https://dev.to/modex_1234/thank-you--i59)
+- [The Dunning-Kruger Effect, Now Available at Enterprise Scale](https://dev.to/keithjmackay/the-dunning-kruger-effect-now-available-at-enterprise-scale-1hnh)
+- [Writers Who Use AI Without a Harness Are One Published Article From Disaster](https://dev.to/keithjmackay/writers-who-use-ai-without-a-harness-are-one-published-article-from-disaster-3gf2)
+- [Your velocity number is a probability wearing a disguise 🥸](https://dev.to/mattlewandowski93/your-velocity-number-is-a-probability-wearing-a-disguise-1ajj)
+- [I stopped talking in my 1-on-1s and they finally got useful 💭](https://dev.to/kelly_lewandowski_845215e/i-stopped-talking-in-my-1-on-1s-and-they-finally-got-useful-56ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
