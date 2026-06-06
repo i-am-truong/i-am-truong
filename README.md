@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Road To KiwiEngine #11: Why I’m Building Sovereign AI Instead of Another AI Wrapper](https://dev.to/stinklewinks/road-to-kiwiengine-11-why-im-building-sovereign-ai-instead-of-another-ai-wrapper-49j)
-- [Online School, Messy Billing, and the Proration Rabbit Hole](https://dev.to/tomiloba2/online-school-messy-billing-and-the-proration-rabbit-hole-d66)
-- [Accessible Forms in React Native: A Complete Reference Guide](https://dev.to/alexjjackson/accessible-forms-in-react-native-a-complete-reference-guide-115o)
-- [Crack the Code Before the Sun Sets — My June Solstice Game Jam Entry](https://dev.to/gtxoffic/crack-the-code-before-the-sun-sets-my-june-solstice-game-jam-entry-2598)
-- [GBase 8c DDL Change Risks: Object Dependencies and Troubleshooting](https://dev.to/michaelfv/gbase-8c-ddl-change-risks-object-dependencies-and-troubleshooting-2jlb)
+- [7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output](https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd)
+- [84% of crypto traders lost money last year. Their analysis wasn&#39;t the problem.](https://dev.to/jerry_chen_dbaa6838e17336/84-of-crypto-traders-lost-money-last-year-their-analysis-wasnt-the-problem-4o3l)
+- [Your trading bot automated the wrong thing](https://dev.to/jerry_chen_dbaa6838e17336/your-trading-bot-automated-the-wrong-thing-13m7)
+- [I watched 351,000 traders get liquidated in a day. Here&#39;s the part that actually matters.](https://dev.to/jerry_chen_dbaa6838e17336/i-watched-351000-traders-get-liquidated-in-a-day-heres-the-part-that-actually-matters-c17)
+- [Even BlackRock stopped trusting a single AI model. Retail traders should take the hint.](https://dev.to/jerry_chen_dbaa6838e17336/even-blackrock-stopped-trusting-a-single-ai-model-retail-traders-should-take-the-hint-55c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
