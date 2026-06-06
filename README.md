@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Generated Replies at Scale: Lessons from 100K+ Automated Responses](https://dev.to/helperx/ai-generated-replies-at-scale-lessons-from-100k-automated-responses-321f)
-- [Automating Daily Dev Chores with Claude Code and GitHub Actions: 3 Workflows I Use](https://dev.to/_7fb6011b57d383122b5a/automating-daily-dev-chores-with-claude-code-and-github-actions-3-workflows-that-saved-me-6-hours-54gh)
-- [Fine-tuned 7B LLM as a broke student. And Can&#39;t even use it 😭.](https://dev.to/akshat-ray/fine-tuned-7b-llm-as-a-broke-student-and-cant-even-use-it--de7)
-- [scan&lpar;&rpar; Is Reduce For Infinite Data](https://dev.to/amrishkhan05/scan-is-reduce-for-infinite-data-5bck)
-- [Why Coding Stays in Human-AI Collaboration: A Paradox in Stanford&#39;s 51 Deployments](https://dev.to/aws-builders/why-coding-stays-in-human-ai-collaboration-a-paradox-in-stanfords-51-deployments-1kpi)
+- [Polyglot Monorepo Magic: TypeScript, Python, and Go in One Repo](https://dev.to/_mh/polyglot-monorepo-magic-typescript-python-and-go-in-one-repo-298n)
+- [Your AI Agent Needs Communication Modes, Not a Voice Clone](https://dev.to/amitrix/your-ai-agent-needs-communication-modes-not-a-voice-clone-1526)
+- [硅谷101访谈RSI田渊栋](https://dev.to/cognitalk/huo-gu-101fang-tan-rsitian-yuan-dong-24f)
+- [SQL Server updates and patches](https://dev.to/mihalykertesz/sql-server-updates-and-patches-8ah)
+- [The Website Is Not the Product](https://dev.to/amitrix/the-website-is-not-the-product-2pdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
