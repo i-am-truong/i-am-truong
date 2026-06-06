@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Governance Scaffold to Runtime Foundation: A Milestone for HHI Runtime Core](https://dev.to/hollowhouse/from-governance-scaffold-to-runtime-foundation-a-milestone-for-hhi-runtime-core-25lj)
-- [31/60 Days System Design Questions!](https://dev.to/thejoud1997/3160-days-system-design-questions-koo)
-- [The Last Capacity Planning Sheet You&#39;ll Ever Need](https://dev.to/nbouvrette/the-last-capacity-planning-sheet-youll-ever-need-l52)
-- [Rust Was Crashing. Go Fixed It. Copilot Showed Me Why](https://dev.to/fz0x00/rust-was-crashing-go-fixed-it-copilot-showed-me-why-45bd)
-- [Circular Injection in Database Design.](https://dev.to/robson_idongesitsamuel_b/circular-injection-indatabase-design-1fm)
+- [Clean Architecture Revisited](https://dev.to/codegandalf/clean-architecture-revisited-59lg)
+- [Why I started documenting everything I learn as a web developer](https://dev.to/webcodeveloper_d340ce1327/why-i-started-documenting-everything-i-learn-as-a-web-developer-4jko)
+- [Closing the execution gap: a series](https://dev.to/thearun85/closing-the-execution-gap-a-series-3490)
+- [Supercharge your macOS workspace management with Aerospace - A guide for busy people](https://dev.to/sydalwedaie/supercharge-your-macos-workspace-management-with-aerospace-a-guide-for-busy-people-3aj6)
+- [Non-Human Identity Governance: Field Tips for 2026](https://dev.to/indra_gustiprasetya_a80a/non-human-identity-governance-field-tips-for-2026-20dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
