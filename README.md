@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Polyglot Monorepo Magic: TypeScript, Python, and Go in One Repo](https://dev.to/_mh/polyglot-monorepo-magic-typescript-python-and-go-in-one-repo-298n)
-- [Your AI Agent Needs Communication Modes, Not a Voice Clone](https://dev.to/amitrix/your-ai-agent-needs-communication-modes-not-a-voice-clone-1526)
-- [硅谷101访谈RSI田渊栋](https://dev.to/cognitalk/huo-gu-101fang-tan-rsitian-yuan-dong-24f)
-- [SQL Server updates and patches](https://dev.to/mihalykertesz/sql-server-updates-and-patches-8ah)
-- [The Website Is Not the Product](https://dev.to/amitrix/the-website-is-not-the-product-2pdf)
+- [How to Choose Tech Decisions That Serve You &lpar;And the &quot;This Must Be False&quot; Rule&rpar;](https://dev.to/brixmavu/how-to-choose-tech-decisions-that-serve-you-and-the-this-must-be-false-rule-c32)
+- [Optimizing Laravel Performance: Conquering the N+1 Query Problem with Eager Loading](https://dev.to/prabashanadev/optimizing-laravel-performance-conquering-the-n1-query-problem-with-eager-loading-22in)
+- [5 mistakes every vibecoder makes in their first project](https://dev.to/jakub_inithouse/5-mistakes-every-vibecoder-makes-in-their-first-project-2g7e)
+- [Examples Gubernator](https://dev.to/gde/examples-gubernator-3pk9)
+- [Three checks that separate an agent demo from a production agent](https://dev.to/alex_duch/three-checks-that-separate-an-agent-demo-from-a-production-agent-5a8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
