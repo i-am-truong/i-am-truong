@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a LangGraph RAG Agent from Scratch — with a Live UI That Shows Every Step](https://dev.to/ameya_joshi_68fa01c3a1a16/building-a-langgraph-rag-agent-from-scratch-with-a-live-ui-that-shows-every-step-4nle)
-- [SEO Didn&#39;t Die. Distribution Did.](https://dev.to/tomy_romy_a945c9f7e4e4b36/seo-didnt-die-distribution-did-4370)
-- [Why mobx-react-form Is the Best Form Library You&#39;re Not Using](https://dev.to/foxhound87/why-mobx-react-form-is-the-best-form-library-youre-not-using-16kd)
-- [How to Orchestrate Autonomous Sub-Agents Without Blowing Your LLM Context Window](https://dev.to/programmingcentral/how-to-orchestrate-autonomous-sub-agents-without-blowing-your-llm-context-window-jpo)
-- [Context Engineering Is the Skill That Actually Ships Reliable AI Agents](https://dev.to/marsa_adam/context-engineering-is-the-skill-that-actually-ships-reliable-ai-agents-5339)
+- [How to Automate Repetitive Tasks Without Code &lpar;a Beginner’s Guide&rpar;](https://dev.to/toty_cartooncartoon_c254/how-to-automate-repetitive-tasks-without-code-a-beginners-guide-2idi)
+- [Beat the Oracle](https://dev.to/alanmaizon/beat-the-oracle-nbp)
+- [Vibe Coding Won&#39;t Replace Web Agencies. But It Will Replace Lazy Ones.](https://dev.to/celestia_studio/vibe-coding-wont-replace-web-agencies-but-it-will-replace-lazy-ones-1lfd)
+- [Algo Trading on US Equities: What Indian Traders Need to Know Before Starting](https://dev.to/reyazk08/algo-trading-on-us-equities-what-indian-traders-need-to-know-before-starting-5g18)
+- [Auth in Next.js SaaS starters: redirect loops, OAuth callbacks, magic links, and session drift](https://dev.to/halbonlabs/auth-in-nextjs-saas-starters-redirect-loops-oauth-callbacks-magic-links-and-session-drift-2383)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
