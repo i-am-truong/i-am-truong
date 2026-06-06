@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Repetitive Tasks Without Code &lpar;a Beginner’s Guide&rpar;](https://dev.to/toty_cartooncartoon_c254/how-to-automate-repetitive-tasks-without-code-a-beginners-guide-2idi)
-- [Beat the Oracle](https://dev.to/alanmaizon/beat-the-oracle-nbp)
-- [Vibe Coding Won&#39;t Replace Web Agencies. But It Will Replace Lazy Ones.](https://dev.to/celestia_studio/vibe-coding-wont-replace-web-agencies-but-it-will-replace-lazy-ones-1lfd)
-- [Algo Trading on US Equities: What Indian Traders Need to Know Before Starting](https://dev.to/reyazk08/algo-trading-on-us-equities-what-indian-traders-need-to-know-before-starting-5g18)
-- [Auth in Next.js SaaS starters: redirect loops, OAuth callbacks, magic links, and session drift](https://dev.to/halbonlabs/auth-in-nextjs-saas-starters-redirect-loops-oauth-callbacks-magic-links-and-session-drift-2383)
+- [Give your AI coding agent a publish-HTML button &lpar;with MCP&rpar;](https://dev.to/stevysmith/give-your-ai-coding-agent-a-publish-html-button-with-mcp-1ghi)
+- [Time Math Is Harder Than It Looks: 6 Duration Bugs and How to Avoid Them](https://dev.to/anh_qunnguyn_57549060f/time-math-is-harder-than-it-looks-6-duration-bugs-and-how-to-avoid-them-3j8m)
+- [Reset Windows Are Product Design](https://dev.to/amitrix/reset-windows-are-product-design-17n8)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-7gb)
+- [FadeKey: zero-knowledge, self-destructing secret sharing engine](https://dev.to/juliangn/fadekey-zero-knowledge-self-destructing-secret-sharing-engine-598k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
