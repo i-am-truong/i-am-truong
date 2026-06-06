@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [June 2026 Check In: A Progress Update on the Last 6 Months](https://dev.to/theoriginalbpc/june-2026-check-in-a-progress-update-on-the-last-6-months-595g)
-- [Here to Learn](https://dev.to/teeteate/here-to-learn-242j)
-- [REST API Design: Building APIs That Developers Love &lpar;2026&rpar;](https://dev.to/armorbreak/rest-api-design-building-apis-that-developers-love-2026-3lp3)
-- [Git: The Tool That Saves Your Code and Your Career](https://dev.to/agenticdevops/git-the-tool-that-saves-your-code-and-your-career-2ahd)
-- [Enigma Breaker - A Cipher Decoding Game Built as an Ode to Alan Turing published](https://dev.to/snipforge/enigma-breaker-a-cipher-decoding-game-built-as-an-ode-to-alan-turingpublished-5hb2)
+- [The Illusion of Scale, Part 5: The System That Outlives the Team](https://dev.to/anusha_mukka/the-illusion-of-scale-part-4-the-system-that-outlives-the-team-part-5-38lh)
+- [I Built a Python Probe That Scrapes Zenn&#39;s Hidden Stats API and Commits PV Numbers to SQLite Every Hour &lpar;and Crashes on Purpose&rpar;](https://dev.to/_7fb6011b57d383122b5a/i-built-a-python-probe-that-scrapes-zenns-hidden-stats-api-and-commits-pv-numbers-to-sqlite-every-434p)
+- [PostgreSQL 2201E Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2201e-error-causes-and-solutions-complete-guide-5fco)
+- [codex on AWS makes agents a cloud workload](https://dev.to/pvgomes/codex-on-aws-makes-agents-a-cloud-workload-53n4)
+- [Oracle ORA-00289 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00289-error-causes-and-solutions-complete-guide-4h56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
