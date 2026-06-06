@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Illusion of Scale, Part 5: The System That Outlives the Team](https://dev.to/anusha_mukka/the-illusion-of-scale-part-4-the-system-that-outlives-the-team-part-5-38lh)
-- [I Built a Python Probe That Scrapes Zenn&#39;s Hidden Stats API and Commits PV Numbers to SQLite Every Hour &lpar;and Crashes on Purpose&rpar;](https://dev.to/_7fb6011b57d383122b5a/i-built-a-python-probe-that-scrapes-zenns-hidden-stats-api-and-commits-pv-numbers-to-sqlite-every-434p)
-- [PostgreSQL 2201E Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2201e-error-causes-and-solutions-complete-guide-5fco)
-- [codex on AWS makes agents a cloud workload](https://dev.to/pvgomes/codex-on-aws-makes-agents-a-cloud-workload-53n4)
-- [Oracle ORA-00289 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00289-error-causes-and-solutions-complete-guide-4h56)
+- [AI-Generated Replies at Scale: Lessons from 100K+ Automated Responses](https://dev.to/helperx/ai-generated-replies-at-scale-lessons-from-100k-automated-responses-321f)
+- [Automating Daily Dev Chores with Claude Code and GitHub Actions: 3 Workflows I Use](https://dev.to/_7fb6011b57d383122b5a/automating-daily-dev-chores-with-claude-code-and-github-actions-3-workflows-that-saved-me-6-hours-54gh)
+- [Fine-tuned 7B LLM as a broke student. And Can&#39;t even use it 😭.](https://dev.to/akshat-ray/fine-tuned-7b-llm-as-a-broke-student-and-cant-even-use-it--de7)
+- [scan&lpar;&rpar; Is Reduce For Infinite Data](https://dev.to/amrishkhan05/scan-is-reduce-for-infinite-data-5bck)
+- [Why Coding Stays in Human-AI Collaboration: A Paradox in Stanford&#39;s 51 Deployments](https://dev.to/aws-builders/why-coding-stays-in-human-ai-collaboration-a-paradox-in-stanfords-51-deployments-1kpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
