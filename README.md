@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output](https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd)
-- [84% of crypto traders lost money last year. Their analysis wasn&#39;t the problem.](https://dev.to/jerry_chen_dbaa6838e17336/84-of-crypto-traders-lost-money-last-year-their-analysis-wasnt-the-problem-4o3l)
-- [Your trading bot automated the wrong thing](https://dev.to/jerry_chen_dbaa6838e17336/your-trading-bot-automated-the-wrong-thing-13m7)
-- [I watched 351,000 traders get liquidated in a day. Here&#39;s the part that actually matters.](https://dev.to/jerry_chen_dbaa6838e17336/i-watched-351000-traders-get-liquidated-in-a-day-heres-the-part-that-actually-matters-c17)
-- [Even BlackRock stopped trusting a single AI model. Retail traders should take the hint.](https://dev.to/jerry_chen_dbaa6838e17336/even-blackrock-stopped-trusting-a-single-ai-model-retail-traders-should-take-the-hint-55c0)
+- [From Governance Scaffold to Runtime Foundation: A Milestone for HHI Runtime Core](https://dev.to/hollowhouse/from-governance-scaffold-to-runtime-foundation-a-milestone-for-hhi-runtime-core-25lj)
+- [31/60 Days System Design Questions!](https://dev.to/thejoud1997/3160-days-system-design-questions-koo)
+- [The Last Capacity Planning Sheet You&#39;ll Ever Need](https://dev.to/nbouvrette/the-last-capacity-planning-sheet-youll-ever-need-l52)
+- [Rust Was Crashing. Go Fixed It. Copilot Showed Me Why](https://dev.to/fz0x00/rust-was-crashing-go-fixed-it-copilot-showed-me-why-45bd)
+- [Circular Injection in Database Design.](https://dev.to/robson_idongesitsamuel_b/circular-injection-indatabase-design-1fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
