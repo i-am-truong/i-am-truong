@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to access AI from a blocked region? From 2022 to 2026, a Chinese developer&#39;s perspective](https://dev.to/ccc40/how-to-access-ai-from-a-blocked-region-from-2022-to-2026-a-chinese-developers-perspective-1ik)
-- [Oracle ORA-00308 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00308-error-causes-and-solutions-complete-guide-100b)
-- [Adding License Keys to a macOS App Without Building a Licensing Backend](https://dev.to/nicodemanez/adding-license-keys-to-a-macos-app-without-building-a-licensing-backend-2ph4)
-- [What’s New in pgAssistant Since Version 2.8](https://dev.to/bertrand_hartwig_309d1958/whats-new-in-pgassistant-since-version-28-2l7l)
-- [Claude Code Cheatsheet: Commands, Hooks &amp; Subagents](https://dev.to/dev_encyclopedia/claude-code-cheatsheet-commands-hooks-subagents-f4h)
+- [We built a CRM for real estate developers in Kazakhstan — here&#39;s what a &quot;localized&quot; product actually means](https://dev.to/tech_insider_kz/we-built-a-crm-for-real-estate-developers-in-kazakhstan-heres-what-a-localized-product-11ae)
+- [I abandoned my campus app 3 years ago. The Finish-Up-A-Thon made me fix it](https://dev.to/aditya_007/i-abandoned-my-campus-app-3-years-ago-the-finish-up-a-thon-made-me-fix-it-245h)
+- [Our VP Said AI Would Test Itself. I Raised My Hand. I Got Reassigned. Day 3 Cost $2.8M. I Had the Screenshots Ready.](https://dev.to/xulingfeng/our-vp-said-ai-would-test-itself-i-raised-my-hand-i-got-reassigned-day-3-cost-28m-i-had-the-555j)
+- [I built an audit log for EF Core that can actually undo a change](https://dev.to/gamrahub/i-built-an-audit-log-for-ef-core-that-can-actually-undo-a-change-4e50)
+- [9 silent-row-loss fixes in 7 days across 7 OSS databases](https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
