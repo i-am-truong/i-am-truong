@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ETL Pipeline: Fetching Real-Time News Data with Python and Postgres](https://dev.to/gathurum/etl-pipeline-fetching-real-time-news-data-with-python-and-postgres-2c88)
-- [Trivya AI – Voice Assistant with Gemini Integration](https://dev.to/shalini_tiwari_b48d181054/trivya-ai-voice-assistant-with-gemini-integration-29l2)
-- [Code smell or not - useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
-- [How OLED &amp; LTPO Enable Always-On Displays](https://dev.to/doogal/how-oled-ltpo-enable-always-on-displays-3e3h)
-- [Bringing Razorpay to InsForge: Building a Production-Grade Payment Flow](https://dev.to/hemanth_reddy_koduru/bringing-razorpay-to-insforge-building-a-production-grade-payment-flow-n9o)
+- [Simple A2A implementation with Strands](https://dev.to/aws-builders/simple-a2a-implementation-with-strands-2n7)
+- [Roast my portfolio](https://dev.to/waliimran/roast-my-portfolio-fop)
+- [I Thought Harmonics Were a Grid Problem, Then I Realized They Were Everywhere](https://dev.to/salma_aga/i-thought-harmonics-were-a-grid-problem-then-i-realized-they-were-everywhere-4emf)
+- [Detecting PII in Real-World Text](https://dev.to/bspann/detecting-pii-in-real-world-text-310p)
+- [Starting with Excel: How it transforms data to insights.](https://dev.to/charleen_bakhita/starting-with-excel-how-it-transforms-data-to-insights-3g24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
