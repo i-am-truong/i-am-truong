@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Few hacks a dev needs](https://dev.to/satyaaytas/few-hacks-a-dev-needs-3o25)
-- [I built 10 free tax and business tools for Indian freelancers so we can stop paying subscriptions.](https://dev.to/dax_patel_16c74cb189bd15a/i-built-10-free-tax-and-business-tools-for-indian-freelancers-so-we-can-stop-paying-subscriptions-3bcm)
-- [From Recon to Report: Automating the Boring Parts of Pentesting](https://dev.to/numbpill3d/from-recon-to-report-automating-the-boring-parts-of-pentesting-1aa0)
-- [Deploying a Complex Cursor-Built App: Prisma, Postgres, Inngest &amp; Supabase on Vercel, Railway and Jetpacked](https://dev.to/thpl/deploying-a-complex-cursor-built-app-prisma-postgres-inngest-supabase-in-production-4019)
-- [Why HTTP 402 slept for 29 years, and what finally woke it up](https://dev.to/nikoschoinas/why-http-402-slept-for-29-years-and-what-finally-woke-it-up-5am)
+- [What a policy gate catches in AI-generated code, and what slips through](https://dev.to/vorsken/what-a-policy-gate-catches-in-ai-generated-code-and-what-slips-through-4n97)
+- [Multi-Model AI API Routing: Cut Costs Without Sacrificing Quality](https://dev.to/kang_li_7ff78faea5a24bdbb/multi-model-ai-api-routing-cut-costs-without-sacrificing-quality-1keh)
+- [I built one self-hosted boilerplate and now I ship everything on it](https://dev.to/igorbumba/i-built-one-self-hosted-boilerplate-and-now-i-ship-everything-on-it-39o8)
+- [The Hypervisor Is Becoming a Policy Enforcement Point](https://dev.to/ntctech/the-hypervisor-is-becoming-a-policy-enforcement-point-21pl)
+- [AI in SDLC: Why I Stopped Optimizing for Code Generation and Started Optimizing for Alignment](https://dev.to/harshil_kansagara/ai-in-sdlc-why-i-stopped-optimizing-for-code-generation-and-started-optimizing-for-alignment-3d8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
