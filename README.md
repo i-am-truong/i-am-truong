@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple A2A implementation with Strands](https://dev.to/aws-builders/simple-a2a-implementation-with-strands-2n7)
-- [Roast my portfolio](https://dev.to/waliimran/roast-my-portfolio-fop)
-- [I Thought Harmonics Were a Grid Problem, Then I Realized They Were Everywhere](https://dev.to/salma_aga/i-thought-harmonics-were-a-grid-problem-then-i-realized-they-were-everywhere-4emf)
-- [Detecting PII in Real-World Text](https://dev.to/bspann/detecting-pii-in-real-world-text-310p)
-- [Starting with Excel: How it transforms data to insights.](https://dev.to/charleen_bakhita/starting-with-excel-how-it-transforms-data-to-insights-3g24)
+- [Solstice Cipher: The Turing Test of Light and Shadow](https://dev.to/rexreus/solstice-cipher-the-turing-test-of-light-and-shadow-5245)
+- [I built 9 free SEO tools so I&#39;d stop paying $100/mo to audit my own sites](https://dev.to/kalenux/i-built-9-free-seo-tools-so-id-stop-paying-100mo-to-audit-my-own-sites-4mn2)
+- [🎮Copilot Made Me a Game Developer — How I Built Pixel Siege from an Old Python Prototype 👾🚀](https://dev.to/nupoorshetye/copilot-made-me-a-game-developer-how-i-built-pixel-siege-from-an-old-python-prototype-5hc2)
+- [A Searchable Laravel Eloquent Cheat Sheet for Your Daily Workflow](https://dev.to/andreiabohner/a-searchable-laravel-eloquent-cheat-sheet-for-your-daily-workflow-3j6h)
+- [How to Build a Self-Defending AI Agent: Zero-Touch Credential Rotation and Hermetic Injection Defenses](https://dev.to/programmingcentral/how-to-build-a-self-defending-ai-agent-zero-touch-credential-rotation-and-hermetic-injection-23i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
