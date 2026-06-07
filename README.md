@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built a calculator site with 13 languages and 5,500 static pages in Next.js 15](https://dev.to/youssef_bedoui_b0da8d58b8/how-i-built-a-calculator-site-with-13-languages-and-5500-static-pages-in-nextjs-15-30ai)
-- [Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?](https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/patrickomondi/-how-excel-is-used-in-real-world-data-analysis-o0)
-- [Six months of AI in 2026, and a whole lot of noise](https://dev.to/jatniel/six-months-of-ai-in-2026-and-a-whole-lot-of-noise-23lg)
-- [DomainFlip AI — How I Started With an Empty Repo and Built a Full Domain Investment Platform](https://dev.to/aliasgarsogiawala/domainflip-ai-how-i-started-with-an-empty-repo-and-built-a-full-domain-investment-platform-2o6a)
+- [Clean Architecture on the Frontend: Beyond Smart and Dumb Components](https://dev.to/djblackett/clean-architecture-on-the-frontend-beyond-smart-and-dumb-components-1abj)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-62n)
+- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-4g7f)
+- [The Five Faculties: A Tour of SAFi&#39;s Cognitive Architecture](https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0)
+- [LLM integration with Vercel AI SDK](https://dev.to/zsevic/llm-integration-with-vercel-ai-sdk-5466)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
