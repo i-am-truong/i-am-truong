@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve Been Building an LMS for a Year. Finish-Up-A-Thon Made Me Actually Finish It.](https://dev.to/promiselxg/ive-been-building-an-lms-for-a-year-finish-up-a-thon-made-me-actually-finish-it-192c)
-- [Why I stopped pasting into online Fake Data Generator tools](https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-fake-data-generator-tools-2c0a)
-- [Road To KiwiEngine #12: Why I Want To Build Hardware Again](https://dev.to/stinklewinks/road-to-kiwiengine-12-why-i-want-to-build-hardware-again-1me0)
-- [Beyond PSCAD: How AI Can Help Monitor Harmonics](https://dev.to/salma_aga/beyond-pscad-how-ai-can-help-monitor-harmonics-3p0f)
-- [CollectAI — GitHub Finish-Up-A-Thon Submission](https://dev.to/ngux_miraclegod_d215973a9/collectai-github-finish-up-a-thon-submission-5e6g)
+- [ETL Pipeline: Fetching Real-Time News Data with Python and Postgres](https://dev.to/gathurum/etl-pipeline-fetching-real-time-news-data-with-python-and-postgres-2c88)
+- [Trivya AI – Voice Assistant with Gemini Integration](https://dev.to/shalini_tiwari_b48d181054/trivya-ai-voice-assistant-with-gemini-integration-29l2)
+- [Code smell or not - useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
+- [How OLED &amp; LTPO Enable Always-On Displays](https://dev.to/doogal/how-oled-ltpo-enable-always-on-displays-3e3h)
+- [Bringing Razorpay to InsForge: Building a Production-Grade Payment Flow](https://dev.to/hemanth_reddy_koduru/bringing-razorpay-to-insforge-building-a-production-grade-payment-flow-n9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
