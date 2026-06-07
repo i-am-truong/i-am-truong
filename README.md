@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thank you .](https://dev.to/modex_1234/thank-you--i59)
-- [The Dunning-Kruger Effect, Now Available at Enterprise Scale](https://dev.to/keithjmackay/the-dunning-kruger-effect-now-available-at-enterprise-scale-1hnh)
-- [Writers Who Use AI Without a Harness Are One Published Article From Disaster](https://dev.to/keithjmackay/writers-who-use-ai-without-a-harness-are-one-published-article-from-disaster-3gf2)
-- [Your velocity number is a probability wearing a disguise 🥸](https://dev.to/mattlewandowski93/your-velocity-number-is-a-probability-wearing-a-disguise-1ajj)
-- [I stopped talking in my 1-on-1s and they finally got useful 💭](https://dev.to/kelly_lewandowski_845215e/i-stopped-talking-in-my-1-on-1s-and-they-finally-got-useful-56ok)
+- [SSO Is More Than &quot;Log In Once&quot;](https://dev.to/ranggaaprilio/sso-is-more-than-log-in-once-42gc)
+- [Reviewing Patrick Collison&#39;s Ask for an LLM Workflow Tool](https://dev.to/wernerk_au/reviewing-patrick-collisons-ask-for-an-llm-workflow-tool-1odk)
+- [Why We Built a 100% Static Niche Directory for CAD/BIM Engineers &lpar;And How It Costs $0 to Run&rpar;](https://dev.to/cadguidetools/why-we-built-a-100-static-niche-directory-for-cadbim-engineers-and-how-it-costs-0-to-run-3g38)
+- [Getting Started with Go: A Beginner&#39;s Journey](https://dev.to/memoraa/getting-started-with-go-a-beginners-journey-1491)
+- [5 AI-Entertainment Hacks That Hit 100+ Upvotes — and What I Learned From Each](https://dev.to/mrbolo/5-ai-hacks-that-hit-100-upvotes-and-what-i-learned-from-each-39d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
