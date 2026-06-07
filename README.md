@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture on the Frontend: Beyond Smart and Dumb Components](https://dev.to/djblackett/clean-architecture-on-the-frontend-beyond-smart-and-dumb-components-1abj)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-62n)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-4g7f)
-- [The Five Faculties: A Tour of SAFi&#39;s Cognitive Architecture](https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0)
-- [LLM integration with Vercel AI SDK](https://dev.to/zsevic/llm-integration-with-vercel-ai-sdk-5466)
+- [Writing Code Is Now The Easiest Part](https://dev.to/merbayerp/writing-code-is-now-the-easiest-part-m9n)
+- [I Tried NotebookLM as a Study Tool and It&#39;s Actually Changed How I Learn](https://dev.to/ctahirih/i-tried-notebooklm-as-a-study-tool-and-its-actually-changed-how-i-learn-248l)
+- [Run ASP Classic on Linux, macOS and Windows](https://dev.to/lucas_guimaraes/run-asp-classic-on-linux-macos-and-windows-5d7m)
+- [I Built the Resume-vs-JD Scorer Every ATS Uses — In 30 Lines of JavaScript](https://dev.to/dev48v/i-built-the-resume-vs-jd-scorer-every-ats-uses-in-30-lines-of-javascript-328b)
+- [Why your landing page converts poorly, a developer&#39;s CRO checklist](https://dev.to/tanguy_dekeyzer/why-your-landing-page-converts-poorly-a-developers-cro-checklist-24pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
