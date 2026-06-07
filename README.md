@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What a policy gate catches in AI-generated code, and what slips through](https://dev.to/vorsken/what-a-policy-gate-catches-in-ai-generated-code-and-what-slips-through-4n97)
-- [Multi-Model AI API Routing: Cut Costs Without Sacrificing Quality](https://dev.to/kang_li_7ff78faea5a24bdbb/multi-model-ai-api-routing-cut-costs-without-sacrificing-quality-1keh)
-- [I built one self-hosted boilerplate and now I ship everything on it](https://dev.to/igorbumba/i-built-one-self-hosted-boilerplate-and-now-i-ship-everything-on-it-39o8)
-- [The Hypervisor Is Becoming a Policy Enforcement Point](https://dev.to/ntctech/the-hypervisor-is-becoming-a-policy-enforcement-point-21pl)
-- [AI in SDLC: Why I Stopped Optimizing for Code Generation and Started Optimizing for Alignment](https://dev.to/harshil_kansagara/ai-in-sdlc-why-i-stopped-optimizing-for-code-generation-and-started-optimizing-for-alignment-3d8f)
+- [MSc Final Project DevLog #1: Introduction](https://dev.to/gamedevhero/msc-final-project-devlog-1-introduction-jk5)
+- [Postman now limits its free tier to 1 user. Here&#39;s what I switched to.](https://dev.to/makbar89/postman-now-limits-its-free-tier-to-1-user-heres-what-i-switched-to-3om4)
+- [Lexers](https://dev.to/pie-314/lexers-622)
+- [How to write a compiler ?](https://dev.to/pie-314/how-to-write-a-compiler--103p)
+- [Building a Brain in Pure Python](https://dev.to/cosmosoneness/building-a-brain-in-pure-python-55e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
