@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MSc Final Project DevLog #1: Introduction](https://dev.to/gamedevhero/msc-final-project-devlog-1-introduction-jk5)
-- [Postman now limits its free tier to 1 user. Here&#39;s what I switched to.](https://dev.to/makbar89/postman-now-limits-its-free-tier-to-1-user-heres-what-i-switched-to-3om4)
-- [Lexers](https://dev.to/pie-314/lexers-622)
-- [How to write a compiler ?](https://dev.to/pie-314/how-to-write-a-compiler--103p)
-- [Building a Brain in Pure Python](https://dev.to/cosmosoneness/building-a-brain-in-pure-python-55e)
+- [I&#39;ve Been Building an LMS for a Year. Finish-Up-A-Thon Made Me Actually Finish It.](https://dev.to/promiselxg/ive-been-building-an-lms-for-a-year-finish-up-a-thon-made-me-actually-finish-it-192c)
+- [Why I stopped pasting into online Fake Data Generator tools](https://dev.to/crypto_plato_26/why-i-stopped-pasting-into-online-fake-data-generator-tools-2c0a)
+- [Road To KiwiEngine #12: Why I Want To Build Hardware Again](https://dev.to/stinklewinks/road-to-kiwiengine-12-why-i-want-to-build-hardware-again-1me0)
+- [Beyond PSCAD: How AI Can Help Monitor Harmonics](https://dev.to/salma_aga/beyond-pscad-how-ai-can-help-monitor-harmonics-3p0f)
+- [CollectAI — GitHub Finish-Up-A-Thon Submission](https://dev.to/ngux_miraclegod_d215973a9/collectai-github-finish-up-a-thon-submission-5e6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
