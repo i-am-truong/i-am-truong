@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solstice Cipher: The Turing Test of Light and Shadow](https://dev.to/rexreus/solstice-cipher-the-turing-test-of-light-and-shadow-5245)
-- [I built 9 free SEO tools so I&#39;d stop paying $100/mo to audit my own sites](https://dev.to/kalenux/i-built-9-free-seo-tools-so-id-stop-paying-100mo-to-audit-my-own-sites-4mn2)
-- [🎮Copilot Made Me a Game Developer — How I Built Pixel Siege from an Old Python Prototype 👾🚀](https://dev.to/nupoorshetye/copilot-made-me-a-game-developer-how-i-built-pixel-siege-from-an-old-python-prototype-5hc2)
-- [A Searchable Laravel Eloquent Cheat Sheet for Your Daily Workflow](https://dev.to/andreiabohner/a-searchable-laravel-eloquent-cheat-sheet-for-your-daily-workflow-3j6h)
-- [How to Build a Self-Defending AI Agent: Zero-Touch Credential Rotation and Hermetic Injection Defenses](https://dev.to/programmingcentral/how-to-build-a-self-defending-ai-agent-zero-touch-credential-rotation-and-hermetic-injection-23i1)
+- [How I built a calculator site with 13 languages and 5,500 static pages in Next.js 15](https://dev.to/youssef_bedoui_b0da8d58b8/how-i-built-a-calculator-site-with-13-languages-and-5500-static-pages-in-nextjs-15-30ai)
+- [Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?](https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/patrickomondi/-how-excel-is-used-in-real-world-data-analysis-o0)
+- [Six months of AI in 2026, and a whole lot of noise](https://dev.to/jatniel/six-months-of-ai-in-2026-and-a-whole-lot-of-noise-23lg)
+- [DomainFlip AI — How I Started With an Empty Repo and Built a Full Domain Investment Platform](https://dev.to/aliasgarsogiawala/domainflip-ai-how-i-started-with-an-empty-repo-and-built-a-full-domain-investment-platform-2o6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
