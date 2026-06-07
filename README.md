@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We built a CRM for real estate developers in Kazakhstan — here&#39;s what a &quot;localized&quot; product actually means](https://dev.to/tech_insider_kz/we-built-a-crm-for-real-estate-developers-in-kazakhstan-heres-what-a-localized-product-11ae)
-- [I abandoned my campus app 3 years ago. The Finish-Up-A-Thon made me fix it](https://dev.to/aditya_007/i-abandoned-my-campus-app-3-years-ago-the-finish-up-a-thon-made-me-fix-it-245h)
-- [Our VP Said AI Would Test Itself. I Raised My Hand. I Got Reassigned. Day 3 Cost $2.8M. I Had the Screenshots Ready.](https://dev.to/xulingfeng/our-vp-said-ai-would-test-itself-i-raised-my-hand-i-got-reassigned-day-3-cost-28m-i-had-the-555j)
-- [I built an audit log for EF Core that can actually undo a change](https://dev.to/gamrahub/i-built-an-audit-log-for-ef-core-that-can-actually-undo-a-change-4e50)
-- [9 silent-row-loss fixes in 7 days across 7 OSS databases](https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da)
+- [Few hacks a dev needs](https://dev.to/satyaaytas/few-hacks-a-dev-needs-3o25)
+- [I built 10 free tax and business tools for Indian freelancers so we can stop paying subscriptions.](https://dev.to/dax_patel_16c74cb189bd15a/i-built-10-free-tax-and-business-tools-for-indian-freelancers-so-we-can-stop-paying-subscriptions-3bcm)
+- [From Recon to Report: Automating the Boring Parts of Pentesting](https://dev.to/numbpill3d/from-recon-to-report-automating-the-boring-parts-of-pentesting-1aa0)
+- [Deploying a Complex Cursor-Built App: Prisma, Postgres, Inngest &amp; Supabase on Vercel, Railway and Jetpacked](https://dev.to/thpl/deploying-a-complex-cursor-built-app-prisma-postgres-inngest-supabase-in-production-4019)
+- [Why HTTP 402 slept for 29 years, and what finally woke it up](https://dev.to/nikoschoinas/why-http-402-slept-for-29-years-and-what-finally-woke-it-up-5am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
