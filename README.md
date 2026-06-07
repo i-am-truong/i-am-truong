@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SSO Is More Than &quot;Log In Once&quot;](https://dev.to/ranggaaprilio/sso-is-more-than-log-in-once-42gc)
-- [Reviewing Patrick Collison&#39;s Ask for an LLM Workflow Tool](https://dev.to/wernerk_au/reviewing-patrick-collisons-ask-for-an-llm-workflow-tool-1odk)
-- [Why We Built a 100% Static Niche Directory for CAD/BIM Engineers &lpar;And How It Costs $0 to Run&rpar;](https://dev.to/cadguidetools/why-we-built-a-100-static-niche-directory-for-cadbim-engineers-and-how-it-costs-0-to-run-3g38)
-- [Getting Started with Go: A Beginner&#39;s Journey](https://dev.to/memoraa/getting-started-with-go-a-beginners-journey-1491)
-- [5 AI-Entertainment Hacks That Hit 100+ Upvotes — and What I Learned From Each](https://dev.to/mrbolo/5-ai-hacks-that-hit-100-upvotes-and-what-i-learned-from-each-39d3)
+- [How to access AI from a blocked region? From 2022 to 2026, a Chinese developer&#39;s perspective](https://dev.to/ccc40/how-to-access-ai-from-a-blocked-region-from-2022-to-2026-a-chinese-developers-perspective-1ik)
+- [Oracle ORA-00308 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00308-error-causes-and-solutions-complete-guide-100b)
+- [Adding License Keys to a macOS App Without Building a Licensing Backend](https://dev.to/nicodemanez/adding-license-keys-to-a-macos-app-without-building-a-licensing-backend-2ph4)
+- [What’s New in pgAssistant Since Version 2.8](https://dev.to/bertrand_hartwig_309d1958/whats-new-in-pgassistant-since-version-28-2l7l)
+- [Claude Code Cheatsheet: Commands, Hooks &amp; Subagents](https://dev.to/dev_encyclopedia/claude-code-cheatsheet-commands-hooks-subagents-f4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
