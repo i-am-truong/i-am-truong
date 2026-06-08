@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Startup Is Not Just About Having an Idea - Here&#39;s What Nobody Tells You](https://dev.to/olehvolos/building-a-startup-is-not-just-about-having-an-idea-heres-what-nobody-tells-you-1bcl)
-- [Caching a Huawei SUN2000 over Modbus for Home Assistant](https://dev.to/cloudapp_dev/caching-a-huawei-sun2000-over-modbus-for-home-assistant-59j0)
-- [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg)
-- [65 million Brazilian companies — public data you can use right now](https://dev.to/rodrigo_dasilva_c90c2024/65-million-brazilian-companies-public-data-you-can-use-right-now-jo1)
-- [A Platform Where Messages Self-Destruct After a Minute, Yeah I Made That :&rpar;](https://dev.to/deffslayer/a-platform-where-messages-self-destruct-after-a-minute-yeah-i-made-that--55ob)
+- [AI-Driven Test Automation Is Not a Testing Strategy, It&#39;s a Decision Shift](https://dev.to/mellowthunder735/ai-assisted-qa-is-not-a-testing-strategy-it-is-a-decision-shift-4pib)
+- [Miasma worm, Part 2: how a GitHub token survived a full machine rebuild and hijacked my repos from an Azure IP](https://dev.to/icflorescu/miasma-worm-part-2-how-a-github-token-survived-a-full-machine-rebuild-and-hijacked-my-repos-from-8aa)
+- [AI-Assisted QA Does Not Reduce Testing Work, It Changes Where the Work Lives](https://dev.to/orbitpickle307/ai-assisted-qa-does-not-reduce-testing-work-it-changes-where-the-work-lives-4dfh)
+- [Scary ChatGPT Bug: AI Generates Nightmarish Images from a Simple Prompt Trick](https://dev.to/homayounmmdy/scary-chatgpt-bug-ai-generates-nightmarish-images-from-a-simple-prompt-trick-18ei)
+- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG &lpar;100% Private &amp; $0 Cost&rpar;](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
