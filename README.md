@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Use Claude + Playwright to Automate CAPTCHA-Heavy Signups &lpar;Real Code&rpar;](https://dev.to/henryknight_dev/how-i-use-claude-playwright-to-automate-captcha-heavy-signups-real-code-4edd)
-- [The Output Layer Problem: Why AI Velocity Makes Quality Gates More Important, Not Less](https://dev.to/scanaislop/the-output-layer-problem-why-ai-velocity-makes-quality-gates-more-important-not-less-5he5)
-- [Docker Security Dispatch — Issue 2: From JCON to Zurich 🏔️](https://dev.to/docker/docker-security-dispatch-issue-2-from-jcon-to-zurich-231f)
-- [Warum wir ein eigenes Cookie-Consent-Tool gebaut haben – kostenlos, eine Zeile Code, DSGVO-konform](https://dev.to/enjyn_3feb58e98fa3/warum-wir-ein-eigenes-cookie-consent-tool-gebaut-haben-kostenlos-eine-zeile-code-dsgvo-konform-32ib)
-- [PgPool2 &amp; PostgreSQL — Bypass SCRAM entirely, use MD5](https://dev.to/arn-ob/pgpool2-postgresql-bypass-scram-entirely-use-md5-mda)
+- [Ineffable Intelligence -- RL ASI](https://dev.to/cognitalk/ineffable-intelligence-rl-asi-4mhm)
+- [The Developer&#39;s Guide to Environment Variables and Secrets Management](https://dev.to/zyvop/the-developers-guide-to-environment-variables-and-secrets-management-33d0)
+- [Leetcode 547 solving with intuition - 6/8/26](https://dev.to/bala_kumaran/leetcode-547-solving-with-intuition-6826-529m)
+- [Dynamically Generating SQL Joins for Tables Based on a Common Column](https://dev.to/kaidanov/dynamically-generating-sql-joins-for-tables-based-on-a-common-column-3m8d)
+- [When Every Bit Counts: Rediscovering Resource Efficiency in Modern Development](https://dev.to/prabashanadev/when-every-bit-counts-rediscovering-resource-efficiency-in-modern-development-c60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
