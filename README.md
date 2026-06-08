@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Clean Energy Breakthrough That&#39;s Coming](https://dev.to/keithjmackay/the-clean-energy-breakthrough-thats-coming-13mf)
-- [Benchmarking AI Agents, Gemma 4 On-Device Workflows &amp; AI System Security](https://dev.to/soytuber/benchmarking-ai-agents-gemma-4-on-device-workflows-ai-system-security-25po)
-- [How I stopped hardcoding business rules in PHP - and built a rule engine to fix it](https://dev.to/olivierls/how-i-stopped-hardcoding-business-rules-in-php-and-built-a-rule-engine-to-fix-it-1997)
-- [DuckLake Spec, pg_background 2.0, and pgsql_tweaks 1.0.3 Enhance Database Ecosystem](https://dev.to/soytuber/ducklake-spec-pgbackground-20-and-pgsqltweaks-103-enhance-database-ecosystem-22eg)
-- [Diário de dev #3: o bug que só aparece quando alguém usa](https://dev.to/trainedloop/diario-de-dev-3-o-bug-que-so-aparece-quando-alguem-usa-117p)
+- [The Author Doesn&#39;t Have to Be an Engineer: How the Harness Holds Quality &lpar;Series Part 5&rpar;](https://dev.to/ryantsuji/the-author-doesnt-have-to-be-an-engineer-how-the-harness-holds-quality-series-part-5-12e4)
+- [I built a hardware-inspired UI component library in pure Vanilla JS — here&#39;s how](https://dev.to/prince_4rvin/i-built-a-hardware-inspired-ui-component-library-in-pure-vanilla-js-heres-how-2hcn)
+- [Automating Myself Away… Almost](https://dev.to/er_dward/automating-myself-away-almost-5f79)
+- [We Replayed the Nomad Hack. Our Tool Fired at Block 15259101 Zero Minutes In.](https://dev.to/moorebrett0/we-replayed-the-nomad-hack-our-tool-fired-at-block-15259101-zero-minutes-in-57o0)
+- [Reporting: Custom Reporters &amp; Result Visibility &lpar;Playwright + TypeScript, Ch.25&rpar;](https://dev.to/aktibaba/reporting-custom-reporters-result-visibility-playwright-typescript-ch25-2c4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
