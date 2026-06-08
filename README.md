@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Driven Test Automation Is Not a Testing Strategy, It&#39;s a Decision Shift](https://dev.to/mellowthunder735/ai-assisted-qa-is-not-a-testing-strategy-it-is-a-decision-shift-4pib)
-- [Miasma worm, Part 2: how a GitHub token survived a full machine rebuild and hijacked my repos from an Azure IP](https://dev.to/icflorescu/miasma-worm-part-2-how-a-github-token-survived-a-full-machine-rebuild-and-hijacked-my-repos-from-8aa)
-- [AI-Assisted QA Does Not Reduce Testing Work, It Changes Where the Work Lives](https://dev.to/orbitpickle307/ai-assisted-qa-does-not-reduce-testing-work-it-changes-where-the-work-lives-4dfh)
-- [Scary ChatGPT Bug: AI Generates Nightmarish Images from a Simple Prompt Trick](https://dev.to/homayounmmdy/scary-chatgpt-bug-ai-generates-nightmarish-images-from-a-simple-prompt-trick-18ei)
-- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG &lpar;100% Private &amp; $0 Cost&rpar;](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d)
+- [The Clean Energy Breakthrough That&#39;s Coming](https://dev.to/keithjmackay/the-clean-energy-breakthrough-thats-coming-13mf)
+- [Benchmarking AI Agents, Gemma 4 On-Device Workflows &amp; AI System Security](https://dev.to/soytuber/benchmarking-ai-agents-gemma-4-on-device-workflows-ai-system-security-25po)
+- [How I stopped hardcoding business rules in PHP - and built a rule engine to fix it](https://dev.to/olivierls/how-i-stopped-hardcoding-business-rules-in-php-and-built-a-rule-engine-to-fix-it-1997)
+- [DuckLake Spec, pg_background 2.0, and pgsql_tweaks 1.0.3 Enhance Database Ecosystem](https://dev.to/soytuber/ducklake-spec-pgbackground-20-and-pgsqltweaks-103-enhance-database-ecosystem-22eg)
+- [Diário de dev #3: o bug que só aparece quando alguém usa](https://dev.to/trainedloop/diario-de-dev-3-o-bug-que-so-aparece-quando-alguem-usa-117p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
