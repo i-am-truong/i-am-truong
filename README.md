@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Building a Product Review Platform Using ASP.NET Core and SQL Server](https://dev.to/opiniozone/what-i-learned-building-a-product-review-platform-using-aspnet-core-and-sql-server-5gfe)
-- [Turning Kiro Into a Leadership Coach With Meeting Transcripts](https://dev.to/dvddpl/turning-kiro-into-a-leadership-coach-with-meeting-transcripts-3gdb)
-- [开源量化分析软件功能介绍](https://dev.to/henry_lin_3ac6363747f45b4/kai-yuan-liang-hua-fen-xi-ruan-jian-gong-neng-jie-shao-i2m)
-- [The Anti-Bot Detection Checklist I Use Before Every Scraping Project](https://dev.to/charles_90891cea4a1800830/the-anti-bot-detection-checklist-i-use-before-every-scraping-project-10b9)
-- [100 Days of ClickHouse® – Day 6: Importing CSV Files into ClickHouse®](https://dev.to/kanishga_subramani_49ad73/how-to-load-csv-data-into-clickhouser-19na)
+- [How I Use Claude + Playwright to Automate CAPTCHA-Heavy Signups &lpar;Real Code&rpar;](https://dev.to/henryknight_dev/how-i-use-claude-playwright-to-automate-captcha-heavy-signups-real-code-4edd)
+- [The Output Layer Problem: Why AI Velocity Makes Quality Gates More Important, Not Less](https://dev.to/scanaislop/the-output-layer-problem-why-ai-velocity-makes-quality-gates-more-important-not-less-5he5)
+- [Docker Security Dispatch — Issue 2: From JCON to Zurich 🏔️](https://dev.to/docker/docker-security-dispatch-issue-2-from-jcon-to-zurich-231f)
+- [Warum wir ein eigenes Cookie-Consent-Tool gebaut haben – kostenlos, eine Zeile Code, DSGVO-konform](https://dev.to/enjyn_3feb58e98fa3/warum-wir-ein-eigenes-cookie-consent-tool-gebaut-haben-kostenlos-eine-zeile-code-dsgvo-konform-32ib)
+- [PgPool2 &amp; PostgreSQL — Bypass SCRAM entirely, use MD5](https://dev.to/arn-ob/pgpool2-postgresql-bypass-scram-entirely-use-md5-mda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
