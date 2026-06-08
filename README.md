@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing Code Is Now The Easiest Part](https://dev.to/merbayerp/writing-code-is-now-the-easiest-part-m9n)
-- [I Tried NotebookLM as a Study Tool and It&#39;s Actually Changed How I Learn](https://dev.to/ctahirih/i-tried-notebooklm-as-a-study-tool-and-its-actually-changed-how-i-learn-248l)
-- [Run ASP Classic on Linux, macOS and Windows](https://dev.to/lucas_guimaraes/run-asp-classic-on-linux-macos-and-windows-5d7m)
-- [I Built the Resume-vs-JD Scorer Every ATS Uses — In 30 Lines of JavaScript](https://dev.to/dev48v/i-built-the-resume-vs-jd-scorer-every-ats-uses-in-30-lines-of-javascript-328b)
-- [Why your landing page converts poorly, a developer&#39;s CRO checklist](https://dev.to/tanguy_dekeyzer/why-your-landing-page-converts-poorly-a-developers-cro-checklist-24pb)
+- [How not to build a login &amp; signup system](https://dev.to/juddee/how-not-to-build-a-login-signup-system-4fc5)
+- [Single-tenant memory is the wrong default for agents](https://dev.to/nikos_dritsakos_a207771fb/single-tenant-memory-is-the-wrong-default-for-agents-49no)
+- [How to Build an Acquisition Loop Roach Startup for Near Free](https://dev.to/traffictorch/how-to-build-an-acquisition-loop-roach-startup-for-near-free-292c)
+- [Looking for Tech Workers to join a research study!](https://dev.to/jonleuen/looking-for-tech-workers-to-join-a-research-study-3hmc)
+- [Cómo construimos GlucoTracker: Arquitectura monolítica en AWS paso a paso](https://dev.to/diego_laguna_17/como-construimos-glucotracker-arquitectura-monolitica-en-aws-paso-a-paso-3599)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
