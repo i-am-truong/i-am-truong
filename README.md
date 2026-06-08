@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ineffable Intelligence -- RL ASI](https://dev.to/cognitalk/ineffable-intelligence-rl-asi-4mhm)
-- [The Developer&#39;s Guide to Environment Variables and Secrets Management](https://dev.to/zyvop/the-developers-guide-to-environment-variables-and-secrets-management-33d0)
-- [Leetcode 547 solving with intuition - 6/8/26](https://dev.to/bala_kumaran/leetcode-547-solving-with-intuition-6826-529m)
-- [Dynamically Generating SQL Joins for Tables Based on a Common Column](https://dev.to/kaidanov/dynamically-generating-sql-joins-for-tables-based-on-a-common-column-3m8d)
-- [When Every Bit Counts: Rediscovering Resource Efficiency in Modern Development](https://dev.to/prabashanadev/when-every-bit-counts-rediscovering-resource-efficiency-in-modern-development-c60)
+- [Building a Startup Is Not Just About Having an Idea - Here&#39;s What Nobody Tells You](https://dev.to/olehvolos/building-a-startup-is-not-just-about-having-an-idea-heres-what-nobody-tells-you-1bcl)
+- [Caching a Huawei SUN2000 over Modbus for Home Assistant](https://dev.to/cloudapp_dev/caching-a-huawei-sun2000-over-modbus-for-home-assistant-59j0)
+- [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg)
+- [65 million Brazilian companies — public data you can use right now](https://dev.to/rodrigo_dasilva_c90c2024/65-million-brazilian-companies-public-data-you-can-use-right-now-jo1)
+- [A Platform Where Messages Self-Destruct After a Minute, Yeah I Made That :&rpar;](https://dev.to/deffslayer/a-platform-where-messages-self-destruct-after-a-minute-yeah-i-made-that--55ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
