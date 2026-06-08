@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How not to build a login &amp; signup system](https://dev.to/juddee/how-not-to-build-a-login-signup-system-4fc5)
-- [Single-tenant memory is the wrong default for agents](https://dev.to/nikos_dritsakos_a207771fb/single-tenant-memory-is-the-wrong-default-for-agents-49no)
-- [How to Build an Acquisition Loop Roach Startup for Near Free](https://dev.to/traffictorch/how-to-build-an-acquisition-loop-roach-startup-for-near-free-292c)
-- [Looking for Tech Workers to join a research study!](https://dev.to/jonleuen/looking-for-tech-workers-to-join-a-research-study-3hmc)
-- [Cómo construimos GlucoTracker: Arquitectura monolítica en AWS paso a paso](https://dev.to/diego_laguna_17/como-construimos-glucotracker-arquitectura-monolitica-en-aws-paso-a-paso-3599)
+- [What I Learned Building a Product Review Platform Using ASP.NET Core and SQL Server](https://dev.to/opiniozone/what-i-learned-building-a-product-review-platform-using-aspnet-core-and-sql-server-5gfe)
+- [Turning Kiro Into a Leadership Coach With Meeting Transcripts](https://dev.to/dvddpl/turning-kiro-into-a-leadership-coach-with-meeting-transcripts-3gdb)
+- [开源量化分析软件功能介绍](https://dev.to/henry_lin_3ac6363747f45b4/kai-yuan-liang-hua-fen-xi-ruan-jian-gong-neng-jie-shao-i2m)
+- [The Anti-Bot Detection Checklist I Use Before Every Scraping Project](https://dev.to/charles_90891cea4a1800830/the-anti-bot-detection-checklist-i-use-before-every-scraping-project-10b9)
+- [100 Days of ClickHouse® – Day 6: Importing CSV Files into ClickHouse®](https://dev.to/kanishga_subramani_49ad73/how-to-load-csv-data-into-clickhouser-19na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
