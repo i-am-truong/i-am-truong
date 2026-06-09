@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 Signs Your In-House AI Agents Need an MCP Runtime](https://dev.to/arcade/when-ai-agents-need-mcp-runtime-431p)
-- [I got tired of paying $500/month just to give my users an email editor](https://dev.to/yret1/i-got-tired-of-paying-500month-just-to-give-my-users-an-email-editor-2po5)
-- [Apache Iceberg v4: The Current State, the Proposals, and Why They Matter](https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07)
-- [Is There a CMS Built with shadcn/ui? Yes — UnfoldCMS](https://dev.to/hamed_pakdaman_c724e294d9/is-there-a-cms-built-with-shadcnui-yes-unfoldcms-2b31)
-- [FrameVOX: A Video Production CLI for Agent-Made Social Videos](https://dev.to/tecnomanu/framevox-a-video-production-cli-for-agent-made-social-videos-2bc8)
+- [AI image generation with OpenAI API](https://dev.to/zsevic/ai-image-generation-with-openai-api-48mb)
+- [Field Test #020b — Next.js Root Ownership Refinement](https://dev.to/scarab-systems/field-test-020b-nextjs-root-ownership-refinement-2pfo)
+- [I Was Tired of Writing Commits Like &quot;final_final_v7_ACTUAL_FINAL&quot;](https://dev.to/trojanmocx/i-was-tired-of-writing-commits-like-finalfinalv7actualfinal-93m)
+- [How I built a three-tier content quality ladder for programmatic directory ETL](https://dev.to/morinaga/how-i-built-a-three-tier-content-quality-ladder-for-programmatic-directory-etl-30b2)
+- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-6dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
