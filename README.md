@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Explained: A Practical Beginner Guide for Data Engineers](https://dev.to/anthony-gicheru/apache-kafka-explained-a-practical-beginner-guide-for-data-engineers-1bh5)
-- [Vibe Coding Has Changed the Definition of Software Development. Here&#39;s What Still Hasn&#39;t Changed.](https://dev.to/jamessmithitis/vibe-coding-has-changed-the-definition-of-software-development-heres-what-still-hasnt-changed-45jh)
-- [2026 Enterprise AI Development Costs: What Companies Actually Pay &lpar;Based on Real Projects&rpar;](https://dev.to/inventiple/2026-enterprise-ai-development-costs-what-companies-actually-pay-based-on-real-projects-4e57)
-- [FreshContext in agent workflows: judgment at the context handoff](https://dev.to/immanuel_gabriel_341393bf/freshcontext-in-agent-workflows-judgment-at-the-context-handoff-jg8)
-- [Solana NFTs Without Metaplex: What I Learned Building with Token Extensions published: true](https://dev.to/gopichand_dev/solana-nfts-without-metaplex-what-i-learned-building-with-token-extensionspublished-true-1070)
+- [Swift Ternary Operator — Making Quick Decisions in One Line ⚡](https://dev.to/gamya_m/swift-ternary-operator-making-quick-decisions-in-one-line-1k4o)
+- [Why only 60% of AI Agents succeed](https://dev.to/reneza/why-40-of-all-ai-agents-are-shut-off-5fjd)
+- [Building a QR Code SaaS &lpar;QRGenLabs&rpar; — Looking for Honest Feedback](https://dev.to/rahuld1590/building-a-qr-code-saas-qrgenlabs-looking-for-honest-feedback-2k5n)
+- [Building AI agents with Vercel AI SDK](https://dev.to/zsevic/building-ai-agents-with-vercel-ai-sdk-48pa)
+- [I Wrote 10 AI Stories in 10 Days. My Keyboard Started Smoking on Day 4.](https://dev.to/xulingfeng/i-wrote-10-ai-stories-in-10-days-my-keyboard-started-smoking-on-day-4-28o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
