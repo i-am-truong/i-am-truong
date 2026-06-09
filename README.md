@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Author Doesn&#39;t Have to Be an Engineer: How the Harness Holds Quality &lpar;Series Part 5&rpar;](https://dev.to/ryantsuji/the-author-doesnt-have-to-be-an-engineer-how-the-harness-holds-quality-series-part-5-12e4)
-- [I built a hardware-inspired UI component library in pure Vanilla JS — here&#39;s how](https://dev.to/prince_4rvin/i-built-a-hardware-inspired-ui-component-library-in-pure-vanilla-js-heres-how-2hcn)
-- [Automating Myself Away… Almost](https://dev.to/er_dward/automating-myself-away-almost-5f79)
-- [We Replayed the Nomad Hack. Our Tool Fired at Block 15259101 Zero Minutes In.](https://dev.to/moorebrett0/we-replayed-the-nomad-hack-our-tool-fired-at-block-15259101-zero-minutes-in-57o0)
-- [Reporting: Custom Reporters &amp; Result Visibility &lpar;Playwright + TypeScript, Ch.25&rpar;](https://dev.to/aktibaba/reporting-custom-reporters-result-visibility-playwright-typescript-ch25-2c4f)
+- [Medical Bed Safety: Why Small Design Details Matter More Than the Big Ones](https://dev.to/brucezhang/medical-bed-safety-why-small-design-details-matter-more-than-the-big-ones-h9a)
+- [Hallucination Detection Is Not a Model Problem—It&#39;s an Architecture Problem](https://dev.to/saurav_bhattacharya/hallucination-detection-is-not-a-model-problem-its-an-architecture-problem-53la)
+- [Stop Telling Claude to &#39;Be Careful&#39;: Reinforcing It from the Outside with 3 Tools](https://dev.to/quolu/stop-telling-claude-to-be-careful-reinforcing-it-from-the-outside-with-3-tools-2k8k)
+- [OpenAI Lockdown Mode + Gemma 4 On-Device: Issue #19](https://dev.to/devsignal/openai-lockdown-mode-gemma-4-on-device-issue-19-2a84)
+- [I Built a Text Expander That Works Everywhere — Here&#39;s What I Learned](https://dev.to/dede78dede/i-built-a-text-expander-that-works-everywhere-heres-what-i-learned-4ejh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
