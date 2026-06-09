@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Frontend UI Library Landscape Explained for Developers](https://dev.to/bhargablinx/the-frontend-ui-library-landscape-explained-for-developers-lan)
-- [How I Improved Lighthouse Performance on My Portfolio Without Killing the Visual Experience](https://dev.to/mern-developer-expert/how-i-improved-lighthouse-performance-on-my-portfolio-without-killing-the-visual-experience-2oa3)
-- [Stop Guessing, Start Profiling: A Dev&#39;s Guide to Go Mechanics](https://dev.to/_mh/stop-guessing-start-profiling-mechanical-sympathy-in-go-systems-49d0)
-- [Using TimescaleDB and Collectd for observability](https://dev.to/perldean/using-timescaledb-and-collectd-for-observability-4ca0)
-- [How to fix ImagePullBackOff error in Kubernetes](https://dev.to/muskan_8abedcc7e12/how-to-fix-imagepullbackoff-error-in-kubernetes-132i)
+- [Why Your Backtest Is Lying to You — 3 Tests That Catch Lookahead Bias, Overfitting, and Fantasy Fills](https://dev.to/eedgee/why-your-backtest-is-lying-to-you-3-tests-that-catch-lookahead-bias-overfitting-and-fantasy-2bnc)
+- [One Seed, Same Puzzle for Everyone: Seeded RNG for a Fair Daily Challenge](https://dev.to/gowtham_r_2002/one-seed-same-puzzle-for-everyone-seeded-rng-for-a-fair-daily-challenge-1h7d)
+- [GPU_WORKLOAD_MISMATCH: A Novel Security Finding Category for AI Container Workloads](https://dev.to/ces1231/gpuworkloadmismatch-a-novel-security-finding-category-for-ai-container-workloads-24d5)
+- [Visa and Coinbase Are Fighting Over the Rail. Nobody Is Fighting Over the Layer Above It.](https://dev.to/kavinkimcreator/visa-and-coinbase-are-fighting-over-the-rail-nobody-is-fighting-over-the-layer-above-it-2ae5)
+- [The coding interview patterns, explained by building them](https://dev.to/iwtlp/the-coding-interview-patterns-explained-by-building-them-1lmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
