@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swift Ternary Operator — Making Quick Decisions in One Line ⚡](https://dev.to/gamya_m/swift-ternary-operator-making-quick-decisions-in-one-line-1k4o)
-- [Why only 60% of AI Agents succeed](https://dev.to/reneza/why-40-of-all-ai-agents-are-shut-off-5fjd)
-- [Building a QR Code SaaS &lpar;QRGenLabs&rpar; — Looking for Honest Feedback](https://dev.to/rahuld1590/building-a-qr-code-saas-qrgenlabs-looking-for-honest-feedback-2k5n)
-- [Building AI agents with Vercel AI SDK](https://dev.to/zsevic/building-ai-agents-with-vercel-ai-sdk-48pa)
-- [I Wrote 10 AI Stories in 10 Days. My Keyboard Started Smoking on Day 4.](https://dev.to/xulingfeng/i-wrote-10-ai-stories-in-10-days-my-keyboard-started-smoking-on-day-4-28o9)
+- [The Frontend UI Library Landscape Explained for Developers](https://dev.to/bhargablinx/the-frontend-ui-library-landscape-explained-for-developers-lan)
+- [How I Improved Lighthouse Performance on My Portfolio Without Killing the Visual Experience](https://dev.to/mern-developer-expert/how-i-improved-lighthouse-performance-on-my-portfolio-without-killing-the-visual-experience-2oa3)
+- [Stop Guessing, Start Profiling: A Dev&#39;s Guide to Go Mechanics](https://dev.to/_mh/stop-guessing-start-profiling-mechanical-sympathy-in-go-systems-49d0)
+- [Using TimescaleDB and Collectd for observability](https://dev.to/perldean/using-timescaledb-and-collectd-for-observability-4ca0)
+- [How to fix ImagePullBackOff error in Kubernetes](https://dev.to/muskan_8abedcc7e12/how-to-fix-imagepullbackoff-error-in-kubernetes-132i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
