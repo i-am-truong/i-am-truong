@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Medical Bed Safety: Why Small Design Details Matter More Than the Big Ones](https://dev.to/brucezhang/medical-bed-safety-why-small-design-details-matter-more-than-the-big-ones-h9a)
-- [Hallucination Detection Is Not a Model Problem—It&#39;s an Architecture Problem](https://dev.to/saurav_bhattacharya/hallucination-detection-is-not-a-model-problem-its-an-architecture-problem-53la)
-- [Stop Telling Claude to &#39;Be Careful&#39;: Reinforcing It from the Outside with 3 Tools](https://dev.to/quolu/stop-telling-claude-to-be-careful-reinforcing-it-from-the-outside-with-3-tools-2k8k)
-- [OpenAI Lockdown Mode + Gemma 4 On-Device: Issue #19](https://dev.to/devsignal/openai-lockdown-mode-gemma-4-on-device-issue-19-2a84)
-- [I Built a Text Expander That Works Everywhere — Here&#39;s What I Learned](https://dev.to/dede78dede/i-built-a-text-expander-that-works-everywhere-heres-what-i-learned-4ejh)
+- [Apache Kafka Explained: A Practical Beginner Guide for Data Engineers](https://dev.to/anthony-gicheru/apache-kafka-explained-a-practical-beginner-guide-for-data-engineers-1bh5)
+- [Vibe Coding Has Changed the Definition of Software Development. Here&#39;s What Still Hasn&#39;t Changed.](https://dev.to/jamessmithitis/vibe-coding-has-changed-the-definition-of-software-development-heres-what-still-hasnt-changed-45jh)
+- [2026 Enterprise AI Development Costs: What Companies Actually Pay &lpar;Based on Real Projects&rpar;](https://dev.to/inventiple/2026-enterprise-ai-development-costs-what-companies-actually-pay-based-on-real-projects-4e57)
+- [FreshContext in agent workflows: judgment at the context handoff](https://dev.to/immanuel_gabriel_341393bf/freshcontext-in-agent-workflows-judgment-at-the-context-handoff-jg8)
+- [Solana NFTs Without Metaplex: What I Learned Building with Token Extensions published: true](https://dev.to/gopichand_dev/solana-nfts-without-metaplex-what-i-learned-building-with-token-extensionspublished-true-1070)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
