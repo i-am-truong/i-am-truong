@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a cheap options data API for algo traders — $20/mo vs $99+ &lpar;free tier available&rpar;](https://dev.to/__ceb04a8ef391e/i-built-a-cheap-options-data-api-for-algo-traders-20mo-vs-99-free-tier-available-1f2o)
-- [Why &quot;No Backend&quot; Is a Myth in AI App Building](https://dev.to/momen_hq/why-no-backend-is-a-myth-in-ai-app-building-27io)
-- [How to build an AI trading strategy workflow without writing a full trading bot](https://dev.to/horizon_trade/how-to-build-an-ai-trading-strategy-workflow-without-writing-a-full-trading-bot-1ali)
-- [How to build an AI trading strategy workflow without writing a full trading bot](https://dev.to/horizon_trade/how-to-build-an-ai-trading-strategy-workflow-without-writing-a-full-trading-bot-37be)
-- [I Built a Visa Requirement Overlay for Google Flights — Here&#39;s How the Chrome Extension Works](https://dev.to/ktg0215/i-built-a-visa-requirement-overlay-for-google-flights-heres-how-the-chrome-extension-works-20o7)
+- [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog)
+- [Andy&#39;s Laws of AI in Software Engineering](https://dev.to/andyobtiva/andys-laws-of-ai-in-software-engineering-2f23)
+- [SQL Formatting Best Practices: A Practical Guide for Engineers](https://dev.to/moksh/sql-formatting-best-practices-a-practical-guide-for-engineers-k60)
+- [Implementing Token Bucket Rate Limiting for High-Volume Inventory APIs](https://dev.to/hridyasimon_dev/decoupling-microservices-with-event-driven-sqs-pipelines-for-high-volume-fulfillment-5dil)
+- [From Blank Terminal to Shipping a Real Client Project: My First Year of Coding](https://dev.to/madoyakimberley/from-blank-terminal-to-shipping-a-real-client-project-my-first-year-of-coding-44mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
