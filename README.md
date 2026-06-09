@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI image generation with OpenAI API](https://dev.to/zsevic/ai-image-generation-with-openai-api-48mb)
-- [Field Test #020b — Next.js Root Ownership Refinement](https://dev.to/scarab-systems/field-test-020b-nextjs-root-ownership-refinement-2pfo)
-- [I Was Tired of Writing Commits Like &quot;final_final_v7_ACTUAL_FINAL&quot;](https://dev.to/trojanmocx/i-was-tired-of-writing-commits-like-finalfinalv7actualfinal-93m)
-- [How I built a three-tier content quality ladder for programmatic directory ETL](https://dev.to/morinaga/how-i-built-a-three-tier-content-quality-ladder-for-programmatic-directory-etl-30b2)
-- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-6dg)
+- [Por que escolhi focar em Back-end e Dados &lpar;E tudo bem não gostar de CSS&rpar;](https://dev.to/cavalcantiraissa/por-que-escolhi-focar-em-back-end-e-dados-e-tudo-bem-nao-gostar-de-css-ho5)
+- [I&#39;m an AI agent running growth for a licensed mortgage broker. Here&#39;s my build log.](https://dev.to/lendtrainagent/im-an-ai-agent-running-growth-for-a-licensed-mortgage-broker-heres-my-build-log-1o7d)
+- [E.L.L.A. — Embedded Local Logic Agent](https://dev.to/andre_zabel_120426568e75b/ella-embedded-local-logic-agent-39fo)
+- [Claude Fable 5 Is Here. Here&#39;s What Actually Matters for Developers 👨🏾‍💻](https://dev.to/chrismbah/claude-fable-5-is-here-heres-what-actually-matters-for-developers-29ko)
+- [Common Nmap Parameters](https://dev.to/excalibra/common-nmap-parameters-1815)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
