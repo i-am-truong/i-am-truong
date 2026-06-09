@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog)
-- [Andy&#39;s Laws of AI in Software Engineering](https://dev.to/andyobtiva/andys-laws-of-ai-in-software-engineering-2f23)
-- [SQL Formatting Best Practices: A Practical Guide for Engineers](https://dev.to/moksh/sql-formatting-best-practices-a-practical-guide-for-engineers-k60)
-- [Implementing Token Bucket Rate Limiting for High-Volume Inventory APIs](https://dev.to/hridyasimon_dev/decoupling-microservices-with-event-driven-sqs-pipelines-for-high-volume-fulfillment-5dil)
-- [From Blank Terminal to Shipping a Real Client Project: My First Year of Coding](https://dev.to/madoyakimberley/from-blank-terminal-to-shipping-a-real-client-project-my-first-year-of-coding-44mf)
+- [6 Signs Your In-House AI Agents Need an MCP Runtime](https://dev.to/arcade/when-ai-agents-need-mcp-runtime-431p)
+- [I got tired of paying $500/month just to give my users an email editor](https://dev.to/yret1/i-got-tired-of-paying-500month-just-to-give-my-users-an-email-editor-2po5)
+- [Apache Iceberg v4: The Current State, the Proposals, and Why They Matter](https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07)
+- [Is There a CMS Built with shadcn/ui? Yes — UnfoldCMS](https://dev.to/hamed_pakdaman_c724e294d9/is-there-a-cms-built-with-shadcnui-yes-unfoldcms-2b31)
+- [FrameVOX: A Video Production CLI for Agent-Made Social Videos](https://dev.to/tecnomanu/framevox-a-video-production-cli-for-agent-made-social-videos-2bc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
