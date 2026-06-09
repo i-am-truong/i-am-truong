@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Backtest Is Lying to You — 3 Tests That Catch Lookahead Bias, Overfitting, and Fantasy Fills](https://dev.to/eedgee/why-your-backtest-is-lying-to-you-3-tests-that-catch-lookahead-bias-overfitting-and-fantasy-2bnc)
-- [One Seed, Same Puzzle for Everyone: Seeded RNG for a Fair Daily Challenge](https://dev.to/gowtham_r_2002/one-seed-same-puzzle-for-everyone-seeded-rng-for-a-fair-daily-challenge-1h7d)
-- [GPU_WORKLOAD_MISMATCH: A Novel Security Finding Category for AI Container Workloads](https://dev.to/ces1231/gpuworkloadmismatch-a-novel-security-finding-category-for-ai-container-workloads-24d5)
-- [Visa and Coinbase Are Fighting Over the Rail. Nobody Is Fighting Over the Layer Above It.](https://dev.to/kavinkimcreator/visa-and-coinbase-are-fighting-over-the-rail-nobody-is-fighting-over-the-layer-above-it-2ae5)
-- [The coding interview patterns, explained by building them](https://dev.to/iwtlp/the-coding-interview-patterns-explained-by-building-them-1lmb)
+- [I built a cheap options data API for algo traders — $20/mo vs $99+ &lpar;free tier available&rpar;](https://dev.to/__ceb04a8ef391e/i-built-a-cheap-options-data-api-for-algo-traders-20mo-vs-99-free-tier-available-1f2o)
+- [Why &quot;No Backend&quot; Is a Myth in AI App Building](https://dev.to/momen_hq/why-no-backend-is-a-myth-in-ai-app-building-27io)
+- [How to build an AI trading strategy workflow without writing a full trading bot](https://dev.to/horizon_trade/how-to-build-an-ai-trading-strategy-workflow-without-writing-a-full-trading-bot-1ali)
+- [How to build an AI trading strategy workflow without writing a full trading bot](https://dev.to/horizon_trade/how-to-build-an-ai-trading-strategy-workflow-without-writing-a-full-trading-bot-37be)
+- [I Built a Visa Requirement Overlay for Google Flights — Here&#39;s How the Chrome Extension Works](https://dev.to/ktg0215/i-built-a-visa-requirement-overlay-for-google-flights-heres-how-the-chrome-extension-works-20o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
