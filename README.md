@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jetpack Compose Navigation&lpar;Interview Prep&rpar;](https://dev.to/itsaalaa7/jetpack-compose-navigationinterview-prep-2bc7)
-- [How to Debug AI-Generated Code as a Beginner](https://dev.to/srdan_borovi_584c6b1d773/how-to-debug-ai-generated-code-as-a-beginner-4d2p)
-- [I Built 300+ Free Web Tools at 18 Here&#39;s What Actually Drove Traffic &lpar;Hint: Not Google&rpar;](https://dev.to/alberto_miller_f44a8880a3/i-built-300-free-web-tools-at-18-heres-what-actually-drove-traffic-hint-not-google-5gei)
-- [Claude Fable 5: Features, Pricing, and Fallbacks](https://dev.to/mudassirworks/claude-fable-5-features-pricing-and-fallbacks-4dkl)
-- [Play-First Programming: A New Way to Learn, A New Way to Belong](https://dev.to/gregthevibecoder/play-first-programming-a-new-way-to-learn-a-new-way-to-belong-2mpg)
+- [In the Beginning Was the Word](https://dev.to/rono0365/in-the-beginning-was-the-word-203m)
+- [Web Security Basics: Every Developer Must Know &lpar;2026&rpar;](https://dev.to/armorbreak/web-security-basics-every-developer-must-know-2026-405o)
+- [Gemma 4 QAT on 10GB Laptop: Local AI with 6.7GB VRAM](https://dev.to/everylocalai/gemma-4-qat-on-10gb-laptop-local-ai-with-67gb-vram-1ihj)
+- [Ollama 0.30 GPU Boost: Faster local Qwen inference on NVIDIA](https://dev.to/everylocalai/ollama-030-gpu-boost-faster-local-qwen-inference-on-nvidia-31jf)
+- [How to Leverage Magento 2 Asynchronous Bulk APIs in Google Apps Script &lpar;Zero Timeouts&rpar;](https://dev.to/hayrullahkar/how-to-leverage-magento-2-asynchronous-bulk-apis-in-google-apps-script-zero-timeouts-13c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
