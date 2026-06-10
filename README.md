@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [In the Beginning Was the Word](https://dev.to/rono0365/in-the-beginning-was-the-word-203m)
-- [Web Security Basics: Every Developer Must Know &lpar;2026&rpar;](https://dev.to/armorbreak/web-security-basics-every-developer-must-know-2026-405o)
-- [Gemma 4 QAT on 10GB Laptop: Local AI with 6.7GB VRAM](https://dev.to/everylocalai/gemma-4-qat-on-10gb-laptop-local-ai-with-67gb-vram-1ihj)
-- [Ollama 0.30 GPU Boost: Faster local Qwen inference on NVIDIA](https://dev.to/everylocalai/ollama-030-gpu-boost-faster-local-qwen-inference-on-nvidia-31jf)
-- [How to Leverage Magento 2 Asynchronous Bulk APIs in Google Apps Script &lpar;Zero Timeouts&rpar;](https://dev.to/hayrullahkar/how-to-leverage-magento-2-asynchronous-bulk-apis-in-google-apps-script-zero-timeouts-13c2)
+- [Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04](https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4)
+- [Deploying Dokku Lightweight Open-Source PaaS on Ubuntu 24.04](https://dev.to/vultr/deploying-dokku-lightweight-open-source-paas-on-ubuntu-2404-17eg)
+- [Installing WGDashboard, an Open-Source Web UI for WireGuard VPN, on Ubuntu 24.04](https://dev.to/vultr/installing-wgdashboard-an-open-source-web-ui-for-wireguard-vpn-on-ubuntu-2404-45dc)
+- [Deploying Pi-hole DNS Sinkhole Service on Ubuntu 24.04](https://dev.to/vultr/deploying-pi-hole-dns-sinkhole-service-on-ubuntu-2404-1na8)
+- [Deploying AdGuard Home Network Traffic Filtering on Ubuntu 24.04](https://dev.to/vultr/deploying-adguard-home-network-traffic-filtering-on-ubuntu-2404-5elo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
