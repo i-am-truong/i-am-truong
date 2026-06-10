@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Test Fixtures by Hand: Generate Them Directly From Your Schemas](https://dev.to/alireza3690b26/stop-writing-test-fixtures-by-hand-generate-them-directly-from-your-schemas-o43)
-- [Remove Nth Node From End of List](https://dev.to/jaspreet_singh_86ae1740ac/remove-nth-node-from-end-of-list-1bde)
-- [Token Design on Solana — What Metadata, Fees, and Soulbound Rules Taught Me](https://dev.to/zoe_lin_0653/token-design-on-solana-what-metadata-fees-and-soulbound-rules-taught-me-2nme)
-- [What’s the difference between automation, AI automation, and AI agents?](https://dev.to/kareemzok/whats-the-difference-between-automation-ai-automation-and-ai-agents-1lpg)
-- [Why Your Dev Environment Keeps Billing You After Hours &lpar;And How to Actually Stop It&rpar;](https://dev.to/trigops/why-your-dev-environment-keeps-billing-you-after-hours-and-how-to-actually-stop-it-22l0)
+- [Shopify B2B: Choosing the Right Plan Matters](https://dev.to/ecom_digital_a911992dbb89/shopify-b2b-choosing-the-right-plan-matters-3eg3)
+- [[🗄️DataBase] N+1 Query Problem](https://dev.to/qq5yu/database-n1-query-problem-56kd)
+- [RPGMapEditor.com: A Free Browser-Based Battle Map Maker for D&amp;D and VTTs](https://dev.to/thexper_f46a597a4e23988d2/rpgmapeditorcom-a-free-browser-based-battle-map-maker-for-dd-and-vtts-47ee)
+- [We&#39;ve Seen This Before: What SOA Teaches Us About APIs in the Age of Agents](https://dev.to/simongriffiths/weve-seen-this-before-what-soa-teaches-us-about-apis-in-the-age-of-agents-5lm)
+- [We Built NeuralDrive — an AI-Powered Emergency Routing System on AWS in One Day — Top 10 at One With AI Hackathon](https://dev.to/emmysmedia/we-built-neuraldrive-an-ai-powered-emergency-routing-system-on-aws-in-one-day-top-10-at-one-419c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
