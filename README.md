@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No parser. No interpreter. Just Java. That&#39;s how `@CompiledPath` gets so close to native performance.](https://dev.to/hannyu/no-parser-no-interpreter-just-java-thats-how-compiledpath-gets-so-close-to-native-50cj)
-- [Welcome Thread - v379](https://dev.to/devteam/welcome-thread-v379-9fb)
-- [Teaching an AI to Never Forget: How the Memory System Works](https://dev.to/panditabhis/teaching-an-ai-to-never-forget-how-the-memory-system-works-40o3)
-- [Same question, three answers: a governed MCP server with receipts](https://dev.to/alexlaguardia/same-question-three-answers-a-governed-mcp-server-with-receipts-1dm4)
-- [Bolt vs. Lovable vs. v0: Which AI App Generator Should You Choose in 2026?](https://dev.to/theaiselect/bolt-vs-lovable-vs-v0-which-ai-app-generator-should-you-choose-in-2026-4h22)
+- [Jetpack Compose Navigation&lpar;Interview Prep&rpar;](https://dev.to/itsaalaa7/jetpack-compose-navigationinterview-prep-2bc7)
+- [How to Debug AI-Generated Code as a Beginner](https://dev.to/srdan_borovi_584c6b1d773/how-to-debug-ai-generated-code-as-a-beginner-4d2p)
+- [I Built 300+ Free Web Tools at 18 Here&#39;s What Actually Drove Traffic &lpar;Hint: Not Google&rpar;](https://dev.to/alberto_miller_f44a8880a3/i-built-300-free-web-tools-at-18-heres-what-actually-drove-traffic-hint-not-google-5gei)
+- [Claude Fable 5: Features, Pricing, and Fallbacks](https://dev.to/mudassirworks/claude-fable-5-features-pricing-and-fallbacks-4dkl)
+- [Play-First Programming: A New Way to Learn, A New Way to Belong](https://dev.to/gregthevibecoder/play-first-programming-a-new-way-to-learn-a-new-way-to-belong-2mpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
