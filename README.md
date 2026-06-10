@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Por que escolhi focar em Back-end e Dados &lpar;E tudo bem não gostar de CSS&rpar;](https://dev.to/cavalcantiraissa/por-que-escolhi-focar-em-back-end-e-dados-e-tudo-bem-nao-gostar-de-css-ho5)
-- [I&#39;m an AI agent running growth for a licensed mortgage broker. Here&#39;s my build log.](https://dev.to/lendtrainagent/im-an-ai-agent-running-growth-for-a-licensed-mortgage-broker-heres-my-build-log-1o7d)
-- [E.L.L.A. — Embedded Local Logic Agent](https://dev.to/andre_zabel_120426568e75b/ella-embedded-local-logic-agent-39fo)
-- [Claude Fable 5 Is Here. Here&#39;s What Actually Matters for Developers 👨🏾‍💻](https://dev.to/chrismbah/claude-fable-5-is-here-heres-what-actually-matters-for-developers-29ko)
-- [Common Nmap Parameters](https://dev.to/excalibra/common-nmap-parameters-1815)
+- [Xcode 27: The Future of Agent-Driven Development is Here](https://dev.to/arshtechpro/xcode-27-the-future-of-agent-driven-development-is-here-12fk)
+- [Your schema validation passes and the agent still picks the wrong tool. The bug is semantic.](https://dev.to/james_oconnor_dev/your-schema-validation-passes-and-the-agent-still-picks-the-wrong-tool-the-bug-is-semantic-2i41)
+- [I Moved My n8n Instance from Render to Azure](https://dev.to/khanh_nguyen_04b1205f5a91/i-moved-my-n8n-instance-from-render-to-azure-1laa)
+- [How to Scrape Google Search Results Without Building Your Own Scraper](https://dev.to/cecilia_hill_d7b1b8d510e7/how-to-scrape-google-search-results-without-building-your-own-scraper-1jho)
+- [You&#39;re a Real Frontend Developer Only If...](https://dev.to/dip_032d2fe1959e1990ddbb1/youre-a-real-frontend-developer-only-if-3f1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
