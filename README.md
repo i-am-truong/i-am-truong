@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Xcode 27: The Future of Agent-Driven Development is Here](https://dev.to/arshtechpro/xcode-27-the-future-of-agent-driven-development-is-here-12fk)
-- [Your schema validation passes and the agent still picks the wrong tool. The bug is semantic.](https://dev.to/james_oconnor_dev/your-schema-validation-passes-and-the-agent-still-picks-the-wrong-tool-the-bug-is-semantic-2i41)
-- [I Moved My n8n Instance from Render to Azure](https://dev.to/khanh_nguyen_04b1205f5a91/i-moved-my-n8n-instance-from-render-to-azure-1laa)
-- [How to Scrape Google Search Results Without Building Your Own Scraper](https://dev.to/cecilia_hill_d7b1b8d510e7/how-to-scrape-google-search-results-without-building-your-own-scraper-1jho)
-- [You&#39;re a Real Frontend Developer Only If...](https://dev.to/dip_032d2fe1959e1990ddbb1/youre-a-real-frontend-developer-only-if-3f1m)
+- [Stop Writing Test Fixtures by Hand: Generate Them Directly From Your Schemas](https://dev.to/alireza3690b26/stop-writing-test-fixtures-by-hand-generate-them-directly-from-your-schemas-o43)
+- [Remove Nth Node From End of List](https://dev.to/jaspreet_singh_86ae1740ac/remove-nth-node-from-end-of-list-1bde)
+- [Token Design on Solana — What Metadata, Fees, and Soulbound Rules Taught Me](https://dev.to/zoe_lin_0653/token-design-on-solana-what-metadata-fees-and-soulbound-rules-taught-me-2nme)
+- [What’s the difference between automation, AI automation, and AI agents?](https://dev.to/kareemzok/whats-the-difference-between-automation-ai-automation-and-ai-agents-1lpg)
+- [Why Your Dev Environment Keeps Billing You After Hours &lpar;And How to Actually Stop It&rpar;](https://dev.to/trigops/why-your-dev-environment-keeps-billing-you-after-hours-and-how-to-actually-stop-it-22l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
