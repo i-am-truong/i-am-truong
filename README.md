@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shopify B2B: Choosing the Right Plan Matters](https://dev.to/ecom_digital_a911992dbb89/shopify-b2b-choosing-the-right-plan-matters-3eg3)
-- [[🗄️DataBase] N+1 Query Problem](https://dev.to/qq5yu/database-n1-query-problem-56kd)
-- [RPGMapEditor.com: A Free Browser-Based Battle Map Maker for D&amp;D and VTTs](https://dev.to/thexper_f46a597a4e23988d2/rpgmapeditorcom-a-free-browser-based-battle-map-maker-for-dd-and-vtts-47ee)
-- [We&#39;ve Seen This Before: What SOA Teaches Us About APIs in the Age of Agents](https://dev.to/simongriffiths/weve-seen-this-before-what-soa-teaches-us-about-apis-in-the-age-of-agents-5lm)
-- [We Built NeuralDrive — an AI-Powered Emergency Routing System on AWS in One Day — Top 10 at One With AI Hackathon](https://dev.to/emmysmedia/we-built-neuraldrive-an-ai-powered-emergency-routing-system-on-aws-in-one-day-top-10-at-one-419c)
+- [No parser. No interpreter. Just Java. That&#39;s how `@CompiledPath` gets so close to native performance.](https://dev.to/hannyu/no-parser-no-interpreter-just-java-thats-how-compiledpath-gets-so-close-to-native-50cj)
+- [Welcome Thread - v379](https://dev.to/devteam/welcome-thread-v379-9fb)
+- [Teaching an AI to Never Forget: How the Memory System Works](https://dev.to/panditabhis/teaching-an-ai-to-never-forget-how-the-memory-system-works-40o3)
+- [Same question, three answers: a governed MCP server with receipts](https://dev.to/alexlaguardia/same-question-three-answers-a-governed-mcp-server-with-receipts-1dm4)
+- [Bolt vs. Lovable vs. v0: Which AI App Generator Should You Choose in 2026?](https://dev.to/theaiselect/bolt-vs-lovable-vs-v0-which-ai-app-generator-should-you-choose-in-2026-4h22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
