@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nestjs — Stop burning AI credits to write Swagger docs, let the CLI do it!](https://dev.to/marvin_rocha_24917bf64d0e/nestjs-stop-burning-ai-credits-to-write-swagger-docs-let-the-cli-do-it-2i63)
-- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-35gc)
-- [Securing Your Spring Boot Architecture: A Pragmatic Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/securing-your-spring-boot-architecture-a-pragmatic-approach-with-clprolf-5ade)
-- [You have been zigged &lpar;series&rpar; : Writing to spawned child process&#39;s stdin](https://dev.to/black_tornado/you-have-been-zigged-series-writing-to-spawned-child-processs-stdin-ng6)
-- [Cómo solucionar `docker run` con exit code 1 en Raspberry Pi](https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-292d)
+- [AIClaw&#39;s Generated File Attachments Keep Tool Output In The Chat Loop](https://dev.to/chowyu12/aiclaws-generated-file-attachments-keep-tool-output-in-the-chat-loop-4n7h)
+- [How to Prepare for a Senior Developer Interview in 2026](https://dev.to/contextual_e058ba21d87c47/how-to-prepare-for-a-senior-developer-interview-in-2026-584p)
+- [Do You React Faster to Sound or Sight? Test Both in Your Browser](https://dev.to/nasirazizawan/do-you-react-faster-to-sound-or-sight-test-both-in-your-browser-33ge)
+- [Pux: Bringing Pygame to Rux](https://dev.to/natuworkguy/pux-bringing-pygame-to-rux-10l0)
+- [Dos fundamentos à prática: como construir Entidades ricas de verdade](https://dev.to/merielimanzano/dos-fundamentos-a-pratica-como-construir-entidades-ricas-de-verdade-9jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
