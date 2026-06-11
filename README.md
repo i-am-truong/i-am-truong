@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The end of the programmer: 26 predictions I dare you to break](https://dev.to/ad_soares_9901444a323f3e2/the-end-of-the-programmer-26-predictions-i-dare-you-to-break-5g8c)
-- [How I Added Goose as an External Agent to Entire](https://dev.to/entire/how-i-added-goose-as-an-external-agent-to-entire-6gf)
-- [A Fluent LLM Answer Is Not the Same as an Inspected Answer](https://dev.to/kenerator/a-fluent-llm-answer-is-not-the-same-as-an-inspected-answer-o98)
-- [ayatsaadati — Complete Guide](https://dev.to/sahand1987/ayatsaadati-complete-guide-b90)
-- [MailHog Alternatives for CI Pipelines in 2026](https://dev.to/zerodrop/mailhog-alternatives-for-ci-pipelines-in-2025-5d0c)
+- [How to see running queries in Postgres and kill them](https://dev.to/dsplce-co/how-to-see-running-queries-in-postgres-and-kill-them-j5i)
+- [Kubernetes kills your pod? Here&#39;s why](https://dev.to/dsplce-co/kubernetes-kills-your-pod-heres-why-25a7)
+- [Why Comprehensive Code Review Matters More Than You Think](https://dev.to/constanza_diaz_dev/why-comprehensive-code-review-matters-more-than-you-think-55ho)
+- [AI Test Agents Are Useful, but Only If You Keep Them on a Leash](https://dev.to/orbitpickle307/ai-test-agents-are-useful-but-only-if-you-keep-them-on-a-leash-33pg)
+- [The First RFID Patent Was a Toll Device](https://dev.to/fluidwire/the-first-rfid-patent-was-a-toll-device-5h4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
