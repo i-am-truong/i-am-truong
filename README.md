@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MiMo Code Goes Open Source, but Xiaomi&#39;s Real Ambition Is MiMo SoloEngine](https://dev.to/cx330aurora/mimo-code-goes-open-source-but-xiaomis-real-ambition-is-mimo-soloengine-2ln)
-- [You have been zigged &lpar;series&rpar; : Upper casing string &lpar;part 8 cont.&rpar;](https://dev.to/black_tornado/you-have-been-zigged-series-upper-casing-string-part-8-cont-1kb3)
-- [有人在拆 Transformer：Memory Caching 與 CTM 各拆走了一半](https://dev.to/yang_goufang_23c7ba674984/you-ren-zai-chai-transformermemory-caching-yu-ctm-ge-chai-zou-liao-ban-4lnk)
-- [Micro Context Switching](https://dev.to/tracygjg/micro-context-switching-5658)
-- [Building a SaaS engine in public: an affiliate program that isn&#39;t one hardcoded scheme](https://dev.to/d_isaenko_dev/building-a-saas-engine-in-public-an-affiliate-program-that-isnt-one-hardcoded-scheme-ok)
+- [Nestjs — Stop burning AI credits to write Swagger docs, let the CLI do it!](https://dev.to/marvin_rocha_24917bf64d0e/nestjs-stop-burning-ai-credits-to-write-swagger-docs-let-the-cli-do-it-2i63)
+- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-35gc)
+- [Securing Your Spring Boot Architecture: A Pragmatic Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/securing-your-spring-boot-architecture-a-pragmatic-approach-with-clprolf-5ade)
+- [You have been zigged &lpar;series&rpar; : Writing to spawned child process&#39;s stdin](https://dev.to/black_tornado/you-have-been-zigged-series-writing-to-spawned-child-processs-stdin-ng6)
+- [Cómo solucionar `docker run` con exit code 1 en Raspberry Pi](https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-292d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
