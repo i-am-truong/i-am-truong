@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Move Your WordPress.com Domain to Cloudflare and Halve the Renewal](https://dev.to/malcolmlow/move-your-wordpresscom-domain-to-cloudflare-and-halve-the-renewal-4a9n)
-- [Private logic, public rails: Pairing Midnight&#39;s ZK privacy with XRPL settlement](https://dev.to/chaps_grid/private-logic-public-rails-pairing-midnights-zk-privacy-with-xrpl-settlement-54p4)
-- [AI Output Provenance for SaaS: Trace Answers Before They Become Liability](https://dev.to/jackm-singularity/ai-output-provenance-for-saas-trace-answers-before-they-become-liability-1dc5)
-- [WhatsApp-first 2FA Passwordless Authentication &lpar;W2PA&rpar;: RFC-WF-0037](https://dev.to/fullagenticstack/whatsapp-first-2fa-passwordless-authentication-w2pa-rfc-wf-0037-4o9f)
-- [Multi-Agent Systems Explained: Coordinator Pattern, Task Tool &amp; Context Injection](https://dev.to/digital_subham/multi-agent-systems-explained-coordinator-pattern-task-tool-context-injection-4b8c)
+- [MiMo Code Goes Open Source, but Xiaomi&#39;s Real Ambition Is MiMo SoloEngine](https://dev.to/cx330aurora/mimo-code-goes-open-source-but-xiaomis-real-ambition-is-mimo-soloengine-2ln)
+- [You have been zigged &lpar;series&rpar; : Upper casing string &lpar;part 8 cont.&rpar;](https://dev.to/black_tornado/you-have-been-zigged-series-upper-casing-string-part-8-cont-1kb3)
+- [有人在拆 Transformer：Memory Caching 與 CTM 各拆走了一半](https://dev.to/yang_goufang_23c7ba674984/you-ren-zai-chai-transformermemory-caching-yu-ctm-ge-chai-zou-liao-ban-4lnk)
+- [Micro Context Switching](https://dev.to/tracygjg/micro-context-switching-5658)
+- [Building a SaaS engine in public: an affiliate program that isn&#39;t one hardcoded scheme](https://dev.to/d_isaenko_dev/building-a-saas-engine-in-public-an-affiliate-program-that-isnt-one-hardcoded-scheme-ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
