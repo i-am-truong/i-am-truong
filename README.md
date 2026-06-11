@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What a Mailman service shutdown reveals about the state of mailing lists in 2026](https://dev.to/wadco/what-a-mailman-service-shutdown-reveals-about-the-state-of-mailing-lists-in-2026-5g5i)
-- [Clifford’s &lpar;aka, Claire’s&rpar; Device in C and C++](https://dev.to/pauljlucas/cliffords-aka-claires-device-in-c-and-c-2p33)
-- [Bizbox Build Log — Week of 2026-05-31](https://dev.to/joincitro/bizbox-build-log-week-of-2026-05-31-57cg)
-- [How to Get Hermes Agent to Use AgentMail &lpar;And Why It&#39;s Harder Than It Should Be&rpar;](https://dev.to/saintchris_21/how-to-get-hermes-agent-to-use-agentmail-and-why-its-harder-than-it-should-be-1f4n)
-- [[Boost]](https://dev.to/thosss/-2ajk)
+- [Move Your WordPress.com Domain to Cloudflare and Halve the Renewal](https://dev.to/malcolmlow/move-your-wordpresscom-domain-to-cloudflare-and-halve-the-renewal-4a9n)
+- [Private logic, public rails: Pairing Midnight&#39;s ZK privacy with XRPL settlement](https://dev.to/chaps_grid/private-logic-public-rails-pairing-midnights-zk-privacy-with-xrpl-settlement-54p4)
+- [AI Output Provenance for SaaS: Trace Answers Before They Become Liability](https://dev.to/jackm-singularity/ai-output-provenance-for-saas-trace-answers-before-they-become-liability-1dc5)
+- [WhatsApp-first 2FA Passwordless Authentication &lpar;W2PA&rpar;: RFC-WF-0037](https://dev.to/fullagenticstack/whatsapp-first-2fa-passwordless-authentication-w2pa-rfc-wf-0037-4o9f)
+- [Multi-Agent Systems Explained: Coordinator Pattern, Task Tool &amp; Context Injection](https://dev.to/digital_subham/multi-agent-systems-explained-coordinator-pattern-task-tool-context-injection-4b8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
