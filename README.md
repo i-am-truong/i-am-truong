@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Spotify Decides What Plays Next](https://dev.to/samchenreviews/how-spotify-decides-what-plays-next-35d8)
-- [The 7 People Who Control The Internet Clock](https://dev.to/samchenreviews/the-7-people-who-control-the-internet-clock-48kp)
-- [Matter Zigbee Thread Device Migration](https://dev.to/samchenreviews/matter-zigbee-thread-device-migration-3j22)
-- [Voice Assistant Smart Home Routines 2025](https://dev.to/samchenreviews/voice-assistant-smart-home-routines-2025-45ie)
-- [Rag Vs Fine-Tuning For Document Qa 2024](https://dev.to/samchenreviews/rag-vs-fine-tuning-for-document-qa-2024-4bpc)
+- [Memory Poisoning: The Silent Threat to AI Agents &lpar;and How to Defend Against It&rpar;](https://dev.to/vaishnavi_gudur/memory-poisoning-the-silent-threat-to-ai-agents-and-how-to-defend-against-it-2moe)
+- [Hello nice to meet you i am starting on this community](https://dev.to/vex_soluciones/hello-nice-to-meet-you-i-am-starting-on-this-community-1kfb)
+- [Um resumo sobre o padrão de segurança HMAC](https://dev.to/determinado96/um-resumo-sobre-o-padrao-de-seguranca-hmac-3okj)
+- [Deploying Spring PetClinic Microservices on AWS EKS: A Team Story](https://dev.to/rita_gitamo_e28e9b47960a8/deploying-spring-petclinic-microservices-on-aws-eks-a-team-story-l0g)
+- [Still Looking for Hackathon Teammates](https://dev.to/casperday11/still-looking-for-hackathon-teammates-2emp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
