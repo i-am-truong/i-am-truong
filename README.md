@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Agents Replace Programmers?](https://dev.to/mininglamp/will-ai-agents-replace-programmers-43ej)
-- [Next.js Pages Router to App Router Migration Guide &lpar;2026&rpar;](https://dev.to/thekitbase/nextjs-pages-router-to-app-router-migration-guide-2026-4iep)
-- [Migrating to x402 v2: what actually changed &lpar;and the traps nobody documents&rpar;](https://dev.to/fiatdock/migrating-to-x402-v2-what-actually-changed-and-the-traps-nobody-documents-46k3)
-- [A practical guide on leveraging GitHub Copilot to identify and fix OWASP Authentication vulnerabilities for the Finish-Up-A-Thon challenge.](https://dev.to/sujalavnelavai/a-practical-guide-on-leveraging-github-copilot-to-identify-and-fix-owasp-authentication-aa7)
-- [The Math Behind O&lpar;log n&rpar;: Binary Search, log , and Why Halving Wins](https://dev.to/anh_qunnguyn_57549060f/the-math-behind-olog-n-binary-search-log2-and-why-halving-wins-2om4)
+- [Never Fix a Bug Without Proof: The @test-engineer Prove-It Pattern](https://dev.to/panditabhis/never-fix-a-bug-without-proof-the-test-engineer-prove-it-pattern-5b98)
+- [Webhook Testing: The Complete Guide for 2026](https://dev.to/yobox/webhook-testing-the-complete-guide-for-2026-22em)
+- [How to Resize Table Columns and Rows Online](https://dev.to/olayiwola_akinnagbe/how-to-resize-table-columns-and-rows-online-4ag4)
+- [Anthropic’s Claude in 2026: When Frontier AI Stopped Being Just Software](https://dev.to/grenishrai/anthropics-claude-in-2026-when-frontier-ai-stopped-being-just-software-3mch)
+- [The Only API Documentation Template Your Team Actually Needs](https://dev.to/syms_mation/the-only-api-documentation-template-your-team-actually-needs-33m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
