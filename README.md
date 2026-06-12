@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Reads My Docs Anymore—Not Even the AI Agents](https://dev.to/mixcode/nobody-reads-my-docs-anymore-not-even-the-ai-agents-dec)
-- [PostgreSQL 2200H Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200h-error-causes-and-solutions-complete-guide-4f0i)
-- [Oracle ORA-00472 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00472-error-causes-and-solutions-complete-guide-2bag)
-- [Vue 3 Simple Component Development: API Design from the Button Component](https://dev.to/yuelinghuashu/vue-3-simple-component-development-api-design-from-the-button-component-30p2)
-- [Using AWS DevOps Agent with Terraform and CI/CD Pipelines](https://dev.to/yogesh_vk/using-aws-devops-agent-with-terraform-and-cicd-pipelines-42f1)
+- [Will AI Agents Replace Programmers?](https://dev.to/mininglamp/will-ai-agents-replace-programmers-43ej)
+- [Next.js Pages Router to App Router Migration Guide &lpar;2026&rpar;](https://dev.to/thekitbase/nextjs-pages-router-to-app-router-migration-guide-2026-4iep)
+- [Migrating to x402 v2: what actually changed &lpar;and the traps nobody documents&rpar;](https://dev.to/fiatdock/migrating-to-x402-v2-what-actually-changed-and-the-traps-nobody-documents-46k3)
+- [A practical guide on leveraging GitHub Copilot to identify and fix OWASP Authentication vulnerabilities for the Finish-Up-A-Thon challenge.](https://dev.to/sujalavnelavai/a-practical-guide-on-leveraging-github-copilot-to-identify-and-fix-owasp-authentication-aa7)
+- [The Math Behind O&lpar;log n&rpar;: Binary Search, log , and Why Halving Wins](https://dev.to/anh_qunnguyn_57549060f/the-math-behind-olog-n-binary-search-log2-and-why-halving-wins-2om4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
