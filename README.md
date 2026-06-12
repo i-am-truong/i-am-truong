@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
-- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
-- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
-- [Event-Driven Algos: Mastering Webhooks and Order Lifecycle Event Triggers](https://dev.to/mountek/event-driven-algos-mastering-webhooks-and-order-lifecycle-event-triggers-1c0b)
-- [Combien coûte un site web au Maroc en 2026 ?](https://dev.to/hamzasehouli/rerferferfer-4pa8)
+- [A Safer CSV Workflow for Bulk Shopify Shipping Package Updates](https://dev.to/_172c9b2760d6c5bc1e8966/a-safer-csv-workflow-for-bulk-shopify-shipping-package-updates-ih8)
+- [The Parcel That Taught Me Everything](https://dev.to/ogeobubu/the-parcel-that-taught-me-everything-4kgf)
+- [Scarab Diagnostic Field Test #026 — Next.js Turbopack Denied-Path Watcher Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-026-nextjs-turbopack-denied-path-watcher-boundary-4pkp)
+- [Linux Fundamentals for Data Engineering](https://dev.to/kiplangat_brian/linux-fundamentals-for-data-engineering-5a9p)
+- [Sampling strategies compared: temperature, top-p, top-k, min-p, and what actually works in production](https://dev.to/tech_nuggets/sampling-strategies-compared-temperature-top-p-top-k-min-p-and-what-actually-works-in-2o16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
