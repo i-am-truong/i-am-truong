@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Safer CSV Workflow for Bulk Shopify Shipping Package Updates](https://dev.to/_172c9b2760d6c5bc1e8966/a-safer-csv-workflow-for-bulk-shopify-shipping-package-updates-ih8)
-- [The Parcel That Taught Me Everything](https://dev.to/ogeobubu/the-parcel-that-taught-me-everything-4kgf)
-- [Scarab Diagnostic Field Test #026 — Next.js Turbopack Denied-Path Watcher Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-026-nextjs-turbopack-denied-path-watcher-boundary-4pkp)
-- [Linux Fundamentals for Data Engineering](https://dev.to/kiplangat_brian/linux-fundamentals-for-data-engineering-5a9p)
-- [Sampling strategies compared: temperature, top-p, top-k, min-p, and what actually works in production](https://dev.to/tech_nuggets/sampling-strategies-compared-temperature-top-p-top-k-min-p-and-what-actually-works-in-2o16)
+- [Nobody Reads My Docs Anymore—Not Even the AI Agents](https://dev.to/mixcode/nobody-reads-my-docs-anymore-not-even-the-ai-agents-dec)
+- [PostgreSQL 2200H Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200h-error-causes-and-solutions-complete-guide-4f0i)
+- [Oracle ORA-00472 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00472-error-causes-and-solutions-complete-guide-2bag)
+- [Vue 3 Simple Component Development: API Design from the Button Component](https://dev.to/yuelinghuashu/vue-3-simple-component-development-api-design-from-the-button-component-30p2)
+- [Using AWS DevOps Agent with Terraform and CI/CD Pipelines](https://dev.to/yogesh_vk/using-aws-devops-agent-with-terraform-and-cicd-pipelines-42f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
