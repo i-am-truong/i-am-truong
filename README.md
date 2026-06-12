@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Never Fix a Bug Without Proof: The @test-engineer Prove-It Pattern](https://dev.to/panditabhis/never-fix-a-bug-without-proof-the-test-engineer-prove-it-pattern-5b98)
-- [Webhook Testing: The Complete Guide for 2026](https://dev.to/yobox/webhook-testing-the-complete-guide-for-2026-22em)
-- [How to Resize Table Columns and Rows Online](https://dev.to/olayiwola_akinnagbe/how-to-resize-table-columns-and-rows-online-4ag4)
-- [Anthropic’s Claude in 2026: When Frontier AI Stopped Being Just Software](https://dev.to/grenishrai/anthropics-claude-in-2026-when-frontier-ai-stopped-being-just-software-3mch)
-- [The Only API Documentation Template Your Team Actually Needs](https://dev.to/syms_mation/the-only-api-documentation-template-your-team-actually-needs-33m9)
+- [How Spotify Decides What Plays Next](https://dev.to/samchenreviews/how-spotify-decides-what-plays-next-35d8)
+- [The 7 People Who Control The Internet Clock](https://dev.to/samchenreviews/the-7-people-who-control-the-internet-clock-48kp)
+- [Matter Zigbee Thread Device Migration](https://dev.to/samchenreviews/matter-zigbee-thread-device-migration-3j22)
+- [Voice Assistant Smart Home Routines 2025](https://dev.to/samchenreviews/voice-assistant-smart-home-routines-2025-45ie)
+- [Rag Vs Fine-Tuning For Document Qa 2024](https://dev.to/samchenreviews/rag-vs-fine-tuning-for-document-qa-2024-4bpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
