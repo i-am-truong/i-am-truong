@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Loopers, Robovacs and the Death of the /Prompt](https://dev.to/vektor_memory_43f51a32376/loopers-robovacs-and-the-death-of-the-prompt-jab)
-- [Competitive Programming Series — Session 2: Recursion and Backtracking](https://dev.to/rs9000/competitive-programming-series-session-2-recursion-and-backtracking-pmn)
-- [AI Agent Security, Malware Evasion, &amp; LLM Data Leakage Risks](https://dev.to/soytuber/ai-agent-security-malware-evasion-llm-data-leakage-risks-4opa)
-- [Local AI Coding Agents, Secure Production Deployment, and Angular-Specific AI Skills](https://dev.to/soytuber/local-ai-coding-agents-secure-production-deployment-and-angular-specific-ai-skills-181p)
-- [DuckDB Data Inlining, SQLite Fossildelta OOB, Postgres 19 Temporal Data](https://dev.to/soytuber/duckdb-data-inlining-sqlite-fossildelta-oob-postgres-19-temporal-data-123m)
+- [Build a ChatGPT-Style Email Plugin](https://dev.to/qasim157/build-a-chatgpt-style-email-plugin-5cil)
+- [Inbox Zero, but the Inbox Belongs to a Robot](https://dev.to/qasim157/inbox-zero-but-the-inbox-belongs-to-a-robot-1o4o)
+- [Import Email Signatures Into Your CRM With an Agent](https://dev.to/qasim157/import-email-signatures-into-your-crm-with-an-agent-49kd)
+- [Algebraic Types? Type Geometry? How Far Can a Language Be Pushed? Compile-Time Execution, Relational Interfaces, and More](https://dev.to/kvthweatt/algebraic-types-type-geometry-how-far-can-a-language-be-pushed-compile-time-execution-21e8)
+- [skillscore: a CLI that scores your AI agent&#39;s SKILL.md 0–100](https://dev.to/sayed_ali_alkamel/skillscore-a-cli-that-scores-your-ai-agents-skillmd-0-100-48l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
