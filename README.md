@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory Poisoning: The Silent Threat to AI Agents &lpar;and How to Defend Against It&rpar;](https://dev.to/vaishnavi_gudur/memory-poisoning-the-silent-threat-to-ai-agents-and-how-to-defend-against-it-2moe)
-- [Hello nice to meet you i am starting on this community](https://dev.to/vex_soluciones/hello-nice-to-meet-you-i-am-starting-on-this-community-1kfb)
-- [Um resumo sobre o padrão de segurança HMAC](https://dev.to/determinado96/um-resumo-sobre-o-padrao-de-seguranca-hmac-3okj)
-- [Deploying Spring PetClinic Microservices on AWS EKS: A Team Story](https://dev.to/rita_gitamo_e28e9b47960a8/deploying-spring-petclinic-microservices-on-aws-eks-a-team-story-l0g)
-- [Still Looking for Hackathon Teammates](https://dev.to/casperday11/still-looking-for-hackathon-teammates-2emp)
+- [Sesiones Stateful: ¿El verdadero estándar de oro en la Web?](https://dev.to/jcmexdev/sesiones-stateful-el-verdadero-estandar-de-oro-en-la-web-hgj)
+- [We built a free ipify alternative - here&#39;s what we learned](https://dev.to/kamazaki/we-built-a-free-ipify-alternative-heres-what-we-learned-39eb)
+- [Build a RAG Pipeline From Scratch &lpar;Production Patterns That Actually Matter&rpar;](https://dev.to/umesh_malik/build-a-rag-pipeline-from-scratch-production-patterns-that-actually-matter-2gh6)
+- [Live coding lost its signal. Here&#39;s how interview prep splits by company size in 2026.](https://dev.to/fourleaf/live-coding-lost-its-signal-heres-how-interview-prep-splits-by-company-size-in-2026-3320)
+- [The Engineer Who Owns Nothing: A Cautionary Tale](https://dev.to/samson_tanimawo/the-engineer-who-owns-nothing-a-cautionary-tale-5b5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
