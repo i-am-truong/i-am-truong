@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sesiones Stateful: ¿El verdadero estándar de oro en la Web?](https://dev.to/jcmexdev/sesiones-stateful-el-verdadero-estandar-de-oro-en-la-web-hgj)
-- [We built a free ipify alternative - here&#39;s what we learned](https://dev.to/kamazaki/we-built-a-free-ipify-alternative-heres-what-we-learned-39eb)
-- [Build a RAG Pipeline From Scratch &lpar;Production Patterns That Actually Matter&rpar;](https://dev.to/umesh_malik/build-a-rag-pipeline-from-scratch-production-patterns-that-actually-matter-2gh6)
-- [Live coding lost its signal. Here&#39;s how interview prep splits by company size in 2026.](https://dev.to/fourleaf/live-coding-lost-its-signal-heres-how-interview-prep-splits-by-company-size-in-2026-3320)
-- [The Engineer Who Owns Nothing: A Cautionary Tale](https://dev.to/samson_tanimawo/the-engineer-who-owns-nothing-a-cautionary-tale-5b5c)
+- [Loopers, Robovacs and the Death of the /Prompt](https://dev.to/vektor_memory_43f51a32376/loopers-robovacs-and-the-death-of-the-prompt-jab)
+- [Competitive Programming Series — Session 2: Recursion and Backtracking](https://dev.to/rs9000/competitive-programming-series-session-2-recursion-and-backtracking-pmn)
+- [AI Agent Security, Malware Evasion, &amp; LLM Data Leakage Risks](https://dev.to/soytuber/ai-agent-security-malware-evasion-llm-data-leakage-risks-4opa)
+- [Local AI Coding Agents, Secure Production Deployment, and Angular-Specific AI Skills](https://dev.to/soytuber/local-ai-coding-agents-secure-production-deployment-and-angular-specific-ai-skills-181p)
+- [DuckDB Data Inlining, SQLite Fossildelta OOB, Postgres 19 Temporal Data](https://dev.to/soytuber/duckdb-data-inlining-sqlite-fossildelta-oob-postgres-19-temporal-data-123m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
