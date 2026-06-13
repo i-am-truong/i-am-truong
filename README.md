@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple](https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd)
-- [The Catch and Release Pattern: Handling High-Volume Webhooks in Node.js](https://dev.to/matt_rose_9d0fe88d3533a4f/the-catch-and-release-pattern-handling-high-volume-webhooks-in-nodejs-17d2)
-- [Technical Debt Has a New Cost Center](https://dev.to/clearcodeintel/technical-debt-has-a-new-cost-center-36ji)
-- [Your LLM can&#39;t read. Here&#39;s the weird trick it uses instead](https://dev.to/xplaination/your-llm-cant-read-heres-the-weird-trick-it-uses-instead-47bi)
-- [Launching BabyChain: durable image and video model chains on AWS Aurora and Vercel](https://dev.to/akirayuusha/launching-babychain-durable-image-and-video-model-chains-on-aws-aurora-and-vercel-1p5h)
+- [PostgreSQL 22027 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22027-error-causes-and-solutions-complete-guide-56l)
+- [In-process vs out-of-process plugins: the design fork that shaped my Windows app](https://dev.to/dmaginas/in-process-vs-out-of-process-plugins-the-design-fork-that-shaped-my-windows-app-40kh)
+- [Oracle ORA-00600 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00600-error-causes-and-solutions-complete-guide-5a3a)
+- [What is Kubernetes? Container Orchestration Explained](https://dev.to/sailee_shingare/what-is-kubernetes-container-orchestration-explained-59ch)
+- [Building TexFolio: An AI-Powered LaTeX Resume Builder with Hono, LangGraph &amp; BullMQ](https://dev.to/theunstopabble/building-texfolio-an-ai-powered-latex-resume-builder-with-hono-langgraph-bullmq-1p0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
