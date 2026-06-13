@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cookie That Never Expires](https://dev.to/wadco/the-cookie-that-never-expires-4677)
-- [&quot;Confluence Docs Lie. Tie Your Documentation to Code Instead.&quot;](https://dev.to/code_with_kyryl/confluence-docs-lie-tie-your-documentation-to-code-instead-1nnl)
-- [What Phone Sanitization Revealed About Our Data](https://dev.to/omaressaouaf/what-phone-sanitization-revealed-about-our-data-11da)
-- [x64 Windows Assembly Fundamentals Part 2: Learning the Language](https://dev.to/mirrai/x64-windows-assembly-fundamentals-part-2-learning-the-language-c9c)
-- [Top 12 SQL Interview Problems for Data Engineers, With Answers](https://dev.to/datadriven/top-12-sql-interview-problems-for-data-engineers-with-answers-4698)
+- [A Domain Logger Port: Decoupling From PSR-3 Without Losing Context](https://dev.to/gabrielanhaia/a-domain-logger-port-decoupling-from-psr-3-without-losing-context-fmm)
+- [Retries and Circuit Breakers Belong in the Adapter, Not Your Use Case](https://dev.to/gabrielanhaia/retries-and-circuit-breakers-belong-in-the-adapter-not-your-use-case-4a8f)
+- [Evidence Beats Certainty: Why My Classifier Refuses to Pretend Every Product Has an Answer](https://dev.to/kingsleyonoh/evidence-beats-certainty-why-my-classifier-refuses-to-pretend-every-product-has-an-answer-1n8l)
+- [Persisting One Aggregate Across Multiple Tables, ORM-Agnostic](https://dev.to/gabrielanhaia/persisting-one-aggregate-across-multiple-tables-orm-agnostic-a87)
+- [Hand-Rolled Mappers vs AutoMapper: Keeping the PHP Domain Pure at the Boundary](https://dev.to/gabrielanhaia/hand-rolled-mappers-vs-automapper-keeping-the-php-domain-pure-at-the-boundary-a8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
