@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a programming language called Zen, wanted to share some examples](https://dev.to/jishith_mp_82b1b8f25ca17e/i-made-a-programming-language-called-zen-wanted-to-share-some-examples-3pim)
-- [A Meal Planner &amp; Grocery Shopping Agent in Typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/a-meal-planner-grocery-shopping-agent-in-typescript-with-hazeljs-43b1)
-- [How to Build a LinkedIn Profile Scraper: The Honest Technical Guide](https://dev.to/odeeb/how-to-build-a-linkedin-profile-scraper-the-honest-technical-guide-3dhf)
-- [The SEC EDGAR API: A Practical Guide to Free Filing Data in Python](https://dev.to/odeeb/the-sec-edgar-api-a-practical-guide-to-free-filing-data-in-python-15b)
-- [Building a Global Career Opportunity Simulator Using World Bank and ESCO Data](https://dev.to/futureforge2026/building-a-global-career-opportunity-simulator-using-world-bank-and-esco-data-fmo)
+- [Which sentence on your SaaS homepage is hardest to write?](https://dev.to/mt211211/which-sentence-on-your-saas-homepage-is-hardest-to-write-1dgl)
+- [Teach Your Agent to Forget &lpar;On Purpose&rpar;](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh)
+- [Java Solution - LeetCode Problem 1 Two Sum](https://dev.to/vkrishna2090/java-solution-leetcode-problem-1-two-sum-5enk)
+- [Fable 5 and Mythos 5 Are Gone: What Developers Should Do Right Now](https://dev.to/tonyspiro/fable-5-and-mythos-5-are-gone-what-developers-should-do-right-now-650)
+- [Building an On-Device Training Strategy for Personalized iOS Apps](https://dev.to/iashishbhandari/building-an-on-device-training-strategy-for-personalized-ios-apps-3fai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
