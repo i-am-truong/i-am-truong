@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: NeuralBridge - Self-Healing SDK for LLM-Powered AI Agents](https://dev.to/hhhfs9s7y9code/show-hn-neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-309o)
-- [NeuralBridge: Self-Healing SDK for LLM-Powered AI Agents - Getting Started in 5 Minutes](https://dev.to/hhhfs9s7y9code/neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes-1677)
-- [How I built a search engine](https://dev.to/kenny-204/how-i-built-a-search-engine-54j)
-- [The Best Platform for Learning Programming in 2026 Isn&#39;t What You Think](https://dev.to/arshad_azeezm_653/the-best-platform-for-learning-programming-in-2026-isnt-what-you-think-1dc4)
-- [Two Bugs That Taught Me More Than Any Tutorial](https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7)
+- [Support Threads That Span Days: Agent Memory via Email](https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj)
+- [I Shipped One Messy Python Script. Here&#39;s the 10-Point Checklist That Got It There.](https://dev.to/2glitch/i-shipped-one-messy-python-script-heres-the-10-point-checklist-that-got-it-there-58jo)
+- [Event Reminders From an Agent&#39;s Calendar](https://dev.to/qasim157/event-reminders-from-an-agents-calendar-5b6c)
+- [Meeting Follow-Ups Without a Human in the Loop](https://dev.to/qasim157/meeting-follow-ups-without-a-human-in-the-loop-1m84)
+- [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-during-1phc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
