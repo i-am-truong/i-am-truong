@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Agents over Telegram, Part 1: Topics Are Agents](https://dev.to/jerilk/coding-agents-over-telegram-part-1-topics-are-agents-5f75)
-- [How Myanmar Blocks Tailscale — and How to Beat It](https://dev.to/mariatanbobo/how-myanmar-blocks-tailscale-and-how-to-beat-it-13k6)
-- [I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev](https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi)
-- [Types of loops in JS](https://dev.to/annapoo/types-of-loops-in-js-2135)
-- [Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam](https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07)
+- [The Cookie That Never Expires](https://dev.to/wadco/the-cookie-that-never-expires-4677)
+- [&quot;Confluence Docs Lie. Tie Your Documentation to Code Instead.&quot;](https://dev.to/code_with_kyryl/confluence-docs-lie-tie-your-documentation-to-code-instead-1nnl)
+- [What Phone Sanitization Revealed About Our Data](https://dev.to/omaressaouaf/what-phone-sanitization-revealed-about-our-data-11da)
+- [x64 Windows Assembly Fundamentals Part 2: Learning the Language](https://dev.to/mirrai/x64-windows-assembly-fundamentals-part-2-learning-the-language-c9c)
+- [Top 12 SQL Interview Problems for Data Engineers, With Answers](https://dev.to/datadriven/top-12-sql-interview-problems-for-data-engineers-with-answers-4698)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
