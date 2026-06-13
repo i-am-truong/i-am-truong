@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 22027 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22027-error-causes-and-solutions-complete-guide-56l)
-- [In-process vs out-of-process plugins: the design fork that shaped my Windows app](https://dev.to/dmaginas/in-process-vs-out-of-process-plugins-the-design-fork-that-shaped-my-windows-app-40kh)
-- [Oracle ORA-00600 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/oracle-ora-00600-error-causes-and-solutions-complete-guide-5a3a)
-- [What is Kubernetes? Container Orchestration Explained](https://dev.to/sailee_shingare/what-is-kubernetes-container-orchestration-explained-59ch)
-- [Building TexFolio: An AI-Powered LaTeX Resume Builder with Hono, LangGraph &amp; BullMQ](https://dev.to/theunstopabble/building-texfolio-an-ai-powered-latex-resume-builder-with-hono-langgraph-bullmq-1p0k)
+- [Show HN: NeuralBridge - Self-Healing SDK for LLM-Powered AI Agents](https://dev.to/hhhfs9s7y9code/show-hn-neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-309o)
+- [NeuralBridge: Self-Healing SDK for LLM-Powered AI Agents - Getting Started in 5 Minutes](https://dev.to/hhhfs9s7y9code/neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes-1677)
+- [How I built a search engine](https://dev.to/kenny-204/how-i-built-a-search-engine-54j)
+- [The Best Platform for Learning Programming in 2026 Isn&#39;t What You Think](https://dev.to/arshad_azeezm_653/the-best-platform-for-learning-programming-in-2026-isnt-what-you-think-1dc4)
+- [Two Bugs That Taught Me More Than Any Tutorial](https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
