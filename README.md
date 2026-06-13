@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Which sentence on your SaaS homepage is hardest to write?](https://dev.to/mt211211/which-sentence-on-your-saas-homepage-is-hardest-to-write-1dgl)
-- [Teach Your Agent to Forget &lpar;On Purpose&rpar;](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh)
-- [Java Solution - LeetCode Problem 1 Two Sum](https://dev.to/vkrishna2090/java-solution-leetcode-problem-1-two-sum-5enk)
-- [Fable 5 and Mythos 5 Are Gone: What Developers Should Do Right Now](https://dev.to/tonyspiro/fable-5-and-mythos-5-are-gone-what-developers-should-do-right-now-650)
-- [Building an On-Device Training Strategy for Personalized iOS Apps](https://dev.to/iashishbhandari/building-an-on-device-training-strategy-for-personalized-ios-apps-3fai)
+- [Coding Agents over Telegram, Part 1: Topics Are Agents](https://dev.to/jerilk/coding-agents-over-telegram-part-1-topics-are-agents-5f75)
+- [How Myanmar Blocks Tailscale — and How to Beat It](https://dev.to/mariatanbobo/how-myanmar-blocks-tailscale-and-how-to-beat-it-13k6)
+- [I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev](https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi)
+- [Types of loops in JS](https://dev.to/annapoo/types-of-loops-in-js-2135)
+- [Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam](https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
