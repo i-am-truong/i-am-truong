@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Support Threads That Span Days: Agent Memory via Email](https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj)
-- [I Shipped One Messy Python Script. Here&#39;s the 10-Point Checklist That Got It There.](https://dev.to/2glitch/i-shipped-one-messy-python-script-heres-the-10-point-checklist-that-got-it-there-58jo)
-- [Event Reminders From an Agent&#39;s Calendar](https://dev.to/qasim157/event-reminders-from-an-agents-calendar-5b6c)
-- [Meeting Follow-Ups Without a Human in the Loop](https://dev.to/qasim157/meeting-follow-ups-without-a-human-in-the-loop-1m84)
-- [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-during-1phc)
+- [I Pointed a Skill Linter at a 52k-Star Repo. Here Is What 84/100 Looks Like.](https://dev.to/sayed_ali_alkamel/i-pointed-a-skill-linter-at-a-52k-star-repo-here-is-what-84100-looks-like-28cn)
+- [Building CompanioxVPS — I&#39;d Love to Hear What Developers Actually Want From a VPS Platform](https://dev.to/jotech/building-companioxvps-id-love-to-hear-what-developers-actually-want-from-a-vps-platform-1adk)
+- [How to Convert Word to PDF in the Browser with Vue 3, mammoth, and html2pdf.js](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-4c7h)
+- [From Scaling Data to Transcribing Voices: Building Resilience Under Pressure](https://dev.to/elijaharhinful/from-scaling-data-to-transcribing-voices-two-engineering-challenges-that-stuck-2k6g)
+- [⚠️ The Kotlin Multiplatform division-by-zero trap](https://dev.to/kotools/the-kotlin-multiplatform-division-by-zero-trap-4jpn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
