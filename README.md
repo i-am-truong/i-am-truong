@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Domain Logger Port: Decoupling From PSR-3 Without Losing Context](https://dev.to/gabrielanhaia/a-domain-logger-port-decoupling-from-psr-3-without-losing-context-fmm)
-- [Retries and Circuit Breakers Belong in the Adapter, Not Your Use Case](https://dev.to/gabrielanhaia/retries-and-circuit-breakers-belong-in-the-adapter-not-your-use-case-4a8f)
-- [Evidence Beats Certainty: Why My Classifier Refuses to Pretend Every Product Has an Answer](https://dev.to/kingsleyonoh/evidence-beats-certainty-why-my-classifier-refuses-to-pretend-every-product-has-an-answer-1n8l)
-- [Persisting One Aggregate Across Multiple Tables, ORM-Agnostic](https://dev.to/gabrielanhaia/persisting-one-aggregate-across-multiple-tables-orm-agnostic-a87)
-- [Hand-Rolled Mappers vs AutoMapper: Keeping the PHP Domain Pure at the Boundary](https://dev.to/gabrielanhaia/hand-rolled-mappers-vs-automapper-keeping-the-php-domain-pure-at-the-boundary-a8a)
+- [From a Simple Web App to a Production-Style Platform: My DevOps Learning Journey](https://dev.to/shashank0701byte/from-a-simple-web-app-to-a-production-style-platform-my-devops-learning-journey-29km)
+- [I Built a Search Engine That Understands Meaning — in ~150 Lines, Zero API Keys](https://dev.to/dev48v/i-built-a-search-engine-that-understands-meaning-in-150-lines-zero-api-keys-m5a)
+- [Context Compression Before the LLM: Cutting Tokens Without Cutting Recall](https://dev.to/gabrielanhaia/context-compression-before-the-llm-cutting-tokens-without-cutting-recall-9hh)
+- [Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip](https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1)
+- [CRM Enrichment From an Agent-Owned Inbox](https://dev.to/qasim157/crm-enrichment-from-an-agent-owned-inbox-3k66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
