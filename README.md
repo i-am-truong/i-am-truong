@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a ChatGPT-Style Email Plugin](https://dev.to/qasim157/build-a-chatgpt-style-email-plugin-5cil)
-- [Inbox Zero, but the Inbox Belongs to a Robot](https://dev.to/qasim157/inbox-zero-but-the-inbox-belongs-to-a-robot-1o4o)
-- [Import Email Signatures Into Your CRM With an Agent](https://dev.to/qasim157/import-email-signatures-into-your-crm-with-an-agent-49kd)
-- [Algebraic Types? Type Geometry? How Far Can a Language Be Pushed? Compile-Time Execution, Relational Interfaces, and More](https://dev.to/kvthweatt/algebraic-types-type-geometry-how-far-can-a-language-be-pushed-compile-time-execution-21e8)
-- [skillscore: a CLI that scores your AI agent&#39;s SKILL.md 0–100](https://dev.to/sayed_ali_alkamel/skillscore-a-cli-that-scores-your-ai-agents-skillmd-0-100-48l1)
+- [I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple](https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd)
+- [The Catch and Release Pattern: Handling High-Volume Webhooks in Node.js](https://dev.to/matt_rose_9d0fe88d3533a4f/the-catch-and-release-pattern-handling-high-volume-webhooks-in-nodejs-17d2)
+- [Technical Debt Has a New Cost Center](https://dev.to/clearcodeintel/technical-debt-has-a-new-cost-center-36ji)
+- [Your LLM can&#39;t read. Here&#39;s the weird trick it uses instead](https://dev.to/xplaination/your-llm-cant-read-heres-the-weird-trick-it-uses-instead-47bi)
+- [Launching BabyChain: durable image and video model chains on AWS Aurora and Vercel](https://dev.to/akirayuusha/launching-babychain-durable-image-and-video-model-chains-on-aws-aurora-and-vercel-1p5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
