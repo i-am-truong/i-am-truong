@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built my own 2D game engine from scratch using TypeScript](https://dev.to/eiturhan/i-built-my-own-2d-game-engine-from-scratch-using-typescript-41d2)
-- [How Much RAM Do You Really Need to Run LLMs Locally? 2026 Benchmarks](https://dev.to/pavelespitia/how-much-ram-do-you-really-need-to-run-llms-locally-2026-benchmarks-3kd2)
-- [LangGraph RCE Chain: How Malicious Tool Calls Escalate to Full Host Compromise](https://dev.to/coridev/langgraph-rce-chain-how-malicious-tool-calls-escalate-to-full-host-compromise-2moo)
-- [The Most Powerful Model on the Market Got Pulled by the Government in 3 Days. Is It Real, or a Hype Bubble?](https://dev.to/p0rt/the-most-powerful-model-on-the-market-got-pulled-by-the-government-in-3-days-is-it-real-or-a-hype-fce)
-- [Building a Universal Container System &lpar;So I Never Have to Write Another Dockerfile&rpar;](https://dev.to/joshjhall/building-a-universal-container-system-so-i-never-have-to-write-another-dockerfile-181c)
+- [I made a programming language called Zen, wanted to share some examples](https://dev.to/jishith_mp_82b1b8f25ca17e/i-made-a-programming-language-called-zen-wanted-to-share-some-examples-3pim)
+- [A Meal Planner &amp; Grocery Shopping Agent in Typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/a-meal-planner-grocery-shopping-agent-in-typescript-with-hazeljs-43b1)
+- [How to Build a LinkedIn Profile Scraper: The Honest Technical Guide](https://dev.to/odeeb/how-to-build-a-linkedin-profile-scraper-the-honest-technical-guide-3dhf)
+- [The SEC EDGAR API: A Practical Guide to Free Filing Data in Python](https://dev.to/odeeb/the-sec-edgar-api-a-practical-guide-to-free-filing-data-in-python-15b)
+- [Building a Global Career Opportunity Simulator Using World Bank and ESCO Data](https://dev.to/futureforge2026/building-a-global-career-opportunity-simulator-using-world-bank-and-esco-data-fmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
