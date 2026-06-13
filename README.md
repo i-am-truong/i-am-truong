@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Pointed a Skill Linter at a 52k-Star Repo. Here Is What 84/100 Looks Like.](https://dev.to/sayed_ali_alkamel/i-pointed-a-skill-linter-at-a-52k-star-repo-here-is-what-84100-looks-like-28cn)
-- [Building CompanioxVPS — I&#39;d Love to Hear What Developers Actually Want From a VPS Platform](https://dev.to/jotech/building-companioxvps-id-love-to-hear-what-developers-actually-want-from-a-vps-platform-1adk)
-- [How to Convert Word to PDF in the Browser with Vue 3, mammoth, and html2pdf.js](https://dev.to/sunshey/how-to-convert-word-to-pdf-in-the-browser-with-vue-3-mammoth-and-html2pdfjs-4c7h)
-- [From Scaling Data to Transcribing Voices: Building Resilience Under Pressure](https://dev.to/elijaharhinful/from-scaling-data-to-transcribing-voices-two-engineering-challenges-that-stuck-2k6g)
-- [⚠️ The Kotlin Multiplatform division-by-zero trap](https://dev.to/kotools/the-kotlin-multiplatform-division-by-zero-trap-4jpn)
+- [I built my own 2D game engine from scratch using TypeScript](https://dev.to/eiturhan/i-built-my-own-2d-game-engine-from-scratch-using-typescript-41d2)
+- [How Much RAM Do You Really Need to Run LLMs Locally? 2026 Benchmarks](https://dev.to/pavelespitia/how-much-ram-do-you-really-need-to-run-llms-locally-2026-benchmarks-3kd2)
+- [LangGraph RCE Chain: How Malicious Tool Calls Escalate to Full Host Compromise](https://dev.to/coridev/langgraph-rce-chain-how-malicious-tool-calls-escalate-to-full-host-compromise-2moo)
+- [The Most Powerful Model on the Market Got Pulled by the Government in 3 Days. Is It Real, or a Hype Bubble?](https://dev.to/p0rt/the-most-powerful-model-on-the-market-got-pulled-by-the-government-in-3-days-is-it-real-or-a-hype-fce)
+- [Building a Universal Container System &lpar;So I Never Have to Write Another Dockerfile&rpar;](https://dev.to/joshjhall/building-a-universal-container-system-so-i-never-have-to-write-another-dockerfile-181c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
