@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Juejin&#39;s 2025 Tool Lists Got Right About the Multi-Tool Stack](https://dev.to/ninghonggang/what-juejins-2025-tool-lists-got-right-about-the-multi-tool-stack-3lgp)
-- [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
-- [Decoding Hoisting in JS](https://dev.to/annapoo/decoding-hoisting-in-js-gkp)
-- [Dev tools that run 100% in your browser — your data never leaves the page](https://dev.to/aipredictions_dev/dev-tools-that-run-100-in-your-browser-your-data-never-leaves-the-page-2m22)
-- [More about function in JS](https://dev.to/annapoo/more-about-function-in-js-5b19)
+- [axios@1.14.1 Supply Chain Attack: What to Do Now](https://dev.to/preecha/axios1141-supply-chain-attack-what-to-do-now-3dla)
+- [Microsoft Project Silica: Glass Storage Explained](https://dev.to/doogal/microsoft-project-silica-glass-storage-explained-l7o)
+- [GBase 8a Application Connectivity Guide: JDBC and Python Best Practices](https://dev.to/michaelfv/gbase-8a-application-connectivity-guide-jdbc-and-python-best-practices-1l8e)
+- [Blue-Green Deployments: Instant Rollbacks &amp; Zero Downtime](https://dev.to/doogal/blue-green-deployments-instant-rollbacks-zero-downtime-5fi2)
+- [Debugging Microservices with Distributed Tracing](https://dev.to/doogal/debugging-microservices-with-distributed-tracing-4pf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
