@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Modular AI Agent Features with Pydantic AI Capabilities](https://dev.to/joxiahdev/building-modular-ai-agent-features-with-pydantic-ai-capabilities-39d5)
-- [The Hidden Economics of AI: What It Actually Costs to Run LLMs in Production &lpar;With Real Data&rpar;](https://dev.to/datalaria/the-hidden-economics-of-ai-what-it-actually-costs-to-run-llms-in-production-with-real-data-40h9)
-- [I Built a Number-to-Words Converter Because I Kept Double-Checking Numbers](https://dev.to/bhavin-allinonetools/i-built-a-number-to-words-converter-because-i-kept-double-checking-numbers-ba0)
-- [I Switched from VS Code to Cursor — Here&#39;s What Actually Changed](https://dev.to/promptmaster/i-switched-from-vs-code-to-cursor-heres-what-actually-changed-2i7g)
-- [What an AI Agent Actually Is &lpar;Minus the Hype&rpar;](https://dev.to/promptmaster/what-an-ai-agent-actually-is-minus-the-hype-5a7i)
+- [What Juejin&#39;s 2025 Tool Lists Got Right About the Multi-Tool Stack](https://dev.to/ninghonggang/what-juejins-2025-tool-lists-got-right-about-the-multi-tool-stack-3lgp)
+- [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
+- [Decoding Hoisting in JS](https://dev.to/annapoo/decoding-hoisting-in-js-gkp)
+- [Dev tools that run 100% in your browser — your data never leaves the page](https://dev.to/aipredictions_dev/dev-tools-that-run-100-in-your-browser-your-data-never-leaves-the-page-2m22)
+- [More about function in JS](https://dev.to/annapoo/more-about-function-in-js-5b19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
