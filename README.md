@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everyone Wants AI Agents: So Why Are They So Damn Hard to Build?](https://dev.to/reetain_raina/everyone-wants-ai-agents-so-why-are-they-so-damn-hard-to-build-38cb)
-- [Container Queries: The CSS Feature I Wish I Had Years Ago](https://dev.to/muhammadmedhat/container-queries-the-css-feature-i-wish-i-had-years-ago-2h63)
-- [My nightly Claude Code cron was about to start costing real money](https://dev.to/mjmirza/my-nightly-claude-code-cron-was-about-to-start-costing-real-money-2ndm)
-- [How I Built My First Real AI Agent with DeepSeek — A Bootcamp Grad&#39;s Guide...](https://dev.to/rileykim/how-i-built-my-first-real-ai-agent-with-deepseek-a-bootcamp-grads-guide-542c)
-- [Nonmem addition to agent, that personalised experience](https://dev.to/neonmem-dev/nonmem-addition-to-agent-that-personalised-experience-2pgj)
+- [If you can decode it, it was never encryption: untangling encoding, hashing, and encryption for Security+](https://dev.to/tiltedlunar123/if-you-can-decode-it-it-was-never-encryption-untangling-encoding-hashing-and-encryption-for-384k)
+- [Environment and Config Management in Node.js: The System That Scales Past One Server](https://dev.to/zyvop/environment-and-config-management-in-nodejs-the-system-that-scales-past-one-server-378i)
+- [Vite 8 Plus Rolldown: Migrating Your Project to the Rust-Powered Bundler and What Breaks](https://dev.to/jsmanifest/vite-8-plus-rolldown-migrating-your-project-to-the-rust-powered-bundler-and-what-breaks-155f)
+- [Passkeys: Enterprise Adaptation and Individual Use Cases](https://dev.to/merbayerp/passkeys-enterprise-adaptation-and-individual-use-cases-g4)
+- [Make.com has an MCP endpoint now. The auth token goes in the URL — and 3 other walls the docs skip](https://dev.to/achiya-automation/makecom-has-an-mcp-endpoint-now-the-auth-token-goes-in-the-url-and-3-other-walls-the-docs-skip-1el2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
