@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [양자컴퓨터 관련 리더보드 허깅페이스에 공개](https://dev.to/ai_openfree_b23025ef075cf/yangjakeompyuteo-gwanryeon-rideobodeu-heogingpeiseue-gonggae-1iec)
-- [I run Claude Code and Codex side by side. Here&#39;s the division of labor that actually works.](https://dev.to/rapls/i-run-claude-code-and-codex-side-by-side-heres-the-division-of-labor-that-actually-works-4hkg)
-- [Browser Fingerprint Randomization: Beyond User-Agent Rotation](https://dev.to/helperx/browser-fingerprint-randomization-beyond-user-agent-rotation-58e)
-- [Smart Query-Aware Cache Invalidation: Solving Mongoose Performance at Scale](https://dev.to/victor_ajadi_21b5913f79f6/smart-query-aware-cache-invalidation-solving-mongoose-performance-at-scale-59ic)
-- [Run Real Docker on Android — No Root, No Tricks, Just QEMU](https://dev.to/sulthonzh/run-real-docker-on-android-no-root-no-tricks-just-qemu-15jn)
+- [Building Modular AI Agent Features with Pydantic AI Capabilities](https://dev.to/joxiahdev/building-modular-ai-agent-features-with-pydantic-ai-capabilities-39d5)
+- [The Hidden Economics of AI: What It Actually Costs to Run LLMs in Production &lpar;With Real Data&rpar;](https://dev.to/datalaria/the-hidden-economics-of-ai-what-it-actually-costs-to-run-llms-in-production-with-real-data-40h9)
+- [I Built a Number-to-Words Converter Because I Kept Double-Checking Numbers](https://dev.to/bhavin-allinonetools/i-built-a-number-to-words-converter-because-i-kept-double-checking-numbers-ba0)
+- [I Switched from VS Code to Cursor — Here&#39;s What Actually Changed](https://dev.to/promptmaster/i-switched-from-vs-code-to-cursor-heres-what-actually-changed-2i7g)
+- [What an AI Agent Actually Is &lpar;Minus the Hype&rpar;](https://dev.to/promptmaster/what-an-ai-agent-actually-is-minus-the-hype-5a7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
