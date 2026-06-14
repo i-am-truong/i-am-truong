@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Travel Itinerary Planner Agent in Typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/a-travel-itinerary-planner-agent-in-typescript-with-hazeljs-1i6o)
-- [Pandas for Data Cleaning: A Practical Guide for Beginners](https://dev.to/joseph_mwangi_3ae1f57a132/pandas-for-data-cleaning-a-practical-guide-for-beginners-520l)
-- [Antigravity 2.0 for Flutter Developers: CLI, SDK &amp; Agentic Workflows That Actually Matter](https://dev.to/sayed_ali_alkamel/antigravity-20-for-flutter-developers-cli-sdk-agentic-workflows-that-actually-matter-231o)
-- [UUID vs ULID vs NanoID: Which Identifier Should You Use in 2026?](https://dev.to/farasat6346138/uuid-vs-ulid-vs-nanoid-which-identifier-should-you-use-in-2026-3ffk)
-- [react-slotx](https://dev.to/yracnet/react-slotx-4khe)
+- [I built an offline wiki that fits in a single 19 KB HTML file](https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai)
+- [How to Build a High-Performance RAG Pipeline with Ollama, Python and TypeScript](https://dev.to/ussdlover/how-to-build-a-high-performance-rag-pipeline-with-ollama-python-and-typescript-320h)
+- [When the conclusion comes first](https://dev.to/rlnorthcutt/when-the-conclusion-comes-first-478o)
+- [Everyone says their agent &quot;has memory&quot;](https://dev.to/jennapederson/everyone-says-their-agent-has-memory-26nj)
+- [I built a 3B lease risk scanner that runs without an external LLM API](https://dev.to/asynchronope/i-built-a-3b-lease-risk-scanner-that-runs-without-an-external-llm-api-170a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
