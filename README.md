@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [If you can decode it, it was never encryption: untangling encoding, hashing, and encryption for Security+](https://dev.to/tiltedlunar123/if-you-can-decode-it-it-was-never-encryption-untangling-encoding-hashing-and-encryption-for-384k)
-- [Environment and Config Management in Node.js: The System That Scales Past One Server](https://dev.to/zyvop/environment-and-config-management-in-nodejs-the-system-that-scales-past-one-server-378i)
-- [Vite 8 Plus Rolldown: Migrating Your Project to the Rust-Powered Bundler and What Breaks](https://dev.to/jsmanifest/vite-8-plus-rolldown-migrating-your-project-to-the-rust-powered-bundler-and-what-breaks-155f)
-- [Passkeys: Enterprise Adaptation and Individual Use Cases](https://dev.to/merbayerp/passkeys-enterprise-adaptation-and-individual-use-cases-g4)
-- [Make.com has an MCP endpoint now. The auth token goes in the URL — and 3 other walls the docs skip](https://dev.to/achiya-automation/makecom-has-an-mcp-endpoint-now-the-auth-token-goes-in-the-url-and-3-other-walls-the-docs-skip-1el2)
+- [A Travel Itinerary Planner Agent in Typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/a-travel-itinerary-planner-agent-in-typescript-with-hazeljs-1i6o)
+- [Pandas for Data Cleaning: A Practical Guide for Beginners](https://dev.to/joseph_mwangi_3ae1f57a132/pandas-for-data-cleaning-a-practical-guide-for-beginners-520l)
+- [Antigravity 2.0 for Flutter Developers: CLI, SDK &amp; Agentic Workflows That Actually Matter](https://dev.to/sayed_ali_alkamel/antigravity-20-for-flutter-developers-cli-sdk-agentic-workflows-that-actually-matter-231o)
+- [UUID vs ULID vs NanoID: Which Identifier Should You Use in 2026?](https://dev.to/farasat6346138/uuid-vs-ulid-vs-nanoid-which-identifier-should-you-use-in-2026-3ffk)
+- [react-slotx](https://dev.to/yracnet/react-slotx-4khe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
