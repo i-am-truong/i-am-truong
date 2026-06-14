@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Provenance Risks, Honda Key Fob Vuln, &amp; Rust Miri FFI Safety](https://dev.to/soytuber/ai-provenance-risks-honda-key-fob-vuln-rust-miri-ffi-safety-n74)
-- [Optimizing RAG Pipelines, Migrating AI Agents, and LLM-Powered Troubleshooting](https://dev.to/soytuber/optimizing-rag-pipelines-migrating-ai-agents-and-llm-powered-troubleshooting-2obi)
-- [Gemini Prototyping, AI Code Migration Agents, and LLM Transparency Insights](https://dev.to/soytuber/gemini-prototyping-ai-code-migration-agents-and-llm-transparency-insights-2o9j)
-- [Picking a Phone Verification Method: SMS, Flash Call, Phone Call, and Data Verification](https://dev.to/gunnargrosch/picking-a-phone-verification-method-sms-flash-call-phone-call-and-data-verification-2a5h)
-- [Build a Private AI App Platform with Dify and Ollama](https://dev.to/everylocalai/build-a-private-ai-app-platform-with-dify-and-ollama-1o8e)
+- [Surviving the region you run in: failover on Aurora DSQL, and what the demo proves](https://dev.to/hocmemini/surviving-the-region-you-run-in-failover-on-aurora-dsql-and-what-the-demo-proves-5chc)
+- [Optimistic concurrency is the whole design: event sourcing on Aurora DSQL](https://dev.to/hocmemini/optimistic-concurrency-is-the-whole-design-event-sourcing-on-aurora-dsql-m63)
+- [I built a region-survivable system by directing an AI agent. An append-only decision log kept it coherent.](https://dev.to/hocmemini/i-built-a-region-survivable-system-by-directing-an-ai-agent-an-append-only-decision-log-kept-it-2bkg)
+- [How to Design a Mobile App With AI: The Full Workflow &lpar;Start to Finish&rpar;](https://dev.to/rsalimx/how-to-design-a-mobile-app-with-ai-the-full-workflow-start-to-finish-3h19)
+- [Predictive Alpha: Pipeline Engineering for Real-Time Machine Learning Inference](https://dev.to/mountek/predictive-alpha-pipeline-engineering-for-real-time-machine-learning-inference-f69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
