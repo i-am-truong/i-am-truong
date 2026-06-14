@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an offline wiki that fits in a single 19 KB HTML file](https://dev.to/by_sitnikov/i-built-an-offline-wiki-that-fits-in-a-single-19-kb-html-file-1aai)
-- [How to Build a High-Performance RAG Pipeline with Ollama, Python and TypeScript](https://dev.to/ussdlover/how-to-build-a-high-performance-rag-pipeline-with-ollama-python-and-typescript-320h)
-- [When the conclusion comes first](https://dev.to/rlnorthcutt/when-the-conclusion-comes-first-478o)
-- [Everyone says their agent &quot;has memory&quot;](https://dev.to/jennapederson/everyone-says-their-agent-has-memory-26nj)
-- [I built a 3B lease risk scanner that runs without an external LLM API](https://dev.to/asynchronope/i-built-a-3b-lease-risk-scanner-that-runs-without-an-external-llm-api-170a)
+- [Launching BonVoyage: From Travel Problem to Public Launch](https://dev.to/jesse_boudreau_237c1f0ba1/launching-bonvoyage-from-travel-problem-to-public-launch-3dfk)
+- [The spec is in the wrong place](https://dev.to/paul_schneider_06ad61671a/the-spec-is-in-the-wrong-place-2ai4)
+- [Incident Automation: What to Automate, What to Leave to Humans](https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91)
+- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
+- [How to Build One Web App That Works on iOS, Android, and Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
