@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [axios@1.14.1 Supply Chain Attack: What to Do Now](https://dev.to/preecha/axios1141-supply-chain-attack-what-to-do-now-3dla)
-- [Microsoft Project Silica: Glass Storage Explained](https://dev.to/doogal/microsoft-project-silica-glass-storage-explained-l7o)
-- [GBase 8a Application Connectivity Guide: JDBC and Python Best Practices](https://dev.to/michaelfv/gbase-8a-application-connectivity-guide-jdbc-and-python-best-practices-1l8e)
-- [Blue-Green Deployments: Instant Rollbacks &amp; Zero Downtime](https://dev.to/doogal/blue-green-deployments-instant-rollbacks-zero-downtime-5fi2)
-- [Debugging Microservices with Distributed Tracing](https://dev.to/doogal/debugging-microservices-with-distributed-tracing-4pf7)
+- [Everyone Wants AI Agents: So Why Are They So Damn Hard to Build?](https://dev.to/reetain_raina/everyone-wants-ai-agents-so-why-are-they-so-damn-hard-to-build-38cb)
+- [Container Queries: The CSS Feature I Wish I Had Years Ago](https://dev.to/muhammadmedhat/container-queries-the-css-feature-i-wish-i-had-years-ago-2h63)
+- [My nightly Claude Code cron was about to start costing real money](https://dev.to/mjmirza/my-nightly-claude-code-cron-was-about-to-start-costing-real-money-2ndm)
+- [How I Built My First Real AI Agent with DeepSeek — A Bootcamp Grad&#39;s Guide...](https://dev.to/rileykim/how-i-built-my-first-real-ai-agent-with-deepseek-a-bootcamp-grads-guide-542c)
+- [Nonmem addition to agent, that personalised experience](https://dev.to/neonmem-dev/nonmem-addition-to-agent-that-personalised-experience-2pgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
