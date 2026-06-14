@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DDD Is Not Dying. Cargo-Cult DDD Is.](https://dev.to/terum/ddd-is-not-dying-cargo-cult-ddd-is-l1p)
-- [Don’t trust me, verify me: openunit, a unit of account you can recompute byte-for-byte](https://dev.to/hiroshi_ichiyanagi/dont-trust-me-verify-me-openunit-a-unit-of-account-you-can-recompute-byte-for-byte-4d9h)
-- [1.Generate Commit Messages with AI](https://dev.to/thukhakyawe_cloud/1generate-commit-messages-with-ai-2e2j)
-- [The Data Scientist&#39;s Guide to AI Summarization in 2026](https://dev.to/gentlenode/the-data-scientists-guide-to-ai-summarization-in-2026-f4j)
-- [Your AI agent remembers what sounds related, not what worked](https://dev.to/agentmemory-dev/your-ai-agent-remembers-what-sounds-related-not-what-worked-3392)
+- [양자컴퓨터 관련 리더보드 허깅페이스에 공개](https://dev.to/ai_openfree_b23025ef075cf/yangjakeompyuteo-gwanryeon-rideobodeu-heogingpeiseue-gonggae-1iec)
+- [I run Claude Code and Codex side by side. Here&#39;s the division of labor that actually works.](https://dev.to/rapls/i-run-claude-code-and-codex-side-by-side-heres-the-division-of-labor-that-actually-works-4hkg)
+- [Browser Fingerprint Randomization: Beyond User-Agent Rotation](https://dev.to/helperx/browser-fingerprint-randomization-beyond-user-agent-rotation-58e)
+- [Smart Query-Aware Cache Invalidation: Solving Mongoose Performance at Scale](https://dev.to/victor_ajadi_21b5913f79f6/smart-query-aware-cache-invalidation-solving-mongoose-performance-at-scale-59ic)
+- [Run Real Docker on Android — No Root, No Tricks, Just QEMU](https://dev.to/sulthonzh/run-real-docker-on-android-no-root-no-tricks-just-qemu-15jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
