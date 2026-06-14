@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Launching BonVoyage: From Travel Problem to Public Launch](https://dev.to/jesse_boudreau_237c1f0ba1/launching-bonvoyage-from-travel-problem-to-public-launch-3dfk)
-- [The spec is in the wrong place](https://dev.to/paul_schneider_06ad61671a/the-spec-is-in-the-wrong-place-2ai4)
-- [Incident Automation: What to Automate, What to Leave to Humans](https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91)
-- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
-- [How to Build One Web App That Works on iOS, Android, and Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)
+- [AI Provenance Risks, Honda Key Fob Vuln, &amp; Rust Miri FFI Safety](https://dev.to/soytuber/ai-provenance-risks-honda-key-fob-vuln-rust-miri-ffi-safety-n74)
+- [Optimizing RAG Pipelines, Migrating AI Agents, and LLM-Powered Troubleshooting](https://dev.to/soytuber/optimizing-rag-pipelines-migrating-ai-agents-and-llm-powered-troubleshooting-2obi)
+- [Gemini Prototyping, AI Code Migration Agents, and LLM Transparency Insights](https://dev.to/soytuber/gemini-prototyping-ai-code-migration-agents-and-llm-transparency-insights-2o9j)
+- [Picking a Phone Verification Method: SMS, Flash Call, Phone Call, and Data Verification](https://dev.to/gunnargrosch/picking-a-phone-verification-method-sms-flash-call-phone-call-and-data-verification-2a5h)
+- [Build a Private AI App Platform with Dify and Ollama](https://dev.to/everylocalai/build-a-private-ai-app-platform-with-dify-and-ollama-1o8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
