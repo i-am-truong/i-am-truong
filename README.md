@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Webcam Sign-Language Reader in the Browser &lpar;No Cloud&rpar;](https://dev.to/dev48v/i-built-a-webcam-sign-language-reader-in-the-browser-no-cloud-11hg)
-- [RAG Rerank: the Highest-Leverage Upgrade to Your Retrieval Pipeline](https://dev.to/dev48v/rag-rerank-the-highest-leverage-upgrade-to-your-retrieval-pipeline-7o5)
-- [What a Neural Net Actually Does — the Intuition, No Math](https://dev.to/dev48v/what-a-neural-net-actually-does-the-intuition-no-math-5h14)
-- [I Thought Formatting JSON Solved Everything. I Was Wrong.](https://dev.to/kalaivani_r_c92f3dfc4220c/i-thought-formatting-json-solved-everything-i-was-wrong-1la7)
-- [How I Built an AI Writer SaaS App with React and OpenAI](https://dev.to/subashbelina_c7085b13f7a7/how-i-built-an-ai-writer-saas-app-with-react-and-openai-3634)
+- [Freelancing Got Easier When I Stopped Carrying the Whole Project in My Head](https://dev.to/marcusykim/freelancing-got-easier-when-i-stopped-carrying-the-whole-project-in-my-head-4mm5)
+- [Database Decisions: Choosing Between PostgreSQL, MongoDB, and MySQL](https://dev.to/paradane/database-decisions-choosing-between-postgresql-mongodb-and-mysql-4l25)
+- [Open Source Tools We Use Daily at Our Agency](https://dev.to/paradane/open-source-tools-we-use-daily-at-our-agency-2ii)
+- [Claude Code for .NET Developers: From Zero to Productive in VS Code and Visual Studio](https://dev.to/jgomezdev/claude-code-for-net-developers-from-zero-to-productive-in-vs-code-and-visual-studio-3cm6)
+- [Claude Code para desarrolladores .NET: De cero a productivo en VS Code y Visual Studio](https://dev.to/jgomezdev/claude-code-para-desarrolladores-net-de-cero-a-productivo-en-vs-code-y-visual-studio-d4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
