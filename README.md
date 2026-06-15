@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WCAG Compliance: A Complete Guide to Web Accessibility Standards](https://dev.to/nikhilmartinez/wcag-compliance-a-complete-guide-to-web-accessibility-standards-5n)
-- [arabinum|the search engine that turns results into social feed](https://dev.to/amrzlabs/arabinumthe-search-emgine-that-turns-results-into-social-feed-1ann)
-- [How llms.txt made ChatGPT my #1 traffic source &lpar;a free IP API, 8 weeks in&rpar; Tags: webdev, seo, ai, cloudflare](https://dev.to/codelong888/how-llmstxt-made-chatgpt-my-1-traffic-source-a-free-ip-api-8-weeks-in-tags-webdev-seo-ai-7pa)
-- [Day 31 of learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-31-of-learning-mern-stack-15bm)
-- [Spring Boot 3.x + Java 21 虚拟线程场景下 MDC 异步上下文丢失与内存溢出排查实战](https://dev.to/_80a1fa98d19e605032996/spring-boot-3x-java-21-xu-ni-xian-cheng-chang-jing-xia-mdc-yi-bu-shang-xia-wen-diu-shi-yu-nei-cun-yi-chu-pai-cha-shi-zhan-lj2)
+- [Anthropic Pulled Fable 5 and Mythos 5: What the Ban Means](https://dev.to/raxxostudios/anthropic-pulled-fable-5-and-mythos-5-what-the-ban-means-4h7)
+- [How Enterprise Development Teams Can Streamline Releases with DevOps](https://dev.to/sanket-parmar/how-enterprise-development-teams-can-streamline-releases-with-devops-56of)
+- [Grammarly costs $12/mo — a local LLM does it for free &lpar;Chrome + Ollama&rpar;](https://dev.to/mk668a/grammarly-costs-12mo-a-local-llm-does-it-for-free-chrome-ollama-128a)
+- [The Production-Ready AI Agent Checklist &lpar;Updated For 2026&rpar;](https://dev.to/mrclaw207/the-production-ready-ai-agent-checklist-updated-for-2026-33cg)
+- [Tesla&#39;s 3, 6, 9 — Pseudoscience or a Forgotten Riddle for AGI?](https://dev.to/_0fc3d8d8b6f550f8e79e3/teslas-3-6-9-pseudoscience-or-a-forgotten-riddle-for-agi-58fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
