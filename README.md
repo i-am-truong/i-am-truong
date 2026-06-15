@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Do Your Taxes at a Party](https://dev.to/lovestaco/dont-do-your-taxes-at-a-party-4ep7)
-- [¿Búsqueda Binaria desde cero: la guía definitiva para dominar algoritmos?](https://dev.to/jcmexdev/busqueda-binaria-desde-cero-la-guia-definitiva-para-dominar-algoritmos-53p5)
-- [The Budget Guide to Prompt Engineering: Save Money with Every Token](https://dev.to/prahladyeri/the-budget-guide-to-prompt-engineering-save-money-with-every-token-3k6h)
-- [Build a RAG System with Python and OpenAI](https://dev.to/gateofai/build-a-rag-system-with-python-and-openai-3l63)
-- [Stop Rolling Your Own VPN Configs: Practical WireGuard with systemd-networkd on Linux](https://dev.to/lyraalishaikh/stop-rolling-your-own-vpn-configs-practical-wireguard-with-systemd-networkd-on-linux-22lp)
+- [I Built a Webcam Sign-Language Reader in the Browser &lpar;No Cloud&rpar;](https://dev.to/dev48v/i-built-a-webcam-sign-language-reader-in-the-browser-no-cloud-11hg)
+- [RAG Rerank: the Highest-Leverage Upgrade to Your Retrieval Pipeline](https://dev.to/dev48v/rag-rerank-the-highest-leverage-upgrade-to-your-retrieval-pipeline-7o5)
+- [What a Neural Net Actually Does — the Intuition, No Math](https://dev.to/dev48v/what-a-neural-net-actually-does-the-intuition-no-math-5h14)
+- [I Thought Formatting JSON Solved Everything. I Was Wrong.](https://dev.to/kalaivani_r_c92f3dfc4220c/i-thought-formatting-json-solved-everything-i-was-wrong-1la7)
+- [How I Built an AI Writer SaaS App with React and OpenAI](https://dev.to/subashbelina_c7085b13f7a7/how-i-built-an-ai-writer-saas-app-with-react-and-openai-3634)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
