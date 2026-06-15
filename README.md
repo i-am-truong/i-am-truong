@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Pulled Fable 5 and Mythos 5: What the Ban Means](https://dev.to/raxxostudios/anthropic-pulled-fable-5-and-mythos-5-what-the-ban-means-4h7)
-- [How Enterprise Development Teams Can Streamline Releases with DevOps](https://dev.to/sanket-parmar/how-enterprise-development-teams-can-streamline-releases-with-devops-56of)
-- [Grammarly costs $12/mo — a local LLM does it for free &lpar;Chrome + Ollama&rpar;](https://dev.to/mk668a/grammarly-costs-12mo-a-local-llm-does-it-for-free-chrome-ollama-128a)
-- [The Production-Ready AI Agent Checklist &lpar;Updated For 2026&rpar;](https://dev.to/mrclaw207/the-production-ready-ai-agent-checklist-updated-for-2026-33cg)
-- [Tesla&#39;s 3, 6, 9 — Pseudoscience or a Forgotten Riddle for AGI?](https://dev.to/_0fc3d8d8b6f550f8e79e3/teslas-3-6-9-pseudoscience-or-a-forgotten-riddle-for-agi-58fh)
+- [Don&#39;t Do Your Taxes at a Party](https://dev.to/lovestaco/dont-do-your-taxes-at-a-party-4ep7)
+- [¿Búsqueda Binaria desde cero: la guía definitiva para dominar algoritmos?](https://dev.to/jcmexdev/busqueda-binaria-desde-cero-la-guia-definitiva-para-dominar-algoritmos-53p5)
+- [The Budget Guide to Prompt Engineering: Save Money with Every Token](https://dev.to/prahladyeri/the-budget-guide-to-prompt-engineering-save-money-with-every-token-3k6h)
+- [Build a RAG System with Python and OpenAI](https://dev.to/gateofai/build-a-rag-system-with-python-and-openai-3l63)
+- [Stop Rolling Your Own VPN Configs: Practical WireGuard with systemd-networkd on Linux](https://dev.to/lyraalishaikh/stop-rolling-your-own-vpn-configs-practical-wireguard-with-systemd-networkd-on-linux-22lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
