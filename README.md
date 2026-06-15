@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Summit Los Angeles 2026: Why Am I Always Learning the Hard Way?](https://dev.to/earlgreyhot1701d/aws-summit-los-angeles-2026-why-am-i-always-learning-the-hard-way-46lb)
-- [introducing gh-aw-fleet](https://dev.to/rshade/introducing-gh-aw-fleet-57f4)
-- [Spam Detection for Inbound Agent Mail](https://dev.to/qasim157/spam-detection-for-inbound-agent-mail-h30)
-- [Auditing What Your Email Agent Actually Did](https://dev.to/qasim157/auditing-what-your-email-agent-actually-did-ejc)
-- [Least Privilege for AI Agents: One Identity, One Scope](https://dev.to/qasim157/least-privilege-for-ai-agents-one-identity-one-scope-5ggm)
+- [WCAG Compliance: A Complete Guide to Web Accessibility Standards](https://dev.to/nikhilmartinez/wcag-compliance-a-complete-guide-to-web-accessibility-standards-5n)
+- [arabinum|the search engine that turns results into social feed](https://dev.to/amrzlabs/arabinumthe-search-emgine-that-turns-results-into-social-feed-1ann)
+- [How llms.txt made ChatGPT my #1 traffic source &lpar;a free IP API, 8 weeks in&rpar; Tags: webdev, seo, ai, cloudflare](https://dev.to/codelong888/how-llmstxt-made-chatgpt-my-1-traffic-source-a-free-ip-api-8-weeks-in-tags-webdev-seo-ai-7pa)
+- [Day 31 of learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-31-of-learning-mern-stack-15bm)
+- [Spring Boot 3.x + Java 21 虚拟线程场景下 MDC 异步上下文丢失与内存溢出排查实战](https://dev.to/_80a1fa98d19e605032996/spring-boot-3x-java-21-xu-ni-xian-cheng-chang-jing-xia-mdc-yi-bu-shang-xia-wen-diu-shi-yu-nei-cun-yi-chu-pai-cha-shi-zhan-lj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
