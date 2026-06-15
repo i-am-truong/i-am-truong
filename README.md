@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Surviving the region you run in: failover on Aurora DSQL, and what the demo proves](https://dev.to/hocmemini/surviving-the-region-you-run-in-failover-on-aurora-dsql-and-what-the-demo-proves-5chc)
-- [Optimistic concurrency is the whole design: event sourcing on Aurora DSQL](https://dev.to/hocmemini/optimistic-concurrency-is-the-whole-design-event-sourcing-on-aurora-dsql-m63)
-- [I built a region-survivable system by directing an AI agent. An append-only decision log kept it coherent.](https://dev.to/hocmemini/i-built-a-region-survivable-system-by-directing-an-ai-agent-an-append-only-decision-log-kept-it-2bkg)
-- [How to Design a Mobile App With AI: The Full Workflow &lpar;Start to Finish&rpar;](https://dev.to/rsalimx/how-to-design-a-mobile-app-with-ai-the-full-workflow-start-to-finish-3h19)
-- [Predictive Alpha: Pipeline Engineering for Real-Time Machine Learning Inference](https://dev.to/mountek/predictive-alpha-pipeline-engineering-for-real-time-machine-learning-inference-f69)
+- [AWS Summit Los Angeles 2026: Why Am I Always Learning the Hard Way?](https://dev.to/earlgreyhot1701d/aws-summit-los-angeles-2026-why-am-i-always-learning-the-hard-way-46lb)
+- [introducing gh-aw-fleet](https://dev.to/rshade/introducing-gh-aw-fleet-57f4)
+- [Spam Detection for Inbound Agent Mail](https://dev.to/qasim157/spam-detection-for-inbound-agent-mail-h30)
+- [Auditing What Your Email Agent Actually Did](https://dev.to/qasim157/auditing-what-your-email-agent-actually-did-ejc)
+- [Least Privilege for AI Agents: One Identity, One Scope](https://dev.to/qasim157/least-privilege-for-ai-agents-one-identity-one-scope-5ggm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
