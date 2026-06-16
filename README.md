@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Freelancing Got Easier When I Stopped Carrying the Whole Project in My Head](https://dev.to/marcusykim/freelancing-got-easier-when-i-stopped-carrying-the-whole-project-in-my-head-4mm5)
-- [Database Decisions: Choosing Between PostgreSQL, MongoDB, and MySQL](https://dev.to/paradane/database-decisions-choosing-between-postgresql-mongodb-and-mysql-4l25)
-- [Open Source Tools We Use Daily at Our Agency](https://dev.to/paradane/open-source-tools-we-use-daily-at-our-agency-2ii)
-- [Claude Code for .NET Developers: From Zero to Productive in VS Code and Visual Studio](https://dev.to/jgomezdev/claude-code-for-net-developers-from-zero-to-productive-in-vs-code-and-visual-studio-3cm6)
-- [Claude Code para desarrolladores .NET: De cero a productivo en VS Code y Visual Studio](https://dev.to/jgomezdev/claude-code-para-desarrolladores-net-de-cero-a-productivo-en-vs-code-y-visual-studio-d4j)
+- [TypeScript 6.0 Released: The Last JavaScript-Based Version — New Features, Breaking Changes, and Migration Guide](https://dev.to/jsmanifest/typescript-60-released-the-last-javascript-based-version-new-features-breaking-changes-and-48a0)
+- [I Built a Self-Hosted Competitor Price Monitor Because SaaS Pricing Is Out of Control](https://dev.to/orange-big/i-built-a-self-hosted-competitor-price-monitor-because-saas-pricing-is-out-of-control-5742)
+- [Hello Dev.to 👋 — A Developer Joining the Community](https://dev.to/orange-big/hello-devto-a-developer-joining-the-community-1k3n)
+- [What Small Mobile Game Teams Should Check When Ad Revenue Drops](https://dev.to/mmyy/what-small-mobile-game-teams-should-check-when-ad-revenue-drops-2i6a)
+- [[Boost]](https://dev.to/acamikuro/-3468)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
