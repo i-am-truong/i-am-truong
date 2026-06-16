@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory Systems in AI Assistants](https://dev.to/rosgluk/memory-systems-in-ai-assistants-3gf0)
-- [Lattice-Based Cryptography: The Math Behind Post-Quantum Security](https://dev.to/havenmessenger/lattice-based-cryptography-the-math-behind-post-quantum-security-48mi)
-- [A CMS Built for Simplicity, Flexibility, and Scalability.](https://dev.to/zamfir80/a-cms-built-for-simplicity-flexibility-and-scalability-2hcj)
-- [Three Token-2022 mints in one week: fees, yield, and soul-bound](https://dev.to/prasiddhnaik/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-41hn)
-- [AWS Cloud Migration: The Zero-Downtime Playbook for Growing Businesses](https://dev.to/safdarwahid/aws-cloud-migration-the-zero-downtime-playbook-for-growing-businesses-27ik)
+- [Subsets II | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/subsets-ii-backtracking-3cmo)
+- [Idempotency Lessons From an Email Agent](https://dev.to/qasim157/idempotency-lessons-from-an-email-agent-2ocb)
+- [Observability for Email Agents](https://dev.to/qasim157/observability-for-email-agents-4egn)
+- [Human-in-the-Loop Design for Email Agents](https://dev.to/qasim157/human-in-the-loop-design-for-email-agents-3fhc)
+- [The Lifecycle of an Agent Identity: Provision to Teardown](https://dev.to/qasim157/the-lifecycle-of-an-agent-identity-provision-to-teardown-5c40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
