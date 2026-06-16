@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bedrock vs OpenAI API for DevOps Chatbots: Compliance Checklist](https://dev.to/oleksandr_kuryzhev_42873f/bedrock-vs-openai-api-for-devops-chatbots-compliance-checklist-31d9)
-- [Free vs Paid SCA Tools — When Does Paying for Vulnerability Monitoring Make Sense?](https://dev.to/vulert_official/free-vs-paid-sca-tools-when-does-paying-for-vulnerability-monitoring-make-sense-41cm)
-- [How We Migrated a Client from WordPress to a Custom Next.js Storefront](https://dev.to/paradane/how-we-migrated-a-client-from-wordpress-to-a-custom-nextjs-storefront-3jig)
-- [When to Use Microservices &lpar;And When to Stick With a Monolith&rpar;](https://dev.to/paradane/when-to-use-microservices-and-when-to-stick-with-a-monolith-2m36)
-- [🚀 I’m Building Real AI Engineering Systems — Not Just AI Apps](https://dev.to/dj2313/im-building-real-ai-engineering-systems-not-just-ai-apps-25kf)
+- [Memory Systems in AI Assistants](https://dev.to/rosgluk/memory-systems-in-ai-assistants-3gf0)
+- [Lattice-Based Cryptography: The Math Behind Post-Quantum Security](https://dev.to/havenmessenger/lattice-based-cryptography-the-math-behind-post-quantum-security-48mi)
+- [A CMS Built for Simplicity, Flexibility, and Scalability.](https://dev.to/zamfir80/a-cms-built-for-simplicity-flexibility-and-scalability-2hcj)
+- [Three Token-2022 mints in one week: fees, yield, and soul-bound](https://dev.to/prasiddhnaik/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-41hn)
+- [AWS Cloud Migration: The Zero-Downtime Playbook for Growing Businesses](https://dev.to/safdarwahid/aws-cloud-migration-the-zero-downtime-playbook-for-growing-businesses-27ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
