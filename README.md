@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI Agents Are Leaving the Server | Focused Labs](https://dev.to/focused_dot_io/enterprise-ai-agents-are-leaving-the-server-focused-labs-5740)
-- [AI Agent Cost Is a Runtime Signal | Focused Labs](https://dev.to/focused_dot_io/ai-agent-cost-is-a-runtime-signal-focused-labs-5772)
-- [Comment orchestrer un double déploiement automatique sur Vercel &amp; GitHub Pages avec GitHub Actions](https://dev.to/beautero_kenne_2b7e9bfb01/comment-orchestrer-un-double-deploiement-automatique-sur-vercel-github-pages-avec-github-actions-1pni)
-- [The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella&#39;s Warning on AI](https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel)
-- [Check Designs validates your Figma. What validates your code?](https://dev.to/akollu72/check-designs-validates-your-figma-what-validates-your-code-38c2)
+- [Smart Resume for File Transfers in Rust — Never Start Over](https://dev.to/hiyoyok/smart-resume-for-file-transfers-in-rust-never-start-over-hp0)
+- [Python interview questions: what each one actually predicts on the job &lpar;2026&rpar;](https://dev.to/fourleaf/python-interview-questions-what-each-one-actually-predicts-on-the-job-2026-27nc)
+- [Cloud Architect&#39;s 2026 Guide to Cheaper, Faster LLM Inference](https://dev.to/eagerspark/cloud-architects-2026-guide-to-cheaper-faster-llm-inference-5enh)
+- [[System Design] Uber RAMEN: How Ride-Hailing Apps Push Real-Time Notifications to Millions of Devices](https://dev.to/vesviet/system-design-uber-ramen-how-ride-hailing-apps-push-real-time-notifications-to-millions-of-2156)
+- [Qtractor Usage Bible - Summary](https://dev.to/suntong/qtractor-bible-summary-4g0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
