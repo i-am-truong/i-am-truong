@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI assistant is not hallucinating. It&#39;s guessing, and you asked it to guess.](https://dev.to/gmoustakas/your-ai-assistant-is-not-hallucinating-its-guessing-and-you-asked-it-to-guess-56of)
-- [LLM reviewers are useful, but some PR checks should stay deterministic](https://dev.to/sjh9714/llm-reviewers-are-useful-but-some-pr-checks-should-stay-deterministic-4k1e)
-- [Extending Our Mission With Developer Endpoint Protection](https://dev.to/gitguardian/extending-our-mission-with-developer-endpoint-protection-4j0d)
-- [How I Built a Privacy-First Text Tool Site Where Your Data Never Leaves the Browser](https://dev.to/arnab_deb_9b4ad9ae39294fc/i-built-35-free-text-tools-how-i-built-a-privacy-first-text-tool-site-where-your-data-never-leaves-14bb)
-- [I pointed the OpenAI SDK at one base URL and got Claude, GPT and Gemini](https://dev.to/airforceapi/i-pointed-the-openai-sdk-at-one-base-url-and-got-claude-gpt-and-gemini-38mf)
+- [Enterprise AI Agents Are Leaving the Server | Focused Labs](https://dev.to/focused_dot_io/enterprise-ai-agents-are-leaving-the-server-focused-labs-5740)
+- [AI Agent Cost Is a Runtime Signal | Focused Labs](https://dev.to/focused_dot_io/ai-agent-cost-is-a-runtime-signal-focused-labs-5772)
+- [Comment orchestrer un double déploiement automatique sur Vercel &amp; GitHub Pages avec GitHub Actions](https://dev.to/beautero_kenne_2b7e9bfb01/comment-orchestrer-un-double-deploiement-automatique-sur-vercel-github-pages-avec-github-actions-1pni)
+- [The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella&#39;s Warning on AI](https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel)
+- [Check Designs validates your Figma. What validates your code?](https://dev.to/akollu72/check-designs-validates-your-figma-what-validates-your-code-38c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
