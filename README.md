@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 6.0 Released: The Last JavaScript-Based Version — New Features, Breaking Changes, and Migration Guide](https://dev.to/jsmanifest/typescript-60-released-the-last-javascript-based-version-new-features-breaking-changes-and-48a0)
-- [I Built a Self-Hosted Competitor Price Monitor Because SaaS Pricing Is Out of Control](https://dev.to/orange-big/i-built-a-self-hosted-competitor-price-monitor-because-saas-pricing-is-out-of-control-5742)
-- [Hello Dev.to 👋 — A Developer Joining the Community](https://dev.to/orange-big/hello-devto-a-developer-joining-the-community-1k3n)
-- [What Small Mobile Game Teams Should Check When Ad Revenue Drops](https://dev.to/mmyy/what-small-mobile-game-teams-should-check-when-ad-revenue-drops-2i6a)
-- [[Boost]](https://dev.to/acamikuro/-3468)
+- [Bedrock vs OpenAI API for DevOps Chatbots: Compliance Checklist](https://dev.to/oleksandr_kuryzhev_42873f/bedrock-vs-openai-api-for-devops-chatbots-compliance-checklist-31d9)
+- [Free vs Paid SCA Tools — When Does Paying for Vulnerability Monitoring Make Sense?](https://dev.to/vulert_official/free-vs-paid-sca-tools-when-does-paying-for-vulnerability-monitoring-make-sense-41cm)
+- [How We Migrated a Client from WordPress to a Custom Next.js Storefront](https://dev.to/paradane/how-we-migrated-a-client-from-wordpress-to-a-custom-nextjs-storefront-3jig)
+- [When to Use Microservices &lpar;And When to Stick With a Monolith&rpar;](https://dev.to/paradane/when-to-use-microservices-and-when-to-stick-with-a-monolith-2m36)
+- [🚀 I’m Building Real AI Engineering Systems — Not Just AI Apps](https://dev.to/dj2313/im-building-real-ai-engineering-systems-not-just-ai-apps-25kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
