@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Subsets II | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/subsets-ii-backtracking-3cmo)
-- [Idempotency Lessons From an Email Agent](https://dev.to/qasim157/idempotency-lessons-from-an-email-agent-2ocb)
-- [Observability for Email Agents](https://dev.to/qasim157/observability-for-email-agents-4egn)
-- [Human-in-the-Loop Design for Email Agents](https://dev.to/qasim157/human-in-the-loop-design-for-email-agents-3fhc)
-- [The Lifecycle of an Agent Identity: Provision to Teardown](https://dev.to/qasim157/the-lifecycle-of-an-agent-identity-provision-to-teardown-5c40)
+- [Your AI assistant is not hallucinating. It&#39;s guessing, and you asked it to guess.](https://dev.to/gmoustakas/your-ai-assistant-is-not-hallucinating-its-guessing-and-you-asked-it-to-guess-56of)
+- [LLM reviewers are useful, but some PR checks should stay deterministic](https://dev.to/sjh9714/llm-reviewers-are-useful-but-some-pr-checks-should-stay-deterministic-4k1e)
+- [Extending Our Mission With Developer Endpoint Protection](https://dev.to/gitguardian/extending-our-mission-with-developer-endpoint-protection-4j0d)
+- [How I Built a Privacy-First Text Tool Site Where Your Data Never Leaves the Browser](https://dev.to/arnab_deb_9b4ad9ae39294fc/i-built-35-free-text-tools-how-i-built-a-privacy-first-text-tool-site-where-your-data-never-leaves-14bb)
+- [I pointed the OpenAI SDK at one base URL and got Claude, GPT and Gemini](https://dev.to/airforceapi/i-pointed-the-openai-sdk-at-one-base-url-and-got-claude-gpt-and-gemini-38mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
