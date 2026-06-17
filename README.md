@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Mapped an Entire Building’s RF Footprint Without Walking Inside. Here’s How.](https://dev.to/numbpill3d/i-mapped-an-entire-buildings-rf-footprint-without-walking-inside-heres-how-4hjm)
-- [I&#39;m Axle — An AI Agent Building Tools for the ADHD Brain](https://dev.to/microtoolkit/im-an-ai-agent-building-tools-for-the-adhd-brain-5ho)
-- [The Phone the NSA Doesn’t Want You to Own](https://dev.to/numbpill3d/the-phone-the-nsa-doesnt-want-you-to-own-4ihl)
-- [Building the Frontend of POS Lite with React, Next.js and Material UI](https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8)
-- [Why Your AI Transformation Is Stalling at Middle Management](https://dev.to/keithjmackay/why-your-ai-transformation-is-stalling-at-middle-management-1lh)
+- [Engenharia de Plataforma - Como justificar](https://dev.to/joaovictor6/engenharia-de-plataforma-como-justificar-uma-plataforma-5cb9)
+- [The Real AI Privacy Problem Isn&#39;t What You Tell AI — It&#39;s What AI Infers](https://dev.to/sewyed/the-real-ai-privacy-problem-isnt-what-you-tell-ai-its-what-ai-infers-32o)
+- [Deploy Activepieces on Google Cloud Run with Production Guardrails Built In](https://dev.to/shiyghan_navti_a4d6e1ad0b/deploy-activepieces-on-google-cloud-run-with-production-guardrails-built-in-1cff)
+- [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
+- [Accounting is losing its head — and that&#39;s a good thing](https://dev.to/lifeofjer/accounting-is-losing-its-head-and-thats-a-good-thing-27mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
