@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 8: Persistence and State - EF Core, Migrations, and Reliability](https://dev.to/homolibere/part-8-persistence-and-state-ef-core-migrations-and-reliability-2d6o)
-- [PostgreSQL vs MySQL for API Automation Workflows](https://dev.to/chasebot/postgresql-vs-mysql-for-api-automation-workflows-4b6j)
-- [Arguments Parsing in Dart](https://dev.to/niamtokik/arguments-parsing-in-dart-jc1)
-- [Stop Loading Your Entire Instruction System Into Every Session](https://dev.to/ben-witt/significantly-fewer-context-tokens-through-a-modular-instruction-architecture-2g70)
-- [You Don&#39;t Need Docker Desktop on Linux](https://dev.to/nyagah/you-dont-need-docker-desktop-on-linux-1n8b)
+- [DBD Cornucopia is now available to play online!](https://dev.to/owasp/dbd-cornucopia-is-now-available-to-play-online-4f83)
+- [Studiul Princeton pe 10.000 de căutări: de ce conținutul structurat dominează răspunsurile AI](https://dev.to/flashship_ro/studiul-princeton-pe-10000-de-cautari-de-ce-continutul-structurat-domineaza-raspunsurile-ai-3jhn)
+- [Building BetLogic with Next.js: AI Football Previews, Bet Slip Checks and Automated Content](https://dev.to/tudor_ioan_435ea724ac081f/building-betlogic-with-nextjs-ai-football-previews-bet-slip-checks-and-automated-content-3nb1)
+- [The difference between &quot;this shouldn&#39;t happen&quot; and &quot;this cannot happen&quot; in AI content pipelines](https://dev.to/chadtdyar/the-difference-between-this-shouldnt-happen-and-this-cannot-happen-in-ai-content-pipelines-1g0p)
+- [Blind Signatures Explained: Getting Something Signed Without Revealing It](https://dev.to/havenmessenger/blind-signatures-explained-getting-something-signed-without-revealing-it-k78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
