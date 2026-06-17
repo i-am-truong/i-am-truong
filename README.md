@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DBD Cornucopia is now available to play online!](https://dev.to/owasp/dbd-cornucopia-is-now-available-to-play-online-4f83)
-- [Studiul Princeton pe 10.000 de căutări: de ce conținutul structurat dominează răspunsurile AI](https://dev.to/flashship_ro/studiul-princeton-pe-10000-de-cautari-de-ce-continutul-structurat-domineaza-raspunsurile-ai-3jhn)
-- [Building BetLogic with Next.js: AI Football Previews, Bet Slip Checks and Automated Content](https://dev.to/tudor_ioan_435ea724ac081f/building-betlogic-with-nextjs-ai-football-previews-bet-slip-checks-and-automated-content-3nb1)
-- [The difference between &quot;this shouldn&#39;t happen&quot; and &quot;this cannot happen&quot; in AI content pipelines](https://dev.to/chadtdyar/the-difference-between-this-shouldnt-happen-and-this-cannot-happen-in-ai-content-pipelines-1g0p)
-- [Blind Signatures Explained: Getting Something Signed Without Revealing It](https://dev.to/havenmessenger/blind-signatures-explained-getting-something-signed-without-revealing-it-k78)
+- [A Complete Guide to Enterprise Application Testing: Types, Process &amp; Best Practices](https://dev.to/irniaqa/a-complete-guide-to-enterprise-application-testing-types-process-best-practices-nb0)
+- [Stop Passing Files Between Agents With Local Paths](https://dev.to/jnakano/stop-passing-files-between-agents-with-local-paths-oop)
+- [The Digital Nomad’s Dilemma: Escaping VPN Blocks with a Zero-Config Residential Gateway](https://dev.to/homegrid_vpn/the-digital-nomads-dilemma-escaping-vpn-blocks-with-a-zero-config-residential-gateway-5h6d)
+- [Devlog #2: Stop Managing Tasks. Start Owning the &quot;Now.&quot;](https://dev.to/novascientist/devlog-2-stop-managing-tasks-start-owning-the-now-5405)
+- [JetBrains Marketplace Supply Chain Attack: 15 Malicious AI Plugins &amp; API Key Exfiltration](https://dev.to/satyam_rastogi/jetbrains-marketplace-supply-chain-attack-15-malicious-ai-plugins-api-key-exfiltration-5192)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
