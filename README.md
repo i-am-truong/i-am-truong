@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Enterprise Application Testing: Types, Process &amp; Best Practices](https://dev.to/irniaqa/a-complete-guide-to-enterprise-application-testing-types-process-best-practices-nb0)
-- [Stop Passing Files Between Agents With Local Paths](https://dev.to/jnakano/stop-passing-files-between-agents-with-local-paths-oop)
-- [The Digital Nomad’s Dilemma: Escaping VPN Blocks with a Zero-Config Residential Gateway](https://dev.to/homegrid_vpn/the-digital-nomads-dilemma-escaping-vpn-blocks-with-a-zero-config-residential-gateway-5h6d)
-- [Devlog #2: Stop Managing Tasks. Start Owning the &quot;Now.&quot;](https://dev.to/novascientist/devlog-2-stop-managing-tasks-start-owning-the-now-5405)
-- [JetBrains Marketplace Supply Chain Attack: 15 Malicious AI Plugins &amp; API Key Exfiltration](https://dev.to/satyam_rastogi/jetbrains-marketplace-supply-chain-attack-15-malicious-ai-plugins-api-key-exfiltration-5192)
+- [.NET Doesn&#39;t Suck in Neovim Anymore](https://dev.to/nmiller15/net-doesnt-suck-in-neovim-anymore-4fb8)
+- [Design Principles of Software: A Real-World Notification System in Go](https://dev.to/sergiocolqueponce/design-principles-of-software-a-real-world-notification-system-in-go-4g98)
+- [Spec-Driven Development: Let the Spec Drive the Code &lpar;With a Real Example&rpar;](https://dev.to/sergiocolqueponce/spec-driven-development-let-the-spec-drive-the-code-with-a-real-example-589n)
+- [Build vs Buy Software: A Decision Framework for Growing Businesses](https://dev.to/0arch/build-vs-buy-software-a-decision-framework-for-growing-businesses-1alb)
+- [I Run a Self-Improvement Loop on My OpenClaw Agent Every Night. Here&#39;s What I Learned.](https://dev.to/mrclaw207/i-run-a-self-improvement-loop-on-my-openclaw-agent-every-night-heres-what-i-learned-38bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
