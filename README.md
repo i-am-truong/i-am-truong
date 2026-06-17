@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Registers, Lanes, and Berry Phase: Lifting Siunertaq from Batch Graphs to the Complex Plane](https://dev.to/p_pumulo/registers-lanes-and-berry-phase-lifting-siunertaq-from-batch-graphs-to-the-complex-plane-5164)
-- [Why Google’s Open Knowledge Format Matters for Developers and Content Creators?](https://dev.to/maskaravivek/why-googles-open-knowledge-format-matters-for-developers-and-content-creators-1mgk)
-- [Sunset Your API Endpoints on Purpose: The Deprecation and Sunset Headers](https://dev.to/apikumo/sunset-your-api-endpoints-on-purpose-the-deprecation-and-sunset-headers-4bmh)
-- [Building ccglass: the architecture of a local LLM reverse proxy](https://dev.to/houleixx/building-ccglass-the-architecture-of-a-local-llm-reverse-proxy-1k07)
-- [Web-Based Security Assessment Platform Using Python, Flask &amp; Open-Source Security Tools](https://dev.to/ganesh_hari_18/web-based-security-assessment-platform-using-python-flask-open-source-security-tools-26hj)
+- [Part 8: Persistence and State - EF Core, Migrations, and Reliability](https://dev.to/homolibere/part-8-persistence-and-state-ef-core-migrations-and-reliability-2d6o)
+- [PostgreSQL vs MySQL for API Automation Workflows](https://dev.to/chasebot/postgresql-vs-mysql-for-api-automation-workflows-4b6j)
+- [Arguments Parsing in Dart](https://dev.to/niamtokik/arguments-parsing-in-dart-jc1)
+- [Stop Loading Your Entire Instruction System Into Every Session](https://dev.to/ben-witt/significantly-fewer-context-tokens-through-a-modular-instruction-architecture-2g70)
+- [You Don&#39;t Need Docker Desktop on Linux](https://dev.to/nyagah/you-dont-need-docker-desktop-on-linux-1n8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
