@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smart Resume for File Transfers in Rust — Never Start Over](https://dev.to/hiyoyok/smart-resume-for-file-transfers-in-rust-never-start-over-hp0)
-- [Python interview questions: what each one actually predicts on the job &lpar;2026&rpar;](https://dev.to/fourleaf/python-interview-questions-what-each-one-actually-predicts-on-the-job-2026-27nc)
-- [Cloud Architect&#39;s 2026 Guide to Cheaper, Faster LLM Inference](https://dev.to/eagerspark/cloud-architects-2026-guide-to-cheaper-faster-llm-inference-5enh)
-- [[System Design] Uber RAMEN: How Ride-Hailing Apps Push Real-Time Notifications to Millions of Devices](https://dev.to/vesviet/system-design-uber-ramen-how-ride-hailing-apps-push-real-time-notifications-to-millions-of-2156)
-- [Qtractor Usage Bible - Summary](https://dev.to/suntong/qtractor-bible-summary-4g0p)
+- [Registers, Lanes, and Berry Phase: Lifting Siunertaq from Batch Graphs to the Complex Plane](https://dev.to/p_pumulo/registers-lanes-and-berry-phase-lifting-siunertaq-from-batch-graphs-to-the-complex-plane-5164)
+- [Why Google’s Open Knowledge Format Matters for Developers and Content Creators?](https://dev.to/maskaravivek/why-googles-open-knowledge-format-matters-for-developers-and-content-creators-1mgk)
+- [Sunset Your API Endpoints on Purpose: The Deprecation and Sunset Headers](https://dev.to/apikumo/sunset-your-api-endpoints-on-purpose-the-deprecation-and-sunset-headers-4bmh)
+- [Building ccglass: the architecture of a local LLM reverse proxy](https://dev.to/houleixx/building-ccglass-the-architecture-of-a-local-llm-reverse-proxy-1k07)
+- [Web-Based Security Assessment Platform Using Python, Flask &amp; Open-Source Security Tools](https://dev.to/ganesh_hari_18/web-based-security-assessment-platform-using-python-flask-open-source-security-tools-26hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
