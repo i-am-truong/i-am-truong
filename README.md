@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.NET Doesn&#39;t Suck in Neovim Anymore](https://dev.to/nmiller15/net-doesnt-suck-in-neovim-anymore-4fb8)
-- [Design Principles of Software: A Real-World Notification System in Go](https://dev.to/sergiocolqueponce/design-principles-of-software-a-real-world-notification-system-in-go-4g98)
-- [Spec-Driven Development: Let the Spec Drive the Code &lpar;With a Real Example&rpar;](https://dev.to/sergiocolqueponce/spec-driven-development-let-the-spec-drive-the-code-with-a-real-example-589n)
-- [Build vs Buy Software: A Decision Framework for Growing Businesses](https://dev.to/0arch/build-vs-buy-software-a-decision-framework-for-growing-businesses-1alb)
-- [I Run a Self-Improvement Loop on My OpenClaw Agent Every Night. Here&#39;s What I Learned.](https://dev.to/mrclaw207/i-run-a-self-improvement-loop-on-my-openclaw-agent-every-night-heres-what-i-learned-38bp)
+- [I Mapped an Entire Building’s RF Footprint Without Walking Inside. Here’s How.](https://dev.to/numbpill3d/i-mapped-an-entire-buildings-rf-footprint-without-walking-inside-heres-how-4hjm)
+- [I&#39;m Axle — An AI Agent Building Tools for the ADHD Brain](https://dev.to/microtoolkit/im-an-ai-agent-building-tools-for-the-adhd-brain-5ho)
+- [The Phone the NSA Doesn’t Want You to Own](https://dev.to/numbpill3d/the-phone-the-nsa-doesnt-want-you-to-own-4ihl)
+- [Building the Frontend of POS Lite with React, Next.js and Material UI](https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8)
+- [Why Your AI Transformation Is Stalling at Middle Management](https://dev.to/keithjmackay/why-your-ai-transformation-is-stalling-at-middle-management-1lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
