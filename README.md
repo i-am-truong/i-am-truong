@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent memory is not a database](https://dev.to/izgorodin/agent-memory-is-not-a-database-4m29)
-- [🚀 Hermes Agent Just Released a Desktop App And It Changes Everything About Using AI Agents](https://dev.to/vivek_shetye/hermes-agent-just-released-a-desktop-app-and-it-changes-everything-about-using-ai-agents-2aei)
-- [React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production](https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1)
-- [Turing&#39;s Dawn — race the dark before the longest day runs out](https://dev.to/pooja_bhavani/turings-dawn-race-the-dark-before-the-longest-day-runs-out-25fb)
-- [Solstice Survivor](https://dev.to/craftygreenguru/solstice-survivor-41l8)
+- [Spring Security 7: MFA, Modular Config, and What Breaks](https://dev.to/jamilxt/spring-security-7-mfa-modular-config-and-what-breaks-l1b)
+- [Many Are Building Cathedrals on Quicksand](https://dev.to/keithjmackay/many-are-building-cathedrals-on-quicksand-1geo)
+- [I Built a Web-Based Code Editor for SA-MP Scripting](https://dev.to/akun_digital_69f354512772/i-built-a-web-based-code-editor-for-sa-mp-scripting-3e53)
+- [A complete tour of Qeli: a self-hosted, post-quantum VPN in Rust](https://dev.to/alexandr_litvinov/a-complete-tour-of-qeli-a-self-hosted-post-quantum-vpn-in-rust-2681)
+- [A green test suite proves less than you think](https://dev.to/praveenlavu/a-green-test-suite-proves-less-than-you-think-59cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
