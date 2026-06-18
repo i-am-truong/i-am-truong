@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Alternatives to Building SaaS Backlogs That Never Get Finished](https://dev.to/thekarlesi/7-alternatives-to-building-saas-backlogs-that-never-get-finished-4f8f)
-- [Securing AI-Generated Bash Scripts Before You Run Them](https://dev.to/devopsaitoolkit/securing-ai-generated-bash-scripts-before-you-run-them-401m)
-- [I built a CLI that generates .env files so I never read docs again](https://dev.to/joseph_kariuki_0b7037c6d3/i-built-a-cli-that-generates-env-files-so-i-never-read-docs-again-3np5)
-- [Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.](https://dev.to/xulingfeng/our-competitor-had-an-ai-that-covered-972-we-had-a-spreadsheet-and-a-fake-quote-guess-who-won-5cc3)
-- [Perl PAGI Project Updates](https://dev.to/jjn1056/perl-pagi-project-updates-4602)
+- [Building a Kubernetes Cluster on Red Hat Enterprise Linux 10: A kubeadm Guide](https://dev.to/vilan011/building-a-kubernetes-cluster-on-red-hat-enterprise-linux-10-a-kubeadm-guide-1jpe)
+- [Swift VSX Support, Biome Type Inference, Agent Guardrails](https://dev.to/devsignal/swift-vsx-support-biome-type-inference-agent-guardrails-en5)
+- [AI Can Write the Code. Who Gives It the Context?](https://dev.to/icetique/ai-can-write-the-code-who-gives-it-the-context-2l1b)
+- [The Cheaper API Was 2.5x Cheaper. It Cost 1.6x More.](https://dev.to/0012303/the-cheaper-api-was-25x-cheaper-it-cost-16x-more-5b7c)
+- [Workflow SDK AbortController + Claude Fable 5: Issue #38](https://dev.to/devsignal/workflow-sdk-abortcontroller-claude-fable-5-issue-38-527d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
