@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Asking &quot;what will say&quot;](https://dev.to/sahiravoice/i-stopped-asking-what-will-say-31bk)
-- [Mastering Design Principles: Dependency Inversion in Kotlin](https://dev.to/renzo_fernandoloyolavil/mastering-design-principles-dependency-inversion-in-kotlin-4mp8)
-- [Stop telling your RAG bot not to hallucinate. Make it impossible.](https://dev.to/kaydenletk/stop-telling-your-rag-bot-not-to-hallucinate-make-it-impossible-1a11)
-- [Most Engineers Use AI. Few Engineer With It.](https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd)
-- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
+- [Routing around Google Maps in Korea: Naver &amp; Kakao deep links, weird coordinates, and iOS clipboard](https://dev.to/piyaklabs/routing-around-google-maps-in-korea-naver-kakao-deep-links-weird-coordinates-and-ios-clipboard-25mf)
+- [Is Your &#39;Scalable&#39; Backend a Ticking Time Bomb?](https://dev.to/prabashanadev/is-your-scalable-backend-a-ticking-time-bomb-6o7)
+- [Your Weather App Is Lying to You &lpar;And Your Window Knows It&rpar;](https://dev.to/mindon/your-weather-app-is-lying-to-you-and-your-window-knows-it-5g8c)
+- [How to Actually Set Up Claude Projects That Most Users Don&#39;t Know](https://dev.to/aniruddhaadak/how-to-actually-set-up-claude-projects-that-most-users-dont-know-462l)
+- [The Cloud Security Tool Your Resume is Missing &lpar;Part 1&rpar;](https://dev.to/yescertified/the-cloud-security-tool-your-resume-is-missing-part-1-e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
