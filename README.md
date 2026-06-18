@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Kubernetes Cluster on Red Hat Enterprise Linux 10: A kubeadm Guide](https://dev.to/vilan011/building-a-kubernetes-cluster-on-red-hat-enterprise-linux-10-a-kubeadm-guide-1jpe)
-- [Swift VSX Support, Biome Type Inference, Agent Guardrails](https://dev.to/devsignal/swift-vsx-support-biome-type-inference-agent-guardrails-en5)
-- [AI Can Write the Code. Who Gives It the Context?](https://dev.to/icetique/ai-can-write-the-code-who-gives-it-the-context-2l1b)
-- [The Cheaper API Was 2.5x Cheaper. It Cost 1.6x More.](https://dev.to/0012303/the-cheaper-api-was-25x-cheaper-it-cost-16x-more-5b7c)
-- [Workflow SDK AbortController + Claude Fable 5: Issue #38](https://dev.to/devsignal/workflow-sdk-abortcontroller-claude-fable-5-issue-38-527d)
+- [Agent memory is not a database](https://dev.to/izgorodin/agent-memory-is-not-a-database-4m29)
+- [🚀 Hermes Agent Just Released a Desktop App And It Changes Everything About Using AI Agents](https://dev.to/vivek_shetye/hermes-agent-just-released-a-desktop-app-and-it-changes-everything-about-using-ai-agents-2aei)
+- [React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production](https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1)
+- [Turing&#39;s Dawn — race the dark before the longest day runs out](https://dev.to/pooja_bhavani/turings-dawn-race-the-dark-before-the-longest-day-runs-out-25fb)
+- [Solstice Survivor](https://dev.to/craftygreenguru/solstice-survivor-41l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
