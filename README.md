@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most Curated List, Must-read 🙌🏻](https://dev.to/theme_selection/most-curated-list-must-read-3cb8)
-- [What&#39;s New in Apple&#39;s Foundation Models Framework at WWDC 2026](https://dev.to/hariharanjagan/whats-new-in-apples-foundation-models-framework-at-wwdc-2026-5227)
-- [Why Schools Still Run on Spreadsheets](https://dev.to/joanurevbu/why-schools-still-run-on-spreadsheets-2o77)
-- [Visual Regression Testing with Screenshot APIs: Catch UI Bugs Before Users Do](https://dev.to/toolkitonline/visual-regression-testing-with-screenshot-apis-catch-ui-bugs-before-users-do-40p6)
-- [Cómo solucionar el error de permisos con `pip.exe` en entornos virtuales de Python en Windows](https://dev.to/erickeduardoramos03/como-solucionar-el-error-de-permisos-con-pipexe-en-entornos-virtuales-de-python-en-windows-53ol)
+- [7 Alternatives to Building SaaS Backlogs That Never Get Finished](https://dev.to/thekarlesi/7-alternatives-to-building-saas-backlogs-that-never-get-finished-4f8f)
+- [Securing AI-Generated Bash Scripts Before You Run Them](https://dev.to/devopsaitoolkit/securing-ai-generated-bash-scripts-before-you-run-them-401m)
+- [I built a CLI that generates .env files so I never read docs again](https://dev.to/joseph_kariuki_0b7037c6d3/i-built-a-cli-that-generates-env-files-so-i-never-read-docs-again-3np5)
+- [Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.](https://dev.to/xulingfeng/our-competitor-had-an-ai-that-covered-972-we-had-a-spreadsheet-and-a-fake-quote-guess-who-won-5cc3)
+- [Perl PAGI Project Updates](https://dev.to/jjn1056/perl-pagi-project-updates-4602)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
