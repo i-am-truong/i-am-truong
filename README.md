@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Imitation Gate: a Turing-test border checkpoint where the sky catches the liars](https://dev.to/asynchronope/the-imitation-gate-a-turing-test-border-checkpoint-where-the-sky-catches-the-liars-3kmd)
-- [Why `vitest --changed` misses some tests &lpar;and how runtime coverage fixes it&rpar;](https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm)
-- [The Hidden Cost of AI Agents: Why Your LLM Pipeline Is Bleeding Money](https://dev.to/abdul___rehman/the-hidden-cost-of-ai-agents-why-your-llm-pipeline-is-bleeding-money-4bkd)
-- [Best Python Libraries for Building REST APIs Without a Full Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-full-framework-in-2026-3bp9)
-- [How to Set Up a Local AI Coding Assistant in VS Code – Free &amp; Private](https://dev.to/everylocalai/how-to-set-up-a-local-ai-coding-assistant-in-vs-code-free-private-2nkk)
+- [Most Curated List, Must-read 🙌🏻](https://dev.to/theme_selection/most-curated-list-must-read-3cb8)
+- [What&#39;s New in Apple&#39;s Foundation Models Framework at WWDC 2026](https://dev.to/hariharanjagan/whats-new-in-apples-foundation-models-framework-at-wwdc-2026-5227)
+- [Why Schools Still Run on Spreadsheets](https://dev.to/joanurevbu/why-schools-still-run-on-spreadsheets-2o77)
+- [Visual Regression Testing with Screenshot APIs: Catch UI Bugs Before Users Do](https://dev.to/toolkitonline/visual-regression-testing-with-screenshot-apis-catch-ui-bugs-before-users-do-40p6)
+- [Cómo solucionar el error de permisos con `pip.exe` en entornos virtuales de Python en Windows](https://dev.to/erickeduardoramos03/como-solucionar-el-error-de-permisos-con-pipexe-en-entornos-virtuales-de-python-en-windows-53ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
