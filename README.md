@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de Plataforma - Como justificar](https://dev.to/joaovictor6/engenharia-de-plataforma-como-justificar-uma-plataforma-5cb9)
-- [The Real AI Privacy Problem Isn&#39;t What You Tell AI — It&#39;s What AI Infers](https://dev.to/sewyed/the-real-ai-privacy-problem-isnt-what-you-tell-ai-its-what-ai-infers-32o)
-- [Deploy Activepieces on Google Cloud Run with Production Guardrails Built In](https://dev.to/shiyghan_navti_a4d6e1ad0b/deploy-activepieces-on-google-cloud-run-with-production-guardrails-built-in-1cff)
-- [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
-- [Accounting is losing its head — and that&#39;s a good thing](https://dev.to/lifeofjer/accounting-is-losing-its-head-and-thats-a-good-thing-27mm)
+- [I Stopped Asking &quot;what will say&quot;](https://dev.to/sahiravoice/i-stopped-asking-what-will-say-31bk)
+- [Mastering Design Principles: Dependency Inversion in Kotlin](https://dev.to/renzo_fernandoloyolavil/mastering-design-principles-dependency-inversion-in-kotlin-4mp8)
+- [Stop telling your RAG bot not to hallucinate. Make it impossible.](https://dev.to/kaydenletk/stop-telling-your-rag-bot-not-to-hallucinate-make-it-impossible-1a11)
+- [Most Engineers Use AI. Few Engineer With It.](https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd)
+- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
