@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Routing around Google Maps in Korea: Naver &amp; Kakao deep links, weird coordinates, and iOS clipboard](https://dev.to/piyaklabs/routing-around-google-maps-in-korea-naver-kakao-deep-links-weird-coordinates-and-ios-clipboard-25mf)
-- [Is Your &#39;Scalable&#39; Backend a Ticking Time Bomb?](https://dev.to/prabashanadev/is-your-scalable-backend-a-ticking-time-bomb-6o7)
-- [Your Weather App Is Lying to You &lpar;And Your Window Knows It&rpar;](https://dev.to/mindon/your-weather-app-is-lying-to-you-and-your-window-knows-it-5g8c)
-- [How to Actually Set Up Claude Projects That Most Users Don&#39;t Know](https://dev.to/aniruddhaadak/how-to-actually-set-up-claude-projects-that-most-users-dont-know-462l)
-- [The Cloud Security Tool Your Resume is Missing &lpar;Part 1&rpar;](https://dev.to/yescertified/the-cloud-security-tool-your-resume-is-missing-part-1-e2)
+- [The Imitation Gate: a Turing-test border checkpoint where the sky catches the liars](https://dev.to/asynchronope/the-imitation-gate-a-turing-test-border-checkpoint-where-the-sky-catches-the-liars-3kmd)
+- [Why `vitest --changed` misses some tests &lpar;and how runtime coverage fixes it&rpar;](https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm)
+- [The Hidden Cost of AI Agents: Why Your LLM Pipeline Is Bleeding Money](https://dev.to/abdul___rehman/the-hidden-cost-of-ai-agents-why-your-llm-pipeline-is-bleeding-money-4bkd)
+- [Best Python Libraries for Building REST APIs Without a Full Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-full-framework-in-2026-3bp9)
+- [How to Set Up a Local AI Coding Assistant in VS Code – Free &amp; Private](https://dev.to/everylocalai/how-to-set-up-a-local-ai-coding-assistant-in-vs-code-free-private-2nkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
