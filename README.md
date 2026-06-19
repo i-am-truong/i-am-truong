@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy](https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j)
-- [Software Architecture Matters](https://dev.to/lavkeshdwivedi/software-architecture-matters-2k66)
-- [Can You Be a Data Scientist Without Statistics? Yes. Should You?](https://dev.to/amailuk/can-you-be-a-data-scientist-without-statistics-yes-should-you-3jn4)
-- [Manipulating QEMU Hardwares with Bootkit](https://dev.to/bekoo/manipulating-qemu-hardwares-with-bootkit-4gl7)
-- [How to E2E Test Mailgun Email Workflows in Playwright](https://dev.to/zerodrop/how-to-e2e-test-mailgun-email-workflows-in-playwright-3b2d)
+- [Building SyncCanvas: An AI-Powered Real-Time Collaborative Whiteboard](https://dev.to/rishibyte/building-synccanvas-an-ai-powered-real-time-collaborative-whiteboard-4f24)
+- [AI news today: agent pricing, rare disease diagnosis, and China&#39;s local-model push](https://dev.to/damogallagher/ai-news-today-agent-pricing-rare-disease-diagnosis-and-chinas-local-model-push-42c0)
+- [Internmaxxing vs. Old Man Shakes Fist at Cloud](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd)
+- [I didn&#39;t trust an AI with my Proxmox cluster — so I built one that can&#39;t surprise me](https://dev.to/john-broadway/i-didnt-trust-an-ai-with-my-proxmox-cluster-so-i-built-one-that-cant-surprise-me-2k9l)
+- [How I Finally Stopped Re-Explaining Everything to AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-i-finally-stopped-re-explaining-everything-to-ai-bite-size-article-35nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
