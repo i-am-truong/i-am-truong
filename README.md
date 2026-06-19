@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When automation meets simplicity over Python or Ansible](https://dev.to/skhell/when-automation-meets-simplicity-over-python-or-ansible-2ilp)
-- [I Trained My OpenClaw to Dream. Here&#39;s What It Learned Overnight.](https://dev.to/mrclaw207/i-trained-my-openclaw-to-dream-heres-what-it-learned-overnight-2ed8)
-- [Your Agent Doesn&#39;t Run Out of Context. It Degrades at 79%](https://dev.to/0012303/your-agent-doesnt-run-out-of-context-it-degrades-at-79-4in4)
-- [Kubernetes for Docker Users](https://dev.to/lavkeshdwivedi/kubernetes-for-docker-users-4k3b)
-- [Why Most IT Modernization Projects Fail](https://dev.to/lavkeshdwivedi/why-most-it-modernization-projects-fail-3lek)
+- [Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy](https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j)
+- [Software Architecture Matters](https://dev.to/lavkeshdwivedi/software-architecture-matters-2k66)
+- [Can You Be a Data Scientist Without Statistics? Yes. Should You?](https://dev.to/amailuk/can-you-be-a-data-scientist-without-statistics-yes-should-you-3jn4)
+- [Manipulating QEMU Hardwares with Bootkit](https://dev.to/bekoo/manipulating-qemu-hardwares-with-bootkit-4gl7)
+- [How to E2E Test Mailgun Email Workflows in Playwright](https://dev.to/zerodrop/how-to-e2e-test-mailgun-email-workflows-in-playwright-3b2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
