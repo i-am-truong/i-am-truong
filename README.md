@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Security 7: MFA, Modular Config, and What Breaks](https://dev.to/jamilxt/spring-security-7-mfa-modular-config-and-what-breaks-l1b)
-- [Many Are Building Cathedrals on Quicksand](https://dev.to/keithjmackay/many-are-building-cathedrals-on-quicksand-1geo)
-- [I Built a Web-Based Code Editor for SA-MP Scripting](https://dev.to/akun_digital_69f354512772/i-built-a-web-based-code-editor-for-sa-mp-scripting-3e53)
-- [A complete tour of Qeli: a self-hosted, post-quantum VPN in Rust](https://dev.to/alexandr_litvinov/a-complete-tour-of-qeli-a-self-hosted-post-quantum-vpn-in-rust-2681)
-- [A green test suite proves less than you think](https://dev.to/praveenlavu/a-green-test-suite-proves-less-than-you-think-59cg)
+- [I Built the Agency Template I Always Wished Existed](https://dev.to/gamer_den_eaace1c4df010b7/i-built-the-agency-template-i-always-wished-existed-241d)
+- [ACE-Step XL 1.5 Premium + Facebook / META Sam Audio + Auto-Editor Trim + Audio Tools Enhancement Full Tutorial](https://dev.to/furkangozukara/ace-step-xl-15-premium-facebook-meta-sam-audio-auto-editor-trim-audio-tools-enhancement-4h0o)
+- [Vector Databases Are Not Magic, Here&#39;s What&#39;s Actually Happening Under the Hood](https://dev.to/shayan_holakouee/vector-databases-are-not-magic-heres-whats-actually-happening-under-the-hood-566c)
+- [Real User Monitoring: Measuring Web Performance in Production](https://dev.to/feidou/real-user-monitoring-measuring-web-performance-in-production-32b6)
+- [Large Context Windows Are Not a Solved Problem](https://dev.to/lavkeshdwivedi/large-context-windows-are-not-a-solved-problem-2o04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
