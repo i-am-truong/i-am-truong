@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A protocol and its users are not having the same emergency](https://dev.to/txdesk/a-protocol-and-its-users-are-not-having-the-same-emergency-3jj2)
-- [Our agent loops have been shipping production features for weeks. Here&#39;s the tool.](https://dev.to/nwnwnw413/our-agent-loops-have-been-shipping-production-features-for-weeks-heres-the-tool-3ekn)
-- [You have been zigged &lpar;series&rpar; : Forking a child process](https://dev.to/black_tornado/you-have-been-zigged-series-forking-a-child-process-1bm4)
-- [How I Built 4 Custom Apps in One Week to Solve My Real-Life Problems &lpar;With an AI Agent&rpar;](https://dev.to/yacovdroridev/how-i-built-4-custom-apps-in-one-week-to-solve-my-real-life-problems-with-an-ai-agent-13fh)
-- [AI Coding Doesn’t Have an Intelligence Problem. It Has a Continuity Problem.](https://dev.to/evanlin2026/ai-coding-doesnt-have-an-intelligence-problem-it-has-a-continuity-problem-2jdg)
+- [I Built a Search Engine &amp; Internet Portal on Top of WordPress Using PHP and Cursor AI — Is This a Good Practice?](https://dev.to/yukeshive/i-built-a-search-engine-internet-portal-on-top-of-wordpress-using-php-and-cursor-ai-is-this-a-2lhg)
+- [Understanding OIDC Authentication Flow Visually](https://dev.to/iamdevbox/understanding-oidc-authentication-flow-visually-1kaa)
+- [Why we picked Tolgee to localize an open-source database client](https://dev.to/newtthewolf/why-we-picked-tolgee-to-localize-an-open-source-database-client-2lem)
+- [5 Cookie Tricks for Debugging Auth Issues in Chrome &lpar;No More Creating Test Accounts&rpar;](https://dev.to/ktg0215/5-cookie-tricks-for-debugging-auth-issues-in-chrome-no-more-creating-test-accounts-h26)
+- [C# Async/Await and Delegates/Events: The Concepts Behind Every Responsive Application](https://dev.to/manoharij/c-asyncawait-and-delegatesevents-the-concepts-behind-every-responsive-application-2k6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
