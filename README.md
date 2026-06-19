@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Building an AI-Powered Carbon Footprint Awareness Platform with Flask, SQLite, and Groq &lpar;Llama 3.1&rpar;](https://dev.to/rohith_cef750793653e3d7bd/building-an-ai-powered-carbon-footprint-awareness-platform-with-flask-sqlite-and-groq-llama-31-25m3)
-- [The agent plan had every step except where to stop](https://dev.to/michaeltruong/the-agent-plan-had-every-step-except-where-to-stop-357h)
-- [Running Local Private AI Models – How And Why](https://dev.to/dragos_roua/running-local-private-ai-models-how-and-why-2ln0)
-- [Exploring Lore: A Scalable Open Source Version Control System](https://dev.to/naveenmalothu/exploring-lore-a-scalable-open-source-version-control-system-31pa)
-- [I open-sourced the financial charting library we use in production](https://dev.to/katomek/i-open-sourced-the-financial-charting-library-we-use-in-production-1hh9)
+- [Tre aggiornamenti AI che cambiano davvero il lavoro quotidiano nel frontend](https://dev.to/frontendfacile/tre-aggiornamenti-ai-che-cambiano-davvero-il-lavoro-quotidiano-nel-frontend-5g2c)
+- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-1m8e)
+- [Monitoring LLM Visibility: A Technical Playbook for Growth Engineers](https://dev.to/growth_collective/continuous-llm-visibility-monitoring-a-developers-guide-to-staying-visible-in-ai-search-1c51)
+- [Software Reliability](https://dev.to/mrbprakash06/software-reliability-122l)
+- [Your Phone Heard Everything](https://dev.to/rawveg/your-phone-heard-everything-469m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
