@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”](https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k)
-- [We&#39;re One Script Away From 30% Cheaper Groceries, Stop Asking AI, Start Asking Why](https://dev.to/djowda/were-one-script-away-from-30-cheaper-groceries-stop-asking-ai-start-asking-why-3g12)
-- [Why Your Adobe Commerce Recommendation Engine Is Leaving Revenue on the Table And How to Fix It](https://dev.to/jagadeesh_s/why-your-adobe-commerce-recommendation-engine-is-leaving-revenue-on-the-table-and-how-to-fix-it-17ll)
-- [Lessons from building 20 MCP Apps in 2 days](https://dev.to/arcade/lessons-from-building-20-mcp-apps-in-2-days-1f98)
-- [Stop Wasting Tokens: I Built a File-Mapping Standard for AI-Assisted Development](https://dev.to/matteoturri/stop-wasting-tokens-i-built-a-file-mapping-standard-for-ai-assisted-development-o25)
+- [Docker Compose overview](https://dev.to/zsevic/docker-compose-overview-32h9)
+- [Alan&#39;s Garden: a puzzle game where flowers are tiny programs](https://dev.to/thehwang/alans-garden-a-puzzle-game-where-flowers-are-tiny-programs-32hg)
+- [Git e Github](https://dev.to/joaopedrov0/git-e-github-2iam)
+- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
+- [Create field using JooqFields](https://dev.to/javaer/create-field-using-jooqfields-3em7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
