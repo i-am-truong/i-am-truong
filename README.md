@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building SyncCanvas: An AI-Powered Real-Time Collaborative Whiteboard](https://dev.to/rishibyte/building-synccanvas-an-ai-powered-real-time-collaborative-whiteboard-4f24)
-- [AI news today: agent pricing, rare disease diagnosis, and China&#39;s local-model push](https://dev.to/damogallagher/ai-news-today-agent-pricing-rare-disease-diagnosis-and-chinas-local-model-push-42c0)
-- [Internmaxxing vs. Old Man Shakes Fist at Cloud](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd)
-- [I didn&#39;t trust an AI with my Proxmox cluster — so I built one that can&#39;t surprise me](https://dev.to/john-broadway/i-didnt-trust-an-ai-with-my-proxmox-cluster-so-i-built-one-that-cant-surprise-me-2k9l)
-- [How I Finally Stopped Re-Explaining Everything to AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-i-finally-stopped-re-explaining-everything-to-ai-bite-size-article-35nb)
+- [CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”](https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k)
+- [We&#39;re One Script Away From 30% Cheaper Groceries, Stop Asking AI, Start Asking Why](https://dev.to/djowda/were-one-script-away-from-30-cheaper-groceries-stop-asking-ai-start-asking-why-3g12)
+- [Why Your Adobe Commerce Recommendation Engine Is Leaving Revenue on the Table And How to Fix It](https://dev.to/jagadeesh_s/why-your-adobe-commerce-recommendation-engine-is-leaving-revenue-on-the-table-and-how-to-fix-it-17ll)
+- [Lessons from building 20 MCP Apps in 2 days](https://dev.to/arcade/lessons-from-building-20-mcp-apps-in-2-days-1f98)
+- [Stop Wasting Tokens: I Built a File-Mapping Standard for AI-Assisted Development](https://dev.to/matteoturri/stop-wasting-tokens-i-built-a-file-mapping-standard-for-ai-assisted-development-o25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
