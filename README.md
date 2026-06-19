@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tre aggiornamenti AI che cambiano davvero il lavoro quotidiano nel frontend](https://dev.to/frontendfacile/tre-aggiornamenti-ai-che-cambiano-davvero-il-lavoro-quotidiano-nel-frontend-5g2c)
-- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-1m8e)
-- [Monitoring LLM Visibility: A Technical Playbook for Growth Engineers](https://dev.to/growth_collective/continuous-llm-visibility-monitoring-a-developers-guide-to-staying-visible-in-ai-search-1c51)
-- [Software Reliability](https://dev.to/mrbprakash06/software-reliability-122l)
-- [Your Phone Heard Everything](https://dev.to/rawveg/your-phone-heard-everything-469m)
+- [A protocol and its users are not having the same emergency](https://dev.to/txdesk/a-protocol-and-its-users-are-not-having-the-same-emergency-3jj2)
+- [Our agent loops have been shipping production features for weeks. Here&#39;s the tool.](https://dev.to/nwnwnw413/our-agent-loops-have-been-shipping-production-features-for-weeks-heres-the-tool-3ekn)
+- [You have been zigged &lpar;series&rpar; : Forking a child process](https://dev.to/black_tornado/you-have-been-zigged-series-forking-a-child-process-1bm4)
+- [How I Built 4 Custom Apps in One Week to Solve My Real-Life Problems &lpar;With an AI Agent&rpar;](https://dev.to/yacovdroridev/how-i-built-4-custom-apps-in-one-week-to-solve-my-real-life-problems-with-an-ai-agent-13fh)
+- [AI Coding Doesn’t Have an Intelligence Problem. It Has a Continuity Problem.](https://dev.to/evanlin2026/ai-coding-doesnt-have-an-intelligence-problem-it-has-a-continuity-problem-2jdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
