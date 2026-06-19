@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Search Engine &amp; Internet Portal on Top of WordPress Using PHP and Cursor AI — Is This a Good Practice?](https://dev.to/yukeshive/i-built-a-search-engine-internet-portal-on-top-of-wordpress-using-php-and-cursor-ai-is-this-a-2lhg)
-- [Understanding OIDC Authentication Flow Visually](https://dev.to/iamdevbox/understanding-oidc-authentication-flow-visually-1kaa)
-- [Why we picked Tolgee to localize an open-source database client](https://dev.to/newtthewolf/why-we-picked-tolgee-to-localize-an-open-source-database-client-2lem)
-- [5 Cookie Tricks for Debugging Auth Issues in Chrome &lpar;No More Creating Test Accounts&rpar;](https://dev.to/ktg0215/5-cookie-tricks-for-debugging-auth-issues-in-chrome-no-more-creating-test-accounts-h26)
-- [C# Async/Await and Delegates/Events: The Concepts Behind Every Responsive Application](https://dev.to/manoharij/c-asyncawait-and-delegatesevents-the-concepts-behind-every-responsive-application-2k6p)
+- [When automation meets simplicity over Python or Ansible](https://dev.to/skhell/when-automation-meets-simplicity-over-python-or-ansible-2ilp)
+- [I Trained My OpenClaw to Dream. Here&#39;s What It Learned Overnight.](https://dev.to/mrclaw207/i-trained-my-openclaw-to-dream-heres-what-it-learned-overnight-2ed8)
+- [Your Agent Doesn&#39;t Run Out of Context. It Degrades at 79%](https://dev.to/0012303/your-agent-doesnt-run-out-of-context-it-degrades-at-79-4in4)
+- [Kubernetes for Docker Users](https://dev.to/lavkeshdwivedi/kubernetes-for-docker-users-4k3b)
+- [Why Most IT Modernization Projects Fail](https://dev.to/lavkeshdwivedi/why-most-it-modernization-projects-fail-3lek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
