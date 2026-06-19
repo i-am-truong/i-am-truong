@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Agency Template I Always Wished Existed](https://dev.to/gamer_den_eaace1c4df010b7/i-built-the-agency-template-i-always-wished-existed-241d)
-- [ACE-Step XL 1.5 Premium + Facebook / META Sam Audio + Auto-Editor Trim + Audio Tools Enhancement Full Tutorial](https://dev.to/furkangozukara/ace-step-xl-15-premium-facebook-meta-sam-audio-auto-editor-trim-audio-tools-enhancement-4h0o)
-- [Vector Databases Are Not Magic, Here&#39;s What&#39;s Actually Happening Under the Hood](https://dev.to/shayan_holakouee/vector-databases-are-not-magic-heres-whats-actually-happening-under-the-hood-566c)
-- [Real User Monitoring: Measuring Web Performance in Production](https://dev.to/feidou/real-user-monitoring-measuring-web-performance-in-production-32b6)
-- [Large Context Windows Are Not a Solved Problem](https://dev.to/lavkeshdwivedi/large-context-windows-are-not-a-solved-problem-2o04)
+- [# Building an AI-Powered Carbon Footprint Awareness Platform with Flask, SQLite, and Groq &lpar;Llama 3.1&rpar;](https://dev.to/rohith_cef750793653e3d7bd/building-an-ai-powered-carbon-footprint-awareness-platform-with-flask-sqlite-and-groq-llama-31-25m3)
+- [The agent plan had every step except where to stop](https://dev.to/michaeltruong/the-agent-plan-had-every-step-except-where-to-stop-357h)
+- [Running Local Private AI Models – How And Why](https://dev.to/dragos_roua/running-local-private-ai-models-how-and-why-2ln0)
+- [Exploring Lore: A Scalable Open Source Version Control System](https://dev.to/naveenmalothu/exploring-lore-a-scalable-open-source-version-control-system-31pa)
+- [I open-sourced the financial charting library we use in production](https://dev.to/katomek/i-open-sourced-the-financial-charting-library-we-use-in-production-1hh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
