@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What building HIPAA-compliant lakehouses taught me about real-world encryption](https://dev.to/aniketsoni/what-building-hipaa-compliant-lakehouses-taught-me-about-real-world-encryption-7co)
-- [Single Element in a Sorted Array](https://dev.to/jaspreet_singh_86ae1740ac/single-element-in-a-sorted-array-1j0l)
-- [Search in Rotated Sorted Array | Modified Binary Search](https://dev.to/jaspreet_singh_86ae1740ac/search-in-rotated-sorted-array-4ffi)
-- [Median in a Row Wise Sorted Matrix | Binary Search on Answer](https://dev.to/jaspreet_singh_86ae1740ac/median-in-a-row-wise-sorted-matrix-49j7)
-- [N-th root of a number | Binary Search on Answer](https://dev.to/jaspreet_singh_86ae1740ac/n-th-root-of-a-number-15ef)
+- [Rux: A Modern Systems Programming Language without LLVM](https://dev.to/spatulari/rux-a-modern-systems-programming-language-without-llvm-5128)
+- [Juneteenth: 1865 — Sail. Decode. Reunite.](https://dev.to/nitin_8d767ad88637719caf8/juneteenth-1865-sail-decode-reunite-159h)
+- [GPS Seguro](https://dev.to/leojulieta/gps-seguro-27ek)
+- [AI productivity gains vanish when you measure them honestly](https://dev.to/adioof/ai-productivity-gains-vanish-when-you-measure-them-honestly-4a3a)
+- [We Cut Our LLM API Bill 30% With Four Lines of YAML](https://dev.to/paultwist/we-cut-our-llm-api-bill-30-with-four-lines-of-yaml-2p79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
