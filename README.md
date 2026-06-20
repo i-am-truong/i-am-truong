@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: Who&#39;s responsible? The AI? Or the developer?](https://dev.to/bennyarevalo/agentic-ai-whos-responsible-the-ai-or-the-developer-44j7)
-- [Stop Making Your AI Coding Agent Grep Your Whole Repo — Try codebase-memory-mcp](https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l)
-- [EGC: Your AI agents never start from zero again](https://dev.to/fmarzochi/egc-your-ai-agents-never-start-from-zero-again-1o09)
-- [100 Days of DevOps, Day 1: Linux User Management and AWS Key Pairs](https://dev.to/ndcodes/100-days-of-devops-day-1-linux-user-management-and-aws-key-pairs-3bci)
-- [The Botfather: Building Your First Crypto Trading Bot](https://dev.to/timevolt/the-botfather-building-your-first-crypto-trading-bot-3b8a)
+- [Mounting Your First Application](https://dev.to/tengxgfyrz67s/mounting-your-first-application-kl6)
+- [North Korean Hackers Poisoned 140+ npm Packages in an AI Dev Tooling Attack. Here&#39;s What Would Have Caught It.](https://dev.to/coridev/north-korean-hackers-poisoned-140-npm-packages-in-an-ai-dev-tooling-attack-heres-what-would-have-4c25)
+- [How to Write a Software Request So the Developer Builds It Right the First Time](https://dev.to/928builds/how-to-write-a-software-request-so-the-developer-builds-it-right-the-first-time-oia)
+- [How to Read Constraints and Immediately Know the Algorithm: A Jedi&#39;s Guide](https://dev.to/timevolt/how-to-read-constraints-and-immediately-know-the-algorithm-a-jedis-guide-1ad7)
+- [Open Codex app from the macOS Terminal with the Current Project Selected](https://dev.to/shinshin86/open-codex-desktop-from-the-macos-terminal-with-the-current-project-selected-1iln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
