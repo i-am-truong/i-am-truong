@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose overview](https://dev.to/zsevic/docker-compose-overview-32h9)
-- [Alan&#39;s Garden: a puzzle game where flowers are tiny programs](https://dev.to/thehwang/alans-garden-a-puzzle-game-where-flowers-are-tiny-programs-32hg)
-- [Git e Github](https://dev.to/joaopedrov0/git-e-github-2iam)
-- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
-- [Create field using JooqFields](https://dev.to/javaer/create-field-using-jooqfields-3em7)
+- [Moving Codex Threads to a New Mac](https://dev.to/robcube/moving-codex-threads-to-a-new-mac-2n3i)
+- [I Made Claude Code Think Before It Codes. Then I Gave It a Team.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-then-i-gave-it-a-team-2bl8)
+- [Why This System Looks the Way It Does — Recoverflow&#39;s 6-Day Design Journey](https://dev.to/judy_miranttie/why-this-system-looks-the-way-it-does-recoverflows-6-day-design-journey-5a7o)
+- [AI Called Me Back — Recoverflow Dev Diary Day 2: Two Hours with the Voice Agent](https://dev.to/judy_miranttie/ai-called-me-back-recoverflow-dev-diary-day-2-two-hours-with-the-voice-agent-4ko8)
+- [How to Design an Effective Referral Reward System: A Complete Technical Guide for SaaS](https://dev.to/feidou/how-to-design-an-effective-referral-reward-system-a-complete-technical-guide-for-saas-h63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
