@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Launched My First App on the Amazon Appstore: Halo](https://dev.to/ai_fan369/i-launched-my-first-app-on-the-amazon-appstore-halo-3dap)
-- [Conversion Tracking for Developers: From Zero to Full Funnel Visibility](https://dev.to/codetocash/conversion-tracking-for-developers-from-zero-to-full-funnel-visibility-10pi)
-- [AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting](https://dev.to/kadhamvj23/aws-s3-hands-on-project-buckets-versioning-permissions-and-static-website-hosting-4p2d)
-- [CKA Exam study 2026 Scenario 1 - The etcd Endpoint Trap](https://dev.to/thecybersidekick/cka-exam-study-2026-scenario-1-the-etcd-endpoint-trap-3o9j)
-- [Tutti contro l&#39;ia](https://dev.to/luigiippolito/tutti-contro-lia-pn0)
+- [React 19.2 Activity Component: Keeping Unmounted Trees Alive for Faster Tab Switching](https://dev.to/jsmanifest/react-192-activity-component-keeping-unmounted-trees-alive-for-faster-tab-switching-4962)
+- [Building Cost-Effective AI Workflows: Open Source + Paid Tools Done Right](https://dev.to/learnairesource/building-cost-effective-ai-workflows-open-source-paid-tools-done-right-4e4j)
+- [Is the upstream fix released yet?](https://dev.to/lukaso/is-the-upstream-fix-released-yet-1l)
+- [I built a service that turns GitHub PRs to customer readable changelogs](https://dev.to/20sid02/i-built-a-service-that-turns-github-prs-to-customer-readable-changelogs-5611)
+- [Imposter Syndrome in Tech: How to Deal with Feeling &quot;Not Good Enough&quot;](https://dev.to/itzzsvr_tech74/imposter-syndrome-in-tech-how-to-deal-with-feeling-not-good-enough-5800)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
