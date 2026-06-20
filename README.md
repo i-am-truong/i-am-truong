@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Among Liars -&gt; The 7th Player Isn&#39;t Human](https://dev.to/mirshah12/among-liars-the-7th-player-isnt-human-345h)
-- [Corporativismo fascista e Taleb](https://dev.to/luigiippolito/corporativismo-fascista-e-taleb-34ni)
-- [How I Built a Full Stack Laundry Management System Using Angular &amp; Node.js](https://dev.to/sudhanshuspn/how-i-built-a-full-stack-laundry-management-system-using-angular-nodejs-5eia)
-- [Stop Paying the Cloud Tax: How to Self-Host GitHub Actions on Bare Metal](https://dev.to/jaksontate/stop-paying-the-cloud-tax-how-to-self-host-github-actions-on-bare-metal-4n3h)
-- [Kubernetes Resource Management: Requests, Limits, and QoS Classes](https://dev.to/pandey-raghvendra/kubernetes-resource-management-requests-limits-and-qos-classes-5a6h)
+- [I Launched My First App on the Amazon Appstore: Halo](https://dev.to/ai_fan369/i-launched-my-first-app-on-the-amazon-appstore-halo-3dap)
+- [Conversion Tracking for Developers: From Zero to Full Funnel Visibility](https://dev.to/codetocash/conversion-tracking-for-developers-from-zero-to-full-funnel-visibility-10pi)
+- [AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting](https://dev.to/kadhamvj23/aws-s3-hands-on-project-buckets-versioning-permissions-and-static-website-hosting-4p2d)
+- [CKA Exam study 2026 Scenario 1 - The etcd Endpoint Trap](https://dev.to/thecybersidekick/cka-exam-study-2026-scenario-1-the-etcd-endpoint-trap-3o9j)
+- [Tutti contro l&#39;ia](https://dev.to/luigiippolito/tutti-contro-lia-pn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
