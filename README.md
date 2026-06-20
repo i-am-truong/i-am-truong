@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Moving Codex Threads to a New Mac](https://dev.to/robcube/moving-codex-threads-to-a-new-mac-2n3i)
-- [I Made Claude Code Think Before It Codes. Then I Gave It a Team.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-then-i-gave-it-a-team-2bl8)
-- [Why This System Looks the Way It Does — Recoverflow&#39;s 6-Day Design Journey](https://dev.to/judy_miranttie/why-this-system-looks-the-way-it-does-recoverflows-6-day-design-journey-5a7o)
-- [AI Called Me Back — Recoverflow Dev Diary Day 2: Two Hours with the Voice Agent](https://dev.to/judy_miranttie/ai-called-me-back-recoverflow-dev-diary-day-2-two-hours-with-the-voice-agent-4ko8)
-- [How to Design an Effective Referral Reward System: A Complete Technical Guide for SaaS](https://dev.to/feidou/how-to-design-an-effective-referral-reward-system-a-complete-technical-guide-for-saas-h63)
+- [Securing a Server in the First 45 Minutes: VPS Hardening Checklist](https://dev.to/merbayerp/securing-a-server-in-the-first-45-minutes-vps-hardening-checklist-51he)
+- [June App Update](https://dev.to/quietware/june-app-update-j96)
+- [The Hidden Trap in Backend Tutorials: Why Your Webhooks Are Creating Duplicate Data &lpar;And How to Fix It&rpar;](https://dev.to/anubhavg23/the-hidden-trap-in-backend-tutorials-why-your-webhooks-are-creating-duplicate-data-and-how-to-fix-dba)
+- [Building a Signal-Based Outbound System: The GTM Engineering Stack &lpar;2026&rpar;](https://dev.to/spuriqai/building-a-signal-based-outbound-system-the-gtm-engineering-stack-2026-40hg)
+- [I built a visual .env manager for VS Code 🔐](https://dev.to/gaurav_prajapati_50c53203/i-built-a-visual-env-manager-for-vs-code-718)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
