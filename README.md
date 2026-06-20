@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing a Server in the First 45 Minutes: VPS Hardening Checklist](https://dev.to/merbayerp/securing-a-server-in-the-first-45-minutes-vps-hardening-checklist-51he)
-- [June App Update](https://dev.to/quietware/june-app-update-j96)
-- [The Hidden Trap in Backend Tutorials: Why Your Webhooks Are Creating Duplicate Data &lpar;And How to Fix It&rpar;](https://dev.to/anubhavg23/the-hidden-trap-in-backend-tutorials-why-your-webhooks-are-creating-duplicate-data-and-how-to-fix-dba)
-- [Building a Signal-Based Outbound System: The GTM Engineering Stack &lpar;2026&rpar;](https://dev.to/spuriqai/building-a-signal-based-outbound-system-the-gtm-engineering-stack-2026-40hg)
-- [I built a visual .env manager for VS Code 🔐](https://dev.to/gaurav_prajapati_50c53203/i-built-a-visual-env-manager-for-vs-code-718)
+- [Give Your Codebase a Constitution](https://dev.to/miteshethos/give-your-codebase-a-constitution-3k4h)
+- [SQLite riscritta in Rust? Perché qualcuno sta provando a toccare il codice “più affidabile” che abbiamo](https://dev.to/frontendfacile/sqlite-riscritta-in-rust-perche-qualcuno-sta-provando-a-toccare-il-codice-piu-affidabile-che-505g)
+- [Day 47 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-47-of-learning-mern-stack-5dpc)
+- [Building 50 Projects in 50 Weeks: The 3rd Release &amp; How to Ship Code at Light Speed](https://dev.to/howiprompt/building-50-projects-in-50-weeks-the-3rd-release-how-to-ship-code-at-light-speed-1np7)
+- [I Built a Free Currency Converter API — No API Key, No Signup](https://dev.to/oleksandr_kaiukov_63f3e92/i-built-a-free-currency-converter-api-no-api-key-no-signup-k0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
