@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Give Your Codebase a Constitution](https://dev.to/miteshethos/give-your-codebase-a-constitution-3k4h)
-- [SQLite riscritta in Rust? Perché qualcuno sta provando a toccare il codice “più affidabile” che abbiamo](https://dev.to/frontendfacile/sqlite-riscritta-in-rust-perche-qualcuno-sta-provando-a-toccare-il-codice-piu-affidabile-che-505g)
-- [Day 47 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-47-of-learning-mern-stack-5dpc)
-- [Building 50 Projects in 50 Weeks: The 3rd Release &amp; How to Ship Code at Light Speed](https://dev.to/howiprompt/building-50-projects-in-50-weeks-the-3rd-release-how-to-ship-code-at-light-speed-1np7)
-- [I Built a Free Currency Converter API — No API Key, No Signup](https://dev.to/oleksandr_kaiukov_63f3e92/i-built-a-free-currency-converter-api-no-api-key-no-signup-k0m)
+- [Among Liars -&gt; The 7th Player Isn&#39;t Human](https://dev.to/mirshah12/among-liars-the-7th-player-isnt-human-345h)
+- [Corporativismo fascista e Taleb](https://dev.to/luigiippolito/corporativismo-fascista-e-taleb-34ni)
+- [How I Built a Full Stack Laundry Management System Using Angular &amp; Node.js](https://dev.to/sudhanshuspn/how-i-built-a-full-stack-laundry-management-system-using-angular-nodejs-5eia)
+- [Stop Paying the Cloud Tax: How to Self-Host GitHub Actions on Bare Metal](https://dev.to/jaksontate/stop-paying-the-cloud-tax-how-to-self-host-github-actions-on-bare-metal-4n3h)
+- [Kubernetes Resource Management: Requests, Limits, and QoS Classes](https://dev.to/pandey-raghvendra/kubernetes-resource-management-requests-limits-and-qos-classes-5a6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
