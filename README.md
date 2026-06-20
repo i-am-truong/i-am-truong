@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solstice Signal &lpar;Tuning into the Dark&rpar;](https://dev.to/piyush_das_1624/solstice-signal-tuning-into-the-dark-m8)
-- [1st post](https://dev.to/fareed_sheikh/1st-post-2ci7)
-- [THE CLOUD AND AI SECURITY NEWSLETTER #3 - The Cloud Security Tool Your Resume is Missing &lpar;Part 2&rpar;](https://dev.to/yescertified/the-cloud-and-ai-security-newsletter-3-the-cloud-security-tool-your-resume-is-missing-part-2-1bf9)
-- [Dev Log: The milestone where Build&lpar;&rpar; stops lying](https://dev.to/ernestohs/dev-log-the-milestone-where-build-stops-lying-1b2o)
-- [I Built a CLI to Stop Missing Env Vars from Breaking Deployments](https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke)
+- [Agentic AI: Who&#39;s responsible? The AI? Or the developer?](https://dev.to/bennyarevalo/agentic-ai-whos-responsible-the-ai-or-the-developer-44j7)
+- [Stop Making Your AI Coding Agent Grep Your Whole Repo — Try codebase-memory-mcp](https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l)
+- [EGC: Your AI agents never start from zero again](https://dev.to/fmarzochi/egc-your-ai-agents-never-start-from-zero-again-1o09)
+- [100 Days of DevOps, Day 1: Linux User Management and AWS Key Pairs](https://dev.to/ndcodes/100-days-of-devops-day-1-linux-user-management-and-aws-key-pairs-3bci)
+- [The Botfather: Building Your First Crypto Trading Bot](https://dev.to/timevolt/the-botfather-building-your-first-crypto-trading-bot-3b8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
