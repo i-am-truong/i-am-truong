@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React 19.2 Activity Component: Keeping Unmounted Trees Alive for Faster Tab Switching](https://dev.to/jsmanifest/react-192-activity-component-keeping-unmounted-trees-alive-for-faster-tab-switching-4962)
-- [Building Cost-Effective AI Workflows: Open Source + Paid Tools Done Right](https://dev.to/learnairesource/building-cost-effective-ai-workflows-open-source-paid-tools-done-right-4e4j)
-- [Is the upstream fix released yet?](https://dev.to/lukaso/is-the-upstream-fix-released-yet-1l)
-- [I built a service that turns GitHub PRs to customer readable changelogs](https://dev.to/20sid02/i-built-a-service-that-turns-github-prs-to-customer-readable-changelogs-5611)
-- [Imposter Syndrome in Tech: How to Deal with Feeling &quot;Not Good Enough&quot;](https://dev.to/itzzsvr_tech74/imposter-syndrome-in-tech-how-to-deal-with-feeling-not-good-enough-5800)
+- [HELIOS — The Longest Day: building computation out of sunlight](https://dev.to/muhmdusman/helios-the-longest-day-building-computation-out-of-sunlight-k9m)
+- [Bash Script Guide](https://dev.to/atomicwave88/bash-script-guide-51oh)
+- [My homescreen was chaos. Not anymore.](https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m)
+- [Preço por token não é custo por tarefa: a inversão que muda a economia dos modelos de raciocínio](https://dev.to/fazedordecodigo/preco-por-token-nao-e-custo-por-tarefa-a-inversao-que-muda-a-economia-dos-modelos-de-raciocinio-p51)
+- [The Tailwind CSS Ecosystem in 2026: The Only Libraries and Tools That Actually Matter](https://dev.to/er-raj-aryan/the-tailwind-css-ecosystem-in-2026-the-only-libraries-and-tools-that-actually-matter-3k0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
