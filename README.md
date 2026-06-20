@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HELIOS — The Longest Day: building computation out of sunlight](https://dev.to/muhmdusman/helios-the-longest-day-building-computation-out-of-sunlight-k9m)
-- [Bash Script Guide](https://dev.to/atomicwave88/bash-script-guide-51oh)
-- [My homescreen was chaos. Not anymore.](https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m)
-- [Preço por token não é custo por tarefa: a inversão que muda a economia dos modelos de raciocínio](https://dev.to/fazedordecodigo/preco-por-token-nao-e-custo-por-tarefa-a-inversao-que-muda-a-economia-dos-modelos-de-raciocinio-p51)
-- [The Tailwind CSS Ecosystem in 2026: The Only Libraries and Tools That Actually Matter](https://dev.to/er-raj-aryan/the-tailwind-css-ecosystem-in-2026-the-only-libraries-and-tools-that-actually-matter-3k0e)
+- [What building HIPAA-compliant lakehouses taught me about real-world encryption](https://dev.to/aniketsoni/what-building-hipaa-compliant-lakehouses-taught-me-about-real-world-encryption-7co)
+- [Single Element in a Sorted Array](https://dev.to/jaspreet_singh_86ae1740ac/single-element-in-a-sorted-array-1j0l)
+- [Search in Rotated Sorted Array | Modified Binary Search](https://dev.to/jaspreet_singh_86ae1740ac/search-in-rotated-sorted-array-4ffi)
+- [Median in a Row Wise Sorted Matrix | Binary Search on Answer](https://dev.to/jaspreet_singh_86ae1740ac/median-in-a-row-wise-sorted-matrix-49j7)
+- [N-th root of a number | Binary Search on Answer](https://dev.to/jaspreet_singh_86ae1740ac/n-th-root-of-a-number-15ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
