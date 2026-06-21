@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dawn or Eclipse — a code-breaking ode to Turing you can&#39;t outsource to the machine](https://dev.to/tobethekey/dawn-or-eclipse-a-code-breaking-ode-to-turing-you-cant-outsource-to-the-machine-3o8a)
-- [&lpar;new&rpar; Bifrost Edge: Visibility and Control for Enterprise Teams and Beyond 🔥](https://dev.to/anthonymax/new-bifrost-edge-visibility-and-control-for-enterprise-teams-and-beyond-5g5l)
-- [Anthropic measured the human side. Five operators are building the agent side.](https://dev.to/jugeni/anthropic-measured-the-human-side-five-operators-are-building-the-agent-side-17a0)
-- [Deribit.com Withheld My $4,779.03 — Withdraw Funds Immediately](https://dev.to/dssrsfsff/deribitcom-withheld-my-477903-withdraw-funds-immediately-5279)
-- [Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber](https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-408k)
+- [What is a CVE and Why Does It Matter?](https://dev.to/nara_naghi/what-is-a-cve-and-why-does-it-matter-3602)
+- [If you knew how hard It was, would you still start?](https://dev.to/neilton_rocha_dev/if-you-knew-how-hard-it-was-would-you-still-start-40fn)
+- [I built a tool that turns your code into clean documentation in seconds](https://dev.to/aetherlogic_/i-built-a-tool-that-turns-your-code-into-clean-documentation-in-seconds-32o7)
+- [Self-Improving AI Agents: Why Evolving Agentic Systems Win in Real Estate](https://dev.to/vsbd_vlad/self-improving-ai-agents-why-evolving-agentic-systems-win-in-real-estate-4e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
