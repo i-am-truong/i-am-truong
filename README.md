@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solstice Cipher - A Bletchley Park Tribute to Alan Turing](https://dev.to/red-coder-27/solstice-cipher-a-bletchley-park-tribute-to-alan-turing-1glc)
-- [AI Psychosis Is No Longer Fiction](https://dev.to/georgekobaidze/ai-psychosis-is-no-longer-fiction-3258)
-- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-j9f)
-- [Why wp_mail&lpar;&rpar; silently eats your form notifications — and how to fix it for free](https://dev.to/mrpsiho/why-wpmail-silently-eats-your-form-notifications-and-how-to-fix-it-for-free-5ckl)
-- [Understanding Tech guide about مطالعات میان رشته ای](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-mtlt-myn-rshth-y-4lg6)
+- [Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos](https://dev.to/vanichitkara/ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos-4mo2)
+- [Why Rate Limits Kill Your AI Agents in Production &lpar;And the Patterns That Actually Work&rpar;](https://dev.to/mudassirworks/why-rate-limits-kill-your-ai-agents-in-production-and-the-patterns-that-actually-work-20n6)
+- [Building a 3D Game in the Browser Humbled Me. Here&#39;s Everything That Fought Back.](https://dev.to/arya_koste_5845807df94776/building-a-3d-game-in-the-browser-humbled-me-heres-everything-that-fought-back-4mmg)
+- [Self-Taught, Final Year, and Honestly Asking for Guidance](https://dev.to/cobra_kai_/self-taught-final-year-and-honestly-asking-for-guidance-52jm)
+- [Edge Computing Architecture for Industrial AI: 5 Patterns That Survive the Factory Floor](https://dev.to/kgtsolutions/edge-computing-architecture-for-industrial-ai-5-patterns-that-survive-the-factory-floor-2al1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
