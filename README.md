@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Connecting an MCP server gives your agent hands. It also gives a stranger a way in.](https://dev.to/rapls/connecting-an-mcp-server-gives-your-agent-hands-it-also-gives-a-stranger-a-way-in-3mgi)
-- [Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South](https://dev.to/gabrielmahia/build-rails-not-trains-a-framework-for-ai-infrastructure-in-the-global-south-3nk2)
-- [Building a Practical AI Assistant with Python: From Prompt to Production Thinking](https://dev.to/alton_zheng_15fb4bf0d73a3/building-a-practical-ai-assistant-with-python-from-prompt-to-production-thinking-ofg)
-- [CI gates for AI-generated PRs need re-derivable evidence](https://dev.to/sjh9714/ci-gates-for-ai-generated-prs-need-re-derivable-evidence-2g4e)
-- [React.js ~useState Antipatterns~](https://dev.to/kkr0423/reactjs-usestate-antipatterns-58i9)
+- [I built a free system design whiteboard for engineering interviews](https://dev.to/systemdesignboard_b7cbe8a/i-built-a-free-system-design-whiteboard-for-engineering-interviews-g8l)
+- [Solstice Arcade: Festival of Light](https://dev.to/ggle_in/solstice-arcade-festival-of-light-2m4n)
+- [PostgreSQL Indexing Deep Dive - Choosing the Right Index](https://dev.to/akshay_gupta/postgresql-indexing-deep-dive-choosing-the-right-index-239c)
+- [The Playwright Playbook — Part 7: The CI/CD Setup Nobody Shows You](https://dev.to/sshhfaiz/the-playwright-playbook-part-7-the-cicd-setup-nobody-shows-you-516e)
+- [Why I Redesigned StrictBlock to Make Focus Feel Easier](https://dev.to/paulcontr_/why-i-redesigned-strictblock-to-make-focus-feel-easier-50al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
