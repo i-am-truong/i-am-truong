@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-408k)
-- [What is a CVE and Why Does It Matter?](https://dev.to/nara_naghi/what-is-a-cve-and-why-does-it-matter-3602)
-- [If you knew how hard It was, would you still start?](https://dev.to/neilton_rocha_dev/if-you-knew-how-hard-it-was-would-you-still-start-40fn)
-- [I built a tool that turns your code into clean documentation in seconds](https://dev.to/aetherlogic_/i-built-a-tool-that-turns-your-code-into-clean-documentation-in-seconds-32o7)
-- [Self-Improving AI Agents: Why Evolving Agentic Systems Win in Real Estate](https://dev.to/vsbd_vlad/self-improving-ai-agents-why-evolving-agentic-systems-win-in-real-estate-4e1h)
+- [Solving &quot;Permissions are too open&quot; from inside the app — auto-diagnosing and auto-fixing SSH key permissions](https://dev.to/susumun/solving-permissions-are-too-open-from-inside-the-app-auto-diagnosing-and-auto-fixing-ssh-key-3j75)
+- [FFmpegKit is retired — here&#39;s how to fix your Android build &lpar;NDK r26c patch&rpar;](https://dev.to/lucquebec/ffmpegkit-is-retired-heres-how-to-fix-your-android-build-ndk-r26c-patch-35j0)
+- [How a web agency keeps every client site secure](https://dev.to/cbmouton/how-a-web-agency-keeps-every-client-site-secure-4f7b)
+- [AStarGrid2D in Godot 4: the gotchas, and an interactive sandbox](https://dev.to/vav_labs/astargrid2d-in-godot-4-the-gotchas-and-an-interactive-sandbox-3dl8)
+- [Why Dynamic Rotating Proxies Are Burning 30% of Your Budget &lpar;And How to Architect a Fix&rpar;](https://dev.to/proxyvero/why-dynamic-rotating-proxies-are-burning-30-of-your-budget-and-how-to-architect-a-fix-353a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
