@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I built a CSV-first rental profit tracker — no Plaid, no bank login](https://dev.to/hostpayout/why-i-built-a-csv-first-rental-profit-tracker-no-plaid-no-bank-login-3eo6)
-- [Hermes Skills: Building a Comprehensive Skill Library for Your AI Agent](https://dev.to/robinberaud/hermes-skills-building-a-comprehensive-skill-library-for-your-ai-agent-1367)
-- [Solstice Farm 🌾 - Submission for the June Solstice Game Jam](https://dev.to/baruna_abirawa_374ef1f781/solstice-farm-submission-for-the-june-solstice-game-jam-4p81)
-- [I Hacked Claude to Track My Usage Limit](https://dev.to/codedcitadel/i-hacked-claude-to-track-my-usage-limit-2jgo)
-- [Functions, Scope &lpar;Local/Global&rpar;, Arguments, return, Lambda, filter&lpar;&rpar;/map&lpar;&rpar;/reduce&lpar;&rpar;, Modules](https://dev.to/tejas_shinkar/functions-scope-localglobal-arguments-return-lambda-filtermapreduce-modules-2m0)
+- [How I accidentally learned email infrastructure while trying to avoid a SendGrid bill](https://dev.to/tymoteuszgluch/how-i-accidentally-learned-email-infrastructure-while-trying-to-avoid-a-sendgrid-bill-5e6a)
+- [Running a local coding agent on a Mac Mini — the actual setup](https://dev.to/vystartasv/running-a-local-coding-agent-on-a-mac-mini-the-actual-setup-47bo)
+- [Breaking Down Problems Like Neo Dodges Bullets](https://dev.to/timevolt/breaking-down-problems-like-neo-dodges-bullets-3m7j)
+- [Bun shipped a million lines of AI-generated unsafe code. That&#39;s not bold, it&#39;s reckless.](https://dev.to/adioof/bun-shipped-a-million-lines-of-ai-generated-unsafe-code-thats-not-bold-its-reckless-h3g)
+- [The Export Button Is a Consent Boundary](https://dev.to/crisiscoresystems/the-export-button-is-a-consent-boundary-15ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
