@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a free system design whiteboard for engineering interviews](https://dev.to/systemdesignboard_b7cbe8a/i-built-a-free-system-design-whiteboard-for-engineering-interviews-g8l)
-- [Solstice Arcade: Festival of Light](https://dev.to/ggle_in/solstice-arcade-festival-of-light-2m4n)
-- [PostgreSQL Indexing Deep Dive - Choosing the Right Index](https://dev.to/akshay_gupta/postgresql-indexing-deep-dive-choosing-the-right-index-239c)
-- [The Playwright Playbook — Part 7: The CI/CD Setup Nobody Shows You](https://dev.to/sshhfaiz/the-playwright-playbook-part-7-the-cicd-setup-nobody-shows-you-516e)
-- [Why I Redesigned StrictBlock to Make Focus Feel Easier](https://dev.to/paulcontr_/why-i-redesigned-strictblock-to-make-focus-feel-easier-50al)
+- [Generate Invoice PDFs from HTML in 10 Lines of Code](https://dev.to/mahiuddinalkamal/generate-invoice-pdfs-from-html-in-10-lines-of-code-57o2)
+- [Modeling, Joins, Relationships and Different Schemas In Power BI](https://dev.to/yonko/modeling-joins-relationships-and-different-schemas-in-power-bi-13d9)
+- [Stop measuring Web3 growth with Web2 metrics — Contribution &gt; DAU](https://dev.to/orville_wang_d2758f1be203/stop-measuring-web3-growth-with-web2-metrics-contribution-dau-46ce)
+- [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo)
+- [Why Reading Interview Tips Doesn&#39;t Work — And What Actually Does](https://dev.to/ombhandwalkar/why-reading-interview-tips-doesnt-work-and-what-actually-does-51ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
