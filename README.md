@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mounting Your First Application](https://dev.to/tengxgfyrz67s/mounting-your-first-application-kl6)
-- [North Korean Hackers Poisoned 140+ npm Packages in an AI Dev Tooling Attack. Here&#39;s What Would Have Caught It.](https://dev.to/coridev/north-korean-hackers-poisoned-140-npm-packages-in-an-ai-dev-tooling-attack-heres-what-would-have-4c25)
-- [How to Write a Software Request So the Developer Builds It Right the First Time](https://dev.to/928builds/how-to-write-a-software-request-so-the-developer-builds-it-right-the-first-time-oia)
-- [How to Read Constraints and Immediately Know the Algorithm: A Jedi&#39;s Guide](https://dev.to/timevolt/how-to-read-constraints-and-immediately-know-the-algorithm-a-jedis-guide-1ad7)
-- [Open Codex app from the macOS Terminal with the Current Project Selected](https://dev.to/shinshin86/open-codex-desktop-from-the-macos-terminal-with-the-current-project-selected-1iln)
+- [Connecting an MCP server gives your agent hands. It also gives a stranger a way in.](https://dev.to/rapls/connecting-an-mcp-server-gives-your-agent-hands-it-also-gives-a-stranger-a-way-in-3mgi)
+- [Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South](https://dev.to/gabrielmahia/build-rails-not-trains-a-framework-for-ai-infrastructure-in-the-global-south-3nk2)
+- [Building a Practical AI Assistant with Python: From Prompt to Production Thinking](https://dev.to/alton_zheng_15fb4bf0d73a3/building-a-practical-ai-assistant-with-python-from-prompt-to-production-thinking-ofg)
+- [CI gates for AI-generated PRs need re-derivable evidence](https://dev.to/sjh9714/ci-gates-for-ai-generated-prs-need-re-derivable-evidence-2g4e)
+- [React.js ~useState Antipatterns~](https://dev.to/kkr0423/reactjs-usestate-antipatterns-58i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
