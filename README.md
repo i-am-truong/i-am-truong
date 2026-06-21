@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos](https://dev.to/vanichitkara/ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos-4mo2)
-- [Why Rate Limits Kill Your AI Agents in Production &lpar;And the Patterns That Actually Work&rpar;](https://dev.to/mudassirworks/why-rate-limits-kill-your-ai-agents-in-production-and-the-patterns-that-actually-work-20n6)
-- [Building a 3D Game in the Browser Humbled Me. Here&#39;s Everything That Fought Back.](https://dev.to/arya_koste_5845807df94776/building-a-3d-game-in-the-browser-humbled-me-heres-everything-that-fought-back-4mmg)
-- [Self-Taught, Final Year, and Honestly Asking for Guidance](https://dev.to/cobra_kai_/self-taught-final-year-and-honestly-asking-for-guidance-52jm)
-- [Edge Computing Architecture for Industrial AI: 5 Patterns That Survive the Factory Floor](https://dev.to/kgtsolutions/edge-computing-architecture-for-industrial-ai-5-patterns-that-survive-the-factory-floor-2al1)
+- [Dawn or Eclipse — a code-breaking ode to Turing you can&#39;t outsource to the machine](https://dev.to/tobethekey/dawn-or-eclipse-a-code-breaking-ode-to-turing-you-cant-outsource-to-the-machine-3o8a)
+- [&lpar;new&rpar; Bifrost Edge: Visibility and Control for Enterprise Teams and Beyond 🔥](https://dev.to/anthonymax/new-bifrost-edge-visibility-and-control-for-enterprise-teams-and-beyond-5g5l)
+- [Anthropic measured the human side. Five operators are building the agent side.](https://dev.to/jugeni/anthropic-measured-the-human-side-five-operators-are-building-the-agent-side-17a0)
+- [Deribit.com Withheld My $4,779.03 — Withdraw Funds Immediately](https://dev.to/dssrsfsff/deribitcom-withheld-my-477903-withdraw-funds-immediately-5279)
+- [Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber](https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
