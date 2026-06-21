@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I accidentally learned email infrastructure while trying to avoid a SendGrid bill](https://dev.to/tymoteuszgluch/how-i-accidentally-learned-email-infrastructure-while-trying-to-avoid-a-sendgrid-bill-5e6a)
-- [Running a local coding agent on a Mac Mini — the actual setup](https://dev.to/vystartasv/running-a-local-coding-agent-on-a-mac-mini-the-actual-setup-47bo)
-- [Breaking Down Problems Like Neo Dodges Bullets](https://dev.to/timevolt/breaking-down-problems-like-neo-dodges-bullets-3m7j)
-- [Bun shipped a million lines of AI-generated unsafe code. That&#39;s not bold, it&#39;s reckless.](https://dev.to/adioof/bun-shipped-a-million-lines-of-ai-generated-unsafe-code-thats-not-bold-its-reckless-h3g)
-- [The Export Button Is a Consent Boundary](https://dev.to/crisiscoresystems/the-export-button-is-a-consent-boundary-15ii)
+- [Solstice Cipher - A Bletchley Park Tribute to Alan Turing](https://dev.to/red-coder-27/solstice-cipher-a-bletchley-park-tribute-to-alan-turing-1glc)
+- [AI Psychosis Is No Longer Fiction](https://dev.to/georgekobaidze/ai-psychosis-is-no-longer-fiction-3258)
+- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-j9f)
+- [Why wp_mail&lpar;&rpar; silently eats your form notifications — and how to fix it for free](https://dev.to/mrpsiho/why-wpmail-silently-eats-your-form-notifications-and-how-to-fix-it-for-free-5ckl)
+- [Understanding Tech guide about مطالعات میان رشته ای](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-mtlt-myn-rshth-y-4lg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
