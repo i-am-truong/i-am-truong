@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [If a 270M Model Already Worked, Why Did I Fine-Tune a 7B One?](https://dev.to/sumanpro/if-a-270m-model-already-worked-why-did-i-fine-tune-a-7b-one-2ae3)
-- [why a simple string match beat apple&#39;s nlembedding for local rag](https://dev.to/turgaysavaci/why-a-simple-string-match-beat-apples-nlembedding-for-local-rag-1l4)
-- [QLoRA: Fine-Tuning a 7B Model on a 16GB GPU &lpar;It Shrank to 5.4GB in Front of Me&rpar;](https://dev.to/sumanpro/qlora-fine-tuning-a-7b-model-on-a-16gb-gpu-it-shrank-to-54gb-in-front-of-me-28n4)
-- [PARA Method for Engineers: Organize Knowledge by Action](https://dev.to/rosgluk/para-method-for-engineers-organize-knowledge-by-action-1npg)
-- [Evergreen Notes: Write Notes That Compound Over Time](https://dev.to/rosgluk/evergreen-notes-write-notes-that-compound-over-time-2hbc)
+- [Why I built a CSV-first rental profit tracker — no Plaid, no bank login](https://dev.to/hostpayout/why-i-built-a-csv-first-rental-profit-tracker-no-plaid-no-bank-login-3eo6)
+- [Hermes Skills: Building a Comprehensive Skill Library for Your AI Agent](https://dev.to/robinberaud/hermes-skills-building-a-comprehensive-skill-library-for-your-ai-agent-1367)
+- [Solstice Farm 🌾 - Submission for the June Solstice Game Jam](https://dev.to/baruna_abirawa_374ef1f781/solstice-farm-submission-for-the-june-solstice-game-jam-4p81)
+- [I Hacked Claude to Track My Usage Limit](https://dev.to/codedcitadel/i-hacked-claude-to-track-my-usage-limit-2jgo)
+- [Functions, Scope &lpar;Local/Global&rpar;, Arguments, return, Lambda, filter&lpar;&rpar;/map&lpar;&rpar;/reduce&lpar;&rpar;, Modules](https://dev.to/tejas_shinkar/functions-scope-localglobal-arguments-return-lambda-filtermapreduce-modules-2m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
