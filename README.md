@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generate Invoice PDFs from HTML in 10 Lines of Code](https://dev.to/mahiuddinalkamal/generate-invoice-pdfs-from-html-in-10-lines-of-code-57o2)
-- [Modeling, Joins, Relationships and Different Schemas In Power BI](https://dev.to/yonko/modeling-joins-relationships-and-different-schemas-in-power-bi-13d9)
-- [Stop measuring Web3 growth with Web2 metrics — Contribution &gt; DAU](https://dev.to/orville_wang_d2758f1be203/stop-measuring-web3-growth-with-web2-metrics-contribution-dau-46ce)
-- [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo)
-- [Why Reading Interview Tips Doesn&#39;t Work — And What Actually Does](https://dev.to/ombhandwalkar/why-reading-interview-tips-doesnt-work-and-what-actually-does-51ch)
+- [If a 270M Model Already Worked, Why Did I Fine-Tune a 7B One?](https://dev.to/sumanpro/if-a-270m-model-already-worked-why-did-i-fine-tune-a-7b-one-2ae3)
+- [why a simple string match beat apple&#39;s nlembedding for local rag](https://dev.to/turgaysavaci/why-a-simple-string-match-beat-apples-nlembedding-for-local-rag-1l4)
+- [QLoRA: Fine-Tuning a 7B Model on a 16GB GPU &lpar;It Shrank to 5.4GB in Front of Me&rpar;](https://dev.to/sumanpro/qlora-fine-tuning-a-7b-model-on-a-16gb-gpu-it-shrank-to-54gb-in-front-of-me-28n4)
+- [PARA Method for Engineers: Organize Knowledge by Action](https://dev.to/rosgluk/para-method-for-engineers-organize-knowledge-by-action-1npg)
+- [Evergreen Notes: Write Notes That Compound Over Time](https://dev.to/rosgluk/evergreen-notes-write-notes-that-compound-over-time-2hbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
