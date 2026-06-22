@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Role of CWE in Software Development](https://dev.to/nara_naghi/the-role-of-cwe-in-software-development-go3)
-- [Nvidia wants enterprises to run agents safely. NemoClaw is how.](https://dev.to/thegatewayguy/nvidia-wants-enterprises-to-run-agents-safely-nemoclaw-is-how-4ad6)
-- [Penpot for Developers: The Open-Source Design Tool That Speaks Your Language](https://dev.to/arshtechpro/penpot-for-developers-the-open-source-design-tool-that-speaks-your-language-47p)
-- [Hello Dev Community 👋](https://dev.to/vibudhsharma24/hello-dev-community-3314)
-- [Autonomous Beyond the Chatbox: Why AI Agents Require Dedicated Infrastructure to Work](https://dev.to/primeclawscom/autonomous-beyond-the-chatbox-why-ai-agents-require-dedicated-infrastructure-to-work-4npo)
+- [I built a live secret scanner for VS Code &lpar;and why CI scanning is too late&rpar;](https://dev.to/thund3rbird/i-built-a-live-secret-scanner-for-vs-code-and-why-ci-scanning-is-too-late-46f5)
+- [I built 168 pages of free trading tools with vanilla HTML/JS — here&#39;s how](https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d)
+- [Superconductor review: the cleanest way I&#39;ve found to run AI agents in parallel](https://dev.to/danielbergholz/superconductor-review-the-cleanest-way-ive-found-to-run-ai-agents-in-parallel-1c87)
+- [CtroEnv vs Zod, envalid, t3-env, Which Env Validator Should You Use?](https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln)
+- [How to make an AI research agent label facts vs inferences — a deterministic provenance pipeline](https://dev.to/hexisteme/how-to-make-an-ai-research-agent-label-facts-vs-inferences-a-deterministic-provenance-pipeline-5dfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
