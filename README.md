@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 3% rule: how AMD accuracy keeps you TCPA-compliant](https://dev.to/nikolai_boutvine_3091a640/the-3-rule-how-amd-accuracy-keeps-you-tcpa-compliant-1k80)
-- [How I Built the Cloud Resume Challenge &lpar;And What Actually Tripped Me Up&rpar;](https://dev.to/clos1180/how-i-built-the-cloud-resume-challenge-and-what-actually-tripped-me-up-eo)
-- [. .. . ... . .... . .... . ... .](https://dev.to/lovestaco/--2kb7)
-- [I am behind, and I can&#39;t prove it but does it matter?](https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6)
-- [The LLM is an ALU](https://dev.to/matatbread/the-llm-is-an-alu-12c8)
+- [The Role of CWE in Software Development](https://dev.to/nara_naghi/the-role-of-cwe-in-software-development-go3)
+- [Nvidia wants enterprises to run agents safely. NemoClaw is how.](https://dev.to/thegatewayguy/nvidia-wants-enterprises-to-run-agents-safely-nemoclaw-is-how-4ad6)
+- [Penpot for Developers: The Open-Source Design Tool That Speaks Your Language](https://dev.to/arshtechpro/penpot-for-developers-the-open-source-design-tool-that-speaks-your-language-47p)
+- [Hello Dev Community 👋](https://dev.to/vibudhsharma24/hello-dev-community-3314)
+- [Autonomous Beyond the Chatbox: Why AI Agents Require Dedicated Infrastructure to Work](https://dev.to/primeclawscom/autonomous-beyond-the-chatbox-why-ai-agents-require-dedicated-infrastructure-to-work-4npo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
