@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why we rejected the export-and-fork model for visual UI editing](https://dev.to/linb/why-we-rejected-the-export-and-fork-model-for-visual-ui-editing-d5g)
-- [I gave myself an AI advisory board — three models argue, I decide](https://dev.to/martinhavel/i-gave-myself-an-ai-advisory-board-three-models-argue-i-decide-538f)
-- [I kept finding gaps in my repos after open-sourcing — so I built a zero-dep CLI to catch them first](https://dev.to/_06a3df6b50aec966668fb/i-kept-finding-gaps-in-my-repos-after-open-sourcing-so-i-built-a-zero-dep-cli-to-catch-them-first-20mb)
-- [How to Export Your Lovable Project and Accelerate Development](https://dev.to/braingrid/how-to-export-your-lovable-project-and-accelerate-development-5hlp)
-- [Day 62 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-62-of-learning-mern-stack-2dod)
+- [includes vs joins vs preload vs eager_load in Rails](https://dev.to/hasan_dev/includes-vs-joins-vs-preload-vs-eagerload-in-rails-5fop)
+- [Designing a Synthetic Data Pipeline for Persian LLM Fine Tuning: From Topic Graphs to QLoRA Evaluation](https://dev.to/mohammadheydari/designing-a-synthetic-data-pipeline-for-persian-llm-fine-tuning-from-topic-graphs-to-qlora-5cg5)
+- [Python for Beginners — Part 5: Collections](https://dev.to/ramesh_s_a8f0867d239e927c/python-for-beginners-part-5-collections-o4c)
+- [Why Every CISO Needs an AIBOM in 2026 — And What Vendors Miss](https://dev.to/grumpysage/why-every-ciso-needs-an-aibom-in-2026-and-what-vendors-miss-36pb)
+- [Claude + MCP + Home Assistant: Turning Home Automation into an Intelligent Conversational Experience. 🚀](https://dev.to/tk2/claude-mcp-home-assistant-turning-home-automation-into-an-intelligent-conversational-38ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
