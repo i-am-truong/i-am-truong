@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solving &quot;Permissions are too open&quot; from inside the app — auto-diagnosing and auto-fixing SSH key permissions](https://dev.to/susumun/solving-permissions-are-too-open-from-inside-the-app-auto-diagnosing-and-auto-fixing-ssh-key-3j75)
-- [FFmpegKit is retired — here&#39;s how to fix your Android build &lpar;NDK r26c patch&rpar;](https://dev.to/lucquebec/ffmpegkit-is-retired-heres-how-to-fix-your-android-build-ndk-r26c-patch-35j0)
-- [How a web agency keeps every client site secure](https://dev.to/cbmouton/how-a-web-agency-keeps-every-client-site-secure-4f7b)
-- [AStarGrid2D in Godot 4: the gotchas, and an interactive sandbox](https://dev.to/vav_labs/astargrid2d-in-godot-4-the-gotchas-and-an-interactive-sandbox-3dl8)
-- [Why Dynamic Rotating Proxies Are Burning 30% of Your Budget &lpar;And How to Architect a Fix&rpar;](https://dev.to/proxyvero/why-dynamic-rotating-proxies-are-burning-30-of-your-budget-and-how-to-architect-a-fix-353a)
+- [Hermes Agent Codebase Packing Tool Usage Guide &lpar;repomix-rs High-Performance Edition&rpar;](https://dev.to/sopaco/hermes-agent-codebase-packing-tool-usage-guide-repomix-rs-high-performance-edition-3hko)
+- [How to Ship Your First App Using Vibe Coding in a Weekend](https://dev.to/jakub_inithouse/how-to-ship-your-first-app-using-vibe-coding-in-a-weekend-2n0p)
+- [Your Agent Checked Everything. It Was Still Wrong.](https://dev.to/antonio_zhu_e726fd856cd86/your-agent-checked-everything-it-was-still-wrong-18kd)
+- [Why I Built my Own Suite of Android Tools for macOS in Rust](https://dev.to/hiyoyok/why-i-built-my-own-suite-of-android-tools-for-macos-in-rust-cc7)
+- [The 5 Cost Traps That Will Quietly Bleed Your AI API Gateway Dry &lpar;And How to Fix Them&rpar;](https://dev.to/ai-gateway-veteran/the-5-cost-traps-that-will-quietly-bleed-your-ai-api-gateway-dry-and-how-to-fix-them-326j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
