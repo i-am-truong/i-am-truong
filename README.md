@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent Codebase Packing Tool Usage Guide &lpar;repomix-rs High-Performance Edition&rpar;](https://dev.to/sopaco/hermes-agent-codebase-packing-tool-usage-guide-repomix-rs-high-performance-edition-3hko)
-- [How to Ship Your First App Using Vibe Coding in a Weekend](https://dev.to/jakub_inithouse/how-to-ship-your-first-app-using-vibe-coding-in-a-weekend-2n0p)
-- [Your Agent Checked Everything. It Was Still Wrong.](https://dev.to/antonio_zhu_e726fd856cd86/your-agent-checked-everything-it-was-still-wrong-18kd)
-- [Why I Built my Own Suite of Android Tools for macOS in Rust](https://dev.to/hiyoyok/why-i-built-my-own-suite-of-android-tools-for-macos-in-rust-cc7)
-- [The 5 Cost Traps That Will Quietly Bleed Your AI API Gateway Dry &lpar;And How to Fix Them&rpar;](https://dev.to/ai-gateway-veteran/the-5-cost-traps-that-will-quietly-bleed-your-ai-api-gateway-dry-and-how-to-fix-them-326j)
+- [The Architecture of the AI Web: Moving Past Traditional SEO](https://dev.to/wegotthistogether/the-architecture-of-the-ai-web-moving-past-traditional-seo-12m9)
+- [Event Stream, Short Polling, Long Polling](https://dev.to/anubama_i/event-stream-short-polling-long-polling-54n)
+- [I Built 100 Free Developer Tools with 5 Languages](https://dev.to/mehmet_dal_9b790b516a342b/i-built-100-free-developer-tools-with-5-languages-3d05)
+- [A cloud cost tagging strategy that actually works](https://dev.to/muskan_8abedcc7e12/a-cloud-cost-tagging-strategy-that-actually-works-5gck)
+- [How to set up cloud budget alerts on AWS, GCP, Azure](https://dev.to/muskan_8abedcc7e12/how-to-set-up-cloud-budget-alerts-on-aws-gcp-azure-4ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
