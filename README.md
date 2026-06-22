@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [includes vs joins vs preload vs eager_load in Rails](https://dev.to/hasan_dev/includes-vs-joins-vs-preload-vs-eagerload-in-rails-5fop)
-- [Designing a Synthetic Data Pipeline for Persian LLM Fine Tuning: From Topic Graphs to QLoRA Evaluation](https://dev.to/mohammadheydari/designing-a-synthetic-data-pipeline-for-persian-llm-fine-tuning-from-topic-graphs-to-qlora-5cg5)
-- [Python for Beginners — Part 5: Collections](https://dev.to/ramesh_s_a8f0867d239e927c/python-for-beginners-part-5-collections-o4c)
-- [Why Every CISO Needs an AIBOM in 2026 — And What Vendors Miss](https://dev.to/grumpysage/why-every-ciso-needs-an-aibom-in-2026-and-what-vendors-miss-36pb)
-- [Claude + MCP + Home Assistant: Turning Home Automation into an Intelligent Conversational Experience. 🚀](https://dev.to/tk2/claude-mcp-home-assistant-turning-home-automation-into-an-intelligent-conversational-38ig)
+- [The 3% rule: how AMD accuracy keeps you TCPA-compliant](https://dev.to/nikolai_boutvine_3091a640/the-3-rule-how-amd-accuracy-keeps-you-tcpa-compliant-1k80)
+- [How I Built the Cloud Resume Challenge &lpar;And What Actually Tripped Me Up&rpar;](https://dev.to/clos1180/how-i-built-the-cloud-resume-challenge-and-what-actually-tripped-me-up-eo)
+- [. .. . ... . .... . .... . ... .](https://dev.to/lovestaco/--2kb7)
+- [I am behind, and I can&#39;t prove it but does it matter?](https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6)
+- [The LLM is an ALU](https://dev.to/matatbread/the-llm-is-an-alu-12c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
