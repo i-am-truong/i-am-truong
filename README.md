@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture of the AI Web: Moving Past Traditional SEO](https://dev.to/wegotthistogether/the-architecture-of-the-ai-web-moving-past-traditional-seo-12m9)
-- [Event Stream, Short Polling, Long Polling](https://dev.to/anubama_i/event-stream-short-polling-long-polling-54n)
-- [I Built 100 Free Developer Tools with 5 Languages](https://dev.to/mehmet_dal_9b790b516a342b/i-built-100-free-developer-tools-with-5-languages-3d05)
-- [A cloud cost tagging strategy that actually works](https://dev.to/muskan_8abedcc7e12/a-cloud-cost-tagging-strategy-that-actually-works-5gck)
-- [How to set up cloud budget alerts on AWS, GCP, Azure](https://dev.to/muskan_8abedcc7e12/how-to-set-up-cloud-budget-alerts-on-aws-gcp-azure-4ne)
+- [Why we rejected the export-and-fork model for visual UI editing](https://dev.to/linb/why-we-rejected-the-export-and-fork-model-for-visual-ui-editing-d5g)
+- [I gave myself an AI advisory board — three models argue, I decide](https://dev.to/martinhavel/i-gave-myself-an-ai-advisory-board-three-models-argue-i-decide-538f)
+- [I kept finding gaps in my repos after open-sourcing — so I built a zero-dep CLI to catch them first](https://dev.to/_06a3df6b50aec966668fb/i-kept-finding-gaps-in-my-repos-after-open-sourcing-so-i-built-a-zero-dep-cli-to-catch-them-first-20mb)
+- [How to Export Your Lovable Project and Accelerate Development](https://dev.to/braingrid/how-to-export-your-lovable-project-and-accelerate-development-5hlp)
+- [Day 62 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-62-of-learning-mern-stack-2dod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
