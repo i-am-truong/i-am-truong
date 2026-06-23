@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a live secret scanner for VS Code &lpar;and why CI scanning is too late&rpar;](https://dev.to/thund3rbird/i-built-a-live-secret-scanner-for-vs-code-and-why-ci-scanning-is-too-late-46f5)
-- [I built 168 pages of free trading tools with vanilla HTML/JS — here&#39;s how](https://dev.to/mbinmhr/i-built-168-pages-of-free-trading-tools-with-vanilla-htmljs-heres-how-4n0d)
-- [Superconductor review: the cleanest way I&#39;ve found to run AI agents in parallel](https://dev.to/danielbergholz/superconductor-review-the-cleanest-way-ive-found-to-run-ai-agents-in-parallel-1c87)
-- [CtroEnv vs Zod, envalid, t3-env, Which Env Validator Should You Use?](https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln)
-- [How to make an AI research agent label facts vs inferences — a deterministic provenance pipeline](https://dev.to/hexisteme/how-to-make-an-ai-research-agent-label-facts-vs-inferences-a-deterministic-provenance-pipeline-5dfn)
+- [We security-graded 117,854 AI agent skills. Here&#39;s what we found.](https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh)
+- [262k tokens + agent deployment platforms level up](https://dev.to/devsignal/262k-tokens-agent-deployment-platforms-level-up-4hen)
+- [A Tiered Playwright E2E Strategy: From PR Smoke to Production Validation](https://dev.to/demi_jiang_3bfb65a7d28774/a-tiered-playwright-e2e-strategy-from-pr-smoke-to-production-validation-4o01)
+- [Cómo estructuré un SEO Programático ultra-liviano en React + Vite para mi SaaS de Servicio Técnico](https://dev.to/repairtracks/como-estructure-un-seo-programatico-ultra-liviano-en-react-vite-para-mi-saas-de-servicio-tecnico-4d6o)
+- [Stop Benchmarking AI Coding Agents on Todo Apps. Make Them Build an MMO.](https://dev.to/max_polaczuk/stop-benchmarking-ai-coding-agents-on-todo-apps-make-them-build-an-mmo-4ecl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
