@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You finish the UI, run Lighthouse, and suddenly six color pairs fail WCAG AA](https://dev.to/hasansarwer/you-finish-the-ui-run-lighthouse-and-suddenly-six-color-pairs-fail-wcag-aa-3jfo)
-- [Technical Practice of Integrating Financial Market Data via MCP Protocol](https://dev.to/san_siwu_f08e7c406830469/technical-practice-of-integrating-financial-market-data-via-mcp-protocol-3587)
-- [Architecting Multi-Tenant Billing Engines: A Database Schema Guide](https://dev.to/risky_egbuna_67090a53aaaa/architecting-multi-tenant-billing-engines-a-database-schema-guide-2b4h)
-- [How to stop an AI agent from burning $47,000 in a loop nobody noticed.](https://dev.to/brianrhall/how-to-stop-an-ai-agent-from-burning-47000-in-a-loop-nobody-noticed-3pc9)
-- [From Steam to Web: The Day Job Meets the Dream](https://dev.to/allbyte_studios_5980b710c/from-steam-to-web-the-day-job-meets-the-dream-5gpk)
+- [15 Best Free Security Tools in 2026](https://dev.to/byte-guard/15-best-free-security-tools-in-2026-2e6p)
+- [Mastering Webhook Signature Verification in Local Dev](https://dev.to/anonymilyhq/mastering-webhook-signature-verification-in-local-dev-gc9)
+- [Pre-mortem as plan debugger](https://dev.to/willianpinho/pre-mortem-as-plan-debugger-37pk)
+- [How My AI Agent Hacked Its Own Permissions &lpar;And What It Taught Me&rpar;](https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm)
+- [Enforcing Zero-Trust Egress in Kubernetes with NetworkPolicies](https://dev.to/jorelfuji/enforcing-zero-trust-egress-in-kubernetes-with-networkpolicies-3hlc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
