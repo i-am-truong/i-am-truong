@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rebalancing a portfolio with only your next deposit &lpar;no selling&rpar;](https://dev.to/diegocard117/rebalancing-a-portfolio-with-only-your-next-deposit-no-selling-3ma6)
-- [Infrastructure as Code with OpenTofu/Terraform](https://dev.to/mrduguo/infrastructure-as-code-with-opentofuterraform-1i58)
-- [The AI agent habit that was quietly wasting my time and tokens](https://dev.to/kstoyanovai/the-ai-agent-habit-that-was-quietly-wasting-my-time-and-tokens-2jmi)
-- [Too cheap to be good? Think again.](https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0)
-- [Building a High-Performance Dynamic Product Filter Component in React and Tailwind CSS](https://dev.to/idan_dev/building-a-high-performance-dynamic-product-filter-component-in-react-and-tailwind-css-h0f)
+- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3442)
+- [Personality Quiz SEO: How We Index Result Pages for Origin Of You at Inithouse](https://dev.to/jakub_inithouse/personality-quiz-seo-how-we-index-result-pages-for-origin-of-you-at-inithouse-1925)
+- [How I kept 62 of 80 programmatic pages alive while hiding them from Google](https://dev.to/morinaga/how-i-kept-62-of-80-programmatic-pages-alive-while-hiding-them-from-google-1hgi)
+- [Why I&#39;m abandoning AdSense on two sites and betting on affiliate monetization](https://dev.to/morinaga/why-im-abandoning-adsense-on-two-sites-and-betting-on-affiliate-monetization-19cb)
+- [Global Store Is a Shared Dependency — Why Scoped State Ownership Wins](https://dev.to/sdux-vault/global-store-is-a-shared-dependency-why-scoped-state-ownership-wins-3g06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
