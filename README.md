@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Rust entropy monitor to route LLM inference — here&#39;s what the benchmark showed](https://dev.to/manoj_krishna_f13c6/i-built-a-rust-entropy-monitor-to-route-llm-inference-heres-what-the-benchmark-showed-4b7d)
-- [How to choose the right AI model: OpenAI API usage](https://dev.to/mishmanners/how-to-choose-the-right-ai-model-openai-api-usage-27cf)
-- [The SDXL VAE overflow that decoded black images in fp16](https://dev.to/elise_moreau/the-sdxl-vae-overflow-that-decoded-black-images-in-fp16-46g6)
-- [Crafting Client Sites Without the Chaos: A Dev&#39;s Guide to Modern Workflows](https://dev.to/nextbigcreative/crafting-client-sites-without-the-chaos-a-devs-guide-to-modern-workflows-5g5e)
-- [Day 68 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-68-of-learning-mern-stack-1p2o)
+- [Togetherness 🙌 we can shine ✨️ 😎 
+Let&#39;s build teamwork together ❤️ 💜](https://dev.to/jok_makurjok_910a8512704/togetherness-we-can-shine-lets-build-teamwork-together-3638)
+- [After 8 Months with Codex CLI, Here Is My Advanced AI Coding Workflow](https://dev.to/codewalk/after-8-months-with-codex-cli-here-is-my-advanced-ai-coding-workflow-4j12)
+- [Humanoid Robots built 30,000 BMWs and cleaned Airport Terminals for $15,400. Here&#39;s why the Pilot Era is over.](https://dev.to/xberry-tech/humanoid-robots-built-30000-bmws-and-cleaned-airport-terminals-for-15400-heres-why-the-pilot-480p)
+- [How to Create a GitHub Pull Request from the Terminal](https://dev.to/tahsin000/how-to-create-a-github-pull-request-from-the-terminal-3a0g)
+- [I&#39;m moving house🏡 - What gadgets, furniture and whatnot do I need for The Ultimate Setup™? 🚀](https://dev.to/thormeier/im-moving-house-what-gadgets-furniture-and-whatnot-do-i-need-for-the-ultimate-setup-5bp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
