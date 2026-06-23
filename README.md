@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Private Set Intersection: Finding What Two Parties Share Without Revealing the Rest](https://dev.to/havenmessenger/private-set-intersection-finding-what-two-parties-share-without-revealing-the-rest-c83)
-- [Adding custom methods for linq queries](https://dev.to/joshua_wainaina_e8c1ad2f0/adding-custom-methods-for-linq-queries-41g7)
-- [Watermarks, overlays, and blend modes in a few lines — imgkit now has composite&lpar;&rpar;](https://dev.to/aissam_irhir_1e776f7ef2ac/watermarks-overlays-and-blend-modes-in-a-few-lines-imgkit-now-has-composite-1dl)
-- [Claude Design Deploys to Vercel, WebSockets Go Serverless, and On-Device LLMs Get Serious](https://dev.to/devsignal/claude-design-deploys-to-vercel-websockets-go-serverless-and-on-device-llms-get-serious-2jnh)
-- [Looking for Internship](https://dev.to/casperday11/looking-for-internship-5epj)
+- [You finish the UI, run Lighthouse, and suddenly six color pairs fail WCAG AA](https://dev.to/hasansarwer/you-finish-the-ui-run-lighthouse-and-suddenly-six-color-pairs-fail-wcag-aa-3jfo)
+- [Technical Practice of Integrating Financial Market Data via MCP Protocol](https://dev.to/san_siwu_f08e7c406830469/technical-practice-of-integrating-financial-market-data-via-mcp-protocol-3587)
+- [Architecting Multi-Tenant Billing Engines: A Database Schema Guide](https://dev.to/risky_egbuna_67090a53aaaa/architecting-multi-tenant-billing-engines-a-database-schema-guide-2b4h)
+- [How to stop an AI agent from burning $47,000 in a loop nobody noticed.](https://dev.to/brianrhall/how-to-stop-an-ai-agent-from-burning-47000-in-a-loop-nobody-noticed-3pc9)
+- [From Steam to Web: The Day Job Meets the Dream](https://dev.to/allbyte_studios_5980b710c/from-steam-to-web-the-day-job-meets-the-dream-5gpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
