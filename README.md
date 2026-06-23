@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [15 Best Free Security Tools in 2026](https://dev.to/byte-guard/15-best-free-security-tools-in-2026-2e6p)
-- [Mastering Webhook Signature Verification in Local Dev](https://dev.to/anonymilyhq/mastering-webhook-signature-verification-in-local-dev-gc9)
-- [Pre-mortem as plan debugger](https://dev.to/willianpinho/pre-mortem-as-plan-debugger-37pk)
-- [How My AI Agent Hacked Its Own Permissions &lpar;And What It Taught Me&rpar;](https://dev.to/gdg/how-my-ai-agent-hacked-its-own-permissions-and-what-it-taught-me-34bm)
-- [Enforcing Zero-Trust Egress in Kubernetes with NetworkPolicies](https://dev.to/jorelfuji/enforcing-zero-trust-egress-in-kubernetes-with-networkpolicies-3hlc)
+- [The interview questions candidates score worst on are not the ones they prepare for. Real data from 816,000 sessions explains why.](https://dev.to/alex_bell_f2b96166c2d62f5/the-interview-questions-candidates-score-worst-on-are-not-the-ones-they-prepare-for-real-data-from-3dfh)
+- [How I A/B test LLM prompts without fooling myself](https://dev.to/kartik-nvjk/how-i-ab-test-llm-prompts-without-fooling-myself-528f)
+- [How I killed my fragile Instagram scraper and collapsed data collection into one API call](https://dev.to/__b63e94d6ead/how-i-killed-my-fragile-instagram-scraper-and-collapsed-data-collection-into-one-api-call-3l57)
+- [Lugn - The distraction blocker that&#39;s actually on your side](https://dev.to/vxiddev/lugn-the-distraction-blocker-thats-actually-on-your-side-5dgk)
+- [Test Webhooks Locally Without ngrok](https://dev.to/anonymilyhq/test-webhooks-locally-without-ngrok-1oon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
