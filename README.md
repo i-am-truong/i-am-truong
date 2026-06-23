@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The interview questions candidates score worst on are not the ones they prepare for. Real data from 816,000 sessions explains why.](https://dev.to/alex_bell_f2b96166c2d62f5/the-interview-questions-candidates-score-worst-on-are-not-the-ones-they-prepare-for-real-data-from-3dfh)
-- [How I A/B test LLM prompts without fooling myself](https://dev.to/kartik-nvjk/how-i-ab-test-llm-prompts-without-fooling-myself-528f)
-- [How I killed my fragile Instagram scraper and collapsed data collection into one API call](https://dev.to/__b63e94d6ead/how-i-killed-my-fragile-instagram-scraper-and-collapsed-data-collection-into-one-api-call-3l57)
-- [Lugn - The distraction blocker that&#39;s actually on your side](https://dev.to/vxiddev/lugn-the-distraction-blocker-thats-actually-on-your-side-5dgk)
-- [Test Webhooks Locally Without ngrok](https://dev.to/anonymilyhq/test-webhooks-locally-without-ngrok-1oon)
+- [Rebalancing a portfolio with only your next deposit &lpar;no selling&rpar;](https://dev.to/diegocard117/rebalancing-a-portfolio-with-only-your-next-deposit-no-selling-3ma6)
+- [Infrastructure as Code with OpenTofu/Terraform](https://dev.to/mrduguo/infrastructure-as-code-with-opentofuterraform-1i58)
+- [The AI agent habit that was quietly wasting my time and tokens](https://dev.to/kstoyanovai/the-ai-agent-habit-that-was-quietly-wasting-my-time-and-tokens-2jmi)
+- [Too cheap to be good? Think again.](https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0)
+- [Building a High-Performance Dynamic Product Filter Component in React and Tailwind CSS](https://dev.to/idan_dev/building-a-high-performance-dynamic-product-filter-component-in-react-and-tailwind-css-h0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
