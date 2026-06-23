@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We security-graded 117,854 AI agent skills. Here&#39;s what we found.](https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh)
-- [262k tokens + agent deployment platforms level up](https://dev.to/devsignal/262k-tokens-agent-deployment-platforms-level-up-4hen)
-- [A Tiered Playwright E2E Strategy: From PR Smoke to Production Validation](https://dev.to/demi_jiang_3bfb65a7d28774/a-tiered-playwright-e2e-strategy-from-pr-smoke-to-production-validation-4o01)
-- [Cómo estructuré un SEO Programático ultra-liviano en React + Vite para mi SaaS de Servicio Técnico](https://dev.to/repairtracks/como-estructure-un-seo-programatico-ultra-liviano-en-react-vite-para-mi-saas-de-servicio-tecnico-4d6o)
-- [Stop Benchmarking AI Coding Agents on Todo Apps. Make Them Build an MMO.](https://dev.to/max_polaczuk/stop-benchmarking-ai-coding-agents-on-todo-apps-make-them-build-an-mmo-4ecl)
+- [I built a Rust entropy monitor to route LLM inference — here&#39;s what the benchmark showed](https://dev.to/manoj_krishna_f13c6/i-built-a-rust-entropy-monitor-to-route-llm-inference-heres-what-the-benchmark-showed-4b7d)
+- [How to choose the right AI model: OpenAI API usage](https://dev.to/mishmanners/how-to-choose-the-right-ai-model-openai-api-usage-27cf)
+- [The SDXL VAE overflow that decoded black images in fp16](https://dev.to/elise_moreau/the-sdxl-vae-overflow-that-decoded-black-images-in-fp16-46g6)
+- [Crafting Client Sites Without the Chaos: A Dev&#39;s Guide to Modern Workflows](https://dev.to/nextbigcreative/crafting-client-sites-without-the-chaos-a-devs-guide-to-modern-workflows-5g5e)
+- [Day 68 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-68-of-learning-mern-stack-1p2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
