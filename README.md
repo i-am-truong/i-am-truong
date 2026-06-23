@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3442)
-- [Personality Quiz SEO: How We Index Result Pages for Origin Of You at Inithouse](https://dev.to/jakub_inithouse/personality-quiz-seo-how-we-index-result-pages-for-origin-of-you-at-inithouse-1925)
-- [How I kept 62 of 80 programmatic pages alive while hiding them from Google](https://dev.to/morinaga/how-i-kept-62-of-80-programmatic-pages-alive-while-hiding-them-from-google-1hgi)
-- [Why I&#39;m abandoning AdSense on two sites and betting on affiliate monetization](https://dev.to/morinaga/why-im-abandoning-adsense-on-two-sites-and-betting-on-affiliate-monetization-19cb)
-- [Global Store Is a Shared Dependency — Why Scoped State Ownership Wins](https://dev.to/sdux-vault/global-store-is-a-shared-dependency-why-scoped-state-ownership-wins-3g06)
+- [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://dev.to/rosgluk/mermaid-diagrams-quickstart-and-cheatsheet-for-developers-54p9)
+- [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://dev.to/rosgluk/implementing-cqrs-in-go-a-practical-guide-to-scalable-architecture-3iik)
+- [Want AI to work in parallel? First give each one its own workspace](https://dev.to/kanfu-panda/want-ai-to-work-in-parallel-first-give-each-one-its-own-workspace-40ch)
+- [I got tired of bloated, ad-ridden web downloaders. So I built a clean, static alternative.](https://dev.to/universaldevz/i-got-tired-of-bloated-ad-ridden-web-downloaders-so-i-built-a-clean-static-alternative-2c0f)
+- [Five Eyes to Developers: AI-Powered Cyberattacks Are &quot;Months Away, Not Years&quot;](https://dev.to/publictechnews/five-eyes-to-developers-ai-powered-cyberattacks-are-months-away-not-years-4gg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
