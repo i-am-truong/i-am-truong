@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built the DemonDie Frontend Quiz Arena 2026 — Here’s Why](https://dev.to/rishibyte/we-built-the-demondie-frontend-quiz-arena-2026-heres-why-55f6)
-- [From 47 to 75 Commits: How a Single _headers File Broke My Brain &lpar;and My App&rpar; for 8 Hours](https://dev.to/chazchege/from-47-to-75-commits-how-a-single-headers-file-broke-my-brain-and-my-app-for-8-hours-59hi)
-- [Quantum Teleportation, and Why It Isn&#39;t Cloning](https://dev.to/malcolmlow/quantum-teleportation-and-why-it-isnt-cloning-1fdl)
-- [Dashboard Design for Incident Response](https://dev.to/mrinal_narang_13a3d00eb37/dashboard-design-for-incident-response-24i7)
-- [Who Wins the Variable Fight in Terraform?](https://dev.to/aws-builders/who-wins-the-variable-fight-in-terraform-2e6f)
+- [Everyone&#39;s Excited About Claude Tag. Nobody&#39;s Built the Trust Layer.](https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp)
+- [How to Check If a Page Is Ready for AI Search Visibility](https://dev.to/vito1993/how-to-check-if-a-page-is-ready-for-ai-search-visibility-39i)
+- [How to Fix PDF Table Duplication in RAG / LLM Pipelines &lpar;Python&rpar;](https://dev.to/simonec_dev/how-to-fix-pdf-table-duplication-in-rag-llm-pipelines-python-5fii)
+- [Implement Queue using Stacks](https://dev.to/jaspreet_singh_86ae1740ac/implement-queue-using-stacks-4epa)
+- [Organize email with threads in the Nylas API](https://dev.to/mqasimca/organize-email-with-threads-in-the-nylas-api-42id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
