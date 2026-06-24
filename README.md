@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LXC vs. KVM unter Proxmox: Entscheidungs‑Guide für Container und VMs](https://dev.to/uhltak/lxc-vs-kvm-unter-proxmox-entscheidungs-guide-fur-container-und-vms-1774)
-- [Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus](https://dev.to/arya_koste_5845807df94776/choosing-a-vector-database-in-2026-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-vs-milvus-422k)
-- [Why LTE is Still Relevant in the 5G Era](https://dev.to/techlte_world_b9218c4a60a/why-lte-is-still-relevant-in-the-5g-era-49ai)
-- [prongC: A Static Analysis Tool That Helps You Detect C Shared Data Accesses](https://dev.to/omeridrissi/prongc-a-static-analysis-tool-that-helps-you-detect-c-shared-data-accesses-1eg7)
-- [I built 128 things with AI. 127 are dead. So I started shipping into real OSS instead.](https://dev.to/greymothjp/i-built-128-things-with-ai-127-are-dead-so-i-started-shipping-into-real-oss-instead-1ce0)
+- [The Web Page Couldn&#39;t Reach Localhost. Your Agent Carried It There.](https://dev.to/neerazz/the-web-page-couldnt-reach-localhost-your-agent-carried-it-there-2ip6)
+- [O bug de 16 minutos: quando &#39;dado faltando&#39; é uma corrida contra o relógio](https://dev.to/scussel/o-bug-de-16-minutos-quando-dado-faltando-e-uma-corrida-contra-o-relogio-2e6i)
+- [Render a PDF to an image in .NET — with a pure-C# PDF engine](https://dev.to/michael_jordan_87eaf96f24/render-a-pdf-to-an-image-in-net-with-a-pure-c-pdf-engine-a7o)
+- [Why Symfony projects feel more fragmented than ever](https://dev.to/serotoninja/why-symfony-projects-feel-more-fragmented-than-ever-4g6c)
+- [MongoDB-backed ASP.NET Core Identity, without the EF Core detour](https://dev.to/michael_jordan_87eaf96f24/mongodb-backed-aspnet-core-identity-without-the-ef-core-detour-848)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
