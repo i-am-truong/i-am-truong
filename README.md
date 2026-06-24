@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Channels-last memory format cut our conv backbone latency 22%](https://dev.to/elise_moreau/channels-last-memory-format-cut-our-conv-backbone-latency-22-19l2)
-- [PLC-Based Cyclic Pressure Test Sequencing: Profile Design and Fatigue Data Analysis](https://dev.to/robinyadav8180/plc-based-cyclic-pressure-test-sequencing-profile-design-and-fatigue-data-analysis-304g)
-- [Python List Comprehensions: Read Them in 3 Steps Without Getting Lost 📋](https://dev.to/ameer_abdullah_68d48c8496/python-list-comprehensions-read-them-in-3-steps-without-getting-lost-1pep)
-- [Every platform vets freelancers. Nobody vets the client. I&#39;m fixing that.](https://dev.to/keynition/every-platform-vets-freelancers-nobody-vets-the-client-im-fixing-that-515o)
-- [The Skeleton Implementation Trap: Why Your n8n Workflows Look Simple But Cost You Dearly in Production](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-skeleton-implementation-trap-why-your-n8n-workflows-look-simple-but-cost-you-dearly-in-585c)
+- [Three Incidents. Four Layers. One Week.](https://dev.to/ndegwaduncan/three-incidents-four-layers-one-week-5acn)
+- [The Open Source Agentic AI Stack: What AAIF Projects Do and How to Contribute](https://dev.to/mgonzalezo/the-open-source-agentic-ai-stack-what-aaif-projects-do-and-how-to-contribute-24be)
+- [Logging VHF DSC distress calls in SignalK &lpar;PGN 129808&rpar;](https://dev.to/clarkbw--/logging-vhf-dsc-distress-calls-in-signalk-pgn-129808-2kp0)
+- [Why Open Source API Tools Are Having a Moment](https://dev.to/flutwiz/why-open-source-api-tools-are-having-a-moment-36p9)
+- [Pentingnya belajar architecture &amp; system design](https://dev.to/ogak_dev/pilihan-1-langsung-menunjukkan-nilai-5b08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
