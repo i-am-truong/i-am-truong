@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Web Page Couldn&#39;t Reach Localhost. Your Agent Carried It There.](https://dev.to/neerazz/the-web-page-couldnt-reach-localhost-your-agent-carried-it-there-2ip6)
-- [O bug de 16 minutos: quando &#39;dado faltando&#39; é uma corrida contra o relógio](https://dev.to/scussel/o-bug-de-16-minutos-quando-dado-faltando-e-uma-corrida-contra-o-relogio-2e6i)
-- [Render a PDF to an image in .NET — with a pure-C# PDF engine](https://dev.to/michael_jordan_87eaf96f24/render-a-pdf-to-an-image-in-net-with-a-pure-c-pdf-engine-a7o)
-- [Why Symfony projects feel more fragmented than ever](https://dev.to/serotoninja/why-symfony-projects-feel-more-fragmented-than-ever-4g6c)
-- [MongoDB-backed ASP.NET Core Identity, without the EF Core detour](https://dev.to/michael_jordan_87eaf96f24/mongodb-backed-aspnet-core-identity-without-the-ef-core-detour-848)
+- [Your @EventListener Fires Before the Transaction Commits⚙️](https://dev.to/code_with_kyryl/your-eventlistener-fires-before-the-transaction-commits-286m)
+- [Building a Real-Time World Cup 2026 Bracket Predictor with Vanilla JS and GitHub Actions](https://dev.to/ryo_kurita_1a64dfc9182ff0/building-a-real-time-world-cup-2026-bracket-predictor-with-vanilla-js-and-github-actions-5fln)
+- [How Be Recommended by Inithouse Scores AI Visibility 0 to 100 Across ChatGPT, Perplexity, Claude and Gemini](https://dev.to/jakub_inithouse/how-be-recommended-by-inithouse-scores-ai-visibility-0-to-100-across-chatgpt-perplexity-claude-36ob)
+- [I Built a Messenger That Works Without the Internet — And It Changed How I Think About Privacy](https://dev.to/6arshid/i-built-a-messenger-that-works-without-the-internet-and-it-changed-how-i-think-about-privacy-4aid)
+- [How to Get Your First Tool Online](https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
