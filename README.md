@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The New Standard for NPM Package Discovery: Deep Dive into LibPilot](https://dev.to/motionmind2007/the-new-standard-for-npm-package-discovery-deep-dive-into-libpilot-4ook)
-- [HLD Fundamentas #7: Back-of-the-Envelope Calculations](https://dev.to/jaspreet_singh_86ae1740ac/back-of-the-envelope-calculations-2ecd)
-- [dev.to How Online Casinos Prove Their RNG Is Fair, and Why Most Software Can&#39;t](https://dev.to/post01/devto-how-online-casinos-prove-their-rng-is-fair-and-why-most-software-cant-3l92)
-- [World Cup 2026: How the 48-Team Format Is Creating Historic Upset Opportunities in Group Stages](https://dev.to/edgelab/world-cup-2026-how-the-48-team-format-is-creating-historic-upset-opportunities-in-group-stages-11kh)
-- [How we went from no-code agents to no-prompt agents](https://dev.to/hanan_amar/how-we-went-from-no-code-agents-to-no-prompt-agents-1o40)
+- [LXC vs. KVM unter Proxmox: Entscheidungs‑Guide für Container und VMs](https://dev.to/uhltak/lxc-vs-kvm-unter-proxmox-entscheidungs-guide-fur-container-und-vms-1774)
+- [Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus](https://dev.to/arya_koste_5845807df94776/choosing-a-vector-database-in-2026-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-vs-milvus-422k)
+- [Why LTE is Still Relevant in the 5G Era](https://dev.to/techlte_world_b9218c4a60a/why-lte-is-still-relevant-in-the-5g-era-49ai)
+- [prongC: A Static Analysis Tool That Helps You Detect C Shared Data Accesses](https://dev.to/omeridrissi/prongc-a-static-analysis-tool-that-helps-you-detect-c-shared-data-accesses-1eg7)
+- [I built 128 things with AI. 127 are dead. So I started shipping into real OSS instead.](https://dev.to/greymothjp/i-built-128-things-with-ai-127-are-dead-so-i-started-shipping-into-real-oss-instead-1ce0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
