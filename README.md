@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://dev.to/rosgluk/mermaid-diagrams-quickstart-and-cheatsheet-for-developers-54p9)
-- [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://dev.to/rosgluk/implementing-cqrs-in-go-a-practical-guide-to-scalable-architecture-3iik)
-- [Want AI to work in parallel? First give each one its own workspace](https://dev.to/kanfu-panda/want-ai-to-work-in-parallel-first-give-each-one-its-own-workspace-40ch)
-- [I got tired of bloated, ad-ridden web downloaders. So I built a clean, static alternative.](https://dev.to/universaldevz/i-got-tired-of-bloated-ad-ridden-web-downloaders-so-i-built-a-clean-static-alternative-2c0f)
-- [Five Eyes to Developers: AI-Powered Cyberattacks Are &quot;Months Away, Not Years&quot;](https://dev.to/publictechnews/five-eyes-to-developers-ai-powered-cyberattacks-are-months-away-not-years-4gg6)
+- [We Made Our x402 Payment Gateway Loop-Native — Here&#39;s How &lpar;and Why Your Agent Needs It&rpar;](https://dev.to/mr_hamlin/we-made-our-x402-payment-gateway-loop-native-heres-how-and-why-your-agent-needs-it-4iog)
+- [The ISO 42001 Course That Refused To Pass](https://dev.to/cpdforge/the-iso-42001-course-that-refused-to-pass-558f)
+- [Building JSONSift: An All-in-One Toolkit for Everyday Developer Tasks](https://dev.to/jitender_dev_e53e12c3c8ef/building-jsonsift-an-all-in-one-toolkit-for-everyday-developer-tasks-5f0i)
+- [Streaming a LangGraph Agent as OpenAI-Compatible SSE &lpar;with a Thinking Panel&rpar;](https://dev.to/javaking1129/streaming-a-langgraph-agent-as-openai-compatible-sse-with-a-thinking-panel-2928)
+- [AI Loops That Work While You Sleep: 3 Ready-to-Use Templates](https://dev.to/quickstrats/ai-loops-that-work-while-you-sleep-3-ready-to-use-templates-3gh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
