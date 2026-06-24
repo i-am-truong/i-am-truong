@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Three Incidents. Four Layers. One Week.](https://dev.to/ndegwaduncan/three-incidents-four-layers-one-week-5acn)
-- [The Open Source Agentic AI Stack: What AAIF Projects Do and How to Contribute](https://dev.to/mgonzalezo/the-open-source-agentic-ai-stack-what-aaif-projects-do-and-how-to-contribute-24be)
-- [Logging VHF DSC distress calls in SignalK &lpar;PGN 129808&rpar;](https://dev.to/clarkbw--/logging-vhf-dsc-distress-calls-in-signalk-pgn-129808-2kp0)
-- [Why Open Source API Tools Are Having a Moment](https://dev.to/flutwiz/why-open-source-api-tools-are-having-a-moment-36p9)
-- [Pentingnya belajar architecture &amp; system design](https://dev.to/ogak_dev/pilihan-1-langsung-menunjukkan-nilai-5b08)
+- [We Built the DemonDie Frontend Quiz Arena 2026 — Here’s Why](https://dev.to/rishibyte/we-built-the-demondie-frontend-quiz-arena-2026-heres-why-55f6)
+- [From 47 to 75 Commits: How a Single _headers File Broke My Brain &lpar;and My App&rpar; for 8 Hours](https://dev.to/chazchege/from-47-to-75-commits-how-a-single-headers-file-broke-my-brain-and-my-app-for-8-hours-59hi)
+- [Quantum Teleportation, and Why It Isn&#39;t Cloning](https://dev.to/malcolmlow/quantum-teleportation-and-why-it-isnt-cloning-1fdl)
+- [Dashboard Design for Incident Response](https://dev.to/mrinal_narang_13a3d00eb37/dashboard-design-for-incident-response-24i7)
+- [Who Wins the Variable Fight in Terraform?](https://dev.to/aws-builders/who-wins-the-variable-fight-in-terraform-2e6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
