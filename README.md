@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Made Our x402 Payment Gateway Loop-Native — Here&#39;s How &lpar;and Why Your Agent Needs It&rpar;](https://dev.to/mr_hamlin/we-made-our-x402-payment-gateway-loop-native-heres-how-and-why-your-agent-needs-it-4iog)
-- [The ISO 42001 Course That Refused To Pass](https://dev.to/cpdforge/the-iso-42001-course-that-refused-to-pass-558f)
-- [Building JSONSift: An All-in-One Toolkit for Everyday Developer Tasks](https://dev.to/jitender_dev_e53e12c3c8ef/building-jsonsift-an-all-in-one-toolkit-for-everyday-developer-tasks-5f0i)
-- [Streaming a LangGraph Agent as OpenAI-Compatible SSE &lpar;with a Thinking Panel&rpar;](https://dev.to/javaking1129/streaming-a-langgraph-agent-as-openai-compatible-sse-with-a-thinking-panel-2928)
-- [AI Loops That Work While You Sleep: 3 Ready-to-Use Templates](https://dev.to/quickstrats/ai-loops-that-work-while-you-sleep-3-ready-to-use-templates-3gh9)
+- [Channels-last memory format cut our conv backbone latency 22%](https://dev.to/elise_moreau/channels-last-memory-format-cut-our-conv-backbone-latency-22-19l2)
+- [PLC-Based Cyclic Pressure Test Sequencing: Profile Design and Fatigue Data Analysis](https://dev.to/robinyadav8180/plc-based-cyclic-pressure-test-sequencing-profile-design-and-fatigue-data-analysis-304g)
+- [Python List Comprehensions: Read Them in 3 Steps Without Getting Lost 📋](https://dev.to/ameer_abdullah_68d48c8496/python-list-comprehensions-read-them-in-3-steps-without-getting-lost-1pep)
+- [Every platform vets freelancers. Nobody vets the client. I&#39;m fixing that.](https://dev.to/keynition/every-platform-vets-freelancers-nobody-vets-the-client-im-fixing-that-515o)
+- [The Skeleton Implementation Trap: Why Your n8n Workflows Look Simple But Cost You Dearly in Production](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-skeleton-implementation-trap-why-your-n8n-workflows-look-simple-but-cost-you-dearly-in-585c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
