@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everyone&#39;s Excited About Claude Tag. Nobody&#39;s Built the Trust Layer.](https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp)
-- [How to Check If a Page Is Ready for AI Search Visibility](https://dev.to/vito1993/how-to-check-if-a-page-is-ready-for-ai-search-visibility-39i)
-- [How to Fix PDF Table Duplication in RAG / LLM Pipelines &lpar;Python&rpar;](https://dev.to/simonec_dev/how-to-fix-pdf-table-duplication-in-rag-llm-pipelines-python-5fii)
-- [Implement Queue using Stacks](https://dev.to/jaspreet_singh_86ae1740ac/implement-queue-using-stacks-4epa)
-- [Organize email with threads in the Nylas API](https://dev.to/mqasimca/organize-email-with-threads-in-the-nylas-api-42id)
+- [The New Standard for NPM Package Discovery: Deep Dive into LibPilot](https://dev.to/motionmind2007/the-new-standard-for-npm-package-discovery-deep-dive-into-libpilot-4ook)
+- [HLD Fundamentas #7: Back-of-the-Envelope Calculations](https://dev.to/jaspreet_singh_86ae1740ac/back-of-the-envelope-calculations-2ecd)
+- [dev.to How Online Casinos Prove Their RNG Is Fair, and Why Most Software Can&#39;t](https://dev.to/post01/devto-how-online-casinos-prove-their-rng-is-fair-and-why-most-software-cant-3l92)
+- [World Cup 2026: How the 48-Team Format Is Creating Historic Upset Opportunities in Group Stages](https://dev.to/edgelab/world-cup-2026-how-the-48-team-format-is-creating-historic-upset-opportunities-in-group-stages-11kh)
+- [How we went from no-code agents to no-prompt agents](https://dev.to/hanan_amar/how-we-went-from-no-code-agents-to-no-prompt-agents-1o40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
