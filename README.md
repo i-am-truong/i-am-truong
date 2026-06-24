@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Azure Management Task: A Hands-On Project &lpar;Part 2&rpar;](https://dev.to/degreatkhali/mastering-azure-management-task-a-hands-on-project-part-2-4m7o)
-- [OmniIDE 1.0.4 Released](https://dev.to/omninodeco/omniide-104-released-5oi)
-- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-ethical-2co7)
-- [Three GPU affiliate programs I wired into an AI tool directory](https://dev.to/morinaga/three-gpu-affiliate-programs-i-wired-into-an-ai-tool-directory-51an)
-- [What I learned building pipeline-aware content variants in a static Astro directory](https://dev.to/morinaga/what-i-learned-building-pipeline-aware-content-variants-in-a-static-astro-directory-1cfk)
+- [The 1.4 Seconds That Weren&#39;t on Any Span](https://dev.to/realmarcuschen/the-14-seconds-that-werent-on-any-span-483m)
+- [Exit intent that works on mobile, not just desktop](https://dev.to/arafat_islam_8831144b8c8f/exit-intent-that-works-on-mobile-not-just-desktop-3kdn)
+- [Stop building custom wrappers for your ML models.](https://dev.to/renato_marinho/stop-building-custom-wrappers-for-your-ml-models-1bk)
+- [Collect client feedback on a website without endless revision rounds](https://dev.to/matttdamon/collect-client-feedback-on-a-website-without-endless-revision-rounds-jc)
+- [Sync a mailbox into your own database with Nylas](https://dev.to/mqasimca/sync-a-mailbox-into-your-own-database-with-nylas-1mhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
