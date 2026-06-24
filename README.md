@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your @EventListener Fires Before the Transaction Commits⚙️](https://dev.to/code_with_kyryl/your-eventlistener-fires-before-the-transaction-commits-286m)
-- [Building a Real-Time World Cup 2026 Bracket Predictor with Vanilla JS and GitHub Actions](https://dev.to/ryo_kurita_1a64dfc9182ff0/building-a-real-time-world-cup-2026-bracket-predictor-with-vanilla-js-and-github-actions-5fln)
-- [How Be Recommended by Inithouse Scores AI Visibility 0 to 100 Across ChatGPT, Perplexity, Claude and Gemini](https://dev.to/jakub_inithouse/how-be-recommended-by-inithouse-scores-ai-visibility-0-to-100-across-chatgpt-perplexity-claude-36ob)
-- [I Built a Messenger That Works Without the Internet — And It Changed How I Think About Privacy](https://dev.to/6arshid/i-built-a-messenger-that-works-without-the-internet-and-it-changed-how-i-think-about-privacy-4aid)
-- [How to Get Your First Tool Online](https://dev.to/mlh/how-to-get-your-first-tool-online-3c8k)
+- [Mastering Azure Management Task: A Hands-On Project &lpar;Part 2&rpar;](https://dev.to/degreatkhali/mastering-azure-management-task-a-hands-on-project-part-2-4m7o)
+- [OmniIDE 1.0.4 Released](https://dev.to/omninodeco/omniide-104-released-5oi)
+- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-ethical-2co7)
+- [Three GPU affiliate programs I wired into an AI tool directory](https://dev.to/morinaga/three-gpu-affiliate-programs-i-wired-into-an-ai-tool-directory-51an)
+- [What I learned building pipeline-aware content variants in a static Astro directory](https://dev.to/morinaga/what-i-learned-building-pipeline-aware-content-variants-in-a-static-astro-directory-1cfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
