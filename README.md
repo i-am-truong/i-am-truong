@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sanity and the case for a CMS that thinks like a developer](https://dev.to/fredcorr/sanity-and-the-case-for-a-cms-that-thinks-like-a-developer-547i)
-- [SSR vs CSR: The Rendering Choice That Changes Your Entire Web App](https://dev.to/pierre/server-side-rendering-client-side-rendering-single-page-application-2ec9)
-- [Three dumb ways our prod got slow &lpar;and not one was a slow algorithm&rpar;](https://dev.to/arvavit/three-dumb-ways-our-prod-got-slow-and-not-one-was-a-slow-algorithm-29ag)
-- [The ghost in my transcript: why my AI meeting app kept saying &#39;Thank you.&#39;](https://dev.to/_mh/the-ghost-in-my-transcript-why-my-ai-meeting-app-kept-saying-thank-you-17p1)
-- [Shrinking the Footprint and Cleaning the Pipes](https://dev.to/glad_labs/shrinking-the-footprint-and-cleaning-the-pipes-48if)
+- [AI made coding boring and nobody wants to admit it out loud](https://dev.to/adioof/ai-made-coding-boring-and-nobody-wants-to-admit-it-out-loud-pdg)
+- [I was burning context feeding HTML to LLMs, so I built a Markdown converter for agents](https://dev.to/kkonstantinov/i-was-burning-context-feeding-html-to-llms-so-i-built-a-markdown-converter-for-agents-2c2m)
+- [Building an AI Filmmaking API Taught Us That Great Endpoints Don&#39;t Create Great Films](https://dev.to/metter/building-an-ai-filmmaking-api-taught-us-that-great-endpoints-dont-create-great-films-4kc1)
+- [Dealing with Distraction &lpar;June 2026&rpar;](https://dev.to/nmiller15/dealing-with-distraction-june-2026-2l2)
+- [What We&#39;re Seeing After 8,000 SEO Audits](https://dev.to/avansledright/what-were-seeing-after-8000-seo-audits-395p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
