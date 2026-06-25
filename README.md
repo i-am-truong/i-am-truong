@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Addressing the global namespace](https://dev.to/coldstorage/addressing-the-global-namespace-1k21)
-- [I Took the Udacity AWS Machine Learning Engineer Nanodegree. Here&#39;s What It Actually Teaches &lpar;2026&rpar;](https://dev.to/aqsa_zafar_e47324954dca66/i-took-the-udacity-aws-machine-learning-engineer-nanodegree-heres-what-it-actually-teaches-2026-45al)
-- [I Was About to Cancel Claude. Now Gemini Is Rate-Limiting Me Out of My Own Plan.](https://dev.to/mediblacksand_f0ea36c53fb/i-was-about-to-cancel-claude-now-gemini-is-rate-limiting-me-out-of-my-own-plan-215g)
-- [I don&#39;t trust the LLM to classify my email. So I don&#39;t let it.](https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9)
-- [Day 35 – ClickHouse® and S3 Integration: Querying Data Lakes](https://dev.to/kanishga_subramani_49ad73/day-35-clickhouser-and-s3-integration-querying-data-lakes-2j77)
+- [I built a 50+ feature wellness app in a single HTML file as a student — here&#39;s why](https://dev.to/mognotaapp/i-built-a-50-feature-wellness-app-in-a-single-html-file-as-a-student-heres-why-37mj)
+- [How to Put an LLM in Your Product Without Wrecking Your Costs or Your Latency](https://dev.to/muhammadzainnaseer/how-to-put-an-llm-in-your-product-without-wrecking-your-costs-or-your-latency-89a)
+- [How We Built JungleTrade: A Modular Market Intelligence Platform](https://dev.to/dragomir_dikov/how-we-built-jungletrade-a-modular-market-intelligence-platform-17h)
+- [Escaping Cloud Lock-In: Building a real DORA exit strategy ☁️](https://dev.to/upsun/escaping-cloud-lock-in-building-a-real-dora-exit-strategy-20ij)
+- [Localizzare in massa la scheda App Store con ASC CLI &lpar;e perché conviene davvero&rpar;](https://dev.to/frontendfacile/localizzare-in-massa-la-scheda-app-store-con-asc-cli-e-perche-conviene-davvero-4220)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
