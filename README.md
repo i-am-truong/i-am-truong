@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do](https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4)
-- [The People v. ASP.NET Core: A C#-Only HTTP Benchmark Trial](https://dev.to/fbio_reis_355b87b508598e/the-people-v-aspnet-core-a-c-only-http-benchmark-trial-b2)
-- [Building Hardware-Accelerated FFmpeg on NVIDIA Jetson AGX Orin 64GB](https://dev.to/vonusma/building-hardware-accelerated-ffmpeg-on-nvidia-jetson-agx-orin-64gb-3gg)
-- [Reducing Complexity: Replacing Entity-Based Services and Repositories with Purposeful Layers in Software Design](https://dev.to/kornilovconstru/reducing-complexity-replacing-entity-based-services-and-repositories-with-purposeful-layers-in-3ike)
-- [Implementing Bins - Phase 7 Mini Malloc](https://dev.to/moonlitpath1/implementing-bins-phase-7-mini-malloc-1g75)
+- [I Scanned 1,200 MCP Configs From GitHub. Here&#39;s What I Found.](https://dev.to/ad_0846/i-scanned-1200-mcp-configs-from-github-heres-what-i-found-45b3)
+- [How I built a YouTube performance classifier that adjusts tomorrow&#39;s video script bias](https://dev.to/morinaga/how-i-built-a-youtube-performance-classifier-that-adjusts-tomorrows-video-script-bias-19ba)
+- [Notable releases I&#39;m watching: Deno 2.8, Models.dev, DeepSeek V4 Pro permanent pricing](https://dev.to/morinaga/notable-releases-im-watching-deno-28-modelsdev-deepseek-v4-pro-permanent-pricing-2g26)
+- [Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets](https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d)
+- [Enterprise AI Agent Orchestration: Shared Memory &amp; Local-First...](https://dev.to/meghroop_tech/enterprise-ai-agent-orchestration-shared-memory-local-first-2c95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
