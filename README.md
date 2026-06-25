@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI made coding boring and nobody wants to admit it out loud](https://dev.to/adioof/ai-made-coding-boring-and-nobody-wants-to-admit-it-out-loud-pdg)
-- [I was burning context feeding HTML to LLMs, so I built a Markdown converter for agents](https://dev.to/kkonstantinov/i-was-burning-context-feeding-html-to-llms-so-i-built-a-markdown-converter-for-agents-2c2m)
-- [Building an AI Filmmaking API Taught Us That Great Endpoints Don&#39;t Create Great Films](https://dev.to/metter/building-an-ai-filmmaking-api-taught-us-that-great-endpoints-dont-create-great-films-4kc1)
-- [Dealing with Distraction &lpar;June 2026&rpar;](https://dev.to/nmiller15/dealing-with-distraction-june-2026-2l2)
-- [What We&#39;re Seeing After 8,000 SEO Audits](https://dev.to/avansledright/what-were-seeing-after-8000-seo-audits-395p)
+- [Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do](https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4)
+- [The People v. ASP.NET Core: A C#-Only HTTP Benchmark Trial](https://dev.to/fbio_reis_355b87b508598e/the-people-v-aspnet-core-a-c-only-http-benchmark-trial-b2)
+- [Building Hardware-Accelerated FFmpeg on NVIDIA Jetson AGX Orin 64GB](https://dev.to/vonusma/building-hardware-accelerated-ffmpeg-on-nvidia-jetson-agx-orin-64gb-3gg)
+- [Reducing Complexity: Replacing Entity-Based Services and Repositories with Purposeful Layers in Software Design](https://dev.to/kornilovconstru/reducing-complexity-replacing-entity-based-services-and-repositories-with-purposeful-layers-in-3ike)
+- [Implementing Bins - Phase 7 Mini Malloc](https://dev.to/moonlitpath1/implementing-bins-phase-7-mini-malloc-1g75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
