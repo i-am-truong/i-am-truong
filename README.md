@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3 vs DeepSeek R1: Which Open-Source Reasoning Model Should You Use in 2026?](https://dev.to/qainsights/qwen3-vs-deepseek-r1-which-open-source-reasoning-model-should-you-use-in-2026-370)
-- [What SMS OTP actually costs you, beyond the Twilio invoice](https://dev.to/ilyahye/what-sms-otp-actually-costs-you-beyond-the-twilio-invoice-3571)
-- [MVP vs Prototype: What First-Time Founders Need](https://dev.to/sclaydon/mvp-vs-prototype-what-first-time-founders-need-ed8)
-- [Engineering a High-Performance LSM-Tree Storage Engine: MemTables, SSTables, and Compaction](https://dev.to/ebendttl/engineering-a-high-performance-lsm-tree-storage-engine-memtables-sstables-and-compaction-3jfk)
-- [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc)
+- [Sanity and the case for a CMS that thinks like a developer](https://dev.to/fredcorr/sanity-and-the-case-for-a-cms-that-thinks-like-a-developer-547i)
+- [SSR vs CSR: The Rendering Choice That Changes Your Entire Web App](https://dev.to/pierre/server-side-rendering-client-side-rendering-single-page-application-2ec9)
+- [Three dumb ways our prod got slow &lpar;and not one was a slow algorithm&rpar;](https://dev.to/arvavit/three-dumb-ways-our-prod-got-slow-and-not-one-was-a-slow-algorithm-29ag)
+- [The ghost in my transcript: why my AI meeting app kept saying &#39;Thank you.&#39;](https://dev.to/_mh/the-ghost-in-my-transcript-why-my-ai-meeting-app-kept-saying-thank-you-17p1)
+- [Shrinking the Footprint and Cleaning the Pipes](https://dev.to/glad_labs/shrinking-the-footprint-and-cleaning-the-pipes-48if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
