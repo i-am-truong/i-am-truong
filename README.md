@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello, DEV! 👋 My first post and a quick intro](https://dev.to/sai_yalamanchili/hello-dev-my-first-post-and-a-quick-intro-fda)
-- [Green unit tests don&#39;t mean you can go live](https://dev.to/authagonal/green-unit-tests-dont-mean-you-can-go-live-1kdo)
-- [AI Didn&#39;t Replace Junior Developers.](https://dev.to/uigerhana/ai-didnt-replace-junior-developers-20a0)
-- [Build AI Coding Loops and Win $5,000 — TestSprite Season 3 Hackathon](https://dev.to/suzy_su_5d328f7d1c1b3ea34/build-ai-coding-loops-and-win-5000-testsprite-season-3-hackathon-c2b)
-- [AI Engineers Are Becoming Security Engineers.](https://dev.to/uigerhana/ai-engineers-are-becoming-security-engineers-55b5)
+- [Addressing the global namespace](https://dev.to/coldstorage/addressing-the-global-namespace-1k21)
+- [I Took the Udacity AWS Machine Learning Engineer Nanodegree. Here&#39;s What It Actually Teaches &lpar;2026&rpar;](https://dev.to/aqsa_zafar_e47324954dca66/i-took-the-udacity-aws-machine-learning-engineer-nanodegree-heres-what-it-actually-teaches-2026-45al)
+- [I Was About to Cancel Claude. Now Gemini Is Rate-Limiting Me Out of My Own Plan.](https://dev.to/mediblacksand_f0ea36c53fb/i-was-about-to-cancel-claude-now-gemini-is-rate-limiting-me-out-of-my-own-plan-215g)
+- [I don&#39;t trust the LLM to classify my email. So I don&#39;t let it.](https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9)
+- [Day 35 – ClickHouse® and S3 Integration: Querying Data Lakes](https://dev.to/kanishga_subramani_49ad73/day-35-clickhouser-and-s3-integration-querying-data-lakes-2j77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
