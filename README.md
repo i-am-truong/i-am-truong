@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Traces show what your agent did - a decision ledger shows what it was allowed to do](https://dev.to/whatsonyourmind/traces-show-what-your-agent-did-a-decision-ledger-shows-what-it-was-allowed-to-do-18b5)
-- [AI Systems Need Evidence, Not Just Observability](https://dev.to/ntctech/ai-systems-need-evidence-not-just-observability-3cpp)
-- [43 free browser tools that work offline — the full list](https://dev.to/virginia_vivo_92121260b/43-free-browser-tools-that-work-offline-the-full-list-4d3n)
-- [Converting iPhone HEVC Videos to Telegram Video Avatars with ffmpeg](https://dev.to/liveavabot/converting-iphone-hevc-videos-to-telegram-video-avatars-with-ffmpeg-100j)
-- [Top AI Papers on Hugging Face - 2026-06-25](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-25-4f8n)
+- [Qwen3 vs DeepSeek R1: Which Open-Source Reasoning Model Should You Use in 2026?](https://dev.to/qainsights/qwen3-vs-deepseek-r1-which-open-source-reasoning-model-should-you-use-in-2026-370)
+- [What SMS OTP actually costs you, beyond the Twilio invoice](https://dev.to/ilyahye/what-sms-otp-actually-costs-you-beyond-the-twilio-invoice-3571)
+- [MVP vs Prototype: What First-Time Founders Need](https://dev.to/sclaydon/mvp-vs-prototype-what-first-time-founders-need-ed8)
+- [Engineering a High-Performance LSM-Tree Storage Engine: MemTables, SSTables, and Compaction](https://dev.to/ebendttl/engineering-a-high-performance-lsm-tree-storage-engine-memtables-sstables-and-compaction-3jfk)
+- [Not Enough SMEs or Customers to Make Your Evals? Make Some!](https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
