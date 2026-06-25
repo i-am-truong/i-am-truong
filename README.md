@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a 50+ feature wellness app in a single HTML file as a student — here&#39;s why](https://dev.to/mognotaapp/i-built-a-50-feature-wellness-app-in-a-single-html-file-as-a-student-heres-why-37mj)
-- [How to Put an LLM in Your Product Without Wrecking Your Costs or Your Latency](https://dev.to/muhammadzainnaseer/how-to-put-an-llm-in-your-product-without-wrecking-your-costs-or-your-latency-89a)
-- [How We Built JungleTrade: A Modular Market Intelligence Platform](https://dev.to/dragomir_dikov/how-we-built-jungletrade-a-modular-market-intelligence-platform-17h)
-- [Escaping Cloud Lock-In: Building a real DORA exit strategy ☁️](https://dev.to/upsun/escaping-cloud-lock-in-building-a-real-dora-exit-strategy-20ij)
-- [Localizzare in massa la scheda App Store con ASC CLI &lpar;e perché conviene davvero&rpar;](https://dev.to/frontendfacile/localizzare-in-massa-la-scheda-app-store-con-asc-cli-e-perche-conviene-davvero-4220)
+- [Traces show what your agent did - a decision ledger shows what it was allowed to do](https://dev.to/whatsonyourmind/traces-show-what-your-agent-did-a-decision-ledger-shows-what-it-was-allowed-to-do-18b5)
+- [AI Systems Need Evidence, Not Just Observability](https://dev.to/ntctech/ai-systems-need-evidence-not-just-observability-3cpp)
+- [43 free browser tools that work offline — the full list](https://dev.to/virginia_vivo_92121260b/43-free-browser-tools-that-work-offline-the-full-list-4d3n)
+- [Converting iPhone HEVC Videos to Telegram Video Avatars with ffmpeg](https://dev.to/liveavabot/converting-iphone-hevc-videos-to-telegram-video-avatars-with-ffmpeg-100j)
+- [Top AI Papers on Hugging Face - 2026-06-25](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-25-4f8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
