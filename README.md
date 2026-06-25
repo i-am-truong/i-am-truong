@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 1.4 Seconds That Weren&#39;t on Any Span](https://dev.to/realmarcuschen/the-14-seconds-that-werent-on-any-span-483m)
-- [Exit intent that works on mobile, not just desktop](https://dev.to/arafat_islam_8831144b8c8f/exit-intent-that-works-on-mobile-not-just-desktop-3kdn)
-- [Stop building custom wrappers for your ML models.](https://dev.to/renato_marinho/stop-building-custom-wrappers-for-your-ml-models-1bk)
-- [Collect client feedback on a website without endless revision rounds](https://dev.to/matttdamon/collect-client-feedback-on-a-website-without-endless-revision-rounds-jc)
-- [Sync a mailbox into your own database with Nylas](https://dev.to/mqasimca/sync-a-mailbox-into-your-own-database-with-nylas-1mhe)
+- [Hello, DEV! 👋 My first post and a quick intro](https://dev.to/sai_yalamanchili/hello-dev-my-first-post-and-a-quick-intro-fda)
+- [Green unit tests don&#39;t mean you can go live](https://dev.to/authagonal/green-unit-tests-dont-mean-you-can-go-live-1kdo)
+- [AI Didn&#39;t Replace Junior Developers.](https://dev.to/uigerhana/ai-didnt-replace-junior-developers-20a0)
+- [Build AI Coding Loops and Win $5,000 — TestSprite Season 3 Hackathon](https://dev.to/suzy_su_5d328f7d1c1b3ea34/build-ai-coding-loops-and-win-5000-testsprite-season-3-hackathon-c2b)
+- [AI Engineers Are Becoming Security Engineers.](https://dev.to/uigerhana/ai-engineers-are-becoming-security-engineers-55b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
