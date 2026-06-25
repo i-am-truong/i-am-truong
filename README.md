@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Scanned 1,200 MCP Configs From GitHub. Here&#39;s What I Found.](https://dev.to/ad_0846/i-scanned-1200-mcp-configs-from-github-heres-what-i-found-45b3)
-- [How I built a YouTube performance classifier that adjusts tomorrow&#39;s video script bias](https://dev.to/morinaga/how-i-built-a-youtube-performance-classifier-that-adjusts-tomorrows-video-script-bias-19ba)
-- [Notable releases I&#39;m watching: Deno 2.8, Models.dev, DeepSeek V4 Pro permanent pricing](https://dev.to/morinaga/notable-releases-im-watching-deno-28-modelsdev-deepseek-v4-pro-permanent-pricing-2g26)
-- [Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets](https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d)
-- [Enterprise AI Agent Orchestration: Shared Memory &amp; Local-First...](https://dev.to/meghroop_tech/enterprise-ai-agent-orchestration-shared-memory-local-first-2c95)
+- [I built Zeninvo — free invoicing for freelancers](https://dev.to/muneebkh2/i-built-zeninvo-free-invoicing-for-freelancers-3n5l)
+- [&lpar;Spanish&rpar; El navegador ya no es solo para humanos](https://dev.to/ckomiya/el-navegador-ya-no-es-solo-para-humanos-1e6g)
+- [Don&#39;t let your engineering brain rot in the age of AI](https://dev.to/djordje_petrovic_f7295eb4/dont-let-your-engineering-brain-rot-in-the-age-of-ai-5d6m)
+- [Typical SaaS Churn Rate: How Bootstrapped Founders Can Benchmark and Protect Their Runway](https://dev.to/saasdev11/typical-saas-churn-rate-how-bootstrapped-founders-can-benchmark-and-protect-their-runway-1o0l)
+- [The chain shouldn&#39;t store your data: anchoring proofs, not data](https://dev.to/solidus_network/the-chain-shouldnt-store-your-data-anchoring-proofs-not-data-1mif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
