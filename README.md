@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built Zeninvo — free invoicing for freelancers](https://dev.to/muneebkh2/i-built-zeninvo-free-invoicing-for-freelancers-3n5l)
-- [&lpar;Spanish&rpar; El navegador ya no es solo para humanos](https://dev.to/ckomiya/el-navegador-ya-no-es-solo-para-humanos-1e6g)
-- [Don&#39;t let your engineering brain rot in the age of AI](https://dev.to/djordje_petrovic_f7295eb4/dont-let-your-engineering-brain-rot-in-the-age-of-ai-5d6m)
-- [Typical SaaS Churn Rate: How Bootstrapped Founders Can Benchmark and Protect Their Runway](https://dev.to/saasdev11/typical-saas-churn-rate-how-bootstrapped-founders-can-benchmark-and-protect-their-runway-1o0l)
-- [The chain shouldn&#39;t store your data: anchoring proofs, not data](https://dev.to/solidus_network/the-chain-shouldnt-store-your-data-anchoring-proofs-not-data-1mif)
+- [Can AI Scan the Internet? AI Search vs Real-Time Monitoring](https://dev.to/raj_savaliya/can-ai-scan-the-internet-ai-search-vs-real-time-monitoring-1i5k)
+- [tgo Devlog #3: Taming Context Windows, Compiling Lodash, and the Repetitive Reality of True Ownership](https://dev.to/mtleadership/tgo-devlog-3-taming-context-windows-compiling-lodash-and-the-repetitive-reality-of-true-4d7l)
+- [Array Methods in JS - Part 2](https://dev.to/annapoo/array-methods-in-js-part-2-3hic)
+- [Can We Talk About the &quot;AI/ML Engineer&quot; Shortcut for a Second?](https://dev.to/nadasshawer/can-we-talk-about-the-aiml-engineer-shortcut-for-a-second-2dc0)
+- [Mastering React Server Components in Next.js 15 Apps](https://dev.to/satyamsrivastava/mastering-react-server-components-in-nextjs-15-apps-5748)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
