@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 320 - Vanity Coverage](https://dev.to/mcsee/code-smell-320-vanity-coverage-2g03)
-- [The 45-tool problem: why Juejin 必备 roundups have stopped helping me pick AI tools](https://dev.to/ninghonggang/the-45-tool-problem-why-juejin-bi-bei-roundups-have-stopped-helping-me-pick-ai-tools-30ai)
-- [Building a Multimodal AI Pipeline: Text Image Text Across Three Providers](https://dev.to/yait/building-a-multimodal-ai-pipeline-text-image-text-across-three-providers-22oo)
-- [Building Structured Inter-Agent Communication: A Practical Guide](https://dev.to/albert_zhang_f468830cf0e6/building-structured-inter-agent-communication-a-practical-guide-m6)
-- [You shipped an MCP server. Nobody found it. Here&#39;s the fix.](https://dev.to/palo_alto_ai/you-shipped-an-mcp-server-nobody-found-it-heres-the-fix-10b9)
+- [AI commoditized code, not software. Developers keep confusing the two.](https://dev.to/adioof/ai-commoditized-code-not-software-developers-keep-confusing-the-two-el9)
+- [AI &amp; Machine Learning Servers: The Hidden Infrastructure Powering the AI Revolution](https://dev.to/pratik_kotak_4ece526afab4/ai-machine-learning-servers-the-hidden-infrastructure-powering-the-ai-revolution-12bl)
+- [How I Encrypt PDFs in the Browser with Vue 3 and @pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61)
+- [Ethereum ou Stellar: Quem Vence a Tokenização de Ativos no Brasil? [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/ethereum-ou-stellar-quem-vence-a-tokenizacao-de-ativos-no-brasil-pt-br-3bkb)
+- [How to Fine-Tune an LLM: A Complete Step-by-Step Guide](https://dev.to/prateek23/how-to-fine-tune-an-llm-a-complete-step-by-step-guide-5cop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
