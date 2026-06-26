@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI commoditized code, not software. Developers keep confusing the two.](https://dev.to/adioof/ai-commoditized-code-not-software-developers-keep-confusing-the-two-el9)
-- [AI &amp; Machine Learning Servers: The Hidden Infrastructure Powering the AI Revolution](https://dev.to/pratik_kotak_4ece526afab4/ai-machine-learning-servers-the-hidden-infrastructure-powering-the-ai-revolution-12bl)
-- [How I Encrypt PDFs in the Browser with Vue 3 and @pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61)
-- [Ethereum ou Stellar: Quem Vence a Tokenização de Ativos no Brasil? [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/ethereum-ou-stellar-quem-vence-a-tokenizacao-de-ativos-no-brasil-pt-br-3bkb)
-- [How to Fine-Tune an LLM: A Complete Step-by-Step Guide](https://dev.to/prateek23/how-to-fine-tune-an-llm-a-complete-step-by-step-guide-5cop)
+- [What would you add to the list?](https://dev.to/canro91/what-would-you-add-to-the-list-3c93)
+- [All you need is... &lpar;r&rpar;evolution!?](https://dev.to/nea/all-you-need-is-revolution-509l)
+- [How I built multi-tenant Row Level Security with Aurora PostgreSQL for a B2B SaaS — H0 Hackathon](https://dev.to/alomarac3/how-i-built-multi-tenant-row-level-security-with-aurora-postgresql-for-a-b2b-saas-h0-hackathon-1m54)
+- [Making of Aantraa](https://dev.to/shreyvijayvargiya/making-of-aantraa-3475)
+- [The AI reviewer scored 23/25 and missed the point](https://dev.to/michaeltruong/the-ai-reviewer-scored-2325-and-missed-the-point-51mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
