@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built nitro-pandas: pandas API + Polars speed, zero migration](https://dev.to/wassim_labdi_bf92539c5926/i-built-nitro-pandas-pandas-api-polars-speed-zero-migration-94d)
-- [The real cost of React Native animations: benchmarking every approach](https://dev.to/expo/the-real-cost-of-react-native-animations-benchmarking-every-approach-3bej)
-- [From Packed Binary to Readable Code: A Hands-On Walkthrough of Unpacking, Shellcode Analysis, and Memory Forensics](https://dev.to/almahmudkhalif/from-packed-binary-to-readable-code-a-hands-on-walkthrough-of-unpacking-shellcode-analysis-and-27bd)
-- [# Stop Uploading Sensitive Data to Online Tools: Use Browser-Based Developer Utilities Instead](https://dev.to/toolmight/-stop-uploading-sensitive-data-to-online-tools-use-browser-based-developer-utilities-instead-43f4)
-- [do you know what exactly startup code does ?](https://dev.to/hassaansyed/do-you-know-what-exactly-startup-code-does--295k)
+- [AI Automations for Local Service Businesses: What Actually Works](https://dev.to/acessio/ai-automations-for-local-service-businesses-what-actually-works-18f5)
+- [Left of the Loop: The Ever-Agreeing Genie](https://dev.to/aepfli/left-of-the-loop-the-ever-agreeing-genie-5cgj)
+- [How We Actually Measure Whether an LLM&#39;s Output Is Good - BLEU, COMET and BLEURT](https://dev.to/shrsv/how-we-actually-measure-whether-an-llms-output-is-good-bleu-comet-and-bleurt-3c0f)
+- [Left of the Loop: The End of the Craftsman?](https://dev.to/aepfli/the-end-of-the-craftsman-1b2n)
+- [Left of the Loop: A Fool with a Tool is Still a Fool](https://dev.to/aepfli/left-of-the-loop-a-fool-with-a-tool-is-still-a-fool-5eop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
