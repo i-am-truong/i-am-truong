@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OTP Verification in Playwright Without Regex](https://dev.to/zerodrop/otp-verification-in-playwright-without-regex-5ep2)
-- [96% of cuBLAS, no `unsafe`: what cuTile Rust proves](https://dev.to/creeta/96-of-cublas-no-unsafe-what-cutile-rust-proves-4ldp)
-- [When Old Things Take On New Meaning in the Age of AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-old-things-take-on-new-meaning-in-the-age-of-ai-bite-size-article-2kjf)
-- [The Langfuse migration that cost us a sprint: how I now budget LLM observability](https://dev.to/jasmine_park_dev/the-langfuse-migration-that-cost-us-a-sprint-how-i-now-budget-llm-observability-ane)
-- [I let my AI agent provision cloud infra. Then I made sure it couldn&#39;t go bankrupt doing it.](https://dev.to/vdalal/i-let-my-ai-agent-provision-cloud-infra-then-i-made-sure-it-couldnt-go-bankrupt-doing-it-g1p)
+- [Sandboxing Reality: How to Spoof iPhone Locations for Advanced Penetration Testing](https://dev.to/numbpill3d/sandboxing-reality-how-to-spoof-iphone-locations-for-advanced-penetration-testing-5dpg)
+- [I Built Chromium in the Cloud in 2 Hours for $2 — What If Google Made This a One-Click Setup?](https://dev.to/semih702/i-built-chromium-in-the-cloud-in-2-hours-for-2-what-if-google-made-this-a-one-click-setup-23hp)
+- [Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH](https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm)
+- [Instrument AI Agent Decision Tracing with OpenTelemetry](https://dev.to/toxsec/instrument-ai-agent-decision-tracing-with-opentelemetry-5b2k)
+- [How I Stopped Worrying About AI API Bills: A Data-Driven Breakdown of...](https://dev.to/fiercedash/how-i-stopped-worrying-about-ai-api-bills-a-data-driven-breakdown-of-23h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
