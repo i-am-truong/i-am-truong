@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Solana Trading Bot: Architecture, Sniping Logic, and Low-Latency Execution](https://dev.to/legendaryangelist/building-a-solana-trading-bot-architecture-sniping-logic-and-low-latency-execution-1nl5)
-- [Loop Engineering: Why Prompt Engineering Is Becoming Obsolete](https://dev.to/pebira/loop-engineering-why-prompt-engineering-is-becoming-obsolete-58oj)
-- [Automating Student Onboarding via WhatsApp in SugarCRM](https://dev.to/northbeamtech/automating-student-onboarding-via-whatsapp-in-sugarcrm-pad)
-- [Understanding Filament themes in v4/v5: from Colors to custom CSS](https://dev.to/filamentmastery/understanding-filament-themes-in-v4v5-from-colors-to-custom-css-57a5)
-- [The No-Panic Guide to JSON Schema Validation for REST APIs](https://dev.to/janardan_joshi_6f21026e06/the-no-panic-guide-to-json-schema-validation-for-rest-apis-3ddp)
+- [Code Smell 320 - Vanity Coverage](https://dev.to/mcsee/code-smell-320-vanity-coverage-2g03)
+- [The 45-tool problem: why Juejin 必备 roundups have stopped helping me pick AI tools](https://dev.to/ninghonggang/the-45-tool-problem-why-juejin-bi-bei-roundups-have-stopped-helping-me-pick-ai-tools-30ai)
+- [Building a Multimodal AI Pipeline: Text Image Text Across Three Providers](https://dev.to/yait/building-a-multimodal-ai-pipeline-text-image-text-across-three-providers-22oo)
+- [Building Structured Inter-Agent Communication: A Practical Guide](https://dev.to/albert_zhang_f468830cf0e6/building-structured-inter-agent-communication-a-practical-guide-m6)
+- [You shipped an MCP server. Nobody found it. Here&#39;s the fix.](https://dev.to/palo_alto_ai/you-shipped-an-mcp-server-nobody-found-it-heres-the-fix-10b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
