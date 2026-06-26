@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Automations for Local Service Businesses: What Actually Works](https://dev.to/acessio/ai-automations-for-local-service-businesses-what-actually-works-18f5)
-- [Left of the Loop: The Ever-Agreeing Genie](https://dev.to/aepfli/left-of-the-loop-the-ever-agreeing-genie-5cgj)
-- [How We Actually Measure Whether an LLM&#39;s Output Is Good - BLEU, COMET and BLEURT](https://dev.to/shrsv/how-we-actually-measure-whether-an-llms-output-is-good-bleu-comet-and-bleurt-3c0f)
-- [Left of the Loop: The End of the Craftsman?](https://dev.to/aepfli/the-end-of-the-craftsman-1b2n)
-- [Left of the Loop: A Fool with a Tool is Still a Fool](https://dev.to/aepfli/left-of-the-loop-a-fool-with-a-tool-is-still-a-fool-5eop)
+- [Built a Full-Stack AI Chatbot using AWS Bedrock + JavaScript](https://dev.to/sundus/built-a-full-stack-ai-chatbot-using-aws-bedrock-javascript-2el7)
+- [Four Bugs Stood Between Me amd &quot;Sign in with Google&quot;](https://dev.to/mido-dev/four-bugs-stood-between-me-sign-in-with-google-2ajn)
+- [Single-Modal LLMs Have a Blind Spot. Here&#39;s How to Fix It.](https://dev.to/yuhaolin2005/single-modal-llms-have-a-blind-spot-heres-how-to-fix-it-2ogd)
+- [SuperCompress is now on PyPI! pip install supercompress in 1 line](https://dev.to/arjunkshah/supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line-20ja)
+- [I Let 24 Famous Engineers Review My Methodology. Here&#39;s What Happened.](https://dev.to/yuhaolin2005/i-let-24-famous-engineers-review-my-methodology-heres-what-happened-31k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
