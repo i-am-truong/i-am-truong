@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Scan the Internet? AI Search vs Real-Time Monitoring](https://dev.to/raj_savaliya/can-ai-scan-the-internet-ai-search-vs-real-time-monitoring-1i5k)
-- [tgo Devlog #3: Taming Context Windows, Compiling Lodash, and the Repetitive Reality of True Ownership](https://dev.to/mtleadership/tgo-devlog-3-taming-context-windows-compiling-lodash-and-the-repetitive-reality-of-true-4d7l)
-- [Array Methods in JS - Part 2](https://dev.to/annapoo/array-methods-in-js-part-2-3hic)
-- [Can We Talk About the &quot;AI/ML Engineer&quot; Shortcut for a Second?](https://dev.to/nadasshawer/can-we-talk-about-the-aiml-engineer-shortcut-for-a-second-2dc0)
-- [Mastering React Server Components in Next.js 15 Apps](https://dev.to/satyamsrivastava/mastering-react-server-components-in-nextjs-15-apps-5748)
+- [Building a Solana Trading Bot: Architecture, Sniping Logic, and Low-Latency Execution](https://dev.to/legendaryangelist/building-a-solana-trading-bot-architecture-sniping-logic-and-low-latency-execution-1nl5)
+- [Loop Engineering: Why Prompt Engineering Is Becoming Obsolete](https://dev.to/pebira/loop-engineering-why-prompt-engineering-is-becoming-obsolete-58oj)
+- [Automating Student Onboarding via WhatsApp in SugarCRM](https://dev.to/northbeamtech/automating-student-onboarding-via-whatsapp-in-sugarcrm-pad)
+- [Understanding Filament themes in v4/v5: from Colors to custom CSS](https://dev.to/filamentmastery/understanding-filament-themes-in-v4v5-from-colors-to-custom-css-57a5)
+- [The No-Panic Guide to JSON Schema Validation for REST APIs](https://dev.to/janardan_joshi_6f21026e06/the-no-panic-guide-to-json-schema-validation-for-rest-apis-3ddp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
