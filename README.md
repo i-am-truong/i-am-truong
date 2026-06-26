@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a Full-Stack AI Chatbot using AWS Bedrock + JavaScript](https://dev.to/sundus/built-a-full-stack-ai-chatbot-using-aws-bedrock-javascript-2el7)
-- [Four Bugs Stood Between Me amd &quot;Sign in with Google&quot;](https://dev.to/mido-dev/four-bugs-stood-between-me-sign-in-with-google-2ajn)
-- [Single-Modal LLMs Have a Blind Spot. Here&#39;s How to Fix It.](https://dev.to/yuhaolin2005/single-modal-llms-have-a-blind-spot-heres-how-to-fix-it-2ogd)
-- [SuperCompress is now on PyPI! pip install supercompress in 1 line](https://dev.to/arjunkshah/supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line-20ja)
-- [I Let 24 Famous Engineers Review My Methodology. Here&#39;s What Happened.](https://dev.to/yuhaolin2005/i-let-24-famous-engineers-review-my-methodology-heres-what-happened-31k4)
+- [OTP Verification in Playwright Without Regex](https://dev.to/zerodrop/otp-verification-in-playwright-without-regex-5ep2)
+- [96% of cuBLAS, no `unsafe`: what cuTile Rust proves](https://dev.to/creeta/96-of-cublas-no-unsafe-what-cutile-rust-proves-4ldp)
+- [When Old Things Take On New Meaning in the Age of AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-old-things-take-on-new-meaning-in-the-age-of-ai-bite-size-article-2kjf)
+- [The Langfuse migration that cost us a sprint: how I now budget LLM observability](https://dev.to/jasmine_park_dev/the-langfuse-migration-that-cost-us-a-sprint-how-i-now-budget-llm-observability-ane)
+- [I let my AI agent provision cloud infra. Then I made sure it couldn&#39;t go bankrupt doing it.](https://dev.to/vdalal/i-let-my-ai-agent-provision-cloud-infra-then-i-made-sure-it-couldnt-go-bankrupt-doing-it-g1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
