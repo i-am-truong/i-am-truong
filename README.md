@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What would you add to the list?](https://dev.to/canro91/what-would-you-add-to-the-list-3c93)
-- [All you need is... &lpar;r&rpar;evolution!?](https://dev.to/nea/all-you-need-is-revolution-509l)
-- [How I built multi-tenant Row Level Security with Aurora PostgreSQL for a B2B SaaS — H0 Hackathon](https://dev.to/alomarac3/how-i-built-multi-tenant-row-level-security-with-aurora-postgresql-for-a-b2b-saas-h0-hackathon-1m54)
-- [Making of Aantraa](https://dev.to/shreyvijayvargiya/making-of-aantraa-3475)
-- [The AI reviewer scored 23/25 and missed the point](https://dev.to/michaeltruong/the-ai-reviewer-scored-2325-and-missed-the-point-51mh)
+- [I built nitro-pandas: pandas API + Polars speed, zero migration](https://dev.to/wassim_labdi_bf92539c5926/i-built-nitro-pandas-pandas-api-polars-speed-zero-migration-94d)
+- [The real cost of React Native animations: benchmarking every approach](https://dev.to/expo/the-real-cost-of-react-native-animations-benchmarking-every-approach-3bej)
+- [From Packed Binary to Readable Code: A Hands-On Walkthrough of Unpacking, Shellcode Analysis, and Memory Forensics](https://dev.to/almahmudkhalif/from-packed-binary-to-readable-code-a-hands-on-walkthrough-of-unpacking-shellcode-analysis-and-27bd)
+- [# Stop Uploading Sensitive Data to Online Tools: Use Browser-Based Developer Utilities Instead](https://dev.to/toolmight/-stop-uploading-sensitive-data-to-online-tools-use-browser-based-developer-utilities-instead-43f4)
+- [do you know what exactly startup code does ?](https://dev.to/hassaansyed/do-you-know-what-exactly-startup-code-does--295k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
