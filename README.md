@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Machine Learning: Building a Physics-Informed Pattern Recognition AI for Edge Infrastructure](https://dev.to/omer5592/beyond-machine-learning-building-a-physics-informed-pattern-recognition-ai-for-edge-infrastructure-45nc)
-- [Building Ekehi: My Week in Reviews and a New Submissions Page](https://dev.to/aj1732/building-ekehi-my-week-in-reviews-and-a-new-submissions-page-2mdn)
-- [I built CarvePHP: finding service boundaries in Laravel monoliths](https://dev.to/mwaleedkhalil/i-built-carvephp-finding-service-boundaries-in-laravel-monoliths-103m)
-- [An Engineer Costs $250K. Their Tokens Cost $20K. That Math Is a Trap.](https://dev.to/michaeltuszynski/an-engineer-costs-250k-their-tokens-cost-20k-that-math-is-a-trap-22ce)
-- [🚀 Introducing CloudOps Blog – Practical AWS, Kubernetes &amp; DevOps Guides](https://dev.to/manojkumar_gogineni_6631c/introducing-cloudops-blog-practical-aws-kubernetes-devops-guides-20jc)
+- [I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5)
+- [Your AI Agent Doesn&#39;t Need to Be Smarter. It Needs to Be Idempotent](https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736)
+- [Humanizing Artificial Intelligence for Log Analysis: Turning Raw Server Logs Into Clear DevOps Answers](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-log-analysis-turning-raw-server-logs-into-clear-devops-2dnm)
+- [We Built an AI Receptionist. The Hard Part Wasn&#39;t Making It Sound Human.](https://dev.to/syednoor760dev/we-built-an-ai-receptionist-the-hard-part-wasnt-making-it-sound-human-1le1)
+- [GCC vs Clang: A Low‑Level Systems Compiler Showdown](https://dev.to/paradane/gcc-vs-clang-a-low-level-systems-compiler-showdown-3210)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
