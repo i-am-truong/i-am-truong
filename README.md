@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sandboxing Reality: How to Spoof iPhone Locations for Advanced Penetration Testing](https://dev.to/numbpill3d/sandboxing-reality-how-to-spoof-iphone-locations-for-advanced-penetration-testing-5dpg)
-- [I Built Chromium in the Cloud in 2 Hours for $2 — What If Google Made This a One-Click Setup?](https://dev.to/semih702/i-built-chromium-in-the-cloud-in-2-hours-for-2-what-if-google-made-this-a-one-click-setup-23hp)
-- [Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH](https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm)
-- [Instrument AI Agent Decision Tracing with OpenTelemetry](https://dev.to/toxsec/instrument-ai-agent-decision-tracing-with-opentelemetry-5b2k)
-- [How I Stopped Worrying About AI API Bills: A Data-Driven Breakdown of...](https://dev.to/fiercedash/how-i-stopped-worrying-about-ai-api-bills-a-data-driven-breakdown-of-23h0)
+- [What happens when companies become too AI-pilled?](https://dev.to/judy_miranttie/what-happens-when-companies-become-too-ai-pilled-27fo)
+- [Why Enterprise AI Needs Structured Dissent, Not Just More Agents](https://dev.to/amising6/why-enterprise-ai-needs-structured-dissent-not-just-more-agents-5cn)
+- [I wanted a Go networking engine that gets out of the way, so I built one &lpar;Breeze&rpar;.](https://dev.to/nelthaarion/i-wanted-a-go-networking-engine-that-gets-out-of-the-way-so-i-built-one-breeze-3jc)
+- [Mastering the &quot;Quantified Self&quot;: Building a Blazing-Fast Heart Rate Dashboard with DuckDB and Streamlit](https://dev.to/beck_moulton/mastering-the-quantified-self-building-a-blazing-fast-heart-rate-dashboard-with-duckdb-and-1eed)
+- [Why your prototype works for you but not for anyone else](https://dev.to/saveyourproject/why-your-prototype-works-for-you-but-not-for-anyone-else-1fgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
