@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5)
-- [Your AI Agent Doesn&#39;t Need to Be Smarter. It Needs to Be Idempotent](https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736)
-- [Humanizing Artificial Intelligence for Log Analysis: Turning Raw Server Logs Into Clear DevOps Answers](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-log-analysis-turning-raw-server-logs-into-clear-devops-2dnm)
-- [We Built an AI Receptionist. The Hard Part Wasn&#39;t Making It Sound Human.](https://dev.to/syednoor760dev/we-built-an-ai-receptionist-the-hard-part-wasnt-making-it-sound-human-1le1)
-- [GCC vs Clang: A Low‑Level Systems Compiler Showdown](https://dev.to/paradane/gcc-vs-clang-a-low-level-systems-compiler-showdown-3210)
+- [How to prove an AI agent output existed — x402 + NEAR anchoring in practice](https://dev.to/gitsergecrypto/how-to-prove-an-ai-agent-output-existed-x402-near-anchoring-in-practice-2ede)
+- [AI Coding Agents Are the New Attack Surface Nobody&#39;s Ready For](https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1)
+- [Docker -Networking and Best Practices](https://dev.to/ramya_perumal_e93721ef2fa/docker-networking-and-best-practices-17ji)
+- [Docker – ARG Directive, .dockerignore, and Docker Volumes](https://dev.to/ramya_perumal_e93721ef2fa/docker-arg-directive-dockerignore-and-docker-volumes-29kh)
+- [Docker – Port Mapping, Logs, Container Management, and Image Removal](https://dev.to/ramya_perumal_e93721ef2fa/docker-port-mapping-logs-container-management-and-image-removal-20oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
