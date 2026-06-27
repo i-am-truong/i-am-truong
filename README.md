@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UTC, GMT, and the time zone bugs that keep biting developers](https://dev.to/gavinbuilds/utc-gmt-and-the-time-zone-bugs-that-keep-biting-developers-4e2n)
-- [Why I Stopped Chasing Every Market](https://dev.to/stinklewinks/why-i-stopped-chasing-every-market-3586)
-- [Network Fingerprinting: Analyzing Default ICMP Structures and Payload Mimicry](https://dev.to/jm00nj/network-fingerprinting-analyzing-default-icmp-structures-and-payload-mimicry-4636)
-- [I built a community platform to discover all Web-based OS projects 🖥️](https://dev.to/hyggshios/i-built-a-community-platform-to-discover-all-web-based-os-projects-37n0)
-- [From Informatica XML to Snowflake: Why ETL Migration Needs a Governed Delivery Workflow](https://dev.to/amising6/from-informatica-xml-to-snowflake-why-etl-migration-needs-a-governed-delivery-workflow-6kn)
+- [Detecting Supply-Chain Malware Without Running the Code](https://dev.to/pavelespitia/detecting-supply-chain-malware-without-running-the-code-d9g)
+- [I Built 9 Production-Ready Telegram Bots in Python &lpar;Open Source&rpar;](https://dev.to/castanderness/i-built-9-production-ready-telegram-bots-in-python-open-source-345h)
+- [Applying API Testing Frameworks in the Real World: A Practical Guide with Pytest](https://dev.to/rodrigo_sidneycolquequi/applying-api-testing-frameworks-in-the-real-world-a-practical-guide-with-pytest-2pj8)
+- [Applying API Testing Frameworks in the Real World: A Practical Guide with Pytest](https://dev.to/rodrigo_sidneycolquequi/applying-api-testing-frameworks-in-the-real-world-a-practical-guide-with-pytest-567d)
+- [The Fastest Way to Generate 8 Ideas Online — Crazy 8 Ideation &lpar;Free, No Login&rpar;](https://dev.to/strangejibson/the-fastest-way-to-generate-8-ideas-online-crazy-8-ideation-free-no-login-2d9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
