@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent That Rewrites Its Own Code &lpar;in ~150 lines&rpar;](https://dev.to/shridhar_shah2297/i-built-an-ai-agent-that-rewrites-its-own-code-in-150-lines-3jjo)
-- [Undisclosed 0-Days, OpenZL for Zero-Trust, and Reddit&#39;s Anti-Spam Architecture](https://dev.to/soytuber/undisclosed-0-days-openzl-for-zero-trust-and-reddits-anti-spam-architecture-4mbl)
-- [My routine said it ran. It was lying.](https://dev.to/eltony_lfgi/my-routine-said-it-ran-it-was-lying-2gfb)
-- [Burnout isn&#39;t just &quot;being tired&quot;—it’s a cascading symptoms.](https://dev.to/coach_elizabeth_4b966c6c8/burnout-isnt-just-being-tired-its-a-cognitive-memory-leak-do-we-actually-know-what-it-is-2jh5)
-- [I built a daily Linux command-line quiz because I kept forgetting flags](https://dev.to/getchowned/i-built-a-daily-linux-command-line-quiz-because-i-kept-forgetting-flags-56nd)
+- [Dynamic pricing on Shopify is not a pricing problem. It is a blast-radius problem.](https://dev.to/macmcfall/dynamic-pricing-on-shopify-is-not-a-pricing-problem-it-is-a-blast-radius-problem-2phm)
+- [n8n Expressions: How to Use Dynamic Data in Your Workflows &lpar;Free Examples&rpar;](https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j)
+- [A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Supply Chain Attack](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h)
+- [Building an Artist Attribution Model with PyTorch and ResNet-50](https://dev.to/ghazy001/building-an-artist-attribution-model-with-pytorch-and-resnet-50-2pde)
+- [Building a RAG System from Scratch — Wrap-up and What Comes Next](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-wrap-up-and-what-comes-next-2821)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
