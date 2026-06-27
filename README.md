@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Before you sell an AI connector, map the trust boundary](https://dev.to/talk2bogdan/before-you-sell-an-ai-connector-map-the-trust-boundary-h0l)
-- [React&#39;s real problem is corporate capture, not technical debt](https://dev.to/adioof/reacts-real-problem-is-corporate-capture-not-technical-debt-24i4)
-- [DeerFlow 2.0 Review: ByteDance&#39;s Open SuperAgent Harness](https://dev.to/andrew-ooo/deerflow-20-review-bytedances-open-superagent-harness-5he0)
-- [How I Built an AI Voice Agent to Cut COD Returns by 40%](https://dev.to/ratnam_sachan_fcd312f42d1/how-i-built-an-ai-voice-agent-to-cut-cod-returns-by-40-1kam)
-- [How I Used AI to Simulate Realistic Coding Interviews](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-used-ai-to-simulate-realistic-coding-interviews-42im)
+- [I built TokenBoard to track AI coding token usage without uploading prompts or code](https://dev.to/hui_chen_2437f5c7248178f9/i-built-tokenboard-to-track-ai-coding-token-usage-without-uploading-prompts-or-code-39ek)
+- [Luminary: a NextJS migration story.](https://dev.to/biola/luminary-a-nextjs-migration-story-1n1i)
+- [RHoiScribe: Not Teaching AI HOI4 — But Teaching It Not to Break Things](https://dev.to/czxieddan/rhoiscribe-not-teaching-ai-hoi4-but-teaching-it-not-to-break-things-2d55)
+- [OpenAI and Broadcom&#39;s Jalapeño, a Custom Inference ASIC: Inference ASIC vs GPU](https://dev.to/pueding/openai-and-broadcoms-jalapeno-a-custom-inference-asic-inference-asic-vs-gpu-36jm)
+- [You pay for Claude, Codex, and Cursor every month.](https://dev.to/torukmakto2992/you-pay-for-claude-codex-and-cursor-every-month-564i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
