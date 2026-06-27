@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a cache-first dashboard — explicit fetch and a &quot;closes-but-keeps-running&quot; notice](https://dev.to/susumun/building-a-cache-first-dashboard-explicit-fetch-and-a-closes-but-keeps-running-notice-4l60)
-- [How to Match Orders in 100 Lines of Ruby](https://dev.to/buhrmi/how-to-match-orders-in-100-lines-of-ruby-4el7)
-- [MemStrata Beats RAG comprehensively on mutating code content - http://arxiv.org/abs/2606.26511](https://dev.to/yadu989/memstrata-beats-rag-comprehensively-on-mutating-code-content-httparxivorgabs260626511-1md4)
-- [How I auto-generate 800+ App Store screenshots across 39 languages and 3 devices](https://dev.to/netflowers/how-i-auto-generate-800-app-store-screenshots-across-39-languages-and-3-devices-1em7)
-- [I shipped a Pomodoro app in 39 languages as a solo dev — here&#39;s how i18n actually went](https://dev.to/netflowers/i-shipped-a-pomodoro-app-in-39-languages-as-a-solo-dev-heres-how-i18n-actually-went-4l80)
+- [How I built a simple AI router to avoid vendor lock-in and costs](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-built-a-simple-ai-router-to-avoid-vendor-lock-in-and-costs-2mbo)
+- [Leveling Up Observability: SLO Rollup and Grafana Dashboards in Hermes-Memory-Installer](https://dev.to/manoir_yantai_f22f01340f0/leveling-up-observability-slo-rollup-and-grafana-dashboards-in-hermes-memory-installer-1478)
+- [Airflow vs n8n vs Temporal for API workflow orchestration](https://dev.to/chasebot/airflow-vs-n8n-vs-temporal-for-api-workflow-orchestration-19j)
+- [UK Healthcare AI Is Running Wild — And The Industry Wants It Fixed](https://dev.to/amrree/uk-healthcare-ai-is-running-wild-and-the-industry-wants-it-fixed-1d2g)
+- [AI Table Generator Features Worth Actually Using](https://dev.to/olayiwola_akinnagbe/ai-table-generator-features-worth-actually-using-3802)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
