@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What happens when companies become too AI-pilled?](https://dev.to/judy_miranttie/what-happens-when-companies-become-too-ai-pilled-27fo)
-- [Why Enterprise AI Needs Structured Dissent, Not Just More Agents](https://dev.to/amising6/why-enterprise-ai-needs-structured-dissent-not-just-more-agents-5cn)
-- [I wanted a Go networking engine that gets out of the way, so I built one &lpar;Breeze&rpar;.](https://dev.to/nelthaarion/i-wanted-a-go-networking-engine-that-gets-out-of-the-way-so-i-built-one-breeze-3jc)
-- [Mastering the &quot;Quantified Self&quot;: Building a Blazing-Fast Heart Rate Dashboard with DuckDB and Streamlit](https://dev.to/beck_moulton/mastering-the-quantified-self-building-a-blazing-fast-heart-rate-dashboard-with-duckdb-and-1eed)
-- [Why your prototype works for you but not for anyone else](https://dev.to/saveyourproject/why-your-prototype-works-for-you-but-not-for-anyone-else-1fgl)
+- [Building a cache-first dashboard — explicit fetch and a &quot;closes-but-keeps-running&quot; notice](https://dev.to/susumun/building-a-cache-first-dashboard-explicit-fetch-and-a-closes-but-keeps-running-notice-4l60)
+- [How to Match Orders in 100 Lines of Ruby](https://dev.to/buhrmi/how-to-match-orders-in-100-lines-of-ruby-4el7)
+- [MemStrata Beats RAG comprehensively on mutating code content - http://arxiv.org/abs/2606.26511](https://dev.to/yadu989/memstrata-beats-rag-comprehensively-on-mutating-code-content-httparxivorgabs260626511-1md4)
+- [How I auto-generate 800+ App Store screenshots across 39 languages and 3 devices](https://dev.to/netflowers/how-i-auto-generate-800-app-store-screenshots-across-39-languages-and-3-devices-1em7)
+- [I shipped a Pomodoro app in 39 languages as a solo dev — here&#39;s how i18n actually went](https://dev.to/netflowers/i-shipped-a-pomodoro-app-in-39-languages-as-a-solo-dev-heres-how-i18n-actually-went-4l80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
