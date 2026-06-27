@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Supply-Chain Malware Without Running the Code](https://dev.to/pavelespitia/detecting-supply-chain-malware-without-running-the-code-d9g)
-- [I Built 9 Production-Ready Telegram Bots in Python &lpar;Open Source&rpar;](https://dev.to/castanderness/i-built-9-production-ready-telegram-bots-in-python-open-source-345h)
-- [Applying API Testing Frameworks in the Real World: A Practical Guide with Pytest](https://dev.to/rodrigo_sidneycolquequi/applying-api-testing-frameworks-in-the-real-world-a-practical-guide-with-pytest-2pj8)
-- [Applying API Testing Frameworks in the Real World: A Practical Guide with Pytest](https://dev.to/rodrigo_sidneycolquequi/applying-api-testing-frameworks-in-the-real-world-a-practical-guide-with-pytest-567d)
-- [The Fastest Way to Generate 8 Ideas Online — Crazy 8 Ideation &lpar;Free, No Login&rpar;](https://dev.to/strangejibson/the-fastest-way-to-generate-8-ideas-online-crazy-8-ideation-free-no-login-2d9c)
+- [Stop Asking AI for Common Sense: How to Extract Contrarian Insights That Actually Get Read](https://dev.to/blobxiaoyao/stop-asking-ai-for-common-sense-how-to-extract-contrarian-insights-that-actually-get-read-3eel)
+- [Don&#39;t Repeat Data: Zero Copy](https://dev.to/syncrofosatron/dont-repeat-data-zero-copy-1ff0)
+- [THE KNOWLEDGE ATOM // Writing for Machines That Read](https://dev.to/faripod/the-knowledge-atom-writing-for-machines-that-read-58fh)
+- [I open-sourced A full-stack, peer-to-peer coinflip betting game on Solana](https://dev.to/xniiinx/i-open-sourced-a-full-stack-peer-to-peer-coinflip-betting-game-on-solana-20bf)
+- [The Case for Standardizing the Design of Websites](https://dev.to/headzoo/the-case-for-standardizing-the-design-of-websites-e95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
