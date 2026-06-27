@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Asking AI for Common Sense: How to Extract Contrarian Insights That Actually Get Read](https://dev.to/blobxiaoyao/stop-asking-ai-for-common-sense-how-to-extract-contrarian-insights-that-actually-get-read-3eel)
-- [Don&#39;t Repeat Data: Zero Copy](https://dev.to/syncrofosatron/dont-repeat-data-zero-copy-1ff0)
-- [THE KNOWLEDGE ATOM // Writing for Machines That Read](https://dev.to/faripod/the-knowledge-atom-writing-for-machines-that-read-58fh)
-- [I open-sourced A full-stack, peer-to-peer coinflip betting game on Solana](https://dev.to/xniiinx/i-open-sourced-a-full-stack-peer-to-peer-coinflip-betting-game-on-solana-20bf)
-- [The Case for Standardizing the Design of Websites](https://dev.to/headzoo/the-case-for-standardizing-the-design-of-websites-e95)
+- [I Built a Free Browser-Based Urdu Writing and Design Platform](https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169)
+- [How to build a production-ready app with Claude Code](https://dev.to/grepzero/how-to-build-a-production-ready-app-with-claude-code-me5)
+- [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
+- [7 AI-Native Shifts Beyond the Horseless Carriage](https://dev.to/turtleand/7-ai-native-shifts-beyond-the-horseless-carriage-4kbe)
+- [Monitoring Tools for React Apps — Which One Do You Actually Need?](https://dev.to/kushang_tailor/monitoring-tools-for-react-apps-which-one-do-you-actually-need-234e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
