@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Browser-Based Urdu Writing and Design Platform](https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169)
-- [How to build a production-ready app with Claude Code](https://dev.to/grepzero/how-to-build-a-production-ready-app-with-claude-code-me5)
-- [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
-- [7 AI-Native Shifts Beyond the Horseless Carriage](https://dev.to/turtleand/7-ai-native-shifts-beyond-the-horseless-carriage-4kbe)
-- [Monitoring Tools for React Apps — Which One Do You Actually Need?](https://dev.to/kushang_tailor/monitoring-tools-for-react-apps-which-one-do-you-actually-need-234e)
+- [Beyond Machine Learning: Building a Physics-Informed Pattern Recognition AI for Edge Infrastructure](https://dev.to/omer5592/beyond-machine-learning-building-a-physics-informed-pattern-recognition-ai-for-edge-infrastructure-45nc)
+- [Building Ekehi: My Week in Reviews and a New Submissions Page](https://dev.to/aj1732/building-ekehi-my-week-in-reviews-and-a-new-submissions-page-2mdn)
+- [I built CarvePHP: finding service boundaries in Laravel monoliths](https://dev.to/mwaleedkhalil/i-built-carvephp-finding-service-boundaries-in-laravel-monoliths-103m)
+- [An Engineer Costs $250K. Their Tokens Cost $20K. That Math Is a Trap.](https://dev.to/michaeltuszynski/an-engineer-costs-250k-their-tokens-cost-20k-that-math-is-a-trap-22ce)
+- [🚀 Introducing CloudOps Blog – Practical AWS, Kubernetes &amp; DevOps Guides](https://dev.to/manojkumar_gogineni_6631c/introducing-cloudops-blog-practical-aws-kubernetes-devops-guides-20jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
