@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built a simple AI router to avoid vendor lock-in and costs](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-built-a-simple-ai-router-to-avoid-vendor-lock-in-and-costs-2mbo)
-- [Leveling Up Observability: SLO Rollup and Grafana Dashboards in Hermes-Memory-Installer](https://dev.to/manoir_yantai_f22f01340f0/leveling-up-observability-slo-rollup-and-grafana-dashboards-in-hermes-memory-installer-1478)
-- [Airflow vs n8n vs Temporal for API workflow orchestration](https://dev.to/chasebot/airflow-vs-n8n-vs-temporal-for-api-workflow-orchestration-19j)
-- [UK Healthcare AI Is Running Wild — And The Industry Wants It Fixed](https://dev.to/amrree/uk-healthcare-ai-is-running-wild-and-the-industry-wants-it-fixed-1d2g)
-- [AI Table Generator Features Worth Actually Using](https://dev.to/olayiwola_akinnagbe/ai-table-generator-features-worth-actually-using-3802)
+- [Before you sell an AI connector, map the trust boundary](https://dev.to/talk2bogdan/before-you-sell-an-ai-connector-map-the-trust-boundary-h0l)
+- [React&#39;s real problem is corporate capture, not technical debt](https://dev.to/adioof/reacts-real-problem-is-corporate-capture-not-technical-debt-24i4)
+- [DeerFlow 2.0 Review: ByteDance&#39;s Open SuperAgent Harness](https://dev.to/andrew-ooo/deerflow-20-review-bytedances-open-superagent-harness-5he0)
+- [How I Built an AI Voice Agent to Cut COD Returns by 40%](https://dev.to/ratnam_sachan_fcd312f42d1/how-i-built-an-ai-voice-agent-to-cut-cod-returns-by-40-1kam)
+- [How I Used AI to Simulate Realistic Coding Interviews](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-used-ai-to-simulate-realistic-coding-interviews-42im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
