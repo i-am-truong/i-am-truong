@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prove an AI agent output existed — x402 + NEAR anchoring in practice](https://dev.to/gitsergecrypto/how-to-prove-an-ai-agent-output-existed-x402-near-anchoring-in-practice-2ede)
-- [AI Coding Agents Are the New Attack Surface Nobody&#39;s Ready For](https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1)
-- [Docker -Networking and Best Practices](https://dev.to/ramya_perumal_e93721ef2fa/docker-networking-and-best-practices-17ji)
-- [Docker – ARG Directive, .dockerignore, and Docker Volumes](https://dev.to/ramya_perumal_e93721ef2fa/docker-arg-directive-dockerignore-and-docker-volumes-29kh)
-- [Docker – Port Mapping, Logs, Container Management, and Image Removal](https://dev.to/ramya_perumal_e93721ef2fa/docker-port-mapping-logs-container-management-and-image-removal-20oo)
+- [I Built an AI Agent That Rewrites Its Own Code &lpar;in ~150 lines&rpar;](https://dev.to/shridhar_shah2297/i-built-an-ai-agent-that-rewrites-its-own-code-in-150-lines-3jjo)
+- [Undisclosed 0-Days, OpenZL for Zero-Trust, and Reddit&#39;s Anti-Spam Architecture](https://dev.to/soytuber/undisclosed-0-days-openzl-for-zero-trust-and-reddits-anti-spam-architecture-4mbl)
+- [My routine said it ran. It was lying.](https://dev.to/eltony_lfgi/my-routine-said-it-ran-it-was-lying-2gfb)
+- [Burnout isn&#39;t just &quot;being tired&quot;—it’s a cascading symptoms.](https://dev.to/coach_elizabeth_4b966c6c8/burnout-isnt-just-being-tired-its-a-cognitive-memory-leak-do-we-actually-know-what-it-is-2jh5)
+- [I built a daily Linux command-line quiz because I kept forgetting flags](https://dev.to/getchowned/i-built-a-daily-linux-command-line-quiz-because-i-kept-forgetting-flags-56nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
