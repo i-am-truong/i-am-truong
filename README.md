@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic pricing on Shopify is not a pricing problem. It is a blast-radius problem.](https://dev.to/macmcfall/dynamic-pricing-on-shopify-is-not-a-pricing-problem-it-is-a-blast-radius-problem-2phm)
-- [n8n Expressions: How to Use Dynamic Data in Your Workflows &lpar;Free Examples&rpar;](https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j)
-- [A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Supply Chain Attack](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h)
-- [Building an Artist Attribution Model with PyTorch and ResNet-50](https://dev.to/ghazy001/building-an-artist-attribution-model-with-pytorch-and-resnet-50-2pde)
-- [Building a RAG System from Scratch — Wrap-up and What Comes Next](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-wrap-up-and-what-comes-next-2821)
+- [How FinTech APIs Are Powering Africa&#39;s Digital Payment Revolution](https://dev.to/aniekanwrites/how-fintech-apis-are-powering-africas-digital-payment-revolution-1gnh)
+- [I broke my own governed MCP server by hand, then built the scanner that catches the class](https://dev.to/alexlaguardia/i-broke-my-own-governed-mcp-server-by-hand-then-built-the-scanner-that-catches-the-class-1ip7)
+- [How to share Supabase auth between Next.js and Expo &lpar;one client, both platforms&rpar;](https://dev.to/shipstack_/how-to-share-supabase-auth-between-nextjs-and-expo-one-client-both-platforms-bp1)
+- [React 19 Unstable Features: Update or Ignore ESLint Rules?](https://dev.to/paradane/react-19-unstable-features-update-or-ignore-eslint-rules-151h)
+- [AI Governance as a Database Primitive: Building FarmOps Desk on Aurora + pgvector + Bedrock](https://dev.to/captjay98/ai-governance-as-a-database-primitive-building-farmops-desk-on-aurora-pgvector-bedrock-44j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
