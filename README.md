@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built TokenBoard to track AI coding token usage without uploading prompts or code](https://dev.to/hui_chen_2437f5c7248178f9/i-built-tokenboard-to-track-ai-coding-token-usage-without-uploading-prompts-or-code-39ek)
-- [Luminary: a NextJS migration story.](https://dev.to/biola/luminary-a-nextjs-migration-story-1n1i)
-- [RHoiScribe: Not Teaching AI HOI4 — But Teaching It Not to Break Things](https://dev.to/czxieddan/rhoiscribe-not-teaching-ai-hoi4-but-teaching-it-not-to-break-things-2d55)
-- [OpenAI and Broadcom&#39;s Jalapeño, a Custom Inference ASIC: Inference ASIC vs GPU](https://dev.to/pueding/openai-and-broadcoms-jalapeno-a-custom-inference-asic-inference-asic-vs-gpu-36jm)
-- [You pay for Claude, Codex, and Cursor every month.](https://dev.to/torukmakto2992/you-pay-for-claude-codex-and-cursor-every-month-564i)
+- [UTC, GMT, and the time zone bugs that keep biting developers](https://dev.to/gavinbuilds/utc-gmt-and-the-time-zone-bugs-that-keep-biting-developers-4e2n)
+- [Why I Stopped Chasing Every Market](https://dev.to/stinklewinks/why-i-stopped-chasing-every-market-3586)
+- [Network Fingerprinting: Analyzing Default ICMP Structures and Payload Mimicry](https://dev.to/jm00nj/network-fingerprinting-analyzing-default-icmp-structures-and-payload-mimicry-4636)
+- [I built a community platform to discover all Web-based OS projects 🖥️](https://dev.to/hyggshios/i-built-a-community-platform-to-discover-all-web-based-os-projects-37n0)
+- [From Informatica XML to Snowflake: Why ETL Migration Needs a Governed Delivery Workflow](https://dev.to/amising6/from-informatica-xml-to-snowflake-why-etl-migration-needs-a-governed-delivery-workflow-6kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
