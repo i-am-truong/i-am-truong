@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Partitioning Strategies: How to Get It Right Before It Costs You](https://dev.to/anthony-gicheru/kafka-partitioning-strategies-how-to-get-it-right-before-it-costs-you-2jdm)
-- [How I Built an AI Exam App in 8 Months to outsource studying](https://dev.to/0x1brahim/how-i-built-an-ai-exam-app-in-8-months-to-outsource-studying-3mel)
-- [V.E.L.O.C.I.T.Y.-OS: The Self-Healing Kernel &amp; LLM Terminal Handover &lpar;Part 12&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-self-healing-kernel-llm-terminal-handover-part-12-1f0i)
-- [AgentJr — The AI Junior Developer That Manages Your Entire Freelance Business While You Sleep](https://dev.to/muhammadhamidraza/meet-agentjr-the-ai-junior-developer-that-works-while-you-sleep-4ehl)
-- [Just sharing our hobby project: F4us, a very early antivirus made in C](https://dev.to/corneli5/just-sharing-our-hobby-project-f4us-a-very-early-antivirus-made-in-c-1ge8)
+- [I built an AI tool that rewrites one idea for Twitter, LinkedIn, and Reddit for the #H0Hackathon](https://dev.to/filza_rahman/i-built-an-ai-tool-that-rewrites-one-idea-for-twitter-linkedin-and-reddit-for-the-h0hackathon-1c60)
+- [Agent-Ready Commerce, Part 4: Making Policies Machine-Readable](https://dev.to/dmsfiris/agent-ready-commerce-part-4-making-policies-machine-readable-4o3m)
+- [My Linux Odyssey: How I Ended Up on NixOS](https://dev.to/nezutero/my-linux-odyssey-how-i-ended-up-on-nixos-2p8e)
+- [I Built a Music Production Tracker for the H0 Hackathon](https://dev.to/harry_2205/i-built-a-music-production-tracker-for-the-h0-hackathon-53n2)
+- [Did We Just Create Our Own Corporate Panopticon?](https://dev.to/prabashanadev/did-we-just-create-our-own-corporate-panopticon-ajc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
