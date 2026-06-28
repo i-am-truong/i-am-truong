@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Production Ready Microservice Notification System with NestJS, Redis, Bull Queues, and Docker](https://dev.to/peacemelodi/how-i-built-a-production-ready-microservice-notification-system-with-nestjs-redis-bull-queues-aa7)
-- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
-- [Every Dream Has a Limit](https://dev.to/landb/every-dream-has-a-limit-5718)
-- [How I verify affiliate CTAs are actually rendering in production](https://dev.to/morinaga/how-i-verify-affiliate-ctas-are-actually-rendering-in-production-3i9a)
-- [How I built a content quality gate that stops bad articles before they publish](https://dev.to/morinaga/how-i-built-a-content-quality-gate-that-stops-bad-articles-before-they-publish-p5c)
+- [Angular Reactive Forms Validation — Complete Guide &lpar;2026&rpar;](https://dev.to/alkademy/angular-reactive-forms-validation-complete-guide-2026-l69)
+- [Angular CRUD Tutorial &lpar;2026 Edition&rpar; — Part 1: Setup with Spring Boot](https://dev.to/alkademy/angular-crud-tutorial-2026-edition-part-1-setup-with-spring-boot-372h)
+- [I find Japan-shaped holes in global software](https://dev.to/greymothjp/i-find-japan-shaped-holes-in-global-software-5dnf)
+- [KV Cache Is Eating Your VRAM — Here&#39;s How to Estimate It Before You Run Out](https://dev.to/zxpmail/kv-cache-is-eating-your-vram-heres-how-to-estimate-it-before-you-run-out-4oia)
+- [7 AI Prompts That Save Me 10+ Hours Every Week as a Developer &lpar;Copy-Paste Ready&rpar;](https://dev.to/the_aiproducer_5ec354687/7-ai-prompts-that-save-me-10-hours-every-week-as-a-developer-copy-paste-ready-14gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
