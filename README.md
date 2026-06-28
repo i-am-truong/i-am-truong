@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built my own package manager in Rust while building a Linux distro from scratch](https://dev.to/chirallyactive/i-built-my-own-package-manager-in-rust-while-building-a-linux-distro-from-scratch-4hfm)
-- [How Postgres Writes Data: WAL, Shared Buffers, and the Illusion of Speed](https://dev.to/vipul07/how-postgres-writes-data-wal-shared-buffers-and-the-illusion-of-speed-1j73)
-- [I built a remote skin engine for Flutter](https://dev.to/koukibadr/i-built-a-remote-skin-engine-for-flutter-3b43)
-- [NVIDIA&#39;s LocateAnything-3B: The AI Vision Model That Could Redefine Object Detection](https://dev.to/hamza4600/nvidias-locateanything-3b-the-ai-vision-model-that-could-redefine-object-detection-6me)
-- [Understanding Microsoft Entra ID Authentication in ASP.NET Core](https://dev.to/gaurav-nandankar/understanding-microsoft-entra-id-authentication-in-aspnet-core-4g1n)
+- [Testing Zyloo as an OpenAI-Compatible AI Gateway](https://dev.to/henriquejsza/testing-zyloo-as-an-openai-compatible-ai-gateway-18cn)
+- [The New Pattern of 2026 Tech Layoffs: &#39;Cut and Pivot&#39;](https://dev.to/merbayerp/the-new-pattern-of-2026-tech-layoffs-cut-and-pivot-3lf4)
+- [How I Built a Self-Learning YouTube AI on AWS Aurora &lpar;And Barely Survived the Weekend&rpar;](https://dev.to/neo_gamers_d7450d6e9b8785/how-i-built-a-self-learning-youtube-ai-on-aws-aurora-and-barely-survived-the-weekend-1gen)
+- [They Taught Themselves to Hack](https://dev.to/rawveg/they-taught-themselves-to-hack-4g1)
+- [5 PHP Features You&#39;re Probably Not Using &lpar;But Should&rpar;](https://dev.to/mahdyaralipor/5-php-features-youre-probably-not-using-but-should-133e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
