@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Zyloo as an OpenAI-Compatible AI Gateway](https://dev.to/henriquejsza/testing-zyloo-as-an-openai-compatible-ai-gateway-18cn)
-- [The New Pattern of 2026 Tech Layoffs: &#39;Cut and Pivot&#39;](https://dev.to/merbayerp/the-new-pattern-of-2026-tech-layoffs-cut-and-pivot-3lf4)
-- [How I Built a Self-Learning YouTube AI on AWS Aurora &lpar;And Barely Survived the Weekend&rpar;](https://dev.to/neo_gamers_d7450d6e9b8785/how-i-built-a-self-learning-youtube-ai-on-aws-aurora-and-barely-survived-the-weekend-1gen)
-- [They Taught Themselves to Hack](https://dev.to/rawveg/they-taught-themselves-to-hack-4g1)
-- [5 PHP Features You&#39;re Probably Not Using &lpar;But Should&rpar;](https://dev.to/mahdyaralipor/5-php-features-youre-probably-not-using-but-should-133e)
+- [Your AI Writes Tests That Can Never Fail](https://dev.to/ohugonnot/your-ai-writes-tests-that-can-never-fail-3i57)
+- [I Versioned the Way I Think. Then I Forced It to Comply.](https://dev.to/ohugonnot/i-versioned-the-way-i-think-then-i-forced-it-to-comply-ddk)
+- [A Four-Type Framework for LLM Wiki by karpathy](https://dev.to/rongrong/a-four-type-framework-for-llm-wiki-by-karpathy-5f1n)
+- [I Built a Free Apache Kafka Course from Scratch — Here&#39;s the Full Curriculum &lpar;and What I Got Wrong&rpar;](https://dev.to/rohit_srivastava_a70e0530/i-built-a-free-apache-kafka-course-from-scratch-heres-the-full-curriculum-and-what-i-got-wrong-58k2)
+- [Your console.log Is Lying to You](https://dev.to/gkoos/your-console-is-lying-to-you-3dlc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
