@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The German Tank Problem: Why You Need UUIDs](https://dev.to/towernter/the-german-tank-problem-why-you-need-uuids-85p)
-- [Making of Tiny RPG Studio](https://dev.to/andredarcie/making-of-tiny-rpg-studio-45oh)
-- [5 Linux Commands Every Cybersecurity Student Must Know](https://dev.to/ayesha_abbas/5-linux-commands-every-cybersecurity-student-must-know-n2c)
-- [How I Built a RAG System Over more than 100 USCIS Administrative Appeals Office Decisions with Gemini](https://dev.to/heartlinmachado/how-i-built-a-rag-system-over-more-than-100-uscis-administrative-appeals-office-decisions-with-1gl8)
-- [Ignore All Previous Instructions: A Dev&#39;s Guide to Prompt Injection](https://dev.to/lovestaco/ignore-all-previous-instructions-a-devs-guide-to-prompt-injection-1naj)
+- [I Started GCP ACE to Learn Cloud. It Taught Me How to Learn.](https://dev.to/camruthav/i-started-gcp-ace-to-learn-cloud-it-taught-me-how-to-learn-119k)
+- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96)
+- [Best Hosting Platforms for Next.js in 2026: Who Actually Handles ISR &amp; PPR Correctly?](https://dev.to/muhammadalisma/best-hosting-platforms-for-nextjs-in-2026-who-actually-handles-isr-ppr-correctly-534g)
+- [Hash Identification Reference Guide](https://dev.to/ff02x9e/hash-identification-reference-guide-3kl7)
+- [A local AI chat app in a single HTML file. No build, no sign-up.](https://dev.to/luckyslevinkelevra/a-local-ai-chat-app-in-a-single-html-file-no-build-no-sign-up-3lk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
