@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How are you testing email workflows in your E2E tests?](https://dev.to/rushabhshroff/how-are-you-testing-email-workflows-in-your-e2e-tests-4m5a)
-- [From Smart Devices to Home Operating Systems](https://dev.to/turtleand/from-smart-devices-to-home-operating-systems-2jka)
-- [I Run DeepSeek on Claude Code — How I Swap Models by Changing Only One File](https://dev.to/yuhaolin2005/i-run-deepseek-on-claude-code-how-i-swap-models-by-changing-only-one-file-3ee5)
-- [Is It Actually Worth Enforcing Privacy Consent On-Device in Android?](https://dev.to/samir_moukhliss_24c034050/is-it-actually-worth-enforcing-privacy-consent-on-device-in-android-44hd)
-- [I Built a Browser-Only JSON Schema Validator — Draft-07, $ref, allOf/anyOf/oneOf, if/then/else, 173 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-schema-validator-draft-07-ref-allofanyofoneof-ifthenelse-173-3pnm)
+- [I built my own package manager in Rust while building a Linux distro from scratch](https://dev.to/chirallyactive/i-built-my-own-package-manager-in-rust-while-building-a-linux-distro-from-scratch-4hfm)
+- [How Postgres Writes Data: WAL, Shared Buffers, and the Illusion of Speed](https://dev.to/vipul07/how-postgres-writes-data-wal-shared-buffers-and-the-illusion-of-speed-1j73)
+- [I built a remote skin engine for Flutter](https://dev.to/koukibadr/i-built-a-remote-skin-engine-for-flutter-3b43)
+- [NVIDIA&#39;s LocateAnything-3B: The AI Vision Model That Could Redefine Object Detection](https://dev.to/hamza4600/nvidias-locateanything-3b-the-ai-vision-model-that-could-redefine-object-detection-6me)
+- [Understanding Microsoft Entra ID Authentication in ASP.NET Core](https://dev.to/gaurav-nandankar/understanding-microsoft-entra-id-authentication-in-aspnet-core-4g1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
