@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I scanned my MCP setup and it scored 0/100. Here&#39;s what was wrong.](https://dev.to/alih552/i-scanned-my-mcp-setup-and-it-scored-0100-heres-what-was-wrong-28g)
-- [Azure Databricks for MLOps and Feature Engineering at Scale with Apache Spark, Delta Lake, and MLflow](https://dev.to/jubinsoni/azure-databricks-for-feature-engineering-at-scale-with-apache-spark-delta-lake-and-mlflow-3k4n)
-- [用超聲波加紅外線達成全向障礙偵測：Arduino 雙感測器整合](https://dev.to/_0c004e5fde78250aee362/yong-chao-sheng-bo-jia-hong-wai-xian-da-cheng-quan-xiang-zhang-ai-zhen-ce-arduino-shuang-gan-ce-qi-zheng-he-5ge2)
-- [為什麼那個會「注意你」的展品，反而讓你更想靠近](https://dev.to/_0c004e5fde78250aee362/wei-shi-mo-na-ge-hui-zhu-yi-ni-de-zhan-pin-fan-er-rang-ni-geng-xiang-kao-jin-oad)
-- [敲水杯奏音樂：用瀏覽器麥克風做互動聲音](https://dev.to/_0c004e5fde78250aee362/qiao-shui-bei-zou-yin-le-yong-liu-lan-qi-mai-ke-feng-zuo-hu-dong-sheng-yin-3kgk)
+- [How are you testing email workflows in your E2E tests?](https://dev.to/rushabhshroff/how-are-you-testing-email-workflows-in-your-e2e-tests-4m5a)
+- [From Smart Devices to Home Operating Systems](https://dev.to/turtleand/from-smart-devices-to-home-operating-systems-2jka)
+- [I Run DeepSeek on Claude Code — How I Swap Models by Changing Only One File](https://dev.to/yuhaolin2005/i-run-deepseek-on-claude-code-how-i-swap-models-by-changing-only-one-file-3ee5)
+- [Is It Actually Worth Enforcing Privacy Consent On-Device in Android?](https://dev.to/samir_moukhliss_24c034050/is-it-actually-worth-enforcing-privacy-consent-on-device-in-android-44hd)
+- [I Built a Browser-Only JSON Schema Validator — Draft-07, $ref, allOf/anyOf/oneOf, if/then/else, 173 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-schema-validator-draft-07-ref-allofanyofoneof-ifthenelse-173-3pnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
