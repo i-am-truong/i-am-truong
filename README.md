@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I measured how many tech job postings actually list a salary. It&#39;s 14%](https://dev.to/myko_myko/i-measured-how-many-tech-job-postings-actually-list-a-salary-its-14-51e)
-- [Google is the next Apple and you know it.](https://dev.to/romantictinkerer/google-is-the-next-apple-and-you-know-it-1ain)
-- [What to check before adding crypto checkout to a merchant app](https://dev.to/ethan_carter_new_yor/what-to-check-before-adding-crypto-checkout-to-a-merchant-app-11h0)
-- [Como fiz meu site pessoal gratuitamente](https://dev.to/alberttocastro/como-fiz-meu-site-pessoal-gratuitamente-3alk)
-- [8 days. Meta&#39;s Threads web app. Now a responsive website.](https://dev.to/iamnotshifu/8-days-metas-threads-mobile-app-now-a-responsive-website-4aok)
+- [Two Years to Feel the Need. One Night to Fix It.](https://dev.to/robert_floyddugger_6f9a4/two-years-to-feel-the-need-one-night-to-fix-it-4bhb)
+- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e)
+- [Why your AI coding agent ships confident, slightly-wrong code &lpar;and why rewording the prompt never fixes it&rpar;](https://dev.to/anisa_agenticai/why-your-ai-coding-agent-ships-confident-slightly-wrong-code-and-why-rewording-the-prompt-never-4i9a)
+- [The stale context problem: why your AI doesn&#39;t know what time it is](https://dev.to/immanuel_gabriel_341393bf/the-stale-context-problem-why-your-ai-doesnt-know-what-time-it-is-525i)
+- [Grimicorn Neon: When a Calm Theme Goes Loud](https://dev.to/grimicorn/grimicorn-neon-when-a-calm-theme-goes-loud-1j20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
