@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Started GCP ACE to Learn Cloud. It Taught Me How to Learn.](https://dev.to/camruthav/i-started-gcp-ace-to-learn-cloud-it-taught-me-how-to-learn-119k)
-- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96)
-- [Best Hosting Platforms for Next.js in 2026: Who Actually Handles ISR &amp; PPR Correctly?](https://dev.to/muhammadalisma/best-hosting-platforms-for-nextjs-in-2026-who-actually-handles-isr-ppr-correctly-534g)
-- [Hash Identification Reference Guide](https://dev.to/ff02x9e/hash-identification-reference-guide-3kl7)
-- [A local AI chat app in a single HTML file. No build, no sign-up.](https://dev.to/luckyslevinkelevra/a-local-ai-chat-app-in-a-single-html-file-no-build-no-sign-up-3lk3)
+- [I measured how many tech job postings actually list a salary. It&#39;s 14%](https://dev.to/myko_myko/i-measured-how-many-tech-job-postings-actually-list-a-salary-its-14-51e)
+- [Google is the next Apple and you know it.](https://dev.to/romantictinkerer/google-is-the-next-apple-and-you-know-it-1ain)
+- [What to check before adding crypto checkout to a merchant app](https://dev.to/ethan_carter_new_yor/what-to-check-before-adding-crypto-checkout-to-a-merchant-app-11h0)
+- [Como fiz meu site pessoal gratuitamente](https://dev.to/alberttocastro/como-fiz-meu-site-pessoal-gratuitamente-3alk)
+- [8 days. Meta&#39;s Threads web app. Now a responsive website.](https://dev.to/iamnotshifu/8-days-metas-threads-mobile-app-now-a-responsive-website-4aok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
