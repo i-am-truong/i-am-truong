@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI tool that rewrites one idea for Twitter, LinkedIn, and Reddit for the #H0Hackathon](https://dev.to/filza_rahman/i-built-an-ai-tool-that-rewrites-one-idea-for-twitter-linkedin-and-reddit-for-the-h0hackathon-1c60)
-- [Agent-Ready Commerce, Part 4: Making Policies Machine-Readable](https://dev.to/dmsfiris/agent-ready-commerce-part-4-making-policies-machine-readable-4o3m)
-- [My Linux Odyssey: How I Ended Up on NixOS](https://dev.to/nezutero/my-linux-odyssey-how-i-ended-up-on-nixos-2p8e)
-- [I Built a Music Production Tracker for the H0 Hackathon](https://dev.to/harry_2205/i-built-a-music-production-tracker-for-the-h0-hackathon-53n2)
-- [Did We Just Create Our Own Corporate Panopticon?](https://dev.to/prabashanadev/did-we-just-create-our-own-corporate-panopticon-ajc)
+- [The German Tank Problem: Why You Need UUIDs](https://dev.to/towernter/the-german-tank-problem-why-you-need-uuids-85p)
+- [Making of Tiny RPG Studio](https://dev.to/andredarcie/making-of-tiny-rpg-studio-45oh)
+- [5 Linux Commands Every Cybersecurity Student Must Know](https://dev.to/ayesha_abbas/5-linux-commands-every-cybersecurity-student-must-know-n2c)
+- [How I Built a RAG System Over more than 100 USCIS Administrative Appeals Office Decisions with Gemini](https://dev.to/heartlinmachado/how-i-built-a-rag-system-over-more-than-100-uscis-administrative-appeals-office-decisions-with-1gl8)
+- [Ignore All Previous Instructions: A Dev&#39;s Guide to Prompt Injection](https://dev.to/lovestaco/ignore-all-previous-instructions-a-devs-guide-to-prompt-injection-1naj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
