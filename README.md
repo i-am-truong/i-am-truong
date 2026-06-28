@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How FinTech APIs Are Powering Africa&#39;s Digital Payment Revolution](https://dev.to/aniekanwrites/how-fintech-apis-are-powering-africas-digital-payment-revolution-1gnh)
-- [I broke my own governed MCP server by hand, then built the scanner that catches the class](https://dev.to/alexlaguardia/i-broke-my-own-governed-mcp-server-by-hand-then-built-the-scanner-that-catches-the-class-1ip7)
-- [How to share Supabase auth between Next.js and Expo &lpar;one client, both platforms&rpar;](https://dev.to/shipstack_/how-to-share-supabase-auth-between-nextjs-and-expo-one-client-both-platforms-bp1)
-- [React 19 Unstable Features: Update or Ignore ESLint Rules?](https://dev.to/paradane/react-19-unstable-features-update-or-ignore-eslint-rules-151h)
-- [AI Governance as a Database Primitive: Building FarmOps Desk on Aurora + pgvector + Bedrock](https://dev.to/captjay98/ai-governance-as-a-database-primitive-building-farmops-desk-on-aurora-pgvector-bedrock-44j0)
+- [I scanned my MCP setup and it scored 0/100. Here&#39;s what was wrong.](https://dev.to/alih552/i-scanned-my-mcp-setup-and-it-scored-0100-heres-what-was-wrong-28g)
+- [Azure Databricks for MLOps and Feature Engineering at Scale with Apache Spark, Delta Lake, and MLflow](https://dev.to/jubinsoni/azure-databricks-for-feature-engineering-at-scale-with-apache-spark-delta-lake-and-mlflow-3k4n)
+- [用超聲波加紅外線達成全向障礙偵測：Arduino 雙感測器整合](https://dev.to/_0c004e5fde78250aee362/yong-chao-sheng-bo-jia-hong-wai-xian-da-cheng-quan-xiang-zhang-ai-zhen-ce-arduino-shuang-gan-ce-qi-zheng-he-5ge2)
+- [為什麼那個會「注意你」的展品，反而讓你更想靠近](https://dev.to/_0c004e5fde78250aee362/wei-shi-mo-na-ge-hui-zhu-yi-ni-de-zhan-pin-fan-er-rang-ni-geng-xiang-kao-jin-oad)
+- [敲水杯奏音樂：用瀏覽器麥克風做互動聲音](https://dev.to/_0c004e5fde78250aee362/qiao-shui-bei-zou-yin-le-yong-liu-lan-qi-mai-ke-feng-zuo-hu-dong-sheng-yin-3kgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
