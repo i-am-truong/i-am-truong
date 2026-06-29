@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I used a sparse GSI to build a real-time post scheduler on Amazon DynamoDB](https://dev.to/nonebut_ak/how-i-used-a-sparse-gsi-to-build-a-real-time-post-scheduler-on-amazon-dynamodb-c03)
-- [how do you divide big instruction into small data set for large projects?](https://dev.to/whmcsexpert/how-do-you-divide-big-instruction-into-small-data-set-for-large-projects-23ec)
-- [Your Meta CAPI events from a Telegram bot are losing attribution. Here&#39;s the fix.](https://dev.to/lamas51/your-meta-capi-events-from-a-telegram-bot-are-losing-attribution-heres-the-fix-5c07)
-- [How PostGIS and DynamoDB Streams Power a Real-Time Delivery Hub Platform](https://dev.to/np_hacks_code/how-postgis-and-dynamodb-streams-power-a-real-time-delivery-hub-platform-5719)
-- [AI Code Assistants: Creating Efficiency or Dependency?](https://dev.to/merbayerp/ai-code-assistants-creating-efficiency-or-dependency-4lba)
+- [Abandoning Abstractions: Manually Crafting EtherNet/IP Packets Almost Broke Me](https://dev.to/null_saint/abandoning-abstractions-manually-crafting-ethernetip-packets-almost-broke-me-1b2k)
+- [More Watts, Less Light](https://dev.to/vystartasv/more-watts-less-light-53ne)
+- [How Microsoft Excel Quietly Breaks Your JSON Imports &lpar;And How to Fix It&rpar;](https://dev.to/atqiyanabila01/how-microsoft-excel-quietly-breaks-your-json-imports-and-how-to-fix-it-1ci0)
+- [Modeling a Creator SaaS in a Single DynamoDB Table](https://dev.to/jwambui/exploring-single-h38)
+- [Common Security Vulnerabilities in Nigerian Web Apps — And How to Fix Them](https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
