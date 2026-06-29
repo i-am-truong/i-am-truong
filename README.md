@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Drift Protocol Hack: A Six-Month Social Engineering Operation](https://dev.to/pavelespitia/the-drift-protocol-hack-a-six-month-social-engineering-operation-2ne1)
-- [The MCP Tax Hit 42,000 Tokens on a Single Server. Here&#39;s What I Did About It.](https://dev.to/mrclaw207/the-mcp-tax-hit-42000-tokens-on-a-single-server-heres-what-i-did-about-it-3kp6)
-- [My commit message said &quot;You&#39;ve hit your session limit&quot;](https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn)
-- [Need Career Guidance After Leaving My First Job – Feeling Lost](https://dev.to/sarthak_pandey_e0f3a9326a/need-career-guidance-after-leaving-my-first-job-feeling-lost-58k)
-- [I built a cryptographic passport for AI agents — here&#39;s how it works](https://dev.to/mawyxx/i-built-a-cryptographic-passport-for-ai-agents-heres-how-it-works-5b73)
+- [NextFLow !!! King WorkFlow](https://dev.to/minh_le_b4d8d987f1ef7616e/nextflow-king-workflow-18o1)
+- [AccessiBe Alternative: Why I Preferred TestGrid for Automated Accessibility Testing](https://dev.to/jamescantor38/accessibe-alternative-why-i-preferred-testgrid-for-automated-accessibility-testing-2mbk)
+- [What AutoGPT ships in 2026: a low-code platform for continuous AI agents](https://dev.to/renolu/what-autogpt-ships-in-2026-a-low-code-platform-for-continuous-ai-agents-3lc7)
+- [A Banking API Is Not Just CRUD: What Building a Money-Movement Ledger Taught Me](https://dev.to/turboline_ai_/a-banking-api-is-not-just-crud-what-building-a-money-movement-ledger-taught-me-11gc)
+- [Kafka is not a queue — and treating it like one will wreck your system](https://dev.to/turboline_ai_/kafka-is-not-a-queue-and-treating-it-like-one-will-wreck-your-system-5a36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
