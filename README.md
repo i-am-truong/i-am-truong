@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Real-Time Audio Visualizer with the Web Audio API](https://dev.to/xre7/how-i-built-a-real-time-audio-visualizer-with-the-web-audio-api-4c6a)
-- [Ford Called Them Back, AI Is Now the #1 Layoff Reason, and GPT-5.6 Sol Is Government-Gated — AI News Jun 29](https://dev.to/danio_dev/ford-called-them-back-ai-is-now-the-1-layoff-reason-and-gpt-56-sol-is-government-gated-ai-jka)
-- [The Python exception that leaked tenant secrets](https://dev.to/drjoanneskiles/how-production-secrets-end-up-in-your-logs-and-how-to-actually-stop-it-3lgh)
-- [AI Agents Are Rewriting the Rules of Web Traffic – And Most Businesses Aren’t Ready](https://dev.to/vshosting/ai-agents-are-rewriting-the-rules-of-web-traffic-and-most-businesses-arent-ready-1a8m)
-- [React Suspense &amp; the use&lpar;&rpar; Hook: Complete Guide &lpar;2026&rpar;](https://dev.to/stacknotice/react-suspense-the-use-hook-complete-guide-2026-4442)
+- [The Drift Protocol Hack: A Six-Month Social Engineering Operation](https://dev.to/pavelespitia/the-drift-protocol-hack-a-six-month-social-engineering-operation-2ne1)
+- [The MCP Tax Hit 42,000 Tokens on a Single Server. Here&#39;s What I Did About It.](https://dev.to/mrclaw207/the-mcp-tax-hit-42000-tokens-on-a-single-server-heres-what-i-did-about-it-3kp6)
+- [My commit message said &quot;You&#39;ve hit your session limit&quot;](https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn)
+- [Need Career Guidance After Leaving My First Job – Feeling Lost](https://dev.to/sarthak_pandey_e0f3a9326a/need-career-guidance-after-leaving-my-first-job-feeling-lost-58k)
+- [I built a cryptographic passport for AI agents — here&#39;s how it works](https://dev.to/mawyxx/i-built-a-cryptographic-passport-for-ai-agents-heres-how-it-works-5b73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
