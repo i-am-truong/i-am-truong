@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NextFLow !!! King WorkFlow](https://dev.to/minh_le_b4d8d987f1ef7616e/nextflow-king-workflow-18o1)
-- [AccessiBe Alternative: Why I Preferred TestGrid for Automated Accessibility Testing](https://dev.to/jamescantor38/accessibe-alternative-why-i-preferred-testgrid-for-automated-accessibility-testing-2mbk)
-- [What AutoGPT ships in 2026: a low-code platform for continuous AI agents](https://dev.to/renolu/what-autogpt-ships-in-2026-a-low-code-platform-for-continuous-ai-agents-3lc7)
-- [A Banking API Is Not Just CRUD: What Building a Money-Movement Ledger Taught Me](https://dev.to/turboline_ai_/a-banking-api-is-not-just-crud-what-building-a-money-movement-ledger-taught-me-11gc)
-- [Kafka is not a queue — and treating it like one will wreck your system](https://dev.to/turboline_ai_/kafka-is-not-a-queue-and-treating-it-like-one-will-wreck-your-system-5a36)
+- [How I used a sparse GSI to build a real-time post scheduler on Amazon DynamoDB](https://dev.to/nonebut_ak/how-i-used-a-sparse-gsi-to-build-a-real-time-post-scheduler-on-amazon-dynamodb-c03)
+- [how do you divide big instruction into small data set for large projects?](https://dev.to/whmcsexpert/how-do-you-divide-big-instruction-into-small-data-set-for-large-projects-23ec)
+- [Your Meta CAPI events from a Telegram bot are losing attribution. Here&#39;s the fix.](https://dev.to/lamas51/your-meta-capi-events-from-a-telegram-bot-are-losing-attribution-heres-the-fix-5c07)
+- [How PostGIS and DynamoDB Streams Power a Real-Time Delivery Hub Platform](https://dev.to/np_hacks_code/how-postgis-and-dynamodb-streams-power-a-real-time-delivery-hub-platform-5719)
+- [AI Code Assistants: Creating Efficiency or Dependency?](https://dev.to/merbayerp/ai-code-assistants-creating-efficiency-or-dependency-4lba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
