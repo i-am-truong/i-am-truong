@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular Reactive Forms Validation — Complete Guide &lpar;2026&rpar;](https://dev.to/alkademy/angular-reactive-forms-validation-complete-guide-2026-l69)
-- [Angular CRUD Tutorial &lpar;2026 Edition&rpar; — Part 1: Setup with Spring Boot](https://dev.to/alkademy/angular-crud-tutorial-2026-edition-part-1-setup-with-spring-boot-372h)
-- [I find Japan-shaped holes in global software](https://dev.to/greymothjp/i-find-japan-shaped-holes-in-global-software-5dnf)
-- [KV Cache Is Eating Your VRAM — Here&#39;s How to Estimate It Before You Run Out](https://dev.to/zxpmail/kv-cache-is-eating-your-vram-heres-how-to-estimate-it-before-you-run-out-4oia)
-- [7 AI Prompts That Save Me 10+ Hours Every Week as a Developer &lpar;Copy-Paste Ready&rpar;](https://dev.to/the_aiproducer_5ec354687/7-ai-prompts-that-save-me-10-hours-every-week-as-a-developer-copy-paste-ready-14gp)
+- [matten Introduction: A family-car tensor library for Rust](https://dev.to/nabbisen/matten-introduction-a-family-car-tensor-library-for-rust-52ak)
+- [Connecting Data the Right Way: Modeling, Relationships, and Schema Design in Power BI](https://dev.to/david_mwandairo_777f888b4/connecting-data-the-right-way-modeling-relationships-and-schema-design-in-power-bi-4602)
+- [Running a Whole RAG Agent Offline: LangGraph + Ollama + Embedded Qdrant &lpar;Zero API Keys&rpar;](https://dev.to/javaking1129/running-a-whole-rag-agent-offline-langgraph-ollama-embedded-qdrant-zero-api-keys-2hfd)
+- [&quot;Done&quot; Is Not a State](https://dev.to/vibeagentmaking/done-is-not-a-state-28pj)
+- [How to Build a Modern On-Premise Data Lakehouse &lpar;Without Vendor Lock-in&rpar;](https://dev.to/cybermeshsec/how-to-build-a-modern-on-premise-data-lakehouse-without-vendor-lock-in-5440)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
