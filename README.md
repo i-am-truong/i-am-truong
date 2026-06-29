@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Abandoning Abstractions: Manually Crafting EtherNet/IP Packets Almost Broke Me](https://dev.to/null_saint/abandoning-abstractions-manually-crafting-ethernetip-packets-almost-broke-me-1b2k)
-- [More Watts, Less Light](https://dev.to/vystartasv/more-watts-less-light-53ne)
-- [How Microsoft Excel Quietly Breaks Your JSON Imports &lpar;And How to Fix It&rpar;](https://dev.to/atqiyanabila01/how-microsoft-excel-quietly-breaks-your-json-imports-and-how-to-fix-it-1ci0)
-- [Modeling a Creator SaaS in a Single DynamoDB Table](https://dev.to/jwambui/exploring-single-h38)
-- [Common Security Vulnerabilities in Nigerian Web Apps — And How to Fix Them](https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8)
+- [I Built a Global Opinion Platform in 72 Hours — Here Is What Actually Went Wrong](https://dev.to/hafiz_muhammadsalman_f28/i-built-a-global-opinion-platform-in-72-hours-here-is-what-actually-went-wrong-40b6)
+- [I built a Python ORM with a Rust engine — here&#39;s how the GIL, PyO3, and asyncio actually cooperate](https://dev.to/vsdudakov/i-built-a-python-orm-with-a-rust-engine-heres-how-the-gil-pyo3-and-asyncio-actually-cooperate-4fkj)
+- [How we parse Apache Airflow DAGs without importing Airflow](https://dev.to/neochaotic/how-we-parse-apache-airflow-dags-without-importing-airflow-9d)
+- [100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn&#39;t Be Optional](https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k)
+- [DevOps as a Service Pricing: What Should Businesses Expect to Pay?](https://dev.to/devopsaitoolkit/devops-as-a-service-pricing-what-should-businesses-expect-to-pay-2481)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
