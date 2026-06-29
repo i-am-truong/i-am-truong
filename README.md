@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Global Opinion Platform in 72 Hours — Here Is What Actually Went Wrong](https://dev.to/hafiz_muhammadsalman_f28/i-built-a-global-opinion-platform-in-72-hours-here-is-what-actually-went-wrong-40b6)
-- [I built a Python ORM with a Rust engine — here&#39;s how the GIL, PyO3, and asyncio actually cooperate](https://dev.to/vsdudakov/i-built-a-python-orm-with-a-rust-engine-heres-how-the-gil-pyo3-and-asyncio-actually-cooperate-4fkj)
-- [How we parse Apache Airflow DAGs without importing Airflow](https://dev.to/neochaotic/how-we-parse-apache-airflow-dags-without-importing-airflow-9d)
-- [100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn&#39;t Be Optional](https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k)
-- [DevOps as a Service Pricing: What Should Businesses Expect to Pay?](https://dev.to/devopsaitoolkit/devops-as-a-service-pricing-what-should-businesses-expect-to-pay-2481)
+- [Building BrewCore: Espresso Tracking on Vercel, DynamoDB, and Amazon Bedrock](https://dev.to/himaatluri/building-brewcore-espresso-tracking-on-vercel-dynamodb-and-amazon-bedrock-3hmf)
+- [Deploy AI agents in 5 lines of code.](https://dev.to/custodianlabs/deploy-ai-agents-in-5-lines-of-code-3fji)
+- [Building a passwordless, Gemini-advised dashboard on the &quot;zero stack&quot;](https://dev.to/kajotainc/building-a-passwordless-gemini-advised-dashboard-on-the-zero-stack-3di2)
+- [Why I Built &quot;WIN RAK&quot;: A Privacy-First Alternative to Passive Location Tracking](https://dev.to/omarelhaitoum/why-i-built-win-rak-a-privacy-first-alternative-to-passive-location-tracking-3pgn)
+- [LLM Integration in CI/CD: Real Use Cases Beyond Code Completion](https://dev.to/manikanta_suru_92/llm-integration-in-cicd-real-use-cases-beyond-code-completion-e8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
