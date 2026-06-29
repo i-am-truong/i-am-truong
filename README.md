@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [matten Introduction: A family-car tensor library for Rust](https://dev.to/nabbisen/matten-introduction-a-family-car-tensor-library-for-rust-52ak)
-- [Connecting Data the Right Way: Modeling, Relationships, and Schema Design in Power BI](https://dev.to/david_mwandairo_777f888b4/connecting-data-the-right-way-modeling-relationships-and-schema-design-in-power-bi-4602)
-- [Running a Whole RAG Agent Offline: LangGraph + Ollama + Embedded Qdrant &lpar;Zero API Keys&rpar;](https://dev.to/javaking1129/running-a-whole-rag-agent-offline-langgraph-ollama-embedded-qdrant-zero-api-keys-2hfd)
-- [&quot;Done&quot; Is Not a State](https://dev.to/vibeagentmaking/done-is-not-a-state-28pj)
-- [How to Build a Modern On-Premise Data Lakehouse &lpar;Without Vendor Lock-in&rpar;](https://dev.to/cybermeshsec/how-to-build-a-modern-on-premise-data-lakehouse-without-vendor-lock-in-5440)
+- [Why Warp is betting engineering leaders are done picking a favourite coding agent](https://dev.to/tessl/why-warp-is-betting-engineering-leaders-are-done-picking-a-favourite-coding-agent-4c70)
+- [Building a Real-Time AI Voice Agent with OpenAI Realtime API and Next.js](https://dev.to/loxia_ai/building-a-real-time-ai-voice-agent-with-openai-realtime-api-and-nextjs-bhn)
+- [Understanding the Difference between Agents vs Automation](https://dev.to/msnmongare/understanding-the-difference-between-agents-vs-automation-aoc)
+- [I stopped trusting my agent the day it agreed with everything](https://dev.to/mjmirza/i-stopped-trusting-my-agent-the-day-it-agreed-with-everything-20g1)
+- [Hi, I&#39;m Jonas — building a sports SaaS solo, in the open](https://dev.to/jofflin/hi-im-jonas-building-a-sports-saas-solo-in-the-open-odd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
