@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Warp is betting engineering leaders are done picking a favourite coding agent](https://dev.to/tessl/why-warp-is-betting-engineering-leaders-are-done-picking-a-favourite-coding-agent-4c70)
-- [Building a Real-Time AI Voice Agent with OpenAI Realtime API and Next.js](https://dev.to/loxia_ai/building-a-real-time-ai-voice-agent-with-openai-realtime-api-and-nextjs-bhn)
-- [Understanding the Difference between Agents vs Automation](https://dev.to/msnmongare/understanding-the-difference-between-agents-vs-automation-aoc)
-- [I stopped trusting my agent the day it agreed with everything](https://dev.to/mjmirza/i-stopped-trusting-my-agent-the-day-it-agreed-with-everything-20g1)
-- [Hi, I&#39;m Jonas — building a sports SaaS solo, in the open](https://dev.to/jofflin/hi-im-jonas-building-a-sports-saas-solo-in-the-open-odd)
+- [How I Built a Real-Time Audio Visualizer with the Web Audio API](https://dev.to/xre7/how-i-built-a-real-time-audio-visualizer-with-the-web-audio-api-4c6a)
+- [Ford Called Them Back, AI Is Now the #1 Layoff Reason, and GPT-5.6 Sol Is Government-Gated — AI News Jun 29](https://dev.to/danio_dev/ford-called-them-back-ai-is-now-the-1-layoff-reason-and-gpt-56-sol-is-government-gated-ai-jka)
+- [The Python exception that leaked tenant secrets](https://dev.to/drjoanneskiles/how-production-secrets-end-up-in-your-logs-and-how-to-actually-stop-it-3lgh)
+- [AI Agents Are Rewriting the Rules of Web Traffic – And Most Businesses Aren’t Ready](https://dev.to/vshosting/ai-agents-are-rewriting-the-rules-of-web-traffic-and-most-businesses-arent-ready-1a8m)
+- [React Suspense &amp; the use&lpar;&rpar; Hook: Complete Guide &lpar;2026&rpar;](https://dev.to/stacknotice/react-suspense-the-use-hook-complete-guide-2026-4442)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
