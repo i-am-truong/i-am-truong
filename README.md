@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Code Archaeology](https://dev.to/naor_sabag/the-art-of-code-archaeology-3g8f)
-- [EU Cyber Resilience Act: What AI Developers Need to Know for CRA Compliance](https://dev.to/alessandro_pignati/eu-cyber-resilience-act-what-ai-developers-need-to-know-for-cra-compliance-95l)
-- [The Audit Tax: Why Your Agent Made You Slower](https://dev.to/temrel/the-audit-tax-why-your-agent-made-you-slower-45bj)
-- [Building a Scalable AWS Application Architecture: From EC2 to Load Balancer and Auto Scaling](https://dev.to/navyabhat/building-a-scalable-aws-application-architecture-from-ec2-to-load-balancer-and-auto-scaling-5a2p)
-- [ทำเว็บธุรกิจ Local Service ด้วย Astro ให้โหลดเร็วและ SEO ดีขึ้น](https://dev.to/amphon/thamewbthurkicch-local-service-dwy-astro-aihohlderwaela-seo-diikhuen-3elk)
+- [We rolled out Copilot. Sales asked it for a 25% discount. Policy allows ten.](https://dev.to/rnagulapalle/we-rolled-out-copilot-sales-asked-it-for-a-25-discount-policy-allows-ten-3404)
+- [Dicter du code confidentiel : pourquoi j&#39;ai arrêté d&#39;envoyer ma voix dans le cloud](https://dev.to/elbokazqc/dicter-du-code-confidentiel-pourquoi-jai-arrete-denvoyer-ma-voix-dans-le-cloud-1e9d)
+- [Building an uptime monitor in Rust: one binary, two databases, 130K checks/sec per core](https://dev.to/slima4/building-an-uptime-monitor-in-rust-one-binary-two-databases-130k-checkssec-per-core-5g25)
+- [Week -02](https://dev.to/darshit2308/week-02-1bol)
+- [Preventing Overselling in Multichannel D365 Commerce](https://dev.to/barancevik/preventing-overselling-in-multichannel-d365-commerce-na8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
