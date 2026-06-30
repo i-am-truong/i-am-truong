@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Firmware Black Box: diagnosing embedded resets in the field](https://dev.to/siliconlogix/firmware-black-box-diagnosing-embedded-resets-in-the-field-15ml)
-- [React useIntersectionObserver Hook: Lazy Load &amp; Detect Visibility &lpar;2026&rpar;](https://dev.to/childrentime/react-useintersectionobserver-hook-lazy-load-detect-visibility-2026-1ooe)
-- [Microsoft Entra extensibility is a gift. It is also Control Plane.](https://dev.to/astaykov/microsoft-entra-extensibility-is-a-gift-it-is-also-control-plane-4egn)
-- [Mininglamp Open-Sources Octo: Designing the Collaboration Layer for Multi-Agent Teams](https://dev.to/mininglamp/mininglamp-open-sources-octo-designing-the-collaboration-layer-for-multi-agent-teams-2o04)
-- [Docker on WSL2: Why I Ditched Docker Desktop for a Linux &quot;Sandbox&quot;](https://dev.to/bumbulik0/docker-on-wsl2-why-i-ditched-docker-desktop-for-a-linux-sandbox-3a39)
+- [The Art of Code Archaeology](https://dev.to/naor_sabag/the-art-of-code-archaeology-3g8f)
+- [EU Cyber Resilience Act: What AI Developers Need to Know for CRA Compliance](https://dev.to/alessandro_pignati/eu-cyber-resilience-act-what-ai-developers-need-to-know-for-cra-compliance-95l)
+- [The Audit Tax: Why Your Agent Made You Slower](https://dev.to/temrel/the-audit-tax-why-your-agent-made-you-slower-45bj)
+- [Building a Scalable AWS Application Architecture: From EC2 to Load Balancer and Auto Scaling](https://dev.to/navyabhat/building-a-scalable-aws-application-architecture-from-ec2-to-load-balancer-and-auto-scaling-5a2p)
+- [ทำเว็บธุรกิจ Local Service ด้วย Astro ให้โหลดเร็วและ SEO ดีขึ้น](https://dev.to/amphon/thamewbthurkicch-local-service-dwy-astro-aihohlderwaela-seo-diikhuen-3elk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
