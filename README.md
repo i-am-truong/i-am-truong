@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you build observability ingestion on S3 alone — no Kafka, no disks, no coordination layer?](https://dev.to/prosvirnin/can-you-build-observability-ingestion-on-s3-alone-no-kafka-no-disks-no-coordination-layer-11ib)
-- [How to Learn System Design From Scratch &lpar;With No Distributed Systems Experience&rpar;](https://dev.to/arslan_ah/how-to-learn-system-design-from-scratch-with-no-distributed-systems-experience-1591)
-- [AGENTS.md Is Not Enough for Safe AI Agent Execution](https://dev.to/otaready/agentsmd-is-not-enough-for-safe-ai-agent-execution-1h3b)
-- [Learn DynamoDB by running it - accesspatterns.dev](https://dev.to/martinhicks/learn-dynamodb-by-running-it-accesspatternsdev-8jp)
-- [How I Built an AI Tattoo Design Generator &lpar;and What I Learned&rpar;](https://dev.to/aitattoo_gen/how-i-built-an-ai-tattoo-design-generator-and-what-i-learned-2j68)
+- [AI-First MVP Development: How Startups Should Build Products in 2026](https://dev.to/6sensehq/ai-first-mvp-development-how-startups-should-build-products-in-2026-2ck4)
+- [Engineering Real-Time Telemetry and Secure Clinical Messaging with SignalR](https://dev.to/erwin_wilsonceniza2_adf9/engineering-real-time-telemetry-and-secure-clinical-messaging-with-signalr-5685)
+- [Deploying Spring Petclinic Microservices with Docker Compose: An End-to-End DevOps Deployment Experience](https://dev.to/nice_nwogu_c463979fcbaaa8/deploying-spring-petclinic-microservices-with-docker-compose-an-end-to-end-devops-deployment-1b5b)
+- [I built a tool that cuts Claude/ChatGPT token usage by 97% — here&#39;s how it works](https://dev.to/rohith_matam_be6aea5caf13/i-built-a-tool-that-cuts-claudechatgpt-token-usage-by-97-heres-how-it-works-4070)
+- [900+ Downloads, 1 Star, 1 Comment: What I Learned Launching a Security Tool](https://dev.to/dockfixlabs/900-downloads-1-star-1-comment-what-i-learned-launching-a-security-tool-1pc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
