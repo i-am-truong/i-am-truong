@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Feature engineering didn&#39;t die. Engineers just stopped doing it](https://dev.to/jignesh_maheshwari_93e21d/feature-engineering-didnt-die-engineers-just-stopped-doing-it-17dg)
-- [Institutional Memory in Distributed Financial Systems: When Knowledge Becomes Infrastructure](https://dev.to/doomhammerhell/institutional-memory-in-distributed-financial-systems-when-knowledge-becomes-infrastructure-jm0)
-- [Build a Box Plot Calculator in Pure JavaScript — No Libraries Needed](https://dev.to/tianyizhang/build-a-box-plot-calculator-in-pure-javascript-no-libraries-needed-3n3f)
-- [The 4th Down Revolution: Why NFL Teams Win 67% More Games When They Trust the Math [Jun 30]](https://dev.to/edgelab/the-4th-down-revolution-why-nfl-teams-win-67-more-games-when-they-trust-the-math-jun-30-72c)
-- [3 MCP servers I actually use daily &lpar;and how to set them up&rpar;](https://dev.to/grahamduescn/3-mcp-servers-i-actually-use-daily-and-how-to-set-them-up-3e98)
+- [I Got Tired of Asking &quot;What Am I Missing?&quot; — So I Made My AI Ask First](https://dev.to/magithar/i-got-tired-of-asking-what-am-i-missing-so-i-made-my-ai-ask-first-g8)
+- [Part 1](https://dev.to/palash90/part-1-4pdh)
+- [Debugging Benchmark: DeepSeek V4 Pro vs MiMo V2.5 Pro](https://dev.to/sl4m3/debugging-benchmark-deepseek-v4-pro-vs-mimo-v25-pro-29lm)
+- [Claude Code vs GitHub Copilot: I Used Both for 30 Days. Here&#39;s What Won.](https://dev.to/automate_ai/claude-code-vs-github-copilot-i-used-both-for-30-days-heres-what-won-2hpk)
+- [lonely burnout: it&#39;s dangerous to go alone](https://dev.to/ffyrnintheforest/lonely-burnout-its-dangerous-to-go-alone-1bmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
