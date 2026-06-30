@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building BrewCore: Espresso Tracking on Vercel, DynamoDB, and Amazon Bedrock](https://dev.to/himaatluri/building-brewcore-espresso-tracking-on-vercel-dynamodb-and-amazon-bedrock-3hmf)
-- [Deploy AI agents in 5 lines of code.](https://dev.to/custodianlabs/deploy-ai-agents-in-5-lines-of-code-3fji)
-- [Building a passwordless, Gemini-advised dashboard on the &quot;zero stack&quot;](https://dev.to/kajotainc/building-a-passwordless-gemini-advised-dashboard-on-the-zero-stack-3di2)
-- [Why I Built &quot;WIN RAK&quot;: A Privacy-First Alternative to Passive Location Tracking](https://dev.to/omarelhaitoum/why-i-built-win-rak-a-privacy-first-alternative-to-passive-location-tracking-3pgn)
-- [LLM Integration in CI/CD: Real Use Cases Beyond Code Completion](https://dev.to/manikanta_suru_92/llm-integration-in-cicd-real-use-cases-beyond-code-completion-e8f)
+- [Time Necromancy: 100 Python Scripts That Resurrect Lost Hours](https://dev.to/numbpill3d/time-necromancy-100-python-scripts-that-resurrect-lost-hours-434o)
+- [Is your MCP server safe? One line in mcp.json, and your agent recovers from its own DROP TABLE](https://dev.to/vdalal/is-your-mcp-server-safe-one-line-in-mcpjson-and-your-agent-recovers-from-its-own-drop-table-3k13)
+- [I built a free browser-based film photo editor in 4 months — here&#39;s what I learned about color math](https://dev.to/sanico_ronanm_ddd07067/i-built-a-free-browser-based-film-photo-editor-in-4-months-heres-what-i-learned-about-color-math-1401)
+- [Self improving code using the agentic evaluator workflow](https://dev.to/codecowboydotio/self-improving-code-using-the-agentic-evaluator-workflow-1i3i)
+- [The one rep you can&#39;t outsource](https://dev.to/kayashaolu/the-one-rep-you-cant-outsource-49ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
