@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building OpenAI Wrappers: How to Build Defensible AI Apps](https://dev.to/rahul_agarwal18/stop-building-openai-wrappers-how-to-build-defensible-ai-apps-b37)
-- [Unpopular Opinion: AI Agents Won&#39;t Replace Developers &lpar;Yet&rpar;](https://dev.to/rahul_agarwal18/unpopular-opinion-ai-agents-wont-replace-developers-yet-2fgp)
-- [Why Prompt Engineering Isn&#39;t Enough for Production AI Agents](https://dev.to/tanmay_devare_45/why-prompt-engineering-isnt-enough-for-production-ai-agents-m4p)
-- [I tracked which AI models people actually use for a month. The top 5 are all Chinese or open-weight.](https://dev.to/codelong888/i-tracked-which-ai-models-people-actually-use-for-a-month-the-top-5-are-all-chinese-or-open-weight-4ckf)
-- [Exporting BibTeX to CSV/Excel/JSON/HTML](https://dev.to/saurabh_shah/exporting-bibtex-to-csvexceljsonhtml-1ng)
+- [Firmware Black Box: diagnosing embedded resets in the field](https://dev.to/siliconlogix/firmware-black-box-diagnosing-embedded-resets-in-the-field-15ml)
+- [React useIntersectionObserver Hook: Lazy Load &amp; Detect Visibility &lpar;2026&rpar;](https://dev.to/childrentime/react-useintersectionobserver-hook-lazy-load-detect-visibility-2026-1ooe)
+- [Microsoft Entra extensibility is a gift. It is also Control Plane.](https://dev.to/astaykov/microsoft-entra-extensibility-is-a-gift-it-is-also-control-plane-4egn)
+- [Mininglamp Open-Sources Octo: Designing the Collaboration Layer for Multi-Agent Teams](https://dev.to/mininglamp/mininglamp-open-sources-octo-designing-the-collaboration-layer-for-multi-agent-teams-2o04)
+- [Docker on WSL2: Why I Ditched Docker Desktop for a Linux &quot;Sandbox&quot;](https://dev.to/bumbulik0/docker-on-wsl2-why-i-ditched-docker-desktop-for-a-linux-sandbox-3a39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
