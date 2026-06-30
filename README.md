@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What It Takes to Build an AI Personal Assistant That Actually Remembers](https://dev.to/gurujaya27/what-it-takes-to-build-an-ai-personal-assistant-that-actually-remembers-51e5)
-- [Detecting Which AI Chat Platform You&#39;re On: URL and DOM Patterns for ChatGPT, Claude, Gemini, and Copilot](https://dev.to/ktg0215/detecting-which-ai-chat-platform-youre-on-url-and-dom-patterns-for-chatgpt-claude-gemini-and-3fkp)
-- [Implement Authorization with Role-Based Access Control &lpar;RBAC&rpar; in Golang](https://dev.to/umohsg/implement-authorization-with-role-based-access-control-rbac-in-golang-f3m)
-- [Building a Multi-Modal Evidence Review Agent for Damage Claims](https://dev.to/arul_cornelious/building-a-multi-modal-evidence-review-agent-for-damage-claims-2nc6)
-- [Open source is like an amazing community swimming pool. 🏊‍♂️](https://dev.to/ceaz/open-source-is-like-an-amazing-community-swimming-pool-2ogl)
+- [Feature engineering didn&#39;t die. Engineers just stopped doing it](https://dev.to/jignesh_maheshwari_93e21d/feature-engineering-didnt-die-engineers-just-stopped-doing-it-17dg)
+- [Institutional Memory in Distributed Financial Systems: When Knowledge Becomes Infrastructure](https://dev.to/doomhammerhell/institutional-memory-in-distributed-financial-systems-when-knowledge-becomes-infrastructure-jm0)
+- [Build a Box Plot Calculator in Pure JavaScript — No Libraries Needed](https://dev.to/tianyizhang/build-a-box-plot-calculator-in-pure-javascript-no-libraries-needed-3n3f)
+- [The 4th Down Revolution: Why NFL Teams Win 67% More Games When They Trust the Math [Jun 30]](https://dev.to/edgelab/the-4th-down-revolution-why-nfl-teams-win-67-more-games-when-they-trust-the-math-jun-30-72c)
+- [3 MCP servers I actually use daily &lpar;and how to set them up&rpar;](https://dev.to/grahamduescn/3-mcp-servers-i-actually-use-daily-and-how-to-set-them-up-3e98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
