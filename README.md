@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Asking &quot;What Am I Missing?&quot; — So I Made My AI Ask First](https://dev.to/magithar/i-got-tired-of-asking-what-am-i-missing-so-i-made-my-ai-ask-first-g8)
-- [Part 1](https://dev.to/palash90/part-1-4pdh)
-- [Debugging Benchmark: DeepSeek V4 Pro vs MiMo V2.5 Pro](https://dev.to/sl4m3/debugging-benchmark-deepseek-v4-pro-vs-mimo-v25-pro-29lm)
-- [Claude Code vs GitHub Copilot: I Used Both for 30 Days. Here&#39;s What Won.](https://dev.to/automate_ai/claude-code-vs-github-copilot-i-used-both-for-30-days-heres-what-won-2hpk)
-- [lonely burnout: it&#39;s dangerous to go alone](https://dev.to/ffyrnintheforest/lonely-burnout-its-dangerous-to-go-alone-1bmf)
+- [Can you build observability ingestion on S3 alone — no Kafka, no disks, no coordination layer?](https://dev.to/prosvirnin/can-you-build-observability-ingestion-on-s3-alone-no-kafka-no-disks-no-coordination-layer-11ib)
+- [How to Learn System Design From Scratch &lpar;With No Distributed Systems Experience&rpar;](https://dev.to/arslan_ah/how-to-learn-system-design-from-scratch-with-no-distributed-systems-experience-1591)
+- [AGENTS.md Is Not Enough for Safe AI Agent Execution](https://dev.to/otaready/agentsmd-is-not-enough-for-safe-ai-agent-execution-1h3b)
+- [Learn DynamoDB by running it - accesspatterns.dev](https://dev.to/martinhicks/learn-dynamodb-by-running-it-accesspatternsdev-8jp)
+- [How I Built an AI Tattoo Design Generator &lpar;and What I Learned&rpar;](https://dev.to/aitattoo_gen/how-i-built-an-ai-tattoo-design-generator-and-what-i-learned-2j68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
