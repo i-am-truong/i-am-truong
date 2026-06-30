@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We rolled out Copilot. Sales asked it for a 25% discount. Policy allows ten.](https://dev.to/rnagulapalle/we-rolled-out-copilot-sales-asked-it-for-a-25-discount-policy-allows-ten-3404)
-- [Dicter du code confidentiel : pourquoi j&#39;ai arrêté d&#39;envoyer ma voix dans le cloud](https://dev.to/elbokazqc/dicter-du-code-confidentiel-pourquoi-jai-arrete-denvoyer-ma-voix-dans-le-cloud-1e9d)
-- [Building an uptime monitor in Rust: one binary, two databases, 130K checks/sec per core](https://dev.to/slima4/building-an-uptime-monitor-in-rust-one-binary-two-databases-130k-checkssec-per-core-5g25)
-- [Week -02](https://dev.to/darshit2308/week-02-1bol)
-- [Preventing Overselling in Multichannel D365 Commerce](https://dev.to/barancevik/preventing-overselling-in-multichannel-d365-commerce-na8)
+- [What It Takes to Build an AI Personal Assistant That Actually Remembers](https://dev.to/gurujaya27/what-it-takes-to-build-an-ai-personal-assistant-that-actually-remembers-51e5)
+- [Detecting Which AI Chat Platform You&#39;re On: URL and DOM Patterns for ChatGPT, Claude, Gemini, and Copilot](https://dev.to/ktg0215/detecting-which-ai-chat-platform-youre-on-url-and-dom-patterns-for-chatgpt-claude-gemini-and-3fkp)
+- [Implement Authorization with Role-Based Access Control &lpar;RBAC&rpar; in Golang](https://dev.to/umohsg/implement-authorization-with-role-based-access-control-rbac-in-golang-f3m)
+- [Building a Multi-Modal Evidence Review Agent for Damage Claims](https://dev.to/arul_cornelious/building-a-multi-modal-evidence-review-agent-for-damage-claims-2nc6)
+- [Open source is like an amazing community swimming pool. 🏊‍♂️](https://dev.to/ceaz/open-source-is-like-an-amazing-community-swimming-pool-2ogl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
