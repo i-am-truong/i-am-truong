@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Time Necromancy: 100 Python Scripts That Resurrect Lost Hours](https://dev.to/numbpill3d/time-necromancy-100-python-scripts-that-resurrect-lost-hours-434o)
-- [Is your MCP server safe? One line in mcp.json, and your agent recovers from its own DROP TABLE](https://dev.to/vdalal/is-your-mcp-server-safe-one-line-in-mcpjson-and-your-agent-recovers-from-its-own-drop-table-3k13)
-- [I built a free browser-based film photo editor in 4 months — here&#39;s what I learned about color math](https://dev.to/sanico_ronanm_ddd07067/i-built-a-free-browser-based-film-photo-editor-in-4-months-heres-what-i-learned-about-color-math-1401)
-- [Self improving code using the agentic evaluator workflow](https://dev.to/codecowboydotio/self-improving-code-using-the-agentic-evaluator-workflow-1i3i)
-- [The one rep you can&#39;t outsource](https://dev.to/kayashaolu/the-one-rep-you-cant-outsource-49ae)
+- [Stop Building OpenAI Wrappers: How to Build Defensible AI Apps](https://dev.to/rahul_agarwal18/stop-building-openai-wrappers-how-to-build-defensible-ai-apps-b37)
+- [Unpopular Opinion: AI Agents Won&#39;t Replace Developers &lpar;Yet&rpar;](https://dev.to/rahul_agarwal18/unpopular-opinion-ai-agents-wont-replace-developers-yet-2fgp)
+- [Why Prompt Engineering Isn&#39;t Enough for Production AI Agents](https://dev.to/tanmay_devare_45/why-prompt-engineering-isnt-enough-for-production-ai-agents-m4p)
+- [I tracked which AI models people actually use for a month. The top 5 are all Chinese or open-weight.](https://dev.to/codelong888/i-tracked-which-ai-models-people-actually-use-for-a-month-the-top-5-are-all-chinese-or-open-weight-4ckf)
+- [Exporting BibTeX to CSV/Excel/JSON/HTML](https://dev.to/saurabh_shah/exporting-bibtex-to-csvexceljsonhtml-1ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
