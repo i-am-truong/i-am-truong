@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is 2026 the Year of Agentic Payments? What Developers Need to Know](https://dev.to/synfinity-dynamics-pvt-ltd/is-2026-the-year-of-agentic-payments-what-developers-need-to-know-36nm)
-- [Configuring WooCommerce Shipping From the Terminal: WP-CLI + Claude Code Skills](https://dev.to/dmitryrechkin/configuring-woocommerce-shipping-from-the-terminal-wp-cli-claude-code-skills-cae)
-- [The Economics of AI APIs: Why Intelligence Is Becoming a Subscription](https://dev.to/pjdeveloper896/the-economics-of-ai-apis-why-intelligence-is-becoming-a-subscription-1d19)
-- [I gave a brand-new AI the memory of all my old chats, here&#39;s the free tool I built to do it.](https://dev.to/arya_koste_5845807df94776/i-gave-a-brand-new-ai-the-memory-of-all-my-old-chats-heres-the-free-tool-i-built-to-do-it-1550)
-- [Client Asset Ownership: Should the Agency or the Client Own the Domain and Hosting?](https://dev.to/instarenewal/client-asset-ownership-should-the-agency-or-the-client-own-the-domain-and-hosting-2hp6)
+- [Building VideoXO taught me one thing: people don&#39;t want AI, they want outcomes. I&#39;m obsessed with removing the friction between an idea and a publishable video. 
+
+Excited to share the journey with fellow builders.](https://dev.to/itsamanyadav/building-videoxo-taught-me-one-thing-people-dont-want-ai-they-want-outcomes-im-obsessed-with-539e)
+- [Best AI Tools for Product-Led Growth &lpar;PLG&rpar; in 2026: 8 Tools That Turn Product Usage Into Growth](https://dev.to/hellyeahai/best-ai-tools-for-product-led-growth-plg-in-2026-8-tools-that-turn-product-usage-into-growth-3832)
+- [Building a color replacer: why RGB matching fails on photos and how HSV fixes it](https://dev.to/irrationalapps/building-a-color-replacer-why-rgb-matching-fails-on-photos-and-how-hsv-fixes-it-1n8)
+- [Price Manipulation via Product ID Mismatch in Checkout API &lpar;IDOR&rpar;](https://dev.to/wansu379/price-manipulation-via-product-id-mismatch-in-checkout-api-idor-2c4n)
+- [# Securing API Tokens: Protecting Your AI Applications from Credential Leakage](https://dev.to/josephbudinger/-securing-api-tokens-protecting-your-ai-applications-from-credential-leakage-5f7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
