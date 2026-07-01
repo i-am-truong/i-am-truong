@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building VideoXO taught me one thing: people don&#39;t want AI, they want outcomes. I&#39;m obsessed with removing the friction between an idea and a publishable video. 
-
-Excited to share the journey with fellow builders.](https://dev.to/itsamanyadav/building-videoxo-taught-me-one-thing-people-dont-want-ai-they-want-outcomes-im-obsessed-with-539e)
-- [Best AI Tools for Product-Led Growth &lpar;PLG&rpar; in 2026: 8 Tools That Turn Product Usage Into Growth](https://dev.to/hellyeahai/best-ai-tools-for-product-led-growth-plg-in-2026-8-tools-that-turn-product-usage-into-growth-3832)
-- [Building a color replacer: why RGB matching fails on photos and how HSV fixes it](https://dev.to/irrationalapps/building-a-color-replacer-why-rgb-matching-fails-on-photos-and-how-hsv-fixes-it-1n8)
-- [Price Manipulation via Product ID Mismatch in Checkout API &lpar;IDOR&rpar;](https://dev.to/wansu379/price-manipulation-via-product-id-mismatch-in-checkout-api-idor-2c4n)
-- [# Securing API Tokens: Protecting Your AI Applications from Credential Leakage](https://dev.to/josephbudinger/-securing-api-tokens-protecting-your-ai-applications-from-credential-leakage-5f7p)
+- [How &quot;Vibe Coding&quot; Accidentally Turned My EC2 Instance Into a Cryptominer](https://dev.to/aws-builders/how-vibe-coding-accidentally-turned-my-ec2-instance-into-a-cryptominer-52n2)
+- [From Scratch to a Million Users — Part 2: What Breaks After Launch](https://dev.to/surajrkhonde/from-scratch-to-a-million-users-part-2-what-breaks-after-launch-39gd)
+- [AI Deep Learning: Explained Simply](https://dev.to/nigape/ai-deep-learning-explained-simply-43an)
+- [เว็บไซต์ที่สวย กับเว็บไซต์ที่ทำเงิน ต่างกันอย่างไร? และทำไม AI ถึงให้คุณได้แค่เพียงอย่างแรก](https://dev.to/sarantoon/ewbaichtthiiswy-kabewbaichtthiithamengin-taangkanyaangair-aelathamaim-ai-thuengaihkhunaidaekhephiiyngyaangaerk-oif)
+- [Django: History and Trends](https://dev.to/gagatust/django-history-trends-and-the-burden-of-backward-compatibility-3g2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
