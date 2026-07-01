@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Has AI Changed the Joy of Building?](https://dev.to/krish_256/has-ai-changed-the-joy-of-building-3bmm)
-- [[GCD] DQ Concurrente: ejecución asíncrona](https://dev.to/david_goyes_a488f58a17a53/gcd-dq-concurrente-ejecucion-asincrona-3jk4)
-- [Keeping Log Analytics Costs at Bay: Budgets, Alerts and a Kill Switch You Actually Test](https://dev.to/anderson_leite/keeping-log-analytics-costs-at-bay-budgets-alerts-and-a-kill-switch-you-actually-test-4hd0)
-- [Beyond NNAPI: How Android AICore and Gemini Nano Are Revolutionizing On-Device AI](https://dev.to/programmingcentral/beyond-nnapi-how-android-aicore-and-gemini-nano-are-revolutionizing-on-device-ai-3hae)
-- [Why CVSS Alone Doesn&#39;t Tell You What to Patch First &lpar;And How KEV + EPSS Changes Everything&rpar;](https://dev.to/patchvex/why-cvss-alone-doesnt-tell-you-what-to-patch-first-1cj7)
+- [Reliable, and still wrong](https://dev.to/breachprotocol/reliable-and-still-wrong-3il4)
+- [Accept All, Understand None](https://dev.to/cloudx/accept-all-understand-none-4dob)
+- [I built a browser-only HTTP Cookie Inspector — parse Set-Cookie, security score, XSS/CSRF flags, 84 tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8)
+- [Working With Massive JSON Responses](https://dev.to/jsdevspace/working-with-massive-json-responses-33j2)
+- [I built a browser-only JWT Creator &amp; Signer — HS256/384/512, verify, expiry check, 77 tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
