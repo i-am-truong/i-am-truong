@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Visitors get some serious puppy love](https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m)
-- [My First Year at DEV Recap](https://dev.to/javz/my-first-year-at-dev-recap-3na2)
-- [Claude Fable is back!](https://dev.to/alexgetmancom/claude-fable-is-back-472j)
-- [Token Town](https://dev.to/dailycontext/token-town-1c45)
-- [You have violated the rules of our community](https://dev.to/opg9680/you-have-violated-the-rules-of-our-community-2b19)
+- [I built a browser-based Markdown Previewer with KaTeX, Mermaid and PDF export](https://dev.to/akshit_shekhawat/i-built-a-browser-based-markdown-previewer-with-katex-mermaid-and-pdf-export-3dhp)
+- [I Found 4 Bugs in an AI Student Platform — Here&#39;s What Was Actually Wrong](https://dev.to/eshaanagrawal/i-found-4-bugs-in-an-ai-student-platform-heres-what-was-actually-wrong-dof)
+- [Best Platforms to Build a Waitlist for Your Mobile Game in 2026](https://dev.to/varukumarnr/best-platforms-to-build-a-waitlist-for-your-mobile-game-in-2026-1935)
+- [How We Built an AI That Remembers Your Team&#39;s Failures — Before They Happen Again](https://dev.to/piyushyenorkar/how-we-built-an-ai-that-remembers-your-teams-failures-before-they-happen-again-281o)
+- [Cursor AI Editor Patched Critical Sandbox Escape Flaws](https://dev.to/davekurian/cursor-ai-editor-patched-critical-sandbox-escape-flaws-17cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
