@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-First MVP Development: How Startups Should Build Products in 2026](https://dev.to/6sensehq/ai-first-mvp-development-how-startups-should-build-products-in-2026-2ck4)
-- [Engineering Real-Time Telemetry and Secure Clinical Messaging with SignalR](https://dev.to/erwin_wilsonceniza2_adf9/engineering-real-time-telemetry-and-secure-clinical-messaging-with-signalr-5685)
-- [Deploying Spring Petclinic Microservices with Docker Compose: An End-to-End DevOps Deployment Experience](https://dev.to/nice_nwogu_c463979fcbaaa8/deploying-spring-petclinic-microservices-with-docker-compose-an-end-to-end-devops-deployment-1b5b)
-- [I built a tool that cuts Claude/ChatGPT token usage by 97% — here&#39;s how it works](https://dev.to/rohith_matam_be6aea5caf13/i-built-a-tool-that-cuts-claudechatgpt-token-usage-by-97-heres-how-it-works-4070)
-- [900+ Downloads, 1 Star, 1 Comment: What I Learned Launching a Security Tool](https://dev.to/dockfixlabs/900-downloads-1-star-1-comment-what-i-learned-launching-a-security-tool-1pc5)
+- [Desenvolvedor: de técnico a arquiteto do produto](https://dev.to/williamcardoso/desenvolvedor-de-tecnico-a-arquiteto-do-produto-32gf)
+- [Stop re-flagging the same finding — without going silent](https://dev.to/muhammetsafak/stop-re-flagging-the-same-finding-without-going-silent-1llp)
+- [One Year](https://dev.to/brendandevenney/one-year-gbc)
+- [🦩OS June Recap: Reviewing PRs was my biggest milestone](https://dev.to/neithergalax/os-june-recap-reviewing-prs-was-my-biggest-milestone-3jh)
+- [The Hybrid Retrieval Pattern](https://dev.to/kenwalger/the-hybrid-retrieval-pattern-jno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
