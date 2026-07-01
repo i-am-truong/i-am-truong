@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a browser-based Markdown Previewer with KaTeX, Mermaid and PDF export](https://dev.to/akshit_shekhawat/i-built-a-browser-based-markdown-previewer-with-katex-mermaid-and-pdf-export-3dhp)
-- [I Found 4 Bugs in an AI Student Platform — Here&#39;s What Was Actually Wrong](https://dev.to/eshaanagrawal/i-found-4-bugs-in-an-ai-student-platform-heres-what-was-actually-wrong-dof)
-- [Best Platforms to Build a Waitlist for Your Mobile Game in 2026](https://dev.to/varukumarnr/best-platforms-to-build-a-waitlist-for-your-mobile-game-in-2026-1935)
-- [How We Built an AI That Remembers Your Team&#39;s Failures — Before They Happen Again](https://dev.to/piyushyenorkar/how-we-built-an-ai-that-remembers-your-teams-failures-before-they-happen-again-281o)
-- [Cursor AI Editor Patched Critical Sandbox Escape Flaws](https://dev.to/davekurian/cursor-ai-editor-patched-critical-sandbox-escape-flaws-17cl)
+- [Why Hijri Date Conversion Breaks Naive Math Formulas](https://dev.to/saadtahir976/why-hijri-date-conversion-breaks-naive-math-formulas-5bh7)
+- [Claude Code was quietly fingerprinting requests through a hidden mark in the date](https://dev.to/breachprotocol/claude-code-was-quietly-fingerprinting-requests-through-a-hidden-mark-in-the-date-25cm)
+- [I Added a Stealth Browser as a Sidecar MCP to My OpenClaw Agent. Here&#39;s the Architecture and the Test Results.](https://dev.to/mrclaw207/i-added-a-stealth-browser-as-a-sidecar-mcp-to-my-openclaw-agent-heres-the-architecture-and-the-120k)
+- [Unity Object Pooling: The Single Optimization That Fixes Most Mobile Performance Issues](https://dev.to/unitysourcecode/unity-object-pooling-the-single-optimization-that-fixes-most-mobile-performance-issues-3g5b)
+- [Anthropic gives AI agents their own work accounts, not yours](https://dev.to/breachprotocol/anthropic-gives-ai-agents-their-own-work-accounts-not-yours-21f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
