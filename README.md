@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Hijri Date Conversion Breaks Naive Math Formulas](https://dev.to/saadtahir976/why-hijri-date-conversion-breaks-naive-math-formulas-5bh7)
-- [Claude Code was quietly fingerprinting requests through a hidden mark in the date](https://dev.to/breachprotocol/claude-code-was-quietly-fingerprinting-requests-through-a-hidden-mark-in-the-date-25cm)
-- [I Added a Stealth Browser as a Sidecar MCP to My OpenClaw Agent. Here&#39;s the Architecture and the Test Results.](https://dev.to/mrclaw207/i-added-a-stealth-browser-as-a-sidecar-mcp-to-my-openclaw-agent-heres-the-architecture-and-the-120k)
-- [Unity Object Pooling: The Single Optimization That Fixes Most Mobile Performance Issues](https://dev.to/unitysourcecode/unity-object-pooling-the-single-optimization-that-fixes-most-mobile-performance-issues-3g5b)
-- [Anthropic gives AI agents their own work accounts, not yours](https://dev.to/breachprotocol/anthropic-gives-ai-agents-their-own-work-accounts-not-yours-21f0)
+- [Has AI Changed the Joy of Building?](https://dev.to/krish_256/has-ai-changed-the-joy-of-building-3bmm)
+- [[GCD] DQ Concurrente: ejecución asíncrona](https://dev.to/david_goyes_a488f58a17a53/gcd-dq-concurrente-ejecucion-asincrona-3jk4)
+- [Keeping Log Analytics Costs at Bay: Budgets, Alerts and a Kill Switch You Actually Test](https://dev.to/anderson_leite/keeping-log-analytics-costs-at-bay-budgets-alerts-and-a-kill-switch-you-actually-test-4hd0)
+- [Beyond NNAPI: How Android AICore and Gemini Nano Are Revolutionizing On-Device AI](https://dev.to/programmingcentral/beyond-nnapi-how-android-aicore-and-gemini-nano-are-revolutionizing-on-device-ai-3hae)
+- [Why CVSS Alone Doesn&#39;t Tell You What to Patch First &lpar;And How KEV + EPSS Changes Everything&rpar;](https://dev.to/patchvex/why-cvss-alone-doesnt-tell-you-what-to-patch-first-1cj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
