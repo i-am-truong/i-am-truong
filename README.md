@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reliable, and still wrong](https://dev.to/breachprotocol/reliable-and-still-wrong-3il4)
-- [Accept All, Understand None](https://dev.to/cloudx/accept-all-understand-none-4dob)
-- [I built a browser-only HTTP Cookie Inspector — parse Set-Cookie, security score, XSS/CSRF flags, 84 tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-http-cookie-inspector-parse-set-cookie-security-score-xsscsrf-flags-84-57k8)
-- [Working With Massive JSON Responses](https://dev.to/jsdevspace/working-with-massive-json-responses-33j2)
-- [I built a browser-only JWT Creator &amp; Signer — HS256/384/512, verify, expiry check, 77 tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-jwt-creator-signer-hs256384512-verify-expiry-check-77-tests-3b49)
+- [Why Do Token-2022 Extensions Have to Be Added at Mint Creation?](https://dev.to/devduchess/why-do-token-2022-extensions-have-to-be-added-at-mint-creation-1m58)
+- [Claude Code hooks are the seatbelt nobody buckles — here&#39;s the 10-hook setup that makes agent disasters impossible](https://dev.to/solemness/claude-code-hooks-are-the-seatbelt-nobody-buckles-heres-the-10-hook-setup-that-makes-agent-4p7m)
+- [Two labs race to make AI write whole paragraphs at once instead of word by word](https://dev.to/breachprotocol/two-labs-race-to-make-ai-write-whole-paragraphs-at-once-instead-of-word-by-word-51ao)
+- [Why Your LLM Doesn&#39;t Re-Read the Prompt: The KV-Cache](https://dev.to/dev48v/why-your-llm-doesnt-re-read-the-prompt-the-kv-cache-5je)
+- [One &quot;+x&quot; That Made 100-Layer Networks Trainable: ResNet Skip Connections](https://dev.to/dev48v/one-x-that-made-100-layer-networks-trainable-resnet-skip-connections-69c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
