@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvedor: de técnico a arquiteto do produto](https://dev.to/williamcardoso/desenvolvedor-de-tecnico-a-arquiteto-do-produto-32gf)
-- [Stop re-flagging the same finding — without going silent](https://dev.to/muhammetsafak/stop-re-flagging-the-same-finding-without-going-silent-1llp)
-- [One Year](https://dev.to/brendandevenney/one-year-gbc)
-- [🦩OS June Recap: Reviewing PRs was my biggest milestone](https://dev.to/neithergalax/os-june-recap-reviewing-prs-was-my-biggest-milestone-3jh)
-- [The Hybrid Retrieval Pattern](https://dev.to/kenwalger/the-hybrid-retrieval-pattern-jno)
+- [Is 2026 the Year of Agentic Payments? What Developers Need to Know](https://dev.to/synfinity-dynamics-pvt-ltd/is-2026-the-year-of-agentic-payments-what-developers-need-to-know-36nm)
+- [Configuring WooCommerce Shipping From the Terminal: WP-CLI + Claude Code Skills](https://dev.to/dmitryrechkin/configuring-woocommerce-shipping-from-the-terminal-wp-cli-claude-code-skills-cae)
+- [The Economics of AI APIs: Why Intelligence Is Becoming a Subscription](https://dev.to/pjdeveloper896/the-economics-of-ai-apis-why-intelligence-is-becoming-a-subscription-1d19)
+- [I gave a brand-new AI the memory of all my old chats, here&#39;s the free tool I built to do it.](https://dev.to/arya_koste_5845807df94776/i-gave-a-brand-new-ai-the-memory-of-all-my-old-chats-heres-the-free-tool-i-built-to-do-it-1550)
+- [Client Asset Ownership: Should the Agency or the Client Own the Domain and Hosting?](https://dev.to/instarenewal/client-asset-ownership-should-the-agency-or-the-client-own-the-domain-and-hosting-2hp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
