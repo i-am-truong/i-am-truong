@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Incident Management Software &amp; On-Call Lifecycle](https://dev.to/mads_quist/understanding-the-incident-management-software-on-call-lifecycle-1ham)
-- [The Interface Is Not The Product. It&#39;s The Output](https://dev.to/sentient-ui/the-interface-is-not-the-product-its-the-output-391g)
-- [video-use Review: browser-use Team&#39;s AI Video Editor](https://dev.to/andrew-ooo/video-use-review-browser-use-teams-ai-video-editor-58nl)
-- [LLM Audits and Guardrails Are Not Enough: Why You Must Filter at the Logit Level](https://dev.to/resk/llm-audits-and-guardrails-are-not-enough-why-you-must-filter-at-the-logit-level-2b68)
-- [Why Traditional LLM Audits Are Partially Useless — Logit-Level Security Is the Fix](https://dev.to/resk/why-traditional-llm-audits-are-partially-useless-logit-level-security-is-the-fix-d0b)
+- [Cloud KMS and Bring-Your-Own-Key: What You&#39;re Actually Trusting](https://dev.to/havenmessenger/cloud-kms-and-bring-your-own-key-what-youre-actually-trusting-2j17)
+- [Why “Please Don’t Make Recommendations” Is Not a Guardrail for RAG](https://dev.to/mofuteq/why-please-dont-make-recommendations-is-not-a-guardrail-for-rag-1an0)
+- [Build a Real-Time Crypto Trading Dashboard with Python, WebSockets, and React](https://dev.to/marketmastersai/build-a-real-time-crypto-trading-dashboard-with-python-websockets-and-react-67n)
+- [Stop Treating Databases Like Dumb Storage!](https://dev.to/prabashanadev/stop-treating-databases-like-dumb-storage-7mh)
+- [[Boost]](https://dev.to/cicirello/-2pi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
