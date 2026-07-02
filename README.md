@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AuraPlayer: Offline music player with true multi-artist support &amp; live themes &lpar;PyQt6&rpar;](https://dev.to/parsa_alavinikoo_1cccd4ff/auraplayer-offline-music-player-with-true-multi-artist-support-live-themes-pyqt6-55p5)
-- [🚀 How We Organized a Frontend Quiz That Attracted 1,600+ Registrations](https://dev.to/rishibyte/how-we-organized-a-frontend-quiz-that-attracted-1600-registrations-p41)
-- [Why Startups are Getting Ripped Off by 30% Recruiter Fees &lpar;From a Recruiter Who Left&rpar;](https://dev.to/futureisnowtech/why-startups-are-getting-ripped-off-by-30-recruiter-fees-from-a-recruiter-who-left-bdc)
-- [The PhD Trap: Why Quantum Startups are Failing to Ship Code](https://dev.to/futureisnowtech/the-phd-trap-why-quantum-startups-are-failing-to-ship-code-4dph)
-- [Why You Need to Shield Your Resume from the Recruiter Spam Machine](https://dev.to/futureisnowtech/why-you-need-to-shield-your-resume-from-the-recruiter-spam-machine-56pd)
+- [External and internal attention: one selective move in two directions](https://dev.to/poushwell/external-and-internal-attention-one-selective-move-in-two-directions-2o9c)
+- [Symfony: Validating &amp; Secure your API Requests](https://dev.to/johndivam/symfony-validating-secure-your-api-requests-45i8)
+- [Your AI agent just took an action in production. Can you answer five questions about it?](https://dev.to/sirinivask/your-ai-agent-just-took-an-action-in-production-can-you-answer-five-questions-about-it-17dp)
+- [Every Major ATS Has a Public JSON API for Job Openings. Nobody Uses Them.](https://dev.to/scrapemint/every-major-ats-has-a-public-json-api-for-job-openings-nobody-uses-them-f9j)
+- [I built a no-code portfolio builder so devs can skip the weekend Next.js build](https://dev.to/oasadiq/i-built-a-no-code-portfolio-builder-so-devs-can-skip-the-weekend-nextjs-build-4092)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
