@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A practical Android automation workflow: mirror, inspect, generate, then run](https://dev.to/laicaiapp/a-practical-android-automation-workflow-mirror-inspect-generate-then-run-2nbf)
-- [I spent ten days forcing tiny local models to write real code. Here&#39;s what actually breaks.](https://dev.to/jared_pilcher_65d5804723a/i-spent-ten-days-forcing-tiny-local-models-to-write-real-code-heres-what-actually-breaks-29k7)
-- [Planning network checks before running them: a local-first workflow pattern](https://dev.to/jackythompsonde/planning-network-checks-before-running-them-a-local-first-workflow-pattern-4epn)
-- [Designing Enterprise Data Architecture: Lessons Beyond ETL](https://dev.to/jaldeep_patel/designing-enterprise-data-architecture-lessons-beyond-etl-5a2f)
-- [AWS for Newbies — Episode 2](https://dev.to/surajrkhonde/aws-for-newbies-episode-2-3jg5)
+- [What is Content Security Policy &lpar;CSP&rpar;?](https://dev.to/aymaneldawy/what-is-content-security-policy-csp-p6p)
+- [I built a 163-page paycheck calculator that costs $0 a month to run](https://dev.to/starknight/i-built-a-163-page-paycheck-calculator-that-costs-0-a-month-to-run-355d)
+- [How A POS System Improves Inventory, Sales, And Service](https://dev.to/casper_0fca1b42715a397c0e/how-a-pos-system-improves-inventory-sales-and-service-2dem)
+- [Logic-Graph Verification System](https://dev.to/ryo_suwito/logic-graph-verification-system-1n63)
+- [EAA w polskim e-commerce: Dlaczego „div-soup” to teraz ryzyko biznesowe i jak semantyka HTML ratuje Twój budżet](https://dev.to/piotr_wisniewski/eaa-w-polskim-e-commerce-dlaczego-div-soup-to-teraz-ryzyko-biznesowe-i-jak-semantyka-html-ratuje-4o4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
