@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I built an AI agent that pays its own bills — and you can fork it for $0&quot;](https://dev.to/razel369/i-built-an-ai-agent-that-pays-its-own-bills-and-you-can-fork-it-for-0-2ifk)
-- [Ng-News 26/16: OpenNG Foundation, spartan/ui](https://dev.to/playfulprogramming-angular/ng-news-2616-openng-foundation-spartanui-1aim)
-- [Auto Sound Recorder AI 的 5 个隐藏用法 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/auto-sound-recorder-ai-de-5-ge-yin-cang-yong-fa-o17)
-- [Eloquent Events vs Domain Events: Why the Framework Hook Isn&#39;t Enough](https://dev.to/gabrielanhaia/eloquent-events-vs-domain-events-why-the-framework-hook-isnt-enough-3mbg)
-- [Fable 5 got jailbroken again](https://dev.to/alexgetmancom/fable-5-got-jailbroken-again-2k97)
+- [Shipping a libmpv-based video player on the Mac App Store](https://dev.to/yamayu-dev/shipping-a-libmpv-based-video-player-on-the-mac-app-store-1f2l)
+- [You Don&#39;t Need MIDI-OX Anymore: Building a SysEx Librarian with the Web MIDI API](https://dev.to/knobmonster/you-dont-need-midi-ox-anymore-building-a-sysex-librarian-with-the-web-midi-api-3pii)
+- [Phantom Squatting: When AI Hallucinated Domains Become Attacker Infrastructure](https://dev.to/coridev/phantom-squatting-when-ai-hallucinated-domains-become-attacker-infrastructure-1i67)
+- [How to Bypass Anti-Bot Walls for Production-Ready Apps](https://dev.to/codewithshahan/how-to-bypass-anti-bot-walls-for-production-ready-apps-2kko)
+- [Agentjacking: How Fake Bug Reports Are Hijacking AI Coding Agents — and How to Stop It](https://dev.to/coridev/agentjacking-how-fake-bug-reports-are-hijacking-ai-coding-agents-and-how-to-stop-it-45lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
