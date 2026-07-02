@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Europe&#39;s brain drain: the biggest loser flips when you normalize per 1,000 residents](https://dev.to/mlvolkmar/europes-brain-drain-the-biggest-loser-flips-when-you-normalize-per-1000-residents-4bk5)
-- [How Turborepo Makes Large JavaScript Projects Fast](https://dev.to/wafa_bergaoui/how-turborepo-makes-large-javascript-projects-fast-1p22)
-- [LLVM #10 — Constructing MDNodes](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-10-constructing-mdnodes-4lb2)
-- [The Architecture of an Autonomous DeFi Agent Running $20 in Real Money](https://dev.to/carter_may_96736e7b35986c/the-architecture-of-an-autonomous-defi-agent-running-20-in-real-money-1e2n)
-- [The real cost of flaky CI: a quick community survey](https://dev.to/void_stitch/the-real-cost-of-flaky-ci-a-quick-community-survey-e7n)
+- [AuraPlayer: Offline music player with true multi-artist support &amp; live themes &lpar;PyQt6&rpar;](https://dev.to/parsa_alavinikoo_1cccd4ff/auraplayer-offline-music-player-with-true-multi-artist-support-live-themes-pyqt6-55p5)
+- [🚀 How We Organized a Frontend Quiz That Attracted 1,600+ Registrations](https://dev.to/rishibyte/how-we-organized-a-frontend-quiz-that-attracted-1600-registrations-p41)
+- [Why Startups are Getting Ripped Off by 30% Recruiter Fees &lpar;From a Recruiter Who Left&rpar;](https://dev.to/futureisnowtech/why-startups-are-getting-ripped-off-by-30-recruiter-fees-from-a-recruiter-who-left-bdc)
+- [The PhD Trap: Why Quantum Startups are Failing to Ship Code](https://dev.to/futureisnowtech/the-phd-trap-why-quantum-startups-are-failing-to-ship-code-4dph)
+- [Why You Need to Shield Your Resume from the Recruiter Spam Machine](https://dev.to/futureisnowtech/why-you-need-to-shield-your-resume-from-the-recruiter-spam-machine-56pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
