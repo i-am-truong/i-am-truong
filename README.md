@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud KMS and Bring-Your-Own-Key: What You&#39;re Actually Trusting](https://dev.to/havenmessenger/cloud-kms-and-bring-your-own-key-what-youre-actually-trusting-2j17)
-- [Why “Please Don’t Make Recommendations” Is Not a Guardrail for RAG](https://dev.to/mofuteq/why-please-dont-make-recommendations-is-not-a-guardrail-for-rag-1an0)
-- [Build a Real-Time Crypto Trading Dashboard with Python, WebSockets, and React](https://dev.to/marketmastersai/build-a-real-time-crypto-trading-dashboard-with-python-websockets-and-react-67n)
-- [Stop Treating Databases Like Dumb Storage!](https://dev.to/prabashanadev/stop-treating-databases-like-dumb-storage-7mh)
-- [[Boost]](https://dev.to/cicirello/-2pi5)
+- [8 small data transforms I don&#39;t want to write as shell glue anymore](https://dev.to/pytgaen/8-small-data-transforms-i-dont-want-to-write-as-shell-glue-anymore-832)
+- [Real-time cross-border price comparison with MCP](https://dev.to/buywhere/real-time-cross-border-price-comparison-with-mcp-273i)
+- [Self-Hosted vs. SaaS: What Coolify Actually Costs &lpar;and Where It Gets Expensive&rpar;](https://dev.to/slawanextlevels/self-hosted-vs-saas-what-coolify-actually-costs-and-where-it-gets-expensive-1icd)
+- [Fable Is Set Free - There’s A Brand New Claude In Town](https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9)
+- [You&#39;re Not Lazy — You&#39;re Time Blind. Here&#39;s How Lock In Fixes It.](https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
