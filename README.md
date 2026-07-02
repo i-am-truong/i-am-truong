@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a libmpv-based video player on the Mac App Store](https://dev.to/yamayu-dev/shipping-a-libmpv-based-video-player-on-the-mac-app-store-1f2l)
-- [You Don&#39;t Need MIDI-OX Anymore: Building a SysEx Librarian with the Web MIDI API](https://dev.to/knobmonster/you-dont-need-midi-ox-anymore-building-a-sysex-librarian-with-the-web-midi-api-3pii)
-- [Phantom Squatting: When AI Hallucinated Domains Become Attacker Infrastructure](https://dev.to/coridev/phantom-squatting-when-ai-hallucinated-domains-become-attacker-infrastructure-1i67)
-- [How to Bypass Anti-Bot Walls for Production-Ready Apps](https://dev.to/codewithshahan/how-to-bypass-anti-bot-walls-for-production-ready-apps-2kko)
-- [Agentjacking: How Fake Bug Reports Are Hijacking AI Coding Agents — and How to Stop It](https://dev.to/coridev/agentjacking-how-fake-bug-reports-are-hijacking-ai-coding-agents-and-how-to-stop-it-45lm)
+- [A Primitive Should Never Have an Opinion](https://dev.to/rabeh_arch/a-primitive-should-never-have-an-opinion-7ja)
+- [Building in Australia: An Ecosystem Deep Dive on Innovation, Investment and Competitiveness for Digital Economy Startups](https://dev.to/vmichael/building-in-australia-an-ecosystem-deep-dive-on-innovation-investment-and-competitiveness-for-429l)
+- [Designing a Reliable Wallet Engine: Event-Driven Architecture with Kafka and TypeScript](https://dev.to/tundeoladejo/designing-a-reliable-wallet-engine-event-driven-architecture-with-kafka-and-typescript-jjp)
+- [Three weeks before the enterprise contract, the voice agent wasnt operator-ready.](https://dev.to/realmarcuschen/three-weeks-before-the-enterprise-contract-the-voice-agent-wasnt-operator-ready-218c)
+- [How to Connect Claude to Your WordPress Site in 5 Minutes](https://dev.to/sid_verse/how-to-connect-claude-to-your-wordpress-site-in-5-minutes-35jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
