@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8 small data transforms I don&#39;t want to write as shell glue anymore](https://dev.to/pytgaen/8-small-data-transforms-i-dont-want-to-write-as-shell-glue-anymore-832)
-- [Real-time cross-border price comparison with MCP](https://dev.to/buywhere/real-time-cross-border-price-comparison-with-mcp-273i)
-- [Self-Hosted vs. SaaS: What Coolify Actually Costs &lpar;and Where It Gets Expensive&rpar;](https://dev.to/slawanextlevels/self-hosted-vs-saas-what-coolify-actually-costs-and-where-it-gets-expensive-1icd)
-- [Fable Is Set Free - There’s A Brand New Claude In Town](https://dev.to/dailycontext/fable-is-set-free-theres-a-brand-new-claude-in-town-ch9)
-- [You&#39;re Not Lazy — You&#39;re Time Blind. Here&#39;s How Lock In Fixes It.](https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej)
+- [I built a differential tester for TOON, and it found two silent-corruption bugs on the first run](https://dev.to/maverick_y_4e3300c63f2285/i-built-a-differential-tester-for-toon-and-it-found-two-silent-corruption-bugs-on-the-first-run-4ia7)
+- [Part 2 Building an Authentication System from Scratch – Backend Setup](https://dev.to/t_sriya_2af6abc7e8d4e87da/part-2building-an-authentication-system-from-scratch-backend-setup-59gg)
+- [What an AI code reviewer actually catches on real PRs — and the day mine cried &#39;20 critical issues&#39;](https://dev.to/pankaj_kumar_6c2cb4ab0f96/what-an-ai-code-reviewer-actually-catches-on-real-prs-and-the-day-mine-cried-20-critical-issues-2b3l)
+- [Google&#39;s MathSolver JSON-LD validator is stricter than schema.org. I learned that the hard way over 4 rounds of fixes.](https://dev.to/chetansanghani/googles-mathsolver-json-ld-validator-is-stricter-than-schemaorg-i-learned-that-the-hard-way-over-3eb0)
+- [LLMs amplify whatever architecture you bring them. Including none.](https://dev.to/arthurpro/llms-amplify-whatever-architecture-you-bring-them-including-none-1l6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
