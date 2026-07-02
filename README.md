@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a differential tester for TOON, and it found two silent-corruption bugs on the first run](https://dev.to/maverick_y_4e3300c63f2285/i-built-a-differential-tester-for-toon-and-it-found-two-silent-corruption-bugs-on-the-first-run-4ia7)
-- [Part 2 Building an Authentication System from Scratch – Backend Setup](https://dev.to/t_sriya_2af6abc7e8d4e87da/part-2building-an-authentication-system-from-scratch-backend-setup-59gg)
-- [What an AI code reviewer actually catches on real PRs — and the day mine cried &#39;20 critical issues&#39;](https://dev.to/pankaj_kumar_6c2cb4ab0f96/what-an-ai-code-reviewer-actually-catches-on-real-prs-and-the-day-mine-cried-20-critical-issues-2b3l)
-- [Google&#39;s MathSolver JSON-LD validator is stricter than schema.org. I learned that the hard way over 4 rounds of fixes.](https://dev.to/chetansanghani/googles-mathsolver-json-ld-validator-is-stricter-than-schemaorg-i-learned-that-the-hard-way-over-3eb0)
-- [LLMs amplify whatever architecture you bring them. Including none.](https://dev.to/arthurpro/llms-amplify-whatever-architecture-you-bring-them-including-none-1l6b)
+- [Europe&#39;s brain drain: the biggest loser flips when you normalize per 1,000 residents](https://dev.to/mlvolkmar/europes-brain-drain-the-biggest-loser-flips-when-you-normalize-per-1000-residents-4bk5)
+- [How Turborepo Makes Large JavaScript Projects Fast](https://dev.to/wafa_bergaoui/how-turborepo-makes-large-javascript-projects-fast-1p22)
+- [LLVM #10 — Constructing MDNodes](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-10-constructing-mdnodes-4lb2)
+- [The Architecture of an Autonomous DeFi Agent Running $20 in Real Money](https://dev.to/carter_may_96736e7b35986c/the-architecture-of-an-autonomous-defi-agent-running-20-in-real-money-1e2n)
+- [The real cost of flaky CI: a quick community survey](https://dev.to/void_stitch/the-real-cost-of-flaky-ci-a-quick-community-survey-e7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
