@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Token-2022 Extensions Have to Be Added at Mint Creation?](https://dev.to/devduchess/why-do-token-2022-extensions-have-to-be-added-at-mint-creation-1m58)
-- [Claude Code hooks are the seatbelt nobody buckles — here&#39;s the 10-hook setup that makes agent disasters impossible](https://dev.to/solemness/claude-code-hooks-are-the-seatbelt-nobody-buckles-heres-the-10-hook-setup-that-makes-agent-4p7m)
-- [Two labs race to make AI write whole paragraphs at once instead of word by word](https://dev.to/breachprotocol/two-labs-race-to-make-ai-write-whole-paragraphs-at-once-instead-of-word-by-word-51ao)
-- [Why Your LLM Doesn&#39;t Re-Read the Prompt: The KV-Cache](https://dev.to/dev48v/why-your-llm-doesnt-re-read-the-prompt-the-kv-cache-5je)
-- [One &quot;+x&quot; That Made 100-Layer Networks Trainable: ResNet Skip Connections](https://dev.to/dev48v/one-x-that-made-100-layer-networks-trainable-resnet-skip-connections-69c)
+- [Loop Engineering — เมื่อการ Prompt Agent ด้วยมือไม่พออีกต่อไป แล้ว Programmer ต้องออกแบบ Loop แทน](https://dev.to/sarantoon/loop-engineering-emuuekaar-prompt-agent-dwymuueaimphiiktaip-aelw-programmer-tngkaebb-loop-aethn-1ikh)
+- [hermes-memory-installer: Memory Sidecar v3.5.1](https://dev.to/mage0535/hermes-memory-installer-memory-sidecar-v351-2eeo)
+- [the best books for the agent era are still systems books](https://dev.to/pvgomes/the-best-books-for-the-agent-era-are-still-systems-books-2ij3)
+- [Why teaching AI agents to use tools keeps blowing up in training](https://dev.to/breachprotocol/why-teaching-ai-agents-to-use-tools-keeps-blowing-up-in-training-27bo)
+- [Deception technology the future of blue teaming](https://dev.to/socialate/deception-technology-the-future-of-blue-teaming-3ef2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
