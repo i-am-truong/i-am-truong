@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Content Security Policy &lpar;CSP&rpar;?](https://dev.to/aymaneldawy/what-is-content-security-policy-csp-p6p)
-- [I built a 163-page paycheck calculator that costs $0 a month to run](https://dev.to/starknight/i-built-a-163-page-paycheck-calculator-that-costs-0-a-month-to-run-355d)
-- [How A POS System Improves Inventory, Sales, And Service](https://dev.to/casper_0fca1b42715a397c0e/how-a-pos-system-improves-inventory-sales-and-service-2dem)
-- [Logic-Graph Verification System](https://dev.to/ryo_suwito/logic-graph-verification-system-1n63)
-- [EAA w polskim e-commerce: Dlaczego „div-soup” to teraz ryzyko biznesowe i jak semantyka HTML ratuje Twój budżet](https://dev.to/piotr_wisniewski/eaa-w-polskim-e-commerce-dlaczego-div-soup-to-teraz-ryzyko-biznesowe-i-jak-semantyka-html-ratuje-4o4l)
+- [Understanding the Incident Management Software &amp; On-Call Lifecycle](https://dev.to/mads_quist/understanding-the-incident-management-software-on-call-lifecycle-1ham)
+- [The Interface Is Not The Product. It&#39;s The Output](https://dev.to/sentient-ui/the-interface-is-not-the-product-its-the-output-391g)
+- [video-use Review: browser-use Team&#39;s AI Video Editor](https://dev.to/andrew-ooo/video-use-review-browser-use-teams-ai-video-editor-58nl)
+- [LLM Audits and Guardrails Are Not Enough: Why You Must Filter at the Logit Level](https://dev.to/resk/llm-audits-and-guardrails-are-not-enough-why-you-must-filter-at-the-logit-level-2b68)
+- [Why Traditional LLM Audits Are Partially Useless — Logit-Level Security Is the Fix](https://dev.to/resk/why-traditional-llm-audits-are-partially-useless-logit-level-security-is-the-fix-d0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
