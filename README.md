@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fast, Free Online QR Scanner and Generator &lpar;Open Source&rpar;](https://dev.to/salman_ali_81cfecb56b4bf7/building-a-fast-free-online-qr-scanner-and-generator-open-source-bo5)
-- [Is Your Game Choking on GC Allocations?](https://dev.to/prabashanadev/is-your-game-choking-on-gc-allocations-1j6b)
-- [KathaGPT — private AI desktop app .
-Download Llama, Mistral, and Qwen locally with one click — no Ollama, no API key.
-Open Source · MIT · macOS · Windows · Linux
-https://github.com/santoshpremi/KathaGPT
-https://santoshpremi.github.io/KathaGPT/](https://dev.to/santoshpremi/kathagpt-private-ai-desktop-app-download-llama-mistral-and-qwen-locally-with-one-click-no-1kio)
-- [The Biggest Mistake Freshers Make While Learning to Code](https://dev.to/codewithham/the-biggest-mistake-freshers-make-while-learning-to-code-35pi)
-- [Day 3: Watch your grammar with AI, it may cost you — Understanding BPE Tokenizers 🍓🔡](https://dev.to/unitbuilds_cc/day-3-watch-your-grammar-with-ai-it-may-cost-you-understanding-bpe-tokenizers-54j)
+- [I pointed my routing tester at a server I didn&#39;t build. One tool was quietly stealing two others&#39; jobs.](https://dev.to/hex_tracker/i-pointed-my-routing-tester-at-a-server-i-didnt-build-one-tool-was-quietly-stealing-two-others-5d3e)
+- [I Built a Minimal Android Task Manager Because Most To-Do Apps Felt Too Complicated](https://dev.to/karthiksrin18/i-built-a-minimal-android-task-manager-because-most-to-do-apps-felt-too-complicated-5b6f)
+- [Stop pasting your API keys into ChatGPT: a safer way to feed a codebase to an LLM](https://dev.to/cu_thinvreview_b2/stop-pasting-your-api-keys-into-chatgpt-a-safer-way-to-feed-a-codebase-to-an-llm-3j35)
+- [Test Management Compliance: Cloud SaaS vs Local-First](https://dev.to/weiwen-weng/test-management-compliance-cloud-saas-vs-local-first-57p8)
+- [Define Interfaces Where You Use Them: The Go Rule That Shrinks Your API](https://dev.to/gabrielanhaia/define-interfaces-where-you-use-them-the-go-rule-that-shrinks-your-api-2jc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
