@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gateway routing, agents ship, Mistral TTS drops](https://dev.to/devsignal/gateway-routing-agents-ship-mistral-tts-drops-2120)
-- [Mid-Year Backend Reset: My H2 Goals for Speed, Security, and Better Docs](https://dev.to/tahsin000/mid-year-backend-reset-my-h2-goals-for-speed-security-and-better-docs-14ap)
-- [a width check said the string was safe to cut. it split a kanji in half.](https://dev.to/greymothjp/a-width-check-said-the-string-was-safe-to-cut-it-split-a-kanji-in-half-4hjk)
-- [I wrote a free 84-page handbook to take you from &quot;what is a token&quot; to working AI agents](https://dev.to/vinimabreu/i-wrote-a-free-84-page-handbook-to-take-you-from-what-is-a-token-to-working-ai-agents-3fe0)
-- [I Couldn’t Find Good Freelancers Fast Enough… So I Built Alcora Instead](https://dev.to/alcora/i-couldnt-find-good-freelancers-fast-enough-so-i-built-alcora-instead-5436)
+- [Your Coding Agent Is a New Attack Surface and Most Devs Aren&#39;t Ready for It](https://dev.to/coridev/your-coding-agent-is-a-new-attack-surface-and-most-devs-arent-ready-for-it-1b92)
+- [AI coding agents don&#39;t have a workspace. Here&#39;s what that costs you.](https://dev.to/memeri/ai-coding-agents-dont-have-a-workspace-heres-what-that-costs-you-d6)
+- [Share Memory by Communicating: When a Channel Beats a Mutex in Go](https://dev.to/gabrielanhaia/share-memory-by-communicating-when-a-channel-beats-a-mutex-in-go-315f)
+- [How to spot a honeypot token before you buy &lpar;and automate the whole checklist&rpar;](https://dev.to/mrvlyouknowwho/how-to-spot-a-honeypot-token-before-you-buy-and-automate-the-whole-checklist-3n6b)
+- [Raspberry Pi Cyberdeck Turns a Teensy Into a Pocket Music Studio](https://dev.to/circuitrocks/raspberry-pi-cyberdeck-turns-a-teensy-into-a-pocket-music-studio-6o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
