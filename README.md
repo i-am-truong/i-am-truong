@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Caffeine Is the Most Effective Legal Ergogenic. Pre-Workouts Bury This Under $30 of Filler.](https://dev.to/jonas_prenissl_5eb6eaa63c/caffeine-is-the-most-effective-legal-ergogenic-pre-workouts-bury-this-under-30-of-filler-4gpa)
-- [The Real Cost to an Agency When a Client&#39;s Domain Silently Expires](https://dev.to/instarenewal/the-real-cost-to-an-agency-when-a-clients-domain-silently-expires-53i2)
-- [You Can&#39;t Vibe Code Infrastructure. The Job Market Agrees.](https://dev.to/remoet/you-cant-vibe-code-infrastructure-the-job-market-agrees-15oh)
-- [Why Snap CD: A Permission System Built for Infrastructure](https://dev.to/karlschriek/why-snap-cd-a-permission-system-built-for-infrastructure-1602)
-- [Why Snap CD: Event-driven Continuous Deployment](https://dev.to/karlschriek/why-snap-cd-event-driven-continuous-deployment-2in2)
+- [12 Questions That Separate Serious AI Buyers from the Rest](https://dev.to/sumaskeller/12-questions-that-separate-serious-ai-buyers-from-the-rest-3chn)
+- [Day 56 – Mastering ClickHouse® AggregatingMergeTree: Build Faster Analytics with Pre-Aggregated Data](https://dev.to/kanishga_subramani_49ad73/day-56-mastering-clickhouser-aggregatingmergetree-build-faster-analytics-with-pre-aggregated-data-32cf)
+- [How Much Tax Do Developers Actually Pay? A 2026 Breakdown](https://dev.to/thetaxcalc/how-much-tax-do-developers-actually-pay-a-2026-breakdown-3pa7)
+- [Workflow Series &lpar;05&rpar;: Evaluation Framework — Three-Layer Testing and Trace Tracking](https://dev.to/wonderlab/workflow-series-05-evaluation-framework-three-layer-testing-and-trace-tracking-2857)
+- [Nitro Modules in React Native: perché non sono “solo un bridge più veloce”](https://dev.to/frontendfacile/nitro-modules-in-react-native-perche-non-sono-solo-un-bridge-piu-veloce-1n56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
