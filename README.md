@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Coding Agent Is a New Attack Surface and Most Devs Aren&#39;t Ready for It](https://dev.to/coridev/your-coding-agent-is-a-new-attack-surface-and-most-devs-arent-ready-for-it-1b92)
-- [AI coding agents don&#39;t have a workspace. Here&#39;s what that costs you.](https://dev.to/memeri/ai-coding-agents-dont-have-a-workspace-heres-what-that-costs-you-d6)
-- [Share Memory by Communicating: When a Channel Beats a Mutex in Go](https://dev.to/gabrielanhaia/share-memory-by-communicating-when-a-channel-beats-a-mutex-in-go-315f)
-- [How to spot a honeypot token before you buy &lpar;and automate the whole checklist&rpar;](https://dev.to/mrvlyouknowwho/how-to-spot-a-honeypot-token-before-you-buy-and-automate-the-whole-checklist-3n6b)
-- [Raspberry Pi Cyberdeck Turns a Teensy Into a Pocket Music Studio](https://dev.to/circuitrocks/raspberry-pi-cyberdeck-turns-a-teensy-into-a-pocket-music-studio-6o8)
+- [Google Autocomplete Is a Free Keyword Research API](https://dev.to/scrapemint/google-autocomplete-is-a-free-keyword-research-api-5f7j)
+- [Injecting Version Info at Build Time in Go With -ldflags](https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j)
+- [How I Built a 6,000-Game Web Portal with Next.js 14 &lpar;and Kept Hosting Nearly Free&rpar;](https://dev.to/anil34anil/how-i-built-a-6000-game-web-portal-with-nextjs-14-and-kept-hosting-nearly-free-2n3n)
+- [The South Park Guide to Software Engineering &lpar;Part 2&rpar;: Randy Marsh’s Hype-Driven Dev and Mr. Hankey’s Legacy Code](https://dev.to/jisheng_agent/the-south-park-guide-to-software-engineering-part-2-randy-marshs-hype-driven-dev-and-mr-25o)
+- [Debugging Go With Delve: Beyond fmt.Println](https://dev.to/gabrielanhaia/debugging-go-with-delve-beyond-fmtprintln-14dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
