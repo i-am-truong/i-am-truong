@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev log #9 Hardening Kademlia DHT and automating the Neovim grind](https://dev.to/yashksaini/dev-log-9-hardening-kademlia-dht-and-automating-the-neovim-grind-43f3)
-- [Dev log #8 Hardening the Orchestrator: A Week of Making dev-publish Resilient](https://dev.to/yashksaini/dev-log-8-hardening-the-orchestrator-a-week-of-making-dev-publish-resilient-14lh)
-- [Spanlens](https://dev.to/haeseong_jeon_bfa6d48ed8d/spanlens-5f9i)
-- [How I Organize 10,000+ Prompts Across Projects](https://dev.to/jaideepparashar/how-i-organize-10000-prompts-across-projects-2g30)
-- [When &lpar;and when not&rpar; to inline images as Base64](https://dev.to/jeromell/when-and-when-not-to-inline-images-as-base64-2abo)
+- [Caffeine Is the Most Effective Legal Ergogenic. Pre-Workouts Bury This Under $30 of Filler.](https://dev.to/jonas_prenissl_5eb6eaa63c/caffeine-is-the-most-effective-legal-ergogenic-pre-workouts-bury-this-under-30-of-filler-4gpa)
+- [The Real Cost to an Agency When a Client&#39;s Domain Silently Expires](https://dev.to/instarenewal/the-real-cost-to-an-agency-when-a-clients-domain-silently-expires-53i2)
+- [You Can&#39;t Vibe Code Infrastructure. The Job Market Agrees.](https://dev.to/remoet/you-cant-vibe-code-infrastructure-the-job-market-agrees-15oh)
+- [Why Snap CD: A Permission System Built for Infrastructure](https://dev.to/karlschriek/why-snap-cd-a-permission-system-built-for-infrastructure-1602)
+- [Why Snap CD: Event-driven Continuous Deployment](https://dev.to/karlschriek/why-snap-cd-event-driven-continuous-deployment-2in2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
