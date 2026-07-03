@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Agents SDK 0.13 to 0.17: Three Breaking Changes You Will Hit](https://dev.to/peytongreen_dev/openai-agents-sdk-013-to-017-three-breaking-changes-you-will-hit-385e)
-- [The Right Way to Pair AI With Terraform Plans](https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c)
-- [I Built an AI Tool That Finds Wasted Cloud Spending — And Its Carbon Footprint. Published: True](https://dev.to/raghu_putta_1e4490f2e9648/i-built-an-ai-tool-that-finds-wasted-cloud-spending-and-its-carbon-footprintpublished-true-3p95)
-- [Fewer PRs done with proper prompting, review, and refinement usually win long term](https://dev.to/tomerbendavid/fewer-prs-done-with-proper-prompting-review-and-refinement-usually-win-long-term-ipo)
-- [AI Code Review That Engineers Actually Trust: The Pipeline We Run on Every Pull Request](https://dev.to/kirandeepjassalcrypto/ai-code-review-that-engineers-actually-trust-the-pipeline-we-run-on-every-pull-request-21fp)
+- [Beyond the .tflite File: Mastering High-Performance Edge AI with MediaPipe Tasks and AICore](https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e)
+- [Software Development Changed. Good Engineering Didn’t.](https://dev.to/techbarsw/software-development-changed-good-engineering-didnt-2g7)
+- [In the AI era, your company will look like a law firm](https://dev.to/lingchongeng/in-the-ai-era-your-company-will-look-like-a-law-firm-39e1)
+- [5 SQL Interview Questions That Trip Up Beginners](https://dev.to/juhi_singhal_7d7fb8634472/5-sql-interview-questions-that-trip-up-beginners-5cmi)
+- [Now you can run opencode on termux :&rpar;](https://dev.to/voyeg3r/now-you-can-run-opencode-on-termux--4566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
