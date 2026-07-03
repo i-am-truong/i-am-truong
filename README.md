@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I pointed my routing tester at a server I didn&#39;t build. One tool was quietly stealing two others&#39; jobs.](https://dev.to/hex_tracker/i-pointed-my-routing-tester-at-a-server-i-didnt-build-one-tool-was-quietly-stealing-two-others-5d3e)
-- [I Built a Minimal Android Task Manager Because Most To-Do Apps Felt Too Complicated](https://dev.to/karthiksrin18/i-built-a-minimal-android-task-manager-because-most-to-do-apps-felt-too-complicated-5b6f)
-- [Stop pasting your API keys into ChatGPT: a safer way to feed a codebase to an LLM](https://dev.to/cu_thinvreview_b2/stop-pasting-your-api-keys-into-chatgpt-a-safer-way-to-feed-a-codebase-to-an-llm-3j35)
-- [Test Management Compliance: Cloud SaaS vs Local-First](https://dev.to/weiwen-weng/test-management-compliance-cloud-saas-vs-local-first-57p8)
-- [Define Interfaces Where You Use Them: The Go Rule That Shrinks Your API](https://dev.to/gabrielanhaia/define-interfaces-where-you-use-them-the-go-rule-that-shrinks-your-api-2jc1)
+- [Build Your First AI Agent in 30 Minutes - CrewAI + AWS Bedrock](https://dev.to/aws-builders/build-your-first-ai-agent-in-30-minutes-crewai-aws-bedrock-40lo)
+- [AI Agent Observability Runs on Conversation IDs | Focused Labs](https://dev.to/focused_dot_io/ai-agent-observability-runs-on-conversation-ids-focused-labs-4g23)
+- [I replaced 1,000 lines of Python with a 500-word prompt](https://dev.to/saltxd/i-replaced-1000-lines-of-python-with-a-500-word-prompt-29ao)
+- [What Ball Tracking Misses in Tennis Video Analysis](https://dev.to/nousrun/what-ball-tracking-misses-in-tennis-video-analysis-2m1k)
+- [NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
