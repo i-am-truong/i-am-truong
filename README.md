@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Primitive Should Never Have an Opinion](https://dev.to/rabeh_arch/a-primitive-should-never-have-an-opinion-7ja)
-- [Building in Australia: An Ecosystem Deep Dive on Innovation, Investment and Competitiveness for Digital Economy Startups](https://dev.to/vmichael/building-in-australia-an-ecosystem-deep-dive-on-innovation-investment-and-competitiveness-for-429l)
-- [Designing a Reliable Wallet Engine: Event-Driven Architecture with Kafka and TypeScript](https://dev.to/tundeoladejo/designing-a-reliable-wallet-engine-event-driven-architecture-with-kafka-and-typescript-jjp)
-- [Three weeks before the enterprise contract, the voice agent wasnt operator-ready.](https://dev.to/realmarcuschen/three-weeks-before-the-enterprise-contract-the-voice-agent-wasnt-operator-ready-218c)
-- [How to Connect Claude to Your WordPress Site in 5 Minutes](https://dev.to/sid_verse/how-to-connect-claude-to-your-wordpress-site-in-5-minutes-35jl)
+- [Dev log #9 Hardening Kademlia DHT and automating the Neovim grind](https://dev.to/yashksaini/dev-log-9-hardening-kademlia-dht-and-automating-the-neovim-grind-43f3)
+- [Dev log #8 Hardening the Orchestrator: A Week of Making dev-publish Resilient](https://dev.to/yashksaini/dev-log-8-hardening-the-orchestrator-a-week-of-making-dev-publish-resilient-14lh)
+- [Spanlens](https://dev.to/haeseong_jeon_bfa6d48ed8d/spanlens-5f9i)
+- [How I Organize 10,000+ Prompts Across Projects](https://dev.to/jaideepparashar/how-i-organize-10000-prompts-across-projects-2g30)
+- [When &lpar;and when not&rpar; to inline images as Base64](https://dev.to/jeromell/when-and-when-not-to-inline-images-as-base64-2abo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
