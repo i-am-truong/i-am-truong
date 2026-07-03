@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First AI Agent in 30 Minutes - CrewAI + AWS Bedrock](https://dev.to/aws-builders/build-your-first-ai-agent-in-30-minutes-crewai-aws-bedrock-40lo)
-- [AI Agent Observability Runs on Conversation IDs | Focused Labs](https://dev.to/focused_dot_io/ai-agent-observability-runs-on-conversation-ids-focused-labs-4g23)
-- [I replaced 1,000 lines of Python with a 500-word prompt](https://dev.to/saltxd/i-replaced-1000-lines-of-python-with-a-500-word-prompt-29ao)
-- [What Ball Tracking Misses in Tennis Video Analysis](https://dev.to/nousrun/what-ball-tracking-misses-in-tennis-video-analysis-2m1k)
-- [NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)
+- [OpenAI Agents SDK 0.13 to 0.17: Three Breaking Changes You Will Hit](https://dev.to/peytongreen_dev/openai-agents-sdk-013-to-017-three-breaking-changes-you-will-hit-385e)
+- [The Right Way to Pair AI With Terraform Plans](https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c)
+- [I Built an AI Tool That Finds Wasted Cloud Spending — And Its Carbon Footprint. Published: True](https://dev.to/raghu_putta_1e4490f2e9648/i-built-an-ai-tool-that-finds-wasted-cloud-spending-and-its-carbon-footprintpublished-true-3p95)
+- [Fewer PRs done with proper prompting, review, and refinement usually win long term](https://dev.to/tomerbendavid/fewer-prs-done-with-proper-prompting-review-and-refinement-usually-win-long-term-ipo)
+- [AI Code Review That Engineers Actually Trust: The Pipeline We Run on Every Pull Request](https://dev.to/kirandeepjassalcrypto/ai-code-review-that-engineers-actually-trust-the-pipeline-we-run-on-every-pull-request-21fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
