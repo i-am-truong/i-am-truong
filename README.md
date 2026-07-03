@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the .tflite File: Mastering High-Performance Edge AI with MediaPipe Tasks and AICore](https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e)
-- [Software Development Changed. Good Engineering Didn’t.](https://dev.to/techbarsw/software-development-changed-good-engineering-didnt-2g7)
-- [In the AI era, your company will look like a law firm](https://dev.to/lingchongeng/in-the-ai-era-your-company-will-look-like-a-law-firm-39e1)
-- [5 SQL Interview Questions That Trip Up Beginners](https://dev.to/juhi_singhal_7d7fb8634472/5-sql-interview-questions-that-trip-up-beginners-5cmi)
-- [Now you can run opencode on termux :&rpar;](https://dev.to/voyeg3r/now-you-can-run-opencode-on-termux--4566)
+- [Gateway routing, agents ship, Mistral TTS drops](https://dev.to/devsignal/gateway-routing-agents-ship-mistral-tts-drops-2120)
+- [Mid-Year Backend Reset: My H2 Goals for Speed, Security, and Better Docs](https://dev.to/tahsin000/mid-year-backend-reset-my-h2-goals-for-speed-security-and-better-docs-14ap)
+- [a width check said the string was safe to cut. it split a kanji in half.](https://dev.to/greymothjp/a-width-check-said-the-string-was-safe-to-cut-it-split-a-kanji-in-half-4hjk)
+- [I wrote a free 84-page handbook to take you from &quot;what is a token&quot; to working AI agents](https://dev.to/vinimabreu/i-wrote-a-free-84-page-handbook-to-take-you-from-what-is-a-token-to-working-ai-agents-3fe0)
+- [I Couldn’t Find Good Freelancers Fast Enough… So I Built Alcora Instead](https://dev.to/alcora/i-couldnt-find-good-freelancers-fast-enough-so-i-built-alcora-instead-5436)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
