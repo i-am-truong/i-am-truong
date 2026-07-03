@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate with the MYOB API](https://dev.to/apideck/how-to-integrate-with-the-myob-api-3gf5)
-- [Python Myths Even Seniors Believe](https://dev.to/soargram/python-myths-even-seniors-believe-3aje)
-- [9 Proven Ways Virtual Reality in Healthcare Ships in Production](https://dev.to/viitorx007/9-proven-ways-virtual-reality-in-healthcare-ships-in-production-1j26)
-- [A Low-Noise AWS Alarm Email Check for CI/CD Pipelines](https://dev.to/jasonmills94/a-low-noise-aws-alarm-email-check-for-cicd-pipelines-1epk)
-- [How to Choose the Right Eval for an AI Agent](https://dev.to/mahima_thacker/how-to-choose-the-right-eval-for-an-ai-agent-2o1p)
+- [Building a Fast, Free Online QR Scanner and Generator &lpar;Open Source&rpar;](https://dev.to/salman_ali_81cfecb56b4bf7/building-a-fast-free-online-qr-scanner-and-generator-open-source-bo5)
+- [Is Your Game Choking on GC Allocations?](https://dev.to/prabashanadev/is-your-game-choking-on-gc-allocations-1j6b)
+- [KathaGPT — private AI desktop app .
+Download Llama, Mistral, and Qwen locally with one click — no Ollama, no API key.
+Open Source · MIT · macOS · Windows · Linux
+https://github.com/santoshpremi/KathaGPT
+https://santoshpremi.github.io/KathaGPT/](https://dev.to/santoshpremi/kathagpt-private-ai-desktop-app-download-llama-mistral-and-qwen-locally-with-one-click-no-1kio)
+- [The Biggest Mistake Freshers Make While Learning to Code](https://dev.to/codewithham/the-biggest-mistake-freshers-make-while-learning-to-code-35pi)
+- [Day 3: Watch your grammar with AI, it may cost you — Understanding BPE Tokenizers 🍓🔡](https://dev.to/unitbuilds_cc/day-3-watch-your-grammar-with-ai-it-may-cost-you-understanding-bpe-tokenizers-54j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
