@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Open Source Resilience Node for n8n](https://dev.to/mr-taiwo/building-an-open-source-resilience-node-for-n8n-402j)
-- [Swiss Zefix records: what you can pull live in 2026](https://dev.to/openregistry/swiss-zefix-records-what-you-can-pull-live-in-2026-4md6)
-- [🚀 I just published “Python for TypeScript Developers” — a comprehensive, 26-chapter course built specifically for TS devs who want to level up into Python.
-
-https://github.com/blacksmoke26/python-for-typescript-programmers-course](https://dev.to/blacksmoke26/i-just-published-python-for-typescript-developers-a-comprehensive-26-chapter-course-built-2ej)
-- [Coding Agent Context Engineering: Make Agents Read Before They Edit](https://dev.to/jackm-singularity/coding-agent-context-engineering-make-agents-read-before-they-edit-19ik)
-- [Building a Browser-Based Passport Photo Maker with Country Presets](https://dev.to/arhan_ahmad_a67ef7bd2b992/building-a-browser-based-passport-photo-maker-with-country-presets-3g6g)
+- [Market data over FIX 4.4 for high-performance trading systems](https://dev.to/alpersan/market-data-over-fix-44-for-high-performance-trading-systems-3o5f)
+- [Guiding Developers with Limited Cloud Knowledge to Learn Envoy for Microservices Load Balancing](https://dev.to/alitron/guiding-developers-with-limited-cloud-knowledge-to-learn-envoy-for-microservices-load-balancing-9m7)
+- [Stratagems #6: Alex Walked Into an AI Compliance War Room. Every Director Watched the Dashboard. He Watched the Pipeline.](https://dev.to/xulingfeng/stratagems-6-alex-walked-into-an-ai-compliance-war-room-every-director-watched-the-dashboard-he-o99)
+- [Why 88% of Agent Pilots Die: The Infrastructure Readiness Gap Nobody Talks About](https://dev.to/paultwist/why-88-of-agent-pilots-die-the-infrastructure-readiness-gap-nobody-talks-about-mnk)
+- [Structuring a Senior Data Scientist Resume After a Chinese SOE Tenure](https://dev.to/prismresume/structuring-a-senior-data-scientist-resume-after-a-chinese-soe-tenure-596j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
