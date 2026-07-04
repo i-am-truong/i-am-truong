@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From GitHub Repo to Live App: What Can Go Wrong](https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i)
-- [Yapay Zekanın Geleceği: Küresel Ambargolar ve Erişim Eşitsizliği](https://dev.to/ismail_hakki_eren/yapay-zekanin-gelecegi-kuresel-ambargolar-ve-erisim-esitsizligi-29go)
-- [How to vet a senior Sanity CMS developer: a practical buyer&#39;s guide](https://dev.to/nayankyada/how-to-vet-a-senior-sanity-cms-developer-a-practical-buyers-guide-2m9c)
-- [How to Run a Full OSINT Recon on Any Domain in One Command](https://dev.to/trulysoulless/how-to-run-a-full-osint-recon-on-any-domain-in-one-command-5hic)
-- [Uber Burned Its 2026 AI Budget by April — The Agentic Cost Crisis](https://dev.to/akaranjkar08/uber-burned-its-2026-ai-budget-by-april-the-agentic-cost-crisis-5531)
+- [Running a mail server on a VPS: what actually keeps you out of spam](https://dev.to/eqvps/running-a-mail-server-on-a-vps-what-actually-keeps-you-out-of-spam-2hop)
+- [🚀 Deploy Your First Website in 30 Minutes — The Absolute Beginner&#39;s Guide](https://dev.to/_b70278078078f44982f07/deploy-your-first-website-in-30-minutes-the-absolute-beginners-guide-3hm9)
+- [Clintech Pico Board: All 48 RP2354B GPIOs in a Pico 2 Footprint](https://dev.to/circuitrocks/clintech-pico-board-all-48-rp2354b-gpios-in-a-pico-2-footprint-2kl1)
+- [WalletConnect in Claude Desktop: Mobile Approval for AI Agent Transactions](https://dev.to/walletguy/walletconnect-in-claude-desktop-mobile-approval-for-ai-agent-transactions-27ho)
+- [How to set up PHP Xdebug on VS code](https://dev.to/nabim777/how-to-set-up-php-xdebug-on-ubuntu-for-vs-code-2mg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
