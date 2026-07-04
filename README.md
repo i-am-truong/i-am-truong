@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run an enrollment agent from a school&#39;s admissions inbox](https://dev.to/mqasimca/run-an-enrollment-agent-from-a-schools-admissions-inbox-dia)
-- [JavaScript Object Constructor](https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom)
-- [Solana: Can You Own Something You&#39;re Not Allowed to Sell?](https://dev.to/russell_oje/solana-can-you-own-something-youre-not-allowed-to-sell-1p39)
-- [Autonomous pentesting against Active Directory, without the black box](https://dev.to/darkmoonx/autonomous-pentesting-against-active-directory-without-the-black-box-23f4)
-- [LLM APIs as Infrastructure: Building Deterministic Systems Around Probabilistic AI](https://dev.to/akilahngqueen/llm-apis-as-infrastructure-building-deterministic-systems-around-probabilistic-ai-1e3b)
+- [The Safari MCP Server Could Change How Developers Debug Websites](https://dev.to/ksparth12/the-safari-mcp-server-could-change-how-developers-debug-websites-223g)
+- [Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov &lpar;IaC SAST&rpar;](https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk)
+- [Agentic Software Development Explained: A Frontend Developer&#39;s Learning Journey](https://dev.to/kalpick_sharma_d32ace423a/agentic-software-development-explained-a-frontend-developers-learning-journey-28a1)
+- [PaperQuire v0.3.0 — Your AI Agent&#39;s PDF Tool](https://dev.to/paperquire_e3fdb510bbe49c/paperquire-v030-your-ai-agents-pdf-tool-3c1n)
+- [Network service based on ZeroTier](https://dev.to/yumik0_chan/network-service-based-on-zerotier-4047)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
