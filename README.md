@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI agents need three types of memory &lpar;and how I built all of them&rpar;](https://dev.to/pragadeesh_21/why-ai-agents-need-three-types-of-memory-and-how-i-built-all-of-them-59k3)
-- [Triage tenant maintenance requests with a property-management agent](https://dev.to/mqasimca/triage-tenant-maintenance-requests-with-a-property-management-agent-1jlm)
-- [I Built 4 FastAPI Projects in 2 Weeks — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/ckepsilon/i-built-4-fastapi-projects-in-2-weeks-heres-what-i-wish-i-knew-before-starting-458k)
-- [Stop Guessing, Start Profiling: Mastering Edge AI Performance and Power on Android](https://dev.to/programmingcentral/stop-guessing-start-profiling-mastering-edge-ai-performance-and-power-on-android-2p4i)
-- [Wanted a quick way to find working MTProto proxies for Teleg](https://dev.to/humja_jaan_fca09049ae97d5/wanted-a-quick-way-to-find-working-mtproto-proxies-for-teleg-23le)
+- [From My Machine to the Cloud: Connecting Power BI to SQL Databases; PostgreSQL &lpar;Local vs Aiven&rpar;](https://dev.to/neema_kirui/from-my-machine-to-the-cloud-connecting-power-bi-to-sql-databases-postgresql-local-vs-aiven-5hc3)
+- [Clean Edges: Using a PNG Alpha Mask on AI-Generated Animations](https://dev.to/raphink/clean-edges-using-a-png-alpha-mask-on-ai-generated-animations-ifb)
+- [How I Built a Product Hunt Scraper That Tracks Launches in Real-Time](https://dev.to/oaida_adrian_afa2428f63d0/how-i-built-a-product-hunt-scraper-that-tracks-launches-in-real-time-jkn)
+- [🧩 How to Pass a Request Body in a GET Request? Meet the New HTTP QUERY Method &lpar;RFC 10008&rpar;](https://dev.to/rohanshukla/how-to-pass-a-request-body-in-a-get-request-meet-the-new-http-query-method-rfc-10008-32fk)
+- [Adding Homemade TLS to a Homemade Web Server](https://dev.to/dmytro_huz/adding-homemade-tls-to-a-homemade-web-server-1a6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
