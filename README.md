@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate WhatsApp with Python in 2026 &lpar;No Selenium, No BS&rpar;](https://dev.to/markbusking/how-to-automate-whatsapp-with-python-in-2026-no-selenium-no-bs-1fb5)
-- [Javanese Script Isn&#39;t Just &quot;An Old Alphabet&quot; — It&#39;s a Completely Different Writing System](https://dev.to/jimmy_8c1b32b2d6828c1b642/javanese-script-isnt-just-an-old-alphabet-its-a-completely-different-writing-system-2h3d)
-- [7 AI Tools Every SDET Should Learn in 2026 — With Real Testing Use Cases](https://dev.to/vishal_kumar_32aca0795138/7-ai-tools-every-sdet-should-learn-in-2026-with-real-testing-use-cases-j71)
-- [I recorded my agent auditing a 36k-file Rails app: the play-by-play](https://dev.to/luuuc/i-recorded-my-agent-auditing-a-36k-file-rails-app-the-play-by-play-10h3)
-- [Building a Fitness Workout Planner Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-fitness-workout-planner-agent-in-typescript-with-hazeljs-cpi)
+- [I built a neutral benchmarking layer for quantum simulators in Rust — and it revealed a silent disagreement between two backends](https://dev.to/cleiton_augusto_/i-built-a-neutral-benchmarking-layer-for-quantum-simulators-in-rust-and-it-revealed-a-silent-2i59)
+- [Moving Beyond Chat: Why AI Agents and MCP Are the Next Big Shift for Developers](https://dev.to/idan_dev/moving-beyond-chat-why-ai-agents-and-mcp-are-the-next-big-shift-for-developers-p7i)
+- [&quot;Four Remote Job Boards Have Free Public APIs. Here Is One Schema for All of Them&quot;](https://dev.to/scrapemint/four-remote-job-boards-have-free-public-apis-here-is-one-schema-for-all-of-them-5a4k)
+- [Fixing the 550 SPF Check Failed Error: A Technical Step-by-Step Troubleshooting Guide](https://dev.to/azeem_malik/fixing-the-550-spf-check-failed-error-a-technical-step-by-step-troubleshooting-guide-32d1)
+- [The Hidden Dangers of DMARC p=none: Why It&#39;s Undermining Your Email Security &lpar;Not Just Deliverability&rpar;](https://dev.to/azeem_malik/the-hidden-dangers-of-dmarc-pnone-why-its-undermining-your-email-security-not-just-5c4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
