@@ -120,14 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is anyone using AWS CodePipeline for the complete CI/CD pipeline?](https://dev.to/arnabadhikar/is-anyone-using-aws-codepipeline-for-the-complete-cicd-pipelineaws-cicd-cloudcomputing-3nfk)
-- [Is anyone working with the YOLO model?](https://dev.to/manokaran_dev-73/is-anyone-working-with-the-yolo-model-52mm)
-- [How We Built an AI That Never Forgets Production Incidents](https://dev.to/mathan_kumar_527/how-we-built-an-ai-that-never-forgets-production-incidents-4g7p)
-- [Hello this is my first Post
-I work on Funny Projects with Golang &amp; Typescript 
-
-Follow Me for strongest things 🥲👍🏼](https://dev.to/psycho_gopher/hello-this-is-my-first-post-i-work-on-funny-projects-with-golang-typescript-follow-me-for-3akp)
-- [Cómo eliminé duplicados en la generación de números de factura sin usar locks](https://dev.to/carlos_arturocastaog_/como-elimine-duplicados-en-la-generacion-de-numeros-de-factura-sin-usar-locks-3mj8)
+- [Why AI agents need three types of memory &lpar;and how I built all of them&rpar;](https://dev.to/pragadeesh_21/why-ai-agents-need-three-types-of-memory-and-how-i-built-all-of-them-59k3)
+- [Triage tenant maintenance requests with a property-management agent](https://dev.to/mqasimca/triage-tenant-maintenance-requests-with-a-property-management-agent-1jlm)
+- [I Built 4 FastAPI Projects in 2 Weeks — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/ckepsilon/i-built-4-fastapi-projects-in-2-weeks-heres-what-i-wish-i-knew-before-starting-458k)
+- [Stop Guessing, Start Profiling: Mastering Edge AI Performance and Power on Android](https://dev.to/programmingcentral/stop-guessing-start-profiling-mastering-edge-ai-performance-and-power-on-android-2p4i)
+- [Wanted a quick way to find working MTProto proxies for Teleg](https://dev.to/humja_jaan_fca09049ae97d5/wanted-a-quick-way-to-find-working-mtproto-proxies-for-teleg-23le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
