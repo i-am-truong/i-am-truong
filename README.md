@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [godzilla.dev — AI Quant Trader Series — Day 7](https://dev.to/kx_31eaa481780171271d692f/ai-x-quant-trader-series-day-7-2jj5)
-- [OpenAI GPT-Realtime-2: Complete Voice API Developer Guide &lpar;2026&rpar;](https://dev.to/akaranjkar08/openai-gpt-realtime-2-complete-voice-api-developer-guide-2026-aj6)
-- [atob&lpar;&rpar; can&#39;t decode a JWT — the Base64URL gotcha &lpar;and the fix&rpar;](https://dev.to/sgbp/atob-cant-decode-a-jwt-the-base64url-gotcha-and-the-fix-1i26)
-- [The Database Architect Teaches His Nephew: Where the Real Interview Happens](https://dev.to/surajrkhonde/the-database-architect-teaches-his-nephew-where-the-real-interview-happens-2go7)
-- [What is a Message Processor in Apigee X? A Beginner&#39;s Guide](https://dev.to/realnamehidden1_61/what-is-a-message-processor-in-apigee-x-a-beginners-guide-4ah2)
+- [From GitHub Repo to Live App: What Can Go Wrong](https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i)
+- [Yapay Zekanın Geleceği: Küresel Ambargolar ve Erişim Eşitsizliği](https://dev.to/ismail_hakki_eren/yapay-zekanin-gelecegi-kuresel-ambargolar-ve-erisim-esitsizligi-29go)
+- [How to vet a senior Sanity CMS developer: a practical buyer&#39;s guide](https://dev.to/nayankyada/how-to-vet-a-senior-sanity-cms-developer-a-practical-buyers-guide-2m9c)
+- [How to Run a Full OSINT Recon on Any Domain in One Command](https://dev.to/trulysoulless/how-to-run-a-full-osint-recon-on-any-domain-in-one-command-5hic)
+- [Uber Burned Its 2026 AI Budget by April — The Agentic Cost Crisis](https://dev.to/akaranjkar08/uber-burned-its-2026-ai-budget-by-april-the-agentic-cost-crisis-5531)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
