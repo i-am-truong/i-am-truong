@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Global AI Hardware Gamble: Korea $550B + Japan $6B + Qualcomm Challenges NVIDIA - What This Means for Investors and Builders](https://dev.to/judy_miranttie/the-global-ai-hardware-gamble-korea-550b-japan-6b-qualcomm-challenges-nvidia-what-this-2b0e)
-- [Solon 4.0 ReActAgent: A Practical Guide to Building AI Agents That Think and Act](https://dev.to/solonjava/solon-40-reactagent-a-practical-guide-to-building-ai-agents-that-think-and-act-4ji8)
-- [Convertir des images en lot &lpar;HEIC, WebP, JPG&rpar; gratuitement — Guide pratique](https://dev.to/benmallessamohamedamine/convertir-des-images-en-lot-heic-webp-jpg-gratuitement-guide-pratique-3blb)
-- [Générer des mockups produits en lot](https://dev.to/benmallessamohamedamine/generer-des-mockups-produits-en-lot-5a1)
-- [Como o kernel impede que processos executem instruções arbitrárias de CPU?](https://dev.to/igormelo/como-o-kernel-impede-que-processos-executem-instrucoes-arbitrarias-de-cpu-1121)
+- [godzilla.dev — AI Quant Trader Series — Day 7](https://dev.to/kx_31eaa481780171271d692f/ai-x-quant-trader-series-day-7-2jj5)
+- [OpenAI GPT-Realtime-2: Complete Voice API Developer Guide &lpar;2026&rpar;](https://dev.to/akaranjkar08/openai-gpt-realtime-2-complete-voice-api-developer-guide-2026-aj6)
+- [atob&lpar;&rpar; can&#39;t decode a JWT — the Base64URL gotcha &lpar;and the fix&rpar;](https://dev.to/sgbp/atob-cant-decode-a-jwt-the-base64url-gotcha-and-the-fix-1i26)
+- [The Database Architect Teaches His Nephew: Where the Real Interview Happens](https://dev.to/surajrkhonde/the-database-architect-teaches-his-nephew-where-the-real-interview-happens-2go7)
+- [What is a Message Processor in Apigee X? A Beginner&#39;s Guide](https://dev.to/realnamehidden1_61/what-is-a-message-processor-in-apigee-x-a-beginners-guide-4ah2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
