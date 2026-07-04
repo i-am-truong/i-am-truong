@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From My Machine to the Cloud: Connecting Power BI to SQL Databases; PostgreSQL &lpar;Local vs Aiven&rpar;](https://dev.to/neema_kirui/from-my-machine-to-the-cloud-connecting-power-bi-to-sql-databases-postgresql-local-vs-aiven-5hc3)
-- [Clean Edges: Using a PNG Alpha Mask on AI-Generated Animations](https://dev.to/raphink/clean-edges-using-a-png-alpha-mask-on-ai-generated-animations-ifb)
-- [How I Built a Product Hunt Scraper That Tracks Launches in Real-Time](https://dev.to/oaida_adrian_afa2428f63d0/how-i-built-a-product-hunt-scraper-that-tracks-launches-in-real-time-jkn)
-- [🧩 How to Pass a Request Body in a GET Request? Meet the New HTTP QUERY Method &lpar;RFC 10008&rpar;](https://dev.to/rohanshukla/how-to-pass-a-request-body-in-a-get-request-meet-the-new-http-query-method-rfc-10008-32fk)
-- [Adding Homemade TLS to a Homemade Web Server](https://dev.to/dmytro_huz/adding-homemade-tls-to-a-homemade-web-server-1a6d)
+- [Run an enrollment agent from a school&#39;s admissions inbox](https://dev.to/mqasimca/run-an-enrollment-agent-from-a-schools-admissions-inbox-dia)
+- [JavaScript Object Constructor](https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom)
+- [Solana: Can You Own Something You&#39;re Not Allowed to Sell?](https://dev.to/russell_oje/solana-can-you-own-something-youre-not-allowed-to-sell-1p39)
+- [Autonomous pentesting against Active Directory, without the black box](https://dev.to/darkmoonx/autonomous-pentesting-against-active-directory-without-the-black-box-23f4)
+- [LLM APIs as Infrastructure: Building Deterministic Systems Around Probabilistic AI](https://dev.to/akilahngqueen/llm-apis-as-infrastructure-building-deterministic-systems-around-probabilistic-ai-1e3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
