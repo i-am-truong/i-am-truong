@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sauna CTF HTB](https://dev.to/iftikhar_911/sauna-ctf-htb-1lp0)
-- [Bringing React Native Style Composition to React](https://dev.to/omnidev/bringing-react-native-style-composition-to-react-d1l)
-- [Building a 10-Agent Security Civilization with Qwen and Alibaba Cloud 🛡️🤖](https://dev.to/astaaddahiya/building-a-10-agent-security-civilization-with-qwen-and-alibaba-cloud-4i21)
-- [I Packed DeepSeek V4 + Claude Code Into a Starter Kit. Clone It and Ship.](https://dev.to/yuhaolin2005/i-packed-deepseek-v4-claude-code-into-a-starter-kit-clone-it-and-ship-13dn)
-- [I built a zero-dependency sky engine in TypeScript, verified to 4.6 arcseconds](https://dev.to/svarbhanu/i-built-a-zero-dependency-sky-engine-in-typescript-verified-to-46-arcseconds-317h)
+- [Building an Open Source Resilience Node for n8n](https://dev.to/mr-taiwo/building-an-open-source-resilience-node-for-n8n-402j)
+- [Swiss Zefix records: what you can pull live in 2026](https://dev.to/openregistry/swiss-zefix-records-what-you-can-pull-live-in-2026-4md6)
+- [🚀 I just published “Python for TypeScript Developers” — a comprehensive, 26-chapter course built specifically for TS devs who want to level up into Python.
+
+https://github.com/blacksmoke26/python-for-typescript-programmers-course](https://dev.to/blacksmoke26/i-just-published-python-for-typescript-developers-a-comprehensive-26-chapter-course-built-2ej)
+- [Coding Agent Context Engineering: Make Agents Read Before They Edit](https://dev.to/jackm-singularity/coding-agent-context-engineering-make-agents-read-before-they-edit-19ik)
+- [Building a Browser-Based Passport Photo Maker with Country Presets](https://dev.to/arhan_ahmad_a67ef7bd2b992/building-a-browser-based-passport-photo-maker-with-country-presets-3g6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
