@@ -120,11 +120,14 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a neutral benchmarking layer for quantum simulators in Rust — and it revealed a silent disagreement between two backends](https://dev.to/cleiton_augusto_/i-built-a-neutral-benchmarking-layer-for-quantum-simulators-in-rust-and-it-revealed-a-silent-2i59)
-- [Moving Beyond Chat: Why AI Agents and MCP Are the Next Big Shift for Developers](https://dev.to/idan_dev/moving-beyond-chat-why-ai-agents-and-mcp-are-the-next-big-shift-for-developers-p7i)
-- [&quot;Four Remote Job Boards Have Free Public APIs. Here Is One Schema for All of Them&quot;](https://dev.to/scrapemint/four-remote-job-boards-have-free-public-apis-here-is-one-schema-for-all-of-them-5a4k)
-- [Fixing the 550 SPF Check Failed Error: A Technical Step-by-Step Troubleshooting Guide](https://dev.to/azeem_malik/fixing-the-550-spf-check-failed-error-a-technical-step-by-step-troubleshooting-guide-32d1)
-- [The Hidden Dangers of DMARC p=none: Why It&#39;s Undermining Your Email Security &lpar;Not Just Deliverability&rpar;](https://dev.to/azeem_malik/the-hidden-dangers-of-dmarc-pnone-why-its-undermining-your-email-security-not-just-5c4g)
+- [Is anyone using AWS CodePipeline for the complete CI/CD pipeline?](https://dev.to/arnabadhikar/is-anyone-using-aws-codepipeline-for-the-complete-cicd-pipelineaws-cicd-cloudcomputing-3nfk)
+- [Is anyone working with the YOLO model?](https://dev.to/manokaran_dev-73/is-anyone-working-with-the-yolo-model-52mm)
+- [How We Built an AI That Never Forgets Production Incidents](https://dev.to/mathan_kumar_527/how-we-built-an-ai-that-never-forgets-production-incidents-4g7p)
+- [Hello this is my first Post
+I work on Funny Projects with Golang &amp; Typescript 
+
+Follow Me for strongest things 🥲👍🏼](https://dev.to/psycho_gopher/hello-this-is-my-first-post-i-work-on-funny-projects-with-golang-typescript-follow-me-for-3akp)
+- [Cómo eliminé duplicados en la generación de números de factura sin usar locks](https://dev.to/carlos_arturocastaog_/como-elimine-duplicados-en-la-generacion-de-numeros-de-factura-sin-usar-locks-3mj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
