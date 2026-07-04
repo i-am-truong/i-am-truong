@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop calling a service that&#39;s already down: circuit breakers with Resilience4j](https://dev.to/dev48v/stop-calling-a-service-thats-already-down-circuit-breakers-with-resilience4j-906)
-- [LoRA: Fine-Tune a Giant Model by Training 1% of It](https://dev.to/dev48v/lora-fine-tune-a-giant-model-by-training-1-of-it-2025)
-- [How I got LCP under 2s on a 38-page Blazor WebAssembly site &lpar;Cloudflare Pages&rpar;](https://dev.to/chetansanghani/how-i-got-lcp-under-2s-on-a-38-page-blazor-webassembly-site-cloudflare-pages-4hec)
-- [GPU Survivors: Can You Survive a 1T Parameter Inference Run?](https://dev.to/unitbuilds_cc/gpu-survivors-can-you-survive-a-1t-parameter-inference-run-476d)
-- [Why Your Indie Project is Stuck in Development Hell](https://dev.to/ntty/why-your-indie-project-is-stuck-in-development-hell-18l1)
+- [Left of the Loop: The Alexandria Problem](https://dev.to/aepfli/left-of-the-loop-the-alexandria-problem-3be3)
+- [How to Speed Up Your WordPress Website in 2026 &lpar;From 45 to 100 PageSpeed&rpar;](https://dev.to/crestvoxstudio/how-to-speed-up-your-wordpress-website-in-2026-from-45-to-100-pagespeed-2g9k)
+- [Memory, Planning, Tools: The Three Pillars Every Serious AI Power User Must Understand](https://dev.to/blobxiaoyao/memory-planning-tools-the-three-pillars-every-serious-ai-power-user-must-understand-4567)
+- [My headless Chrome mirror kept dying on busy mornings. Here is the fix.](https://dev.to/arihantdeva/my-headless-chrome-mirror-kept-dying-on-busy-mornings-here-is-the-fix-1la0)
+- [Turn Any Job Description Into a Mock Interview Pack With 70 Lines of Node.js](https://dev.to/karuha/turn-any-job-description-into-a-mock-interview-pack-with-70-lines-of-nodejs-4695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
