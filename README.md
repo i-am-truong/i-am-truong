@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Left of the Loop: The Alexandria Problem](https://dev.to/aepfli/left-of-the-loop-the-alexandria-problem-3be3)
-- [How to Speed Up Your WordPress Website in 2026 &lpar;From 45 to 100 PageSpeed&rpar;](https://dev.to/crestvoxstudio/how-to-speed-up-your-wordpress-website-in-2026-from-45-to-100-pagespeed-2g9k)
-- [Memory, Planning, Tools: The Three Pillars Every Serious AI Power User Must Understand](https://dev.to/blobxiaoyao/memory-planning-tools-the-three-pillars-every-serious-ai-power-user-must-understand-4567)
-- [My headless Chrome mirror kept dying on busy mornings. Here is the fix.](https://dev.to/arihantdeva/my-headless-chrome-mirror-kept-dying-on-busy-mornings-here-is-the-fix-1la0)
-- [Turn Any Job Description Into a Mock Interview Pack With 70 Lines of Node.js](https://dev.to/karuha/turn-any-job-description-into-a-mock-interview-pack-with-70-lines-of-nodejs-4695)
+- [Sauna CTF HTB](https://dev.to/iftikhar_911/sauna-ctf-htb-1lp0)
+- [Bringing React Native Style Composition to React](https://dev.to/omnidev/bringing-react-native-style-composition-to-react-d1l)
+- [Building a 10-Agent Security Civilization with Qwen and Alibaba Cloud 🛡️🤖](https://dev.to/astaaddahiya/building-a-10-agent-security-civilization-with-qwen-and-alibaba-cloud-4i21)
+- [I Packed DeepSeek V4 + Claude Code Into a Starter Kit. Clone It and Ship.](https://dev.to/yuhaolin2005/i-packed-deepseek-v4-claude-code-into-a-starter-kit-clone-it-and-ship-13dn)
+- [I built a zero-dependency sky engine in TypeScript, verified to 4.6 arcseconds](https://dev.to/svarbhanu/i-built-a-zero-dependency-sky-engine-in-typescript-verified-to-46-arcseconds-317h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
