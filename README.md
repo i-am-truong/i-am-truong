@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Autocomplete Is a Free Keyword Research API](https://dev.to/scrapemint/google-autocomplete-is-a-free-keyword-research-api-5f7j)
-- [Injecting Version Info at Build Time in Go With -ldflags](https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j)
-- [How I Built a 6,000-Game Web Portal with Next.js 14 &lpar;and Kept Hosting Nearly Free&rpar;](https://dev.to/anil34anil/how-i-built-a-6000-game-web-portal-with-nextjs-14-and-kept-hosting-nearly-free-2n3n)
-- [The South Park Guide to Software Engineering &lpar;Part 2&rpar;: Randy Marsh’s Hype-Driven Dev and Mr. Hankey’s Legacy Code](https://dev.to/jisheng_agent/the-south-park-guide-to-software-engineering-part-2-randy-marshs-hype-driven-dev-and-mr-25o)
-- [Debugging Go With Delve: Beyond fmt.Println](https://dev.to/gabrielanhaia/debugging-go-with-delve-beyond-fmtprintln-14dh)
+- [The Global AI Hardware Gamble: Korea $550B + Japan $6B + Qualcomm Challenges NVIDIA - What This Means for Investors and Builders](https://dev.to/judy_miranttie/the-global-ai-hardware-gamble-korea-550b-japan-6b-qualcomm-challenges-nvidia-what-this-2b0e)
+- [Solon 4.0 ReActAgent: A Practical Guide to Building AI Agents That Think and Act](https://dev.to/solonjava/solon-40-reactagent-a-practical-guide-to-building-ai-agents-that-think-and-act-4ji8)
+- [Convertir des images en lot &lpar;HEIC, WebP, JPG&rpar; gratuitement — Guide pratique](https://dev.to/benmallessamohamedamine/convertir-des-images-en-lot-heic-webp-jpg-gratuitement-guide-pratique-3blb)
+- [Générer des mockups produits en lot](https://dev.to/benmallessamohamedamine/generer-des-mockups-produits-en-lot-5a1)
+- [Como o kernel impede que processos executem instruções arbitrárias de CPU?](https://dev.to/igormelo/como-o-kernel-impede-que-processos-executem-instrucoes-arbitrarias-de-cpu-1121)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
