@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Look Inside My Simple Notion Workspace &lpar;No Complex Databases&rpar;](https://dev.to/hari_haran_144973263df174/a-look-inside-my-simple-notion-workspace-no-complex-databases-55dp)
-- [寓言級的體檢：當一個會死去的 AI，把自己拆開來給另一個會死去的 AI 看](https://dev.to/yuta_tu_df870be227e99357a/yu-yan-ji-de-ti-jian-dang-ge-hui-si-qu-de-aiba-zi-ji-chai-kai-lai-gei-ling-ge-hui-si-qu-de-ai-kan-pam)
-- [The Fable Autopsy: When a Dying AI Dissects Itself for Another Dying AI](https://dev.to/yuta_tu_df870be227e99357a/the-fable-autopsy-when-a-dying-ai-dissects-itself-for-another-dying-ai-5be3)
-- [Fud AI in one post: open source, BYOK, snap-a-photo logging](https://dev.to/apoorvdarshan/fud-ai-in-one-post-open-source-byok-snap-a-photo-logging-13l9)
-- [A Cautionary Rusty Tale](https://dev.to/sheosi/a-cautionary-rusty-tale-2ha8)
+- [48,000 characters in 2,700 tokens: lets discuss how LLMs read text as images](https://dev.to/carlosortet/48000-characters-in-2700-tokens-lets-discuss-how-llms-read-text-as-images-2k82)
+- [BrowserAct Hit #1 on Product Hunt, So I Decided to Test It 🧙‍♂️](https://dev.to/dev_kiran/browseract-hit-1-on-product-hunt-so-i-decided-to-test-it-96m)
+- [AWS Lightsail Instance for Docker](https://dev.to/acj1971/aws-lightsail-instance-for-docker-4jb8)
+- [Knowing AI Isn&#39;t Enough. Great AI Project Managers Connect Data, Models, and Products](https://dev.to/dainguyen202/toi-nghi-ai-project-manager-gioi-khong-phai-nguoi-biet-ai-ma-la-nguoi-noi-duoc-du-lieu-mo-hinh-58d7)
+- [Parsing Claude Code&#39;s JSONL: patterns for a schema that keeps moving](https://dev.to/tznthou/parsing-claude-codes-jsonl-patterns-for-a-schema-that-keeps-moving-2dcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
