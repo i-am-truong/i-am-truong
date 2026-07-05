@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Angular.js to Fine-Grained Reactivity: Part 2 — The JS Proxy Runtime](https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60)
-- [Reverse Engineering is so cool](https://dev.to/sh4man/reverse-engineering-is-so-cool-22cl)
-- [The Second Brain They Can’t Subpoena: Local RAG on a Pi 5](https://dev.to/numbpill3d/the-second-brain-they-cant-subpoena-local-rag-on-a-pi-5-3374)
-- [What AGENTS.md Gives Coding Agents That README Files Do Not](https://dev.to/anilmuppalla/what-agentsmd-gives-coding-agents-that-readme-files-do-not-412k)
-- [Sakana Fugu: How Collaborative AI is Changing the Game](https://dev.to/terminalchai/sakana-fugu-how-collaborative-ai-is-changing-the-game-2ja6)
+- [How we built Dirora — an e-commerce platform that puts the add-ons back in the box](https://dev.to/dirora/how-we-built-dirora-an-e-commerce-platform-that-puts-the-add-ons-back-in-the-box-5j3)
+- [EKS Security Deep Dive: IRSA vs. EKS Pod Identity](https://dev.to/himaatluri/eks-security-deep-dive-irsa-vs-eks-pod-identity-4562)
+- [Introduction](https://dev.to/ayomide_s_e_p/introduction-4pf0)
+- [The Three Algorithm Families Behind Almost Every Generated Game World](https://dev.to/paulcrinigan/the-three-algorithm-families-behind-almost-every-generated-game-world-3b4p)
+- [The engineering problem hiding inside &quot;AI writes a book&quot;](https://dev.to/nanoreads/the-engineering-problem-hiding-inside-ai-writes-a-book-8e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
