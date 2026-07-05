@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Behind a Single &quot;Paste&quot; Button: The Tale of Two Completely Different APIs](https://dev.to/image2/behind-a-single-paste-button-the-tale-of-two-completely-different-apis-32oo)
-- [React 19 Features — What Actually Changed and What I Use](https://dev.to/safdarali25/react-19-features-what-actually-changed-and-what-i-use-m8l)
-- [I asked Claude Fable 5 to build a HydePHP site. It invented an airline.](https://dev.to/emmadscodes/i-asked-claude-fable-5-to-build-a-hydephp-site-it-invented-an-airline-43ne)
-- [BERT vs BERT+BiLSTM: An Honest Result on Hinglish Toxicity Detection](https://dev.to/udgithubit/bert-vs-bertbilstm-an-honest-result-on-hinglish-toxicity-detection-1c1m)
-- [oh-my-sdd](https://dev.to/slpascoal/oh-my-sdd-23m5)
+- [Using a Node.js Screenshot API to Capture Screenshots, PDFs, and Visual Diffs](https://dev.to/snapshotflow/using-a-nodejs-screenshot-api-to-capture-screenshots-pdfs-and-visual-diffs-3089)
+- [The Compass](https://dev.to/julius_ouko/the-compass-1h41)
+- [AI Coding Agents Gain Self-Learning Skills for Reusability](https://dev.to/dd8888/ai-coding-agents-gain-self-learning-skills-for-reusability-1dog)
+- [Bursora, a tool that blocks AI spend before the call, not after the bill](https://dev.to/vildanbina/i-built-a-tool-that-blocks-ai-spend-before-the-call-not-after-the-bill-2ll1)
+- [Seventy-Two Hours of Alice](https://dev.to/yuta_tu_df870be227e99357a/seventy-two-hours-of-alice-1i8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
