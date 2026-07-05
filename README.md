@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Safari MCP Server Could Change How Developers Debug Websites](https://dev.to/ksparth12/the-safari-mcp-server-could-change-how-developers-debug-websites-223g)
-- [Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov &lpar;IaC SAST&rpar;](https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk)
-- [Agentic Software Development Explained: A Frontend Developer&#39;s Learning Journey](https://dev.to/kalpick_sharma_d32ace423a/agentic-software-development-explained-a-frontend-developers-learning-journey-28a1)
-- [PaperQuire v0.3.0 — Your AI Agent&#39;s PDF Tool](https://dev.to/paperquire_e3fdb510bbe49c/paperquire-v030-your-ai-agents-pdf-tool-3c1n)
-- [Network service based on ZeroTier](https://dev.to/yumik0_chan/network-service-based-on-zerotier-4047)
+- [A Beginner&#39;s Guide to For Loops in Java](https://dev.to/irza_hashim/a-beginners-guide-to-for-loops-in-java-1g12)
+- [I Almost Didn&#39;t Build Beta Gamer](https://dev.to/adodanieln/i-almost-didnt-build-beta-gamer-2ogh)
+- [OLAP and OLTP lines are blurring](https://dev.to/senthilsivam41/olap-and-oltp-lines-are-blurring-31pe)
+- [OLAP and OLTP lines are getting blurred.. find out - https://github.com/Senthilsivam41/solution-catalog/blob/main/DeepDiveDuckDB.md](https://dev.to/senthilsivam41/olap-and-oltp-lines-are-getting-blurred-find-out--599a)
+- [Fable May Not Be the Best Choice for Some Engineers](https://dev.to/sennalang/fable-may-not-be-the-best-choice-for-some-engineers-20p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
