@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing unit test for Firefox private browsing window](https://dev.to/ifeanyichima/writing-unit-test-for-firefox-private-browsing-window-25oj)
-- [How to Shine as an Introvert in a Loud Tech World](https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb)
-- [Why I Built an Angular Component Library Where Accessibility Isn&#39;t a Backlog Item](https://dev.to/duncanfaulkner/why-i-built-an-angular-component-library-where-accessibility-isnt-a-backlog-item-4i65)
-- [11 Ways to supercharge your workflow with GitHub Copilot](https://dev.to/dionarodrigues/11-ways-to-supercharge-your-workflow-with-github-copilot-ee)
-- [Cómo probar correos de renovación en tu SaaS](https://dev.to/hannahdev56/como-probar-correos-de-renovacion-en-tu-saas-44io)
+- [Behind a Single &quot;Paste&quot; Button: The Tale of Two Completely Different APIs](https://dev.to/image2/behind-a-single-paste-button-the-tale-of-two-completely-different-apis-32oo)
+- [React 19 Features — What Actually Changed and What I Use](https://dev.to/safdarali25/react-19-features-what-actually-changed-and-what-i-use-m8l)
+- [I asked Claude Fable 5 to build a HydePHP site. It invented an airline.](https://dev.to/emmadscodes/i-asked-claude-fable-5-to-build-a-hydephp-site-it-invented-an-airline-43ne)
+- [BERT vs BERT+BiLSTM: An Honest Result on Hinglish Toxicity Detection](https://dev.to/udgithubit/bert-vs-bertbilstm-an-honest-result-on-hinglish-toxicity-detection-1c1m)
+- [oh-my-sdd](https://dev.to/slpascoal/oh-my-sdd-23m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
