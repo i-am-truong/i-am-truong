@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We shipped faster. The debt did too.](https://dev.to/jeelvankhede/we-shipped-faster-the-debt-did-too-49a4)
-- [Your Kubernetes Controller Is Silently Dead and Nobody Knows](https://dev.to/reyshazni17/your-kubernetes-controller-is-silently-dead-and-nobody-knows-2fml)
-- [Why We Built a Browser-Based File Converter Instead of Another Cloud Service](https://dev.to/arman_karapetyan_b118aa0d/why-we-built-a-browser-based-file-converter-instead-of-another-cloud-service-3gpe)
-- [Building a Personal Learning Path Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-learning-path-agent-in-typescript-with-hazeljs-58d3)
-- [Stop Guessing: Real Numbers on Enterprise vs Startup AI API Costs](https://dev.to/truelane/stop-guessing-real-numbers-on-enterprise-vs-startup-ai-api-costs-2g9f)
+- [Writing unit test for Firefox private browsing window](https://dev.to/ifeanyichima/writing-unit-test-for-firefox-private-browsing-window-25oj)
+- [How to Shine as an Introvert in a Loud Tech World](https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb)
+- [Why I Built an Angular Component Library Where Accessibility Isn&#39;t a Backlog Item](https://dev.to/duncanfaulkner/why-i-built-an-angular-component-library-where-accessibility-isnt-a-backlog-item-4i65)
+- [11 Ways to supercharge your workflow with GitHub Copilot](https://dev.to/dionarodrigues/11-ways-to-supercharge-your-workflow-with-github-copilot-ee)
+- [Cómo probar correos de renovación en tu SaaS](https://dev.to/hannahdev56/como-probar-correos-de-renovacion-en-tu-saas-44io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
