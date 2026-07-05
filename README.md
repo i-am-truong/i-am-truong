@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [cybr.com [LAB] Introduction to Secrets Manager Enumeration &lpar;AWS Red Teaming&rpar;](https://dev.to/davidonlinearchive/cybrcom-lab-introduction-to-secrets-manager-enumeration-aws-red-teaming-2ebp)
-- [My drift detector graded every change — and stayed blind to the secret that hadn&#39;t rotated in 200 days](https://dev.to/hitoshi1964/my-drift-detector-graded-every-change-and-stayed-blind-to-the-secret-that-hadnt-rotated-in-200-52oi)
-- [How I Approach WordPress Core Web Vitals Before Rebuilding Anything](https://dev.to/amr_osama99/how-i-approach-wordpress-core-web-vitals-before-rebuilding-anything-2hk0)
-- [After 20 Years of PHP, I Built the Framework I Always Wanted](https://dev.to/steffen_haase_f0b7bbb25e0/after-20-years-of-php-i-built-the-framework-i-always-wanted-4d1h)
-- [I Built trelix Because I Was Tired of Grepping My Way Through Codebases](https://dev.to/sai_ram_0000/i-built-trelix-because-i-was-tired-of-grepping-my-way-through-codebases-1f3b)
+- [I built a dental insurance claim verifier using Cognee&#39;s GraphRAG — with session memory](https://dev.to/rushanksavant/i-built-a-dental-insurance-claim-verifier-using-cognees-graphrag-with-session-memory-329g)
+- [Halo Is Going Multi-Agent: Splitting One Brain Into Five](https://dev.to/xenocoregiger31/halo-is-going-multi-agent-splitting-one-brain-into-five-2ae7)
+- [From Manual Deployments to Infrastructure as Code with Azure ARM Templates &lpar;Part 2&rpar;](https://dev.to/smarty_joy/from-manual-deployments-to-infrastructure-as-code-with-azure-arm-templates-part-2-2de6)
+- [Debugging Containers From the Terminal: A Practical Docker CLI Workflow](https://dev.to/jjoyneriv/debugging-containers-from-the-terminal-a-practical-docker-cli-workflow-d18)
+- [GSoC 2026 with webpack | weeks 3 to 6 - a lot happened](https://dev.to/ryzrr/gsoc-2026-with-webpack-weeks-3-to-6-a-lot-happened-7e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
