@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to For Loops in Java](https://dev.to/irza_hashim/a-beginners-guide-to-for-loops-in-java-1g12)
-- [I Almost Didn&#39;t Build Beta Gamer](https://dev.to/adodanieln/i-almost-didnt-build-beta-gamer-2ogh)
-- [OLAP and OLTP lines are blurring](https://dev.to/senthilsivam41/olap-and-oltp-lines-are-blurring-31pe)
-- [OLAP and OLTP lines are getting blurred.. find out - https://github.com/Senthilsivam41/solution-catalog/blob/main/DeepDiveDuckDB.md](https://dev.to/senthilsivam41/olap-and-oltp-lines-are-getting-blurred-find-out--599a)
-- [Fable May Not Be the Best Choice for Some Engineers](https://dev.to/sennalang/fable-may-not-be-the-best-choice-for-some-engineers-20p7)
+- [Modernizing Go Code: Automating Updates to Enhance Consistency and Leverage New Language Features](https://dev.to/viklogix/modernizing-go-code-automating-updates-to-enhance-consistency-and-leverage-new-language-features-3i1n)
+- [How to Validate a GTIN / EAN-13 Barcode Check Digit &lpar;GS1 Mod-10, explained&rpar;](https://dev.to/rosariov25/how-to-validate-a-gtin-ean-13-barcode-check-digit-gs1-mod-10-explained-5boh)
+- [Binary chunk trees cut RAG latency](https://dev.to/olaughter/binary-chunk-trees-cut-rag-latency-41d9)
+- [The HTTP QUERY method &lpar;RFC 10008&rpar; is here — and caching it correctly is harder than it looks](https://dev.to/hardikgoel/the-http-query-method-rfc-10008-is-here-and-caching-it-correctly-is-harder-than-it-looks-2he6)
+- [I built sshpic because local screenshots stop at the SSH boundary](https://dev.to/sshpic/i-built-sshpic-because-local-screenshots-stop-at-the-ssh-boundary-3oik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
