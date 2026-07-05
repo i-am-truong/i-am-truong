@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [48,000 characters in 2,700 tokens: lets discuss how LLMs read text as images](https://dev.to/carlosortet/48000-characters-in-2700-tokens-lets-discuss-how-llms-read-text-as-images-2k82)
-- [BrowserAct Hit #1 on Product Hunt, So I Decided to Test It 🧙‍♂️](https://dev.to/dev_kiran/browseract-hit-1-on-product-hunt-so-i-decided-to-test-it-96m)
-- [AWS Lightsail Instance for Docker](https://dev.to/acj1971/aws-lightsail-instance-for-docker-4jb8)
-- [Knowing AI Isn&#39;t Enough. Great AI Project Managers Connect Data, Models, and Products](https://dev.to/dainguyen202/toi-nghi-ai-project-manager-gioi-khong-phai-nguoi-biet-ai-ma-la-nguoi-noi-duoc-du-lieu-mo-hinh-58d7)
-- [Parsing Claude Code&#39;s JSONL: patterns for a schema that keeps moving](https://dev.to/tznthou/parsing-claude-codes-jsonl-patterns-for-a-schema-that-keeps-moving-2dcj)
+- [cybr.com [LAB] Introduction to Secrets Manager Enumeration &lpar;AWS Red Teaming&rpar;](https://dev.to/davidonlinearchive/cybrcom-lab-introduction-to-secrets-manager-enumeration-aws-red-teaming-2ebp)
+- [My drift detector graded every change — and stayed blind to the secret that hadn&#39;t rotated in 200 days](https://dev.to/hitoshi1964/my-drift-detector-graded-every-change-and-stayed-blind-to-the-secret-that-hadnt-rotated-in-200-52oi)
+- [How I Approach WordPress Core Web Vitals Before Rebuilding Anything](https://dev.to/amr_osama99/how-i-approach-wordpress-core-web-vitals-before-rebuilding-anything-2hk0)
+- [After 20 Years of PHP, I Built the Framework I Always Wanted](https://dev.to/steffen_haase_f0b7bbb25e0/after-20-years-of-php-i-built-the-framework-i-always-wanted-4d1h)
+- [I Built trelix Because I Was Tired of Grepping My Way Through Codebases](https://dev.to/sai_ram_0000/i-built-trelix-because-i-was-tired-of-grepping-my-way-through-codebases-1f3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
