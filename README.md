@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments](https://dev.to/az365ai/in-preview-public-preview-azure-migrate-github-copilot-modernization-integration-for-at-scale-2dec)
-- [Your UCP agent passes conformance. It still pays the wrong amount.](https://dev.to/katyalai/your-ucp-agent-passes-conformance-it-still-pays-the-wrong-amount-f20)
-- [How to derive data classes for any API](https://dev.to/itsaalaa7/how-to-derive-data-classes-for-any-api-144o)
-- [I Built a CLI for Reusable AI-Agent Workflows](https://dev.to/1997roylee/i-built-a-cli-for-reusable-ai-agent-workflows-2j4d)
-- [Belgium KBO lookups: what audit teams actually need](https://dev.to/openregistry/belgium-kbo-lookups-what-audit-teams-actually-need-3l7j)
+- [We shipped faster. The debt did too.](https://dev.to/jeelvankhede/we-shipped-faster-the-debt-did-too-49a4)
+- [Your Kubernetes Controller Is Silently Dead and Nobody Knows](https://dev.to/reyshazni17/your-kubernetes-controller-is-silently-dead-and-nobody-knows-2fml)
+- [Why We Built a Browser-Based File Converter Instead of Another Cloud Service](https://dev.to/arman_karapetyan_b118aa0d/why-we-built-a-browser-based-file-converter-instead-of-another-cloud-service-3gpe)
+- [Building a Personal Learning Path Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-learning-path-agent-in-typescript-with-hazeljs-58d3)
+- [Stop Guessing: Real Numbers on Enterprise vs Startup AI API Costs](https://dev.to/truelane/stop-guessing-real-numbers-on-enterprise-vs-startup-ai-api-costs-2g9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
