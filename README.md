@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using a Node.js Screenshot API to Capture Screenshots, PDFs, and Visual Diffs](https://dev.to/snapshotflow/using-a-nodejs-screenshot-api-to-capture-screenshots-pdfs-and-visual-diffs-3089)
-- [The Compass](https://dev.to/julius_ouko/the-compass-1h41)
-- [AI Coding Agents Gain Self-Learning Skills for Reusability](https://dev.to/dd8888/ai-coding-agents-gain-self-learning-skills-for-reusability-1dog)
-- [Bursora, a tool that blocks AI spend before the call, not after the bill](https://dev.to/vildanbina/i-built-a-tool-that-blocks-ai-spend-before-the-call-not-after-the-bill-2ll1)
-- [Seventy-Two Hours of Alice](https://dev.to/yuta_tu_df870be227e99357a/seventy-two-hours-of-alice-1i8m)
+- [The Bot Awakens: Building Your First Crypto Trading Automation](https://dev.to/timevolt/the-bot-awakens-building-your-first-crypto-trading-automation-11ml)
+- [Salam is a general-purpose and systems programming language designed for efficient software development](https://dev.to/salamlang/salam-is-a-general-purpose-and-systems-programming-language-designed-for-efficient-software-3904)
+- [The Backdoor in Your Browser: Why You Are the Product &lpar;And How to Opt Out&rpar;](https://dev.to/numbpill3d/the-backdoor-in-your-browser-why-you-are-the-product-and-how-to-opt-out-4jg9)
+- [GitHub Actions SEO: gate PRs on broken links and schema](https://dev.to/mitrasish/github-actions-seo-gate-prs-on-broken-links-and-schema-4eo3)
+- [[Boost]](https://dev.to/subhansh/-5819)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
