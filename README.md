@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modernizing Go Code: Automating Updates to Enhance Consistency and Leverage New Language Features](https://dev.to/viklogix/modernizing-go-code-automating-updates-to-enhance-consistency-and-leverage-new-language-features-3i1n)
-- [How to Validate a GTIN / EAN-13 Barcode Check Digit &lpar;GS1 Mod-10, explained&rpar;](https://dev.to/rosariov25/how-to-validate-a-gtin-ean-13-barcode-check-digit-gs1-mod-10-explained-5boh)
-- [Binary chunk trees cut RAG latency](https://dev.to/olaughter/binary-chunk-trees-cut-rag-latency-41d9)
-- [The HTTP QUERY method &lpar;RFC 10008&rpar; is here — and caching it correctly is harder than it looks](https://dev.to/hardikgoel/the-http-query-method-rfc-10008-is-here-and-caching-it-correctly-is-harder-than-it-looks-2he6)
-- [I built sshpic because local screenshots stop at the SSH boundary](https://dev.to/sshpic/i-built-sshpic-because-local-screenshots-stop-at-the-ssh-boundary-3oik)
+- [A Look Inside My Simple Notion Workspace &lpar;No Complex Databases&rpar;](https://dev.to/hari_haran_144973263df174/a-look-inside-my-simple-notion-workspace-no-complex-databases-55dp)
+- [寓言級的體檢：當一個會死去的 AI，把自己拆開來給另一個會死去的 AI 看](https://dev.to/yuta_tu_df870be227e99357a/yu-yan-ji-de-ti-jian-dang-ge-hui-si-qu-de-aiba-zi-ji-chai-kai-lai-gei-ling-ge-hui-si-qu-de-ai-kan-pam)
+- [The Fable Autopsy: When a Dying AI Dissects Itself for Another Dying AI](https://dev.to/yuta_tu_df870be227e99357a/the-fable-autopsy-when-a-dying-ai-dissects-itself-for-another-dying-ai-5be3)
+- [Fud AI in one post: open source, BYOK, snap-a-photo logging](https://dev.to/apoorvdarshan/fud-ai-in-one-post-open-source-byok-snap-a-photo-logging-13l9)
+- [A Cautionary Rusty Tale](https://dev.to/sheosi/a-cautionary-rusty-tale-2ha8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
