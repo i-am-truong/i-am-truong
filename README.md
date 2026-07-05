@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Bot Awakens: Building Your First Crypto Trading Automation](https://dev.to/timevolt/the-bot-awakens-building-your-first-crypto-trading-automation-11ml)
-- [Salam is a general-purpose and systems programming language designed for efficient software development](https://dev.to/salamlang/salam-is-a-general-purpose-and-systems-programming-language-designed-for-efficient-software-3904)
-- [The Backdoor in Your Browser: Why You Are the Product &lpar;And How to Opt Out&rpar;](https://dev.to/numbpill3d/the-backdoor-in-your-browser-why-you-are-the-product-and-how-to-opt-out-4jg9)
-- [GitHub Actions SEO: gate PRs on broken links and schema](https://dev.to/mitrasish/github-actions-seo-gate-prs-on-broken-links-and-schema-4eo3)
-- [[Boost]](https://dev.to/subhansh/-5819)
+- [From Angular.js to Fine-Grained Reactivity: Part 2 — The JS Proxy Runtime](https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60)
+- [Reverse Engineering is so cool](https://dev.to/sh4man/reverse-engineering-is-so-cool-22cl)
+- [The Second Brain They Can’t Subpoena: Local RAG on a Pi 5](https://dev.to/numbpill3d/the-second-brain-they-cant-subpoena-local-rag-on-a-pi-5-3374)
+- [What AGENTS.md Gives Coding Agents That README Files Do Not](https://dev.to/anilmuppalla/what-agentsmd-gives-coding-agents-that-readme-files-do-not-412k)
+- [Sakana Fugu: How Collaborative AI is Changing the Game](https://dev.to/terminalchai/sakana-fugu-how-collaborative-ai-is-changing-the-game-2ja6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
