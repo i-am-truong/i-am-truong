@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI API key is the first integration test, not the last setup step](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-key-is-the-first-integration-test-not-the-last-setup-step-gci)
-- [El scale-to-zero no sabe contar hasta uno](https://dev.to/authagonal/el-scale-to-zero-no-sabe-contar-hasta-uno-3906)
-- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl)
-- [Scale-to-zero can&#39;t count to one](https://dev.to/authagonal/scale-to-zero-cant-count-to-one-2c29)
-- [copilot browser tools make the frontend reviewable](https://dev.to/pvgomes/copilot-browser-tools-make-the-frontend-reviewable-293p)
+- [React Query: Managing Asynchronous Data Rendering Guide](https://dev.to/sahil_khurana_486f374ecf2/react-query-managing-asynchronous-data-rendering-guide-2gp2)
+- [Sprint 9 closed: Desktop MVP](https://dev.to/meronq/sprint-9-closed-desktop-mvp-288a)
+- [My Reading Room](https://dev.to/lavkeshdwivedi/my-reading-room-2ki2)
+- [Shifting Mobile Security Left: Applying SAST to Android Apps with MobSF](https://dev.to/fabrizioperezperalta/shifting-mobile-security-left-applying-sast-to-android-apps-with-mobsf-47l3)
+- [How I Use Redis Beyond Simple Caching: A Senior Dev&#39;s Perspective](https://dev.to/tahmidbintaslim/how-i-use-redis-beyond-simple-caching-a-senior-devs-perspective-2llf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
