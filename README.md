@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How we built Dirora — an e-commerce platform that puts the add-ons back in the box](https://dev.to/dirora/how-we-built-dirora-an-e-commerce-platform-that-puts-the-add-ons-back-in-the-box-5j3)
-- [EKS Security Deep Dive: IRSA vs. EKS Pod Identity](https://dev.to/himaatluri/eks-security-deep-dive-irsa-vs-eks-pod-identity-4562)
-- [Introduction](https://dev.to/ayomide_s_e_p/introduction-4pf0)
-- [The Three Algorithm Families Behind Almost Every Generated Game World](https://dev.to/paulcrinigan/the-three-algorithm-families-behind-almost-every-generated-game-world-3b4p)
-- [The engineering problem hiding inside &quot;AI writes a book&quot;](https://dev.to/nanoreads/the-engineering-problem-hiding-inside-ai-writes-a-book-8e9)
+- [Your AI API key is the first integration test, not the last setup step](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-key-is-the-first-integration-test-not-the-last-setup-step-gci)
+- [El scale-to-zero no sabe contar hasta uno](https://dev.to/authagonal/el-scale-to-zero-no-sabe-contar-hasta-uno-3906)
+- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl)
+- [Scale-to-zero can&#39;t count to one](https://dev.to/authagonal/scale-to-zero-cant-count-to-one-2c29)
+- [copilot browser tools make the frontend reviewable](https://dev.to/pvgomes/copilot-browser-tools-make-the-frontend-reviewable-293p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
