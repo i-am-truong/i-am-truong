@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AI UI Design Tools in 2026: I Tested Them All With the Same Prompt](https://dev.to/hadil/top-5-ai-ui-design-tools-in-2026-i-tested-them-all-with-the-same-prompt-hm7)
-- [Meme Monday](https://dev.to/ben/meme-monday-5g25)
-- [We ran Pinaka on an open, unresolved Prisma bug. No ground truth. Here&#39;s what it found.](https://dev.to/atharvapanegai/we-ran-pinaka-on-an-open-unresolved-prisma-bug-no-ground-truth-heres-what-it-found-494d)
-- [Your AI Girlfriend Is Becoming Everyone Else&#39;s](https://dev.to/alexei-volkov/your-ai-girlfriend-is-becoming-everyone-elses-1jme)
-- [Beyond the Grid: Building Secure, Zero-Cost B2B Client Portals on Google Sheets](https://dev.to/hayrullahkar/beyond-the-grid-building-secure-zero-cost-b2b-client-portals-on-google-sheets-ga2)
+- [Operation DragonReturn: DcRAT Deployment via Fake ITR Utilities](https://dev.to/satyam_rastogi/operation-dragonreturn-dcrat-deployment-via-fake-itr-utilities-346)
+- [Supracorona Login Gate: Simple Access Control for WordPress Sites](https://dev.to/dveb/supracorona-login-gate-simple-access-control-for-wordpress-sites-l1i)
+- [Performance Testing RAG Applications: Complete Engineering Guide](https://dev.to/qainsights/performance-testing-rag-applications-complete-engineering-guide-25g7)
+- [&quot;Ruby is the most AI-friendly stack&quot; is half true](https://dev.to/luuuc/ruby-is-the-most-ai-friendly-stack-is-half-true-1ac4)
+- [I interrogated my AI to prove it forgot.](https://dev.to/yerramsettysuchita/i-interrogated-my-ai-to-prove-it-forgot-560d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
