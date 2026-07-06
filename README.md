@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding with AI: What It Actually Feels Like to Build with an AI Agent](https://dev.to/muskan_bandta/vibe-coding-with-ai-what-it-actually-feels-like-to-build-with-an-ai-agent-h59)
-- [Observability for LLM Apps: Tracing, Cost Tracking, and Eval Loops](https://dev.to/mihirmohapatra/observability-for-llm-apps-tracing-cost-tracking-and-eval-loops-3049)
-- [Building open-source tools for the community: still makes sense?](https://dev.to/_neronotte/building-open-source-tools-for-the-community-still-make-sense-51on)
-- [Enforce Better Vue Architecture with ESLint](https://dev.to/jacobandrewsky/enforce-better-vue-architecture-with-eslint-3fb0)
-- [Debugging a Payment Webhook: How I Caught a Silent Failure That Would Have Blocked Every Non-Card Transaction](https://dev.to/iqbal120708/debugging-a-payment-webhook-how-i-caught-a-silent-failure-that-would-have-blocked-every-non-card-4dfi)
+- [Top 5 AI UI Design Tools in 2026: I Tested Them All With the Same Prompt](https://dev.to/hadil/top-5-ai-ui-design-tools-in-2026-i-tested-them-all-with-the-same-prompt-hm7)
+- [Meme Monday](https://dev.to/ben/meme-monday-5g25)
+- [We ran Pinaka on an open, unresolved Prisma bug. No ground truth. Here&#39;s what it found.](https://dev.to/atharvapanegai/we-ran-pinaka-on-an-open-unresolved-prisma-bug-no-ground-truth-heres-what-it-found-494d)
+- [Your AI Girlfriend Is Becoming Everyone Else&#39;s](https://dev.to/alexei-volkov/your-ai-girlfriend-is-becoming-everyone-elses-1jme)
+- [Beyond the Grid: Building Secure, Zero-Cost B2B Client Portals on Google Sheets](https://dev.to/hayrullahkar/beyond-the-grid-building-secure-zero-cost-b2b-client-portals-on-google-sheets-ga2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
