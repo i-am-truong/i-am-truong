@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s You.](https://dev.to/francistrdev/its-you-29k0)
-- [AI Agents Address Hallucinations; New Tools for Code Gen &amp; Enterprise Auth](https://dev.to/soytuber/ai-agents-address-hallucinations-new-tools-for-code-gen-enterprise-auth-53fk)
-- [🚀 I Built a Dropshipping Automation Pipeline — Here&#39;s What I Learned &lpar;and What I&#39;d Do Differently&rpar;](https://dev.to/brandonhayes/i-built-a-dropshipping-automation-pipeline-heres-what-i-learned-and-what-id-do-differently-2ana)
-- [How I Cut My LLM API Bill by 40x: A Freelancer&#39;s Migration Story](https://dev.to/truelane/how-i-cut-my-llm-api-bill-by-40x-a-freelancers-migration-story-2n9)
-- [I shipped an unauthenticated RCE in my own port scanner — here&#39;s the whole chain, and how I killed it](https://dev.to/dipesthapa/i-shipped-an-unauthenticated-rce-in-my-own-port-scanner-heres-the-whole-chain-and-how-i-killed-35kl)
+- [Corvorum OS Server Edition](https://dev.to/technomantus_corvi/corvorum-os-server-edition-2d94)
+- [Meta Pixel not firing? The 6 real causes, in the order to check them](https://dev.to/rytisbalys/meta-pixel-not-firing-the-6-real-causes-in-the-order-to-check-them-4d0f)
+- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
+- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
+- [Punto de partida: tecnología y mejora humana](https://dev.to/carlos_arturocastaog_/punto-de-partida-tecnologia-y-mejora-humana-3jnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
