@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Operation DragonReturn: DcRAT Deployment via Fake ITR Utilities](https://dev.to/satyam_rastogi/operation-dragonreturn-dcrat-deployment-via-fake-itr-utilities-346)
-- [Supracorona Login Gate: Simple Access Control for WordPress Sites](https://dev.to/dveb/supracorona-login-gate-simple-access-control-for-wordpress-sites-l1i)
-- [Performance Testing RAG Applications: Complete Engineering Guide](https://dev.to/qainsights/performance-testing-rag-applications-complete-engineering-guide-25g7)
-- [&quot;Ruby is the most AI-friendly stack&quot; is half true](https://dev.to/luuuc/ruby-is-the-most-ai-friendly-stack-is-half-true-1ac4)
-- [I interrogated my AI to prove it forgot.](https://dev.to/yerramsettysuchita/i-interrogated-my-ai-to-prove-it-forgot-560d)
+- [How Beginner Developers Can Find Great Project Ideas](https://dev.to/shresthapandey/how-beginner-developers-can-find-great-project-ideas-4kia)
+- [The AI Job Panic: Are We the Architects or the Scaffolding?](https://dev.to/konark_13/the-ai-job-panic-are-we-the-architects-or-the-scaffolding-1ijb)
+- [Why ChatGPT Cannot Wash Dishes](https://dev.to/developer-friendly59/why-chatgpt-cannot-wash-dishes-1p5)
+- [title: How I Built an AI-First Whiteboard Tool &lpar;Miro Alternative&rpar; in 30 Days With Zero Budget](https://dev.to/usescrawlapp/title-how-i-built-an-ai-first-whiteboard-tool-miro-alternative-in-30-days-with-zero-budget-491o)
+- [I Cut My OpenAI Bill by 97.5% — Here&#39;s My Migration Data](https://dev.to/swift-logic-io218/i-cut-my-openai-bill-by-975-heres-my-migration-data-2i2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
