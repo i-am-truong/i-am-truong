@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Beginner Developers Can Find Great Project Ideas](https://dev.to/shresthapandey/how-beginner-developers-can-find-great-project-ideas-4kia)
-- [The AI Job Panic: Are We the Architects or the Scaffolding?](https://dev.to/konark_13/the-ai-job-panic-are-we-the-architects-or-the-scaffolding-1ijb)
-- [Why ChatGPT Cannot Wash Dishes](https://dev.to/developer-friendly59/why-chatgpt-cannot-wash-dishes-1p5)
-- [title: How I Built an AI-First Whiteboard Tool &lpar;Miro Alternative&rpar; in 30 Days With Zero Budget](https://dev.to/usescrawlapp/title-how-i-built-an-ai-first-whiteboard-tool-miro-alternative-in-30-days-with-zero-budget-491o)
-- [I Cut My OpenAI Bill by 97.5% — Here&#39;s My Migration Data](https://dev.to/swift-logic-io218/i-cut-my-openai-bill-by-975-heres-my-migration-data-2i2n)
+- [We Built an Open-Source SDK for Cross-Chain AI Agents — Here&#39;s What Broke](https://dev.to/n3on/we-built-an-open-source-sdk-for-cross-chain-ai-agents-heres-what-broke-mih)
+- [My Mac crashed with 7 Claude Code sessions open. Never again: a cross-project session picker in one bash script](https://dev.to/daksh-gargas/my-mac-crashed-with-7-claude-code-sessions-open-never-again-a-cross-project-session-picker-in-one-256i)
+- [The 4 Best Free Resume Builders in 2026 &lpar;Tested &amp; Compared&rpar;](https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk)
+- [Stop Killing Your Battery: The Ultimate Guide to Android Edge AI Quantization &lpar;INT8 vs. FP16&rpar;](https://dev.to/programmingcentral/stop-killing-your-battery-the-ultimate-guide-to-android-edge-ai-quantization-int8-vs-fp16-121k)
+- [Bubble or not? The money loop, the token revolt, and why the AI demand is still real](https://dev.to/anishbasnetab/bubble-or-not-the-money-loop-the-token-revolt-and-why-the-ai-demand-is-still-real-1o49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
