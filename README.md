@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built an Open-Source SDK for Cross-Chain AI Agents — Here&#39;s What Broke](https://dev.to/n3on/we-built-an-open-source-sdk-for-cross-chain-ai-agents-heres-what-broke-mih)
-- [My Mac crashed with 7 Claude Code sessions open. Never again: a cross-project session picker in one bash script](https://dev.to/daksh-gargas/my-mac-crashed-with-7-claude-code-sessions-open-never-again-a-cross-project-session-picker-in-one-256i)
-- [The 4 Best Free Resume Builders in 2026 &lpar;Tested &amp; Compared&rpar;](https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk)
-- [Stop Killing Your Battery: The Ultimate Guide to Android Edge AI Quantization &lpar;INT8 vs. FP16&rpar;](https://dev.to/programmingcentral/stop-killing-your-battery-the-ultimate-guide-to-android-edge-ai-quantization-int8-vs-fp16-121k)
-- [Bubble or not? The money loop, the token revolt, and why the AI demand is still real](https://dev.to/anishbasnetab/bubble-or-not-the-money-loop-the-token-revolt-and-why-the-ai-demand-is-still-real-1o49)
+- [It&#39;s You.](https://dev.to/francistrdev/its-you-29k0)
+- [AI Agents Address Hallucinations; New Tools for Code Gen &amp; Enterprise Auth](https://dev.to/soytuber/ai-agents-address-hallucinations-new-tools-for-code-gen-enterprise-auth-53fk)
+- [🚀 I Built a Dropshipping Automation Pipeline — Here&#39;s What I Learned &lpar;and What I&#39;d Do Differently&rpar;](https://dev.to/brandonhayes/i-built-a-dropshipping-automation-pipeline-heres-what-i-learned-and-what-id-do-differently-2ana)
+- [How I Cut My LLM API Bill by 40x: A Freelancer&#39;s Migration Story](https://dev.to/truelane/how-i-cut-my-llm-api-bill-by-40x-a-freelancers-migration-story-2n9)
+- [I shipped an unauthenticated RCE in my own port scanner — here&#39;s the whole chain, and how I killed it](https://dev.to/dipesthapa/i-shipped-an-unauthenticated-rce-in-my-own-port-scanner-heres-the-whole-chain-and-how-i-killed-35kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
