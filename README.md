@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Query: Managing Asynchronous Data Rendering Guide](https://dev.to/sahil_khurana_486f374ecf2/react-query-managing-asynchronous-data-rendering-guide-2gp2)
-- [Sprint 9 closed: Desktop MVP](https://dev.to/meronq/sprint-9-closed-desktop-mvp-288a)
-- [My Reading Room](https://dev.to/lavkeshdwivedi/my-reading-room-2ki2)
-- [Shifting Mobile Security Left: Applying SAST to Android Apps with MobSF](https://dev.to/fabrizioperezperalta/shifting-mobile-security-left-applying-sast-to-android-apps-with-mobsf-47l3)
-- [How I Use Redis Beyond Simple Caching: A Senior Dev&#39;s Perspective](https://dev.to/tahmidbintaslim/how-i-use-redis-beyond-simple-caching-a-senior-devs-perspective-2llf)
+- [Vibe Coding with AI: What It Actually Feels Like to Build with an AI Agent](https://dev.to/muskan_bandta/vibe-coding-with-ai-what-it-actually-feels-like-to-build-with-an-ai-agent-h59)
+- [Observability for LLM Apps: Tracing, Cost Tracking, and Eval Loops](https://dev.to/mihirmohapatra/observability-for-llm-apps-tracing-cost-tracking-and-eval-loops-3049)
+- [Building open-source tools for the community: still makes sense?](https://dev.to/_neronotte/building-open-source-tools-for-the-community-still-make-sense-51on)
+- [Enforce Better Vue Architecture with ESLint](https://dev.to/jacobandrewsky/enforce-better-vue-architecture-with-eslint-3fb0)
+- [Debugging a Payment Webhook: How I Caught a Silent Failure That Would Have Blocked Every Non-Card Transaction](https://dev.to/iqbal120708/debugging-a-payment-webhook-how-i-caught-a-silent-failure-that-would-have-blocked-every-non-card-4dfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
