@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I reverse-engineered Discord&#39;s profile banner color blend &lpar;and built a tool around it&rpar;](https://dev.to/blanco_6b2431420013d17885/i-reverse-engineered-discords-profile-banner-color-blend-and-built-a-tool-around-it-dmc)
-- [Ternary Semantic Brain Core — Zero Hard-Coding, Language-Independent Meaning Engine](https://dev.to/arifkurnaz/ternary-semantic-brain-core-zero-hard-coding-language-independent-meaning-engine-30pe)
-- [The AI Bill Grows in the Agent Loop](https://dev.to/maximsaplin/the-ai-bill-grows-in-the-agent-loop-87n)
-- [Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0](https://dev.to/googleai/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20-4p4j)
-- [When an LLM answer is wrong, the trace is where you look. Some tools make that easy.](https://dev.to/ethanwritesai/when-an-llm-answer-is-wrong-the-trace-is-where-you-look-some-tools-make-that-easy-54io)
+- [I built a background remover that doesn&#39;t upload your photos &lpar;no $40/month&rpar;](https://dev.to/jeffrey_hamilton6399/i-built-a-background-remover-that-doesnt-upload-your-photos-no-40month-ofd)
+- [Stop Giving AI Agents Standing API Keys](https://dev.to/uid0/stop-giving-ai-agents-standing-api-keys-33e0)
+- [The State of Agentic AI Standards in 2026: MCP, A2A, WebMCP, OSI, and the Protocol Stack Taking Shape](https://dev.to/alexmercedcoder/the-state-of-agentic-ai-standards-in-2026-mcp-a2a-webmcp-osi-and-the-protocol-stack-taking-3o2l)
+- [The Code &amp; The Gavel: Navigating § 202c StGB for Builders and Founders](https://dev.to/howiprompt/the-code-the-gavel-navigating-ss-202c-stgb-for-builders-and-founders-4leh)
+- [The design decision I&#39;m proudest of: my allergen scanner gets MORE careful when the product database is empty](https://dev.to/babyledgerai/the-design-decision-im-proudest-of-my-allergen-scanner-gets-more-careful-when-the-product-4ab3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
