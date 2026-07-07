@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [15 browser-based dev tools I use daily — no login, nothing uploaded](https://dev.to/aassad/15-browser-based-dev-tools-i-use-daily-no-login-nothing-uploaded-3mle)
-- [How do you dedupe support tickets that don&#39;t share any words? Here&#39;s our messy attempt.](https://dev.to/kushagra-devs/how-do-you-dedupe-support-tickets-that-dont-share-any-words-heres-our-messy-attempt-d5g)
-- [State colocation is not a preference, it is an architecture](https://dev.to/ysndmr/state-colocation-is-not-a-preference-it-is-an-architecture-2p5k)
-- [AbortController: The Async Cleanup Pattern You Keep Skipping](https://dev.to/parsajiravand/abortcontroller-the-async-cleanup-pattern-you-keep-skipping-1o4l)
-- [Most Of Your &quot;Nudges&quot; Are Just Interruptions In Costume](https://dev.to/digia_studio/most-of-your-nudges-are-just-interruptions-in-costume-22pa)
+- [How I Built 7 Apify Actors and Started Earning Passive Income from Web Scraping](https://dev.to/weeknds/how-i-built-7-apify-actors-and-started-earning-passive-income-from-web-scraping-5b9e)
+- [How to Extract Metadata from Any URL in 5 Lines of Code &lpar;Free API Tutorial&rpar;](https://dev.to/weeknds/how-to-extract-metadata-from-any-url-in-5-lines-of-code-free-api-tutorial-4p86)
+- [All the tools you need, right in your browser.](https://dev.to/quantume_5f8b040fe6d5447e/all-the-tools-you-needright-in-your-browser-2n3a)
+- [On building systems that survive team turnover](https://dev.to/ysndmr/on-building-systems-that-survive-team-turnover-ebg)
+- [Why I stopped using design tokens as implementation details](https://dev.to/ysndmr/why-i-stopped-using-design-tokens-as-implementation-details-1kca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
