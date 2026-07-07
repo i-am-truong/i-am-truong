@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One API endpoint, 18 registries: verifying Australian businesses without the SOAP and CSV mess](https://dev.to/mathiasahlgren/one-api-endpoint-18-registries-verifying-australian-businesses-without-the-soap-and-csv-mess-1nmp)
-- [Candidate Compliance Agent: Building a Multilingual RAG System for Tamil Nadu Election Affidavits](https://dev.to/hari_babu_36078517bf8a8de/candidate-compliance-agent-building-a-multilingual-rag-system-for-tamil-nadu-election-affidavits-3mcm)
-- [Master Local Fine-Tuning with &quot;gemma-trainer&quot;](https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp)
-- [Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3](https://dev.to/highcenburg/building-a-plugin-free-newsletter-popup-on-wordpress-custom-rest-endpoint-mailchimp-api-v3-a1m)
-- [ภาษาโปรแกรมมิ่งที่ syntax ง่าย ทำให้ AI หลอนน้อยลง จริงหรือ?](https://dev.to/gophernment/phaasaaopraekrmmingthii-syntax-ngaay-thamaih-ai-hlnnylng-cchringhruue-5al9)
+- [Designing K-Saju: turning a traditional birth-chart system into a lightweight K-culture web product](https://dev.to/piyaklabs/designing-k-saju-turning-a-traditional-birth-chart-system-into-a-lightweight-k-culture-web-product-hp8)
+- [My React Search Box Froze on Every Keystroke. I Fixed It by Stealing Python&#39;s #1 Scope Rule.](https://dev.to/tahosin/my-react-search-box-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-scope-rule-k2i)
+- [How to Build Unbroken Candlestick Charts for US Stocks: A Three-Layer Session Tagging Approach](https://dev.to/kaihang_ho_2ad23569cdb965/how-to-build-unbroken-candlestick-charts-for-us-stocks-a-three-layer-session-tagging-approach-ogc)
+- [60 jours avec Claude Code sur un ERP en production : le bilan honnête, sans hype, chiffres bruts](https://dev.to/michelfaure/60-jours-avec-claude-code-sur-un-erp-en-production-le-bilan-honnete-sans-hype-chiffres-bruts-da6)
+- [Tiny AI Models for Low-Bandwidth Areas: A Developer&#39;s Guide to WASM-Based Deployment with Ternlight](https://dev.to/tamizuddin/tiny-ai-models-for-low-bandwidth-areas-a-developers-guide-to-wasm-based-deployment-with-ternlight-3eha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
