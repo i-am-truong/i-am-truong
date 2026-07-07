@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built 7 Apify Actors and Started Earning Passive Income from Web Scraping](https://dev.to/weeknds/how-i-built-7-apify-actors-and-started-earning-passive-income-from-web-scraping-5b9e)
-- [How to Extract Metadata from Any URL in 5 Lines of Code &lpar;Free API Tutorial&rpar;](https://dev.to/weeknds/how-to-extract-metadata-from-any-url-in-5-lines-of-code-free-api-tutorial-4p86)
-- [All the tools you need, right in your browser.](https://dev.to/quantume_5f8b040fe6d5447e/all-the-tools-you-needright-in-your-browser-2n3a)
-- [On building systems that survive team turnover](https://dev.to/ysndmr/on-building-systems-that-survive-team-turnover-ebg)
-- [Why I stopped using design tokens as implementation details](https://dev.to/ysndmr/why-i-stopped-using-design-tokens-as-implementation-details-1kca)
+- [Silent Failures: The Bug That Won&#39;t Page You](https://dev.to/epok/silent-failures-the-bug-that-wont-page-you-52pl)
+- [Why MCP Hookups, Not Just Models, enable Agent Potential in Production](https://dev.to/davekurian/why-mcp-hookups-not-just-models-enable-agent-potential-in-production-5e0o)
+- [JWT Validation Against an RSA Public Key: The ValidAlgorithms Gotcha](https://dev.to/querywrangler/jwt-validation-against-an-rsa-public-key-the-validalgorithms-gotcha-15k5)
+- [Karpathy ปล่อย LLM Council — เมื่อ AI หลายตัวถกเถียงกันก่อนตอบคุณ](https://dev.to/sarantoon/karpathy-ply-llm-council-emuue-ai-hlaaytawthkethiiyngkankntbkhun-131f)
+- [The Illusion of Enterprise AI: Why 95% of Current Solutions Will Fail Your Security Audit &lpar;And How DeepTech Solves It&rpar;](https://dev.to/binaryjack/the-illusion-of-enterprise-ai-why-95-of-current-solutions-will-fail-your-security-audit-and-how-38e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
