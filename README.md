@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pre-allocate Like a Pro](https://dev.to/ssukhpinder/day-2-pre-allocate-like-a-pro-121l)
-- [What I learned building a compliance answer engine that refuses to make things up](https://dev.to/adi_cch/what-i-learned-building-a-compliance-answer-engine-that-refuses-to-make-things-up-42mp)
-- [Coinbase Advanced Trade API vs Kraken API for a Python Trading Bot](https://dev.to/fillbench/coinbase-advanced-trade-api-vs-kraken-api-for-a-python-trading-bot-eeb)
-- [Dev Log: 2026-07-07](https://dev.to/nasrulhazim/dev-log-2026-07-07-3jc2)
-- [Killing à-la-carte: migrating a feature-gating model to plans-only](https://dev.to/nasrulhazim/killing-a-la-carte-migrating-a-feature-gating-model-to-plans-only-9m3)
+- [PowerBi is smart but also lazy](https://dev.to/only_machua_dda6986f7477a/powerbi-is-smart-but-also-lazy-4mji)
+- [Loop Engineering Minus the Hype](https://dev.to/isaachagoel/loop-engineering-minus-the-hype-4ibn)
+- [I Filed a Missing Persons Report For Someone From Modern Warfare 2](https://dev.to/jhaley/i-filed-a-missing-persons-report-for-someone-from-modern-warfare-2-1j43)
+- [Plugins That Actually Matter: Diagrams, Math, and More Inside Your Documents](https://dev.to/paperquire_e3fdb510bbe49c/plugins-that-actually-matter-diagrams-math-and-more-inside-your-documents-i8g)
+- [Why Mixed Asians Are Creole Too](https://dev.to/creolefaerie/why-mixed-asians-are-creole-too-52nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
