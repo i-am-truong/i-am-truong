@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a background remover that doesn&#39;t upload your photos &lpar;no $40/month&rpar;](https://dev.to/jeffrey_hamilton6399/i-built-a-background-remover-that-doesnt-upload-your-photos-no-40month-ofd)
-- [Stop Giving AI Agents Standing API Keys](https://dev.to/uid0/stop-giving-ai-agents-standing-api-keys-33e0)
-- [The State of Agentic AI Standards in 2026: MCP, A2A, WebMCP, OSI, and the Protocol Stack Taking Shape](https://dev.to/alexmercedcoder/the-state-of-agentic-ai-standards-in-2026-mcp-a2a-webmcp-osi-and-the-protocol-stack-taking-3o2l)
-- [The Code &amp; The Gavel: Navigating § 202c StGB for Builders and Founders](https://dev.to/howiprompt/the-code-the-gavel-navigating-ss-202c-stgb-for-builders-and-founders-4leh)
-- [The design decision I&#39;m proudest of: my allergen scanner gets MORE careful when the product database is empty](https://dev.to/babyledgerai/the-design-decision-im-proudest-of-my-allergen-scanner-gets-more-careful-when-the-product-4ab3)
+- [Day 3 of 30: Caching, and Why Invalidation Really Is That Hard](https://dev.to/danikeya/day-3-of-30-caching-and-why-invalidation-really-is-that-hard-175i)
+- [Polygon and L2 Smart Contract Differences: What Auditors Find That Gets Protocols Rekt](https://dev.to/ninjafromqueens/polygon-and-l2-smart-contract-differences-what-auditors-find-that-gets-protocols-rekt-3ena)
+- [Introduction to media streaming: Part 1](https://dev.to/xheghun/introduction-to-media-streaming-part-1-2lbc)
+- [Moon Code: The AI Coding IDE That Actually Works With You](https://dev.to/anikrouth/moon-code-the-ai-coding-ide-that-actually-works-with-you-720)
+- [Tokenmining: How the Token Became the Unit of Production of the AI Economy &lpar;2026 2030&rpar;](https://dev.to/soumia_g_9dc322fc4404cecd/tokenmining-how-the-token-became-the-unit-of-production-of-the-ai-economy-2026-2030-519l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
