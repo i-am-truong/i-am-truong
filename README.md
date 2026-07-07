@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 3 of 30: Caching, and Why Invalidation Really Is That Hard](https://dev.to/danikeya/day-3-of-30-caching-and-why-invalidation-really-is-that-hard-175i)
-- [Polygon and L2 Smart Contract Differences: What Auditors Find That Gets Protocols Rekt](https://dev.to/ninjafromqueens/polygon-and-l2-smart-contract-differences-what-auditors-find-that-gets-protocols-rekt-3ena)
-- [Introduction to media streaming: Part 1](https://dev.to/xheghun/introduction-to-media-streaming-part-1-2lbc)
-- [Moon Code: The AI Coding IDE That Actually Works With You](https://dev.to/anikrouth/moon-code-the-ai-coding-ide-that-actually-works-with-you-720)
-- [Tokenmining: How the Token Became the Unit of Production of the AI Economy &lpar;2026 2030&rpar;](https://dev.to/soumia_g_9dc322fc4404cecd/tokenmining-how-the-token-became-the-unit-of-production-of-the-ai-economy-2026-2030-519l)
+- [Pre-allocate Like a Pro](https://dev.to/ssukhpinder/day-2-pre-allocate-like-a-pro-121l)
+- [What I learned building a compliance answer engine that refuses to make things up](https://dev.to/adi_cch/what-i-learned-building-a-compliance-answer-engine-that-refuses-to-make-things-up-42mp)
+- [Coinbase Advanced Trade API vs Kraken API for a Python Trading Bot](https://dev.to/fillbench/coinbase-advanced-trade-api-vs-kraken-api-for-a-python-trading-bot-eeb)
+- [Dev Log: 2026-07-07](https://dev.to/nasrulhazim/dev-log-2026-07-07-3jc2)
+- [Killing à-la-carte: migrating a feature-gating model to plans-only](https://dev.to/nasrulhazim/killing-a-la-carte-migrating-a-feature-gating-model-to-plans-only-9m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
