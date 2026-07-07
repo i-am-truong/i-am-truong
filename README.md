@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [O imposto de SSO, em dólares: quanto SAML custa de verdade na Auth0, WorkOS e Clerk](https://dev.to/authagonal/o-imposto-de-sso-em-dolares-quanto-saml-custa-de-verdade-na-auth0-workos-e-clerk-395n)
-- [An identity provider told us who you were, and we believed it](https://dev.to/authagonal/an-identity-provider-told-us-who-you-were-and-we-believed-it-1b9)
-- [Rattribute.js](https://dev.to/williamtroup/rattributejs-2cmm)
-- [If You Know CSS, You Already Know Yumma CSS](https://dev.to/rrenildopereiraa/if-you-know-css-you-already-know-yumma-css-4hok)
-- [AI Code Generation Has a Social Media Problem](https://dev.to/pixel-wraith/ai-code-generation-has-a-social-media-problem-1fmk)
+- [One API endpoint, 18 registries: verifying Australian businesses without the SOAP and CSV mess](https://dev.to/mathiasahlgren/one-api-endpoint-18-registries-verifying-australian-businesses-without-the-soap-and-csv-mess-1nmp)
+- [Candidate Compliance Agent: Building a Multilingual RAG System for Tamil Nadu Election Affidavits](https://dev.to/hari_babu_36078517bf8a8de/candidate-compliance-agent-building-a-multilingual-rag-system-for-tamil-nadu-election-affidavits-3mcm)
+- [Master Local Fine-Tuning with &quot;gemma-trainer&quot;](https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp)
+- [Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3](https://dev.to/highcenburg/building-a-plugin-free-newsletter-popup-on-wordpress-custom-rest-endpoint-mailchimp-api-v3-a1m)
+- [ภาษาโปรแกรมมิ่งที่ syntax ง่าย ทำให้ AI หลอนน้อยลง จริงหรือ?](https://dev.to/gophernment/phaasaaopraekrmmingthii-syntax-ngaay-thamaih-ai-hlnnylng-cchringhruue-5al9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
