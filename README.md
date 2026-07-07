@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing K-Saju: turning a traditional birth-chart system into a lightweight K-culture web product](https://dev.to/piyaklabs/designing-k-saju-turning-a-traditional-birth-chart-system-into-a-lightweight-k-culture-web-product-hp8)
-- [My React Search Box Froze on Every Keystroke. I Fixed It by Stealing Python&#39;s #1 Scope Rule.](https://dev.to/tahosin/my-react-search-box-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-scope-rule-k2i)
-- [How to Build Unbroken Candlestick Charts for US Stocks: A Three-Layer Session Tagging Approach](https://dev.to/kaihang_ho_2ad23569cdb965/how-to-build-unbroken-candlestick-charts-for-us-stocks-a-three-layer-session-tagging-approach-ogc)
-- [60 jours avec Claude Code sur un ERP en production : le bilan honnête, sans hype, chiffres bruts](https://dev.to/michelfaure/60-jours-avec-claude-code-sur-un-erp-en-production-le-bilan-honnete-sans-hype-chiffres-bruts-da6)
-- [Tiny AI Models for Low-Bandwidth Areas: A Developer&#39;s Guide to WASM-Based Deployment with Ternlight](https://dev.to/tamizuddin/tiny-ai-models-for-low-bandwidth-areas-a-developers-guide-to-wasm-based-deployment-with-ternlight-3eha)
+- [15 browser-based dev tools I use daily — no login, nothing uploaded](https://dev.to/aassad/15-browser-based-dev-tools-i-use-daily-no-login-nothing-uploaded-3mle)
+- [How do you dedupe support tickets that don&#39;t share any words? Here&#39;s our messy attempt.](https://dev.to/kushagra-devs/how-do-you-dedupe-support-tickets-that-dont-share-any-words-heres-our-messy-attempt-d5g)
+- [State colocation is not a preference, it is an architecture](https://dev.to/ysndmr/state-colocation-is-not-a-preference-it-is-an-architecture-2p5k)
+- [AbortController: The Async Cleanup Pattern You Keep Skipping](https://dev.to/parsajiravand/abortcontroller-the-async-cleanup-pattern-you-keep-skipping-1o4l)
+- [Most Of Your &quot;Nudges&quot; Are Just Interruptions In Costume](https://dev.to/digia_studio/most-of-your-nudges-are-just-interruptions-in-costume-22pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
