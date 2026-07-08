@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [shiibar-cc: a tiny &quot;your turn&quot; indicator for Claude Code + iTerm2](https://dev.to/bufferings/shiibar-cc-a-tiny-your-turn-indicator-for-claude-code-iterm2-5261)
-- [Functional Programming in Java: A Complete Guide to Lambdas and Streams](https://dev.to/abhi9720/functional-programming-in-java-a-complete-guide-to-lambdas-and-streams-3a3a)
-- [Ownership: do &quot;temos um rojão na mão&quot; até &quot;não precisa mais pensar nisso&quot;](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7)
-- [I tried to obfuscate my Java code before sending it to AI — here&#39;s what broke](https://dev.to/genevieve_breton_cb795f52/i-tried-to-obfuscate-my-java-code-before-sending-it-to-ai-heres-what-broke-5615)
-- [How ICD-10 Codes Map to an HCC / RAF Score &lpar;and Why the Same Code Set Yields Different Scores&rpar;](https://dev.to/vbc_risk_analytics/how-icd-10-codes-map-to-an-hcc-raf-score-and-why-the-same-code-set-yields-different-scores-25l2)
+- [How do programmers make money in 2026?](https://dev.to/sh4man/how-do-programmers-make-money-in-2026-3l4)
+- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j)
+- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo)
+- [Why the MERN Stack Is a Great Choice for Modern Web Development](https://dev.to/sikandar_khanafridi/why-the-mern-stack-is-a-great-choice-for-modern-web-development-1mdo)
+- [Why Your Sprint Review Is a Waste of Everyone’s Time](https://dev.to/danielholtwrites/why-your-sprint-review-is-a-waste-of-everyones-time-2a5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
