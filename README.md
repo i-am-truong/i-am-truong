@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to check your browser&#39;s privacy with 30 lines of JavaScript — and what I learned](https://dev.to/toolanchor/how-to-check-your-browsers-privacy-with-30-lines-of-javascript-and-what-i-learned-39o6)
-- [Voice Agent Architectures Explained](https://dev.to/martschweiger/voice-agent-architectures-explained-35e0)
-- [Your Codebase Is Trying to Tell You Something](https://dev.to/karlheinz_reichel_7ee08d/your-codebase-is-trying-to-tell-you-something-1550)
-- [Block the merge when a PR ships a vulnerability: a CI security gate with Synapse](https://dev.to/nghiadaulau/block-the-merge-when-a-pr-ships-a-vulnerability-a-ci-security-gate-with-synapse-33bn)
-- [China Warns of Backdoors in Claude Code, Urges Caution](https://dev.to/davekurian/china-warns-of-backdoors-in-claude-code-urges-caution-41cc)
+- [shiibar-cc: a tiny &quot;your turn&quot; indicator for Claude Code + iTerm2](https://dev.to/bufferings/shiibar-cc-a-tiny-your-turn-indicator-for-claude-code-iterm2-5261)
+- [Functional Programming in Java: A Complete Guide to Lambdas and Streams](https://dev.to/abhi9720/functional-programming-in-java-a-complete-guide-to-lambdas-and-streams-3a3a)
+- [Ownership: do &quot;temos um rojão na mão&quot; até &quot;não precisa mais pensar nisso&quot;](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7)
+- [I tried to obfuscate my Java code before sending it to AI — here&#39;s what broke](https://dev.to/genevieve_breton_cb795f52/i-tried-to-obfuscate-my-java-code-before-sending-it-to-ai-heres-what-broke-5615)
+- [How ICD-10 Codes Map to an HCC / RAF Score &lpar;and Why the Same Code Set Yields Different Scores&rpar;](https://dev.to/vbc_risk_analytics/how-icd-10-codes-map-to-an-hcc-raf-score-and-why-the-same-code-set-yields-different-scores-25l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
