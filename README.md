@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Delete Files vs Deletion Vectors in Apache Iceberg: How V3 Rewrote the Economics of Changing Data](https://dev.to/alexmercedcoder/delete-files-vs-deletion-vectors-in-apache-iceberg-how-v3-rewrote-the-economics-of-changing-data-3i2b)
-- [From Source Code to Binary: What Does GCC Actually Do? part 2](https://dev.to/ddupard/from-source-code-to-binary-what-does-gcc-actually-do-part-2-4lhp)
-- [I built BrickSlider: a modular, framework-agnostic slider with Tailwind-friendly markup](https://dev.to/malopes/i-built-brickslider-a-modular-framework-agnostic-slider-with-tailwind-friendly-markup-1g20)
-- [Catch expiring TLS certs and weak security headers in CI — with one small CLI](https://dev.to/devyjones/catch-expiring-tls-certs-and-weak-security-headers-in-ci-with-one-small-cli-3fe)
-- [The Variant Type in Apache Iceberg: How Shredding Turns Messy JSON Into Fast Analytics](https://dev.to/alexmercedcoder/the-variant-type-in-apache-iceberg-how-shredding-turns-messy-json-into-fast-analytics-5cam)
+- [microservice ต้องมี observability แค่ไหน ถึงจะคุ้ม](https://dev.to/gophernment/microservice-tngmii-observability-aekhaihn-thuengcchakhum-1m1g)
+- [Pare de escrever prompts. Comece a escrever especificações.](https://dev.to/devxbr/pare-de-escrever-prompts-comece-a-escrever-especificacoes-1mb9)
+- [Choosing a headless CMS](https://dev.to/agenyc/choosing-a-headless-cms-45pg)
+- [JVM Internals for Microservices: Classloading, Memory, and GC in Containers](https://dev.to/morpheus-vera/jvm-internals-for-microservices-classloading-memory-and-gc-in-containers-222h)
+- [Inbox Contracts for Scheduled Automation](https://dev.to/mrdapperx/inbox-contracts-for-scheduled-automation-1b5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
