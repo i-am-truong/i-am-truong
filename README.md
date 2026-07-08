@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PowerBi is smart but also lazy](https://dev.to/only_machua_dda6986f7477a/powerbi-is-smart-but-also-lazy-4mji)
-- [Loop Engineering Minus the Hype](https://dev.to/isaachagoel/loop-engineering-minus-the-hype-4ibn)
-- [I Filed a Missing Persons Report For Someone From Modern Warfare 2](https://dev.to/jhaley/i-filed-a-missing-persons-report-for-someone-from-modern-warfare-2-1j43)
-- [Plugins That Actually Matter: Diagrams, Math, and More Inside Your Documents](https://dev.to/paperquire_e3fdb510bbe49c/plugins-that-actually-matter-diagrams-math-and-more-inside-your-documents-i8g)
-- [Why Mixed Asians Are Creole Too](https://dev.to/creolefaerie/why-mixed-asians-are-creole-too-52nk)
+- [Agentic AI: Good Upfront Design Pays You Back Later](https://dev.to/jagostoni/agentic-ai-good-upfront-design-pays-you-back-later-1485)
+- [Nuxt In 2026: The Vue Full-Stack Framework That Deserves More Attention](https://dev.to/nazar-boyko/nuxt-in-2026-the-vue-full-stack-framework-that-deserves-more-attention-546k)
+- [Treat the Context Window Like a Budget, Not a Junk Drawer](https://dev.to/orieken/treat-the-context-window-like-a-budget-not-a-junk-drawer-5602)
+- [GEO for Developers: Get Cited by ChatGPT and Perplexity](https://dev.to/swapnoneel123/geo-for-developers-get-cited-by-chatgpt-and-perplexity-34mf)
+- [Response to &#39;gVisor vs Firecracker for AI Agent Sandboxing&#39; — what we learned auditing 8,764 MCP servers](https://dev.to/edison_flores_6d2cd381b13/response-to-gvisor-vs-firecracker-for-ai-agent-sandboxing-what-we-learned-auditing-8764-mcp-4p05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
