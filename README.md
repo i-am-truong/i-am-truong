@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Evident: Proving Digital Ownership Without Revealing Your Content](https://dev.to/vesmot_dev/evident-proving-digital-ownership-without-revealing-your-content-286h)
-- [A low-tech repo context pattern for AI coding agents](https://dev.to/mpashka/a-low-tech-repo-context-pattern-for-ai-coding-agents-4k25)
-- [title: Day 4 of 30: Load Balancing and the Single Point of Failure Problem](https://dev.to/danikeya/title-day-4-of-30-load-balancing-and-the-single-point-of-failure-problem-2o7b)
-- [Guia Completo: Configurar Hibernação no Ubuntu 24.04 com Swap File](https://dev.to/hallancosta/guia-completo-configurar-hibernacao-no-ubuntu-2404-com-swap-file-gib)
-- [Next.js Law Firm Sites &lpar;with Proof&rpar;](https://dev.to/techpotions/nextjs-law-firm-sites-with-proof-3clk)
+- [OpenBSD Privilege Escalation, GitHub AI Agent Leaks, &amp; CDN Supply Chain Risks](https://dev.to/soytuber/openbsd-privilege-escalation-github-ai-agent-leaks-cdn-supply-chain-risks-c16)
+- [Try out IsItCrashing.com](https://dev.to/mahmed74/try-out-isitcrashingcom-31e3)
+- [From Prompts to Pipelines: How I Use Agentic Coding as an Engineering Workflow](https://dev.to/po8rewq/from-prompts-to-pipelines-how-i-use-agentic-coding-as-an-engineering-workflow-52fh)
+- [Stop writing a test-data builder for every class in .NET](https://dev.to/jlamfers2/stop-writing-a-test-data-builder-for-every-class-in-net-4k6n)
+- [Decoding JWT: It&#39;s Not Encryption, It&#39;s a Signature](https://dev.to/tanmay_upadhyay_50802a11b/decoding-jwt-its-not-encryption-its-a-signature-2hn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
