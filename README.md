@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do programmers make money in 2026?](https://dev.to/sh4man/how-do-programmers-make-money-in-2026-3l4)
-- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j)
-- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo)
-- [Why the MERN Stack Is a Great Choice for Modern Web Development](https://dev.to/sikandar_khanafridi/why-the-mern-stack-is-a-great-choice-for-modern-web-development-1mdo)
-- [Why Your Sprint Review Is a Waste of Everyone’s Time](https://dev.to/danielholtwrites/why-your-sprint-review-is-a-waste-of-everyones-time-2a5k)
+- [Evident: Proving Digital Ownership Without Revealing Your Content](https://dev.to/vesmot_dev/evident-proving-digital-ownership-without-revealing-your-content-286h)
+- [A low-tech repo context pattern for AI coding agents](https://dev.to/mpashka/a-low-tech-repo-context-pattern-for-ai-coding-agents-4k25)
+- [title: Day 4 of 30: Load Balancing and the Single Point of Failure Problem](https://dev.to/danikeya/title-day-4-of-30-load-balancing-and-the-single-point-of-failure-problem-2o7b)
+- [Guia Completo: Configurar Hibernação no Ubuntu 24.04 com Swap File](https://dev.to/hallancosta/guia-completo-configurar-hibernacao-no-ubuntu-2404-com-swap-file-gib)
+- [Next.js Law Firm Sites &lpar;with Proof&rpar;](https://dev.to/techpotions/nextjs-law-firm-sites-with-proof-3clk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
