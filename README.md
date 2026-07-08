@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b)
-- [Why PCB Assembly Should Start Before Your PCB Layout Is Finished](https://dev.to/yoy/why-pcb-assembly-should-start-before-your-pcb-layout-is-finished-365e)
-- [I Spent a Week Fixing the Wrong Skill &lpar;And Other Lessons from Evaluating an AI PR Reviewer&rpar;](https://dev.to/tessl/i-spent-a-week-fixing-the-wrong-skill-and-other-lessons-from-evaluating-an-ai-pr-reviewer-54d8)
-- [Wiring Designers Into Your EAS Preview Loop](https://dev.to/famitha_ma_b9c13ab1d324e/wiring-designers-into-your-eas-preview-loop-1hil)
-- [Hello World! 👋 I&#39;m Pablo, Android Dev &amp; Creator of Aura Finance](https://dev.to/pablo_vegas/hello-world-im-pablo-android-dev-creator-of-aura-finance-285i)
+- [Cohort 1: A Few Months In](https://dev.to/kahenda/cohort-1-a-few-months-in-3h7a)
+- [Chainlink Staking Isn&#39;t a Yield Farm. It&#39;s Cryptoeconomic Security With Real Consequences.](https://dev.to/0xramprasad/chainlink-staking-isnt-a-yield-farm-its-cryptoeconomic-security-with-real-consequences-41m2)
+- [ZeroRelay: Direct Browser-to-Browser Sharing - No Server Ever Sees Your Data](https://dev.to/kushal1o1/zerorelay-direct-browser-to-browser-sharing-no-server-ever-sees-your-data-4bn3)
+- [A Developer Guide to Viewport Sizes for Screenshots](https://dev.to/webmox/a-developer-guide-to-viewport-sizes-for-screenshots-4aek)
+- [Why Your Images Are Killing Your Core Web Vitals &lpar;and How I Fixed It in One Afternoon&rpar;](https://dev.to/muhayminbinmehmood/why-your-images-are-killing-your-core-web-vitals-and-how-i-fixed-it-in-one-afternoon-47mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
