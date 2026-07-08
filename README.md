@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Slugs Are the Smallest Handoff Key Between APC and APX](https://dev.to/agentprojectcontext/agent-slugs-are-the-smallest-handoff-key-between-apc-and-apx-dom)
-- [Node.js: the runtime that changed how we think about backend](https://dev.to/jtorchia/nodejs-the-runtime-that-changed-how-we-think-about-backend-116o)
-- [Node.js: el runtime que cambió cómo pensamos el backend](https://dev.to/jtorchia/nodejs-el-runtime-que-cambio-como-pensamos-el-backend-1e86)
-- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-3eh1)
-- [I built a browser-only AI workflow safety prototype — looking for feedback](https://dev.to/menghuan-chuang/i-built-a-browser-only-ai-workflow-safety-prototype-looking-for-feedback-41b1)
+- [ADHD Paralysis: Why You Freeze When There&#39;s Too Much to Do &lpar;And How to Break Out of It&rpar;](https://dev.to/assindo/adhd-paralysis-why-you-freeze-when-theres-too-much-to-do-and-how-to-break-out-of-it-10mj)
+- [What Breaks MCP Servers in Production &lpar;MCP Best Practicies&rpar;?](https://dev.to/michael_rakutko/what-breaks-mcp-servers-in-production-mcp-best-practicies-2d1e)
+- [Replacing ntpdate with chronyc on Anolis OS for GBase 8a Cluster Time Sync](https://dev.to/michaelfv/replacing-ntpdate-with-chronyc-on-anolis-os-for-gbase-8a-cluster-time-sync-5g72)
+- [The 5 Types of AI Agent Memory Every TypeScript Developer Should Know](https://dev.to/raju_dandigam/the-5-types-of-ai-agent-memory-every-typescript-developer-should-know-3ggg)
+- [The Engineer Who Waits and the Engineer Who Hunts](https://dev.to/danielholtwrites/the-engineer-who-waits-and-the-engineer-who-hunts-1pal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
