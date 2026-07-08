@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cohort 1: A Few Months In](https://dev.to/kahenda/cohort-1-a-few-months-in-3h7a)
-- [Chainlink Staking Isn&#39;t a Yield Farm. It&#39;s Cryptoeconomic Security With Real Consequences.](https://dev.to/0xramprasad/chainlink-staking-isnt-a-yield-farm-its-cryptoeconomic-security-with-real-consequences-41m2)
-- [ZeroRelay: Direct Browser-to-Browser Sharing - No Server Ever Sees Your Data](https://dev.to/kushal1o1/zerorelay-direct-browser-to-browser-sharing-no-server-ever-sees-your-data-4bn3)
-- [A Developer Guide to Viewport Sizes for Screenshots](https://dev.to/webmox/a-developer-guide-to-viewport-sizes-for-screenshots-4aek)
-- [Why Your Images Are Killing Your Core Web Vitals &lpar;and How I Fixed It in One Afternoon&rpar;](https://dev.to/muhayminbinmehmood/why-your-images-are-killing-your-core-web-vitals-and-how-i-fixed-it-in-one-afternoon-47mm)
+- [Agent Slugs Are the Smallest Handoff Key Between APC and APX](https://dev.to/agentprojectcontext/agent-slugs-are-the-smallest-handoff-key-between-apc-and-apx-dom)
+- [Node.js: the runtime that changed how we think about backend](https://dev.to/jtorchia/nodejs-the-runtime-that-changed-how-we-think-about-backend-116o)
+- [Node.js: el runtime que cambió cómo pensamos el backend](https://dev.to/jtorchia/nodejs-el-runtime-que-cambio-como-pensamos-el-backend-1e86)
+- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-3eh1)
+- [I built a browser-only AI workflow safety prototype — looking for feedback](https://dev.to/menghuan-chuang/i-built-a-browser-only-ai-workflow-safety-prototype-looking-for-feedback-41b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
