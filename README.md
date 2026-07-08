@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ADHD Paralysis: Why You Freeze When There&#39;s Too Much to Do &lpar;And How to Break Out of It&rpar;](https://dev.to/assindo/adhd-paralysis-why-you-freeze-when-theres-too-much-to-do-and-how-to-break-out-of-it-10mj)
-- [What Breaks MCP Servers in Production &lpar;MCP Best Practicies&rpar;?](https://dev.to/michael_rakutko/what-breaks-mcp-servers-in-production-mcp-best-practicies-2d1e)
-- [Replacing ntpdate with chronyc on Anolis OS for GBase 8a Cluster Time Sync](https://dev.to/michaelfv/replacing-ntpdate-with-chronyc-on-anolis-os-for-gbase-8a-cluster-time-sync-5g72)
-- [The 5 Types of AI Agent Memory Every TypeScript Developer Should Know](https://dev.to/raju_dandigam/the-5-types-of-ai-agent-memory-every-typescript-developer-should-know-3ggg)
-- [The Engineer Who Waits and the Engineer Who Hunts](https://dev.to/danielholtwrites/the-engineer-who-waits-and-the-engineer-who-hunts-1pal)
+- [How to check your browser&#39;s privacy with 30 lines of JavaScript — and what I learned](https://dev.to/toolanchor/how-to-check-your-browsers-privacy-with-30-lines-of-javascript-and-what-i-learned-39o6)
+- [Voice Agent Architectures Explained](https://dev.to/martschweiger/voice-agent-architectures-explained-35e0)
+- [Your Codebase Is Trying to Tell You Something](https://dev.to/karlheinz_reichel_7ee08d/your-codebase-is-trying-to-tell-you-something-1550)
+- [Block the merge when a PR ships a vulnerability: a CI security gate with Synapse](https://dev.to/nghiadaulau/block-the-merge-when-a-pr-ships-a-vulnerability-a-ci-security-gate-with-synapse-33bn)
+- [China Warns of Backdoors in Claude Code, Urges Caution](https://dev.to/davekurian/china-warns-of-backdoors-in-claude-code-urges-caution-41cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
