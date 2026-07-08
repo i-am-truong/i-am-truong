@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD Privilege Escalation, GitHub AI Agent Leaks, &amp; CDN Supply Chain Risks](https://dev.to/soytuber/openbsd-privilege-escalation-github-ai-agent-leaks-cdn-supply-chain-risks-c16)
-- [Try out IsItCrashing.com](https://dev.to/mahmed74/try-out-isitcrashingcom-31e3)
-- [From Prompts to Pipelines: How I Use Agentic Coding as an Engineering Workflow](https://dev.to/po8rewq/from-prompts-to-pipelines-how-i-use-agentic-coding-as-an-engineering-workflow-52fh)
-- [Stop writing a test-data builder for every class in .NET](https://dev.to/jlamfers2/stop-writing-a-test-data-builder-for-every-class-in-net-4k6n)
-- [Decoding JWT: It&#39;s Not Encryption, It&#39;s a Signature](https://dev.to/tanmay_upadhyay_50802a11b/decoding-jwt-its-not-encryption-its-a-signature-2hn0)
+- [Delete Files vs Deletion Vectors in Apache Iceberg: How V3 Rewrote the Economics of Changing Data](https://dev.to/alexmercedcoder/delete-files-vs-deletion-vectors-in-apache-iceberg-how-v3-rewrote-the-economics-of-changing-data-3i2b)
+- [From Source Code to Binary: What Does GCC Actually Do? part 2](https://dev.to/ddupard/from-source-code-to-binary-what-does-gcc-actually-do-part-2-4lhp)
+- [I built BrickSlider: a modular, framework-agnostic slider with Tailwind-friendly markup](https://dev.to/malopes/i-built-brickslider-a-modular-framework-agnostic-slider-with-tailwind-friendly-markup-1g20)
+- [Catch expiring TLS certs and weak security headers in CI — with one small CLI](https://dev.to/devyjones/catch-expiring-tls-certs-and-weak-security-headers-in-ci-with-one-small-cli-3fe)
+- [The Variant Type in Apache Iceberg: How Shredding Turns Messy JSON Into Fast Analytics](https://dev.to/alexmercedcoder/the-variant-type-in-apache-iceberg-how-shredding-turns-messy-json-into-fast-analytics-5cam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
