@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI&#39;s Biggest Memory Loss Problem](https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f)
-- [TypeScript Decorators Done Right: Migrating from Legacy to the TC39 Standard](https://dev.to/jsmanifest/typescript-decorators-done-right-migrating-from-legacy-to-the-tc39-standard-182g)
-- [China&#39;s AI Chip Rebellion Has a New Name](https://dev.to/varindia/chinas-ai-chip-rebellion-has-a-new-name-4c0k)
-- [One Master Dataset, Two Consumers: Building a Governed Pipeline for BI + ML](https://dev.to/lohkahmeng/one-master-dataset-two-consumers-building-a-governed-pipeline-for-bi-ml-43i9)
-- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 7: Kill the SSH Password, and Resize EC2 the Right Way](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-7-kill-the-ssh-password-and-resize-ec2-the-right-way-2m86)
+- [Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b)
+- [Why PCB Assembly Should Start Before Your PCB Layout Is Finished](https://dev.to/yoy/why-pcb-assembly-should-start-before-your-pcb-layout-is-finished-365e)
+- [I Spent a Week Fixing the Wrong Skill &lpar;And Other Lessons from Evaluating an AI PR Reviewer&rpar;](https://dev.to/tessl/i-spent-a-week-fixing-the-wrong-skill-and-other-lessons-from-evaluating-an-ai-pr-reviewer-54d8)
+- [Wiring Designers Into Your EAS Preview Loop](https://dev.to/famitha_ma_b9c13ab1d324e/wiring-designers-into-your-eas-preview-loop-1hil)
+- [Hello World! 👋 I&#39;m Pablo, Android Dev &amp; Creator of Aura Finance](https://dev.to/pablo_vegas/hello-world-im-pablo-android-dev-creator-of-aura-finance-285i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
