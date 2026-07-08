@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Helicone was acquired by Mintlify. Here is a migration checklist if you are moving off.](https://dev.to/spanlens/helicone-was-acquired-by-mintlify-here-is-a-migration-checklist-if-you-are-moving-off-41m3)
-- [You Can&#39;t Secure What You Can&#39;t See: Shadow AI and the Inventory Problem](https://dev.to/anusha_mukka/you-cant-secure-what-you-cant-see-shadow-ai-and-the-inventory-problem-kd4)
-- [MCP Servers: The Bridge Connecting Your AI to the Real World](https://dev.to/royservillanueva/mcp-servers-the-bridge-connecting-your-ai-to-the-real-world-585g)
-- [CPU vs GPU: Why Large Language Models Need GPUs — What Really Happens After You Press Enter?](https://dev.to/utteshkumar/cpu-vs-gpu-why-large-language-models-need-gpus-what-really-happens-after-you-press-enter-2lg3)
-- [Part 1 — Container hoá app &amp; chạy trong Kubernetes local](https://dev.to/ted/part-1-container-hoa-app-chay-trong-kubernetes-local-5cpb)
+- [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI&#39;s Biggest Memory Loss Problem](https://dev.to/gde/stop-your-llms-from-forgetting-how-a-2016-string-algorithm-solves-ais-biggest-memory-loss-problem-240f)
+- [TypeScript Decorators Done Right: Migrating from Legacy to the TC39 Standard](https://dev.to/jsmanifest/typescript-decorators-done-right-migrating-from-legacy-to-the-tc39-standard-182g)
+- [China&#39;s AI Chip Rebellion Has a New Name](https://dev.to/varindia/chinas-ai-chip-rebellion-has-a-new-name-4c0k)
+- [One Master Dataset, Two Consumers: Building a Governed Pipeline for BI + ML](https://dev.to/lohkahmeng/one-master-dataset-two-consumers-building-a-governed-pipeline-for-bi-ml-43i9)
+- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 7: Kill the SSH Password, and Resize EC2 the Right Way](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-7-kill-the-ssh-password-and-resize-ec2-the-right-way-2m86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
