@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: Good Upfront Design Pays You Back Later](https://dev.to/jagostoni/agentic-ai-good-upfront-design-pays-you-back-later-1485)
-- [Nuxt In 2026: The Vue Full-Stack Framework That Deserves More Attention](https://dev.to/nazar-boyko/nuxt-in-2026-the-vue-full-stack-framework-that-deserves-more-attention-546k)
-- [Treat the Context Window Like a Budget, Not a Junk Drawer](https://dev.to/orieken/treat-the-context-window-like-a-budget-not-a-junk-drawer-5602)
-- [GEO for Developers: Get Cited by ChatGPT and Perplexity](https://dev.to/swapnoneel123/geo-for-developers-get-cited-by-chatgpt-and-perplexity-34mf)
-- [Response to &#39;gVisor vs Firecracker for AI Agent Sandboxing&#39; — what we learned auditing 8,764 MCP servers](https://dev.to/edison_flores_6d2cd381b13/response-to-gvisor-vs-firecracker-for-ai-agent-sandboxing-what-we-learned-auditing-8764-mcp-4p05)
+- [Helicone was acquired by Mintlify. Here is a migration checklist if you are moving off.](https://dev.to/spanlens/helicone-was-acquired-by-mintlify-here-is-a-migration-checklist-if-you-are-moving-off-41m3)
+- [You Can&#39;t Secure What You Can&#39;t See: Shadow AI and the Inventory Problem](https://dev.to/anusha_mukka/you-cant-secure-what-you-cant-see-shadow-ai-and-the-inventory-problem-kd4)
+- [MCP Servers: The Bridge Connecting Your AI to the Real World](https://dev.to/royservillanueva/mcp-servers-the-bridge-connecting-your-ai-to-the-real-world-585g)
+- [CPU vs GPU: Why Large Language Models Need GPUs — What Really Happens After You Press Enter?](https://dev.to/utteshkumar/cpu-vs-gpu-why-large-language-models-need-gpus-what-really-happens-after-you-press-enter-2lg3)
+- [Part 1 — Container hoá app &amp; chạy trong Kubernetes local](https://dev.to/ted/part-1-container-hoa-app-chay-trong-kubernetes-local-5cpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
