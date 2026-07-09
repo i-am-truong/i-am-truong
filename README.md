@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Webhooks Time Out for Long-Running Autonomous Agents &lpar;and the Fix&rpar;](https://dev.to/pstayet/why-webhooks-time-out-for-long-running-autonomous-agents-and-the-fix-3g2b)
-- [I thought I was building a resume builder](https://dev.to/erendhoheiri_97/i-thought-i-was-building-a-resume-builder-31og)
-- [[Boost]](https://dev.to/kahenda/-4p9i)
-- [Save yourself from drowning](https://dev.to/qamar_dev_01/save-yourself-from-drowning-4e67)
-- [Postgres in Rust: Is This The Future For Your Next.js SaaS?](https://dev.to/hanzla/postgres-in-rust-is-this-the-future-for-your-nextjs-saas-4jm5)
+- [The Mall of React, Part 2: Performance, Concurrency &amp; Testing](https://dev.to/surajrkhonde/the-mall-of-react-part-2-performance-concurrency-testing-1lj7)
+- [Building MOC-Compliant Event APIs for Saudi Arabia: QR, WhatsApp &amp; Real-Time Analytics](https://dev.to/stampiq/building-moc-compliant-event-apis-for-saudi-arabia-qr-whatsapp-real-time-analytics-3ea4)
+- [Math Duel](https://dev.to/aadit_dahiya/math-duel-hf5)
+- [Python Operators: A Complete Beginner&#39;s Guide &lpar;Arithmetic, Comparison, Logical &amp; More&rpar;](https://dev.to/sahil003/python-operators-a-complete-beginners-guide-arithmetic-comparison-logical-more-12eb)
+- [A Reproducible Result Can Still Be a Lie](https://dev.to/anp2network/a-reproducible-result-can-still-be-a-lie-4208)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
