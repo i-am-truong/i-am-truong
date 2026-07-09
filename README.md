@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Mall of React, Part 2: Performance, Concurrency &amp; Testing](https://dev.to/surajrkhonde/the-mall-of-react-part-2-performance-concurrency-testing-1lj7)
-- [Building MOC-Compliant Event APIs for Saudi Arabia: QR, WhatsApp &amp; Real-Time Analytics](https://dev.to/stampiq/building-moc-compliant-event-apis-for-saudi-arabia-qr-whatsapp-real-time-analytics-3ea4)
-- [Math Duel](https://dev.to/aadit_dahiya/math-duel-hf5)
-- [Python Operators: A Complete Beginner&#39;s Guide &lpar;Arithmetic, Comparison, Logical &amp; More&rpar;](https://dev.to/sahil003/python-operators-a-complete-beginners-guide-arithmetic-comparison-logical-more-12eb)
-- [A Reproducible Result Can Still Be a Lie](https://dev.to/anp2network/a-reproducible-result-can-still-be-a-lie-4208)
+- [State Synchronization at the Edge: Implementing Distributed Key-Value Stores for High-Volume Application Dashboards](https://dev.to/ai_expert/state-synchronization-at-the-edge-implementing-distributed-key-value-stores-for-high-volume-a5j)
+- [Kafka Consumer Lag Is the Metric Everyone Collects—and Almost Everyone Misunderstands](https://dev.to/themoah/kafka-consumer-lag-is-the-metric-everyone-collects-and-almost-everyone-misunderstands-4m8l)
+- [Cisco 350-401 ENCOR &lpar;CCNP Enterprise Core&rpar;: What&#39;s Actually Tested](https://dev.to/nerdexam/cisco-350-401-encor-ccnp-enterprise-core-whats-actually-tested-1e1h)
+- [Day 123 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-123-of-learning-mern-stack-4cbk)
+- [Building a Modular Panel-Based Management Software with React 19, TypeScript, and Dockview 5](https://dev.to/fedesw5402/building-a-modular-panel-based-management-software-with-react-19-typescript-and-dockview-5-2h1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
