@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CubeSandbox: Tencent Cloud Open-Sources an Ultra-Fast Secure Sandbox for AI Agents](https://dev.to/terminalchai/cubesandbox-tencent-cloud-open-sources-an-ultra-fast-secure-sandbox-for-ai-agents-h1c)
-- [From Optimization to Protection: Adding a Security and Governance Agent to Your Snowflake Multi-Agent Team &lpar;Part 3&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-optimization-to-protection-adding-a-security-and-governance-agent-to-your-snowflake-369f)
-- [Why I Love the Word &quot;Pivot&quot;](https://dev.to/an12s3/why-i-love-the-word-pivot-2f69)
-- [Building Picturesque AI: one studio, 50+ models, and the plumbing nobody wants to maintain](https://dev.to/picturesque_ai/building-picturesque-ai-one-studio-50-models-and-the-plumbing-nobody-wants-to-maintain-3goo)
-- [How to Create a Skill in Claude Code](https://dev.to/thryx/how-to-create-a-skill-in-claude-code-pih)
+- [3 Claude Code habits that were quietly costing me &lpar;and the fixes I actually run&rpar;](https://dev.to/jdiz00/3-claude-code-habits-that-were-quietly-costing-me-and-the-fixes-i-actually-run-1ahn)
+- [AI Agents Cheat on Pull Requests. I Mined 327 of Them to Prove It.](https://dev.to/moonrunnerkc/ai-agents-cheat-on-pull-requests-i-mined-327-of-them-to-prove-it-43ij)
+- [[Boost]](https://dev.to/anthonymax/-eg1)
+- [Guarding the till while autonomous data agents do the digging](https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi)
+- [Multi-Tenancy And The Concepts Behind It.](https://dev.to/bolaji_shittu_f5da73c3916/multi-tenancy-and-the-concepts-behind-it-2425)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
