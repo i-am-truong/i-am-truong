@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streaming LLM Responses in Django + React: The Full Implementation](https://dev.to/lycore/streaming-llm-responses-in-django-react-the-full-implementation-4881)
-- [Quantum Cryptographer: The Most Undervalued Quantum Role &lpar;50 Positions, $100K-$160K&rpar;](https://dev.to/futureisnowtech/quantum-cryptographer-the-most-undervalued-quantum-role-50-positions-100k-160k-3k4)
-- [The Quantum Jobs Boom: 7,000+ Open Roles and You&#39;re Not Applying](https://dev.to/futureisnowtech/the-quantum-jobs-boom-7000-open-roles-and-youre-not-applying-dcb)
-- [AI Application Development Overburdens DevOps Teams: Bridging the Knowledge Gap for Sustainable Operations](https://dev.to/maricode/ai-application-development-overburdens-devops-teams-bridging-the-knowledge-gap-for-sustainable-2kd0)
-- [I Built an AI That Designs MLOps Infrastructure &lpar;Without Letting AI Generate YAML&rpar;](https://dev.to/upshivam786/i-built-an-ai-that-designs-mlops-infrastructure-without-letting-ai-generate-yaml-5akh)
+- [Why Webhooks Time Out for Long-Running Autonomous Agents &lpar;and the Fix&rpar;](https://dev.to/pstayet/why-webhooks-time-out-for-long-running-autonomous-agents-and-the-fix-3g2b)
+- [I thought I was building a resume builder](https://dev.to/erendhoheiri_97/i-thought-i-was-building-a-resume-builder-31og)
+- [[Boost]](https://dev.to/kahenda/-4p9i)
+- [Save yourself from drowning](https://dev.to/qamar_dev_01/save-yourself-from-drowning-4e67)
+- [Postgres in Rust: Is This The Future For Your Next.js SaaS?](https://dev.to/hanzla/postgres-in-rust-is-this-the-future-for-your-nextjs-saas-4jm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
