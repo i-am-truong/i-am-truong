@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two pointers and sliding window in Java — the pattern that shows up everywhere...](https://dev.to/sahithi_reddygunupati_38/two-pointers-and-sliding-window-in-java-the-pattern-that-shows-up-everywhere-123o)
-- [[Boost]](https://dev.to/marianna_yskara_0cb9284d/-2imp)
-- [5 Ways Your AI Agent Will Fail &lpar;And How to Prevent Them&rpar;](https://dev.to/raju_dandigam/5-ways-your-ai-agent-will-fail-and-how-to-prevent-them-48j3)
-- [Signature Replay Attacks in Solidity: The Bug That Looks Correct](https://dev.to/pavelespitia/signature-replay-attacks-in-solidity-the-bug-that-looks-correct-5a7c)
-- [AI Agent Cannot Reach Peer on Another Cloud? Here&#39;s the Fix](https://dev.to/pstayet/ai-agent-cannot-reach-peer-on-another-cloud-heres-the-fix-30hp)
+- [Stop Using Raw WebDriver in Robot Framework](https://dev.to/weiwen-weng/stop-using-raw-webdriver-in-robot-framework-2jbd)
+- [How do I answer &quot;what did my data look like last month&quot; in Postgres?](https://dev.to/wondadav/how-do-i-answer-what-did-my-data-look-like-last-month-in-postgres-h5h)
+- [The receipt cannot be written by the pen it is checking: separation of duties for agent payments](https://dev.to/mspro3210/the-receipt-cannot-be-written-by-the-pen-it-is-checking-separation-of-duties-for-agent-payments-560d)
+- [SpaceX Unveils Grok 4.5: AI Model change Coding and Enterprise Workflows](https://dev.to/davekurian/spacex-unveils-grok-45-ai-model-change-coding-and-enterprise-workflows-5fem)
+- [Where the business actually lives](https://dev.to/mbarcia/where-is-the-business-actually-3h72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
