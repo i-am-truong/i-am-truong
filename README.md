@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Raw WebDriver in Robot Framework](https://dev.to/weiwen-weng/stop-using-raw-webdriver-in-robot-framework-2jbd)
-- [How do I answer &quot;what did my data look like last month&quot; in Postgres?](https://dev.to/wondadav/how-do-i-answer-what-did-my-data-look-like-last-month-in-postgres-h5h)
-- [The receipt cannot be written by the pen it is checking: separation of duties for agent payments](https://dev.to/mspro3210/the-receipt-cannot-be-written-by-the-pen-it-is-checking-separation-of-duties-for-agent-payments-560d)
-- [SpaceX Unveils Grok 4.5: AI Model change Coding and Enterprise Workflows](https://dev.to/davekurian/spacex-unveils-grok-45-ai-model-change-coding-and-enterprise-workflows-5fem)
-- [Where the business actually lives](https://dev.to/mbarcia/where-is-the-business-actually-3h72)
+- [KQL Self-Study Day 3](https://dev.to/lawalker/kql-self-study-day-3-221k)
+- [Polling API Rate Limit? The Agent Workaround That Actually Sticks](https://dev.to/pstayet/polling-api-rate-limit-the-agent-workaround-that-actually-sticks-4a0c)
+- [AI’s next phase is not smarter chat — it’s controlled systems](https://dev.to/sapiver_press/ais-next-phase-is-not-smarter-chat-its-controlled-systems-572m)
+- [Output is cheap now. Keep the receipts.](https://dev.to/greymothjp/output-is-cheap-now-keep-the-receipts-4gfl)
+- [From Giants to Gems: Mastering Knowledge Distillation for High-Performance Android AI](https://dev.to/programmingcentral/from-giants-to-gems-mastering-knowledge-distillation-for-high-performance-android-ai-2ioa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
