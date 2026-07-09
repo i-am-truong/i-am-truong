@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [State Synchronization at the Edge: Implementing Distributed Key-Value Stores for High-Volume Application Dashboards](https://dev.to/ai_expert/state-synchronization-at-the-edge-implementing-distributed-key-value-stores-for-high-volume-a5j)
-- [Kafka Consumer Lag Is the Metric Everyone Collects—and Almost Everyone Misunderstands](https://dev.to/themoah/kafka-consumer-lag-is-the-metric-everyone-collects-and-almost-everyone-misunderstands-4m8l)
-- [Cisco 350-401 ENCOR &lpar;CCNP Enterprise Core&rpar;: What&#39;s Actually Tested](https://dev.to/nerdexam/cisco-350-401-encor-ccnp-enterprise-core-whats-actually-tested-1e1h)
-- [Day 123 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-123-of-learning-mern-stack-4cbk)
-- [Building a Modular Panel-Based Management Software with React 19, TypeScript, and Dockview 5](https://dev.to/fedesw5402/building-a-modular-panel-based-management-software-with-react-19-typescript-and-dockview-5-2h1l)
+- [Two pointers and sliding window in Java — the pattern that shows up everywhere...](https://dev.to/sahithi_reddygunupati_38/two-pointers-and-sliding-window-in-java-the-pattern-that-shows-up-everywhere-123o)
+- [[Boost]](https://dev.to/marianna_yskara_0cb9284d/-2imp)
+- [5 Ways Your AI Agent Will Fail &lpar;And How to Prevent Them&rpar;](https://dev.to/raju_dandigam/5-ways-your-ai-agent-will-fail-and-how-to-prevent-them-48j3)
+- [Signature Replay Attacks in Solidity: The Bug That Looks Correct](https://dev.to/pavelespitia/signature-replay-attacks-in-solidity-the-bug-that-looks-correct-5a7c)
+- [AI Agent Cannot Reach Peer on Another Cloud? Here&#39;s the Fix](https://dev.to/pstayet/ai-agent-cannot-reach-peer-on-another-cloud-heres-the-fix-30hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
