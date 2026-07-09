@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KQL Self-Study Day 3](https://dev.to/lawalker/kql-self-study-day-3-221k)
-- [Polling API Rate Limit? The Agent Workaround That Actually Sticks](https://dev.to/pstayet/polling-api-rate-limit-the-agent-workaround-that-actually-sticks-4a0c)
-- [AI’s next phase is not smarter chat — it’s controlled systems](https://dev.to/sapiver_press/ais-next-phase-is-not-smarter-chat-its-controlled-systems-572m)
-- [Output is cheap now. Keep the receipts.](https://dev.to/greymothjp/output-is-cheap-now-keep-the-receipts-4gfl)
-- [From Giants to Gems: Mastering Knowledge Distillation for High-Performance Android AI](https://dev.to/programmingcentral/from-giants-to-gems-mastering-knowledge-distillation-for-high-performance-android-ai-2ioa)
+- [CubeSandbox: Tencent Cloud Open-Sources an Ultra-Fast Secure Sandbox for AI Agents](https://dev.to/terminalchai/cubesandbox-tencent-cloud-open-sources-an-ultra-fast-secure-sandbox-for-ai-agents-h1c)
+- [From Optimization to Protection: Adding a Security and Governance Agent to Your Snowflake Multi-Agent Team &lpar;Part 3&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-optimization-to-protection-adding-a-security-and-governance-agent-to-your-snowflake-369f)
+- [Why I Love the Word &quot;Pivot&quot;](https://dev.to/an12s3/why-i-love-the-word-pivot-2f69)
+- [Building Picturesque AI: one studio, 50+ models, and the plumbing nobody wants to maintain](https://dev.to/picturesque_ai/building-picturesque-ai-one-studio-50-models-and-the-plumbing-nobody-wants-to-maintain-3goo)
+- [How to Create a Skill in Claude Code](https://dev.to/thryx/how-to-create-a-skill-in-claude-code-pih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
