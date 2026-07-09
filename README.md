@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond &#39;Think Step by Step&#39;: How to Build a Reasoning Scaffold That Forces AI to Actually Think](https://dev.to/blobxiaoyao/beyond-think-step-by-step-how-to-build-a-reasoning-scaffold-that-forces-ai-to-actually-think-1p1a)
-- [OpenConnector: SaaS access for agents needs a runtime boundary, not more raw tokens](https://dev.to/euk_ela_a3e7ed01aa3f7314e/openconnector-saas-access-for-agents-needs-a-runtime-boundary-not-more-raw-tokens-k5m)
-- [[Databricks on AWS #6] How We Structure the Terraform: Terragrunt, YAML-Driven Modules, and Atlantis GitOps](https://dev.to/javaking1129/databricks-on-aws-6-how-we-structure-the-terraform-terragrunt-yaml-driven-modules-and-4959)
-- [This Week In PHP Internals | July 8, 2026](https://dev.to/projektgopher/this-week-in-php-internals-july-8-2026-100f)
-- [Server-side rendering and SEO](https://dev.to/agenyc/server-side-rendering-and-seo-2e6c)
+- [Streaming LLM Responses in Django + React: The Full Implementation](https://dev.to/lycore/streaming-llm-responses-in-django-react-the-full-implementation-4881)
+- [Quantum Cryptographer: The Most Undervalued Quantum Role &lpar;50 Positions, $100K-$160K&rpar;](https://dev.to/futureisnowtech/quantum-cryptographer-the-most-undervalued-quantum-role-50-positions-100k-160k-3k4)
+- [The Quantum Jobs Boom: 7,000+ Open Roles and You&#39;re Not Applying](https://dev.to/futureisnowtech/the-quantum-jobs-boom-7000-open-roles-and-youre-not-applying-dcb)
+- [AI Application Development Overburdens DevOps Teams: Bridging the Knowledge Gap for Sustainable Operations](https://dev.to/maricode/ai-application-development-overburdens-devops-teams-bridging-the-knowledge-gap-for-sustainable-2kd0)
+- [I Built an AI That Designs MLOps Infrastructure &lpar;Without Letting AI Generate YAML&rpar;](https://dev.to/upshivam786/i-built-an-ai-that-designs-mlops-infrastructure-without-letting-ai-generate-yaml-5akh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
