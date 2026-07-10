@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://dev.to/codenameone/more-surfaces-same-deal-cars-sensors-commerce-video-and-builds-29pg)
-- [Building a React Native SDK Inside a Super-App with 800K Daily Users](https://dev.to/beksnotfound/building-a-react-native-sdk-inside-a-super-app-with-800k-daily-users-46mm)
-- [Opus vs GPT on Real Ops, Part 2: One Drove, One Was Driven](https://dev.to/stevengonsalvez/opus-vs-gpt-on-real-ops-part-2-one-drove-one-was-driven-1i4j)
-- [War Heroes vs The Meticulous Engineer](https://dev.to/stevengonsalvez/war-heroes-vs-the-meticulous-engineer-293k)
-- [KDDI Zero-Day Supply Chain Attack: 12M ISP Email Compromise](https://dev.to/satyam_rastogi/kddi-zero-day-supply-chain-attack-12m-isp-email-compromise-4f)
+- [Beyond CRUD: building personal projects to validate architecture, cloud, and automation](https://dev.to/devdenner/beyond-crud-building-personal-projects-to-validate-architecture-cloud-and-automation-2p0g)
+- [The regression your eval set is too small to catch](https://dev.to/maya_andersson_dev/the-regression-your-eval-set-is-too-small-to-catch-2nlg)
+- [Building a Production Grade AWS Infrastructure Project &lpar;Part 2&rpar;: Containerization](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-2-containerization-pkg)
+- [How to Design an Industrial-Grade Edge Gateway &lpar;And Avoid the Rust Deadlock Trap&rpar;](https://dev.to/josh_klein/how-to-design-an-industrial-grade-edge-gateway-and-avoid-the-rust-deadlock-trap-5h3m)
+- [Docker Compose Ambiente Desenvolvimento](https://dev.to/isaias_velasquez_d2261770/docker-compose-ambiente-desenvolvimento-4blg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
