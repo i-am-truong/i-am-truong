@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m bad at discipline, so I built a tool that does it](https://dev.to/moui72/im-bad-at-discipline-so-i-built-a-tool-that-does-it-241g)
-- [Knowledge-and-Memory-Management v0.0.2: Clean Release with Portable Agent Home](https://dev.to/mage0535/knowledge-and-memory-management-v002-clean-release-with-portable-agent-home-jcg)
-- [&quot;A Fair Coin Isn&#39;t Enough: When a Perfectly Randomized Experiment Is Impossible to Analyze&quot;](https://dev.to/hexisteme/a-fair-coin-isnt-enough-when-a-perfectly-randomized-experiment-is-impossible-to-analyze-29cb)
-- [CI/CD Testing Pipelines Compared: A Real GitHub Actions Walkthrough](https://dev.to/marymar_danytzacallotico/cicd-testing-pipelines-compared-a-real-github-actions-walkthrough-26gb)
-- [The Midnight Call That Exposed a Silent Killer in a Laravel Store](https://dev.to/obrainwave/the-midnight-call-that-exposed-a-silent-killer-in-a-laravel-store-334)
+- [Best AI Agent Governance Tools in 2026: A Layer-by-Layer Guide](https://dev.to/anantdhavale1/best-ai-agent-governance-tools-in-2026-a-layer-by-layer-guide-dp3)
+- [The First Microprocessor Was the Intel 4004](https://dev.to/fluidwire/the-first-microprocessor-was-the-intel-4004-3lk1)
+- [What I learned building an AI video background changer](https://dev.to/andy_tu/what-i-learned-building-an-ai-video-background-changer-1od8)
+- [AI Agent Runtime Policy: Stop Dangerous Tool Calls Before They Execute](https://dev.to/jackm-singularity/ai-agent-runtime-policy-stop-dangerous-tool-calls-before-they-execute-4hp4)
+- [A No-Downgrade Self-Test for GLM-5.2 Coding Routes](https://dev.to/zephyrelabs369/a-no-downgrade-self-test-for-glm-52-coding-routes-bf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
