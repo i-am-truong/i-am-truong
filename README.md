@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Agent Governance Tools in 2026: A Layer-by-Layer Guide](https://dev.to/anantdhavale1/best-ai-agent-governance-tools-in-2026-a-layer-by-layer-guide-dp3)
-- [The First Microprocessor Was the Intel 4004](https://dev.to/fluidwire/the-first-microprocessor-was-the-intel-4004-3lk1)
-- [What I learned building an AI video background changer](https://dev.to/andy_tu/what-i-learned-building-an-ai-video-background-changer-1od8)
-- [AI Agent Runtime Policy: Stop Dangerous Tool Calls Before They Execute](https://dev.to/jackm-singularity/ai-agent-runtime-policy-stop-dangerous-tool-calls-before-they-execute-4hp4)
-- [A No-Downgrade Self-Test for GLM-5.2 Coding Routes](https://dev.to/zephyrelabs369/a-no-downgrade-self-test-for-glm-52-coding-routes-bf4)
+- [Ditch Grep: How I Taught My AI Assistant to Truly Understand My Code](https://dev.to/jahangir_nasirwala/ditch-grep-how-i-taught-my-ai-assistant-to-truly-understand-my-code-2jf3)
+- [RC Time Constant: The Simple Timing Formula That Can Hide Inrush and Stored Energy Problems](https://dev.to/evgeniikonkin/rc-time-constant-the-simple-timing-formula-that-can-hide-inrush-and-stored-energy-problems-21p3)
+- [My Engineering Passion: Why I built a sub-15ms proxy to stop LLM agent crashes](https://dev.to/selixes/my-engineering-passion-why-i-built-a-sub-15ms-proxy-to-stop-llm-agent-crashes-5hjg)
+- [Why Learning Platforms Need to Stop Measuring Progress Like It&#39;s 2015 — And Why PyNyx Is Taking a Different Direction](https://dev.to/pynyx_official/why-learning-platforms-need-to-stop-measuring-progress-like-its-2015-and-why-pynyx-is-taking-a-2o7h)
+- [Track Every LLM Token in Node.js with all-llm-token-tracker](https://dev.to/rajesh_kumarkanumetta_b5/track-every-llm-token-in-nodejs-with-all-llm-token-tracker-2k90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
