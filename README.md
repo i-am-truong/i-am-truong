@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM](https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j)
-- [I Built an RFP Compliance Checker in One Session — Here&#39;s the Exact Stack](https://dev.to/vystartasv/i-built-an-rfp-compliance-checker-in-one-session-heres-the-exact-stack-3kbe)
-- [Rust Borrowing Without Fear](https://dev.to/mournfulcord/rust-borrowing-without-fear-578m)
-- [Stop Guessing: Real Data Comparing Chinese and US AI Models](https://dev.to/rileykim/stop-guessing-real-data-comparing-chinese-and-us-ai-models-2nf1)
-- [Build a Live Flight Tracker on the Feather RP2350 This Weekend](https://dev.to/circuitrocks/build-a-live-flight-tracker-on-the-feather-rp2350-this-weekend-2j5f)
+- [Autonomous Quantum Computer Calibration](https://dev.to/vpodk/autonomous-quantum-computer-calibration-2p9m)
+- [Building a Cross-Platform E-commerce App with Flutter: Architecture, Challenges, and Lessons Learned](https://dev.to/muhammad_ashar_e16d975377/building-a-cross-platform-e-commerce-app-with-flutter-architecture-challenges-and-lessons-learned-8a8)
+- [Bypassing Shadow DOMs &amp; Same-Origin Iframes: How I Solved LinkedIn&#39;s Massive SDUI Update](https://dev.to/maazkhanxo/bypassing-shadow-doms-same-origin-iframes-how-i-solved-linkedins-massive-sdui-update-1lmk)
+- [A Patient Mentioned Chest Pain. The Healthcare Chatbot Said &quot;I Can&#39;t Give Medical Advice.&quot; Nothing Else.](https://dev.to/amjad_shaik_2828b1b61d731/a-patient-mentioned-chest-pain-the-healthcare-chatbot-said-i-cant-give-medical-advice-nothing-30l7)
+- [How to detect coordinated Solana launches your bundle checker misses](https://dev.to/paulf280ui/how-to-detect-coordinated-solana-launches-your-bundle-checker-misses-2c5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
