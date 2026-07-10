@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CRUD: building personal projects to validate architecture, cloud, and automation](https://dev.to/devdenner/beyond-crud-building-personal-projects-to-validate-architecture-cloud-and-automation-2p0g)
-- [The regression your eval set is too small to catch](https://dev.to/maya_andersson_dev/the-regression-your-eval-set-is-too-small-to-catch-2nlg)
-- [Building a Production Grade AWS Infrastructure Project &lpar;Part 2&rpar;: Containerization](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-2-containerization-pkg)
-- [How to Design an Industrial-Grade Edge Gateway &lpar;And Avoid the Rust Deadlock Trap&rpar;](https://dev.to/josh_klein/how-to-design-an-industrial-grade-edge-gateway-and-avoid-the-rust-deadlock-trap-5h3m)
-- [Docker Compose Ambiente Desenvolvimento](https://dev.to/isaias_velasquez_d2261770/docker-compose-ambiente-desenvolvimento-4blg)
+- [I Was Building a Social App. Then I Accidentally Built an AI Startup.](https://dev.to/mohammadsijan/i-was-building-a-social-app-then-i-accidentally-built-an-ai-startup-4clj)
+- [Stop Writing Prompt Strings: Meet PromptForge Core](https://dev.to/pranav_thawait_4c3d1f4766/stop-writing-prompt-strings-meet-promptforge-core-5h63)
+- [Your AI coding agent will happily ship a breaking API change. I built an MCP server to catch it.](https://dev.to/deepaksatyam/your-ai-coding-agent-will-happily-ship-a-breaking-api-change-i-built-an-mcp-server-to-catch-it-5dal)
+- [A Free CBT Equation Editor for Math &amp; Chemistry](https://dev.to/niza/a-free-cbt-equation-editor-for-math-chemistry-49lp)
+- [Checkout my new post about Typescript.](https://dev.to/navneet_verma/checkout-my-new-post-about-typescript-2j6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
