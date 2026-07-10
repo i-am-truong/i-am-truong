@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Was Building a Social App. Then I Accidentally Built an AI Startup.](https://dev.to/mohammadsijan/i-was-building-a-social-app-then-i-accidentally-built-an-ai-startup-4clj)
-- [Stop Writing Prompt Strings: Meet PromptForge Core](https://dev.to/pranav_thawait_4c3d1f4766/stop-writing-prompt-strings-meet-promptforge-core-5h63)
-- [Your AI coding agent will happily ship a breaking API change. I built an MCP server to catch it.](https://dev.to/deepaksatyam/your-ai-coding-agent-will-happily-ship-a-breaking-api-change-i-built-an-mcp-server-to-catch-it-5dal)
-- [A Free CBT Equation Editor for Math &amp; Chemistry](https://dev.to/niza/a-free-cbt-equation-editor-for-math-chemistry-49lp)
-- [Checkout my new post about Typescript.](https://dev.to/navneet_verma/checkout-my-new-post-about-typescript-2j6c)
+- [Breaking the Abstraction Tax: Mastering Custom C++ Operations for High-Performance Edge AI on Android](https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1)
+- [The Sword of Damocles at Work: The Human Cost of Delayed Layoffs](https://dev.to/alvaromontoro/the-sword-of-damocles-at-work-the-human-cost-of-delayed-layoffs-2gon)
+- [How to Verify Email Addresses Programmatically: SMTP, MX, and API-Based Validation Explained](https://dev.to/mailvalid/how-to-verify-email-addresses-programmatically-smtp-mx-and-api-based-validation-explained-5b3a)
+- [We built a free AI face shape detector with Claude Vision and Vercel](https://dev.to/mykola_droviannykov_d1d62/we-built-a-free-ai-face-shape-detector-with-claude-vision-and-vercel-46ea)
+- [I Caught a Dev Tool Stealing My Data — So I Built 7 Alternatives That Make Zero Network Calls](https://dev.to/srinivas_eslawath_c616049/i-caught-a-dev-tool-stealing-my-data-so-i-built-7-alternatives-that-make-zero-network-calls-24fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
