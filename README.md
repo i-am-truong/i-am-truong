@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a production-ready MCP server template so you don&#39;t have to — here&#39;s the architecture](https://dev.to/leamoreau/i-built-a-production-ready-mcp-server-template-so-you-dont-have-to-heres-the-architecture-2c6i)
-- [Better Auth Joins Vercel](https://dev.to/erfanebrahimnia/better-auth-joins-vercel-5a97)
-- [Prompting Is Dead. Long Live the Loop.](https://dev.to/rajesh_kumarkanumetta_b5/prompting-is-dead-long-live-the-loop-5cm5)
-- [How to Test Twilio Webhooks Locally](https://dev.to/anonymilyhq/how-to-test-twilio-webhooks-locally-3m46)
-- [How I Built a Cinematic AI Landing Page with GSAP, Canvas API and Next.js](https://dev.to/anas_sheikh_2/how-i-built-a-cinematic-ai-landing-page-with-gsap-canvas-api-and-nextjs-4cc3)
+- [Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack &lpar;Loki, Grafana, Tempo, Mimir&rpar;](https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm)
+- [Top 10 GEO Checker and AI Visibility Tools in 2026](https://dev.to/alifar/top-10-geo-checker-and-ai-visibility-tools-in-2026-hc0)
+- [Why Error Messages Matter More in the Age of AI](https://dev.to/aws/why-error-messages-matter-more-in-the-age-of-ai-dib)
+- [Day 128 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-128-of-learning-mern-stack-5cjd)
+- [Day 127 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-127-of-learning-mern-stack-481c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
