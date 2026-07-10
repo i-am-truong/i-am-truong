@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Abstraction Tax: Mastering Custom C++ Operations for High-Performance Edge AI on Android](https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1)
-- [The Sword of Damocles at Work: The Human Cost of Delayed Layoffs](https://dev.to/alvaromontoro/the-sword-of-damocles-at-work-the-human-cost-of-delayed-layoffs-2gon)
-- [How to Verify Email Addresses Programmatically: SMTP, MX, and API-Based Validation Explained](https://dev.to/mailvalid/how-to-verify-email-addresses-programmatically-smtp-mx-and-api-based-validation-explained-5b3a)
-- [We built a free AI face shape detector with Claude Vision and Vercel](https://dev.to/mykola_droviannykov_d1d62/we-built-a-free-ai-face-shape-detector-with-claude-vision-and-vercel-46ea)
-- [I Caught a Dev Tool Stealing My Data — So I Built 7 Alternatives That Make Zero Network Calls](https://dev.to/srinivas_eslawath_c616049/i-caught-a-dev-tool-stealing-my-data-so-i-built-7-alternatives-that-make-zero-network-calls-24fa)
+- [Weekly Dev Log 2026-W13](https://dev.to/umitomo-lab/weekly-dev-log-2026-w13-51o0)
+- [Putting &quot;Doing Nothing&quot; on Your Schedule &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/putting-doing-nothing-on-your-schedule-bite-size-article-4mac)
+- [How We Test an AI Product Without Burning Credit](https://dev.to/debs_obrien/how-we-test-an-ai-product-without-burning-credit-4c5p)
+- [From Prompt Files to Agent Skills: How I Unified My Content Automation](https://dev.to/debs_obrien/from-prompt-files-to-agent-skills-how-i-unified-my-content-automation-3h9k)
+- [I built an open-source internship tracker that polls 3,593 company career feeds](https://dev.to/shahzainsahir/i-built-an-open-source-internship-tracker-that-polls-3593-company-career-feeds-1g9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
