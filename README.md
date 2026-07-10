@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ditch Grep: How I Taught My AI Assistant to Truly Understand My Code](https://dev.to/jahangir_nasirwala/ditch-grep-how-i-taught-my-ai-assistant-to-truly-understand-my-code-2jf3)
-- [RC Time Constant: The Simple Timing Formula That Can Hide Inrush and Stored Energy Problems](https://dev.to/evgeniikonkin/rc-time-constant-the-simple-timing-formula-that-can-hide-inrush-and-stored-energy-problems-21p3)
-- [My Engineering Passion: Why I built a sub-15ms proxy to stop LLM agent crashes](https://dev.to/selixes/my-engineering-passion-why-i-built-a-sub-15ms-proxy-to-stop-llm-agent-crashes-5hjg)
-- [Why Learning Platforms Need to Stop Measuring Progress Like It&#39;s 2015 — And Why PyNyx Is Taking a Different Direction](https://dev.to/pynyx_official/why-learning-platforms-need-to-stop-measuring-progress-like-its-2015-and-why-pynyx-is-taking-a-2o7h)
-- [Track Every LLM Token in Node.js with all-llm-token-tracker](https://dev.to/rajesh_kumarkanumetta_b5/track-every-llm-token-in-nodejs-with-all-llm-token-tracker-2k90)
+- [I built a production-ready MCP server template so you don&#39;t have to — here&#39;s the architecture](https://dev.to/leamoreau/i-built-a-production-ready-mcp-server-template-so-you-dont-have-to-heres-the-architecture-2c6i)
+- [Better Auth Joins Vercel](https://dev.to/erfanebrahimnia/better-auth-joins-vercel-5a97)
+- [Prompting Is Dead. Long Live the Loop.](https://dev.to/rajesh_kumarkanumetta_b5/prompting-is-dead-long-live-the-loop-5cm5)
+- [How to Test Twilio Webhooks Locally](https://dev.to/anonymilyhq/how-to-test-twilio-webhooks-locally-3m46)
+- [How I Built a Cinematic AI Landing Page with GSAP, Canvas API and Next.js](https://dev.to/anas_sheikh_2/how-i-built-a-cinematic-ai-landing-page-with-gsap-canvas-api-and-nextjs-4cc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
