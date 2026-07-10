@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack &lpar;Loki, Grafana, Tempo, Mimir&rpar;](https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm)
-- [Top 10 GEO Checker and AI Visibility Tools in 2026](https://dev.to/alifar/top-10-geo-checker-and-ai-visibility-tools-in-2026-hc0)
-- [Why Error Messages Matter More in the Age of AI](https://dev.to/aws/why-error-messages-matter-more-in-the-age-of-ai-dib)
-- [Day 128 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-128-of-learning-mern-stack-5cjd)
-- [Day 127 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-127-of-learning-mern-stack-481c)
+- [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://dev.to/codenameone/more-surfaces-same-deal-cars-sensors-commerce-video-and-builds-29pg)
+- [Building a React Native SDK Inside a Super-App with 800K Daily Users](https://dev.to/beksnotfound/building-a-react-native-sdk-inside-a-super-app-with-800k-daily-users-46mm)
+- [Opus vs GPT on Real Ops, Part 2: One Drove, One Was Driven](https://dev.to/stevengonsalvez/opus-vs-gpt-on-real-ops-part-2-one-drove-one-was-driven-1i4j)
+- [War Heroes vs The Meticulous Engineer](https://dev.to/stevengonsalvez/war-heroes-vs-the-meticulous-engineer-293k)
+- [KDDI Zero-Day Supply Chain Attack: 12M ISP Email Compromise](https://dev.to/satyam_rastogi/kddi-zero-day-supply-chain-attack-12m-isp-email-compromise-4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
