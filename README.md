@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Dev Log 2026-W13](https://dev.to/umitomo-lab/weekly-dev-log-2026-w13-51o0)
-- [Putting &quot;Doing Nothing&quot; on Your Schedule &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/putting-doing-nothing-on-your-schedule-bite-size-article-4mac)
-- [How We Test an AI Product Without Burning Credit](https://dev.to/debs_obrien/how-we-test-an-ai-product-without-burning-credit-4c5p)
-- [From Prompt Files to Agent Skills: How I Unified My Content Automation](https://dev.to/debs_obrien/from-prompt-files-to-agent-skills-how-i-unified-my-content-automation-3h9k)
-- [I built an open-source internship tracker that polls 3,593 company career feeds](https://dev.to/shahzainsahir/i-built-an-open-source-internship-tracker-that-polls-3593-company-career-feeds-1g9e)
+- [De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM](https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j)
+- [I Built an RFP Compliance Checker in One Session — Here&#39;s the Exact Stack](https://dev.to/vystartasv/i-built-an-rfp-compliance-checker-in-one-session-heres-the-exact-stack-3kbe)
+- [Rust Borrowing Without Fear](https://dev.to/mournfulcord/rust-borrowing-without-fear-578m)
+- [Stop Guessing: Real Data Comparing Chinese and US AI Models](https://dev.to/rileykim/stop-guessing-real-data-comparing-chinese-and-us-ai-models-2nf1)
+- [Build a Live Flight Tracker on the Feather RP2350 This Weekend](https://dev.to/circuitrocks/build-a-live-flight-tracker-on-the-feather-rp2350-this-weekend-2j5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
