@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Claude Code habits that were quietly costing me &lpar;and the fixes I actually run&rpar;](https://dev.to/jdiz00/3-claude-code-habits-that-were-quietly-costing-me-and-the-fixes-i-actually-run-1ahn)
-- [AI Agents Cheat on Pull Requests. I Mined 327 of Them to Prove It.](https://dev.to/moonrunnerkc/ai-agents-cheat-on-pull-requests-i-mined-327-of-them-to-prove-it-43ij)
-- [[Boost]](https://dev.to/anthonymax/-eg1)
-- [Guarding the till while autonomous data agents do the digging](https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi)
-- [Multi-Tenancy And The Concepts Behind It.](https://dev.to/bolaji_shittu_f5da73c3916/multi-tenancy-and-the-concepts-behind-it-2425)
+- [I&#39;m bad at discipline, so I built a tool that does it](https://dev.to/moui72/im-bad-at-discipline-so-i-built-a-tool-that-does-it-241g)
+- [Knowledge-and-Memory-Management v0.0.2: Clean Release with Portable Agent Home](https://dev.to/mage0535/knowledge-and-memory-management-v002-clean-release-with-portable-agent-home-jcg)
+- [&quot;A Fair Coin Isn&#39;t Enough: When a Perfectly Randomized Experiment Is Impossible to Analyze&quot;](https://dev.to/hexisteme/a-fair-coin-isnt-enough-when-a-perfectly-randomized-experiment-is-impossible-to-analyze-29cb)
+- [CI/CD Testing Pipelines Compared: A Real GitHub Actions Walkthrough](https://dev.to/marymar_danytzacallotico/cicd-testing-pipelines-compared-a-real-github-actions-walkthrough-26gb)
+- [The Midnight Call That Exposed a Silent Killer in a Laravel Store](https://dev.to/obrainwave/the-midnight-call-that-exposed-a-silent-killer-in-a-laravel-store-334)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
