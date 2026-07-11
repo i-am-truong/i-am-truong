@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NEW DISCORD.JS BASED FRAMEWORK](https://dev.to/signor_p/new-discordjs-based-framework-3ei1)
-- [Two Hermes Bugs Worth Watching: Secret Leakage in Redaction and Silent Windows Failures](https://dev.to/terminalblog/two-hermes-bugs-worth-watching-secret-leakage-in-redaction-and-silent-windows-failures-1f0b)
-- [Codex Tightens Sandbox Enforcement for Memory Consolidation](https://dev.to/terminalblog/codex-tightens-sandbox-enforcement-for-memory-consolidation-5455)
-- [OpenClaw Adds a Claude Session Fleet and Production Cloud Workers](https://dev.to/terminalblog/openclaw-adds-a-claude-session-fleet-and-production-cloud-workers-kbc)
-- [How to Crush FAANG Coding Interviews in 3 Months: The Neo Way](https://dev.to/timevolt/how-to-crush-faang-coding-interviews-in-3-months-the-neo-way-2iag)
+- [jq in Shell Scripts: The Small Things That Trip You Up](https://dev.to/schiff_heimlich/jq-in-shell-scripts-the-small-things-that-trip-you-up-3hh2)
+- [SOLID](https://dev.to/victorlisbronzo/solid-3b5c)
+- [EL RELATOR - your life, narrated like a World Cup goal &lpar;in two languages&rpar;](https://dev.to/terrizoaguimor/el-relator-your-life-narrated-like-a-world-cup-goal-in-two-languages-9b9)
+- [oh-my-pi Just Shipped Custom Role Management in Model Hub](https://dev.to/terminalblog/oh-my-pi-just-shipped-custom-role-management-in-model-hub-44n3)
+- [Two Things Fintech Backends Get Wrong](https://dev.to/king_codex/two-things-fintech-backends-get-wrong-2e63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
