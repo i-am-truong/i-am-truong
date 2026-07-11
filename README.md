@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [THE STAND: Keep the Chant Alive!](https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb)
-- [Bidwatch - Search Live Ebay Auctions Ending Soon](https://dev.to/hacksore/bidwatch-search-live-ebay-auctions-ending-soon-1393)
-- [AWS Transform and Superwerker: same vocabulary, different problems](https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g)
-- [Coluber: A Compiled Language Designed for Clarity and Simplicity](https://dev.to/distantfar/coluber-a-compiled-language-designed-for-clarity-and-simplicity-32l7)
-- [Day 5 of 30: Message Queues and Why Not Everything Needs an Instant Response](https://dev.to/danikeya/day-5-of-30-message-queues-and-why-not-everything-needs-an-instant-response-16i4)
+- [Password Managers: 3 Key Differences for a Secure Choice](https://dev.to/merbayerp/password-managers-3-key-differences-for-a-secure-choice-46b8)
+- [Why iPhone Videos Fail as Telegram Avatars and How I Fixed It](https://dev.to/liveavabot/why-iphone-videos-fail-as-telegram-avatars-and-how-i-fixed-it-22do)
+- [Model Kombat: The LLM Fighting Game!](https://dev.to/unitbuilds_cc/model-kombat-the-llm-fighting-game-2lof)
+- [I got tired of GitHub deleting my traffic stats after 14 days, so I built a local-first alternative 🚀](https://dev.to/rakkunn/i-got-tired-of-github-deleting-my-traffic-stats-after-14-days-so-i-built-a-local-first-alternative-307h)
+- [GSoC 2026 - Week 5](https://dev.to/harkeerat24/gsoc-2026-week-5-29hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
