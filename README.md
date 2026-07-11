@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Password Managers: 3 Key Differences for a Secure Choice](https://dev.to/merbayerp/password-managers-3-key-differences-for-a-secure-choice-46b8)
-- [Why iPhone Videos Fail as Telegram Avatars and How I Fixed It](https://dev.to/liveavabot/why-iphone-videos-fail-as-telegram-avatars-and-how-i-fixed-it-22do)
-- [Model Kombat: The LLM Fighting Game!](https://dev.to/unitbuilds_cc/model-kombat-the-llm-fighting-game-2lof)
-- [I got tired of GitHub deleting my traffic stats after 14 days, so I built a local-first alternative 🚀](https://dev.to/rakkunn/i-got-tired-of-github-deleting-my-traffic-stats-after-14-days-so-i-built-a-local-first-alternative-307h)
-- [GSoC 2026 - Week 5](https://dev.to/harkeerat24/gsoc-2026-week-5-29hd)
+- [Tablas STRICT en SQLite: fin a los bugs de tipos desde la 3.37](https://dev.to/lu1tr0n/tablas-strict-en-sqlite-fin-a-los-bugs-de-tipos-desde-la-337-24m7)
+- [Stop Moving Pixels: Mastering Zero-Copy Image Processing for High-Performance Edge AI](https://dev.to/programmingcentral/stop-moving-pixels-mastering-zero-copy-image-processing-for-high-performance-edge-ai-3n46)
+- [Exploded: Break it and learn it](https://dev.to/ananth_ram_omkar/exploded-break-it-and-learn-it-4663)
+- [How to Manage Dotfiles with GNU Stow &lpar;and Rebuild Your Whole Ubuntu Server in One Command&rpar;](https://dev.to/vimukthishohanjay/how-to-manage-dotfiles-with-gnu-stow-and-rebuild-your-whole-ubuntu-server-in-one-command-42ia)
+- [No Baked-In Behavior: Why Your AI Agent&#39;s System Prompt Should Be Yours](https://dev.to/danielbilek/no-baked-in-behavior-why-your-ai-agents-system-prompt-should-be-yours-10o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
