@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it](https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7)
-- [From Art to Open Source AI](https://dev.to/massimoscognamiglio1/from-art-to-open-source-ai-3fba)
-- [Your New Prompt &#39;Feels&#39; Better. That&#39;s Not an Eval.](https://dev.to/pandeyc005/your-new-prompt-feels-better-thats-not-an-eval-3gan)
-- [Why CGO?: Build Beautiful, Pure Go Desktop Apps with Proton](https://dev.to/czax225/why-cgo-build-beautiful-pure-go-desktop-apps-with-proton-4d64)
-- [What If the Model Knows It&#39;s Being Tested?](https://dev.to/aditya_007/what-if-the-model-knows-its-being-tested-43fe)
+- [NEW DISCORD.JS BASED FRAMEWORK](https://dev.to/signor_p/new-discordjs-based-framework-3ei1)
+- [Two Hermes Bugs Worth Watching: Secret Leakage in Redaction and Silent Windows Failures](https://dev.to/terminalblog/two-hermes-bugs-worth-watching-secret-leakage-in-redaction-and-silent-windows-failures-1f0b)
+- [Codex Tightens Sandbox Enforcement for Memory Consolidation](https://dev.to/terminalblog/codex-tightens-sandbox-enforcement-for-memory-consolidation-5455)
+- [OpenClaw Adds a Claude Session Fleet and Production Cloud Workers](https://dev.to/terminalblog/openclaw-adds-a-claude-session-fleet-and-production-cloud-workers-kbc)
+- [How to Crush FAANG Coding Interviews in 3 Months: The Neo Way](https://dev.to/timevolt/how-to-crush-faang-coding-interviews-in-3-months-the-neo-way-2iag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
