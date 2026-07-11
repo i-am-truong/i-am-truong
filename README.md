@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Made a Free AI Tool That Plans Your PQQ Responses](https://dev.to/vystartasv/i-made-a-free-ai-tool-that-plans-your-pqq-responses-38h5)
-- [AI Doesn’t Replace Agile. It Makes Good Agile More Important.](https://dev.to/architech/ai-doesnt-replace-agile-it-makes-good-agile-more-important-5ed4)
-- [Football Fan Time](https://dev.to/timi-g/football-fan-time-4kg4)
-- [From API to GPU, Week 1: Understanding NVIDIA DGX Spark Environment](https://dev.to/dinesh_kumarramasamy_f6a/from-api-to-gpu-week-1-understanding-nvidia-dgx-spark-environment-1aol)
-- [MLH x DigitalOcean Hackathon: Jury Duty, Explained](https://dev.to/earlgreyhot1701d/mlh-x-digitalocean-hackathon-jury-duty-explained-1e8p)
+- [I built a file-grounded continuity system for my AI German teacher—what am I overcomplicating?](https://dev.to/nr7whfms97/i-built-a-file-grounded-continuity-system-for-my-ai-german-teacher-what-am-i-overcomplicating-i32)
+- [AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement](https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao)
+- [Stop Paying AWS Just to Test Your Code Locally](https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die)
+- [Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali](https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l)
+- [Git: The Fellowship of the Commit – Best Practices for Solo Devs and Teams](https://dev.to/timevolt/git-the-fellowship-of-the-commit-best-practices-for-solo-devs-and-teams-4o47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
