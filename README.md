@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Quantum Computer Calibration](https://dev.to/vpodk/autonomous-quantum-computer-calibration-2p9m)
-- [Building a Cross-Platform E-commerce App with Flutter: Architecture, Challenges, and Lessons Learned](https://dev.to/muhammad_ashar_e16d975377/building-a-cross-platform-e-commerce-app-with-flutter-architecture-challenges-and-lessons-learned-8a8)
-- [Bypassing Shadow DOMs &amp; Same-Origin Iframes: How I Solved LinkedIn&#39;s Massive SDUI Update](https://dev.to/maazkhanxo/bypassing-shadow-doms-same-origin-iframes-how-i-solved-linkedins-massive-sdui-update-1lmk)
-- [A Patient Mentioned Chest Pain. The Healthcare Chatbot Said &quot;I Can&#39;t Give Medical Advice.&quot; Nothing Else.](https://dev.to/amjad_shaik_2828b1b61d731/a-patient-mentioned-chest-pain-the-healthcare-chatbot-said-i-cant-give-medical-advice-nothing-30l7)
-- [How to detect coordinated Solana launches your bundle checker misses](https://dev.to/paulf280ui/how-to-detect-coordinated-solana-launches-your-bundle-checker-misses-2c5g)
+- [I couldn&#39;t find how much heat my PC puts in the room, so I built a widget](https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7)
+- [Bringing Back the Older Internet: A Website for Juma](https://dev.to/thaisavieira/bringing-back-the-older-internet-a-website-for-juma-3a88)
+- [How I Kept a Live Chat Feed Smooth at 3,700+ Messages](https://dev.to/shrutictc2/how-i-kept-a-live-chat-feed-smooth-at-3700-messages-1kf6)
+- [After the ingress-NGINX retirement, what your migration plan owes production](https://dev.to/leobaniak/after-the-ingress-nginx-retirement-what-your-migration-plan-owes-production-10de)
+- [Quantified Self 2.0: Stop Guessing Your Health History—Build a Personal Medical Vector Database](https://dev.to/beck_moulton/quantified-self-20-stop-guessing-your-health-history-build-a-personal-medical-vector-database-1ifj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
