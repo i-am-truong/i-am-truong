@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a tiny permission-checking library because our backend&#39;s permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
-- [Building a Telemetry Ingestion API for eVTOL Prototyping with FastAPI and Pydantic](https://dev.to/mohammedfayazahamed/building-a-telemetry-ingestion-api-for-evtol-prototyping-with-fastapi-and-pydantic-2l8)
-- [PowerPulse: Building a Crowd-Sourced Outage Tracker for Ghana &lpar;and Losing a Fight With My Own Stack&rpar;](https://dev.to/suzzanenhyira/powerpulse-building-a-crowd-sourced-outage-tracker-for-ghana-and-losing-a-fight-with-my-own-31kd)
-- [Designing an API Gateway: Routing, Auth, and the Filter Chain](https://dev.to/roni_das_b1b76c5ee6583027/designing-an-api-gateway-routing-auth-and-the-filter-chain-f28)
-- [Designing a Rate Limiter: Token Bucket vs Sliding Window, and Making It Distributed](https://dev.to/roni_das_b1b76c5ee6583027/designing-a-rate-limiter-token-bucket-vs-sliding-window-and-making-it-distributed-1lh5)
+- [GDPR retention and erasure for an agent mailbox](https://dev.to/mqasimca/gdpr-retention-and-erasure-for-an-agent-mailbox-1ejh)
+- [Keep your agent&#39;s mail out of spam traps](https://dev.to/mqasimca/keep-your-agents-mail-out-of-spam-traps-13d4)
+- [Every Sports App Resets Your Streak Eventually. Mine Can&#39;t. 🔒⚡](https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-58l5)
+- [Designing the data model for a trading journal](https://dev.to/rizetrade/designing-the-data-model-for-a-trading-journal-2k5e)
+- [Invisible DevTools: Why the Best Tools Disappear](https://dev.to/ao_wang_c7e69eec7b4e6fd78/invisible-devtools-why-the-best-tools-disappear-499h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
