@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adding goroutines to Python](https://dev.to/robertsdotpm/adding-goroutines-to-python-33dh)
-- [Why Owning Your AI Agent&#39;s Context Is Crucial for Production](https://dev.to/davekurian/why-owning-your-ai-agents-context-is-crucial-for-production-3338)
-- [Scraping Booking.com Without Touching the Search Box &lpar;City Landings + the Apollo Cache&rpar;](https://dev.to/jdpg23/scraping-bookingcom-without-touching-the-search-box-city-landings-the-apollo-cache-b7f)
-- [Build a Crypto PaymentOps Service for Merchants](https://dev.to/kevins1988/build-a-crypto-paymentops-service-for-merchants-3io2)
-- [10 Crypto Payment Products Developers Can Build for Merchants](https://dev.to/kevins1988/10-crypto-payment-products-developers-can-build-for-merchants-2cbj)
+- [Docker Volumes vs Bind Mounts: Where Your Data Actually Lives](https://dev.to/jjoyneriv/docker-volumes-vs-bind-mounts-where-your-data-actually-lives-1ipl)
+- [What is an API? An Explanation for Complete Beginners](https://dev.to/isaac_james_c15b893fb61c5/what-is-an-api-an-explanation-for-complete-beginners-3bdb)
+- [How to Hunt a Bug at 10 PM 🌙](https://dev.to/codemaster_121482/how-to-hunt-a-bug-at-10-pm-5gkf)
+- [Beyond AI: The Solitude of the Developer and the Search for True Human Connection](https://dev.to/bumbulik0/beyond-ai-the-solitude-of-the-developer-and-the-search-for-true-human-connection-22i3)
+- [Markdown to HTML: The Fastest Way to Convert Markdown Online](https://dev.to/mdconverthub/markdown-to-html-the-fastest-way-to-convert-markdown-online-46hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
