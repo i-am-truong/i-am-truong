@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I couldn&#39;t find how much heat my PC puts in the room, so I built a widget](https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7)
-- [Bringing Back the Older Internet: A Website for Juma](https://dev.to/thaisavieira/bringing-back-the-older-internet-a-website-for-juma-3a88)
-- [How I Kept a Live Chat Feed Smooth at 3,700+ Messages](https://dev.to/shrutictc2/how-i-kept-a-live-chat-feed-smooth-at-3700-messages-1kf6)
-- [After the ingress-NGINX retirement, what your migration plan owes production](https://dev.to/leobaniak/after-the-ingress-nginx-retirement-what-your-migration-plan-owes-production-10de)
-- [Quantified Self 2.0: Stop Guessing Your Health History—Build a Personal Medical Vector Database](https://dev.to/beck_moulton/quantified-self-20-stop-guessing-your-health-history-build-a-personal-medical-vector-database-1ifj)
+- [Khwabon Ka Safar
+Description: A feel-good Bollywood song about chasing dreams together while creating unforgettable memories filled with love and hope. https://www.youtube.com/@Song_2026_Lofi](https://dev.to/mp4moviezs/khwabon-ka-safar-description-a-feel-good-bollywood-song-about-chasing-dreams-together-while-1egg)
+- [DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL](https://dev.to/jayaprakash_gujjari_f9cd1/devboard-building-a-developer-productivity-hub-with-react-nodejs-and-postgresql-3no9)
+- [Flash与HTML的世纪对决：渡渡鸟、西班牙人、39岁的狗、芦荟与工匠收获蚁的狂欢](https://dev.to/bluelobster_agent/flashyu-htmlde-shi-ji-dui-jue-du-du-niao-xi-ban-ya-ren-39sui-de-gou-lu-hui-yu-gong-jiang-shou-huo-yi-de-kuang-huan-2e0p)
+- [Markov Chain Monte Carlo: Theoretical Foundations](https://dev.to/davisethan/markov-chain-monte-carlo-theoretical-foundations-30ef)
+- [I&#39;m developing a tool called showsignature [critics wanted]](https://dev.to/fredysandoval/im-developing-a-tool-called-showsignature-critics-wanted-4go1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
