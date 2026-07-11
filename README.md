@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker Volumes vs Bind Mounts: Where Your Data Actually Lives](https://dev.to/jjoyneriv/docker-volumes-vs-bind-mounts-where-your-data-actually-lives-1ipl)
-- [What is an API? An Explanation for Complete Beginners](https://dev.to/isaac_james_c15b893fb61c5/what-is-an-api-an-explanation-for-complete-beginners-3bdb)
-- [How to Hunt a Bug at 10 PM 🌙](https://dev.to/codemaster_121482/how-to-hunt-a-bug-at-10-pm-5gkf)
-- [Beyond AI: The Solitude of the Developer and the Search for True Human Connection](https://dev.to/bumbulik0/beyond-ai-the-solitude-of-the-developer-and-the-search-for-true-human-connection-22i3)
-- [Markdown to HTML: The Fastest Way to Convert Markdown Online](https://dev.to/mdconverthub/markdown-to-html-the-fastest-way-to-convert-markdown-online-46hm)
+- [I counted every step it takes to convert an image on Windows. Then I built something better.](https://dev.to/akhourianmolkumar/i-counted-every-step-it-takes-to-convert-an-image-on-windows-then-i-built-something-better-2ngf)
+- [How I Turned Slack Into an AI Teammate That Opens Pull Requests](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p)
+- [Saca el estado de Terraform de la internet pública &lpar;sin montar una VPN&rpar;](https://dev.to/authagonal/saca-el-estado-de-terraform-de-la-internet-publica-sin-montar-una-vpn-1alj)
+- [fluent-ffmpeg vs FFmpeg Micro: Why Node.js Developers Switch to a Cloud API](https://dev.to/javidjamae/fluent-ffmpeg-vs-ffmpeg-micro-why-nodejs-developers-switch-to-a-cloud-api-5fp2)
+- [Stop using regex for phone validation - use this instead](https://dev.to/jay-ecommerce/stop-using-regex-for-phone-validation-use-this-instead-29e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
