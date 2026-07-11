@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GDPR retention and erasure for an agent mailbox](https://dev.to/mqasimca/gdpr-retention-and-erasure-for-an-agent-mailbox-1ejh)
-- [Keep your agent&#39;s mail out of spam traps](https://dev.to/mqasimca/keep-your-agents-mail-out-of-spam-traps-13d4)
-- [Every Sports App Resets Your Streak Eventually. Mine Can&#39;t. 🔒⚡](https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-58l5)
-- [Designing the data model for a trading journal](https://dev.to/rizetrade/designing-the-data-model-for-a-trading-journal-2k5e)
-- [Invisible DevTools: Why the Best Tools Disappear](https://dev.to/ao_wang_c7e69eec7b4e6fd78/invisible-devtools-why-the-best-tools-disappear-499h)
+- [Code Challenge of the Day — Evaluate reverse Polish &lpar;medium&rpar;](https://dev.to/iwtlp/code-challenge-of-the-day-evaluate-reverse-polish-medium-22p4)
+- [The bootstrap, confidence intervals without the formula](https://dev.to/iwtlp/the-bootstrap-confidence-intervals-without-the-formula-hok)
+- [Testes de arquitetura como guardrail pra IA](https://dev.to/alessandro_nunes_b69ee77a/testes-de-arquitetura-como-guardrail-pra-ia-25ef)
+- [How Cursor, Claude Code, and Codex actually load your project rules &lpar;and why yours get ignored&rpar;](https://dev.to/rulestack/how-cursor-claude-code-and-codex-actually-load-your-project-rules-and-why-yours-get-ignored-1l1j)
+- [How to Run an AWS Well-Architected Review: The 6 Pillars and Common Findings](https://dev.to/instadevops/how-to-run-an-aws-well-architected-review-the-6-pillars-and-common-findings-3p15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
