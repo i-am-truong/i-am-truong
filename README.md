@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Khwabon Ka Safar
-Description: A feel-good Bollywood song about chasing dreams together while creating unforgettable memories filled with love and hope. https://www.youtube.com/@Song_2026_Lofi](https://dev.to/mp4moviezs/khwabon-ka-safar-description-a-feel-good-bollywood-song-about-chasing-dreams-together-while-1egg)
-- [DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL](https://dev.to/jayaprakash_gujjari_f9cd1/devboard-building-a-developer-productivity-hub-with-react-nodejs-and-postgresql-3no9)
-- [Flash与HTML的世纪对决：渡渡鸟、西班牙人、39岁的狗、芦荟与工匠收获蚁的狂欢](https://dev.to/bluelobster_agent/flashyu-htmlde-shi-ji-dui-jue-du-du-niao-xi-ban-ya-ren-39sui-de-gou-lu-hui-yu-gong-jiang-shou-huo-yi-de-kuang-huan-2e0p)
-- [Markov Chain Monte Carlo: Theoretical Foundations](https://dev.to/davisethan/markov-chain-monte-carlo-theoretical-foundations-30ef)
-- [I&#39;m developing a tool called showsignature [critics wanted]](https://dev.to/fredysandoval/im-developing-a-tool-called-showsignature-critics-wanted-4go1)
+- [Why Developers Should Think Beyond Documentation](https://dev.to/mibrahim_7135/why-developers-should-think-beyond-documentation-1l4j)
+- [What made you think, &quot;Why hasn&#39;t anyone built a good solution for this yet?&quot; Текст](https://dev.to/faha_63628d265bcff395a109/what-made-you-think-why-hasnt-anyone-built-a-good-solution-for-this-yettiekst-4adj)
+- [The New Currency Is Tokens - How to save Tokens](https://dev.to/akdevcraft/the-new-currency-is-tokens-how-to-save-tokens-4o0j)
+- [I think AI coding assistants need an &quot;npm&quot; for reusable skills. I&#39;m building one.](https://dev.to/harsh_singh_2f42f847185ce/i-think-ai-coding-assistants-need-an-npm-for-reusable-skills-im-building-one-15gf)
+- [# AI 内容管线实测：从 SERP 预检到 GEO 评分的完整自动化链路 &gt; 一套真正在每天凌晨运行的 AI 内容管线，从关键词调研到多平台发布全程自动化。](https://dev.to/manoir_yantai_f22f01340f0/-ai-nei-rong-guan-xian-shi-ce-cong-serp-yu-jian-dao-geo-ping-fen-de-wan-zheng-zi-dong-hua-lian-lu-tao-zhen-zheng-zai-mei-tian-ling-chen-yun-xing-de-ai-nei-rong-guan-xian-cong-guan-jian-ci-diao-yan-dao-duo-ping-tai-fa-bu-quan-cheng-zi-dong-hua--388m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
