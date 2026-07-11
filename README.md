@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tablas STRICT en SQLite: fin a los bugs de tipos desde la 3.37](https://dev.to/lu1tr0n/tablas-strict-en-sqlite-fin-a-los-bugs-de-tipos-desde-la-337-24m7)
-- [Stop Moving Pixels: Mastering Zero-Copy Image Processing for High-Performance Edge AI](https://dev.to/programmingcentral/stop-moving-pixels-mastering-zero-copy-image-processing-for-high-performance-edge-ai-3n46)
-- [Exploded: Break it and learn it](https://dev.to/ananth_ram_omkar/exploded-break-it-and-learn-it-4663)
-- [How to Manage Dotfiles with GNU Stow &lpar;and Rebuild Your Whole Ubuntu Server in One Command&rpar;](https://dev.to/vimukthishohanjay/how-to-manage-dotfiles-with-gnu-stow-and-rebuild-your-whole-ubuntu-server-in-one-command-42ia)
-- [No Baked-In Behavior: Why Your AI Agent&#39;s System Prompt Should Be Yours](https://dev.to/danielbilek/no-baked-in-behavior-why-your-ai-agents-system-prompt-should-be-yours-10o2)
+- [I Made a Free AI Tool That Plans Your PQQ Responses](https://dev.to/vystartasv/i-made-a-free-ai-tool-that-plans-your-pqq-responses-38h5)
+- [AI Doesn’t Replace Agile. It Makes Good Agile More Important.](https://dev.to/architech/ai-doesnt-replace-agile-it-makes-good-agile-more-important-5ed4)
+- [Football Fan Time](https://dev.to/timi-g/football-fan-time-4kg4)
+- [From API to GPU, Week 1: Understanding NVIDIA DGX Spark Environment](https://dev.to/dinesh_kumarramasamy_f6a/from-api-to-gpu-week-1-understanding-nvidia-dgx-spark-environment-1aol)
+- [MLH x DigitalOcean Hackathon: Jury Duty, Explained](https://dev.to/earlgreyhot1701d/mlh-x-digitalocean-hackathon-jury-duty-explained-1e8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
