@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [jq in Shell Scripts: The Small Things That Trip You Up](https://dev.to/schiff_heimlich/jq-in-shell-scripts-the-small-things-that-trip-you-up-3hh2)
-- [SOLID](https://dev.to/victorlisbronzo/solid-3b5c)
-- [EL RELATOR - your life, narrated like a World Cup goal &lpar;in two languages&rpar;](https://dev.to/terrizoaguimor/el-relator-your-life-narrated-like-a-world-cup-goal-in-two-languages-9b9)
-- [oh-my-pi Just Shipped Custom Role Management in Model Hub](https://dev.to/terminalblog/oh-my-pi-just-shipped-custom-role-management-in-model-hub-44n3)
-- [Two Things Fintech Backends Get Wrong](https://dev.to/king_codex/two-things-fintech-backends-get-wrong-2e63)
+- [THE STAND: Keep the Chant Alive!](https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb)
+- [Bidwatch - Search Live Ebay Auctions Ending Soon](https://dev.to/hacksore/bidwatch-search-live-ebay-auctions-ending-soon-1393)
+- [AWS Transform and Superwerker: same vocabulary, different problems](https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g)
+- [Coluber: A Compiled Language Designed for Clarity and Simplicity](https://dev.to/distantfar/coluber-a-compiled-language-designed-for-clarity-and-simplicity-32l7)
+- [Day 5 of 30: Message Queues and Why Not Everything Needs an Instant Response](https://dev.to/danikeya/day-5-of-30-message-queues-and-why-not-everything-needs-an-instant-response-16i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
