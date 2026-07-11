@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Challenge of the Day — Evaluate reverse Polish &lpar;medium&rpar;](https://dev.to/iwtlp/code-challenge-of-the-day-evaluate-reverse-polish-medium-22p4)
-- [The bootstrap, confidence intervals without the formula](https://dev.to/iwtlp/the-bootstrap-confidence-intervals-without-the-formula-hok)
-- [Testes de arquitetura como guardrail pra IA](https://dev.to/alessandro_nunes_b69ee77a/testes-de-arquitetura-como-guardrail-pra-ia-25ef)
-- [How Cursor, Claude Code, and Codex actually load your project rules &lpar;and why yours get ignored&rpar;](https://dev.to/rulestack/how-cursor-claude-code-and-codex-actually-load-your-project-rules-and-why-yours-get-ignored-1l1j)
-- [How to Run an AWS Well-Architected Review: The 6 Pillars and Common Findings](https://dev.to/instadevops/how-to-run-an-aws-well-architected-review-the-6-pillars-and-common-findings-3p15)
+- [Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it](https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7)
+- [From Art to Open Source AI](https://dev.to/massimoscognamiglio1/from-art-to-open-source-ai-3fba)
+- [Your New Prompt &#39;Feels&#39; Better. That&#39;s Not an Eval.](https://dev.to/pandeyc005/your-new-prompt-feels-better-thats-not-an-eval-3gan)
+- [Why CGO?: Build Beautiful, Pure Go Desktop Apps with Proton](https://dev.to/czax225/why-cgo-build-beautiful-pure-go-desktop-apps-with-proton-4d64)
+- [What If the Model Knows It&#39;s Being Tested?](https://dev.to/aditya_007/what-if-the-model-knows-its-being-tested-43fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
