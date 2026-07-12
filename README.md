@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Train and Use a Custom LoRA Without Setting Up a Local GPU](https://dev.to/defi_allin_87c8221187c486/how-to-train-and-use-a-custom-lora-without-setting-up-a-local-gpu-3j85)
-- [Egregor: Local Multi-AI Consilium for Comprehensive Smart Contract and Code Audits](https://dev.to/vladislavshter/egregor-local-multi-ai-consilium-for-comprehensive-smart-contract-and-code-audits-35d)
-- [Stripe to Mollie Migration: What Actually Breaks](https://dev.to/iurii_rogulia/stripe-to-mollie-migration-what-actually-breaks-28j6)
-- [Tenant Screening SaaS: Bank Statement Fraud Detection](https://dev.to/iurii_rogulia/tenant-screening-saas-bank-statement-fraud-detection-342h)
-- [Adding RPM Packaging for CentOS 9 in Heka Insights](https://dev.to/munirfarhan/adding-rpm-packaging-for-centos-9-in-heka-insights-3cj3)
+- [Email-to-Case in Service Cloud: setup and the templates that scale](https://dev.to/sapotacorp/email-to-case-in-service-cloud-setup-and-the-templates-that-scale-4n31)
+- [The Slack Events API: Subscriptions and Event Handlers](https://dev.to/sapotacorp/the-slack-events-api-subscriptions-and-event-handlers-2i61)
+- [Slack Bot Token vs User Token Scopes: Least Privilege in Practice](https://dev.to/sapotacorp/slack-bot-token-vs-user-token-scopes-least-privilege-in-practice-gj4)
+- [Building Custom Page Designer Components in B2C Commerce](https://dev.to/sapotacorp/building-custom-page-designer-components-in-b2c-commerce-23he)
+- [Created a web OS that runs 100% in the browser with an AI kernel, no backend, zero install](https://dev.to/my_god_4ca6d407c2a1fb6cca/created-a-web-os-that-runs-100-in-the-browser-with-an-ai-kernel-no-backend-zero-install-1aoh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
