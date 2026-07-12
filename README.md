@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Passion Edition](https://dev.to/hillcity/passion-edition-3coe)
-- [I built my first Robinhood Chain app as an index basket](https://dev.to/arbitrum/i-built-my-first-robinhood-chain-app-as-an-index-basket-20li)
-- [My Journey to Become a Better Backend Engineer](https://dev.to/hayanj/my-journey-to-become-a-better-backend-engineer-1-4lnk)
-- [skip에서 partition overwrite로: business_date 재처리를 Iceberg로 다시 표현하기](https://dev.to/junhyun-dev/skipeseo-partition-overwritero-businessdate-jaeceorireul-icebergro-dasi-pyohyeonhagi-194i)
-- [wide CSV 여러 개를 EAV로 모아 gold mart 만들기](https://dev.to/junhyun-dev/wide-csv-yeoreo-gaereul-eavro-moa-gold-mart-mandeulgi-4799)
+- [World Cup Rivalry Bot — AI-Voiced Hype for Every Goal](https://dev.to/gbolaww/world-cup-rivalry-bot-ai-voiced-hype-for-every-goal-2l71)
+- [BroncoCTF : Negative Bread Writeup](https://dev.to/exploitnotes/broncoctf-negative-bread-writeup-chj)
+- [Documenting My Journey Through Computer Science, Software Development, and Problem Solving](https://dev.to/ap_09/documenting-my-journey-through-computer-science-software-development-and-problem-solving-3297)
+- [&lpar;Spanish&rpar;📝 Caso de Estudio: Si Presto! — De cuadernos de notas a una arquitectura Offline-First en Flutter](https://dev.to/aomalejandrodev/caso-de-estudio-si-presto-de-cuadernos-de-notas-a-una-arquitectura-offline-first-en-flutter-32bb)
+- [BronoCTF : LEts a GO Writeup](https://dev.to/exploitnotes/bronoctf-lets-a-go-writeup-3hal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
