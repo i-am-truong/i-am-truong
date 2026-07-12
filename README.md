@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Taught a Snowflake Warehouse to Judge World Cup Conviction and Write the Verdict Back to Solana](https://dev.to/soumyadeepdey/we-taught-a-snowflake-warehouse-to-judge-world-cup-conviction-and-write-the-verdict-back-to-solana-305i)
-- [BroncoCTF: Lovely Login](https://dev.to/exploitnotes/broncoctf-lovely-login-j2o)
-- [STL in C++: The Toolbox Every DSA Learner Needs](https://dev.to/nikita_maharana_879884df2/c-stl-explained-for-beginners-5d0a)
-- [Secure BLE OTA Firmware Updates on nRF5340: Architecture Notes](https://dev.to/pezzullo/secure-ble-ota-firmware-updates-on-nrf5340-architecture-notes-1efo)
-- [How I Finally Stopped Switching Between Ten Different Apps](https://dev.to/wowinter15/how-i-finally-stopped-switching-between-ten-different-apps-28g3)
+- [I Built a Simple RAG App with LangChain, OpenAI, and Pinecone](https://dev.to/officialbidisha/i-built-a-simple-rag-app-with-langchain-openai-and-pinecone-j73)
+- [The fraud that pays in full](https://dev.to/gbadedata/the-fraud-that-pays-in-full-20b)
+- [Debugging a Legacy CRA + Django Deployment Pipeline: A DevOps Postmortem](https://dev.to/saint_vandora/debugging-a-legacy-cra-django-deployment-pipeline-a-devops-postmortem-2epd)
+- [I Built An AI That Roasts Me. It Hurt.](https://dev.to/nandan_das_369/i-built-an-ai-that-roasts-me-it-hurt-381f)
+- [Claude Code Multi-Agent Coordination: Build AI Teams That Ship &lpar;2026&rpar;](https://dev.to/akaranjkar08/claude-code-multi-agent-coordination-build-ai-teams-that-ship-2026-16b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
