@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EnzyOrchestra v0.1.0: validación cross-generador para diseño de enzimas de novo](https://dev.to/magopredator/enzyorchestra-v010-validacion-cross-generador-para-diseno-de-enzimas-de-novo-4a4a)
-- [Passion Jar Solana — Turning Small Actions into Devnet Proof](https://dev.to/zoe_lin_0653/passion-jar-solana-turning-small-actions-into-devnet-proof-6e6)
-- [What is going on?](https://dev.to/micaavigliano/what-is-going-on-fho)
-- [The 16.67ms Race: Mastering Real-Time 60 FPS Video Segmentation on Android](https://dev.to/programmingcentral/the-1667ms-race-mastering-real-time-60-fps-video-segmentation-on-android-1d75)
-- [One More Year -&gt; The Documentary I Never Filmed](https://dev.to/mirshah12/one-more-year-the-documentary-i-never-filmed-1phb)
+- [Your uptime SLA means nothing when the physical process can&#39;t wait for your rollback](https://dev.to/mariusgjerd/your-uptime-sla-means-nothing-when-the-physical-process-cant-wait-for-your-rollback-12i2)
+- [Why this blog exists](https://dev.to/mariusgjerd/why-this-blog-exists-47dc)
+- [CodeForge AI — Turning Passion for Programming into a Smarter Learning Journey.](https://dev.to/sunnyspencer/codeforge-ai-turning-passion-for-programming-into-a-smarter-learning-journey-38nh)
+- [I Read Too Much and Forgot Everything So I Built a Tool That Turns My Annotations Into Something I&#39;ll Actually Reread.](https://dev.to/dynn_f/i-read-too-much-and-forgot-everything-so-i-built-a-tool-that-turns-my-highlights-into-something-2d5k)
+- [How I Shipped 91+ Privacy-First Utilities with $0 Server Cost: The Architecture of OmniUtil.pro](https://dev.to/mmrobiulislam/how-i-shipped-91-privacy-first-utilities-with-0-server-cost-the-architecture-of-omniutilpro-41j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
