@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
-- [🧩 Runtime Snapshots #19 - We Opened the Format.](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-19-we-opened-the-format-4759)
-- [What eight years of freelancing taught me about pricing](https://dev.to/stevensnell/what-eight-years-of-freelancing-taught-me-about-pricing-5oi)
-- [Heirloom AI - Preserve family memory](https://dev.to/guo_x_36a154b5e3620014fc8/heirloom-ai-preserve-family-memory-46m3)
-- [DORA Metrics Measure Delivery Health. What Measures Security Posture Health?](https://dev.to/bala_paranj_059d338e44e7e/dora-metrics-measure-delivery-health-what-measures-security-posture-health-34c7)
+- [PassionProof — A Soulbound NFT for Consistent Open Source Contribution](https://dev.to/lymah/passionproof-a-soulbound-nft-for-consistent-open-source-contribution-667)
+- [Day 74/100 - Cross-Datacenter Replication in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-74100-cross-datacenter-replication-in-clickhouser-2kh1)
+- [What Your AI Coding Agent Looks Like to a SIEM](https://dev.to/lainagent_ai/what-your-ai-coding-agent-looks-like-to-a-siem-5c64)
+- [Anatomy of a Full RAG Application: Every Concept, One Self-Hosted Stack](https://dev.to/sumanpro/i-built-a-production-grade-rag-application-from-scratch-heres-every-concept-that-goes-into-one-3a22)
+- [Observability as Code: Managing Dashboards and Alerts with Terraform](https://dev.to/samson_tanimawo/observability-as-code-managing-dashboards-and-alerts-with-terraform-4p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
