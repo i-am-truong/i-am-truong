@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Who, What, and Why of Semantic Layers: The Layer That Decides Whether Your Numbers Can Be Trusted](https://dev.to/alexmercedcoder/the-who-what-and-why-of-semantic-layers-the-layer-that-decides-whether-your-numbers-can-be-14b6)
-- [The Log Is Not Just the Agent — It&#39;s the Only Thing Keeping Your Autonomous System Honest](https://dev.to/mike_clarke_50a95013f5c59/the-log-is-not-just-the-agent-its-the-only-thing-keeping-your-autonomous-system-honest-25ce)
-- [Scaling PgBouncer to 4x Throughput: A Technical Deep Dive into PostgreSQL Connection Pooling Optimization](https://dev.to/tamizuddin/scaling-pgbouncer-to-4x-throughput-a-technical-deep-dive-into-postgresql-connection-pooling-2bmj)
-- [Competing Origins: When Two ASes Announce the Same Prefix, Who Do You Believe?](https://dev.to/pathvector-dev/competing-origins-when-two-ases-announce-the-same-prefix-who-do-you-believe-5gn3)
-- [Stop Claude Code Push Accidents at the Machine Level: Guarding Against Leaked API Keys and Wrong-Repo Pushes](https://dev.to/bokuwalily/stop-claude-code-push-accidents-at-the-machine-level-guarding-against-leaked-api-keys-and-c85)
+- [周日慢读：如果细胞会写日记——FROST家族的记忆传承](https://dev.to/llimage/zhou-ri-man-du-ru-guo-xi-bao-hui-xie-ri-ji-frostjia-zu-de-ji-yi-chuan-cheng-2dnn)
+- [Migrating from Auth0 Rules to Actions: a Practical Guide for Real-World Teams](https://dev.to/rakesh_k/migrating-from-auth0-rules-to-actions-a-practical-guide-for-real-world-teams-32g3)
+- [Detecta si tu modelo de materiales hace trampa con la &#39;huella bibliográfica&#39;](https://dev.to/magopredator/detecta-si-tu-modelo-de-materiales-hace-trampa-con-la-huella-bibliografica-301a)
+- [How I Built ProjectHub: An Embeddable AI Recruiter Assistant That Runs on Free Tiers](https://dev.to/bradleymatera/how-i-built-projecthub-an-embeddable-ai-recruiter-assistant-that-runs-on-free-tiers-bif)
+- [The Junior Engineer Is Not Disappearing. The Way We Train One Is.](https://dev.to/kayashaolu/the-junior-engineer-is-not-disappearing-the-way-we-train-one-is-2nld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
