@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generate TypeScript Types from JSON &lpar;and where the auto-generators trip up&rpar;](https://dev.to/jsonviewertool/generate-typescript-types-from-json-and-where-the-auto-generators-trip-up-4pl0)
-- [Hello DEV! 👋 | Exploring the World of App Development 📱](https://dev.to/shuvo_roy_efe04a471aaf176/hello-dev-exploring-the-world-of-app-development-3jj6)
-- [Distributed AI in Action: Deploying and Optimizing Mesh LLM on iroh for Scalable Machine Learning](https://dev.to/tamizuddin/distributed-ai-in-action-deploying-and-optimizing-mesh-llm-on-iroh-for-scalable-machine-learning-mb9)
-- [TypeScript 7.0 Is Here: The Compiler Is Much Faster](https://dev.to/jatniel/typescript-70-is-here-the-compiler-is-much-faster-30n)
-- [I got tired of paying $139/month for SEO data that costs $4 wholesale, so I built my own](https://dev.to/testedmedia/i-got-tired-of-paying-139month-for-seo-data-that-costs-4-wholesale-so-i-built-my-own-2jbl)
+- [Run Tokens Make Email CI Less Fragile](https://dev.to/mrdapperx/run-tokens-make-email-ci-less-fragile-4fkp)
+- [Can AI Make Carbon Credits More Trustworthy? I Tried Building an Answer with Gemini 🌍](https://dev.to/sreejit_/can-ai-make-carbon-credits-more-trustworthy-i-tried-building-an-answer-with-gemini-3njd)
+- [How I Stopped Writing JSON-LD by Hand](https://dev.to/seogeotech/how-i-stopped-writing-json-ld-by-hand-36cl)
+- [Making an email API agent-native: llms.txt, a /api/me endpoint, and a zero-DNS sandbox sender](https://dev.to/spruikco/making-an-email-api-agent-native-llmstxt-a-apime-endpoint-and-a-zero-dns-sandbox-sender-446)
+- [The ISO 27001 controls that actually matter when you connect two systems](https://dev.to/srcanton/the-iso-27001-controls-that-actually-matter-when-you-connect-two-systems-4hon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
