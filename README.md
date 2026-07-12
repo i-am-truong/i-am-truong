@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Email-to-Case in Service Cloud: setup and the templates that scale](https://dev.to/sapotacorp/email-to-case-in-service-cloud-setup-and-the-templates-that-scale-4n31)
-- [The Slack Events API: Subscriptions and Event Handlers](https://dev.to/sapotacorp/the-slack-events-api-subscriptions-and-event-handlers-2i61)
-- [Slack Bot Token vs User Token Scopes: Least Privilege in Practice](https://dev.to/sapotacorp/slack-bot-token-vs-user-token-scopes-least-privilege-in-practice-gj4)
-- [Building Custom Page Designer Components in B2C Commerce](https://dev.to/sapotacorp/building-custom-page-designer-components-in-b2c-commerce-23he)
-- [Created a web OS that runs 100% in the browser with an AI kernel, no backend, zero install](https://dev.to/my_god_4ca6d407c2a1fb6cca/created-a-web-os-that-runs-100-in-the-browser-with-an-ai-kernel-no-backend-zero-install-1aoh)
+- [I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
+- [🧩 Runtime Snapshots #19 - We Opened the Format.](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-19-we-opened-the-format-4759)
+- [What eight years of freelancing taught me about pricing](https://dev.to/stevensnell/what-eight-years-of-freelancing-taught-me-about-pricing-5oi)
+- [Heirloom AI - Preserve family memory](https://dev.to/guo_x_36a154b5e3620014fc8/heirloom-ai-preserve-family-memory-46m3)
+- [DORA Metrics Measure Delivery Health. What Measures Security Posture Health?](https://dev.to/bala_paranj_059d338e44e7e/dora-metrics-measure-delivery-health-what-measures-security-posture-health-34c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
