@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NIS2 e le PMI: chi è obbligato davvero, e la parte software che ti chiederà il cliente](https://dev.to/custralis/nis2-e-le-pmi-chi-e-obbligato-davvero-e-la-parte-software-che-ti-chiedera-il-cliente-46fd)
-- [A Backend Engineer&#39;s Field Notes on Cheap AI APIs in 2026](https://dev.to/truelane/a-backend-engineers-field-notes-on-cheap-ai-apis-in-2026-1pop)
-- [Day 15: My AI agent just completed its first multi-app task. It copied my bank balance from my banking app and sent it to Mom on WhatsApp. Two apps. One task. Fully autonomous. Task memory is the key.
-
-👉 github.com/Dexter2344/phone-agent](https://dev.to/okeke_chukwudubem_5f3bf49/day-15-my-ai-agent-just-completed-its-first-multi-app-task-it-copied-my-bank-balance-from-my-4eid)
-- [Project Log #15: My AI Agent Just Completed Its First Multi-App Task](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-15-my-ai-agent-just-completed-its-first-multi-app-task-38n7)
-- [We Analyzed 89 Dead Lifetime Deals. 1 in 8 Died While the Company Was Still Alive.](https://dev.to/dominique_abbey_b2a2f35ee/we-analyzed-89-dead-lifetime-deals-1-in-8-died-while-the-company-was-still-alive-6pe)
+- [The Who, What, and Why of Semantic Layers: The Layer That Decides Whether Your Numbers Can Be Trusted](https://dev.to/alexmercedcoder/the-who-what-and-why-of-semantic-layers-the-layer-that-decides-whether-your-numbers-can-be-14b6)
+- [The Log Is Not Just the Agent — It&#39;s the Only Thing Keeping Your Autonomous System Honest](https://dev.to/mike_clarke_50a95013f5c59/the-log-is-not-just-the-agent-its-the-only-thing-keeping-your-autonomous-system-honest-25ce)
+- [Scaling PgBouncer to 4x Throughput: A Technical Deep Dive into PostgreSQL Connection Pooling Optimization](https://dev.to/tamizuddin/scaling-pgbouncer-to-4x-throughput-a-technical-deep-dive-into-postgresql-connection-pooling-2bmj)
+- [Competing Origins: When Two ASes Announce the Same Prefix, Who Do You Believe?](https://dev.to/pathvector-dev/competing-origins-when-two-ases-announce-the-same-prefix-who-do-you-believe-5gn3)
+- [Stop Claude Code Push Accidents at the Machine Level: Guarding Against Leaked API Keys and Wrong-Repo Pushes](https://dev.to/bokuwalily/stop-claude-code-push-accidents-at-the-machine-level-guarding-against-leaked-api-keys-and-c85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
