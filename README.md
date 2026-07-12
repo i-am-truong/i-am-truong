@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [World Cup Rivalry Bot — AI-Voiced Hype for Every Goal](https://dev.to/gbolaww/world-cup-rivalry-bot-ai-voiced-hype-for-every-goal-2l71)
-- [BroncoCTF : Negative Bread Writeup](https://dev.to/exploitnotes/broncoctf-negative-bread-writeup-chj)
-- [Documenting My Journey Through Computer Science, Software Development, and Problem Solving](https://dev.to/ap_09/documenting-my-journey-through-computer-science-software-development-and-problem-solving-3297)
-- [&lpar;Spanish&rpar;📝 Caso de Estudio: Si Presto! — De cuadernos de notas a una arquitectura Offline-First en Flutter](https://dev.to/aomalejandrodev/caso-de-estudio-si-presto-de-cuadernos-de-notas-a-una-arquitectura-offline-first-en-flutter-32bb)
-- [BronoCTF : LEts a GO Writeup](https://dev.to/exploitnotes/bronoctf-lets-a-go-writeup-3hal)
+- [We Taught a Snowflake Warehouse to Judge World Cup Conviction and Write the Verdict Back to Solana](https://dev.to/soumyadeepdey/we-taught-a-snowflake-warehouse-to-judge-world-cup-conviction-and-write-the-verdict-back-to-solana-305i)
+- [BroncoCTF: Lovely Login](https://dev.to/exploitnotes/broncoctf-lovely-login-j2o)
+- [STL in C++: The Toolbox Every DSA Learner Needs](https://dev.to/nikita_maharana_879884df2/c-stl-explained-for-beginners-5d0a)
+- [Secure BLE OTA Firmware Updates on nRF5340: Architecture Notes](https://dev.to/pezzullo/secure-ble-ota-firmware-updates-on-nrf5340-architecture-notes-1efo)
+- [How I Finally Stopped Switching Between Ten Different Apps](https://dev.to/wowinter15/how-i-finally-stopped-switching-between-ten-different-apps-28g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
