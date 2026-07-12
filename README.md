@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run Tokens Make Email CI Less Fragile](https://dev.to/mrdapperx/run-tokens-make-email-ci-less-fragile-4fkp)
-- [Can AI Make Carbon Credits More Trustworthy? I Tried Building an Answer with Gemini 🌍](https://dev.to/sreejit_/can-ai-make-carbon-credits-more-trustworthy-i-tried-building-an-answer-with-gemini-3njd)
-- [How I Stopped Writing JSON-LD by Hand](https://dev.to/seogeotech/how-i-stopped-writing-json-ld-by-hand-36cl)
-- [Making an email API agent-native: llms.txt, a /api/me endpoint, and a zero-DNS sandbox sender](https://dev.to/spruikco/making-an-email-api-agent-native-llmstxt-a-apime-endpoint-and-a-zero-dns-sandbox-sender-446)
-- [The ISO 27001 controls that actually matter when you connect two systems](https://dev.to/srcanton/the-iso-27001-controls-that-actually-matter-when-you-connect-two-systems-4hon)
+- [How to Train and Use a Custom LoRA Without Setting Up a Local GPU](https://dev.to/defi_allin_87c8221187c486/how-to-train-and-use-a-custom-lora-without-setting-up-a-local-gpu-3j85)
+- [Egregor: Local Multi-AI Consilium for Comprehensive Smart Contract and Code Audits](https://dev.to/vladislavshter/egregor-local-multi-ai-consilium-for-comprehensive-smart-contract-and-code-audits-35d)
+- [Stripe to Mollie Migration: What Actually Breaks](https://dev.to/iurii_rogulia/stripe-to-mollie-migration-what-actually-breaks-28j6)
+- [Tenant Screening SaaS: Bank Statement Fraud Detection](https://dev.to/iurii_rogulia/tenant-screening-saas-bank-statement-fraud-detection-342h)
+- [Adding RPM Packaging for CentOS 9 in Heka Insights](https://dev.to/munirfarhan/adding-rpm-packaging-for-centos-9-in-heka-insights-3cj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
