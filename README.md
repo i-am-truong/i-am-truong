@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mi INSERT tardaba 25 minutos y no era culpa de los datos: construyendo un Data Warehouse de e-commerce con PostgreSQL](https://dev.to/dnarram/mi-insert-tardaba-25-minutos-y-no-era-culpa-de-los-datos-construyendo-un-data-warehouse-de-4e14)
-- [Architecting Kubernetes Deployments with Python](https://dev.to/joachim8675309/architecting-kubernetes-deployments-with-python-4jhe)
-- [Introduzindo SQL](https://dev.to/yuripeixinho/introduzindo-sql-923)
-- [Using WebSockets to Convert BTC to USD and Reais &lpar;BRL&rpar;](https://dev.to/rubemfsv/using-websockets-to-convert-btc-to-usd-and-reais-brl-30j0)
-- [RAG - Meta Filtering and Reranking](https://dev.to/ramya_perumal_e93721ef2fa/rag-meta-filtering-and-reranking-22i1)
+- [Introduction to media streaming: Part 2](https://dev.to/xheghun/introduction-to-media-streaming-part-2-473p)
+- [Meta-Analysis: Between-Study Heterogeneity](https://dev.to/davisethan/meta-analysis-between-study-heterogeneity-28p2)
+- [SDLC in the AI Era with Spec-Driven Development](https://dev.to/hossein_esmati/sdlc-in-the-ai-era-with-spec-driven-development-48fn)
+- [# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin &amp; Eli Shohat, co-founders of D-Band* ---](https://dev.to/dband-drm/-why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-1bnc)
+- [Meta-Analysis: Motivation and Limitations](https://dev.to/davisethan/meta-analysis-motivation-and-limitations-26m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
