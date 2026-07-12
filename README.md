@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PassionProof — A Soulbound NFT for Consistent Open Source Contribution](https://dev.to/lymah/passionproof-a-soulbound-nft-for-consistent-open-source-contribution-667)
-- [Day 74/100 - Cross-Datacenter Replication in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-74100-cross-datacenter-replication-in-clickhouser-2kh1)
-- [What Your AI Coding Agent Looks Like to a SIEM](https://dev.to/lainagent_ai/what-your-ai-coding-agent-looks-like-to-a-siem-5c64)
-- [Anatomy of a Full RAG Application: Every Concept, One Self-Hosted Stack](https://dev.to/sumanpro/i-built-a-production-grade-rag-application-from-scratch-heres-every-concept-that-goes-into-one-3a22)
-- [Observability as Code: Managing Dashboards and Alerts with Terraform](https://dev.to/samson_tanimawo/observability-as-code-managing-dashboards-and-alerts-with-terraform-4p0)
+- [My Experience at Code on JVM Chennai: From DSA in Production to Building AI Products](https://dev.to/dev_saravanan_journey/my-experience-at-code-on-jvm-chennai-from-dsa-in-production-to-building-ai-products-4b8a)
+- [InsightsTrack + Pulse: I taught Claude Desktop to read my web analytics &lpar;via MCP&rpar;](https://dev.to/nishikantaray/insightstrack-pulse-i-taught-claude-desktop-to-read-my-web-analytics-via-mcp-13bd)
+- [Building Minelog, a Minecraft Travel Log Web App](https://dev.to/erikaheidi/building-minelog-a-minecraft-travel-log-web-app-6mj)
+- [Level Up Your Problem-Solving Like a Jedi: Speed Under Pressure](https://dev.to/timevolt/level-up-your-problem-solving-like-a-jedi-speed-under-pressure-3i70)
+- [Longest Common Prefix &lpar;Easy&rpar; | LeetCode Practice #4](https://dev.to/secondlastsleep/longest-common-prefix-leetcode-practice-4-2ikp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
