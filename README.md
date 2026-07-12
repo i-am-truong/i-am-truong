@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Simple RAG App with LangChain, OpenAI, and Pinecone](https://dev.to/officialbidisha/i-built-a-simple-rag-app-with-langchain-openai-and-pinecone-j73)
-- [The fraud that pays in full](https://dev.to/gbadedata/the-fraud-that-pays-in-full-20b)
-- [Debugging a Legacy CRA + Django Deployment Pipeline: A DevOps Postmortem](https://dev.to/saint_vandora/debugging-a-legacy-cra-django-deployment-pipeline-a-devops-postmortem-2epd)
-- [I Built An AI That Roasts Me. It Hurt.](https://dev.to/nandan_das_369/i-built-an-ai-that-roasts-me-it-hurt-381f)
-- [Claude Code Multi-Agent Coordination: Build AI Teams That Ship &lpar;2026&rpar;](https://dev.to/akaranjkar08/claude-code-multi-agent-coordination-build-ai-teams-that-ship-2026-16b9)
+- [EnzyOrchestra v0.1.0: validación cross-generador para diseño de enzimas de novo](https://dev.to/magopredator/enzyorchestra-v010-validacion-cross-generador-para-diseno-de-enzimas-de-novo-4a4a)
+- [Passion Jar Solana — Turning Small Actions into Devnet Proof](https://dev.to/zoe_lin_0653/passion-jar-solana-turning-small-actions-into-devnet-proof-6e6)
+- [What is going on?](https://dev.to/micaavigliano/what-is-going-on-fho)
+- [The 16.67ms Race: Mastering Real-Time 60 FPS Video Segmentation on Android](https://dev.to/programmingcentral/the-1667ms-race-mastering-real-time-60-fps-video-segmentation-on-android-1d75)
+- [One More Year -&gt; The Documentary I Never Filmed](https://dev.to/mirshah12/one-more-year-the-documentary-i-never-filmed-1phb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
