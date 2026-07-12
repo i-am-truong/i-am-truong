@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Experience at Code on JVM Chennai: From DSA in Production to Building AI Products](https://dev.to/dev_saravanan_journey/my-experience-at-code-on-jvm-chennai-from-dsa-in-production-to-building-ai-products-4b8a)
-- [InsightsTrack + Pulse: I taught Claude Desktop to read my web analytics &lpar;via MCP&rpar;](https://dev.to/nishikantaray/insightstrack-pulse-i-taught-claude-desktop-to-read-my-web-analytics-via-mcp-13bd)
-- [Building Minelog, a Minecraft Travel Log Web App](https://dev.to/erikaheidi/building-minelog-a-minecraft-travel-log-web-app-6mj)
-- [Level Up Your Problem-Solving Like a Jedi: Speed Under Pressure](https://dev.to/timevolt/level-up-your-problem-solving-like-a-jedi-speed-under-pressure-3i70)
-- [Longest Common Prefix &lpar;Easy&rpar; | LeetCode Practice #4](https://dev.to/secondlastsleep/longest-common-prefix-leetcode-practice-4-2ikp)
+- [Passion Edition](https://dev.to/hillcity/passion-edition-3coe)
+- [I built my first Robinhood Chain app as an index basket](https://dev.to/arbitrum/i-built-my-first-robinhood-chain-app-as-an-index-basket-20li)
+- [My Journey to Become a Better Backend Engineer](https://dev.to/hayanj/my-journey-to-become-a-better-backend-engineer-1-4lnk)
+- [skip에서 partition overwrite로: business_date 재처리를 Iceberg로 다시 표현하기](https://dev.to/junhyun-dev/skipeseo-partition-overwritero-businessdate-jaeceorireul-icebergro-dasi-pyohyeonhagi-194i)
+- [wide CSV 여러 개를 EAV로 모아 gold mart 만들기](https://dev.to/junhyun-dev/wide-csv-yeoreo-gaereul-eavro-moa-gold-mart-mandeulgi-4799)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
