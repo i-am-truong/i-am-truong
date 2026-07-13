@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SRP and the Hero&#39;s Journey: Writing Code Like a Jedi Master](https://dev.to/timevolt/srp-and-the-heros-journey-writing-code-like-a-jedi-master-59mf)
-- [Verifying How IAM and Lake Formation Behave for the Glue REST Catalog and S3 Tables](https://dev.to/aws-builders/verifying-how-iam-and-lake-formation-behave-for-the-glue-rest-catalog-and-s3-tables-2cgc)
-- [Capturing, Streaming, Storing, and Visualizing Crypto Market Data in Real Time with PostgreSQL, Debezium, Kafka, JDBC &amp; Grafana](https://dev.to/kepha_mwandiki/capturing-streaming-storing-and-visualizing-crypto-market-data-in-real-time-with-postgresql-54b4)
-- [Audit-log every email your AI agent sends](https://dev.to/mqasimca/audit-log-every-email-your-ai-agent-sends-57bl)
-- [How I export 1.2-gigapixel images on an iPhone without running out of memory](https://dev.to/toffy/how-i-export-12-gigapixel-images-on-an-iphone-without-running-out-of-memory-1hkk)
+- [There are around 10 independent PDF engines, and I built a new one from scratch.](https://dev.to/keypdf_official/there-are-around-10-independent-pdf-engines-and-i-built-a-new-one-from-scratch-lj2)
+- [JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State](https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07)
+- [Best alternatives to Heroku in 2026](https://dev.to/sparrowhawk705/7-heroku-alternatives-worth-considering-in-2026-4hnh)
+- [I built 42 landing page templates as single HTML files &lpar;no npm, no build step&rpar;](https://dev.to/segcam_spa_2fcbb0882f9697/i-built-42-landing-page-templates-as-sini-built-42-landing-page-templates-as-single-html-files-no-42kd)
+- [Linux Kernel Modules That Explain How Podman Really Works](https://dev.to/sergioarmgpl/linux-kernel-modules-that-explain-how-podman-really-works-22c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
