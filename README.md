@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bumblebee: Perplexity AI Open-Sources a Safe Supply-Chain Scanner](https://dev.to/terminalchai/bumblebee-perplexity-ai-open-sources-a-safe-supply-chain-scanner-ief)
-- [Backend/Domain foundation](https://dev.to/lksvn/backenddomain-foundation-24hl)
-- [14 Browser Testing Articles That Changed How I Think About Release Confidence](https://dev.to/mellowthunder735/14-browser-testing-articles-that-changed-how-i-think-about-release-confidence-2a2o)
-- [How a mesh of peer AI workspaces catches what any single agent misses](https://dev.to/soulentheo/how-a-mesh-of-peer-ai-workspaces-catches-what-any-single-agent-misses-2ffh)
-- [Podman in Production: The Book, and the Pipeline Behind It](https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie)
+- [SRP and the Hero&#39;s Journey: Writing Code Like a Jedi Master](https://dev.to/timevolt/srp-and-the-heros-journey-writing-code-like-a-jedi-master-59mf)
+- [Verifying How IAM and Lake Formation Behave for the Glue REST Catalog and S3 Tables](https://dev.to/aws-builders/verifying-how-iam-and-lake-formation-behave-for-the-glue-rest-catalog-and-s3-tables-2cgc)
+- [Capturing, Streaming, Storing, and Visualizing Crypto Market Data in Real Time with PostgreSQL, Debezium, Kafka, JDBC &amp; Grafana](https://dev.to/kepha_mwandiki/capturing-streaming-storing-and-visualizing-crypto-market-data-in-real-time-with-postgresql-54b4)
+- [Audit-log every email your AI agent sends](https://dev.to/mqasimca/audit-log-every-email-your-ai-agent-sends-57bl)
+- [How I export 1.2-gigapixel images on an iPhone without running out of memory](https://dev.to/toffy/how-i-export-12-gigapixel-images-on-an-iphone-without-running-out-of-memory-1hkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
