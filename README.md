@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing InterceptX: The Ultimate Modern Alternative to ModHeader](https://dev.to/harshith_ks_feecc0b19e0a/introducing-interceptx-the-ultimate-modern-alternative-to-modheader-p3i)
-- [Breeze Framework: Rethinking What a Modern Go Framework Can Be ⚡](https://dev.to/nelthaarion/breeze-framework-rethinking-what-a-modern-go-framework-can-be-4hgh)
-- [10 Free Facts, Jokes &amp; Name APIs With No Key &lpar;2026&rpar;](https://dev.to/0012303/10-free-facts-jokes-name-apis-with-no-key-2026-2ao8)
-- [🍪 Cookies and CORS — When Are Cookies Actually Sent?](https://dev.to/alireza_hassankhani_b8401/cookies-and-cors-when-are-cookies-actually-sent-3cjl)
-- [What is CORS and Why Does It Exist?](https://dev.to/alireza_hassankhani_b8401/what-is-cors-and-why-does-it-exist-27em)
+- [Meme Monday](https://dev.to/ben/meme-monday-4eda)
+- [From Spring Boot to Quarkus](https://dev.to/ykpraveen/from-spring-boot-to-quarkus-241g)
+- [Fusuma: Write Markdown, Get Slides, PDFs, and a Self-Made Social Card](https://dev.to/lovestaco/fusuma-write-markdown-get-slides-pdfs-and-a-self-made-social-card-4b2k)
+- [How Logically Inconsistent Prompts Can Turn Reasoning Models Into a DoS Problem](https://dev.to/techsignaldaily/how-logically-inconsistent-prompts-can-turn-reasoning-models-into-a-dos-problem-44o0)
+- [The Nervous System: an MCP server for governing autonomous LLM agents](https://dev.to/levelsofself/the-nervous-system-an-mcp-server-for-governing-autonomous-llm-agents-301a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
