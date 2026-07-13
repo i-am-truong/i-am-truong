@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4eda)
-- [From Spring Boot to Quarkus](https://dev.to/ykpraveen/from-spring-boot-to-quarkus-241g)
-- [Fusuma: Write Markdown, Get Slides, PDFs, and a Self-Made Social Card](https://dev.to/lovestaco/fusuma-write-markdown-get-slides-pdfs-and-a-self-made-social-card-4b2k)
-- [How Logically Inconsistent Prompts Can Turn Reasoning Models Into a DoS Problem](https://dev.to/techsignaldaily/how-logically-inconsistent-prompts-can-turn-reasoning-models-into-a-dos-problem-44o0)
-- [The Nervous System: an MCP server for governing autonomous LLM agents](https://dev.to/levelsofself/the-nervous-system-an-mcp-server-for-governing-autonomous-llm-agents-301a)
+- [I open-sourced AEGIS: a self-hosted, flow-first personal AI orchestration platform](https://dev.to/mohammed_arshadansari_f2/i-open-sourced-aegis-a-self-hosted-flow-first-personal-ai-orchestration-platform-4c74)
+- [GitOps for Geospatial Data: Building a Self-Healing, Zero-Cost Data Pipeline with GitHub Actions](https://dev.to/mchittineni/gitops-for-geospatial-data-building-a-self-healing-zero-cost-data-pipeline-with-github-actions-5490)
+- [Ng-News 26/17: PrimeNG&#39;s New Licensing, and A2UI for Angular](https://dev.to/playfulprogramming-angular/ng-news-2617-primengs-new-licensing-and-a2ui-for-angular-4eik)
+- [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f)
+- [🚀 India Village Finder Introduces Farmer Schemes &amp; Farm-Input Insights](https://dev.to/mchittineni/india-village-finder-introduces-farmer-schemes-farm-input-insights-2ie6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
