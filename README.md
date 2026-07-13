@@ -120,11 +120,19 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [They Asked for My AI Rules. But I Could Not Just Hand Them Over.](https://dev.to/jeelvankhede/they-asked-for-my-ai-rules-but-i-could-not-just-hand-them-over-3lhb)
-- [Hyperscalers Are Building the Digital World Like It’s 2015 — And It Shows](https://dev.to/claireg/hyperscalers-are-building-the-digital-world-like-its-2015-and-it-shows-5318)
-- [Codegraph](https://dev.to/likitha_gujari_6352fbf376/codegraph-837)
-- [The Everyday Backend Engineer: Step 10 — The Observer Pattern](https://dev.to/aabiskar/the-everyday-backend-engineer-step-10-the-observer-pattern-1k6k)
-- [4 self-hosting failures that return success](https://dev.to/mbaelde/4-self-hosting-failures-that-return-success-1go5)
+- [😂 Developers, be honest...
+
+Which one describes you the best?
+A-It works. Don&#39;t touch it 😅
+B-I&#39;ll refactor it later &lpar;Never happens&rpar;
+C-One small change breaks the whole application.
+D-Spends 6 hours debugging
+
+only to find a missing semicolon or typo...](https://dev.to/darshanraval/developers-be-honest-which-one-describes-you-the-best-a-it-works-dont-touch-it-2gc9)
+- [The Secret to Always-On Audio AI: Why Your Android App Needs a DSP &lpar;and How to Implement It&rpar;](https://dev.to/programmingcentral/the-secret-to-always-on-audio-ai-why-your-android-app-needs-a-dsp-and-how-to-implement-it-5589)
+- [How to Build Your First AI Agent With Claude Code in 30 Minutes](https://dev.to/vexlow_4879b12325fb1a1db9/how-to-build-your-first-ai-agent-with-claude-code-in-30-minutes-67h)
+- [Docker für PHP, Apache und MariaDB – aus einem Container wird eine Entwicklungsumgebung](https://dev.to/webdevmentor/docker-fur-php-apache-und-mariadb-aus-einem-container-wird-eine-entwicklungsumgebung-4oic)
+- [Green CI working software](https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
