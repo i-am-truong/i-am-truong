@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I gave an AI agent the same deployment on four clouds.](https://dev.to/zzmilos/i-gave-an-ai-agent-the-same-deployment-on-four-clouds-4g1h)
-- [Codex no VS Code não carregava no Linux Mint: falha no sync de plugins, IPv6 quebrado &lpar;solução&rpar;](https://dev.to/sevahc/codex-no-vs-code-nao-carregava-no-linux-mint-falha-no-sync-de-plugins-ipv6-quebrado-solucao-3e8b)
-- [Kickoff to Summer Bug Smash Challenge](https://dev.to/purpleflower436/kickoff-to-summer-bug-smash-challenge-4bl6)
-- [Where the Review Point Moved](https://dev.to/tmfrisinger/where-the-review-point-moved-466)
-- [Product Literacy Is the New Core Engineering Skill](https://dev.to/tmfrisinger/product-literacy-is-the-new-core-engineering-skill-17in)
+- [They Asked for My AI Rules. But I Could Not Just Hand Them Over.](https://dev.to/jeelvankhede/they-asked-for-my-ai-rules-but-i-could-not-just-hand-them-over-3lhb)
+- [Hyperscalers Are Building the Digital World Like It’s 2015 — And It Shows](https://dev.to/claireg/hyperscalers-are-building-the-digital-world-like-its-2015-and-it-shows-5318)
+- [Codegraph](https://dev.to/likitha_gujari_6352fbf376/codegraph-837)
+- [The Everyday Backend Engineer: Step 10 — The Observer Pattern](https://dev.to/aabiskar/the-everyday-backend-engineer-step-10-the-observer-pattern-1k6k)
+- [4 self-hosting failures that return success](https://dev.to/mbaelde/4-self-hosting-failures-that-return-success-1go5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
