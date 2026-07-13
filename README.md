@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I open-sourced AEGIS: a self-hosted, flow-first personal AI orchestration platform](https://dev.to/mohammed_arshadansari_f2/i-open-sourced-aegis-a-self-hosted-flow-first-personal-ai-orchestration-platform-4c74)
-- [GitOps for Geospatial Data: Building a Self-Healing, Zero-Cost Data Pipeline with GitHub Actions](https://dev.to/mchittineni/gitops-for-geospatial-data-building-a-self-healing-zero-cost-data-pipeline-with-github-actions-5490)
-- [Ng-News 26/17: PrimeNG&#39;s New Licensing, and A2UI for Angular](https://dev.to/playfulprogramming-angular/ng-news-2617-primengs-new-licensing-and-a2ui-for-angular-4eik)
-- [A lot of good points here https://antirez.com/news/169](https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f)
-- [🚀 India Village Finder Introduces Farmer Schemes &amp; Farm-Input Insights](https://dev.to/mchittineni/india-village-finder-introduces-farmer-schemes-farm-input-insights-2ie6)
+- [I gave an AI agent the same deployment on four clouds.](https://dev.to/zzmilos/i-gave-an-ai-agent-the-same-deployment-on-four-clouds-4g1h)
+- [Codex no VS Code não carregava no Linux Mint: falha no sync de plugins, IPv6 quebrado &lpar;solução&rpar;](https://dev.to/sevahc/codex-no-vs-code-nao-carregava-no-linux-mint-falha-no-sync-de-plugins-ipv6-quebrado-solucao-3e8b)
+- [Kickoff to Summer Bug Smash Challenge](https://dev.to/purpleflower436/kickoff-to-summer-bug-smash-challenge-4bl6)
+- [Where the Review Point Moved](https://dev.to/tmfrisinger/where-the-review-point-moved-466)
+- [Product Literacy Is the New Core Engineering Skill](https://dev.to/tmfrisinger/product-literacy-is-the-new-core-engineering-skill-17in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
