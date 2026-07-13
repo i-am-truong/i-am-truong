@@ -120,19 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😂 Developers, be honest...
-
-Which one describes you the best?
-A-It works. Don&#39;t touch it 😅
-B-I&#39;ll refactor it later &lpar;Never happens&rpar;
-C-One small change breaks the whole application.
-D-Spends 6 hours debugging
-
-only to find a missing semicolon or typo...](https://dev.to/darshanraval/developers-be-honest-which-one-describes-you-the-best-a-it-works-dont-touch-it-2gc9)
-- [The Secret to Always-On Audio AI: Why Your Android App Needs a DSP &lpar;and How to Implement It&rpar;](https://dev.to/programmingcentral/the-secret-to-always-on-audio-ai-why-your-android-app-needs-a-dsp-and-how-to-implement-it-5589)
-- [How to Build Your First AI Agent With Claude Code in 30 Minutes](https://dev.to/vexlow_4879b12325fb1a1db9/how-to-build-your-first-ai-agent-with-claude-code-in-30-minutes-67h)
-- [Docker für PHP, Apache und MariaDB – aus einem Container wird eine Entwicklungsumgebung](https://dev.to/webdevmentor/docker-fur-php-apache-und-mariadb-aus-einem-container-wird-eine-entwicklungsumgebung-4oic)
-- [Green CI working software](https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim)
+- [Bumblebee: Perplexity AI Open-Sources a Safe Supply-Chain Scanner](https://dev.to/terminalchai/bumblebee-perplexity-ai-open-sources-a-safe-supply-chain-scanner-ief)
+- [Backend/Domain foundation](https://dev.to/lksvn/backenddomain-foundation-24hl)
+- [14 Browser Testing Articles That Changed How I Think About Release Confidence](https://dev.to/mellowthunder735/14-browser-testing-articles-that-changed-how-i-think-about-release-confidence-2a2o)
+- [How a mesh of peer AI workspaces catches what any single agent misses](https://dev.to/soulentheo/how-a-mesh-of-peer-ai-workspaces-catches-what-any-single-agent-misses-2ffh)
+- [Podman in Production: The Book, and the Pipeline Behind It](https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
