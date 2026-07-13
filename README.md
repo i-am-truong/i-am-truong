@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Turns Your Passion Into a Cinematic Origin Story](https://dev.to/divyesh5981/i-built-an-ai-that-turns-your-passion-into-a-cinematic-origin-story-4j8l)
-- [Improve Performance by Loading Videos Only When They&#39;re Needed](https://dev.to/jacobandrewsky/improve-performance-by-loading-videos-only-when-theyre-needed-245o)
-- [Can an AI tell a rivalry&#39;s story without inventing the score?](https://dev.to/itsashita/can-an-ai-tell-a-rivalrys-story-without-inventing-the-score-j5b)
-- [Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://dev.to/s1infeb/evolution-of-accuracy-and-visual-cognitive-errors-in-a-decade-of-vision-language-ai-models-4gp3)
-- [Casting your friend group as a K-Pop group without making a database the product](https://dev.to/piyaklabs/casting-your-friend-group-as-a-k-pop-group-without-making-a-database-the-product-543l)
+- [Introducing InterceptX: The Ultimate Modern Alternative to ModHeader](https://dev.to/harshith_ks_feecc0b19e0a/introducing-interceptx-the-ultimate-modern-alternative-to-modheader-p3i)
+- [Breeze Framework: Rethinking What a Modern Go Framework Can Be ⚡](https://dev.to/nelthaarion/breeze-framework-rethinking-what-a-modern-go-framework-can-be-4hgh)
+- [10 Free Facts, Jokes &amp; Name APIs With No Key &lpar;2026&rpar;](https://dev.to/0012303/10-free-facts-jokes-name-apis-with-no-key-2026-2ao8)
+- [🍪 Cookies and CORS — When Are Cookies Actually Sent?](https://dev.to/alireza_hassankhani_b8401/cookies-and-cors-when-are-cookies-actually-sent-3cjl)
+- [What is CORS and Why Does It Exist?](https://dev.to/alireza_hassankhani_b8401/what-is-cors-and-why-does-it-exist-27em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
