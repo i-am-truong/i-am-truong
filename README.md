@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DesiDash: Celebrating the Passion of Indian Festivals on Solana!✨](https://dev.to/aayushi_goel_56f2e6e461f6/desidash-celebrating-the-passion-of-indian-festivals-on-solana-72e)
-- [Do We Actually Need Fable 5? A Reality Check on Frontier AI](https://dev.to/agentic_architect/do-we-actually-need-fable-5-a-reality-check-on-frontier-ai-2434)
-- [SQL: Normalização e Formas Normais](https://dev.to/yuripeixinho/sql-normalizacao-e-formas-normais-3e5j)
-- [Data Manipulation Language &lpar;DML&rpar;](https://dev.to/yuripeixinho/data-manipulation-language-dml-2eh6)
-- [Data Definition Language &lpar;DDL&rpar;](https://dev.to/yuripeixinho/data-definition-language-ddl-o5g)
+- [Day 136 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-136-of-learning-mern-stack-1hbf)
+- [Why I Built an Adversarial Co-Generation Engine](https://dev.to/sanjoy1234/why-i-built-an-adversarial-co-generation-engine-2038)
+- [MCP Series &lpar;05&rpar;: Resources and Prompts Deep Dive — Dynamic Data, Parameterized URIs, and Multi-Turn Templates](https://dev.to/wonderlab/mcp-series-05-resources-and-prompts-deep-dive-dynamic-data-parameterized-uris-and-multi-turn-243k)
+- [I built a free, no-signup toolbox for everyday text, image &amp; dev tasks](https://dev.to/ctagler/i-built-a-free-no-signup-toolbox-for-everyday-text-image-dev-tasks-3ea5)
+- [FROST周报 | 为什么智能体需要「谱系」？从生物学隐喻看AI治理新范式](https://dev.to/llimage/frostzhou-bao-wei-shi-yao-zhi-neng-ti-xu-yao-pu-xi-cong-sheng-wu-xue-yin-yu-kan-aizhi-li-xin-fan-shi-2449)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
