@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 136 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-136-of-learning-mern-stack-1hbf)
-- [Why I Built an Adversarial Co-Generation Engine](https://dev.to/sanjoy1234/why-i-built-an-adversarial-co-generation-engine-2038)
-- [MCP Series &lpar;05&rpar;: Resources and Prompts Deep Dive — Dynamic Data, Parameterized URIs, and Multi-Turn Templates](https://dev.to/wonderlab/mcp-series-05-resources-and-prompts-deep-dive-dynamic-data-parameterized-uris-and-multi-turn-243k)
-- [I built a free, no-signup toolbox for everyday text, image &amp; dev tasks](https://dev.to/ctagler/i-built-a-free-no-signup-toolbox-for-everyday-text-image-dev-tasks-3ea5)
-- [FROST周报 | 为什么智能体需要「谱系」？从生物学隐喻看AI治理新范式](https://dev.to/llimage/frostzhou-bao-wei-shi-yao-zhi-neng-ti-xu-yao-pu-xi-cong-sheng-wu-xue-yin-yu-kan-aizhi-li-xin-fan-shi-2449)
+- [I Built an AI That Turns Your Passion Into a Cinematic Origin Story](https://dev.to/divyesh5981/i-built-an-ai-that-turns-your-passion-into-a-cinematic-origin-story-4j8l)
+- [Improve Performance by Loading Videos Only When They&#39;re Needed](https://dev.to/jacobandrewsky/improve-performance-by-loading-videos-only-when-theyre-needed-245o)
+- [Can an AI tell a rivalry&#39;s story without inventing the score?](https://dev.to/itsashita/can-an-ai-tell-a-rivalrys-story-without-inventing-the-score-j5b)
+- [Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://dev.to/s1infeb/evolution-of-accuracy-and-visual-cognitive-errors-in-a-decade-of-vision-language-ai-models-4gp3)
+- [Casting your friend group as a K-Pop group without making a database the product](https://dev.to/piyaklabs/casting-your-friend-group-as-a-k-pop-group-without-making-a-database-the-product-543l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
