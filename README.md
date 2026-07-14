@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I ran 500 brand queries across ChatGPT/Claude/Gemini/Perplexity. New brands get cited 0% of the time. Full data inside.](https://dev.to/kre8on/i-ran-500-brand-queries-across-chatgptclaudegeminiperplexity-new-brands-get-cited-0-of-the-33gh)
-- [A Dash of dev.to: My Blog Stats Now Live in the Terminal](https://dev.to/lovestaco/a-dash-of-devto-my-blog-stats-now-live-in-the-terminal-4l4e)
-- [Quality is the new Quantity](https://dev.to/timon_krebs_c89f82a68ba4c/quality-is-the-new-quantity-3mdn)
-- [I Cut My AI API Bill by 95% — Here&#39;s How You Can Too](https://dev.to/loyaldash/i-cut-my-ai-api-bill-by-95-heres-how-you-can-too-491e)
-- [Why Meteor 3.5 Is the Most Important Release in Years](https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g)
+- [Are We Offloading Too Much Thinking to AI?](https://dev.to/onsen/are-we-offloading-too-much-thinking-to-ai-1nmk)
+- [Multi-Agent Systems Need More Than a Prompt](https://dev.to/mbakgun/multi-agent-systems-need-more-than-a-prompt-4g89)
+- [Clearing an off grid price bug out of Polymarket&#39;s order path](https://dev.to/gde03/clearing-an-off-grid-price-bug-out-of-polymarkets-order-path-2g13)
+- [We hit an at-least-once delivery trap. Here is how we fixed the race conditions.](https://dev.to/vinod_erramsetty_191b3e05/we-hit-an-at-least-once-delivery-trap-here-is-how-we-fixed-the-race-conditions-49k3)
+- [How we built Engrava: from cognitive-architecture research to a production library](https://dev.to/sovantica/how-we-built-engrava-from-cognitive-architecture-research-to-a-production-library-4i7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
