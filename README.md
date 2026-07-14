@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Which Is to Be Master? Language, Authority and LLMs](https://dev.to/psgtechnautsnl/which-is-to-be-master-language-authority-and-llms-36i8)
-- [Stop Writing try/catch in Every Controller](https://dev.to/vedant8177/stop-writing-trycatch-in-every-controller-2bc3)
-- [We Open-Sourced 42 Construction Calculators — Here&#39;s Why](https://dev.to/misterlsj/we-open-sourced-42-construction-calculators-heres-why-1bd3)
-- [A Practical Guide to Proxies for Web Scraping &lpar;with Python examples&rpar;](https://dev.to/proxyprivat/a-practical-guide-to-proxies-for-web-scraping-with-python-examples-1h6o)
-- [How I Built an Ultra-Fast, Programmatic Results &amp; GPA Portal for My University &lpar;MUET&rpar;](https://dev.to/mokshlohana/how-i-built-an-ultra-fast-programmatic-results-gpa-portal-for-my-university-muet-276n)
+- [Codex CLI: el cifrado de MultiAgentV2 borra el registro de tareas](https://dev.to/lu1tr0n/codex-cli-el-cifrado-de-multiagentv2-borra-el-registro-de-tareas-29kf)
+- [Git History Command: The Safer Way to Split, Reword, and Fixup Commits](https://dev.to/ashraf_chowdury09/git-history-command-the-safer-way-to-split-reword-and-fixup-commits-ihb)
+- [Tino Wizard: The GUI Setup Creator Linux Has Been Missing](https://dev.to/tmotagam/tino-wizard-the-gui-setup-creator-linux-has-been-missing-3o29)
+- [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh)
+- [Puppetlabs Modules Now Have Tiered Review Cycles](https://dev.to/puppet/puppetlabs-modules-now-have-tiered-review-cycles-42ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
