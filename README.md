@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [There are around 10 independent PDF engines, and I built a new one from scratch.](https://dev.to/keypdf_official/there-are-around-10-independent-pdf-engines-and-i-built-a-new-one-from-scratch-lj2)
-- [JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State](https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07)
-- [Best alternatives to Heroku in 2026](https://dev.to/sparrowhawk705/7-heroku-alternatives-worth-considering-in-2026-4hnh)
-- [I built 42 landing page templates as single HTML files &lpar;no npm, no build step&rpar;](https://dev.to/segcam_spa_2fcbb0882f9697/i-built-42-landing-page-templates-as-sini-built-42-landing-page-templates-as-single-html-files-no-42kd)
-- [Linux Kernel Modules That Explain How Podman Really Works](https://dev.to/sergioarmgpl/linux-kernel-modules-that-explain-how-podman-really-works-22c3)
+- [Build a Voice Assistant with Python and Whisper](https://dev.to/qingluan/build-a-voice-assistant-with-python-and-whisper-2dim)
+- [Rust for Python Developers: Why You Should Learn It](https://dev.to/qingluan/rust-for-python-developers-why-you-should-learn-it-3pig)
+- [File Encryption for the Lakehouse: The Terminology, the Machinery, and the Hard Problem of Interoperable Encrypted Tables](https://dev.to/alexmercedcoder/file-encryption-for-the-lakehouse-the-terminology-the-machinery-and-the-hard-problem-of-2akp)
+- [The proposal structure that closed 8 of my last 10 freelance projects](https://dev.to/agentedeia/the-proposal-structure-that-closed-8-of-my-last-10-freelance-projects-1ab3)
+- [# Production Patterns for AI Agent Tool Calling: 8 Lessons from 6 Months of 24/7](https://dev.to/manoir_yantai_f22f01340f0/-production-patterns-for-ai-agent-tool-calling-8-lessons-from-6-months-of-247-3p02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
