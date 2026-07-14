@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EKS vs AKS vs GKE: An Honest Comparison From Running All Three in Production](https://dev.to/deplyra/eks-vs-aks-vs-gke-an-honest-comparison-from-running-all-three-in-production-382b)
-- [Stop Switching Between 20 Browser Tabs for Simple Developer Tasks](https://dev.to/suyash_singh/stop-switching-between-20-browser-tabs-for-simple-developer-tasks-2log)
-- [Why Laravel&#39;s Service Container Feels Like Magic: Dependency Injection Explained](https://dev.to/anashussain284/why-laravels-service-container-feels-like-magic-dependency-injection-explained-23fm)
-- [Query, Mutation, and Stream Are Not the Same Kind of Async Work](https://dev.to/luciano0322/query-mutation-and-stream-are-not-the-same-kind-of-async-work-50ig)
-- [Build a Telegram Paid Access System with Crypto Payments](https://dev.to/kevins1988/build-a-telegram-paid-access-system-with-crypto-payments-60l)
+- [The 33k-token preamble is a bet. Here&#39;s how to check if it&#39;s paying off.](https://dev.to/wrencalloway/the-33k-token-preamble-is-a-bet-heres-how-to-check-if-its-paying-off-3d5h)
+- [nuqs: URL State Management in Next.js &lpar;2026&rpar;](https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn)
+- [--- title: Day 1: Starting My Web Dev Journey on a Tablet description: Learning HTML from scratch learning on my phone using my tablet and Acode. ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-on-a-tablet-description-learning-html-from-scratch-379)
+- [Turn one devlog into posts for every channel with n8n + AI](https://dev.to/shrisab_shrestha_ba84e9a3/turn-one-devlog-into-posts-for-every-channel-with-n8n-ai-35dp)
+- [Self-hosting your email? SPF, DKIM and DMARC decide your inbox rate](https://dev.to/basictechnology/self-hosting-your-email-spf-dkim-and-dmarc-decide-your-inbox-rate-4f2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
