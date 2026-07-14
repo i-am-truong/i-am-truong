@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codex CLI: el cifrado de MultiAgentV2 borra el registro de tareas](https://dev.to/lu1tr0n/codex-cli-el-cifrado-de-multiagentv2-borra-el-registro-de-tareas-29kf)
-- [Git History Command: The Safer Way to Split, Reword, and Fixup Commits](https://dev.to/ashraf_chowdury09/git-history-command-the-safer-way-to-split-reword-and-fixup-commits-ihb)
-- [Tino Wizard: The GUI Setup Creator Linux Has Been Missing](https://dev.to/tmotagam/tino-wizard-the-gui-setup-creator-linux-has-been-missing-3o29)
-- [How to Respectfully Contribute to Open Source](https://dev.to/opensourcepledge/how-to-respectfully-contribute-to-open-source-cbh)
-- [Puppetlabs Modules Now Have Tiered Review Cycles](https://dev.to/puppet/puppetlabs-modules-now-have-tiered-review-cycles-42ob)
+- [Bothread: A Free, Local Room Where Your AI Coding Agents Stop Overwriting Each Other](https://dev.to/aidam/bothread-a-free-local-room-where-your-ai-coding-agents-stop-overwriting-each-other-lga)
+- [Catch PCB defects before ordering](https://dev.to/demivalerith/catch-pcb-defects-before-ordering-3eme)
+- [Conditional Operator &lpar;`?:`&rpar; in Java](https://dev.to/rajeshbhola1/conditional-operator-in-java-4839)
+- [I Ran 10 AI Coding Models Through 5 Tasks: A Data Scientist&#39;s Take](https://dev.to/swift-logic-io218/i-ran-10-ai-coding-models-through-5-tasks-a-data-scientists-take-2e78)
+- [Adaptive Thinking Killed My Token Budget Code: Migrating Off budget_tokens](https://dev.to/pavelespitia/adaptive-thinking-killed-my-token-budget-code-migrating-off-budgettokens-2f49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
