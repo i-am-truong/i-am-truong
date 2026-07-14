@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Used Spec-Driven Development to Build a Game](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
-- [I Put a Hailo 8 in a Handheld and Stopped Paying for Inference](https://dev.to/numbpill3d/i-put-a-hailo-8-in-a-handheld-and-stopped-paying-for-inference-3ih7)
-- [The OSINT Workflow That Finally Made My Notes Useful](https://dev.to/numbpill3d/the-osint-workflow-that-finally-made-my-notes-useful-3cjp)
-- [Hands-On Review: 90 Days as an AI API Affiliate — The Real Numbers Nobody Shows You](https://dev.to/truedeck/hands-on-review-90-days-as-an-ai-api-affiliate-the-real-numbers-nobody-shows-you-485o)
-- [I Built a One-Curl Audio Translator with Telnyx AI Inference](https://dev.to/botoclock/i-built-a-one-curl-audio-translator-with-telnyx-ai-inference-39f9)
+- [Implementing a JA4H-Equivalent Fingerprint with Amazon CloudFront Functions to Mitigate Bot Traffic](https://dev.to/aws-builders/implementing-a-ja4h-equivalent-fingerprint-with-amazon-cloudfront-functions-to-mitigate-bot-traffic-4jbm)
+- [Why Federal Reform Picks AI‑Native Outcome Integrators](https://dev.to/greg_godbout_e3521d702581/why-federal-reform-picks-ai-native-outcome-integrators-4m01)
+- [We Audited an E-Commerce Support Bot, Fixed the Bugs, Then Re-Tested It. The Score Jumped 86 to 91.](https://dev.to/amjad_shaik_2828b1b61d731/we-audited-an-e-commerce-support-bot-fixed-the-bugs-then-re-tested-it-the-score-jumped-86-to-91-2092)
+- [How I Used Spec-Driven Development to Build a Game &lpar;TanStack Start&rpar;](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
+- [I graded my own ML option forecasts. Here&#39;s the Brier score.](https://dev.to/connerlambden/i-graded-my-own-ml-option-forecasts-heres-the-brier-score-20fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
