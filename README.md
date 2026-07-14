@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native + Expo JWT Auth with FastAPI — A Complete Working Example](https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf)
-- [Token Jaccard Similarity in TypeScript: Simple Text Comparison](https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl)
-- [The Leaderboard Is Dead. Here&#39;s What I Actually Reach For.](https://dev.to/vystartasv/the-leaderboard-is-dead-heres-what-i-actually-reach-for-of3)
-- [Audit a Cursor or v0-Built MVP Before You Launch](https://dev.to/alejandxr/audit-a-cursor-or-v0-built-mvp-before-you-launch-a2n)
-- [Vercel + Lovable, GPT-5.6 multiagent, curl security patch — Dev Signal #64](https://dev.to/devsignal/vercel-lovable-gpt-56-multiagent-curl-security-patch-dev-signal-64-3d2b)
+- [The Developer&#39;s Guide to Open-Source AI APIs at Scale](https://dev.to/gentleforge/the-developers-guide-to-open-source-ai-apis-at-scale-1jff)
+- [The LLM Thought a Dollar Was Still ₦450: Building a Car Pricing Engine for a Market With No Data](https://dev.to/chichebe_john_5b060931c73/the-llm-thought-a-dollar-was-still-n450-building-a-car-pricing-engine-for-a-market-with-no-data-1lmj)
+- [How to Verify Square Webhook Signatures &lpar;and the Notification-URL Trap&rpar;](https://dev.to/eventdock/how-to-verify-square-webhook-signatures-and-the-notification-url-trap-32go)
+- [One Tap, Public URL: Building an Android App for Secure Port Forwarding](https://dev.to/orbitforge_studios_1/one-tap-public-url-building-an-android-app-for-secure-port-forwarding-gk0)
+- [Building React Native Shouldn&#39;t Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit](https://dev.to/sanjaysah/building-react-native-shouldnt-feel-like-assembling-ikea-furniture-a-modern-monorepo-starter-kit-pef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
