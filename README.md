@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Developer&#39;s Guide to Open-Source AI APIs at Scale](https://dev.to/gentleforge/the-developers-guide-to-open-source-ai-apis-at-scale-1jff)
-- [The LLM Thought a Dollar Was Still ₦450: Building a Car Pricing Engine for a Market With No Data](https://dev.to/chichebe_john_5b060931c73/the-llm-thought-a-dollar-was-still-n450-building-a-car-pricing-engine-for-a-market-with-no-data-1lmj)
-- [How to Verify Square Webhook Signatures &lpar;and the Notification-URL Trap&rpar;](https://dev.to/eventdock/how-to-verify-square-webhook-signatures-and-the-notification-url-trap-32go)
-- [One Tap, Public URL: Building an Android App for Secure Port Forwarding](https://dev.to/orbitforge_studios_1/one-tap-public-url-building-an-android-app-for-secure-port-forwarding-gk0)
-- [Building React Native Shouldn&#39;t Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit](https://dev.to/sanjaysah/building-react-native-shouldnt-feel-like-assembling-ikea-furniture-a-modern-monorepo-starter-kit-pef)
+- [Which Is to Be Master? Language, Authority and LLMs](https://dev.to/psgtechnautsnl/which-is-to-be-master-language-authority-and-llms-36i8)
+- [Stop Writing try/catch in Every Controller](https://dev.to/vedant8177/stop-writing-trycatch-in-every-controller-2bc3)
+- [We Open-Sourced 42 Construction Calculators — Here&#39;s Why](https://dev.to/misterlsj/we-open-sourced-42-construction-calculators-heres-why-1bd3)
+- [A Practical Guide to Proxies for Web Scraping &lpar;with Python examples&rpar;](https://dev.to/proxyprivat/a-practical-guide-to-proxies-for-web-scraping-with-python-examples-1h6o)
+- [How I Built an Ultra-Fast, Programmatic Results &amp; GPA Portal for My University &lpar;MUET&rpar;](https://dev.to/mokshlohana/how-i-built-an-ultra-fast-programmatic-results-gpa-portal-for-my-university-muet-276n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
