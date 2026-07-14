@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are We Offloading Too Much Thinking to AI?](https://dev.to/onsen/are-we-offloading-too-much-thinking-to-ai-1nmk)
-- [Multi-Agent Systems Need More Than a Prompt](https://dev.to/mbakgun/multi-agent-systems-need-more-than-a-prompt-4g89)
-- [Clearing an off grid price bug out of Polymarket&#39;s order path](https://dev.to/gde03/clearing-an-off-grid-price-bug-out-of-polymarkets-order-path-2g13)
-- [We hit an at-least-once delivery trap. Here is how we fixed the race conditions.](https://dev.to/vinod_erramsetty_191b3e05/we-hit-an-at-least-once-delivery-trap-here-is-how-we-fixed-the-race-conditions-49k3)
-- [How we built Engrava: from cognitive-architecture research to a production library](https://dev.to/sovantica/how-we-built-engrava-from-cognitive-architecture-research-to-a-production-library-4i7i)
+- [The Modern Browser Testing Stack: AI, CI, Human Review, and the Cost of Maintenance](https://dev.to/orbitpickle307/the-modern-browser-testing-stack-ai-ci-human-review-and-the-cost-of-maintenance-4m31)
+- [Why Browser Test Reliability Is Now a Product Decision, Not Just a Framework Decision](https://dev.to/randomsquirrel802/why-browser-test-reliability-is-now-a-product-decision-not-just-a-framework-decision-1p9)
+- [I Built AICostPass Because I Was Tired of Guessing My AI API Costs](https://dev.to/neeraj_uikey_07/i-built-ai-cost-pass-because-i-was-tired-of-guessing-my-ai-api-costs-nd)
+- [Ownership Theater](https://dev.to/imacto/ownership-theater-3hdd)
+- [I Built a Task Orchestrator, Then Deleted Its Best Number](https://dev.to/vystartasv/i-built-a-task-orchestrator-then-deleted-its-best-number-57np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
