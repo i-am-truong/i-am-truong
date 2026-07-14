@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Voice Assistant with Python and Whisper](https://dev.to/qingluan/build-a-voice-assistant-with-python-and-whisper-2dim)
-- [Rust for Python Developers: Why You Should Learn It](https://dev.to/qingluan/rust-for-python-developers-why-you-should-learn-it-3pig)
-- [File Encryption for the Lakehouse: The Terminology, the Machinery, and the Hard Problem of Interoperable Encrypted Tables](https://dev.to/alexmercedcoder/file-encryption-for-the-lakehouse-the-terminology-the-machinery-and-the-hard-problem-of-2akp)
-- [The proposal structure that closed 8 of my last 10 freelance projects](https://dev.to/agentedeia/the-proposal-structure-that-closed-8-of-my-last-10-freelance-projects-1ab3)
-- [# Production Patterns for AI Agent Tool Calling: 8 Lessons from 6 Months of 24/7](https://dev.to/manoir_yantai_f22f01340f0/-production-patterns-for-ai-agent-tool-calling-8-lessons-from-6-months-of-247-3p02)
+- [Privatise your Data Streams with Bring Your Own Cloud &lpar;BYOC&rpar;](https://dev.to/zeliotofficial/privatise-your-data-streams-with-bring-your-own-cloud-byoc-4f8d)
+- [Fix Docker Exit Code 137 &lpar;OOMKilled&rpar;: Why It Happens and How to Stop It](https://dev.to/jjoyneriv/fix-docker-exit-code-137-oomkilled-why-it-happens-and-how-to-stop-it-4ipf)
+- [The Problem: The &quot;Extract-Edit-Recompress&quot; Loop](https://dev.to/mystrowin/the-problem-the-extract-edit-recompress-loop-28og)
+- [CTF Players: Quick File Sharing Setup for Your Team](https://dev.to/simpledrop/ctf-players-quick-file-sharing-setup-for-your-team-59dg)
+- [Lesson 0 - Learning to build with AI: where I learned not to trust it](https://dev.to/smukker/lesson-0-learning-to-build-with-ai-where-i-learned-not-to-trust-it-49hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
