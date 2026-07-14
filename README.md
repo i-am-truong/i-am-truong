@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The pool that got slower the more we shared it](https://dev.to/pedrosakuma/the-pool-that-got-slower-the-more-we-shared-it-57oh)
-- [Can MEV Bots Lose Money? The Hidden Risks of Crypto Arbitrage](https://dev.to/amanmundacollab/can-mev-bots-lose-money-the-hidden-risks-of-crypto-arbitrage-5784)
-- [Busting the &#39;Zero-Cost Fallacy&#39;: Analyzing Open-Source AI Costs in the Agentic Era for Developers](https://dev.to/tamizuddin/busting-the-zero-cost-fallacy-analyzing-open-source-ai-costs-in-the-agentic-era-for-developers-1g1c)
-- [Most code review catches bugs. I shipped one that argues with the design.](https://dev.to/freema/most-code-review-catches-bugs-i-shipped-one-that-argues-with-the-design-1h0h)
-- [8 Things Developers Confidently Explain After Watching One YouTube Video](https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio)
+- [I ran 500 brand queries across ChatGPT/Claude/Gemini/Perplexity. New brands get cited 0% of the time. Full data inside.](https://dev.to/kre8on/i-ran-500-brand-queries-across-chatgptclaudegeminiperplexity-new-brands-get-cited-0-of-the-33gh)
+- [A Dash of dev.to: My Blog Stats Now Live in the Terminal](https://dev.to/lovestaco/a-dash-of-devto-my-blog-stats-now-live-in-the-terminal-4l4e)
+- [Quality is the new Quantity](https://dev.to/timon_krebs_c89f82a68ba4c/quality-is-the-new-quantity-3mdn)
+- [I Cut My AI API Bill by 95% — Here&#39;s How You Can Too](https://dev.to/loyaldash/i-cut-my-ai-api-bill-by-95-heres-how-you-can-too-491e)
+- [Why Meteor 3.5 Is the Most Important Release in Years](https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
