@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;How Discord Timestamps Work — A Complete Guide&quot;](https://dev.to/quratulain_memon_31b25f7e/how-discord-timestamps-work-a-complete-guide-dph)
-- [Did You Know? Mapbox Geocoding API Lets You Filter by Feature Type](https://dev.to/mapbox/did-you-know-mapbox-geocoding-api-lets-you-filter-by-feature-type-3oeb)
-- [Image SEO untuk Galeri Portofolio Proyek: Sitemap, Structured Data, dan Penamaan File](https://dev.to/mightyblue/image-seo-untuk-galeri-portofolio-proyek-sitemap-structured-data-dan-penamaan-file-p2c)
-- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
-- [Chasing the Sentry prize for DEV&#39;s Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506)
+- [The pool that got slower the more we shared it](https://dev.to/pedrosakuma/the-pool-that-got-slower-the-more-we-shared-it-57oh)
+- [Can MEV Bots Lose Money? The Hidden Risks of Crypto Arbitrage](https://dev.to/amanmundacollab/can-mev-bots-lose-money-the-hidden-risks-of-crypto-arbitrage-5784)
+- [Busting the &#39;Zero-Cost Fallacy&#39;: Analyzing Open-Source AI Costs in the Agentic Era for Developers](https://dev.to/tamizuddin/busting-the-zero-cost-fallacy-analyzing-open-source-ai-costs-in-the-agentic-era-for-developers-1g1c)
+- [Most code review catches bugs. I shipped one that argues with the design.](https://dev.to/freema/most-code-review-catches-bugs-i-shipped-one-that-argues-with-the-design-1h0h)
+- [8 Things Developers Confidently Explain After Watching One YouTube Video](https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
