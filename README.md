@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Modern Browser Testing Stack: AI, CI, Human Review, and the Cost of Maintenance](https://dev.to/orbitpickle307/the-modern-browser-testing-stack-ai-ci-human-review-and-the-cost-of-maintenance-4m31)
-- [Why Browser Test Reliability Is Now a Product Decision, Not Just a Framework Decision](https://dev.to/randomsquirrel802/why-browser-test-reliability-is-now-a-product-decision-not-just-a-framework-decision-1p9)
-- [I Built AICostPass Because I Was Tired of Guessing My AI API Costs](https://dev.to/neeraj_uikey_07/i-built-ai-cost-pass-because-i-was-tired-of-guessing-my-ai-api-costs-nd)
-- [Ownership Theater](https://dev.to/imacto/ownership-theater-3hdd)
-- [I Built a Task Orchestrator, Then Deleted Its Best Number](https://dev.to/vystartasv/i-built-a-task-orchestrator-then-deleted-its-best-number-57np)
+- [How I Used Spec-Driven Development to Build a Game](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
+- [I Put a Hailo 8 in a Handheld and Stopped Paying for Inference](https://dev.to/numbpill3d/i-put-a-hailo-8-in-a-handheld-and-stopped-paying-for-inference-3ih7)
+- [The OSINT Workflow That Finally Made My Notes Useful](https://dev.to/numbpill3d/the-osint-workflow-that-finally-made-my-notes-useful-3cjp)
+- [Hands-On Review: 90 Days as an AI API Affiliate — The Real Numbers Nobody Shows You](https://dev.to/truedeck/hands-on-review-90-days-as-an-ai-api-affiliate-the-real-numbers-nobody-shows-you-485o)
+- [I Built a One-Curl Audio Translator with Telnyx AI Inference](https://dev.to/botoclock/i-built-a-one-curl-audio-translator-with-telnyx-ai-inference-39f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
