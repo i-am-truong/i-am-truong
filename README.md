@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bothread: A Free, Local Room Where Your AI Coding Agents Stop Overwriting Each Other](https://dev.to/aidam/bothread-a-free-local-room-where-your-ai-coding-agents-stop-overwriting-each-other-lga)
-- [Catch PCB defects before ordering](https://dev.to/demivalerith/catch-pcb-defects-before-ordering-3eme)
-- [Conditional Operator &lpar;`?:`&rpar; in Java](https://dev.to/rajeshbhola1/conditional-operator-in-java-4839)
-- [I Ran 10 AI Coding Models Through 5 Tasks: A Data Scientist&#39;s Take](https://dev.to/swift-logic-io218/i-ran-10-ai-coding-models-through-5-tasks-a-data-scientists-take-2e78)
-- [Adaptive Thinking Killed My Token Budget Code: Migrating Off budget_tokens](https://dev.to/pavelespitia/adaptive-thinking-killed-my-token-budget-code-migrating-off-budgettokens-2f49)
+- [&quot;How Discord Timestamps Work — A Complete Guide&quot;](https://dev.to/quratulain_memon_31b25f7e/how-discord-timestamps-work-a-complete-guide-dph)
+- [Did You Know? Mapbox Geocoding API Lets You Filter by Feature Type](https://dev.to/mapbox/did-you-know-mapbox-geocoding-api-lets-you-filter-by-feature-type-3oeb)
+- [Image SEO untuk Galeri Portofolio Proyek: Sitemap, Structured Data, dan Penamaan File](https://dev.to/mightyblue/image-seo-untuk-galeri-portofolio-proyek-sitemap-structured-data-dan-penamaan-file-p2c)
+- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
+- [Chasing the Sentry prize for DEV&#39;s Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
