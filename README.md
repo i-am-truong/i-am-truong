@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 33k-token preamble is a bet. Here&#39;s how to check if it&#39;s paying off.](https://dev.to/wrencalloway/the-33k-token-preamble-is-a-bet-heres-how-to-check-if-its-paying-off-3d5h)
-- [nuqs: URL State Management in Next.js &lpar;2026&rpar;](https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn)
-- [--- title: Day 1: Starting My Web Dev Journey on a Tablet description: Learning HTML from scratch learning on my phone using my tablet and Acode. ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-on-a-tablet-description-learning-html-from-scratch-379)
-- [Turn one devlog into posts for every channel with n8n + AI](https://dev.to/shrisab_shrestha_ba84e9a3/turn-one-devlog-into-posts-for-every-channel-with-n8n-ai-35dp)
-- [Self-hosting your email? SPF, DKIM and DMARC decide your inbox rate](https://dev.to/basictechnology/self-hosting-your-email-spf-dkim-and-dmarc-decide-your-inbox-rate-4f2l)
+- [React Native + Expo JWT Auth with FastAPI — A Complete Working Example](https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf)
+- [Token Jaccard Similarity in TypeScript: Simple Text Comparison](https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl)
+- [The Leaderboard Is Dead. Here&#39;s What I Actually Reach For.](https://dev.to/vystartasv/the-leaderboard-is-dead-heres-what-i-actually-reach-for-of3)
+- [Audit a Cursor or v0-Built MVP Before You Launch](https://dev.to/alejandxr/audit-a-cursor-or-v0-built-mvp-before-you-launch-a2n)
+- [Vercel + Lovable, GPT-5.6 multiagent, curl security patch — Dev Signal #64](https://dev.to/devsignal/vercel-lovable-gpt-56-multiagent-curl-security-patch-dev-signal-64-3d2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
