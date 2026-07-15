@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-engineering an MMO Aion 2&#39;s network protocol to build a real-time DPS meter &lpar;Rust + Tauri&rpar;](https://dev.to/aionon/reverse-engineering-an-mmo-aion-2s-network-protocol-to-build-a-real-time-dps-meter-rust-tauri-3157)
-- [When Code &quot;Works&quot; by Accident: Hunting Down an Undocumented Fallback in node-pg-migrate 🔍](https://dev.to/lksferreira/when-code-works-by-accident-hunting-down-an-undocumented-fallback-in-node-pg-migrate-4l7d)
-- [Running an LLM agent entirely in your browser](https://dev.to/lajosbencz/running-an-llm-agent-entirely-in-your-browser-5foe)
-- [What Is Git-Aware Project Management?](https://dev.to/cevahir/what-is-git-aware-project-management-17ob)
-- [Are computers truly random? How chaos powers randomness.](https://dev.to/js_cipher/are-computers-truly-random-how-chaos-powers-randomness-4d93)
+- [Why Converting HTML to WordPress and Elementor Is Still Hard in 2026](https://dev.to/dmitry_hans_db5eae0801980/why-converting-html-to-wordpress-and-elementor-is-still-hard-in-2026-13lc)
+- [Fleet-Scale Robotics: Reliable USB Device Binding on NVIDIA Jetson Orin](https://dev.to/shaifurcodes/fleet-scale-robotics-reliable-usb-device-binding-on-nvidia-jetson-orin-3gei)
+- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
+- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
+- [Access to Claude in China sells for 70-90% below the official API price](https://dev.to/prosvirnin/access-to-claude-in-china-sells-for-70-90-below-the-official-api-price-54ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
