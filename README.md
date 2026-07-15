@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Five Local-First Mac Apps I Built to Fix Everyday Workflow Problems](https://dev.to/quietware/five-local-first-mac-apps-i-built-to-fix-everyday-workflow-problems-4e8o)
-- [find command finds things](https://dev.to/echen4628/find-command-finds-things-506)
-- [Built an autonomous dependency upgrader using Loop Engineering and LangGraph](https://dev.to/sagar_sr_65f558d4eef3b46b/built-an-autonomous-dependency-upgrader-using-loop-engineering-and-langgraph-22a3)
-- [✅ O&lpar;N&rpar; Manacher&#39;s Algorithm with Mirror Boundary Optimization](https://dev.to/dipadityadas/beats-9944-on-manachers-algorithm-with-mirror-boundary-optimization-3lec)
-- [A diagram is data, not a drawing](https://dev.to/msteja/a-diagram-is-data-not-a-drawing-4ej6)
+- [Open Science Desktop: A Local-First Experimental Tool for AI Research](https://dev.to/dd8888/open-science-desktop-a-local-first-experimental-tool-for-ai-research-3lnd)
+- [7 advanced Claude Code tips from 17 months of intense use](https://dev.to/ykdap/7-advanced-claude-code-tips-from-17-months-of-intense-use-13ik)
+- [TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`](https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523)
+- [Non-determinism is the job](https://dev.to/raleighschickel/non-determinism-is-the-job-2omf)
+- [When fastembed silently rotted my worker: anchor your caches, don&#39;t trust /tmp](https://dev.to/yogeshchavan2008/when-fastembed-silently-rotted-my-worker-anchor-your-caches-dont-trust-tmp-3ab3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
