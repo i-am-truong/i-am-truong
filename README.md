@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Jackpot: Why Prompting Feels Like Gambling](https://dev.to/brendon_oneill__/the-ai-jackpot-why-prompting-feels-like-gambling-1fj2)
-- [A Postgres-Backed MCP Server in ~20 Lines](https://dev.to/devopsdaily/a-postgres-backed-mcp-server-in-20-lines-590h)
-- [Constructor in JavaScript](https://dev.to/pranay_7424/constructor-in-javascript-53n9)
-- [Planckian and Quantum Elements Partner on Digital Twins](https://dev.to/vpodk/planckian-and-quantum-elements-partner-on-digital-twins-2bim)
-- [🚀 Building Two AI-Powered Solutions at HACKHAZARDS &#39;26: VeritasFlow &amp; PermitFlow](https://dev.to/tanya_garg_5315/building-two-ai-powered-solutions-at-hackhazards-26-veritasflow-permitflow-ab9)
+- [Building a User-Agent Risk Scorer: Rule Engine + Threat Intel + Community Voting](https://dev.to/arun_krishna_eb30887b00fb/building-a-user-agent-risk-scorer-rule-engine-threat-intel-community-voting-a48)
+- [agentproto 0.4.0 — the daemon grows up into a supervision surface](https://dev.to/agentiknet/agentproto-040-the-daemon-grows-up-into-a-supervision-surface-37ig)
+- [Playwright CLI vs Playwright MCP: Which Should You Use with Claude Code?](https://dev.to/aswani25/playwright-cli-vs-playwright-mcp-which-should-you-use-with-claude-code-1olh)
+- [为什么 AI Agent 都离不开 Workflow？看懂现代 AI 应用的底层设计](https://dev.to/addtoken521/wei-shi-yao-ai-agent-du-chi-bu-kai-workflowkan-dong-xian-dai-ai-ying-yong-de-di-ceng-she-ji-1knb)
+- [Building an AI Agent That Knows When Not to Guess &lpar;Qwen + MCP&rpar;](https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
