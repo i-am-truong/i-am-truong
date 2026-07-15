@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Makes Healthcare App Testing Different from Every Other App Category](https://dev.to/drizzdev/what-makes-healthcare-app-testing-different-from-every-other-app-category-4ibn)
-- [If You Can&#39;t Run It Local, You&#39;re Not Ready to Deploy](https://dev.to/shiva_kadiri/if-you-cant-run-it-local-youre-not-ready-to-deploy-506n)
-- [MCP Design Patterns: 6 Architectures for Your AI Tools](https://dev.to/ben-witt/mcp-design-patterns-6-architectures-for-your-ai-tools-1d02)
-- [NH:STA S01E06 Reproducible Builds](https://dev.to/neighbourhoodie/nhsta-s01e06-reproducible-builds-12o2)
-- [FullAgenticStack: Semantic Behavior Type: LinearAutoDestroy](https://dev.to/fullagenticstack/fullagenticstack-semantic-behavior-type-linearautodestroy-4bi3)
+- [I’m sick of AI “Thinkslop” in my PRs](https://dev.to/nexadiag_nexa_312a4b5f603/im-sick-of-ai-thinkslop-in-my-prs-e)
+- [I Want to Become an Open Source Contributor, But I Don&#39;t Know Where to Start](https://dev.to/glnurltn/i-want-to-become-an-open-source-contributor-but-i-dont-know-where-to-start-p60)
+- [Background Agents: The Open-Source System That Lets AI Code While You Sleep &lpar;382K+ GitHub Stars&rpar;](https://dev.to/coddykit/background-agents-the-open-source-system-that-lets-ai-code-while-you-sleep-2400-github-stars-3bbo)
+- [Building Autonomous AI Agents on Solana — Why Execution Speed Changes Everything](https://dev.to/claudia-ve/building-autonomous-ai-agents-on-solana-why-execution-speed-changes-everything-21j6)
+- [GitHub Copilot Now Prevents Vulnerabilities Before Code Commits](https://dev.to/davekurian/github-copilot-now-prevents-vulnerabilities-before-code-commits-18i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
