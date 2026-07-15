@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Linux Desktop](https://dev.to/kennethloh/setting-up-linux-desktop-16km)
-- [How to Use MCP in a Real TypeScript Agent &lpar;Minimal Example&rpar;](https://dev.to/raju_dandigam/how-to-use-mcp-in-a-real-typescript-agent-minimal-example-13m5)
-- [LangSmith vs Traccia: Observe vs Enforce in Production AI Agents](https://dev.to/nehaaaa6/langsmith-vs-traccia-observe-vs-enforce-in-production-ai-agents-517c)
-- [Building Reliable Event-Driven Systems: Event Schemas, Versioning, Contract Testing and Events vs Commands &lpar;part-2&rpar;](https://dev.to/morpheus-vera/building-reliable-event-driven-systems-event-schemas-versioning-contract-testing-and-events-vs-28oa)
-- [From MERN to Modern Full Stack: Everything That Changed](https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98)
+- [What Makes Healthcare App Testing Different from Every Other App Category](https://dev.to/drizzdev/what-makes-healthcare-app-testing-different-from-every-other-app-category-4ibn)
+- [If You Can&#39;t Run It Local, You&#39;re Not Ready to Deploy](https://dev.to/shiva_kadiri/if-you-cant-run-it-local-youre-not-ready-to-deploy-506n)
+- [MCP Design Patterns: 6 Architectures for Your AI Tools](https://dev.to/ben-witt/mcp-design-patterns-6-architectures-for-your-ai-tools-1d02)
+- [NH:STA S01E06 Reproducible Builds](https://dev.to/neighbourhoodie/nhsta-s01e06-reproducible-builds-12o2)
+- [FullAgenticStack: Semantic Behavior Type: LinearAutoDestroy](https://dev.to/fullagenticstack/fullagenticstack-semantic-behavior-type-linearautodestroy-4bi3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
