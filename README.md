@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real Time Sports Scoring Engine with WebSockets and DynamoDB Streams](https://dev.to/kevincoto/building-a-real-time-sports-scoring-engine-with-websockets-and-dynamodb-streams-5c96)
-- [st – The missing unified installer and runner for Smalltalk](https://dev.to/hernanfmd/st-the-missing-unified-installer-and-runner-for-smalltalk-53ho)
-- [Stratagems #14: Leo Found an AI Leak. He Wasn&#39;t the First to Find It.](https://dev.to/xulingfeng/stratagems-14-leo-found-an-ai-leak-he-wasnt-the-first-to-find-it-jd6)
-- [Seven things to check before a WordPress major upgrade — before &quot;patch what breaks after&quot; becomes a disaster](https://dev.to/susumun/seven-things-to-check-before-a-wordpress-major-upgrade-before-patch-what-breaks-after-becomes-a-32f7)
-- [From Dubai to Thailand: How I Landed a Remote Role at a South African Company](https://dev.to/kevincoto/from-dubai-to-thailand-how-i-found-remote-work-across-three-continents-5fc3)
+- [Large-Scale TensorCircuit Contractions on GPUs: Disabling XLA GPU Autotuning](https://dev.to/refractionray/large-scale-tensorcircuit-contractions-on-gpus-disabling-xla-gpu-autotuning-3p2)
+- [Your AI Agent&#39;s Bill Tripled Overnight. The Prompt Cache Broke, Not the Model.](https://dev.to/speed_engineer/your-ai-agents-bill-tripled-overnight-the-prompt-cache-broke-not-the-model-32b2)
+- [I built a blazing-fast OpenAPI mock server in Rust — starts in milliseconds, zero config, dynamic fake data](https://dev.to/haowang604/i-built-a-blazing-fast-openapi-mock-server-in-rust-starts-in-milliseconds-zero-config-dynamic-jmd)
+- [My Agent&#39;s Git Checkout Left Two Commits Floating in Nowhere. Worktrees Fixed the Actual Problem.](https://dev.to/enjoy_kumawat/my-agents-git-checkout-left-two-commits-floating-in-nowhere-worktrees-fixed-the-actual-problem-54m2)
+- [My Project Docs Aren&#39;t For Humans Anymore. They&#39;re For an Agent That Re-Reads Them Every Session.](https://dev.to/enjoy_kumawat/my-project-docs-arent-for-humans-anymore-theyre-for-an-agent-that-re-reads-them-every-session-56a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
