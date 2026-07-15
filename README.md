@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Open Source Contribution That Got Merged](https://dev.to/prashant_patil_49/my-first-open-source-contribution-that-got-merged-4jc9)
-- [Show DEV: Six Browser Tools, Six Different Product Constraints](https://dev.to/tao_li_a9489b720b5123f192/show-dev-six-browser-tools-six-different-product-constraints-383f)
-- [A Black Box Drawn Over a PDF Isn&#39;t Redaction — Here&#39;s How I Fixed It Client-Side](https://dev.to/androve2k/a-black-box-drawn-over-a-pdf-isnt-redaction-heres-how-i-fixed-it-client-side-10hd)
-- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48)
-- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8)
+- [The AI Jackpot: Why Prompting Feels Like Gambling](https://dev.to/brendon_oneill__/the-ai-jackpot-why-prompting-feels-like-gambling-1fj2)
+- [A Postgres-Backed MCP Server in ~20 Lines](https://dev.to/devopsdaily/a-postgres-backed-mcp-server-in-20-lines-590h)
+- [Constructor in JavaScript](https://dev.to/pranay_7424/constructor-in-javascript-53n9)
+- [Planckian and Quantum Elements Partner on Digital Twins](https://dev.to/vpodk/planckian-and-quantum-elements-partner-on-digital-twins-2bim)
+- [🚀 Building Two AI-Powered Solutions at HACKHAZARDS &#39;26: VeritasFlow &amp; PermitFlow](https://dev.to/tanya_garg_5315/building-two-ai-powered-solutions-at-hackhazards-26-veritasflow-permitflow-ab9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
