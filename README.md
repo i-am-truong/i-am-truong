@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Invisible Product: What 107 Consecutive Days of 9 Autonomous Agents Actually Produces](https://dev.to/zwiserfit/the-invisible-product-what-107-consecutive-days-of-9-autonomous-agents-actually-produces-1am8)
-- [PowerPulse II](https://dev.to/suzzanenhyira/powerpulse-ii-4eh9)
-- [Beyond Chat: Building a Task-First AI Agent Platform for Teams](https://dev.to/coffeehc/beyond-chat-building-a-task-first-ai-agent-platform-for-teams-32dg)
-- [Demystifying libuv: The Secret Engine Powering Node.js](https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik)
-- [WordPress Has a DX Problem, and Developers Are Paying for It](https://dev.to/jeansmaug/wordpress-has-a-dx-problem-and-developers-are-paying-for-it-c9f)
+- [Five Local-First Mac Apps I Built to Fix Everyday Workflow Problems](https://dev.to/quietware/five-local-first-mac-apps-i-built-to-fix-everyday-workflow-problems-4e8o)
+- [find command finds things](https://dev.to/echen4628/find-command-finds-things-506)
+- [Built an autonomous dependency upgrader using Loop Engineering and LangGraph](https://dev.to/sagar_sr_65f558d4eef3b46b/built-an-autonomous-dependency-upgrader-using-loop-engineering-and-langgraph-22a3)
+- [✅ O&lpar;N&rpar; Manacher&#39;s Algorithm with Mirror Boundary Optimization](https://dev.to/dipadityadas/beats-9944-on-manachers-algorithm-with-mirror-boundary-optimization-3lec)
+- [A diagram is data, not a drawing](https://dev.to/msteja/a-diagram-is-data-not-a-drawing-4ej6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
