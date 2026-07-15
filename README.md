@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a User-Agent Risk Scorer: Rule Engine + Threat Intel + Community Voting](https://dev.to/arun_krishna_eb30887b00fb/building-a-user-agent-risk-scorer-rule-engine-threat-intel-community-voting-a48)
-- [agentproto 0.4.0 — the daemon grows up into a supervision surface](https://dev.to/agentiknet/agentproto-040-the-daemon-grows-up-into-a-supervision-surface-37ig)
-- [Playwright CLI vs Playwright MCP: Which Should You Use with Claude Code?](https://dev.to/aswani25/playwright-cli-vs-playwright-mcp-which-should-you-use-with-claude-code-1olh)
-- [为什么 AI Agent 都离不开 Workflow？看懂现代 AI 应用的底层设计](https://dev.to/addtoken521/wei-shi-yao-ai-agent-du-chi-bu-kai-workflowkan-dong-xian-dai-ai-ying-yong-de-di-ceng-she-ji-1knb)
-- [Building an AI Agent That Knows When Not to Guess &lpar;Qwen + MCP&rpar;](https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl)
+- [The Invisible Product: What 107 Consecutive Days of 9 Autonomous Agents Actually Produces](https://dev.to/zwiserfit/the-invisible-product-what-107-consecutive-days-of-9-autonomous-agents-actually-produces-1am8)
+- [PowerPulse II](https://dev.to/suzzanenhyira/powerpulse-ii-4eh9)
+- [Beyond Chat: Building a Task-First AI Agent Platform for Teams](https://dev.to/coffeehc/beyond-chat-building-a-task-first-ai-agent-platform-for-teams-32dg)
+- [Demystifying libuv: The Secret Engine Powering Node.js](https://dev.to/manojkhatri2026/demystifying-libuv-the-secret-engine-powering-nodejs-5ik)
+- [WordPress Has a DX Problem, and Developers Are Paying for It](https://dev.to/jeansmaug/wordpress-has-a-dx-problem-and-developers-are-paying-for-it-c9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
