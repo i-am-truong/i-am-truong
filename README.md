@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Large-Scale TensorCircuit Contractions on GPUs: Disabling XLA GPU Autotuning](https://dev.to/refractionray/large-scale-tensorcircuit-contractions-on-gpus-disabling-xla-gpu-autotuning-3p2)
-- [Your AI Agent&#39;s Bill Tripled Overnight. The Prompt Cache Broke, Not the Model.](https://dev.to/speed_engineer/your-ai-agents-bill-tripled-overnight-the-prompt-cache-broke-not-the-model-32b2)
-- [I built a blazing-fast OpenAPI mock server in Rust — starts in milliseconds, zero config, dynamic fake data](https://dev.to/haowang604/i-built-a-blazing-fast-openapi-mock-server-in-rust-starts-in-milliseconds-zero-config-dynamic-jmd)
-- [My Agent&#39;s Git Checkout Left Two Commits Floating in Nowhere. Worktrees Fixed the Actual Problem.](https://dev.to/enjoy_kumawat/my-agents-git-checkout-left-two-commits-floating-in-nowhere-worktrees-fixed-the-actual-problem-54m2)
-- [My Project Docs Aren&#39;t For Humans Anymore. They&#39;re For an Agent That Re-Reads Them Every Session.](https://dev.to/enjoy_kumawat/my-project-docs-arent-for-humans-anymore-theyre-for-an-agent-that-re-reads-them-every-session-56a7)
+- [Setting up Linux Desktop](https://dev.to/kennethloh/setting-up-linux-desktop-16km)
+- [How to Use MCP in a Real TypeScript Agent &lpar;Minimal Example&rpar;](https://dev.to/raju_dandigam/how-to-use-mcp-in-a-real-typescript-agent-minimal-example-13m5)
+- [LangSmith vs Traccia: Observe vs Enforce in Production AI Agents](https://dev.to/nehaaaa6/langsmith-vs-traccia-observe-vs-enforce-in-production-ai-agents-517c)
+- [Building Reliable Event-Driven Systems: Event Schemas, Versioning, Contract Testing and Events vs Commands &lpar;part-2&rpar;](https://dev.to/morpheus-vera/building-reliable-event-driven-systems-event-schemas-versioning-contract-testing-and-events-vs-28oa)
+- [From MERN to Modern Full Stack: Everything That Changed](https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
