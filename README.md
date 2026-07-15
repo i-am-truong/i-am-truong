@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Science Desktop: A Local-First Experimental Tool for AI Research](https://dev.to/dd8888/open-science-desktop-a-local-first-experimental-tool-for-ai-research-3lnd)
-- [7 advanced Claude Code tips from 17 months of intense use](https://dev.to/ykdap/7-advanced-claude-code-tips-from-17-months-of-intense-use-13ik)
-- [TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`](https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523)
-- [Non-determinism is the job](https://dev.to/raleighschickel/non-determinism-is-the-job-2omf)
-- [When fastembed silently rotted my worker: anchor your caches, don&#39;t trust /tmp](https://dev.to/yogeshchavan2008/when-fastembed-silently-rotted-my-worker-anchor-your-caches-dont-trust-tmp-3ab3)
+- [Reverse-engineering an MMO Aion 2&#39;s network protocol to build a real-time DPS meter &lpar;Rust + Tauri&rpar;](https://dev.to/aionon/reverse-engineering-an-mmo-aion-2s-network-protocol-to-build-a-real-time-dps-meter-rust-tauri-3157)
+- [When Code &quot;Works&quot; by Accident: Hunting Down an Undocumented Fallback in node-pg-migrate 🔍](https://dev.to/lksferreira/when-code-works-by-accident-hunting-down-an-undocumented-fallback-in-node-pg-migrate-4l7d)
+- [Running an LLM agent entirely in your browser](https://dev.to/lajosbencz/running-an-llm-agent-entirely-in-your-browser-5foe)
+- [What Is Git-Aware Project Management?](https://dev.to/cevahir/what-is-git-aware-project-management-17ob)
+- [Are computers truly random? How chaos powers randomness.](https://dev.to/js_cipher/are-computers-truly-random-how-chaos-powers-randomness-4d93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
