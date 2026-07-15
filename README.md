@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a JA4H-Equivalent Fingerprint with Amazon CloudFront Functions to Mitigate Bot Traffic](https://dev.to/aws-builders/implementing-a-ja4h-equivalent-fingerprint-with-amazon-cloudfront-functions-to-mitigate-bot-traffic-4jbm)
-- [Why Federal Reform Picks AI‑Native Outcome Integrators](https://dev.to/greg_godbout_e3521d702581/why-federal-reform-picks-ai-native-outcome-integrators-4m01)
-- [We Audited an E-Commerce Support Bot, Fixed the Bugs, Then Re-Tested It. The Score Jumped 86 to 91.](https://dev.to/amjad_shaik_2828b1b61d731/we-audited-an-e-commerce-support-bot-fixed-the-bugs-then-re-tested-it-the-score-jumped-86-to-91-2092)
-- [How I Used Spec-Driven Development to Build a Game &lpar;TanStack Start&rpar;](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
-- [I graded my own ML option forecasts. Here&#39;s the Brier score.](https://dev.to/connerlambden/i-graded-my-own-ml-option-forecasts-heres-the-brier-score-20fp)
+- [Building a Real Time Sports Scoring Engine with WebSockets and DynamoDB Streams](https://dev.to/kevincoto/building-a-real-time-sports-scoring-engine-with-websockets-and-dynamodb-streams-5c96)
+- [st – The missing unified installer and runner for Smalltalk](https://dev.to/hernanfmd/st-the-missing-unified-installer-and-runner-for-smalltalk-53ho)
+- [Stratagems #14: Leo Found an AI Leak. He Wasn&#39;t the First to Find It.](https://dev.to/xulingfeng/stratagems-14-leo-found-an-ai-leak-he-wasnt-the-first-to-find-it-jd6)
+- [Seven things to check before a WordPress major upgrade — before &quot;patch what breaks after&quot; becomes a disaster](https://dev.to/susumun/seven-things-to-check-before-a-wordpress-major-upgrade-before-patch-what-breaks-after-becomes-a-32f7)
+- [From Dubai to Thailand: How I Landed a Remote Role at a South African Company](https://dev.to/kevincoto/from-dubai-to-thailand-how-i-found-remote-work-across-three-continents-5fc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
