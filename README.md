@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding CORS Preflight Requests](https://dev.to/alireza_hassankhani_b8401/understanding-cors-preflight-requests-4bf)
-- [Python Exception Handling: Tracing try/except/else/finally Blocks](https://dev.to/ameer_abdullah_68d48c8496/python-exception-handling-tracing-tryexceptelsefinally-blocks-l02)
-- [HTTP QUERY is here: what changes for frontend data fetching?](https://dev.to/mspk97/http-query-is-here-what-changes-for-frontend-data-fetching-456j)
-- [Merge Concurrent Agent Patches by Base Commit and Hunk Ownership](https://dev.to/robinzzz/merge-concurrent-agent-patches-by-base-commit-and-hunk-ownership-4fnc)
-- [Show What an AI Agent Did Not Inspect Before Asking for Review](https://dev.to/haaaaaley/show-what-an-ai-agent-did-not-inspect-before-asking-for-review-30jb)
+- [My First Open Source Contribution That Got Merged](https://dev.to/prashant_patil_49/my-first-open-source-contribution-that-got-merged-4jc9)
+- [Show DEV: Six Browser Tools, Six Different Product Constraints](https://dev.to/tao_li_a9489b720b5123f192/show-dev-six-browser-tools-six-different-product-constraints-383f)
+- [A Black Box Drawn Over a PDF Isn&#39;t Redaction — Here&#39;s How I Fixed It Client-Side](https://dev.to/androve2k/a-black-box-drawn-over-a-pdf-isnt-redaction-heres-how-i-fixed-it-client-side-10hd)
+- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48)
+- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
