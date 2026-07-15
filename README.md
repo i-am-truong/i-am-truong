@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I’m sick of AI “Thinkslop” in my PRs](https://dev.to/nexadiag_nexa_312a4b5f603/im-sick-of-ai-thinkslop-in-my-prs-e)
-- [I Want to Become an Open Source Contributor, But I Don&#39;t Know Where to Start](https://dev.to/glnurltn/i-want-to-become-an-open-source-contributor-but-i-dont-know-where-to-start-p60)
-- [Background Agents: The Open-Source System That Lets AI Code While You Sleep &lpar;382K+ GitHub Stars&rpar;](https://dev.to/coddykit/background-agents-the-open-source-system-that-lets-ai-code-while-you-sleep-2400-github-stars-3bbo)
-- [Building Autonomous AI Agents on Solana — Why Execution Speed Changes Everything](https://dev.to/claudia-ve/building-autonomous-ai-agents-on-solana-why-execution-speed-changes-everything-21j6)
-- [GitHub Copilot Now Prevents Vulnerabilities Before Code Commits](https://dev.to/davekurian/github-copilot-now-prevents-vulnerabilities-before-code-commits-18i6)
+- [Understanding CORS Preflight Requests](https://dev.to/alireza_hassankhani_b8401/understanding-cors-preflight-requests-4bf)
+- [Python Exception Handling: Tracing try/except/else/finally Blocks](https://dev.to/ameer_abdullah_68d48c8496/python-exception-handling-tracing-tryexceptelsefinally-blocks-l02)
+- [HTTP QUERY is here: what changes for frontend data fetching?](https://dev.to/mspk97/http-query-is-here-what-changes-for-frontend-data-fetching-456j)
+- [Merge Concurrent Agent Patches by Base Commit and Hunk Ownership](https://dev.to/robinzzz/merge-concurrent-agent-patches-by-base-commit-and-hunk-ownership-4fnc)
+- [Show What an AI Agent Did Not Inspect Before Asking for Review](https://dev.to/haaaaaley/show-what-an-ai-agent-did-not-inspect-before-asking-for-review-30jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
