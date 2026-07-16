@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;4&rpar; Error Handling](https://dev.to/tecturajpndx/d365-customer-insights-for-our-own-sales-team-customer-zero-4-error-handling-16pc)
-- [hermes-memory-installer Recent Update: Auto-Repair for Targeted gbrain Missing Embeddings](https://dev.to/mage0535/hermes-memory-installer-recent-update-auto-repair-for-targeted-gbrain-missing-embeddings-30o4)
-- [Running Gemma 4 26B on a 13-Year-Old Xeon: Practical AI Performance Without GPUs](https://dev.to/tamizuddin/running-gemma-4-26b-on-a-13-year-old-xeon-practical-ai-performance-without-gpus-1m4l)
-- [WireGuard, Seen From Both Sides: The Same Ping as Ciphertext and Cleartext](https://dev.to/pathvector-dev/wireguard-seen-from-both-sides-the-same-ping-as-ciphertext-and-cleartext-4p3i)
-- [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k)
+- [Andrej Karpathy Skills review: a single 189k-star CLAUDE.md](https://dev.to/yimtheppariyapol/andrej-karpathy-skills-review-a-single-189k-star-claudemd-4f78)
+- [mattpocock/skills review: a real engineer&#39;s .claude, 160k stars](https://dev.to/yimtheppariyapol/mattpocockskills-review-a-real-engineers-claude-160k-stars-4d3f)
+- [Addy Osmani agent-skills review: 24 production skills, 72.6k stars](https://dev.to/yimtheppariyapol/addy-osmani-agent-skills-review-24-production-skills-726k-stars-22em)
+- [REST, WebSocket, and Recovery: A Production Architecture for Live Sports Data](https://dev.to/thesports_api/rest-websocket-and-recovery-a-production-architecture-for-live-sports-data-24f1)
+- [Boost Your Productivity: Atlassian&#39;s AI-Powered Jira Revolution](https://dev.to/davekurian/boost-your-productivity-atlassians-ai-powered-jira-revolution-42ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
