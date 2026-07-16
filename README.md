@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your CSS Grid cards look misaligned. `subgrid` is the fix you didn&#39;t know existed.](https://dev.to/parsajiravand/your-css-grid-cards-look-misaligned-subgrid-is-the-fix-you-didnt-know-existed-k94)
-- [Watching Agents by Inithouse vs dashboards and alerts: monitoring future questions, not metrics](https://dev.to/jakub_inithouse/watching-agents-by-inithouse-vs-dashboards-and-alerts-monitoring-future-questions-not-metrics-1i4n)
-- [C++ Standard Library Hidden Gems — 6 Headers You&#39;re Probably Overlooking](https://dev.to/alanwu/c-standard-library-hidden-gems-6-headers-youre-probably-overlooking-4h7p)
-- [Why does my React component crash on the first render when using data fetched inside useEffect&lpar;&rpar;?](https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3)
-- [Deploying AI-Powered Laravel Apps: Queues, Streaming, Timeouts](https://dev.to/deploynix/deploying-ai-powered-laravel-apps-queues-streaming-timeouts-5dck)
+- [I Was Tired of Writing the Same Design Docs From Scratch, So I Built a Skill Library for It](https://dev.to/fattain_naime/i-was-tired-of-writing-the-same-design-docs-from-scratch-so-i-built-a-skill-library-for-it-2plg)
+- [Technical Debt vs Diff Debt, and Why I Stopped Treating Them as the Same Thing](https://dev.to/erdibay/technical-debt-vs-diff-debt-and-why-i-stopped-treating-them-as-the-same-thing-2e66)
+- [The most expensive outages return HTTP 200](https://dev.to/adioof/the-most-expensive-outages-return-http-200-k8d)
+- [Incident Postmortem Template &amp; Guide for Engineering Teams](https://dev.to/projiq/incident-postmortem-template-guide-for-engineering-teams-idc)
+- [Podman Quadlet vs Docker Compose for Linux Services](https://dev.to/rosgluk/podman-quadlet-vs-docker-compose-for-linux-services-gci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
