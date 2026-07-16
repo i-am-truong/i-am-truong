@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beware: Your Coding Agent Trips the Same EDR Rules Built to Catch Attackers](https://dev.to/terminalblog/beware-your-coding-agent-trips-the-same-edr-rules-built-to-catch-attackers-5055)
-- [The AI Tools I Use Every Day as a Developer &lpar;March 2026&rpar;](https://dev.to/akaranjkar08/the-ai-tools-i-use-every-day-as-a-developer-march-2026-32ge)
-- [MCP Servers Explained: How Claude Code Connects to Everything](https://dev.to/akaranjkar08/mcp-servers-explained-how-claude-code-connects-to-everything-2apo)
-- [Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!](https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne)
-- [The Deploy Was Boring. That Was The Whole Point](https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if)
+- [Create Logos and Full Brand Kits Inside Claude: A Practical Guide to the Zoviz MCP Server](https://dev.to/zovizapp/create-logos-and-full-brand-kits-inside-claude-a-practical-guide-to-the-zoviz-mcp-server-1b5n)
+- [The Encryption Conflict &lpar;1994-1996&rpar;: The Battle for Data Sovereignty](https://dev.to/bioshistory/the-encryption-conflict-1994-1996-the-battle-for-data-sovereignty-57do)
+- [Mastering Edge AI: How to Build High-Speed Vision Analyzers on Android](https://dev.to/programmingcentral/mastering-edge-ai-how-to-build-high-speed-vision-analyzers-on-android-4m4c)
+- [Why Uber&#39;s $1,200 Claude Code Session Is Actually a Routing Problem](https://dev.to/aplomb2/why-ubers-1200-claude-code-session-is-actually-a-routing-problem-d66)
+- [Dá pra fazer jogos usando JS/TS sem game engine?](https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
