@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rootstock RPC: An EVM Chain Where Gas Is Bitcoin](https://dev.to/swiftnodes/rootstock-rpc-an-evm-chain-where-gas-is-bitcoin-1n44)
-- [Pequenos LLMs: 1 bilhão de parâmetros e o desafio do desempenho](https://dev.to/jesusia/pequenos-llms-1-bilhao-de-parametros-e-o-desafio-do-desempenho-bbl)
-- [How Uber Finds You a Driver in 3 Seconds &lpar;System Design Teardown&rpar;](https://dev.to/gargkunal/how-uber-finds-you-a-driver-in-3-seconds-system-design-teardown-1phf)
-- [Anthropic preps $965B IPO as agent infrastructure expands to microVMs](https://dev.to/sivarampg/anthropic-preps-965b-ipo-as-agent-infrastructure-expands-to-microvms-4abb)
-- [The React 2013 &quot;Marketing Pitch&quot;](https://dev.to/codesmithnazim/the-react-2013-marketing-pitch-16bb)
+- [Your CSS Grid cards look misaligned. `subgrid` is the fix you didn&#39;t know existed.](https://dev.to/parsajiravand/your-css-grid-cards-look-misaligned-subgrid-is-the-fix-you-didnt-know-existed-k94)
+- [Watching Agents by Inithouse vs dashboards and alerts: monitoring future questions, not metrics](https://dev.to/jakub_inithouse/watching-agents-by-inithouse-vs-dashboards-and-alerts-monitoring-future-questions-not-metrics-1i4n)
+- [C++ Standard Library Hidden Gems — 6 Headers You&#39;re Probably Overlooking](https://dev.to/alanwu/c-standard-library-hidden-gems-6-headers-youre-probably-overlooking-4h7p)
+- [Why does my React component crash on the first render when using data fetched inside useEffect&lpar;&rpar;?](https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3)
+- [Deploying AI-Powered Laravel Apps: Queues, Streaming, Timeouts](https://dev.to/deploynix/deploying-ai-powered-laravel-apps-queues-streaming-timeouts-5dck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
