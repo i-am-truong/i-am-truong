@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2026-W28: Four Types of Agency Corrosion](https://dev.to/s_a_shkuratov/2026-w28-four-types-of-agency-corrosion-42h0)
-- [What I Learned Reviewing 200 Python Interview Questions](https://dev.to/ameer_abdullah_68d48c8496/what-i-learned-reviewing-200-python-interview-questions-kpo)
-- [AI Automation Pipeline That Saves Hours of Manual Work Every Day](https://dev.to/automationslimited/ai-automation-pipeline-that-saves-hours-of-manual-work-every-day-12oj)
-- [What a coding agent actually costs per month, by model &lpar;2026&rpar;](https://dev.to/khavel/what-a-coding-agent-actually-costs-per-month-by-model-2026-3ac9)
-- [This Free Quiz Helps You Find Your Frontend Career Path](https://dev.to/frontend_carter/this-free-quiz-helps-you-find-your-frontend-career-path-34kc)
+- [We&#39;re Hiring: Senior Solidity Engineer](https://dev.to/hrry_schn0110/were-hiring-senior-solidity-engineer-2oca)
+- [⚠️ Common Issues 🪲 with LLMs &amp; AI Agents 🤖 — and How to Fix Them 🛠️](https://dev.to/truongpx396/common-issues-with-llms-ai-agents-and-how-to-fix-them-2681)
+- [Crabbox: Cloud Sandboxes for Parallel Coding Agents](https://dev.to/aijasonz/crabbox-cloud-sandboxes-for-parallel-coding-agents-3bbc)
+- [How to generate course completion certificates from HTML in Laravel](https://dev.to/accreditly/how-to-generate-course-completion-certificates-from-html-in-laravel-2hdn)
+- [AI memory가 자기 출력을 다시 입력으로 세지 않게 하는 법](https://dev.to/junhyun-dev/ai-memoryga-jagi-culryeogeul-dasi-ibryeogeuro-seji-anhge-haneun-beob-2k0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
