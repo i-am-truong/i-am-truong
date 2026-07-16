@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
-- [macOS runs out of application memory because your dead dev servers never die](https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c)
-- [From First-Run Drop-Off to First Useful Agent Run](https://dev.to/bengreenberg/from-first-run-drop-off-to-first-useful-agent-run-mde)
-- [Physics-Augmented Diffusion Modeling for planetary geology survey missions across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-across-multilingual-1mn3)
-- [How I Built an AI Alt Text Generator for WordPress — and What I Learned](https://dev.to/benoats/how-i-built-an-ai-alt-text-generator-for-wordpress-and-what-i-learned-4292)
+- [Why There&#39;s No Example Code for B2B SaaS Apps &lpar;And What to Do About It&rpar;](https://dev.to/brino666/why-theres-no-example-code-for-b2b-saas-apps-and-what-to-do-about-it-2oma)
+- [5 JavaScript Features I Wish I Had Learned Earlier](https://dev.to/codexsavage6s/5-javascript-features-i-wish-i-had-learned-earlier-1lpa)
+- [Building a custom Contentful Rich Text editor: the round-trip problem](https://dev.to/yeezy2277/building-a-custom-contentful-rich-text-editor-the-round-trip-problem-51cm)
+- [Is your site ready to be cited by AI? A practical intro to GEO &lpar;Generative Engine Optimization&rpar;](https://dev.to/marcocaciotti/is-your-site-ready-to-be-cited-by-ai-a-practical-intro-to-geo-generative-engine-optimization-m3m)
+- [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
