@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is an &quot;agentic harness,&quot; actually?](https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie)
-- [RES, my personal safeguard against AI](https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8)
-- [Hallmark: Together AI Open-Sources an &quot;Anti-AI-Slop&quot; Tool for Web Design](https://dev.to/terminalchai/hallmark-together-ai-open-sources-an-anti-ai-slop-tool-for-web-design-3nkb)
-- [From 9% to 63%: Letting a Benchmark Build a Better MCP Security Proxy](https://dev.to/gowthaman90/from-9-to-63-letting-a-benchmark-build-a-better-mcp-security-proxy-3gg8)
-- [My Agent Shipped 3 PRs in an Evening. 40% of My Messages Were Corrections.](https://dev.to/vystartasv/my-agent-shipped-3-prs-in-an-evening-40-of-my-messages-were-corrections-5jo)
+- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
+- [macOS runs out of application memory because your dead dev servers never die](https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c)
+- [From First-Run Drop-Off to First Useful Agent Run](https://dev.to/bengreenberg/from-first-run-drop-off-to-first-useful-agent-run-mde)
+- [Physics-Augmented Diffusion Modeling for planetary geology survey missions across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-across-multilingual-1mn3)
+- [How I Built an AI Alt Text Generator for WordPress — and What I Learned](https://dev.to/benoats/how-i-built-an-ai-alt-text-generator-for-wordpress-and-what-i-learned-4292)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
