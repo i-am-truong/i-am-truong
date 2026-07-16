@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re Hiring: Senior Solidity Engineer](https://dev.to/hrry_schn0110/were-hiring-senior-solidity-engineer-2oca)
-- [⚠️ Common Issues 🪲 with LLMs &amp; AI Agents 🤖 — and How to Fix Them 🛠️](https://dev.to/truongpx396/common-issues-with-llms-ai-agents-and-how-to-fix-them-2681)
-- [Crabbox: Cloud Sandboxes for Parallel Coding Agents](https://dev.to/aijasonz/crabbox-cloud-sandboxes-for-parallel-coding-agents-3bbc)
-- [How to generate course completion certificates from HTML in Laravel](https://dev.to/accreditly/how-to-generate-course-completion-certificates-from-html-in-laravel-2hdn)
-- [AI memory가 자기 출력을 다시 입력으로 세지 않게 하는 법](https://dev.to/junhyun-dev/ai-memoryga-jagi-culryeogeul-dasi-ibryeogeuro-seji-anhge-haneun-beob-2k0g)
+- [Your Test Data May Be More Dangerous Than Your Production Database](https://dev.to/da-li-at-pl/your-test-data-may-be-more-dangerous-than-your-production-database-492a)
+- [GDPR Compliance Fails When It Exists Only in Policy Documents](https://dev.to/da-li-at-pl/gdpr-compliance-fails-when-it-exists-only-in-policy-documents-25pe)
+- [What Is a Semantic Layer? A Practical Guide for Data Engineers](https://dev.to/maxbonnard/what-is-a-semantic-layer-a-practical-guide-for-data-engineers-3i1g)
+- [Self-Service BI Is a Lie &lpar;Unless You Govern the Metrics&rpar;](https://dev.to/maxbonnard/self-service-bi-is-a-lie-unless-you-govern-the-metrics-2o6)
+- [Real-Time Analytics: When You Need It and When You Don&#39;t](https://dev.to/maxbonnard/real-time-analytics-when-you-need-it-and-when-you-dont-2pok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
