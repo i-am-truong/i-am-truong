@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Test Data May Be More Dangerous Than Your Production Database](https://dev.to/da-li-at-pl/your-test-data-may-be-more-dangerous-than-your-production-database-492a)
-- [GDPR Compliance Fails When It Exists Only in Policy Documents](https://dev.to/da-li-at-pl/gdpr-compliance-fails-when-it-exists-only-in-policy-documents-25pe)
-- [What Is a Semantic Layer? A Practical Guide for Data Engineers](https://dev.to/maxbonnard/what-is-a-semantic-layer-a-practical-guide-for-data-engineers-3i1g)
-- [Self-Service BI Is a Lie &lpar;Unless You Govern the Metrics&rpar;](https://dev.to/maxbonnard/self-service-bi-is-a-lie-unless-you-govern-the-metrics-2o6)
-- [Real-Time Analytics: When You Need It and When You Don&#39;t](https://dev.to/maxbonnard/real-time-analytics-when-you-need-it-and-when-you-dont-2pok)
+- [How to Save Tokens in Claude Code: Practical Habits for Test Automation Sessions](https://dev.to/aswani25/how-to-save-tokens-in-claude-code-practical-habits-for-test-automation-sessions-2mic)
+- [When Batching Your AI Agents Makes Them Read Each Other&#39;s Mail](https://dev.to/yuva_kunaal/when-batching-your-ai-agents-makes-them-read-each-others-mail-2n33)
+- [How GAUNTLEX Gates HIPAA/FINRA Compliance in CI](https://dev.to/sanjoy1234/how-gauntlex-gates-hipaafinra-compliance-in-ci-29hj)
+- [Your Tenth Ship Is Always Someone&#39;s First](https://dev.to/vystartasv/your-tenth-ship-is-always-someones-first-129)
+- [A Compliance Checklist for Entering a New EU Market](https://dev.to/sumaskeller/a-compliance-checklist-for-entering-a-new-eu-market-276g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
