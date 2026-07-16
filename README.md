@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I picked Astro over Next.js for my site](https://dev.to/maxtesla/why-i-picked-astro-over-nextjs-for-my-site-2pf8)
-- [Monolithic Bottleneck: Why The Future of Linux Stability Lives in Userspace](https://dev.to/yendisfish/monolithic-bottleneck-why-the-future-of-linux-stability-lives-in-userspace-3255)
-- [The Hidden Cost of AI Agents: Tokens, Tools, Retries, and Latency](https://dev.to/raju_dandigam/the-hidden-cost-of-ai-agents-tokens-tools-retries-and-latency-aj6)
-- [Your AI Coding Assistant Isn&#39;t Reading Your Code, It&#39;s Mailing It Home](https://dev.to/coridev/your-ai-coding-assistant-isnt-reading-your-code-its-mailing-it-home-3blg)
-- [Your AI Agent&#39;s Memory Is Now an Attack Surface, and Nobody Designed for That](https://dev.to/coridev/your-ai-agents-memory-is-now-an-attack-surface-and-nobody-designed-for-that-34p4)
+- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;4&rpar; Error Handling](https://dev.to/tecturajpndx/d365-customer-insights-for-our-own-sales-team-customer-zero-4-error-handling-16pc)
+- [hermes-memory-installer Recent Update: Auto-Repair for Targeted gbrain Missing Embeddings](https://dev.to/mage0535/hermes-memory-installer-recent-update-auto-repair-for-targeted-gbrain-missing-embeddings-30o4)
+- [Running Gemma 4 26B on a 13-Year-Old Xeon: Practical AI Performance Without GPUs](https://dev.to/tamizuddin/running-gemma-4-26b-on-a-13-year-old-xeon-practical-ai-performance-without-gpus-1m4l)
+- [WireGuard, Seen From Both Sides: The Same Ping as Ciphertext and Cleartext](https://dev.to/pathvector-dev/wireguard-seen-from-both-sides-the-same-ping-as-ciphertext-and-cleartext-4p3i)
+- [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
