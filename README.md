@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Save Tokens in Claude Code: Practical Habits for Test Automation Sessions](https://dev.to/aswani25/how-to-save-tokens-in-claude-code-practical-habits-for-test-automation-sessions-2mic)
-- [When Batching Your AI Agents Makes Them Read Each Other&#39;s Mail](https://dev.to/yuva_kunaal/when-batching-your-ai-agents-makes-them-read-each-others-mail-2n33)
-- [How GAUNTLEX Gates HIPAA/FINRA Compliance in CI](https://dev.to/sanjoy1234/how-gauntlex-gates-hipaafinra-compliance-in-ci-29hj)
-- [Your Tenth Ship Is Always Someone&#39;s First](https://dev.to/vystartasv/your-tenth-ship-is-always-someones-first-129)
-- [A Compliance Checklist for Entering a New EU Market](https://dev.to/sumaskeller/a-compliance-checklist-for-entering-a-new-eu-market-276g)
+- [Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back](https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6)
+- [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07)
+- [HTML Forms and Their Elements](https://dev.to/abimanyu_p_9e75124634d2a4/understanding-html-forms-and-their-elements-295d)
+- [We almost handed out AWS keys to every team. So I built an LLM gateway instead.](https://dev.to/nrejve/we-almost-handed-out-aws-keys-to-every-team-so-i-built-an-llm-gateway-instead-g7j)
+- [I kept losing the context behind my code, so I built Kote](https://dev.to/pedro_augustoalmeidadua/i-kept-losing-the-context-behind-my-code-so-i-built-kote-bm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
