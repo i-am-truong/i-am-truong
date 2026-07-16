@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Was Tired of Writing the Same Design Docs From Scratch, So I Built a Skill Library for It](https://dev.to/fattain_naime/i-was-tired-of-writing-the-same-design-docs-from-scratch-so-i-built-a-skill-library-for-it-2plg)
-- [Technical Debt vs Diff Debt, and Why I Stopped Treating Them as the Same Thing](https://dev.to/erdibay/technical-debt-vs-diff-debt-and-why-i-stopped-treating-them-as-the-same-thing-2e66)
-- [The most expensive outages return HTTP 200](https://dev.to/adioof/the-most-expensive-outages-return-http-200-k8d)
-- [Incident Postmortem Template &amp; Guide for Engineering Teams](https://dev.to/projiq/incident-postmortem-template-guide-for-engineering-teams-idc)
-- [Podman Quadlet vs Docker Compose for Linux Services](https://dev.to/rosgluk/podman-quadlet-vs-docker-compose-for-linux-services-gci)
+- [2026-W28: Four Types of Agency Corrosion](https://dev.to/s_a_shkuratov/2026-w28-four-types-of-agency-corrosion-42h0)
+- [What I Learned Reviewing 200 Python Interview Questions](https://dev.to/ameer_abdullah_68d48c8496/what-i-learned-reviewing-200-python-interview-questions-kpo)
+- [AI Automation Pipeline That Saves Hours of Manual Work Every Day](https://dev.to/automationslimited/ai-automation-pipeline-that-saves-hours-of-manual-work-every-day-12oj)
+- [What a coding agent actually costs per month, by model &lpar;2026&rpar;](https://dev.to/khavel/what-a-coding-agent-actually-costs-per-month-by-model-2026-3ac9)
+- [This Free Quiz Helps You Find Your Frontend Career Path](https://dev.to/frontend_carter/this-free-quiz-helps-you-find-your-frontend-career-path-34kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
