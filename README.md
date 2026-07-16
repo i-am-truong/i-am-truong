@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrej Karpathy Skills review: a single 189k-star CLAUDE.md](https://dev.to/yimtheppariyapol/andrej-karpathy-skills-review-a-single-189k-star-claudemd-4f78)
-- [mattpocock/skills review: a real engineer&#39;s .claude, 160k stars](https://dev.to/yimtheppariyapol/mattpocockskills-review-a-real-engineers-claude-160k-stars-4d3f)
-- [Addy Osmani agent-skills review: 24 production skills, 72.6k stars](https://dev.to/yimtheppariyapol/addy-osmani-agent-skills-review-24-production-skills-726k-stars-22em)
-- [REST, WebSocket, and Recovery: A Production Architecture for Live Sports Data](https://dev.to/thesports_api/rest-websocket-and-recovery-a-production-architecture-for-live-sports-data-24f1)
-- [Boost Your Productivity: Atlassian&#39;s AI-Powered Jira Revolution](https://dev.to/davekurian/boost-your-productivity-atlassians-ai-powered-jira-revolution-42ip)
+- [Rootstock RPC: An EVM Chain Where Gas Is Bitcoin](https://dev.to/swiftnodes/rootstock-rpc-an-evm-chain-where-gas-is-bitcoin-1n44)
+- [Pequenos LLMs: 1 bilhão de parâmetros e o desafio do desempenho](https://dev.to/jesusia/pequenos-llms-1-bilhao-de-parametros-e-o-desafio-do-desempenho-bbl)
+- [How Uber Finds You a Driver in 3 Seconds &lpar;System Design Teardown&rpar;](https://dev.to/gargkunal/how-uber-finds-you-a-driver-in-3-seconds-system-design-teardown-1phf)
+- [Anthropic preps $965B IPO as agent infrastructure expands to microVMs](https://dev.to/sivarampg/anthropic-preps-965b-ipo-as-agent-infrastructure-expands-to-microvms-4abb)
+- [The React 2013 &quot;Marketing Pitch&quot;](https://dev.to/codesmithnazim/the-react-2013-marketing-pitch-16bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
