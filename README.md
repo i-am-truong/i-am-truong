@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create Logos and Full Brand Kits Inside Claude: A Practical Guide to the Zoviz MCP Server](https://dev.to/zovizapp/create-logos-and-full-brand-kits-inside-claude-a-practical-guide-to-the-zoviz-mcp-server-1b5n)
-- [The Encryption Conflict &lpar;1994-1996&rpar;: The Battle for Data Sovereignty](https://dev.to/bioshistory/the-encryption-conflict-1994-1996-the-battle-for-data-sovereignty-57do)
-- [Mastering Edge AI: How to Build High-Speed Vision Analyzers on Android](https://dev.to/programmingcentral/mastering-edge-ai-how-to-build-high-speed-vision-analyzers-on-android-4m4c)
-- [Why Uber&#39;s $1,200 Claude Code Session Is Actually a Routing Problem](https://dev.to/aplomb2/why-ubers-1200-claude-code-session-is-actually-a-routing-problem-d66)
-- [Dá pra fazer jogos usando JS/TS sem game engine?](https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah)
+- [What is an &quot;agentic harness,&quot; actually?](https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie)
+- [RES, my personal safeguard against AI](https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8)
+- [Hallmark: Together AI Open-Sources an &quot;Anti-AI-Slop&quot; Tool for Web Design](https://dev.to/terminalchai/hallmark-together-ai-open-sources-an-anti-ai-slop-tool-for-web-design-3nkb)
+- [From 9% to 63%: Letting a Benchmark Build a Better MCP Security Proxy](https://dev.to/gowthaman90/from-9-to-63-letting-a-benchmark-build-a-better-mcp-security-proxy-3gg8)
+- [My Agent Shipped 3 PRs in an Evening. 40% of My Messages Were Corrections.](https://dev.to/vystartasv/my-agent-shipped-3-prs-in-an-evening-40-of-my-messages-were-corrections-5jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
