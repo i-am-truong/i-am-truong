@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It started with a birthday present — why I built an open-source QR code generator](https://dev.to/flob95/it-started-with-a-birthday-present-why-i-built-an-open-source-qr-code-generator-394i)
-- [We Measured the Lifespan of 7,144 Software Versions. The Median Is 18 Months.](https://dev.to/endoflifeai/we-measured-the-lifespan-of-7144-software-versions-the-median-is-18-months-2dh0)
-- [How to Take a Website Screenshot in PHP &lpar;Browsershot and the API Alternative&rpar;](https://dev.to/grabbit/how-to-take-a-website-screenshot-in-php-browsershot-and-the-api-alternative-14kf)
-- [OpenCode V2 Compaction Internals](https://dev.to/antonio_zhu_e726fd856cd86/opencode-v2-compaction-internals-2a5d)
-- [I built a CLI that checks whether the references in your bibliography actually exist](https://dev.to/tecmindsgmbhch/i-built-a-cli-that-checks-whether-the-references-in-your-bibliography-actually-exist-6f5)
+- [Terminal Velocity: Audits of the Present and Future](https://dev.to/cristiano_gabrieli_83f5f1/terminal-velocity-audits-of-the-present-and-future-1f1)
+- [Connecting AWS Account with Cypress Automation: A Simple STS Connection Test](https://dev.to/cypress/connecting-aws-account-with-cypress-automation-a-simple-sts-connection-test-aea)
+- [Making my own Nerd Font](https://dev.to/geewiz/making-my-own-nerd-font-40ee)
+- [Building a Production-Ready Risk Management Engine for Algorithmic Trading](https://dev.to/pydevtop/building-a-production-ready-risk-management-engine-for-algorithmic-trading-1jh8)
+- [A required field made my AI fabricate statistics](https://dev.to/martinschenk/a-required-field-made-my-ai-fabricate-statistics-5d9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
