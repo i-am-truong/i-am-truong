@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Content Publishing Workflow That Actually Holds Together](https://dev.to/ahmet_saridag_9232a4f1a24/building-an-ai-content-publishing-workflow-that-actually-holds-together-3o6m)
-- [How to catch breaking OpenAPI changes before they reach production](https://dev.to/apicontractguard/how-to-catch-breaking-openapi-changes-before-they-reach-production-44jj)
-- [Grok Walks Off With Your Repo? When the &quot;Smartest Assistant&quot; Becomes the Most Dangerous Tool](https://dev.to/dufrence/grok-walks-off-with-your-repo-when-the-smartest-assistant-becomes-the-most-dangerous-tool-5bdl)
-- [LSPS Specifications: What Lightning Service Providers Are Standardizing and Why It Matters](https://dev.to/aturo_phil/lsps-specifications-what-lightning-service-providers-are-standardizing-and-why-it-matters-2nng)
-- [Mastering USB Type-C: Power, Data, and Alternate Modes for 2024 Developers](https://dev.to/tamizuddin/mastering-usb-type-c-power-data-and-alternate-modes-for-2024-developers-5add)
+- [The Art of Consent Management in the OAuth World](https://dev.to/auth0/the-art-of-consent-management-in-the-oauth-world-1m0p)
+- [Introducing DZHC: The Zero-Human Company](https://dev.to/dzhc/introducing-dzhc-the-zero-human-company-3836)
+- [🤖 Isbar-Si AI — Website-ka AI Chatbots &amp; Courses](https://dev.to/mohamed_yasinmohamoud_6f/isbar-si-ai-website-ka-ai-chatbots-courses-3iah)
+- [Nine security anti-patterns your linter doesn&#39;t catch](https://dev.to/daiveed/nine-security-anti-patterns-your-linter-doesnt-catch-3n8o)
+- [How to Detect Catch-All Email Domains in Node and Python](https://dev.to/jamessib/how-to-detect-catch-all-email-domains-in-node-and-python-4218)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
