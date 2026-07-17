@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hiding Behind Your Product. Go Talk to Customers.](https://dev.to/deepnotes_bdf64d098408b86/stop-hiding-behind-your-product-go-talk-to-customers-1fmh)
-- [A Remote Developer You Treat Like Staff Is Legally an Employee, Not a Contractor](https://dev.to/alexx3/a-remote-developer-you-treat-like-staff-is-legally-an-employee-not-a-contractor-4o54)
-- [Why AI Agents Need a Real Browser Layer, Not Just Playwright Scripts](https://dev.to/anthonymax/why-ai-agents-need-a-real-browser-layer-not-just-playwright-scripts-3mdf)
-- [SBA-7a Loan Stip Fraud Detection: Post-PPP Lessons](https://dev.to/iurii_rogulia/sba-7a-loan-stip-fraud-detection-post-ppp-lessons-2ef7)
-- [Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs](https://dev.to/digitaldev/server-components-vs-client-components-the-mental-model-shift-every-vite-developer-needs-46ak)
+- [It started with a birthday present — why I built an open-source QR code generator](https://dev.to/flob95/it-started-with-a-birthday-present-why-i-built-an-open-source-qr-code-generator-394i)
+- [We Measured the Lifespan of 7,144 Software Versions. The Median Is 18 Months.](https://dev.to/endoflifeai/we-measured-the-lifespan-of-7144-software-versions-the-median-is-18-months-2dh0)
+- [How to Take a Website Screenshot in PHP &lpar;Browsershot and the API Alternative&rpar;](https://dev.to/grabbit/how-to-take-a-website-screenshot-in-php-browsershot-and-the-api-alternative-14kf)
+- [OpenCode V2 Compaction Internals](https://dev.to/antonio_zhu_e726fd856cd86/opencode-v2-compaction-internals-2a5d)
+- [I built a CLI that checks whether the references in your bibliography actually exist](https://dev.to/tecmindsgmbhch/i-built-a-cli-that-checks-whether-the-references-in-your-bibliography-actually-exist-6f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
