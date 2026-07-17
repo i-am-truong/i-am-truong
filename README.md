@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s talk about Deno Desktop](https://dev.to/ilys_c1b01a929bd0815f07f/lets-talk-about-deno-desktop-2i6p)
-- [Deepening Your Career or Becoming Versatile in the Age of AI Tools](https://dev.to/merbayerp/deepening-your-career-or-becoming-versatile-in-the-age-of-ai-tools-4341)
-- [Rise of DIY Developer](https://dev.to/yan-yan/rise-of-diy-developer-3f4k)
-- [The Last Honest Abstraction: Why AI Coding Isn&#39;t the End of Engineering](https://dev.to/copyleftdev/the-last-honest-abstraction-why-ai-coding-isnt-the-end-of-engineering-213e)
-- [Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://dev.to/codenameone/game-builder-tutorial-3-build-a-first-person-3d-dungeon-358h)
+- [I Built a Local AI That Runs My Entire PC. Offline. Open Source](https://dev.to/swagking/i-built-a-local-ai-that-runs-my-entire-pc-offline-open-source-4gcj)
+- [I Built Tinder for Open Source Contributions 🔥](https://dev.to/rishibyte/i-built-tinder-for-open-source-contributions-1cjc)
+- [Seedance + n8n: Build a Bounded Async Polling Workflow](https://dev.to/vancine-fan/seedance-n8n-build-a-bounded-async-polling-workflow-374d)
+- [A 200 Is Not a Read](https://dev.to/moaz06/a-200-is-not-a-read-2on)
+- [When Should You /clear? A 1913 Inventory Formula Has the Answer](https://dev.to/nomadop/when-should-you-clear-a-1913-inventory-formula-has-the-answer-4o20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
