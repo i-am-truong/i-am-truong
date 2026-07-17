@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 10 Best Remote Job Boards&lpar;And How to Choose the Right One&rpar;](https://dev.to/annoh_karlgusta_c6fd8cba3/the-10-best-remote-job-boardsand-how-to-choose-the-right-one-3p63)
-- [Pixels to Predictions: Building High-Performance Edge AI Pipelines with CameraX and TFLite](https://dev.to/programmingcentral/pixels-to-predictions-building-high-performance-edge-ai-pipelines-with-camerax-and-tflite-1aji)
-- [The Web Emergence &lpar;1996-1998&rpar;: Obscured Streams in the Browser Age](https://dev.to/bioshistory/the-web-emergence-1996-1998-obscured-streams-in-the-browser-age-404b)
-- [The Signal Nobody Heard, Fixing a Silent AbortSignal Bug in OpenClaw](https://dev.to/aniruddhaadak/the-signal-nobody-heard-fixing-a-silent-abortsignal-bug-in-openclaw-3ko7)
-- [&quot;Oracle FSCM REST API: What Transfers From HCM and What Doesn&#39;t&quot;](https://dev.to/mostafamansour1/oracle-fscm-rest-api-what-transfers-from-hcm-and-what-doesnt-4c4p)
+- [Video Commerce with Medusa v2 &amp; MeiliSearch: Smart Product Matching](https://dev.to/firevibe/video-commerce-with-medusa-v2-meilisearch-smart-product-matching-j45)
+- [A Two-Stage Workflow to Detect Data Leakage.](https://dev.to/apoorvtripathi1999/a-two-stage-workflow-to-detect-data-leakage-4f2b)
+- [Colibri: Running a 744B AI Model on Your Laptop](https://dev.to/jamilxt/colibri-running-a-744b-ai-model-on-your-laptop-4l6g)
+- [Neden LIWICODE&#39;u Geliştirdim? Hafif Kod Analiz Aracı ve Dev Visual Studio Karşılaştırması](https://dev.to/liwiunxdo/neden-liwicodeu-gelistirdim-hafif-siklet-kod-analiz-araci-ve-dev-visual-studio-karsilastirmasi-c1l)
+- [BMad Method vs AI-DLC: Two AI Development Frameworks Compared](https://dev.to/jamilxt/bmad-method-vs-ai-dlc-two-ai-development-frameworks-compared-2i28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
