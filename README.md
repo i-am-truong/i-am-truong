@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 17th July 2026](https://dev.to/ziizium/security-news-weekly-round-up-17th-july-2026-2a1l)
-- [AI Worked Both Sides of the Security Ledger This Week. Here&#39;s What to Actually Run](https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071)
-- [Project Idea: On-the-fly preset switching between different plugins inside Pro Tools &lpar;Workflow Tool&rpar;](https://dev.to/ach_vibe-code/project-idea-on-the-fly-preset-switching-between-different-plugins-inside-pro-tools-workflow-tool-52c9)
-- [Anxious About the Tech Market? Try Digging a New Hole](https://dev.to/theoriginalbpc/anxious-about-the-tech-market-try-digging-a-new-hole-1c5)
-- [I Built an AI Face-Analysis Suite From Scratch — Here&#39;s What I Learned](https://dev.to/star_doppel_b782d4e097c70/i-built-an-ai-face-analysis-suite-from-scratch-heres-what-i-learned-35mk)
+- [🇧🇷 E se existisse uma interface admin baseada na RubyUI? Assim nasceu a RubyUI Admin.](https://dev.to/videosdeti/e-se-existisse-uma-interface-admin-baseada-na-rubyui-assim-nasceu-a-rubyui-admin-5fe4)
+- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
+- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
+- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
+- [The OpenTofu Errors You&#39;ll Actually Hit &lpar;and How to Fix Them Fast&rpar;](https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
