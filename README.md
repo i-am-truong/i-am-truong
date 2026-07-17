@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Review, Part 2: The Reviewer That Learned To Lie Better](https://dev.to/raleighschickel/code-review-part-2-the-reviewer-that-learned-to-lie-better-4901)
-- [Steer by Intent, Monitor by Exception](https://dev.to/sameer_halbe_42366ad6cd70/steer-by-intentmonitor-by-exception-4pfo)
-- [I Got Tired of AI Quiz Tools Making Up Facts That Weren&#39;t In My Notes, So I Built One That Can&#39;t](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-got-tired-of-ai-quiz-tools-making-up-facts-that-werent-in-my-notes-so-i-built-one-that-cant-3c99)
-- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
-- [Testing the SaaS Journeys That Break Across Tabs, Tenants, Regions, and Email](https://dev.to/sleepyfalcon247/testing-the-saas-journeys-that-break-across-tabs-tenants-regions-and-email-35f8)
+- [Security news weekly round-up - 17th July 2026](https://dev.to/ziizium/security-news-weekly-round-up-17th-july-2026-2a1l)
+- [AI Worked Both Sides of the Security Ledger This Week. Here&#39;s What to Actually Run](https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071)
+- [Project Idea: On-the-fly preset switching between different plugins inside Pro Tools &lpar;Workflow Tool&rpar;](https://dev.to/ach_vibe-code/project-idea-on-the-fly-preset-switching-between-different-plugins-inside-pro-tools-workflow-tool-52c9)
+- [Anxious About the Tech Market? Try Digging a New Hole](https://dev.to/theoriginalbpc/anxious-about-the-tech-market-try-digging-a-new-hole-1c5)
+- [I Built an AI Face-Analysis Suite From Scratch — Here&#39;s What I Learned](https://dev.to/star_doppel_b782d4e097c70/i-built-an-ai-face-analysis-suite-from-scratch-heres-what-i-learned-35mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
