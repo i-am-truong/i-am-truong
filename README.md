@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Postman Struggles With Protobuf APIs](https://dev.to/praveen_menon_6ec6ffecad1/why-postman-struggles-with-protobuf-apis-4300)
-- [Open Interpreter: Your App&#39;s New Brain? A Dev&#39;s Take on Local AI Agents](https://dev.to/hanzla/open-interpreter-your-apps-new-brain-a-devs-take-on-local-ai-agents-2h6p)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-amo)
-- [The Budget System: Thalers, Bytes, and Milliseconds](https://dev.to/newadventuresinit/the-budget-system-thalers-bytes-and-milliseconds-47fo)
-- [HTLC Expiry and Force Close: The Most Dangerous Moments in Lightning](https://dev.to/aturo_phil/htlc-expiry-and-force-close-the-most-dangerous-moments-in-lightning-1mih)
+- [Building an AI Content Publishing Workflow That Actually Holds Together](https://dev.to/ahmet_saridag_9232a4f1a24/building-an-ai-content-publishing-workflow-that-actually-holds-together-3o6m)
+- [How to catch breaking OpenAPI changes before they reach production](https://dev.to/apicontractguard/how-to-catch-breaking-openapi-changes-before-they-reach-production-44jj)
+- [Grok Walks Off With Your Repo? When the &quot;Smartest Assistant&quot; Becomes the Most Dangerous Tool](https://dev.to/dufrence/grok-walks-off-with-your-repo-when-the-smartest-assistant-becomes-the-most-dangerous-tool-5bdl)
+- [LSPS Specifications: What Lightning Service Providers Are Standardizing and Why It Matters](https://dev.to/aturo_phil/lsps-specifications-what-lightning-service-providers-are-standardizing-and-why-it-matters-2nng)
+- [Mastering USB Type-C: Power, Data, and Alternate Modes for 2024 Developers](https://dev.to/tamizuddin/mastering-usb-type-c-power-data-and-alternate-modes-for-2024-developers-5add)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
