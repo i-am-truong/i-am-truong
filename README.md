@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Model experiments became an architectural stress test](https://dev.to/michaeltruong/model-experiments-became-an-architectural-stress-test-3gc0)
-- [I Built a VS Code Extension to Upload Code Snippets to PasteDB in One Click 🚀](https://dev.to/aditya_sorathiya_069252f4/i-built-a-vs-code-extension-to-upload-code-snippets-to-pastedb-in-one-click-49i3)
-- [Configuring Data Access Control &lpar;DAC&rpar; Team Level Visibility for Enterprise AI Governance](https://dev.to/andrewbaisden/configuring-data-access-control-dac-team-level-visibility-for-enterprise-ai-governance-1nii)
-- [I finally figured out what Claude Artifacts are actually for](https://dev.to/freema/i-finally-figured-out-what-claude-artifacts-are-actually-for-581o)
-- [#Build in Public](https://dev.to/david_lasoff_37a08f3454e0/build-in-public-282m)
+- [Let&#39;s talk about Deno Desktop](https://dev.to/ilys_c1b01a929bd0815f07f/lets-talk-about-deno-desktop-2i6p)
+- [Deepening Your Career or Becoming Versatile in the Age of AI Tools](https://dev.to/merbayerp/deepening-your-career-or-becoming-versatile-in-the-age-of-ai-tools-4341)
+- [Rise of DIY Developer](https://dev.to/yan-yan/rise-of-diy-developer-3f4k)
+- [The Last Honest Abstraction: Why AI Coding Isn&#39;t the End of Engineering](https://dev.to/copyleftdev/the-last-honest-abstraction-why-ai-coding-isnt-the-end-of-engineering-213e)
+- [Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://dev.to/codenameone/game-builder-tutorial-3-build-a-first-person-3d-dungeon-358h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
