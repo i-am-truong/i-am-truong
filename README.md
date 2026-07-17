@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I rebuilt offline web archiving to bypass CORS &lpar;The PWAA Format&rpar;](https://dev.to/filipe_lunfuankenda/why-i-rebuilt-offline-web-archiving-to-bypass-cors-the-pwaa-format-4h6o)
-- [The GitBook migration trap](https://dev.to/dan_git2docs/the-gitbook-migration-trap-4gp2)
-- [Your AI agent checked its queue, found nothing, and went back to sleep. The queue was full.](https://dev.to/mike_clarke_50a95013f5c59/your-ai-agent-checked-its-queue-found-nothing-and-went-back-to-sleep-the-queue-was-full-1m4)
-- [Keeping code alive on a DOM you don&#39;t own: 12-year Chrome extension story](https://dev.to/svyatov/keeping-code-alive-on-a-dom-you-dont-own-12-year-chrome-extension-story-2g3o)
-- [I built a production AI agent for our NOC ticket queue in one shift](https://dev.to/inferhaven/i-built-a-production-ai-agent-for-our-noc-ticket-queue-in-one-shift-3fka)
+- [Model experiments became an architectural stress test](https://dev.to/michaeltruong/model-experiments-became-an-architectural-stress-test-3gc0)
+- [I Built a VS Code Extension to Upload Code Snippets to PasteDB in One Click 🚀](https://dev.to/aditya_sorathiya_069252f4/i-built-a-vs-code-extension-to-upload-code-snippets-to-pastedb-in-one-click-49i3)
+- [Configuring Data Access Control &lpar;DAC&rpar; Team Level Visibility for Enterprise AI Governance](https://dev.to/andrewbaisden/configuring-data-access-control-dac-team-level-visibility-for-enterprise-ai-governance-1nii)
+- [I finally figured out what Claude Artifacts are actually for](https://dev.to/freema/i-finally-figured-out-what-claude-artifacts-are-actually-for-581o)
+- [#Build in Public](https://dev.to/david_lasoff_37a08f3454e0/build-in-public-282m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
