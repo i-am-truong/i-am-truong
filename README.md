@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why There&#39;s No Example Code for B2B SaaS Apps &lpar;And What to Do About It&rpar;](https://dev.to/brino666/why-theres-no-example-code-for-b2b-saas-apps-and-what-to-do-about-it-2oma)
-- [5 JavaScript Features I Wish I Had Learned Earlier](https://dev.to/codexsavage6s/5-javascript-features-i-wish-i-had-learned-earlier-1lpa)
-- [Building a custom Contentful Rich Text editor: the round-trip problem](https://dev.to/yeezy2277/building-a-custom-contentful-rich-text-editor-the-round-trip-problem-51cm)
-- [Is your site ready to be cited by AI? A practical intro to GEO &lpar;Generative Engine Optimization&rpar;](https://dev.to/marcocaciotti/is-your-site-ready-to-be-cited-by-ai-a-practical-intro-to-geo-generative-engine-optimization-m3m)
-- [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
+- [LangChain4j and Spring AI: The Plumbing to make your Java Apps talk to LLMs](https://dev.to/shayesta/langchain4j-and-spring-ai-the-plumbing-to-make-your-java-apps-talk-to-llms-1ip8)
+- [A Good AI Code Reviewer Knows When to Stay Quiet](https://dev.to/scanaislop/a-good-ai-code-reviewer-knows-when-to-stay-quiet-2h84)
+- [Beyond Chatbots: Wrapping My RAG Agent in an MCP Server](https://dev.to/sri_d_6dfd4d31319a6389eaa/beyond-chatbots-wrapping-my-rag-agent-in-an-mcp-server-2m0n)
+- [How to Forward Your Newsletters to Readwise Reader &lpar;and Stop Reading Them in Gmail&rpar;](https://dev.to/boseclaw/how-to-forward-your-newsletters-to-readwise-reader-and-stop-reading-them-in-gmail-27ap)
+- [Silence Has a Shape Now](https://dev.to/kenielzep97/silence-has-a-shape-now-1e7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
