@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Consent Management in the OAuth World](https://dev.to/auth0/the-art-of-consent-management-in-the-oauth-world-1m0p)
-- [Introducing DZHC: The Zero-Human Company](https://dev.to/dzhc/introducing-dzhc-the-zero-human-company-3836)
-- [🤖 Isbar-Si AI — Website-ka AI Chatbots &amp; Courses](https://dev.to/mohamed_yasinmohamoud_6f/isbar-si-ai-website-ka-ai-chatbots-courses-3iah)
-- [Nine security anti-patterns your linter doesn&#39;t catch](https://dev.to/daiveed/nine-security-anti-patterns-your-linter-doesnt-catch-3n8o)
-- [How to Detect Catch-All Email Domains in Node and Python](https://dev.to/jamessib/how-to-detect-catch-all-email-domains-in-node-and-python-4218)
+- [Stop Hiding Behind Your Product. Go Talk to Customers.](https://dev.to/deepnotes_bdf64d098408b86/stop-hiding-behind-your-product-go-talk-to-customers-1fmh)
+- [A Remote Developer You Treat Like Staff Is Legally an Employee, Not a Contractor](https://dev.to/alexx3/a-remote-developer-you-treat-like-staff-is-legally-an-employee-not-a-contractor-4o54)
+- [Why AI Agents Need a Real Browser Layer, Not Just Playwright Scripts](https://dev.to/anthonymax/why-ai-agents-need-a-real-browser-layer-not-just-playwright-scripts-3mdf)
+- [SBA-7a Loan Stip Fraud Detection: Post-PPP Lessons](https://dev.to/iurii_rogulia/sba-7a-loan-stip-fraud-detection-post-ppp-lessons-2ef7)
+- [Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs](https://dev.to/digitaldev/server-components-vs-client-components-the-mental-model-shift-every-vite-developer-needs-46ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
