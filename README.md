@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LangChain4j and Spring AI: The Plumbing to make your Java Apps talk to LLMs](https://dev.to/shayesta/langchain4j-and-spring-ai-the-plumbing-to-make-your-java-apps-talk-to-llms-1ip8)
-- [A Good AI Code Reviewer Knows When to Stay Quiet](https://dev.to/scanaislop/a-good-ai-code-reviewer-knows-when-to-stay-quiet-2h84)
-- [Beyond Chatbots: Wrapping My RAG Agent in an MCP Server](https://dev.to/sri_d_6dfd4d31319a6389eaa/beyond-chatbots-wrapping-my-rag-agent-in-an-mcp-server-2m0n)
-- [How to Forward Your Newsletters to Readwise Reader &lpar;and Stop Reading Them in Gmail&rpar;](https://dev.to/boseclaw/how-to-forward-your-newsletters-to-readwise-reader-and-stop-reading-them-in-gmail-27ap)
-- [Silence Has a Shape Now](https://dev.to/kenielzep97/silence-has-a-shape-now-1e7h)
+- [Why Postman Struggles With Protobuf APIs](https://dev.to/praveen_menon_6ec6ffecad1/why-postman-struggles-with-protobuf-apis-4300)
+- [Open Interpreter: Your App&#39;s New Brain? A Dev&#39;s Take on Local AI Agents](https://dev.to/hanzla/open-interpreter-your-apps-new-brain-a-devs-take-on-local-ai-agents-2h6p)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-amo)
+- [The Budget System: Thalers, Bytes, and Milliseconds](https://dev.to/newadventuresinit/the-budget-system-thalers-bytes-and-milliseconds-47fo)
+- [HTLC Expiry and Force Close: The Most Dangerous Moments in Lightning](https://dev.to/aturo_phil/htlc-expiry-and-force-close-the-most-dangerous-moments-in-lightning-1mih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
