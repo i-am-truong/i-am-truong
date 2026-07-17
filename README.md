@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Local AI That Runs My Entire PC. Offline. Open Source](https://dev.to/swagking/i-built-a-local-ai-that-runs-my-entire-pc-offline-open-source-4gcj)
-- [I Built Tinder for Open Source Contributions 🔥](https://dev.to/rishibyte/i-built-tinder-for-open-source-contributions-1cjc)
-- [Seedance + n8n: Build a Bounded Async Polling Workflow](https://dev.to/vancine-fan/seedance-n8n-build-a-bounded-async-polling-workflow-374d)
-- [A 200 Is Not a Read](https://dev.to/moaz06/a-200-is-not-a-read-2on)
-- [When Should You /clear? A 1913 Inventory Formula Has the Answer](https://dev.to/nomadop/when-should-you-clear-a-1913-inventory-formula-has-the-answer-4o20)
+- [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://dev.to/orca_forge/kurezitutokadobu-yao-deshi-eruwu-liao-llm-apipurobaidamatome2026nian-ban--4cdk)
+- [From Legos to Referees: A Brief History of How Online Games Actually Work](https://dev.to/derek_kahre/from-legos-to-referees-a-brief-history-of-how-online-games-actually-work-1e6o)
+- [Python Comprehensions: From Confusing to Crystal Clear in 10 Minutes](https://dev.to/ameer_abdullah_68d48c8496/python-comprehensions-from-confusing-to-crystal-clear-in-10-minutes-49me)
+- [🚀 Git Cheat Sheet Every Developer Should Bookmark &lpar;Learn Git Faster&rpar;](https://dev.to/sugatadev/git-cheat-sheet-every-developer-should-bookmark-learn-git-faster-465i)
+- [Installing Apache Kafka 4.2 on Ubuntu &lpar;WSL2&rpar;: A Complete KRaft Step-by-Step Guide](https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
