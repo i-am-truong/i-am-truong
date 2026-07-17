@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Video Commerce with Medusa v2 &amp; MeiliSearch: Smart Product Matching](https://dev.to/firevibe/video-commerce-with-medusa-v2-meilisearch-smart-product-matching-j45)
-- [A Two-Stage Workflow to Detect Data Leakage.](https://dev.to/apoorvtripathi1999/a-two-stage-workflow-to-detect-data-leakage-4f2b)
-- [Colibri: Running a 744B AI Model on Your Laptop](https://dev.to/jamilxt/colibri-running-a-744b-ai-model-on-your-laptop-4l6g)
-- [Neden LIWICODE&#39;u Geliştirdim? Hafif Kod Analiz Aracı ve Dev Visual Studio Karşılaştırması](https://dev.to/liwiunxdo/neden-liwicodeu-gelistirdim-hafif-siklet-kod-analiz-araci-ve-dev-visual-studio-karsilastirmasi-c1l)
-- [BMad Method vs AI-DLC: Two AI Development Frameworks Compared](https://dev.to/jamilxt/bmad-method-vs-ai-dlc-two-ai-development-frameworks-compared-2i28)
+- [Code Review, Part 2: The Reviewer That Learned To Lie Better](https://dev.to/raleighschickel/code-review-part-2-the-reviewer-that-learned-to-lie-better-4901)
+- [Steer by Intent, Monitor by Exception](https://dev.to/sameer_halbe_42366ad6cd70/steer-by-intentmonitor-by-exception-4pfo)
+- [I Got Tired of AI Quiz Tools Making Up Facts That Weren&#39;t In My Notes, So I Built One That Can&#39;t](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-got-tired-of-ai-quiz-tools-making-up-facts-that-werent-in-my-notes-so-i-built-one-that-cant-3c99)
+- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
+- [Testing the SaaS Journeys That Break Across Tabs, Tenants, Regions, and Email](https://dev.to/sleepyfalcon247/testing-the-saas-journeys-that-break-across-tabs-tenants-regions-and-email-35f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
