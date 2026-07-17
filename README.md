@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terminal Velocity: Audits of the Present and Future](https://dev.to/cristiano_gabrieli_83f5f1/terminal-velocity-audits-of-the-present-and-future-1f1)
-- [Connecting AWS Account with Cypress Automation: A Simple STS Connection Test](https://dev.to/cypress/connecting-aws-account-with-cypress-automation-a-simple-sts-connection-test-aea)
-- [Making my own Nerd Font](https://dev.to/geewiz/making-my-own-nerd-font-40ee)
-- [Building a Production-Ready Risk Management Engine for Algorithmic Trading](https://dev.to/pydevtop/building-a-production-ready-risk-management-engine-for-algorithmic-trading-1jh8)
-- [A required field made my AI fabricate statistics](https://dev.to/martinschenk/a-required-field-made-my-ai-fabricate-statistics-5d9m)
+- [Why I rebuilt offline web archiving to bypass CORS &lpar;The PWAA Format&rpar;](https://dev.to/filipe_lunfuankenda/why-i-rebuilt-offline-web-archiving-to-bypass-cors-the-pwaa-format-4h6o)
+- [The GitBook migration trap](https://dev.to/dan_git2docs/the-gitbook-migration-trap-4gp2)
+- [Your AI agent checked its queue, found nothing, and went back to sleep. The queue was full.](https://dev.to/mike_clarke_50a95013f5c59/your-ai-agent-checked-its-queue-found-nothing-and-went-back-to-sleep-the-queue-was-full-1m4)
+- [Keeping code alive on a DOM you don&#39;t own: 12-year Chrome extension story](https://dev.to/svyatov/keeping-code-alive-on-a-dom-you-dont-own-12-year-chrome-extension-story-2g3o)
+- [I built a production AI agent for our NOC ticket queue in one shift](https://dev.to/inferhaven/i-built-a-production-ai-agent-for-our-noc-ticket-queue-in-one-shift-3fka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
