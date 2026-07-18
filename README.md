@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLD Domain Modeling: How to Debug Your Design When It Feels “Wrong”](https://dev.to/saras_growth_space/lld-domain-modeling-how-to-debug-your-design-when-it-feels-wrong-iap)
-- [Server-Side A/B Testing with Optimizely: A Practical Guide](https://dev.to/david_sert/server-side-ab-testing-with-optimizely-a-practical-guide-426k)
-- [Source View Technology: Combining the Strengths of APT and AST](https://dev.to/shiou/source-view-technology-combining-the-strengths-of-apt-and-ast-7jl)
-- [Memoria – A Self‑Evolving Personal AI with Human‑like Memory](https://dev.to/imawais/memoria-a-self-evolving-personal-ai-with-human-like-memory-34p)
-- [Why Search Isn&#39;t Enough for Team Docs — What We Learned Building a Knowledge Graph Layer](https://dev.to/gwmage/why-search-isnt-enough-for-team-docs-what-we-learned-building-a-knowledge-graph-layer-5b17)
+- [Integrating Playwright with Other Tools &lpar;Allure, Postman, etc.&rpar;](https://dev.to/aswani25/integrating-playwright-with-other-tools-allure-postman-etc-72h)
+- [When Gatekeepers Panic: The Encyclopédie, Open AI Models, and the Politics of Accessible Knowledge](https://dev.to/alexmercedcoder/when-gatekeepers-panic-the-encyclopedie-open-ai-models-and-the-politics-of-accessible-knowledge-37pd)
+- [LLD Domain Modeling: The Final Layer — Bringing It All Together &lpar;How Real Systems Are Actually Structured&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-the-final-layer-bringing-it-all-together-how-real-systems-are-actually-4nio)
+- [OpenAI ships GPT-Red to automate prompt-injection testing against AI agents](https://dev.to/leobaniak/openai-ships-gpt-red-to-automate-prompt-injection-testing-against-ai-agents-od7)
+- [Fork What Works](https://dev.to/nabbilkhan/fork-what-works-g79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
