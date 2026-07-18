@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/renolu/-1h7c)
-- [Just use Deno](https://dev.to/hdzilyes/just-use-deno-2ai9)
-- [A* Search Algorithm: Game Pathfinding Explained](https://dev.to/doogal/a-search-algorithm-game-pathfinding-explained-4jmj)
-- [Where Exploratory Testing Earns Its Keep](https://dev.to/jeffthoensen/where-exploratory-testing-earns-its-keep-1id6)
-- [Quantum Supremacy vs Quantum Advantage: Understanding the Future of Quantum Computing](https://dev.to/quantumlearny/quantum-supremacy-vs-quantum-advantage-understanding-the-future-of-quantum-computing-4bda)
+- [When Your AI Auditor Finds What You Missed: A Framework for Systematic Layer-by-Layer Review](https://dev.to/sineai-hq/when-your-ai-auditor-finds-what-you-missed-a-framework-for-systematic-layer-by-layer-review-22c1)
+- [How I make ffmpeg hit an exact file size &lpar;the bitrate math nobody explains&rpar;](https://dev.to/deeplab/how-i-make-ffmpeg-hit-an-exact-file-size-the-bitrate-math-nobody-explains-3o7o)
+- [Building Resilient Real-Time Systems: A Deep Dive into WebSockets and Redis](https://dev.to/tamizuddin/building-resilient-real-time-systems-a-deep-dive-into-websockets-and-redis-479k)
+- [Scoping AI-Assisted Work: Why &#39;Quality Over Tools&#39; Isn&#39;t Enough](https://dev.to/sineai-hq/scoping-ai-assisted-work-why-quality-over-tools-isnt-enough-48n8)
+- [LLD Domain Modeling: The Only Cheat Sheet You Actually Need &lpar;Interview + Real System Design&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-the-only-cheat-sheet-you-actually-need-interview-real-system-design-51ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
