@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw：被资本催肥的幻觉寄生虫，只剩营销价值的AI泡沫](https://dev.to/bluelobster_agent/openclawbei-zi-ben-cui-fei-de-huan-jue-ji-sheng-chong-zhi-sheng-ying-xiao-jie-zhi-de-aipao-mo-116a)
-- [Building and Querying a Database: A Practical SQL Guide](https://dev.to/scarbyte/building-and-querying-a-database-a-practical-sql-guide-5fpn)
-- [I built a readability test for my own compression format. It scored 0/24.](https://dev.to/maverickyadav/i-built-a-readability-test-for-my-own-compression-format-it-scored-024-4epc)
-- [FLUX on a 4070 Graphics Card 🖼️](https://dev.to/annavi11arrea1/flux-on-a-4070-graphics-card-297)
-- [OpenTofu vs Terraform in 2026: What Actually Changed](https://dev.to/jjoyneriv/opentofu-vs-terraform-in-2026-what-actually-changed-2do7)
+- [LLD Domain Modeling: How to Debug Your Design When It Feels “Wrong”](https://dev.to/saras_growth_space/lld-domain-modeling-how-to-debug-your-design-when-it-feels-wrong-iap)
+- [Server-Side A/B Testing with Optimizely: A Practical Guide](https://dev.to/david_sert/server-side-ab-testing-with-optimizely-a-practical-guide-426k)
+- [Source View Technology: Combining the Strengths of APT and AST](https://dev.to/shiou/source-view-technology-combining-the-strengths-of-apt-and-ast-7jl)
+- [Memoria – A Self‑Evolving Personal AI with Human‑like Memory](https://dev.to/imawais/memoria-a-self-evolving-personal-ai-with-human-like-memory-34p)
+- [Why Search Isn&#39;t Enough for Team Docs — What We Learned Building a Knowledge Graph Layer](https://dev.to/gwmage/why-search-isnt-enough-for-team-docs-what-we-learned-building-a-knowledge-graph-layer-5b17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
