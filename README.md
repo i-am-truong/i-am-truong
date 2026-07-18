@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Playwright with Other Tools &lpar;Allure, Postman, etc.&rpar;](https://dev.to/aswani25/integrating-playwright-with-other-tools-allure-postman-etc-72h)
-- [When Gatekeepers Panic: The Encyclopédie, Open AI Models, and the Politics of Accessible Knowledge](https://dev.to/alexmercedcoder/when-gatekeepers-panic-the-encyclopedie-open-ai-models-and-the-politics-of-accessible-knowledge-37pd)
-- [LLD Domain Modeling: The Final Layer — Bringing It All Together &lpar;How Real Systems Are Actually Structured&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-the-final-layer-bringing-it-all-together-how-real-systems-are-actually-4nio)
-- [OpenAI ships GPT-Red to automate prompt-injection testing against AI agents](https://dev.to/leobaniak/openai-ships-gpt-red-to-automate-prompt-injection-testing-against-ai-agents-od7)
-- [Fork What Works](https://dev.to/nabbilkhan/fork-what-works-g79)
+- [[Boost]](https://dev.to/renolu/-1h7c)
+- [Just use Deno](https://dev.to/hdzilyes/just-use-deno-2ai9)
+- [A* Search Algorithm: Game Pathfinding Explained](https://dev.to/doogal/a-search-algorithm-game-pathfinding-explained-4jmj)
+- [Where Exploratory Testing Earns Its Keep](https://dev.to/jeffthoensen/where-exploratory-testing-earns-its-keep-1id6)
+- [Quantum Supremacy vs Quantum Advantage: Understanding the Future of Quantum Computing](https://dev.to/quantumlearny/quantum-supremacy-vs-quantum-advantage-understanding-the-future-of-quantum-computing-4bda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
