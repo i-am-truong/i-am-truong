@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Sudoku Solver Using Backtracking in JavaScript](https://dev.to/mayaramyadav/creating-a-sudoku-solver-using-backtracking-in-javascript-4638)
-- [Building a Low-Cost AI Brainrot Video Pipeline on Cloudflare](https://dev.to/nuco_z_270906fb0e460592db/building-a-low-cost-ai-brainrot-video-pipeline-on-cloudflare-5ego)
-- [The Missing Row: Auto-Provisioning Derived Records Without the Race Condition](https://dev.to/iamcymentho/the-missing-row-auto-provisioning-derived-records-without-the-race-condition-3ecb)
-- [Vite SPA vs Next.js SSR: Real Performance Differences After Migration &lpar;With Benchmarks&rpar;](https://dev.to/digitaldev/vite-spa-vs-nextjs-ssr-real-performance-differences-after-migration-with-benchmarks-4d7k)
-- [Why Many Frontend Developers Use Next.js for work, but Vue.js for Personal Projects](https://dev.to/mudienub/why-many-frontend-developers-use-nextjs-for-workbut-vuejs-for-personal-projects-2419)
+- [Releasing revera@1.0.0](https://dev.to/aaravmaloo/releasing-revera100-2llo)
+- [Every response promised a rate limit. Nothing enforced it.](https://dev.to/turva-dev/every-response-promised-a-rate-limit-nothing-enforced-it-n5g)
+- [Process A Larger Xiaohongshu Note Batch Asynchronously](https://dev.to/mian_po_0ae30e900c601c8f5/process-a-larger-xiaohongshu-note-batch-asynchronously-6oj)
+- [Retrieve Rich Xiaohongshu Note Data With Python](https://dev.to/mian_po_0ae30e900c601c8f5/retrieve-rich-xiaohongshu-note-data-with-python-598n)
+- [I Replaced My Entire DevOps Pipeline with AI Agents — Here&#39;s What Happened](https://dev.to/jarynagent/i-replaced-my-entire-devops-pipeline-with-ai-agents-heres-what-happened-m21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
