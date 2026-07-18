@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Aussom?](https://dev.to/cup_of_code/why-aussom-3mmk)
-- [Part 2 — Search, palette, and settings](https://dev.to/nerd_snipe_dev/part-2-intermediate-search-palette-and-settings-gif)
-- [Production Interceptors for Solon ReActAgent: Stop Loops, Retry Tools, Sanitize Observations, Stream Events](https://dev.to/solonjava/production-interceptors-for-solon-reactagent-stop-loops-retry-tools-sanitize-observations-24m2)
-- [My Mac Said “System Data” Was Using 300 GB. Here’s How I Actually Cleared It.](https://dev.to/juliojeanfils1/my-mac-said-system-data-was-using-300-gb-heres-how-i-actually-cleared-it-22ij)
-- [Instrument First, Then Prompt: Finding Real Agentic Pipeline Bugs](https://dev.to/hannune/instrument-first-then-prompt-finding-real-agentic-pipeline-bugs-if9)
+- [AI Coding Assistants Compared: Cursor vs GitHub Copilot vs Claude Code](https://dev.to/synfinity-dynamics-pvt-ltd/ai-coding-assistants-compared-cursor-vs-github-copilot-vs-claude-code-4gd8)
+- [What Varies? A Go-To Mind Map of Design Patterns &amp; SOLID](https://dev.to/rakshyak/what-varies-a-go-to-mind-map-of-design-patterns-solid-3gii)
+- [Benchmarking Gemini 2.5 Flash vs 3.1 Flash-Lite vs Gemma 4 with LLM judge &lpar;Claude Fable 5&rpar;](https://dev.to/io_56a2cd4aff31d/benchmarking-gemini-25-flash-vs-31-flash-lite-vs-gemma-4-with-llm-judge-claude-fable-5-356)
+- [Adding an AI Chat Feature to My Expense Manager](https://dev.to/oluchii/adding-an-ai-chat-feature-to-my-expense-manager-32j0)
+- [Why Your Automation Completed Successfully But Shipped Nothing](https://dev.to/babarmaker76/why-your-automation-completed-successfully-but-shipped-nothing-3pa2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
