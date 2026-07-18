@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval-Augmented Self-Recall — Part 6: The Fine-Tune That Did Nothing, and Shipping It as an MCP Server](https://dev.to/gde03/retrieval-augmented-self-recall-part-6-the-fine-tune-that-did-nothing-and-shipping-it-as-an-mcp-240m)
-- [Retrieval-Augmented Self-Recall — Part 5: The Gap Threshold That Didn&#39;t Transfer](https://dev.to/gde03/retrieval-augmented-self-recall-part-5-the-gap-threshold-that-didnt-transfer-86a)
-- [Retrieval-Augmented Self-Recall — Part 4: Benchmarking Retrieval *and* Honesty](https://dev.to/gde03/retrieval-augmented-self-recall-part-4-benchmarking-retrieval-and-honesty-aj3)
-- [Retrieval-Augmented Self-Recall — Part 3: Teaching RAG to Say \&quot;I Don&#39;t Know\](https://dev.to/gde03/retrieval-augmented-self-recall-part-3-teaching-rag-to-say-i-dont-know-28no)
-- [Retrieval-Augmented Self-Recall — Part 2: Hybrid RAG on Nothing but Postgres](https://dev.to/gde03/retrieval-augmented-self-recall-part-2-hybrid-rag-on-nothing-but-postgres-2pge)
+- [I built a Claude Code plugin that tells you to slow down or push before your quota runs out](https://dev.to/eltony_lfgi/i-built-a-claude-code-plugin-that-tells-you-to-slow-down-or-push-before-your-quota-runs-out-52kc)
+- [Manual vs Generated OAuth Scopes: Lessons Learned While Building an Identity Platform](https://dev.to/oleg_ivanov_a662b77fe36b2/manual-vs-generated-oauth-scopes-lessons-learned-while-building-an-identity-platform-314h)
+- [Weighted Averages Lie About AI Readiness — The Case for Bottleneck Scoring](https://dev.to/yun_bow/weighted-averages-lie-about-ai-readiness-the-case-for-bottleneck-scoring-2595)
+- [Shipping With No Analytics](https://dev.to/grommash9/shipping-with-no-analytics-4ba8)
+- [The Art of Digital Minimalism: How to Stay Focused in a World of Noise](https://dev.to/pargati_hub_0705c4e214ebe/the-art-of-digital-minimalism-how-to-stay-focused-in-a-world-of-noise-183g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
