@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I believe product management does not start from a &quot;great idea&quot;, but from reducing guesswork](https://dev.to/dainguyen202/toi-nghi-quan-ly-san-pham-khong-bat-dau-tu-y-tuong-hay-ma-bat-dau-tu-viec-bot-doan-mo-4385)
-- [Five Models, One Shared Blind Spot: What Multi-Model Fan-Out Catches and What It Can&#39;t](https://dev.to/hexisteme/five-models-one-shared-blind-spot-what-multi-model-fan-out-catches-and-what-it-cant-40eb)
-- [Big O for the Impatient: Why Your Loop Is Slow &lpar;and When It Matters&rpar;](https://dev.to/ohugonnot/big-o-for-the-impatient-why-your-loop-is-slow-and-when-it-matters-30le)
-- [llms.txt explained](https://dev.to/turva-dev/llmstxt-explained-2aka)
-- [Your AWS account is one misconfiguration away from being a public file server](https://dev.to/nikodemus_rechul_eb50be9b/your-aws-account-is-one-misconfiguration-away-from-being-a-public-file-server-3gg5)
+- [Creating a Sudoku Solver Using Backtracking in JavaScript](https://dev.to/mayaramyadav/creating-a-sudoku-solver-using-backtracking-in-javascript-4638)
+- [Building a Low-Cost AI Brainrot Video Pipeline on Cloudflare](https://dev.to/nuco_z_270906fb0e460592db/building-a-low-cost-ai-brainrot-video-pipeline-on-cloudflare-5ego)
+- [The Missing Row: Auto-Provisioning Derived Records Without the Race Condition](https://dev.to/iamcymentho/the-missing-row-auto-provisioning-derived-records-without-the-race-condition-3ecb)
+- [Vite SPA vs Next.js SSR: Real Performance Differences After Migration &lpar;With Benchmarks&rpar;](https://dev.to/digitaldev/vite-spa-vs-nextjs-ssr-real-performance-differences-after-migration-with-benchmarks-4d7k)
+- [Why Many Frontend Developers Use Next.js for work, but Vue.js for Personal Projects](https://dev.to/mudienub/why-many-frontend-developers-use-nextjs-for-workbut-vuejs-for-personal-projects-2419)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
