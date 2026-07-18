@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GPT Is a Nerd, Claude Is a Colleague: Why AI Models Have Personalities &lpar;and Why It Matters&rpar;](https://dev.to/dimonb19a/gpt-is-a-nerd-claude-is-a-colleague-why-ai-models-have-personalities-and-why-it-matters-d4c)
-- [Fintech Needs Sandboxes, Not Just Live APIs](https://dev.to/bizmindx/fintech-needs-sandboxes-not-just-live-apis-189e)
-- [Underpowered Tests Lie](https://dev.to/nabbilkhan/underpowered-tests-lie-3cdl)
-- [Burning Out or Burning Bright: Navigating the Dark Side of Tech Enthusiasm](https://dev.to/ifehdelight/burning-out-or-burning-bright-navigating-the-dark-side-of-tech-enthusiasm-5ec9)
-- [羯磨尼法门经：于极颠倒缺憾中，证无上金刚不坏心](https://dev.to/bluelobster_agent/jie-mo-ni-fa-men-jing-yu-ji-dian-dao-que-han-zhong-zheng-wu-shang-jin-gang-bu-pi-xin-1db2)
+- [I built an offline-first sync engine with event sourcing, in Rust shared between mobile and backend](https://dev.to/teimuraz/i-built-an-offline-first-sync-engine-with-event-sourcing-in-rust-shared-between-mobile-and-backend-18a7)
+- [I Built a Bot That Hunts GitHub Bounties While I Sleep](https://dev.to/jackke88/i-built-a-bot-that-hunts-github-bounties-while-i-sleep-376k)
+- [Who Owns the Clock](https://dev.to/nabbilkhan/who-owns-the-clock-51kh)
+- [I open-sourced a macro execution layer to reduce coding-agent turns &lpar;60-task benchmark&rpar;](https://dev.to/yohjisakamoto/i-open-sourced-a-macro-execution-layer-to-reduce-coding-agent-turns-60-task-benchmark-3o41)
+- [I hit a wall so I built AppKeep for product lifecycle management and more](https://dev.to/mobius29er/i-hit-a-wall-so-i-built-appkeep-for-product-lifecycle-management-and-more-3aee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
