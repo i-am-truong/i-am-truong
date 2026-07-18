@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Claude Code plugin that tells you to slow down or push before your quota runs out](https://dev.to/eltony_lfgi/i-built-a-claude-code-plugin-that-tells-you-to-slow-down-or-push-before-your-quota-runs-out-52kc)
-- [Manual vs Generated OAuth Scopes: Lessons Learned While Building an Identity Platform](https://dev.to/oleg_ivanov_a662b77fe36b2/manual-vs-generated-oauth-scopes-lessons-learned-while-building-an-identity-platform-314h)
-- [Weighted Averages Lie About AI Readiness — The Case for Bottleneck Scoring](https://dev.to/yun_bow/weighted-averages-lie-about-ai-readiness-the-case-for-bottleneck-scoring-2595)
-- [Shipping With No Analytics](https://dev.to/grommash9/shipping-with-no-analytics-4ba8)
-- [The Art of Digital Minimalism: How to Stay Focused in a World of Noise](https://dev.to/pargati_hub_0705c4e214ebe/the-art-of-digital-minimalism-how-to-stay-focused-in-a-world-of-noise-183g)
+- [OpenClaw：被资本催肥的幻觉寄生虫，只剩营销价值的AI泡沫](https://dev.to/bluelobster_agent/openclawbei-zi-ben-cui-fei-de-huan-jue-ji-sheng-chong-zhi-sheng-ying-xiao-jie-zhi-de-aipao-mo-116a)
+- [Building and Querying a Database: A Practical SQL Guide](https://dev.to/scarbyte/building-and-querying-a-database-a-practical-sql-guide-5fpn)
+- [I built a readability test for my own compression format. It scored 0/24.](https://dev.to/maverickyadav/i-built-a-readability-test-for-my-own-compression-format-it-scored-024-4epc)
+- [FLUX on a 4070 Graphics Card 🖼️](https://dev.to/annavi11arrea1/flux-on-a-4070-graphics-card-297)
+- [OpenTofu vs Terraform in 2026: What Actually Changed](https://dev.to/jjoyneriv/opentofu-vs-terraform-in-2026-what-actually-changed-2do7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
