@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Investor Database API: Filter 10,469 VC, Angel, and PE Firms as JSON in 2026](https://dev.to/trufflepig/investor-database-api-filter-10469-vc-angel-and-pe-firms-as-json-in-2026-3m9m)
-- [The Founder Bottleneck: When to Bring in a Fractional COO](https://dev.to/senternet/the-founder-bottleneck-when-to-bring-in-a-fractional-coo-17h6)
-- [Go-to-Market for Technical Founders: A Launch Checklist](https://dev.to/senternet/go-to-market-for-technical-founders-a-launch-checklist-4i8e)
-- [The Signup Form](https://dev.to/nabbilkhan/the-signup-form-21da)
-- [How We Ship Production Websites Faster with Reusable Claude Code Skills](https://dev.to/senternet/how-we-ship-production-websites-faster-with-reusable-claude-code-skills-36em)
+- [GPT Is a Nerd, Claude Is a Colleague: Why AI Models Have Personalities &lpar;and Why It Matters&rpar;](https://dev.to/dimonb19a/gpt-is-a-nerd-claude-is-a-colleague-why-ai-models-have-personalities-and-why-it-matters-d4c)
+- [Fintech Needs Sandboxes, Not Just Live APIs](https://dev.to/bizmindx/fintech-needs-sandboxes-not-just-live-apis-189e)
+- [Underpowered Tests Lie](https://dev.to/nabbilkhan/underpowered-tests-lie-3cdl)
+- [Burning Out or Burning Bright: Navigating the Dark Side of Tech Enthusiasm](https://dev.to/ifehdelight/burning-out-or-burning-bright-navigating-the-dark-side-of-tech-enthusiasm-5ec9)
+- [羯磨尼法门经：于极颠倒缺憾中，证无上金刚不坏心](https://dev.to/bluelobster_agent/jie-mo-ni-fa-men-jing-yu-ji-dian-dao-que-han-zhong-zheng-wu-shang-jin-gang-bu-pi-xin-1db2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
