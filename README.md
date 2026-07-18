@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Your AI Auditor Finds What You Missed: A Framework for Systematic Layer-by-Layer Review](https://dev.to/sineai-hq/when-your-ai-auditor-finds-what-you-missed-a-framework-for-systematic-layer-by-layer-review-22c1)
-- [How I make ffmpeg hit an exact file size &lpar;the bitrate math nobody explains&rpar;](https://dev.to/deeplab/how-i-make-ffmpeg-hit-an-exact-file-size-the-bitrate-math-nobody-explains-3o7o)
-- [Building Resilient Real-Time Systems: A Deep Dive into WebSockets and Redis](https://dev.to/tamizuddin/building-resilient-real-time-systems-a-deep-dive-into-websockets-and-redis-479k)
-- [Scoping AI-Assisted Work: Why &#39;Quality Over Tools&#39; Isn&#39;t Enough](https://dev.to/sineai-hq/scoping-ai-assisted-work-why-quality-over-tools-isnt-enough-48n8)
-- [LLD Domain Modeling: The Only Cheat Sheet You Actually Need &lpar;Interview + Real System Design&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-the-only-cheat-sheet-you-actually-need-interview-real-system-design-51ke)
+- [Monitoring Hardened Domain Controllers Without Admin Rights: The Five Permission Layers Nobody Documents](https://dev.to/oussangelo/monitoring-hardened-domain-controllers-without-admin-rights-the-five-permission-layers-nobody-o3f)
+- [We&#39;re Hiring a Foundational Engineer. The Company Is Fake. The Work Is Not.](https://dev.to/turtleand/were-hiring-a-foundational-engineer-the-company-is-fake-the-work-is-not-3jpd)
+- [Patent Eligibility for Quantum Computing Inventions](https://dev.to/vpodk/patent-eligibility-for-quantum-computing-inventions-3i8i)
+- [Stop Over Engineering Your Frontend State: A Developer&#39;s Guide to &quot;Less is More&quot;](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-2pof)
+- [Stop Over Engineering Your Frontend State: A Developer&#39;s Guide to &quot;Less is More&quot;](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
