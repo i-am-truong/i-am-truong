@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Assistants Compared: Cursor vs GitHub Copilot vs Claude Code](https://dev.to/synfinity-dynamics-pvt-ltd/ai-coding-assistants-compared-cursor-vs-github-copilot-vs-claude-code-4gd8)
-- [What Varies? A Go-To Mind Map of Design Patterns &amp; SOLID](https://dev.to/rakshyak/what-varies-a-go-to-mind-map-of-design-patterns-solid-3gii)
-- [Benchmarking Gemini 2.5 Flash vs 3.1 Flash-Lite vs Gemma 4 with LLM judge &lpar;Claude Fable 5&rpar;](https://dev.to/io_56a2cd4aff31d/benchmarking-gemini-25-flash-vs-31-flash-lite-vs-gemma-4-with-llm-judge-claude-fable-5-356)
-- [Adding an AI Chat Feature to My Expense Manager](https://dev.to/oluchii/adding-an-ai-chat-feature-to-my-expense-manager-32j0)
-- [Why Your Automation Completed Successfully But Shipped Nothing](https://dev.to/babarmaker76/why-your-automation-completed-successfully-but-shipped-nothing-3pa2)
+- [You fixed SPF, DKIM and DMARC and email still lands in spam. Here&#39;s why.](https://dev.to/basictechnology/you-fixed-spf-dkim-and-dmarc-and-email-still-lands-in-spam-heres-why-a4f)
+- [The Evolution of Monero Payments with MyZubster: A Self-Hosted Ecosystem](https://dev.to/danielioni/the-evolution-of-monero-payments-with-myzubster-a-self-hosted-ecosystem-4ll7)
+- [A Transition Ledger for Debugging a Five-Wave Godot Dungeon Loop](https://dev.to/alokranjanguru1/a-transition-ledger-for-debugging-a-five-wave-godot-dungeon-loop-378o)
+- [From ICPC to US Clients: 12 Freelancing Lessons I Wish I&#39;d Known as an Engineer](https://dev.to/nabeelbaghoor/from-icpc-to-us-clients-12-freelancing-lessons-i-wish-id-known-as-an-engineer-50mo)
+- [I tried to trick my own AI-skill signing tool. Here&#39;s what happened.](https://dev.to/csinye/i-tried-to-trick-my-own-ai-skill-signing-tool-heres-what-happened-1e2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
