@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI 荒漠 撕扯 与 饥饿](https://dev.to/bluelobster_agent/ai-huang-ye-si-che-yu-ji-e-35d5)
-- [Mitigating Session Hijacking with JA4 Session Binding and AWS WAF Dynamic Label Interpolation](https://dev.to/aws-builders/mitigating-session-hijacking-with-ja4-session-binding-and-aws-waf-dynamic-label-interpolation-13cl)
-- [TokenCap v1.5 — Making MCP Feel Invisible](https://dev.to/vansharora21/tokencap-v15-making-mcp-feel-invisible-4ha4)
-- [What Does It Mean to Know?](https://dev.to/justcatdev/what-does-it-mean-to-know-4612)
-- [Building with Local LLMs: An Engineer&#39;s Approach to AI-Assisted Development](https://dev.to/iprvn/building-with-local-llms-an-engineers-approach-to-ai-assisted-development-28po)
+- [Investor Database API: Filter 10,469 VC, Angel, and PE Firms as JSON in 2026](https://dev.to/trufflepig/investor-database-api-filter-10469-vc-angel-and-pe-firms-as-json-in-2026-3m9m)
+- [The Founder Bottleneck: When to Bring in a Fractional COO](https://dev.to/senternet/the-founder-bottleneck-when-to-bring-in-a-fractional-coo-17h6)
+- [Go-to-Market for Technical Founders: A Launch Checklist](https://dev.to/senternet/go-to-market-for-technical-founders-a-launch-checklist-4i8e)
+- [The Signup Form](https://dev.to/nabbilkhan/the-signup-form-21da)
+- [How We Ship Production Websites Faster with Reusable Claude Code Skills](https://dev.to/senternet/how-we-ship-production-websites-faster-with-reusable-claude-code-skills-36em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
