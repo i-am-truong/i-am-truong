@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🇧🇷 E se existisse uma interface admin baseada na RubyUI? Assim nasceu a RubyUI Admin.](https://dev.to/videosdeti/e-se-existisse-uma-interface-admin-baseada-na-rubyui-assim-nasceu-a-rubyui-admin-5fe4)
-- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
-- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
-- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
-- [The OpenTofu Errors You&#39;ll Actually Hit &lpar;and How to Fix Them Fast&rpar;](https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e)
+- [Why Aussom?](https://dev.to/cup_of_code/why-aussom-3mmk)
+- [Part 2 — Search, palette, and settings](https://dev.to/nerd_snipe_dev/part-2-intermediate-search-palette-and-settings-gif)
+- [Production Interceptors for Solon ReActAgent: Stop Loops, Retry Tools, Sanitize Observations, Stream Events](https://dev.to/solonjava/production-interceptors-for-solon-reactagent-stop-loops-retry-tools-sanitize-observations-24m2)
+- [My Mac Said “System Data” Was Using 300 GB. Here’s How I Actually Cleared It.](https://dev.to/juliojeanfils1/my-mac-said-system-data-was-using-300-gb-heres-how-i-actually-cleared-it-22ij)
+- [Instrument First, Then Prompt: Finding Real Agentic Pipeline Bugs](https://dev.to/hannune/instrument-first-then-prompt-finding-real-agentic-pipeline-bugs-if9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
