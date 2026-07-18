@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You fixed SPF, DKIM and DMARC and email still lands in spam. Here&#39;s why.](https://dev.to/basictechnology/you-fixed-spf-dkim-and-dmarc-and-email-still-lands-in-spam-heres-why-a4f)
-- [The Evolution of Monero Payments with MyZubster: A Self-Hosted Ecosystem](https://dev.to/danielioni/the-evolution-of-monero-payments-with-myzubster-a-self-hosted-ecosystem-4ll7)
-- [A Transition Ledger for Debugging a Five-Wave Godot Dungeon Loop](https://dev.to/alokranjanguru1/a-transition-ledger-for-debugging-a-five-wave-godot-dungeon-loop-378o)
-- [From ICPC to US Clients: 12 Freelancing Lessons I Wish I&#39;d Known as an Engineer](https://dev.to/nabeelbaghoor/from-icpc-to-us-clients-12-freelancing-lessons-i-wish-id-known-as-an-engineer-50mo)
-- [I tried to trick my own AI-skill signing tool. Here&#39;s what happened.](https://dev.to/csinye/i-tried-to-trick-my-own-ai-skill-signing-tool-heres-what-happened-1e2d)
+- [I believe product management does not start from a &quot;great idea&quot;, but from reducing guesswork](https://dev.to/dainguyen202/toi-nghi-quan-ly-san-pham-khong-bat-dau-tu-y-tuong-hay-ma-bat-dau-tu-viec-bot-doan-mo-4385)
+- [Five Models, One Shared Blind Spot: What Multi-Model Fan-Out Catches and What It Can&#39;t](https://dev.to/hexisteme/five-models-one-shared-blind-spot-what-multi-model-fan-out-catches-and-what-it-cant-40eb)
+- [Big O for the Impatient: Why Your Loop Is Slow &lpar;and When It Matters&rpar;](https://dev.to/ohugonnot/big-o-for-the-impatient-why-your-loop-is-slow-and-when-it-matters-30le)
+- [llms.txt explained](https://dev.to/turva-dev/llmstxt-explained-2aka)
+- [Your AWS account is one misconfiguration away from being a public file server](https://dev.to/nikodemus_rechul_eb50be9b/your-aws-account-is-one-misconfiguration-away-from-being-a-public-file-server-3gg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
