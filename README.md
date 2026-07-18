@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Releasing revera@1.0.0](https://dev.to/aaravmaloo/releasing-revera100-2llo)
-- [Every response promised a rate limit. Nothing enforced it.](https://dev.to/turva-dev/every-response-promised-a-rate-limit-nothing-enforced-it-n5g)
-- [Process A Larger Xiaohongshu Note Batch Asynchronously](https://dev.to/mian_po_0ae30e900c601c8f5/process-a-larger-xiaohongshu-note-batch-asynchronously-6oj)
-- [Retrieve Rich Xiaohongshu Note Data With Python](https://dev.to/mian_po_0ae30e900c601c8f5/retrieve-rich-xiaohongshu-note-data-with-python-598n)
-- [I Replaced My Entire DevOps Pipeline with AI Agents — Here&#39;s What Happened](https://dev.to/jarynagent/i-replaced-my-entire-devops-pipeline-with-ai-agents-heres-what-happened-m21)
+- [Retrieval-Augmented Self-Recall — Part 6: The Fine-Tune That Did Nothing, and Shipping It as an MCP Server](https://dev.to/gde03/retrieval-augmented-self-recall-part-6-the-fine-tune-that-did-nothing-and-shipping-it-as-an-mcp-240m)
+- [Retrieval-Augmented Self-Recall — Part 5: The Gap Threshold That Didn&#39;t Transfer](https://dev.to/gde03/retrieval-augmented-self-recall-part-5-the-gap-threshold-that-didnt-transfer-86a)
+- [Retrieval-Augmented Self-Recall — Part 4: Benchmarking Retrieval *and* Honesty](https://dev.to/gde03/retrieval-augmented-self-recall-part-4-benchmarking-retrieval-and-honesty-aj3)
+- [Retrieval-Augmented Self-Recall — Part 3: Teaching RAG to Say \&quot;I Don&#39;t Know\](https://dev.to/gde03/retrieval-augmented-self-recall-part-3-teaching-rag-to-say-i-dont-know-28no)
+- [Retrieval-Augmented Self-Recall — Part 2: Hybrid RAG on Nothing but Postgres](https://dev.to/gde03/retrieval-augmented-self-recall-part-2-hybrid-rag-on-nothing-but-postgres-2pge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
