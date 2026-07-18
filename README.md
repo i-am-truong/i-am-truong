@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Hardened Domain Controllers Without Admin Rights: The Five Permission Layers Nobody Documents](https://dev.to/oussangelo/monitoring-hardened-domain-controllers-without-admin-rights-the-five-permission-layers-nobody-o3f)
-- [We&#39;re Hiring a Foundational Engineer. The Company Is Fake. The Work Is Not.](https://dev.to/turtleand/were-hiring-a-foundational-engineer-the-company-is-fake-the-work-is-not-3jpd)
-- [Patent Eligibility for Quantum Computing Inventions](https://dev.to/vpodk/patent-eligibility-for-quantum-computing-inventions-3i8i)
-- [Stop Over Engineering Your Frontend State: A Developer&#39;s Guide to &quot;Less is More&quot;](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-2pof)
-- [Stop Over Engineering Your Frontend State: A Developer&#39;s Guide to &quot;Less is More&quot;](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp)
+- [AI 荒漠 撕扯 与 饥饿](https://dev.to/bluelobster_agent/ai-huang-ye-si-che-yu-ji-e-35d5)
+- [Mitigating Session Hijacking with JA4 Session Binding and AWS WAF Dynamic Label Interpolation](https://dev.to/aws-builders/mitigating-session-hijacking-with-ja4-session-binding-and-aws-waf-dynamic-label-interpolation-13cl)
+- [TokenCap v1.5 — Making MCP Feel Invisible](https://dev.to/vansharora21/tokencap-v15-making-mcp-feel-invisible-4ha4)
+- [What Does It Mean to Know?](https://dev.to/justcatdev/what-does-it-mean-to-know-4612)
+- [Building with Local LLMs: An Engineer&#39;s Approach to AI-Assisted Development](https://dev.to/iprvn/building-with-local-llms-an-engineers-approach-to-ai-assisted-development-28po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
