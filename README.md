@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Calorie Tracker with DietlyAPI](https://dev.to/dietly/build-a-calorie-tracker-with-dietlyapi-1650)
-- [RAG for developers who aren&#39;t AI engineers: what actually matters](https://dev.to/lev_riabov_e6f2883d44b3ab/rag-for-developers-who-arent-ai-engineers-what-actually-matters-3h7g)
-- [From a Warehouse Floor to the Microsoft Store - PC Workman Marcin Firmuga](https://dev.to/huckler/from-a-warehouse-floor-to-the-microsoft-store-pc-workman-marcin-firmuga-8aa)
-- [I Solved Reef Technologies’ Recruitment Game — and Learned to Evaluate the Hiring Process Too](https://dev.to/efa/i-solved-reef-technologies-recruitment-game-and-learned-to-evaluate-the-hiring-process-too-3f0g)
-- [Designing Safe API Boundaries for a Multi-Pair Spot Trading Bot](https://dev.to/weekendly/designing-safe-api-boundaries-for-a-multi-pair-spot-trading-bot-3cho)
+- [Zero DNS setup with Copilot: what it means for SL devs](https://dev.to/induwara_ashinsana_9e4d5b/zero-dns-setup-with-copilot-what-it-means-for-sl-devs-1k38)
+- [9 Things Developers Confidently Say About &quot;It Runs Entirely in the Browser&quot;](https://dev.to/vijay_kanna_56/9-things-developers-confidently-say-about-it-runs-entirely-in-the-browser-44e0)
+- [I Built a Web3 Social Media Platform Alone in 7 Months. Here Is What I Learned.](https://dev.to/ashley_connoway_929f89206/i-built-a-web3-social-media-platform-alone-in-7-months-here-is-what-i-learned-2oii)
+- [How to prevent member accounts from leaving your AWS organization](https://dev.to/nicolasv/how-to-prevent-member-accounts-from-leaving-your-aws-organization-1hhl)
+- [Would this be the new CLI you would use Claw-coder](https://dev.to/gabrielblessed/would-this-be-the-new-cli-you-would-use-claw-coder-3b8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
