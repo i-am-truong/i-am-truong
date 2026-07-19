@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I almost reported a critical bug that didn&#39;t exist. One constant saved me.](https://dev.to/juan23z/i-almost-reported-a-critical-bug-that-didnt-exist-one-constant-saved-me-137b)
-- [How the V8 Engine Optimizes JavaScript at Runtime](https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1)
-- [Building Blue Watch: a tiny SIEM with a big attitude](https://dev.to/luna_meadows/building-blue-watch-a-tiny-siem-with-a-big-attitude-3g5k)
-- [Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API](https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41)
-- [Architecting Geofencing for Android: Lessons in Battery Conservation](https://dev.to/haseebthedev0/architecting-geofencing-for-android-lessons-in-battery-conservation-47cf)
+- [Why Child Safety Tracking Should Never Be Paywalled](https://dev.to/omarelhaitoum/why-child-safety-tracking-should-never-be-paywalled-2f38)
+- [Great Tools for Solo SaaS Founders: A Battle-Tested Stack for 2024](https://dev.to/brino666/great-tools-for-solo-saas-founders-a-battle-tested-stack-for-2024-4cc9)
+- [How to Find a SaaS Project to Build: A Developer&#39;s Practical Guide](https://dev.to/brino666/how-to-find-a-saas-project-to-build-a-developers-practical-guide-59gp)
+- [Ask HN: What do you consider the best way to protect a SaaS from bots?](https://dev.to/brino666/ask-hn-what-do-you-consider-the-best-way-to-protect-a-saas-from-bots-2fh3)
+- [GDPR Compliance for Systems-Oriented SaaS: A Developer&#39;s Implementation Guide](https://dev.to/brino666/gdpr-compliance-for-systems-oriented-saas-a-developers-implementation-guide-42m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
