@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Hands-On Guide to kalbee: Your First Kalman Filter &lpar;and Beyond&rpar;](https://dev.to/firefrog/a-hands-on-guide-to-kalbee-your-first-kalman-filter-and-beyond-1k9m)
-- [Building Resilient Real-Time Systems: WebSockets, Redis, and Strategies for High Availability](https://dev.to/tamizuddin/building-resilient-real-time-systems-websockets-redis-and-strategies-for-high-availability-3gl)
-- [It Can Die in Its Sleep — Self-Healing launchd Jobs with Multi-Slot Firing and a Done-Marker](https://dev.to/bokuwalily/it-can-die-in-its-sleep-self-healing-launchd-jobs-with-multi-slot-firing-and-a-done-marker-3nn9)
-- [Write Your Exceptions Down](https://dev.to/nabbilkhan/write-your-exceptions-down-3c7g)
-- [Is your agent&#39;s grep tool a shell command?](https://dev.to/vdalal/is-your-agents-grep-tool-a-shell-command-4002)
+- [I Got Tired of Hand-Translating Xcode Plists, So I Built a Tiny Free Tool to Do It On-Device](https://dev.to/swainwri/i-got-tired-of-hand-translating-xcode-plists-so-i-built-a-tiny-free-tool-to-do-it-on-device-3cod)
+- [Building GateKeeper: Designing a Role-Based Access Control Library in Pure Go](https://dev.to/dhavalrasputala/building-gatekeeper-designing-a-role-based-access-control-library-in-pure-go-5a7e)
+- [Clinejection: How a GitHub Issue Title Compromised an AI Coding Assistant Used by 5M Developers](https://dev.to/eldor_zufarov_1966/clinejection-how-a-github-issue-title-compromised-an-ai-coding-assistant-used-by-5m-developers-1kb5)
+- [A Practical Workflow for Contributing to a Large, Structured Codebase](https://dev.to/daniel_wu_c0ec7ad41de5f61/my-workflow-when-contributing-to-a-structured-codebase-1878)
+- [Google custom search api free limit: How to bypass the cap](https://dev.to/serpapiorg/google-custom-search-api-free-limit-how-to-bypass-the-cap-376j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
