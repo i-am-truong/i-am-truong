@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL Basics Explained: DDL, DML, Filtering, and CASE WHEN](https://dev.to/itsweshy/sql-basics-explained-ddl-dml-filtering-and-case-when-348i)
-- [Writing TUI in the Terminal with Angular: Introducing @cyia/opentui-angular](https://dev.to/wszgrcy/writing-tui-in-the-terminal-with-angular-introducing-cyiaopentui-angular-2no9)
-- [System Design - Building an Experiment Service](https://dev.to/icraftcode/system-design-building-an-experiment-service-1619)
-- [I measured every millisecond of my real-time AI pipeline. The LLM was the fast part.](https://dev.to/florian131313/i-measured-every-millisecond-of-my-real-time-ai-pipeline-the-llm-was-the-fast-part-dd5)
-- [Your AI Skills Have Two Dials. Most Ship With One Turned Off.](https://dev.to/jugeni/your-ai-skills-have-two-dials-most-ship-with-one-turned-off-2e29)
+- [hreflang in 2026: 5 Mistakes That Still Break International SEO](https://dev.to/yositeup/hreflang-in-2026-5-mistakes-that-still-break-international-seo-20ng)
+- [Coming Back to Writing - and My First Cybersecurity Project](https://dev.to/mabdullah06/coming-back-to-writing-and-my-first-cybersecurity-project-3kp5)
+- [I Rewrote a OneNote MCP Server in TypeScript — Here&#39;s What I Learned About Microsoft Graph Auth](https://dev.to/singhamandeep007/i-rewrote-a-onenote-mcp-server-in-typescript-heres-what-i-learned-about-microsoft-graph-auth-op3)
+- [The Reliability Math Behind a Green n8n Workflow: Multiply, Don&#39;t Average](https://dev.to/moonshot_1341/the-reliability-math-behind-a-green-n8n-workflow-multiply-dont-average-2602)
+- [A Git Cleanup Left Me With an Application I No Longer Recognized](https://dev.to/victor_perez_6bdfe6303843/une-mauvaise-gestion-de-git-a-ramene-mon-application-dans-un-etat-que-je-ne-reconnaissais-plus-39ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
