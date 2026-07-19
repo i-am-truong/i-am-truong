@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevLog #1: Re-entering the Matrix after years away](https://dev.to/moleaine/devlog-1-re-entering-the-matrix-after-years-away-318g)
-- [The Difference Between a Review and an Advert](https://dev.to/review-it/the-difference-between-a-review-and-an-advert-1f26)
-- [I Built an Architecture Intelligence Tool for React &amp; Next.js During the OpenAI Build Week Hackathon](https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba)
-- [The date string that invented $725 in a synthetic margin report](https://dev.to/michaelalriggs/the-date-string-that-invented-725-in-a-synthetic-margin-report-3o79)
-- [The Archive Multiplier: Why eth_call at a Historical Block](https://dev.to/openchainbench/the-archive-multiplier-why-ethcall-at-a-historical-block-4c7g)
+- [Chat with Your Documents: Building a RAG Pipeline with AWS Blocks](https://dev.to/saddamazad/chat-with-your-documents-building-a-rag-pipeline-with-aws-blocks-4jf3)
+- [Hookbox: a self-hosted webhook inbox with HMAC verification and replay](https://dev.to/heisenberg_blue/hookbox-a-self-hosted-webhook-inbox-with-hmac-verification-and-replay-3h80)
+- [Why Your Git History Isn&#39;t Enough as Proof](https://dev.to/vesmot_dev/why-your-git-history-isnt-enough-as-proof-58m7)
+- [How to Build Consistent UTM Links for Marketing Campaigns](https://dev.to/tool_mint_05313cff538fa82/how-to-build-consistent-utm-links-for-marketing-campaigns-323)
+- [🚑 Creating a Self-Healing Automation Framework with Playwright](https://dev.to/aswani25/creating-a-self-healing-automation-framework-with-playwright-26k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
