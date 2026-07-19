@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1gop)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-2apd)
-- [Daily Math Insight: Saturday, July 4](https://dev.to/thula/daily-math-insight-saturday-july-4-2mcm)
-- [The bug that only showed up because my test was too fast](https://dev.to/jihedbfrart/the-bug-that-only-showed-up-because-my-test-was-too-fast-3l8l)
-- [Keycloak lets you pick a login option that&#39;s guaranteed to fail — here&#39;s the fix](https://dev.to/jihedbfrart/keycloak-lets-you-pick-a-login-option-thats-guaranteed-to-fail-heres-the-fix-2jbn)
+- [Testing AI Agents with AgentSpec: Jest for Non-Deterministic Behavior](https://dev.to/pawfromoz/testing-ai-agents-with-agentspec-jest-for-non-deterministic-behavior-55kg)
+- [How to Validate an App Idea Before Building It &lpar;The Cheap, Honest Way&rpar;](https://dev.to/assindo/how-to-validate-an-app-idea-before-building-it-the-cheap-honest-way-51f6)
+- [How AI Agents Actually Work](https://dev.to/paulcrinigan/how-ai-agents-actually-work-1ljd)
+- [A One-Second Static Check for E2E Selector Drift](https://dev.to/cydavid/a-one-second-static-check-for-e2e-selector-drift-21gf)
+- [How We Distribute Video Events Across Regions With NATS JetStream](https://dev.to/ahmet_gedik778845/how-we-distribute-video-events-across-regions-with-nats-jetstream-oam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
