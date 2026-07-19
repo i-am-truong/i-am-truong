@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a DLP Agent That Learns From Every Click — Here&#39;s How](https://dev.to/ra226/i-built-a-dlp-agent-that-learns-from-every-click-heres-how-5ede)
-- [I Built a Free TBH: Task Bar Hero Gear Calculator — Compare 1,375 Weapons &amp; Armor Instantly](https://dev.to/cde-yang/i-built-a-free-tbh-task-bar-hero-gear-calculator-compare-1375-weapons-armor-instantly-41do)
-- [Friends don&#39;t let friends keep waiting for pre-commit hooks](https://dev.to/rafaelpierre/friends-dont-let-friends-keep-waiting-for-pre-commit-hooks-5524)
-- [Why console.log After setState Shows the Old Value](https://dev.to/naserrasouli/why-consolelog-after-setstate-shows-the-old-value-15mj)
-- [Build Authentication in Next.js 15 From Scratch — No Libraries](https://dev.to/anas_sheikh_2/build-authentication-in-nextjs-15-from-scratch-no-libraries-ej4)
+- [SQL Basics Explained: DDL, DML, Filtering, and CASE WHEN](https://dev.to/itsweshy/sql-basics-explained-ddl-dml-filtering-and-case-when-348i)
+- [Writing TUI in the Terminal with Angular: Introducing @cyia/opentui-angular](https://dev.to/wszgrcy/writing-tui-in-the-terminal-with-angular-introducing-cyiaopentui-angular-2no9)
+- [System Design - Building an Experiment Service](https://dev.to/icraftcode/system-design-building-an-experiment-service-1619)
+- [I measured every millisecond of my real-time AI pipeline. The LLM was the fast part.](https://dev.to/florian131313/i-measured-every-millisecond-of-my-real-time-ai-pipeline-the-llm-was-the-fast-part-dd5)
+- [Your AI Skills Have Two Dials. Most Ship With One Turned Off.](https://dev.to/jugeni/your-ai-skills-have-two-dials-most-ship-with-one-turned-off-2e29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
