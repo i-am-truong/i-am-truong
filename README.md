@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Off Switch: Mammals May Have Been Hiding the Power to Regrow Themselves All Along](https://dev.to/siva_sivakumar_2026/the-off-switch-mammals-may-have-been-hiding-the-power-to-regrow-themselves-all-along-945)
-- [Syncthing File Sync for Self-Hosted Knowledge Systems](https://dev.to/rosgluk/syncthing-file-sync-for-self-hosted-knowledge-systems-44e7)
-- [Building AI Agents for Social Media with TypeScript and Hono.js](https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp)
-- [The Core Technical Problems Behind Trading and DAO Infrastructure](https://dev.to/antfarm-official/the-core-technical-problems-behind-trading-and-dao-infrastructure-33gl)
-- [Optimizing Large-Scale MongoDB Aggregation Pipelines: Strategies for Performance at Scale](https://dev.to/tamizuddin/optimizing-large-scale-mongodb-aggregation-pipelines-strategies-for-performance-at-scale-nd0)
+- [Build a Calorie Tracker with DietlyAPI](https://dev.to/dietly/build-a-calorie-tracker-with-dietlyapi-1650)
+- [RAG for developers who aren&#39;t AI engineers: what actually matters](https://dev.to/lev_riabov_e6f2883d44b3ab/rag-for-developers-who-arent-ai-engineers-what-actually-matters-3h7g)
+- [From a Warehouse Floor to the Microsoft Store - PC Workman Marcin Firmuga](https://dev.to/huckler/from-a-warehouse-floor-to-the-microsoft-store-pc-workman-marcin-firmuga-8aa)
+- [I Solved Reef Technologies’ Recruitment Game — and Learned to Evaluate the Hiring Process Too](https://dev.to/efa/i-solved-reef-technologies-recruitment-game-and-learned-to-evaluate-the-hiring-process-too-3f0g)
+- [Designing Safe API Boundaries for a Multi-Pair Spot Trading Bot](https://dev.to/weekendly/designing-safe-api-boundaries-for-a-multi-pair-spot-trading-bot-3cho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
