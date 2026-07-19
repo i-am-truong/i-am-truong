@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Hand-Translating Xcode Plists, So I Built a Tiny Free Tool to Do It On-Device](https://dev.to/swainwri/i-got-tired-of-hand-translating-xcode-plists-so-i-built-a-tiny-free-tool-to-do-it-on-device-3cod)
-- [Building GateKeeper: Designing a Role-Based Access Control Library in Pure Go](https://dev.to/dhavalrasputala/building-gatekeeper-designing-a-role-based-access-control-library-in-pure-go-5a7e)
-- [Clinejection: How a GitHub Issue Title Compromised an AI Coding Assistant Used by 5M Developers](https://dev.to/eldor_zufarov_1966/clinejection-how-a-github-issue-title-compromised-an-ai-coding-assistant-used-by-5m-developers-1kb5)
-- [A Practical Workflow for Contributing to a Large, Structured Codebase](https://dev.to/daniel_wu_c0ec7ad41de5f61/my-workflow-when-contributing-to-a-structured-codebase-1878)
-- [Google custom search api free limit: How to bypass the cap](https://dev.to/serpapiorg/google-custom-search-api-free-limit-how-to-bypass-the-cap-376j)
+- [How to build a reliable video-to-prompt pipeline](https://dev.to/videoflow/how-to-build-a-reliable-video-to-prompt-pipeline-151a)
+- [Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG](https://dev.to/gde/robust-gap-achieving-zero-hallucination-causal-summarization-in-hierarchical-rag-2606)
+- [Edge Computing Middleware: Securing and Scaling Distributed Architectures](https://dev.to/tamizuddin/edge-computing-middleware-securing-and-scaling-distributed-architectures-37o3)
+- [The Best Way to Approach Code Reviews](https://dev.to/ufomadu_nnaemeka_89/the-best-way-to-approach-code-reviews-19o8)
+- [Day 9/30: Human-in-the-loop Agents](https://dev.to/yashwanth_kasi/day-930-human-in-the-loop-agents-504a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
