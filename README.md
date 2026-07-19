@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [trajectory-sentinel v0.1.0: correlación de señales de defensa de agentes](https://dev.to/magopredator/trajectory-sentinel-v010-correlacion-de-senales-de-defensa-de-agentes-4jmh)
-- [goal-anchor v0.1.0: integridad de objetivo para agentes multi-paso](https://dev.to/magopredator/goal-anchor-v010-integridad-de-objetivo-para-agentes-multi-paso-1cic)
-- [wallet-guard v0.1.0: guardrails de bucle y presupuesto para agentes](https://dev.to/magopredator/wallet-guard-v010-guardrails-de-bucle-y-presupuesto-para-agentes-3p0h)
-- [adi-shield v0.1.0: detección de inyección de prompt en 5 vectores](https://dev.to/magopredator/adi-shield-v010-deteccion-de-inyeccion-de-prompt-en-5-vectores-2fh4)
-- [scope-lib v0.1.0: evaluación de alcance para agentes de IA en 3 criterios](https://dev.to/magopredator/scope-lib-v010-evaluacion-de-alcance-para-agentes-de-ia-en-3-criterios-1edb)
+- [I almost reported a critical bug that didn&#39;t exist. One constant saved me.](https://dev.to/juan23z/i-almost-reported-a-critical-bug-that-didnt-exist-one-constant-saved-me-137b)
+- [How the V8 Engine Optimizes JavaScript at Runtime](https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1)
+- [Building Blue Watch: a tiny SIEM with a big attitude](https://dev.to/luna_meadows/building-blue-watch-a-tiny-siem-with-a-big-attitude-3g5k)
+- [Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API](https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41)
+- [Architecting Geofencing for Android: Lessons in Battery Conservation](https://dev.to/haseebthedev0/architecting-geofencing-for-android-lessons-in-battery-conservation-47cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
