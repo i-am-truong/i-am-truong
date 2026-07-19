@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing AI Agents with AgentSpec: Jest for Non-Deterministic Behavior](https://dev.to/pawfromoz/testing-ai-agents-with-agentspec-jest-for-non-deterministic-behavior-55kg)
-- [How to Validate an App Idea Before Building It &lpar;The Cheap, Honest Way&rpar;](https://dev.to/assindo/how-to-validate-an-app-idea-before-building-it-the-cheap-honest-way-51f6)
-- [How AI Agents Actually Work](https://dev.to/paulcrinigan/how-ai-agents-actually-work-1ljd)
-- [A One-Second Static Check for E2E Selector Drift](https://dev.to/cydavid/a-one-second-static-check-for-e2e-selector-drift-21gf)
-- [How We Distribute Video Events Across Regions With NATS JetStream](https://dev.to/ahmet_gedik778845/how-we-distribute-video-events-across-regions-with-nats-jetstream-oam)
+- [The Millennium Fracture &lpar;2000-2002&rpar;: Digital Fragmentation and Chaos](https://dev.to/bioshistory/the-millennium-fracture-2000-2002-digital-fragmentation-and-chaos-4g4o)
+- [Beyond the Inference Time: A Deep Dive into Real-Time NPU Latency Visualization on Android](https://dev.to/programmingcentral/beyond-the-inference-time-a-deep-dive-into-real-time-npu-latency-visualization-on-android-2f6m)
+- [DevOps Is About Shipping Software. Platform Engineering Is About Scaling the Way Teams Ship.](https://dev.to/gaurav_singh_b1c98a01104e/devops-is-about-shipping-software-platform-engineering-is-about-scaling-the-way-teams-ship-408)
+- [Automate Spotify and YouTube Playlists - The Complete Series](https://dev.to/towernter/automate-spotify-and-youtube-playlists-the-complete-series-1b9o)
+- [I Stopped Reinventing the Wheel: Building Modular Python Foundations](https://dev.to/alexdevtools/i-stopped-reinventing-the-wheel-building-modular-python-foundations-3l8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
