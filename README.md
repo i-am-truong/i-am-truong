@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Millennium Fracture &lpar;2000-2002&rpar;: Digital Fragmentation and Chaos](https://dev.to/bioshistory/the-millennium-fracture-2000-2002-digital-fragmentation-and-chaos-4g4o)
-- [Beyond the Inference Time: A Deep Dive into Real-Time NPU Latency Visualization on Android](https://dev.to/programmingcentral/beyond-the-inference-time-a-deep-dive-into-real-time-npu-latency-visualization-on-android-2f6m)
-- [DevOps Is About Shipping Software. Platform Engineering Is About Scaling the Way Teams Ship.](https://dev.to/gaurav_singh_b1c98a01104e/devops-is-about-shipping-software-platform-engineering-is-about-scaling-the-way-teams-ship-408)
-- [Automate Spotify and YouTube Playlists - The Complete Series](https://dev.to/towernter/automate-spotify-and-youtube-playlists-the-complete-series-1b9o)
-- [I Stopped Reinventing the Wheel: Building Modular Python Foundations](https://dev.to/alexdevtools/i-stopped-reinventing-the-wheel-building-modular-python-foundations-3l8k)
+- [trajectory-sentinel v0.1.0: correlación de señales de defensa de agentes](https://dev.to/magopredator/trajectory-sentinel-v010-correlacion-de-senales-de-defensa-de-agentes-4jmh)
+- [goal-anchor v0.1.0: integridad de objetivo para agentes multi-paso](https://dev.to/magopredator/goal-anchor-v010-integridad-de-objetivo-para-agentes-multi-paso-1cic)
+- [wallet-guard v0.1.0: guardrails de bucle y presupuesto para agentes](https://dev.to/magopredator/wallet-guard-v010-guardrails-de-bucle-y-presupuesto-para-agentes-3p0h)
+- [adi-shield v0.1.0: detección de inyección de prompt en 5 vectores](https://dev.to/magopredator/adi-shield-v010-deteccion-de-inyeccion-de-prompt-en-5-vectores-2fh4)
+- [scope-lib v0.1.0: evaluación de alcance para agentes de IA en 3 criterios](https://dev.to/magopredator/scope-lib-v010-evaluacion-de-alcance-para-agentes-de-ia-en-3-criterios-1edb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
