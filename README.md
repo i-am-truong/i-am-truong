@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero DNS setup with Copilot: what it means for SL devs](https://dev.to/induwara_ashinsana_9e4d5b/zero-dns-setup-with-copilot-what-it-means-for-sl-devs-1k38)
-- [9 Things Developers Confidently Say About &quot;It Runs Entirely in the Browser&quot;](https://dev.to/vijay_kanna_56/9-things-developers-confidently-say-about-it-runs-entirely-in-the-browser-44e0)
-- [I Built a Web3 Social Media Platform Alone in 7 Months. Here Is What I Learned.](https://dev.to/ashley_connoway_929f89206/i-built-a-web3-social-media-platform-alone-in-7-months-here-is-what-i-learned-2oii)
-- [How to prevent member accounts from leaving your AWS organization](https://dev.to/nicolasv/how-to-prevent-member-accounts-from-leaving-your-aws-organization-1hhl)
-- [Would this be the new CLI you would use Claw-coder](https://dev.to/gabrielblessed/would-this-be-the-new-cli-you-would-use-claw-coder-3b8f)
+- [DevLog #1: Re-entering the Matrix after years away](https://dev.to/moleaine/devlog-1-re-entering-the-matrix-after-years-away-318g)
+- [The Difference Between a Review and an Advert](https://dev.to/review-it/the-difference-between-a-review-and-an-advert-1f26)
+- [I Built an Architecture Intelligence Tool for React &amp; Next.js During the OpenAI Build Week Hackathon](https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba)
+- [The date string that invented $725 in a synthetic margin report](https://dev.to/michaelalriggs/the-date-string-that-invented-725-in-a-synthetic-margin-report-3o79)
+- [The Archive Multiplier: Why eth_call at a Historical Block](https://dev.to/openchainbench/the-archive-multiplier-why-ethcall-at-a-historical-block-4c7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
