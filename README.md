@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build a reliable video-to-prompt pipeline](https://dev.to/videoflow/how-to-build-a-reliable-video-to-prompt-pipeline-151a)
-- [Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG](https://dev.to/gde/robust-gap-achieving-zero-hallucination-causal-summarization-in-hierarchical-rag-2606)
-- [Edge Computing Middleware: Securing and Scaling Distributed Architectures](https://dev.to/tamizuddin/edge-computing-middleware-securing-and-scaling-distributed-architectures-37o3)
-- [The Best Way to Approach Code Reviews](https://dev.to/ufomadu_nnaemeka_89/the-best-way-to-approach-code-reviews-19o8)
-- [Day 9/30: Human-in-the-loop Agents](https://dev.to/yashwanth_kasi/day-930-human-in-the-loop-agents-504a)
+- [I Built a DLP Agent That Learns From Every Click — Here&#39;s How](https://dev.to/ra226/i-built-a-dlp-agent-that-learns-from-every-click-heres-how-5ede)
+- [I Built a Free TBH: Task Bar Hero Gear Calculator — Compare 1,375 Weapons &amp; Armor Instantly](https://dev.to/cde-yang/i-built-a-free-tbh-task-bar-hero-gear-calculator-compare-1375-weapons-armor-instantly-41do)
+- [Friends don&#39;t let friends keep waiting for pre-commit hooks](https://dev.to/rafaelpierre/friends-dont-let-friends-keep-waiting-for-pre-commit-hooks-5524)
+- [Why console.log After setState Shows the Old Value](https://dev.to/naserrasouli/why-consolelog-after-setstate-shows-the-old-value-15mj)
+- [Build Authentication in Next.js 15 From Scratch — No Libraries](https://dev.to/anas_sheikh_2/build-authentication-in-nextjs-15-from-scratch-no-libraries-ej4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
