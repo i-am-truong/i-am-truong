@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chat with Your Documents: Building a RAG Pipeline with AWS Blocks](https://dev.to/saddamazad/chat-with-your-documents-building-a-rag-pipeline-with-aws-blocks-4jf3)
-- [Hookbox: a self-hosted webhook inbox with HMAC verification and replay](https://dev.to/heisenberg_blue/hookbox-a-self-hosted-webhook-inbox-with-hmac-verification-and-replay-3h80)
-- [Why Your Git History Isn&#39;t Enough as Proof](https://dev.to/vesmot_dev/why-your-git-history-isnt-enough-as-proof-58m7)
-- [How to Build Consistent UTM Links for Marketing Campaigns](https://dev.to/tool_mint_05313cff538fa82/how-to-build-consistent-utm-links-for-marketing-campaigns-323)
-- [🚑 Creating a Self-Healing Automation Framework with Playwright](https://dev.to/aswani25/creating-a-self-healing-automation-framework-with-playwright-26k0)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1gop)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-2apd)
+- [Daily Math Insight: Saturday, July 4](https://dev.to/thula/daily-math-insight-saturday-july-4-2mcm)
+- [The bug that only showed up because my test was too fast](https://dev.to/jihedbfrart/the-bug-that-only-showed-up-because-my-test-was-too-fast-3l8l)
+- [Keycloak lets you pick a login option that&#39;s guaranteed to fail — here&#39;s the fix](https://dev.to/jihedbfrart/keycloak-lets-you-pick-a-login-option-thats-guaranteed-to-fail-heres-the-fix-2jbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
