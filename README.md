@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [hreflang in 2026: 5 Mistakes That Still Break International SEO](https://dev.to/yositeup/hreflang-in-2026-5-mistakes-that-still-break-international-seo-20ng)
-- [Coming Back to Writing - and My First Cybersecurity Project](https://dev.to/mabdullah06/coming-back-to-writing-and-my-first-cybersecurity-project-3kp5)
-- [I Rewrote a OneNote MCP Server in TypeScript — Here&#39;s What I Learned About Microsoft Graph Auth](https://dev.to/singhamandeep007/i-rewrote-a-onenote-mcp-server-in-typescript-heres-what-i-learned-about-microsoft-graph-auth-op3)
-- [The Reliability Math Behind a Green n8n Workflow: Multiply, Don&#39;t Average](https://dev.to/moonshot_1341/the-reliability-math-behind-a-green-n8n-workflow-multiply-dont-average-2602)
-- [A Git Cleanup Left Me With an Application I No Longer Recognized](https://dev.to/victor_perez_6bdfe6303843/une-mauvaise-gestion-de-git-a-ramene-mon-application-dans-un-etat-que-je-ne-reconnaissais-plus-39ph)
+- [The Off Switch: Mammals May Have Been Hiding the Power to Regrow Themselves All Along](https://dev.to/siva_sivakumar_2026/the-off-switch-mammals-may-have-been-hiding-the-power-to-regrow-themselves-all-along-945)
+- [Syncthing File Sync for Self-Hosted Knowledge Systems](https://dev.to/rosgluk/syncthing-file-sync-for-self-hosted-knowledge-systems-44e7)
+- [Building AI Agents for Social Media with TypeScript and Hono.js](https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp)
+- [The Core Technical Problems Behind Trading and DAO Infrastructure](https://dev.to/antfarm-official/the-core-technical-problems-behind-trading-and-dao-infrastructure-33gl)
+- [Optimizing Large-Scale MongoDB Aggregation Pipelines: Strategies for Performance at Scale](https://dev.to/tamizuddin/optimizing-large-scale-mongodb-aggregation-pipelines-strategies-for-performance-at-scale-nd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
