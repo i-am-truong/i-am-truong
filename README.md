@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an offline-first sync engine with event sourcing, in Rust shared between mobile and backend](https://dev.to/teimuraz/i-built-an-offline-first-sync-engine-with-event-sourcing-in-rust-shared-between-mobile-and-backend-18a7)
-- [I Built a Bot That Hunts GitHub Bounties While I Sleep](https://dev.to/jackke88/i-built-a-bot-that-hunts-github-bounties-while-i-sleep-376k)
-- [Who Owns the Clock](https://dev.to/nabbilkhan/who-owns-the-clock-51kh)
-- [I open-sourced a macro execution layer to reduce coding-agent turns &lpar;60-task benchmark&rpar;](https://dev.to/yohjisakamoto/i-open-sourced-a-macro-execution-layer-to-reduce-coding-agent-turns-60-task-benchmark-3o41)
-- [I hit a wall so I built AppKeep for product lifecycle management and more](https://dev.to/mobius29er/i-hit-a-wall-so-i-built-appkeep-for-product-lifecycle-management-and-more-3aee)
+- [A Hands-On Guide to kalbee: Your First Kalman Filter &lpar;and Beyond&rpar;](https://dev.to/firefrog/a-hands-on-guide-to-kalbee-your-first-kalman-filter-and-beyond-1k9m)
+- [Building Resilient Real-Time Systems: WebSockets, Redis, and Strategies for High Availability](https://dev.to/tamizuddin/building-resilient-real-time-systems-websockets-redis-and-strategies-for-high-availability-3gl)
+- [It Can Die in Its Sleep — Self-Healing launchd Jobs with Multi-Slot Firing and a Done-Marker](https://dev.to/bokuwalily/it-can-die-in-its-sleep-self-healing-launchd-jobs-with-multi-slot-firing-and-a-done-marker-3nn9)
+- [Write Your Exceptions Down](https://dev.to/nabbilkhan/write-your-exceptions-down-3c7g)
+- [Is your agent&#39;s grep tool a shell command?](https://dev.to/vdalal/is-your-agents-grep-tool-a-shell-command-4002)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
