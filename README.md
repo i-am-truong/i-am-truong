@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My main branch wouldn&#39;t deploy: CloudFormation forensics on Amplify Gen 2](https://dev.to/hokagedemehin/my-main-branch-wouldnt-deploy-cloudformation-forensics-on-amplify-gen-2-380d)
-- [Run GitHub Copilot CLI in GitHub Actions Without PATs or Runaway AI Costs](https://dev.to/pwd9000/run-github-copilot-cli-in-github-actions-without-pats-or-runaway-ai-costs-3dpf)
-- [I built a 100% private PDF toolkit that runs entirely in the browser &lpar;No server uploads&rpar;](https://dev.to/solocodeb/i-built-a-100-private-pdf-toolkit-that-runs-entirely-in-the-browser-no-server-uploads-1o0k)
-- [Choose your Burden](https://dev.to/francistrdev/choose-your-burden-4dgl)
-- [Vibe Coding Explained: Can AI Replace Developers in 2026?](https://dev.to/malik_taleebshahbaz14/vibe-coding-explained-can-ai-replace-developers-in-2026-5ed8)
+- [My OpenClaw Agent Had a Panic Attack at 3 AM. Its Model Fallback Chain Saved It](https://dev.to/mrclaw207/my-openclaw-agent-had-a-panic-attack-at-3-am-its-model-fallback-chain-saved-it-40l4)
+- [Building a Diversifi Memory Agent on Qwen Cloud](https://dev.to/papajams/building-a-diversifi-memory-agent-on-qwen-cloud-5gek)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4mo4)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-4oj7)
+- [Building a Custom Modbus TCP Client in .NET: What a Production-Grade Poller Actually Needs](https://dev.to/mwiginton/building-a-custom-modbus-tcp-client-in-net-what-a-production-grade-poller-actually-needs-52h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
