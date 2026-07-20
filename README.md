@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Starting My Frontend Development Journey: Day 2 of #100DaysOfCode 💻🚀](https://dev.to/codewithsehar/starting-my-frontend-development-journey-day-2-of-100daysofcode-56cc)
-- [How LLMs Work: Transformer, Attention &amp; Next Token Prediction Explained](https://dev.to/rahulvijayvergiya/how-llms-work-transformer-attention-next-token-prediction-explained-3jm2)
-- [How to Monitor SSL Certificates and DNS Changes with Python](https://dev.to/weeknds/how-to-monitor-ssl-certificates-and-dns-changes-with-python-56cb)
-- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades Deep Dive](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-deep-dive-4gon)
-- [I Built a Self-Hosted Music Streaming Service on a Two Hundred Dollar Laptop &lpar;And My AI Agent Helps Manage It&rpar;](https://dev.to/hermesxclawctrl/i-built-a-self-hosted-music-streaming-service-on-a-00-laptop-and-my-ai-agent-helps-manage-it-98d)
+- [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)
+- [How to tell if a smart-contract audit is worth paying for — a founder&#39;s checklist](https://dev.to/juan23z/how-to-tell-if-a-smart-contract-audit-is-worth-paying-for-a-founders-checklist-3d03)
+- [Build a WhatsApp Storefront in Google Sheets with OpenAI Function Calling &lpar;No Website&rpar;](https://dev.to/hayrullahkar/build-a-whatsapp-storefront-in-google-sheets-with-openai-function-calling-no-website-4hmk)
+- [Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge](https://dev.to/aws-builders/squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-3bhg)
+- [Your 1:1s Have No Ticket, So They&#39;re the First to Go](https://dev.to/pixel-wraith/your-11s-have-no-ticket-so-theyre-the-first-to-go-4092)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
