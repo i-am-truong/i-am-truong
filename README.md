@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Child Safety Tracking Should Never Be Paywalled](https://dev.to/omarelhaitoum/why-child-safety-tracking-should-never-be-paywalled-2f38)
-- [Great Tools for Solo SaaS Founders: A Battle-Tested Stack for 2024](https://dev.to/brino666/great-tools-for-solo-saas-founders-a-battle-tested-stack-for-2024-4cc9)
-- [How to Find a SaaS Project to Build: A Developer&#39;s Practical Guide](https://dev.to/brino666/how-to-find-a-saas-project-to-build-a-developers-practical-guide-59gp)
-- [Ask HN: What do you consider the best way to protect a SaaS from bots?](https://dev.to/brino666/ask-hn-what-do-you-consider-the-best-way-to-protect-a-saas-from-bots-2fh3)
-- [GDPR Compliance for Systems-Oriented SaaS: A Developer&#39;s Implementation Guide](https://dev.to/brino666/gdpr-compliance-for-systems-oriented-saas-a-developers-implementation-guide-42m3)
+- [Launching Artificiety - An agentic society in a fantasy world](https://dev.to/nielsenburm/launching-artificiety-an-agentic-society-in-a-fantasy-world-1o4)
+- [Весь интернет это мина замедленного действия.](https://dev.to/doyty7/vies-intierniet-eto-mina-zamiedliennogho-dieistviia-4p2m)
+- [45% of developers hit a knowledge silo every week. Here&#39;s the pattern we kept seeing.](https://dev.to/gwmage/45-of-developers-hit-a-knowledge-silo-every-week-heres-the-pattern-we-kept-seeing-a3g)
+- [How I Auto-Generate Claude Skills From Conversation Logs at 3:30 AM](https://dev.to/bokuwalily/how-i-auto-generate-claude-skills-from-conversation-logs-at-330-am-5la)
+- [Solidity vs. Rust: o que aprendi construindo nos dois, não lendo sobre os dois](https://dev.to/eduprogrammer/solidity-vs-rust-o-que-aprendi-construindo-nos-dois-nao-lendo-sobre-os-dois-31d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
