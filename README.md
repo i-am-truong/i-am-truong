@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Does a Prompt Become an Undocumented Program?](https://dev.to/yura_solovey/when-does-a-prompt-become-an-undocumented-program-4i6b)
-- [How to Apply PCB Design Standards for Better Product Design](https://dev.to/gighzit/how-to-apply-pcb-design-standards-for-better-product-design-3n6f)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5deb)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1k4i)
-- [Stop writing a parser per site. Run five and let confidence decide.](https://dev.to/votiakov/stop-writing-a-parser-per-site-run-five-and-let-confidence-decide-55ib)
+- [Starting My Frontend Development Journey: Day 2 of #100DaysOfCode 💻🚀](https://dev.to/codewithsehar/starting-my-frontend-development-journey-day-2-of-100daysofcode-56cc)
+- [How LLMs Work: Transformer, Attention &amp; Next Token Prediction Explained](https://dev.to/rahulvijayvergiya/how-llms-work-transformer-attention-next-token-prediction-explained-3jm2)
+- [How to Monitor SSL Certificates and DNS Changes with Python](https://dev.to/weeknds/how-to-monitor-ssl-certificates-and-dns-changes-with-python-56cb)
+- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades Deep Dive](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-deep-dive-4gon)
+- [I Built a Self-Hosted Music Streaming Service on a Two Hundred Dollar Laptop &lpar;And My AI Agent Helps Manage It&rpar;](https://dev.to/hermesxclawctrl/i-built-a-self-hosted-music-streaming-service-on-a-00-laptop-and-my-ai-agent-helps-manage-it-98d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
