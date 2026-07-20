@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My OpenClaw Agent Had a Panic Attack at 3 AM. Its Model Fallback Chain Saved It](https://dev.to/mrclaw207/my-openclaw-agent-had-a-panic-attack-at-3-am-its-model-fallback-chain-saved-it-40l4)
-- [Building a Diversifi Memory Agent on Qwen Cloud](https://dev.to/papajams/building-a-diversifi-memory-agent-on-qwen-cloud-5gek)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4mo4)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-4oj7)
-- [Building a Custom Modbus TCP Client in .NET: What a Production-Grade Poller Actually Needs](https://dev.to/mwiginton/building-a-custom-modbus-tcp-client-in-net-what-a-production-grade-poller-actually-needs-52h6)
+- [I gave my AI agent the ability to send email](https://dev.to/devopsdaily/i-gave-my-ai-agent-the-ability-to-send-email-18nc)
+- [Named Global Query Filters Were Updated in EF Core 10](https://dev.to/antonmartyniuk/named-global-query-filters-were-updated-in-ef-core-10-25hp)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2f68)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-3j5l)
+- [AI coding agents still write your SDK&#39;s old API — so I built a type-checker to measure it](https://dev.to/kalpitrathore/ai-coding-agents-still-write-your-sdks-old-api-so-i-built-a-type-checker-to-measure-it-alk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
