@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4aoa)
-- [The Bug Report Said &quot;Refresh Logs Me Out.&quot; It Was Actually Two Bugs.](https://dev.to/tochukwu_dev/the-bug-report-said-refresh-logs-me-out-it-was-actually-two-bugs-43p3)
-- [What Makes a WordPress Developer Truly AI-Ready?](https://dev.to/muhammad_muheet_411d9659a/what-makes-a-wordpress-developer-truly-ai-ready-4pj5)
-- [Understanding &quot;Skills&quot; in LangChain: Loading Expertise On-Demand](https://dev.to/syeedmdtalha/understanding-skills-in-langchain-loading-expertise-on-demand-ced)
-- [The All New Copilot Studio](https://dev.to/wyattdave/the-all-new-copilot-studio-734)
+- [When Does a Prompt Become an Undocumented Program?](https://dev.to/yura_solovey/when-does-a-prompt-become-an-undocumented-program-4i6b)
+- [How to Apply PCB Design Standards for Better Product Design](https://dev.to/gighzit/how-to-apply-pcb-design-standards-for-better-product-design-3n6f)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5deb)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1k4i)
+- [Stop writing a parser per site. Run five and let confidence decide.](https://dev.to/votiakov/stop-writing-a-parser-per-site-run-five-and-let-confidence-decide-55ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
