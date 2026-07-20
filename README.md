@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Launching Artificiety - An agentic society in a fantasy world](https://dev.to/nielsenburm/launching-artificiety-an-agentic-society-in-a-fantasy-world-1o4)
-- [Весь интернет это мина замедленного действия.](https://dev.to/doyty7/vies-intierniet-eto-mina-zamiedliennogho-dieistviia-4p2m)
-- [45% of developers hit a knowledge silo every week. Here&#39;s the pattern we kept seeing.](https://dev.to/gwmage/45-of-developers-hit-a-knowledge-silo-every-week-heres-the-pattern-we-kept-seeing-a3g)
-- [How I Auto-Generate Claude Skills From Conversation Logs at 3:30 AM](https://dev.to/bokuwalily/how-i-auto-generate-claude-skills-from-conversation-logs-at-330-am-5la)
-- [Solidity vs. Rust: o que aprendi construindo nos dois, não lendo sobre os dois](https://dev.to/eduprogrammer/solidity-vs-rust-o-que-aprendi-construindo-nos-dois-nao-lendo-sobre-os-dois-31d1)
+- [ADA: an open-source AI data analyst that shows its math](https://dev.to/sainesh_nakra/ada-an-open-source-ai-data-analyst-that-shows-its-math-3ka7)
+- [We built an AI board of directors on Qwen. Then we asked it whether we should migrate to Qwen.](https://dev.to/vincentjulijanto/we-built-an-ai-board-of-directors-on-qwen-then-we-asked-it-whether-we-should-migrate-to-qwen-207j)
+- [FROST 深度：为什么 AI Agent 需要「家族谱系」？](https://dev.to/llimage/frost-shen-du-wei-shi-yao-ai-agent-xu-yao-jia-zu-pu-xi--4204)
+- [Strip Location From Both Halves of an iOS Live Photo Before Upload](https://dev.to/roronoa_/strip-location-from-both-halves-of-an-ios-live-photo-before-upload-4aoa)
+- [Test a Saga When Compensation Times Out and the Message Is Delivered Twice](https://dev.to/robinzzz/test-a-saga-when-compensation-times-out-and-the-message-is-delivered-twice-5b6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
