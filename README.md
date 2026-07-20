@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One login to rule them all: centralized auth for internal tools with Caddy](https://dev.to/hypertesto/one-login-to-rule-them-all-centralized-auth-for-internal-tools-with-caddy-3fof)
-- [MMT Killed My WebSocket Every 5 Minutes — A 6-Character Fix](https://dev.to/rookai/mmt-killed-my-websocket-every-5-minutes-a-6-character-fix-170o)
-- [5 &#39;Cloud-Ghosts&#39;: Vulnerabilidades Docker en Serverless HOY](https://dev.to/angelh/5-cloud-ghosts-vulnerabilidades-docker-en-serverless-hoy-dkp)
-- [Duckmon: The Demo Was Ready, The Game Was Not](https://dev.to/asx/duckmon-the-demo-was-ready-the-game-was-not-34dm)
-- [Architecture starts paying rent when a user workflow reaches it](https://dev.to/lksvn/architecture-starts-paying-rent-when-a-user-workflow-reaches-it-5e81)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5900)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-25cl)
+- [who is the big boss ???????????? CLASS vs OBJECT. 🤜🤛](https://dev.to/roqia_ibahim_d3c8be9de97a/who-is-the-big-boss-class-vs-object-19h0)
+- [I built a test lab to measure SSG vs SSR vs ISR on real WordPress, here&#39;s what I found](https://dev.to/nimajafari/i-built-a-test-lab-to-measure-ssg-vs-ssr-vs-isr-on-real-wordpress-heres-what-i-found-7p)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-30oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
