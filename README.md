@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ADA: an open-source AI data analyst that shows its math](https://dev.to/sainesh_nakra/ada-an-open-source-ai-data-analyst-that-shows-its-math-3ka7)
-- [We built an AI board of directors on Qwen. Then we asked it whether we should migrate to Qwen.](https://dev.to/vincentjulijanto/we-built-an-ai-board-of-directors-on-qwen-then-we-asked-it-whether-we-should-migrate-to-qwen-207j)
-- [FROST 深度：为什么 AI Agent 需要「家族谱系」？](https://dev.to/llimage/frost-shen-du-wei-shi-yao-ai-agent-xu-yao-jia-zu-pu-xi--4204)
-- [Strip Location From Both Halves of an iOS Live Photo Before Upload](https://dev.to/roronoa_/strip-location-from-both-halves-of-an-ios-live-photo-before-upload-4aoa)
-- [Test a Saga When Compensation Times Out and the Message Is Delivered Twice](https://dev.to/robinzzz/test-a-saga-when-compensation-times-out-and-the-message-is-delivered-twice-5b6d)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4aoa)
+- [The Bug Report Said &quot;Refresh Logs Me Out.&quot; It Was Actually Two Bugs.](https://dev.to/tochukwu_dev/the-bug-report-said-refresh-logs-me-out-it-was-actually-two-bugs-43p3)
+- [What Makes a WordPress Developer Truly AI-Ready?](https://dev.to/muhammad_muheet_411d9659a/what-makes-a-wordpress-developer-truly-ai-ready-4pj5)
+- [Understanding &quot;Skills&quot; in LangChain: Loading Expertise On-Demand](https://dev.to/syeedmdtalha/understanding-skills-in-langchain-loading-expertise-on-demand-ced)
+- [The All New Copilot Studio](https://dev.to/wyattdave/the-all-new-copilot-studio-734)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
