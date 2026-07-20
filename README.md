@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5900)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-25cl)
-- [who is the big boss ???????????? CLASS vs OBJECT. 🤜🤛](https://dev.to/roqia_ibahim_d3c8be9de97a/who-is-the-big-boss-class-vs-object-19h0)
-- [I built a test lab to measure SSG vs SSR vs ISR on real WordPress, here&#39;s what I found](https://dev.to/nimajafari/i-built-a-test-lab-to-measure-ssg-vs-ssr-vs-isr-on-real-wordpress-heres-what-i-found-7p)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-30oh)
+- [Edge vs. Endpoint Bot Blocking: A Developer&#39;s Guide to Cloudflare and Wordfence](https://dev.to/rerealize/edge-vs-endpoint-bot-blocking-a-developers-guide-to-cloudflare-and-wordfence-8ee)
+- [Can You Beat an LLM? Building Humans vs. Humanity&#39;s Last Exam](https://dev.to/entire/can-you-beat-an-llm-building-humans-vs-humanitys-last-exam-1673)
+- [A Practical Privacy Threat Model for Consumer Companion Robots](https://dev.to/gerardorobles1492/a-practical-privacy-threat-model-for-consumer-companion-robots-34k5)
+- [I Started Charging a Late Fee. Here&#39;s What Actually Happened.](https://dev.to/stevensnell/i-started-charging-a-late-fee-heres-what-actually-happened-579j)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2de9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
