@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)
-- [How to tell if a smart-contract audit is worth paying for — a founder&#39;s checklist](https://dev.to/juan23z/how-to-tell-if-a-smart-contract-audit-is-worth-paying-for-a-founders-checklist-3d03)
-- [Build a WhatsApp Storefront in Google Sheets with OpenAI Function Calling &lpar;No Website&rpar;](https://dev.to/hayrullahkar/build-a-whatsapp-storefront-in-google-sheets-with-openai-function-calling-no-website-4hmk)
-- [Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge](https://dev.to/aws-builders/squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-3bhg)
-- [Your 1:1s Have No Ticket, So They&#39;re the First to Go](https://dev.to/pixel-wraith/your-11s-have-no-ticket-so-theyre-the-first-to-go-4092)
+- [My main branch wouldn&#39;t deploy: CloudFormation forensics on Amplify Gen 2](https://dev.to/hokagedemehin/my-main-branch-wouldnt-deploy-cloudformation-forensics-on-amplify-gen-2-380d)
+- [Run GitHub Copilot CLI in GitHub Actions Without PATs or Runaway AI Costs](https://dev.to/pwd9000/run-github-copilot-cli-in-github-actions-without-pats-or-runaway-ai-costs-3dpf)
+- [I built a 100% private PDF toolkit that runs entirely in the browser &lpar;No server uploads&rpar;](https://dev.to/solocodeb/i-built-a-100-private-pdf-toolkit-that-runs-entirely-in-the-browser-no-server-uploads-1o0k)
+- [Choose your Burden](https://dev.to/francistrdev/choose-your-burden-4dgl)
+- [Vibe Coding Explained: Can AI Replace Developers in 2026?](https://dev.to/malik_taleebshahbaz14/vibe-coding-explained-can-ai-replace-developers-in-2026-5ed8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
