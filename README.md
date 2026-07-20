@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I gave my AI agent the ability to send email](https://dev.to/devopsdaily/i-gave-my-ai-agent-the-ability-to-send-email-18nc)
-- [Named Global Query Filters Were Updated in EF Core 10](https://dev.to/antonmartyniuk/named-global-query-filters-were-updated-in-ef-core-10-25hp)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2f68)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-3j5l)
-- [AI coding agents still write your SDK&#39;s old API — so I built a type-checker to measure it](https://dev.to/kalpitrathore/ai-coding-agents-still-write-your-sdks-old-api-so-i-built-a-type-checker-to-measure-it-alk)
+- [One login to rule them all: centralized auth for internal tools with Caddy](https://dev.to/hypertesto/one-login-to-rule-them-all-centralized-auth-for-internal-tools-with-caddy-3fof)
+- [MMT Killed My WebSocket Every 5 Minutes — A 6-Character Fix](https://dev.to/rookai/mmt-killed-my-websocket-every-5-minutes-a-6-character-fix-170o)
+- [5 &#39;Cloud-Ghosts&#39;: Vulnerabilidades Docker en Serverless HOY](https://dev.to/angelh/5-cloud-ghosts-vulnerabilidades-docker-en-serverless-hoy-dkp)
+- [Duckmon: The Demo Was Ready, The Game Was Not](https://dev.to/asx/duckmon-the-demo-was-ready-the-game-was-not-34dm)
+- [Architecture starts paying rent when a user workflow reaches it](https://dev.to/lksvn/architecture-starts-paying-rent-when-a-user-workflow-reaches-it-5e81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
