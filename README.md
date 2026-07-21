@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My fix for a data-loss bug sat in a green PR for four days. Every install in that window still had the bug.](https://dev.to/achiya-automation/my-fix-for-a-data-loss-bug-sat-in-a-green-pr-for-four-days-every-install-in-that-window-still-had-2jj5)
-- [I Built 100+ Browser-Based Tools That Never Upload Your Files](https://dev.to/whiztools_app/i-built-100-browser-based-tools-that-never-upload-your-files-2fhi)
-- [Created CALIO - Instantly extract key information from insurance SEC filings](https://dev.to/jarvis_f4ebbfccbdce2eab07/created-calio-instantly-extract-key-information-from-insurance-sec-filings-38l3)
-- [Three Juejin roundups, three scorecards, no shared bridge](https://dev.to/ninghonggang/three-juejin-roundups-three-scorecards-no-shared-bridge-3ak2)
-- [Building AI Agents That Don&#39;t Hallucinate: Structured Workflows, Guardrails, and Per-Step Evaluation](https://dev.to/imus_d7584cbc8ee9b0336256/building-ai-agents-that-dont-hallucinate-structured-workflows-guardrails-and-per-step-evaluation-2g7c)
+- [Your Error Messages Are Written for Developers, Not Users](https://dev.to/designstudiouiux/your-error-messages-are-written-for-developers-not-users-3nag)
+- [I built a JSON repair tool for LLM output — here&#39;s why it exists](https://dev.to/aijsonmedic/i-built-a-json-repair-tool-for-llm-output-heres-why-it-exists-1ieo)
+- [GFM Tables in Payload&#39;s Lexical Editor Without Data Loss](https://dev.to/techpotions/gfm-tables-in-payloads-lexical-editor-without-data-loss-34g7)
+- [The One-Route Payload CMS Live Preview Pattern](https://dev.to/techpotions/the-one-route-payload-cms-live-preview-pattern-1pd3)
+- [[Boost]](https://dev.to/smoren/-1jkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
