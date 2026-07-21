@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Argus: Reviewing Defense Contracts in Hours, With Every Verdict Backed by Evidence](https://dev.to/avirabino/argus-reviewing-defense-contracts-in-hours-with-every-verdict-backed-by-evidence-2i2p)
-- [The Door I Forgot to Lock, How One Missing Check Nearly Exposed Every Resume in My App](https://dev.to/aniruddhaadak/the-door-i-forgot-to-lock-how-one-missing-check-nearly-exposed-every-resume-in-my-app-mlf)
-- [The Career Isn&#39;t Eroding. It&#39;s Relocating.](https://dev.to/o96a/the-career-isnt-eroding-its-relocating-51hc)
-- [Build a Website Tech Stack Scanner CLI in Go Using Wappalyzergo](https://dev.to/toolsura/build-a-website-tech-stack-scanner-cli-in-go-using-wappalyzergo-1anp)
-- [Putting It All Together: Your Agentic AI Security Playbook for AWS](https://dev.to/aws/putting-it-all-together-your-agentic-ai-security-playbook-for-aws-14ng)
+- [I Built a Real-Time Perception Stack on CARLA. Here Is What Actually Happened.](https://dev.to/iyanuoluwa007/i-built-a-real-time-perception-stack-on-carla-here-is-what-actually-happened-5abl)
+- [MCP Deep Dive, Part 10: When the Agent Feels Off — Debugging and Observability for MCP in Production](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-10-when-the-agent-feels-off-debugging-and-observability-for-mcp-in-production-1c43)
+- [Memory Isn&#39;t Just Storage: Why Persistent Agent Memory Becomes Your Liability Without Infrastructure](https://dev.to/paultwist/memory-isnt-just-storage-why-persistent-agent-memory-becomes-your-liability-without-infrastructure-4gn8)
+- [How I Built a UK-Focused Converter Site with Astro 5, React 19, and Tailwind 4 — Zero JS by Default, 100% Private](https://dev.to/jsidiot/how-i-built-a-uk-focused-converter-site-with-astro-5-react-19-and-tailwind-4-zero-js-by-2bp)
+- [ECMP Explained: Two Equal Paths, and the Kernel Hashes Flows Across Them](https://dev.to/pathvector-dev/ecmp-explained-two-equal-paths-and-the-kernel-hashes-flows-across-them-1cbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
