@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Error Messages Are Written for Developers, Not Users](https://dev.to/designstudiouiux/your-error-messages-are-written-for-developers-not-users-3nag)
-- [I built a JSON repair tool for LLM output — here&#39;s why it exists](https://dev.to/aijsonmedic/i-built-a-json-repair-tool-for-llm-output-heres-why-it-exists-1ieo)
-- [GFM Tables in Payload&#39;s Lexical Editor Without Data Loss](https://dev.to/techpotions/gfm-tables-in-payloads-lexical-editor-without-data-loss-34g7)
-- [The One-Route Payload CMS Live Preview Pattern](https://dev.to/techpotions/the-one-route-payload-cms-live-preview-pattern-1pd3)
-- [[Boost]](https://dev.to/smoren/-1jkc)
+- [Argus: Reviewing Defense Contracts in Hours, With Every Verdict Backed by Evidence](https://dev.to/avirabino/argus-reviewing-defense-contracts-in-hours-with-every-verdict-backed-by-evidence-2i2p)
+- [The Door I Forgot to Lock, How One Missing Check Nearly Exposed Every Resume in My App](https://dev.to/aniruddhaadak/the-door-i-forgot-to-lock-how-one-missing-check-nearly-exposed-every-resume-in-my-app-mlf)
+- [The Career Isn&#39;t Eroding. It&#39;s Relocating.](https://dev.to/o96a/the-career-isnt-eroding-its-relocating-51hc)
+- [Build a Website Tech Stack Scanner CLI in Go Using Wappalyzergo](https://dev.to/toolsura/build-a-website-tech-stack-scanner-cli-in-go-using-wappalyzergo-1anp)
+- [Putting It All Together: Your Agentic AI Security Playbook for AWS](https://dev.to/aws/putting-it-all-together-your-agentic-ai-security-playbook-for-aws-14ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
