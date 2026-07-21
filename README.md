@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Row-Level Access Control](https://dev.to/homeless-coder/implementing-row-level-access-control-17k3)
-- [How I Solved Cross-Environment Vector Database Schema Mismatches in a Dockerized AI Agent](https://dev.to/benaiahhhh/how-i-solved-cross-environment-vector-database-schema-mismatches-in-a-dockerized-ai-agent-4nbn)
-- [The Great Erasure &lpar;2004-2006&rpar;: Decommissioning and Evidence Destruction](https://dev.to/bioshistory/the-great-erasure-2004-2006-decommissioning-and-evidence-destruction-no8)
-- [Distinguishing wrong from absent](https://dev.to/egnaro9/distinguishing-wrong-from-absent-57ep)
-- [State Management Without a UI — Running SDuX Vault on Deno](https://dev.to/sdux-vault/state-management-without-a-ui-running-sdux-vault-on-deno-cm8)
+- [Let&#39;sDefend SOC166 - Javascript Code Detected in Requested URL Investigation Wlakthrough](https://dev.to/dubugiii/letsdefend-soc166-javascript-code-detected-in-requested-url-investigation-wlakthrough-ljn)
+- [I Built the First Collaborative Multi-Persona Sandbox &lpar;Because I&#39;m Sick of Cloud Wrappers&rpar;](https://dev.to/nexus-aios/i-built-the-first-collaborative-multi-persona-sandbox-because-im-sick-of-cloud-wrappers-243e)
+- [Why your Clio token stopped working](https://dev.to/drewopexcell/why-your-clio-token-stopped-working-4ob8)
+- [The First Computer Bug Was a Real Moth](https://dev.to/fluidwire/the-first-computer-bug-was-a-real-moth-5hje)
+- [ACP vs AP2: the two AI-checkout protocols, and what your store actually has to build](https://dev.to/rolandfarkas/acp-vs-ap2-the-two-ai-checkout-protocols-and-what-your-store-actually-has-to-build-55d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
