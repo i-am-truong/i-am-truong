@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pre-Skill Prompt: Responsive Design Audit with MCP Playwright](https://dev.to/gbti-network/pre-skill-prompt-responsive-design-audit-with-mcp-playwright-1icb)
-- [I turned my CLAUDE.md files into a marketplace &lpar;and an API your agent can use&rpar;](https://dev.to/_87fba493a84f2b519cd0/i-turned-my-claudemd-files-into-a-marketplace-and-an-api-your-agent-can-use-50me)
-- [Integrating Claude Code into Your Full-Stack Development Workflow](https://dev.to/ezika_trust_dee283f82dcad/integrating-claude-code-into-your-full-stack-development-workflow-f45)
-- [LinkedIn News Blocker Extension Fails Due to Dynamic Class Names: Updated Solution Needed](https://dev.to/maxgeris/linkedin-news-blocker-extension-fails-due-to-dynamic-class-names-updated-solution-needed-337c)
-- [AI Agent Profiler — Measure agent cost, cache waste, and context bloat](https://dev.to/rguiu/ai-agent-profiler-measure-agent-cost-cache-waste-and-context-bloat-p86)
+- [Open Banking Without an eIDAS Certificate: A Practical Developer&#39;s Guide &lpar;2026&rpar;](https://dev.to/johnfrandsen/open-banking-without-an-eidas-certificate-a-practical-developers-guide-2026-1j6)
+- [VIDRAFT Releases Aether-7B-5Attn: A Fully Open-Source MoE LLM with Five Heterogeneous Attention Mechanisms](https://dev.to/ai_openfree_b23025ef075cf/vidraft-releases-aether-7b-5attn-a-fully-open-source-moe-llm-with-five-heterogeneous-attention-2n11)
+- [The First 5 Minutes with DBOS](https://dev.to/dbos/the-first-5-minutes-with-dbos-259k)
+- [Building Tech Communities, AI Projects, and Developer Connections from Cartagena](https://dev.to/giulloa/building-tech-communities-ai-projects-and-developer-connections-from-cartagena-50dm)
+- [How I stopped fighting print lines and started covering them instead](https://dev.to/josh_green_dev/how-i-stopped-fighting-print-lines-and-started-covering-them-instead-2ljf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
