@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤔 What Really Happens When You Run kubectl apply? Episode 3](https://dev.to/pravesh_sudha_3c2b0c2b5e0/what-really-happens-when-you-run-kubectl-apply-episode-3-22kp)
-- [Build a Basic AI Agent From Scratch: Security II](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-ii-2m2c)
-- [Introducing Agent-Up: run multiple agent-built versions of your web app at once](https://dev.to/themassiveone/introducing-agent-up-run-multiple-agent-built-versions-of-your-web-app-at-once-1nb4)
-- [Ruby Shipped the Fix for SleeperGem 45 Days Before It Happened](https://dev.to/svyatov/ruby-shipped-the-fix-for-sleepergem-45-days-before-it-happened-19dh)
-- [It&#39;s OK to Get Lucky](https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf)
+- [A resumable, human-in-the-loop AI agent in ~200 lines with zero dependencies](https://dev.to/rahul_choudhary_682e5ca00/a-resumable-human-in-the-loop-ai-agent-in-200-lines-with-zero-dependencies-edg)
+- [I Used to Think Coding Was Only for Programmers](https://dev.to/theprokidinside/i-used-to-think-coding-was-only-for-programmers-4op8)
+- [How AI Helped Me Discover Automation](https://dev.to/theprokidinside/how-ai-helped-me-discover-automation-1m1j)
+- [Supercharge Your Algorithmic Trading with CoinQuant PHP: The Ultimate SDK for Laravel and PHP 8.1+](https://dev.to/tigusigalpa/supercharge-your-algorithmic-trading-with-coinquant-php-the-ultimate-sdk-for-laravel-and-php-81-535j)
+- [Making a WebSocket survive Chrome&#39;s Manifest V3](https://dev.to/mfauveau/making-a-websocket-survive-chromes-manifest-v3-1p0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
