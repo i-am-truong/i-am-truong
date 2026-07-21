@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Real-Time Perception Stack on CARLA. Here Is What Actually Happened.](https://dev.to/iyanuoluwa007/i-built-a-real-time-perception-stack-on-carla-here-is-what-actually-happened-5abl)
-- [MCP Deep Dive, Part 10: When the Agent Feels Off — Debugging and Observability for MCP in Production](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-10-when-the-agent-feels-off-debugging-and-observability-for-mcp-in-production-1c43)
-- [Memory Isn&#39;t Just Storage: Why Persistent Agent Memory Becomes Your Liability Without Infrastructure](https://dev.to/paultwist/memory-isnt-just-storage-why-persistent-agent-memory-becomes-your-liability-without-infrastructure-4gn8)
-- [How I Built a UK-Focused Converter Site with Astro 5, React 19, and Tailwind 4 — Zero JS by Default, 100% Private](https://dev.to/jsidiot/how-i-built-a-uk-focused-converter-site-with-astro-5-react-19-and-tailwind-4-zero-js-by-2bp)
-- [ECMP Explained: Two Equal Paths, and the Kernel Hashes Flows Across Them](https://dev.to/pathvector-dev/ecmp-explained-two-equal-paths-and-the-kernel-hashes-flows-across-them-1cbo)
+- [🤔 What Really Happens When You Run kubectl apply? Episode 3](https://dev.to/pravesh_sudha_3c2b0c2b5e0/what-really-happens-when-you-run-kubectl-apply-episode-3-22kp)
+- [Build a Basic AI Agent From Scratch: Security II](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-ii-2m2c)
+- [Introducing Agent-Up: run multiple agent-built versions of your web app at once](https://dev.to/themassiveone/introducing-agent-up-run-multiple-agent-built-versions-of-your-web-app-at-once-1nb4)
+- [Ruby Shipped the Fix for SleeperGem 45 Days Before It Happened](https://dev.to/svyatov/ruby-shipped-the-fix-for-sleepergem-45-days-before-it-happened-19dh)
+- [It&#39;s OK to Get Lucky](https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
