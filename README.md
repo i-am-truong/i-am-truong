@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Post-Commit Hook Told Me to Rewrite 8 Pushed Commits to Fix &quot;Unverified.&quot; I Said No.](https://dev.to/enjoy_kumawat/a-post-commit-hook-told-me-to-rewrite-8-pushed-commits-to-fix-unverified-i-said-no-19f0)
-- [Exploring the Deep Learning Library in Modern Computer Vision](https://dev.to/fuadhusnan_f44f3e13/exploring-the-deep-learning-library-in-modern-computer-vision-4j9d)
-- [The Simplex Method, Explained Like an Algorithm &lpar;with a Free Step-by-Step Solver&rpar;](https://dev.to/sadia_sadia_5620dbacc597d/the-simplex-method-explained-like-an-algorithm-with-a-free-step-by-step-solver-3cbn)
-- [What Is Load Balancing? A Beginner&#39;s Guide to Faster and More Reliable Applications](https://dev.to/ashraful/-what-is-load-balancing-a-beginners-guide-to-faster-and-more-reliable-applications-3pap)
-- [Your incident postmortems aren&#39;t investigations; they&#39;re fan fiction.](https://dev.to/renato_marinho/your-incident-postmortems-arent-investigations-theyre-fan-fiction-3am)
+- [OpenAI Just Bought Gitpod: The AI IDE Wars Are Officially On](https://dev.to/muskan_bandta/openai-just-bought-gitpod-the-ai-ide-wars-are-officially-on-48ph)
+- [The Pentagon Called Anthropic a Security Risk: What It Means for AI in Regulated Industries](https://dev.to/muskan_bandta/the-pentagon-called-anthropic-a-security-risk-what-it-means-for-ai-in-regulated-industries-4i0o)
+- [Strings look simple... until they surprise you.](https://dev.to/shajibul_alam_shihab/strings-look-simple-until-they-surprise-you-3d8j)
+- [Payroll Software for Contractors and the Self-Employed: 6 Tools Compared by Tax Forms, Reach, and API](https://dev.to/alexx3/payroll-software-for-contractors-and-the-self-employed-6-tools-compared-by-tax-forms-reach-and-1l30)
+- [CLOSURES](https://dev.to/abhinav_pasham_d913ab013f/closures-1ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
