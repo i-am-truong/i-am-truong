@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JSON: Tips for Confident Data Handling](https://dev.to/binaryjournal/mastering-json-tips-for-confident-data-handling-4ojo)
-- [Building a Local-Only Chrome Extension That Autofills Job Application Forms](https://dev.to/bokuwalily/building-a-local-only-chrome-extension-that-autofills-job-application-forms-4f8a)
-- [AI-native isn&#39;t a chatbot. It&#39;s an MCP server.](https://dev.to/brthls/ai-native-isnt-a-chatbot-its-an-mcp-server-2ipg)
-- [Um guia open source &lpar;em português&rpar; para se preparar para entrevistas técnicas backend](https://dev.to/ejmeri/um-guia-open-source-em-portugues-para-se-preparar-para-entrevistas-tecnicas-backend-2eap)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-59ia)
+- [A Post-Commit Hook Told Me to Rewrite 8 Pushed Commits to Fix &quot;Unverified.&quot; I Said No.](https://dev.to/enjoy_kumawat/a-post-commit-hook-told-me-to-rewrite-8-pushed-commits-to-fix-unverified-i-said-no-19f0)
+- [Exploring the Deep Learning Library in Modern Computer Vision](https://dev.to/fuadhusnan_f44f3e13/exploring-the-deep-learning-library-in-modern-computer-vision-4j9d)
+- [The Simplex Method, Explained Like an Algorithm &lpar;with a Free Step-by-Step Solver&rpar;](https://dev.to/sadia_sadia_5620dbacc597d/the-simplex-method-explained-like-an-algorithm-with-a-free-step-by-step-solver-3cbn)
+- [What Is Load Balancing? A Beginner&#39;s Guide to Faster and More Reliable Applications](https://dev.to/ashraful/-what-is-load-balancing-a-beginners-guide-to-faster-and-more-reliable-applications-3pap)
+- [Your incident postmortems aren&#39;t investigations; they&#39;re fan fiction.](https://dev.to/renato_marinho/your-incident-postmortems-arent-investigations-theyre-fan-fiction-3am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
