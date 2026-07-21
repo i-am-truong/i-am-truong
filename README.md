@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A resumable, human-in-the-loop AI agent in ~200 lines with zero dependencies](https://dev.to/rahul_choudhary_682e5ca00/a-resumable-human-in-the-loop-ai-agent-in-200-lines-with-zero-dependencies-edg)
-- [I Used to Think Coding Was Only for Programmers](https://dev.to/theprokidinside/i-used-to-think-coding-was-only-for-programmers-4op8)
-- [How AI Helped Me Discover Automation](https://dev.to/theprokidinside/how-ai-helped-me-discover-automation-1m1j)
-- [Supercharge Your Algorithmic Trading with CoinQuant PHP: The Ultimate SDK for Laravel and PHP 8.1+](https://dev.to/tigusigalpa/supercharge-your-algorithmic-trading-with-coinquant-php-the-ultimate-sdk-for-laravel-and-php-81-535j)
-- [Making a WebSocket survive Chrome&#39;s Manifest V3](https://dev.to/mfauveau/making-a-websocket-survive-chromes-manifest-v3-1p0h)
+- [Implementing Row-Level Access Control](https://dev.to/homeless-coder/implementing-row-level-access-control-17k3)
+- [How I Solved Cross-Environment Vector Database Schema Mismatches in a Dockerized AI Agent](https://dev.to/benaiahhhh/how-i-solved-cross-environment-vector-database-schema-mismatches-in-a-dockerized-ai-agent-4nbn)
+- [The Great Erasure &lpar;2004-2006&rpar;: Decommissioning and Evidence Destruction](https://dev.to/bioshistory/the-great-erasure-2004-2006-decommissioning-and-evidence-destruction-no8)
+- [Distinguishing wrong from absent](https://dev.to/egnaro9/distinguishing-wrong-from-absent-57ep)
+- [State Management Without a UI — Running SDuX Vault on Deno](https://dev.to/sdux-vault/state-management-without-a-ui-running-sdux-vault-on-deno-cm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
