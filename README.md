@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One Command Turns a Fresh Ubuntu Server into a 24/7 AI Development Machine](https://dev.to/vimukthishohanjay/one-command-turns-a-fresh-ubuntu-server-into-a-247-ai-development-machine-dg9)
-- [Dall’idea al deploy in meno di un’ora con Stripe Projects &lpar;e un agente di coding&rpar;](https://dev.to/frontendfacile/dallidea-al-deploy-in-meno-di-unora-con-stripe-projects-e-un-agente-di-coding-1o95)
-- [Microsoft Just Admitted Windows Has a Tracking ID You Can&#39;t Turn Off](https://dev.to/kernelphantom_010/microsoft-just-admitted-windows-has-a-tracking-id-you-cant-turn-off-3nh2)
-- [The Hidden Cost of Logging PII](https://dev.to/mmichele1/the-hidden-cost-of-logging-pii-5f0l)
-- [How to Evaluate Whether a Review Is Actually Trustworthy &lpar;And Why Most of Us Don&#39;t&rpar;](https://dev.to/review-it/how-to-evaluate-whether-a-review-is-actually-trustworthy-and-why-most-of-us-dont-32l9)
+- [My fix for a data-loss bug sat in a green PR for four days. Every install in that window still had the bug.](https://dev.to/achiya-automation/my-fix-for-a-data-loss-bug-sat-in-a-green-pr-for-four-days-every-install-in-that-window-still-had-2jj5)
+- [I Built 100+ Browser-Based Tools That Never Upload Your Files](https://dev.to/whiztools_app/i-built-100-browser-based-tools-that-never-upload-your-files-2fhi)
+- [Created CALIO - Instantly extract key information from insurance SEC filings](https://dev.to/jarvis_f4ebbfccbdce2eab07/created-calio-instantly-extract-key-information-from-insurance-sec-filings-38l3)
+- [Three Juejin roundups, three scorecards, no shared bridge](https://dev.to/ninghonggang/three-juejin-roundups-three-scorecards-no-shared-bridge-3ak2)
+- [Building AI Agents That Don&#39;t Hallucinate: Structured Workflows, Guardrails, and Per-Step Evaluation](https://dev.to/imus_d7584cbc8ee9b0336256/building-ai-agents-that-dont-hallucinate-structured-workflows-guardrails-and-per-step-evaluation-2g7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
