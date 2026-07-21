@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Edge vs. Endpoint Bot Blocking: A Developer&#39;s Guide to Cloudflare and Wordfence](https://dev.to/rerealize/edge-vs-endpoint-bot-blocking-a-developers-guide-to-cloudflare-and-wordfence-8ee)
-- [Can You Beat an LLM? Building Humans vs. Humanity&#39;s Last Exam](https://dev.to/entire/can-you-beat-an-llm-building-humans-vs-humanitys-last-exam-1673)
-- [A Practical Privacy Threat Model for Consumer Companion Robots](https://dev.to/gerardorobles1492/a-practical-privacy-threat-model-for-consumer-companion-robots-34k5)
-- [I Started Charging a Late Fee. Here&#39;s What Actually Happened.](https://dev.to/stevensnell/i-started-charging-a-late-fee-heres-what-actually-happened-579j)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2de9)
+- [Mastering JSON: Tips for Confident Data Handling](https://dev.to/binaryjournal/mastering-json-tips-for-confident-data-handling-4ojo)
+- [Building a Local-Only Chrome Extension That Autofills Job Application Forms](https://dev.to/bokuwalily/building-a-local-only-chrome-extension-that-autofills-job-application-forms-4f8a)
+- [AI-native isn&#39;t a chatbot. It&#39;s an MCP server.](https://dev.to/brthls/ai-native-isnt-a-chatbot-its-an-mcp-server-2ipg)
+- [Um guia open source &lpar;em português&rpar; para se preparar para entrevistas técnicas backend](https://dev.to/ejmeri/um-guia-open-source-em-portugues-para-se-preparar-para-entrevistas-tecnicas-backend-2eap)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-59ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
