@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Just Bought Gitpod: The AI IDE Wars Are Officially On](https://dev.to/muskan_bandta/openai-just-bought-gitpod-the-ai-ide-wars-are-officially-on-48ph)
-- [The Pentagon Called Anthropic a Security Risk: What It Means for AI in Regulated Industries](https://dev.to/muskan_bandta/the-pentagon-called-anthropic-a-security-risk-what-it-means-for-ai-in-regulated-industries-4i0o)
-- [Strings look simple... until they surprise you.](https://dev.to/shajibul_alam_shihab/strings-look-simple-until-they-surprise-you-3d8j)
-- [Payroll Software for Contractors and the Self-Employed: 6 Tools Compared by Tax Forms, Reach, and API](https://dev.to/alexx3/payroll-software-for-contractors-and-the-self-employed-6-tools-compared-by-tax-forms-reach-and-1l30)
-- [CLOSURES](https://dev.to/abhinav_pasham_d913ab013f/closures-1ch)
+- [One Command Turns a Fresh Ubuntu Server into a 24/7 AI Development Machine](https://dev.to/vimukthishohanjay/one-command-turns-a-fresh-ubuntu-server-into-a-247-ai-development-machine-dg9)
+- [Dall’idea al deploy in meno di un’ora con Stripe Projects &lpar;e un agente di coding&rpar;](https://dev.to/frontendfacile/dallidea-al-deploy-in-meno-di-unora-con-stripe-projects-e-un-agente-di-coding-1o95)
+- [Microsoft Just Admitted Windows Has a Tracking ID You Can&#39;t Turn Off](https://dev.to/kernelphantom_010/microsoft-just-admitted-windows-has-a-tracking-id-you-cant-turn-off-3nh2)
+- [The Hidden Cost of Logging PII](https://dev.to/mmichele1/the-hidden-cost-of-logging-pii-5f0l)
+- [How to Evaluate Whether a Review Is Actually Trustworthy &lpar;And Why Most of Us Don&#39;t&rpar;](https://dev.to/review-it/how-to-evaluate-whether-a-review-is-actually-trustworthy-and-why-most-of-us-dont-32l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
