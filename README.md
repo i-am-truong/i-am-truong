@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;sDefend SOC166 - Javascript Code Detected in Requested URL Investigation Wlakthrough](https://dev.to/dubugiii/letsdefend-soc166-javascript-code-detected-in-requested-url-investigation-wlakthrough-ljn)
-- [I Built the First Collaborative Multi-Persona Sandbox &lpar;Because I&#39;m Sick of Cloud Wrappers&rpar;](https://dev.to/nexus-aios/i-built-the-first-collaborative-multi-persona-sandbox-because-im-sick-of-cloud-wrappers-243e)
-- [Why your Clio token stopped working](https://dev.to/drewopexcell/why-your-clio-token-stopped-working-4ob8)
-- [The First Computer Bug Was a Real Moth](https://dev.to/fluidwire/the-first-computer-bug-was-a-real-moth-5hje)
-- [ACP vs AP2: the two AI-checkout protocols, and what your store actually has to build](https://dev.to/rolandfarkas/acp-vs-ap2-the-two-ai-checkout-protocols-and-what-your-store-actually-has-to-build-55d3)
+- [Pre-Skill Prompt: Responsive Design Audit with MCP Playwright](https://dev.to/gbti-network/pre-skill-prompt-responsive-design-audit-with-mcp-playwright-1icb)
+- [I turned my CLAUDE.md files into a marketplace &lpar;and an API your agent can use&rpar;](https://dev.to/_87fba493a84f2b519cd0/i-turned-my-claudemd-files-into-a-marketplace-and-an-api-your-agent-can-use-50me)
+- [Integrating Claude Code into Your Full-Stack Development Workflow](https://dev.to/ezika_trust_dee283f82dcad/integrating-claude-code-into-your-full-stack-development-workflow-f45)
+- [LinkedIn News Blocker Extension Fails Due to Dynamic Class Names: Updated Solution Needed](https://dev.to/maxgeris/linkedin-news-blocker-extension-fails-due-to-dynamic-class-names-updated-solution-needed-337c)
+- [AI Agent Profiler — Measure agent cost, cache waste, and context bloat](https://dev.to/rguiu/ai-agent-profiler-measure-agent-cost-cache-waste-and-context-bloat-p86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
