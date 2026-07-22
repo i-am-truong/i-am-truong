@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What We Learned Building a Location-Aware Contact Management App](https://dev.to/rajan-rawal/what-we-learned-building-a-location-aware-contact-management-app-k5d)
-- [From Enterprise Procurement Systems to Building Browser-Based Developer Tools](https://dev.to/gajendra_paliwal_278ab8aa/from-enterprise-procurement-systems-to-building-browser-based-developer-tools-4ke)
-- [REST API](https://dev.to/totoropurie5/rest-api-41b0)
-- [Opinionated by Design: Why I Chose Sensible Defaults Over Endless Configuration](https://dev.to/sanjaysah/opinionated-by-design-why-i-chose-sensible-defaults-over-endless-configuration-4lnm)
-- [I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://dev.to/tengbyte/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent-102d)
+- [Packages in Java: Why Your Code Needs a Home Address](https://dev.to/jamilxt/packages-in-java-why-your-code-needs-a-home-address-b3a)
+- [I Spent 16 Months Building My Own SaaS Solo — Why the Last 10% Takes Months](https://dev.to/joshmsn/i-spent-16-months-building-my-own-saas-solo-the-last-10-took-longer-than-the-first-90-288)
+- [Anti-bot without melting your budget: the proxy waterfall.](https://dev.to/votiakov/anti-bot-without-melting-your-budget-the-proxy-waterfall-4a04)
+- [Recover Missed LINE MINI App Purchase Webhooks with a 7-Day Reconciliation Job](https://dev.to/unifyport/recover-missed-line-mini-app-purchase-webhooks-with-a-7-day-reconciliation-job-4k7c)
+- [Claude Code&#39;s 17 Official Skills: the Rule vs the Practice](https://dev.to/ohugonnot/claude-codes-17-official-skills-the-rule-vs-the-practice-4f15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
