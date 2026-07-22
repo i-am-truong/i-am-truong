@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Eternal Legacy &lpar;2006-2008&rpar;: The Modern Surveillance Aftermath](https://dev.to/bioshistory/the-eternal-legacy-2006-2008-the-modern-surveillance-aftermath-1lh1)
-- [A Lei de Gall: Por que todo sistema complexo que funciona evoluiu de um sistema simples que funcionava ⚙️](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-gall-por-que-todo-sistema-complexo-que-funciona-evoluiu-de-um-sistema-simples-que-bep)
-- [Securing SaaS Signup Forms: Stop Bot Attacks With CAPTCHA](https://dev.to/silverw_dot_ing/securing-saas-signup-forms-stop-bot-attacks-with-captcha-2f15)
-- [Single-table DynamoDB in TypeScript, made simple — meet Dynatable](https://dev.to/ftschopp/single-table-dynamodb-in-typescript-made-simple-meet-dynatable-gn5)
-- [How I Solved Claude Code Silently Missing the SQS Trigger on My Lambda](https://dev.to/siddharth_pandey_27/how-i-solved-claude-code-silently-missing-the-sqs-trigger-on-my-lambda-5a)
+- [The Browser Test Passed. The Product Still Broke.](https://dev.to/orbitpickle307/the-browser-test-passed-the-product-still-broke-in6)
+- [Cómo crear y configurar un Virtual Host en un servidor LAMP local](https://dev.to/rogertm/como-crear-y-configurar-un-virtual-host-en-un-servidor-lamp-local-1dc5)
+- [I built TabScroll because I was tired of losing tabs](https://dev.to/elkhiar_4780f5eb3f1f84d0b/i-built-tabscroll-because-i-was-tired-of-losing-tabs-3pcb)
+- [记账十年，我终于放弃了所有精美的记账 App](https://dev.to/fangxia000101/ji-zhang-shi-nian-wo-zhong-yu-fang-qi-liao-suo-you-jing-mei-de-ji-zhang-app-27l2)
+- [Browser Testing Gets Hard When the Browser Becomes Part of the Product](https://dev.to/randomsquirrel802/browser-testing-gets-hard-when-the-browser-becomes-part-of-the-product-1hm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
