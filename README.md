@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One C# Core, Three Platforms: What Shipping a Background Networking SDK Taught Me](https://dev.to/nabeelbaghoor/one-c-core-three-platforms-what-shipping-a-background-networking-sdk-taught-me-5b2a)
-- [GitHub Actions &amp; CI/CD, Explained Like a Robot Assembly Line](https://dev.to/ramkumar-m-n/github-actions-cicd-explained-like-a-robot-assembly-line-1f7c)
-- [Claude Code hides your context % and usage limits. Here&#39;s how to see them.](https://dev.to/technical_turtle/claude-code-hides-your-context-and-usage-limits-heres-how-to-see-them-37he)
-- [What level is ATLOCK v4 actually at? An honest self-audit.](https://dev.to/akhourianmolkumar/what-level-is-atlock-v4-actually-at-an-honest-self-audit-ng1)
-- [🤖 How I Integrated Kali Linux and DeepSeek &lpar;Local AI&rpar; to Build a Self-Defending Security Bot for MyZubster](https://dev.to/danielioni/how-i-integrated-kali-linux-and-deepseek-local-ai-to-build-a-self-defending-security-bot-for-47lk)
+- [I launched to zero signups, then found 5 features nobody could reach](https://dev.to/aghassis/i-launched-to-zero-signups-then-found-5-features-nobody-could-reach-11bg)
+- [building enterprise multi-agent workflows in .net with mistral](https://dev.to/ivan_jurina_708793b01312e/building-enterprise-multi-agent-workflows-in-net-with-mistral-1ik)
+- [whoimports: who still imports this Python module?](https://dev.to/sybilgambleyyu/whoimports-who-still-imports-this-python-module-42oc)
+- [Understanding Middleware in Deep Agents &lpar;With Runnable Examples&rpar;](https://dev.to/syeedmdtalha/understanding-middleware-in-deep-agents-with-runnable-examples-36j7)
+- [logsnip: cut CI noise, keep the stack traces](https://dev.to/sybilgambleyyu/logsnip-cut-ci-noise-keep-the-stack-traces-4cpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
