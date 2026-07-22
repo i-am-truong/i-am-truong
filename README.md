@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Banking Without an eIDAS Certificate: A Practical Developer&#39;s Guide &lpar;2026&rpar;](https://dev.to/johnfrandsen/open-banking-without-an-eidas-certificate-a-practical-developers-guide-2026-1j6)
-- [VIDRAFT Releases Aether-7B-5Attn: A Fully Open-Source MoE LLM with Five Heterogeneous Attention Mechanisms](https://dev.to/ai_openfree_b23025ef075cf/vidraft-releases-aether-7b-5attn-a-fully-open-source-moe-llm-with-five-heterogeneous-attention-2n11)
-- [The First 5 Minutes with DBOS](https://dev.to/dbos/the-first-5-minutes-with-dbos-259k)
-- [Building Tech Communities, AI Projects, and Developer Connections from Cartagena](https://dev.to/giulloa/building-tech-communities-ai-projects-and-developer-connections-from-cartagena-50dm)
-- [How I stopped fighting print lines and started covering them instead](https://dev.to/josh_green_dev/how-i-stopped-fighting-print-lines-and-started-covering-them-instead-2ljf)
+- [Running PostgreSQL with Docker](https://dev.to/odalov/running-postgresql-with-docker-14m2)
+- [GORM: Dev&#39;s Guide to Go&#39;s Most Popular ORM](https://dev.to/odalov/gorm-devs-guide-to-gos-most-popular-orm-3263)
+- [Write Code You Can Still Read 6 Months Later](https://dev.to/alanwu/write-code-you-can-still-read-6-months-later-598c)
+- [The OpenAI and Hugging Face Incident Was an Agent Boundary Failure](https://dev.to/komo/the-openai-and-hugging-face-incident-was-an-agent-boundary-failure-4f80)
+- [I built the performance engineering resource I wished existed - full stack, real code, 6 levels, no fluff](https://dev.to/abdelhalim9/i-built-the-performance-engineering-resource-i-wished-existed-full-stack-real-code-6-levels-no-2nhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
