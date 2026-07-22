@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An ESP32 and Eight ToF Sensors Give This Antique Lamp a Sixth Sense](https://dev.to/circuitrocks/an-esp32-and-eight-tof-sensors-give-this-antique-lamp-a-sixth-sense-2824)
-- [Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn)
-- [I built a state-management workflow for long AI-assisted projects &lpar;Normal/Quick Check/Lockdown&rpar; — looking for people to test it](https://dev.to/yongabi_favour_2db36f1923/i-built-a-state-management-workflow-for-long-ai-assisted-projects-normalquick-checklockdown--2m3)
-- [MergeForge: Resolve Git Conflicts in VS Code or Cursor Like in JetBrains](https://dev.to/ognjenmarcheta/mergeforge-resolve-git-conflicts-in-vs-code-or-cursor-like-in-jetbrains-3oj1)
-- [A Prisma Schema Change Has Three Lifecycles](https://dev.to/lksvn/a-prisma-schema-change-has-three-lifecycles-3pcn)
+- [Implementing UUID v7 by hand: time-sortable primary keys &lpar;and the same-millisecond trap&rpar;](https://dev.to/takahiro_hashito_a1f3f0dc/implementing-uuid-v7-by-hand-time-sortable-primary-keys-and-the-same-millisecond-trap-1l71)
+- [Expiring Content: Put the Deadline in the Data, Not the Prose](https://dev.to/takahiro_hashito_a1f3f0dc/expiring-content-put-the-deadline-in-the-data-not-the-prose-27bh)
+- [Enforcing Content Tone With a Lint That Fails the Build](https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-content-tone-with-a-lint-that-fails-the-build-19jf)
+- [Understanding Next.js Page Caching &lpar;with a real example&rpar;](https://dev.to/nahamaalochi/understanding-nextjs-page-caching-with-a-real-example-10io)
+- [Why Your Unit Tests Aren&#39;t Enough &lpar;And How to Break Your Own API&rpar;](https://dev.to/david_oprea/why-your-unit-tests-arent-enough-and-how-to-break-your-own-api-5ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
