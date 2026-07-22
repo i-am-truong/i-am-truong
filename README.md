@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your GitHub Release URL Opens Fine. That&#39;s Not Proof You Can Get the Files Back](https://dev.to/nomurasan/your-github-release-url-opens-fine-thats-not-proof-you-can-get-the-files-back-6jk)
-- [Add Microsoft Clarity to Hugo with Cloudflare Zaraz - Without Redeploying](https://dev.to/roxroy/add-microsoft-clarity-to-hugo-with-cloudflare-zaraz-without-redeploying-2khg)
-- [Running Qwen3 Through the ExecuTorch MLX Delegate: Up to 4.52x Faster on M1 Max](https://dev.to/kiarina/running-qwen3-through-the-executorch-mlx-delegate-up-to-452x-faster-on-m1-max-4lc2)
-- [I Completed HackerRank SQL Basic Select .Here&#39;s What I Learned...](https://dev.to/codebykumudha/i-completed-hackerrank-sql-basic-select-heres-what-i-learned-kmm)
-- [Rust Strings Demystified: Literals, Slices, and Fat Pointers Under the Hood](https://dev.to/csemanish12/rust-strings-demystified-literals-slices-and-fat-pointers-under-the-hood-4o34)
+- [What We Learned Building a Location-Aware Contact Management App](https://dev.to/rajan-rawal/what-we-learned-building-a-location-aware-contact-management-app-k5d)
+- [From Enterprise Procurement Systems to Building Browser-Based Developer Tools](https://dev.to/gajendra_paliwal_278ab8aa/from-enterprise-procurement-systems-to-building-browser-based-developer-tools-4ke)
+- [REST API](https://dev.to/totoropurie5/rest-api-41b0)
+- [Opinionated by Design: Why I Chose Sensible Defaults Over Endless Configuration](https://dev.to/sanjaysah/opinionated-by-design-why-i-chose-sensible-defaults-over-endless-configuration-4lnm)
+- [I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://dev.to/tengbyte/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent-102d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
