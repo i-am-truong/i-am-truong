@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Progressive Disclosure: Why You Can Install 30 Skills and Pay for Almost Nothing](https://dev.to/aswani25/progressive-disclosure-why-you-can-install-30-skills-and-pay-for-almost-nothing-3n04)
-- [I added an AI helper to my JSON mock-API tool — the hybrid design, and a Workers AI gotcha](https://dev.to/solca/i-added-an-ai-helper-to-my-json-mock-api-tool-the-hybrid-design-and-a-workers-ai-gotcha-pb9)
-- [Improving Kubernetes Resource Efficiency with Automated Feedback Loops to Reduce Over-Provisioning](https://dev.to/alitron/improving-kubernetes-resource-efficiency-with-automated-feedback-loops-to-reduce-over-provisioning-2kba)
-- [Your Test Suite Is Your API for Agents](https://dev.to/tmfrisinger/your-test-suite-is-your-api-for-agents-150m)
-- [Part 5 — Deals, pricing, and a real board](https://dev.to/nerd_snipe_dev/part-5-deals-pricing-and-a-real-board-a1c)
+- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
+- [I built the cross-platform Nostr desktop client I always wanted](https://dev.to/hoornet/i-built-the-cross-platform-nostr-desktop-client-i-always-wanted-1fkk)
+- [OpenRouter vs Vercel vs LLMGateway Performance](https://dev.to/smakosh/openrouter-vs-vercel-vs-llmgateway-performance-1f6a)
+- [SQL for Beginners: Building a Mini School Database from Scratch!](https://dev.to/neema_kirui/sql-for-beginners-building-a-mini-school-database-from-scratch-3d39)
+- [Kimi K3: Open Frontier Intelligence 글 읽고](https://dev.to/yoon/kimi-k3-open-frontier-intelligence-geul-ilggo-4cgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
