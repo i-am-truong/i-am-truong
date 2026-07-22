@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Browser Test Passed. The Product Still Broke.](https://dev.to/orbitpickle307/the-browser-test-passed-the-product-still-broke-in6)
-- [Cómo crear y configurar un Virtual Host en un servidor LAMP local](https://dev.to/rogertm/como-crear-y-configurar-un-virtual-host-en-un-servidor-lamp-local-1dc5)
-- [I built TabScroll because I was tired of losing tabs](https://dev.to/elkhiar_4780f5eb3f1f84d0b/i-built-tabscroll-because-i-was-tired-of-losing-tabs-3pcb)
-- [记账十年，我终于放弃了所有精美的记账 App](https://dev.to/fangxia000101/ji-zhang-shi-nian-wo-zhong-yu-fang-qi-liao-suo-you-jing-mei-de-ji-zhang-app-27l2)
-- [Browser Testing Gets Hard When the Browser Becomes Part of the Product](https://dev.to/randomsquirrel802/browser-testing-gets-hard-when-the-browser-becomes-part-of-the-product-1hm8)
+- [An ESP32 and Eight ToF Sensors Give This Antique Lamp a Sixth Sense](https://dev.to/circuitrocks/an-esp32-and-eight-tof-sensors-give-this-antique-lamp-a-sixth-sense-2824)
+- [Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn)
+- [I built a state-management workflow for long AI-assisted projects &lpar;Normal/Quick Check/Lockdown&rpar; — looking for people to test it](https://dev.to/yongabi_favour_2db36f1923/i-built-a-state-management-workflow-for-long-ai-assisted-projects-normalquick-checklockdown--2m3)
+- [MergeForge: Resolve Git Conflicts in VS Code or Cursor Like in JetBrains](https://dev.to/ognjenmarcheta/mergeforge-resolve-git-conflicts-in-vs-code-or-cursor-like-in-jetbrains-3oj1)
+- [A Prisma Schema Change Has Three Lifecycles](https://dev.to/lksvn/a-prisma-schema-change-has-three-lifecycles-3pcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
