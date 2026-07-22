@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I launched to zero signups, then found 5 features nobody could reach](https://dev.to/aghassis/i-launched-to-zero-signups-then-found-5-features-nobody-could-reach-11bg)
-- [building enterprise multi-agent workflows in .net with mistral](https://dev.to/ivan_jurina_708793b01312e/building-enterprise-multi-agent-workflows-in-net-with-mistral-1ik)
-- [whoimports: who still imports this Python module?](https://dev.to/sybilgambleyyu/whoimports-who-still-imports-this-python-module-42oc)
-- [Understanding Middleware in Deep Agents &lpar;With Runnable Examples&rpar;](https://dev.to/syeedmdtalha/understanding-middleware-in-deep-agents-with-runnable-examples-36j7)
-- [logsnip: cut CI noise, keep the stack traces](https://dev.to/sybilgambleyyu/logsnip-cut-ci-noise-keep-the-stack-traces-4cpi)
+- [What 2,204 merged AI-agent PRs actually touched &lpar;0 declared their scope&rpar;](https://dev.to/sjh9714/what-2204-merged-ai-agent-prs-actually-touched-0-declared-their-scope-d20)
+- [Why Realtime Is the Future of Speech-to-Text](https://dev.to/martschweiger/why-realtime-is-the-future-of-speech-to-text-2bii)
+- [AI Medical Scribe: Build vs Buy Nuance DAX &amp; Abridge](https://dev.to/martschweiger/ai-medical-scribe-build-vs-buy-nuance-dax-abridge-53hk)
+- [Rust &amp; Bevy Space Economy Sim: Self-Running AI Agent Demo](https://dev.to/felipejac/rust-bevy-space-economy-sim-self-running-ai-agent-demo-a90)
+- [Open Banking APIs Explained: What PSD2 Compliance Actually Requires From Your Engineering Team](https://dev.to/lycore/open-banking-apis-explained-what-psd2-compliance-actually-requires-from-your-engineering-team-4l2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
