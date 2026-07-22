@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running PostgreSQL with Docker](https://dev.to/odalov/running-postgresql-with-docker-14m2)
-- [GORM: Dev&#39;s Guide to Go&#39;s Most Popular ORM](https://dev.to/odalov/gorm-devs-guide-to-gos-most-popular-orm-3263)
-- [Write Code You Can Still Read 6 Months Later](https://dev.to/alanwu/write-code-you-can-still-read-6-months-later-598c)
-- [The OpenAI and Hugging Face Incident Was an Agent Boundary Failure](https://dev.to/komo/the-openai-and-hugging-face-incident-was-an-agent-boundary-failure-4f80)
-- [I built the performance engineering resource I wished existed - full stack, real code, 6 levels, no fluff](https://dev.to/abdelhalim9/i-built-the-performance-engineering-resource-i-wished-existed-full-stack-real-code-6-levels-no-2nhh)
+- [Your GitHub Release URL Opens Fine. That&#39;s Not Proof You Can Get the Files Back](https://dev.to/nomurasan/your-github-release-url-opens-fine-thats-not-proof-you-can-get-the-files-back-6jk)
+- [Add Microsoft Clarity to Hugo with Cloudflare Zaraz - Without Redeploying](https://dev.to/roxroy/add-microsoft-clarity-to-hugo-with-cloudflare-zaraz-without-redeploying-2khg)
+- [Running Qwen3 Through the ExecuTorch MLX Delegate: Up to 4.52x Faster on M1 Max](https://dev.to/kiarina/running-qwen3-through-the-executorch-mlx-delegate-up-to-452x-faster-on-m1-max-4lc2)
+- [I Completed HackerRank SQL Basic Select .Here&#39;s What I Learned...](https://dev.to/codebykumudha/i-completed-hackerrank-sql-basic-select-heres-what-i-learned-kmm)
+- [Rust Strings Demystified: Literals, Slices, and Fat Pointers Under the Hood](https://dev.to/csemanish12/rust-strings-demystified-literals-slices-and-fat-pointers-under-the-hood-4o34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
