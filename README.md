@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Packages in Java: Why Your Code Needs a Home Address](https://dev.to/jamilxt/packages-in-java-why-your-code-needs-a-home-address-b3a)
-- [I Spent 16 Months Building My Own SaaS Solo — Why the Last 10% Takes Months](https://dev.to/joshmsn/i-spent-16-months-building-my-own-saas-solo-the-last-10-took-longer-than-the-first-90-288)
-- [Anti-bot without melting your budget: the proxy waterfall.](https://dev.to/votiakov/anti-bot-without-melting-your-budget-the-proxy-waterfall-4a04)
-- [Recover Missed LINE MINI App Purchase Webhooks with a 7-Day Reconciliation Job](https://dev.to/unifyport/recover-missed-line-mini-app-purchase-webhooks-with-a-7-day-reconciliation-job-4k7c)
-- [Claude Code&#39;s 17 Official Skills: the Rule vs the Practice](https://dev.to/ohugonnot/claude-codes-17-official-skills-the-rule-vs-the-practice-4f15)
+- [One C# Core, Three Platforms: What Shipping a Background Networking SDK Taught Me](https://dev.to/nabeelbaghoor/one-c-core-three-platforms-what-shipping-a-background-networking-sdk-taught-me-5b2a)
+- [GitHub Actions &amp; CI/CD, Explained Like a Robot Assembly Line](https://dev.to/ramkumar-m-n/github-actions-cicd-explained-like-a-robot-assembly-line-1f7c)
+- [Claude Code hides your context % and usage limits. Here&#39;s how to see them.](https://dev.to/technical_turtle/claude-code-hides-your-context-and-usage-limits-heres-how-to-see-them-37he)
+- [What level is ATLOCK v4 actually at? An honest self-audit.](https://dev.to/akhourianmolkumar/what-level-is-atlock-v4-actually-at-an-honest-self-audit-ng1)
+- [🤖 How I Integrated Kali Linux and DeepSeek &lpar;Local AI&rpar; to Build a Self-Defending Security Bot for MyZubster](https://dev.to/danielioni/how-i-integrated-kali-linux-and-deepseek-local-ai-to-build-a-self-defending-security-bot-for-47lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
