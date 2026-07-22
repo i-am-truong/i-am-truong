@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a CLI to Use Free Web-Based AI Chatbots for Real Development Work — No API Keys, No Extensions](https://dev.to/arpanvgm/i-built-a-cli-to-use-free-web-based-ai-chatbots-for-real-development-work-no-api-keys-no-jlf)
-- [workflows: a host-agnostic Rust engine for agentic workflows &lpar;open source&rpar;](https://dev.to/neocortexdev/workflows-a-host-agnostic-rust-engine-for-agentic-workflows-open-source-4ede)
-- [Multi-provider LLM resilience in Python without provider-specific code](https://dev.to/inozem/multi-provider-llm-resilience-in-python-without-provider-specific-code-2b80)
-- [I built SwiftNotch: a productivity dashboard for the MacBook notch](https://dev.to/bhamaengine08/i-built-swiftnotch-a-productivity-dashboard-for-the-macbook-notch-3mj0)
-- [Cybersecurity Beginner&#39;s Dilemma: Navigating Specialized Areas and Next Steps for Focused Learning](https://dev.to/kserude/cybersecurity-beginners-dilemma-navigating-specialized-areas-and-next-steps-for-focused-learning-j15)
+- [The Eternal Legacy &lpar;2006-2008&rpar;: The Modern Surveillance Aftermath](https://dev.to/bioshistory/the-eternal-legacy-2006-2008-the-modern-surveillance-aftermath-1lh1)
+- [A Lei de Gall: Por que todo sistema complexo que funciona evoluiu de um sistema simples que funcionava ⚙️](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-gall-por-que-todo-sistema-complexo-que-funciona-evoluiu-de-um-sistema-simples-que-bep)
+- [Securing SaaS Signup Forms: Stop Bot Attacks With CAPTCHA](https://dev.to/silverw_dot_ing/securing-saas-signup-forms-stop-bot-attacks-with-captcha-2f15)
+- [Single-table DynamoDB in TypeScript, made simple — meet Dynatable](https://dev.to/ftschopp/single-table-dynamodb-in-typescript-made-simple-meet-dynatable-gn5)
+- [How I Solved Claude Code Silently Missing the SQS Trigger on My Lambda](https://dev.to/siddharth_pandey_27/how-i-solved-claude-code-silently-missing-the-sqs-trigger-on-my-lambda-5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
