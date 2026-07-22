@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What 2,204 merged AI-agent PRs actually touched &lpar;0 declared their scope&rpar;](https://dev.to/sjh9714/what-2204-merged-ai-agent-prs-actually-touched-0-declared-their-scope-d20)
-- [Why Realtime Is the Future of Speech-to-Text](https://dev.to/martschweiger/why-realtime-is-the-future-of-speech-to-text-2bii)
-- [AI Medical Scribe: Build vs Buy Nuance DAX &amp; Abridge](https://dev.to/martschweiger/ai-medical-scribe-build-vs-buy-nuance-dax-abridge-53hk)
-- [Rust &amp; Bevy Space Economy Sim: Self-Running AI Agent Demo](https://dev.to/felipejac/rust-bevy-space-economy-sim-self-running-ai-agent-demo-a90)
-- [Open Banking APIs Explained: What PSD2 Compliance Actually Requires From Your Engineering Team](https://dev.to/lycore/open-banking-apis-explained-what-psd2-compliance-actually-requires-from-your-engineering-team-4l2o)
+- [Progressive Disclosure: Why You Can Install 30 Skills and Pay for Almost Nothing](https://dev.to/aswani25/progressive-disclosure-why-you-can-install-30-skills-and-pay-for-almost-nothing-3n04)
+- [I added an AI helper to my JSON mock-API tool — the hybrid design, and a Workers AI gotcha](https://dev.to/solca/i-added-an-ai-helper-to-my-json-mock-api-tool-the-hybrid-design-and-a-workers-ai-gotcha-pb9)
+- [Improving Kubernetes Resource Efficiency with Automated Feedback Loops to Reduce Over-Provisioning](https://dev.to/alitron/improving-kubernetes-resource-efficiency-with-automated-feedback-loops-to-reduce-over-provisioning-2kba)
+- [Your Test Suite Is Your API for Agents](https://dev.to/tmfrisinger/your-test-suite-is-your-api-for-agents-150m)
+- [Part 5 — Deals, pricing, and a real board](https://dev.to/nerd_snipe_dev/part-5-deals-pricing-and-a-real-board-a1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
