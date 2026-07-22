@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
-- [I built the cross-platform Nostr desktop client I always wanted](https://dev.to/hoornet/i-built-the-cross-platform-nostr-desktop-client-i-always-wanted-1fkk)
-- [OpenRouter vs Vercel vs LLMGateway Performance](https://dev.to/smakosh/openrouter-vs-vercel-vs-llmgateway-performance-1f6a)
-- [SQL for Beginners: Building a Mini School Database from Scratch!](https://dev.to/neema_kirui/sql-for-beginners-building-a-mini-school-database-from-scratch-3d39)
-- [Kimi K3: Open Frontier Intelligence 글 읽고](https://dev.to/yoon/kimi-k3-open-frontier-intelligence-geul-ilggo-4cgp)
+- [I Built a CLI to Use Free Web-Based AI Chatbots for Real Development Work — No API Keys, No Extensions](https://dev.to/arpanvgm/i-built-a-cli-to-use-free-web-based-ai-chatbots-for-real-development-work-no-api-keys-no-jlf)
+- [workflows: a host-agnostic Rust engine for agentic workflows &lpar;open source&rpar;](https://dev.to/neocortexdev/workflows-a-host-agnostic-rust-engine-for-agentic-workflows-open-source-4ede)
+- [Multi-provider LLM resilience in Python without provider-specific code](https://dev.to/inozem/multi-provider-llm-resilience-in-python-without-provider-specific-code-2b80)
+- [I built SwiftNotch: a productivity dashboard for the MacBook notch](https://dev.to/bhamaengine08/i-built-swiftnotch-a-productivity-dashboard-for-the-macbook-notch-3mj0)
+- [Cybersecurity Beginner&#39;s Dilemma: Navigating Specialized Areas and Next Steps for Focused Learning](https://dev.to/kserude/cybersecurity-beginners-dilemma-navigating-specialized-areas-and-next-steps-for-focused-learning-j15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
