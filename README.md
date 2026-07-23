@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase and the mystery of the shifted timestamps: MySQL vs PostgreSQL, measured](https://dev.to/stale_orbit/nocobase-and-the-mystery-of-the-shifted-timestamps-mysql-vs-postgresql-measured-4o4h)
-- [4 ways canvas text rendering breaks in multilingual apps &lpar;that en/ja testing will never catch&rpar;](https://dev.to/mxhlix/4-ways-canvas-text-rendering-breaks-in-multilingual-apps-that-enja-testing-will-never-catch-409n)
-- [Teaching Kiro to Paint: A Stateful Image-Editing Skill Built on Gemini&#39;s Interactions API and MCP](https://dev.to/aws-builders/teaching-kiro-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-362j)
-- [Pillar research says the AI coding agent sandbox leaks through trusted files](https://dev.to/leobaniak/pillar-research-says-the-ai-coding-agent-sandbox-leaks-through-trusted-files-23jk)
-- [Python&#39;s Object Model in Depth: Why Two Lines That Look the Same Behave Differently](https://dev.to/ameer_abdullah_68d48c8496/pythons-object-model-in-depth-why-two-lines-that-look-the-same-behave-differently-2oj8)
+- [The Safety Screen Interrupted the Safety Test](https://dev.to/kenielzep97/the-safety-screen-interrupted-the-safety-test-1932)
+- [jar-cart v0.6.0: The Ultimate No-Build Package Manager for Java Gets Workspaces](https://dev.to/sudhanshuambastha/jar-cart-v060-the-ultimate-no-build-package-manager-for-java-gets-workspaces-4d6e)
+- [ESP32 Bowling Scoring System Beats a $120K Proprietary Quote](https://dev.to/circuitrocks/esp32-bowling-scoring-system-beats-a-120k-proprietary-quote-4i9p)
+- [Dev log #13 Hardening Kademlia: A week of p2p security architecture and Neovim maintenance](https://dev.to/yashksaini/dev-log-1-hardening-kademlia-a-week-of-p2p-security-architecture-and-neovim-maintenance-12jo)
+- [Character consistency isn&#39;t a seed trick: a 2-stage image pipeline that actually locks the face](https://dev.to/ownstackhq/character-consistency-isnt-a-seed-trick-a-2-stage-image-pipeline-that-actually-locks-the-face-p76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
