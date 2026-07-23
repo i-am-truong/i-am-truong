@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Online Reinforcement Learning for Large Language Models](https://dev.to/kapusto/online-reinforcement-learning-for-large-language-models-4jme)
-- [5 ARB and ICU edge cases I wish I&#39;d tested earlier](https://dev.to/badtod/5-arb-and-icu-edge-cases-i-wish-id-tested-earlier-4iph)
-- [Migrating a live x402 service from V1 to V2 on Base mainnet](https://dev.to/ukenal/migrating-a-live-x402-service-from-v1-to-v2-on-base-mainnet-1mg9)
-- [MythX shut down in March and nothing replaced it so I built something](https://dev.to/ninjafromqueens/mythx-shut-down-in-march-and-nothing-replaced-it-so-i-built-something-2ccp)
-- [Modeling traffic offload in a small cloud architecture puzzle](https://dev.to/cloudarchsimulator/modeling-traffic-offload-in-a-small-cloud-architecture-puzzle-1ke0)
+- [Detect in the Application, Block at the Edge: A Feedback Loop with AWS WAF and CloudFront KVS](https://dev.to/aws-builders/detect-in-the-application-block-at-the-edge-a-feedback-loop-with-aws-waf-and-cloudfront-kvs-5ck3)
+- [One Copy, Two Engines: Architecting a Governed Lakehouse Across Fabric and Azure Databricks](https://dev.to/gabrielhca/one-copy-two-engines-architecting-a-governed-lakehouse-across-fabric-and-azure-databricks-351f)
+- [The checklist item that made 90 files permanently unfinished](https://dev.to/liam-dev/the-checklist-item-that-made-90-files-permanently-unfinished-4a3i)
+- [AMD Advancing AI 2026: Software, Hardware &amp; Framework, Unified](https://dev.to/earlgreyhot1701d/amd-advancing-ai-2026-software-hardware-framework-unified-2d2j)
+- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
