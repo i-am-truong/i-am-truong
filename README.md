@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Recruitment SaaS: Lessons Learned](https://dev.to/hasanyildizdev/building-an-ai-recruitment-saas-lessons-learned-3gim)
-- [Getting Real Numbers Into the VPA Model: The Commands and Tools](https://dev.to/prasadmk/getting-real-numbers-into-the-vpa-model-the-commands-and-tools-2ol2)
-- [I built a machine-payable API for AI agents and made $0.00 from strangers. Here&#39;s every number.](https://dev.to/baolongspx6900/i-built-a-machine-payable-api-for-ai-agents-and-made-000-from-strangers-heres-every-number-3g5k)
-- [10 ChatGPT Prompts for Daily Use by L1 SOC Analysts](https://dev.to/excalibra/10-chatgpt-prompts-for-daily-use-by-l1-soc-analysts-5g27)
-- [Claude Code Plan Mode: How I Use It on Real Multi-File Work](https://dev.to/stravukarl/claude-code-plan-mode-how-i-use-it-on-real-multi-file-work-40od)
+- [What Happens If You Lose Your Gmail Account Tomorrow?](https://dev.to/sashasmith/what-happens-if-you-lose-your-gmail-account-tomorrow-f4l)
+- [My Developer Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l)
+- [How to Evaluate a Testing Tool Without Falling for Feature Lists](https://dev.to/orbitpickle307/how-to-evaluate-a-testing-tool-without-falling-for-feature-lists-584j)
+- [A public const constructor is the back door around your factory&#39;s validation](https://dev.to/yusufihsangorgel/a-public-const-constructor-is-the-back-door-around-your-factorys-validation-2hh8)
+- [Scaling Your App: Horizontal vs Vertical — Lessons from *The Matrix*](https://dev.to/timevolt/scaling-your-app-horizontal-vs-vertical-lessons-from-the-matrix-1ihh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
