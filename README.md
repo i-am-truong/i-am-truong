@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mapping Human Biology: The Bitwise Boolean Algebra of Blood Transfusion Compatibility](https://dev.to/kandz/mapping-human-biology-the-bitwise-boolean-algebra-of-blood-transfusion-compatibility-3dhj)
-- [Which agentic coding patterns actually scale](https://dev.to/jcamarate/which-agentic-coding-patterns-actually-scale-57ah)
-- [How to Delete Specific Things an AI Remembers About You](https://dev.to/plur9/how-to-delete-specific-things-an-ai-remembers-about-you-m79)
-- [How I turned fragmented LLM quotas into one larger token budget with an MCP server](https://dev.to/elispeak111/how-i-turned-fragmented-llm-quotas-into-one-larger-token-budget-with-an-mcp-server-2ek1)
-- [Self-Hosted MCP: Building a Model Context Protocol Server in PHP](https://dev.to/mahmut_gndzalp_c736ac4b/self-hosted-mcp-building-a-model-context-protocol-server-in-php-36a2)
+- [How to Detect Event Loop Freezes in Node.js](https://dev.to/jsak/how-to-detect-event-loop-freezes-in-nodejs-347o)
+- [Letting a stranger contact a car owner without giving them the number](https://dev.to/digital_profiletap/letting-a-stranger-contact-a-car-owner-without-giving-them-the-number-204k)
+- [How to Add Watermarks to PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3k4n)
+- [Intoducing EasyInvoicePDF - a Free and Open-Source Invoice Generator](https://dev.to/vladsez/intoducing-easyinvoicepdf-a-free-and-open-source-invoice-generator-2kc7)
+- [How to Fix &quot;Duplicate class ... found in modules&quot; in React Native &amp; Expo](https://dev.to/asta_dev/how-to-fix-duplicate-class-found-in-modules-in-react-native-expo-1gg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
