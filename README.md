@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Happens If You Lose Your Gmail Account Tomorrow?](https://dev.to/sashasmith/what-happens-if-you-lose-your-gmail-account-tomorrow-f4l)
-- [My Developer Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l)
-- [How to Evaluate a Testing Tool Without Falling for Feature Lists](https://dev.to/orbitpickle307/how-to-evaluate-a-testing-tool-without-falling-for-feature-lists-584j)
-- [A public const constructor is the back door around your factory&#39;s validation](https://dev.to/yusufihsangorgel/a-public-const-constructor-is-the-back-door-around-your-factorys-validation-2hh8)
-- [Scaling Your App: Horizontal vs Vertical — Lessons from *The Matrix*](https://dev.to/timevolt/scaling-your-app-horizontal-vs-vertical-lessons-from-the-matrix-1ihh)
+- [Shipping a Solidity contract to mainnet? Do this 20-minute self-check first](https://dev.to/juan23z/shipping-a-solidity-contract-to-mainnet-do-this-20-minute-self-check-first-399o)
+- [Claude Opus/Sonnet Voice Mode, Open-Weight Model Cost Savings, &amp; GitHub AI Agent Security](https://dev.to/soytuber/claude-opussonnet-voice-mode-open-weight-model-cost-savings-github-ai-agent-security-4pmc)
+- [B+tree height after delete: PostgreSQL fast root](https://dev.to/franckpachot/btree-height-after-delete-oracle-rebuild-vs-postgresql-fastroot-1ia4)
+- [I Spent 3 Weeks Debugging Rate Limits Before I Realized the Problem Wasn&#39;t My Code](https://dev.to/raisereturn/i-spent-3-weeks-debugging-rate-limits-before-i-realized-the-problem-wasnt-my-code-51i1)
+- [I keep finding out about API breaking changes from production errors, so I&#39;m building a changelog watcher](https://dev.to/karlo_perini_c4d5df8f7d/i-keep-finding-out-about-api-breaking-changes-from-production-errors-so-im-building-a-changelog-24le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
