@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BorgShield: Sistema de Backup Linux Eficiente, Fiable y Verificable](https://dev.to/arcadio_ortega/borgshield-sistema-de-backup-linux-eficiente-fiable-y-verificable-4iad)
-- [Why Dark Mode Should Not Be a Second CSS File](https://dev.to/hasansarwer/why-dark-mode-should-not-be-a-second-css-file-1c5k)
-- [Next-Token Prediction: How an AI Actually Writes Text &lpar;Not Magic — Just Probability&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/next-token-prediction-how-an-ai-actually-writes-text-not-magic-just-probability-53dd)
-- [Frontend-Only SaaS: The Rise of Static Utility Sites](https://dev.to/yobox/frontend-only-saas-the-rise-of-static-utility-sites-i61)
-- [What I Learned About Token Design on Solana as a Web2 Developer](https://dev.to/tanisha_fonseca/what-i-learned-about-token-design-on-solana-as-a-web2-developer-2he1)
+- [Building an AI Recruitment SaaS: Lessons Learned](https://dev.to/hasanyildizdev/building-an-ai-recruitment-saas-lessons-learned-3gim)
+- [Getting Real Numbers Into the VPA Model: The Commands and Tools](https://dev.to/prasadmk/getting-real-numbers-into-the-vpa-model-the-commands-and-tools-2ol2)
+- [I built a machine-payable API for AI agents and made $0.00 from strangers. Here&#39;s every number.](https://dev.to/baolongspx6900/i-built-a-machine-payable-api-for-ai-agents-and-made-000-from-strangers-heres-every-number-3g5k)
+- [10 ChatGPT Prompts for Daily Use by L1 SOC Analysts](https://dev.to/excalibra/10-chatgpt-prompts-for-daily-use-by-l1-soc-analysts-5g27)
+- [Claude Code Plan Mode: How I Use It on Real Multi-File Work](https://dev.to/stravukarl/claude-code-plan-mode-how-i-use-it-on-real-multi-file-work-40od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
