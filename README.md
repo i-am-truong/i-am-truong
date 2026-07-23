@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3.6 Flash: 17% fewer tokens, lower cost, and a Python cold start fix you didn&#39;t have to ask for](https://dev.to/devsignal/gemini-36-flash-17-fewer-tokens-lower-cost-and-a-python-cold-start-fix-you-didnt-have-to-ask-45ak)
-- [citesure init: start the paper with a citation integrity gate](https://dev.to/sybilgambleyyu/citesure-init-start-the-paper-with-a-citation-integrity-gate-1lj9)
-- [eBPF for Networking &lpar;XDP&rpar;](https://dev.to/godofgeeks/ebpf-for-networking-xdp-4d6d)
-- [I Let My AI Assistant Read and Reply to My Emails for a Week. Here’s What Actually Happened.](https://dev.to/twinkalp10/i-let-my-ai-assistant-read-and-reply-to-my-emails-for-a-week-heres-what-actually-happened-33ep)
-- [I thought desktop copilots would win, then I tried building agents on Android](https://dev.to/lars_winstand/i-thought-desktop-copilots-would-win-then-i-tried-building-agents-on-android-38j0)
+- [Mapping Human Biology: The Bitwise Boolean Algebra of Blood Transfusion Compatibility](https://dev.to/kandz/mapping-human-biology-the-bitwise-boolean-algebra-of-blood-transfusion-compatibility-3dhj)
+- [Which agentic coding patterns actually scale](https://dev.to/jcamarate/which-agentic-coding-patterns-actually-scale-57ah)
+- [How to Delete Specific Things an AI Remembers About You](https://dev.to/plur9/how-to-delete-specific-things-an-ai-remembers-about-you-m79)
+- [How I turned fragmented LLM quotas into one larger token budget with an MCP server](https://dev.to/elispeak111/how-i-turned-fragmented-llm-quotas-into-one-larger-token-budget-with-an-mcp-server-2ek1)
+- [Self-Hosted MCP: Building a Model Context Protocol Server in PHP](https://dev.to/mahmut_gndzalp_c736ac4b/self-hosted-mcp-building-a-model-context-protocol-server-in-php-36a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
