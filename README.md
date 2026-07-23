@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Safety Screen Interrupted the Safety Test](https://dev.to/kenielzep97/the-safety-screen-interrupted-the-safety-test-1932)
-- [jar-cart v0.6.0: The Ultimate No-Build Package Manager for Java Gets Workspaces](https://dev.to/sudhanshuambastha/jar-cart-v060-the-ultimate-no-build-package-manager-for-java-gets-workspaces-4d6e)
-- [ESP32 Bowling Scoring System Beats a $120K Proprietary Quote](https://dev.to/circuitrocks/esp32-bowling-scoring-system-beats-a-120k-proprietary-quote-4i9p)
-- [Dev log #13 Hardening Kademlia: A week of p2p security architecture and Neovim maintenance](https://dev.to/yashksaini/dev-log-1-hardening-kademlia-a-week-of-p2p-security-architecture-and-neovim-maintenance-12jo)
-- [Character consistency isn&#39;t a seed trick: a 2-stage image pipeline that actually locks the face](https://dev.to/ownstackhq/character-consistency-isnt-a-seed-trick-a-2-stage-image-pipeline-that-actually-locks-the-face-p76)
+- [Building Profitable Niche Lifestyle Stores: A Developer&#39;s Guide to E-Commerce Essentials](https://dev.to/alexis_vitre_cd2e187da346/building-profitable-niche-lifestyle-stores-a-developers-guide-to-e-commerce-essentials-3dpc)
+- [Do I Need Ventilation for a Laser Engraver? Safety Facts You Must Know](https://dev.to/laser_spider_5d731c61bb90/do-i-need-ventilation-for-a-laser-engraver-safety-facts-you-must-know-4i5)
+- [Put the LLM last: I replaced a 7B model with a tiny Go classifier](https://dev.to/julesrobineau/put-the-llm-last-i-replaced-a-7b-model-with-a-tiny-go-classifier-5d9i)
+- [How AI Endpoints Change the Traditional API Flow](https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773)
+- [Python Fundamentals for a JavaScript Developer](https://dev.to/kkibet/python-fundamentals-for-a-javascript-developer-2mim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
