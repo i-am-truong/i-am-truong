@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Profitable Niche Lifestyle Stores: A Developer&#39;s Guide to E-Commerce Essentials](https://dev.to/alexis_vitre_cd2e187da346/building-profitable-niche-lifestyle-stores-a-developers-guide-to-e-commerce-essentials-3dpc)
-- [Do I Need Ventilation for a Laser Engraver? Safety Facts You Must Know](https://dev.to/laser_spider_5d731c61bb90/do-i-need-ventilation-for-a-laser-engraver-safety-facts-you-must-know-4i5)
-- [Put the LLM last: I replaced a 7B model with a tiny Go classifier](https://dev.to/julesrobineau/put-the-llm-last-i-replaced-a-7b-model-with-a-tiny-go-classifier-5d9i)
-- [How AI Endpoints Change the Traditional API Flow](https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773)
-- [Python Fundamentals for a JavaScript Developer](https://dev.to/kkibet/python-fundamentals-for-a-javascript-developer-2mim)
+- [Gemini 3.6 Flash: 17% fewer tokens, lower cost, and a Python cold start fix you didn&#39;t have to ask for](https://dev.to/devsignal/gemini-36-flash-17-fewer-tokens-lower-cost-and-a-python-cold-start-fix-you-didnt-have-to-ask-45ak)
+- [citesure init: start the paper with a citation integrity gate](https://dev.to/sybilgambleyyu/citesure-init-start-the-paper-with-a-citation-integrity-gate-1lj9)
+- [eBPF for Networking &lpar;XDP&rpar;](https://dev.to/godofgeeks/ebpf-for-networking-xdp-4d6d)
+- [I Let My AI Assistant Read and Reply to My Emails for a Week. Here’s What Actually Happened.](https://dev.to/twinkalp10/i-let-my-ai-assistant-read-and-reply-to-my-emails-for-a-week-heres-what-actually-happened-33ep)
+- [I thought desktop copilots would win, then I tried building agents on Android](https://dev.to/lars_winstand/i-thought-desktop-copilots-would-win-then-i-tried-building-agents-on-android-38j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
