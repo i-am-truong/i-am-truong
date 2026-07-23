@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing UUID v7 by hand: time-sortable primary keys &lpar;and the same-millisecond trap&rpar;](https://dev.to/takahiro_hashito_a1f3f0dc/implementing-uuid-v7-by-hand-time-sortable-primary-keys-and-the-same-millisecond-trap-1l71)
-- [Expiring Content: Put the Deadline in the Data, Not the Prose](https://dev.to/takahiro_hashito_a1f3f0dc/expiring-content-put-the-deadline-in-the-data-not-the-prose-27bh)
-- [Enforcing Content Tone With a Lint That Fails the Build](https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-content-tone-with-a-lint-that-fails-the-build-19jf)
-- [Understanding Next.js Page Caching &lpar;with a real example&rpar;](https://dev.to/nahamaalochi/understanding-nextjs-page-caching-with-a-real-example-10io)
-- [Why Your Unit Tests Aren&#39;t Enough &lpar;And How to Break Your Own API&rpar;](https://dev.to/david_oprea/why-your-unit-tests-arent-enough-and-how-to-break-your-own-api-5ge)
+- [NocoBase and the mystery of the shifted timestamps: MySQL vs PostgreSQL, measured](https://dev.to/stale_orbit/nocobase-and-the-mystery-of-the-shifted-timestamps-mysql-vs-postgresql-measured-4o4h)
+- [4 ways canvas text rendering breaks in multilingual apps &lpar;that en/ja testing will never catch&rpar;](https://dev.to/mxhlix/4-ways-canvas-text-rendering-breaks-in-multilingual-apps-that-enja-testing-will-never-catch-409n)
+- [Teaching Kiro to Paint: A Stateful Image-Editing Skill Built on Gemini&#39;s Interactions API and MCP](https://dev.to/aws-builders/teaching-kiro-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-362j)
+- [Pillar research says the AI coding agent sandbox leaks through trusted files](https://dev.to/leobaniak/pillar-research-says-the-ai-coding-agent-sandbox-leaks-through-trusted-files-23jk)
+- [Python&#39;s Object Model in Depth: Why Two Lines That Look the Same Behave Differently](https://dev.to/ameer_abdullah_68d48c8496/pythons-object-model-in-depth-why-two-lines-that-look-the-same-behave-differently-2oj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
