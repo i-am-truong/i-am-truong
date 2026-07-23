@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Form Tester: Building a Skill Pack for Your Whole Playwright Suite](https://dev.to/aswani25/beyond-the-form-tester-building-a-skill-pack-for-your-whole-playwright-suite-gk5)
-- [s3fifo 1.0: Zero-Allocation S3-FIFO Cache for Node.js is Ready for Production](https://dev.to/jeongseop_byeon_9d8f61627/s3fifo-10-zero-allocation-s3-fifo-cache-for-nodejs-is-ready-for-production-27oc)
-- [A Flaky Test Is a Corrupted Reward Signal](https://dev.to/tmfrisinger/a-flaky-test-is-a-corrupted-reward-signal-44mk)
-- [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://dev.to/technoblogger14o3/ai-companies-are-trying-to-hide-a-staggering-amount-of-debt-3hfi)
-- [MedSpeak](https://dev.to/blackydoe/medspeak-3134)
+- [BorgShield: Sistema de Backup Linux Eficiente, Fiable y Verificable](https://dev.to/arcadio_ortega/borgshield-sistema-de-backup-linux-eficiente-fiable-y-verificable-4iad)
+- [Why Dark Mode Should Not Be a Second CSS File](https://dev.to/hasansarwer/why-dark-mode-should-not-be-a-second-css-file-1c5k)
+- [Next-Token Prediction: How an AI Actually Writes Text &lpar;Not Magic — Just Probability&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/next-token-prediction-how-an-ai-actually-writes-text-not-magic-just-probability-53dd)
+- [Frontend-Only SaaS: The Rise of Static Utility Sites](https://dev.to/yobox/frontend-only-saas-the-rise-of-static-utility-sites-i61)
+- [What I Learned About Token Design on Solana as a Web2 Developer](https://dev.to/tanisha_fonseca/what-i-learned-about-token-design-on-solana-as-a-web2-developer-2he1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
