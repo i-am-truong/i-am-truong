@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CI/CD: Building Agentic Validation and Inspection Layers with LangGraph, MCP, and A2A](https://dev.to/nikhil_ramank_152ca48266/beyond-cicd-building-agentic-validation-and-inspection-layers-with-langgraph-mcp-and-a2a-30f0)
-- [Beyond Binaural Beats: Building an Adaptive, Verifiable Audio Entrainment Platform](https://dev.to/anulum/beyond-binaural-beats-building-an-adaptive-verifiable-audio-entrainment-platform-3n6f)
-- [Database Migrations: Managing Schema Changes as Version-Controlled Code](https://dev.to/rhuturaj_takle/database-migrations-managing-schema-changes-as-version-controlled-code-1o18)
-- [Open Design makes your coding agent the design engine and exports real files](https://dev.to/renolu/open-design-makes-your-coding-agent-the-design-engine-and-exports-real-files-324b)
-- [Why AI-Generated GIS Code Can Run Successfully and Still Be Wrong](https://dev.to/muend/why-ai-generated-gis-code-can-run-successfully-and-still-be-wrong-473k)
+- [Beyond the Form Tester: Building a Skill Pack for Your Whole Playwright Suite](https://dev.to/aswani25/beyond-the-form-tester-building-a-skill-pack-for-your-whole-playwright-suite-gk5)
+- [s3fifo 1.0: Zero-Allocation S3-FIFO Cache for Node.js is Ready for Production](https://dev.to/jeongseop_byeon_9d8f61627/s3fifo-10-zero-allocation-s3-fifo-cache-for-nodejs-is-ready-for-production-27oc)
+- [A Flaky Test Is a Corrupted Reward Signal](https://dev.to/tmfrisinger/a-flaky-test-is-a-corrupted-reward-signal-44mk)
+- [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://dev.to/technoblogger14o3/ai-companies-are-trying-to-hide-a-staggering-amount-of-debt-3hfi)
+- [MedSpeak](https://dev.to/blackydoe/medspeak-3134)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
