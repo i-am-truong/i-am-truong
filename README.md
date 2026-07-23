@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a Solidity contract to mainnet? Do this 20-minute self-check first](https://dev.to/juan23z/shipping-a-solidity-contract-to-mainnet-do-this-20-minute-self-check-first-399o)
-- [Claude Opus/Sonnet Voice Mode, Open-Weight Model Cost Savings, &amp; GitHub AI Agent Security](https://dev.to/soytuber/claude-opussonnet-voice-mode-open-weight-model-cost-savings-github-ai-agent-security-4pmc)
-- [B+tree height after delete: PostgreSQL fast root](https://dev.to/franckpachot/btree-height-after-delete-oracle-rebuild-vs-postgresql-fastroot-1ia4)
-- [I Spent 3 Weeks Debugging Rate Limits Before I Realized the Problem Wasn&#39;t My Code](https://dev.to/raisereturn/i-spent-3-weeks-debugging-rate-limits-before-i-realized-the-problem-wasnt-my-code-51i1)
-- [I keep finding out about API breaking changes from production errors, so I&#39;m building a changelog watcher](https://dev.to/karlo_perini_c4d5df8f7d/i-keep-finding-out-about-api-breaking-changes-from-production-errors-so-im-building-a-changelog-24le)
+- [Online Reinforcement Learning for Large Language Models](https://dev.to/kapusto/online-reinforcement-learning-for-large-language-models-4jme)
+- [5 ARB and ICU edge cases I wish I&#39;d tested earlier](https://dev.to/badtod/5-arb-and-icu-edge-cases-i-wish-id-tested-earlier-4iph)
+- [Migrating a live x402 service from V1 to V2 on Base mainnet](https://dev.to/ukenal/migrating-a-live-x402-service-from-v1-to-v2-on-base-mainnet-1mg9)
+- [MythX shut down in March and nothing replaced it so I built something](https://dev.to/ninjafromqueens/mythx-shut-down-in-march-and-nothing-replaced-it-so-i-built-something-2ccp)
+- [Modeling traffic offload in a small cloud architecture puzzle](https://dev.to/cloudarchsimulator/modeling-traffic-offload-in-a-small-cloud-architecture-puzzle-1ke0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
