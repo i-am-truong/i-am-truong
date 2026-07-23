@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect Event Loop Freezes in Node.js](https://dev.to/jsak/how-to-detect-event-loop-freezes-in-nodejs-347o)
-- [Letting a stranger contact a car owner without giving them the number](https://dev.to/digital_profiletap/letting-a-stranger-contact-a-car-owner-without-giving-them-the-number-204k)
-- [How to Add Watermarks to PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3k4n)
-- [Intoducing EasyInvoicePDF - a Free and Open-Source Invoice Generator](https://dev.to/vladsez/intoducing-easyinvoicepdf-a-free-and-open-source-invoice-generator-2kc7)
-- [How to Fix &quot;Duplicate class ... found in modules&quot; in React Native &amp; Expo](https://dev.to/asta_dev/how-to-fix-duplicate-class-found-in-modules-in-react-native-expo-1gg7)
+- [Beyond CI/CD: Building Agentic Validation and Inspection Layers with LangGraph, MCP, and A2A](https://dev.to/nikhil_ramank_152ca48266/beyond-cicd-building-agentic-validation-and-inspection-layers-with-langgraph-mcp-and-a2a-30f0)
+- [Beyond Binaural Beats: Building an Adaptive, Verifiable Audio Entrainment Platform](https://dev.to/anulum/beyond-binaural-beats-building-an-adaptive-verifiable-audio-entrainment-platform-3n6f)
+- [Database Migrations: Managing Schema Changes as Version-Controlled Code](https://dev.to/rhuturaj_takle/database-migrations-managing-schema-changes-as-version-controlled-code-1o18)
+- [Open Design makes your coding agent the design engine and exports real files](https://dev.to/renolu/open-design-makes-your-coding-agent-the-design-engine-and-exports-real-files-324b)
+- [Why AI-Generated GIS Code Can Run Successfully and Still Be Wrong](https://dev.to/muend/why-ai-generated-gis-code-can-run-successfully-and-still-be-wrong-473k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
