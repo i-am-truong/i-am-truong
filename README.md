@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Watermelon Effect: How My AI Scored 94% in Testing But Only 22.2% in Real Use](https://dev.to/kumar_swamy_0b18518741d91/the-watermelon-effect-how-my-ai-scored94-in-testing-but-only-222-in-real-use-42ki)
-- [The Bigger Your CLAUDE.md Gets, the Slower Claude Code Runs — Measuring Context Injection Bytes Weekly to Catch Degradation Early](https://dev.to/bokuwalily/the-bigger-your-claudemd-gets-the-slower-claude-code-runs-measuring-context-injection-bytes-j84)
-- [Chatbot Doctors Without Regulators](https://dev.to/rawveg/chatbot-doctors-without-regulators-524)
-- [Installing Composer Packages in WordPress Without SSH](https://dev.to/jeansmaug/installing-composer-packages-in-wordpress-without-ssh-5dmk)
-- [Your AI-contribution policy is prose. Here&#39;s the enforceable half.](https://dev.to/sjh9714/your-ai-contribution-policy-is-prose-heres-the-enforceable-half-570n)
+- [Removing a Photo&#39;s Background in the Browser, With No Upload: AI Licenses, ONNX Models, and a Frozen Tab](https://dev.to/androve2k/removing-a-photos-background-in-the-browser-with-no-upload-ai-licenses-onnx-models-and-a-1cc0)
+- [Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini&#39;s Interactions API and MCP](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1)
+- [A nova fase dos agentes de IA: menos chat, mais operação](https://dev.to/lucas_fogaca/a-nova-fase-dos-agentes-de-ia-menos-chat-mais-operacao-1i50)
+- [I built topolines, an animated topographic contour background for React](https://dev.to/idlecyrex/topolines-animated-topographic-contour-backgrounds-for-react-5dh0)
+- [Knip Keeps My JS/TS Dependencies Honest &lpar;I Wish Python Had It&rpar;](https://dev.to/nhirschfeld/knip-keeps-my-jsts-dependencies-honest-i-wish-python-had-it-11fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
