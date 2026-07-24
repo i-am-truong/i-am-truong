@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebMCP is shaping up as a powerful new standard for AI-driven browsing](https://dev.to/devsk001/webmcp-is-shaping-up-as-a-powerful-new-standard-for-ai-driven-browsing-52no)
-- [When Your AI Duplicates Every Field: A Story About Idempotency](https://dev.to/keofung/when-your-ai-duplicates-every-field-a-story-about-idempotency-3jj6)
-- [DOCKER](https://dev.to/prash_1_9a3a6266c93cd7276/docker-50if)
-- [Reconcile before you round: lessons from a 14M-row open data study](https://dev.to/outsendxyz/reconcile-before-you-round-lessons-from-a-14m-row-open-data-study-12b1)
-- [Just for Fun: Fear and Loathing in the Age of Coding Agents](https://dev.to/remojansen/just-for-fun-fear-and-loathing-in-the-age-of-coding-agents-3c7i)
+- [The Watermelon Effect: How My AI Scored 94% in Testing But Only 22.2% in Real Use](https://dev.to/kumar_swamy_0b18518741d91/the-watermelon-effect-how-my-ai-scored94-in-testing-but-only-222-in-real-use-42ki)
+- [The Bigger Your CLAUDE.md Gets, the Slower Claude Code Runs — Measuring Context Injection Bytes Weekly to Catch Degradation Early](https://dev.to/bokuwalily/the-bigger-your-claudemd-gets-the-slower-claude-code-runs-measuring-context-injection-bytes-j84)
+- [Chatbot Doctors Without Regulators](https://dev.to/rawveg/chatbot-doctors-without-regulators-524)
+- [Installing Composer Packages in WordPress Without SSH](https://dev.to/jeansmaug/installing-composer-packages-in-wordpress-without-ssh-5dmk)
+- [Your AI-contribution policy is prose. Here&#39;s the enforceable half.](https://dev.to/sjh9714/your-ai-contribution-policy-is-prose-heres-the-enforceable-half-570n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
