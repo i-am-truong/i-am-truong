@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Detect in the Application, Block at the Edge: A Feedback Loop with AWS WAF and CloudFront KVS](https://dev.to/aws-builders/detect-in-the-application-block-at-the-edge-a-feedback-loop-with-aws-waf-and-cloudfront-kvs-5ck3)
-- [One Copy, Two Engines: Architecting a Governed Lakehouse Across Fabric and Azure Databricks](https://dev.to/gabrielhca/one-copy-two-engines-architecting-a-governed-lakehouse-across-fabric-and-azure-databricks-351f)
-- [The checklist item that made 90 files permanently unfinished](https://dev.to/liam-dev/the-checklist-item-that-made-90-files-permanently-unfinished-4a3i)
-- [AMD Advancing AI 2026: Software, Hardware &amp; Framework, Unified](https://dev.to/earlgreyhot1701d/amd-advancing-ai-2026-software-hardware-framework-unified-2d2j)
-- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
+- [Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover &amp; Failback](https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc)
+- [From Infrastructure to Open Source: Lessons Learned Building 4 Security &amp; Automation Tools](https://dev.to/olegvdv/from-infrastructure-to-open-source-lessons-learned-building-4-security-automation-tools-49he)
+- [Quantum Information Processing: Foundations - Part 3](https://dev.to/sirneij/quantum-information-processing-foundations-part-3-2ea5)
+- [Getting ready for WordPress 7.0 — three things to check now: PHP requirements, FSE migration, and editor extensions](https://dev.to/susumun/getting-ready-for-wordpress-70-three-things-to-check-now-php-requirements-fse-migration-and-45k0)
+- [What Redis Is and When to Use It](https://dev.to/moose978/what-redis-is-and-when-to-use-it-56kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
