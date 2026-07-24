@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover &amp; Failback](https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc)
-- [From Infrastructure to Open Source: Lessons Learned Building 4 Security &amp; Automation Tools](https://dev.to/olegvdv/from-infrastructure-to-open-source-lessons-learned-building-4-security-automation-tools-49he)
-- [Quantum Information Processing: Foundations - Part 3](https://dev.to/sirneij/quantum-information-processing-foundations-part-3-2ea5)
-- [Getting ready for WordPress 7.0 — three things to check now: PHP requirements, FSE migration, and editor extensions](https://dev.to/susumun/getting-ready-for-wordpress-70-three-things-to-check-now-php-requirements-fse-migration-and-45k0)
-- [What Redis Is and When to Use It](https://dev.to/moose978/what-redis-is-and-when-to-use-it-56kk)
+- [What Is AI Agent Tool Calling? MCP, Function Calling, and A2A Explained &lpar;2026&rpar;](https://dev.to/arcade/ai-agent-tool-calling-mcp-a2a-23l6)
+- [How Upgrading Door Handles Can Transform Your Home&#39;s Style and Function](https://dev.to/micheljee/how-upgrading-door-handles-can-transform-your-homes-style-and-function-5hl8)
+- [Don&#39;t Fragment My AI Stack: Why Shutting Off Chinese Open-Weight Models Is a Bad Idea](https://dev.to/hanzla/dont-fragment-my-ai-stack-why-shutting-off-chinese-open-weight-models-is-a-bad-idea-3c08)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2)
+- [Compilable and Executable Pseudocode &lpar;spec&rpar; Solves AI Coding Hallucinations](https://dev.to/esproc_spl/compilable-and-executable-pseudocode-spec-solves-ai-coding-hallucinations-160f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
