@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My idle ClickHouse was merging 11 million rows every 30 seconds](https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i)
-- [Rod Johnson Is Back - and He&#39;s Bringing AI Agents to Java](https://dev.to/jamilxt/rod-johnson-is-back-and-hes-bringing-ai-agents-to-java-2hpa)
-- [Deploying Rails 8 on Render Free Tier: Bypassing the 512MB RAM and Read-Only Storage Limits](https://dev.to/tosane932/deploying-rails-8-on-render-free-tier-bypassing-the-512mb-ram-and-read-only-storage-limits-3agd)
-- [I Audited 12 Open Source JWT Implementations and Found the Same 6 Mistakes](https://dev.to/swajannn/i-audited-12-open-source-jwt-implementations-and-found-the-same-6-mistakes-3jj9)
-- [I built Commitea: Git and GitHub explained in Spanish, with an interactive visualizer](https://dev.to/davidbc01/i-built-commitea-git-and-github-explained-in-spanish-with-an-interactive-visualizer-2hom)
+- [AI Can Write the Test. Your Team Owns the Maintenance](https://dev.to/orbitpickle307/ai-can-write-the-test-your-team-owns-the-maintenance-4ehn)
+- [Beyond The Single-Agent Ceiling: Scale Out With MCP Agent Teams](https://dev.to/aws-heroes/beyond-the-single-agent-ceiling-scale-out-with-mcp-agent-teams-80b)
+- [Your Test Suite Isn&#39;t Slow. It&#39;s Accumulating Decisions](https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080)
+- [Pytest - Production test Coverage](https://dev.to/felipe_de_godoy/pytest-pt4-production-test-coverage-6hn)
+- [Why a Notion Export .zip Is NOT a Backup &lpar;And How to Actually Restore Relations, Rollups, and Views&rpar;](https://dev.to/cryptosander/why-a-notion-export-zip-is-not-a-backup-and-how-to-actually-restore-relations-rollups-and-views-7gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
