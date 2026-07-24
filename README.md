@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Part of Refresh Token Implementation that every developers should know](https://dev.to/nileshcodehub/the-hidden-part-of-refresh-token-implementation-that-every-developers-should-know-260b)
-- [The prompt didn&#39;t replace drag &amp; drop](https://dev.to/goodbarber/the-prompt-didnt-replace-drag-drop-1plb)
-- [Back-of-the-envelope estimation for system design interviews](https://dev.to/tieroneprep/back-of-the-envelope-estimation-for-system-design-interviews-2k6e)
-- [FireViston TV: Android App &amp; Streaming Server for the Living Room](https://dev.to/akshay_nikhare/fireviston-tv-android-app-streaming-server-for-the-living-room-48od)
-- [How a Single beforeEach Killed Our CI for 36 Hours](https://dev.to/akshay_nikhare/how-a-single-beforeeach-killed-our-ci-for-36-hours-1fda)
+- [WebMCP is shaping up as a powerful new standard for AI-driven browsing](https://dev.to/devsk001/webmcp-is-shaping-up-as-a-powerful-new-standard-for-ai-driven-browsing-52no)
+- [When Your AI Duplicates Every Field: A Story About Idempotency](https://dev.to/keofung/when-your-ai-duplicates-every-field-a-story-about-idempotency-3jj6)
+- [DOCKER](https://dev.to/prash_1_9a3a6266c93cd7276/docker-50if)
+- [Reconcile before you round: lessons from a 14M-row open data study](https://dev.to/outsendxyz/reconcile-before-you-round-lessons-from-a-14m-row-open-data-study-12b1)
+- [Just for Fun: Fear and Loathing in the Age of Coding Agents](https://dev.to/remojansen/just-for-fun-fear-and-loathing-in-the-age-of-coding-agents-3c7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
