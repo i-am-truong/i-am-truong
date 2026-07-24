@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Privacy-Friendly Image Converter in the Browser](https://dev.to/waseverinlabs/building-a-privacy-friendly-image-converter-in-the-browser-3i4i)
-- [Had a great time answering all your questions! Let me know if I should another AMA soon!](https://dev.to/canro91/had-a-great-time-answering-all-your-questions-let-me-know-if-i-should-another-ama-soon-301d)
-- [Common Mistakes Developers Make When Detecting Website Technologies](https://dev.to/toolsura/common-mistakes-developers-make-when-detecting-website-technologies-3idf)
-- [OpenAI vs Anthropic API for Production SaaS Features: A Technical Comparison](https://dev.to/faisal_nadeem_752520c3e03/openai-vs-anthropic-api-for-production-saas-features-a-technical-comparison-7jp)
-- [Reading an Audit Contest Scope Like an Auditor: Invariants First, Code Second](https://dev.to/pavelespitia/reading-an-audit-contest-scope-like-an-auditor-invariants-first-code-second-4edo)
+- [Integrating AeroPay SDK in React Native: A Step-by-Step Guide](https://dev.to/amitkumar13/integrating-aeropay-sdk-in-react-native-a-step-by-step-guide-3ifj)
+- [myCat escaped to opensource](https://dev.to/yumiaura/mycat-escaped-to-opensource-2dl1)
+- [Best Tools for Managing Parallel AI Coding Agents in 2026](https://dev.to/stravukarl/best-tools-for-managing-parallel-ai-coding-agents-in-2026-14l8)
+- [Build a SHEIN price tracker in 20 minutes with n8n and an Apify actor](https://dev.to/votiakov/build-a-shein-price-tracker-in-20-minutes-with-n8n-and-an-apify-actor-1ejd)
+- [Claude Code hooks explained: config structure, matchers, and a copy-paste PreToolUse guard](https://dev.to/rulestack/claude-code-hooks-explained-config-structure-matchers-and-a-copy-paste-pretooluse-guard-58jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
