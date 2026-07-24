@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First Model Context Protocol &lpar;MCP&rpar; Server with TypeScript and Zod](https://dev.to/programmingcentral/building-your-first-model-context-protocol-mcp-server-with-typescript-and-zod-2non)
-- [Parse AI Coding JSONL Safely Before You Infer Completion](https://dev.to/agentis/parse-ai-coding-jsonl-safely-before-you-infer-completion-8j8)
-- [AI-Engg Episode 1 - script](https://dev.to/icraftcode/ai-engg-episode-1-script-2fkp)
-- [Character Consistency Across 24 Pages of a Generated Picture Book](https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80)
-- [I fixed the same kind of mistake five times this month before I changed how I work](https://dev.to/mjmirza/i-fixed-the-same-kind-of-mistake-five-times-this-month-before-i-changed-how-i-work-hec)
+- [My idle ClickHouse was merging 11 million rows every 30 seconds](https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i)
+- [Rod Johnson Is Back - and He&#39;s Bringing AI Agents to Java](https://dev.to/jamilxt/rod-johnson-is-back-and-hes-bringing-ai-agents-to-java-2hpa)
+- [Deploying Rails 8 on Render Free Tier: Bypassing the 512MB RAM and Read-Only Storage Limits](https://dev.to/tosane932/deploying-rails-8-on-render-free-tier-bypassing-the-512mb-ram-and-read-only-storage-limits-3agd)
+- [I Audited 12 Open Source JWT Implementations and Found the Same 6 Mistakes](https://dev.to/swajannn/i-audited-12-open-source-jwt-implementations-and-found-the-same-6-mistakes-3jj9)
+- [I built Commitea: Git and GitHub explained in Spanish, with an interactive visualizer](https://dev.to/davidbc01/i-built-commitea-git-and-github-explained-in-spanish-with-an-interactive-visualizer-2hom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
