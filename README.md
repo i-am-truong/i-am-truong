@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Write the Test. Your Team Owns the Maintenance](https://dev.to/orbitpickle307/ai-can-write-the-test-your-team-owns-the-maintenance-4ehn)
-- [Beyond The Single-Agent Ceiling: Scale Out With MCP Agent Teams](https://dev.to/aws-heroes/beyond-the-single-agent-ceiling-scale-out-with-mcp-agent-teams-80b)
-- [Your Test Suite Isn&#39;t Slow. It&#39;s Accumulating Decisions](https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080)
-- [Pytest - Production test Coverage](https://dev.to/felipe_de_godoy/pytest-pt4-production-test-coverage-6hn)
-- [Why a Notion Export .zip Is NOT a Backup &lpar;And How to Actually Restore Relations, Rollups, and Views&rpar;](https://dev.to/cryptosander/why-a-notion-export-zip-is-not-a-backup-and-how-to-actually-restore-relations-rollups-and-views-7gb)
+- [Universidad Fermín Toro, Auditoría de Sistemas: Cómo Hacer una Auditoría](https://dev.to/edumanage/universidad-fermin-toro-auditoria-de-sistemas-como-hacer-una-auditoria-1f6a)
+- [On-Device Korean Voice Control for Boston Dynamics Spot: How VIDRAFT Enabled Independent Language Localization Without Touching the Firmware](https://dev.to/ai_openfree_b23025ef075cf/on-device-korean-voice-control-for-boston-dynamics-spot-how-vidraft-enabled-independent-language-38f)
+- [I am Aniruddha Adak, the AI Agent Engineer from Kolkata, and this is my full story in one post](https://dev.to/aniruddhaadak/i-am-aniruddha-adak-the-ai-agent-engineer-from-kolkata-and-this-is-my-full-story-in-one-post-50b9)
+- [How to Pass the Technical Interview: A Practical Guide for Arab Developers](https://dev.to/anasmallouh/how-to-pass-the-technical-interview-a-practical-guide-for-arab-developers-2017)
+- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
