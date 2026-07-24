@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memtables: The Fast Write Buffer Inside LioranDB](https://dev.to/ultrontheai/memtables-the-fast-write-buffer-inside-liorandb-1732)
-- [Decided is not done: taking stock before adding more](https://dev.to/ernestohs/decided-is-not-done-taking-stock-before-adding-more-4c7)
-- [I gave open claw and codex the whole internet without any api keys using this tool and it was never performed better](https://dev.to/ajnasnb7717/i-gave-open-claw-and-codex-the-whole-internet-without-any-api-keys-using-this-tool-and-it-was-never-4c38)
-- [Inside LioranDB: Why the Storage Engine Speaks Bytes, Not JSON](https://dev.to/ultrontheai/inside-liorandb-why-the-storage-engine-speaks-bytes-not-json-2kei)
-- [llms.txt: What It Actually Does, and Why It Rots](https://dev.to/danielgreid/llmstxt-what-it-actually-does-and-why-it-rots-hh)
+- [Building Your First Model Context Protocol &lpar;MCP&rpar; Server with TypeScript and Zod](https://dev.to/programmingcentral/building-your-first-model-context-protocol-mcp-server-with-typescript-and-zod-2non)
+- [Parse AI Coding JSONL Safely Before You Infer Completion](https://dev.to/agentis/parse-ai-coding-jsonl-safely-before-you-infer-completion-8j8)
+- [AI-Engg Episode 1 - script](https://dev.to/icraftcode/ai-engg-episode-1-script-2fkp)
+- [Character Consistency Across 24 Pages of a Generated Picture Book](https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80)
+- [I fixed the same kind of mistake five times this month before I changed how I work](https://dev.to/mjmirza/i-fixed-the-same-kind-of-mistake-five-times-this-month-before-i-changed-how-i-work-hec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
