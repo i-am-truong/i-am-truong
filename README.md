@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Kubernetes Dashboard and Managing Cluster Resources](https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426)
-- [The Case of the Disappearing Free Trial](https://dev.to/highcenburg/the-case-of-the-disappearing-free-trial-26m2)
-- [Deploying Strapi on a Kubernetes Cluster](https://dev.to/vultr/deploying-strapi-on-a-kubernetes-cluster-384b)
-- [Deploying MariaDB on Kubernetes](https://dev.to/vultr/deploying-mariadb-on-kubernetes-408a)
-- [Deploying CockroachDB on Kubernetes](https://dev.to/vultr/deploying-cockroachdb-on-kubernetes-5ch8)
+- [Building a Privacy-Friendly Image Converter in the Browser](https://dev.to/waseverinlabs/building-a-privacy-friendly-image-converter-in-the-browser-3i4i)
+- [Had a great time answering all your questions! Let me know if I should another AMA soon!](https://dev.to/canro91/had-a-great-time-answering-all-your-questions-let-me-know-if-i-should-another-ama-soon-301d)
+- [Common Mistakes Developers Make When Detecting Website Technologies](https://dev.to/toolsura/common-mistakes-developers-make-when-detecting-website-technologies-3idf)
+- [OpenAI vs Anthropic API for Production SaaS Features: A Technical Comparison](https://dev.to/faisal_nadeem_752520c3e03/openai-vs-anthropic-api-for-production-saas-features-a-technical-comparison-7jp)
+- [Reading an Audit Contest Scope Like an Auditor: Invariants First, Code Second](https://dev.to/pavelespitia/reading-an-audit-contest-scope-like-an-auditor-invariants-first-code-second-4edo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
