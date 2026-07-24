@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Removing a Photo&#39;s Background in the Browser, With No Upload: AI Licenses, ONNX Models, and a Frozen Tab](https://dev.to/androve2k/removing-a-photos-background-in-the-browser-with-no-upload-ai-licenses-onnx-models-and-a-1cc0)
-- [Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini&#39;s Interactions API and MCP](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1)
-- [A nova fase dos agentes de IA: menos chat, mais operação](https://dev.to/lucas_fogaca/a-nova-fase-dos-agentes-de-ia-menos-chat-mais-operacao-1i50)
-- [I built topolines, an animated topographic contour background for React](https://dev.to/idlecyrex/topolines-animated-topographic-contour-backgrounds-for-react-5dh0)
-- [Knip Keeps My JS/TS Dependencies Honest &lpar;I Wish Python Had It&rpar;](https://dev.to/nhirschfeld/knip-keeps-my-jsts-dependencies-honest-i-wish-python-had-it-11fp)
+- [Deploying Kubernetes Dashboard and Managing Cluster Resources](https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426)
+- [The Case of the Disappearing Free Trial](https://dev.to/highcenburg/the-case-of-the-disappearing-free-trial-26m2)
+- [Deploying Strapi on a Kubernetes Cluster](https://dev.to/vultr/deploying-strapi-on-a-kubernetes-cluster-384b)
+- [Deploying MariaDB on Kubernetes](https://dev.to/vultr/deploying-mariadb-on-kubernetes-408a)
+- [Deploying CockroachDB on Kubernetes](https://dev.to/vultr/deploying-cockroachdb-on-kubernetes-5ch8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
