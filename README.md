@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is AI Agent Tool Calling? MCP, Function Calling, and A2A Explained &lpar;2026&rpar;](https://dev.to/arcade/ai-agent-tool-calling-mcp-a2a-23l6)
-- [How Upgrading Door Handles Can Transform Your Home&#39;s Style and Function](https://dev.to/micheljee/how-upgrading-door-handles-can-transform-your-homes-style-and-function-5hl8)
-- [Don&#39;t Fragment My AI Stack: Why Shutting Off Chinese Open-Weight Models Is a Bad Idea](https://dev.to/hanzla/dont-fragment-my-ai-stack-why-shutting-off-chinese-open-weight-models-is-a-bad-idea-3c08)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2)
-- [Compilable and Executable Pseudocode &lpar;spec&rpar; Solves AI Coding Hallucinations](https://dev.to/esproc_spl/compilable-and-executable-pseudocode-spec-solves-ai-coding-hallucinations-160f)
+- [The Hidden Part of Refresh Token Implementation that every developers should know](https://dev.to/nileshcodehub/the-hidden-part-of-refresh-token-implementation-that-every-developers-should-know-260b)
+- [The prompt didn&#39;t replace drag &amp; drop](https://dev.to/goodbarber/the-prompt-didnt-replace-drag-drop-1plb)
+- [Back-of-the-envelope estimation for system design interviews](https://dev.to/tieroneprep/back-of-the-envelope-estimation-for-system-design-interviews-2k6e)
+- [FireViston TV: Android App &amp; Streaming Server for the Living Room](https://dev.to/akshay_nikhare/fireviston-tv-android-app-streaming-server-for-the-living-room-48od)
+- [How a Single beforeEach Killed Our CI for 36 Hours](https://dev.to/akshay_nikhare/how-a-single-beforeeach-killed-our-ci-for-36-hours-1fda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
