@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a production AI agent as a Honda service advisor. Then I read the textbook.](https://dev.to/andersonasprilla/i-built-a-production-ai-agent-as-a-honda-service-advisor-then-i-read-the-textbook-a72)
-- [Selection Sort Explained With a Bookshelf Story &lpar;With Code&rpar;](https://dev.to/krunalkanojiya/selection-sort-explained-with-a-bookshelf-story-with-code-4ci9)
-- [AWS for Software Testing: Complete Enterprise Guide](https://dev.to/himanshuai/aws-for-software-testing-complete-enterprise-guide-4i4p)
-- [I Built a Tool That Shows You How Much Money You&#39;re Losing Per Minute of Downtime](https://dev.to/boolean_array_dc0576a953f/i-built-a-tool-that-shows-you-how-much-money-youre-losing-per-minute-of-downtime-3ogc)
-- [Anyone heard of Qoder?](https://dev.to/unitbuilds/anyone-heard-of-qoder-2e3k)
+- [I Built an AI Video Generator with Next.js and Got My First Paid User in 3 Months](https://dev.to/jaspersmith/i-built-an-ai-video-generator-with-nextjs-and-got-my-first-paid-user-in-3-months-23kd)
+- [The Test That Only Failed in CI, Never Locally](https://dev.to/jeffthoensen/the-test-that-only-failed-in-ci-never-locally-4fj3)
+- [When SearchValues&lt;T&gt; Actually Pays Off](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l)
+- [How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev](https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98)
+- [REST-style GraphQL — one line of Java handles filtering + sorting + pagination + stats + CSV export.](https://dev.to/troyzhxu/rest-style-graphql-one-line-of-java-handles-filtering-sorting-pagination-stats-csv-export-3598)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
