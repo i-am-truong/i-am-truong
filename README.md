@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change](https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh)
-- [Terraform e YAML - Padrões Avançados e Escalabilidade](https://dev.to/apsis-cc/terraform-e-yaml-padroes-avancados-e-escalabilidade-28aa)
-- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-2lfh)
-- [Your OpenAPI spec is already a test plan — here&#39;s how to turn it into Playwright tests automatically](https://dev.to/j0ny3nglish/your-openapi-spec-is-already-a-test-plan-heres-how-to-turn-it-into-playwright-tests-automatically-1mp6)
-- [Samba File Sharing on Linux: Setting Up Shares With and Without Authentication](https://dev.to/sara_xd_60faa231e7be/samba-file-sharing-on-linux-setting-up-shares-with-and-without-authentication-ld2)
+- [I scanned 1,775 websites for GDPR consent leaks. Here&#39;s what fires before you click anything](https://dev.to/aaresvic/i-scanned-1775-websites-for-gdpr-consent-leaks-heres-what-fires-before-you-click-anything-21ak)
+- [I built a collection of open-source Eve agents for AI based on the Vercel framework](https://dev.to/zoltanszogyenyi/i-built-a-collection-of-open-source-eve-agents-for-ai-based-on-the-vercel-framework-55ab)
+- [Why I Built a Security Scanner That Never Touches the Target](https://dev.to/resul_oztas/why-i-built-a-security-scanner-that-never-touches-the-target-4123)
+- [The Biggest Flaw in My AI Evaluation Wasn&#39;t the Models. It Was My Scorecard.](https://dev.to/asiaostrich/the-biggest-flaw-in-my-ai-evaluation-wasnt-the-models-it-was-my-scorecard-556d)
+- [Protect Your Python Bots From Failing Over and Over Again](https://dev.to/john_wick_47/protect-your-python-bots-from-failing-over-and-over-again-27a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
