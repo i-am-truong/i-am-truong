@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Policy to Pipeline: Making Compliance an Engineering Property](https://dev.to/anusha_mukka/from-policy-to-pipeline-making-compliance-an-engineering-property-35ap)
-- [I am just starting to code. But....](https://dev.to/erowidentertainmentllc/i-am-just-starting-to-code-but-1f4p)
-- [Cluster 1 do Clean Code: #1 consistência, #2 nomes, #3 estilo, #4 métodos/classes/arquivos pequenos, #6 complexidade ciclomática](https://dev.to/yuripeixinho/cluster-1-do-clean-code-1-consistencia-2-nomes-3-estilo-4-metodosclassesarquivos-2328)
-- [Quantization vs Distillation](https://dev.to/vahid_aghajani_60ce9dbec9/quantization-vs-distillation-26ba)
-- [Hello. Greetings to everyone here
-My name is Emmanuel, and I&#39;m here to get more insight of website development and design](https://dev.to/emmanuel_john_207ba41d31d/hello-greetings-to-everyone-here-my-name-is-emmanuel-and-im-here-to-get-more-insight-of-website-3h2p)
+- [What the WIPO DL-101 and DL-170 Certificates Actually Teach You: An Engineer&#39;s Notes on General IP and Patent Essentials](https://dev.to/ngtduc693/what-the-wipo-dl-101-and-dl-170-certificates-actually-teach-you-an-engineers-notes-on-general-ip-4c6n)
+- [How to Raise Your Vocal Pitch with AI &lpar;Free Browser-Based Tool&rpar;](https://dev.to/kaleem_ullah_6698699/how-to-raise-your-vocal-pitch-with-ai-free-browser-based-tool-2j8f)
+- [&quot;Take the Well-Maintained Road Over Risky Shortcuts&quot;: Ditching Web Scraping for an AI App Powered by Official RSS &amp; Gemini &lpar;Lessons from Logistics&rpar;](https://dev.to/tosane932/take-the-well-maintained-road-over-risky-shortcuts-ditching-web-scraping-for-an-ai-app-powered-3gn4)
+- [I built a tool to prove my multi-agent harness was worth it. It told me it wasn&#39;t.](https://dev.to/agentdev9/i-built-a-tool-to-prove-my-multi-agent-harness-was-worth-it-it-told-me-it-wasnt-do)
+- [Vibium Under the Hood](https://dev.to/majdizlitni/vibium-under-the-hood-4k5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
