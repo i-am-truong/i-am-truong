@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [12 things to check before you ship your vibe-coded app](https://dev.to/decivo/12-things-to-check-before-you-ship-your-vibe-coded-app-n0p)
-- [I Used the OpenAI SDK—and Claude Answered. Here’s Why.](https://dev.to/aekanun/i-used-the-openai-sdk-and-claude-answered-heres-why-1l8o)
-- [A Typosquat Package Almost Got My Keys: Dissecting the Attack Safely](https://dev.to/pavelespitia/a-typosquat-package-almost-got-my-keys-dissecting-the-attack-safely-4pbn)
-- [How to Track What Hedge Funds Are Buying — Directly From Your AI Agent](https://dev.to/james-alphasmo/how-to-track-what-hedge-funds-are-buying-directly-from-your-ai-agent-2jij)
-- [ENS Shows Why Reputation Systems Are Harder Than Scores](https://dev.to/antfarm-official/ens-shows-why-reputation-systems-are-harder-than-scores-1fl6)
+- [I built a production AI agent as a Honda service advisor. Then I read the textbook.](https://dev.to/andersonasprilla/i-built-a-production-ai-agent-as-a-honda-service-advisor-then-i-read-the-textbook-a72)
+- [Selection Sort Explained With a Bookshelf Story &lpar;With Code&rpar;](https://dev.to/krunalkanojiya/selection-sort-explained-with-a-bookshelf-story-with-code-4ci9)
+- [AWS for Software Testing: Complete Enterprise Guide](https://dev.to/himanshuai/aws-for-software-testing-complete-enterprise-guide-4i4p)
+- [I Built a Tool That Shows You How Much Money You&#39;re Losing Per Minute of Downtime](https://dev.to/boolean_array_dc0576a953f/i-built-a-tool-that-shows-you-how-much-money-youre-losing-per-minute-of-downtime-3ogc)
+- [Anyone heard of Qoder?](https://dev.to/unitbuilds/anyone-heard-of-qoder-2e3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
