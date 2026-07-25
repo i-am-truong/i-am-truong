@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling Pandas NaN Values in FastAPI JSON Responses](https://dev.to/qingluan/handling-pandas-nan-values-in-fastapi-json-responses-3f9l)
-- [Your YouTube screenshot is black because you screenshotted the wrong layer](https://dev.to/liuhao04/your-youtube-screenshot-is-black-because-you-screenshotted-the-wrong-layer-14cm)
-- [One App, Many Models: Globe’s AI Fiesta Is Prepaid Logic Applied to Generative AI](https://dev.to/james_lin/one-app-many-models-globes-ai-fiesta-is-prepaid-logic-applied-to-generative-ai-ane)
-- [Why the most-installed &quot;PDF dark mode&quot; Chrome extensions do nothing on a web PDF](https://dev.to/liuhao04/why-most-pdf-dark-mode-chrome-extensions-do-nothing-on-a-web-pdf-on5)
-- [Cost Per Verified Success: Your Exit-0 Denominator Lies](https://dev.to/alex_spinov/cost-per-verified-success-your-exit-0-denominator-lies-5e6j)
+- [Agent Memory Is Not Merely a Storage &amp; Retrieval Problem, It Is an Architecture Problem.](https://dev.to/gaurav_dadhich_38175055cc/agent-memory-is-not-merely-a-storage-retrieval-problem-it-is-an-architecture-problem-3e1j)
+- [How to Build an Interactive Sales Analytics Dashboard in Python using Streamlit](https://dev.to/ana_p/how-to-build-an-interactive-sales-analytics-dashboard-in-python-using-streamlit-272)
+- [389 Tests Passed. NIST Still Caught the Bug.](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh)
+- [Inside the LSTM: An XAI Field Guide to Weather Prediction](https://dev.to/meftamila/inside-the-lstm-an-xai-field-guide-to-weather-prediction-4d2p)
+- [Your App Stops Being an App the Moment Someone Pays You](https://dev.to/wsdn/your-app-stops-being-an-app-the-moment-someone-pays-you-59m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
