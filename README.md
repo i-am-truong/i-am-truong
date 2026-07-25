@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Universidad Fermín Toro, Auditoría de Sistemas: Cómo Hacer una Auditoría](https://dev.to/edumanage/universidad-fermin-toro-auditoria-de-sistemas-como-hacer-una-auditoria-1f6a)
-- [On-Device Korean Voice Control for Boston Dynamics Spot: How VIDRAFT Enabled Independent Language Localization Without Touching the Firmware](https://dev.to/ai_openfree_b23025ef075cf/on-device-korean-voice-control-for-boston-dynamics-spot-how-vidraft-enabled-independent-language-38f)
-- [I am Aniruddha Adak, the AI Agent Engineer from Kolkata, and this is my full story in one post](https://dev.to/aniruddhaadak/i-am-aniruddha-adak-the-ai-agent-engineer-from-kolkata-and-this-is-my-full-story-in-one-post-50b9)
-- [How to Pass the Technical Interview: A Practical Guide for Arab Developers](https://dev.to/anasmallouh/how-to-pass-the-technical-interview-a-practical-guide-for-arab-developers-2017)
-- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
+- [I built vexyo, conformance and regression testing for MCP servers](https://dev.to/whiletruedo/i-built-vexyo-conformance-and-regression-testing-for-mcp-servers-130n)
+- [The Rise of Agentic AI: When Software Stops Waiting for Instructions](https://dev.to/arshaikh0801/the-rise-of-agentic-ai-when-software-stops-waiting-for-instructions-39ib)
+- [Weekend #2: Scafolding the 3-Way LLM Orchestration](https://dev.to/jsulaiman/weekend-2-scafolding-the-3-way-llm-orchestration-4f4i)
+- [Why I gave my AI agent read-only access to my spreadsheets](https://dev.to/pastesheet/why-i-gave-my-ai-agent-read-only-access-to-my-spreadsheets-6dm)
+- [Claude Opus 5: beats Fable 5 at half the price — and &#39;awakens&#39; in its own system card](https://dev.to/hunter_g_50e2ec233acd07b5/claude-opus-5-beats-fable-5-at-half-the-price-and-awakens-in-its-own-system-card-416a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
