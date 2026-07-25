@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built vexyo, conformance and regression testing for MCP servers](https://dev.to/whiletruedo/i-built-vexyo-conformance-and-regression-testing-for-mcp-servers-130n)
-- [The Rise of Agentic AI: When Software Stops Waiting for Instructions](https://dev.to/arshaikh0801/the-rise-of-agentic-ai-when-software-stops-waiting-for-instructions-39ib)
-- [Weekend #2: Scafolding the 3-Way LLM Orchestration](https://dev.to/jsulaiman/weekend-2-scafolding-the-3-way-llm-orchestration-4f4i)
-- [Why I gave my AI agent read-only access to my spreadsheets](https://dev.to/pastesheet/why-i-gave-my-ai-agent-read-only-access-to-my-spreadsheets-6dm)
-- [Claude Opus 5: beats Fable 5 at half the price — and &#39;awakens&#39; in its own system card](https://dev.to/hunter_g_50e2ec233acd07b5/claude-opus-5-beats-fable-5-at-half-the-price-and-awakens-in-its-own-system-card-416a)
+- [Handling Pandas NaN Values in FastAPI JSON Responses](https://dev.to/qingluan/handling-pandas-nan-values-in-fastapi-json-responses-3f9l)
+- [Your YouTube screenshot is black because you screenshotted the wrong layer](https://dev.to/liuhao04/your-youtube-screenshot-is-black-because-you-screenshotted-the-wrong-layer-14cm)
+- [One App, Many Models: Globe’s AI Fiesta Is Prepaid Logic Applied to Generative AI](https://dev.to/james_lin/one-app-many-models-globes-ai-fiesta-is-prepaid-logic-applied-to-generative-ai-ane)
+- [Why the most-installed &quot;PDF dark mode&quot; Chrome extensions do nothing on a web PDF](https://dev.to/liuhao04/why-most-pdf-dark-mode-chrome-extensions-do-nothing-on-a-web-pdf-on5)
+- [Cost Per Verified Success: Your Exit-0 Denominator Lies](https://dev.to/alex_spinov/cost-per-verified-success-your-exit-0-denominator-lies-5e6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
