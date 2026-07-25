@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Video Generator with Next.js and Got My First Paid User in 3 Months](https://dev.to/jaspersmith/i-built-an-ai-video-generator-with-nextjs-and-got-my-first-paid-user-in-3-months-23kd)
-- [The Test That Only Failed in CI, Never Locally](https://dev.to/jeffthoensen/the-test-that-only-failed-in-ci-never-locally-4fj3)
-- [When SearchValues&lt;T&gt; Actually Pays Off](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l)
-- [How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev](https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98)
-- [REST-style GraphQL — one line of Java handles filtering + sorting + pagination + stats + CSV export.](https://dev.to/troyzhxu/rest-style-graphql-one-line-of-java-handles-filtering-sorting-pagination-stats-csv-export-3598)
+- [The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs](https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6)
+- [We Built a Signal Protocol Messenger. Then We Checked If It Was Legal in 5 Jurisdictions.](https://dev.to/abhiramp_2005/we-built-a-signal-protocol-messenger-then-we-checked-if-it-was-legal-in-5-jurisdictions-3ep7)
+- [My WSL2 VM Kept Losing Network Every Five Minutes](https://dev.to/hardil_singh_08a1f0abf23d/my-wsl2-vm-kept-losing-network-every-five-minutes-1319)
+- [What Durable Actually Means for Money-Critical Code](https://dev.to/hardil_singh_08a1f0abf23d/what-durable-actually-means-for-money-critical-code-5c7m)
+- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-hpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
