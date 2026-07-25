@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native List Performance — ScrollView, FlatList, SectionList, FlashList](https://dev.to/amitkumar13/react-native-list-performance-scrollview-flatlist-sectionlist-flashlist-41jn)
-- [Building on Base: Sub-Cent Gas for Real-Time Blockchain Games](https://dev.to/gigavariance/building-on-base-sub-cent-gas-for-real-time-blockchain-games-54p8)
-- [The Coding Agent I Could Shape Around My Workflow](https://dev.to/zangetsu101/the-coding-agent-i-could-shape-around-my-workflow-3c38)
-- [Five Iceland Whale-Watching Harbours: A Quick OSM Data Audit](https://dev.to/thingstodoiniceland/five-iceland-whale-watching-harbours-a-quick-osm-data-audit-28f5)
-- [AI Slop🤮](https://dev.to/chris2fair88/ai-slop-35am)
+- [12 things to check before you ship your vibe-coded app](https://dev.to/decivo/12-things-to-check-before-you-ship-your-vibe-coded-app-n0p)
+- [I Used the OpenAI SDK—and Claude Answered. Here’s Why.](https://dev.to/aekanun/i-used-the-openai-sdk-and-claude-answered-heres-why-1l8o)
+- [A Typosquat Package Almost Got My Keys: Dissecting the Attack Safely](https://dev.to/pavelespitia/a-typosquat-package-almost-got-my-keys-dissecting-the-attack-safely-4pbn)
+- [How to Track What Hedge Funds Are Buying — Directly From Your AI Agent](https://dev.to/james-alphasmo/how-to-track-what-hedge-funds-are-buying-directly-from-your-ai-agent-2jij)
+- [ENS Shows Why Reputation Systems Are Harder Than Scores](https://dev.to/antfarm-official/ens-shows-why-reputation-systems-are-harder-than-scores-1fl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
