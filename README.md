@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs](https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6)
-- [We Built a Signal Protocol Messenger. Then We Checked If It Was Legal in 5 Jurisdictions.](https://dev.to/abhiramp_2005/we-built-a-signal-protocol-messenger-then-we-checked-if-it-was-legal-in-5-jurisdictions-3ep7)
-- [My WSL2 VM Kept Losing Network Every Five Minutes](https://dev.to/hardil_singh_08a1f0abf23d/my-wsl2-vm-kept-losing-network-every-five-minutes-1319)
-- [What Durable Actually Means for Money-Critical Code](https://dev.to/hardil_singh_08a1f0abf23d/what-durable-actually-means-for-money-critical-code-5c7m)
-- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-hpm)
+- [From Policy to Pipeline: Making Compliance an Engineering Property](https://dev.to/anusha_mukka/from-policy-to-pipeline-making-compliance-an-engineering-property-35ap)
+- [I am just starting to code. But....](https://dev.to/erowidentertainmentllc/i-am-just-starting-to-code-but-1f4p)
+- [Cluster 1 do Clean Code: #1 consistência, #2 nomes, #3 estilo, #4 métodos/classes/arquivos pequenos, #6 complexidade ciclomática](https://dev.to/yuripeixinho/cluster-1-do-clean-code-1-consistencia-2-nomes-3-estilo-4-metodosclassesarquivos-2328)
+- [Quantization vs Distillation](https://dev.to/vahid_aghajani_60ce9dbec9/quantization-vs-distillation-26ba)
+- [Hello. Greetings to everyone here
+My name is Emmanuel, and I&#39;m here to get more insight of website development and design](https://dev.to/emmanuel_john_207ba41d31d/hello-greetings-to-everyone-here-my-name-is-emmanuel-and-im-here-to-get-more-insight-of-website-3h2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
