@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MoE Capacity Factor: Why Mixture-of-Experts Drops Your Tokens](https://dev.to/ji_ai/moe-capacity-factor-why-mixture-of-experts-drops-your-tokens-1mg5)
-- [Turbocharging Redis Performance in NestJS with RedisX](https://dev.to/sur-ser/turbocharging-redis-performance-in-nestjs-with-redisx-3m8c)
-- [Harness Redis Power in NestJS with RedisX](https://dev.to/sur-ser/harness-redis-power-in-nestjs-with-redisx-5d2n)
-- [Day 99 - Efficient Random Sampling with system.numbers_mt: Parallel Number Generation in ClickHouse® 26.3](https://dev.to/kanishga_subramani_49ad73/day-99-efficient-random-sampling-with-systemnumbersmt-parallel-number-generation-in-4eil)
-- [Voice Cloning: Sample Quality Beats Sample Length, and Prosody Beats Both](https://dev.to/clarajbennett/voice-cloning-sample-quality-beats-sample-length-and-prosody-beats-both-48eb)
+- [ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change](https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh)
+- [Terraform e YAML - Padrões Avançados e Escalabilidade](https://dev.to/apsis-cc/terraform-e-yaml-padroes-avancados-e-escalabilidade-28aa)
+- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-2lfh)
+- [Your OpenAPI spec is already a test plan — here&#39;s how to turn it into Playwright tests automatically](https://dev.to/j0ny3nglish/your-openapi-spec-is-already-a-test-plan-heres-how-to-turn-it-into-playwright-tests-automatically-1mp6)
+- [Samba File Sharing on Linux: Setting Up Shares With and Without Authentication](https://dev.to/sara_xd_60faa231e7be/samba-file-sharing-on-linux-setting-up-shares-with-and-without-authentication-ld2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
