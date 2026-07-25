@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI that tells you if your codebase fits an LLM&#39;s context window](https://dev.to/deklain4ik/i-built-a-cli-that-tells-you-if-your-codebase-fits-an-llms-context-window-164d)
-- [🔄 The JavaScript Event Loop: From &quot;What?&quot; to &quot;Oh, NOW I Get It!&quot; &lpar;A Deep Dive&rpar;](https://dev.to/a7mad1112/the-javascript-event-loop-from-what-to-oh-now-i-get-it-a-deep-dive-49h2)
-- [I Let an Agent Take Over an Account With Every Permission Check Green](https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4)
-- [AI Agent Safety and Compliance Tools: A 2026 Comparison](https://dev.to/comikii/ai-agent-safety-and-compliance-tools-a-2026-comparison-eb0)
-- [Google Apps Script Quota Limits 2026 — Every Error, Every Fix](https://dev.to/stack_c285afb2fa0bef/google-apps-script-quota-limits-2026-every-error-every-fix-2p87)
+- [Is Speculative Decoding&#39;s Speedup a Hardware Problem or a Model Problem?](https://dev.to/cyprus09/is-speculative-decodings-speedup-a-hardware-problem-or-a-model-problem-7k6)
+- [Sábado noche, 00:00 — codeando y hablando de entropía con mi agente 🤖🔥](https://dev.to/yosoyignicion/sabado-noche-0000-codeando-y-hablando-de-entropia-con-mi-agente-340f)
+- [Building a Cross-Platform Disk Usage Analyzer in C](https://dev.to/secbyshresth/building-a-cross-platform-disk-usage-analyzer-in-c-2m2e)
+- [I Built a Chrome Extension to Replace Notion&#39;s Broken Web Clipper](https://dev.to/celsomakabe/i-built-a-chrome-extension-to-replace-notions-broken-web-clipper-5467)
+- [Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python](https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
