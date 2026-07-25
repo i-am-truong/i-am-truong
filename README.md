@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Speculative Decoding&#39;s Speedup a Hardware Problem or a Model Problem?](https://dev.to/cyprus09/is-speculative-decodings-speedup-a-hardware-problem-or-a-model-problem-7k6)
-- [Sábado noche, 00:00 — codeando y hablando de entropía con mi agente 🤖🔥](https://dev.to/yosoyignicion/sabado-noche-0000-codeando-y-hablando-de-entropia-con-mi-agente-340f)
-- [Building a Cross-Platform Disk Usage Analyzer in C](https://dev.to/secbyshresth/building-a-cross-platform-disk-usage-analyzer-in-c-2m2e)
-- [I Built a Chrome Extension to Replace Notion&#39;s Broken Web Clipper](https://dev.to/celsomakabe/i-built-a-chrome-extension-to-replace-notions-broken-web-clipper-5467)
-- [Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python](https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3)
+- [The number that lied: rebuilding a usage meter that actually helps](https://dev.to/martinschenk/the-number-that-lied-rebuilding-a-usage-meter-that-actually-helps-4792)
+- [AgentATC](https://dev.to/zephyr_77/agentatc-93g)
+- [Extracting video frames in Rust, in-process — no CLI, no hand-written decode loop](https://dev.to/yeauty/extracting-video-frames-in-rust-in-process-no-cli-no-hand-written-decode-loop-3393)
+- [I replicated the vision-only Pokémon run Anthropic showcased on the Fable 5 launch page — then I read its thinking chains](https://dev.to/qingze_hu_c4c251c1b353ede/i-replicated-the-vision-only-pokemon-run-anthropic-showcased-on-the-fable-5-launch-page-then-i-35ah)
+- [Deployment of Python Bot on Koyeb and Heroku using StayPresent](https://dev.to/john_wick_47/deployment-of-python-bot-on-koyeb-and-heroku-using-staypresent-4gd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
