@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I scanned 1,775 websites for GDPR consent leaks. Here&#39;s what fires before you click anything](https://dev.to/aaresvic/i-scanned-1775-websites-for-gdpr-consent-leaks-heres-what-fires-before-you-click-anything-21ak)
-- [I built a collection of open-source Eve agents for AI based on the Vercel framework](https://dev.to/zoltanszogyenyi/i-built-a-collection-of-open-source-eve-agents-for-ai-based-on-the-vercel-framework-55ab)
-- [Why I Built a Security Scanner That Never Touches the Target](https://dev.to/resul_oztas/why-i-built-a-security-scanner-that-never-touches-the-target-4123)
-- [The Biggest Flaw in My AI Evaluation Wasn&#39;t the Models. It Was My Scorecard.](https://dev.to/asiaostrich/the-biggest-flaw-in-my-ai-evaluation-wasnt-the-models-it-was-my-scorecard-556d)
-- [Protect Your Python Bots From Failing Over and Over Again](https://dev.to/john_wick_47/protect-your-python-bots-from-failing-over-and-over-again-27a4)
+- [React Native List Performance — ScrollView, FlatList, SectionList, FlashList](https://dev.to/amitkumar13/react-native-list-performance-scrollview-flatlist-sectionlist-flashlist-41jn)
+- [Building on Base: Sub-Cent Gas for Real-Time Blockchain Games](https://dev.to/gigavariance/building-on-base-sub-cent-gas-for-real-time-blockchain-games-54p8)
+- [The Coding Agent I Could Shape Around My Workflow](https://dev.to/zangetsu101/the-coding-agent-i-could-shape-around-my-workflow-3c38)
+- [Five Iceland Whale-Watching Harbours: A Quick OSM Data Audit](https://dev.to/thingstodoiniceland/five-iceland-whale-watching-harbours-a-quick-osm-data-audit-28f5)
+- [AI Slop🤮](https://dev.to/chris2fair88/ai-slop-35am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
