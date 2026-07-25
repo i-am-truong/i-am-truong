@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What the WIPO DL-101 and DL-170 Certificates Actually Teach You: An Engineer&#39;s Notes on General IP and Patent Essentials](https://dev.to/ngtduc693/what-the-wipo-dl-101-and-dl-170-certificates-actually-teach-you-an-engineers-notes-on-general-ip-4c6n)
-- [How to Raise Your Vocal Pitch with AI &lpar;Free Browser-Based Tool&rpar;](https://dev.to/kaleem_ullah_6698699/how-to-raise-your-vocal-pitch-with-ai-free-browser-based-tool-2j8f)
-- [&quot;Take the Well-Maintained Road Over Risky Shortcuts&quot;: Ditching Web Scraping for an AI App Powered by Official RSS &amp; Gemini &lpar;Lessons from Logistics&rpar;](https://dev.to/tosane932/take-the-well-maintained-road-over-risky-shortcuts-ditching-web-scraping-for-an-ai-app-powered-3gn4)
-- [I built a tool to prove my multi-agent harness was worth it. It told me it wasn&#39;t.](https://dev.to/agentdev9/i-built-a-tool-to-prove-my-multi-agent-harness-was-worth-it-it-told-me-it-wasnt-do)
-- [Vibium Under the Hood](https://dev.to/majdizlitni/vibium-under-the-hood-4k5i)
+- [I built a CLI that tells you if your codebase fits an LLM&#39;s context window](https://dev.to/deklain4ik/i-built-a-cli-that-tells-you-if-your-codebase-fits-an-llms-context-window-164d)
+- [🔄 The JavaScript Event Loop: From &quot;What?&quot; to &quot;Oh, NOW I Get It!&quot; &lpar;A Deep Dive&rpar;](https://dev.to/a7mad1112/the-javascript-event-loop-from-what-to-oh-now-i-get-it-a-deep-dive-49h2)
+- [I Let an Agent Take Over an Account With Every Permission Check Green](https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4)
+- [AI Agent Safety and Compliance Tools: A 2026 Comparison](https://dev.to/comikii/ai-agent-safety-and-compliance-tools-a-2026-comparison-eb0)
+- [Google Apps Script Quota Limits 2026 — Every Error, Every Fix](https://dev.to/stack_c285afb2fa0bef/google-apps-script-quota-limits-2026-every-error-every-fix-2p87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
