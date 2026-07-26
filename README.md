@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Autonomous On-Chain Agent on Solana: Here&#39;s the Documentation I Wish I Had Earlier](https://dev.to/lymah/i-built-an-autonomous-on-chain-agent-on-solana-heres-the-documentation-i-wish-i-had-earlier-2hge)
-- [Episode 1: Understanding Requirements](https://dev.to/surajrkhonde/episode-1-understanding-requirements-415h)
-- [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde)
-- [I made LLM context editable: a graph where the wires are the prompt](https://dev.to/chenxiachan/i-made-llm-context-editable-a-graph-where-the-wires-are-the-prompt-2afl)
-- [Terax packs a terminal, editor, git graph, and an AI agent into an 8 MB binary](https://dev.to/renolu/terax-packs-a-terminal-editor-git-graph-and-an-ai-agent-into-an-8-mb-binary-40ih)
+- [I never ran ESXi in production](https://dev.to/captkay/i-never-ran-esxi-in-production-22e4)
+- [Widgets, Live Activities, and Dynamic Island From One Java API](https://dev.to/codenameone/widgets-live-activities-and-dynamic-island-from-one-java-api-5166)
+- [A Codex Skill That Generates Editable Draw.io Diagrams Instead of Screenshots](https://dev.to/codecow/a-codex-skill-that-generates-editable-drawio-diagrams-instead-of-screenshots-41oa)
+- [The 50KB Problem: Why Government Forms Keep Rejecting Your Photo](https://dev.to/vijay_kanna_56/the-50kb-problem-why-government-forms-keep-rejecting-your-photo-1hfa)
+- [How to Build an LLM Eval Pipeline for Your AI App in 2026](https://dev.to/moksh/how-to-build-an-llm-eval-pipeline-for-your-ai-app-in-2026-4f2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
