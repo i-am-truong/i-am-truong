@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your agent&#39;s instructions are promises nobody checks. I counted.](https://dev.to/mbajalan/your-agents-instructions-are-promises-nobody-checks-i-counted-22in)
-- [I Built Something Good With AI. Now Some Developer Communities Don&#39;t Want to See It.](https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo)
-- [Claude Opus 5 closed last year&#39;s SDK gaps — not this year&#39;s](https://dev.to/kalpitrathore/claude-opus-5-closed-last-years-sdk-gaps-not-this-years-31k3)
-- [Learning DevOps as a Computer Engineering Grad...](https://dev.to/sandradev20/learning-devops-as-a-computer-engineering-grad-jk5)
-- [Building Abridged Shelf - Free shorter classic stories](https://dev.to/emmadscodes/building-abridged-shelf-free-shorter-classic-stories-35hb)
+- [The MCP spec lands in 48 hours. I scanned 671,693 domains first. The layer under your email agents is rotting.](https://dev.to/livedirectmarketing/the-mcp-spec-lands-in-48-hours-i-scanned-671693-domains-first-the-layer-under-your-email-agents-5914)
+- [What the #@&lpar;% are Monads? &lpar;a beginner&#39;s guide&rpar;](https://dev.to/ein-monarch/what-the-are-monads-a-beginners-guide-3pdo)
+- [Pepper Remastered coming soon](https://dev.to/blakebeckcoding/pepper-remastered-coming-soon-3jf0)
+- [Real-Time Rails Without Turbo: Modern Reactive UIs with Inertia and DexieCable](https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge)
+- [Webhook Retries Aren&#39;t Optional: The 6-Hour Silent Failure That Changed How We Build Them](https://dev.to/krishnamm/webhook-retries-arent-optional-the-6-hour-silent-failure-that-changed-how-we-build-them-5f4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
