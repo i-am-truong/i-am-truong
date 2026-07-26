@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The MCP spec lands in 48 hours. I scanned 671,693 domains first. The layer under your email agents is rotting.](https://dev.to/livedirectmarketing/the-mcp-spec-lands-in-48-hours-i-scanned-671693-domains-first-the-layer-under-your-email-agents-5914)
-- [What the #@&lpar;% are Monads? &lpar;a beginner&#39;s guide&rpar;](https://dev.to/ein-monarch/what-the-are-monads-a-beginners-guide-3pdo)
-- [Pepper Remastered coming soon](https://dev.to/blakebeckcoding/pepper-remastered-coming-soon-3jf0)
-- [Real-Time Rails Without Turbo: Modern Reactive UIs with Inertia and DexieCable](https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge)
-- [Webhook Retries Aren&#39;t Optional: The 6-Hour Silent Failure That Changed How We Build Them](https://dev.to/krishnamm/webhook-retries-arent-optional-the-6-hour-silent-failure-that-changed-how-we-build-them-5f4c)
+- [The DeepSeek Leak: Why Infrastructure Secrets Matter More Than Model Weights](https://dev.to/james_lin/the-deepseek-leak-why-infrastructure-secrets-matter-more-than-model-weights-3c3n)
+- [Thumb Chords](https://dev.to/argenkiwi/thumb-chords-1j5)
+- [How to Collect Product Data from a Website with Python](https://dev.to/alock75/how-to-collect-product-data-from-a-website-with-python-268o)
+- [I turned plain English &lpar;and any live website&rpar; into API tests](https://dev.to/shankar_subramanian/i-turned-plain-english-and-any-live-website-into-api-tests-42a1)
+- [Proving Zero Trust Actually Works: Entra ID + Cloudflare Access over Both OIDC and SAML](https://dev.to/darkedges/proving-zero-trust-actually-works-entra-id-cloudflare-access-over-both-oidc-and-saml-4f7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
