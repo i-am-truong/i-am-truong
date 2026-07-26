@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing an Idempotent Transaction API: Preventing Duplicate Financial Operations](https://dev.to/borino88/designing-an-idempotent-transaction-api-preventing-duplicate-financial-operations-41ng)
-- [A Practical Multi-Stage Docker Build for Python APIs](https://dev.to/borino88/a-practical-multi-stage-docker-build-for-python-apis-3p50)
-- [Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django &amp; AI](https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb)
-- [Hello DEV — I’m Mahdi, a Full-Stack Engineer Building Reliable Systems and Open Tools](https://dev.to/borino88/hello-dev-im-mahdi-a-full-stack-engineer-building-reliable-systems-and-open-tools-560i)
-- [I got tired of trusting my backups, so I built something to stop lying to myself about it](https://dev.to/bilalbelahrachespec/i-got-tired-of-trusting-my-backups-so-i-built-something-to-stop-lying-to-myself-about-it-5g0p)
+- [Weekly Challenge: Similar colors](https://dev.to/simongreennet/weekly-challenge-similar-colors-1n4d)
+- [Skull Skills](https://dev.to/aturzone/skull-skills-1lnb)
+- [Inspiracion por un comentario interesante 🧠️](https://dev.to/yosoyignicion/inspiracion-por-un-comentario-interesante-2cfm)
+- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
+- [Amazon S3 Alternatives in 2026: A Self-Hosted, S3-Compatible Shortlist](https://dev.to/ethan-carter/amazon-s3-alternatives-in-2026-a-self-hosted-s3-compatible-shortlist-3nmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
