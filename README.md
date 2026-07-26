@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I never ran ESXi in production](https://dev.to/captkay/i-never-ran-esxi-in-production-22e4)
-- [Widgets, Live Activities, and Dynamic Island From One Java API](https://dev.to/codenameone/widgets-live-activities-and-dynamic-island-from-one-java-api-5166)
-- [A Codex Skill That Generates Editable Draw.io Diagrams Instead of Screenshots](https://dev.to/codecow/a-codex-skill-that-generates-editable-drawio-diagrams-instead-of-screenshots-41oa)
-- [The 50KB Problem: Why Government Forms Keep Rejecting Your Photo](https://dev.to/vijay_kanna_56/the-50kb-problem-why-government-forms-keep-rejecting-your-photo-1hfa)
-- [How to Build an LLM Eval Pipeline for Your AI App in 2026](https://dev.to/moksh/how-to-build-an-llm-eval-pipeline-for-your-ai-app-in-2026-4f2b)
+- [How terminal-sharing tools put your shell in a browser](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328)
+- [I reverse-engineered Claude&#39;s undocumented Design API so a file sync wouldn&#39;t cost 665k tokens](https://dev.to/somework/i-reverse-engineered-claudes-undocumented-design-api-so-a-file-sync-wouldnt-cost-665k-tokens-297)
+- [Your Distributed Lock Can Expire Correctly and Still Corrupt Data](https://dev.to/luciano655/your-distributed-lock-can-expire-correctly-and-still-corrupt-data-3dpl)
+- [I Thought Building Better AI Models Was the Answer. I Was Wrong.](https://dev.to/siddhartha_reddy/i-thought-building-better-ai-models-was-the-answer-i-was-wrong-3pl7)
+- [My Journey to Becoming a Google Associate Data Practitioner](https://dev.to/rounakag/my-journey-to-becoming-a-google-associate-data-practitioner-4flp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
