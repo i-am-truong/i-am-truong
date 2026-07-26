@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 5: everything you need to know](https://dev.to/dsplce-co/claude-opus-5-everything-you-need-to-know-le7)
-- [A Browser Click Is Not Proof: Verifying That Web Apps Actually Work](https://dev.to/realdone/a-browser-click-is-not-proof-verifying-that-web-apps-actually-work-1lcp)
-- [AI Agents Hacked: Lessons from OpenAI &amp; Hugging Face](https://dev.to/gp-ia-blog/ai-agents-hacked-lessons-from-openai-hugging-face-1mjo)
-- [Fixing n8n Bedrock Automation: Throttling, Duplicates, Cost Blowouts](https://dev.to/oleksandr_kuryzhev_42873f/fixing-n8n-bedrock-automation-throttling-duplicates-cost-blowouts-3n74)
-- [18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0)
+- [I thought giving my group chat AI assistant Google Calendar would take 5 minutes, and then OAuth humbled me](https://dev.to/lars_winstand/i-thought-giving-my-group-chat-ai-assistant-google-calendar-would-take-5-minutes-and-then-oauth-93d)
+- [Claude Opus 5 Benchmarks: What the Numbers Actually Show](https://dev.to/raxxostudios/claude-opus-5-benchmarks-what-the-numbers-actually-show-35gf)
+- [What You Can Do With C#](https://dev.to/towernter/what-you-can-do-with-c-2i68)
+- [La entropía del software: por qué tu código envejece aunque no lo toques 🍎️](https://dev.to/yosoyignicion/la-entropia-del-software-por-que-tu-codigo-envejece-aunque-no-lo-toques-2bne)
+- [Go 1.25 testing/synctest: No More Flaky Concurrent Tests](https://dev.to/ohugonnot/go-125-testingsynctest-no-more-flaky-concurrent-tests-1h90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
