@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#S3 The Loot Report, Vol. 2: Four Lines That Fixed the Boring Parts](https://dev.to/fromzerotoship/s3-the-loot-report-vol-2-four-lines-that-fixed-the-boring-parts-1ajb)
-- [The Auto-DJ Case Files: Building a Self-Learning Music Brain From Your YouTube Habit](https://dev.to/bikidev/the-auto-dj-case-files-building-a-self-learning-music-brain-from-your-youtube-habit-1ndl)
-- [Built 14+ Free Online Tools in Just One Week – Meet ToolEka](https://dev.to/rehan_ahx/built-14-free-online-tools-in-just-one-week-meet-tooleka-2c9p)
-- [How I Found a Critical Cloudflare Turnstile Bypass – And Got Denied a Bounty](https://dev.to/allonn12/how-i-found-a-critical-cloudflare-turnstile-bypass-and-got-denied-a-bounty-5ai2)
-- [Base64 Decoded: What Actually Happens When You Hit &#39;Encode&#39;](https://dev.to/zhihu_wu_dea1d82af01a04d7/base64-decoded-what-actually-happens-when-you-hit-encode-1h06)
+- [I Built an Autonomous On-Chain Agent on Solana: Here&#39;s the Documentation I Wish I Had Earlier](https://dev.to/lymah/i-built-an-autonomous-on-chain-agent-on-solana-heres-the-documentation-i-wish-i-had-earlier-2hge)
+- [Episode 1: Understanding Requirements](https://dev.to/surajrkhonde/episode-1-understanding-requirements-415h)
+- [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde)
+- [I made LLM context editable: a graph where the wires are the prompt](https://dev.to/chenxiachan/i-made-llm-context-editable-a-graph-where-the-wires-are-the-prompt-2afl)
+- [Terax packs a terminal, editor, git graph, and an AI agent into an 8 MB binary](https://dev.to/renolu/terax-packs-a-terminal-editor-git-graph-and-an-ai-agent-into-an-8-mb-binary-40ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
