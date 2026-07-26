@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Left of the Loop: The Phoenix](https://dev.to/aepfli/left-of-the-loop-the-phoenix-17f9)
-- [How Much of Your CI Pipeline Is Just Cucumber Scenarios You&#39;re Too Afraid to Delete](https://dev.to/qawalah/how-much-of-your-ci-pipeline-is-just-cucumber-scenarios-youre-too-afraid-to-delete-m6h)
-- [3 Portfolio Mistakes Hiring Managers Spot Instantly](https://dev.to/qawalah/3-portfolio-mistakes-hiring-managers-spot-instantly-32ma)
-- [The Manual Tester Who Can Write a SQL Join Will Always Beat the SDET Who Can&#39;t](https://dev.to/qawalah/the-manual-tester-who-can-write-a-sql-join-will-always-beat-the-sdet-who-cant-4h5p)
-- [SigNoz Hackathon](https://dev.to/aswa2212/signoz-hackathon-nld)
+- [Stop Hardcoding AI Tools: Dynamic Tool Discovery and Schema Validation with Zod &amp; MCP](https://dev.to/programmingcentral/stop-hardcoding-ai-tools-dynamic-tool-discovery-and-schema-validation-with-zod-mcp-3e9j)
+- [I shipped a neural-network opponent into the browser: no backend, no accounts, 120 ms per move](https://dev.to/selectany/i-shipped-a-neural-network-opponent-into-the-browser-no-backend-no-accounts-120-ms-per-move-3l09)
+- [🤖 The Copilot’s Honest Opinion about Rullst!](https://dev.to/venelouis/the-copilots-honest-opinion-about-rullst-hce)
+- [When to Rebuild vs When to Refactor: A Decision Framework for Founders](https://dev.to/makumi/when-to-rebuild-vs-when-to-refactor-a-decision-framework-for-founders-20go)
+- [The technical debt of others](https://dev.to/tracygjg/the-technical-debt-of-others-1gp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
