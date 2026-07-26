@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation](https://dev.to/onizuka/auto-locate-nearby-golf-courses-on-your-map-using-ip-geolocation-4dn5)
-- [I built an interactive terminal portfolio you can run with: npx hello-nayeem](https://dev.to/nayeem-miah/i-built-an-interactive-terminal-portfolio-you-can-run-with-npx-hello-nayeem-1lh5)
-- [I built an agent that asks your app what happened to it on SigNoz](https://dev.to/ibrahimpima/i-built-an-agent-that-asks-your-app-what-happened-to-it-on-signoz-2m3b)
-- [Dual-Tier Memory Architecture for AI Agents: How Local Vector Search Scales to 14,726 Memories Without Pinecone](https://dev.to/hypernexus/dual-tier-memory-architecture-for-ai-agents-how-local-vector-search-scales-to-14726-memories-2617)
-- [Google Sheets in VS Code, Cursor, and Windsurf over MCP](https://dev.to/pastesheet/google-sheets-in-vs-code-cursor-and-windsurf-over-mcp-5467)
+- [Claude Opus 5: everything you need to know](https://dev.to/dsplce-co/claude-opus-5-everything-you-need-to-know-le7)
+- [A Browser Click Is Not Proof: Verifying That Web Apps Actually Work](https://dev.to/realdone/a-browser-click-is-not-proof-verifying-that-web-apps-actually-work-1lcp)
+- [AI Agents Hacked: Lessons from OpenAI &amp; Hugging Face](https://dev.to/gp-ia-blog/ai-agents-hacked-lessons-from-openai-hugging-face-1mjo)
+- [Fixing n8n Bedrock Automation: Throttling, Duplicates, Cost Blowouts](https://dev.to/oleksandr_kuryzhev_42873f/fixing-n8n-bedrock-automation-throttling-duplicates-cost-blowouts-3n74)
+- [18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
