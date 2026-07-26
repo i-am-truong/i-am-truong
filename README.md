@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blocking Bots with Amazon CloudFront Functions, Final Part: What to Log and How to Detect Them](https://dev.to/aws-builders/blocking-bots-with-amazon-cloudfront-functions-final-part-what-to-log-and-how-to-detect-them-dli)
-- [[Boost]](https://dev.to/smoren/-2e0m)
-- [Evidence First, Answer Second: Building an Observable Industrial AI Agent with SigNoz](https://dev.to/inraj/evidence-first-answer-second-building-an-observable-industrial-ai-agent-with-signoz-4jc5)
-- [I Discovered AI Agents Can&#39;t Self-Verify. The Real Problem Is Much Bigger.](https://dev.to/yuhaolin2005/i-discovered-ai-agents-cant-self-verify-the-real-problem-is-much-bigger-2jb6)
-- [When Your AI Code Reviewers Disagree: Inside the &#39;AI Debate&#39; That Finds Hidden Bugs](https://dev.to/robertpelloni/when-your-ai-code-reviewers-disagree-inside-the-ai-debate-that-finds-hidden-bugs-4l10)
+- [Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation](https://dev.to/onizuka/auto-locate-nearby-golf-courses-on-your-map-using-ip-geolocation-4dn5)
+- [I built an interactive terminal portfolio you can run with: npx hello-nayeem](https://dev.to/nayeem-miah/i-built-an-interactive-terminal-portfolio-you-can-run-with-npx-hello-nayeem-1lh5)
+- [I built an agent that asks your app what happened to it on SigNoz](https://dev.to/ibrahimpima/i-built-an-agent-that-asks-your-app-what-happened-to-it-on-signoz-2m3b)
+- [Dual-Tier Memory Architecture for AI Agents: How Local Vector Search Scales to 14,726 Memories Without Pinecone](https://dev.to/hypernexus/dual-tier-memory-architecture-for-ai-agents-how-local-vector-search-scales-to-14726-memories-2617)
+- [Google Sheets in VS Code, Cursor, and Windsurf over MCP](https://dev.to/pastesheet/google-sheets-in-vs-code-cursor-and-windsurf-over-mcp-5467)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
