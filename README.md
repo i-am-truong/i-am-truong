@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hardcoding AI Tools: Dynamic Tool Discovery and Schema Validation with Zod &amp; MCP](https://dev.to/programmingcentral/stop-hardcoding-ai-tools-dynamic-tool-discovery-and-schema-validation-with-zod-mcp-3e9j)
-- [I shipped a neural-network opponent into the browser: no backend, no accounts, 120 ms per move](https://dev.to/selectany/i-shipped-a-neural-network-opponent-into-the-browser-no-backend-no-accounts-120-ms-per-move-3l09)
-- [🤖 The Copilot’s Honest Opinion about Rullst!](https://dev.to/venelouis/the-copilots-honest-opinion-about-rullst-hce)
-- [When to Rebuild vs When to Refactor: A Decision Framework for Founders](https://dev.to/makumi/when-to-rebuild-vs-when-to-refactor-a-decision-framework-for-founders-20go)
-- [The technical debt of others](https://dev.to/tracygjg/the-technical-debt-of-others-1gp8)
+- [Your agent&#39;s instructions are promises nobody checks. I counted.](https://dev.to/mbajalan/your-agents-instructions-are-promises-nobody-checks-i-counted-22in)
+- [I Built Something Good With AI. Now Some Developer Communities Don&#39;t Want to See It.](https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo)
+- [Claude Opus 5 closed last year&#39;s SDK gaps — not this year&#39;s](https://dev.to/kalpitrathore/claude-opus-5-closed-last-years-sdk-gaps-not-this-years-31k3)
+- [Learning DevOps as a Computer Engineering Grad...](https://dev.to/sandradev20/learning-devops-as-a-computer-engineering-grad-jk5)
+- [Building Abridged Shelf - Free shorter classic stories](https://dev.to/emmadscodes/building-abridged-shelf-free-shorter-classic-stories-35hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
