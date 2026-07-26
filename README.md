@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I thought giving my group chat AI assistant Google Calendar would take 5 minutes, and then OAuth humbled me](https://dev.to/lars_winstand/i-thought-giving-my-group-chat-ai-assistant-google-calendar-would-take-5-minutes-and-then-oauth-93d)
-- [Claude Opus 5 Benchmarks: What the Numbers Actually Show](https://dev.to/raxxostudios/claude-opus-5-benchmarks-what-the-numbers-actually-show-35gf)
-- [What You Can Do With C#](https://dev.to/towernter/what-you-can-do-with-c-2i68)
-- [La entropía del software: por qué tu código envejece aunque no lo toques 🍎️](https://dev.to/yosoyignicion/la-entropia-del-software-por-que-tu-codigo-envejece-aunque-no-lo-toques-2bne)
-- [Go 1.25 testing/synctest: No More Flaky Concurrent Tests](https://dev.to/ohugonnot/go-125-testingsynctest-no-more-flaky-concurrent-tests-1h90)
+- [Designing an Idempotent Transaction API: Preventing Duplicate Financial Operations](https://dev.to/borino88/designing-an-idempotent-transaction-api-preventing-duplicate-financial-operations-41ng)
+- [A Practical Multi-Stage Docker Build for Python APIs](https://dev.to/borino88/a-practical-multi-stage-docker-build-for-python-apis-3p50)
+- [Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django &amp; AI](https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb)
+- [Hello DEV — I’m Mahdi, a Full-Stack Engineer Building Reliable Systems and Open Tools](https://dev.to/borino88/hello-dev-im-mahdi-a-full-stack-engineer-building-reliable-systems-and-open-tools-560i)
+- [I got tired of trusting my backups, so I built something to stop lying to myself about it](https://dev.to/bilalbelahrachespec/i-got-tired-of-trusting-my-backups-so-i-built-something-to-stop-lying-to-myself-about-it-5g0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
