@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How terminal-sharing tools put your shell in a browser](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328)
-- [I reverse-engineered Claude&#39;s undocumented Design API so a file sync wouldn&#39;t cost 665k tokens](https://dev.to/somework/i-reverse-engineered-claudes-undocumented-design-api-so-a-file-sync-wouldnt-cost-665k-tokens-297)
-- [Your Distributed Lock Can Expire Correctly and Still Corrupt Data](https://dev.to/luciano655/your-distributed-lock-can-expire-correctly-and-still-corrupt-data-3dpl)
-- [I Thought Building Better AI Models Was the Answer. I Was Wrong.](https://dev.to/siddhartha_reddy/i-thought-building-better-ai-models-was-the-answer-i-was-wrong-3pl7)
-- [My Journey to Becoming a Google Associate Data Practitioner](https://dev.to/rounakag/my-journey-to-becoming-a-google-associate-data-practitioner-4flp)
+- [Building AI Agents with the GO Agent Development Kit &lpar;ADK&rpar; — 2026 Edition &lpar;v2&rpar;](https://dev.to/xbill/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55)
+- [Claude Opus 5 vs Opus 4.8, Measured: Same Price, 3x Apart](https://dev.to/synthorai/claude-opus-5-vs-opus-48-measured-same-price-3x-apart-3354)
+- [Tracing a multi-agent LLM system: otel-swarm and a SigNoz dashboard pack](https://dev.to/himanshu_748/tracing-a-multi-agent-llm-system-otel-swarm-and-a-signoz-dashboard-pack-4m85)
+- [Andrej Karpathy&#39;s &quot;Deep Dive into LLMs like ChatGPT&quot;](https://dev.to/absterellio/andrej-karpathys-deep-dive-into-llms-like-chatgpt-576o)
+- [Mastering GA4 for Mobile Apps — From Events to Business Insights](https://dev.to/dainyjose/mastering-ga4-for-mobile-apps-from-events-to-business-insights-3n5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
