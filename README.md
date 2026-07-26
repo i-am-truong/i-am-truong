@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Similar colors](https://dev.to/simongreennet/weekly-challenge-similar-colors-1n4d)
-- [Skull Skills](https://dev.to/aturzone/skull-skills-1lnb)
-- [Inspiracion por un comentario interesante 🧠️](https://dev.to/yosoyignicion/inspiracion-por-un-comentario-interesante-2cfm)
-- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
-- [Amazon S3 Alternatives in 2026: A Self-Hosted, S3-Compatible Shortlist](https://dev.to/ethan-carter/amazon-s3-alternatives-in-2026-a-self-hosted-s3-compatible-shortlist-3nmk)
+- [#S3 The Loot Report, Vol. 2: Four Lines That Fixed the Boring Parts](https://dev.to/fromzerotoship/s3-the-loot-report-vol-2-four-lines-that-fixed-the-boring-parts-1ajb)
+- [The Auto-DJ Case Files: Building a Self-Learning Music Brain From Your YouTube Habit](https://dev.to/bikidev/the-auto-dj-case-files-building-a-self-learning-music-brain-from-your-youtube-habit-1ndl)
+- [Built 14+ Free Online Tools in Just One Week – Meet ToolEka](https://dev.to/rehan_ahx/built-14-free-online-tools-in-just-one-week-meet-tooleka-2c9p)
+- [How I Found a Critical Cloudflare Turnstile Bypass – And Got Denied a Bounty](https://dev.to/allonn12/how-i-found-a-critical-cloudflare-turnstile-bypass-and-got-denied-a-bounty-5ai2)
+- [Base64 Decoded: What Actually Happens When You Hit &#39;Encode&#39;](https://dev.to/zhihu_wu_dea1d82af01a04d7/base64-decoded-what-actually-happens-when-you-hit-encode-1h06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
