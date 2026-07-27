@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The DeepSeek Leak: Why Infrastructure Secrets Matter More Than Model Weights](https://dev.to/james_lin/the-deepseek-leak-why-infrastructure-secrets-matter-more-than-model-weights-3c3n)
-- [Thumb Chords](https://dev.to/argenkiwi/thumb-chords-1j5)
-- [How to Collect Product Data from a Website with Python](https://dev.to/alock75/how-to-collect-product-data-from-a-website-with-python-268o)
-- [I turned plain English &lpar;and any live website&rpar; into API tests](https://dev.to/shankar_subramanian/i-turned-plain-english-and-any-live-website-into-api-tests-42a1)
-- [Proving Zero Trust Actually Works: Entra ID + Cloudflare Access over Both OIDC and SAML](https://dev.to/darkedges/proving-zero-trust-actually-works-entra-id-cloudflare-access-over-both-oidc-and-saml-4f7d)
+- [Turn any PDF into clean Markdown with a self-hosted Docling API](https://dev.to/greatsage_sh/turn-any-pdf-into-clean-markdown-with-a-self-hosted-docling-api-4f1m)
+- [Infrastructure as Code with Terraform: The Basics You Need to Know](https://dev.to/cloudfrontier/infrastructure-as-code-with-terraform-the-basics-you-need-to-know-5g11)
+- [Advanced Server-Side Caching Patterns in Next.js](https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-1gfm)
+- [The Four-Pass Check I Run Before Calling Anything Shipped](https://dev.to/raxxostudios/the-four-pass-check-i-run-before-calling-anything-shipped-m86)
+- [Deploy Python Apps for Free: Complete 2025 Guide](https://dev.to/qingluan/deploy-python-apps-for-free-complete-2025-guide-37kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
