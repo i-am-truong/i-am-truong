@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turn any PDF into clean Markdown with a self-hosted Docling API](https://dev.to/greatsage_sh/turn-any-pdf-into-clean-markdown-with-a-self-hosted-docling-api-4f1m)
-- [Infrastructure as Code with Terraform: The Basics You Need to Know](https://dev.to/cloudfrontier/infrastructure-as-code-with-terraform-the-basics-you-need-to-know-5g11)
-- [Advanced Server-Side Caching Patterns in Next.js](https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-1gfm)
-- [The Four-Pass Check I Run Before Calling Anything Shipped](https://dev.to/raxxostudios/the-four-pass-check-i-run-before-calling-anything-shipped-m86)
-- [Deploy Python Apps for Free: Complete 2025 Guide](https://dev.to/qingluan/deploy-python-apps-for-free-complete-2025-guide-37kg)
+- [Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c)
+- [From Learning to Implementation: My Journey with Firebase Analytics &amp; GA4](https://dev.to/dainyjose/from-learning-to-implementation-my-journey-with-firebase-analytics-ga4-1hjg)
+- [My Comment Pipeline Marks a Thread &quot;Handled&quot; the Moment I Reply Once. A Follow-Up Question Proved It Wrong.](https://dev.to/enjoy_kumawat/my-comment-pipeline-marks-a-thread-handled-the-moment-i-reply-once-a-follow-up-question-proved-313k)
+- [Building a Financial Document OCR with Claude Vision API: Lessons from Production](https://dev.to/cleanstmt/building-a-financial-document-ocr-with-claude-vision-api-lessons-from-production-3m3o)
+- [How I Reduced My OPEX By 99.5% Using Go](https://dev.to/andreimerlescu/how-i-reduced-my-opex-by-995-using-go-3ff7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
