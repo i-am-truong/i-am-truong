@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most free mahjong games can deal you a board you can&#39;t finish. I built mine backwards.](https://dev.to/dev_nash/most-free-mahjong-games-can-deal-you-a-board-you-cant-finish-i-built-mine-backwards-1cia)
-- [Human-in-the-Loop Agentic DevOps: Govern AI Automation in GitHub Issues](https://dev.to/pwd9000/human-in-the-loop-agentic-devops-govern-ai-automation-in-github-issues-472h)
-- [I tried to build an Apple Shortcut from code. Apple said no, four times.](https://dev.to/eugeniya_ivanova_4a58eadc/i-tried-to-build-an-apple-shortcut-from-code-apple-said-no-four-times-4l5d)
-- [I Used to Hate App Updates. Then I Saw What Happens Behind the Screen](https://dev.to/qapilot/i-used-to-hate-app-updates-then-i-saw-what-happens-behind-the-screen-339b)
-- [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
+- [Why Dependencies Are Your Biggest Security Risk](https://dev.to/lucky3mc/why-dependencies-are-your-biggest-security-risk-4ko8)
+- [The Skill Audit](https://dev.to/diyaburman/the-skill-audit-2427)
+- [Your gRPC stream is &quot;healthy&quot; and serving nothing: synthetic monitoring for server-side streams](https://dev.to/youngpib0dy/your-grpc-stream-is-healthy-and-serving-nothing-synthetic-monitoring-for-server-side-streams-5gcn)
+- [I kept losing context between LLMs, so I built a Markdown-based memory layer &lpar;and here is what I learned&rpar;](https://dev.to/etkaozer/i-kept-losing-context-between-llms-so-i-built-a-markdown-based-memory-layer-and-here-is-what-i-4jfj)
+- [Building a Small, Local-First Web Audio Tool &lpar;and the Edge Cases I Didn&#39;t Expect&rpar;](https://dev.to/zack_e36e64fd6fcd12ebbc13/building-a-small-local-first-web-audio-tool-and-the-edge-cases-i-didnt-expect-o1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
