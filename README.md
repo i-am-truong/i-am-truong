@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Dependencies Are Your Biggest Security Risk](https://dev.to/lucky3mc/why-dependencies-are-your-biggest-security-risk-4ko8)
-- [The Skill Audit](https://dev.to/diyaburman/the-skill-audit-2427)
-- [Your gRPC stream is &quot;healthy&quot; and serving nothing: synthetic monitoring for server-side streams](https://dev.to/youngpib0dy/your-grpc-stream-is-healthy-and-serving-nothing-synthetic-monitoring-for-server-side-streams-5gcn)
-- [I kept losing context between LLMs, so I built a Markdown-based memory layer &lpar;and here is what I learned&rpar;](https://dev.to/etkaozer/i-kept-losing-context-between-llms-so-i-built-a-markdown-based-memory-layer-and-here-is-what-i-4jfj)
-- [Building a Small, Local-First Web Audio Tool &lpar;and the Edge Cases I Didn&#39;t Expect&rpar;](https://dev.to/zack_e36e64fd6fcd12ebbc13/building-a-small-local-first-web-audio-tool-and-the-edge-cases-i-didnt-expect-o1f)
+- [Episode 3: High-Level Design](https://dev.to/surajrkhonde/episode-3-high-level-design-1e8b)
+- [WHERE $1::timestamptz IS NULL OR &quot;timestamp&quot; &gt; $1](https://dev.to/franckpachot/where-1timestamptz-is-null-or-timestamp-1-55kf)
+- [How to tell an ad experiment is unwinnable before you run it](https://dev.to/ivitskiy/how-to-tell-an-ad-experiment-is-unwinnable-before-you-run-it-21c4)
+- [What Spain&#39;s Verifactu law actually does to your backend](https://dev.to/beel/what-spains-verifactu-law-actually-does-to-your-backend-2b77)
+- [From GitHub Issue to Pull Request: Running Claude Code Unattended](https://dev.to/serghei/from-github-issue-to-pull-request-running-claude-code-unattended-2d6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
