@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How FaultBox helped me solve a storage corruption bug I couldn&#39;t reproduce](https://dev.to/nodedb/how-faultbox-helped-me-solve-a-storage-corruption-bug-i-couldnt-reproduce-1nf9)
-- [Agentic Ledger: an open source flight recorder for AI agents &lpar;looking for testers and contributors&rpar;](https://dev.to/shek_bake_1eda6ed9b79f7a1/agentic-ledger-an-open-source-flight-recorder-for-ai-agents-looking-for-testers-and-contributors-4go0)
-- [The Test Framework Is Not the Product](https://dev.to/mellowthunder735/the-test-framework-is-not-the-product-h90)
-- [Nine Months of Nagging, Zero Reading](https://dev.to/anchildress1/nine-months-of-nagging-zero-reading-2fgc)
-- [AI Coding Agents Don&#39;t Understand APIs. They Memorize Them.](https://dev.to/prabhuavula7/ai-coding-agents-dont-understand-apis-they-memorize-them-288h)
+- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
+- [I Tested 7 AI OSINT Agents on My Own Digital Footprint - Here&#39;s What They Found in 4 Minutes](https://dev.to/numbpill3d/i-tested-7-ai-osint-agents-on-my-own-digital-footprint-heres-what-they-found-in-4-minutes-27fn)
+- [Architecting Zero Trust for Enterprise AI Pipelines](https://dev.to/alifunk/architecting-zero-trust-for-enterprise-ai-pipelines-30p)
+- [Resurrecting the Panasonic WJ-MX50 in WebGPU](https://dev.to/sebs/resurrecting-the-panasonic-wj-mx50-in-webgpu-3ali)
+- [How to Write a Career Change Resume That Actually Gets Interviews](https://dev.to/larbisahli_/how-to-write-a-career-change-resume-that-actually-gets-interviews-217g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
