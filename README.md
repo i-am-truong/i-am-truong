@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Episode 3: High-Level Design](https://dev.to/surajrkhonde/episode-3-high-level-design-1e8b)
-- [WHERE $1::timestamptz IS NULL OR &quot;timestamp&quot; &gt; $1](https://dev.to/franckpachot/where-1timestamptz-is-null-or-timestamp-1-55kf)
-- [How to tell an ad experiment is unwinnable before you run it](https://dev.to/ivitskiy/how-to-tell-an-ad-experiment-is-unwinnable-before-you-run-it-21c4)
-- [What Spain&#39;s Verifactu law actually does to your backend](https://dev.to/beel/what-spains-verifactu-law-actually-does-to-your-backend-2b77)
-- [From GitHub Issue to Pull Request: Running Claude Code Unattended](https://dev.to/serghei/from-github-issue-to-pull-request-running-claude-code-unattended-2d6o)
+- [From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j)
+- [Sir Shortoken: Bullet Mode, Local Expansion, and What Actually Held Up](https://dev.to/shouvik12/sir-shortoken-bullet-mode-local-expansion-and-what-actually-held-up-591p)
+- [Markdown Studio - a browser-based HTML-to-Markdown converter](https://dev.to/datavis/markdown-studio-a-browser-based-html-to-markdown-converter-1jn8)
+- [Kiro and the Future of AI-Assisted Development](https://dev.to/dionarodrigues/kiro-and-the-future-of-ai-assisted-development-4nam)
+- [I Went Looking for Windows GDID. What I Found Was an Entire Identity Stack](https://dev.to/philanderjocelyn/i-went-looking-for-windows-gdid-what-i-found-was-an-entire-identity-stack-27fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
