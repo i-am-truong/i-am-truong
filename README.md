@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The rollback endpoint took a deployment ID and did nothing with it](https://dev.to/jonny2k26/the-rollback-endpoint-took-a-deployment-id-and-did-nothing-with-it-3nad)
-- [The five primitives I run a whole company on](https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl)
-- [I Replaced ESLint and Prettier with Biome](https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5)
-- [How to Start Bug Bounty Hunting in 2026: The Complete Beginner&#39;s Guide](https://dev.to/b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-3cn4)
-- [Turning surprise AI bills into accountable growth](https://dev.to/softchris/turning-surprise-ai-bills-into-accountable-growth-4343)
+- [Fix Your Search, Fix Your RAG Output](https://dev.to/jon_handler_9bb3e6b4a2fd0/fix-your-search-fix-your-rag-output-1mom)
+- [How well is your company actually adopting AI right now?](https://dev.to/mjmirza/shredding-libraries-to-train-ai-is-your-companys-ai-rollout-sped-up-2ko2)
+- [What MCP Is Actually For, Explained With 200 Bottles of Wine](https://dev.to/jagduvi1/what-mcp-is-actually-for-explained-with-200-bottles-of-wine-4i81)
+- [Vibe coding gets you 80% of the way. Nobody prepares you for the remaining 20%](https://dev.to/mahmoudz/vibe-coding-gets-you-80-of-the-way-nobody-prepares-you-for-the-remaining-20-4f9l)
+- [Building Custom MCP Clients in Next.js &amp; Serverless Engines: The Ultimate Engineering Guide](https://dev.to/programmingcentral/building-custom-mcp-clients-in-nextjs-serverless-engines-the-ultimate-engineering-guide-63d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
