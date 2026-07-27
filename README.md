@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j)
-- [Sir Shortoken: Bullet Mode, Local Expansion, and What Actually Held Up](https://dev.to/shouvik12/sir-shortoken-bullet-mode-local-expansion-and-what-actually-held-up-591p)
-- [Markdown Studio - a browser-based HTML-to-Markdown converter](https://dev.to/datavis/markdown-studio-a-browser-based-html-to-markdown-converter-1jn8)
-- [Kiro and the Future of AI-Assisted Development](https://dev.to/dionarodrigues/kiro-and-the-future-of-ai-assisted-development-4nam)
-- [I Went Looking for Windows GDID. What I Found Was an Entire Identity Stack](https://dev.to/philanderjocelyn/i-went-looking-for-windows-gdid-what-i-found-was-an-entire-identity-stack-27fb)
+- [The rollback endpoint took a deployment ID and did nothing with it](https://dev.to/jonny2k26/the-rollback-endpoint-took-a-deployment-id-and-did-nothing-with-it-3nad)
+- [The five primitives I run a whole company on](https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl)
+- [I Replaced ESLint and Prettier with Biome](https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5)
+- [How to Start Bug Bounty Hunting in 2026: The Complete Beginner&#39;s Guide](https://dev.to/b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-3cn4)
+- [Turning surprise AI bills into accountable growth](https://dev.to/softchris/turning-surprise-ai-bills-into-accountable-growth-4343)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
