@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Put Our Router on an Academic Benchmark. Here Are the Numbers We&#39;d Rather Hide.](https://dev.to/lynkr/we-put-our-router-on-an-academic-benchmark-here-are-the-numbers-wed-rather-hide-1c83)
-- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 18: MariaDB&#39;s Secure Install, and Why &#39;Read-Only&#39; Needs More Than ec2:Describe](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-18-mariadbs-secure-install-and-why-read-only-needs-3h93)
-- [SQLazy：Conditional Running Total with Reset](https://dev.to/esproc_spl/sqlazyconditional-running-total-with-reset-47oo)
-- [Anatomy of the Data Access Contract: Protect Your Domain from Framework Leaks &lpar;Chapter 3&rpar;](https://dev.to/kamenivanov/anatomy-of-the-data-access-contract-protect-your-domain-from-framework-leaks-chapter-3-ni)
-- [Building an AI Support Inbox for How WhatsApp Teams Actually Work](https://dev.to/indra_gunanda_62bce13f91e/building-an-ai-support-inbox-for-how-whatsapp-teams-actually-work-o3)
+- [Most free mahjong games can deal you a board you can&#39;t finish. I built mine backwards.](https://dev.to/dev_nash/most-free-mahjong-games-can-deal-you-a-board-you-cant-finish-i-built-mine-backwards-1cia)
+- [Human-in-the-Loop Agentic DevOps: Govern AI Automation in GitHub Issues](https://dev.to/pwd9000/human-in-the-loop-agentic-devops-govern-ai-automation-in-github-issues-472h)
+- [I tried to build an Apple Shortcut from code. Apple said no, four times.](https://dev.to/eugeniya_ivanova_4a58eadc/i-tried-to-build-an-apple-shortcut-from-code-apple-said-no-four-times-4l5d)
+- [I Used to Hate App Updates. Then I Saw What Happens Behind the Screen](https://dev.to/qapilot/i-used-to-hate-app-updates-then-i-saw-what-happens-behind-the-screen-339b)
+- [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
