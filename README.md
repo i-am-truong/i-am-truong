@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
-- [I Tested 7 AI OSINT Agents on My Own Digital Footprint - Here&#39;s What They Found in 4 Minutes](https://dev.to/numbpill3d/i-tested-7-ai-osint-agents-on-my-own-digital-footprint-heres-what-they-found-in-4-minutes-27fn)
-- [Architecting Zero Trust for Enterprise AI Pipelines](https://dev.to/alifunk/architecting-zero-trust-for-enterprise-ai-pipelines-30p)
-- [Resurrecting the Panasonic WJ-MX50 in WebGPU](https://dev.to/sebs/resurrecting-the-panasonic-wj-mx50-in-webgpu-3ali)
-- [How to Write a Career Change Resume That Actually Gets Interviews](https://dev.to/larbisahli_/how-to-write-a-career-change-resume-that-actually-gets-interviews-217g)
+- [Closure: o que o JavaScript se recusa a deixar pra trás](https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c)
+- [Beyond Binary Input: The Engineering Cost of the Analog Keyboard Paradigm Shift](https://dev.to/james_lin/beyond-binary-input-the-engineering-cost-of-the-analog-keyboard-paradigm-shift-4ccg)
+- [The Laws That Quietly Govern Good Software &lpar;Part One&rpar;](https://dev.to/prof001/the-laws-that-quietly-govern-good-software-part-one-4054)
+- [Paving the wrong Path: What a Broken Government System Taught Me About Feedback Loops](https://dev.to/dobybaxter127/paving-the-wrong-path-what-a-broken-government-system-taught-me-about-feedback-loops-2h24)
+- [Replacing spaCy&#39;s Sentencizer with yasbd: From 55.4% to 98.9% Accuracy](https://dev.to/speed_k_7e1b449706e59e433/replacing-spacys-sentencizer-with-yasbd-from-554-to-989-accuracy-5f0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
