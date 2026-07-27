@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c)
-- [From Learning to Implementation: My Journey with Firebase Analytics &amp; GA4](https://dev.to/dainyjose/from-learning-to-implementation-my-journey-with-firebase-analytics-ga4-1hjg)
-- [My Comment Pipeline Marks a Thread &quot;Handled&quot; the Moment I Reply Once. A Follow-Up Question Proved It Wrong.](https://dev.to/enjoy_kumawat/my-comment-pipeline-marks-a-thread-handled-the-moment-i-reply-once-a-follow-up-question-proved-313k)
-- [Building a Financial Document OCR with Claude Vision API: Lessons from Production](https://dev.to/cleanstmt/building-a-financial-document-ocr-with-claude-vision-api-lessons-from-production-3m3o)
-- [How I Reduced My OPEX By 99.5% Using Go](https://dev.to/andreimerlescu/how-i-reduced-my-opex-by-995-using-go-3ff7)
+- [We Put Our Router on an Academic Benchmark. Here Are the Numbers We&#39;d Rather Hide.](https://dev.to/lynkr/we-put-our-router-on-an-academic-benchmark-here-are-the-numbers-wed-rather-hide-1c83)
+- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 18: MariaDB&#39;s Secure Install, and Why &#39;Read-Only&#39; Needs More Than ec2:Describe](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-18-mariadbs-secure-install-and-why-read-only-needs-3h93)
+- [SQLazy：Conditional Running Total with Reset](https://dev.to/esproc_spl/sqlazyconditional-running-total-with-reset-47oo)
+- [Anatomy of the Data Access Contract: Protect Your Domain from Framework Leaks &lpar;Chapter 3&rpar;](https://dev.to/kamenivanov/anatomy-of-the-data-access-contract-protect-your-domain-from-framework-leaks-chapter-3-ni)
+- [Building an AI Support Inbox for How WhatsApp Teams Actually Work](https://dev.to/indra_gunanda_62bce13f91e/building-an-ai-support-inbox-for-how-whatsapp-teams-actually-work-o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
