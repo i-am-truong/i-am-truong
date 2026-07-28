@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run and Compare AI Evaluations with a CLI for Developers and Coding Agents](https://dev.to/quantiles-io/run-and-compare-ai-evaluations-with-a-cli-for-developers-and-coding-agents-385m)
-- [Building TypeScript-Native Observability: Async Context and Execution Flow](https://dev.to/raju_dandigam/building-typescript-native-observability-async-context-and-execution-flow-9f7)
-- [We Open-Sourced Both Halves of Our Security Stack — Detection and Deliberation](https://dev.to/conchaestradamiguelangeldroid/we-open-sourced-both-halves-of-our-security-stack-detection-and-deliberation-4p1p)
-- [Done Is Finally Better Than Perfect](https://dev.to/lksvn/done-is-finally-better-than-perfect-2ok6)
-- [Optimizing an 18 TB Azure SQL Hyperscale Database — Part 1: Context &amp; Principles](https://dev.to/kostyabartashevich/optimizing-an-18-tb-azure-sql-hyperscale-database-part-1-context-principles-508i)
+- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
+- [AgentENV: Distributed Runtime for AI Agents at Scale &lpar;Open Source, Rust&rpar;](https://dev.to/manoir_yantai_f22f01340f0/agentenv-distributed-runtime-for-ai-agents-at-scale-open-source-rust-457d)
+- [I Made REGENT: An MCP Server for Configuring OpenWrt Routers Through an AI](https://dev.to/m-o-z-z-i-x/i-made-regent-an-mcp-server-for-configuring-openwrt-routers-through-an-ai-2j62)
+- [Build a Spinning Mechanical TV with a Raspberry Pi Pico](https://dev.to/circuitrocks/build-a-spinning-mechanical-tv-with-a-raspberry-pi-pico-56k)
+- [Physics-Augmented Diffusion Modeling for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-satellite-anomaly-response-operations-with-embodied-agent-2e1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
