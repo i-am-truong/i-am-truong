@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond APIs: The Architecture of Autonomous &quot;Computer Use&quot; Agents in TypeScript](https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g)
-- [BoltOS: The new era of challenging hobby OS development. &lpar;FULL DOOM PORT AND DRIVERS!&rpar;](https://dev.to/adrian-thebolt/boltos-the-new-era-of-challenging-hobby-os-development-full-doom-port-and-drivers-1gn8)
-- [How I built a zero-server, 100% private web toolkit &lpar;UtilityKits&rpar;](https://dev.to/ajay_mauli_c2fe3402e8aca0/how-i-built-a-zero-server-100-private-web-toolkit-utilitykits-47gp)
-- [Translate Git Commit Messages Offline Without Rewriting Code](https://dev.to/paladini/translate-git-commit-messages-offline-without-rewriting-code-49he)
-- [OpenAI Presence: Voice Agents You Can&#39;t Self-Serve](https://dev.to/lukeocodes/openai-presence-voice-agents-you-cant-self-serve-1aa5)
+- [Run and Compare AI Evaluations with a CLI for Developers and Coding Agents](https://dev.to/quantiles-io/run-and-compare-ai-evaluations-with-a-cli-for-developers-and-coding-agents-385m)
+- [Building TypeScript-Native Observability: Async Context and Execution Flow](https://dev.to/raju_dandigam/building-typescript-native-observability-async-context-and-execution-flow-9f7)
+- [We Open-Sourced Both Halves of Our Security Stack — Detection and Deliberation](https://dev.to/conchaestradamiguelangeldroid/we-open-sourced-both-halves-of-our-security-stack-detection-and-deliberation-4p1p)
+- [Done Is Finally Better Than Perfect](https://dev.to/lksvn/done-is-finally-better-than-perfect-2ok6)
+- [Optimizing an 18 TB Azure SQL Hyperscale Database — Part 1: Context &amp; Principles](https://dev.to/kostyabartashevich/optimizing-an-18-tb-azure-sql-hyperscale-database-part-1-context-principles-508i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
