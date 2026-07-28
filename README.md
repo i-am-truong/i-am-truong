@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Has an agent ever burned your budget overnight? How do you guard against it?](https://dev.to/alzarucco/has-an-agent-ever-burned-your-budget-overnight-how-do-you-guard-against-it-567c)
-- [Part 2. The Spring @Transactional Pattern That Drained Our Hikari Pool](https://dev.to/olga_ermolaeva_f7bd121ab9/part-2-the-spring-transactional-pattern-that-drained-our-hikari-pool-1jdo)
-- [Smartphone Market Scenario: Key Trends, Consumer Demand, Innovation, and Future Growth Outlook](https://dev.to/dipali444/smartphone-market-scenario-key-trends-consumer-demand-innovation-and-future-growth-outlook-151k)
-- [Screen Reader Handling of ARIA Live Regions: Timing, Interruptions, and Debugging](https://dev.to/mspk97/screen-reader-handling-of-aria-live-regions-timing-interruptions-and-debugging-404p)
-- [Confidence Is Not Authorization: A Safer GitHub Issue-Automation Policy](https://dev.to/zira125/confidence-is-not-authorization-a-safer-github-issue-automation-policy-4o01)
+- [Manage Scopes of Work: a /sow Skill for Claude Code](https://dev.to/gbti-network/manage-scopes-of-work-a-sow-skill-for-claude-code-33ke)
+- [Disposable macOS Sandboxes for AI Agents: Test Safely, Every Time](https://dev.to/aniketmaurya/disposable-macos-sandboxes-for-ai-agents-test-safely-every-time-3och)
+- [I Added `--retries 2` to Our Pipeline. It Took Me Eight Months to Understand What I&#39;d Done.](https://dev.to/henry_messiahtmt_099ca84/i-added-retries-2-to-our-pipeline-it-took-me-eight-months-to-understand-what-id-done-1983)
+- [$request_time Looks Fast, But Users Say It&#39;&#39;s Slow: Breaking nginx Latency into 4 Parts](https://dev.to/shinagawa-web/requesttime-looks-fast-but-users-say-its-slow-breaking-nginx-latency-into-4-parts-1pn9)
+- [KV Cache Quantization: I Stretched Qwen 35B&#39;s Context 8 on 12GB VRAM](https://dev.to/kenimo49/kv-cache-quantization-i-stretched-qwen-35bs-context-8x-on-12gb-vram-2o8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
