@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
-- [Running parallel Claude Code agents on Laravel with Orca: my setup and archive scripts](https://dev.to/croustibat44/running-parallel-claude-code-agents-on-laravel-with-orca-my-setup-and-archive-scripts-3ijn)
-- [🔐 How Modern Applications Protect User Data](https://dev.to/codexlancers/how-modern-applications-protect-user-data-4f97)
-- [🔒 Secure File Uploads: 12 Critical Security Checks Most Developers Miss](https://dev.to/codexlancers/secure-file-uploads-12-critical-security-checks-most-developers-miss-54h1)
-- [🔐 API Security Checklist for Every Startup](https://dev.to/codexlancers/api-security-checklist-for-every-startup-426f)
+- [Has an agent ever burned your budget overnight? How do you guard against it?](https://dev.to/alzarucco/has-an-agent-ever-burned-your-budget-overnight-how-do-you-guard-against-it-567c)
+- [Part 2. The Spring @Transactional Pattern That Drained Our Hikari Pool](https://dev.to/olga_ermolaeva_f7bd121ab9/part-2-the-spring-transactional-pattern-that-drained-our-hikari-pool-1jdo)
+- [Smartphone Market Scenario: Key Trends, Consumer Demand, Innovation, and Future Growth Outlook](https://dev.to/dipali444/smartphone-market-scenario-key-trends-consumer-demand-innovation-and-future-growth-outlook-151k)
+- [Screen Reader Handling of ARIA Live Regions: Timing, Interruptions, and Debugging](https://dev.to/mspk97/screen-reader-handling-of-aria-live-regions-timing-interruptions-and-debugging-404p)
+- [Confidence Is Not Authorization: A Safer GitHub Issue-Automation Policy](https://dev.to/zira125/confidence-is-not-authorization-a-safer-github-issue-automation-policy-4o01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
