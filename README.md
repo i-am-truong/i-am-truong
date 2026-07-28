@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Manage Scopes of Work: a /sow Skill for Claude Code](https://dev.to/gbti-network/manage-scopes-of-work-a-sow-skill-for-claude-code-33ke)
-- [Disposable macOS Sandboxes for AI Agents: Test Safely, Every Time](https://dev.to/aniketmaurya/disposable-macos-sandboxes-for-ai-agents-test-safely-every-time-3och)
-- [I Added `--retries 2` to Our Pipeline. It Took Me Eight Months to Understand What I&#39;d Done.](https://dev.to/henry_messiahtmt_099ca84/i-added-retries-2-to-our-pipeline-it-took-me-eight-months-to-understand-what-id-done-1983)
-- [$request_time Looks Fast, But Users Say It&#39;&#39;s Slow: Breaking nginx Latency into 4 Parts](https://dev.to/shinagawa-web/requesttime-looks-fast-but-users-say-its-slow-breaking-nginx-latency-into-4-parts-1pn9)
-- [KV Cache Quantization: I Stretched Qwen 35B&#39;s Context 8 on 12GB VRAM](https://dev.to/kenimo49/kv-cache-quantization-i-stretched-qwen-35bs-context-8x-on-12gb-vram-2o8j)
+- [We Built an MCP Registry That Agents Can List Themselves — x402, Analytics, and Smart Tags](https://dev.to/anhmtk/we-built-an-mcp-registry-that-agents-can-list-themselves-x402-analytics-and-smart-tags-4amg)
+- [Merge Conflicts Are a Process Problem, Not a Git Problem](https://dev.to/codecraft_diary_3d13677fb/merge-conflicts-are-a-process-problem-not-a-git-problem-4m9p)
+- [Quanto delegar para agentes de IA? Um framework simples](https://dev.to/lucas_fogaca/quanto-delegar-para-agentes-de-ia-um-framework-simples-2nb8)
+- [I Built 120+ Free Online Tools. Here Are 10 Mistakes I&#39;d Never Make Again.](https://dev.to/talha_ramzan_3878156fea8c/i-built-120-free-online-tools-here-are-10-mistakes-id-never-make-again-k2p)
+- [Offensive audit — How to periodically audit a whole business flow &lpar;for self-taught developers&rpar;](https://dev.to/dexterlung/offensive-audit-how-to-periodically-audit-a-whole-business-flow-for-self-taught-developers-45f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
