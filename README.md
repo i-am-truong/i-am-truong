@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built an MCP Registry That Agents Can List Themselves — x402, Analytics, and Smart Tags](https://dev.to/anhmtk/we-built-an-mcp-registry-that-agents-can-list-themselves-x402-analytics-and-smart-tags-4amg)
-- [Merge Conflicts Are a Process Problem, Not a Git Problem](https://dev.to/codecraft_diary_3d13677fb/merge-conflicts-are-a-process-problem-not-a-git-problem-4m9p)
-- [Quanto delegar para agentes de IA? Um framework simples](https://dev.to/lucas_fogaca/quanto-delegar-para-agentes-de-ia-um-framework-simples-2nb8)
-- [I Built 120+ Free Online Tools. Here Are 10 Mistakes I&#39;d Never Make Again.](https://dev.to/talha_ramzan_3878156fea8c/i-built-120-free-online-tools-here-are-10-mistakes-id-never-make-again-k2p)
-- [Offensive audit — How to periodically audit a whole business flow &lpar;for self-taught developers&rpar;](https://dev.to/dexterlung/offensive-audit-how-to-periodically-audit-a-whole-business-flow-for-self-taught-developers-45f1)
+- [I Had Zero Programming Experience. Two Months Later, I Built My First Real-World Solution.](https://dev.to/hanayo/i-had-zero-programming-experience-two-months-later-i-built-my-first-real-world-solution-4840)
+- [One Repo Became Three — Quietly, Then Publicl](https://dev.to/yujisuzuki/one-repo-became-three-quietly-then-publicl-4ofd)
+- [Beyond Cyclic Polling: Objects, Classes, and Outstation State in DNP3](https://dev.to/null_saint/beyond-cyclic-polling-objects-classes-and-outstation-state-in-dnp3-be9)
+- [Introducing Volare: A Buildless 3D Model Viewer for the Web](https://dev.to/marwanwelzeiny/introducing-volare-a-buildless-3d-model-viewer-for-the-web-eb5)
+- [I stopped installing opaque AI agents and started copying their source](https://dev.to/agentskit/i-stopped-installing-opaque-ai-agents-and-started-copying-their-source-6gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
