@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
-- [AgentENV: Distributed Runtime for AI Agents at Scale &lpar;Open Source, Rust&rpar;](https://dev.to/manoir_yantai_f22f01340f0/agentenv-distributed-runtime-for-ai-agents-at-scale-open-source-rust-457d)
-- [I Made REGENT: An MCP Server for Configuring OpenWrt Routers Through an AI](https://dev.to/m-o-z-z-i-x/i-made-regent-an-mcp-server-for-configuring-openwrt-routers-through-an-ai-2j62)
-- [Build a Spinning Mechanical TV with a Raspberry Pi Pico](https://dev.to/circuitrocks/build-a-spinning-mechanical-tv-with-a-raspberry-pi-pico-56k)
-- [Physics-Augmented Diffusion Modeling for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-satellite-anomaly-response-operations-with-embodied-agent-2e1e)
+- [Looking for a Working GNOME Grayscale &amp; Eye Strain Filter? How I Fixed &quot;Tint All&quot; &amp; Built Pasynkov Tint](https://dev.to/fedor-pasynkov/looking-for-a-working-gnome-grayscale-eye-strain-filter-how-i-fixed-tint-all-built-pasynkov-182o)
+- [Python Data Model - Part 1](https://dev.to/brunotlps/python-data-model-part-1-492k)
+- [Google reCAPTCHA v2 and v3 in React, Vue, or Angular, with one prop](https://dev.to/souhailmakni/google-recaptcha-v2-and-v3-in-react-vue-or-angular-with-one-prop-13d9)
+- [Common Mistakes Beginner Software Engineers Make &lpar;And How to Avoid Them&rpar;](https://dev.to/zainaboyedeji/common-mistakes-beginner-software-engineers-make-and-how-to-avoid-them-1em6)
+- [I Added an MCP Server to NPMScan for AI Coding Agents](https://dev.to/block_hacks/i-added-an-mcp-server-to-npmscan-for-ai-coding-agents-njp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
