@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bifrost AI Gateway Would Have Saved My App](https://dev.to/lorenzojkrl/bifrost-ai-gateway-would-have-saved-my-app-4ao4)
-- [JWT Authentication in Node.js - A Complete Beginner Guide With Code](https://dev.to/tisatechcourses/jwt-authentication-in-nodejs-a-complete-beginner-guide-with-code-5fo8)
-- [React Performance Optimization Techniques That Actually Work](https://dev.to/software_solutions_740799/react-performance-optimization-techniques-that-actually-work-2e1k)
-- [Procedure for Modifying a SquashFS-Based Live Linux System](https://dev.to/vast-cow/procedure-for-modifying-a-squashfs-based-live-linux-system-1kd6)
-- [Solon Cloud: The Distributed Toolkit That Doesn&#39;t Lock You In](https://dev.to/solonjava/solon-cloud-the-distributed-toolkit-that-doesnt-lock-you-in-3h6i)
+- [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
+- [Running parallel Claude Code agents on Laravel with Orca: my setup and archive scripts](https://dev.to/croustibat44/running-parallel-claude-code-agents-on-laravel-with-orca-my-setup-and-archive-scripts-3ijn)
+- [🔐 How Modern Applications Protect User Data](https://dev.to/codexlancers/how-modern-applications-protect-user-data-4f97)
+- [🔒 Secure File Uploads: 12 Critical Security Checks Most Developers Miss](https://dev.to/codexlancers/secure-file-uploads-12-critical-security-checks-most-developers-miss-54h1)
+- [🔐 API Security Checklist for Every Startup](https://dev.to/codexlancers/api-security-checklist-for-every-startup-426f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
