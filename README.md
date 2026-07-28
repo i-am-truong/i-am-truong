@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 1.12. Lifetimes &lpar;Advanced&rpar; Pt.2 - Lifetime Variance, Covariance, Invariance, Contravariance](https://dev.to/someb1oody/advanced-rust-112-lifetimes-advanced-pt2-lifetime-variance-covariance-invariance-1lkc)
-- [[Advanced Rust] 1.11. Lifetimes &lpar;Advanced&rpar; Pt.1 - Review, Borrow Checker, Generic Lifetimes](https://dev.to/someb1oody/advanced-rust-111-lifetimes-advanced-pt1-review-borrow-checker-generic-lifetimes-2o6c)
-- [Dysphoria: A 200k-Device Botnet Using Blockchain Name Resolution and Infected Device Relays](https://dev.to/anoymask/dysphoria-a-200k-device-botnet-using-blockchain-name-resolution-and-infected-device-relays-2188)
-- [Public Wi‑Fi DNS Poisoning: Hijacking Microsoft 365 Sessions of Business Travelers](https://dev.to/anoymask/public-wi-fi-dns-poisoning-hijacking-microsoft-365-sessions-of-business-travelers-1g5n)
-- [FortiOS CVE-2025-68686: Bypass of Symlink Persistence Mitigation for Already Compromised Devices](https://dev.to/anoymask/fortios-cve-2025-68686-bypass-of-symlink-persistence-mitigation-for-already-compromised-devices-3534)
+- [What Is Kimi K3? Complete 2026 Guide to Moonshot AI&#39;s Open Source Model](https://dev.to/tony_dillard/what-is-kimi-k3-complete-2026-guide-to-moonshot-ais-open-source-model-565j)
+- [How I Built a Free Audible Credit Value Optimizer — and Why Most Subscribers Waste Their Credits](https://dev.to/ahmed_isam_752b775a50fd90/how-i-built-a-free-audible-credit-value-optimizer-and-why-most-subscribers-waste-their-credits-364e)
+- [Practical Web Scraping in Python: Playwright, Scrapy, and Where They Meet](https://dev.to/unixnick/practical-web-scraping-in-python-playwright-scrapy-and-where-they-meet-44)
+- [I Built &lpar;Almost&rpar; My Whole Play Store Listing Without Opening Figma — Here&#39;s the Free Tool That Did It](https://dev.to/eldhopaulose/i-built-almost-my-whole-play-store-listing-without-opening-figma-heres-the-free-tool-that-did-522o)
+- [The Comprehensive Racket &amp; Functional Programming Cheat Sheet](https://dev.to/otumianempire/the-comprehensive-racket-functional-programming-cheat-sheet-4jb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
