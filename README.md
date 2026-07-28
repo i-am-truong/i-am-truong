@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Had Zero Programming Experience. Two Months Later, I Built My First Real-World Solution.](https://dev.to/hanayo/i-had-zero-programming-experience-two-months-later-i-built-my-first-real-world-solution-4840)
-- [One Repo Became Three — Quietly, Then Publicl](https://dev.to/yujisuzuki/one-repo-became-three-quietly-then-publicl-4ofd)
-- [Beyond Cyclic Polling: Objects, Classes, and Outstation State in DNP3](https://dev.to/null_saint/beyond-cyclic-polling-objects-classes-and-outstation-state-in-dnp3-be9)
-- [Introducing Volare: A Buildless 3D Model Viewer for the Web](https://dev.to/marwanwelzeiny/introducing-volare-a-buildless-3d-model-viewer-for-the-web-eb5)
-- [I stopped installing opaque AI agents and started copying their source](https://dev.to/agentskit/i-stopped-installing-opaque-ai-agents-and-started-copying-their-source-6gb)
+- [[Advanced Rust] 1.13. Memory Types Pt.1 - Alignment, Layout, and the Repr Attribute](https://dev.to/someb1oody/advanced-rust-113-memory-types-pt1-alignment-layout-and-the-repr-attribute-32a6)
+- [Why Cursor Writes IDOR Into Your API Routes &lpar;CWE-639&rpar;](https://dev.to/c_k_fb750e731394/why-cursor-writes-idor-into-your-api-routes-cwe-639-imi)
+- [NVIDIA Shipped a Model That Sees and Hears — It Just Didn’t Run on a Mac. So I Wrote the Missing Piece.](https://dev.to/matt_macosko_f3829cfd86b8/nvidia-shipped-a-model-that-sees-and-hears-it-just-didnt-run-on-a-mac-so-i-wrote-the-missing-50pe)
+- [Building AI Agents with the Kotlin Agent Development Kit &lpar;ADK&rpar;](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa)
+- [Active Working Memory: The RAM of Agentic Systems](https://dev.to/kenwalger/active-working-memory-the-ram-of-agentic-systems-4ldh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
