@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Kimi K3? Complete 2026 Guide to Moonshot AI&#39;s Open Source Model](https://dev.to/tony_dillard/what-is-kimi-k3-complete-2026-guide-to-moonshot-ais-open-source-model-565j)
-- [How I Built a Free Audible Credit Value Optimizer — and Why Most Subscribers Waste Their Credits](https://dev.to/ahmed_isam_752b775a50fd90/how-i-built-a-free-audible-credit-value-optimizer-and-why-most-subscribers-waste-their-credits-364e)
-- [Practical Web Scraping in Python: Playwright, Scrapy, and Where They Meet](https://dev.to/unixnick/practical-web-scraping-in-python-playwright-scrapy-and-where-they-meet-44)
-- [I Built &lpar;Almost&rpar; My Whole Play Store Listing Without Opening Figma — Here&#39;s the Free Tool That Did It](https://dev.to/eldhopaulose/i-built-almost-my-whole-play-store-listing-without-opening-figma-heres-the-free-tool-that-did-522o)
-- [The Comprehensive Racket &amp; Functional Programming Cheat Sheet](https://dev.to/otumianempire/the-comprehensive-racket-functional-programming-cheat-sheet-4jb5)
+- [Bifrost AI Gateway Would Have Saved My App](https://dev.to/lorenzojkrl/bifrost-ai-gateway-would-have-saved-my-app-4ao4)
+- [JWT Authentication in Node.js - A Complete Beginner Guide With Code](https://dev.to/tisatechcourses/jwt-authentication-in-nodejs-a-complete-beginner-guide-with-code-5fo8)
+- [React Performance Optimization Techniques That Actually Work](https://dev.to/software_solutions_740799/react-performance-optimization-techniques-that-actually-work-2e1k)
+- [Procedure for Modifying a SquashFS-Based Live Linux System](https://dev.to/vast-cow/procedure-for-modifying-a-squashfs-based-live-linux-system-1kd6)
+- [Solon Cloud: The Distributed Toolkit That Doesn&#39;t Lock You In](https://dev.to/solonjava/solon-cloud-the-distributed-toolkit-that-doesnt-lock-you-in-3h6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
