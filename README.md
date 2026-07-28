@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 1.13. Memory Types Pt.1 - Alignment, Layout, and the Repr Attribute](https://dev.to/someb1oody/advanced-rust-113-memory-types-pt1-alignment-layout-and-the-repr-attribute-32a6)
-- [Why Cursor Writes IDOR Into Your API Routes &lpar;CWE-639&rpar;](https://dev.to/c_k_fb750e731394/why-cursor-writes-idor-into-your-api-routes-cwe-639-imi)
-- [NVIDIA Shipped a Model That Sees and Hears — It Just Didn’t Run on a Mac. So I Wrote the Missing Piece.](https://dev.to/matt_macosko_f3829cfd86b8/nvidia-shipped-a-model-that-sees-and-hears-it-just-didnt-run-on-a-mac-so-i-wrote-the-missing-50pe)
-- [Building AI Agents with the Kotlin Agent Development Kit &lpar;ADK&rpar;](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa)
-- [Active Working Memory: The RAM of Agentic Systems](https://dev.to/kenwalger/active-working-memory-the-ram-of-agentic-systems-4ldh)
+- [Beyond APIs: The Architecture of Autonomous &quot;Computer Use&quot; Agents in TypeScript](https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g)
+- [BoltOS: The new era of challenging hobby OS development. &lpar;FULL DOOM PORT AND DRIVERS!&rpar;](https://dev.to/adrian-thebolt/boltos-the-new-era-of-challenging-hobby-os-development-full-doom-port-and-drivers-1gn8)
+- [How I built a zero-server, 100% private web toolkit &lpar;UtilityKits&rpar;](https://dev.to/ajay_mauli_c2fe3402e8aca0/how-i-built-a-zero-server-100-private-web-toolkit-utilitykits-47gp)
+- [Translate Git Commit Messages Offline Without Rewriting Code](https://dev.to/paladini/translate-git-commit-messages-offline-without-rewriting-code-49he)
+- [OpenAI Presence: Voice Agents You Can&#39;t Self-Serve](https://dev.to/lukeocodes/openai-presence-voice-agents-you-cant-self-serve-1aa5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
