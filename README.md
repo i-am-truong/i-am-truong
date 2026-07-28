@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Closure: o que o JavaScript se recusa a deixar pra trás](https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c)
-- [Beyond Binary Input: The Engineering Cost of the Analog Keyboard Paradigm Shift](https://dev.to/james_lin/beyond-binary-input-the-engineering-cost-of-the-analog-keyboard-paradigm-shift-4ccg)
-- [The Laws That Quietly Govern Good Software &lpar;Part One&rpar;](https://dev.to/prof001/the-laws-that-quietly-govern-good-software-part-one-4054)
-- [Paving the wrong Path: What a Broken Government System Taught Me About Feedback Loops](https://dev.to/dobybaxter127/paving-the-wrong-path-what-a-broken-government-system-taught-me-about-feedback-loops-2h24)
-- [Replacing spaCy&#39;s Sentencizer with yasbd: From 55.4% to 98.9% Accuracy](https://dev.to/speed_k_7e1b449706e59e433/replacing-spacys-sentencizer-with-yasbd-from-554-to-989-accuracy-5f0d)
+- [[Advanced Rust] 1.12. Lifetimes &lpar;Advanced&rpar; Pt.2 - Lifetime Variance, Covariance, Invariance, Contravariance](https://dev.to/someb1oody/advanced-rust-112-lifetimes-advanced-pt2-lifetime-variance-covariance-invariance-1lkc)
+- [[Advanced Rust] 1.11. Lifetimes &lpar;Advanced&rpar; Pt.1 - Review, Borrow Checker, Generic Lifetimes](https://dev.to/someb1oody/advanced-rust-111-lifetimes-advanced-pt1-review-borrow-checker-generic-lifetimes-2o6c)
+- [Dysphoria: A 200k-Device Botnet Using Blockchain Name Resolution and Infected Device Relays](https://dev.to/anoymask/dysphoria-a-200k-device-botnet-using-blockchain-name-resolution-and-infected-device-relays-2188)
+- [Public Wi‑Fi DNS Poisoning: Hijacking Microsoft 365 Sessions of Business Travelers](https://dev.to/anoymask/public-wi-fi-dns-poisoning-hijacking-microsoft-365-sessions-of-business-travelers-1g5n)
+- [FortiOS CVE-2025-68686: Bypass of Symlink Persistence Mitigation for Already Compromised Devices](https://dev.to/anoymask/fortios-cve-2025-68686-bypass-of-symlink-persistence-mitigation-for-already-compromised-devices-3534)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
