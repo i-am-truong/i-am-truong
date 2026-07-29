@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form](https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o)
-- [Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩](https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4)
-- [The Era of Probabilistic Defense Is Over](https://dev.to/mariatanbobo/the-era-of-probabilistic-defense-is-over-4d0n)
-- [The Death of the App Store: How AI Agents Killed Individual Apps](https://dev.to/theaiprism/the-death-of-the-app-store-how-ai-agents-killed-individual-apps-2jff)
-- [How to Build a Profitable Chrome Extension in 2025](https://dev.to/qingluan/how-to-build-a-profitable-chrome-extension-in-2025-940)
+- [How to Replace a Google Form With a Real HTML Form on Your Site](https://dev.to/mathiasahlgren/how-to-replace-a-google-form-with-a-real-html-form-on-your-site-5hh4)
+- [# What I Learned from Building with GIS Data and the Copernicus API at the KijaniSpace Hackathon](https://dev.to/victorouma7/-what-i-learned-from-building-with-gis-data-and-the-copernicus-api-at-the-kijanispace-hackathon-5c05)
+- [How to Install and Configure the STON.fi SDK](https://dev.to/ivan_cryptovazimazima/how-to-install-and-configure-the-stonfi-sdk-3kia)
+- [How to Rescue a Failed Odoo Implementation: A Consultant&#39;s Triage Playbook](https://dev.to/mohit_777aded202b4d39397d/how-to-rescue-a-failed-odoo-implementation-a-consultants-triage-playbook-38fl)
+- [How do you measure something that gives a different answer every time?](https://dev.to/agustaon/how-do-you-measure-something-that-gives-a-different-answer-every-time-55m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
