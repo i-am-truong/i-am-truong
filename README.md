@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Latency Is the Real UX Problem in AI Avatars, Not the Voice](https://dev.to/__d34ca/latency-is-the-real-ux-problem-in-ai-avatars-not-the-voice-937)
-- [Building an AI Operating Layer - Episode 1: Why I Didn&#39;t Start Sooner](https://dev.to/jarrodcabarubio/building-an-ai-operating-layer-episode-1-why-i-didnt-start-sooner-5ab9)
-- [I run a registry that tracks 218 AI and SaaS tools. 18 are already dead or dying - here are the patterns](https://dev.to/sergei_arbo_0f42ee01a7399/i-run-a-registry-that-tracks-218-ai-and-saas-tools-18-are-already-dead-or-dying-here-are-the-1533)
-- [How I Found a HIGH-Severity AI Security Issue on Khan Academy&#39;s VDP](https://dev.to/galeops/how-i-found-a-high-severity-ai-security-issue-on-khan-academys-vdp-2n1)
-- [OpenAI Codex Security Enters Research Preview, Clarifying Its Role in the Codex Ecosystem](https://dev.to/alifar/openai-codex-security-enters-research-preview-clarifying-its-role-in-the-codex-ecosystem-23j3)
+- [# Stop Trading Like It&#39;s 1999 — An LLM Crypto Bot That Sees Charts, Remembers Trades, and Learns From Mistakes](https://dev.to/qrak/-stop-trading-like-its-1999-an-llm-crypto-bot-that-sees-charts-remembers-trades-and-learns-1cd1)
+- [Installing Apache Hadoop 3.4.2 on Linux 2026 &lpar;Single Node Cluster&rpar; Complete Step-by-Step Guide](https://dev.to/adityapidurkar/installing-apache-hadoop-342-on-linux-2026-single-node-cluster-complete-step-by-step-guide-2bnl)
+- [Supporting Multiple iOS Versions in SwiftUI Without Turning Your Views Into a Mess](https://dev.to/emadbeyrami/supporting-multiple-ios-versions-in-swiftui-without-turning-your-views-into-a-mess-52oc)
+- [Solution to Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/solution-to-challenge-2-data-grid-validation-and-crud-operations-3bdl)
+- [ratatop day 2: the memory box, and the lie in `free -h`](https://dev.to/lovestaco/ratatop-day-2-the-memory-box-and-the-lie-in-free-h-h67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
