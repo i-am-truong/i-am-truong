@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Says llms.txt Does Not Affect Search or AI Overviews: What SEO Teams Should Do](https://dev.to/alifar/google-says-llmstxt-does-not-affect-search-or-ai-overviews-what-seo-teams-should-do-2f81)
-- [Salesforce API Testing with Playwright + TypeScript: A Practical Enterprise Guide &lpar;2026 Edition&rpar;](https://dev.to/himanshuai/salesforce-api-testing-with-playwright-typescript-a-practical-enterprise-guide-2026-edition-36d2)
-- [Your OTP resend button is a race condition &lpar;and it&#39;s charging you twice&rpar;](https://dev.to/smsrtdev7273/your-otp-resend-button-is-a-race-condition-and-its-charging-you-twice-46jp)
-- [How to Use One OpenAI-Compatible API for Multiple AI Models](https://dev.to/chen_qin/how-to-use-one-openai-compatible-api-for-multiple-ai-models-2l90)
-- [IPv6 Addressing and Subnetting](https://dev.to/godofgeeks/ipv6-addressing-and-subnetting-234h)
+- [ElevenLabs Expands ElevenAgents for Omnichannel Support and Ticketing](https://dev.to/alifar/elevenlabs-expands-elevenagents-for-omnichannel-support-and-ticketing-khk)
+- [Building an Aruba Central Producer in Go: Four API edge cases we had to solve](https://dev.to/skhell/building-an-aruba-central-producer-in-go-four-api-edge-cases-we-had-to-solve-p60)
+- [Part 3: The Angular Change Detection Mistakes That Make Large Apps Feel Slow](https://dev.to/alejandrodeveloper/part-3-the-angular-change-detection-mistakes-that-make-large-apps-feel-slow-309m)
+- [MCP Agents, Explained: What Actually Makes an LLM an &quot;Agent&quot;](https://dev.to/langensjonathan/mcp-agents-explained-what-actually-makes-an-llm-an-agent-12a0)
+- [Social Media Comments as a Support Queue: A Practical Workflow for Developers and Community Teams](https://dev.to/lenabrooks/social-media-comments-as-a-support-queue-a-practical-workflow-for-developers-and-community-teams-2lk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
