@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s GPT-5 Science Report Puts Human Stewardship at the Center of AI Research](https://dev.to/alifar/openais-gpt-5-science-report-puts-human-stewardship-at-the-center-of-ai-research-3h0c)
-- [The pipeline passed. The data still needs proof.](https://dev.to/jerry_king_d0ee94a9bca82f/the-pipeline-passed-the-data-still-needs-proof-4coa)
-- [Claude Opus 5 Is Better at Coding and Harder to Trust](https://dev.to/aditi_gupta_8d81622a592aa/claude-opus-5-is-better-at-coding-and-harder-to-trust-4ga5)
-- [I Built an AI Agent With Claude Code, Then Had Claude Review Its Own Work](https://dev.to/codebay88/i-built-an-ai-agent-with-claude-code-then-had-claude-review-its-own-work-175a)
-- [Six articles, 200 views. So I read the feed&#39;s source code.](https://dev.to/davidloibner/six-articles-200-views-so-i-read-the-feeds-source-code-4ek8)
+- [Why We Built Bitweave: Sub-Millisecond Hybrid Retrieval in &lt;1.1 MB RSS Memory](https://dev.to/cteague2018/why-we-built-bitweave-sub-millisecond-hybrid-retrieval-in-11-mb-rss-memory-5bkk)
+- [Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)
+- [How I Built an NDA-Safe CSV to Markdown Converter &lpar;100% Client-Side&rpar;](https://dev.to/vcoder_studio/how-i-built-an-nda-safe-csv-to-markdown-converter-100-client-side-1io)
+- [garden-skills packages taste and process for AI coding agents](https://dev.to/renolu/garden-skills-packages-taste-and-process-for-ai-coding-agents-jca)
+- [Before Grok Build Uploads Your Repo, Show the Outbound Receipt](https://dev.to/demivalerith/before-grok-build-uploads-your-repo-show-the-outbound-receipt-3h4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
