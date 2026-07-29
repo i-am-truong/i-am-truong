@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I schedule work and communication with Morgen](https://dev.to/geewiz/how-i-schedule-work-and-communication-with-morgen-4lb1)
-- [Orquestração Resiliente de LLMs: Como Construí uma Engine em Python, PyTorch e DeepSpeed Capaz de Sustentar 1 Milhão de Passos sem Erros de OOM](https://dev.to/nobazzy/orquestracao-resiliente-de-llms-como-construi-uma-engine-em-python-pytorch-e-deepspeed-capaz-de-195e)
-- [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b)
-- [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/aws-builders/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-3khg)
-- [Montando um Cluster Kubernetes On-Premise — Parte 6: Deploy, Atualização e Escalabilidade de uma Aplicação Própria](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-6-deploy-atualizacao-e-escalabilidade-de-uma-588g)
+- [Send your events later](https://dev.to/aws-heroes/send-your-events-later-25ha)
+- [The Dashboard Was Green. The Customers Were Angry.](https://dev.to/omieee_24/the-dashboard-was-green-the-customers-were-angry-279o)
+- [Google Product Visibility: When to Use GBP, Local Inventory, and Merchant Center](https://dev.to/alifar/google-product-visibility-when-to-use-gbp-local-inventory-and-merchant-center-4e8m)
+- [Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized](https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md)
+- [Why Your Playwright Tests Keep Breaking &lpar;And How Vision LLMs Are Fixing Web Automation Forever&rpar;](https://dev.to/programmingcentral/why-your-playwright-tests-keep-breaking-and-how-vision-llms-are-fixing-web-automation-forever-2393)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
