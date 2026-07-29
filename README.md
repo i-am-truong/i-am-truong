@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a Working GNOME Grayscale &amp; Eye Strain Filter? How I Fixed &quot;Tint All&quot; &amp; Built Pasynkov Tint](https://dev.to/fedor-pasynkov/looking-for-a-working-gnome-grayscale-eye-strain-filter-how-i-fixed-tint-all-built-pasynkov-182o)
-- [Python Data Model - Part 1](https://dev.to/brunotlps/python-data-model-part-1-492k)
-- [Google reCAPTCHA v2 and v3 in React, Vue, or Angular, with one prop](https://dev.to/souhailmakni/google-recaptcha-v2-and-v3-in-react-vue-or-angular-with-one-prop-13d9)
-- [Common Mistakes Beginner Software Engineers Make &lpar;And How to Avoid Them&rpar;](https://dev.to/zainaboyedeji/common-mistakes-beginner-software-engineers-make-and-how-to-avoid-them-1em6)
-- [I Added an MCP Server to NPMScan for AI Coding Agents](https://dev.to/block_hacks/i-added-an-mcp-server-to-npmscan-for-ai-coding-agents-njp)
+- [My eval said a perfect MCP server was broken. It was the eval that was lying.](https://dev.to/tengbyte/my-eval-said-a-perfect-mcp-server-was-broken-it-was-the-eval-that-was-lying-4fbm)
+- [I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments](https://dev.to/xenocoregiger31/i-built-a-security-tool-that-proves-its-own-exploits-then-got-a-better-threat-model-in-the-42e1)
+- [Your RAG Index Might Be Lying to You: Data Freshness Is the Missing Signal for AI Systems](https://dev.to/anirudh_rajmohan/your-rag-index-might-be-lying-to-you-data-freshness-is-the-missing-signal-for-ai-systems-3ema)
+- [Docker returns to its coding-agent series with an argument shaped like a CI problem: no layer between the agent and the host](https://dev.to/leobaniak/docker-returns-to-its-coding-agent-series-with-an-argument-shaped-like-a-ci-problem-no-layer-3eo6)
+- [What Replacing Calendly Taught Me About Trusting Open Source](https://dev.to/pascal_cescato_692b7a8a20/what-replacing-calendly-taught-me-about-trusting-open-source-540a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
