@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built Bitweave: Sub-Millisecond Hybrid Retrieval in &lt;1.1 MB RSS Memory](https://dev.to/cteague2018/why-we-built-bitweave-sub-millisecond-hybrid-retrieval-in-11-mb-rss-memory-5bkk)
-- [Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)
-- [How I Built an NDA-Safe CSV to Markdown Converter &lpar;100% Client-Side&rpar;](https://dev.to/vcoder_studio/how-i-built-an-nda-safe-csv-to-markdown-converter-100-client-side-1io)
-- [garden-skills packages taste and process for AI coding agents](https://dev.to/renolu/garden-skills-packages-taste-and-process-for-ai-coding-agents-jca)
-- [Before Grok Build Uploads Your Repo, Show the Outbound Receipt](https://dev.to/demivalerith/before-grok-build-uploads-your-repo-show-the-outbound-receipt-3h4b)
+- [Why does parsing scientific papers for RAG still break on equations and tables?](https://dev.to/thyaggo/why-does-parsing-scientific-papers-for-rag-still-break-on-equations-and-tables-5b99)
+- [Handling Empty Response Bodies in Retrofit with a Null-on-Empty Converter Factory](https://dev.to/_anubhav/handling-empty-response-bodies-in-retrofit-with-a-null-on-empty-converter-factory-358g)
+- [LLD Data Structures in Design Context: Why Modern Software Needs Fast Lookup Before Anything Else](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-modern-software-needs-fast-lookup-before-anything-else-4m8)
+- [Upgrading Appwrite on CapRover from 1.4.13 to 1.9.5](https://dev.to/tinhochu/upgrading-appwrite-on-caprover-from-1413-to-195-m6n)
+- [Prompt Cache Write Cost: When Does the 1.25x Premium Pay?](https://dev.to/synthorai/prompt-cache-write-cost-when-does-the-125x-premium-pay-2j62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
