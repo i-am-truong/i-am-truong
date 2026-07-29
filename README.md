@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Send your events later](https://dev.to/aws-heroes/send-your-events-later-25ha)
-- [The Dashboard Was Green. The Customers Were Angry.](https://dev.to/omieee_24/the-dashboard-was-green-the-customers-were-angry-279o)
-- [Google Product Visibility: When to Use GBP, Local Inventory, and Merchant Center](https://dev.to/alifar/google-product-visibility-when-to-use-gbp-local-inventory-and-merchant-center-4e8m)
-- [Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized](https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md)
-- [Why Your Playwright Tests Keep Breaking &lpar;And How Vision LLMs Are Fixing Web Automation Forever&rpar;](https://dev.to/programmingcentral/why-your-playwright-tests-keep-breaking-and-how-vision-llms-are-fixing-web-automation-forever-2393)
+- [Latency Is the Real UX Problem in AI Avatars, Not the Voice](https://dev.to/__d34ca/latency-is-the-real-ux-problem-in-ai-avatars-not-the-voice-937)
+- [Building an AI Operating Layer - Episode 1: Why I Didn&#39;t Start Sooner](https://dev.to/jarrodcabarubio/building-an-ai-operating-layer-episode-1-why-i-didnt-start-sooner-5ab9)
+- [I run a registry that tracks 218 AI and SaaS tools. 18 are already dead or dying - here are the patterns](https://dev.to/sergei_arbo_0f42ee01a7399/i-run-a-registry-that-tracks-218-ai-and-saas-tools-18-are-already-dead-or-dying-here-are-the-1533)
+- [How I Found a HIGH-Severity AI Security Issue on Khan Academy&#39;s VDP](https://dev.to/galeops/how-i-found-a-high-severity-ai-security-issue-on-khan-academys-vdp-2n1)
+- [OpenAI Codex Security Enters Research Preview, Clarifying Its Role in the Codex Ecosystem](https://dev.to/alifar/openai-codex-security-enters-research-preview-clarifying-its-role-in-the-codex-ecosystem-23j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
