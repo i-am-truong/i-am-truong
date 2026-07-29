@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why does parsing scientific papers for RAG still break on equations and tables?](https://dev.to/thyaggo/why-does-parsing-scientific-papers-for-rag-still-break-on-equations-and-tables-5b99)
-- [Handling Empty Response Bodies in Retrofit with a Null-on-Empty Converter Factory](https://dev.to/_anubhav/handling-empty-response-bodies-in-retrofit-with-a-null-on-empty-converter-factory-358g)
-- [LLD Data Structures in Design Context: Why Modern Software Needs Fast Lookup Before Anything Else](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-modern-software-needs-fast-lookup-before-anything-else-4m8)
-- [Upgrading Appwrite on CapRover from 1.4.13 to 1.9.5](https://dev.to/tinhochu/upgrading-appwrite-on-caprover-from-1413-to-195-m6n)
-- [Prompt Cache Write Cost: When Does the 1.25x Premium Pay?](https://dev.to/synthorai/prompt-cache-write-cost-when-does-the-125x-premium-pay-2j62)
+- [Workfront MCP and Claude: a field report from production](https://dev.to/thousandcuts/workfront-mcp-and-claude-a-field-report-from-production-35fl)
+- [I Trust My AI Completely—Except When It Says “Done”](https://dev.to/octoooo/i-trust-my-ai-completely-except-when-it-says-done-4pe1)
+- [Model + Harness = Agent: The Gap Isn’t Where You Think](https://dev.to/octoooo/model-harness-agent-the-gap-isnt-where-you-think-3i3h)
+- [Patch Now: Active Storage CVE-2026-66066](https://dev.to/cseeman/patch-now-active-storage-cve-2026-66066-53gp)
+- [IT Industry Secrets Revealed](https://dev.to/raddevus/it-industry-secrets-revealed-o7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
