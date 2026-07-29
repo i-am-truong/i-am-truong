@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Stop Trading Like It&#39;s 1999 — An LLM Crypto Bot That Sees Charts, Remembers Trades, and Learns From Mistakes](https://dev.to/qrak/-stop-trading-like-its-1999-an-llm-crypto-bot-that-sees-charts-remembers-trades-and-learns-1cd1)
-- [Installing Apache Hadoop 3.4.2 on Linux 2026 &lpar;Single Node Cluster&rpar; Complete Step-by-Step Guide](https://dev.to/adityapidurkar/installing-apache-hadoop-342-on-linux-2026-single-node-cluster-complete-step-by-step-guide-2bnl)
-- [Supporting Multiple iOS Versions in SwiftUI Without Turning Your Views Into a Mess](https://dev.to/emadbeyrami/supporting-multiple-ios-versions-in-swiftui-without-turning-your-views-into-a-mess-52oc)
-- [Solution to Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/solution-to-challenge-2-data-grid-validation-and-crud-operations-3bdl)
-- [ratatop day 2: the memory box, and the lie in `free -h`](https://dev.to/lovestaco/ratatop-day-2-the-memory-box-and-the-lie-in-free-h-h67)
+- [LLM TRADER BOT](https://dev.to/qrak/llm-trader-bot-3625)
+- [How to write technical posts that survive AI noise](https://dev.to/nahamaalochi/how-to-write-technical-posts-that-survive-ai-noise-875)
+- [DSA | Random Generator | Can you come up with a solution?](https://dev.to/cgs-9/dsa-random-generator-can-you-come-up-with-a-solution-31gn)
+- [Home Cantina: A Modern Glassmorphism Comfort Food Landing Page](https://dev.to/deleanmafra/home-cantina-a-modern-glassmorphism-comfort-food-landing-page-296p)
+- [🧵 ThreadLocal no Java 21 – o que mudou, o que continua e quando você deve &lpar;ou não&rpar; usar](https://dev.to/fabiothomazrocha/threadlocal-no-java-21-o-que-mudou-o-que-continua-e-quando-voce-deve-ou-nao-usar-36gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
