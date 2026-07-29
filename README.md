@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Replace a Google Form With a Real HTML Form on Your Site](https://dev.to/mathiasahlgren/how-to-replace-a-google-form-with-a-real-html-form-on-your-site-5hh4)
-- [# What I Learned from Building with GIS Data and the Copernicus API at the KijaniSpace Hackathon](https://dev.to/victorouma7/-what-i-learned-from-building-with-gis-data-and-the-copernicus-api-at-the-kijanispace-hackathon-5c05)
-- [How to Install and Configure the STON.fi SDK](https://dev.to/ivan_cryptovazimazima/how-to-install-and-configure-the-stonfi-sdk-3kia)
-- [How to Rescue a Failed Odoo Implementation: A Consultant&#39;s Triage Playbook](https://dev.to/mohit_777aded202b4d39397d/how-to-rescue-a-failed-odoo-implementation-a-consultants-triage-playbook-38fl)
-- [How do you measure something that gives a different answer every time?](https://dev.to/agustaon/how-do-you-measure-something-that-gives-a-different-answer-every-time-55m5)
+- [Google Says llms.txt Does Not Affect Search or AI Overviews: What SEO Teams Should Do](https://dev.to/alifar/google-says-llmstxt-does-not-affect-search-or-ai-overviews-what-seo-teams-should-do-2f81)
+- [Salesforce API Testing with Playwright + TypeScript: A Practical Enterprise Guide &lpar;2026 Edition&rpar;](https://dev.to/himanshuai/salesforce-api-testing-with-playwright-typescript-a-practical-enterprise-guide-2026-edition-36d2)
+- [Your OTP resend button is a race condition &lpar;and it&#39;s charging you twice&rpar;](https://dev.to/smsrtdev7273/your-otp-resend-button-is-a-race-condition-and-its-charging-you-twice-46jp)
+- [How to Use One OpenAI-Compatible API for Multiple AI Models](https://dev.to/chen_qin/how-to-use-one-openai-compatible-api-for-multiple-ai-models-2l90)
+- [IPv6 Addressing and Subnetting](https://dev.to/godofgeeks/ipv6-addressing-and-subnetting-234h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
