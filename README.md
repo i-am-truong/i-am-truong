@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My eval said a perfect MCP server was broken. It was the eval that was lying.](https://dev.to/tengbyte/my-eval-said-a-perfect-mcp-server-was-broken-it-was-the-eval-that-was-lying-4fbm)
-- [I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments](https://dev.to/xenocoregiger31/i-built-a-security-tool-that-proves-its-own-exploits-then-got-a-better-threat-model-in-the-42e1)
-- [Your RAG Index Might Be Lying to You: Data Freshness Is the Missing Signal for AI Systems](https://dev.to/anirudh_rajmohan/your-rag-index-might-be-lying-to-you-data-freshness-is-the-missing-signal-for-ai-systems-3ema)
-- [Docker returns to its coding-agent series with an argument shaped like a CI problem: no layer between the agent and the host](https://dev.to/leobaniak/docker-returns-to-its-coding-agent-series-with-an-argument-shaped-like-a-ci-problem-no-layer-3eo6)
-- [What Replacing Calendly Taught Me About Trusting Open Source](https://dev.to/pascal_cescato_692b7a8a20/what-replacing-calendly-taught-me-about-trusting-open-source-540a)
+- [A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form](https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o)
+- [Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩](https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4)
+- [The Era of Probabilistic Defense Is Over](https://dev.to/mariatanbobo/the-era-of-probabilistic-defense-is-over-4d0n)
+- [The Death of the App Store: How AI Agents Killed Individual Apps](https://dev.to/theaiprism/the-death-of-the-app-store-how-ai-agents-killed-individual-apps-2jff)
+- [How to Build a Profitable Chrome Extension in 2025](https://dev.to/qingluan/how-to-build-a-profitable-chrome-extension-in-2025-940)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
