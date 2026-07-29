@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs Expands ElevenAgents for Omnichannel Support and Ticketing](https://dev.to/alifar/elevenlabs-expands-elevenagents-for-omnichannel-support-and-ticketing-khk)
-- [Building an Aruba Central Producer in Go: Four API edge cases we had to solve](https://dev.to/skhell/building-an-aruba-central-producer-in-go-four-api-edge-cases-we-had-to-solve-p60)
-- [Part 3: The Angular Change Detection Mistakes That Make Large Apps Feel Slow](https://dev.to/alejandrodeveloper/part-3-the-angular-change-detection-mistakes-that-make-large-apps-feel-slow-309m)
-- [MCP Agents, Explained: What Actually Makes an LLM an &quot;Agent&quot;](https://dev.to/langensjonathan/mcp-agents-explained-what-actually-makes-an-llm-an-agent-12a0)
-- [Social Media Comments as a Support Queue: A Practical Workflow for Developers and Community Teams](https://dev.to/lenabrooks/social-media-comments-as-a-support-queue-a-practical-workflow-for-developers-and-community-teams-2lk7)
+- [OpenAI’s GPT-5 Science Report Puts Human Stewardship at the Center of AI Research](https://dev.to/alifar/openais-gpt-5-science-report-puts-human-stewardship-at-the-center-of-ai-research-3h0c)
+- [The pipeline passed. The data still needs proof.](https://dev.to/jerry_king_d0ee94a9bca82f/the-pipeline-passed-the-data-still-needs-proof-4coa)
+- [Claude Opus 5 Is Better at Coding and Harder to Trust](https://dev.to/aditi_gupta_8d81622a592aa/claude-opus-5-is-better-at-coding-and-harder-to-trust-4ga5)
+- [I Built an AI Agent With Claude Code, Then Had Claude Review Its Own Work](https://dev.to/codebay88/i-built-an-ai-agent-with-claude-code-then-had-claude-review-its-own-work-175a)
+- [Six articles, 200 views. So I read the feed&#39;s source code.](https://dev.to/davidloibner/six-articles-200-views-so-i-read-the-feeds-source-code-4ek8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
