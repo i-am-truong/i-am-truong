@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Workfront MCP and Claude: a field report from production](https://dev.to/thousandcuts/workfront-mcp-and-claude-a-field-report-from-production-35fl)
-- [I Trust My AI Completely—Except When It Says “Done”](https://dev.to/octoooo/i-trust-my-ai-completely-except-when-it-says-done-4pe1)
-- [Model + Harness = Agent: The Gap Isn’t Where You Think](https://dev.to/octoooo/model-harness-agent-the-gap-isnt-where-you-think-3i3h)
-- [Patch Now: Active Storage CVE-2026-66066](https://dev.to/cseeman/patch-now-active-storage-cve-2026-66066-53gp)
-- [IT Industry Secrets Revealed](https://dev.to/raddevus/it-industry-secrets-revealed-o7b)
+- [How I schedule work and communication with Morgen](https://dev.to/geewiz/how-i-schedule-work-and-communication-with-morgen-4lb1)
+- [Orquestração Resiliente de LLMs: Como Construí uma Engine em Python, PyTorch e DeepSpeed Capaz de Sustentar 1 Milhão de Passos sem Erros de OOM](https://dev.to/nobazzy/orquestracao-resiliente-de-llms-como-construi-uma-engine-em-python-pytorch-e-deepspeed-capaz-de-195e)
+- [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b)
+- [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/aws-builders/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-3khg)
+- [Montando um Cluster Kubernetes On-Premise — Parte 6: Deploy, Atualização e Escalabilidade de uma Aplicação Própria](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-6-deploy-atualizacao-e-escalabilidade-de-uma-588g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
