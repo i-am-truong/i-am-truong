@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dominando Impeccable: Diseño de habilidades para arquitectura frontend con IA](https://dev.to/angularfirebase/dominando-impeccable-diseno-de-habilidades-para-arquitectura-frontend-con-ia-1739)
-- [10 Best Swagger Alternatives for API Design, Testing, and Documentation in 2026](https://dev.to/therealmrmumba/10-best-swagger-alternatives-for-api-design-testing-and-documentation-in-2026-3nl5)
-- [Magento 2 Admin Grid Performance Optimization: Speed Up Your Backend](https://dev.to/magevanta/magento-2-admin-grid-performance-optimization-speed-up-your-backend-4nnk)
-- [Pg-Java v1.0 Debuts as New PostgreSQL Driver — Plus SQLite Fix &amp; DuckCon #7](https://dev.to/soytuber/pg-java-v10-debuts-as-new-postgresql-driver-plus-sqlite-fix-duckcon-7-3i6l)
-- [24 Best AI Design Tools for Designers and Developers in 2026](https://dev.to/hadil/24-best-ai-design-tools-for-designers-and-developers-in-2026-i1h)
+- [How HTTP Responses Work in Dell Boomi? | Dell Boomi Interview question](https://dev.to/realnamehidden1_61/how-http-responses-work-in-dell-boomi-dell-boomi-interview-question-5d11)
+- [The check was right. The key was wrong.](https://dev.to/anp2network/the-check-was-right-the-key-was-wrong-onp)
+- [CSA Says Harden Your Networks for the AI Storm. Here&#39;s How to Verify You Actually Did.](https://dev.to/bala_paranj_059d338e44e7e/csa-says-harden-your-networks-for-the-ai-storm-heres-how-to-verify-you-actually-did-1i58)
+- [Google Expands Gemini Spark as a Persistent AI Agent Across Its Product Ecosystem](https://dev.to/alifar/google-expands-gemini-spark-as-a-persistent-ai-agent-across-its-product-ecosystem-b1n)
+- [Atomarine: Nuclear Data Centers at Sea!](https://dev.to/mgobea/atomarine-nuclear-data-centers-at-sea-4d5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
