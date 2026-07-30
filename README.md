@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data, Context &amp; RAG Lineage Governance for Enterprise AI Agents](https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj)
-- [Building a Slack Approval Workflow That Deletes Cloud Infrastructure](https://dev.to/boaz_leleina_d884b75c4486/building-a-slack-approval-workflow-that-deletes-cloud-infrastructure-2ag3)
-- [[Advanced Rust] 1.14. Memory Types Pt.2 - Dynamically Sized Types and Wide Pointers, Packed Layouts, Larger Alignment for Speci…](https://dev.to/someb1oody/advanced-rust-114-memory-types-pt2-dynamically-sized-types-and-wide-pointers-packed-1ea2)
-- [AI Consent Ledger: Stop Voice Agents From Ignoring Revoked Permission](https://dev.to/jackm-singularity/ai-consent-ledger-stop-voice-agents-from-ignoring-revoked-permission-1kl6)
-- [Shared UI Means Shared Contracts, Not Shared Hosts](https://dev.to/iqtechsolutions/shared-ui-means-shared-contracts-not-shared-hosts-20i1)
+- [Dominando Impeccable: Diseño de habilidades para arquitectura frontend con IA](https://dev.to/angularfirebase/dominando-impeccable-diseno-de-habilidades-para-arquitectura-frontend-con-ia-1739)
+- [10 Best Swagger Alternatives for API Design, Testing, and Documentation in 2026](https://dev.to/therealmrmumba/10-best-swagger-alternatives-for-api-design-testing-and-documentation-in-2026-3nl5)
+- [Magento 2 Admin Grid Performance Optimization: Speed Up Your Backend](https://dev.to/magevanta/magento-2-admin-grid-performance-optimization-speed-up-your-backend-4nnk)
+- [Pg-Java v1.0 Debuts as New PostgreSQL Driver — Plus SQLite Fix &amp; DuckCon #7](https://dev.to/soytuber/pg-java-v10-debuts-as-new-postgresql-driver-plus-sqlite-fix-duckcon-7-3i6l)
+- [24 Best AI Design Tools for Designers and Developers in 2026](https://dev.to/hadil/24-best-ai-design-tools-for-designers-and-developers-in-2026-i1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
