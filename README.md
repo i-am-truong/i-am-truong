@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CamBridge: giving the iOS Simulator a real, moving camera image](https://dev.to/engelon/cambridge-giving-the-ios-simulator-a-real-moving-camera-image-1hdb)
-- [Solon File Upload: UploadedFile Over MultipartFile](https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf)
-- [Building a C++ HTTP Server from Scratch &lpar;Part 1&rpar;: Setting Up TCP Sockets](https://dev.to/devtan/building-a-c-http-server-from-scratch-part-1-setting-up-tcp-sockets-26id)
-- [Summer Log #4](https://dev.to/vobinax/summer-log-4-1mih)
-- [How to Connect Claude Code to Your CMS with MCP](https://dev.to/tonyspiro/how-to-connect-claude-code-to-your-cms-with-mcp-3n95)
+- [Presigned URLs vs proxying file uploads through your backend: cost, latency, security](https://dev.to/yukikobayashi880/presigned-urls-vs-proxying-file-uploads-through-your-backend-cost-latency-security-4pi0)
+- [Wetask Is Opening Its Task Runtime to External Workers](https://dev.to/tosiiko/wetask-is-opening-its-task-runtime-to-external-workers-1p2a)
+- [Why I don&#39;t use an LLM to secure my LLM](https://dev.to/wesellistools/why-i-dont-use-an-llm-to-secure-my-llm-1m2k)
+- [Termux-Sync: Don&#39;t Rebuild Termux. Restore It](https://dev.to/wsoe/termux-sync-dont-rebuild-termux-restore-it-4f9k)
+- [The Astro Image Gotcha That Broke Our Production Build and How We Fixed It](https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
