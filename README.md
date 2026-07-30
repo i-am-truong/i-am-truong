@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent&#39;s Memory Is a Markdown File. Let&#39;s Audit It.](https://dev.to/mjfekri/your-agents-memory-is-a-markdown-file-lets-audit-it-4l2n)
-- [DSCI series / Rakulang CI, part2. Cro Application](https://dev.to/sp1983/dsci-series-rakulang-ci-part2-cro-application-4ini)
-- [The 300px Canvas Bug That Shrunk My React Image Editor](https://dev.to/brian_liu_85cead238ea16be/the-300px-canvas-bug-that-shrunk-my-react-image-editor-508k)
-- [Emergent Design &amp; Gall&#39;s Law: When Complex Coding Problems Dissolve Instead of Being Solved](https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok)
-- [How to store AI-generated images per user in object storage and delete the old ones](https://dev.to/dawnli2026/how-to-store-ai-generated-images-per-user-in-object-storage-and-delete-the-old-ones-3cgo)
+- [Pironman 5 case fan stuck on after a Raspberry Pi OS kernel update? Here&#39;s the fix](https://dev.to/coridev/pironman-5-case-fan-stuck-on-after-a-raspberry-pi-os-kernel-update-heres-the-fix-2857)
+- [Stop Code Reviewing in the Dark: How Claude Became My Unofficial Senior Dev](https://dev.to/learnairesource/stop-code-reviewing-in-the-dark-how-claude-became-my-unofficial-senior-dev-3lk9)
+- [Why Next-Gen Models Like Kimi Need Deterministic AI Kernels](https://dev.to/manikse/why-next-gen-models-like-kimi-need-deterministic-ai-kernels-50hl)
+- [LLD Data Structures in Design Context: HashMap — The Mental Model Every Software Engineer Should Know](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-hashmap-the-mental-model-every-software-engineer-should-5dbi)
+- [# Beyond Chatbots: Why Developers Should Start Building AI + IoT Applications](https://dev.to/rohit124/-beyond-chatbots-why-developers-should-start-building-ai-iot-applications-k08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
