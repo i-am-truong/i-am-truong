@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Verify an AI Crawler Is Who It Says It Is](https://dev.to/inxprncd/how-to-verify-an-ai-crawler-is-who-it-says-it-is-470e)
-- [Relevance is not answerability: six signals, and none of them beat plain cosine](https://dev.to/gde03/relevance-is-not-answerability-six-signals-and-none-of-them-beat-plain-cosine-2f14)
-- [Congrats to the DEV Weekend Challenge: Passion Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne)
-- [What Learning Without AI Taught the Last Pre-AI Generation](https://dev.to/robat_das_3c6e956212f6408/what-learning-without-ai-taught-the-last-pre-ai-generation-3e29)
-- [Why Do Multi-Agent AI Systems Fail at Production Scale?](https://dev.to/robat_das_3c6e956212f6408/why-do-multi-agent-ai-systems-fail-at-production-scale-1oon)
+- [OpenAI’s National Science Initiative Brings Frontier AI Into Research Workflows](https://dev.to/alifar/openais-national-science-initiative-brings-frontier-ai-into-research-workflows-2g1m)
+- [Designing a Community Skill for AWS Transform Custom: AWS Glue 5.0 Upgrade Readiness](https://dev.to/dipayan_das/designing-a-community-skill-for-aws-transform-custom-aws-glue-50-upgrade-readiness-4m5n)
+- [Whizz: Your Esoteric Language that&#39;s Short as BF, but Easier to Write](https://dev.to/splotdev/whizz-short-as-bf-but-easier-to-write-1fa)
+- [Multipart upload of large AI-generated images to S3-compatible object storage](https://dev.to/seraphinalyn7139/multipart-upload-of-large-ai-generated-images-to-s3-compatible-object-storage-22bo)
+- [The token compressor that made my bill go up — and the proof it had to](https://dev.to/gaurav_gupte_f260c5ec68e5/the-token-compressor-that-made-my-bill-go-up-and-the-proof-it-had-to-ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
