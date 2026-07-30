@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wrestling with cURL: Meet glassnode-php, an Unofficial Glassnode SDK for PHP](https://dev.to/tigusigalpa/stop-wrestling-with-curl-meet-glassnode-php-an-unofficial-glassnode-sdk-for-php-1999)
-- [Kubernetes: Monitoring the Cluster with Prometheus](https://dev.to/celsonery/kubernetes-monitoring-the-cluster-with-prometheus-eb4)
-- [A Lei de Conway &lpar;DRAFT com Mermaid&rpar;: por que a sua arquitetura é o espelho da sua organização](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-conway-draft-com-mermaid-por-que-a-sua-arquitetura-e-o-espelho-da-sua-organizacao-bnl)
-- [How to Test AI Agents Without Calling More LLMs](https://dev.to/raju_dandigam/how-to-test-ai-agents-without-calling-more-llms-2ga6)
-- [LLD Data Structures in Design Context: Why HashMaps Feel So Fast — Understanding Performance Without Memorising Big-O](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-hashmaps-feel-so-fast-understanding-performance-2p7c)
+- [Supply Chain Attacks verstehen: Praktische Tipps zur Abwehr von 2026](https://dev.to/uhltak/supply-chain-attacks-verstehen-praktische-tipps-zur-abwehr-von-2026-37kl)
+- [3 MCP servers I actually use daily &lpar;and how to set them up&rpar;](https://dev.to/grahamduescn/3-mcp-servers-i-actually-use-daily-and-how-to-set-them-up-517m)
+- [Benchmarking Bun and Node.js for a High-Throughput Video Metadata API](https://dev.to/ahmet_gedik778845/benchmarking-bun-and-nodejs-for-a-high-throughput-video-metadata-api-2827)
+- [Giving every AI agent its own mailbox: the architecture behind a self-hosted MCP mail server](https://dev.to/tizer_luo/giving-every-ai-agent-its-own-mailbox-the-architecture-behind-a-self-hosted-mcp-mail-server-4d12)
+- [Durable, persistent memory for agents](https://dev.to/makeitrun/durable-persistent-memory-for-agents-4i9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
