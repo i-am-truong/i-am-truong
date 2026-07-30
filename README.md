@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How HTTP Responses Work in Dell Boomi? | Dell Boomi Interview question](https://dev.to/realnamehidden1_61/how-http-responses-work-in-dell-boomi-dell-boomi-interview-question-5d11)
-- [The check was right. The key was wrong.](https://dev.to/anp2network/the-check-was-right-the-key-was-wrong-onp)
-- [CSA Says Harden Your Networks for the AI Storm. Here&#39;s How to Verify You Actually Did.](https://dev.to/bala_paranj_059d338e44e7e/csa-says-harden-your-networks-for-the-ai-storm-heres-how-to-verify-you-actually-did-1i58)
-- [Google Expands Gemini Spark as a Persistent AI Agent Across Its Product Ecosystem](https://dev.to/alifar/google-expands-gemini-spark-as-a-persistent-ai-agent-across-its-product-ecosystem-b1n)
-- [Atomarine: Nuclear Data Centers at Sea!](https://dev.to/mgobea/atomarine-nuclear-data-centers-at-sea-4d5h)
+- [Your Agent&#39;s Memory Is a Markdown File. Let&#39;s Audit It.](https://dev.to/mjfekri/your-agents-memory-is-a-markdown-file-lets-audit-it-4l2n)
+- [DSCI series / Rakulang CI, part2. Cro Application](https://dev.to/sp1983/dsci-series-rakulang-ci-part2-cro-application-4ini)
+- [The 300px Canvas Bug That Shrunk My React Image Editor](https://dev.to/brian_liu_85cead238ea16be/the-300px-canvas-bug-that-shrunk-my-react-image-editor-508k)
+- [Emergent Design &amp; Gall&#39;s Law: When Complex Coding Problems Dissolve Instead of Being Solved](https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok)
+- [How to store AI-generated images per user in object storage and delete the old ones](https://dev.to/dawnli2026/how-to-store-ai-generated-images-per-user-in-object-storage-and-delete-the-old-ones-3cgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
