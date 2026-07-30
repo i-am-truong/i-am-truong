@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s National Science Initiative Brings Frontier AI Into Research Workflows](https://dev.to/alifar/openais-national-science-initiative-brings-frontier-ai-into-research-workflows-2g1m)
-- [Designing a Community Skill for AWS Transform Custom: AWS Glue 5.0 Upgrade Readiness](https://dev.to/dipayan_das/designing-a-community-skill-for-aws-transform-custom-aws-glue-50-upgrade-readiness-4m5n)
-- [Whizz: Your Esoteric Language that&#39;s Short as BF, but Easier to Write](https://dev.to/splotdev/whizz-short-as-bf-but-easier-to-write-1fa)
-- [Multipart upload of large AI-generated images to S3-compatible object storage](https://dev.to/seraphinalyn7139/multipart-upload-of-large-ai-generated-images-to-s3-compatible-object-storage-22bo)
-- [The token compressor that made my bill go up — and the proof it had to](https://dev.to/gaurav_gupte_f260c5ec68e5/the-token-compressor-that-made-my-bill-go-up-and-the-proof-it-had-to-ei)
+- [CamBridge: giving the iOS Simulator a real, moving camera image](https://dev.to/engelon/cambridge-giving-the-ios-simulator-a-real-moving-camera-image-1hdb)
+- [Solon File Upload: UploadedFile Over MultipartFile](https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf)
+- [Building a C++ HTTP Server from Scratch &lpar;Part 1&rpar;: Setting Up TCP Sockets](https://dev.to/devtan/building-a-c-http-server-from-scratch-part-1-setting-up-tcp-sockets-26id)
+- [Summer Log #4](https://dev.to/vobinax/summer-log-4-1mih)
+- [How to Connect Claude Code to Your CMS with MCP](https://dev.to/tonyspiro/how-to-connect-claude-code-to-your-cms-with-mcp-3n95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
