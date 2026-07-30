@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with Go: A Startup&#39;s Guide to Not Overengineering](https://dev.to/logical_bytes/building-scalable-apis-with-go-a-startups-guide-to-not-overengineering-445d)
-- [A Dead-Man&#39;s Switch for Scheduled Jobs &lpar;Because Silent Failures Rot Data&rpar;](https://dev.to/jenatechio/a-dead-mans-switch-for-scheduled-jobs-because-silent-failures-rot-data-3nmh)
-- [My Auto-Publish Pipeline Shipped a Two-Year-Old News Story. Here&#39;s the Fix — All Three Layers of It.](https://dev.to/jenatechio/my-auto-publish-pipeline-shipped-a-two-year-old-news-story-heres-the-fix-all-three-layers-of-it-4750)
-- [Your AI gave that fix 92% confidence. Nothing checked it.](https://dev.to/mohi_uddin_719/your-ai-gave-that-fix-92-confidence-nothing-checked-it-564)
-- [Raspberry Pi 5 Price History: How Far Have Prices Come?](https://dev.to/revenueclaw/raspberry-pi-5-price-history-how-far-have-prices-come-187h)
+- [How to Verify an AI Crawler Is Who It Says It Is](https://dev.to/inxprncd/how-to-verify-an-ai-crawler-is-who-it-says-it-is-470e)
+- [Relevance is not answerability: six signals, and none of them beat plain cosine](https://dev.to/gde03/relevance-is-not-answerability-six-signals-and-none-of-them-beat-plain-cosine-2f14)
+- [Congrats to the DEV Weekend Challenge: Passion Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne)
+- [What Learning Without AI Taught the Last Pre-AI Generation](https://dev.to/robat_das_3c6e956212f6408/what-learning-without-ai-taught-the-last-pre-ai-generation-3e29)
+- [Why Do Multi-Agent AI Systems Fail at Production Scale?](https://dev.to/robat_das_3c6e956212f6408/why-do-multi-agent-ai-systems-fail-at-production-scale-1oon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
