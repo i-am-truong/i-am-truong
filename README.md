@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The one seam, shown: Inline up close](https://dev.to/ernestohs/the-one-seam-shown-inline-up-close-12np)
-- [The Great Ubuntu Blackout: My 3-Hour Journey to Fix the Darkness](https://dev.to/arundevs/the-great-ubuntu-blackout-my-3-hour-journey-to-fix-the-darkness-4i3l)
-- [Lesson 3 - Architecture: Learn to organize your thoughts](https://dev.to/smukker/lesson-3-architecture-learn-to-organize-your-thoughts-2h)
-- [Building an On-Premise Kubernetes Cluster — Part 6: Deploying, Updating, and Scaling Your Own Application](https://dev.to/celsonery/building-an-on-premise-kubernetes-cluster-part-6-deploying-updating-and-scaling-your-own-40f0)
-- [Building an On-Premise Kubernetes Cluster — Part 5: Deploying Your First Container](https://dev.to/celsonery/building-an-on-premise-kubernetes-cluster-part-5-deploying-your-first-container-3goi)
+- [The Founder-Led Sales Playbook: From $0 to $1M ARR Without Hiring a Single Salesperson](https://dev.to/insightlab/the-founder-led-sales-playbook-from-0-to-1m-arr-without-hiring-a-single-salesperson-4dck)
+- [The Alpine Mirage: How Upgrading Python Broke My Build and Led to a Truer Security Posture](https://dev.to/rohithtp/the-alpine-mirage-how-upgrading-python-broke-my-build-and-led-to-a-truer-security-posture-38ne)
+- [How to Set Up a Free, Full HTTPS Domain Redirect with Cloudflare and Namecheap](https://dev.to/ashwin7/how-to-set-up-a-free-full-https-domain-redirect-with-cloudflare-and-namecheap-3n6d)
+- [OpenEval: Why LLM Evaluation Needs a Standard Format](https://dev.to/adha_ak_d60b39fbb66769fd1/openeval-why-llm-evaluation-needs-a-standard-format-50di)
+- [Building an AI-Powered Innovation Wormhole: Transferring Solutions Across Industries Instead of Reinventing Them](https://dev.to/alirezaai/building-an-ai-powered-innovation-wormhole-transferring-solutions-across-industries-instead-of-4ah6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
