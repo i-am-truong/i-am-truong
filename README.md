@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pironman 5 case fan stuck on after a Raspberry Pi OS kernel update? Here&#39;s the fix](https://dev.to/coridev/pironman-5-case-fan-stuck-on-after-a-raspberry-pi-os-kernel-update-heres-the-fix-2857)
-- [Stop Code Reviewing in the Dark: How Claude Became My Unofficial Senior Dev](https://dev.to/learnairesource/stop-code-reviewing-in-the-dark-how-claude-became-my-unofficial-senior-dev-3lk9)
-- [Why Next-Gen Models Like Kimi Need Deterministic AI Kernels](https://dev.to/manikse/why-next-gen-models-like-kimi-need-deterministic-ai-kernels-50hl)
-- [LLD Data Structures in Design Context: HashMap — The Mental Model Every Software Engineer Should Know](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-hashmap-the-mental-model-every-software-engineer-should-5dbi)
-- [# Beyond Chatbots: Why Developers Should Start Building AI + IoT Applications](https://dev.to/rohit124/-beyond-chatbots-why-developers-should-start-building-ai-iot-applications-k08)
+- [Stop Wrestling with cURL: Meet glassnode-php, an Unofficial Glassnode SDK for PHP](https://dev.to/tigusigalpa/stop-wrestling-with-curl-meet-glassnode-php-an-unofficial-glassnode-sdk-for-php-1999)
+- [Kubernetes: Monitoring the Cluster with Prometheus](https://dev.to/celsonery/kubernetes-monitoring-the-cluster-with-prometheus-eb4)
+- [A Lei de Conway &lpar;DRAFT com Mermaid&rpar;: por que a sua arquitetura é o espelho da sua organização](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-conway-draft-com-mermaid-por-que-a-sua-arquitetura-e-o-espelho-da-sua-organizacao-bnl)
+- [How to Test AI Agents Without Calling More LLMs](https://dev.to/raju_dandigam/how-to-test-ai-agents-without-calling-more-llms-2ga6)
+- [LLD Data Structures in Design Context: Why HashMaps Feel So Fast — Understanding Performance Without Memorising Big-O](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-hashmaps-feel-so-fast-understanding-performance-2p7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
