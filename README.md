@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM TRADER BOT](https://dev.to/qrak/llm-trader-bot-3625)
-- [How to write technical posts that survive AI noise](https://dev.to/nahamaalochi/how-to-write-technical-posts-that-survive-ai-noise-875)
-- [DSA | Random Generator | Can you come up with a solution?](https://dev.to/cgs-9/dsa-random-generator-can-you-come-up-with-a-solution-31gn)
-- [Home Cantina: A Modern Glassmorphism Comfort Food Landing Page](https://dev.to/deleanmafra/home-cantina-a-modern-glassmorphism-comfort-food-landing-page-296p)
-- [🧵 ThreadLocal no Java 21 – o que mudou, o que continua e quando você deve &lpar;ou não&rpar; usar](https://dev.to/fabiothomazrocha/threadlocal-no-java-21-o-que-mudou-o-que-continua-e-quando-voce-deve-ou-nao-usar-36gi)
+- [The one seam, shown: Inline up close](https://dev.to/ernestohs/the-one-seam-shown-inline-up-close-12np)
+- [The Great Ubuntu Blackout: My 3-Hour Journey to Fix the Darkness](https://dev.to/arundevs/the-great-ubuntu-blackout-my-3-hour-journey-to-fix-the-darkness-4i3l)
+- [Lesson 3 - Architecture: Learn to organize your thoughts](https://dev.to/smukker/lesson-3-architecture-learn-to-organize-your-thoughts-2h)
+- [Building an On-Premise Kubernetes Cluster — Part 6: Deploying, Updating, and Scaling Your Own Application](https://dev.to/celsonery/building-an-on-premise-kubernetes-cluster-part-6-deploying-updating-and-scaling-your-own-40f0)
+- [Building an On-Premise Kubernetes Cluster — Part 5: Deploying Your First Container](https://dev.to/celsonery/building-an-on-premise-kubernetes-cluster-part-5-deploying-your-first-container-3goi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
