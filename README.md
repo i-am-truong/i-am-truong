@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Founder-Led Sales Playbook: From $0 to $1M ARR Without Hiring a Single Salesperson](https://dev.to/insightlab/the-founder-led-sales-playbook-from-0-to-1m-arr-without-hiring-a-single-salesperson-4dck)
-- [The Alpine Mirage: How Upgrading Python Broke My Build and Led to a Truer Security Posture](https://dev.to/rohithtp/the-alpine-mirage-how-upgrading-python-broke-my-build-and-led-to-a-truer-security-posture-38ne)
-- [How to Set Up a Free, Full HTTPS Domain Redirect with Cloudflare and Namecheap](https://dev.to/ashwin7/how-to-set-up-a-free-full-https-domain-redirect-with-cloudflare-and-namecheap-3n6d)
-- [OpenEval: Why LLM Evaluation Needs a Standard Format](https://dev.to/adha_ak_d60b39fbb66769fd1/openeval-why-llm-evaluation-needs-a-standard-format-50di)
-- [Building an AI-Powered Innovation Wormhole: Transferring Solutions Across Industries Instead of Reinventing Them](https://dev.to/alirezaai/building-an-ai-powered-innovation-wormhole-transferring-solutions-across-industries-instead-of-4ah6)
+- [Data, Context &amp; RAG Lineage Governance for Enterprise AI Agents](https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj)
+- [Building a Slack Approval Workflow That Deletes Cloud Infrastructure](https://dev.to/boaz_leleina_d884b75c4486/building-a-slack-approval-workflow-that-deletes-cloud-infrastructure-2ag3)
+- [[Advanced Rust] 1.14. Memory Types Pt.2 - Dynamically Sized Types and Wide Pointers, Packed Layouts, Larger Alignment for Speci…](https://dev.to/someb1oody/advanced-rust-114-memory-types-pt2-dynamically-sized-types-and-wide-pointers-packed-1ea2)
+- [AI Consent Ledger: Stop Voice Agents From Ignoring Revoked Permission](https://dev.to/jackm-singularity/ai-consent-ledger-stop-voice-agents-from-ignoring-revoked-permission-1kl6)
+- [Shared UI Means Shared Contracts, Not Shared Hosts](https://dev.to/iqtechsolutions/shared-ui-means-shared-contracts-not-shared-hosts-20i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
