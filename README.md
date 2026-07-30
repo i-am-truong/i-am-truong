@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supply Chain Attacks verstehen: Praktische Tipps zur Abwehr von 2026](https://dev.to/uhltak/supply-chain-attacks-verstehen-praktische-tipps-zur-abwehr-von-2026-37kl)
-- [3 MCP servers I actually use daily &lpar;and how to set them up&rpar;](https://dev.to/grahamduescn/3-mcp-servers-i-actually-use-daily-and-how-to-set-them-up-517m)
-- [Benchmarking Bun and Node.js for a High-Throughput Video Metadata API](https://dev.to/ahmet_gedik778845/benchmarking-bun-and-nodejs-for-a-high-throughput-video-metadata-api-2827)
-- [Giving every AI agent its own mailbox: the architecture behind a self-hosted MCP mail server](https://dev.to/tizer_luo/giving-every-ai-agent-its-own-mailbox-the-architecture-behind-a-self-hosted-mcp-mail-server-4d12)
-- [Durable, persistent memory for agents](https://dev.to/makeitrun/durable-persistent-memory-for-agents-4i9c)
+- [Building Scalable APIs with Go: A Startup&#39;s Guide to Not Overengineering](https://dev.to/logical_bytes/building-scalable-apis-with-go-a-startups-guide-to-not-overengineering-445d)
+- [A Dead-Man&#39;s Switch for Scheduled Jobs &lpar;Because Silent Failures Rot Data&rpar;](https://dev.to/jenatechio/a-dead-mans-switch-for-scheduled-jobs-because-silent-failures-rot-data-3nmh)
+- [My Auto-Publish Pipeline Shipped a Two-Year-Old News Story. Here&#39;s the Fix — All Three Layers of It.](https://dev.to/jenatechio/my-auto-publish-pipeline-shipped-a-two-year-old-news-story-heres-the-fix-all-three-layers-of-it-4750)
+- [Your AI gave that fix 92% confidence. Nothing checked it.](https://dev.to/mohi_uddin_719/your-ai-gave-that-fix-92-confidence-nothing-checked-it-564)
+- [Raspberry Pi 5 Price History: How Far Have Prices Come?](https://dev.to/revenueclaw/raspberry-pi-5-price-history-how-far-have-prices-come-187h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
