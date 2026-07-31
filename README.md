@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill&quot;](https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po)
-- [&quot;Your GitOps Hub Will Become the Bottleneck Long Before Cluster Count Tells You&quot;](https://dev.to/da-li-at-pl/your-gitops-hub-will-become-the-bottleneck-long-before-cluster-count-tells-you-31id)
-- [雲吞麵 Midnight Wonton Noodle — Pure CSS Art](https://dev.to/karleeov/yun-tun-mian-midnight-wonton-noodle-pure-css-art-85c)
-- [How to Verify a SHA-256 Checksum on Windows, macOS, and Linux](https://dev.to/kaifi_azam_21/how-to-verify-a-sha-256-checksum-on-windows-macos-and-linux-347i)
-- [Building an AI lineup optimizer for a Discord esports bot &lpar;the algorithm, not the hype&rpar;](https://dev.to/ravendev/building-an-ai-lineup-optimizer-for-a-discord-esports-bot-the-algorithm-not-the-hype-2hjh)
+- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p)
+- [Your robots.txt decides whether ChatGPT can cite you. Here&#39;s the 5-minute check.](https://dev.to/siccscha/your-robotstxt-decides-whether-chatgpt-can-cite-you-heres-the-5-minute-check-185l)
+- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-5eei)
+- [Beyond the Resume: Why Every Tech Professional Needs a Portfolio](https://dev.to/priya_sajja_c336921bbda87/beyond-the-resume-why-every-tech-professional-needs-a-portfolio-1dp2)
+- [Get Full-HD Video From a Raspberry Pi Pico or ESP32 Over USB](https://dev.to/circuitrocks/get-full-hd-video-from-a-raspberry-pi-pico-or-esp32-over-usb-1b1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
