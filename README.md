@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Validate Angular Compatibility Using the Published npm Package &lpar;Not the Source Code&rpar;](https://dev.to/ismailzahir/why-i-validate-angular-compatibility-using-the-published-npm-package-not-the-source-code-808)
-- [How I Automated Ubuntu Server Hardening with One Script](https://dev.to/tesddev/how-i-automated-ubuntu-server-hardening-with-one-script-209a)
-- [PIVOT Explained — From Paper to Working Code in 10 Minutes](https://dev.to/cofldus/pivot-explained-from-paper-to-working-code-in-10-minutes-5a4j)
-- [The $26 Billion Leak: Why Frameworks Are Making Your Codebase Rot &lpar;and How Hexagonal Isolation Fixes It&rpar;](https://dev.to/malvinjay/the-26-billion-leak-why-frameworks-are-making-your-codebase-rot-and-how-hexagonal-isolation-ian)
-- [When a Successful Payment Still Couldn&#39;t Schedule a Zoom Meeting](https://dev.to/malvinjay/when-a-successful-payment-still-couldnt-schedule-a-zoom-meeting-12fa)
+- [Looking for Someone to Learn and Build With](https://dev.to/nyny59/looking-for-someone-to-learn-and-build-with-pgg)
+- [Building a Full-Stack Project with Blockchain Security: My 3-Week Journey](https://dev.to/valentine-it/building-a-full-stack-project-with-blockchain-security-my-3-week-journey-2h50)
+- [Impact of Inference Backends on LLM Reproducibility: Notes from a Research Paper](https://dev.to/kai-wen-the-parrot/impact-of-inference-backends-on-llm-reproducibility-notes-from-a-research-paper-3klp)
+- [CTXLENS - like du for tokens](https://dev.to/kvadrum/ctxlens-like-du-for-tokens-28g3)
+- [n8n Adds Qwen Cloud Node for Text, Image and Video AI Automation Workflows](https://dev.to/alifar/n8n-adds-qwen-cloud-node-for-text-image-and-video-ai-automation-workflows-i7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
