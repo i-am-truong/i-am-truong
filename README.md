@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a 600-DPI PDF to JPG converter in Rust: the megapixel clamp that saved production](https://dev.to/serhii_kalyna_730b636889c/building-a-600-dpi-pdf-to-jpg-converter-in-rust-the-megapixel-clamp-that-saved-production-47i9)
-- [Remembering &lpar;July 2026&rpar;](https://dev.to/nmiller15/remembering-july-2026-2med)
-- [Skills as Sub-Agents: Orchestrating Complex work with Claude Skills](https://dev.to/mukul_sharma_61fc4dd6f9d8/skills-as-sub-agents-orchestrating-complex-work-with-claude-skills-5d7m)
-- [Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0](https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0)
-- [Foundry as Master, Bedrock as Remote: The Smoke Test Finally Passed](https://dev.to/gde/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680)
+- [Why Deleting a Hardcoded Secret Does Not Fix It &lpar;CWE-798&rpar;](https://dev.to/c_k_fb750e731394/why-deleting-a-hardcoded-secret-does-not-fix-it-cwe-798-1bp1)
+- [Demystifying Bitcoin Transaction Fees: How Explicit Fee Selection Works](https://dev.to/vkimutai/demystifying-bitcoin-transaction-fees-how-explicit-fee-selection-works-3g0c)
+- [The engineering behind a search bar. Is it worth reinventing the wheel?](https://dev.to/filipe_neves/the-engineering-behind-a-search-bar-is-it-worth-reinventing-the-wheel-4ef4)
+- [Data Migration, Conversion, and ETL — What I Actually Did, Across Two Eras](https://dev.to/sangeetha_kalia_cb89c90aa/data-migration-conversion-and-etl-what-i-actually-did-across-two-eras-2emj)
+- [Reversible PII anonymization for Laravel with Laranon](https://dev.to/edulazaro/reversible-pii-anonymization-for-laravel-with-laranon-16ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
