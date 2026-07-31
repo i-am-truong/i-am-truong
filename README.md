@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A JSON-configurable Git alias wrapper](https://dev.to/enbis/a-json-configurable-git-alias-wrapper-498e)
-- [My AI makes YouTube videos. It&#39;s only allowed to publish after 21 automated checks.](https://dev.to/mishkavids/my-ai-makes-youtube-videos-its-only-allowed-to-publish-after-21-automated-checks-4ebb)
-- [The Requests library for AI one Unified Python SDK for every LLM provider](https://dev.to/6t9/the-requests-library-for-ai-one-unified-python-sdk-for-every-llm-provider-3job)
-- [Zero-Downtime Deploy to a VPS with GitHub Actions](https://dev.to/dineshstack/zero-downtime-deploy-to-a-vps-with-github-actions-15a9)
-- [Failure Friday: Digital Dream Labs and the Cost of Losing Customer Trust](https://dev.to/hightech89/failure-friday-digital-dream-labs-and-the-cost-of-losing-customer-trust-502j)
+- [&quot;Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill&quot;](https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po)
+- [&quot;Your GitOps Hub Will Become the Bottleneck Long Before Cluster Count Tells You&quot;](https://dev.to/da-li-at-pl/your-gitops-hub-will-become-the-bottleneck-long-before-cluster-count-tells-you-31id)
+- [雲吞麵 Midnight Wonton Noodle — Pure CSS Art](https://dev.to/karleeov/yun-tun-mian-midnight-wonton-noodle-pure-css-art-85c)
+- [How to Verify a SHA-256 Checksum on Windows, macOS, and Linux](https://dev.to/kaifi_azam_21/how-to-verify-a-sha-256-checksum-on-windows-macos-and-linux-347i)
+- [Building an AI lineup optimizer for a Discord esports bot &lpar;the algorithm, not the hype&rpar;](https://dev.to/ravendev/building-an-ai-lineup-optimizer-for-a-discord-esports-bot-the-algorithm-not-the-hype-2hjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
