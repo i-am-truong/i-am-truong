@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Implemented the Algorithm Behind ChatGPT From Scratch - Day 8 &lpar;PPO&rpar;.](https://dev.to/madhumithakolkar/i-implemented-the-algorithm-behind-chatgpt-from-scratch-day-8-ppo-o3f)
-- [[Ruby] The True Value of Flow Control Operators](https://dev.to/midpolarnight/ruby-the-true-value-of-flow-control-operators-115l)
-- [Qwen2.5-Coder vs DeepSeek-Coder for Solidity Review: What I Actually See Locally](https://dev.to/pavelespitia/qwen25-coder-vs-deepseek-coder-for-solidity-review-what-i-actually-see-locally-4jh8)
-- [This Week In React #292 : Octane, TanStack, StableRef, Next.js | Workers, SafeAreaView, backgroundImage, WebGPU | TC39, Web Vitals](https://dev.to/sebastienlorber/this-week-in-react-292-octane-tanstack-stableref-nextjs-workers-safeareaview-55bp)
-- [Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week &amp; Learning How to Learn](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2)
+- [Building a 600-DPI PDF to JPG converter in Rust: the megapixel clamp that saved production](https://dev.to/serhii_kalyna_730b636889c/building-a-600-dpi-pdf-to-jpg-converter-in-rust-the-megapixel-clamp-that-saved-production-47i9)
+- [Remembering &lpar;July 2026&rpar;](https://dev.to/nmiller15/remembering-july-2026-2med)
+- [Skills as Sub-Agents: Orchestrating Complex work with Claude Skills](https://dev.to/mukul_sharma_61fc4dd6f9d8/skills-as-sub-agents-orchestrating-complex-work-with-claude-skills-5d7m)
+- [Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0](https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0)
+- [Foundry as Master, Bedrock as Remote: The Smoke Test Finally Passed](https://dev.to/gde/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
