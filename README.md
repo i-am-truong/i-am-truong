@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Publishers Block AI Crawlers, Reshaping News Data Licensing and AI Strategy](https://dev.to/alifar/publishers-block-ai-crawlers-reshaping-news-data-licensing-and-ai-strategy-199n)
-- [Sign in with Apple broke with invalid_client after 6 months? Here&#39;s why — and how to never deal with it again](https://dev.to/oskarmakarov/sign-in-with-apple-broke-with-invalidclient-after-6-months-heres-why-and-how-to-never-deal-2mhk)
-- [Build vs Buy: What Belongs in Your MVP and What You Should Rent](https://dev.to/senternet/build-vs-buy-what-belongs-in-your-mvp-and-what-you-should-rent-2h6e)
-- [From AI support copilot to agentic customer service](https://dev.to/eelcolos/from-ai-support-copilot-to-agentic-customer-service-4eb4)
-- [A Safe Outcome Can Hide a Failed Security Control](https://dev.to/gyubinsec/a-safe-outcome-can-hide-a-failed-security-control-58p)
+- [I Implemented the Algorithm Behind ChatGPT From Scratch - Day 8 &lpar;PPO&rpar;.](https://dev.to/madhumithakolkar/i-implemented-the-algorithm-behind-chatgpt-from-scratch-day-8-ppo-o3f)
+- [[Ruby] The True Value of Flow Control Operators](https://dev.to/midpolarnight/ruby-the-true-value-of-flow-control-operators-115l)
+- [Qwen2.5-Coder vs DeepSeek-Coder for Solidity Review: What I Actually See Locally](https://dev.to/pavelespitia/qwen25-coder-vs-deepseek-coder-for-solidity-review-what-i-actually-see-locally-4jh8)
+- [This Week In React #292 : Octane, TanStack, StableRef, Next.js | Workers, SafeAreaView, backgroundImage, WebGPU | TC39, Web Vitals](https://dev.to/sebastienlorber/this-week-in-react-292-octane-tanstack-stableref-nextjs-workers-safeareaview-55bp)
+- [Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week &amp; Learning How to Learn](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
