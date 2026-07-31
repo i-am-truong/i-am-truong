@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Marketplace Buy Box and How It Works](https://dev.to/mercur/what-is-a-marketplace-buy-box-and-how-it-works-5cga)
-- [Cyclomatic Complexity Has a Blind Spot — Introducing Coverage Difficulty &lpar;CD&rpar; and Responsibility Load Factor &lpar;RLF&rpar;](https://dev.to/mayakashi/cyclomatic-complexity-has-a-blind-spot-introducing-coverage-difficulty-cd-and-responsibility-3o4c)
-- [Why is Solana fast and Ethereum slow?](https://dev.to/felipetojal/why-is-solana-fast-and-ethereum-slow-2g80)
-- [Why Your AI Agents Fail Without Constraints: Implementing Finite State Machines and Zero-Trust Authentication for Reliable Agentic Workflows](https://dev.to/tamizuddin/why-your-ai-agents-fail-without-constraints-implementing-finite-state-machines-and-zero-trust-142j)
-- [Top AI Papers on Hugging Face - 2026-07-31](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-31-54eg)
+- [Publishers Block AI Crawlers, Reshaping News Data Licensing and AI Strategy](https://dev.to/alifar/publishers-block-ai-crawlers-reshaping-news-data-licensing-and-ai-strategy-199n)
+- [Sign in with Apple broke with invalid_client after 6 months? Here&#39;s why — and how to never deal with it again](https://dev.to/oskarmakarov/sign-in-with-apple-broke-with-invalidclient-after-6-months-heres-why-and-how-to-never-deal-2mhk)
+- [Build vs Buy: What Belongs in Your MVP and What You Should Rent](https://dev.to/senternet/build-vs-buy-what-belongs-in-your-mvp-and-what-you-should-rent-2h6e)
+- [From AI support copilot to agentic customer service](https://dev.to/eelcolos/from-ai-support-copilot-to-agentic-customer-service-4eb4)
+- [A Safe Outcome Can Hide a Failed Security Control](https://dev.to/gyubinsec/a-safe-outcome-can-hide-a-failed-security-control-58p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
