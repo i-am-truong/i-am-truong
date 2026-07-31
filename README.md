@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a RAG-Powered Database Assistant with PostgreSQL and pgvector](https://dev.to/blockchainlab/build-a-rag-powered-database-assistant-with-postgresql-and-pgvector-328i)
-- [Gated B2B Pricing in Next.js: Hiding Prices Behind Per-Customer Access](https://dev.to/iurii_rogulia/gated-b2b-pricing-in-nextjs-hiding-prices-behind-per-customer-access-k2b)
-- [July closed with $55.8 billion in Physical AI funding and an industry finally stopped asking whether this works. Here&#39;s what you missed this week.](https://dev.to/xberry-tech/july-closed-with-558-billion-in-physical-ai-funding-and-an-industry-finally-stopped-asking-5d51)
-- [Letting an agent write to my production CMS](https://dev.to/olund/letting-an-agent-write-to-my-production-cms-3f3k)
-- [I gave my SaaS 14 days to get 3 sales. It got 0. Here&#39;s the math.](https://dev.to/yingyenliu/i-gave-my-saas-14-days-to-get-3-sales-it-got-0-heres-the-math-541a)
+- [What Is a Marketplace Buy Box and How It Works](https://dev.to/mercur/what-is-a-marketplace-buy-box-and-how-it-works-5cga)
+- [Cyclomatic Complexity Has a Blind Spot — Introducing Coverage Difficulty &lpar;CD&rpar; and Responsibility Load Factor &lpar;RLF&rpar;](https://dev.to/mayakashi/cyclomatic-complexity-has-a-blind-spot-introducing-coverage-difficulty-cd-and-responsibility-3o4c)
+- [Why is Solana fast and Ethereum slow?](https://dev.to/felipetojal/why-is-solana-fast-and-ethereum-slow-2g80)
+- [Why Your AI Agents Fail Without Constraints: Implementing Finite State Machines and Zero-Trust Authentication for Reliable Agentic Workflows](https://dev.to/tamizuddin/why-your-ai-agents-fail-without-constraints-implementing-finite-state-machines-and-zero-trust-142j)
+- [Top AI Papers on Hugging Face - 2026-07-31](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-31-54eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
