@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Deleting a Hardcoded Secret Does Not Fix It &lpar;CWE-798&rpar;](https://dev.to/c_k_fb750e731394/why-deleting-a-hardcoded-secret-does-not-fix-it-cwe-798-1bp1)
-- [Demystifying Bitcoin Transaction Fees: How Explicit Fee Selection Works](https://dev.to/vkimutai/demystifying-bitcoin-transaction-fees-how-explicit-fee-selection-works-3g0c)
-- [The engineering behind a search bar. Is it worth reinventing the wheel?](https://dev.to/filipe_neves/the-engineering-behind-a-search-bar-is-it-worth-reinventing-the-wheel-4ef4)
-- [Data Migration, Conversion, and ETL — What I Actually Did, Across Two Eras](https://dev.to/sangeetha_kalia_cb89c90aa/data-migration-conversion-and-etl-what-i-actually-did-across-two-eras-2emj)
-- [Reversible PII anonymization for Laravel with Laranon](https://dev.to/edulazaro/reversible-pii-anonymization-for-laravel-with-laranon-16ie)
+- [A JSON-configurable Git alias wrapper](https://dev.to/enbis/a-json-configurable-git-alias-wrapper-498e)
+- [My AI makes YouTube videos. It&#39;s only allowed to publish after 21 automated checks.](https://dev.to/mishkavids/my-ai-makes-youtube-videos-its-only-allowed-to-publish-after-21-automated-checks-4ebb)
+- [The Requests library for AI one Unified Python SDK for every LLM provider](https://dev.to/6t9/the-requests-library-for-ai-one-unified-python-sdk-for-every-llm-provider-3job)
+- [Zero-Downtime Deploy to a VPS with GitHub Actions](https://dev.to/dineshstack/zero-downtime-deploy-to-a-vps-with-github-actions-15a9)
+- [Failure Friday: Digital Dream Labs and the Cost of Losing Customer Trust](https://dev.to/hightech89/failure-friday-digital-dream-labs-and-the-cost-of-losing-customer-trust-502j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
