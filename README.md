@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Someone to Learn and Build With](https://dev.to/nyny59/looking-for-someone-to-learn-and-build-with-pgg)
-- [Building a Full-Stack Project with Blockchain Security: My 3-Week Journey](https://dev.to/valentine-it/building-a-full-stack-project-with-blockchain-security-my-3-week-journey-2h50)
-- [Impact of Inference Backends on LLM Reproducibility: Notes from a Research Paper](https://dev.to/kai-wen-the-parrot/impact-of-inference-backends-on-llm-reproducibility-notes-from-a-research-paper-3klp)
-- [CTXLENS - like du for tokens](https://dev.to/kvadrum/ctxlens-like-du-for-tokens-28g3)
-- [n8n Adds Qwen Cloud Node for Text, Image and Video AI Automation Workflows](https://dev.to/alifar/n8n-adds-qwen-cloud-node-for-text-image-and-video-ai-automation-workflows-i7b)
+- [HTML Minifier: the privacy-first data tool that runs entirely in your browser](https://dev.to/mryesiller/html-minifier-the-privacy-first-data-tool-that-runs-entirely-in-your-browser-318h)
+- [My bot detector said 95% fake. It agreed with me instantly — that was the tell.](https://dev.to/fromzerotoship/my-bot-detector-said-95-fake-it-agreed-with-me-instantly-that-was-the-tell-3j6a)
+- [Next.js API routes vs route handlers: when to use each](https://dev.to/nayankyada/nextjs-api-routes-vs-route-handlers-when-to-use-each-29p6)
+- [&quot;The AWS runtime-upgrade error map: which errors you&#39;ll hit, in what order, for each migration path&quot;](https://dev.to/ntoledo319/the-aws-runtime-upgrade-error-map-which-errors-youll-hit-in-what-order-for-each-migration-path-55d5)
+- [The Unconference Asked the Right Questions. Here&#39;s One Architecture&#39;s Answers.](https://dev.to/sandrog/the-unconference-asked-the-right-questions-heres-one-architectures-answers-cc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
