@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p)
-- [Your robots.txt decides whether ChatGPT can cite you. Here&#39;s the 5-minute check.](https://dev.to/siccscha/your-robotstxt-decides-whether-chatgpt-can-cite-you-heres-the-5-minute-check-185l)
-- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-5eei)
-- [Beyond the Resume: Why Every Tech Professional Needs a Portfolio](https://dev.to/priya_sajja_c336921bbda87/beyond-the-resume-why-every-tech-professional-needs-a-portfolio-1dp2)
-- [Get Full-HD Video From a Raspberry Pi Pico or ESP32 Over USB](https://dev.to/circuitrocks/get-full-hd-video-from-a-raspberry-pi-pico-or-esp32-over-usb-1b1a)
+- [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
+- [Poutine - the true Food of the Gods](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep)
+- [Gravy Boat — a landing page with a CSS poutine you can drown in!](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12)
+- [Memory Leak &amp; 8-Second Diagnostic Crush](https://dev.to/zenieverse/memory-leak-8-second-diagnostic-crush-4nlc)
+- [We&#39;re 15-year-olds tired of switching study apps, so we built our own](https://dev.to/luka_takki_a2d7284e97170d/were-15-year-olds-tired-of-switching-study-apps-so-we-built-our-own-2oap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
