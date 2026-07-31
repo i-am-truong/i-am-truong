@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Presigned URLs vs proxying file uploads through your backend: cost, latency, security](https://dev.to/yukikobayashi880/presigned-urls-vs-proxying-file-uploads-through-your-backend-cost-latency-security-4pi0)
-- [Wetask Is Opening Its Task Runtime to External Workers](https://dev.to/tosiiko/wetask-is-opening-its-task-runtime-to-external-workers-1p2a)
-- [Why I don&#39;t use an LLM to secure my LLM](https://dev.to/wesellistools/why-i-dont-use-an-llm-to-secure-my-llm-1m2k)
-- [Termux-Sync: Don&#39;t Rebuild Termux. Restore It](https://dev.to/wsoe/termux-sync-dont-rebuild-termux-restore-it-4f9k)
-- [The Astro Image Gotcha That Broke Our Production Build and How We Fixed It](https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d)
+- [Why I Validate Angular Compatibility Using the Published npm Package &lpar;Not the Source Code&rpar;](https://dev.to/ismailzahir/why-i-validate-angular-compatibility-using-the-published-npm-package-not-the-source-code-808)
+- [How I Automated Ubuntu Server Hardening with One Script](https://dev.to/tesddev/how-i-automated-ubuntu-server-hardening-with-one-script-209a)
+- [PIVOT Explained — From Paper to Working Code in 10 Minutes](https://dev.to/cofldus/pivot-explained-from-paper-to-working-code-in-10-minutes-5a4j)
+- [The $26 Billion Leak: Why Frameworks Are Making Your Codebase Rot &lpar;and How Hexagonal Isolation Fixes It&rpar;](https://dev.to/malvinjay/the-26-billion-leak-why-frameworks-are-making-your-codebase-rot-and-how-hexagonal-isolation-ian)
+- [When a Successful Payment Still Couldn&#39;t Schedule a Zoom Meeting](https://dev.to/malvinjay/when-a-successful-payment-still-couldnt-schedule-a-zoom-meeting-12fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
