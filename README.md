@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking AI Coding Agents on Real Pull Requests](https://dev.to/donk8r/benchmarking-ai-coding-agents-on-real-pull-requests-22k9)
-- [How to Speed Up Your WordPress Site Without Using Paid Plugins: A Beginner&#39;s Guide](https://dev.to/tech_grundy/how-to-speed-up-your-wordpress-site-without-using-paid-plugins-a-beginners-guide-a0p)
-- [Your Alpine Base Image Has BusyBox. That&#39;s Probably Fine Until It&#39;s Not.](https://dev.to/schiff_heimlich/your-alpine-base-image-has-busybox-thats-probably-fine-until-its-not-2aep)
-- [Xiaomi Wireless Debugging Fix: Resolving Unstable Connectivity Issues with Reliable Solutions](https://dev.to/serbyte/xiaomi-wireless-debugging-fix-resolving-unstable-connectivity-issues-with-reliable-solutions-20em)
-- [[Advanced Rust] 2.1. API Design Principles of Unsurprising - Naming Tips, Implementing Common Traits](https://dev.to/someb1oody/advanced-rust-21-api-design-principles-of-unsurprising-naming-tips-implementing-common-traits-1b02)
+- [How to Set Up a Free Custom Domain Email with Zoho Mail, Cloudflare, and Your Own Domain](https://dev.to/shubhamdevops/how-to-set-up-a-free-custom-domain-email-with-zoho-mail-cloudflare-and-your-own-domain-5dpo)
+- [Mind Maps in MCP: A Powerful Feature or Just Eye Candy?](https://dev.to/nishikantaray/mind-maps-in-mcp-a-powerful-feature-or-just-eye-candy-2oh2)
+- [React Mastery Series – Day 13: React Hooks Deep Dive – Understanding useEffect](https://dev.to/siva_samanthapudi/react-mastery-series-day-13-react-hooks-deep-dive-understanding-useeffect-102j)
+- [🚀 Mock APIs Just Got an Upgrade: Network Delay Simulation, Error Testing &amp; Postman Exports in Playground API v2](https://dev.to/nileshcodehub/mock-apis-just-got-an-upgrade-network-delay-simulation-error-testing-postman-exports-in-9p)
+- [Browser Agents Aren&#39;t About Browsers. They&#39;re About Who Acts for You.](https://dev.to/komo/browser-agents-arent-about-browsers-theyre-about-who-acts-for-you-1997)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
