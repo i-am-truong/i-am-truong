@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ouma, Nonna &amp; Teta — one table, three kitchens](https://dev.to/piwe/ouma-nonna-teta-one-table-three-kitchens-1ibo)
+- [Your Voice Assistant Can Be Social-Engineered Too, and Nobody&#39;s Watching For It](https://dev.to/coridev/your-voice-assistant-can-be-social-engineered-too-and-nobodys-watching-for-it-51jp)
 - [Two h1 tags on 500 pages: the bug that lives between two correct halves](https://dev.to/zugodev/two-h1-tags-on-500-pages-the-bug-that-lives-between-two-correct-halves-2aha)
 - [AppSheet vs Apps Script vs PowerApps &lpar;2026&rpar;: When to Use Each](https://dev.to/hayrullahkar/appsheet-vs-apps-script-vs-powerapps-2026-when-to-use-each-2e41)
-- [A Peek into Building with Streamlit: Handling Audio Generation Tracebacks](https://dev.to/saeedmarketads/a-peek-into-building-with-streamlit-handling-audio-generation-tracebacks-2k15)
-- [Understanding Java Virtual Threads: Lightweight Concurrency in Modern Java](https://dev.to/said_olano/understanding-java-virtual-threads-lightweight-concurrency-in-modern-java-19)
-- [From Software Engineer to AI Engineer - Part 3: Giving it a hand](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-3-2o9k)
+- [How I built a live global scoreboard for $0 using Static HTML and Supabase published: true](https://dev.to/naavvviiinnnn/how-i-built-a-live-global-scoreboard-for-0-using-static-html-and-supabasepublished-true-5apm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
