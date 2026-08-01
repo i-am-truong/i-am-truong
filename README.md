@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Sites That Block Bots: Cloudflare, DataDome &amp; PerimeterX](https://dev.to/tonywangca/scraping-sites-that-block-bots-cloudflare-datadome-perimeterx-4hlm)
-- [I run 5 Claude Code CLIs from one control plane. Here&#39;s the plumbing.](https://dev.to/ran_levi/i-run-5-claude-code-clis-from-one-control-plane-heres-the-plumbing-g9m)
-- [HTML for Beginners: Building Your First Web Page](https://dev.to/amirdeen/html-for-beginners-building-your-first-web-page-5fpd)
-- [The moment the dashboard stopped telling the truth](https://dev.to/debashish_ghosal/the-moment-the-dashboard-stopped-telling-the-truth-57hn)
-- [Food, &amp; Beyond](https://dev.to/zenieverse/food-beyond-1d5l)
+- [Why We Built a Forum in 2026 Instead of a Chatbot](https://dev.to/member_5432fd74/why-we-built-a-forum-in-2026-instead-of-a-chatbot-5406)
+- [The `featured` Column That Cost Us Money &lpar;and the Schema That Fixed It&rpar;](https://dev.to/member_5432fd74/the-featured-column-that-cost-us-money-and-the-schema-that-fixed-it-1mkn)
+- [Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests](https://dev.to/yashksaini/dev-log-14-hardening-the-dht-against-eclipse-attacks-and-the-endless-battle-with-flaky-p2p-tests-593j)
+- [You Delivered the Work. The Client Vanished. Here&#39;s How to Stop That Happening Again.](https://dev.to/novacont/you-delivered-the-work-the-client-vanished-heres-how-to-stop-that-happening-again-289e)
+- [Every Building Journey Deserves Respect](https://dev.to/huynhnhanquoc/every-building-journey-deserves-respect-3m37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
