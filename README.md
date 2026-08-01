@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLD Data Structures in Design Context: Why Some Problems Need the &quot;Best&quot; Result Instead of Any Result](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-the-best-result-instead-of-any-4afd)
-- [My determinism test passed for months while the two builds played different games](https://dev.to/agentdev9/my-determinism-test-passed-for-months-while-the-two-builds-played-different-games-1if4)
-- [What Is Model Context Protocol &lpar;MCP&rpar;?](https://dev.to/rameshkumarramu/what-is-model-context-protocol-mcp-24kf)
-- [Same DeepSeek V4 Flash, Different Agent: Why the Runtime Changes the Result](https://dev.to/octoooo/same-deepseek-v4-flash-different-agent-why-the-runtime-changes-the-result-3m3b)
-- [Function Calling With a Local LLM to Drive Foundry: Fuzz, Read, Repeat](https://dev.to/pavelespitia/function-calling-with-a-local-llm-to-drive-foundry-fuzz-read-repeat-5el3)
+- [LLD Data Structures in Design Context: Heap Design Patterns — How Real-World Systems Continuously Choose the Next Best Thing](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-heap-vs-hashmap-choosing-the-right-data-structure-based-on-2gap)
+- [I Built a Frontend Skillpack to Reduce AI Coding Agent Token Waste](https://dev.to/_97f3a83114a40ccbc2515/i-built-a-frontend-skillpack-to-reduce-ai-coding-agent-token-waste-554)
+- [# Blog 10: Minecraft Mod Agent- I Made My AI Agent Judge Itself — And Used the Scores to Make It a Better Combat Advisor](https://dev.to/ccortezb/-blog-10-minecraft-mod-agent-i-made-my-ai-agent-judge-itself-and-used-the-scores-to-make-it-a-333j)
+- [Catbot Development Series](https://dev.to/annavi11arrea1/catbot-development-series-nlf)
+- [# Blog #9: I Gave My Minecraft Mod a Serverless Brain — And It Decides How Many Allies to Summon Based on How Screwed You Are](https://dev.to/aws-heroes/-blog-9-i-gave-my-minecraft-mod-a-serverless-brain-and-it-decides-how-many-allies-to-summon-5bid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
