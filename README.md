@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use SVG Icons in React, Next.js, and Tailwind CSS](https://dev.to/svgicons/how-to-use-svg-icons-in-react-nextjs-and-tailwind-css-3o1c)
-- [The Comfort Atlas: What Does Home Taste Like?](https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i)
-- [The Shape of Failure: Before You Blame the AI](https://dev.to/copyleftdev/the-shape-of-failure-before-you-blame-the-ai-5358)
-- [I built an AI job-search agent solo — here&#39;s the full stack](https://dev.to/adoomah/i-built-an-ai-job-search-agent-solo-heres-the-full-stack-2fd1)
-- [Yelp’s OpenAI Deal Brings Local Reviews and Business Data to ChatGPT](https://dev.to/alifar/yelps-openai-deal-brings-local-reviews-and-business-data-to-chatgpt-17e9)
+- [Two h1 tags on 500 pages: the bug that lives between two correct halves](https://dev.to/zugodev/two-h1-tags-on-500-pages-the-bug-that-lives-between-two-correct-halves-2aha)
+- [AppSheet vs Apps Script vs PowerApps &lpar;2026&rpar;: When to Use Each](https://dev.to/hayrullahkar/appsheet-vs-apps-script-vs-powerapps-2026-when-to-use-each-2e41)
+- [A Peek into Building with Streamlit: Handling Audio Generation Tracebacks](https://dev.to/saeedmarketads/a-peek-into-building-with-streamlit-handling-audio-generation-tracebacks-2k15)
+- [Understanding Java Virtual Threads: Lightweight Concurrency in Modern Java](https://dev.to/said_olano/understanding-java-virtual-threads-lightweight-concurrency-in-modern-java-19)
+- [From Software Engineer to AI Engineer - Part 3: Giving it a hand](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-3-2o9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
