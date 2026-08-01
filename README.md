@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
-- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
-- [Calendar API: Local Calendars, Cloud Sync, and Conflict Handling](https://dev.to/codenameone/calendar-api-local-calendars-cloud-sync-and-conflict-handling-1a1p)
-- [How One Missing Assert Drained $1.14M From Aftermath Finance — A Signed Integer Exploit on Sui](https://dev.to/mehvetero/how-one-missing-assert-drained-114m-from-aftermath-finance-a-signed-integer-exploit-on-sui-1db3)
-- [How I Built a Flat-Rate Reverse Geocoding API for Japan to Escape Google Maps Bill Shock](https://dev.to/tarkun55/how-i-built-a-flat-rate-reverse-geocoding-api-for-japan-to-escape-google-maps-bill-shock-1hol)
+- [LLD Data Structures in Design Context: Why Some Problems Need the &quot;Best&quot; Result Instead of Any Result](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-the-best-result-instead-of-any-4afd)
+- [My determinism test passed for months while the two builds played different games](https://dev.to/agentdev9/my-determinism-test-passed-for-months-while-the-two-builds-played-different-games-1if4)
+- [What Is Model Context Protocol &lpar;MCP&rpar;?](https://dev.to/rameshkumarramu/what-is-model-context-protocol-mcp-24kf)
+- [Same DeepSeek V4 Flash, Different Agent: Why the Runtime Changes the Result](https://dev.to/octoooo/same-deepseek-v4-flash-different-agent-why-the-runtime-changes-the-result-3m3b)
+- [Function Calling With a Local LLM to Drive Foundry: Fuzz, Read, Repeat](https://dev.to/pavelespitia/function-calling-with-a-local-llm-to-drive-foundry-fuzz-read-repeat-5el3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
