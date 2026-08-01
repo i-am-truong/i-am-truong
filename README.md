@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Free Custom Domain Email with Zoho Mail, Cloudflare, and Your Own Domain](https://dev.to/shubhamdevops/how-to-set-up-a-free-custom-domain-email-with-zoho-mail-cloudflare-and-your-own-domain-5dpo)
-- [Mind Maps in MCP: A Powerful Feature or Just Eye Candy?](https://dev.to/nishikantaray/mind-maps-in-mcp-a-powerful-feature-or-just-eye-candy-2oh2)
-- [React Mastery Series – Day 13: React Hooks Deep Dive – Understanding useEffect](https://dev.to/siva_samanthapudi/react-mastery-series-day-13-react-hooks-deep-dive-understanding-useeffect-102j)
-- [🚀 Mock APIs Just Got an Upgrade: Network Delay Simulation, Error Testing &amp; Postman Exports in Playground API v2](https://dev.to/nileshcodehub/mock-apis-just-got-an-upgrade-network-delay-simulation-error-testing-postman-exports-in-9p)
-- [Browser Agents Aren&#39;t About Browsers. They&#39;re About Who Acts for You.](https://dev.to/komo/browser-agents-arent-about-browsers-theyre-about-who-acts-for-you-1997)
+- [Why RAG Docs Chatbots Answer Wrong: Embeddings, Chunking, and Context Fixes](https://dev.to/tony_chen_2026/why-rag-docs-chatbots-answer-wrong-embeddings-chunking-and-context-fixes-3l9c)
+- [I counted the sources in 13 of Google&#39;s AI answers. 168 citations, and not one domain appeared twice.](https://dev.to/oguzhantusen/i-counted-the-sources-in-13-of-googles-ai-answers-168-citations-and-not-one-domain-appeared-1a1b)
+- [Building a Secure MCP Server for AI-Assisted VPS Operations Without Giving the AI a Shell](https://dev.to/ojo_ilesanmi/building-a-secure-mcp-server-for-ai-assisted-vps-operations-without-giving-the-ai-a-shell-54l3)
+- [This is what building a Two-Node Lightning Network From Scratch looked like in one week.](https://dev.to/juma_evans_34e389ef539266/this-is-what-building-a-two-node-lightning-network-from-scratch-looked-like-in-one-week-22cf)
+- [Forget The Build Step: A Browser-Native Editor For JSX + CSS](https://dev.to/morganney/forget-the-build-step-a-browser-native-editor-for-jsx-css-c9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
