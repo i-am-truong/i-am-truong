@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Specs, Tests, And Code In Sync In AI Development](https://dev.to/rosgluk/keeping-specs-tests-and-code-in-sync-in-ai-development-jm4)
-- [OpenAI GPT-5.6 Launch Puts Speed and Multi-Agent Work at the Center](https://dev.to/alifar/openai-gpt-56-launch-puts-speed-and-multi-agent-work-at-the-center-5a7n)
-- [I built a tool that explains any confusing document in plain words &lpar;your level, your language&rpar;](https://dev.to/rahul_85ac39adcd5c87cfd93/i-built-a-tool-that-explains-any-confusing-document-in-plain-words-your-level-your-language-3155)
-- [Smallest.ai Raises $13M to Split Voice Agents in Two](https://dev.to/lukeocodes/smallestai-raises-13m-to-split-voice-agents-in-two-5dj)
-- [Setup Husky, EsLint and Prettier in React + Vite Projects](https://dev.to/navdeepm20/setup-husky-eslint-and-prettier-in-react-vite-projects-36mh)
+- [Which job schedulers fire on time? We tested ten.](https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42)
+- [AI Code Generation Tools 2025: Which One Actually Saves Time?](https://dev.to/the-tisa/ai-code-generation-tools-2025-which-one-actually-saves-time-4f1j)
+- [SQL vs NoSQL: A Simple Guide to Picking the Right Database](https://dev.to/danishrazabangash/sql-vs-nosql-a-simple-guide-to-picking-the-right-database-5e6b)
+- [Kmemo 2.0 is out, and the two gaps I admitted to in the first post are closed](https://dev.to/tonytonycoder11/kmemo-20-is-out-and-the-two-gaps-i-admitted-to-in-the-first-post-are-closed-4hbg)
+- [5 Best Free AI Courses in 2026 &lpar;With Certificates&rpar;](https://dev.to/kevin_menesesgonzlez/5-best-free-ai-courses-in-2026-with-certificates-igp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
