@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
-- [Poutine - the true Food of the Gods](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep)
-- [Gravy Boat — a landing page with a CSS poutine you can drown in!](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12)
-- [Memory Leak &amp; 8-Second Diagnostic Crush](https://dev.to/zenieverse/memory-leak-8-second-diagnostic-crush-4nlc)
-- [We&#39;re 15-year-olds tired of switching study apps, so we built our own](https://dev.to/luka_takki_a2d7284e97170d/were-15-year-olds-tired-of-switching-study-apps-so-we-built-our-own-2oap)
+- [Scraping Sites That Block Bots: Cloudflare, DataDome &amp; PerimeterX](https://dev.to/tonywangca/scraping-sites-that-block-bots-cloudflare-datadome-perimeterx-4hlm)
+- [I run 5 Claude Code CLIs from one control plane. Here&#39;s the plumbing.](https://dev.to/ran_levi/i-run-5-claude-code-clis-from-one-control-plane-heres-the-plumbing-g9m)
+- [HTML for Beginners: Building Your First Web Page](https://dev.to/amirdeen/html-for-beginners-building-your-first-web-page-5fpd)
+- [The moment the dashboard stopped telling the truth](https://dev.to/debashish_ghosal/the-moment-the-dashboard-stopped-telling-the-truth-57hn)
+- [Food, &amp; Beyond](https://dev.to/zenieverse/food-beyond-1d5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
