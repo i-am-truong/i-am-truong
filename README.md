@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [900MB 8MB says it all. Starred.](https://dev.to/ozgurburakozdemir/-15m2)
-- [AI-Forward Marketing Teams Are Hiring More, Not Less, Survey Data Shows](https://dev.to/alifar/ai-forward-marketing-teams-are-hiring-more-not-less-survey-data-shows-129a)
-- [Why Your Web Scrapers Keep Breaking &lpar;And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright&rpar;](https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2)
-- [The 8 Performance Fixes That Finally Got My Astro Site to 100 on Mobile PageSpeed](https://dev.to/rachido_sama/the-8-performance-fixes-that-finally-got-my-astro-site-to-100-on-mobile-pagespeed-36fj)
-- [What it took to ship a production remote MCP server with OAuth 2.1](https://dev.to/getminds/what-it-took-to-ship-a-production-remote-mcp-server-with-oauth-21-364c)
+- [How to Use SVG Icons in React, Next.js, and Tailwind CSS](https://dev.to/svgicons/how-to-use-svg-icons-in-react-nextjs-and-tailwind-css-3o1c)
+- [The Comfort Atlas: What Does Home Taste Like?](https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i)
+- [The Shape of Failure: Before You Blame the AI](https://dev.to/copyleftdev/the-shape-of-failure-before-you-blame-the-ai-5358)
+- [I built an AI job-search agent solo — here&#39;s the full stack](https://dev.to/adoomah/i-built-an-ai-job-search-agent-solo-heres-the-full-stack-2fd1)
+- [Yelp’s OpenAI Deal Brings Local Reviews and Business Data to ChatGPT](https://dev.to/alifar/yelps-openai-deal-brings-local-reviews-and-business-data-to-chatgpt-17e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
