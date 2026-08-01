@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLD Data Structures in Design Context: Heap Design Patterns — How Real-World Systems Continuously Choose the Next Best Thing](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-heap-vs-hashmap-choosing-the-right-data-structure-based-on-2gap)
-- [I Built a Frontend Skillpack to Reduce AI Coding Agent Token Waste](https://dev.to/_97f3a83114a40ccbc2515/i-built-a-frontend-skillpack-to-reduce-ai-coding-agent-token-waste-554)
-- [# Blog 10: Minecraft Mod Agent- I Made My AI Agent Judge Itself — And Used the Scores to Make It a Better Combat Advisor](https://dev.to/ccortezb/-blog-10-minecraft-mod-agent-i-made-my-ai-agent-judge-itself-and-used-the-scores-to-make-it-a-333j)
-- [Catbot Development Series](https://dev.to/annavi11arrea1/catbot-development-series-nlf)
-- [# Blog #9: I Gave My Minecraft Mod a Serverless Brain — And It Decides How Many Allies to Summon Based on How Screwed You Are](https://dev.to/aws-heroes/-blog-9-i-gave-my-minecraft-mod-a-serverless-brain-and-it-decides-how-many-allies-to-summon-5bid)
+- [Benchmarking AI Coding Agents on Real Pull Requests](https://dev.to/donk8r/benchmarking-ai-coding-agents-on-real-pull-requests-22k9)
+- [How to Speed Up Your WordPress Site Without Using Paid Plugins: A Beginner&#39;s Guide](https://dev.to/tech_grundy/how-to-speed-up-your-wordpress-site-without-using-paid-plugins-a-beginners-guide-a0p)
+- [Your Alpine Base Image Has BusyBox. That&#39;s Probably Fine Until It&#39;s Not.](https://dev.to/schiff_heimlich/your-alpine-base-image-has-busybox-thats-probably-fine-until-its-not-2aep)
+- [Xiaomi Wireless Debugging Fix: Resolving Unstable Connectivity Issues with Reliable Solutions](https://dev.to/serbyte/xiaomi-wireless-debugging-fix-resolving-unstable-connectivity-issues-with-reliable-solutions-20em)
+- [[Advanced Rust] 2.1. API Design Principles of Unsurprising - Naming Tips, Implementing Common Traits](https://dev.to/someb1oody/advanced-rust-21-api-design-principles-of-unsurprising-naming-tips-implementing-common-traits-1b02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
