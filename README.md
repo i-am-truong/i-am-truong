@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e)
-- [Can AI Handle KYC? Grounding LLMs For Due Diligence Tools](https://dev.to/onizuka/can-ai-handle-kyc-grounding-llms-for-due-diligence-tools-4i7f)
-- [Google Expands Gemini With 3.6 Flash, Flash-Lite and Gemini Robotics 2](https://dev.to/alifar/google-expands-gemini-with-36-flash-flash-lite-and-gemini-robotics-2-3npj)
-- [Module 3: Information Gathering and Vulnerability Scanning](https://dev.to/rencberakman/module-3-information-gathering-and-vulnerability-scanning-2ag8)
-- [Building Fast Websites for Pakistan&#39;s Real Network Conditions &lpar;Not Just a Lighthouse Score&rpar;](https://dev.to/muhammadfarzan0/building-fast-websites-for-pakistans-real-network-conditions-not-just-a-lighthouse-score-1lah)
+- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
+- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
+- [Calendar API: Local Calendars, Cloud Sync, and Conflict Handling](https://dev.to/codenameone/calendar-api-local-calendars-cloud-sync-and-conflict-handling-1a1p)
+- [How One Missing Assert Drained $1.14M From Aftermath Finance — A Signed Integer Exploit on Sui](https://dev.to/mehvetero/how-one-missing-assert-drained-114m-from-aftermath-finance-a-signed-integer-exploit-on-sui-1db3)
+- [How I Built a Flat-Rate Reverse Geocoding API for Japan to Escape Google Maps Bill Shock](https://dev.to/tarkun55/how-i-built-a-flat-rate-reverse-geocoding-api-for-japan-to-escape-google-maps-bill-shock-1hol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
