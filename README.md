@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Audit Hidden Reminders and Context Usage in Claude Code Logs](https://dev.to/_862f933aa9477a9d2d/how-to-audit-hidden-reminders-and-context-usage-in-claude-code-logs-4fg2)
-- [Sole developer on a national SSO platform for six months, with Claude writing most of the code](https://dev.to/bhagatashisha/sole-developer-on-a-national-sso-platform-for-six-months-with-claude-writing-most-of-the-code-5bg9)
-- [Google&#39;s AI Just Found a Chrome Bug That Hid From Humans for 13 Years](https://dev.to/ashraf_chowdury09/googles-ai-just-found-a-chrome-bug-that-hid-from-humans-for-13-years-4enf)
-- [Calculate Everything. Master the Numbers.](https://dev.to/ahmed_eldemerdash/calculate-everythingmaster-the-numbers-35p2)
-- [Why JSON Schema Field Order Breaks Structured Output Accuracy](https://dev.to/ji_ai/why-json-schema-field-order-breaks-structured-output-accuracy-2985)
+- [Keeping Specs, Tests, And Code In Sync In AI Development](https://dev.to/rosgluk/keeping-specs-tests-and-code-in-sync-in-ai-development-jm4)
+- [OpenAI GPT-5.6 Launch Puts Speed and Multi-Agent Work at the Center](https://dev.to/alifar/openai-gpt-56-launch-puts-speed-and-multi-agent-work-at-the-center-5a7n)
+- [I built a tool that explains any confusing document in plain words &lpar;your level, your language&rpar;](https://dev.to/rahul_85ac39adcd5c87cfd93/i-built-a-tool-that-explains-any-confusing-document-in-plain-words-your-level-your-language-3155)
+- [Smallest.ai Raises $13M to Split Voice Agents in Two](https://dev.to/lukeocodes/smallestai-raises-13m-to-split-voice-agents-in-two-5dj)
+- [Setup Husky, EsLint and Prettier in React + Vite Projects](https://dev.to/navdeepm20/setup-husky-eslint-and-prettier-in-react-vite-projects-36mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
