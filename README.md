@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why RAG Docs Chatbots Answer Wrong: Embeddings, Chunking, and Context Fixes](https://dev.to/tony_chen_2026/why-rag-docs-chatbots-answer-wrong-embeddings-chunking-and-context-fixes-3l9c)
-- [I counted the sources in 13 of Google&#39;s AI answers. 168 citations, and not one domain appeared twice.](https://dev.to/oguzhantusen/i-counted-the-sources-in-13-of-googles-ai-answers-168-citations-and-not-one-domain-appeared-1a1b)
-- [Building a Secure MCP Server for AI-Assisted VPS Operations Without Giving the AI a Shell](https://dev.to/ojo_ilesanmi/building-a-secure-mcp-server-for-ai-assisted-vps-operations-without-giving-the-ai-a-shell-54l3)
-- [This is what building a Two-Node Lightning Network From Scratch looked like in one week.](https://dev.to/juma_evans_34e389ef539266/this-is-what-building-a-two-node-lightning-network-from-scratch-looked-like-in-one-week-22cf)
-- [Forget The Build Step: A Browser-Native Editor For JSX + CSS](https://dev.to/morganney/forget-the-build-step-a-browser-native-editor-for-jsx-css-c9a)
+- [900MB 8MB says it all. Starred.](https://dev.to/ozgurburakozdemir/-15m2)
+- [AI-Forward Marketing Teams Are Hiring More, Not Less, Survey Data Shows](https://dev.to/alifar/ai-forward-marketing-teams-are-hiring-more-not-less-survey-data-shows-129a)
+- [Why Your Web Scrapers Keep Breaking &lpar;And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright&rpar;](https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2)
+- [The 8 Performance Fixes That Finally Got My Astro Site to 100 on Mobile PageSpeed](https://dev.to/rachido_sama/the-8-performance-fixes-that-finally-got-my-astro-site-to-100-on-mobile-pagespeed-36fj)
+- [What it took to ship a production remote MCP server with OAuth 2.1](https://dev.to/getminds/what-it-took-to-ship-a-production-remote-mcp-server-with-oauth-21-364c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
