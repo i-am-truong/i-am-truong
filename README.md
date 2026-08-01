@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Which job schedulers fire on time? We tested ten.](https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42)
-- [AI Code Generation Tools 2025: Which One Actually Saves Time?](https://dev.to/the-tisa/ai-code-generation-tools-2025-which-one-actually-saves-time-4f1j)
-- [SQL vs NoSQL: A Simple Guide to Picking the Right Database](https://dev.to/danishrazabangash/sql-vs-nosql-a-simple-guide-to-picking-the-right-database-5e6b)
-- [Kmemo 2.0 is out, and the two gaps I admitted to in the first post are closed](https://dev.to/tonytonycoder11/kmemo-20-is-out-and-the-two-gaps-i-admitted-to-in-the-first-post-are-closed-4hbg)
-- [5 Best Free AI Courses in 2026 &lpar;With Certificates&rpar;](https://dev.to/kevin_menesesgonzlez/5-best-free-ai-courses-in-2026-with-certificates-igp)
+- [jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e)
+- [Can AI Handle KYC? Grounding LLMs For Due Diligence Tools](https://dev.to/onizuka/can-ai-handle-kyc-grounding-llms-for-due-diligence-tools-4i7f)
+- [Google Expands Gemini With 3.6 Flash, Flash-Lite and Gemini Robotics 2](https://dev.to/alifar/google-expands-gemini-with-36-flash-flash-lite-and-gemini-robotics-2-3npj)
+- [Module 3: Information Gathering and Vulnerability Scanning](https://dev.to/rencberakman/module-3-information-gathering-and-vulnerability-scanning-2ag8)
+- [Building Fast Websites for Pakistan&#39;s Real Network Conditions &lpar;Not Just a Lighthouse Score&rpar;](https://dev.to/muhammadfarzan0/building-fast-websites-for-pakistans-real-network-conditions-not-just-a-lighthouse-score-1lah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
