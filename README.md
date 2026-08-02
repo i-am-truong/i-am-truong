@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
-- [When Your Homelab Grows Up: How SQLite Took Down My k3s Control Plane](https://dev.to/tomaszwostal/when-your-homelab-grows-up-how-sqlite-took-down-my-k3s-control-plane-1kdp)
-- [Dastarkhwan — A Pakistani Family Meal Brought to Life with CSS](https://dev.to/waasilaasif/dastarkhwan-a-pakistani-family-meal-brought-to-life-with-css-5e89)
-- [Semantic Search Embeddings vs Keyword Search for a SaaS Help Center](https://dev.to/thomasmoore157/semantic-search-embeddings-vs-keyword-search-for-a-saas-help-center-1c9p)
-- [PyTorch `permute` vs `transpose`: What&#39;s the Difference &lpar;and the `reshape` Bug That Scrambles Your Images&rpar;](https://dev.to/pytorchfromgroundup/pytorch-permute-vs-transpose-whats-the-difference-and-the-reshape-bug-that-scrambles-your-7ke)
+- [Emotional AI for Relationships: Goutoujunshi&#39;s New Approach](https://dev.to/dd8888/emotional-ai-for-relationships-goutoujunshis-new-approach-54hc)
+- [GitHub finds your vulnerabilities. Something still has to manage them.](https://dev.to/shahidfoy/github-finds-your-vulnerabilities-something-still-has-to-manage-them-3noh)
+- [GitHub Models Shut Down: What Beginners Should Learn About AI Vendor Lock-In](https://dev.to/marcusykim/github-models-shut-down-what-beginners-should-learn-about-ai-vendor-lock-in-3d3p)
+- [It Printed &quot;Verifying.&quot; It Verified Nothing.](https://dev.to/yeriahz/it-printed-verifying-it-verified-nothing-1cde)
+- [Deal-scoped PASETO: three things I got wrong about audience-bound tokens](https://dev.to/akashy/deal-scoped-paseto-three-things-i-got-wrong-about-audience-bound-tokens-57p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
