@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Emotional AI for Relationships: Goutoujunshi&#39;s New Approach](https://dev.to/dd8888/emotional-ai-for-relationships-goutoujunshis-new-approach-54hc)
-- [GitHub finds your vulnerabilities. Something still has to manage them.](https://dev.to/shahidfoy/github-finds-your-vulnerabilities-something-still-has-to-manage-them-3noh)
-- [GitHub Models Shut Down: What Beginners Should Learn About AI Vendor Lock-In](https://dev.to/marcusykim/github-models-shut-down-what-beginners-should-learn-about-ai-vendor-lock-in-3d3p)
-- [It Printed &quot;Verifying.&quot; It Verified Nothing.](https://dev.to/yeriahz/it-printed-verifying-it-verified-nothing-1cde)
-- [Deal-scoped PASETO: three things I got wrong about audience-bound tokens](https://dev.to/akashy/deal-scoped-paseto-three-things-i-got-wrong-about-audience-bound-tokens-57p)
+- [Building an LLM API Gateway in Node.js](https://dev.to/mudassirworks/building-an-llm-api-gateway-in-nodejs-35g7)
+- [Week 7 of #100DaysOfCode: Back to the Fundamentals](https://dev.to/onatade_abdulmajeed/week-7-of-100daysofcode-back-to-the-fundamentals-3b73)
+- [The dashboard accused itself](https://dev.to/thekilteddev/the-dashboard-accused-itself-3adf)
+- [JLScript: A Programming Language Designed to Make Coding Simpler](https://dev.to/eoh_lczinn/jlscript-a-programming-language-designed-to-make-coding-simpler-2ml3)
+- [My Laptop&#39;s CPU stuck at Max Turbo 24/7 [ Here&#39;s Why ]](https://dev.to/muhammad_bilal_linux/my-laptops-cpu-stuck-at-max-turbo-247-heres-why--427)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
