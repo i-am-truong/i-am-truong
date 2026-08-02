@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your agent doesn&#39;t need more tools, it needs better tool descriptions](https://dev.to/nitish-builds/your-agent-doesnt-need-more-tools-it-needs-better-tool-descriptions-4d28)
-- [Pick Your AI by the Task, Not the Hype &lpar;A Simple Routing Framework&rpar;](https://dev.to/academy_agineai/pick-your-ai-by-the-task-not-the-hype-a-simple-routing-framework-563e)
-- [Automating the Selection of Natural, High-Quality Single-Speaker Anchors](https://dev.to/orca_forge/mechanically-selecting-natural-high-quality-anchors-for-single-speaker-voice-conversion-2bm0)
-- [My New Domain Was Labeled a Scam Before I Even Used It](https://dev.to/milanzy/my-new-domain-was-labeled-a-scam-before-i-even-used-it-1280)
-- [This article will implete pagination on the web Project](https://dev.to/luis_f5d/this-article-will-implete-pagination-on-the-web-project-48e4)
+- [What Is a Status Page? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-a-status-page-complete-guide-for-2026-dll)
+- [What Is Uptime Monitoring? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-uptime-monitoring-complete-guide-for-2026-3ikl)
+- [How to Monitor Third-Party Dependencies in 2026](https://dev.to/jensonhirst/how-to-monitor-third-party-dependencies-in-2026-5e12)
+- [Incident Communication Best Practices in 2026](https://dev.to/jensonhirst/incident-communication-best-practices-in-2026-ipl)
+- [On-Call Schedules and Escalation Policies Explained &lpar;2026&rpar;](https://dev.to/jensonhirst/on-call-schedules-and-escalation-policies-explained-2026-5aha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
