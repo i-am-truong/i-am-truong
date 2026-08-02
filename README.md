@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I created PyBotchi &lpar;v4.1.4&rpar;?](https://dev.to/boyong/why-i-created-pybotchi-v414-1pmc)
-- [How to Prove Every Company Laptop Is Managed: An Endpoint Audit Evidence Checklist](https://dev.to/snipermm/how-to-prove-every-company-laptop-is-managed-an-endpoint-audit-evidence-checklist-383k)
-- [Microsoft Up 15%. Me? 100% Down.](https://dev.to/taqui/the-ai-trade-split-bruh-even-wall-street-is-confused-about-ai-aek)
-- [npx hosting — deploy any folder to a live URL in one command, no account](https://dev.to/fordnox/npx-hosting-deploy-any-folder-to-a-live-url-in-one-command-no-account-3h65)
-- [TypeScript Just Got 10x Faster by Not Being TypeScript](https://dev.to/georgekobaidze/typescript-just-got-10x-faster-by-not-being-typescript-1n86)
+- [Your agent doesn&#39;t need more tools, it needs better tool descriptions](https://dev.to/nitish-builds/your-agent-doesnt-need-more-tools-it-needs-better-tool-descriptions-4d28)
+- [Pick Your AI by the Task, Not the Hype &lpar;A Simple Routing Framework&rpar;](https://dev.to/academy_agineai/pick-your-ai-by-the-task-not-the-hype-a-simple-routing-framework-563e)
+- [Automating the Selection of Natural, High-Quality Single-Speaker Anchors](https://dev.to/orca_forge/mechanically-selecting-natural-high-quality-anchors-for-single-speaker-voice-conversion-2bm0)
+- [My New Domain Was Labeled a Scam Before I Even Used It](https://dev.to/milanzy/my-new-domain-was-labeled-a-scam-before-i-even-used-it-1280)
+- [This article will implete pagination on the web Project](https://dev.to/luis_f5d/this-article-will-implete-pagination-on-the-web-project-48e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
