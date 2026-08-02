@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Status Page? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-a-status-page-complete-guide-for-2026-dll)
-- [What Is Uptime Monitoring? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-uptime-monitoring-complete-guide-for-2026-3ikl)
-- [How to Monitor Third-Party Dependencies in 2026](https://dev.to/jensonhirst/how-to-monitor-third-party-dependencies-in-2026-5e12)
-- [Incident Communication Best Practices in 2026](https://dev.to/jensonhirst/incident-communication-best-practices-in-2026-ipl)
-- [On-Call Schedules and Escalation Policies Explained &lpar;2026&rpar;](https://dev.to/jensonhirst/on-call-schedules-and-escalation-policies-explained-2026-5aha)
+- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
+- [When Your Homelab Grows Up: How SQLite Took Down My k3s Control Plane](https://dev.to/tomaszwostal/when-your-homelab-grows-up-how-sqlite-took-down-my-k3s-control-plane-1kdp)
+- [Dastarkhwan — A Pakistani Family Meal Brought to Life with CSS](https://dev.to/waasilaasif/dastarkhwan-a-pakistani-family-meal-brought-to-life-with-css-5e89)
+- [Semantic Search Embeddings vs Keyword Search for a SaaS Help Center](https://dev.to/thomasmoore157/semantic-search-embeddings-vs-keyword-search-for-a-saas-help-center-1c9p)
+- [PyTorch `permute` vs `transpose`: What&#39;s the Difference &lpar;and the `reshape` Bug That Scrambles Your Images&rpar;](https://dev.to/pytorchfromgroundup/pytorch-permute-vs-transpose-whats-the-difference-and-the-reshape-bug-that-scrambles-your-7ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
