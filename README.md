@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Kikar — An AI Messaging Platform That Creates Digital Versions of People](https://dev.to/bhavya4907/i-built-kikar-an-ai-messaging-platform-that-creates-digital-versions-of-people-52i9)
-- [I ran Lighthouse on 269 Shopify stores. The median mobile score was 48.](https://dev.to/bkocdur/i-ran-lighthouse-on-269-shopify-stores-the-median-mobile-score-was-48-3p3e)
-- [Palantir performance highlights enterprise AI adoption trends](https://dev.to/vpodk/palantir-performance-highlights-enterprise-ai-adoption-trends-1jln)
-- [I checked who comments on my MCP posts. Most of the good ones are bots.](https://dev.to/theopslog/i-checked-who-comments-on-my-mcp-posts-most-of-the-good-ones-are-bots-344k)
-- [What I Learned Shipping 90+ Mobile Apps with AI Coding Agents](https://dev.to/mashi_mashi_3092153ef1ab5/what-i-learned-shipping-90-mobile-apps-with-ai-coding-agents-13lk)
+- [Understanding Pega&#39;s `pzPVStream`: Why a 20-Year-Old Design Still Makes Sense](https://dev.to/ognivo/understanding-pegas-pzpvstream-why-a-20-year-old-design-still-makes-sense-3kh1)
+- [Kubernetes Migration: Seeking Guidance and Collaboration for Ingress to Gateway API Transition](https://dev.to/alitron/kubernetes-migration-seeking-guidance-and-collaboration-for-ingress-to-gateway-api-transition-5bo4)
+- [Building an embedded Shopify app in Symfony: session tokens, token exchange, and the parts nobody writes in PHP](https://dev.to/mollenthiel/building-an-embedded-shopify-app-in-symfony-session-tokens-token-exchange-and-the-parts-nobody-438g)
+- [Lesson 4 - Validation: A must-have cornerstone](https://dev.to/smukker/lesson-4-validation-a-must-have-cornerstone-3bd2)
+- [A GitHub Actions tag is a promise, not a fact: pinning by SHA the right way](https://dev.to/wahib_el_khadiri_0/a-github-actions-tag-is-a-promise-not-a-fact-pinning-by-sha-the-right-way-3np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
