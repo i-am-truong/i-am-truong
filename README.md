@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to grow on X without posting like a bot](https://dev.to/rareprogrammer/how-to-grow-on-x-without-posting-like-a-bot-5cg4)
-- [unreal-assets-to-glb](https://dev.to/prikalel/unreal-assets-to-glb-1ia2)
-- [React TypeScript: Delete with Confirmation Modal and RTK Query](https://dev.to/luis_f5d/react-typescript-delete-with-confirmation-modal-and-rtk-query-58n6)
-- [OpenAI’s Public Model Materials Do Not Identify an Astra Model or Release Timeline](https://dev.to/alifar/openais-public-model-materials-do-not-identify-an-astra-model-or-release-timeline-h5d)
-- [Trelix v2.11.0: Jira and Linear Now Live Inside the Code Graph](https://dev.to/sai_ram_0000/trelix-v2110-jira-and-linear-now-live-inside-the-code-graph-3e6l)
+- [What “Team Humanity” Could Signal for OpenAI Governance and Enterprise AI Planning](https://dev.to/alifar/what-team-humanity-could-signal-for-openai-governance-and-enterprise-ai-planning-59jh)
+- [AI Makes Bad Developers Faster Too](https://dev.to/suckup_de/ai-makes-bad-developers-faster-too-2o10)
+- [Stop Leaking Secrets into your LLM Context Windows](https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5)
+- [React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture](https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd)
+- [The Autonomy Paradox: When an AI Agent Can&#39;t Follow Its Own Rules](https://dev.to/wharsojo/the-autonomy-paradox-when-an-ai-agent-cant-follow-its-own-rules-1a11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
