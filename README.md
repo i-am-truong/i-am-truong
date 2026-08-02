@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Episode 1 — The Friday Deploy](https://dev.to/surajrkhonde/episode-1-the-friday-deploy-2424)
-- [Voice Commander: Control Your Mac with Hey Jarvis](https://dev.to/amrendra_n_mishra/voice-commander-control-your-mac-with-hey-jarvis-47ma)
-- [Turn Chatbot Misunderstandings Into Grammar Regression Tests](https://dev.to/susiewang/turn-chatbot-misunderstandings-into-grammar-regression-tests-j5n)
-- [I Built an AI Name Generator Because Naming Is Harder Than It Looks](https://dev.to/zhe_li_cb865666e61edba79d/i-built-an-ai-name-generator-because-naming-is-harder-than-it-looks-54g9)
-- [&quot;iota ใน Go — อักษรกรีกตัวจิ๋วที่กลายเป็นเครื่องมือทรงพลัง&quot;](https://dev.to/gophernment/iota-ain-go-aksrkriiktawcchiwthiiklaayepnekhruuengmuuethrngphlang-213e)
+- [Taming a 40-Minute Lean CI: Three Rounds, Three Wrong Suspects](https://dev.to/iroha1203/taming-a-40-minute-lean-ci-three-rounds-three-wrong-suspects-7ke)
+- [Everyone Knows It Scores Half. Nobody Checks Which Half.](https://dev.to/alan_scottencinas/everyone-knows-it-scores-half-nobody-checks-which-half-953)
+- [Hire a Shopify developer: what to ask before you sign anything](https://dev.to/nayankyada/hire-a-shopify-developer-what-to-ask-before-you-sign-anything-4694)
+- [Payment Rail vs. Settlement Layer: What AEON&#39;s Coinbase x402 Partnership Actually Validates](https://dev.to/barissozen/payment-rail-vs-settlement-layer-what-aeons-coinbase-x402-partnership-actually-validates-3795)
+- [Evidence Gates for AI Coding Agents in CI — Recoverable Merge over Mean Time to Green](https://dev.to/lo_an_e746e473b842ff53cf9/evidence-gates-for-ai-coding-agents-in-ci-recoverable-merge-over-mean-time-to-green-2a8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
