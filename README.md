@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ouma, Nonna &amp; Teta — one table, three kitchens](https://dev.to/piwe/ouma-nonna-teta-one-table-three-kitchens-1ibo)
-- [Your Voice Assistant Can Be Social-Engineered Too, and Nobody&#39;s Watching For It](https://dev.to/coridev/your-voice-assistant-can-be-social-engineered-too-and-nobodys-watching-for-it-51jp)
-- [Two h1 tags on 500 pages: the bug that lives between two correct halves](https://dev.to/zugodev/two-h1-tags-on-500-pages-the-bug-that-lives-between-two-correct-halves-2aha)
-- [AppSheet vs Apps Script vs PowerApps &lpar;2026&rpar;: When to Use Each](https://dev.to/hayrullahkar/appsheet-vs-apps-script-vs-powerapps-2026-when-to-use-each-2e41)
-- [How I built a live global scoreboard for $0 using Static HTML and Supabase published: true](https://dev.to/naavvviiinnnn/how-i-built-a-live-global-scoreboard-for-0-using-static-html-and-supabasepublished-true-5apm)
+- [Designing Edit Operations for AI Agents](https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8)
+- [Tokenization in AI: What Is It, Why Is It Used, and How Does It Work?](https://dev.to/princesingh_4325/tokenization-in-ai-what-is-it-why-is-it-used-and-how-does-it-work-jhb)
+- [How Is &quot;&quot;2&quot; &gt; &quot;10&quot;&quot; &quot;true&quot; in JavaScript?](https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4)
+- [Gotcha: chasing a bug that was never in my code](https://dev.to/earlgreyhot1701d/gotcha-chasing-a-bug-that-was-never-in-my-code-59cc)
+- [Scrapped the entire mockup](https://dev.to/henryhelbock/scrapped-the-entire-mockup-1jeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
