@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Edit Operations for AI Agents](https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8)
-- [Tokenization in AI: What Is It, Why Is It Used, and How Does It Work?](https://dev.to/princesingh_4325/tokenization-in-ai-what-is-it-why-is-it-used-and-how-does-it-work-jhb)
-- [How Is &quot;&quot;2&quot; &gt; &quot;10&quot;&quot; &quot;true&quot; in JavaScript?](https://dev.to/princesingh_4325/how-is-2-10-true-in-javascript-5ce4)
-- [Gotcha: chasing a bug that was never in my code](https://dev.to/earlgreyhot1701d/gotcha-chasing-a-bug-that-was-never-in-my-code-59cc)
-- [Scrapped the entire mockup](https://dev.to/henryhelbock/scrapped-the-entire-mockup-1jeo)
+- [Episode 1 — The Friday Deploy](https://dev.to/surajrkhonde/episode-1-the-friday-deploy-2424)
+- [Voice Commander: Control Your Mac with Hey Jarvis](https://dev.to/amrendra_n_mishra/voice-commander-control-your-mac-with-hey-jarvis-47ma)
+- [Turn Chatbot Misunderstandings Into Grammar Regression Tests](https://dev.to/susiewang/turn-chatbot-misunderstandings-into-grammar-regression-tests-j5n)
+- [I Built an AI Name Generator Because Naming Is Harder Than It Looks](https://dev.to/zhe_li_cb865666e61edba79d/i-built-an-ai-name-generator-because-naming-is-harder-than-it-looks-54g9)
+- [&quot;iota ใน Go — อักษรกรีกตัวจิ๋วที่กลายเป็นเครื่องมือทรงพลัง&quot;](https://dev.to/gophernment/iota-ain-go-aksrkriiktawcchiwthiiklaayepnekhruuengmuuethrngphlang-213e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
