@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Delta – Language learning built on cognitive science, not gamification](https://dev.to/shadowrock007/delta-language-learning-built-on-cognitive-science-not-gamification-2cjh)
-- [เมื่อ AI หนีออกจากห้องแล็บ — วิเคราะห์เหตุการณ์ OpenAI โมเดลหลุดการควบคุม แฮก Hugging Face](https://dev.to/sarantoon/emuue-ai-hniikcchaakhngaelb-wiekhraaahehtukaarn-openai-omedlhludkaarkhwbkhum-aehk-hugging-face-2p3j)
-- [Bluetooth Support Across Every Codename One Target](https://dev.to/codenameone/bluetooth-support-across-every-codename-one-target-4om5)
-- [How AI Is Changing Ecommerce Photography: Creativity, Scale and the Trust Problem](https://dev.to/designrise/how-ai-is-changing-ecommerce-photography-creativity-scale-and-the-trust-problem-4e43)
-- [A formally-verified OCaml tool to recover RPG Maker assets — one binary, zero deps](https://dev.to/rolanfreeman6png/a-formally-verified-ocaml-tool-to-recover-rpg-maker-assets-one-binary-zero-deps-54cg)
+- [Why I created PyBotchi &lpar;v4.1.4&rpar;?](https://dev.to/boyong/why-i-created-pybotchi-v414-1pmc)
+- [How to Prove Every Company Laptop Is Managed: An Endpoint Audit Evidence Checklist](https://dev.to/snipermm/how-to-prove-every-company-laptop-is-managed-an-endpoint-audit-evidence-checklist-383k)
+- [Microsoft Up 15%. Me? 100% Down.](https://dev.to/taqui/the-ai-trade-split-bruh-even-wall-street-is-confused-about-ai-aek)
+- [npx hosting — deploy any folder to a live URL in one command, no account](https://dev.to/fordnox/npx-hosting-deploy-any-folder-to-a-live-url-in-one-command-no-account-3h65)
+- [TypeScript Just Got 10x Faster by Not Being TypeScript](https://dev.to/georgekobaidze/typescript-just-got-10x-faster-by-not-being-typescript-1n86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
