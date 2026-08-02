@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an LLM API Gateway in Node.js](https://dev.to/mudassirworks/building-an-llm-api-gateway-in-nodejs-35g7)
-- [Week 7 of #100DaysOfCode: Back to the Fundamentals](https://dev.to/onatade_abdulmajeed/week-7-of-100daysofcode-back-to-the-fundamentals-3b73)
-- [The dashboard accused itself](https://dev.to/thekilteddev/the-dashboard-accused-itself-3adf)
-- [JLScript: A Programming Language Designed to Make Coding Simpler](https://dev.to/eoh_lczinn/jlscript-a-programming-language-designed-to-make-coding-simpler-2ml3)
-- [My Laptop&#39;s CPU stuck at Max Turbo 24/7 [ Here&#39;s Why ]](https://dev.to/muhammad_bilal_linux/my-laptops-cpu-stuck-at-max-turbo-247-heres-why--427)
+- [anyone experience with vibe coding platforms?](https://dev.to/elnaz_40f0c7a89ce30a415c5/anyone-experience-with-vibe-coding-platforms-k5p)
+- [Treat prompts like code: skills, evals, and ship-gate CI for Cursor slash commands](https://dev.to/emaraschio/treat-prompts-like-code-skills-evals-and-ship-gate-ci-for-cursor-slash-commands-1o03)
+- [Crypto-Agility Without a Redesign: The &quot;Soft-Fade-Out&quot; Pattern for Legacy IoT Silicon](https://dev.to/artkeller/crypto-agility-without-a-redesign-the-soft-fade-out-pattern-for-legacy-iot-silicon-2oc6)
+- [How Much Should Live Together? Learning to Isolate Services the Hard Way](https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m)
+- [GitLab 2FA Lockout: How My Local SSH Key Saved the Day](https://dev.to/letstalkoss/gitlab-2fa-lockout-how-my-local-ssh-key-saved-the-day-5g4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
