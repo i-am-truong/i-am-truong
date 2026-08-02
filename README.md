@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What “Team Humanity” Could Signal for OpenAI Governance and Enterprise AI Planning](https://dev.to/alifar/what-team-humanity-could-signal-for-openai-governance-and-enterprise-ai-planning-59jh)
-- [AI Makes Bad Developers Faster Too](https://dev.to/suckup_de/ai-makes-bad-developers-faster-too-2o10)
-- [Stop Leaking Secrets into your LLM Context Windows](https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5)
-- [React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture](https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd)
-- [The Autonomy Paradox: When an AI Agent Can&#39;t Follow Its Own Rules](https://dev.to/wharsojo/the-autonomy-paradox-when-an-ai-agent-cant-follow-its-own-rules-1a11)
+- [Audio Plays on Desktop but Not on iPhone / iPad — The Culprit Is the MP4 moov Atom](https://dev.to/dexterlung/audio-plays-on-desktop-but-not-on-iphone-ipad-the-culprit-is-the-mp4-moov-atom-1j01)
+- [I built an open-source OSINT tool that runs 55 modules with zero API keys](https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614)
+- [Great article for security concepts](https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o)
+- [Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi)
+- [Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
