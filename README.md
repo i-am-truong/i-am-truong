@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming a 40-Minute Lean CI: Three Rounds, Three Wrong Suspects](https://dev.to/iroha1203/taming-a-40-minute-lean-ci-three-rounds-three-wrong-suspects-7ke)
-- [Everyone Knows It Scores Half. Nobody Checks Which Half.](https://dev.to/alan_scottencinas/everyone-knows-it-scores-half-nobody-checks-which-half-953)
-- [Hire a Shopify developer: what to ask before you sign anything](https://dev.to/nayankyada/hire-a-shopify-developer-what-to-ask-before-you-sign-anything-4694)
-- [Payment Rail vs. Settlement Layer: What AEON&#39;s Coinbase x402 Partnership Actually Validates](https://dev.to/barissozen/payment-rail-vs-settlement-layer-what-aeons-coinbase-x402-partnership-actually-validates-3795)
-- [Evidence Gates for AI Coding Agents in CI — Recoverable Merge over Mean Time to Green](https://dev.to/lo_an_e746e473b842ff53cf9/evidence-gates-for-ai-coding-agents-in-ci-recoverable-merge-over-mean-time-to-green-2a8h)
+- [A Framework-Agnostic Testing Methodology for AI Agents &lpar;61 sources, 58 test blocks, OWASP Agentic Top 10&rpar;](https://dev.to/turgaysavaci/a-framework-agnostic-testing-methodology-for-ai-agents-61-sources-58-test-blocks-owasp-agentic-4jh7)
+- [The Most Underused Prompt in Data Engineering](https://dev.to/raghavsharma_/the-most-underused-prompt-in-data-engineering-ejk)
+- [I swept 59 keywords across 6 App Store storefronts. My app ranks for exactly 2 — and both are just my own title.](https://dev.to/samtj/i-swept-59-keywords-across-6-app-store-storefronts-my-app-ranks-for-exactly-2-and-both-are-just-5eo0)
+- [I Built an AI Personal Finance App — Here’s What I Learned Building Nexbi AI](https://dev.to/ndifoinhilary/i-built-an-ai-personal-finance-app-heres-what-i-learned-building-nexbi-ai-27nl)
+- [k3d for Local Kubernetes: How We Cut Cluster Startup From 3 Minutes to Under 10 Seconds](https://dev.to/mtrnm/k3d-for-local-kubernetes-how-we-cut-cluster-startup-from-3-minutes-to-under-10-seconds-3ba2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
