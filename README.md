@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Framework-Agnostic Testing Methodology for AI Agents &lpar;61 sources, 58 test blocks, OWASP Agentic Top 10&rpar;](https://dev.to/turgaysavaci/a-framework-agnostic-testing-methodology-for-ai-agents-61-sources-58-test-blocks-owasp-agentic-4jh7)
-- [The Most Underused Prompt in Data Engineering](https://dev.to/raghavsharma_/the-most-underused-prompt-in-data-engineering-ejk)
-- [I swept 59 keywords across 6 App Store storefronts. My app ranks for exactly 2 — and both are just my own title.](https://dev.to/samtj/i-swept-59-keywords-across-6-app-store-storefronts-my-app-ranks-for-exactly-2-and-both-are-just-5eo0)
-- [I Built an AI Personal Finance App — Here’s What I Learned Building Nexbi AI](https://dev.to/ndifoinhilary/i-built-an-ai-personal-finance-app-heres-what-i-learned-building-nexbi-ai-27nl)
-- [k3d for Local Kubernetes: How We Cut Cluster Startup From 3 Minutes to Under 10 Seconds](https://dev.to/mtrnm/k3d-for-local-kubernetes-how-we-cut-cluster-startup-from-3-minutes-to-under-10-seconds-3ba2)
+- [How to grow on X without posting like a bot](https://dev.to/rareprogrammer/how-to-grow-on-x-without-posting-like-a-bot-5cg4)
+- [unreal-assets-to-glb](https://dev.to/prikalel/unreal-assets-to-glb-1ia2)
+- [React TypeScript: Delete with Confirmation Modal and RTK Query](https://dev.to/luis_f5d/react-typescript-delete-with-confirmation-modal-and-rtk-query-58n6)
+- [OpenAI’s Public Model Materials Do Not Identify an Astra Model or Release Timeline](https://dev.to/alifar/openais-public-model-materials-do-not-identify-an-astra-model-or-release-timeline-h5d)
+- [Trelix v2.11.0: Jira and Linear Now Live Inside the Code Graph](https://dev.to/sai_ram_0000/trelix-v2110-jira-and-linear-now-live-inside-the-code-graph-3e6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
