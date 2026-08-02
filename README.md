@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Audio Plays on Desktop but Not on iPhone / iPad — The Culprit Is the MP4 moov Atom](https://dev.to/dexterlung/audio-plays-on-desktop-but-not-on-iphone-ipad-the-culprit-is-the-mp4-moov-atom-1j01)
-- [I built an open-source OSINT tool that runs 55 modules with zero API keys](https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614)
-- [Great article for security concepts](https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o)
-- [Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi)
-- [Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)
+- [Delta – Language learning built on cognitive science, not gamification](https://dev.to/shadowrock007/delta-language-learning-built-on-cognitive-science-not-gamification-2cjh)
+- [เมื่อ AI หนีออกจากห้องแล็บ — วิเคราะห์เหตุการณ์ OpenAI โมเดลหลุดการควบคุม แฮก Hugging Face](https://dev.to/sarantoon/emuue-ai-hniikcchaakhngaelb-wiekhraaahehtukaarn-openai-omedlhludkaarkhwbkhum-aehk-hugging-face-2p3j)
+- [Bluetooth Support Across Every Codename One Target](https://dev.to/codenameone/bluetooth-support-across-every-codename-one-target-4om5)
+- [How AI Is Changing Ecommerce Photography: Creativity, Scale and the Trust Problem](https://dev.to/designrise/how-ai-is-changing-ecommerce-photography-creativity-scale-and-the-trust-problem-4e43)
+- [A formally-verified OCaml tool to recover RPG Maker assets — one binary, zero deps](https://dev.to/rolanfreeman6png/a-formally-verified-ocaml-tool-to-recover-rpg-maker-assets-one-binary-zero-deps-54cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
