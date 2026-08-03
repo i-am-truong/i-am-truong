@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computers Can&#39;t Break Your Encryption Yet. &quot;Yet&quot; Is the Problem.](https://dev.to/aws-builders/quantum-computers-cant-break-your-encryption-yet-yet-is-the-problem-dg)
-- [Bucket Sort Algorithm](https://dev.to/achyut_08/bucket-sort-algorithm-2e65)
-- [Sharpening My Vibe Coding Skills: Adding Personal Skills to Coder](https://dev.to/carryologist/sharpening-my-vibe-coding-skills-adding-personal-skills-to-coder-4gan)
-- [I built a governance layer for AI agent skills — with an AI agent as my pair programmer](https://dev.to/artemr_rudenko_0bf2c2c505/i-built-a-governance-layer-for-ai-agent-skills-with-an-ai-agent-as-my-pair-programmer-4jkb)
-- [Let&#39;s combine AWS DevOps Agent and Jinbaflow to generate PDF reports.](https://dev.to/aws-builders/lets-combine-aws-devops-agent-and-jinbaflow-to-generate-pdf-reports-5c0d)
+- [RAG vs. Semantic Layer: Why AI Needs Deterministic Governance](https://dev.to/harshit_colrows/rag-vs-semantic-layer-why-ai-needs-deterministic-governance-1i2k)
+- [8051: Building a Custom Disassembler](https://dev.to/ddupard/8051-building-a-custom-disassembler-4m14)
+- [Automating Data Pipelines with AI: A Practical Guide](https://dev.to/beehivestrategy/automating-data-pipelines-with-ai-a-practical-guide-5h95)
+- [Best LLM Frameworks for Enterprise Development in 2026](https://dev.to/beehivestrategy/best-llm-frameworks-for-enterprise-development-in-2026-59o2)
+- [Best Vector Databases for AI Applications in 2026](https://dev.to/beehivestrategy/best-vector-databases-for-ai-applications-in-2026-536n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
