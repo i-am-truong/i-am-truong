@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From &quot;token&quot; to &quot;MoE&quot;: the LLM glossary in dependency order](https://dev.to/mojalab/from-token-to-moe-the-llm-glossary-in-dependency-order-2pjf)
-- [Up and Running with Cloudinary’s Next Starter Kit](https://dev.to/cloudinary/up-and-running-with-cloudinarys-next-starter-kit-4586)
-- [O que são essas letrinhas: BASE](https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-base-5ee3)
-- [Google&#39;s AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816)
-- [We open-sourced the small checker we use to stop &quot;done&quot; claims we can&#39;t back up](https://dev.to/nexuslabzen/we-open-sourced-the-small-checker-we-use-to-stop-done-claims-we-cant-back-up-57af)
+- [Designing a Backend System That Handles 100K Requests/Second &lpar;Without Melting Your Database&rpar;](https://dev.to/ghrabla/designing-a-backend-system-that-handles-100k-requestssecond-without-melting-your-database-2dpo)
+- [Building Reliable UDP](https://dev.to/derekmwale/building-reliable-udp-51ei)
+- [How to Let gzip Find the Signal in a Pile of Documents](https://dev.to/jlmartel/how-to-let-gzip-find-the-signal-in-a-pile-of-documents-2o9g)
+- [I built a free fitness tracker with no backend and no account — here&#39;s what I learned](https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb)
+- [arxid: keyed, non-enumerable ID obfuscation with a measured ARX-Feistel permutation](https://dev.to/lucasolopes/arxid-keyed-non-enumerable-id-obfuscation-with-a-measured-arx-feistel-permutation-3cia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
