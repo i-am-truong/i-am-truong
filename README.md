@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Skills Were Only Half the Answer: Upgrading to Agents, Skills and Commands](https://dev.to/nasrulhazim/skills-were-only-half-the-answer-upgrading-to-agents-skills-and-commands-12no)
-- [Cómo montar un sistema de contenidos automatizado por 15€ al mes &lpar;Stack 2026&rpar;](https://dev.to/acrdev/como-montar-un-sistema-de-contenidos-automatizado-por-15eu-al-mes-stack-2026-2p19)
-- [Building a Multi-Agent AI for Company LinkedIn Pages - Part 7: Building the Hook Agent](https://dev.to/mnv/building-a-multi-agent-ai-for-company-linkedin-pages-part-7-building-the-hook-agent-1632)
-- [A Practical Guide to Using Auth0 as an Identity Broker for Epic SMART on FHIR](https://dev.to/akarshan/a-practical-guide-to-using-auth0-as-an-identity-broker-for-epic-smart-on-fhir-416b)
-- [Why QA Testing Is Important for AI-Generated Code](https://dev.to/synfinity-dynamics-pvt-ltd/why-qa-testing-is-important-for-ai-generated-code-2hkh)
+- [Hardware, IoT and Player Technology - Sensors on the Pitch](https://dev.to/opango_timmy14/hardware-iot-and-player-technology-sensors-on-the-pitch-1pp9)
+- [My billing worked. My expiry dates didn&#39;t. Here&#39;s why.](https://dev.to/shaojie/my-billing-worked-my-expiry-dates-didnt-heres-why-1308)
+- [Parsing Pinterest URLs Safely in JavaScript &lpar;Without Network Requests&rpar;](https://dev.to/jiankn/parsing-pinterest-urls-safely-in-javascript-without-network-requests-464b)
+- [Repaint vs Reflow: A Simple Explanation](https://dev.to/ale3oula/repaint-vs-reflow-a-simple-explanation-1m4j)
+- [The Memory Wall](https://dev.to/diyaburman/the-memory-wall-25g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
