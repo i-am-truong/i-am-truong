@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A 7am Report on My Short-Term Rental](https://dev.to/syuja/a-7am-report-on-my-short-term-rental-27n)
-- [COLDCARD Predictable RNG: From Seed Recovery to About $8.86M Bitcoin Theft](https://dev.to/anoymask/coldcard-predictable-rng-from-seed-recovery-to-about-886m-bitcoin-theft-21e0)
-- [I Spent 10x Longer Debugging AI Code Than Writing It — Here&#39;s What Changed](https://dev.to/shadie_ai/i-spent-10x-longer-debugging-ai-code-than-writing-it-heres-what-changed-2k1h)
-- [Self-Hosted SSO from Scratch with Laravel Passport](https://dev.to/cammanhhoang/self-hosted-sso-from-scratch-with-laravel-passport-491j)
-- [Okay Let me Switch to Unreal](https://dev.to/evedev/okay-let-me-switch-to-unreal-2g85)
+- [4 hours lost to a trailing slash: what shipping multilingual SEO actually looks like](https://dev.to/korelyy/4-hours-lost-to-a-trailing-slash-what-shipping-multilingual-seo-actually-looks-like-4jni)
+- [Stop Prompt Engineering, Start Context Engineering](https://dev.to/naimulkarim/stop-prompt-engineering-start-context-engineering-2gf5)
+- [EU AI Act Article 50: What the 2026 Transparency Rules Mean for AI Teams](https://dev.to/alifar/eu-ai-act-article-50-what-the-2026-transparency-rules-mean-for-ai-teams-3i7g)
+- [From API client to CLI, without writing a parser](https://dev.to/mauvilsa/from-api-client-to-cli-without-writing-a-parser-3h01)
+- [RAG Retrieval Optimization: Reduce Vector Search Before Ranking](https://dev.to/puffball1567/rag-retrieval-optimization-reduce-vector-search-before-ranking-5h16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
