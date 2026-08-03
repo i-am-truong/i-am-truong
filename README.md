@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gartner Says 40% of Apps Will Have AI Agents by December. Here&#39;s the Plumbing Nobody Puts on the Slide.](https://dev.to/mickyarun/gartner-says-40-of-apps-will-have-ai-agents-by-december-heres-the-plumbing-nobody-puts-on-the-5196)
-- [Docker For beginners](https://dev.to/jibachhhmahto764/docker-for-beginners-56mh)
-- [Your agent returned 200 OK. Was it actually right?](https://dev.to/vandyand/your-agent-returned-200-ok-was-it-actually-right-26p)
-- [Calgary Energy Tech and Offshore Engineering Teams: A Match Made in the Cloud](https://dev.to/devwithzach/calgary-energy-tech-and-offshore-engineering-teams-a-match-made-in-the-cloud-34hn)
-- [I Automated My Content Workflow with n8n. Did It Actually Save Time?](https://dev.to/sarahpan/i-automated-my-content-workflow-with-n8n-did-it-actually-save-time-574e)
+- [Skills Were Only Half the Answer: Upgrading to Agents, Skills and Commands](https://dev.to/nasrulhazim/skills-were-only-half-the-answer-upgrading-to-agents-skills-and-commands-12no)
+- [Cómo montar un sistema de contenidos automatizado por 15€ al mes &lpar;Stack 2026&rpar;](https://dev.to/acrdev/como-montar-un-sistema-de-contenidos-automatizado-por-15eu-al-mes-stack-2026-2p19)
+- [Building a Multi-Agent AI for Company LinkedIn Pages - Part 7: Building the Hook Agent](https://dev.to/mnv/building-a-multi-agent-ai-for-company-linkedin-pages-part-7-building-the-hook-agent-1632)
+- [A Practical Guide to Using Auth0 as an Identity Broker for Epic SMART on FHIR](https://dev.to/akarshan/a-practical-guide-to-using-auth0-as-an-identity-broker-for-epic-smart-on-fhir-416b)
+- [Why QA Testing Is Important for AI-Generated Code](https://dev.to/synfinity-dynamics-pvt-ltd/why-qa-testing-is-important-for-ai-generated-code-2hkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
