@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Pega&#39;s `pzPVStream`: Why a 20-Year-Old Design Still Makes Sense](https://dev.to/ognivo/understanding-pegas-pzpvstream-why-a-20-year-old-design-still-makes-sense-3kh1)
-- [Kubernetes Migration: Seeking Guidance and Collaboration for Ingress to Gateway API Transition](https://dev.to/alitron/kubernetes-migration-seeking-guidance-and-collaboration-for-ingress-to-gateway-api-transition-5bo4)
-- [Building an embedded Shopify app in Symfony: session tokens, token exchange, and the parts nobody writes in PHP](https://dev.to/mollenthiel/building-an-embedded-shopify-app-in-symfony-session-tokens-token-exchange-and-the-parts-nobody-438g)
-- [Lesson 4 - Validation: A must-have cornerstone](https://dev.to/smukker/lesson-4-validation-a-must-have-cornerstone-3bd2)
-- [A GitHub Actions tag is a promise, not a fact: pinning by SHA the right way](https://dev.to/wahib_el_khadiri_0/a-github-actions-tag-is-a-promise-not-a-fact-pinning-by-sha-the-right-way-3np)
+- [A 7am Report on My Short-Term Rental](https://dev.to/syuja/a-7am-report-on-my-short-term-rental-27n)
+- [COLDCARD Predictable RNG: From Seed Recovery to About $8.86M Bitcoin Theft](https://dev.to/anoymask/coldcard-predictable-rng-from-seed-recovery-to-about-886m-bitcoin-theft-21e0)
+- [I Spent 10x Longer Debugging AI Code Than Writing It — Here&#39;s What Changed](https://dev.to/shadie_ai/i-spent-10x-longer-debugging-ai-code-than-writing-it-heres-what-changed-2k1h)
+- [Self-Hosted SSO from Scratch with Laravel Passport](https://dev.to/cammanhhoang/self-hosted-sso-from-scratch-with-laravel-passport-491j)
+- [Okay Let me Switch to Unreal](https://dev.to/evedev/okay-let-me-switch-to-unreal-2g85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
