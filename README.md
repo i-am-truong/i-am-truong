@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A friend dared me to build Pass the Pigs during the apéro. Two LLMs reviewed my plan.](https://dev.to/chpomob/a-friend-dared-me-to-build-pass-the-pigs-during-the-apero-two-llms-reviewed-my-plan-3132)
-- [CRM integration. Shall we talk about it?](https://dev.to/dimidan/crm-integration-shall-we-talk-about-it-3kki)
-- [Run It, Don&#39;t Read It: coding agents predict check scripts instead of running them](https://dev.to/vasyltretiakov/run-it-dont-read-it-coding-agents-predict-check-scripts-instead-of-running-them-1987)
-- [I Built an MCP Server So AI Assistants Can Process PDFs Directly](https://dev.to/peter_ndumia_pdfhaul/i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly-80k)
-- [Do Not Trust the Green Checkmark](https://dev.to/onurkesim/do-not-trust-the-green-checkmark-48i5)
+- [XML Tagging in Prompts: The Secret to Getting Better Output from Claude and GPT](https://dev.to/maryam_saba_792cdbcdb46fd/xml-tagging-in-prompts-the-secret-to-getting-better-output-from-claude-and-gpt-54e1)
+- [Building a security posture scanner with Next.js and Python](https://dev.to/dkls7777/building-a-security-posture-scanner-with-nextjs-and-python-5g5c)
+- [Why GitHub Cannot Paginate Through Millions of Repositories - Deep Pagination Explained](https://dev.to/mayank7924/why-github-silently-caps-your-search-at-1000-results-and-whats-actually-happening-underneath-1oik)
+- [A comment can be marked done without changing Word text](https://dev.to/sybilgambleyyu/a-comment-can-be-marked-done-without-changing-word-text-512o)
+- [Building ephemeral encrypted chat with Cloudflare Durable Objects](https://dev.to/shawnbure/building-ephemeral-encrypted-chat-with-cloudflare-durable-objects-aaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
