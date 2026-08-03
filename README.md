@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 hours lost to a trailing slash: what shipping multilingual SEO actually looks like](https://dev.to/korelyy/4-hours-lost-to-a-trailing-slash-what-shipping-multilingual-seo-actually-looks-like-4jni)
-- [Stop Prompt Engineering, Start Context Engineering](https://dev.to/naimulkarim/stop-prompt-engineering-start-context-engineering-2gf5)
-- [EU AI Act Article 50: What the 2026 Transparency Rules Mean for AI Teams](https://dev.to/alifar/eu-ai-act-article-50-what-the-2026-transparency-rules-mean-for-ai-teams-3i7g)
-- [From API client to CLI, without writing a parser](https://dev.to/mauvilsa/from-api-client-to-cli-without-writing-a-parser-3h01)
-- [RAG Retrieval Optimization: Reduce Vector Search Before Ranking](https://dev.to/puffball1567/rag-retrieval-optimization-reduce-vector-search-before-ranking-5h16)
+- [Gartner Says 40% of Apps Will Have AI Agents by December. Here&#39;s the Plumbing Nobody Puts on the Slide.](https://dev.to/mickyarun/gartner-says-40-of-apps-will-have-ai-agents-by-december-heres-the-plumbing-nobody-puts-on-the-5196)
+- [Docker For beginners](https://dev.to/jibachhhmahto764/docker-for-beginners-56mh)
+- [Your agent returned 200 OK. Was it actually right?](https://dev.to/vandyand/your-agent-returned-200-ok-was-it-actually-right-26p)
+- [Calgary Energy Tech and Offshore Engineering Teams: A Match Made in the Cloud](https://dev.to/devwithzach/calgary-energy-tech-and-offshore-engineering-teams-a-match-made-in-the-cloud-34hn)
+- [I Automated My Content Workflow with n8n. Did It Actually Save Time?](https://dev.to/sarahpan/i-automated-my-content-workflow-with-n8n-did-it-actually-save-time-574e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
