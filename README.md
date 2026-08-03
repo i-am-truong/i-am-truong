@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG vs. Semantic Layer: Why AI Needs Deterministic Governance](https://dev.to/harshit_colrows/rag-vs-semantic-layer-why-ai-needs-deterministic-governance-1i2k)
-- [8051: Building a Custom Disassembler](https://dev.to/ddupard/8051-building-a-custom-disassembler-4m14)
-- [Automating Data Pipelines with AI: A Practical Guide](https://dev.to/beehivestrategy/automating-data-pipelines-with-ai-a-practical-guide-5h95)
-- [Best LLM Frameworks for Enterprise Development in 2026](https://dev.to/beehivestrategy/best-llm-frameworks-for-enterprise-development-in-2026-59o2)
-- [Best Vector Databases for AI Applications in 2026](https://dev.to/beehivestrategy/best-vector-databases-for-ai-applications-in-2026-536n)
+- [A friend dared me to build Pass the Pigs during the apéro. Two LLMs reviewed my plan.](https://dev.to/chpomob/a-friend-dared-me-to-build-pass-the-pigs-during-the-apero-two-llms-reviewed-my-plan-3132)
+- [CRM integration. Shall we talk about it?](https://dev.to/dimidan/crm-integration-shall-we-talk-about-it-3kki)
+- [Run It, Don&#39;t Read It: coding agents predict check scripts instead of running them](https://dev.to/vasyltretiakov/run-it-dont-read-it-coding-agents-predict-check-scripts-instead-of-running-them-1987)
+- [I Built an MCP Server So AI Assistants Can Process PDFs Directly](https://dev.to/peter_ndumia_pdfhaul/i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly-80k)
+- [Do Not Trust the Green Checkmark](https://dev.to/onurkesim/do-not-trust-the-green-checkmark-48i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
