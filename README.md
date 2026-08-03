@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hardware, IoT and Player Technology - Sensors on the Pitch](https://dev.to/opango_timmy14/hardware-iot-and-player-technology-sensors-on-the-pitch-1pp9)
-- [My billing worked. My expiry dates didn&#39;t. Here&#39;s why.](https://dev.to/shaojie/my-billing-worked-my-expiry-dates-didnt-heres-why-1308)
-- [Parsing Pinterest URLs Safely in JavaScript &lpar;Without Network Requests&rpar;](https://dev.to/jiankn/parsing-pinterest-urls-safely-in-javascript-without-network-requests-464b)
-- [Repaint vs Reflow: A Simple Explanation](https://dev.to/ale3oula/repaint-vs-reflow-a-simple-explanation-1m4j)
-- [The Memory Wall](https://dev.to/diyaburman/the-memory-wall-25g7)
+- [Quantum Computers Can&#39;t Break Your Encryption Yet. &quot;Yet&quot; Is the Problem.](https://dev.to/aws-builders/quantum-computers-cant-break-your-encryption-yet-yet-is-the-problem-dg)
+- [Bucket Sort Algorithm](https://dev.to/achyut_08/bucket-sort-algorithm-2e65)
+- [Sharpening My Vibe Coding Skills: Adding Personal Skills to Coder](https://dev.to/carryologist/sharpening-my-vibe-coding-skills-adding-personal-skills-to-coder-4gan)
+- [I built a governance layer for AI agent skills — with an AI agent as my pair programmer](https://dev.to/artemr_rudenko_0bf2c2c505/i-built-a-governance-layer-for-ai-agent-skills-with-an-ai-agent-as-my-pair-programmer-4jkb)
+- [Let&#39;s combine AWS DevOps Agent and Jinbaflow to generate PDF reports.](https://dev.to/aws-builders/lets-combine-aws-devops-agent-and-jinbaflow-to-generate-pdf-reports-5c0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
