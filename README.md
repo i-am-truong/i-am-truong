@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [XML Tagging in Prompts: The Secret to Getting Better Output from Claude and GPT](https://dev.to/maryam_saba_792cdbcdb46fd/xml-tagging-in-prompts-the-secret-to-getting-better-output-from-claude-and-gpt-54e1)
-- [Building a security posture scanner with Next.js and Python](https://dev.to/dkls7777/building-a-security-posture-scanner-with-nextjs-and-python-5g5c)
-- [Why GitHub Cannot Paginate Through Millions of Repositories - Deep Pagination Explained](https://dev.to/mayank7924/why-github-silently-caps-your-search-at-1000-results-and-whats-actually-happening-underneath-1oik)
-- [A comment can be marked done without changing Word text](https://dev.to/sybilgambleyyu/a-comment-can-be-marked-done-without-changing-word-text-512o)
-- [Building ephemeral encrypted chat with Cloudflare Durable Objects](https://dev.to/shawnbure/building-ephemeral-encrypted-chat-with-cloudflare-durable-objects-aaf)
+- [From &quot;token&quot; to &quot;MoE&quot;: the LLM glossary in dependency order](https://dev.to/mojalab/from-token-to-moe-the-llm-glossary-in-dependency-order-2pjf)
+- [Up and Running with Cloudinary’s Next Starter Kit](https://dev.to/cloudinary/up-and-running-with-cloudinarys-next-starter-kit-4586)
+- [O que são essas letrinhas: BASE](https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-base-5ee3)
+- [Google&#39;s AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816)
+- [We open-sourced the small checker we use to stop &quot;done&quot; claims we can&#39;t back up](https://dev.to/nexuslabzen/we-open-sourced-the-small-checker-we-use-to-stop-done-claims-we-cant-back-up-57af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
