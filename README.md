@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding vs. Spec Coding: How Kiro is changing the way we build AI-Powered Software](https://dev.to/aws-builders/vibe-coding-vs-spec-coding-how-kiro-is-changing-the-way-we-build-ai-powered-software-1950)
-- [How AI Agents Work: The Plan-Act-Observe Loop, Explained Step by Step](https://dev.to/dineshgowtham/how-ai-agents-work-the-plan-act-observe-loop-explained-step-by-step-2a9k)
-- [Zwischen Silizium und Ethik: Eine Kartierung der künstlichen Existenz](https://dev.to/uhltak/zwischen-silizium-und-ethik-eine-kartierung-der-kunstlichen-existenz-5o2)
-- [The UPDATE That Never Finishes and What to Run Instead](https://dev.to/nicolas_vbgh/the-update-that-never-finishes-and-what-to-run-instead-3k5i)
-- [Apple wins the AI race they&#39;re not even in.](https://dev.to/jon_at_backboardio/apple-wins-the-ai-race-theyre-not-even-in-2m29)
+- [Why Does This Download End in .tar.zst?](https://dev.to/atec-systems/why-does-this-download-end-in-tarzst-3mpl)
+- [The OpenAI loop tests a view on AI, not just your coding bar](https://dev.to/fourleaf/the-openai-loop-tests-a-view-on-ai-not-just-your-coding-bar-3mk0)
+- [25 Programming Mistakes I Learned After 10 Years of Software Engineering](https://dev.to/codexlancers/25-programming-mistakes-i-learned-after-10-years-of-software-engineering-51c)
+- [Ilish Polao: Bringing My Ultimate Comfort Food to Life with Pure CSS](https://dev.to/mahbuba_sultana_/ilish-polao-bringing-my-ultimate-comfort-food-to-life-with-pure-css-4fi2)
+- [A Lightweight Rich Text Component Without a Web View](https://dev.to/codenameone/a-lightweight-rich-text-component-without-a-web-view-3ch0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
