@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs Expands ElevenAgents With Spotlight for Enterprise Agent Optimization](https://dev.to/alifar/elevenlabs-expands-elevenagents-with-spotlight-for-enterprise-agent-optimization-4nje)
-- [Major Publishers Block GPTBot, Raising Stakes for AI Training Data Governance](https://dev.to/alifar/major-publishers-block-gptbot-raising-stakes-for-ai-training-data-governance-37n1)
-- [Semrush AI Keyword Research Updates Pair Trusted Data With Domain Context](https://dev.to/alifar/semrush-ai-keyword-research-updates-pair-trusted-data-with-domain-context-30kl)
-- [Xero API Integration Guide &lpar;2026&rpar;: OAuth, Tenants, and Your First Query](https://dev.to/ilshadyx/xero-api-integration-guide-2026-oauth-tenants-and-your-first-query-ked)
-- [The AI Has Hands](https://dev.to/hamedhajiloo/the-ai-has-hands-276p)
+- [Voice Emotion Control Moves From SSML to Prompts](https://dev.to/lukeocodes/voice-emotion-control-moves-from-ssml-to-prompts-506b)
+- [Taming 70 Flutter Flavors: flavorizr + Batch CI for White-Label Releases](https://dev.to/kamero/taming-70-flutter-flavors-flavorizr-batch-ci-for-white-label-releases-54fl)
+- [Qwen3.8-Max Beat Claude on Three Benchmarks. The Full Story Is Less Convenient](https://dev.to/aditi_gupta_8d81622a592aa/qwen38-max-vs-claude-what-the-16-day-coding-run-and-benchmarks-really-show-3bje)
+- [&quot;5 Python mistakes I keep making as a beginner &lpar;and how I fixed them&rpar;&quot;](https://dev.to/asma_dua_34/5-python-mistakes-i-keep-making-as-a-beginner-and-how-i-fixed-them-2mnc)
+- [LinkedIn gave everyone a &#39;this looks like AI&#39; button. I won&#39;t press it.](https://dev.to/eugeniya_ivanova_4a58eadc/linkedin-gave-everyone-a-this-looks-like-ai-button-i-wont-press-it-114m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
