@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Much Does It Cost to Self-Host Open Models on AWS?](https://dev.to/aws/how-much-does-it-cost-to-self-host-open-models-on-aws-2n7o)
-- [One Rails request, one event: production context for coding agents](https://dev.to/adammiribyan/one-rails-request-one-event-production-context-for-coding-agents-47n3)
-- [Claude Code shipped a sandbox. Here&#39;s what it protects — and what it doesn&#39;t.](https://dev.to/termaxa/claude-code-shipped-a-sandbox-heres-what-it-protects-and-what-it-doesnt-4o8h)
-- [Liquid Glass on the Web: 6 Ways to Build It with CSS and SVG](https://dev.to/devyatov/liquid-glass-on-the-web-6-ways-to-build-it-with-css-and-svg-3m07)
-- [I Built a Server Agent Because Uptime Checks Tell You What Failed, Not Why](https://dev.to/dragstor/i-built-a-server-agent-because-uptime-checks-tell-you-what-failed-not-why-20hn)
+- [A API de terceiro caiu e derrubou seu app junto](https://dev.to/denisgusto1/a-api-de-terceiro-caiu-e-derrubou-seu-app-junto-1366)
+- [N+1: o bug silencioso que trava seu Laravel em produção](https://dev.to/denisgusto1/n1-o-bug-silencioso-que-trava-seu-laravel-em-producao-4olp)
+- [Life After CodePush: Choosing an OTA Update Strategy for React Native in 2026](https://dev.to/gfean/life-after-codepush-choosing-an-ota-update-strategy-for-react-native-in-2026-56mi)
+- [MCP Servers: Por Qué Tu SaaS Necesita Uno &lpar;Y Cómo Implementarlo en Python&rpar;](https://dev.to/pivelcode/mcp-servers-por-que-tu-saas-necesita-uno-y-como-implementarlo-en-python-3ip8)
+- [A JSON Schema Safety Harness for Choosing a Text-to-Image API](https://dev.to/jasperflint6947/a-json-schema-safety-harness-for-choosing-a-text-to-image-api-4cp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
