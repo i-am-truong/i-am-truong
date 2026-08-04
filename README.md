@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQLazy：Merge Multiple Tables into Single Rows by Common ID](https://dev.to/esproc_spl/sqlazymerge-multiple-tables-into-single-rows-by-common-id-266e)
-- [Inference Efficiency Ratio: Measure Model Spend Before It Eats Your Margin](https://dev.to/jackm-singularity/inference-efficiency-ratio-measure-model-spend-before-it-eats-your-margin-23k6)
-- [EU GPAI Code of Practice: What Signatories Commit to Under the AI Act](https://dev.to/alifar/eu-gpai-code-of-practice-what-signatories-commit-to-under-the-ai-act-1006)
-- [Designing a Form Engine from Zero to One](https://dev.to/informat/designing-a-form-engine-from-zero-to-one-4be5)
-- [AWS Introduction for Beginner Software Engineers](https://dev.to/karamkhoury88/aws-introduction-for-beginner-software-engineers-4ec5)
+- [ElevenLabs Expands ElevenAgents With Spotlight for Enterprise Agent Optimization](https://dev.to/alifar/elevenlabs-expands-elevenagents-with-spotlight-for-enterprise-agent-optimization-4nje)
+- [Major Publishers Block GPTBot, Raising Stakes for AI Training Data Governance](https://dev.to/alifar/major-publishers-block-gptbot-raising-stakes-for-ai-training-data-governance-37n1)
+- [Semrush AI Keyword Research Updates Pair Trusted Data With Domain Context](https://dev.to/alifar/semrush-ai-keyword-research-updates-pair-trusted-data-with-domain-context-30kl)
+- [Xero API Integration Guide &lpar;2026&rpar;: OAuth, Tenants, and Your First Query](https://dev.to/ilshadyx/xero-api-integration-guide-2026-oauth-tenants-and-your-first-query-ked)
+- [The AI Has Hands](https://dev.to/hamedhajiloo/the-ai-has-hands-276p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
