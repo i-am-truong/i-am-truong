@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Backend System That Handles 100K Requests/Second &lpar;Without Melting Your Database&rpar;](https://dev.to/ghrabla/designing-a-backend-system-that-handles-100k-requestssecond-without-melting-your-database-2dpo)
-- [Building Reliable UDP](https://dev.to/derekmwale/building-reliable-udp-51ei)
-- [How to Let gzip Find the Signal in a Pile of Documents](https://dev.to/jlmartel/how-to-let-gzip-find-the-signal-in-a-pile-of-documents-2o9g)
-- [I built a free fitness tracker with no backend and no account — here&#39;s what I learned](https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb)
-- [arxid: keyed, non-enumerable ID obfuscation with a measured ARX-Feistel permutation](https://dev.to/lucasolopes/arxid-keyed-non-enumerable-id-obfuscation-with-a-measured-arx-feistel-permutation-3cia)
+- [Google vs Bing vs Brave: Do Results Match?](https://dev.to/tonywangca/google-vs-bing-vs-brave-do-results-match-3ob6)
+- [When &quot;select all&quot; checkboxes don&#39;t actually select anything — verifying after `check&lpar;&rpar;`, not just trusting it](https://dev.to/susumun/when-select-all-checkboxes-dont-actually-select-anything-verifying-after-check-not-just-3nnc)
+- [Prevent Feature Flag Retry Duplicate Writes in Rollout Toggle Endpoints](https://dev.to/dawnli2026/prevent-feature-flag-retry-duplicate-writes-in-rollout-toggle-endpoints-1gk0)
+- [Token Cost Optimization: The Complete Guide to Building Cost-Efficient LLM Applications](https://dev.to/abhishekjaiswal_4896/token-cost-optimization-the-complete-guide-to-building-cost-efficient-llm-applications-66c)
+- [A Month With Bash — Part 3: Building Projects](https://dev.to/4kit1-glitch/a-month-with-bash-part-3-building-projects-3od9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
