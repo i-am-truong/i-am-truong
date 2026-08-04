@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I reverse-engineered a webcam so Claude could point it at things](https://dev.to/michael_jordan_87eaf96f24/i-reverse-engineered-a-webcam-so-claude-could-point-it-at-things-2h3)
-- [Keyv Supply Chain Attack: What You Need to Know Now](https://dev.to/onsen/keyv-supply-chain-attack-what-you-need-to-know-now-1466)
-- [🚀 Venturing Into DevOps as a Beginner? Here’s What I Wish I Knew First..](https://dev.to/henryigwe/venturing-into-devops-as-a-beginner-heres-what-i-wish-i-knew-first-41ih)
-- [The Shape of Knowledge](https://dev.to/justcatdev/the-shape-of-knowledge-2kab)
-- [Self-Hosting AI Models on a Raspberry Pi 5: A Complete Guide to Free, Private, Local AI Inference](https://dev.to/trismegistus/self-hosting-ai-models-on-a-raspberry-pi-5-a-complete-guide-to-free-private-local-ai-inference-24p3)
+- [How Much Does It Cost to Self-Host Open Models on AWS?](https://dev.to/aws/how-much-does-it-cost-to-self-host-open-models-on-aws-2n7o)
+- [One Rails request, one event: production context for coding agents](https://dev.to/adammiribyan/one-rails-request-one-event-production-context-for-coding-agents-47n3)
+- [Claude Code shipped a sandbox. Here&#39;s what it protects — and what it doesn&#39;t.](https://dev.to/termaxa/claude-code-shipped-a-sandbox-heres-what-it-protects-and-what-it-doesnt-4o8h)
+- [Liquid Glass on the Web: 6 Ways to Build It with CSS and SVG](https://dev.to/devyatov/liquid-glass-on-the-web-6-ways-to-build-it-with-css-and-svg-3m07)
+- [I Built a Server Agent Because Uptime Checks Tell You What Failed, Not Why](https://dev.to/dragstor/i-built-a-server-agent-because-uptime-checks-tell-you-what-failed-not-why-20hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
