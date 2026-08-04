@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Identifying the Processor of a Bare-Metal Binary &lpar;Strategy 2&rpar;: Testing LLMs](https://dev.to/ddupard/identifying-the-processor-of-a-bare-metal-binary-strategy-2-and-testing-llms-1i8n)
-- [Gemini Notebook Rollout Remains Staged Despite Expanded Access for Pro Subscribers](https://dev.to/alifar/gemini-notebook-rollout-remains-staged-despite-expanded-access-for-pro-subscribers-3a1n)
-- [Decoupling Physical Control and Reasoning: DeepMind&#39;s Gemini Robotics 2 Architecture](https://dev.to/prabhakar_chaudhary_7afe4/decoupling-physical-control-and-reasoning-deepminds-gemini-robotics-2-architecture-3jgh)
-- [Shelly in Home Assistant: Local Switching &amp; Energy Metering](https://dev.to/cloudapp_dev/shelly-in-home-assistant-local-switching-energy-metering-2fjg)
-- [Why LLMs Still Struggle With Tabular Prediction](https://dev.to/prabhakar_chaudhary_7afe4/why-llms-still-struggle-with-tabular-prediction-24i)
+- [I reverse-engineered a webcam so Claude could point it at things](https://dev.to/michael_jordan_87eaf96f24/i-reverse-engineered-a-webcam-so-claude-could-point-it-at-things-2h3)
+- [Keyv Supply Chain Attack: What You Need to Know Now](https://dev.to/onsen/keyv-supply-chain-attack-what-you-need-to-know-now-1466)
+- [🚀 Venturing Into DevOps as a Beginner? Here’s What I Wish I Knew First..](https://dev.to/henryigwe/venturing-into-devops-as-a-beginner-heres-what-i-wish-i-knew-first-41ih)
+- [The Shape of Knowledge](https://dev.to/justcatdev/the-shape-of-knowledge-2kab)
+- [Self-Hosting AI Models on a Raspberry Pi 5: A Complete Guide to Free, Private, Local AI Inference](https://dev.to/trismegistus/self-hosting-ai-models-on-a-raspberry-pi-5-a-complete-guide-to-free-private-local-ai-inference-24p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
