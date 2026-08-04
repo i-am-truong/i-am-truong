@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google vs Bing vs Brave: Do Results Match?](https://dev.to/tonywangca/google-vs-bing-vs-brave-do-results-match-3ob6)
-- [When &quot;select all&quot; checkboxes don&#39;t actually select anything — verifying after `check&lpar;&rpar;`, not just trusting it](https://dev.to/susumun/when-select-all-checkboxes-dont-actually-select-anything-verifying-after-check-not-just-3nnc)
-- [Prevent Feature Flag Retry Duplicate Writes in Rollout Toggle Endpoints](https://dev.to/dawnli2026/prevent-feature-flag-retry-duplicate-writes-in-rollout-toggle-endpoints-1gk0)
-- [Token Cost Optimization: The Complete Guide to Building Cost-Efficient LLM Applications](https://dev.to/abhishekjaiswal_4896/token-cost-optimization-the-complete-guide-to-building-cost-efficient-llm-applications-66c)
-- [A Month With Bash — Part 3: Building Projects](https://dev.to/4kit1-glitch/a-month-with-bash-part-3-building-projects-3od9)
+- [TryHackMe : Packed Light Writeup](https://dev.to/exploitnotes/tryhackme-packed-light-writeup-1n39)
+- [Self-hosting Hermes Agent on Railway: the dashboard that refuses to open unauthenticated](https://dev.to/greatsage_sh/self-hosting-hermes-agent-on-railway-the-dashboard-that-refuses-to-open-unauthenticated-11ai)
+- [LLMs on Consumer Hardware — Part 2: Prefill and the Failure of the AI PC](https://dev.to/sven_welack/llms-on-consumer-hardware-part-2-prefill-and-the-failure-of-the-ai-pc-bd7)
+- [I made a web framework](https://dev.to/banana_cool/i-made-a-web-framework-2obn)
+- [Robotics Has a 95% Data Gap. World Models Multiply Data — They Don&#39;t Create It.](https://dev.to/syncsoftai/robotics-has-a-95-data-gap-world-models-multiply-data-they-dont-create-it-36ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
