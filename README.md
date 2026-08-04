@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe : Packed Light Writeup](https://dev.to/exploitnotes/tryhackme-packed-light-writeup-1n39)
-- [Self-hosting Hermes Agent on Railway: the dashboard that refuses to open unauthenticated](https://dev.to/greatsage_sh/self-hosting-hermes-agent-on-railway-the-dashboard-that-refuses-to-open-unauthenticated-11ai)
-- [LLMs on Consumer Hardware — Part 2: Prefill and the Failure of the AI PC](https://dev.to/sven_welack/llms-on-consumer-hardware-part-2-prefill-and-the-failure-of-the-ai-pc-bd7)
-- [I made a web framework](https://dev.to/banana_cool/i-made-a-web-framework-2obn)
-- [Robotics Has a 95% Data Gap. World Models Multiply Data — They Don&#39;t Create It.](https://dev.to/syncsoftai/robotics-has-a-95-data-gap-world-models-multiply-data-they-dont-create-it-36ej)
+- [SQLazy：Merge Multiple Tables into Single Rows by Common ID](https://dev.to/esproc_spl/sqlazymerge-multiple-tables-into-single-rows-by-common-id-266e)
+- [Inference Efficiency Ratio: Measure Model Spend Before It Eats Your Margin](https://dev.to/jackm-singularity/inference-efficiency-ratio-measure-model-spend-before-it-eats-your-margin-23k6)
+- [EU GPAI Code of Practice: What Signatories Commit to Under the AI Act](https://dev.to/alifar/eu-gpai-code-of-practice-what-signatories-commit-to-under-the-ai-act-1006)
+- [Designing a Form Engine from Zero to One](https://dev.to/informat/designing-a-form-engine-from-zero-to-one-4be5)
+- [AWS Introduction for Beginner Software Engineers](https://dev.to/karamkhoury88/aws-introduction-for-beginner-software-engineers-4ec5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
