@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Does This Download End in .tar.zst?](https://dev.to/atec-systems/why-does-this-download-end-in-tarzst-3mpl)
-- [The OpenAI loop tests a view on AI, not just your coding bar](https://dev.to/fourleaf/the-openai-loop-tests-a-view-on-ai-not-just-your-coding-bar-3mk0)
-- [25 Programming Mistakes I Learned After 10 Years of Software Engineering](https://dev.to/codexlancers/25-programming-mistakes-i-learned-after-10-years-of-software-engineering-51c)
-- [Ilish Polao: Bringing My Ultimate Comfort Food to Life with Pure CSS](https://dev.to/mahbuba_sultana_/ilish-polao-bringing-my-ultimate-comfort-food-to-life-with-pure-css-4fi2)
-- [A Lightweight Rich Text Component Without a Web View](https://dev.to/codenameone/a-lightweight-rich-text-component-without-a-web-view-3ch0)
+- [How to Use Qwen 3 with VS Code &lpar;FREE&rpar; | Complete Setup with Ollama](https://dev.to/thecodestreet/how-to-use-qwen-3-with-vs-code-free-complete-setup-with-ollama-29f8)
+- [Taming a Third-Party React App Inside WordPress — Without Touching Its Code](https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1)
+- [Channels SDK: How to bring Your Agent to Any Channel &lpar;Slack, Microsoft Teams&rpar;](https://dev.to/anmolbaranwal/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof)
+- [How to build your own MCP server](https://dev.to/airpipe/how-to-build-your-own-mcp-server-11gb)
+- [We Built a Story-Driven Cybersecurity CTF with 14 Free Missions](https://dev.to/neux7z/we-built-a-story-driven-cybersecurity-ctf-with-14-free-missions-1nl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
