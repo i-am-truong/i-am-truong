@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Qwen 3 with VS Code &lpar;FREE&rpar; | Complete Setup with Ollama](https://dev.to/thecodestreet/how-to-use-qwen-3-with-vs-code-free-complete-setup-with-ollama-29f8)
-- [Taming a Third-Party React App Inside WordPress — Without Touching Its Code](https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1)
-- [Channels SDK: How to bring Your Agent to Any Channel &lpar;Slack, Microsoft Teams&rpar;](https://dev.to/anmolbaranwal/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof)
-- [How to build your own MCP server](https://dev.to/airpipe/how-to-build-your-own-mcp-server-11gb)
-- [We Built a Story-Driven Cybersecurity CTF with 14 Free Missions](https://dev.to/neux7z/we-built-a-story-driven-cybersecurity-ctf-with-14-free-missions-1nl9)
+- [Identifying the Processor of a Bare-Metal Binary &lpar;Strategy 2&rpar;: Testing LLMs](https://dev.to/ddupard/identifying-the-processor-of-a-bare-metal-binary-strategy-2-and-testing-llms-1i8n)
+- [Gemini Notebook Rollout Remains Staged Despite Expanded Access for Pro Subscribers](https://dev.to/alifar/gemini-notebook-rollout-remains-staged-despite-expanded-access-for-pro-subscribers-3a1n)
+- [Decoupling Physical Control and Reasoning: DeepMind&#39;s Gemini Robotics 2 Architecture](https://dev.to/prabhakar_chaudhary_7afe4/decoupling-physical-control-and-reasoning-deepminds-gemini-robotics-2-architecture-3jgh)
+- [Shelly in Home Assistant: Local Switching &amp; Energy Metering](https://dev.to/cloudapp_dev/shelly-in-home-assistant-local-switching-energy-metering-2fjg)
+- [Why LLMs Still Struggle With Tabular Prediction](https://dev.to/prabhakar_chaudhary_7afe4/why-llms-still-struggle-with-tabular-prediction-24i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
