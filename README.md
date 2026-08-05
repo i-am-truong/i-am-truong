@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Our Dashboard Said 339ms. Every Single User Was Wrong.](https://dev.to/codemonkei/our-dashboard-said-339ms-every-single-user-was-wrong-1idp)
-- [Litos: Building a Minimal AI Coding Agent, from Scratch in pure C#/.NET](https://dev.to/nitinmms/litos-building-a-minimal-ai-coding-agent-from-scratch-in-pure-cnet-a6j)
-- [You&#39;re collecting async iterable results with a for-await loop. `Array.fromAsync` does it in one call.](https://dev.to/parsajiravand/youre-collecting-async-iterable-results-with-a-for-await-loop-arrayfromasync-does-it-in-one-405e)
-- [Yalancı yeşil yasak — otonom üretim hattı kurarken öğrendiğimiz en pahalı ders](https://dev.to/baris_furkankoyuncu_/yalanci-yesil-yasak-otonom-uretim-hatti-kurarken-ogrendigimiz-en-pahali-ders-43eh)
-- [Day11-12: AWS Terraform Built-in Functions](https://dev.to/brian_mengo/day11-12-aws-terraform-built-in-functions-3i22)
+- [AI Agents vs Chatbots: They&#39;re Not the Same Thing](https://dev.to/sanjay_batthula_38d8e913e/ai-agents-vs-chatbots-theyre-not-the-same-thing-1l5)
+- [Cloudflare Worker redirect never runs, because static assets are served first](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-worker-redirect-never-runs-because-static-assets-are-served-first-30jn)
+- [Critical One-Click RCE Flaw Exposes VS Code and Cursor Users to Remote Code Execution](https://dev.to/davekurian/critical-one-click-rce-flaw-exposes-vs-code-and-cursor-users-to-remote-code-execution-4o5b)
+- [How to secure AI generated code from prompt to pentest](https://dev.to/codacy/how-to-secure-ai-generated-code-from-prompt-to-pentest-30b2)
+- [Cloudflare R2 custom domain returns 404 — a Worker wildcard route was eating it](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-r2-custom-domain-returns-404-a-worker-wildcard-route-was-eating-it-1g35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
