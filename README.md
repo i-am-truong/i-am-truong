@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Avatar Workflows: Comparing Artlist, HeyGen, and Synthesia from a Developer&#39;s Perspective](https://dev.to/daniel-seed-digital/building-ai-avatar-workflows-comparing-artlist-heygen-and-synthesia-from-a-developers-45cj)
-- [Thou Shall Not &#39;ls -la&#39;](https://dev.to/coldstorage/thou-shall-not-ls-la-5dph)
-- [Compact Strings Cut Character Storage in Half](https://dev.to/codenameone/compact-strings-cut-character-storage-in-half-542h)
-- [How to Validate a Startup Idea on Reddit &lpar;Founder&#39;s Guide&rpar;](https://dev.to/sclaydon/how-to-validate-a-startup-idea-on-reddit-founders-guide-3nap)
-- [MCP retrieval cost 4x more tokens than grep, until repo size flipped it](https://dev.to/pranav_raj_dae81effb8b57d/mcp-retrieval-cost-4x-more-tokens-than-grep-until-repo-size-flipped-it-5cfj)
+- [AbilityGuard v1.1: I Gave My Abilities API Monitor a Memory &lpar;and a Voice&rpar;](https://dev.to/kushang_tailor/abilityguard-v11-i-gave-my-abilities-api-monitor-a-memory-and-a-voice-2fo7)
+- [From the Lab Bench to the Codebase: What Scientific Research Taught Me About Debugging](https://dev.to/lufecovizzi/from-the-lab-bench-to-the-codebase-what-scientific-research-taught-me-about-debugging-35b0)
+- [LLD Data Structures in Design Context: How to Recognize Trie Problems Before Writing Code](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-how-to-recognize-trie-problems-before-writing-code-4ko6)
+- [Micro-compaction: amortizing context compression in agent loops](https://dev.to/michael_jordan_87eaf96f24/micro-compaction-amortizing-context-compression-in-agent-loops-3f73)
+- [One Long Prompt Shouldn&#39;t Freeze Everyone&#39;s Tokens: Prefill/Decode Disaggregation](https://dev.to/shridhar_shah2297/one-long-prompt-shouldnt-freeze-everyones-tokens-prefilldecode-disaggregation-5dmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
