@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One LINE Official Account, Multiple Tools: Webhook and Token Architecture](https://dev.to/unifyport/one-line-official-account-multiple-tools-webhook-and-token-architecture-5bi8)
-- [Self Hosted in 2026](https://dev.to/mvaldes/self-hosted-in-2026-1f0p)
-- [Implementing Zero Trust Architecture on AWS: Verified Access, VPC Lattice, and Identity-Centric Security](https://dev.to/alpeshkumbhare/implementing-zero-trust-architecture-on-aws-verified-access-vpc-lattice-and-identity-centric-52fb)
-- [From Chaos to Code: Building Production-Grade AI Agents with LSP, Local-First Architecture, and Rigorous Evaluation](https://dev.to/tamizuddin/from-chaos-to-code-building-production-grade-ai-agents-with-lsp-local-first-architecture-and-d13)
-- [Browser Automation with Claude + Playwright MCP: Why Accessibility Snapshots Beat Screenshots](https://dev.to/pointchecknote/browser-automation-with-claude-playwright-mcp-why-accessibility-snapshots-beat-screenshots-2pke)
+- [Our Dashboard Said 339ms. Every Single User Was Wrong.](https://dev.to/codemonkei/our-dashboard-said-339ms-every-single-user-was-wrong-1idp)
+- [Litos: Building a Minimal AI Coding Agent, from Scratch in pure C#/.NET](https://dev.to/nitinmms/litos-building-a-minimal-ai-coding-agent-from-scratch-in-pure-cnet-a6j)
+- [You&#39;re collecting async iterable results with a for-await loop. `Array.fromAsync` does it in one call.](https://dev.to/parsajiravand/youre-collecting-async-iterable-results-with-a-for-await-loop-arrayfromasync-does-it-in-one-405e)
+- [Yalancı yeşil yasak — otonom üretim hattı kurarken öğrendiğimiz en pahalı ders](https://dev.to/baris_furkankoyuncu_/yalanci-yesil-yasak-otonom-uretim-hatti-kurarken-ogrendigimiz-en-pahali-ders-43eh)
+- [Day11-12: AWS Terraform Built-in Functions](https://dev.to/brian_mengo/day11-12-aws-terraform-built-in-functions-3i22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
