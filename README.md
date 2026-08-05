@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents vs Chatbots: They&#39;re Not the Same Thing](https://dev.to/sanjay_batthula_38d8e913e/ai-agents-vs-chatbots-theyre-not-the-same-thing-1l5)
-- [Cloudflare Worker redirect never runs, because static assets are served first](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-worker-redirect-never-runs-because-static-assets-are-served-first-30jn)
-- [Critical One-Click RCE Flaw Exposes VS Code and Cursor Users to Remote Code Execution](https://dev.to/davekurian/critical-one-click-rce-flaw-exposes-vs-code-and-cursor-users-to-remote-code-execution-4o5b)
-- [How to secure AI generated code from prompt to pentest](https://dev.to/codacy/how-to-secure-ai-generated-code-from-prompt-to-pentest-30b2)
-- [Cloudflare R2 custom domain returns 404 — a Worker wildcard route was eating it](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-r2-custom-domain-returns-404-a-worker-wildcard-route-was-eating-it-1g35)
+- [# BlazeMeter alternatives: top performance testing tools in 2026](https://dev.to/gatling/-blazemeter-alternatives-top-performance-testing-tools-in-2026-49gh)
+- [Google AI Plus Broadens Availability as Free Gemini Access Varies by Region](https://dev.to/alifar/google-ai-plus-broadens-availability-as-free-gemini-access-varies-by-region-5h0h)
+- [Mistral Releases Shieldstral, a 3B Open-Weight Model for On-Device Content Safety](https://dev.to/alifar/mistral-releases-shieldstral-a-3b-open-weight-model-for-on-device-content-safety-280p)
+- [My Tool-Calling Loop Worked Fine, Until Compliance Wanted a Second Model to Check It](https://dev.to/deep-27/my-tool-calling-loop-worked-fine-until-compliance-wanted-a-second-model-to-check-it-27mj)
+- [Mistral Moderation API: What Its Documented Text Guardrails and Scores Actually Cover](https://dev.to/alifar/mistral-moderation-api-what-its-documented-text-guardrails-and-scores-actually-cover-122j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
