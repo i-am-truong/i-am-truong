@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Katto - A better coding agent](https://dev.to/kuyawa/katto-a-better-coding-agent-5036)
-- [The birth of the 100X programmer](https://dev.to/kuyawa/the-birth-of-the-100x-programmer-5abd)
-- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
-- [Allocations on the Wire: Building a Low-Allocation MQTT Broker with Trie Routing and .NET 10](https://dev.to/marvin_drude_d778a97ea3cf/allocations-on-the-wire-building-a-low-allocation-mqtt-broker-with-trie-routing-and-net-10-5174)
-- [How To Become An AI Engineer in 2026 &lpar;Without a CS Degree&rpar;](https://dev.to/chisom_ejiba/how-to-become-an-ai-engineer-in-2026-without-a-cs-degree-358l)
+- [I built a time-travel debugger for Zustand — and it caught three bugs I&#39;d already shipped](https://dev.to/kuba_opoczka_a6fb453bac5f/i-built-a-time-travel-debugger-for-zustand-and-it-caught-three-bugs-id-already-shipped-1cce)
+- [Github Stacked PR](https://dev.to/dixitgurv/github-stacked-pr-l26)
+- [A Faster Model Will Not Fix Your Slow Voice Agent](https://dev.to/nabeelbaghoor/a-faster-model-will-not-fix-your-slow-voice-agent-chf)
+- [[Boost]](https://dev.to/anthonymax/-28h6)
+- [borrowed certainty](https://dev.to/logios/borrowed-certainty-248o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
