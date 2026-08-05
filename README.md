@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A API de terceiro caiu e derrubou seu app junto](https://dev.to/denisgusto1/a-api-de-terceiro-caiu-e-derrubou-seu-app-junto-1366)
-- [N+1: o bug silencioso que trava seu Laravel em produção](https://dev.to/denisgusto1/n1-o-bug-silencioso-que-trava-seu-laravel-em-producao-4olp)
-- [Life After CodePush: Choosing an OTA Update Strategy for React Native in 2026](https://dev.to/gfean/life-after-codepush-choosing-an-ota-update-strategy-for-react-native-in-2026-56mi)
-- [MCP Servers: Por Qué Tu SaaS Necesita Uno &lpar;Y Cómo Implementarlo en Python&rpar;](https://dev.to/pivelcode/mcp-servers-por-que-tu-saas-necesita-uno-y-como-implementarlo-en-python-3ip8)
-- [A JSON Schema Safety Harness for Choosing a Text-to-Image API](https://dev.to/jasperflint6947/a-json-schema-safety-harness-for-choosing-a-text-to-image-api-4cp3)
+- [Snowflake to Databricks: what the migration actually costs you](https://dev.to/zephico/snowflake-to-databricks-what-the-migration-actually-costs-you-5e09)
+- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
+- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
+- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
+- [ROI of my 100$ Claude Code Subscription](https://dev.to/nenadmit/roi-of-my-100-claude-code-subscription-1iin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
