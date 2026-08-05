@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Just Crossed $3 Trillion — and AWS Still Can&#39;t Build Fast Enough](https://dev.to/abdeldjaouadfarid/amazon-just-crossed-3-trillion-and-aws-still-cant-build-fast-enough-1ak5)
-- [Thumbnail Architecture for Small SaaS: Object Storage, Image CDN, or Resize on Upload?](https://dev.to/liamfoster1844/thumbnail-architecture-for-small-saas-object-storage-image-cdn-or-resize-on-upload-2jdj)
-- [Enterprise MCP Gateway with Built-In Security: OAuth 2.0, RBAC, and Tool Access Control](https://dev.to/anthonymax/enterprise-mcp-gateway-with-built-in-security-oauth-20-rbac-and-tool-access-control-68n)
-- [AirLLM: Running 70B Parameter LLMs on a Single 4GB GPU](https://dev.to/terminalchai/airllm-running-70b-parameter-llms-on-a-single-4gb-gpu-3730)
-- [Left Brain vs Right Brain in Trading: What Science Says](https://dev.to/shaktitiwari/left-brain-vs-right-brain-in-trading-what-science-says-758)
+- [Katto - A better coding agent](https://dev.to/kuyawa/katto-a-better-coding-agent-5036)
+- [The birth of the 100X programmer](https://dev.to/kuyawa/the-birth-of-the-100x-programmer-5abd)
+- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
+- [Allocations on the Wire: Building a Low-Allocation MQTT Broker with Trie Routing and .NET 10](https://dev.to/marvin_drude_d778a97ea3cf/allocations-on-the-wire-building-a-low-allocation-mqtt-broker-with-trie-routing-and-net-10-5174)
+- [How To Become An AI Engineer in 2026 &lpar;Without a CS Degree&rpar;](https://dev.to/chisom_ejiba/how-to-become-an-ai-engineer-in-2026-without-a-cs-degree-358l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
