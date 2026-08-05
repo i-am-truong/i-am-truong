@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS launches Kiro Crew for autonomous engineering teams](https://dev.to/vpodk/aws-launches-kiro-crew-for-autonomous-engineering-teams-1o7m)
-- [Google ADK security flaws impact AI agent workflows](https://dev.to/vpodk/google-adk-security-flaws-impact-ai-agent-workflows-5cg7)
-- [GitHub releases stacked pull requests for public preview](https://dev.to/vpodk/github-releases-stacked-pull-requests-for-public-preview-do6)
-- [An LLM described a website in detail. The website doesn&#39;t exist.](https://dev.to/visibilityatlas/an-llm-described-a-website-in-detail-the-website-doesnt-exist-3ldp)
-- [One Bug Hit 11 Rows. Another Hit 36 Million.](https://dev.to/arthurtorres/one-bug-hit-11-rows-another-hit-36-million-lc0)
+- [One LINE Official Account, Multiple Tools: Webhook and Token Architecture](https://dev.to/unifyport/one-line-official-account-multiple-tools-webhook-and-token-architecture-5bi8)
+- [Self Hosted in 2026](https://dev.to/mvaldes/self-hosted-in-2026-1f0p)
+- [Implementing Zero Trust Architecture on AWS: Verified Access, VPC Lattice, and Identity-Centric Security](https://dev.to/alpeshkumbhare/implementing-zero-trust-architecture-on-aws-verified-access-vpc-lattice-and-identity-centric-52fb)
+- [From Chaos to Code: Building Production-Grade AI Agents with LSP, Local-First Architecture, and Rigorous Evaluation](https://dev.to/tamizuddin/from-chaos-to-code-building-production-grade-ai-agents-with-lsp-local-first-architecture-and-d13)
+- [Browser Automation with Claude + Playwright MCP: Why Accessibility Snapshots Beat Screenshots](https://dev.to/pointchecknote/browser-automation-with-claude-playwright-mcp-why-accessibility-snapshots-beat-screenshots-2pke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
