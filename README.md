@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AbilityGuard v1.1: I Gave My Abilities API Monitor a Memory &lpar;and a Voice&rpar;](https://dev.to/kushang_tailor/abilityguard-v11-i-gave-my-abilities-api-monitor-a-memory-and-a-voice-2fo7)
-- [From the Lab Bench to the Codebase: What Scientific Research Taught Me About Debugging](https://dev.to/lufecovizzi/from-the-lab-bench-to-the-codebase-what-scientific-research-taught-me-about-debugging-35b0)
-- [LLD Data Structures in Design Context: How to Recognize Trie Problems Before Writing Code](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-how-to-recognize-trie-problems-before-writing-code-4ko6)
-- [Micro-compaction: amortizing context compression in agent loops](https://dev.to/michael_jordan_87eaf96f24/micro-compaction-amortizing-context-compression-in-agent-loops-3f73)
-- [One Long Prompt Shouldn&#39;t Freeze Everyone&#39;s Tokens: Prefill/Decode Disaggregation](https://dev.to/shridhar_shah2297/one-long-prompt-shouldnt-freeze-everyones-tokens-prefilldecode-disaggregation-5dmo)
+- [From 3 clicks to 664: what a real SEO audit found in my React SSG site](https://dev.to/forze-dev/from-3-clicks-to-664-what-a-real-seo-audit-found-in-my-react-ssg-site-2cdi)
+- [The End of the &#39;Simple&#39; Stack: Navigating Enterprise AI Inference, Agent Reliability, and the Collapse of Free Cloud Tiers in 2026](https://dev.to/tamizuddin/the-end-of-the-simple-stack-navigating-enterprise-ai-inference-agent-reliability-and-the-3gh7)
+- [Agentic E2E Testing Without the AI Hype: What It Actually Means](https://dev.to/jamilurr/agentic-e2e-testing-without-the-ai-hype-what-it-actually-means-2g07)
+- [BGClean — 100% Client-Side Background Remover](https://dev.to/maxelxa/bgclean-100-client-side-background-remover-2mb1)
+- [I kept seeing the same Git complaint on Reddit, so I wrote a small CLI for it](https://dev.to/ikrame-ih/i-kept-seeing-the-same-git-complaint-on-reddit-so-i-wrote-a-small-cli-for-it-1k6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
