@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Frontend Developers Should Care About Brand Identity Systems](https://dev.to/joemetry/why-frontend-developers-should-care-about-brand-identity-systems-h22)
+- [🚀 Cron vs Systemd Timers vs daemontools — Understanding the Evolution of Linux Job Scheduling &amp; Service Management](https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm)
+- [Ahrefs MCP Server: Setup for Claude, Codex and the Rest](https://dev.to/studiomeyer_io/ahrefs-mcp-server-setup-for-claude-codex-and-the-rest-l46)
 - [I built a time-travel debugger for Zustand — and it caught three bugs I&#39;d already shipped](https://dev.to/kuba_opoczka_a6fb453bac5f/i-built-a-time-travel-debugger-for-zustand-and-it-caught-three-bugs-id-already-shipped-1cce)
-- [Github Stacked PR](https://dev.to/dixitgurv/github-stacked-pr-l26)
-- [A Faster Model Will Not Fix Your Slow Voice Agent](https://dev.to/nabeelbaghoor/a-faster-model-will-not-fix-your-slow-voice-agent-chf)
-- [[Boost]](https://dev.to/anthonymax/-28h6)
-- [borrowed certainty](https://dev.to/logios/borrowed-certainty-248o)
+- [I built GitCat 1.0 to replace Git Extensions for large repositories](https://dev.to/zangjiucheng/i-built-gitcat-10-to-replace-git-extensions-for-large-repositories-1k13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
