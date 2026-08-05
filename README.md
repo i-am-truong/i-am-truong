@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From 3 clicks to 664: what a real SEO audit found in my React SSG site](https://dev.to/forze-dev/from-3-clicks-to-664-what-a-real-seo-audit-found-in-my-react-ssg-site-2cdi)
-- [The End of the &#39;Simple&#39; Stack: Navigating Enterprise AI Inference, Agent Reliability, and the Collapse of Free Cloud Tiers in 2026](https://dev.to/tamizuddin/the-end-of-the-simple-stack-navigating-enterprise-ai-inference-agent-reliability-and-the-3gh7)
-- [Agentic E2E Testing Without the AI Hype: What It Actually Means](https://dev.to/jamilurr/agentic-e2e-testing-without-the-ai-hype-what-it-actually-means-2g07)
-- [BGClean — 100% Client-Side Background Remover](https://dev.to/maxelxa/bgclean-100-client-side-background-remover-2mb1)
-- [I kept seeing the same Git complaint on Reddit, so I wrote a small CLI for it](https://dev.to/ikrame-ih/i-kept-seeing-the-same-git-complaint-on-reddit-so-i-wrote-a-small-cli-for-it-1k6i)
+- [Amazon Just Crossed $3 Trillion — and AWS Still Can&#39;t Build Fast Enough](https://dev.to/abdeldjaouadfarid/amazon-just-crossed-3-trillion-and-aws-still-cant-build-fast-enough-1ak5)
+- [Thumbnail Architecture for Small SaaS: Object Storage, Image CDN, or Resize on Upload?](https://dev.to/liamfoster1844/thumbnail-architecture-for-small-saas-object-storage-image-cdn-or-resize-on-upload-2jdj)
+- [Enterprise MCP Gateway with Built-In Security: OAuth 2.0, RBAC, and Tool Access Control](https://dev.to/anthonymax/enterprise-mcp-gateway-with-built-in-security-oauth-20-rbac-and-tool-access-control-68n)
+- [AirLLM: Running 70B Parameter LLMs on a Single 4GB GPU](https://dev.to/terminalchai/airllm-running-70b-parameter-llms-on-a-single-4gb-gpu-3730)
+- [Left Brain vs Right Brain in Trading: What Science Says](https://dev.to/shaktitiwari/left-brain-vs-right-brain-in-trading-what-science-says-758)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
