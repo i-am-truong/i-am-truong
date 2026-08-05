@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# BlazeMeter alternatives: top performance testing tools in 2026](https://dev.to/gatling/-blazemeter-alternatives-top-performance-testing-tools-in-2026-49gh)
-- [Google AI Plus Broadens Availability as Free Gemini Access Varies by Region](https://dev.to/alifar/google-ai-plus-broadens-availability-as-free-gemini-access-varies-by-region-5h0h)
-- [Mistral Releases Shieldstral, a 3B Open-Weight Model for On-Device Content Safety](https://dev.to/alifar/mistral-releases-shieldstral-a-3b-open-weight-model-for-on-device-content-safety-280p)
-- [My Tool-Calling Loop Worked Fine, Until Compliance Wanted a Second Model to Check It](https://dev.to/deep-27/my-tool-calling-loop-worked-fine-until-compliance-wanted-a-second-model-to-check-it-27mj)
-- [Mistral Moderation API: What Its Documented Text Guardrails and Scores Actually Cover](https://dev.to/alifar/mistral-moderation-api-what-its-documented-text-guardrails-and-scores-actually-cover-122j)
+- [Building AI Avatar Workflows: Comparing Artlist, HeyGen, and Synthesia from a Developer&#39;s Perspective](https://dev.to/daniel-seed-digital/building-ai-avatar-workflows-comparing-artlist-heygen-and-synthesia-from-a-developers-45cj)
+- [Thou Shall Not &#39;ls -la&#39;](https://dev.to/coldstorage/thou-shall-not-ls-la-5dph)
+- [Compact Strings Cut Character Storage in Half](https://dev.to/codenameone/compact-strings-cut-character-storage-in-half-542h)
+- [How to Validate a Startup Idea on Reddit &lpar;Founder&#39;s Guide&rpar;](https://dev.to/sclaydon/how-to-validate-a-startup-idea-on-reddit-founders-guide-3nap)
+- [MCP retrieval cost 4x more tokens than grep, until repo size flipped it](https://dev.to/pranav_raj_dae81effb8b57d/mcp-retrieval-cost-4x-more-tokens-than-grep-until-repo-size-flipped-it-5cfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
