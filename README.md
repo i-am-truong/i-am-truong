@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake to Databricks: what the migration actually costs you](https://dev.to/zephico/snowflake-to-databricks-what-the-migration-actually-costs-you-5e09)
-- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
-- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
-- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
-- [ROI of my 100$ Claude Code Subscription](https://dev.to/nenadmit/roi-of-my-100-claude-code-subscription-1iin)
+- [AWS launches Kiro Crew for autonomous engineering teams](https://dev.to/vpodk/aws-launches-kiro-crew-for-autonomous-engineering-teams-1o7m)
+- [Google ADK security flaws impact AI agent workflows](https://dev.to/vpodk/google-adk-security-flaws-impact-ai-agent-workflows-5cg7)
+- [GitHub releases stacked pull requests for public preview](https://dev.to/vpodk/github-releases-stacked-pull-requests-for-public-preview-do6)
+- [An LLM described a website in detail. The website doesn&#39;t exist.](https://dev.to/visibilityatlas/an-llm-described-a-website-in-detail-the-website-doesnt-exist-3ldp)
+- [One Bug Hit 11 Rows. Another Hit 36 Million.](https://dev.to/arthurtorres/one-bug-hit-11-rows-another-hit-36-million-lc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
