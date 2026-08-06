@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Shopify Performance Optimizations That Improved My Store&#39;s Core Web Vitals](https://dev.to/blueicegems/7-shopify-performance-optimizations-that-improved-my-stores-core-web-vitals-238m)
-- [Ten error messages I could not find a single useful answer for](https://dev.to/marcosgcuenta1/ten-error-messages-i-could-not-find-a-single-useful-answer-for-4ee5)
-- [From JWT-SVID to Entra Agent ID: a working SPIFFE PoC](https://dev.to/astaykov/from-jwt-svid-to-entra-agent-id-a-working-spiffe-poc-ic4)
-- [Madurai Soul Trail: An Immersive Journey Through Tamil Nadu&#39;s Food Capital](https://dev.to/itsme_deepika/madurai-soul-trail-an-immersive-journey-through-tamil-nadus-food-capital-3ak5)
-- [Create a ZIP File in the Browser with JavaScript — No Backend](https://dev.to/ryan_e200dd10ede43c8fc2e4/create-a-zip-file-in-the-browser-with-javascript-no-backend-5e14)
+- [Embedding Virtual Cards via Partner API: A Dev&#39;s Guide &lpar;2026&rpar;](https://dev.to/waldenpay/embedding-virtual-cards-via-partner-api-a-devs-guide-2026-pld)
+- [Building a Light API Integration Proxy in Django &lpar;Why &amp; How&rpar;](https://dev.to/greve_malick_6bf326604dee/building-a-light-api-integration-proxy-in-django-why-how-4495)
+- [AWS S3 basics every dev should know](https://dev.to/cloudfrontier/aws-s3-basics-every-dev-should-know-1lfh)
+- [spec-sonar: The Complete Design Record &lpar;Part 2&rpar; — Fable&#39;s Review, a Real-World Conflict, and the Two-Repo Decision](https://dev.to/dexterlung/spec-sonar-the-complete-design-record-part-2-fables-review-a-real-world-conflict-and-the-4ied)
+- [Stop Building AI Wrappers. Start Building AI Systems](https://dev.to/shourya_kumar/stop-building-ai-wrappers-start-building-ai-systems-5a4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
