@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Six Passports, six memoirs: first-person accounts from Synthetics&#39; Last Cradle](https://dev.to/discernible-io/six-passports-six-memoirs-first-person-accounts-from-synthetics-last-cradle-2d84)
-- [Claude to Figma: keeping AI-generated UI bound to your design system](https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b)
-- [Figma MCP: turning Claude-generated UI into a component library](https://dev.to/phongdesigns/figma-mcp-turning-claude-generated-ui-into-a-component-library-72j)
-- [How I optimised my site for AEO and got FREE traffic](https://dev.to/vigneshaithal/how-i-optimised-my-site-for-aeo-and-got-free-traffic-3j0e)
-- [How to Convert Images to Buildable Minecraft Pixel Art with Exact Materials](https://dev.to/davis_xie_5852df1267ac153/how-to-convert-images-to-buildable-minecraft-pixel-art-with-exact-materials-3bp3)
+- [How to Keep Your CLAUDE.md Light &lpar;and Why More Rules Make Agents Worse&rpar;](https://dev.to/johnonlee/how-to-keep-your-claudemd-light-and-why-more-rules-make-agents-worse-34fa)
+- [How I use scheduled Codex jobs to build daily reports](https://dev.to/billiem/how-i-use-scheduled-codex-jobs-to-build-daily-reports-1n0m)
+- [I launched Roversia on Product Hunt — 39+ free browser tools, zero frameworks](https://dev.to/androve2k/i-launched-roversia-on-product-hunt-39-free-browser-tools-zero-frameworks-1h0p)
+- [How a single game evolved into a game factory](https://dev.to/esunitha/how-a-single-game-evolved-into-a-game-factory-5763)
+- [The Web Ecosystem Is Missing a Layer](https://dev.to/rejifald/the-web-ecosystem-is-missing-a-layer-4e39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
