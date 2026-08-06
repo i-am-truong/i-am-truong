@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embedding Virtual Cards via Partner API: A Dev&#39;s Guide &lpar;2026&rpar;](https://dev.to/waldenpay/embedding-virtual-cards-via-partner-api-a-devs-guide-2026-pld)
-- [Building a Light API Integration Proxy in Django &lpar;Why &amp; How&rpar;](https://dev.to/greve_malick_6bf326604dee/building-a-light-api-integration-proxy-in-django-why-how-4495)
-- [AWS S3 basics every dev should know](https://dev.to/cloudfrontier/aws-s3-basics-every-dev-should-know-1lfh)
-- [spec-sonar: The Complete Design Record &lpar;Part 2&rpar; — Fable&#39;s Review, a Real-World Conflict, and the Two-Repo Decision](https://dev.to/dexterlung/spec-sonar-the-complete-design-record-part-2-fables-review-a-real-world-conflict-and-the-4ied)
-- [Stop Building AI Wrappers. Start Building AI Systems](https://dev.to/shourya_kumar/stop-building-ai-wrappers-start-building-ai-systems-5a4f)
+- [Why AI Couldn&#39;t Stop 160,000 Students From Cheating](https://dev.to/mohitgeryani/why-ai-couldnt-stop-160000-students-from-cheating-b7a)
+- [Object Storage That Branches With Your Database](https://dev.to/devopsdaily/object-storage-that-branches-with-your-database-ob0)
+- [Multi-Tenant Architecture Patterns in Laravel: Choosing the Right Database Strategy](https://dev.to/faisal_nadeem_752520c3e03/multi-tenant-architecture-patterns-in-laravel-choosing-the-right-database-strategy-4ngd)
+- [The DevOps interview question that predicts an outage](https://dev.to/igor_potapenko/the-devops-interview-question-that-predicts-an-outage-53od)
+- [Using dbt to Transform OpenSky Flight Data](https://dev.to/data_with_jelimo/using-dbt-to-transform-opensky-flight-data-2b51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
