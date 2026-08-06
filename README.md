@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep Your CLAUDE.md Light &lpar;and Why More Rules Make Agents Worse&rpar;](https://dev.to/johnonlee/how-to-keep-your-claudemd-light-and-why-more-rules-make-agents-worse-34fa)
-- [How I use scheduled Codex jobs to build daily reports](https://dev.to/billiem/how-i-use-scheduled-codex-jobs-to-build-daily-reports-1n0m)
-- [I launched Roversia on Product Hunt — 39+ free browser tools, zero frameworks](https://dev.to/androve2k/i-launched-roversia-on-product-hunt-39-free-browser-tools-zero-frameworks-1h0p)
-- [How a single game evolved into a game factory](https://dev.to/esunitha/how-a-single-game-evolved-into-a-game-factory-5763)
-- [The Web Ecosystem Is Missing a Layer](https://dev.to/rejifald/the-web-ecosystem-is-missing-a-layer-4e39)
+- [7 Shopify Performance Optimizations That Improved My Store&#39;s Core Web Vitals](https://dev.to/blueicegems/7-shopify-performance-optimizations-that-improved-my-stores-core-web-vitals-238m)
+- [Ten error messages I could not find a single useful answer for](https://dev.to/marcosgcuenta1/ten-error-messages-i-could-not-find-a-single-useful-answer-for-4ee5)
+- [From JWT-SVID to Entra Agent ID: a working SPIFFE PoC](https://dev.to/astaykov/from-jwt-svid-to-entra-agent-id-a-working-spiffe-poc-ic4)
+- [Madurai Soul Trail: An Immersive Journey Through Tamil Nadu&#39;s Food Capital](https://dev.to/itsme_deepika/madurai-soul-trail-an-immersive-journey-through-tamil-nadus-food-capital-3ak5)
+- [Create a ZIP File in the Browser with JavaScript — No Backend](https://dev.to/ryan_e200dd10ede43c8fc2e4/create-a-zip-file-in-the-browser-with-javascript-no-backend-5e14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
