@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Frontend Developers Should Care About Brand Identity Systems](https://dev.to/joemetry/why-frontend-developers-should-care-about-brand-identity-systems-h22)
-- [🚀 Cron vs Systemd Timers vs daemontools — Understanding the Evolution of Linux Job Scheduling &amp; Service Management](https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm)
-- [Ahrefs MCP Server: Setup for Claude, Codex and the Rest](https://dev.to/studiomeyer_io/ahrefs-mcp-server-setup-for-claude-codex-and-the-rest-l46)
-- [I built a time-travel debugger for Zustand — and it caught three bugs I&#39;d already shipped](https://dev.to/kuba_opoczka_a6fb453bac5f/i-built-a-time-travel-debugger-for-zustand-and-it-caught-three-bugs-id-already-shipped-1cce)
-- [I built GitCat 1.0 to replace Git Extensions for large repositories](https://dev.to/zangjiucheng/i-built-gitcat-10-to-replace-git-extensions-for-large-repositories-1k13)
+- [How does auth work?](https://dev.to/shrutikapoor08/how-does-auth-work-10fh)
+- [I built an open-source audit trail for AI agents &lpar;after mine silently failed for hours&rpar;](https://dev.to/bobby_kkr_a51ae637362832a/i-built-an-open-source-audit-trail-for-ai-agents-after-mine-silently-failed-for-hours-3ckl)
+- [Turn Claude Code into a Laravel expert with LaraClaude](https://dev.to/edulazaro/turn-claude-code-into-a-laravel-expert-with-laraclaude-4l42)
+- [Add tags and categories to any model with Laraterms](https://dev.to/edulazaro/add-tags-and-categories-to-any-model-with-laraterms-4ed7)
+- [Who actually gets to build?](https://dev.to/anvilandcode/who-actually-gets-to-build-4ko2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
