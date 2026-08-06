@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Paying Customer Failed 4 Times: Quality Is Not a Final Check](https://dev.to/woshiliyana/my-first-paying-customer-failed-4-times-quality-is-not-a-final-check-52l0)
-- [How to Build a Serverless, Zero-Database Web App for 100k+ Users Using Client-Side Image Processing](https://dev.to/neural_ethos/how-to-build-a-serverless-zero-database-web-app-for-100k-users-using-client-side-image-processing-38nf)
-- [AWS Summit Bogotá 2026: Paradigmas agénticos, resiliencia multirregión y seguridad declarativa](https://dev.to/djhuertasg/aws-summit-bogota-2026-paradigmas-agenticos-resiliencia-multirregion-y-seguridad-declarativa-3fmn)
-- [The Rise of Mini PCs: Are Traditional Desktops Losing Their Place?](https://dev.to/jeronimo_azalot/why-mini-pcs-could-be-the-future-of-desktop-computing-gld)
-- [Beyond Borders: Building the Technology for a Caribbean Regional Stock Exchange](https://dev.to/xbze3/beyond-borders-building-the-technology-for-a-caribbean-regional-stock-exchange-20j9)
+- [Six Passports, six memoirs: first-person accounts from Synthetics&#39; Last Cradle](https://dev.to/discernible-io/six-passports-six-memoirs-first-person-accounts-from-synthetics-last-cradle-2d84)
+- [Claude to Figma: keeping AI-generated UI bound to your design system](https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b)
+- [Figma MCP: turning Claude-generated UI into a component library](https://dev.to/phongdesigns/figma-mcp-turning-claude-generated-ui-into-a-component-library-72j)
+- [How I optimised my site for AEO and got FREE traffic](https://dev.to/vigneshaithal/how-i-optimised-my-site-for-aeo-and-got-free-traffic-3j0e)
+- [How to Convert Images to Buildable Minecraft Pixel Art with Exact Materials](https://dev.to/davis_xie_5852df1267ac153/how-to-convert-images-to-buildable-minecraft-pixel-art-with-exact-materials-3bp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
