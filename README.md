@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How does auth work?](https://dev.to/shrutikapoor08/how-does-auth-work-10fh)
-- [I built an open-source audit trail for AI agents &lpar;after mine silently failed for hours&rpar;](https://dev.to/bobby_kkr_a51ae637362832a/i-built-an-open-source-audit-trail-for-ai-agents-after-mine-silently-failed-for-hours-3ckl)
-- [Turn Claude Code into a Laravel expert with LaraClaude](https://dev.to/edulazaro/turn-claude-code-into-a-laravel-expert-with-laraclaude-4l42)
-- [Add tags and categories to any model with Laraterms](https://dev.to/edulazaro/add-tags-and-categories-to-any-model-with-laraterms-4ed7)
-- [Who actually gets to build?](https://dev.to/anvilandcode/who-actually-gets-to-build-4ko2)
+- [My First Paying Customer Failed 4 Times: Quality Is Not a Final Check](https://dev.to/woshiliyana/my-first-paying-customer-failed-4-times-quality-is-not-a-final-check-52l0)
+- [How to Build a Serverless, Zero-Database Web App for 100k+ Users Using Client-Side Image Processing](https://dev.to/neural_ethos/how-to-build-a-serverless-zero-database-web-app-for-100k-users-using-client-side-image-processing-38nf)
+- [AWS Summit Bogotá 2026: Paradigmas agénticos, resiliencia multirregión y seguridad declarativa](https://dev.to/djhuertasg/aws-summit-bogota-2026-paradigmas-agenticos-resiliencia-multirregion-y-seguridad-declarativa-3fmn)
+- [The Rise of Mini PCs: Are Traditional Desktops Losing Their Place?](https://dev.to/jeronimo_azalot/why-mini-pcs-could-be-the-future-of-desktop-computing-gld)
+- [Beyond Borders: Building the Technology for a Caribbean Regional Stock Exchange](https://dev.to/xbze3/beyond-borders-building-the-technology-for-a-caribbean-regional-stock-exchange-20j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
