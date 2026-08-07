@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Data Exposure in Martech Integrations With Better Access Controls](https://dev.to/alifar/how-to-reduce-data-exposure-in-martech-integrations-with-better-access-controls-2j61)
-- [Open Source Contribution as a Learning Path](https://dev.to/multigrid/open-source-contribution-as-a-learning-path-1g9j)
-- [AI in Mathematics: Why Formal Verification Is the Interesting Part](https://dev.to/multigrid/ai-in-mathematics-why-formal-verification-is-the-interesting-part-5c2j)
-- [AI in Government and Public Services](https://dev.to/multigrid/ai-in-government-and-public-services-3c4h)
-- [Zero bytes of geometry: a metal lattice sphere-traced in a 14.9 KB page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib)
+- [Four false positives in one evening: telling a broken web app from a broken measurement](https://dev.to/smirnovartur/four-false-positives-in-one-evening-telling-a-broken-web-app-from-a-broken-measurement-5gd3)
+- [Peer Review With AI Assistance: Confidentiality Comes First](https://dev.to/multigrid/peer-review-with-ai-assistance-confidentiality-comes-first-510h)
+- [AI-Generated Papers and Journal Integrity](https://dev.to/multigrid/ai-generated-papers-and-journal-integrity-3fgk)
+- [When Clinical Software Becomes a Regulated Device](https://dev.to/multigrid/when-clinical-software-becomes-a-regulated-device-21nm)
+- [Using AI for Job Applications, Honestly](https://dev.to/multigrid/using-ai-for-job-applications-honestly-179)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
