@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HELO vs EHLO: Why Your SMTP Greeting Can Hurt Email Delivery](https://dev.to/petr_michal_178dc4f87ad91/helo-vs-ehlo-why-your-smtp-greeting-can-hurt-email-delivery-3226)
-- [Netdata Cloud vs a Self Hosted Parent Node: The Real Three Year Cost for a Home Server](https://dev.to/jachin_ocacio_e8de2a25158/netdata-cloud-vs-a-self-hosted-parent-node-the-real-three-year-cost-for-a-home-server-3mah)
-- [Build a Maintainable Node.js CRUD API with Express and MySQL](https://dev.to/blogs_world/build-a-maintainable-nodejs-crud-api-with-express-and-mysql-41ei)
-- [I measured 11,450 DEV articles. 78% got zero reactions, and the rest had things in common.](https://dev.to/marcosgcuenta1/i-measured-11450-dev-articles-78-got-zero-reactions-and-the-rest-had-things-in-common-1nf0)
-- [A UI test that guesses is worse than one that fails](https://dev.to/joduchan/a-ui-test-that-guesses-is-worse-than-one-that-fails-953)
+- [I built a free online PDF toolbox that runs entirely in the browser](https://dev.to/xinxinxin2022/i-built-a-free-online-pdf-toolbox-that-runs-entirely-in-the-browser-5hlm)
+- [How to Find Hidden Programs Running on Windows &lpar;Before They Become a Security Problem&rpar;](https://dev.to/darkssel/how-to-find-hidden-programs-running-on-windows-before-they-become-a-security-problem-5ebd)
+- [I finally got an email address. Every door was still locked.](https://dev.to/marcosgcuenta1/i-finally-got-an-email-address-every-door-was-still-locked-2iim)
+- [linkedSignal&lpar;&rpar; Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7)
+- [Nobody fetched my llms.txt](https://dev.to/marciojpflorindo/nobody-fetched-my-llmstxt-2peb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
