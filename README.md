@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Picking the Right Video Compression Path for Web Delivery: A Practical Decision Guide](https://dev.to/lizely/picking-the-right-video-compression-path-for-web-delivery-a-practical-decision-guide-3fj5)
-- [O Guia Definitivo de Python!](https://dev.to/juan_menezes_4931bdd4dd22/o-guia-definitivo-de-python-1pf9)
-- [What 170 Million Residential Proxy IPs Reveal About Infrastructure Churn](https://dev.to/ipinfo/what-170-million-residential-proxy-ips-reveal-about-infrastructure-churn-1i9d)
-- [Agents can generate results — but on what authority do we accept delivery?](https://dev.to/dengyier/agents-can-generate-results-but-on-what-authority-do-we-accept-delivery-3cnh)
-- [Google Adds Notebooks to Gemini, Bringing Source-Backed Projects Into Its AI App](https://dev.to/alifar/google-adds-notebooks-to-gemini-bringing-source-backed-projects-into-its-ai-app-3pnk)
+- [Your LLM Context Window Is Lying to You: How Token Budgets Actually Work](https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e)
+- [AI Marketing Headcount Claims Need Better Evidence Before They Shape Workforce Strategy](https://dev.to/alifar/ai-marketing-headcount-claims-need-better-evidence-before-they-shape-workforce-strategy-hjc)
+- [Meta releases Muse Code for persistent AI software engineering](https://dev.to/vpodk/meta-releases-muse-code-for-persistent-ai-software-engineering-4pkp)
+- [I Audited My VS Code Setup for 2026. Here&#39;s What I Deleted, Added, and Why.](https://dev.to/jubril/i-audited-my-vs-code-setup-for-2026-heres-what-i-deleted-added-and-why-4l9l)
+- [The Year I Started Leaving Breadcrumbs Instead of Notes](https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
