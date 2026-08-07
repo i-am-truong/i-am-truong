@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ESPBanking By Dumasha](https://dev.to/dumasha_01f08bc176b77172f/espbanking-by-dumasha-12ma)
-- [Security from AI, using AI](https://dev.to/urvish_shah_9665f2da21940/securing-from-ai-using-ai-207g)
-- [Why I Stopped Waiting on Ruby LSP and Built My Own Fuzzy Symbol Search for VS Code](https://dev.to/bkaz/why-i-stopped-waiting-on-ruby-lsp-and-built-my-own-fuzzy-symbol-search-for-vs-code-5a53)
-- [I Asked an AI to Author the Same Policy Tests 50 Times. It Hit Every Boundary in 49 Valid Runs.](https://dev.to/kikashy/i-asked-an-ai-to-author-the-same-policy-tests-50-times-it-hit-every-boundary-in-49-valid-runs-2g8n)
-- [Try PickleAI: A Local AI Desktop Assistant Powered by Ollama](https://dev.to/pickleforge_labs/try-pickleai-a-local-ai-desktop-assistant-powered-by-ollama-32p2)
+- [Would You Choose a Giant Product… or a Fast-Moving Indie One?](https://dev.to/puneetkumar2010/would-you-choose-a-giant-product-or-a-fast-moving-indie-one-1ig0)
+- [Building a Bimanual Manipulation Scene With ALOHA in MuJoCo](https://dev.to/godrift_ai/building-a-bimanual-manipulation-scene-with-aloha-in-mujoco-47lg)
+- [Proxy Pattern: controllare l&#39;accesso senza cambiare l&#39;interfaccia](https://dev.to/dev_iadicola/proxy-pattern-controllare-laccesso-senza-cambiare-linterfaccia-42p1)
+- [Reddit decides who AI recommends: what I found measuring 241 software categories](https://dev.to/oguzhantusen/reddit-decides-who-ai-recommends-what-i-found-measuring-241-software-categories-opf)
+- [Build Snappy Offline-First Apps: Introducing SWR and IndexedDB-powered useResource in react-hook-lab](https://dev.to/saurav_tb_pandey/build-snappy-offline-first-apps-introducing-swr-and-indexeddb-powered-useresource-in-react-hook-lab-477a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
