@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sobremesa: Six meals in Mexico, heritage without an address.](https://dev.to/earlgreyhot1701d/sobremesa-six-meals-in-mexico-heritage-without-an-address-24n3)
-- [Running local and cloud models in the same coding agent: what actually ships in 2026](https://dev.to/jacksonxly/running-local-and-cloud-models-in-the-same-coding-agent-what-actually-ships-in-2026-18eo)
-- [Canary Tests for AI Coding Agents: A Sandbox Harness You Can Run Yourself](https://dev.to/applab_743/canary-tests-for-ai-coding-agents-a-sandbox-harness-you-can-run-yourself-35il)
-- [Attack Your Agent&#39;s Tool Boundaries Before Someone Else Does: A Repeatable Test Harness](https://dev.to/hackjs_8688/attack-your-agents-tool-boundaries-before-someone-else-does-a-repeatable-test-harness-5cgd)
-- [Before You Give a Coding Agent Shell Access, Test Where Its Boundaries Actually Are](https://dev.to/appjs_7055/before-you-give-a-coding-agent-shell-access-test-where-its-boundaries-actually-are-1fl5)
+- [Why Upscaling the Wrong Video File Makes Quality Worse: A Source-First Diagnostic Workflow](https://dev.to/tover0314/why-upscaling-the-wrong-video-file-makes-quality-worse-a-source-first-diagnostic-workflow-2h8a)
+- [Accessibility Audit: A Practical WordPress Plugin for Finding WCAG Issues Before Your Visitors Do](https://dev.to/grounded/accessibility-audit-a-practical-wordpress-plugin-for-finding-wcag-issues-before-your-visitors-do-4629)
+- [Stop Using Live Whiteboard Interviews to Hire Remote Developers](https://dev.to/techhub_asia/stop-using-live-whiteboard-interviews-to-hire-remote-developers-1dgg)
+- [I Built the Thing My Last Article Said Didn&#39;t Exist Yet](https://dev.to/coridev/i-built-the-thing-my-last-article-said-didnt-exist-yet-4hof)
+- [Buyer context moved 6 of the top 10 results on one market. I ran it again on an unrelated market and it moved 4.](https://dev.to/lana_connexion/buyer-context-moved-6-of-the-top-10-results-on-one-market-i-ran-it-again-on-an-unrelated-market-3d1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
