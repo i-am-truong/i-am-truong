@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLD Design Patterns: What Problems Does SOLID Actually Solve?](https://dev.to/saras_growth_space/lld-design-patterns-what-problems-does-solid-actually-solve-3ol8)
-- [Why I Changed My Portfolio Domain from &quot;Kami Presents&quot; to &quot;Kamran Mushtaq&quot;](https://dev.to/kaamipresents/why-i-changed-my-portfolio-domain-from-kami-presents-to-kamran-mushtaq-5bll)
-- [Why We Calculate Astrology Charts Before Asking an LLM to Explain Them](https://dev.to/openfate_ai_8dd87834ba188/why-we-calculate-astrology-charts-before-asking-an-llm-to-explain-them-46c1)
-- [Python](https://dev.to/mahdi2244/python-1g0p)
-- [AI Search Measurement Gap: Why Brand Influence Can Matter More Than Clicks](https://dev.to/alifar/ai-search-measurement-gap-why-brand-influence-can-matter-more-than-clicks-2imc)
+- [How to Reduce Data Exposure in Martech Integrations With Better Access Controls](https://dev.to/alifar/how-to-reduce-data-exposure-in-martech-integrations-with-better-access-controls-2j61)
+- [Open Source Contribution as a Learning Path](https://dev.to/multigrid/open-source-contribution-as-a-learning-path-1g9j)
+- [AI in Mathematics: Why Formal Verification Is the Interesting Part](https://dev.to/multigrid/ai-in-mathematics-why-formal-verification-is-the-interesting-part-5c2j)
+- [AI in Government and Public Services](https://dev.to/multigrid/ai-in-government-and-public-services-3c4h)
+- [Zero bytes of geometry: a metal lattice sphere-traced in a 14.9 KB page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
