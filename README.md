@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-5.6 Expands Reasoning Controls While Free and Go Default to Terra](https://dev.to/alifar/openai-gpt-56-expands-reasoning-controls-while-free-and-go-default-to-terra-4mfa)
-- [Interactive Algorithm Playground](https://dev.to/owaisnoor/interactive-algorithm-playground-5gaj)
-- [Claude Code 2.1.224 Self-Hosted Environments Checklist](https://dev.to/ahab_indieseek/claude-code-21224-self-hosted-environments-checklist-2ck9)
-- [Offline-First, Encrypted, Audit-Ready: Building CalibKeep with .NET 8 + Avalonia](https://dev.to/remrah/offline-first-encrypted-audit-ready-building-calibkeep-with-net-8-avalonia-9ka)
-- [The Staff engineer with 4 years of experience is a hiring problem we made](https://dev.to/adioof/the-staff-engineer-with-4-years-of-experience-is-a-hiring-problem-we-made-52pa)
+- [Your Contact Form Created the Deal... Just in the Wrong Pipeline](https://dev.to/rahul_sharma_15bd129bc69e/your-contact-form-created-the-deal-just-in-the-wrong-pipeline-2mb8)
+- [Google DeepMind’s Gemini Robotics 2 Puts Cross-Embodiment Robot Control at the Center](https://dev.to/alifar/google-deepminds-gemini-robotics-2-puts-cross-embodiment-robot-control-at-the-center-e7)
+- [VKAE: VIDRAFT&#39;s Inference Engine Hits 23 GPU Speedup and ~10K Tokens/sec on a Single Nvidia B200](https://dev.to/ai_openfree_b23025ef075cf/vkae-vidrafts-inference-engine-hits-23x-gpu-speedup-and-10k-tokenssec-on-a-single-nvidia-b200-2aci)
+- [Stop Building Chatbots and Start Building Agents](https://dev.to/ntty/stop-building-chatbots-and-start-building-agents-2p1o)
+- [Google Expands Free Gemini Personalized Image Generation to Eligible US Users](https://dev.to/alifar/google-expands-free-gemini-personalized-image-generation-to-eligible-us-users-6p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
