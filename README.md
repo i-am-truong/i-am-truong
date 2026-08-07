@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Rate Limiting in Nuxt](https://dev.to/sadegh_shaikhi_0549a5c17f/how-to-set-up-rate-limiting-in-nuxt-3lcb)
-- [Three Ways Your Training Data Lies to You &lpar;And None of Them Throw an Error&rpar;](https://dev.to/rickesh_tn_48/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044)
-- [Deploying Qwen3.8 Max as a Task‑Oriented Agent in Python](https://dev.to/robust_true_try/deploying-qwen38-max-as-a-task-oriented-agent-in-python-1c03)
-- [[Advanced Rust] 2.6. API Design Principles of Flexibility Pt.2 - Object Safety, API Design, and Generic Trait Methods](https://dev.to/someb1oody/advanced-rust-26-api-design-principles-of-flexibility-pt2-object-safety-api-design-and-37i5)
-- [Checking that a count didn&#39;t change — a sanity check before writing a reorder API&#39;s result](https://dev.to/susumun/checking-that-a-count-didnt-change-a-sanity-check-before-writing-a-reorder-apis-result-hg9)
+- [Sobremesa: Six meals in Mexico, heritage without an address.](https://dev.to/earlgreyhot1701d/sobremesa-six-meals-in-mexico-heritage-without-an-address-24n3)
+- [Running local and cloud models in the same coding agent: what actually ships in 2026](https://dev.to/jacksonxly/running-local-and-cloud-models-in-the-same-coding-agent-what-actually-ships-in-2026-18eo)
+- [Canary Tests for AI Coding Agents: A Sandbox Harness You Can Run Yourself](https://dev.to/applab_743/canary-tests-for-ai-coding-agents-a-sandbox-harness-you-can-run-yourself-35il)
+- [Attack Your Agent&#39;s Tool Boundaries Before Someone Else Does: A Repeatable Test Harness](https://dev.to/hackjs_8688/attack-your-agents-tool-boundaries-before-someone-else-does-a-repeatable-test-harness-5cgd)
+- [Before You Give a Coding Agent Shell Access, Test Where Its Boundaries Actually Are](https://dev.to/appjs_7055/before-you-give-a-coding-agent-shell-access-test-where-its-boundaries-actually-are-1fl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
