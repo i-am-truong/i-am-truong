@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Selective Attention: Filtering Before You Fill](https://dev.to/multigrid/selective-attention-filtering-before-you-fill-57id)
-- [Context Compression: Making 100k Tokens Fit in 10k](https://dev.to/multigrid/context-compression-making-100k-tokens-fit-in-10k-4aam)
-- [Context Caching Strategy: Ordering for Cache Hits](https://dev.to/multigrid/context-caching-strategy-ordering-for-cache-hits-1omo)
-- [Budgeting the Context Window Across a Session](https://dev.to/multigrid/budgeting-the-context-window-across-a-session-251m)
-- [Context Windows as an Architectural Constraint](https://dev.to/multigrid/context-windows-as-an-architectural-constraint-4bmp)
+- [Feature Engineering: Still the Highest-Leverage Work](https://dev.to/multigrid/feature-engineering-still-the-highest-leverage-work-1kei)
+- [A FastAPI Endpoint That Streams to the Browser](https://dev.to/multigrid/a-fastapi-endpoint-that-streams-to-the-browser-21ap)
+- [NemynAI SEO Autopilot: A Technical Look at a Claude-Powered WordPress Content Plugin](https://dev.to/__d34ca/nemynai-seo-autopilot-a-technical-look-at-a-claude-powered-wordpress-content-plugin-3i4o)
+- [Refusals: When Safety Training Blocks Legitimate Work](https://dev.to/multigrid/refusals-when-safety-training-blocks-legitimate-work-52g7)
+- [Fabricated Citations and Fake References](https://dev.to/multigrid/fabricated-citations-and-fake-references-41kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
