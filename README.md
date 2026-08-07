@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Enums Are Still Controversial in 2026: Here Is When to Use Them and When to Reach for `const` Objects](https://dev.to/jsmanifest/typescript-enums-are-still-controversial-in-2026-here-is-when-to-use-them-and-when-to-reach-for-4fee)
-- [Tapo H100: Cellar Humidity Monitoring in Home Assistant](https://dev.to/cloudapp_dev/tapo-h100-cellar-humidity-monitoring-in-home-assistant-i39)
-- [« J&#39;ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle](https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4)
-- [Instant Payments Risk Management: What Every Fintech Developer Should Know](https://dev.to/anand_972001e55572923b817/instant-payments-risk-management-what-every-fintech-developer-should-know-20m)
-- [Stratagems #23: Alex Counted the AI&#39;s Hands. Lena Set the Bait.](https://dev.to/xulingfeng/stratagems-23-alex-counted-the-ais-hands-lena-set-the-bait-4566)
+- [HELO vs EHLO: Why Your SMTP Greeting Can Hurt Email Delivery](https://dev.to/petr_michal_178dc4f87ad91/helo-vs-ehlo-why-your-smtp-greeting-can-hurt-email-delivery-3226)
+- [Netdata Cloud vs a Self Hosted Parent Node: The Real Three Year Cost for a Home Server](https://dev.to/jachin_ocacio_e8de2a25158/netdata-cloud-vs-a-self-hosted-parent-node-the-real-three-year-cost-for-a-home-server-3mah)
+- [Build a Maintainable Node.js CRUD API with Express and MySQL](https://dev.to/blogs_world/build-a-maintainable-nodejs-crud-api-with-express-and-mysql-41ei)
+- [I measured 11,450 DEV articles. 78% got zero reactions, and the rest had things in common.](https://dev.to/marcosgcuenta1/i-measured-11450-dev-articles-78-got-zero-reactions-and-the-rest-had-things-in-common-1nf0)
+- [A UI test that guesses is worse than one that fails](https://dev.to/joduchan/a-ui-test-that-guesses-is-worse-than-one-that-fails-953)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
