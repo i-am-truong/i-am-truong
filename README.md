@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Four false positives in one evening: telling a broken web app from a broken measurement](https://dev.to/smirnovartur/four-false-positives-in-one-evening-telling-a-broken-web-app-from-a-broken-measurement-5gd3)
-- [Peer Review With AI Assistance: Confidentiality Comes First](https://dev.to/multigrid/peer-review-with-ai-assistance-confidentiality-comes-first-510h)
-- [AI-Generated Papers and Journal Integrity](https://dev.to/multigrid/ai-generated-papers-and-journal-integrity-3fgk)
-- [When Clinical Software Becomes a Regulated Device](https://dev.to/multigrid/when-clinical-software-becomes-a-regulated-device-21nm)
-- [Using AI for Job Applications, Honestly](https://dev.to/multigrid/using-ai-for-job-applications-honestly-179)
+- [Chart and Diagram Reading: What Models Get Wrong](https://dev.to/multigrid/chart-and-diagram-reading-what-models-get-wrong-df)
+- [Causal Inference When All You Have Is Observational Data](https://dev.to/multigrid/causal-inference-when-all-you-have-is-observational-data-1oj6)
+- [Stop Using Props + Watchers Just to Trigger Actions in Child Components &lpar;Vue 3.5 useTemplateRef + defineExpose&rpar;](https://dev.to/kickbuttowski80/stop-using-props-watchers-just-to-trigger-actions-in-child-components-vue-35-usetemplateref--5gdk)
+- [Byte-Pair Encoding Explained by Building One](https://dev.to/multigrid/byte-pair-encoding-explained-by-building-one-24pk)
+- [Build a Semantic Search Engine for a Website](https://dev.to/multigrid/build-a-semantic-search-engine-for-a-website-ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
