@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Would You Choose a Giant Product… or a Fast-Moving Indie One?](https://dev.to/puneetkumar2010/would-you-choose-a-giant-product-or-a-fast-moving-indie-one-1ig0)
-- [Building a Bimanual Manipulation Scene With ALOHA in MuJoCo](https://dev.to/godrift_ai/building-a-bimanual-manipulation-scene-with-aloha-in-mujoco-47lg)
-- [Proxy Pattern: controllare l&#39;accesso senza cambiare l&#39;interfaccia](https://dev.to/dev_iadicola/proxy-pattern-controllare-laccesso-senza-cambiare-linterfaccia-42p1)
-- [Reddit decides who AI recommends: what I found measuring 241 software categories](https://dev.to/oguzhantusen/reddit-decides-who-ai-recommends-what-i-found-measuring-241-software-categories-opf)
-- [Build Snappy Offline-First Apps: Introducing SWR and IndexedDB-powered useResource in react-hook-lab](https://dev.to/saurav_tb_pandey/build-snappy-offline-first-apps-introducing-swr-and-indexeddb-powered-useresource-in-react-hook-lab-477a)
+- [Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster](https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88)
+- [Shipping AI Content Provenance That Actually Survives Production &lpar;Post Article 50&rpar;](https://dev.to/ismail_haddou/shipping-ai-content-provenance-that-actually-survives-production-post-article-50-52df)
+- [What should an MCP tool return? I ran 72 trials instead of arguing](https://dev.to/lopster568/what-should-an-mcp-tool-return-i-ran-72-trials-instead-of-arguing-43b4)
+- [Construindo uma aplicação web completa com JavaScript vanilla + Firebase: o projeto Connecta](https://dev.to/pedro_henriquepdrum_f624/construindo-uma-aplicacao-web-completa-com-javascript-vanilla-firebase-o-projeto-connecta-4k25)
+- [One DSN, three PHP ecosystems: MailKite&#39;s Symfony Mailer transport](https://dev.to/bucabay/one-dsn-three-php-ecosystems-mailkites-symfony-mailer-transport-5ehh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
