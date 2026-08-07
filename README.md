@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built MicroLeague Sports Vol. 3](https://dev.to/esolar07/why-we-built-microleague-sports-vol-3-3l5p)
-- [I Built a Self-Hosted AI Support Widget with Spring Boot &lpar;No Monthly SaaS Fees&rpar;](https://dev.to/sweety717/i-built-a-self-hosted-ai-support-widget-with-spring-boot-no-monthly-saas-fees-53m2)
-- [Tracing a 3 Memory Blow-Up in Grafana&#39;s Time Comparison](https://dev.to/sachin-680/tracing-a-3x-memory-blow-up-in-grafanas-time-comparison-2jpn)
-- [From Android Engineer to AI/ML – My Journey and First Realization](https://dev.to/niranjannlc/from-android-engineer-to-aiml-my-journey-and-first-realization-2de)
-- [HMAC Secrets Explained: Authentication You Can Actually Implement](https://dev.to/gitguardian/hmac-secrets-explained-authentication-you-can-actually-implement-30dc)
+- [ESPBanking By Dumasha](https://dev.to/dumasha_01f08bc176b77172f/espbanking-by-dumasha-12ma)
+- [Security from AI, using AI](https://dev.to/urvish_shah_9665f2da21940/securing-from-ai-using-ai-207g)
+- [Why I Stopped Waiting on Ruby LSP and Built My Own Fuzzy Symbol Search for VS Code](https://dev.to/bkaz/why-i-stopped-waiting-on-ruby-lsp-and-built-my-own-fuzzy-symbol-search-for-vs-code-5a53)
+- [I Asked an AI to Author the Same Policy Tests 50 Times. It Hit Every Boundary in 49 Valid Runs.](https://dev.to/kikashy/i-asked-an-ai-to-author-the-same-policy-tests-50-times-it-hit-every-boundary-in-49-valid-runs-2g8n)
+- [Try PickleAI: A Local AI Desktop Assistant Powered by Ollama](https://dev.to/pickleforge_labs/try-pickleai-a-local-ai-desktop-assistant-powered-by-ollama-32p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
