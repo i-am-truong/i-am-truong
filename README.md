@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Contact Form Created the Deal... Just in the Wrong Pipeline](https://dev.to/rahul_sharma_15bd129bc69e/your-contact-form-created-the-deal-just-in-the-wrong-pipeline-2mb8)
-- [Google DeepMind’s Gemini Robotics 2 Puts Cross-Embodiment Robot Control at the Center](https://dev.to/alifar/google-deepminds-gemini-robotics-2-puts-cross-embodiment-robot-control-at-the-center-e7)
-- [VKAE: VIDRAFT&#39;s Inference Engine Hits 23 GPU Speedup and ~10K Tokens/sec on a Single Nvidia B200](https://dev.to/ai_openfree_b23025ef075cf/vkae-vidrafts-inference-engine-hits-23x-gpu-speedup-and-10k-tokenssec-on-a-single-nvidia-b200-2aci)
-- [Stop Building Chatbots and Start Building Agents](https://dev.to/ntty/stop-building-chatbots-and-start-building-agents-2p1o)
-- [Google Expands Free Gemini Personalized Image Generation to Eligible US Users](https://dev.to/alifar/google-expands-free-gemini-personalized-image-generation-to-eligible-us-users-6p1)
+- [The Review Tax: Escaping AI Code Review Traps with AWS Kiro Crew Orchestration](https://dev.to/tamizuddin/the-review-tax-escaping-ai-code-review-traps-with-aws-kiro-crew-orchestration-40bc)
+- [Functional programming with TypeScript: what fp-ts teaches you even if you never ship it](https://dev.to/jtorchia/functional-programming-with-typescript-what-fp-ts-teaches-you-even-if-you-never-ship-it-4a5)
+- [Functional programming con TypeScript: lo que fp-ts enseña aunque no lo uses en producción](https://dev.to/jtorchia/functional-programming-con-typescript-lo-que-fp-ts-ensena-aunque-no-lo-uses-en-produccion-g7e)
+- [Ship a Production RAG Chatbot in a Weekend with Claude, pgvector, and FastAPI](https://dev.to/libme/ship-a-production-rag-chatbot-in-a-weekend-with-claude-pgvector-and-fastapi-3aeo)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-n4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
