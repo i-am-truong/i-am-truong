@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Couldn&#39;t Stop 160,000 Students From Cheating](https://dev.to/mohitgeryani/why-ai-couldnt-stop-160000-students-from-cheating-b7a)
-- [Object Storage That Branches With Your Database](https://dev.to/devopsdaily/object-storage-that-branches-with-your-database-ob0)
-- [Multi-Tenant Architecture Patterns in Laravel: Choosing the Right Database Strategy](https://dev.to/faisal_nadeem_752520c3e03/multi-tenant-architecture-patterns-in-laravel-choosing-the-right-database-strategy-4ngd)
-- [The DevOps interview question that predicts an outage](https://dev.to/igor_potapenko/the-devops-interview-question-that-predicts-an-outage-53od)
-- [Using dbt to Transform OpenSky Flight Data](https://dev.to/data_with_jelimo/using-dbt-to-transform-opensky-flight-data-2b51)
+- [How to Set Up Rate Limiting in Nuxt](https://dev.to/sadegh_shaikhi_0549a5c17f/how-to-set-up-rate-limiting-in-nuxt-3lcb)
+- [Three Ways Your Training Data Lies to You &lpar;And None of Them Throw an Error&rpar;](https://dev.to/rickesh_tn_48/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044)
+- [Deploying Qwen3.8 Max as a Task‑Oriented Agent in Python](https://dev.to/robust_true_try/deploying-qwen38-max-as-a-task-oriented-agent-in-python-1c03)
+- [[Advanced Rust] 2.6. API Design Principles of Flexibility Pt.2 - Object Safety, API Design, and Generic Trait Methods](https://dev.to/someb1oody/advanced-rust-26-api-design-principles-of-flexibility-pt2-object-safety-api-design-and-37i5)
+- [Checking that a count didn&#39;t change — a sanity check before writing a reorder API&#39;s result](https://dev.to/susumun/checking-that-a-count-didnt-change-a-sanity-check-before-writing-a-reorder-apis-result-hg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
