@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chart and Diagram Reading: What Models Get Wrong](https://dev.to/multigrid/chart-and-diagram-reading-what-models-get-wrong-df)
-- [Causal Inference When All You Have Is Observational Data](https://dev.to/multigrid/causal-inference-when-all-you-have-is-observational-data-1oj6)
-- [Stop Using Props + Watchers Just to Trigger Actions in Child Components &lpar;Vue 3.5 useTemplateRef + defineExpose&rpar;](https://dev.to/kickbuttowski80/stop-using-props-watchers-just-to-trigger-actions-in-child-components-vue-35-usetemplateref--5gdk)
-- [Byte-Pair Encoding Explained by Building One](https://dev.to/multigrid/byte-pair-encoding-explained-by-building-one-24pk)
-- [Build a Semantic Search Engine for a Website](https://dev.to/multigrid/build-a-semantic-search-engine-for-a-website-ad)
+- [Selective Attention: Filtering Before You Fill](https://dev.to/multigrid/selective-attention-filtering-before-you-fill-57id)
+- [Context Compression: Making 100k Tokens Fit in 10k](https://dev.to/multigrid/context-compression-making-100k-tokens-fit-in-10k-4aam)
+- [Context Caching Strategy: Ordering for Cache Hits](https://dev.to/multigrid/context-caching-strategy-ordering-for-cache-hits-1omo)
+- [Budgeting the Context Window Across a Session](https://dev.to/multigrid/budgeting-the-context-window-across-a-session-251m)
+- [Context Windows as an Architectural Constraint](https://dev.to/multigrid/context-windows-as-an-architectural-constraint-4bmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
