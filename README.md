@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Upscaling the Wrong Video File Makes Quality Worse: A Source-First Diagnostic Workflow](https://dev.to/tover0314/why-upscaling-the-wrong-video-file-makes-quality-worse-a-source-first-diagnostic-workflow-2h8a)
-- [Accessibility Audit: A Practical WordPress Plugin for Finding WCAG Issues Before Your Visitors Do](https://dev.to/grounded/accessibility-audit-a-practical-wordpress-plugin-for-finding-wcag-issues-before-your-visitors-do-4629)
-- [Stop Using Live Whiteboard Interviews to Hire Remote Developers](https://dev.to/techhub_asia/stop-using-live-whiteboard-interviews-to-hire-remote-developers-1dgg)
-- [I Built the Thing My Last Article Said Didn&#39;t Exist Yet](https://dev.to/coridev/i-built-the-thing-my-last-article-said-didnt-exist-yet-4hof)
-- [Buyer context moved 6 of the top 10 results on one market. I ran it again on an unrelated market and it moved 4.](https://dev.to/lana_connexion/buyer-context-moved-6-of-the-top-10-results-on-one-market-i-ran-it-again-on-an-unrelated-market-3d1o)
+- [TypeScript Enums Are Still Controversial in 2026: Here Is When to Use Them and When to Reach for `const` Objects](https://dev.to/jsmanifest/typescript-enums-are-still-controversial-in-2026-here-is-when-to-use-them-and-when-to-reach-for-4fee)
+- [Tapo H100: Cellar Humidity Monitoring in Home Assistant](https://dev.to/cloudapp_dev/tapo-h100-cellar-humidity-monitoring-in-home-assistant-i39)
+- [« J&#39;ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle](https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4)
+- [Instant Payments Risk Management: What Every Fintech Developer Should Know](https://dev.to/anand_972001e55572923b817/instant-payments-risk-management-what-every-fintech-developer-should-know-20m)
+- [Stratagems #23: Alex Counted the AI&#39;s Hands. Lena Set the Bait.](https://dev.to/xulingfeng/stratagems-23-alex-counted-the-ais-hands-lena-set-the-bait-4566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
