@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster](https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88)
-- [Shipping AI Content Provenance That Actually Survives Production &lpar;Post Article 50&rpar;](https://dev.to/ismail_haddou/shipping-ai-content-provenance-that-actually-survives-production-post-article-50-52df)
-- [What should an MCP tool return? I ran 72 trials instead of arguing](https://dev.to/lopster568/what-should-an-mcp-tool-return-i-ran-72-trials-instead-of-arguing-43b4)
-- [Construindo uma aplicação web completa com JavaScript vanilla + Firebase: o projeto Connecta](https://dev.to/pedro_henriquepdrum_f624/construindo-uma-aplicacao-web-completa-com-javascript-vanilla-firebase-o-projeto-connecta-4k25)
-- [One DSN, three PHP ecosystems: MailKite&#39;s Symfony Mailer transport](https://dev.to/bucabay/one-dsn-three-php-ecosystems-mailkites-symfony-mailer-transport-5ehh)
+- [Picking the Right Video Compression Path for Web Delivery: A Practical Decision Guide](https://dev.to/lizely/picking-the-right-video-compression-path-for-web-delivery-a-practical-decision-guide-3fj5)
+- [O Guia Definitivo de Python!](https://dev.to/juan_menezes_4931bdd4dd22/o-guia-definitivo-de-python-1pf9)
+- [What 170 Million Residential Proxy IPs Reveal About Infrastructure Churn](https://dev.to/ipinfo/what-170-million-residential-proxy-ips-reveal-about-infrastructure-churn-1i9d)
+- [Agents can generate results — but on what authority do we accept delivery?](https://dev.to/dengyier/agents-can-generate-results-but-on-what-authority-do-we-accept-delivery-3cnh)
+- [Google Adds Notebooks to Gemini, Bringing Source-Backed Projects Into Its AI App](https://dev.to/alifar/google-adds-notebooks-to-gemini-bringing-source-backed-projects-into-its-ai-app-3pnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
