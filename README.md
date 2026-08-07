@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Context Window Is Lying to You: How Token Budgets Actually Work](https://dev.to/mudassirworks/your-llm-context-window-is-lying-to-you-how-token-budgets-actually-work-b5e)
-- [AI Marketing Headcount Claims Need Better Evidence Before They Shape Workforce Strategy](https://dev.to/alifar/ai-marketing-headcount-claims-need-better-evidence-before-they-shape-workforce-strategy-hjc)
-- [Meta releases Muse Code for persistent AI software engineering](https://dev.to/vpodk/meta-releases-muse-code-for-persistent-ai-software-engineering-4pkp)
-- [I Audited My VS Code Setup for 2026. Here&#39;s What I Deleted, Added, and Why.](https://dev.to/jubril/i-audited-my-vs-code-setup-for-2026-heres-what-i-deleted-added-and-why-4l9l)
-- [The Year I Started Leaving Breadcrumbs Instead of Notes](https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0)
+- [LLD Design Patterns: What Problems Does SOLID Actually Solve?](https://dev.to/saras_growth_space/lld-design-patterns-what-problems-does-solid-actually-solve-3ol8)
+- [Why I Changed My Portfolio Domain from &quot;Kami Presents&quot; to &quot;Kamran Mushtaq&quot;](https://dev.to/kaamipresents/why-i-changed-my-portfolio-domain-from-kami-presents-to-kamran-mushtaq-5bll)
+- [Why We Calculate Astrology Charts Before Asking an LLM to Explain Them](https://dev.to/openfate_ai_8dd87834ba188/why-we-calculate-astrology-charts-before-asking-an-llm-to-explain-them-46c1)
+- [Python](https://dev.to/mahdi2244/python-1g0p)
+- [AI Search Measurement Gap: Why Brand Influence Can Matter More Than Clicks](https://dev.to/alifar/ai-search-measurement-gap-why-brand-influence-can-matter-more-than-clicks-2imc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
