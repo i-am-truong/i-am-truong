@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing AI Agents in TypeScript Without Calling the Model](https://dev.to/gabrielanhaia/testing-ai-agents-in-typescript-without-calling-the-model-1ip3)
-- [Bridge the gap between MasterGo and your IDE: Why design context belongs in your MCP agent](https://dev.to/renato_marinho/bridge-the-gap-between-mastergo-and-your-ide-why-design-context-belongs-in-your-mcp-agent-2fck)
-- [Cómo diseñamos sitios WordPress autogestionables sin sacrificar rendimiento ni SEO](https://dev.to/wormuy/como-disenamos-sitios-wordpress-autogestionables-sin-sacrificar-rendimiento-ni-seo-24ma)
-- [Stop Using Random Strings in JMeter: Generate Algorithmically Correct Mock Data with Mock Jutsu](https://dev.to/altansezerayan/stop-using-random-strings-in-jmeter-generate-algorithmically-correct-mock-data-with-mock-jutsu-5039)
-- [The Unit Economics of an AI Agent Feature, Measured in TypeScript](https://dev.to/gabrielanhaia/the-unit-economics-of-an-ai-agent-feature-measured-in-typescript-9l8)
+- [Post new funding rounds to Slack every morning with n8n](https://dev.to/akashrajpurohit/post-new-funding-rounds-to-slack-every-morning-with-n8n-3bej)
+- [Where to get startup funding data, and what each option actually costs you](https://dev.to/akashrajpurohit/where-to-get-startup-funding-data-and-what-each-option-actually-costs-you-54ge)
+- [How to Add an Authentic VHS Effect to Video in the Browser](https://dev.to/veronicaaalin/how-to-add-an-authentic-vhs-effect-to-video-in-the-browser-2bm1)
+- [Your funding trigger is probably too broad](https://dev.to/akashrajpurohit/your-funding-trigger-is-probably-too-broad-l9)
+- [ytscrape: One Python Interface for YouTube Data — No Browser, No API Key](https://dev.to/vsmutok/how-to-scrape-youtube-data-in-python-without-an-api-key-4alo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
