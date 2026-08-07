@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a free online PDF toolbox that runs entirely in the browser](https://dev.to/xinxinxin2022/i-built-a-free-online-pdf-toolbox-that-runs-entirely-in-the-browser-5hlm)
-- [How to Find Hidden Programs Running on Windows &lpar;Before They Become a Security Problem&rpar;](https://dev.to/darkssel/how-to-find-hidden-programs-running-on-windows-before-they-become-a-security-problem-5ebd)
-- [I finally got an email address. Every door was still locked.](https://dev.to/marcosgcuenta1/i-finally-got-an-email-address-every-door-was-still-locked-2iim)
-- [linkedSignal&lpar;&rpar; Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7)
-- [Nobody fetched my llms.txt](https://dev.to/marciojpflorindo/nobody-fetched-my-llmstxt-2peb)
+- [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box &lpar;And Why You Should Care&rpar;](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4)
+- [41,088 divergences, and four tests that were lying to me](https://dev.to/aniket_3001/41088-divergences-and-four-tests-that-were-lying-to-me-169h)
+- [Idempotency: The Bug You Don&#39;t Notice Until Production](https://dev.to/shashankpandey04/idempotency-the-bug-you-dont-notice-until-production-17aj)
+- [Awareness – local-first AI agent memory, 96% R@5 on LongMemEval, reproducible](https://dev.to/everest_an/awareness-local-first-ai-agent-memory-96-r5-on-longmemeval-reproducible-47ki)
+- [Fix Codex default_permissions Without Disabling the Sandbox](https://dev.to/yan_gao_3ad90a90b26925538/fix-codex-defaultpermissions-without-disabling-the-sandbox-1bcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
