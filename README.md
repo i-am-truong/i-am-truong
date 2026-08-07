@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Review Tax: Escaping AI Code Review Traps with AWS Kiro Crew Orchestration](https://dev.to/tamizuddin/the-review-tax-escaping-ai-code-review-traps-with-aws-kiro-crew-orchestration-40bc)
-- [Functional programming with TypeScript: what fp-ts teaches you even if you never ship it](https://dev.to/jtorchia/functional-programming-with-typescript-what-fp-ts-teaches-you-even-if-you-never-ship-it-4a5)
-- [Functional programming con TypeScript: lo que fp-ts enseña aunque no lo uses en producción](https://dev.to/jtorchia/functional-programming-con-typescript-lo-que-fp-ts-ensena-aunque-no-lo-uses-en-produccion-g7e)
-- [Ship a Production RAG Chatbot in a Weekend with Claude, pgvector, and FastAPI](https://dev.to/libme/ship-a-production-rag-chatbot-in-a-weekend-with-claude-pgvector-and-fastapi-3aeo)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-n4d)
+- [Testing AI Agents in TypeScript Without Calling the Model](https://dev.to/gabrielanhaia/testing-ai-agents-in-typescript-without-calling-the-model-1ip3)
+- [Bridge the gap between MasterGo and your IDE: Why design context belongs in your MCP agent](https://dev.to/renato_marinho/bridge-the-gap-between-mastergo-and-your-ide-why-design-context-belongs-in-your-mcp-agent-2fck)
+- [Cómo diseñamos sitios WordPress autogestionables sin sacrificar rendimiento ni SEO](https://dev.to/wormuy/como-disenamos-sitios-wordpress-autogestionables-sin-sacrificar-rendimiento-ni-seo-24ma)
+- [Stop Using Random Strings in JMeter: Generate Algorithmically Correct Mock Data with Mock Jutsu](https://dev.to/altansezerayan/stop-using-random-strings-in-jmeter-generate-algorithmically-correct-mock-data-with-mock-jutsu-5039)
+- [The Unit Economics of an AI Agent Feature, Measured in TypeScript](https://dev.to/gabrielanhaia/the-unit-economics-of-an-ai-agent-feature-measured-in-typescript-9l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
