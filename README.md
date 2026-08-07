@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Post new funding rounds to Slack every morning with n8n](https://dev.to/akashrajpurohit/post-new-funding-rounds-to-slack-every-morning-with-n8n-3bej)
-- [Where to get startup funding data, and what each option actually costs you](https://dev.to/akashrajpurohit/where-to-get-startup-funding-data-and-what-each-option-actually-costs-you-54ge)
-- [How to Add an Authentic VHS Effect to Video in the Browser](https://dev.to/veronicaaalin/how-to-add-an-authentic-vhs-effect-to-video-in-the-browser-2bm1)
-- [Your funding trigger is probably too broad](https://dev.to/akashrajpurohit/your-funding-trigger-is-probably-too-broad-l9)
-- [ytscrape: One Python Interface for YouTube Data — No Browser, No API Key](https://dev.to/vsmutok/how-to-scrape-youtube-data-in-python-without-an-api-key-4alo)
+- [Why We Built MicroLeague Sports Vol. 3](https://dev.to/esolar07/why-we-built-microleague-sports-vol-3-3l5p)
+- [I Built a Self-Hosted AI Support Widget with Spring Boot &lpar;No Monthly SaaS Fees&rpar;](https://dev.to/sweety717/i-built-a-self-hosted-ai-support-widget-with-spring-boot-no-monthly-saas-fees-53m2)
+- [Tracing a 3 Memory Blow-Up in Grafana&#39;s Time Comparison](https://dev.to/sachin-680/tracing-a-3x-memory-blow-up-in-grafanas-time-comparison-2jpn)
+- [From Android Engineer to AI/ML – My Journey and First Realization](https://dev.to/niranjannlc/from-android-engineer-to-aiml-my-journey-and-first-realization-2de)
+- [HMAC Secrets Explained: Authentication You Can Actually Implement](https://dev.to/gitguardian/hmac-secrets-explained-authentication-you-can-actually-implement-30dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
