@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p)
-- [Understanding the CSS Box Model, Cascade &amp; Specificity](https://dev.to/deepika_pusala/understanding-the-css-box-model-cascade-specificity-1l92)
-- [The Matrix of Machine Learning for Stock Prediction: Separating Hype from Reality](https://dev.to/timevolt/the-matrix-of-machine-learning-for-stock-prediction-separating-hype-from-reality-2g93)
-- [My most profitable actor was silently failing most of its runs. The bug was one unprotected line.](https://dev.to/0xgollum/my-most-profitable-actor-was-silently-failing-most-of-its-runs-the-bug-was-one-unprotected-line-3n2f)
-- [I Built Persistent Memory for Claude Code Because My AI Kept Forgetting My Codebase](https://dev.to/abhinav_d6cf32291c8d21f69/i-built-persistent-memory-for-claude-code-because-my-ai-kept-forgetting-my-codebase-49pl)
+- [How to Build AI Evals for Tool-Calling Agents](https://dev.to/dhanushreddy29/how-to-build-ai-evals-for-tool-calling-agents-3h9d)
+- [How to Build a Stock Market Trading Bot in Python: Channeling Your Inner Neo](https://dev.to/timevolt/how-to-build-a-stock-market-trading-bot-in-python-channeling-your-inner-neo-5e0i)
+- [I Built a Crypto-Native Craigslist with Manual Escrow — Here&#39;s Why and How](https://dev.to/dimabsvg/i-built-a-crypto-native-craigslist-with-manual-escrow-heres-why-and-how-4j8b)
+- [Thinking About Becoming an AWS Community Builder? Here’s What You Should Know](https://dev.to/mtzanida/thinking-about-becoming-an-aws-community-builder-heres-what-you-should-know-15ci)
+- [Free, Zero-Dependency YouTube Website Embed &lpar;Self-Hostable PHP/JS&rpar;](https://dev.to/scott_peterson_bf7b8ea3f7/free-zero-dependency-youtube-website-embed-self-hostable-phpjs-338h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
