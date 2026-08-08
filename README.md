@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Does a New Windows Process Appear Every Time I Start My PC?](https://dev.to/darkssel/why-does-a-new-windows-process-appear-every-time-i-start-my-pc-19ml)
-- [Integrating AgentRouter with Tauric Research TradingAgents](https://dev.to/arpandhara/integrating-agentrouter-with-tauric-research-tradingagents-3m6h)
-- [After Shipping 8 Chrome Extensions, These Are the 5 Rules I Always Give AI Agents](https://dev.to/k-wada/after-shipping-8-chrome-extensions-these-are-the-5-rules-i-always-give-ai-agents-13al)
-- [Compressing PDFs in the browser, and the bug that shipped empty files](https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9)
-- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-2ab8)
+- [Mautic email deliverability: replace SMTP with the Symfony Mailer DSN transport](https://dev.to/bucabay/mautic-email-deliverability-replace-smtp-with-the-symfony-mailer-dsn-transport-30lj)
+- [The App Needed a Real Desktop, Not Just a Real Windows Machine](https://dev.to/techwithhari/the-app-needed-a-real-desktop-not-just-a-real-windows-machine-284b)
+- [Teaching Your AI Web Design Some Actual Taste](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13)
+- [Ninety Lines of Terraform, One Whole AWS Network](https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489)
+- [Extending Slugs Across Templates and Entities for Deterministic API Workflows](https://dev.to/homeless-coder/extending-slugs-across-templates-and-entities-for-deterministic-api-workflows-5fm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
