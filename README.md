@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi)
+- [Microsoft’s Skill-Recorder Raises Questions on Automation Reliability](https://dev.to/dd8888/microsofts-skill-recorder-raises-questions-on-automation-reliability-6ao)
+- [How to monitor third-party provider outages with two signals](https://dev.to/kerolos_atallah/how-to-monitor-third-party-provider-outages-with-two-signals-1600)
+- [Media Elements - HTML](https://dev.to/aswinth/media-elements-html-28go)
 - [Codeberg banning AI code is not a cult. It&#39;s a boundary.](https://dev.to/adioof/codeberg-banning-ai-code-is-not-a-cult-its-a-boundary-2dk7)
-- [131 Tests, 4 Layers, $00.03/Run: Why I Built My AI Agent Eval Harness First](https://dev.to/elenarevicheva/131-tests-4-layers-0003run-why-i-built-my-ai-agent-eval-harness-first-15o7)
-- [One Key for Claude, GPT, and Gemini: the Gateway Pattern](https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319)
-- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
-- [How to Build AI Evals for Tool-Calling Agents](https://dev.to/dhanushreddy29/how-to-build-ai-evals-for-tool-calling-agents-3h9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
