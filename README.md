@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Into the void](https://dev.to/pauljlucas/into-the-void-4h69)
-- [My tests passed 18 out of 18. The service deletes your database on startup.](https://dev.to/tyson_cung/my-tests-passed-18-out-of-18-the-service-deletes-your-database-on-startup-4nhc)
-- [Week 9: Verifying the Token](https://dev.to/magic-peach/week-9-verifying-the-token-4mmg)
-- [Inside the ModelPlane routing engine](https://dev.to/modelplane/inside-the-modelplane-routing-engine-41a1)
-- [what actually makes a system agentic?](https://dev.to/hemantkumargiri/what-actually-makes-a-system-agentic-2fkj)
+- [2.Self-Hosted AI: n8n + Ollama, local AI workflows on your Mac](https://dev.to/lorena_dvila_5ab5ef35ec6/2self-hosted-ai-n8n-ollama-local-ai-workflows-on-your-mac-239k)
+- [Metabase Unauthenticated SQL Injection: From Admin Privilege Heist to Connected DB Data Theft](https://dev.to/anoymask/metabase-unauthenticated-sql-injection-from-admin-privilege-heist-to-connected-db-data-theft-2akb)
+- [VMware ESX Shell Obfuscation: 21 Techniques Work with BusyBox and Bypass Plaintext Keyword Detection](https://dev.to/anoymask/vmware-esx-shell-obfuscation-21-techniques-work-with-busybox-and-bypass-plaintext-keyword-detection-419)
+- [LLD Design Patterns: How We&#39;ll Learn Design Patterns Throughout This Series](https://dev.to/saras_growth_space/lld-design-patterns-how-well-learn-design-patterns-throughout-this-series-3i7c)
+- [Your AI agent&#39;s UI is mediocre—and here&#39;s how to fix it](https://dev.to/renato_marinho/your-ai-agents-ui-is-mediocre-and-heres-how-to-fix-it-4a3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
