@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mautic email deliverability: replace SMTP with the Symfony Mailer DSN transport](https://dev.to/bucabay/mautic-email-deliverability-replace-smtp-with-the-symfony-mailer-dsn-transport-30lj)
-- [The App Needed a Real Desktop, Not Just a Real Windows Machine](https://dev.to/techwithhari/the-app-needed-a-real-desktop-not-just-a-real-windows-machine-284b)
-- [Teaching Your AI Web Design Some Actual Taste](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13)
-- [Ninety Lines of Terraform, One Whole AWS Network](https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489)
-- [Extending Slugs Across Templates and Entities for Deterministic API Workflows](https://dev.to/homeless-coder/extending-slugs-across-templates-and-entities-for-deterministic-api-workflows-5fm3)
+- [Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p)
+- [Understanding the CSS Box Model, Cascade &amp; Specificity](https://dev.to/deepika_pusala/understanding-the-css-box-model-cascade-specificity-1l92)
+- [The Matrix of Machine Learning for Stock Prediction: Separating Hype from Reality](https://dev.to/timevolt/the-matrix-of-machine-learning-for-stock-prediction-separating-hype-from-reality-2g93)
+- [My most profitable actor was silently failing most of its runs. The bug was one unprotected line.](https://dev.to/0xgollum/my-most-profitable-actor-was-silently-failing-most-of-its-runs-the-bug-was-one-unprotected-line-3n2f)
+- [I Built Persistent Memory for Claude Code Because My AI Kept Forgetting My Codebase](https://dev.to/abhinav_d6cf32291c8d21f69/i-built-persistent-memory-for-claude-code-because-my-ai-kept-forgetting-my-codebase-49pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
