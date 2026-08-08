@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I record system audio on macOS without a virtual driver](https://dev.to/alexander_mishin_1c72158e/how-i-record-system-audio-on-macos-without-a-virtual-driver-54e1)
-- [AI Governance Framework Search Interest Is a Signal Enterprises Should Monitor](https://dev.to/alifar/ai-governance-framework-search-interest-is-a-signal-enterprises-should-monitor-5c14)
-- [Understanding Tokens: How AI Models Process Text and Why It Matters for Cost, Context, and Agentic AI](https://dev.to/apeder/understanding-tokens-how-ai-models-process-text-and-why-it-matters-for-cost-context-and-agentic-1j9n)
-- [Frontend system design interviews are weird. Here’s how I now approach functional requirements.](https://dev.to/ale3oula/frontend-system-design-interviews-are-weird-heres-how-i-now-approach-functional-requirements-3ea6)
-- [5 Free Domain Investigate APIs That Cut Due Diligence Time](https://dev.to/onizuka/5-free-domain-investigate-apis-that-cut-due-diligence-time-134g)
+- [Why Does a New Windows Process Appear Every Time I Start My PC?](https://dev.to/darkssel/why-does-a-new-windows-process-appear-every-time-i-start-my-pc-19ml)
+- [Integrating AgentRouter with Tauric Research TradingAgents](https://dev.to/arpandhara/integrating-agentrouter-with-tauric-research-tradingagents-3m6h)
+- [After Shipping 8 Chrome Extensions, These Are the 5 Rules I Always Give AI Agents](https://dev.to/k-wada/after-shipping-8-chrome-extensions-these-are-the-5-rules-i-always-give-ai-agents-13al)
+- [Compressing PDFs in the browser, and the bug that shipped empty files](https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9)
+- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-2ab8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
