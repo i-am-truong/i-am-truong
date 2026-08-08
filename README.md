@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Build Was Stuck: A 700-Second API Fetch Timeout in a 600-Second Environment. Here&#39;s How I Fixed It with a Self-Healing Cache.](https://dev.to/masaoshimadaopen/my-build-was-stuck-a-700-second-api-fetch-timeout-in-a-600-second-environment-heres-how-i-fixed-4351)
+- [Optimizando el Testing de APIs con Karate](https://dev.to/e240683/optimizando-el-testing-de-apis-con-karate-44gk)
 - [I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.](https://dev.to/debashish_ghosal/i-built-scenario-packs-for-agent-regression-testing-the-integration-not-the-judge-broke-me-1k9k)
+- [Architecting a Battery-Efficient Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-battery-efficient-geofencing-engine-for-android-g89)
 - [Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-Decision Run](https://dev.to/qingze_hu_c4c251c1b353ede/fable-5-plays-pokemon-sapphire-vision-only-notes-on-a-2000-decision-run-296k)
-- [How I Built Browser-Based Tools Without Sending User Data to a Server](https://dev.to/mdp88/how-i-built-browser-based-tools-without-sending-user-data-to-a-server-1852)
-- [Build Direct-to-Disk Web Editors with the New useFileSystem Hook](https://dev.to/saurav_tb_pandey/build-direct-to-disk-web-editors-with-the-new-usefilesystem-hook-3k6e)
-- [How to Find and Fix Slow Components](https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
