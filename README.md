@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Will You Configure Multiple Backend Instances in Apigee X So That If One Goes Down, Traffic Is Routed to Another?](https://dev.to/realnamehidden1_61/how-will-you-configure-multiple-backend-instances-in-apigee-x-so-that-if-one-goes-down-traffic-is-31nk)
-- [I outgrew nohup, so I built a daemonless job manager](https://dev.to/ryancswallace/i-outgrew-nohup-so-i-built-a-daemonless-job-manager-40hm)
-- [PixelBatch — your entire image toolbox in one app, 14 tools for free, so you don&#39;t have to edit images one by one anymore](https://dev.to/prathvix/pixelbatch-your-entire-image-toolbox-in-one-app-14-tools-for-free-so-you-dont-have-to-edit-3993)
-- [I got tired of reverse-engineering design systems by hand, so I built a Chrome extension](https://dev.to/pop3_zxcv/i-got-tired-of-reverse-engineering-design-systems-by-hand-so-i-built-a-chrome-extension-48hk)
-- [Learn Rust with me 🦀](https://dev.to/aditya_verma_22/learn-rust-with-me-265o)
+- [How Git Worktrees Improve AI Coding Workflows](https://dev.to/evbermudez/how-git-worktrees-improve-ai-coding-workflows-5afd)
+- [AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP](https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i)
+- [I Gave Five AI Systems the Same Architecture Test 10 Times. The Test Became More Interesting Than the Models](https://dev.to/neonalt9/i-gave-five-ai-systems-the-same-architecture-test-10-times-the-test-became-more-interesting-than-572)
+- [Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)
+- [I Turned an Android Phone Into a No-Root Cybersecurity Learning Workspace](https://dev.to/dedsec1121fk/i-turned-an-android-phone-into-a-no-root-cybersecurity-learning-workspace-303c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
