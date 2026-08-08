@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Health Data Without Fake Certainty](https://dev.to/codenameone/health-data-without-fake-certainty-fok)
-- [Dastarkhwan: A Taste of Home](https://dev.to/tayyaba_amin56/dastarkhwan-a-taste-of-home-1g2n)
-- [Microsoft 365 Agents SDK vs. Bot Framework: Rebuilding the Same Bot as an Agent](https://dev.to/avinash247/microsoft-365-agents-sdk-vs-bot-framework-rebuilding-the-same-bot-as-an-agent-2f8)
-- [Eight webhook providers, eight different ways to sign a request](https://dev.to/vinkurov_live/eight-webhook-providers-eight-different-ways-to-sign-a-request-3a26)
-- [A local RAG retriever in pure Python — no vector DB, no API key &lpar;with Whoosh&rpar;](https://dev.to/priyasundaram/a-local-rag-retriever-in-pure-python-no-vector-db-no-api-key-with-whoosh-2k92)
+- [Un revisore ha trovato tre criteri WCAG sbagliati nel mio plugin di accessibilità. Sono andato a guardare, e ne ho trovati otto.](https://dev.to/grounded/un-revisore-ha-trovato-tre-criteri-wcag-sbagliati-nel-mio-plugin-di-accessibilita-sono-andato-a-43mk)
+- [Metabase Zero-Day Hits CVSS 10.0: Unauthenticated SQL Injection Gives Full Admin](https://dev.to/etairos/metabase-zero-day-hits-cvss-100-unauthenticated-sql-injection-gives-full-admin-1fi9)
+- [A New Jouney to dev.to](https://dev.to/eilocirled/a-new-jouney-to-devto-3373)
+- [Sentinel: a Manifest V3 extension for real-time phishing detection](https://dev.to/heisenberg_blue/sentinel-a-manifest-v3-extension-for-real-time-phishing-detection-f00)
+- [Building a Free Communication Platform for People Who Need It Most](https://dev.to/scott_steinmetz/building-a-free-communication-platform-for-people-who-need-it-most-28g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
