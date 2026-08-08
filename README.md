@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most Verification Is Just Bigger Classification](https://dev.to/harryfloyd/most-verification-is-just-bigger-classification-42g8)
-- [The Average Is Nobody&#39;s Result](https://dev.to/harryfloyd/the-average-is-nobodys-result-5hln)
-- [Your Robot Coworker Is Still a Pilot](https://dev.to/harryfloyd/your-robot-coworker-is-still-a-pilot-12n1)
-- [Where Your Metrics Fold](https://dev.to/harryfloyd/where-your-metrics-fold-20o)
-- [Angular SSR renders your page for every visitor. Here is what that costs.](https://dev.to/nigrosimone/angular-ssr-renders-your-page-for-every-visitor-here-is-what-that-costs-jfb)
+- [Book meetings in Laravel with Wireschedule](https://dev.to/edulazaro/book-meetings-in-laravel-with-wireschedule-3lmh)
+- [I Built an Agentic AI Stock Research Terminal with LangChain](https://dev.to/neeraj_ciju/i-built-an-agentic-ai-stock-research-terminal-with-langchain-36p2)
+- [openpyxl writes formulas. It never evaluates them — so your generated spreadsheet can be silently wrong.](https://dev.to/atlasventuresgroup/openpyxl-writes-formulas-it-never-evaluates-them-so-your-generated-spreadsheet-can-be-silently-106e)
+- [Meta Muse Spark 1.2 Honest Review: Loses the Benchmarks, Wins as an Agent](https://dev.to/aditi_gupta_8d81622a592aa/meta-muse-spark-12-honest-review-loses-the-benchmarks-wins-as-an-agent-1m8c)
+- [Open-Weight vs Closed-Weight AI Models: What It Means for You](https://dev.to/akbar_952c24f291bf201eb0c/open-weight-vs-closed-weight-ai-models-what-it-means-for-you-5340)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
