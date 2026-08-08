@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Removing AI Tells from Your Writing: A Skill That Turns One Flag into a Permanent Rule](https://dev.to/johnonlee/removing-ai-tells-from-your-writing-a-skill-that-turns-one-flag-into-a-permanent-rule-3fd)
-- [EffCSS hydration: server work, client trust, zero waste](https://dev.to/effnd/effcss-hydration-server-work-client-trust-zero-waste-318m)
-- [I Found the Perfect Software Architecture Course for Senior Developers, and It’s Awesome](https://dev.to/somadevtoo/i-found-the-perfect-software-architecture-course-for-senior-developers-and-its-awesome-2bij)
-- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-28eo)
-- [AI Model Memory: Why 16 GB of RAM Isn&#39;t 16 GB](https://dev.to/dilip_v_p/ai-model-memory-why-16-gb-of-ram-isnt-16-gb-7d2)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-28fi)
+- [Building CSRF Double-Submit Cookie Protection in PHP Video Admin Panels](https://dev.to/ahmet_gedik778845/building-csrf-double-submit-cookie-protection-in-php-video-admin-panels-5agd)
+- [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
+- [I made a 100% offline dev toolkit in one HTML file - no dependencies, no ads](https://dev.to/unpro_gamer_141/i-made-a-100-offline-dev-toolkit-in-one-html-file-no-dependencies-no-ads-2h3h)
+- [Why Vite Asked Me to Choose Between Oxlint and ESLint](https://dev.to/janarthanan_soundararajan/why-vite-asked-me-to-choose-between-oxlint-and-eslint-3ihl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
