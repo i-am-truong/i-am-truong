@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The One Question That Stops an AI Voice Scam Cold](https://dev.to/shortlivedage/the-one-question-that-stops-an-ai-voice-scam-cold-358d)
-- [My AI agents shipped 128 releases of a product no one ever used](https://dev.to/guschiriboga/my-ai-agents-shipped-128-releases-of-a-product-no-one-ever-used-1045)
-- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c)
-- [How Can AI Help Lazy Programmers?](https://dev.to/zijianhuang/how-can-ai-help-lazy-programmers-3c5o)
-- [Foxy Mail Wire: an open format for compressed &amp; encrypted email](https://dev.to/atec-systems/foxy-mail-wire-an-open-format-for-compressed-encrypted-email-402m)
+- [Scraping Ethically: A Practical Guide to Respectful Web Crawling](https://dev.to/aimigo_57e64d6aeaf6a67a02/scraping-ethically-a-practical-guide-to-respectful-web-crawling-4820)
+- [You built your modal with a `&lt;div&gt;` and a focus trap library. The native `&lt;dialog&gt;` does all of that.](https://dev.to/parsajiravand/you-built-your-modal-with-a-and-a-focus-trap-library-the-native-does-all-of-15lg)
+- [Stop importing `uuid`. `crypto.randomUUID&lpar;&rpar;` has been native since 2021.](https://dev.to/parsajiravand/stop-importing-uuid-cryptorandomuuid-has-been-native-since-2021-ehm)
+- [rulsynor-core v1.0: An AI Agent You Can Audit](https://dev.to/haorantang/rulsynor-core-v10-an-ai-agent-you-can-audit-oie)
+- [Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮](https://dev.to/gamya_m/swift-protocols-opaque-return-types-and-the-mystery-of-some-1dkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
