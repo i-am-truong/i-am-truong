@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I stopped guessing at Spark and dbt config values](https://dev.to/dorfarber/why-i-stopped-guessing-at-spark-and-dbt-config-values-1i2n)
-- [Debugging SAML SSO: How to Decode a SAMLResponse &lpar;and Why It&#39;s Sometimes Not XML&rpar;](https://dev.to/pjanderson/debugging-saml-sso-how-to-decode-a-samlresponse-and-why-its-sometimes-not-xml-pn3)
-- [Decoding a PowerShell -EncodedCommand During Incident Response &lpar;the UTF-16 gotcha&rpar;](https://dev.to/pjanderson/decoding-a-powershell-encodedcommand-during-incident-response-the-utf-16-gotcha-5a6i)
-- [When Lighthouse CI maintenance in CI/CD pipelines becomes a second job](https://dev.to/apogeewatcher/when-lighthouse-ci-maintenance-in-cicd-pipelines-becomes-a-second-job-347c)
-- [AI Can Write Tests Faster Than Your Team Can Understand Them](https://dev.to/mellowthunder735/ai-can-write-tests-faster-than-your-team-can-understand-them-bji)
+- [I asked an agent to make a product video. It wrote HTML and rendered an MP4 - Dota Companion](https://dev.to/dhseadev/i-asked-an-agent-to-make-a-product-video-it-wrote-html-and-rendered-an-mp4-dota-companion-1nia)
+- [Stop Treating Web Accessibility &lpar;WCAG&rpar; Like a Software Bug](https://dev.to/mohd_irfan_/-stop-treating-web-accessibility-wcag-22-like-a-software-bug-4ki5)
+- [Building ScamLens AI: My Exploration of Artificial Intelligence in Phishing and Social Engineering Detection](https://dev.to/zain_abuzaid_9f0dd065b56d/building-scamlens-ai-using-artificial-intelligence-to-detect-social-engineering-and-phishing-5874)
+- [I built a full backend-learning platform solo — here&#39;s what I shipped &lpar;and what broke along the way&rpar;](https://dev.to/akashguptasky/i-built-a-full-backend-learning-platform-solo-heres-what-i-shipped-and-what-broke-along-the-way-990)
+- [Caching: How Backend Systems Get Faster with Redis](https://dev.to/juma_evans_34e389ef539266/caching-how-backend-systems-get-faster-with-redis-387c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
