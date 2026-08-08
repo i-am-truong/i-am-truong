@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Cron Jobs to Event-Driven: Migrating Scheduled Tasks to Serverless Functions](https://dev.to/libme/from-cron-jobs-to-event-driven-migrating-scheduled-tasks-to-serverless-functions-4i0a)
-- [Building Autolang: A Scripting Runtime for Lightweight AI-Generated Code](https://dev.to/hoanluong123/building-autolang-a-scripting-runtime-for-lightweight-ai-generated-code-h8j)
-- [Atlas Theorem: How Far Can You Zoom Out?](https://dev.to/iroha1203/atlas-theorem-how-far-can-you-zoom-out-2oih)
-- [The Fastest Way I’ve Found to Build a Solid UI Without a Designer](https://dev.to/imforja/the-fastest-way-ive-found-to-build-a-solid-ui-without-a-designer-o3d)
-- [Building an iPhone Messenger Without Accounts or Central Servers](https://dev.to/makomest/building-an-iphone-messenger-without-accounts-or-central-servers-4j7a)
+- [How I record system audio on macOS without a virtual driver](https://dev.to/alexander_mishin_1c72158e/how-i-record-system-audio-on-macos-without-a-virtual-driver-54e1)
+- [AI Governance Framework Search Interest Is a Signal Enterprises Should Monitor](https://dev.to/alifar/ai-governance-framework-search-interest-is-a-signal-enterprises-should-monitor-5c14)
+- [Understanding Tokens: How AI Models Process Text and Why It Matters for Cost, Context, and Agentic AI](https://dev.to/apeder/understanding-tokens-how-ai-models-process-text-and-why-it-matters-for-cost-context-and-agentic-1j9n)
+- [Frontend system design interviews are weird. Here’s how I now approach functional requirements.](https://dev.to/ale3oula/frontend-system-design-interviews-are-weird-heres-how-i-now-approach-functional-requirements-3ea6)
+- [5 Free Domain Investigate APIs That Cut Due Diligence Time](https://dev.to/onizuka/5-free-domain-investigate-apis-that-cut-due-diligence-time-134g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
