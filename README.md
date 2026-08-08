@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Ethically: A Practical Guide to Respectful Web Crawling](https://dev.to/aimigo_57e64d6aeaf6a67a02/scraping-ethically-a-practical-guide-to-respectful-web-crawling-4820)
-- [You built your modal with a `&lt;div&gt;` and a focus trap library. The native `&lt;dialog&gt;` does all of that.](https://dev.to/parsajiravand/you-built-your-modal-with-a-and-a-focus-trap-library-the-native-does-all-of-15lg)
-- [Stop importing `uuid`. `crypto.randomUUID&lpar;&rpar;` has been native since 2021.](https://dev.to/parsajiravand/stop-importing-uuid-cryptorandomuuid-has-been-native-since-2021-ehm)
-- [rulsynor-core v1.0: An AI Agent You Can Audit](https://dev.to/haorantang/rulsynor-core-v10-an-ai-agent-you-can-audit-oie)
-- [Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮](https://dev.to/gamya_m/swift-protocols-opaque-return-types-and-the-mystery-of-some-1dkb)
+- [One Prompt Template, Three Engines That Disagree](https://dev.to/faisal77666/one-prompt-templatethree-engines-that-disagree-ifi)
+- [How GSTIN Checksum Validation Works &lpar;and Why It Isn&#39;t Enough&rpar;](https://dev.to/tarun_vaghasia_a387e1ac9b/how-gstin-checksum-validation-works-and-why-it-isnt-enough-3l8e)
+- [llms.txt: what it is, why it matters and how to implement it](https://dev.to/eraefi/llmstxt-what-it-is-why-it-matters-and-how-to-implement-it-2c67)
+- [MUI to Shadcn: 7 Pitfalls We Hit &lpar;And the Fix for Each&rpar;](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
+- [🤖 AI Context Engineering &lpar;Part 4&rpar;: AI Agents - From Tool Calling to Multi-Step Workflows](https://dev.to/fazal_mansuri_/ai-context-engineering-part-4-ai-agents-from-tool-calling-to-multi-step-workflows-28mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
