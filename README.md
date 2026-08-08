@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Git Worktrees Improve AI Coding Workflows](https://dev.to/evbermudez/how-git-worktrees-improve-ai-coding-workflows-5afd)
-- [AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP](https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i)
-- [I Gave Five AI Systems the Same Architecture Test 10 Times. The Test Became More Interesting Than the Models](https://dev.to/neonalt9/i-gave-five-ai-systems-the-same-architecture-test-10-times-the-test-became-more-interesting-than-572)
-- [Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)
-- [I Turned an Android Phone Into a No-Root Cybersecurity Learning Workspace](https://dev.to/dedsec1121fk/i-turned-an-android-phone-into-a-no-root-cybersecurity-learning-workspace-303c)
+- [Health Data Without Fake Certainty](https://dev.to/codenameone/health-data-without-fake-certainty-fok)
+- [Dastarkhwan: A Taste of Home](https://dev.to/tayyaba_amin56/dastarkhwan-a-taste-of-home-1g2n)
+- [Microsoft 365 Agents SDK vs. Bot Framework: Rebuilding the Same Bot as an Agent](https://dev.to/avinash247/microsoft-365-agents-sdk-vs-bot-framework-rebuilding-the-same-bot-as-an-agent-2f8)
+- [Eight webhook providers, eight different ways to sign a request](https://dev.to/vinkurov_live/eight-webhook-providers-eight-different-ways-to-sign-a-request-3a26)
+- [A local RAG retriever in pure Python — no vector DB, no API key &lpar;with Whoosh&rpar;](https://dev.to/priyasundaram/a-local-rag-retriever-in-pure-python-no-vector-db-no-api-key-with-whoosh-2k92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
