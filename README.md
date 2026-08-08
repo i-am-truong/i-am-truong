@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Un revisore ha trovato tre criteri WCAG sbagliati nel mio plugin di accessibilità. Sono andato a guardare, e ne ho trovati otto.](https://dev.to/grounded/un-revisore-ha-trovato-tre-criteri-wcag-sbagliati-nel-mio-plugin-di-accessibilita-sono-andato-a-43mk)
-- [Metabase Zero-Day Hits CVSS 10.0: Unauthenticated SQL Injection Gives Full Admin](https://dev.to/etairos/metabase-zero-day-hits-cvss-100-unauthenticated-sql-injection-gives-full-admin-1fi9)
-- [A New Jouney to dev.to](https://dev.to/eilocirled/a-new-jouney-to-devto-3373)
-- [Sentinel: a Manifest V3 extension for real-time phishing detection](https://dev.to/heisenberg_blue/sentinel-a-manifest-v3-extension-for-real-time-phishing-detection-f00)
-- [Building a Free Communication Platform for People Who Need It Most](https://dev.to/scott_steinmetz/building-a-free-communication-platform-for-people-who-need-it-most-28g8)
+- [Code Sfumato](https://dev.to/matthew_faithfull/code-sfumato-2bd8)
+- [WeatherNext: DeepMind gana 24 horas de anticipación en huracanes](https://dev.to/lu1tr0n/weathernext-deepmind-gana-24-horas-de-anticipacion-en-huracanes-30bp)
+- [Evaluating Amazon Bedrock Knowledge Base RAG using LLM-as-a-Judge](https://dev.to/lingesh18/evaluating-amazon-bedrock-knowledge-base-rag-using-llm-as-a-judge-3koi)
+- [Building an Automated AWS Security Advisor: RAG with AWS Bedrock and OpenSearch Serverless](https://dev.to/lingesh18/building-an-automated-aws-security-advisor-rag-with-aws-bedrock-and-opensearch-serverless-4emg)
+- [What Our AI Agent Still Can&#39;t Do](https://dev.to/trynocoder/what-our-ai-agent-still-cant-do-fm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
