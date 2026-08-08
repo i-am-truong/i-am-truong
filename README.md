@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Answered in 5.8 Seconds and Said Nothing Useful. I Almost Blamed the Model.](https://dev.to/nomurasan/my-ai-answered-in-58-seconds-and-said-nothing-useful-i-almost-blamed-the-model-fh1)
-- [Domain-Driven Infrastructure: Organize Your Terraform by Reason to Change](https://dev.to/tomozayasu/domain-driven-infrastructure-organize-your-terraform-by-reason-to-change-202b)
-- [AI Models Keep Escaping Sandboxes. First OpenAI. Then Anthropic. Now Kimi.](https://dev.to/mohitgeryani/ai-models-keep-escaping-sandboxes-first-openai-then-anthropic-now-kimi-86d)
-- [Avoiding the 5 Mistakes Most Tutorials Make When Creating a File Encryption Tool](https://dev.to/aditeeniraula/avoiding-the-5-mistakes-most-tutorials-make-when-creating-a-file-encryption-tool-1nbe)
-- [Why Nodemailer Doesn&#39;t Work on Cloudflare Workers &lpar;And What To Do Instead&rpar;](https://dev.to/gurusandeep/why-nodemailer-doesnt-work-on-cloudflare-workers-and-what-to-do-instead-358h)
+- [Removing AI Tells from Your Writing: A Skill That Turns One Flag into a Permanent Rule](https://dev.to/johnonlee/removing-ai-tells-from-your-writing-a-skill-that-turns-one-flag-into-a-permanent-rule-3fd)
+- [EffCSS hydration: server work, client trust, zero waste](https://dev.to/effnd/effcss-hydration-server-work-client-trust-zero-waste-318m)
+- [I Found the Perfect Software Architecture Course for Senior Developers, and It’s Awesome](https://dev.to/somadevtoo/i-found-the-perfect-software-architecture-course-for-senior-developers-and-its-awesome-2bij)
+- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-28eo)
+- [AI Model Memory: Why 16 GB of RAM Isn&#39;t 16 GB](https://dev.to/dilip_v_p/ai-model-memory-why-16-gb-of-ram-isnt-16-gb-7d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
