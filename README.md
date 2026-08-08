@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.](https://dev.to/debashish_ghosal/i-built-scenario-packs-for-agent-regression-testing-the-integration-not-the-judge-broke-me-1k9k)
+- [Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-Decision Run](https://dev.to/qingze_hu_c4c251c1b353ede/fable-5-plays-pokemon-sapphire-vision-only-notes-on-a-2000-decision-run-296k)
 - [How I Built Browser-Based Tools Without Sending User Data to a Server](https://dev.to/mdp88/how-i-built-browser-based-tools-without-sending-user-data-to-a-server-1852)
-- [I asked an agent to make a product video. It wrote HTML and rendered an MP4 - Dota Companion](https://dev.to/dhseadev/i-asked-an-agent-to-make-a-product-video-it-wrote-html-and-rendered-an-mp4-dota-companion-1nia)
-- [Stop Treating Web Accessibility &lpar;WCAG&rpar; Like a Software Bug](https://dev.to/mohd_irfan_/-stop-treating-web-accessibility-wcag-22-like-a-software-bug-4ki5)
-- [Building ScamLens AI: My Exploration of Artificial Intelligence in Phishing and Social Engineering Detection](https://dev.to/zain_abuzaid_9f0dd065b56d/building-scamlens-ai-using-artificial-intelligence-to-detect-social-engineering-and-phishing-5874)
-- [I built a full backend-learning platform solo — here&#39;s what I shipped &lpar;and what broke along the way&rpar;](https://dev.to/akashguptasky/i-built-a-full-backend-learning-platform-solo-heres-what-i-shipped-and-what-broke-along-the-way-990)
+- [Build Direct-to-Disk Web Editors with the New useFileSystem Hook](https://dev.to/saurav_tb_pandey/build-direct-to-disk-web-editors-with-the-new-usefilesystem-hook-3k6e)
+- [How to Find and Fix Slow Components](https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
