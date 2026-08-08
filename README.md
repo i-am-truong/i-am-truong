@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2.Self-Hosted AI: n8n + Ollama, local AI workflows on your Mac](https://dev.to/lorena_dvila_5ab5ef35ec6/2self-hosted-ai-n8n-ollama-local-ai-workflows-on-your-mac-239k)
-- [Metabase Unauthenticated SQL Injection: From Admin Privilege Heist to Connected DB Data Theft](https://dev.to/anoymask/metabase-unauthenticated-sql-injection-from-admin-privilege-heist-to-connected-db-data-theft-2akb)
-- [VMware ESX Shell Obfuscation: 21 Techniques Work with BusyBox and Bypass Plaintext Keyword Detection](https://dev.to/anoymask/vmware-esx-shell-obfuscation-21-techniques-work-with-busybox-and-bypass-plaintext-keyword-detection-419)
-- [LLD Design Patterns: How We&#39;ll Learn Design Patterns Throughout This Series](https://dev.to/saras_growth_space/lld-design-patterns-how-well-learn-design-patterns-throughout-this-series-3i7c)
-- [Your AI agent&#39;s UI is mediocre—and here&#39;s how to fix it](https://dev.to/renato_marinho/your-ai-agents-ui-is-mediocre-and-heres-how-to-fix-it-4a3o)
+- [The RPC said Base was healthy. The first contract read still failed.](https://dev.to/samedaydesk/the-rpc-said-base-was-healthy-the-first-contract-read-still-failed-3fg6)
+- [Building Redoubt Analytics: A Counter-UAS Risk Intelligence Platform](https://dev.to/alfinohatta/building-redoubt-analytics-a-counter-uas-risk-intelligence-platform-4k9l)
+- [Why I Built a Local-First Password Manager Instead of Another Cloud Vault](https://dev.to/pas_add8a682e2caf036/why-i-built-a-local-first-password-manager-instead-of-another-cloud-vault-4gbj)
+- [The Freelancer&#39;s Mindset Shift That Doubled My Income](https://dev.to/soloproemail/the-freelancers-mindset-shift-that-doubled-my-income-3n6n)
+- [Styling the dialog element: open is not the same as modal](https://dev.to/leobaniak/styling-the-dialog-element-open-is-not-the-same-as-modal-5e3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
