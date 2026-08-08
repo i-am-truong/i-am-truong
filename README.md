@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Will You Configure Multiple Backend Instances in Apigee X So That If One Goes Down, Traffic Is Routed to Another?](https://dev.to/realnamehidden1_61/how-will-you-configure-multiple-backend-instances-in-apigee-x-so-that-if-one-goes-down-traffic-is-31nk)
+- [I outgrew nohup, so I built a daemonless job manager](https://dev.to/ryancswallace/i-outgrew-nohup-so-i-built-a-daemonless-job-manager-40hm)
 - [PixelBatch — your entire image toolbox in one app, 14 tools for free, so you don&#39;t have to edit images one by one anymore](https://dev.to/prathvix/pixelbatch-your-entire-image-toolbox-in-one-app-14-tools-for-free-so-you-dont-have-to-edit-3993)
-- [Vox Pupuli Container Statistics](https://dev.to/voxpupuli/vox-pupuli-container-statistics-ph3)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-28fi)
-- [Building CSRF Double-Submit Cookie Protection in PHP Video Admin Panels](https://dev.to/ahmet_gedik778845/building-csrf-double-submit-cookie-protection-in-php-video-admin-panels-5agd)
-- [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
+- [I got tired of reverse-engineering design systems by hand, so I built a Chrome extension](https://dev.to/pop3_zxcv/i-got-tired-of-reverse-engineering-design-systems-by-hand-so-i-built-a-chrome-extension-48hk)
+- [Learn Rust with me 🦀](https://dev.to/aditya_verma_22/learn-rust-with-me-265o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
