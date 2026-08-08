@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Feature Engineering: Still the Highest-Leverage Work](https://dev.to/multigrid/feature-engineering-still-the-highest-leverage-work-1kei)
-- [A FastAPI Endpoint That Streams to the Browser](https://dev.to/multigrid/a-fastapi-endpoint-that-streams-to-the-browser-21ap)
-- [NemynAI SEO Autopilot: A Technical Look at a Claude-Powered WordPress Content Plugin](https://dev.to/__d34ca/nemynai-seo-autopilot-a-technical-look-at-a-claude-powered-wordpress-content-plugin-3i4o)
-- [Refusals: When Safety Training Blocks Legitimate Work](https://dev.to/multigrid/refusals-when-safety-training-blocks-legitimate-work-52g7)
-- [Fabricated Citations and Fake References](https://dev.to/multigrid/fabricated-citations-and-fake-references-41kg)
+- [Multi-Turn Prompts for Gathering Information](https://dev.to/multigrid/multi-turn-prompts-for-gathering-information-1h0b)
+- [What Interpretability Research Is Trying to Do](https://dev.to/multigrid/what-interpretability-research-is-trying-to-do-4dji)
+- [Interpretability for Debugging, Not Just Research](https://dev.to/multigrid/interpretability-for-debugging-not-just-research-4li8)
+- [Building an Internal Model Gateway](https://dev.to/multigrid/building-an-internal-model-gateway-1ghg)
+- [Writing an Internal AI Policy People Follow](https://dev.to/multigrid/writing-an-internal-ai-policy-people-follow-199j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
