@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The One Question That Stops an AI Voice Scam Cold](https://dev.to/shortlivedage/the-one-question-that-stops-an-ai-voice-scam-cold-358d)
+- [My AI agents shipped 128 releases of a product no one ever used](https://dev.to/guschiriboga/my-ai-agents-shipped-128-releases-of-a-product-no-one-ever-used-1045)
+- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c)
 - [How Can AI Help Lazy Programmers?](https://dev.to/zijianhuang/how-can-ai-help-lazy-programmers-3c5o)
 - [Foxy Mail Wire: an open format for compressed &amp; encrypted email](https://dev.to/atec-systems/foxy-mail-wire-an-open-format-for-compressed-encrypted-email-402m)
-- [&quot;I won&#39;t post without your approval&quot; — my dutiful AI died after two minutes](https://dev.to/jun_uen0/i-wont-post-without-your-approval-my-dutiful-ai-died-after-two-minutes-2cbe)
-- [Seedance 2.5 vs MiniMax H3 &lpar;Hailuo 03&rpar;: a spec-level comparison for builders](https://dev.to/lee_315dd1e13420e63e2b813/seedance-25-vs-minimax-h3-hailuo-03-a-spec-level-comparison-for-builders-53oe)
-- [Who Named This ReAct? I&#39;d Like to Speak to the Manager.](https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
