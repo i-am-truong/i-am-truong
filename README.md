@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi)
-- [Microsoft’s Skill-Recorder Raises Questions on Automation Reliability](https://dev.to/dd8888/microsofts-skill-recorder-raises-questions-on-automation-reliability-6ao)
-- [How to monitor third-party provider outages with two signals](https://dev.to/kerolos_atallah/how-to-monitor-third-party-provider-outages-with-two-signals-1600)
-- [Media Elements - HTML](https://dev.to/aswinth/media-elements-html-28go)
-- [Codeberg banning AI code is not a cult. It&#39;s a boundary.](https://dev.to/adioof/codeberg-banning-ai-code-is-not-a-cult-its-a-boundary-2dk7)
+- [💀 The Most Dangerous Deletions Don&#39;t Break the Build. They Break the Deploy. An AI-Assisted Recovery Story 🤖](https://dev.to/velumal09/the-most-dangerous-deletions-dont-break-the-build-they-break-the-deploy-an-ai-assisted-3bk7)
+- [I Got Sick of Subscription Budget Apps. So I Built My Own With Telegram, Python, and a $0/Month Stack.](https://dev.to/rajesh_mudi/i-got-sick-of-subscription-budget-apps-so-i-built-my-own-with-telegram-python-and-a-0month-14lh)
+- [One bad Kafka record shouldn&#39;t crash a Flink Stateful Functions job](https://dev.to/okazimirov/one-bad-kafka-record-shouldnt-crash-a-flink-stateful-functions-job-117)
+- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
+- [Why Basic RAG Fails in Production and How Adaptive Query Routing Fixes It](https://dev.to/mithxcode/why-basic-rag-fails-in-production-and-how-adaptive-query-routing-fixes-it-5c1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
