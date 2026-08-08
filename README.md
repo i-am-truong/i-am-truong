@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Claude Code Skill Never Fires — and It&#39;s Not the Skill&#39;s Fault](https://dev.to/asfbar/your-claude-code-skill-never-fires-and-its-not-the-skills-fault-2mpg)
+- [Smashing the &quot;Blind Spot&quot; Bug: How We Integrated Sentry to Catch Regressions in Real-Time](https://dev.to/nishikantaray/smashing-the-blind-spot-bug-how-we-integrated-sentry-to-catch-regressions-in-real-time-29m0)
 - [💀 The Most Dangerous Deletions Don&#39;t Break the Build. They Break the Deploy. An AI-Assisted Recovery Story 🤖](https://dev.to/velumal09/the-most-dangerous-deletions-dont-break-the-build-they-break-the-deploy-an-ai-assisted-3bk7)
 - [I Got Sick of Subscription Budget Apps. So I Built My Own With Telegram, Python, and a $0/Month Stack.](https://dev.to/rajesh_mudi/i-got-sick-of-subscription-budget-apps-so-i-built-my-own-with-telegram-python-and-a-0month-14lh)
-- [One bad Kafka record shouldn&#39;t crash a Flink Stateful Functions job](https://dev.to/okazimirov/one-bad-kafka-record-shouldnt-crash-a-flink-stateful-functions-job-117)
-- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
-- [Why Basic RAG Fails in Production and How Adaptive Query Routing Fixes It](https://dev.to/mithxcode/why-basic-rag-fails-in-production-and-how-adaptive-query-routing-fixes-it-5c1n)
+- [the correction that wasn&#39;t mine](https://dev.to/logios/the-correction-that-wasnt-mine-4lfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
