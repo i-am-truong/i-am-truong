@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Turn Prompts for Gathering Information](https://dev.to/multigrid/multi-turn-prompts-for-gathering-information-1h0b)
-- [What Interpretability Research Is Trying to Do](https://dev.to/multigrid/what-interpretability-research-is-trying-to-do-4dji)
-- [Interpretability for Debugging, Not Just Research](https://dev.to/multigrid/interpretability-for-debugging-not-just-research-4li8)
-- [Building an Internal Model Gateway](https://dev.to/multigrid/building-an-internal-model-gateway-1ghg)
-- [Writing an Internal AI Policy People Follow](https://dev.to/multigrid/writing-an-internal-ai-policy-people-follow-199j)
+- [Into the void](https://dev.to/pauljlucas/into-the-void-4h69)
+- [My tests passed 18 out of 18. The service deletes your database on startup.](https://dev.to/tyson_cung/my-tests-passed-18-out-of-18-the-service-deletes-your-database-on-startup-4nhc)
+- [Week 9: Verifying the Token](https://dev.to/magic-peach/week-9-verifying-the-token-4mmg)
+- [Inside the ModelPlane routing engine](https://dev.to/modelplane/inside-the-modelplane-routing-engine-41a1)
+- [what actually makes a system agentic?](https://dev.to/hemantkumargiri/what-actually-makes-a-system-agentic-2fkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
