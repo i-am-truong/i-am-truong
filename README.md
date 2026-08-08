@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The RPC said Base was healthy. The first contract read still failed.](https://dev.to/samedaydesk/the-rpc-said-base-was-healthy-the-first-contract-read-still-failed-3fg6)
-- [Building Redoubt Analytics: A Counter-UAS Risk Intelligence Platform](https://dev.to/alfinohatta/building-redoubt-analytics-a-counter-uas-risk-intelligence-platform-4k9l)
-- [Why I Built a Local-First Password Manager Instead of Another Cloud Vault](https://dev.to/pas_add8a682e2caf036/why-i-built-a-local-first-password-manager-instead-of-another-cloud-vault-4gbj)
-- [The Freelancer&#39;s Mindset Shift That Doubled My Income](https://dev.to/soloproemail/the-freelancers-mindset-shift-that-doubled-my-income-3n6n)
-- [Styling the dialog element: open is not the same as modal](https://dev.to/leobaniak/styling-the-dialog-element-open-is-not-the-same-as-modal-5e3d)
+- [How Can AI Help Lazy Programmers?](https://dev.to/zijianhuang/how-can-ai-help-lazy-programmers-3c5o)
+- [Foxy Mail Wire: an open format for compressed &amp; encrypted email](https://dev.to/atec-systems/foxy-mail-wire-an-open-format-for-compressed-encrypted-email-402m)
+- [&quot;I won&#39;t post without your approval&quot; — my dutiful AI died after two minutes](https://dev.to/jun_uen0/i-wont-post-without-your-approval-my-dutiful-ai-died-after-two-minutes-2cbe)
+- [Seedance 2.5 vs MiniMax H3 &lpar;Hailuo 03&rpar;: a spec-level comparison for builders](https://dev.to/lee_315dd1e13420e63e2b813/seedance-25-vs-minimax-h3-hailuo-03-a-spec-level-comparison-for-builders-53oe)
+- [Who Named This ReAct? I&#39;d Like to Speak to the Manager.](https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
