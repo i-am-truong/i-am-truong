@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Book meetings in Laravel with Wireschedule](https://dev.to/edulazaro/book-meetings-in-laravel-with-wireschedule-3lmh)
-- [I Built an Agentic AI Stock Research Terminal with LangChain](https://dev.to/neeraj_ciju/i-built-an-agentic-ai-stock-research-terminal-with-langchain-36p2)
-- [openpyxl writes formulas. It never evaluates them — so your generated spreadsheet can be silently wrong.](https://dev.to/atlasventuresgroup/openpyxl-writes-formulas-it-never-evaluates-them-so-your-generated-spreadsheet-can-be-silently-106e)
-- [Meta Muse Spark 1.2 Honest Review: Loses the Benchmarks, Wins as an Agent](https://dev.to/aditi_gupta_8d81622a592aa/meta-muse-spark-12-honest-review-loses-the-benchmarks-wins-as-an-agent-1m8c)
-- [Open-Weight vs Closed-Weight AI Models: What It Means for You](https://dev.to/akbar_952c24f291bf201eb0c/open-weight-vs-closed-weight-ai-models-what-it-means-for-you-5340)
+- [My AI Answered in 5.8 Seconds and Said Nothing Useful. I Almost Blamed the Model.](https://dev.to/nomurasan/my-ai-answered-in-58-seconds-and-said-nothing-useful-i-almost-blamed-the-model-fh1)
+- [Domain-Driven Infrastructure: Organize Your Terraform by Reason to Change](https://dev.to/tomozayasu/domain-driven-infrastructure-organize-your-terraform-by-reason-to-change-202b)
+- [AI Models Keep Escaping Sandboxes. First OpenAI. Then Anthropic. Now Kimi.](https://dev.to/mohitgeryani/ai-models-keep-escaping-sandboxes-first-openai-then-anthropic-now-kimi-86d)
+- [Avoiding the 5 Mistakes Most Tutorials Make When Creating a File Encryption Tool](https://dev.to/aditeeniraula/avoiding-the-5-mistakes-most-tutorials-make-when-creating-a-file-encryption-tool-1nbe)
+- [Why Nodemailer Doesn&#39;t Work on Cloudflare Workers &lpar;And What To Do Instead&rpar;](https://dev.to/gurusandeep/why-nodemailer-doesnt-work-on-cloudflare-workers-and-what-to-do-instead-358h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
