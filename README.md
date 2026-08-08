@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Codeberg banning AI code is not a cult. It&#39;s a boundary.](https://dev.to/adioof/codeberg-banning-ai-code-is-not-a-cult-its-a-boundary-2dk7)
+- [131 Tests, 4 Layers, $00.03/Run: Why I Built My AI Agent Eval Harness First](https://dev.to/elenarevicheva/131-tests-4-layers-0003run-why-i-built-my-ai-agent-eval-harness-first-15o7)
+- [One Key for Claude, GPT, and Gemini: the Gateway Pattern](https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319)
+- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
 - [How to Build AI Evals for Tool-Calling Agents](https://dev.to/dhanushreddy29/how-to-build-ai-evals-for-tool-calling-agents-3h9d)
-- [How to Build a Stock Market Trading Bot in Python: Channeling Your Inner Neo](https://dev.to/timevolt/how-to-build-a-stock-market-trading-bot-in-python-channeling-your-inner-neo-5e0i)
-- [I Built a Crypto-Native Craigslist with Manual Escrow — Here&#39;s Why and How](https://dev.to/dimabsvg/i-built-a-crypto-native-craigslist-with-manual-escrow-heres-why-and-how-4j8b)
-- [Thinking About Becoming an AWS Community Builder? Here’s What You Should Know](https://dev.to/mtzanida/thinking-about-becoming-an-aws-community-builder-heres-what-you-should-know-15ci)
-- [Free, Zero-Dependency YouTube Website Embed &lpar;Self-Hostable PHP/JS&rpar;](https://dev.to/scott_peterson_bf7b8ea3f7/free-zero-dependency-youtube-website-embed-self-hostable-phpjs-338h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
