@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One Prompt Template, Three Engines That Disagree](https://dev.to/faisal77666/one-prompt-templatethree-engines-that-disagree-ifi)
-- [How GSTIN Checksum Validation Works &lpar;and Why It Isn&#39;t Enough&rpar;](https://dev.to/tarun_vaghasia_a387e1ac9b/how-gstin-checksum-validation-works-and-why-it-isnt-enough-3l8e)
-- [llms.txt: what it is, why it matters and how to implement it](https://dev.to/eraefi/llmstxt-what-it-is-why-it-matters-and-how-to-implement-it-2c67)
-- [MUI to Shadcn: 7 Pitfalls We Hit &lpar;And the Fix for Each&rpar;](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
-- [🤖 AI Context Engineering &lpar;Part 4&rpar;: AI Agents - From Tool Calling to Multi-Step Workflows](https://dev.to/fazal_mansuri_/ai-context-engineering-part-4-ai-agents-from-tool-calling-to-multi-step-workflows-28mo)
+- [Most Verification Is Just Bigger Classification](https://dev.to/harryfloyd/most-verification-is-just-bigger-classification-42g8)
+- [The Average Is Nobody&#39;s Result](https://dev.to/harryfloyd/the-average-is-nobodys-result-5hln)
+- [Your Robot Coworker Is Still a Pilot](https://dev.to/harryfloyd/your-robot-coworker-is-still-a-pilot-12n1)
+- [Where Your Metrics Fold](https://dev.to/harryfloyd/where-your-metrics-fold-20o)
+- [Angular SSR renders your page for every visitor. Here is what that costs.](https://dev.to/nigrosimone/angular-ssr-renders-your-page-for-every-visitor-here-is-what-that-costs-jfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
