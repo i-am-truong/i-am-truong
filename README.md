@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
-- [GTM engineering is a systems design job. Most people doing it are building the wrong system.](https://dev.to/dovzhikova/gtm-engineering-is-a-systems-design-job-most-people-doing-it-are-building-the-wrong-system-368k)
-- [Understanding and Solving the N+1 Problem in Spring Data JPA / Hibernate](https://dev.to/programming_coyote/understanding-and-solving-the-n1-problem-in-spring-data-jpa-hibernate-2jn)
-- [Distributed Trust and Multimodal Perception for Next-Generation Autonomous Drone Defense](https://dev.to/sher213/distributed-trust-and-multimodal-perception-fornext-generation-autonomous-drone-defense-25h1)
-- [The Metaverse Failed. Augmented Reality Didn&#39;t.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
+- [A Philosophy for AI Agents](https://dev.to/iroha1203/a-philosophy-for-ai-agents-e6m)
+- [The Agent Stack Is Filling In. The Judgment Layer Is Still an Open Problem](https://dev.to/kikashy/the-agent-stack-is-filling-in-the-judgment-layer-is-still-an-open-problem-40g2)
+- [Learning, Building &amp; Teaching: My Journey Begins on DEV](https://dev.to/sana_noor/learning-building-teaching-my-journey-begins-on-dev-2ida)
+- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
+- [A whiteboard that can&#39;t upload your drawing, because the browser won&#39;t let it](https://dev.to/pop3_zxcv/a-whiteboard-that-cant-upload-your-drawing-because-the-browser-wont-let-it-302f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
