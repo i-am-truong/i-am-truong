@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s Plan Puts Affordable, Accountable AI Access at the Center of Its Strategy](https://dev.to/alifar/openais-plan-puts-affordable-accountable-ai-access-at-the-center-of-its-strategy-5023)
-- [Trace Any TypeScript Agent Framework With Adapters](https://dev.to/raju_dandigam/trace-any-typescript-agent-framework-with-adapters-3d7l)
-- [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
-- [I Built an AI Coat of Arms Maker for Custom Crests and Fantasy Emblems](https://dev.to/edwardartist/i-built-an-ai-coat-of-arms-maker-for-custom-crests-and-fantasy-emblems-4i4d)
-- [A 50-capability map for governed web crawling and AI agents](https://dev.to/ajnasnb7717/a-50-capability-map-for-governed-web-crawling-and-ai-agents-2c6i)
+- [The Metaverse Failed. Augmented Reality Didn&#39;t.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
+- [The AI Price War Just Changed How I Architect Software, and Most Devs Haven&#39;t Noticed](https://dev.to/sirbrian/the-ai-price-war-just-changed-how-i-architect-software-and-most-devs-havent-noticed-30b7)
+- [The median MCP server costs 3,150 tokens before your agent calls anything](https://dev.to/onlyoneaman/the-median-mcp-server-costs-3150-tokens-before-your-agent-calls-anything-4np3)
+- [I built a small one-time secret sharing app with AdonisJS 6](https://dev.to/oguzhankrcb/i-built-a-small-one-time-secret-sharing-app-with-adonisjs-6-cmj)
+- [Voice-to-code 100 % local : Whisper + Claude Code, zéro octet au cloud](https://dev.to/hernanz/voice-to-code-100-local-whisper-claude-code-zero-octet-au-cloud-3420)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
