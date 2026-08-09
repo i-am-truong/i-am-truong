@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;ve kept that axios instance for years — do you really need to rewrite it?](https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0)
-- [Keeping the LLM out of the verdict](https://dev.to/quemtrouxe/keeping-the-llm-out-of-the-verdict-4plc)
-- [How st-core.fscss &quot;understands&quot; your data without a single line of JavaScript](https://dev.to/fscss-ttr/how-st-corefscss-understands-your-data-without-a-single-line-of-javascript-349k)
-- [MCP Went Stateless: What the 2026-07-28 Spec Actually Changes](https://dev.to/krlz/mcp-went-stateless-what-the-2026-07-28-spec-actually-changes-273k)
-- [Building a password-protected link sharing workflow](https://dev.to/codemaster_121482/building-a-password-protected-link-sharing-workflow-4meb)
+- [When AI Fails to Smash the Bug 🪲](https://dev.to/trickell/when-ai-fails-to-smash-the-bug-22j)
+- [Exploring Sentry: Reducing Load Time 🐢](https://dev.to/annavi11arrea1/exploring-sentry-reducing-load-time-52gf)
+- [My Nand2Tetris Journey #1 - Building Logic Gates from NAND](https://dev.to/rondo/my-nand2tetris-journey-1-building-logic-gates-from-nand-4o1h)
+- [I Ported a Python Library to Rust. All 1,059 Original Tests Passed — and It Was Still Broken.](https://dev.to/shivharakhyadav/i-ported-a-python-library-to-rust-all-1059-original-tests-passed-and-it-was-still-broken-3mge)
+- [Built an open-source MCP Conformance Scanner](https://dev.to/ak1ng/built-an-open-source-mcp-conformance-scanner-7op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
