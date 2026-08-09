@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Add Face Liveness Detection to Any App in 10 Lines of Code &lpar;Free Tier Available&rpar;](https://dev.to/indiesolovibe/add-face-liveness-detection-to-any-app-in-10-lines-of-code-free-tier-available-1h92)
-- [My Self-Evolving AI Agent Kept Passing Its Own Tests. The Code Had Never Run](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-kept-passing-its-own-tests-the-code-had-never-run-3pn)
-- [Microsoft Word 1.1a for Windows Goes Native x64: A Retro Port for the Ages](https://dev.to/kaixintelligence/microsoft-word-11a-for-windows-goes-native-x64-a-retro-port-for-the-ages-8h6)
-- [React Mastery Series – Day 33: React API Architecture – Axios, Fetch, Service Layers, Interceptors &amp; Error Handling](https://dev.to/siva_samanthapudi/react-mastery-series-day-33-react-api-architecture-axios-fetch-service-layers-interceptors-4h07)
-- [How I Built an Enterprise Biometric API From a $0 Budget and an Android Phone](https://dev.to/indiesolovibe/how-i-built-an-enterprise-biometric-api-from-a-0-budget-and-an-android-phone-4ppo)
+- [The Day Our Web App Took 8 Seconds to Load &lpar;and How We Cut It in Half&rpar;](https://dev.to/frontend_craft/the-day-our-web-app-took-8-seconds-to-load-and-how-we-cut-it-in-half-504c)
+- [DeepSeek&#39;s Flash outpaced its own flagship. The upgrade was post-training, not parameters.](https://dev.to/thegatewayguy/deepseeks-flash-outpaced-its-own-flagship-the-upgrade-was-post-training-not-parameters-333o)
+- [GGUF vs GPTQ vs AWQ: Which Quantization Format Should You Actually Use?](https://dev.to/quantizelab/gguf-vs-gptq-vs-awq-which-quantization-format-should-you-actually-use-5hn9)
+- [Cedar could stop one bad tool call. Dogwood stops bad sequences.](https://dev.to/thegatewayguy/cedar-could-stop-one-bad-tool-call-dogwood-stops-bad-sequences-1jik)
+- [Project Log #21: The Grand Finale. We Shipped. &lpar;Plus: Full Setup Guide&rpar;](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-21-the-grand-finale-we-shipped-plus-full-setup-guide-55ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
