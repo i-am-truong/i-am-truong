@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Build Was Stuck: A 700-Second API Fetch Timeout in a 600-Second Environment. Here&#39;s How I Fixed It with a Self-Healing Cache.](https://dev.to/masaoshimadaopen/my-build-was-stuck-a-700-second-api-fetch-timeout-in-a-600-second-environment-heres-how-i-fixed-4351)
-- [Optimizando el Testing de APIs con Karate](https://dev.to/e240683/optimizando-el-testing-de-apis-con-karate-44gk)
-- [I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.](https://dev.to/debashish_ghosal/i-built-scenario-packs-for-agent-regression-testing-the-integration-not-the-judge-broke-me-1k9k)
-- [Architecting a Battery-Efficient Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-battery-efficient-geofencing-engine-for-android-g89)
-- [Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-Decision Run](https://dev.to/qingze_hu_c4c251c1b353ede/fable-5-plays-pokemon-sapphire-vision-only-notes-on-a-2000-decision-run-296k)
+- [My Exact Cognizant GenC Interview Experience &amp; Hiring Process &lpar;2025–2026&rpar;](https://dev.to/divyanshuraj/my-exact-cognizant-genc-interview-experience-hiring-process-2025-2026-c49)
+- [Head Mare Breaches TrueConf: From SYSTEM Privileges to Trojanized Legitimate Client Updates](https://dev.to/anoymask/head-mare-breaches-trueconf-from-system-privileges-to-trojanized-legitimate-client-updates-1ke1)
+- [RovoBlast: One-Click Hijacking of Enterprise AI Permissions for Data Exfiltration](https://dev.to/anoymask/rovoblast-one-click-hijacking-of-enterprise-ai-permissions-for-data-exfiltration-48ob)
+- [Your agent loop is teaching the model to cheat](https://dev.to/q00/your-agent-loop-is-teaching-the-model-to-cheat-48oa)
+- [Which parts of this are real? Should be a question with an answer](https://dev.to/nasrulhazim/which-parts-of-this-are-real-should-be-a-question-with-an-answer-2a2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
