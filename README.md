@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your eval suite passes. Does it actually check anything?](https://dev.to/agentdev9/your-eval-suite-passes-does-it-actually-check-anything-2l5a)
-- [I split a commerce backend into 6 services for a shop with zero users. On purpose.](https://dev.to/danzizhangdev/i-split-a-commerce-backend-into-6-services-for-a-shop-with-zero-users-on-purpose-5133)
-- [The ETF Changed Bitcoin&#39;s Four-Year Cycle, but It Did Not Create a Supercycle](https://dev.to/invisiblehill/the-etf-changed-bitcoins-four-year-cycle-but-it-did-not-create-a-supercycle-5dij)
-- [I built a Python package to diff large data files — here&#39;s why existing tools weren&#39;t enough](https://dev.to/omuniyal/i-built-a-python-package-to-diff-large-data-files-heres-why-existing-tools-werent-enough-199g)
-- [ThonburianTTS — AI พูดภาษาไทย ฟรี รันในเครื่องได้ โคลนเสียงได้ โดยคนไทย](https://dev.to/sarantoon/thonburiantts-ai-phuudphaasaaaithy-frii-ranainekhruuengaid-okhlnesiiyngaid-odykhnaithy-45bh)
+- [Running AI-Generated Code Safely: Field Notes on Vercel Sandbox](https://dev.to/ahmed_mahmoud360/running-ai-generated-code-safely-field-notes-on-vercel-sandbox-3g4e)
+- [Guillotine Cutting vs Free Nesting for Rectangular Parts](https://dev.to/cutlistengine/guillotine-cutting-vs-free-nesting-for-rectangular-parts-5p4)
+- [أنواع توزيعات لينكس حسب الاستخدام: أيها يناسبك؟](https://dev.to/talalemran/nw-twzyt-lynks-hsb-lstkhdm-yh-ynsbk-2lln)
+- [Cloudflare was 403-ing ChatGPT, Perplexity and Claude on my site, and my logs never knew](https://dev.to/mollenthiel/cloudflare-was-403-ing-chatgpt-perplexity-and-claude-on-my-site-and-my-logs-never-knew-5g8a)
+- [VNSGU TYBCA Linux&lpar;Unix&rpar; Semester 5 OCT/Nov 2025 Practical Question Papers Sets](https://dev.to/teamworkfahad/vnsgu-tybca-linuxunix-semester-5-octnov-2025-practical-question-papers-sets-2k4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
