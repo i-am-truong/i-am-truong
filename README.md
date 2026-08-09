@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating HTTP Request Smuggling](https://dev.to/aniket28dot/mitigating-http-request-smuggling-be6)
-- [How I Built a $0/Month Ecommerce MVP Without Shopify](https://dev.to/haseeb_sheikh_0f627e74ba7/how-i-built-a-0month-ecommerce-mvp-without-shopify-7hh)
-- [Why Exact Transaction Matching Breaks on 1 Relationships](https://dev.to/quickrecon/why-exact-transaction-matching-breaks-on-1-relationships-5eho)
-- [What Happens When You Type a URL in the Browser?](https://dev.to/darshan_dev/what-happens-when-you-type-a-url-in-the-browser-4epo)
-- [I Built an IP Geo Phone Server — 5 Things I Actually Used](https://dev.to/onizuka/i-built-an-ip-geo-phone-server-5-things-i-actually-used-2cn1)
+- [Microservices vs Monolith: The Quest for the Holy Grail &lpar;Inspired by Monty Python&rpar;](https://dev.to/timevolt/microservices-vs-monolith-the-quest-for-the-holy-grail-inspired-by-monty-python-13ij)
+- [Modeling SCHD&#39;s dividend growth, in TypeScript](https://dev.to/a353551071/modeling-schds-dividend-growth-in-typescript-1lom)
+- [Pulse Width Modulation in ESP32](https://dev.to/effessdev/pulse-width-modulation-in-esp32-559p)
+- [Distributed Storage 101: How It Works and When You Actually Need It](https://dev.to/ethan-carter/distributed-storage-101-how-it-works-and-when-you-actually-need-it-2a19)
+- [A 200 response is not a page, and your policy check is grepping an empty shell](https://dev.to/jacksonxly/a-200-response-is-not-a-page-and-your-policy-check-is-grepping-an-empty-shell-3ah1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
