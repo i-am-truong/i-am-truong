@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Pasting Figma Screenshots into Claude Fails &lpar;And What to Use Instead&rpar;](https://dev.to/romantsisyk/why-pasting-figma-screenshots-into-claude-fails-and-what-to-use-instead-46d0)
-- [Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable](https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n)
-- [Ghidra internals: Where are my logs ?](https://dev.to/ddupard/ghidra-internals-where-are-my-logs--p3n)
-- [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
-- [A directory told me exactly what my followed link is worth: ten upvotes](https://dev.to/blueticks/a-directory-told-me-exactly-what-my-followed-link-is-worth-ten-upvotes-82o)
+- [Claude Code Can&#39;t Draw — This Plugin Borrows Your Codex CLI Login](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-code-cant-draw-this-plugin-borrows-your-codex-cli-login-559c)
+- [Architecting Battery-Efficient Geofencing for Android Automation](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-android-automation-55mo)
+- [Structured Context vs Pixel Context: What Coding Agents Actually Need](https://dev.to/romantsisyk/structured-context-vs-pixel-context-what-coding-agents-actually-need-4fl8)
+- [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
+- [How I Wired Up Fully-Automated Cross-Posting Between Blogger and dev.to &lpar;With Working Code&rpar;](https://dev.to/just_a_side_project/how-i-wired-up-fully-automated-cross-posting-between-blogger-and-devto-with-working-code-41ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
