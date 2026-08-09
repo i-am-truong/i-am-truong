@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Find the Beat of a Song &lpar;BPM + Key&rpar;](https://dev.to/ifeelvoid/how-to-find-the-beat-of-a-song-bpm-key-507e)
+- [Automating the Workflow: My Journey from Jenkins Freestyle Jobs to Declarative Pipelines](https://dev.to/alafiz/automating-the-workflow-my-journey-from-jenkins-freestyle-jobs-to-declarative-pipelines-4pag)
+- [From Raw Text to Cryptographic Seal: Building a Legal Document Factory in Python](https://dev.to/sunverseai/from-raw-text-to-cryptographic-seal-building-a-legal-document-factory-in-python-4ldn)
 - [Building a Production WhatsApp AI Agent: Architecture That Actually Works](https://dev.to/alessandrobinda114/building-a-production-whatsapp-ai-agent-architecture-that-actually-works-2gfd)
 - [We generated ~32,000 self-contained build prompts for Midnight &lpar;and learned the hard way&rpar;](https://dev.to/socialprescribing/we-generated-32000-self-contained-build-prompts-for-midnight-and-learned-the-hard-way-2koa)
-- [How the IO-Link IODD checksum works](https://dev.to/calumk/how-the-io-link-iodd-checksum-works-2jbp)
-- [Why Your Reusable Components Keep Breaking &lpar;And How to Fix Your API Design&rpar;](https://dev.to/joemetry/why-your-reusable-components-keep-breaking-and-how-to-fix-your-api-design-3pld)
-- [Async-First Doesn’t Mean Async-Only](https://dev.to/tohru_yaginuma_4f041533c6/async-first-doesnt-mean-async-only-ebm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
