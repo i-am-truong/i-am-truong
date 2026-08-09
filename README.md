@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running AI-Generated Code Safely: Field Notes on Vercel Sandbox](https://dev.to/ahmed_mahmoud360/running-ai-generated-code-safely-field-notes-on-vercel-sandbox-3g4e)
-- [Guillotine Cutting vs Free Nesting for Rectangular Parts](https://dev.to/cutlistengine/guillotine-cutting-vs-free-nesting-for-rectangular-parts-5p4)
-- [أنواع توزيعات لينكس حسب الاستخدام: أيها يناسبك؟](https://dev.to/talalemran/nw-twzyt-lynks-hsb-lstkhdm-yh-ynsbk-2lln)
-- [Cloudflare was 403-ing ChatGPT, Perplexity and Claude on my site, and my logs never knew](https://dev.to/mollenthiel/cloudflare-was-403-ing-chatgpt-perplexity-and-claude-on-my-site-and-my-logs-never-knew-5g8a)
-- [VNSGU TYBCA Linux&lpar;Unix&rpar; Semester 5 OCT/Nov 2025 Practical Question Papers Sets](https://dev.to/teamworkfahad/vnsgu-tybca-linuxunix-semester-5-octnov-2025-practical-question-papers-sets-2k4j)
+- [Switchboard: building a tool router so your AI agent stops drowning in MCP tools](https://dev.to/shashank1719/switchboard-building-a-tool-router-so-your-ai-agent-stops-drowning-in-mcp-tools-53hm)
+- [I blocked accessibility overlays on 56 Shopify stores and measured what changed](https://dev.to/__fb0703f84f9b2/i-blocked-accessibility-overlays-on-56-shopify-stores-and-measured-what-changed-3il)
+- [An invisible character broke a security patch. Then it broke my review. Then it broke my review of the fix.](https://dev.to/achiya-automation/an-invisible-character-broke-a-security-patch-then-it-broke-my-review-then-it-broke-my-review-of-444c)
+- [Reliable Webhook Processing in NestJS: Signatures, Idempotency, Retries &amp; Queues](https://dev.to/jaswantsinghjatav/reliable-webhook-processing-in-nestjs-signatures-idempotency-retries-queues-38g1)
+- [Shadow AI in your pipeline is a non-human identity problem, not a chatbot problem](https://dev.to/thegatewayguy/shadow-ai-in-your-pipeline-is-a-non-human-identity-problem-not-a-chatbot-problem-28oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
