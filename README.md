@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microservices vs Monolith: The Quest for the Holy Grail &lpar;Inspired by Monty Python&rpar;](https://dev.to/timevolt/microservices-vs-monolith-the-quest-for-the-holy-grail-inspired-by-monty-python-13ij)
-- [Modeling SCHD&#39;s dividend growth, in TypeScript](https://dev.to/a353551071/modeling-schds-dividend-growth-in-typescript-1lom)
-- [Pulse Width Modulation in ESP32](https://dev.to/effessdev/pulse-width-modulation-in-esp32-559p)
-- [Distributed Storage 101: How It Works and When You Actually Need It](https://dev.to/ethan-carter/distributed-storage-101-how-it-works-and-when-you-actually-need-it-2a19)
-- [A 200 response is not a page, and your policy check is grepping an empty shell](https://dev.to/jacksonxly/a-200-response-is-not-a-page-and-your-policy-check-is-grepping-an-empty-shell-3ah1)
+- [Start Here: What Survives When The Surface Changes?](https://dev.to/harryfloyd/start-here-what-survives-when-the-surface-changes-5bk8)
+- [Skills Are Package Management for Your AI](https://dev.to/harryfloyd/skills-are-package-management-for-your-ai-h6l)
+- [Self-Improvement Is Release Engineering](https://dev.to/harryfloyd/self-improvement-is-release-engineering-j6h)
+- [Right About AI, Wiped Out Anyway](https://dev.to/harryfloyd/right-about-ai-wiped-out-anyway-4257)
+- [Remembers Everything, Learns Nothing](https://dev.to/harryfloyd/remembers-everything-learns-nothing-3c1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
