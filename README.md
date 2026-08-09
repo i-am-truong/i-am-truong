@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛻CSS Art: Smoothie Food Truck](https://dev.to/annavi11arrea1/css-art-smoothie-food-truck-36gg)
-- [The Silent Killer of Engineering Teams: Scope Creep &lpar;And How to Defeat It&rpar;](https://dev.to/mealiclay01/the-silent-killer-of-engineering-teams-scope-creep-and-how-to-defeat-it-nge)
-- [The &quot;Works on My Machine&quot; Syndrome &lpar;And How to Cure It&rpar;](https://dev.to/mealiclay01/the-works-on-my-machine-syndrome-and-how-to-cure-it-44f7)
-- [Debugging Fatigue: How to Stop Chasing Ghosts in Your Code](https://dev.to/mealiclay01/debugging-fatigue-how-to-stop-chasing-ghosts-in-your-code-2ocl)
-- [Building ApexCalculators: How I Built a Suite of 150+ Free Web Calculators with Zero Paywalls](https://dev.to/abdel_iddi/building-apexcalculators-how-i-built-a-suite-of-150-free-web-calculators-with-zero-paywalls-4i9p)
+- [You&#39;ve kept that axios instance for years — do you really need to rewrite it?](https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0)
+- [Keeping the LLM out of the verdict](https://dev.to/quemtrouxe/keeping-the-llm-out-of-the-verdict-4plc)
+- [How st-core.fscss &quot;understands&quot; your data without a single line of JavaScript](https://dev.to/fscss-ttr/how-st-corefscss-understands-your-data-without-a-single-line-of-javascript-349k)
+- [MCP Went Stateless: What the 2026-07-28 Spec Actually Changes](https://dev.to/krlz/mcp-went-stateless-what-the-2026-07-28-spec-actually-changes-273k)
+- [Building a password-protected link sharing workflow](https://dev.to/codemaster_121482/building-a-password-protected-link-sharing-workflow-4meb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
