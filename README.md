@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Technical Documentation Template: Build Product Docs With a Tested Structure](https://dev.to/ninadpathak/technical-documentation-template-build-product-docs-with-a-tested-structure-39m7)
-- [Beyond the Black Box: Reclaiming Developer Agency in an Era of AI-Assisted Coding](https://dev.to/tamizuddin/beyond-the-black-box-reclaiming-developer-agency-in-an-era-of-ai-assisted-coding-2mf0)
-- [A backup you haven&#39;t restored isn&#39;t a backup](https://dev.to/takiuddinahmed/a-backup-you-havent-restored-isnt-a-backup-4lj)
-- [ChronicleOps: Autonomous Chaos Engineering &amp; Self-Healing Telemetry Engine published](https://dev.to/siddarth_ns_addc7115cec1e/chronicleops-autonomous-chaos-engineering-self-healing-telemetry-enginepublished-2hdm)
-- [How I found a 32x performance bug hiding in a UTF-8 decoder](https://dev.to/yutonakamuradev/how-i-found-a-32x-performance-bug-hiding-in-a-utf-8-decoder-ojp)
+- [Where Does Judgment End and Runtime Policy Begin?](https://dev.to/kikashy/where-does-judgment-end-and-runtime-policy-begin-59cf)
+- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c)
+- [Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)
+- [Topic selected: Option A – Purely Technical: &quot;Building a Secure AI Proxy for Browser Tools](https://dev.to/obed_avorlenu/topic-selected-option-a-purely-technical-building-a-secure-ai-proxy-for-browser-tools-5bc)
+- [Who Did This? Identity Across Async Boundaries](https://dev.to/ramesh-yara/who-did-this-identity-across-async-boundaries-1n4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
