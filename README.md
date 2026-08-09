@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Exact Cognizant GenC Interview Experience &amp; Hiring Process &lpar;2025–2026&rpar;](https://dev.to/divyanshuraj/my-exact-cognizant-genc-interview-experience-hiring-process-2025-2026-c49)
-- [Head Mare Breaches TrueConf: From SYSTEM Privileges to Trojanized Legitimate Client Updates](https://dev.to/anoymask/head-mare-breaches-trueconf-from-system-privileges-to-trojanized-legitimate-client-updates-1ke1)
-- [RovoBlast: One-Click Hijacking of Enterprise AI Permissions for Data Exfiltration](https://dev.to/anoymask/rovoblast-one-click-hijacking-of-enterprise-ai-permissions-for-data-exfiltration-48ob)
-- [Your agent loop is teaching the model to cheat](https://dev.to/q00/your-agent-loop-is-teaching-the-model-to-cheat-48oa)
-- [Which parts of this are real? Should be a question with an answer](https://dev.to/nasrulhazim/which-parts-of-this-are-real-should-be-a-question-with-an-answer-2a2j)
+- [Surviving the AI Bubble With Two Pieces of Junk From Amazon](https://dev.to/numbpill3d/surviving-the-ai-bubble-with-two-pieces-of-junk-from-amazon-5h1i)
+- [Building an Open-Source NOAA MRMS Radar Renderer in Python](https://dev.to/davidtaylorjr/building-an-open-source-noaa-mrms-radar-renderer-in-python-4oo0)
+- [How to Convert Files in the Browser Without Uploading Them](https://dev.to/harshapalegar/how-to-convert-files-in-the-browser-without-uploading-them-3hid)
+- [I spent $58 testing founder distribution. Here is what happened](https://dev.to/conversionrescue/i-spent-58-testing-founder-distribution-here-is-what-happened-39h4)
+- [Hey everyone! I recently wrapped up a project migrating 6 separate Go microservice repositories into a unified monorepo setup.
+
+I documented the architecture decisions, pipeline setup, and lessons learned here.](https://dev.to/singhamandeep007/hey-everyone-i-recently-wrapped-up-a-project-migrating-6-separate-go-microservice-repositories-5d1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
