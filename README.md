@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When is it safe to open the microphone? Building a realtime voice agent on Twilio](https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo)
-- [Can a Cheap Model Beat a Frontier Model? Rebuilding Recursive Language Models with Codex](https://dev.to/rickeshtn/can-a-cheap-model-beat-a-frontier-model-rebuilding-recursive-language-models-with-codex-2m45)
-- [I’m Building a Secure File Workspace From Scratch — Here’s What I’ve Learned](https://dev.to/rishavkumarjha06/im-building-a-secure-file-workspace-from-scratch-heres-what-ive-learned-26b9)
-- [RVBBIT: What I Learned Building a Linux Kernel Rootkit PoC — and Why I Ended Up Studying Detection](https://dev.to/buter_chkalova/rvbbit-what-i-learned-building-a-linux-kernel-rootkit-poc-and-why-i-ended-up-studying-detection-32h)
-- [From Visual Workflows to Native Code in Production: The Complete Journey of an n8n Backend That Couldn&#39;t Stop Evolving](https://dev.to/rogeriomaciel/from-visual-workflows-to-native-code-in-production-the-complete-journey-of-an-n8n-backend-that-508j)
+- [OpenAI’s Plan Puts Affordable, Accountable AI Access at the Center of Its Strategy](https://dev.to/alifar/openais-plan-puts-affordable-accountable-ai-access-at-the-center-of-its-strategy-5023)
+- [Trace Any TypeScript Agent Framework With Adapters](https://dev.to/raju_dandigam/trace-any-typescript-agent-framework-with-adapters-3d7l)
+- [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
+- [I Built an AI Coat of Arms Maker for Custom Crests and Fantasy Emblems](https://dev.to/edwardartist/i-built-an-ai-coat-of-arms-maker-for-custom-crests-and-fantasy-emblems-4i4d)
+- [A 50-capability map for governed web crawling and AI agents](https://dev.to/ajnasnb7717/a-50-capability-map-for-governed-web-crawling-and-ai-agents-2c6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
