@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Switchboard: building a tool router so your AI agent stops drowning in MCP tools](https://dev.to/shashank1719/switchboard-building-a-tool-router-so-your-ai-agent-stops-drowning-in-mcp-tools-53hm)
-- [I blocked accessibility overlays on 56 Shopify stores and measured what changed](https://dev.to/__fb0703f84f9b2/i-blocked-accessibility-overlays-on-56-shopify-stores-and-measured-what-changed-3il)
-- [An invisible character broke a security patch. Then it broke my review. Then it broke my review of the fix.](https://dev.to/achiya-automation/an-invisible-character-broke-a-security-patch-then-it-broke-my-review-then-it-broke-my-review-of-444c)
-- [Reliable Webhook Processing in NestJS: Signatures, Idempotency, Retries &amp; Queues](https://dev.to/jaswantsinghjatav/reliable-webhook-processing-in-nestjs-signatures-idempotency-retries-queues-38g1)
-- [Shadow AI in your pipeline is a non-human identity problem, not a chatbot problem](https://dev.to/thegatewayguy/shadow-ai-in-your-pipeline-is-a-non-human-identity-problem-not-a-chatbot-problem-28oj)
+- [React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4)
+- [Build, Buy, or Call an API: How We Actually Decide](https://dev.to/sagar_jain4010/build-buy-or-call-an-api-how-we-actually-decide-4hdi)
+- [Designing MCP tools an agent won&#39;t misuse](https://dev.to/frihet/designing-mcp-tools-an-agent-wont-misuse-1ah1)
+- [Never Let Migration Tooling Guess the Database](https://dev.to/iqtechsolutions/never-let-migration-tooling-guess-the-database-3ehf)
+- [Rust Borrow Checker 2.0 is Finally Here](https://dev.to/francescoxx/rust-borrow-checker-20-is-finally-here-10e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
