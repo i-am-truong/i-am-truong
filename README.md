@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero backend, zero cost — and three silent bugs I didn&#39;t see coming](https://dev.to/seqat/zero-backend-zero-cost-and-three-silent-bugs-i-didnt-see-coming-pa1)
-- [Your token bill is the cheap part: dimensioning the real cost of an agent](https://dev.to/loopandretry/your-token-bill-is-the-cheap-part-dimensioning-the-real-cost-of-an-agent-2bfn)
-- [Swagger Isn&#39;t Just API Documentation](https://dev.to/sam090/swagger-isnt-just-api-documentation-1dn7)
-- [How I Estimate AI Coding Agent Costs Before Long Sessions](https://dev.to/kevin_zhang_5045713ea4589/how-i-estimate-ai-coding-agent-costs-before-long-sessions-41cj)
-- [AI Didn&#39;t Replace My DevOps Workflow. It Shortened the Path to a Hypothesis.](https://dev.to/akhil_anil/ai-didnt-replace-my-devops-workflow-it-shortened-the-path-to-a-hypothesis-47b9)
+- [The ASN Pivot Playbook: Routes, Upstreams, Downstreams](https://dev.to/abdullah_afzal/the-asn-pivot-playbook-routes-upstreams-downstreams-3ppk)
+- [What Is Amazon S3, Really? &lpar;2026&rpar;](https://dev.to/ethan-carter/what-is-amazon-s3-really-2026-4cle)
+- [n8n Google Sheets Integration: Connect, Read, and Write Rows &lpar;2026&rpar;](https://dev.to/ali_ilyas/n8n-google-sheets-integration-connect-read-and-write-rows-2026-499k)
+- [Cannot find symbol: class Entity — My pom.xml Said MongoDB, My Code Said MySQL](https://dev.to/sanjayfreak/cannot-find-symbol-class-entity-my-pomxml-said-mongodb-my-code-said-mysql-hl5)
+- [⚡ Stop Mocking Backends: Test Stateful REST &amp; GraphQL APIs Live in Your Browser &lpar;Playground API v4.0&rpar;](https://dev.to/nileshcodehub/stop-mocking-backends-test-stateful-rest-graphql-apis-live-in-your-browser-playground-api-57pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
