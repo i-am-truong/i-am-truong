@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4)
-- [Build, Buy, or Call an API: How We Actually Decide](https://dev.to/sagar_jain4010/build-buy-or-call-an-api-how-we-actually-decide-4hdi)
-- [Designing MCP tools an agent won&#39;t misuse](https://dev.to/frihet/designing-mcp-tools-an-agent-wont-misuse-1ah1)
-- [Never Let Migration Tooling Guess the Database](https://dev.to/iqtechsolutions/never-let-migration-tooling-guess-the-database-3ehf)
-- [Rust Borrow Checker 2.0 is Finally Here](https://dev.to/francescoxx/rust-borrow-checker-20-is-finally-here-10e5)
+- [Add Face Liveness Detection to Any App in 10 Lines of Code &lpar;Free Tier Available&rpar;](https://dev.to/indiesolovibe/add-face-liveness-detection-to-any-app-in-10-lines-of-code-free-tier-available-1h92)
+- [My Self-Evolving AI Agent Kept Passing Its Own Tests. The Code Had Never Run](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-kept-passing-its-own-tests-the-code-had-never-run-3pn)
+- [Microsoft Word 1.1a for Windows Goes Native x64: A Retro Port for the Ages](https://dev.to/kaixintelligence/microsoft-word-11a-for-windows-goes-native-x64-a-retro-port-for-the-ages-8h6)
+- [React Mastery Series – Day 33: React API Architecture – Axios, Fetch, Service Layers, Interceptors &amp; Error Handling](https://dev.to/siva_samanthapudi/react-mastery-series-day-33-react-api-architecture-axios-fetch-service-layers-interceptors-4h07)
+- [How I Built an Enterprise Biometric API From a $0 Budget and an Android Phone](https://dev.to/indiesolovibe/how-i-built-an-enterprise-biometric-api-from-a-0-budget-and-an-android-phone-4ppo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
