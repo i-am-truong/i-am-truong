@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Where Does Judgment End and Runtime Policy Begin?](https://dev.to/kikashy/where-does-judgment-end-and-runtime-policy-begin-59cf)
-- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c)
-- [Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)
-- [Topic selected: Option A – Purely Technical: &quot;Building a Secure AI Proxy for Browser Tools](https://dev.to/obed_avorlenu/topic-selected-option-a-purely-technical-building-a-secure-ai-proxy-for-browser-tools-5bc)
-- [Who Did This? Identity Across Async Boundaries](https://dev.to/ramesh-yara/who-did-this-identity-across-async-boundaries-1n4n)
+- [AI Startup Infrastructure: $0 Oracle, $12 Groq, $40 BrightData — Real Costs](https://dev.to/elenarevicheva/ai-startup-infrastructure-0-oracle-12-groq-40-brightdata-real-costs-4bn2)
+- [The AI-native junior can&#39;t debug and we&#39;re pretending that&#39;s fine](https://dev.to/adioof/the-ai-native-junior-cant-debug-and-were-pretending-thats-fine-4f8j)
+- [OAuth 2.0 and OpenID Connect: What &quot;Sign in with Google&quot; Actually Does](https://dev.to/arnavsharma2711/oauth-20-and-openid-connect-what-sign-in-with-google-actually-does-e47)
+- [Ahrefs API Units: What 1,100 Calls Actually Cost](https://dev.to/studiomeyer_io/ahrefs-api-units-what-1100-calls-actually-cost-2m35)
+- [Microsoft SC-900: How I Replaced Memorization With Reasoning and Passed in Under a Month](https://dev.to/camruthav/microsoft-sc-900-how-i-replaced-memorization-with-reasoning-and-passed-in-under-a-month-2ddp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
