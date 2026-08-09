@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Startup Infrastructure: $0 Oracle, $12 Groq, $40 BrightData — Real Costs](https://dev.to/elenarevicheva/ai-startup-infrastructure-0-oracle-12-groq-40-brightdata-real-costs-4bn2)
-- [The AI-native junior can&#39;t debug and we&#39;re pretending that&#39;s fine](https://dev.to/adioof/the-ai-native-junior-cant-debug-and-were-pretending-thats-fine-4f8j)
-- [OAuth 2.0 and OpenID Connect: What &quot;Sign in with Google&quot; Actually Does](https://dev.to/arnavsharma2711/oauth-20-and-openid-connect-what-sign-in-with-google-actually-does-e47)
-- [Ahrefs API Units: What 1,100 Calls Actually Cost](https://dev.to/studiomeyer_io/ahrefs-api-units-what-1100-calls-actually-cost-2m35)
-- [Microsoft SC-900: How I Replaced Memorization With Reasoning and Passed in Under a Month](https://dev.to/camruthav/microsoft-sc-900-how-i-replaced-memorization-with-reasoning-and-passed-in-under-a-month-2ddp)
+- [Trending Azure Dev Tools &amp; Tutorials: August 2026 Edition](https://dev.to/karleeov/trending-azure-dev-tools-tutorials-august-2026-edition-29jd)
+- [Model Fallback and Routing Without a Provider SDK Each](https://dev.to/devopsdaily/model-fallback-and-routing-without-a-provider-sdk-each-55ep)
+- [Why Java Is a Great Choice for AI Development](https://dev.to/deividas-strole/why-java-is-a-great-choice-for-ai-development-49fg)
+- [Backend Engineer &lpar;Me&rpar; Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd)
+- [GitHub doesn&#39;t retry webhooks. So I gave my tunnel a database.](https://dev.to/bigachiever/github-doesnt-retry-webhooks-so-i-gave-my-tunnel-a-database-4aa0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
