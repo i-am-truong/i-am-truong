@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A broken heading hierarchy is an architecture problem, not a markup one](https://dev.to/praiztech/a-broken-heading-hierarchy-is-an-architecture-problem-not-a-markup-one-489n)
+- [Your AI Agent Changed Its Config. Can You Roll It Back Safely?](https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk)
+- [Pattern Recognition: The Matrix Mindset for Top Coders](https://dev.to/timevolt/pattern-recognition-the-matrix-mindset-for-top-coders-2aee)
+- [How to stop a Claude Code agent writing outside a directory](https://dev.to/fewparts/how-to-stop-a-claude-code-agent-writing-outside-a-directory-253p)
 - [How to Find the Beat of a Song &lpar;BPM + Key&rpar;](https://dev.to/ifeelvoid/how-to-find-the-beat-of-a-song-bpm-key-507e)
-- [Automating the Workflow: My Journey from Jenkins Freestyle Jobs to Declarative Pipelines](https://dev.to/alafiz/automating-the-workflow-my-journey-from-jenkins-freestyle-jobs-to-declarative-pipelines-4pag)
-- [From Raw Text to Cryptographic Seal: Building a Legal Document Factory in Python](https://dev.to/sunverseai/from-raw-text-to-cryptographic-seal-building-a-legal-document-factory-in-python-4ldn)
-- [Building a Production WhatsApp AI Agent: Architecture That Actually Works](https://dev.to/alessandrobinda114/building-a-production-whatsapp-ai-agent-architecture-that-actually-works-2gfd)
-- [We generated ~32,000 self-contained build prompts for Midnight &lpar;and learned the hard way&rpar;](https://dev.to/socialprescribing/we-generated-32000-self-contained-build-prompts-for-midnight-and-learned-the-hard-way-2koa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
