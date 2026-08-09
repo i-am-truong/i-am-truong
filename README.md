@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
+- [GTM engineering is a systems design job. Most people doing it are building the wrong system.](https://dev.to/dovzhikova/gtm-engineering-is-a-systems-design-job-most-people-doing-it-are-building-the-wrong-system-368k)
+- [Understanding and Solving the N+1 Problem in Spring Data JPA / Hibernate](https://dev.to/programming_coyote/understanding-and-solving-the-n1-problem-in-spring-data-jpa-hibernate-2jn)
+- [Distributed Trust and Multimodal Perception for Next-Generation Autonomous Drone Defense](https://dev.to/sher213/distributed-trust-and-multimodal-perception-fornext-generation-autonomous-drone-defense-25h1)
 - [The Metaverse Failed. Augmented Reality Didn&#39;t.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
-- [The AI Price War Just Changed How I Architect Software, and Most Devs Haven&#39;t Noticed](https://dev.to/sirbrian/the-ai-price-war-just-changed-how-i-architect-software-and-most-devs-havent-noticed-30b7)
-- [The median MCP server costs 3,150 tokens before your agent calls anything](https://dev.to/onlyoneaman/the-median-mcp-server-costs-3150-tokens-before-your-agent-calls-anything-4np3)
-- [I built a small one-time secret sharing app with AdonisJS 6](https://dev.to/oguzhankrcb/i-built-a-small-one-time-secret-sharing-app-with-adonisjs-6-cmj)
-- [Voice-to-code 100 % local : Whisper + Claude Code, zéro octet au cloud](https://dev.to/hernanz/voice-to-code-100-local-whisper-claude-code-zero-octet-au-cloud-3420)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
