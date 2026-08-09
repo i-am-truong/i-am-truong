@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The ASN Pivot Playbook: Routes, Upstreams, Downstreams](https://dev.to/abdullah_afzal/the-asn-pivot-playbook-routes-upstreams-downstreams-3ppk)
-- [What Is Amazon S3, Really? &lpar;2026&rpar;](https://dev.to/ethan-carter/what-is-amazon-s3-really-2026-4cle)
-- [n8n Google Sheets Integration: Connect, Read, and Write Rows &lpar;2026&rpar;](https://dev.to/ali_ilyas/n8n-google-sheets-integration-connect-read-and-write-rows-2026-499k)
-- [Cannot find symbol: class Entity — My pom.xml Said MongoDB, My Code Said MySQL](https://dev.to/sanjayfreak/cannot-find-symbol-class-entity-my-pomxml-said-mongodb-my-code-said-mysql-hl5)
-- [⚡ Stop Mocking Backends: Test Stateful REST &amp; GraphQL APIs Live in Your Browser &lpar;Playground API v4.0&rpar;](https://dev.to/nileshcodehub/stop-mocking-backends-test-stateful-rest-graphql-apis-live-in-your-browser-playground-api-57pa)
+- [Mitigating HTTP Request Smuggling](https://dev.to/aniket28dot/mitigating-http-request-smuggling-be6)
+- [How I Built a $0/Month Ecommerce MVP Without Shopify](https://dev.to/haseeb_sheikh_0f627e74ba7/how-i-built-a-0month-ecommerce-mvp-without-shopify-7hh)
+- [Why Exact Transaction Matching Breaks on 1 Relationships](https://dev.to/quickrecon/why-exact-transaction-matching-breaks-on-1-relationships-5eho)
+- [What Happens When You Type a URL in the Browser?](https://dev.to/darshan_dev/what-happens-when-you-type-a-url-in-the-browser-4epo)
+- [I Built an IP Geo Phone Server — 5 Things I Actually Used](https://dev.to/onizuka/i-built-an-ip-geo-phone-server-5-things-i-actually-used-2cn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
