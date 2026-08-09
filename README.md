@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Day Our Web App Took 8 Seconds to Load &lpar;and How We Cut It in Half&rpar;](https://dev.to/frontend_craft/the-day-our-web-app-took-8-seconds-to-load-and-how-we-cut-it-in-half-504c)
-- [DeepSeek&#39;s Flash outpaced its own flagship. The upgrade was post-training, not parameters.](https://dev.to/thegatewayguy/deepseeks-flash-outpaced-its-own-flagship-the-upgrade-was-post-training-not-parameters-333o)
-- [GGUF vs GPTQ vs AWQ: Which Quantization Format Should You Actually Use?](https://dev.to/quantizelab/gguf-vs-gptq-vs-awq-which-quantization-format-should-you-actually-use-5hn9)
-- [Cedar could stop one bad tool call. Dogwood stops bad sequences.](https://dev.to/thegatewayguy/cedar-could-stop-one-bad-tool-call-dogwood-stops-bad-sequences-1jik)
-- [Project Log #21: The Grand Finale. We Shipped. &lpar;Plus: Full Setup Guide&rpar;](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-21-the-grand-finale-we-shipped-plus-full-setup-guide-55ph)
+- [Zero backend, zero cost — and three silent bugs I didn&#39;t see coming](https://dev.to/seqat/zero-backend-zero-cost-and-three-silent-bugs-i-didnt-see-coming-pa1)
+- [Your token bill is the cheap part: dimensioning the real cost of an agent](https://dev.to/loopandretry/your-token-bill-is-the-cheap-part-dimensioning-the-real-cost-of-an-agent-2bfn)
+- [Swagger Isn&#39;t Just API Documentation](https://dev.to/sam090/swagger-isnt-just-api-documentation-1dn7)
+- [How I Estimate AI Coding Agent Costs Before Long Sessions](https://dev.to/kevin_zhang_5045713ea4589/how-i-estimate-ai-coding-agent-costs-before-long-sessions-41cj)
+- [AI Didn&#39;t Replace My DevOps Workflow. It Shortened the Path to a Hypothesis.](https://dev.to/akhil_anil/ai-didnt-replace-my-devops-workflow-it-shortened-the-path-to-a-hypothesis-47b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
