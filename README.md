@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Philosophy for AI Agents](https://dev.to/iroha1203/a-philosophy-for-ai-agents-e6m)
-- [The Agent Stack Is Filling In. The Judgment Layer Is Still an Open Problem](https://dev.to/kikashy/the-agent-stack-is-filling-in-the-judgment-layer-is-still-an-open-problem-40g2)
-- [Learning, Building &amp; Teaching: My Journey Begins on DEV](https://dev.to/sana_noor/learning-building-teaching-my-journey-begins-on-dev-2ida)
-- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
-- [A whiteboard that can&#39;t upload your drawing, because the browser won&#39;t let it](https://dev.to/pop3_zxcv/a-whiteboard-that-cant-upload-your-drawing-because-the-browser-wont-let-it-302f)
+- [Technical Documentation Template: Build Product Docs With a Tested Structure](https://dev.to/ninadpathak/technical-documentation-template-build-product-docs-with-a-tested-structure-39m7)
+- [Beyond the Black Box: Reclaiming Developer Agency in an Era of AI-Assisted Coding](https://dev.to/tamizuddin/beyond-the-black-box-reclaiming-developer-agency-in-an-era-of-ai-assisted-coding-2mf0)
+- [A backup you haven&#39;t restored isn&#39;t a backup](https://dev.to/takiuddinahmed/a-backup-you-havent-restored-isnt-a-backup-4lj)
+- [ChronicleOps: Autonomous Chaos Engineering &amp; Self-Healing Telemetry Engine published](https://dev.to/siddarth_ns_addc7115cec1e/chronicleops-autonomous-chaos-engineering-self-healing-telemetry-enginepublished-2hdm)
+- [How I found a 32x performance bug hiding in a UTF-8 decoder](https://dev.to/yutonakamuradev/how-i-found-a-32x-performance-bug-hiding-in-a-utf-8-decoder-ojp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
