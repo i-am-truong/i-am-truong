@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When AI Fails to Smash the Bug 🪲](https://dev.to/trickell/when-ai-fails-to-smash-the-bug-22j)
-- [Exploring Sentry: Reducing Load Time 🐢](https://dev.to/annavi11arrea1/exploring-sentry-reducing-load-time-52gf)
-- [My Nand2Tetris Journey #1 - Building Logic Gates from NAND](https://dev.to/rondo/my-nand2tetris-journey-1-building-logic-gates-from-nand-4o1h)
-- [I Ported a Python Library to Rust. All 1,059 Original Tests Passed — and It Was Still Broken.](https://dev.to/shivharakhyadav/i-ported-a-python-library-to-rust-all-1059-original-tests-passed-and-it-was-still-broken-3mge)
-- [Built an open-source MCP Conformance Scanner](https://dev.to/ak1ng/built-an-open-source-mcp-conformance-scanner-7op)
+- [When is it safe to open the microphone? Building a realtime voice agent on Twilio](https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo)
+- [Can a Cheap Model Beat a Frontier Model? Rebuilding Recursive Language Models with Codex](https://dev.to/rickeshtn/can-a-cheap-model-beat-a-frontier-model-rebuilding-recursive-language-models-with-codex-2m45)
+- [I’m Building a Secure File Workspace From Scratch — Here’s What I’ve Learned](https://dev.to/rishavkumarjha06/im-building-a-secure-file-workspace-from-scratch-heres-what-ive-learned-26b9)
+- [RVBBIT: What I Learned Building a Linux Kernel Rootkit PoC — and Why I Ended Up Studying Detection](https://dev.to/buter_chkalova/rvbbit-what-i-learned-building-a-linux-kernel-rootkit-poc-and-why-i-ended-up-studying-detection-32h)
+- [From Visual Workflows to Native Code in Production: The Complete Journey of an n8n Backend That Couldn&#39;t Stop Evolving](https://dev.to/rogeriomaciel/from-visual-workflows-to-native-code-in-production-the-complete-journey-of-an-n8n-backend-that-508j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
