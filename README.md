@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Surviving the AI Bubble With Two Pieces of Junk From Amazon](https://dev.to/numbpill3d/surviving-the-ai-bubble-with-two-pieces-of-junk-from-amazon-5h1i)
-- [Building an Open-Source NOAA MRMS Radar Renderer in Python](https://dev.to/davidtaylorjr/building-an-open-source-noaa-mrms-radar-renderer-in-python-4oo0)
-- [How to Convert Files in the Browser Without Uploading Them](https://dev.to/harshapalegar/how-to-convert-files-in-the-browser-without-uploading-them-3hid)
-- [I spent $58 testing founder distribution. Here is what happened](https://dev.to/conversionrescue/i-spent-58-testing-founder-distribution-here-is-what-happened-39h4)
-- [Hey everyone! I recently wrapped up a project migrating 6 separate Go microservice repositories into a unified monorepo setup.
-
-I documented the architecture decisions, pipeline setup, and lessons learned here.](https://dev.to/singhamandeep007/hey-everyone-i-recently-wrapped-up-a-project-migrating-6-separate-go-microservice-repositories-5d1d)
+- [Safeguarding Your Systems: An Introduction to the Circuit Breaker Pattern](https://dev.to/saurav_tb_pandey/safeguarding-your-systems-an-introduction-to-the-circuit-breaker-pattern-5dp)
+- [Thinking and Decision Making: Cognitive Processes Explained](https://dev.to/extinctsion/thinking-and-decision-making-cognitive-processes-explained-2hl3)
+- [What if the main coding-agent session was intentionally dumb?](https://dev.to/justjov/what-if-the-main-coding-agent-session-was-intentionally-dumb-2n90)
+- [Linux Memory Region Data Structures](https://dev.to/kai-wen-the-parrot/linux-memory-region-data-structures-1dnl)
+- [Can a Startup Audio Transcription API Prove EU Processing, GDPR Controls, and SOC 2 Scope?](https://dev.to/donovanpierce4012/can-a-startup-audio-transcription-api-prove-eu-processing-gdpr-controls-and-soc-2-scope-1oj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
