@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A broken heading hierarchy is an architecture problem, not a markup one](https://dev.to/praiztech/a-broken-heading-hierarchy-is-an-architecture-problem-not-a-markup-one-489n)
-- [Your AI Agent Changed Its Config. Can You Roll It Back Safely?](https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk)
-- [Pattern Recognition: The Matrix Mindset for Top Coders](https://dev.to/timevolt/pattern-recognition-the-matrix-mindset-for-top-coders-2aee)
-- [How to stop a Claude Code agent writing outside a directory](https://dev.to/fewparts/how-to-stop-a-claude-code-agent-writing-outside-a-directory-253p)
-- [How to Find the Beat of a Song &lpar;BPM + Key&rpar;](https://dev.to/ifeelvoid/how-to-find-the-beat-of-a-song-bpm-key-507e)
+- [Why Pasting Figma Screenshots into Claude Fails &lpar;And What to Use Instead&rpar;](https://dev.to/romantsisyk/why-pasting-figma-screenshots-into-claude-fails-and-what-to-use-instead-46d0)
+- [Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable](https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n)
+- [Ghidra internals: Where are my logs ?](https://dev.to/ddupard/ghidra-internals-where-are-my-logs--p3n)
+- [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
+- [A directory told me exactly what my followed link is worth: ten upvotes](https://dev.to/blueticks/a-directory-told-me-exactly-what-my-followed-link-is-worth-ten-upvotes-82o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
