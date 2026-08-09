@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Can&#39;t Draw — This Plugin Borrows Your Codex CLI Login](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-code-cant-draw-this-plugin-borrows-your-codex-cli-login-559c)
-- [Architecting Battery-Efficient Geofencing for Android Automation](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-android-automation-55mo)
-- [Structured Context vs Pixel Context: What Coding Agents Actually Need](https://dev.to/romantsisyk/structured-context-vs-pixel-context-what-coding-agents-actually-need-4fl8)
-- [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
-- [How I Wired Up Fully-Automated Cross-Posting Between Blogger and dev.to &lpar;With Working Code&rpar;](https://dev.to/just_a_side_project/how-i-wired-up-fully-automated-cross-posting-between-blogger-and-devto-with-working-code-41ak)
+- [[EN] Infrastructure Lifecycle Management: Provisioning vs Decommissioning](https://dev.to/cedon/en-infrastructure-lifecycle-management-provisioning-vs-decommissioning-3f1a)
+- [Mi primer intento con agentes de IA fracasó. El problema no era el modelo](https://dev.to/saulemprendedor/mi-primer-intento-con-agentes-de-ia-fracaso-el-problema-no-era-el-modelo-4eoh)
+- [AI Agents Are Distributed Systems in Disguise: The Advanced Mathematics, Color Architecture, and Engineering of Production Agentic Systems](https://dev.to/muhammad_lutfimuzaki_/ai-agents-are-distributed-systems-in-disguise-the-mathematics-architecture-and-engineering-of-1g0a)
+- [Postgres Full-Text Search in Production: How to Load-Test the Index and Pin Down Relevance](https://dev.to/libme/postgres-full-text-search-in-production-how-to-load-test-the-index-and-pin-down-relevance-282b)
+- [How I built BrawlerStats: honest trophy history with Firebase and Cloud Run](https://dev.to/brawlerstats/how-i-built-brawlerstats-honest-trophy-history-with-firebase-and-cloud-run-4bl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
