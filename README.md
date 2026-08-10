@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you steal a robot&#39;s next move by watching its clock? Journal of our experiments on timing side channels in multi agent RL](https://dev.to/skondho_kata/can-you-steal-a-robots-next-move-by-watching-its-clock-journal-of-our-experiments-on-timing-side-1k5f)
-- [I turned a drawer of old Android phones into screen-off security cameras](https://dev.to/superfunicular/i-turned-a-drawer-of-old-android-phones-into-screen-off-security-cameras-5bj5)
-- [Grep Without Word Boundaries: 70 Tokens Across 7.68M Words, and os Is Real 0.1% of the Time](https://dev.to/vibeagentmaking/grep-without-word-boundaries-70-tokens-across-768m-words-and-os-is-real-01-of-the-time-4pel)
-- [Memory Management and Optimization in JavaScript](https://dev.to/sharique_siddiqui_8242dad/memory-management-and-optimization-in-javascript-dbh)
-- [I made my product database queryable by AI agents — a free API + MCP endpoint](https://dev.to/sunsee/i-made-my-product-database-queryable-by-ai-agents-a-free-api-mcp-endpoint-1jl2)
+- [Architecting Secure Webhooks in Laravel 🔒](https://dev.to/iprajapatiparesh/architecting-secure-webhooks-in-laravel-4l6c)
+- [Stop Letting Claude Code Hallucinate Your Modernization: Write OpenRewrite LST Recipes Instead](https://dev.to/machinecodingmaster/stop-letting-claude-code-hallucinate-your-modernization-write-openrewrite-lst-recipes-instead-il6)
+- [Debugging JWTs without a third party seeing your token](https://dev.to/developer_tech/debugging-jwts-without-a-third-party-seeing-your-token-46cj)
+- [GitHub Doesn&#39;t Get “Hacked” the Way You Think](https://dev.to/farhadrahimiklie/github-doesnt-get-hacked-the-way-you-think-1c5l)
+- [6 Patterns of Cache](https://dev.to/tienbku/6-patterns-of-cache-3gmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
