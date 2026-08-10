@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We shipped a one-click &#39;Add to Cursor&#39; button. The hard part wasn&#39;t the button.](https://dev.to/eugeniya_ivanova_4a58eadc/we-shipped-a-one-click-add-to-cursor-button-the-hard-part-wasnt-the-button-141m)
-- [Six ATS platforms publish their job boards as open JSON. Here are the endpoints.](https://dev.to/udaninn/six-ats-platforms-publish-their-job-boards-as-open-json-here-are-the-endpoints-2d3k)
-- [Immersive Technology in Production: 7 Examples Worth Studying](https://dev.to/viitorx007/immersive-technology-in-production-7-examples-worth-studying-5bf2)
-- [include-tidy: A Tool to Enforce Include-What-You-Use, Part 2](https://dev.to/pauljlucas/include-tidy-a-tool-to-enforce-include-what-you-use-part-2-28nn)
-- [NVIDIA 610.57.04 for Linux: the point release actually worth installing](https://dev.to/alvarito1983/nvidia-6105704-for-linux-the-point-release-actually-worth-installing-2phf)
+- [How Should Scripting Work in a Low-Code Platform?](https://dev.to/informat/how-should-scripting-work-in-a-low-code-platform-1mfn)
+- [Sadhya — A Feast Served on a Leaf 🍃](https://dev.to/adhu070/sadhya-a-feast-served-on-a-leaf-4adh)
+- [I Compared 12 WHOIS APIs — Subdomain Center Won on 3 Metrics](https://dev.to/onizuka/i-compared-12-whois-apis-subdomain-center-won-on-3-metrics-2nll)
+- [Sound Is Just Numbers: Generating a Tone From Scratch in C++](https://dev.to/mwiginton/sound-is-just-numbers-generating-a-tone-from-scratch-in-c-30no)
+- [I Built Genesis: The First Brain for AI Agents &lpar;Agent-skills&rpar;](https://dev.to/raiyanu/i-built-genesis-the-first-brain-for-ai-agents-agent-skills-41f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
