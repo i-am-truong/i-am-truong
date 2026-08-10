@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop googling cron syntax. Read it in plain English instead](https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-5712)
-- [Three ways my grouped train/test split leaked anyway...](https://dev.to/cayllahuapedro/three-ways-my-grouped-traintest-split-leaked-anyway-3bf9)
-- [Why Spark Couldn&#39;t Read from Kafka: A Real Debugging Journey Across PySpark, Hadoop, Docker, and Kafka](https://dev.to/lee_yao_cfeb14fb9b141b8c5/why-spark-couldnt-read-from-kafka-a-real-debugging-journey-across-pyspark-hadoop-docker-and-6fg)
-- [I checked a dozen startup directories for real backlinks. Most free tiers give you nothing.](https://dev.to/autocomp/i-checked-a-dozen-startup-directories-for-real-backlinks-most-free-tiers-give-you-nothing-4bag)
-- [35 domains link to every major web host](https://dev.to/petteri_pucilowski_7ec755/35-domains-link-to-every-major-web-host-308p)
+- [Can you steal a robot&#39;s next move by watching its clock? Journal of our experiments on timing side channels in multi agent RL](https://dev.to/skondho_kata/can-you-steal-a-robots-next-move-by-watching-its-clock-journal-of-our-experiments-on-timing-side-1k5f)
+- [I turned a drawer of old Android phones into screen-off security cameras](https://dev.to/superfunicular/i-turned-a-drawer-of-old-android-phones-into-screen-off-security-cameras-5bj5)
+- [Grep Without Word Boundaries: 70 Tokens Across 7.68M Words, and os Is Real 0.1% of the Time](https://dev.to/vibeagentmaking/grep-without-word-boundaries-70-tokens-across-768m-words-and-os-is-real-01-of-the-time-4pel)
+- [Memory Management and Optimization in JavaScript](https://dev.to/sharique_siddiqui_8242dad/memory-management-and-optimization-in-javascript-dbh)
+- [I made my product database queryable by AI agents — a free API + MCP endpoint](https://dev.to/sunsee/i-made-my-product-database-queryable-by-ai-agents-a-free-api-mcp-endpoint-1jl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
