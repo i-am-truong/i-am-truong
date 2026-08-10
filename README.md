@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I put Gopher on Nostr. Now every npub is a gopherhole](https://dev.to/thecryptodonkey/i-put-gopher-on-nostr-now-every-npub-is-a-gopherhole-ahh)
-- [Agentic AI in German: The Words, the Law, the Numbers](https://dev.to/studiomeyer_io/agentic-ai-in-german-the-words-the-law-the-numbers-33bf)
-- [Six of my published pages were invisible to every counter I own, and they were in the ledger](https://dev.to/blueticks/six-of-my-published-pages-were-invisible-to-every-counter-i-own-and-they-were-in-the-ledger-5cch)
-- [Stop switching tabs to fix your deployments: Giving LLMs hands on Netlify](https://dev.to/renato_marinho/stop-switching-tabs-to-fix-your-deployments-giving-llms-hands-on-netlify-14ha)
-- [What Happens When 20,000 People Click the Same Seat](https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n)
+- [The Error Message I Rewrite Until a Stranger Understands It](https://dev.to/raxxostudios/the-error-message-i-rewrite-until-a-stranger-understands-it-4960)
+- [Git Like a Jedi: The Force of Clean Commits](https://dev.to/timevolt/git-like-a-jedi-the-force-of-clean-commits-38p6)
+- [Kiro IDE vs Kiro Crew: como estou usando agentes de IA para melhorar meu dia a dia](https://dev.to/guinas/kiro-ide-vs-kiro-crew-como-estou-usando-agentes-de-ia-para-melhorar-meu-dia-a-dia-12fc)
+- [Re-architecting AWS to Proxmox LXC: Saving 70% on Cloud Costs](https://dev.to/mealiclay01/re-architecting-aws-to-proxmox-lxc-saving-70-on-cloud-costs-4pch)
+- [Microsoft MAI-Image-2 Rankings: What the Official Release Actually Confirms](https://dev.to/alifar/microsoft-mai-image-2-rankings-what-the-official-release-actually-confirms-dg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
