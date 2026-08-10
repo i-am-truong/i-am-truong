@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vars and muts &rpar;ruff&lpar;](https://dev.to/tyrkanzyka/vars-and-muts-ruff-2i1l)
-- [Writing to Get Cited by AI Is a Different Skill Than Writing to Rank in Google](https://dev.to/stevensnell/writing-to-get-cited-by-ai-is-a-different-skill-than-writing-to-rank-in-google-44go)
-- [so close to 4k followers on here, currently sitting at 3,973 🥹](https://dev.to/hacksore/so-close-to-4k-followers-on-here-currently-sitting-at-3973-44oo)
-- [Why I Chose NestJS and Never Looked Back](https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon)
-- [Your terragrunt &lpar;or terraform&rpar; plan is 4,000 lines. Only two of them matter.](https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8)
+- [Automating End-to-End PR Workflows with Claude Task Master](https://dev.to/developerzai/automating-end-to-end-pr-workflows-with-claude-task-master-3fgh)
+- [Text at 1:1 contrast is not an axe violation. It is incomplete.](https://dev.to/henrique_yuri_f42f2fca47a/text-at-11-contrast-is-not-an-axe-violation-it-is-incomplete-436c)
+- [Is this even a valid card? Zero-shot image classification model in a lambda container](https://dev.to/aws-builders/is-this-even-a-valid-card-zero-shot-image-classification-model-in-a-lambda-container-58oj)
+- [Connect Claude to Your CMS: A 5-Minute Guide to the Cosmic MCP Server](https://dev.to/tonyspiro/connect-claude-to-your-cms-a-5-minute-guide-to-the-cosmic-mcp-server-4hbf)
+- [Skip the App Stores: Build an Installable, Native-Like Mobile App with Angular, Ionic &amp; PWA](https://dev.to/the-modern-web/skip-the-app-stores-build-an-installable-native-like-mobile-app-with-angular-ionic-pwa-3f5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
