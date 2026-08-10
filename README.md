@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Secure Webhooks in Laravel 🔒](https://dev.to/iprajapatiparesh/architecting-secure-webhooks-in-laravel-4l6c)
-- [Stop Letting Claude Code Hallucinate Your Modernization: Write OpenRewrite LST Recipes Instead](https://dev.to/machinecodingmaster/stop-letting-claude-code-hallucinate-your-modernization-write-openrewrite-lst-recipes-instead-il6)
-- [Debugging JWTs without a third party seeing your token](https://dev.to/developer_tech/debugging-jwts-without-a-third-party-seeing-your-token-46cj)
-- [GitHub Doesn&#39;t Get “Hacked” the Way You Think](https://dev.to/farhadrahimiklie/github-doesnt-get-hacked-the-way-you-think-1c5l)
-- [6 Patterns of Cache](https://dev.to/tienbku/6-patterns-of-cache-3gmb)
+- [A csh bug we thought we fixed came back in a new feature — designing a login-shell-independent SSH command wrapper](https://dev.to/susumun/a-csh-bug-we-thought-we-fixed-came-back-in-a-new-feature-designing-a-login-shell-independent-ssh-4hob)
+- [AWS CloudFormation — Infrastructure as Code, Templates, Stacks &amp; Change Sets](https://dev.to/tejas_shinkar/aws-cloudformation-infrastructure-as-code-templates-stacks-change-sets-50k0)
+- [Fixing a Silent Cache Bug in npmx.dev](https://dev.to/tejas164321/fixing-a-silent-cache-bug-in-npmxdev-2bh6)
+- [TryHackMe : Overflow The Jackpot writeup](https://dev.to/exploitnotes/tryhackme-overflow-the-jackpot-writeup-4b1f)
+- [On-Demand vs Spot GPUs for AI Inference: The Cost Rules We Actually Use](https://dev.to/muskan_bandta/on-demand-vs-spot-gpus-for-ai-inference-the-cost-rules-we-actually-use-42db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
