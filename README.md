@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 Best Stock Market MCP Servers in 2026: Real-Time &amp; SEC Data](https://dev.to/daniel_oliveira_4bd55d35d/6-best-stock-market-mcp-servers-in-2026-real-time-sec-data-je9)
-- [Five files that go in before the agent writes a line](https://dev.to/mikobuilds/five-files-that-go-in-before-the-agent-writes-a-line-580e)
-- [Spec Driven Development: What It Fixes &lpar;and Breaks&rpar;](https://dev.to/mudassirworks/spec-driven-development-what-it-fixes-and-breaks-1co3)
-- [I&#39;m building Kumo, a terminal multiplexer for the AI agent era](https://dev.to/marcrdgz/im-building-kumo-a-terminal-multiplexer-for-the-ai-agent-era-383e)
-- [🚀 Introducing pack.nvim: The Modern UI for Neovim&#39;s Native Package Manager](https://dev.to/igmrrf/introducing-packnvim-the-modern-ui-for-neovims-native-package-manager-eii)
+- [Vars and muts &rpar;ruff&lpar;](https://dev.to/tyrkanzyka/vars-and-muts-ruff-2i1l)
+- [Writing to Get Cited by AI Is a Different Skill Than Writing to Rank in Google](https://dev.to/stevensnell/writing-to-get-cited-by-ai-is-a-different-skill-than-writing-to-rank-in-google-44go)
+- [so close to 4k followers on here, currently sitting at 3,973 🥹](https://dev.to/hacksore/so-close-to-4k-followers-on-here-currently-sitting-at-3973-44oo)
+- [Why I Chose NestJS and Never Looked Back](https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon)
+- [Your terragrunt &lpar;or terraform&rpar; plan is 4,000 lines. Only two of them matter.](https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
