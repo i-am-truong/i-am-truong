@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Postgresql Simplified](https://dev.to/joshikrati03/postgresql-simplified-m8o)
-- [OpenAI Daybreak Brings Governed Frontier AI Workflows to Cybersecurity Defenders](https://dev.to/alifar/openai-daybreak-brings-governed-frontier-ai-workflows-to-cybersecurity-defenders-220a)
-- [How I Built a Candlestick Recognition Game with JavaScript](https://dev.to/piyush_ds_d9d7dd38fb24166/how-i-built-a-candlestick-recognition-game-with-javascript-27f9)
-- [Reddit was removing my posts and my code could not see it](https://dev.to/michael-yousrie/reddit-was-removing-my-posts-and-my-code-could-not-see-it-1bkm)
-- [Technical Documentation Best Practices, Tested on Real Developer Docs](https://dev.to/ninadpathak/technical-documentation-best-practices-tested-on-real-developer-docs-27co)
+- [DevLog 2 :Finishing Network Layer of the GUI framework.](https://dev.to/himansa/devlog-2-finishing-network-layer-of-the-gui-framework-3mbd)
+- [I made my Google account so secure I could lock myself out](https://dev.to/philipfong/i-made-my-google-account-so-secure-i-could-lock-myself-out-1fnk)
+- [Manual Capture in Production: Holds, Buffers, Split Payments, and the Seven-Day Clock](https://dev.to/dineshstack/manual-capture-in-production-holds-buffers-split-payments-and-the-seven-day-clock-51o5)
+- [How I stopped sounding rude in code reviews &lpar;as a non-native English speaker&rpar;](https://dev.to/klooder/how-i-stopped-sounding-rude-in-code-reviews-as-a-non-native-english-speaker-1c3j)
+- [The First NexFlow CLI Should Refuse to Run Agents](https://dev.to/alexander_iwizard/the-first-nexflow-cli-should-refuse-to-run-agents-2jje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
