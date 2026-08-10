@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I listed my MCP on the official MCP Registery and how you can do yours too ?](https://dev.to/jay_elsheikh_59b14ad67922/how-i-listed-my-mcp-on-the-official-mcp-registery-and-how-you-can-do-yours-too--1lp)
-- [Custom Promise in JS](https://dev.to/sai_swaroopbijinapalli_5/custom-promise-in-js-80)
-- [SQLite FTS5 is faster than Whoosh. So why would you ever use a pure-Python search engine?](https://dev.to/priyasundaram/sqlite-fts5-is-faster-than-whoosh-so-why-would-you-ever-use-a-pure-python-search-engine-3o6g)
-- [I Stopped Trusting My Gut on New Open Models. A 30-Minute Scoring Loop Replaced It.](https://dev.to/datacpp_8185/i-stopped-trusting-my-gut-on-new-open-models-a-30-minute-scoring-loop-replaced-it-5dba)
-- [I built an MCP server that gives AI agents exact, high-precision finance math](https://dev.to/datanestdigital/i-built-an-mcp-server-that-gives-ai-agents-exact-high-precision-finance-math-40pl)
+- [We shipped a one-click &#39;Add to Cursor&#39; button. The hard part wasn&#39;t the button.](https://dev.to/eugeniya_ivanova_4a58eadc/we-shipped-a-one-click-add-to-cursor-button-the-hard-part-wasnt-the-button-141m)
+- [Six ATS platforms publish their job boards as open JSON. Here are the endpoints.](https://dev.to/udaninn/six-ats-platforms-publish-their-job-boards-as-open-json-here-are-the-endpoints-2d3k)
+- [Immersive Technology in Production: 7 Examples Worth Studying](https://dev.to/viitorx007/immersive-technology-in-production-7-examples-worth-studying-5bf2)
+- [include-tidy: A Tool to Enforce Include-What-You-Use, Part 2](https://dev.to/pauljlucas/include-tidy-a-tool-to-enforce-include-what-you-use-part-2-28nn)
+- [NVIDIA 610.57.04 for Linux: the point release actually worth installing](https://dev.to/alvarito1983/nvidia-6105704-for-linux-the-point-release-actually-worth-installing-2phf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
