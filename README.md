@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I set out to climb &quot;graph engineering.&quot; It was the ladder I&#39;d been standing on for 25 years.](https://dev.to/jenatechio/i-set-out-to-climb-graph-engineering-it-was-the-ladder-id-been-standing-on-for-25-years-1jla)
-- [Python Selenium Architecture](https://dev.to/janani_27/python-selenium-architecture-3lb5)
-- [7 Feature Request Tools for Product Teams in 2026](https://dev.to/biancarus/7-feature-request-tools-for-product-teams-in-2026-4b4j)
-- [Drive-By PRs: What They Are and Why I&#39;d Close Yours](https://dev.to/onepizzateam/drive-by-prs-what-they-are-and-why-id-close-yours-5481)
-- [Handling JWT Authentication &amp; Refresh Tokens in Angular Using an HTTP Interceptor](https://dev.to/harsh_gs/handling-jwt-authentication-refresh-tokens-in-angular-using-an-http-interceptor-30f6)
+- [Postgresql Simplified](https://dev.to/joshikrati03/postgresql-simplified-m8o)
+- [OpenAI Daybreak Brings Governed Frontier AI Workflows to Cybersecurity Defenders](https://dev.to/alifar/openai-daybreak-brings-governed-frontier-ai-workflows-to-cybersecurity-defenders-220a)
+- [How I Built a Candlestick Recognition Game with JavaScript](https://dev.to/piyush_ds_d9d7dd38fb24166/how-i-built-a-candlestick-recognition-game-with-javascript-27f9)
+- [Reddit was removing my posts and my code could not see it](https://dev.to/michael-yousrie/reddit-was-removing-my-posts-and-my-code-could-not-see-it-1bkm)
+- [Technical Documentation Best Practices, Tested on Real Developer Docs](https://dev.to/ninadpathak/technical-documentation-best-practices-tested-on-real-developer-docs-27co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
