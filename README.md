@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Should Scripting Work in a Low-Code Platform?](https://dev.to/informat/how-should-scripting-work-in-a-low-code-platform-1mfn)
-- [Sadhya — A Feast Served on a Leaf 🍃](https://dev.to/adhu070/sadhya-a-feast-served-on-a-leaf-4adh)
-- [I Compared 12 WHOIS APIs — Subdomain Center Won on 3 Metrics](https://dev.to/onizuka/i-compared-12-whois-apis-subdomain-center-won-on-3-metrics-2nll)
-- [Sound Is Just Numbers: Generating a Tone From Scratch in C++](https://dev.to/mwiginton/sound-is-just-numbers-generating-a-tone-from-scratch-in-c-30no)
-- [I Built Genesis: The First Brain for AI Agents &lpar;Agent-skills&rpar;](https://dev.to/raiyanu/i-built-genesis-the-first-brain-for-ai-agents-agent-skills-41f4)
+- [A Polyline Is Not a Route](https://dev.to/codenameone/a-polyline-is-not-a-route-5fek)
+- [GitHub Admin UI + Billing API: Better together for smarter spend decisions](https://dev.to/azure/github-admin-ui-billing-api-better-together-for-smarter-spend-decisions-3lp5)
+- [I Built KiterPDF: A Free PDF Toolkit for Everyday Document Tasks](https://dev.to/manish_baiga_934eb092bad6/i-built-kiterpdf-a-free-pdf-toolkit-for-everyday-document-tasks-7l2)
+- [Who teaches an agent to take the L?](https://dev.to/o96a/who-teaches-an-agent-to-take-the-l-29n8)
+- [How I Keep My AI Coding Agent Costs Down as a Student](https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
