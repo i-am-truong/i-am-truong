@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [best trading app india 2026](https://dev.to/shaktitiwari/best-trading-app-india-2026-2b96)
-- [You can&#39;t set a status in Jira](https://dev.to/keparlak/you-cant-set-a-status-in-jira-4d7p)
-- [Building Guardrails for Autonomous Agents: Mastering EU AI Act Compliance in TypeScript](https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl)
-- [Meta&#39;s Muse Glimmer: A 30B Open-Weight Model Built for Local AI Agents](https://dev.to/jamilxt/metas-muse-glimmer-a-30b-open-weight-model-built-for-local-ai-agents-dkj)
-- [Opus 5: The Cost of Instruction Conflicts](https://dev.to/reporails/opus-5-the-cost-of-instruction-conflicts-ama)
+- [6 Best Stock Market MCP Servers in 2026: Real-Time &amp; SEC Data](https://dev.to/daniel_oliveira_4bd55d35d/6-best-stock-market-mcp-servers-in-2026-real-time-sec-data-je9)
+- [Five files that go in before the agent writes a line](https://dev.to/mikobuilds/five-files-that-go-in-before-the-agent-writes-a-line-580e)
+- [Spec Driven Development: What It Fixes &lpar;and Breaks&rpar;](https://dev.to/mudassirworks/spec-driven-development-what-it-fixes-and-breaks-1co3)
+- [I&#39;m building Kumo, a terminal multiplexer for the AI agent era](https://dev.to/marcrdgz/im-building-kumo-a-terminal-multiplexer-for-the-ai-agent-era-383e)
+- [🚀 Introducing pack.nvim: The Modern UI for Neovim&#39;s Native Package Manager](https://dev.to/igmrrf/introducing-packnvim-the-modern-ui-for-neovims-native-package-manager-eii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
