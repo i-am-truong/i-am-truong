@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 2 :Finishing Network Layer of the GUI framework.](https://dev.to/himansa/devlog-2-finishing-network-layer-of-the-gui-framework-3mbd)
-- [I made my Google account so secure I could lock myself out](https://dev.to/philipfong/i-made-my-google-account-so-secure-i-could-lock-myself-out-1fnk)
-- [Manual Capture in Production: Holds, Buffers, Split Payments, and the Seven-Day Clock](https://dev.to/dineshstack/manual-capture-in-production-holds-buffers-split-payments-and-the-seven-day-clock-51o5)
-- [How I stopped sounding rude in code reviews &lpar;as a non-native English speaker&rpar;](https://dev.to/klooder/how-i-stopped-sounding-rude-in-code-reviews-as-a-non-native-english-speaker-1c3j)
-- [The First NexFlow CLI Should Refuse to Run Agents](https://dev.to/alexander_iwizard/the-first-nexflow-cli-should-refuse-to-run-agents-2jje)
+- [best trading app india 2026](https://dev.to/shaktitiwari/best-trading-app-india-2026-2b96)
+- [You can&#39;t set a status in Jira](https://dev.to/keparlak/you-cant-set-a-status-in-jira-4d7p)
+- [Building Guardrails for Autonomous Agents: Mastering EU AI Act Compliance in TypeScript](https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl)
+- [Meta&#39;s Muse Glimmer: A 30B Open-Weight Model Built for Local AI Agents](https://dev.to/jamilxt/metas-muse-glimmer-a-30b-open-weight-model-built-for-local-ai-agents-dkj)
+- [Opus 5: The Cost of Instruction Conflicts](https://dev.to/reporails/opus-5-the-cost-of-instruction-conflicts-ama)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
