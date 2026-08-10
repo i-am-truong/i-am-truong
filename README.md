@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker Sandboxes in 2026: The Evolution of Secure Code Isolation](https://dev.to/kaixintelligence/docker-sandboxes-in-2026-the-evolution-of-secure-code-isolation-55b8)
-- [Why Does Unix Time Start on January 1, 1970?](https://dev.to/wasifkhan111/why-does-unix-time-start-on-january-1-1970-47g8)
-- [MCP tool discovery eats 10,000 tokens. I got it down to 350.](https://dev.to/mcptokensaver/mcp-tool-discovery-eats-10000-tokens-i-got-it-down-to-350-3lif)
-- [Build vs Buy: VAT Validation via VIES or an API](https://dev.to/iurii_rogulia/build-vs-buy-vat-validation-via-vies-or-an-api-53k)
-- [My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲🍡](https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk)
+- [Xcode 27: Everything Developers Need to Know](https://dev.to/arshtechpro/xcode-27-everything-developers-need-to-know-6lh)
+- [The bug that passes every test and does nothing. I let an AI write more than I read, and the tests that would have caught all of it.](https://dev.to/huckler/the-bug-that-passes-every-test-and-does-nothing-i-let-an-ai-write-more-than-i-read-and-the-tests-228o)
+- [AI Thinks I&#39;m Bertram Gilfoyle From Silicon Valley. Maybe It Has a Point.](https://dev.to/mrasadatik/ai-thinks-im-bertram-gilfoyle-from-silicon-valley-maybe-it-has-a-point-2ei4)
+- [How I Consolidated HTTP, WWW, and index.html URLs with a Cloudflare Worker](https://dev.to/clauxel_fc4a8ded760e880c1/how-i-consolidated-http-www-and-indexhtml-urls-with-a-cloudflare-worker-bm7)
+- [Harness Engineering? Loop Engineering?](https://dev.to/marcos_cruz/harness-engineering-loop-engineering-4ofg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
