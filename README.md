@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Economists Might Actually Make Better Data Scientists](https://dev.to/mustapha8484/why-economists-might-actually-make-better-data-scientists-5a0p)
-- [How I track whether ChatGPT, Claude and Perplexity recommend my product](https://dev.to/supafast-tech/how-i-track-whether-chatgpt-claude-and-perplexity-recommend-my-product-4969)
-- [Rebuilding geojson.io: A Look at the 2026 Rewrite](https://dev.to/mapbox/rebuilding-geojsonio-a-look-at-the-2026-rewrite-38eg)
-- [What actually gets paid in smart contract audit contests](https://dev.to/holistis/what-actually-gets-paid-in-smart-contract-audit-contests-583o)
-- [Your Team Is Getting Faster at Code Review. Your Seniors are Drowning.](https://dev.to/pixel-wraith/your-team-is-getting-faster-at-code-review-your-seniors-are-drowning-1j75)
+- [How to make Claude Code a trustworthy data scientist](https://dev.to/norman_niemer_7f327e153b9/how-to-make-claude-code-a-trustworthy-data-scientist-58of)
+- [The AI Margin Chain Is Upside Down](https://dev.to/deanlee/the-ai-margin-chain-is-upside-down-6l9)
+- [RapidFort points its hardened open-source business at what actually runs in production](https://dev.to/leobaniak/rapidfort-points-its-hardened-open-source-business-at-what-actually-runs-in-production-1bpm)
+- [Best AI Coding Tools in 2026 &lpar;Tested by Developers&rpar;](https://dev.to/ramdai_bista/best-ai-coding-tools-in-2026-tested-by-developers-30m6)
+- [AI Coding Tools Pricing Comparison 2026: All 11 Tools Side by Side](https://dev.to/ramdai_bista/ai-coding-tools-pricing-comparison-2026-all-11-tools-side-by-side-nl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
