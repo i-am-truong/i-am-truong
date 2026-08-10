@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Xcode 27: Everything Developers Need to Know](https://dev.to/arshtechpro/xcode-27-everything-developers-need-to-know-6lh)
-- [The bug that passes every test and does nothing. I let an AI write more than I read, and the tests that would have caught all of it.](https://dev.to/huckler/the-bug-that-passes-every-test-and-does-nothing-i-let-an-ai-write-more-than-i-read-and-the-tests-228o)
-- [AI Thinks I&#39;m Bertram Gilfoyle From Silicon Valley. Maybe It Has a Point.](https://dev.to/mrasadatik/ai-thinks-im-bertram-gilfoyle-from-silicon-valley-maybe-it-has-a-point-2ei4)
-- [How I Consolidated HTTP, WWW, and index.html URLs with a Cloudflare Worker](https://dev.to/clauxel_fc4a8ded760e880c1/how-i-consolidated-http-www-and-indexhtml-urls-with-a-cloudflare-worker-bm7)
-- [Harness Engineering? Loop Engineering?](https://dev.to/marcos_cruz/harness-engineering-loop-engineering-4ofg)
+- [How I listed my MCP on the official MCP Registery and how you can do yours too ?](https://dev.to/jay_elsheikh_59b14ad67922/how-i-listed-my-mcp-on-the-official-mcp-registery-and-how-you-can-do-yours-too--1lp)
+- [Custom Promise in JS](https://dev.to/sai_swaroopbijinapalli_5/custom-promise-in-js-80)
+- [SQLite FTS5 is faster than Whoosh. So why would you ever use a pure-Python search engine?](https://dev.to/priyasundaram/sqlite-fts5-is-faster-than-whoosh-so-why-would-you-ever-use-a-pure-python-search-engine-3o6g)
+- [I Stopped Trusting My Gut on New Open Models. A 30-Minute Scoring Loop Replaced It.](https://dev.to/datacpp_8185/i-stopped-trusting-my-gut-on-new-open-models-a-30-minute-scoring-loop-replaced-it-5dba)
+- [I built an MCP server that gives AI agents exact, high-precision finance math](https://dev.to/datanestdigital/i-built-an-mcp-server-that-gives-ai-agents-exact-high-precision-finance-math-40pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
