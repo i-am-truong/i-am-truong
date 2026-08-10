@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to make Claude Code a trustworthy data scientist](https://dev.to/norman_niemer_7f327e153b9/how-to-make-claude-code-a-trustworthy-data-scientist-58of)
-- [The AI Margin Chain Is Upside Down](https://dev.to/deanlee/the-ai-margin-chain-is-upside-down-6l9)
-- [RapidFort points its hardened open-source business at what actually runs in production](https://dev.to/leobaniak/rapidfort-points-its-hardened-open-source-business-at-what-actually-runs-in-production-1bpm)
-- [Best AI Coding Tools in 2026 &lpar;Tested by Developers&rpar;](https://dev.to/ramdai_bista/best-ai-coding-tools-in-2026-tested-by-developers-30m6)
-- [AI Coding Tools Pricing Comparison 2026: All 11 Tools Side by Side](https://dev.to/ramdai_bista/ai-coding-tools-pricing-comparison-2026-all-11-tools-side-by-side-nl7)
+- [I set out to climb &quot;graph engineering.&quot; It was the ladder I&#39;d been standing on for 25 years.](https://dev.to/jenatechio/i-set-out-to-climb-graph-engineering-it-was-the-ladder-id-been-standing-on-for-25-years-1jla)
+- [Python Selenium Architecture](https://dev.to/janani_27/python-selenium-architecture-3lb5)
+- [7 Feature Request Tools for Product Teams in 2026](https://dev.to/biancarus/7-feature-request-tools-for-product-teams-in-2026-4b4j)
+- [Drive-By PRs: What They Are and Why I&#39;d Close Yours](https://dev.to/onepizzateam/drive-by-prs-what-they-are-and-why-id-close-yours-5481)
+- [Handling JWT Authentication &amp; Refresh Tokens in Angular Using an HTTP Interceptor](https://dev.to/harsh_gs/handling-jwt-authentication-refresh-tokens-in-angular-using-an-http-interceptor-30f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
