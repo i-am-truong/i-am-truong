@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A csh bug we thought we fixed came back in a new feature — designing a login-shell-independent SSH command wrapper](https://dev.to/susumun/a-csh-bug-we-thought-we-fixed-came-back-in-a-new-feature-designing-a-login-shell-independent-ssh-4hob)
-- [AWS CloudFormation — Infrastructure as Code, Templates, Stacks &amp; Change Sets](https://dev.to/tejas_shinkar/aws-cloudformation-infrastructure-as-code-templates-stacks-change-sets-50k0)
-- [Fixing a Silent Cache Bug in npmx.dev](https://dev.to/tejas164321/fixing-a-silent-cache-bug-in-npmxdev-2bh6)
-- [TryHackMe : Overflow The Jackpot writeup](https://dev.to/exploitnotes/tryhackme-overflow-the-jackpot-writeup-4b1f)
-- [On-Demand vs Spot GPUs for AI Inference: The Cost Rules We Actually Use](https://dev.to/muskan_bandta/on-demand-vs-spot-gpus-for-ai-inference-the-cost-rules-we-actually-use-42db)
+- [Multi-tenant DKIM in Haraka: two signatures on one message](https://dev.to/eric-houz/multi-tenant-dkim-in-haraka-two-signatures-on-one-message-46b4)
+- [Canary a Free-Tier Model Promotion With Rate Limits, Truncation, and a Shadow Gate](https://dev.to/robinzzz/canary-a-free-tier-model-promotion-with-rate-limits-truncation-and-a-shadow-gate-28fk)
+- [Filament v4.12 and v5.7: 92% Faster Forms, and the Security Fixes You Still Have to Turn On](https://dev.to/hafiz619/filament-v412-and-v57-92-faster-forms-and-the-security-fixes-you-still-have-to-turn-on-47d)
+- [You&#39;re importing pako to gzip data. `CompressionStream` does it natively.](https://dev.to/parsajiravand/youre-importing-pako-to-gzip-data-compressionstream-does-it-natively-4d7b)
+- [I accidentally built a forward-deployed engineer&#39;s field kit](https://dev.to/ferhatatagun/i-accidentally-built-a-forward-deployed-engineers-field-kit-khi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
