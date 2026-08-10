@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[EN] Infrastructure Lifecycle Management: Provisioning vs Decommissioning](https://dev.to/cedon/en-infrastructure-lifecycle-management-provisioning-vs-decommissioning-3f1a)
-- [Mi primer intento con agentes de IA fracasó. El problema no era el modelo](https://dev.to/saulemprendedor/mi-primer-intento-con-agentes-de-ia-fracaso-el-problema-no-era-el-modelo-4eoh)
-- [AI Agents Are Distributed Systems in Disguise: The Advanced Mathematics, Color Architecture, and Engineering of Production Agentic Systems](https://dev.to/muhammad_lutfimuzaki_/ai-agents-are-distributed-systems-in-disguise-the-mathematics-architecture-and-engineering-of-1g0a)
-- [Postgres Full-Text Search in Production: How to Load-Test the Index and Pin Down Relevance](https://dev.to/libme/postgres-full-text-search-in-production-how-to-load-test-the-index-and-pin-down-relevance-282b)
-- [How I built BrawlerStats: honest trophy history with Firebase and Cloud Run](https://dev.to/brawlerstats/how-i-built-brawlerstats-honest-trophy-history-with-firebase-and-cloud-run-4bl2)
+- [Stop googling cron syntax. Read it in plain English instead](https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-5712)
+- [Three ways my grouped train/test split leaked anyway...](https://dev.to/cayllahuapedro/three-ways-my-grouped-traintest-split-leaked-anyway-3bf9)
+- [Why Spark Couldn&#39;t Read from Kafka: A Real Debugging Journey Across PySpark, Hadoop, Docker, and Kafka](https://dev.to/lee_yao_cfeb14fb9b141b8c5/why-spark-couldnt-read-from-kafka-a-real-debugging-journey-across-pyspark-hadoop-docker-and-6fg)
+- [I checked a dozen startup directories for real backlinks. Most free tiers give you nothing.](https://dev.to/autocomp/i-checked-a-dozen-startup-directories-for-real-backlinks-most-free-tiers-give-you-nothing-4bag)
+- [35 domains link to every major web host](https://dev.to/petteri_pucilowski_7ec755/35-domains-link-to-every-major-web-host-308p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
