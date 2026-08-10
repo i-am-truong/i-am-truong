@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Polyline Is Not a Route](https://dev.to/codenameone/a-polyline-is-not-a-route-5fek)
-- [GitHub Admin UI + Billing API: Better together for smarter spend decisions](https://dev.to/azure/github-admin-ui-billing-api-better-together-for-smarter-spend-decisions-3lp5)
-- [I Built KiterPDF: A Free PDF Toolkit for Everyday Document Tasks](https://dev.to/manish_baiga_934eb092bad6/i-built-kiterpdf-a-free-pdf-toolkit-for-everyday-document-tasks-7l2)
-- [Who teaches an agent to take the L?](https://dev.to/o96a/who-teaches-an-agent-to-take-the-l-29n8)
-- [How I Keep My AI Coding Agent Costs Down as a Student](https://dev.to/lswans/how-i-keep-my-ai-coding-agent-costs-down-as-a-student-1l20)
+- [Why Economists Might Actually Make Better Data Scientists](https://dev.to/mustapha8484/why-economists-might-actually-make-better-data-scientists-5a0p)
+- [How I track whether ChatGPT, Claude and Perplexity recommend my product](https://dev.to/supafast-tech/how-i-track-whether-chatgpt-claude-and-perplexity-recommend-my-product-4969)
+- [Rebuilding geojson.io: A Look at the 2026 Rewrite](https://dev.to/mapbox/rebuilding-geojsonio-a-look-at-the-2026-rewrite-38eg)
+- [What actually gets paid in smart contract audit contests](https://dev.to/holistis/what-actually-gets-paid-in-smart-contract-audit-contests-583o)
+- [Your Team Is Getting Faster at Code Review. Your Seniors are Drowning.](https://dev.to/pixel-wraith/your-team-is-getting-faster-at-code-review-your-seniors-are-drowning-1j75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
