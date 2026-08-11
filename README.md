@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate your job search: a daily LinkedIn jobs pipeline in Python](https://dev.to/data_pool/automate-your-job-search-a-daily-linkedin-jobs-pipeline-in-python-4248)
-- [How I Built a No-App Photo Sharing Platform Using Just QR Codes and Browser Cameras](https://dev.to/morpheus1537/how-i-built-a-no-app-photo-sharing-platform-using-just-qr-codes-and-browser-cameras-2obn)
-- [Use AI? See how much you&#39;ve used in a second.](https://dev.to/aiwithaj/use-ai-see-how-much-youve-used-in-a-second-2j6i)
-- [AI May Fragment Local Discovery, but the Search Narrative Needs Stronger Evidence](https://dev.to/alifar/ai-may-fragment-local-discovery-but-the-search-narrative-needs-stronger-evidence-1hkl)
-- [Architecting Enterprise Autonomous Web Agent SaaS: From Theory to TypeScript Production](https://dev.to/programmingcentral/architecting-enterprise-autonomous-web-agent-saas-from-theory-to-typescript-production-5fll)
+- [Designing an End-to-End RAG Architecture from Scratch](https://dev.to/odingaval/designing-an-end-to-end-rag-architecture-from-scratch-230i)
+- [useEffect, Explained: A Quick Beginner&#39;s Guide](https://dev.to/danpgomez/useeffect-explained-a-quick-beginners-guide-g37)
+- [Generative Engine Optimization Is Growing, but the Panda Parallel Is Not Proven](https://dev.to/alifar/generative-engine-optimization-is-growing-but-the-panda-parallel-is-not-proven-34no)
+- [Understanding Connected and Automated Vehicles &lpar;CAV&rpar; Part-1](https://dev.to/ryan_fernandes_fc52e09ac9/understanding-connected-and-automated-vehicles-cav-part-1-2n0)
+- [DFlash Changes What Tokens per Second Means](https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
