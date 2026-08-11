@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are AI Agents? The Practitioner&#39;s Guide to Autonomous Systems](https://dev.to/mryadavgulshan/what-are-ai-agents-the-practitioners-guide-to-autonomous-systems-4kml)
-- [Idempotent Signup Emails in REST APIs](https://dev.to/kevindev27/idempotent-signup-emails-in-rest-apis-54e4)
-- [BdThemes API-Driven Supply Chain Compromise: Admin XSS to Web Shell and Hidden Admin](https://dev.to/anoymask/bdthemes-api-driven-supply-chain-compromise-admin-xss-to-web-shell-and-hidden-admin-5c70)
-- [Ghostjacking: Turning Logs and Alerts into Commands to Take Over AI Agents](https://dev.to/anoymask/ghostjacking-turning-logs-and-alerts-into-commands-to-take-over-ai-agents-4l0h)
-- [Disruption of Polish CHP: Wind Farm to OT via Private APN](https://dev.to/anoymask/disruption-of-polish-chp-wind-farm-to-ot-via-private-apn-1jp1)
+- [Data Scientist Learning JS: Promises and resolve&lpar;&rpar;](https://dev.to/j1wonkim/data-scientist-learning-js-promises-and-resolve-p9l)
+- [Pdf to Docx using Pyhton](https://dev.to/kevinmel2000/pdf-to-docx-using-pyhton-5e8a)
+- [Parallel Coding Agents Need Handoffs, Not More Terminals](https://dev.to/demivalerith/parallel-coding-agents-need-handoffs-not-more-terminals-71d)
+- [Write down every guarantee before you write any code](https://dev.to/copyleftdev/write-down-every-guarantee-before-you-write-any-code-21oi)
+- [🟩 Team Matrix or ⬜ Team Paper? | Alan Babychan](https://dev.to/alanbabychan/team-matrix-or-team-paper-alan-babychan-1ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
