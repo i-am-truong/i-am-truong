@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Secrets that live in git - encrypted, no Vault, no sidecar](https://dev.to/mighty840/secrets-that-live-in-git-encrypted-no-vault-no-sidecar-4ia5)
-- [Foundation of ml neurons](https://dev.to/sumit_gupta_3fa873c3d768e/foundation-of-ml-neurons-36pd)
-- [The pytest fixture that quietly leaks state between your tests](https://dev.to/msakai/the-pytest-fixture-that-quietly-leaks-state-between-your-tests-3j2f)
-- [Why Codename One Is Moving Beyond Maven Central](https://dev.to/codenameone/why-codename-one-is-moving-beyond-maven-central-35f2)
-- [The agent didn&#39;t hallucinate. It ignored what the repo already knew.](https://dev.to/tufan_tunc/the-agent-didnt-hallucinate-it-ignored-what-the-repo-already-knew-2m44)
+- [I Benchmarked Two Local LLMs on Real Dev Work — Qwopus 27B vs Muse Glimmer 30B](https://dev.to/chpomob/i-benchmarked-two-local-llms-on-real-dev-work-qwopus-27b-vs-muse-glimmer-30b-36ni)
+- [What it took to move a collaborative browser IDE beyond process memory](https://dev.to/thesablefalcon/what-it-took-to-move-a-collaborative-browser-ide-beyond-process-memory-3cj8)
+- [I built a Signals-first toolkit for Angular. Here is the problem I could not stop hitting.](https://dev.to/romain_geffrault_10d88369/i-built-a-signals-first-toolkit-for-angular-here-is-the-problem-i-could-not-stop-hitting-3e3o)
+- [You Don’t Need to Be a Developer to Contribute to Open Source](https://dev.to/chizurumchidimma/you-dont-need-to-be-a-developer-to-contribute-to-open-source-1kgb)
+- [I Built a Concurrent Resource Scheduler in Go Using Sharded Priority Heaps](https://dev.to/phero20/i-built-a-concurrent-resource-scheduler-in-go-using-sharded-priority-heaps-5g34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
