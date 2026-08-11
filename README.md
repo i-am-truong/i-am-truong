@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying to Cloudflare Pages from pure Python — no Node, no wrangler](https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1)
-- [I Built a PreToolUse Hook to Require Confirmation for Selected Commands—even in Claude Code&#39;s Auto Mode](https://dev.to/miura/i-built-a-pretooluse-hook-to-require-confirmation-for-selected-commands-even-in-claude-codes-auto-2bcn)
-- [A path-traversal guard for MCP file tools that actually survives symlinks](https://dev.to/mcpsecnotes/a-path-traversal-guard-for-mcp-file-tools-that-actually-survives-symlinks-2654)
-- [Por qué toda hoja de estilos grande termina siendo impredecible](https://dev.to/ortizfranklindev/por-que-toda-hoja-de-estilos-grande-termina-siendo-impredecible-e3h)
-- [Why Every Large Stylesheet Eventually Becomes Unpredictable](https://dev.to/ortizfranklindev/why-every-large-stylesheet-eventually-becomes-unpredictable-4cah)
+- [Nine green tests and a parser that never worked once](https://dev.to/zkasuran/nine-green-tests-and-a-parser-that-never-worked-once-4m3i)
+- [Encoding a Power-Law Pricing Engine in the Browser](https://dev.to/israr2001/encoding-a-power-law-pricing-engine-in-the-browser-3od7)
+- [I built a privacy-first face blurring tool that runs entirely in your browser](https://dev.to/jeffrey_hamilton6399/i-built-a-privacy-first-face-blurring-tool-that-runs-entirely-in-your-browser-1p5f)
+- [A documented prop that silently stacked every component at the origin](https://dev.to/zkasuran/a-documented-prop-that-silently-stacked-every-component-at-the-origin-5h0f)
+- [How to Build an SEO-Friendly Website That People Actually Want to Use](https://dev.to/krishna_kalra_50cca5b6ff4/how-to-build-an-seo-friendly-website-that-people-actually-want-to-use-16k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
