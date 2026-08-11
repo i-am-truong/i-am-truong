@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I got 165 blog posts indexed in 30 days with zero backlinks](https://dev.to/korelyy/how-i-got-165-blog-posts-indexed-in-30-days-with-zero-backlinks-1dob)
-- [MAI-Code-1-Flash Highlights Microsoft’s Lower-Cost Approach to Coding AI](https://dev.to/alifar/mai-code-1-flash-highlights-microsofts-lower-cost-approach-to-coding-ai-oh)
-- [I Made an AI Project Manager PMI-Aligned—Without Turning It Into Bureaucracy](https://dev.to/yysun/i-made-an-ai-project-manager-pmi-aligned-without-turning-it-into-bureaucracy-3c75)
-- [47 free AI tools that live in your browser &lpar;2026&rpar;](https://dev.to/korelyy/47-free-ai-tools-that-live-in-your-browser-2026-3h25)
-- [Building AI-Powered Flutter Apps with Gemini](https://dev.to/vmodal_ai/building-ai-powered-flutter-apps-with-gemini-10gj)
+- [We had APP_DEBUG=true in production. Google indexed 2,246 error pages.](https://dev.to/volnyn_8249e2bcefd516a59c/we-had-appdebugtrue-in-production-google-indexed-2246-error-pages-3p4o)
+- [the sea is calling](https://dev.to/fosteman/immensity-of-the-sea-96o)
+- [ChatGPT Desktop Is Officially Documented for Windows and Mac, Not Linux](https://dev.to/alifar/chatgpt-desktop-is-officially-documented-for-windows-and-mac-not-linux-36p7)
+- [I have 591 pages. Google indexed one. Here&#39;s how I&#39;m debugging it.](https://dev.to/bcrypto/i-have-591-pages-google-indexed-one-heres-how-im-debugging-it-5cel)
+- [The price on my shop page was not the price at checkout](https://dev.to/maxyull/the-price-on-my-shop-page-was-not-the-price-at-checkout-5e2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
