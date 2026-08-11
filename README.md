@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Benchmarked Two Local LLMs on Real Dev Work — Qwopus 27B vs Muse Glimmer 30B](https://dev.to/chpomob/i-benchmarked-two-local-llms-on-real-dev-work-qwopus-27b-vs-muse-glimmer-30b-36ni)
-- [What it took to move a collaborative browser IDE beyond process memory](https://dev.to/thesablefalcon/what-it-took-to-move-a-collaborative-browser-ide-beyond-process-memory-3cj8)
-- [I built a Signals-first toolkit for Angular. Here is the problem I could not stop hitting.](https://dev.to/romain_geffrault_10d88369/i-built-a-signals-first-toolkit-for-angular-here-is-the-problem-i-could-not-stop-hitting-3e3o)
-- [You Don’t Need to Be a Developer to Contribute to Open Source](https://dev.to/chizurumchidimma/you-dont-need-to-be-a-developer-to-contribute-to-open-source-1kgb)
-- [I Built a Concurrent Resource Scheduler in Go Using Sharded Priority Heaps](https://dev.to/phero20/i-built-a-concurrent-resource-scheduler-in-go-using-sharded-priority-heaps-5g34)
+- [A permissive robots.txt is not a licence](https://dev.to/mk023/a-permissive-robotstxt-is-not-a-licence-2m3i)
+- [AMD se alía con un ministerio de ciencia para abrir modelos de IA](https://dev.to/lu1tr0n/amd-se-alia-con-un-ministerio-de-ciencia-para-abrir-modelos-de-ia-52jo)
+- [x402 Protocol Explained: How AI Agents Pay for APIs and Why It Changes Everything](https://dev.to/desh_group/x402-protocol-explained-how-ai-agents-pay-for-apis-and-why-it-changes-everything-2hn4)
+- [Why CockroachDB refused writes to a healthy 155 KiB row](https://dev.to/vatsalpatel/why-cockroachdb-refused-writes-to-a-healthy-155-kib-row-4jl5)
+- [Booking appointments inside WhatsApp: what the Business API actually lets you do](https://dev.to/rishabh_pandram/booking-appointments-inside-whatsapp-what-the-business-api-actually-lets-you-do-38ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
