@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Server Management: Reducing Cognitive Load for System Administrators Across Windows and Linux](https://dev.to/pavkode/streamlining-server-management-reducing-cognitive-load-for-system-administrators-across-windows-335k)
-- [Forget Total Recall. Give Your AI Agent Selective Memory with OpenSearch.](https://dev.to/jon_handler_9bb3e6b4a2fd0/forget-total-recall-give-your-ai-agent-selective-memory-with-opensearch-2b9a)
-- [The End of Undetectable AI Text? Claude’s New Watermark Explained](https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2)
-- [Representing Music with Code](https://dev.to/aranadedoros/representing-music-with-code-4kbj)
-- [75.8% of failing AI coding runs still say &quot;Done&quot;. Here&#39;s what finally caught mine.](https://dev.to/sjh9714/758-of-failing-ai-coding-runs-still-say-done-heres-what-finally-caught-mine-325c)
+- [Refactoring Legacy Code: A New Hope](https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761)
+- [A stuck Postgres lock took my whole site down. Here&#39;s the one-line cause and the fix.](https://dev.to/extensionsmarket/a-stuck-postgres-lock-took-my-whole-site-down-heres-the-one-line-cause-and-the-fix-59am)
+- [What HMRC&#39;s Fraud Prevention Headers Actually Require &lpar;That the Docs Don&#39;t Tell You&rpar;](https://dev.to/virendravyas/what-hmrcs-fraud-prevention-headers-actually-require-that-the-docs-dont-tell-you-1kn9)
+- [Algorithm of War: How Sensor Fusion and Autonomy Are Redefining the Battlefield](https://dev.to/njenga_nganga_00063bc67/algorithm-of-war-how-sensor-fusion-and-autonomy-are-redefining-the-battlefield-160c)
+- [AGENTS.md, explained for teams that actually ship](https://dev.to/arpituppal2rgb/agentsmd-explained-for-teams-that-actually-ship-13c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
