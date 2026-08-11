@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modern CSS Deleted My Layout JavaScript: Field Notes on Container Queries, :has&lpar;&rpar;, and Subgrid](https://dev.to/ahmed_mahmoud360/modern-css-deleted-my-layout-javascript-field-notes-on-container-queries-has-and-subgrid-4o6j)
-- [Building Resilient Real-Time Systems with WebSockets and Redis Pub/Sub](https://dev.to/tamizuddin/building-resilient-real-time-systems-with-websockets-and-redis-pubsub-2p52)
-- [Graceful Degradation Must Fail Closed](https://dev.to/iqtechsolutions/graceful-degradation-must-fail-closed-1h5l)
-- [Your Next.js JSON-LD might be invisible to crawlers. Here&#39;s a one-line check.](https://dev.to/saikodev/your-nextjs-json-ld-might-be-invisible-to-crawlers-heres-a-one-line-check-2nbb)
-- [Context Engineering: Why It’s Replacing Prompt Engineering in Modern AI Systems](https://dev.to/krutika_shah/context-engineering-why-its-replacing-prompt-engineering-in-modern-ai-systems-47mk)
+- [How to Measure AI Search Visibility in 2026: A Complete Guide](https://dev.to/bhavesh_p_tech/how-to-measure-ai-search-visibility-in-2026-a-complete-guide-4o8k)
+- [ModuleNotFoundError: No module named &#39;X&#39; — a debugging checklist that actually works](https://dev.to/websilvercraft/modulenotfounderror-no-module-named-x-a-debugging-checklist-that-actually-works-4fap)
+- [209 AI Code Reviews: Accurate Is Not Necessary](https://dev.to/johnonlee/209-ai-code-reviews-accurate-is-not-necessary-4cc3)
+- [Keep logged in to Claude between container builds](https://dev.to/sukkergris/keep-logged-in-to-claude-between-container-builds-430h)
+- [GPT-5.6-Cyber: Daybreak Red, Exclusive Access Security](https://dev.to/gp-ia-blog/gpt-56-cyber-daybreak-red-exclusive-access-security-4h4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
