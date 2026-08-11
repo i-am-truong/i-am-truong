@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter vs React Native: Which Is Better for a Startup MVP?](https://dev.to/vasundhra/flutter-vs-react-native-which-is-better-for-a-startup-mvp-41c)
-- [I Built LivePoll: An Open-Source Real-Time Polling Tool for Communities](https://dev.to/jutionck/i-built-livepoll-an-open-source-real-time-polling-tool-for-communities-56kh)
-- [You can see your cloud bill. Can you see what your AI agent&#39;s context costs?](https://dev.to/wartzarbee/you-can-see-your-cloud-bill-can-you-see-what-your-ai-agents-context-costs-1de6)
-- [What Are AI Evals, and Who Should Own Them?](https://dev.to/sara_mo/what-are-ai-evals-and-who-should-own-them-1l2k)
-- [Can a Mac mini run Kimi K3? I did the memory math](https://dev.to/tyson_cung/can-a-mac-mini-run-kimi-k3-i-did-the-memory-math-4bp3)
+- [Using Machine Learning to Direct Limited HIV Programme Resources to Communities with the Greatest Need](https://dev.to/nelima/using-machine-learning-to-direct-limited-hiv-programme-resources-to-communities-with-the-greatest-4pef)
+- [Why localhost doesn&#39;t work as OpenAI Base URL in Cursor — and how to fix it](https://dev.to/orchidfiles/why-localhost-doesnt-work-as-openai-base-url-in-cursor-and-how-to-fix-it-589e)
+- [What Every AI Agent Builder Needs to Know About State Coordination](https://dev.to/jovansapfioneer/what-every-ai-agent-builder-needs-to-know-about-state-coordination-4bja)
+- [This Is Jollof — A Landing Page Built Around the Bottom of the Pot](https://dev.to/melody_kelly/this-is-jollof-a-landing-page-built-around-the-bottom-of-the-pot-2d2f)
+- [I lost my best AI prompt after 40 tweaks. So I built a tiny git for prompts.](https://dev.to/lululuhu/i-lost-my-best-ai-prompt-after-40-tweaks-so-i-built-a-tiny-git-for-prompts-1d5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
