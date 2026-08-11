@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Fast Instagram Video and Reels Downloader with Next.js](https://dev.to/deepak_gahlyan_f3f9e6b657/how-i-built-a-fast-instagram-video-and-reels-downloader-with-nextjs-3bpp)
-- [Dapper.TypedParameters: Making SQL Server Parameter Types Explicit in Dapper](https://dev.to/rodri-oliveira-dev/dappertypedparameters-making-sql-server-parameter-types-explicit-in-dapper-3dm3)
-- [The Death of Traditional DevOps: Platform Engineering &amp; IDPs](https://dev.to/mealiclay01/the-death-of-traditional-devops-platform-engineering-idps-18pf)
-- [The Rise of Agentic DevOps: How Autonomous AI is Replacing Static CI/CD](https://dev.to/mealiclay01/the-rise-of-agentic-devops-how-autonomous-ai-is-replacing-static-cicd-42ip)
-- [Building a Stat Comparator That Refuses Invalid Deltas](https://dev.to/ethanjamescolez/building-a-stat-comparator-that-refuses-invalid-deltas-16fm)
+- [How I got 165 blog posts indexed in 30 days with zero backlinks](https://dev.to/korelyy/how-i-got-165-blog-posts-indexed-in-30-days-with-zero-backlinks-1dob)
+- [MAI-Code-1-Flash Highlights Microsoft’s Lower-Cost Approach to Coding AI](https://dev.to/alifar/mai-code-1-flash-highlights-microsofts-lower-cost-approach-to-coding-ai-oh)
+- [I Made an AI Project Manager PMI-Aligned—Without Turning It Into Bureaucracy](https://dev.to/yysun/i-made-an-ai-project-manager-pmi-aligned-without-turning-it-into-bureaucracy-3c75)
+- [47 free AI tools that live in your browser &lpar;2026&rpar;](https://dev.to/korelyy/47-free-ai-tools-that-live-in-your-browser-2026-3h25)
+- [Building AI-Powered Flutter Apps with Gemini](https://dev.to/vmodal_ai/building-ai-powered-flutter-apps-with-gemini-10gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
