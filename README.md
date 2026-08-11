@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nine green tests and a parser that never worked once](https://dev.to/zkasuran/nine-green-tests-and-a-parser-that-never-worked-once-4m3i)
-- [Encoding a Power-Law Pricing Engine in the Browser](https://dev.to/israr2001/encoding-a-power-law-pricing-engine-in-the-browser-3od7)
-- [I built a privacy-first face blurring tool that runs entirely in your browser](https://dev.to/jeffrey_hamilton6399/i-built-a-privacy-first-face-blurring-tool-that-runs-entirely-in-your-browser-1p5f)
-- [A documented prop that silently stacked every component at the origin](https://dev.to/zkasuran/a-documented-prop-that-silently-stacked-every-component-at-the-origin-5h0f)
-- [How to Build an SEO-Friendly Website That People Actually Want to Use](https://dev.to/krishna_kalra_50cca5b6ff4/how-to-build-an-seo-friendly-website-that-people-actually-want-to-use-16k7)
+- [Why Use .then&lpar;&rpar; When Async/Await Is Cleaner?](https://dev.to/kenryikegbo/why-use-then-when-asyncawait-is-cleaner-1k11)
+- [The Human Factor of AI and Coding](https://dev.to/aws-builders/the-human-factor-of-ai-and-coding-4148)
+- [After 10+ Years of Full Stack Development, I Finally Built My Own Portfolio](https://dev.to/sankara_subramanian_1cafd/after-10-years-of-full-stack-development-i-finally-built-my-own-portfolio-f6g)
+- [&quot;nginx doesn&#39;t run your config top to bottom: two traps with rewrite, try_files, and if&quot;](https://dev.to/shinagawa-web/nginx-doesnt-run-your-config-top-to-bottom-two-traps-with-rewrite-tryfiles-and-if-2hlm)
+- [What Is Data Analysis?](https://dev.to/michaelnocito/what-is-data-analysis-5ggc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
