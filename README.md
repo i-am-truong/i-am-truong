@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A permissive robots.txt is not a licence](https://dev.to/mk023/a-permissive-robotstxt-is-not-a-licence-2m3i)
-- [AMD se alía con un ministerio de ciencia para abrir modelos de IA](https://dev.to/lu1tr0n/amd-se-alia-con-un-ministerio-de-ciencia-para-abrir-modelos-de-ia-52jo)
-- [x402 Protocol Explained: How AI Agents Pay for APIs and Why It Changes Everything](https://dev.to/desh_group/x402-protocol-explained-how-ai-agents-pay-for-apis-and-why-it-changes-everything-2hn4)
-- [Why CockroachDB refused writes to a healthy 155 KiB row](https://dev.to/vatsalpatel/why-cockroachdb-refused-writes-to-a-healthy-155-kib-row-4jl5)
-- [Booking appointments inside WhatsApp: what the Business API actually lets you do](https://dev.to/rishabh_pandram/booking-appointments-inside-whatsapp-what-the-business-api-actually-lets-you-do-38ja)
+- [How I Built a Fast Instagram Video and Reels Downloader with Next.js](https://dev.to/deepak_gahlyan_f3f9e6b657/how-i-built-a-fast-instagram-video-and-reels-downloader-with-nextjs-3bpp)
+- [Dapper.TypedParameters: Making SQL Server Parameter Types Explicit in Dapper](https://dev.to/rodri-oliveira-dev/dappertypedparameters-making-sql-server-parameter-types-explicit-in-dapper-3dm3)
+- [The Death of Traditional DevOps: Platform Engineering &amp; IDPs](https://dev.to/mealiclay01/the-death-of-traditional-devops-platform-engineering-idps-18pf)
+- [The Rise of Agentic DevOps: How Autonomous AI is Replacing Static CI/CD](https://dev.to/mealiclay01/the-rise-of-agentic-devops-how-autonomous-ai-is-replacing-static-cicd-42ip)
+- [Building a Stat Comparator That Refuses Invalid Deltas](https://dev.to/ethanjamescolez/building-a-stat-comparator-that-refuses-invalid-deltas-16fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
