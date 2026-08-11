@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing an End-to-End RAG Architecture from Scratch](https://dev.to/odingaval/designing-an-end-to-end-rag-architecture-from-scratch-230i)
-- [useEffect, Explained: A Quick Beginner&#39;s Guide](https://dev.to/danpgomez/useeffect-explained-a-quick-beginners-guide-g37)
-- [Generative Engine Optimization Is Growing, but the Panda Parallel Is Not Proven](https://dev.to/alifar/generative-engine-optimization-is-growing-but-the-panda-parallel-is-not-proven-34no)
-- [Understanding Connected and Automated Vehicles &lpar;CAV&rpar; Part-1](https://dev.to/ryan_fernandes_fc52e09ac9/understanding-connected-and-automated-vehicles-cav-part-1-2n0)
-- [DFlash Changes What Tokens per Second Means](https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493)
+- [We shipped an MCP server for WhatsApp link generation — no API key required](https://dev.to/inside_dc_pulse/we-shipped-an-mcp-server-for-whatsapp-link-generation-no-api-key-required-g8a)
+- [Should I Raise Venture Capital or Bootstrap?](https://dev.to/ido_barkan/should-i-raise-venture-capital-or-bootstrap-2clo)
+- [Google Expands Gemini 3.5 With Flash, Omni and Spark Across Apps and Enterprise Tools](https://dev.to/alifar/google-expands-gemini-35-with-flash-omni-and-spark-across-apps-and-enterprise-tools-47oc)
+- [The Celery Lifecycle: How a Task Gets Registered, Queued, and Run](https://dev.to/engrmark/the-celery-lifecycle-how-a-task-gets-registered-queued-and-run-5gjb)
+- [Grok Bot Just Dropped and I Had to Try It](https://dev.to/debs_obrien/grok-bot-just-dropped-and-i-had-to-try-it-2bnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
