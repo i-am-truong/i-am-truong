@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing LLM Context for OpenAPI: A Deterministic Approach to Token Reduction](https://dev.to/theanshulprakash/optimizing-llm-context-for-openapi-a-deterministic-approach-to-token-reduction-da2)
-- [Tired of JS for simple UI in Ruby?](https://dev.to/aditya_kalia/tired-of-js-for-simple-ui-54p)
-- [Java Fundamentals — Part 1](https://dev.to/srivalli_srivalli_42fb6dc/java-fundamentals-part-1-27ak)
-- [How the Internet Finds Its Way: A Guide to DNS Resolution](https://dev.to/saurav_tb_pandey/how-the-internet-finds-its-way-a-guide-to-dns-resolution-4ok0)
-- [What is Cybersecurity?](https://dev.to/yash-infra/what-is-cybersecurity-478p)
+- [Modern CSS Deleted My Layout JavaScript: Field Notes on Container Queries, :has&lpar;&rpar;, and Subgrid](https://dev.to/ahmed_mahmoud360/modern-css-deleted-my-layout-javascript-field-notes-on-container-queries-has-and-subgrid-4o6j)
+- [Building Resilient Real-Time Systems with WebSockets and Redis Pub/Sub](https://dev.to/tamizuddin/building-resilient-real-time-systems-with-websockets-and-redis-pubsub-2p52)
+- [Graceful Degradation Must Fail Closed](https://dev.to/iqtechsolutions/graceful-degradation-must-fail-closed-1h5l)
+- [Your Next.js JSON-LD might be invisible to crawlers. Here&#39;s a one-line check.](https://dev.to/saikodev/your-nextjs-json-ld-might-be-invisible-to-crawlers-heres-a-one-line-check-2nbb)
+- [Context Engineering: Why It’s Replacing Prompt Engineering in Modern AI Systems](https://dev.to/krutika_shah/context-engineering-why-its-replacing-prompt-engineering-in-modern-ai-systems-47mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
