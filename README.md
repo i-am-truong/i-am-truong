@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We had APP_DEBUG=true in production. Google indexed 2,246 error pages.](https://dev.to/volnyn_8249e2bcefd516a59c/we-had-appdebugtrue-in-production-google-indexed-2246-error-pages-3p4o)
-- [the sea is calling](https://dev.to/fosteman/immensity-of-the-sea-96o)
-- [ChatGPT Desktop Is Officially Documented for Windows and Mac, Not Linux](https://dev.to/alifar/chatgpt-desktop-is-officially-documented-for-windows-and-mac-not-linux-36p7)
-- [I have 591 pages. Google indexed one. Here&#39;s how I&#39;m debugging it.](https://dev.to/bcrypto/i-have-591-pages-google-indexed-one-heres-how-im-debugging-it-5cel)
-- [The price on my shop page was not the price at checkout](https://dev.to/maxyull/the-price-on-my-shop-page-was-not-the-price-at-checkout-5e2p)
+- [Automate your job search: a daily LinkedIn jobs pipeline in Python](https://dev.to/data_pool/automate-your-job-search-a-daily-linkedin-jobs-pipeline-in-python-4248)
+- [How I Built a No-App Photo Sharing Platform Using Just QR Codes and Browser Cameras](https://dev.to/morpheus1537/how-i-built-a-no-app-photo-sharing-platform-using-just-qr-codes-and-browser-cameras-2obn)
+- [Use AI? See how much you&#39;ve used in a second.](https://dev.to/aiwithaj/use-ai-see-how-much-youve-used-in-a-second-2j6i)
+- [AI May Fragment Local Discovery, but the Search Narrative Needs Stronger Evidence](https://dev.to/alifar/ai-may-fragment-local-discovery-but-the-search-narrative-needs-stronger-evidence-1hkl)
+- [Architecting Enterprise Autonomous Web Agent SaaS: From Theory to TypeScript Production](https://dev.to/programmingcentral/architecting-enterprise-autonomous-web-agent-saas-from-theory-to-typescript-production-5fll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
