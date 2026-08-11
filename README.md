@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Use .then&lpar;&rpar; When Async/Await Is Cleaner?](https://dev.to/kenryikegbo/why-use-then-when-asyncawait-is-cleaner-1k11)
-- [The Human Factor of AI and Coding](https://dev.to/aws-builders/the-human-factor-of-ai-and-coding-4148)
-- [After 10+ Years of Full Stack Development, I Finally Built My Own Portfolio](https://dev.to/sankara_subramanian_1cafd/after-10-years-of-full-stack-development-i-finally-built-my-own-portfolio-f6g)
-- [&quot;nginx doesn&#39;t run your config top to bottom: two traps with rewrite, try_files, and if&quot;](https://dev.to/shinagawa-web/nginx-doesnt-run-your-config-top-to-bottom-two-traps-with-rewrite-tryfiles-and-if-2hlm)
-- [What Is Data Analysis?](https://dev.to/michaelnocito/what-is-data-analysis-5ggc)
+- [Secrets that live in git - encrypted, no Vault, no sidecar](https://dev.to/mighty840/secrets-that-live-in-git-encrypted-no-vault-no-sidecar-4ia5)
+- [Foundation of ml neurons](https://dev.to/sumit_gupta_3fa873c3d768e/foundation-of-ml-neurons-36pd)
+- [The pytest fixture that quietly leaks state between your tests](https://dev.to/msakai/the-pytest-fixture-that-quietly-leaks-state-between-your-tests-3j2f)
+- [Why Codename One Is Moving Beyond Maven Central](https://dev.to/codenameone/why-codename-one-is-moving-beyond-maven-central-35f2)
+- [The agent didn&#39;t hallucinate. It ignored what the repo already knew.](https://dev.to/tufan_tunc/the-agent-didnt-hallucinate-it-ignored-what-the-repo-already-knew-2m44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
