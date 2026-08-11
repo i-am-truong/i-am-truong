@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Error Message I Rewrite Until a Stranger Understands It](https://dev.to/raxxostudios/the-error-message-i-rewrite-until-a-stranger-understands-it-4960)
-- [Git Like a Jedi: The Force of Clean Commits](https://dev.to/timevolt/git-like-a-jedi-the-force-of-clean-commits-38p6)
-- [Kiro IDE vs Kiro Crew: como estou usando agentes de IA para melhorar meu dia a dia](https://dev.to/guinas/kiro-ide-vs-kiro-crew-como-estou-usando-agentes-de-ia-para-melhorar-meu-dia-a-dia-12fc)
-- [Re-architecting AWS to Proxmox LXC: Saving 70% on Cloud Costs](https://dev.to/mealiclay01/re-architecting-aws-to-proxmox-lxc-saving-70-on-cloud-costs-4pch)
-- [Microsoft MAI-Image-2 Rankings: What the Official Release Actually Confirms](https://dev.to/alifar/microsoft-mai-image-2-rankings-what-the-official-release-actually-confirms-dg6)
+- [Static File Caching in Nuxt: An Easy and Practical Strategy](https://dev.to/sadegh_shaikhi_0549a5c17f/static-file-caching-in-nuxt-an-easy-and-practical-strategy-57oo)
+- [Serving Gemma 4 E2B on a TPU v6e-1: what Trillium buys, and what it doesn&#39;t](https://dev.to/xbill/serving-gemma-4-e2b-on-a-tpu-v6e-1-what-trillium-buys-and-what-it-doesnt-5691)
+- [I Built 75+ Free Developer Tools — Here&#39;s What I Learned](https://dev.to/jinyuan_mei_1d87a05ae6c7e/i-built-75-free-developer-tools-heres-what-i-learned-393g)
+- [Understanding Java&#39;s Virtual Threads: Lightweight Concurrency in Action](https://dev.to/said_olano/understanding-javas-virtual-threads-lightweight-concurrency-in-action-i8b)
+- [Supporting Language Switching for Date Formats, Not Just Text, with i18next](https://dev.to/hirodeath/supporting-language-switching-for-date-formats-not-just-text-with-i18next-1h8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
