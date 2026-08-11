@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Scientist Learning JS: Promises and resolve&lpar;&rpar;](https://dev.to/j1wonkim/data-scientist-learning-js-promises-and-resolve-p9l)
-- [Pdf to Docx using Pyhton](https://dev.to/kevinmel2000/pdf-to-docx-using-pyhton-5e8a)
-- [Parallel Coding Agents Need Handoffs, Not More Terminals](https://dev.to/demivalerith/parallel-coding-agents-need-handoffs-not-more-terminals-71d)
-- [Write down every guarantee before you write any code](https://dev.to/copyleftdev/write-down-every-guarantee-before-you-write-any-code-21oi)
-- [🟩 Team Matrix or ⬜ Team Paper? | Alan Babychan](https://dev.to/alanbabychan/team-matrix-or-team-paper-alan-babychan-1ai)
+- [Optimizing LLM Context for OpenAPI: A Deterministic Approach to Token Reduction](https://dev.to/theanshulprakash/optimizing-llm-context-for-openapi-a-deterministic-approach-to-token-reduction-da2)
+- [Tired of JS for simple UI in Ruby?](https://dev.to/aditya_kalia/tired-of-js-for-simple-ui-54p)
+- [Java Fundamentals — Part 1](https://dev.to/srivalli_srivalli_42fb6dc/java-fundamentals-part-1-27ak)
+- [How the Internet Finds Its Way: A Guide to DNS Resolution](https://dev.to/saurav_tb_pandey/how-the-internet-finds-its-way-a-guide-to-dns-resolution-4ok0)
+- [What is Cybersecurity?](https://dev.to/yash-infra/what-is-cybersecurity-478p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
