@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Machine Learning to Direct Limited HIV Programme Resources to Communities with the Greatest Need](https://dev.to/nelima/using-machine-learning-to-direct-limited-hiv-programme-resources-to-communities-with-the-greatest-4pef)
-- [Why localhost doesn&#39;t work as OpenAI Base URL in Cursor — and how to fix it](https://dev.to/orchidfiles/why-localhost-doesnt-work-as-openai-base-url-in-cursor-and-how-to-fix-it-589e)
-- [What Every AI Agent Builder Needs to Know About State Coordination](https://dev.to/jovansapfioneer/what-every-ai-agent-builder-needs-to-know-about-state-coordination-4bja)
-- [This Is Jollof — A Landing Page Built Around the Bottom of the Pot](https://dev.to/melody_kelly/this-is-jollof-a-landing-page-built-around-the-bottom-of-the-pot-2d2f)
-- [I lost my best AI prompt after 40 tweaks. So I built a tiny git for prompts.](https://dev.to/lululuhu/i-lost-my-best-ai-prompt-after-40-tweaks-so-i-built-a-tiny-git-for-prompts-1d5j)
+- [DynamoDB: GSI, LSI, and related design ideas](https://dev.to/abhijeet_chaudhari_a/dynamodb-gsi-lsi-and-related-design-ideas-3fll)
+- [7 Tips to Make Your AI Agent More Predictable](https://dev.to/aws/7-tips-to-make-your-ai-agent-more-predictable-1ga4)
+- [Why We’re Building Vault as a Source-First Interaction Library](https://dev.to/jyotipathak__/why-were-building-vault-as-a-source-first-interaction-library-2fo0)
+- [Plan Around Next Month&#39;s Closure, Not Today&#39;s](https://dev.to/road511/plan-around-next-months-closure-not-todays-fge)
+- [EU Digital Services Act Requires Clear Terms Summaries From the Largest Platforms](https://dev.to/alifar/eu-digital-services-act-requires-clear-terms-summaries-from-the-largest-platforms-2p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
