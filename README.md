@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Static File Caching in Nuxt: An Easy and Practical Strategy](https://dev.to/sadegh_shaikhi_0549a5c17f/static-file-caching-in-nuxt-an-easy-and-practical-strategy-57oo)
-- [Serving Gemma 4 E2B on a TPU v6e-1: what Trillium buys, and what it doesn&#39;t](https://dev.to/xbill/serving-gemma-4-e2b-on-a-tpu-v6e-1-what-trillium-buys-and-what-it-doesnt-5691)
-- [I Built 75+ Free Developer Tools — Here&#39;s What I Learned](https://dev.to/jinyuan_mei_1d87a05ae6c7e/i-built-75-free-developer-tools-heres-what-i-learned-393g)
-- [Understanding Java&#39;s Virtual Threads: Lightweight Concurrency in Action](https://dev.to/said_olano/understanding-javas-virtual-threads-lightweight-concurrency-in-action-i8b)
-- [Supporting Language Switching for Date Formats, Not Just Text, with i18next](https://dev.to/hirodeath/supporting-language-switching-for-date-formats-not-just-text-with-i18next-1h8h)
+- [What are AI Agents? The Practitioner&#39;s Guide to Autonomous Systems](https://dev.to/mryadavgulshan/what-are-ai-agents-the-practitioners-guide-to-autonomous-systems-4kml)
+- [Idempotent Signup Emails in REST APIs](https://dev.to/kevindev27/idempotent-signup-emails-in-rest-apis-54e4)
+- [BdThemes API-Driven Supply Chain Compromise: Admin XSS to Web Shell and Hidden Admin](https://dev.to/anoymask/bdthemes-api-driven-supply-chain-compromise-admin-xss-to-web-shell-and-hidden-admin-5c70)
+- [Ghostjacking: Turning Logs and Alerts into Commands to Take Over AI Agents](https://dev.to/anoymask/ghostjacking-turning-logs-and-alerts-into-commands-to-take-over-ai-agents-4l0h)
+- [Disruption of Polish CHP: Wind Farm to OT via Private APN](https://dev.to/anoymask/disruption-of-polish-chp-wind-farm-to-ot-via-private-apn-1jp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
