@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sentiment Analysis: Harder Than It Looks](https://dev.to/multigrid/sentiment-analysis-harder-than-it-looks-2p25)
-- [Benchmarks for Scientific Reasoning: What a Score Establishes](https://dev.to/multigrid/benchmarks-for-scientific-reasoning-what-a-score-establishes-3pb5)
-- [Schema Versioning When Your Extraction Changes](https://dev.to/multigrid/schema-versioning-when-your-extraction-changes-1n0g)
-- [Putting a 200-Table Schema Into a Prompt](https://dev.to/multigrid/putting-a-200-table-schema-into-a-prompt-387f)
-- [Structured Data That Machines Read](https://dev.to/multigrid/structured-data-that-machines-read-366j)
+- [Zod Schemas as Output Contracts](https://dev.to/multigrid/zod-schemas-as-output-contracts-3ej5)
+- [What a New Model Release Actually Requires From Your Code](https://dev.to/multigrid/what-a-new-model-release-actually-requires-from-your-code-37m5)
+- [🚀 How I Built a Full-Featured Enterprise React 19 App with Zero Backend Code &lpar;Powered by Playground API&rpar;](https://dev.to/nileshcodehub/how-i-built-a-full-featured-enterprise-react-19-app-with-zero-backend-code-powered-by-playground-10pf)
+- [Built a free browser coding game with Claude to help my community](https://dev.to/thatonecaleb/built-a-free-browser-coding-game-with-claude-to-help-my-community-571)
+- [Vertical vs Horizontal Scaling: How Do Real Systems Handle Growth?](https://dev.to/tanu_priya/vertical-vs-horizontal-scaling-how-do-real-systems-handle-growth-2g9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
