@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vector Databases: Types, Architecture, and Why They Power Modern Apps](https://dev.to/sameer_saleem/vector-databases-types-architecture-and-why-they-power-modern-apps-35m7)
-- [React Email Checks Need Abortable State](https://dev.to/ryanlee91/react-email-checks-need-abortable-state-36f2)
-- [PoE Lighting: Why LED Drivers Are Becoming IT Devices When Ethernet Cables Replace Power Wires](https://dev.to/lamp_nex_8cbfdfb5b5aa6b50/poe-lighting-why-led-drivers-are-becoming-it-devices-when-ethernet-cables-replace-power-wires-427l)
-- [How to migrate Laravel 13 + Next.js to Zero-Downtime VPS Releases](https://dev.to/dineshstack/how-to-migrate-laravel-13-nextjs-to-zero-downtime-vps-releases-17i3)
-- [How Four Color Wheels Work in Video Editing—and How I Built Them in the Browser](https://dev.to/martindelophy/how-four-color-wheels-work-in-video-editing-and-how-i-built-them-in-the-browser-2jfd)
+- [Designing Idempotent Decision Endpoints That Survive Real Retries](https://dev.to/seo_optimization_591fad6c/designing-idempotent-decision-endpoints-that-survive-real-retries-6c1)
+- [Laravel Development Process: From Idea to Production](https://dev.to/robert_saylor_c9db74549e2/laravel-development-process-from-idea-to-production-219a)
+- [sample](https://dev.to/deepika_pusala/sample-3fbc)
+- [Crystal in 2026: a 7 MB binary, zero dependencies, and five traps](https://dev.to/ivanyatsenko/crystal-in-2026-a-7-mb-binary-zero-dependencies-and-five-traps-28bi)
+- [Docker - O Que É, Para Que Serve e Conceitos Iniciais](https://dev.to/apsis-cc/docker-o-que-e-para-que-serve-e-conceitos-iniciais-18g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
