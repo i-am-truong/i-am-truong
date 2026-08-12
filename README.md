@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Legacy Code: A New Hope](https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761)
-- [A stuck Postgres lock took my whole site down. Here&#39;s the one-line cause and the fix.](https://dev.to/extensionsmarket/a-stuck-postgres-lock-took-my-whole-site-down-heres-the-one-line-cause-and-the-fix-59am)
-- [What HMRC&#39;s Fraud Prevention Headers Actually Require &lpar;That the Docs Don&#39;t Tell You&rpar;](https://dev.to/virendravyas/what-hmrcs-fraud-prevention-headers-actually-require-that-the-docs-dont-tell-you-1kn9)
-- [Algorithm of War: How Sensor Fusion and Autonomy Are Redefining the Battlefield](https://dev.to/njenga_nganga_00063bc67/algorithm-of-war-how-sensor-fusion-and-autonomy-are-redefining-the-battlefield-160c)
-- [AGENTS.md, explained for teams that actually ship](https://dev.to/arpituppal2rgb/agentsmd-explained-for-teams-that-actually-ship-13c3)
+- [The Home Ratio: A Landing Page Tuned by Memory](https://dev.to/oxygen56/the-home-ratio-a-landing-page-tuned-by-memory-1af9)
+- [I Wanted Kubernetes Without an Always On EKS Bill](https://dev.to/lbagga/i-wanted-kubernetes-without-an-always-on-eks-bill-39j4)
+- [Mistral AI Builds a Europe-Centric Path to Sovereign Inference and Open Models](https://dev.to/alifar/mistral-ai-builds-a-europe-centric-path-to-sovereign-inference-and-open-models-5cd)
+- [Mistral AI Regional Endpoints Bring EU and US Inference Controls to Enterprise Deployments](https://dev.to/alifar/mistral-ai-regional-endpoints-bring-eu-and-us-inference-controls-to-enterprise-deployments-317n)
+- [Compression Is Prediction — and It Explains Why LLMs Actually Work](https://dev.to/trismegistus/compression-is-prediction-and-it-explains-why-llms-actually-work-209e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
