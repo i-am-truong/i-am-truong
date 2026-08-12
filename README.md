@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Batch vs Streaming en Data Engineering: cómo decidir en producción sin romper nada](https://dev.to/agusmazzeo/batch-vs-streaming-en-data-engineering-como-decidir-en-produccion-sin-romper-nada-7p3)
-- [The same dashboard gives me one number I can trust and one I cannot, and I had been reading both](https://dev.to/blueticks/the-same-dashboard-gives-me-one-number-i-can-trust-and-one-i-cannot-and-i-had-been-reading-both-2eab)
-- [Extracting Structured Fields From a Closing Disclosure](https://dev.to/multigrid/extracting-structured-fields-from-a-closing-disclosure-17ci)
-- [Extracting Eligibility Criteria From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-eligibility-criteria-from-a-clinical-trial-protocol-1197)
-- [Extracting Dosing Schedules From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-dosing-schedules-from-a-clinical-trial-protocol-36g5)
+- [Detecting Cycles and Loops in a Dependency Graph](https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca)
+- [ML Feature Store Versioning: Reproducible Quants](https://dev.to/shaktitiwari/ml-feature-store-versioning-reproducible-quants-4ob4)
+- [Extracting Recording Information From a Scanned Deed](https://dev.to/multigrid/extracting-recording-information-from-a-scanned-deed-2lnc)
+- [Extracting the Legal Description From a Property Deed](https://dev.to/multigrid/extracting-the-legal-description-from-a-property-deed-278l)
+- [Volatility Surface Basics: Term Structure Explained](https://dev.to/shaktitiwari/volatility-surface-basics-term-structure-explained-4gp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
