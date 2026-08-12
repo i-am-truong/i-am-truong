@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Prompt Data Provenance: A Governance Framework for Community Sources](https://dev.to/alifar/ai-prompt-data-provenance-a-governance-framework-for-community-sources-9jc)
-- [Contract engineer vs. full-time hire: the real cost math](https://dev.to/zephico/contract-engineer-vs-full-time-hire-the-real-cost-math-4pdm)
-- [Medallion architecture on Databricks: what actually matters](https://dev.to/zephico/medallion-architecture-on-databricks-what-actually-matters-2nom)
-- [Deploy Grafana to Azure with Azure CLI : From Local Docker to Durable Dashboards](https://dev.to/khanh_nguyen_04b1205f5a91/deploy-grafana-to-azure-with-azure-cli-from-local-docker-to-durable-dashboards-5f0l)
-- [Treat Every `.gitlab-ci.yml` Edit as a Graph Change, Not a Text Diff](https://dev.to/gitlab_3188/treat-every-gitlab-ciyml-edit-as-a-graph-change-not-a-text-diff-4j7f)
+- [Node.js Invoice Text Summarization API: Chat Completions with Typed JSON Output](https://dev.to/viggoknight2318/nodejs-invoice-text-summarization-api-chat-completions-with-typed-json-output-16g9)
+- [What Changes in an Agent&#39;s Planning Behaviour After a Model Migration](https://dev.to/multigrid/what-changes-in-an-agents-planning-behaviour-after-a-model-migration-1ikd)
+- [Implementing Invoice Speech to Text: One API Key Across Multiple Models](https://dev.to/frosty45/implementing-invoice-speech-to-text-one-api-key-across-multiple-models-3bda)
+- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 26: Origin Is Just a Nickname, and Localhost Tells the Truth](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-26-origin-is-just-a-nickname-and-localhost-tells-the-1il1)
+- [Revizyon 1: Statik yayın sitesine bir günde deneysel sosyal katman — park bankı, caz kulübü, fısıltı bulutu](https://dev.to/gurayta/revizyon-1-statik-yayin-sitesine-bir-gunde-deneysel-sosyal-katman-park-banki-caz-kulubu-5730)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
