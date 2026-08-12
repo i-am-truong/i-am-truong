@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Blog with Chrome&#39;s Built-in AI Summarizer API](https://dev.to/vitorstick/supercharge-your-blog-with-chromes-built-in-ai-summarizer-api-34l)
-- [Installing R and RStudio Server on Ubuntu 24.04](https://dev.to/vultr/installing-r-and-rstudio-server-on-ubuntu-2404-2pme)
-- [Installing and Setting Up Pritunl VPN Server on Ubuntu 24.04](https://dev.to/vultr/installing-and-setting-up-pritunl-vpn-server-on-ubuntu-2404-2io)
-- [Deploying DeepSeek V3 &lpar;LLM&rpar; Using SGLang](https://dev.to/vultr/deploying-deepseek-v3-llm-using-sglang-1p92)
-- [Installing Couchbase Database on Ubuntu 22.04](https://dev.to/vultr/installing-couchbase-database-on-ubuntu-2204-em1)
+- [Sentiment Analysis: Harder Than It Looks](https://dev.to/multigrid/sentiment-analysis-harder-than-it-looks-2p25)
+- [Benchmarks for Scientific Reasoning: What a Score Establishes](https://dev.to/multigrid/benchmarks-for-scientific-reasoning-what-a-score-establishes-3pb5)
+- [Schema Versioning When Your Extraction Changes](https://dev.to/multigrid/schema-versioning-when-your-extraction-changes-1n0g)
+- [Putting a 200-Table Schema Into a Prompt](https://dev.to/multigrid/putting-a-200-table-schema-into-a-prompt-387f)
+- [Structured Data That Machines Read](https://dev.to/multigrid/structured-data-that-machines-read-366j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
