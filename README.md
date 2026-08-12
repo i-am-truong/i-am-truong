@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zod Schemas as Output Contracts](https://dev.to/multigrid/zod-schemas-as-output-contracts-3ej5)
-- [What a New Model Release Actually Requires From Your Code](https://dev.to/multigrid/what-a-new-model-release-actually-requires-from-your-code-37m5)
-- [🚀 How I Built a Full-Featured Enterprise React 19 App with Zero Backend Code &lpar;Powered by Playground API&rpar;](https://dev.to/nileshcodehub/how-i-built-a-full-featured-enterprise-react-19-app-with-zero-backend-code-powered-by-playground-10pf)
-- [Built a free browser coding game with Claude to help my community](https://dev.to/thatonecaleb/built-a-free-browser-coding-game-with-claude-to-help-my-community-571)
-- [Vertical vs Horizontal Scaling: How Do Real Systems Handle Growth?](https://dev.to/tanu_priya/vertical-vs-horizontal-scaling-how-do-real-systems-handle-growth-2g9f)
+- [WhatsApp Business API Integration: 7 Approval and Reliability Pitfalls Developers Should Know](https://dev.to/isaias_perez_intelia/whatsapp-business-api-integration-7-approval-and-reliability-pitfalls-developers-should-know-18ec)
+- [New Benchmark for Evaluating Long-Horizon Agents in Online Environments](https://dev.to/dd8888/new-benchmark-for-evaluating-long-horizon-agents-in-online-environments-59ie)
+- [Enterprise Demo Platforms: Security and Governance](https://dev.to/jakeg73/enterprise-demo-platforms-security-and-governance-4aib)
+- [The 72-hour dependency cooldown is security theater that breaks your builds](https://dev.to/adioof/the-72-hour-dependency-cooldown-is-security-theater-that-breaks-your-builds-lj9)
+- [Chai &amp; Chill: Indian Street Food Landing Page 🍵](https://dev.to/05uniquedotcom/chai-chill-indian-street-food-landing-page-3npd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
