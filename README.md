@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lab Notes: Fixing Gold Tick Sequence Gaps for Live Market API Streams](https://dev.to/sam_choi_aff94225f397c27c/lab-notes-fixing-gold-tick-sequence-gaps-for-live-market-api-streams-9f3)
-- [How AI Agents Actually Work Under the Hood: Tools, Memory, the Loop](https://dev.to/mryadavgulshan/how-ai-agents-actually-work-under-the-hood-tools-memory-the-loop-23ah)
-- [When maintenance ends with an error, the plugin update badge disappears — designing a backend marker and frontend count sync](https://dev.to/susumun/when-maintenance-ends-with-an-error-the-plugin-update-badge-disappears-designing-a-backend-lcl)
-- [My type of #FractionalCTO](https://dev.to/andreimerlescu/my-type-of-fractionalcto-2eb7)
-- [Around image 87 the batch stopped looking like one store](https://dev.to/boyuan_tuo_6f861761aeb29e/around-image-87-the-batch-stopped-looking-like-one-store-e41)
+- [What I’ve Learned Building Full-Stack Web Applications with Next.js and Node.js](https://dev.to/piash_islam/what-ive-learned-building-full-stack-web-applications-with-nextjs-and-nodejs-501h)
+- [A self-hosted market dashboard that needs zero API keys &lpar;A-shares, HK, US, gold, commodities, treasury yields&rpar;](https://dev.to/w_bushg_ee2cdfa6c771a866/a-self-hosted-market-dashboard-that-needs-zero-api-keys-a-shares-hk-us-gold-commodities-4bfo)
+- [Your Free AI Model Changed Overnight. Here&#39;s a Snapshot Test Suite That Notices.](https://dev.to/datacpp_8185/your-free-ai-model-changed-overnight-heres-a-snapshot-test-suite-that-notices-p47)
+- [The Internet Is Growing Countless Little Paid Doors](https://dev.to/neoteng/the-internet-is-growing-countless-little-paid-doors-34df)
+- [Where Unity Audio Reaches Its Limits: CRI ADX vs Wwise vs FMOD Studio](https://dev.to/gamedevtoollab/where-unity-audio-reaches-its-limits-cri-adx-vs-wwise-vs-fmod-studio-1m4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
