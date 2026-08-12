@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code-Graph-RAG, เปลี่ยน Codebase ทั้งหมดให้เป็น Knowledge Graph ให้ AI เข้าใจโค้ดของคุณอย่างแท้จริง](https://dev.to/sarantoon/code-graph-rag-epliiyn-codebase-thanghmdaihepn-knowledge-graph-aih-ai-ekhaaaicchokhdkhngkhunyaangaethcchring-5bee)
-- [Business Email Compromise: The Fraud That Doesn&#39;t Break Any Encryption](https://dev.to/havenmessenger/business-email-compromise-the-fraud-that-doesnt-break-any-encryption-4h56)
-- [Why Teams Are Moving Away From Railway in 2026](https://dev.to/thecloudexpert/why-teams-are-moving-away-from-railway-18nn)
-- [What Is an Online Marketplace? A Guide for B2B Teams](https://dev.to/mercur/what-is-an-online-marketplace-a-guide-for-b2b-teams-3i83)
-- [Vendor Hunting and Farming: Acquire and Retain Sellers](https://dev.to/mercur/vendor-hunting-and-farming-acquire-and-retain-sellers-jmi)
+- [The Future of SRE: What the Next 5 Years Look Like](https://dev.to/samson_tanimawo/the-future-of-sre-what-the-next-5-years-look-like-3706)
+- [Introducing Fylgja UI](https://dev.to/fylgja/introducing-fylgja-ui-1666)
+- [Agent Plugins Package Capabilities. IRC-A Asks: Who Authorizes Them at Runtime?](https://dev.to/sandrog/agent-plugins-package-capabilities-irc-a-asks-who-authorizes-them-at-runtime-33gg)
+- [The bottleneck on AI data centers isn&#39;t semiconductors. It&#39;s a machine with a three-year lead time](https://dev.to/luige456/the-bottleneck-on-ai-data-centers-isnt-semiconductors-its-a-machine-with-a-three-year-lead-time-2h2h)
+- [Building Container Images and Container Orchestration Fundamentals](https://dev.to/derrickryangiggs/building-container-images-and-container-orchestration-fundamentals-1jgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
