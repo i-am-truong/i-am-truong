@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Home Ratio: A Landing Page Tuned by Memory](https://dev.to/oxygen56/the-home-ratio-a-landing-page-tuned-by-memory-1af9)
-- [I Wanted Kubernetes Without an Always On EKS Bill](https://dev.to/lbagga/i-wanted-kubernetes-without-an-always-on-eks-bill-39j4)
-- [Mistral AI Builds a Europe-Centric Path to Sovereign Inference and Open Models](https://dev.to/alifar/mistral-ai-builds-a-europe-centric-path-to-sovereign-inference-and-open-models-5cd)
-- [Mistral AI Regional Endpoints Bring EU and US Inference Controls to Enterprise Deployments](https://dev.to/alifar/mistral-ai-regional-endpoints-bring-eu-and-us-inference-controls-to-enterprise-deployments-317n)
-- [Compression Is Prediction — and It Explains Why LLMs Actually Work](https://dev.to/trismegistus/compression-is-prediction-and-it-explains-why-llms-actually-work-209e)
+- [Lab Notes: Fixing Gold Tick Sequence Gaps for Live Market API Streams](https://dev.to/sam_choi_aff94225f397c27c/lab-notes-fixing-gold-tick-sequence-gaps-for-live-market-api-streams-9f3)
+- [How AI Agents Actually Work Under the Hood: Tools, Memory, the Loop](https://dev.to/mryadavgulshan/how-ai-agents-actually-work-under-the-hood-tools-memory-the-loop-23ah)
+- [When maintenance ends with an error, the plugin update badge disappears — designing a backend marker and frontend count sync](https://dev.to/susumun/when-maintenance-ends-with-an-error-the-plugin-update-badge-disappears-designing-a-backend-lcl)
+- [My type of #FractionalCTO](https://dev.to/andreimerlescu/my-type-of-fractionalcto-2eb7)
+- [Around image 87 the batch stopped looking like one store](https://dev.to/boyuan_tuo_6f861761aeb29e/around-image-87-the-batch-stopped-looking-like-one-store-e41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
