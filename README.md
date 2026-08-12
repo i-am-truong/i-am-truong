@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I’ve Learned Building Full-Stack Web Applications with Next.js and Node.js](https://dev.to/piash_islam/what-ive-learned-building-full-stack-web-applications-with-nextjs-and-nodejs-501h)
-- [A self-hosted market dashboard that needs zero API keys &lpar;A-shares, HK, US, gold, commodities, treasury yields&rpar;](https://dev.to/w_bushg_ee2cdfa6c771a866/a-self-hosted-market-dashboard-that-needs-zero-api-keys-a-shares-hk-us-gold-commodities-4bfo)
-- [Your Free AI Model Changed Overnight. Here&#39;s a Snapshot Test Suite That Notices.](https://dev.to/datacpp_8185/your-free-ai-model-changed-overnight-heres-a-snapshot-test-suite-that-notices-p47)
-- [The Internet Is Growing Countless Little Paid Doors](https://dev.to/neoteng/the-internet-is-growing-countless-little-paid-doors-34df)
-- [Where Unity Audio Reaches Its Limits: CRI ADX vs Wwise vs FMOD Studio](https://dev.to/gamedevtoollab/where-unity-audio-reaches-its-limits-cri-adx-vs-wwise-vs-fmod-studio-1m4f)
+- [Un revisor encontró tres criterios WCAG equivocados en mi plugin de accesibilidad. Fui a mirar y encontré ocho.](https://dev.to/grounded/un-revisor-encontro-tres-criterios-wcag-equivocados-en-mi-plugin-de-accesibilidad-fui-a-mirar-y-3i75)
+- [SERP API reliability at scale: uptime, latency, concurrency](https://dev.to/rbatista19/serp-api-reliability-at-scale-uptime-latency-concurrency-op0)
+- [Claude Now Watermarks AI-Generated Text — Here&#39;s What It Means for Content Creators](https://dev.to/trismegistus/claude-now-watermarks-ai-generated-text-heres-what-it-means-for-content-creators-34kk)
+- [Why 3 of our 16 blog posts had no analytics tag](https://dev.to/liza_18827c15bdd387c4cd9c/why-3-of-our-16-blog-posts-had-no-analytics-tag-kc1)
+- [11-16x Faster LLM Inference in macOS VMs on Apple Silicon — Here&#39;s How](https://dev.to/trismegistus/11-16x-faster-llm-inference-in-macos-vms-on-apple-silicon-heres-how-2735)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
