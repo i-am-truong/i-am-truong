@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Invoice Text Summarization API: Chat Completions with Typed JSON Output](https://dev.to/viggoknight2318/nodejs-invoice-text-summarization-api-chat-completions-with-typed-json-output-16g9)
-- [What Changes in an Agent&#39;s Planning Behaviour After a Model Migration](https://dev.to/multigrid/what-changes-in-an-agents-planning-behaviour-after-a-model-migration-1ikd)
-- [Implementing Invoice Speech to Text: One API Key Across Multiple Models](https://dev.to/frosty45/implementing-invoice-speech-to-text-one-api-key-across-multiple-models-3bda)
-- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 26: Origin Is Just a Nickname, and Localhost Tells the Truth](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-26-origin-is-just-a-nickname-and-localhost-tells-the-1il1)
-- [Revizyon 1: Statik yayın sitesine bir günde deneysel sosyal katman — park bankı, caz kulübü, fısıltı bulutu](https://dev.to/gurayta/revizyon-1-statik-yayin-sitesine-bir-gunde-deneysel-sosyal-katman-park-banki-caz-kulubu-5730)
+- [AI Weekly: GPT-5.6-Cyber, Muse Glimmer, and the Agent Browser](https://dev.to/alexmercedcoder/ai-weekly-gpt-56-cyber-muse-glimmer-and-the-agent-browser-37nd)
+- [Building a Graph From Tabular Relationship Data](https://dev.to/multigrid/building-a-graph-from-tabular-relationship-data-4i82)
+- [Getting British Spelling Instead of American Spelling From AI](https://dev.to/multigrid/getting-british-spelling-instead-of-american-spelling-from-ai-1okj)
+- [Brazil&#39;s PL 2338: the Status of Its AI Bill](https://dev.to/multigrid/brazils-pl-2338-the-status-of-its-ai-bill-407)
+- [Extracting a Bibliography Into Structured Citation Records](https://dev.to/multigrid/extracting-a-bibliography-into-structured-citation-records-4l9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
