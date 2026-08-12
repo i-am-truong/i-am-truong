@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Business API Integration: 7 Approval and Reliability Pitfalls Developers Should Know](https://dev.to/isaias_perez_intelia/whatsapp-business-api-integration-7-approval-and-reliability-pitfalls-developers-should-know-18ec)
-- [New Benchmark for Evaluating Long-Horizon Agents in Online Environments](https://dev.to/dd8888/new-benchmark-for-evaluating-long-horizon-agents-in-online-environments-59ie)
-- [Enterprise Demo Platforms: Security and Governance](https://dev.to/jakeg73/enterprise-demo-platforms-security-and-governance-4aib)
-- [The 72-hour dependency cooldown is security theater that breaks your builds](https://dev.to/adioof/the-72-hour-dependency-cooldown-is-security-theater-that-breaks-your-builds-lj9)
-- [Chai &amp; Chill: Indian Street Food Landing Page 🍵](https://dev.to/05uniquedotcom/chai-chill-indian-street-food-landing-page-3npd)
+- [AI Prompt Data Provenance: A Governance Framework for Community Sources](https://dev.to/alifar/ai-prompt-data-provenance-a-governance-framework-for-community-sources-9jc)
+- [Contract engineer vs. full-time hire: the real cost math](https://dev.to/zephico/contract-engineer-vs-full-time-hire-the-real-cost-math-4pdm)
+- [Medallion architecture on Databricks: what actually matters](https://dev.to/zephico/medallion-architecture-on-databricks-what-actually-matters-2nom)
+- [Deploy Grafana to Azure with Azure CLI : From Local Docker to Durable Dashboards](https://dev.to/khanh_nguyen_04b1205f5a91/deploy-grafana-to-azure-with-azure-cli-from-local-docker-to-durable-dashboards-5f0l)
+- [Treat Every `.gitlab-ci.yml` Edit as a Graph Change, Not a Text Diff](https://dev.to/gitlab_3188/treat-every-gitlab-ciyml-edit-as-a-graph-change-not-a-text-diff-4j7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
