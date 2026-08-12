@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Memory Is Becoming Portable. Continuity Still Isn&#39;t.](https://dev.to/badjoke-lab/ai-memory-is-becoming-portable-continuity-still-isnt-1bk6)
-- [Karpathy-Style Knowledge Stack, วิธีสร้างสมองที่สองด้วย Obsidian + Hermes + MiniMax M3](https://dev.to/sarantoon/karpathy-style-knowledge-stack-withiisraangsmngthiisngdwy-obsidian-hermes-minimax-m3-12hk)
-- [OpenAI buying Astral means uv now answers to a model company](https://dev.to/adioof/openai-buying-astral-means-uv-now-answers-to-a-model-company-20lc)
-- [EU DSA Enforcement Raises the Bar for Platform Responses to Cyberbullying and Image Abuse](https://dev.to/alifar/eu-dsa-enforcement-raises-the-bar-for-platform-responses-to-cyberbullying-and-image-abuse-2l26)
-- [Un relecteur a trouvé trois critères WCAG erronés dans mon extension d&#39;accessibilité. J&#39;ai vérifié, et j&#39;en ai trouvé huit.](https://dev.to/grounded/un-relecteur-a-trouve-trois-criteres-wcag-errones-dans-mon-extension-daccessibilite-jai-verifie-4cnl)
+- [Understanding Azure Data Factory Pipelines: From Source Systems to Production](https://dev.to/msnmongare/understanding-azure-data-factory-pipelines-from-source-systems-to-production-20g3)
+- [AIUC-1: what the first AI agent standard means before you ship assistant access](https://dev.to/apogeewatcher/aiuc-1-what-the-first-ai-agent-standard-means-before-you-ship-assistant-access-59aa)
+- [The workflow you turned off is still a load-bearing part of your system](https://dev.to/jk27101/the-workflow-you-turned-off-is-still-a-load-bearing-part-of-your-system-1i9b)
+- [I Didn&#39;t Encrypt the Files. I Changed Who Windows Allows to Touch Them.](https://dev.to/akhourianmolkumar/i-didnt-encrypt-the-files-i-changed-who-windows-allows-to-touch-them-1p0n)
+- [Turn a List of IPs Into Location Data in Google Sheets](https://dev.to/abdullah_afzal/turn-a-list-of-ips-into-location-data-in-google-sheets-3b6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
