@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React useEventSource Hook: Server-Sent Events with Auto-Reconnect &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm)
-- [Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp)
-- [How I detected deleted YouTube videos using JSONL history diffing](https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc)
-- [API الخاص بك يزيل بيانات C2PA الوصفية: كيفية كشف ذلك بالاختبار](https://dev.to/yusuf_khalidd/api-lkhs-bk-yzyl-bynt-c2pa-lwsfy-kyfy-kshf-dhlk-blkhtbr-4cc8)
-- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 3](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-3-hcm)
+- [Vector Databases: Types, Architecture, and Why They Power Modern Apps](https://dev.to/sameer_saleem/vector-databases-types-architecture-and-why-they-power-modern-apps-35m7)
+- [React Email Checks Need Abortable State](https://dev.to/ryanlee91/react-email-checks-need-abortable-state-36f2)
+- [PoE Lighting: Why LED Drivers Are Becoming IT Devices When Ethernet Cables Replace Power Wires](https://dev.to/lamp_nex_8cbfdfb5b5aa6b50/poe-lighting-why-led-drivers-are-becoming-it-devices-when-ethernet-cables-replace-power-wires-427l)
+- [How to migrate Laravel 13 + Next.js to Zero-Downtime VPS Releases](https://dev.to/dineshstack/how-to-migrate-laravel-13-nextjs-to-zero-downtime-vps-releases-17i3)
+- [How Four Color Wheels Work in Video Editing—and How I Built Them in the Browser](https://dev.to/martindelophy/how-four-color-wheels-work-in-video-editing-and-how-i-built-them-in-the-browser-2jfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
