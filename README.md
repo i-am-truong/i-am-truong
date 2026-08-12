@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Azure Data Factory Pipelines: From Source Systems to Production](https://dev.to/msnmongare/understanding-azure-data-factory-pipelines-from-source-systems-to-production-20g3)
-- [AIUC-1: what the first AI agent standard means before you ship assistant access](https://dev.to/apogeewatcher/aiuc-1-what-the-first-ai-agent-standard-means-before-you-ship-assistant-access-59aa)
-- [The workflow you turned off is still a load-bearing part of your system](https://dev.to/jk27101/the-workflow-you-turned-off-is-still-a-load-bearing-part-of-your-system-1i9b)
-- [I Didn&#39;t Encrypt the Files. I Changed Who Windows Allows to Touch Them.](https://dev.to/akhourianmolkumar/i-didnt-encrypt-the-files-i-changed-who-windows-allows-to-touch-them-1p0n)
-- [Turn a List of IPs Into Location Data in Google Sheets](https://dev.to/abdullah_afzal/turn-a-list-of-ips-into-location-data-in-google-sheets-3b6p)
+- [Code-Graph-RAG, เปลี่ยน Codebase ทั้งหมดให้เป็น Knowledge Graph ให้ AI เข้าใจโค้ดของคุณอย่างแท้จริง](https://dev.to/sarantoon/code-graph-rag-epliiyn-codebase-thanghmdaihepn-knowledge-graph-aih-ai-ekhaaaicchokhdkhngkhunyaangaethcchring-5bee)
+- [Business Email Compromise: The Fraud That Doesn&#39;t Break Any Encryption](https://dev.to/havenmessenger/business-email-compromise-the-fraud-that-doesnt-break-any-encryption-4h56)
+- [Why Teams Are Moving Away From Railway in 2026](https://dev.to/thecloudexpert/why-teams-are-moving-away-from-railway-18nn)
+- [What Is an Online Marketplace? A Guide for B2B Teams](https://dev.to/mercur/what-is-an-online-marketplace-a-guide-for-b2b-teams-3i83)
+- [Vendor Hunting and Farming: Acquire and Retain Sellers](https://dev.to/mercur/vendor-hunting-and-farming-acquire-and-retain-sellers-jmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
