@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Idempotent Decision Endpoints That Survive Real Retries](https://dev.to/seo_optimization_591fad6c/designing-idempotent-decision-endpoints-that-survive-real-retries-6c1)
-- [Laravel Development Process: From Idea to Production](https://dev.to/robert_saylor_c9db74549e2/laravel-development-process-from-idea-to-production-219a)
-- [sample](https://dev.to/deepika_pusala/sample-3fbc)
-- [Crystal in 2026: a 7 MB binary, zero dependencies, and five traps](https://dev.to/ivanyatsenko/crystal-in-2026-a-7-mb-binary-zero-dependencies-and-five-traps-28bi)
-- [Docker - O Que É, Para Que Serve e Conceitos Iniciais](https://dev.to/apsis-cc/docker-o-que-e-para-que-serve-e-conceitos-iniciais-18g6)
+- [AI Memory Is Becoming Portable. Continuity Still Isn&#39;t.](https://dev.to/badjoke-lab/ai-memory-is-becoming-portable-continuity-still-isnt-1bk6)
+- [Karpathy-Style Knowledge Stack, วิธีสร้างสมองที่สองด้วย Obsidian + Hermes + MiniMax M3](https://dev.to/sarantoon/karpathy-style-knowledge-stack-withiisraangsmngthiisngdwy-obsidian-hermes-minimax-m3-12hk)
+- [OpenAI buying Astral means uv now answers to a model company](https://dev.to/adioof/openai-buying-astral-means-uv-now-answers-to-a-model-company-20lc)
+- [EU DSA Enforcement Raises the Bar for Platform Responses to Cyberbullying and Image Abuse](https://dev.to/alifar/eu-dsa-enforcement-raises-the-bar-for-platform-responses-to-cyberbullying-and-image-abuse-2l26)
+- [Un relecteur a trouvé trois critères WCAG erronés dans mon extension d&#39;accessibilité. J&#39;ai vérifié, et j&#39;en ai trouvé huit.](https://dev.to/grounded/un-relecteur-a-trouve-trois-criteres-wcag-errones-dans-mon-extension-daccessibilite-jai-verifie-4cnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
