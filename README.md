@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly: GPT-5.6-Cyber, Muse Glimmer, and the Agent Browser](https://dev.to/alexmercedcoder/ai-weekly-gpt-56-cyber-muse-glimmer-and-the-agent-browser-37nd)
-- [Building a Graph From Tabular Relationship Data](https://dev.to/multigrid/building-a-graph-from-tabular-relationship-data-4i82)
-- [Getting British Spelling Instead of American Spelling From AI](https://dev.to/multigrid/getting-british-spelling-instead-of-american-spelling-from-ai-1okj)
-- [Brazil&#39;s PL 2338: the Status of Its AI Bill](https://dev.to/multigrid/brazils-pl-2338-the-status-of-its-ai-bill-407)
-- [Extracting a Bibliography Into Structured Citation Records](https://dev.to/multigrid/extracting-a-bibliography-into-structured-citation-records-4l9o)
+- [Batch vs Streaming en Data Engineering: cómo decidir en producción sin romper nada](https://dev.to/agusmazzeo/batch-vs-streaming-en-data-engineering-como-decidir-en-produccion-sin-romper-nada-7p3)
+- [The same dashboard gives me one number I can trust and one I cannot, and I had been reading both](https://dev.to/blueticks/the-same-dashboard-gives-me-one-number-i-can-trust-and-one-i-cannot-and-i-had-been-reading-both-2eab)
+- [Extracting Structured Fields From a Closing Disclosure](https://dev.to/multigrid/extracting-structured-fields-from-a-closing-disclosure-17ci)
+- [Extracting Eligibility Criteria From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-eligibility-criteria-from-a-clinical-trial-protocol-1197)
+- [Extracting Dosing Schedules From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-dosing-schedules-from-a-clinical-trial-protocol-36g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
