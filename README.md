@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Future of SRE: What the Next 5 Years Look Like](https://dev.to/samson_tanimawo/the-future-of-sre-what-the-next-5-years-look-like-3706)
-- [Introducing Fylgja UI](https://dev.to/fylgja/introducing-fylgja-ui-1666)
-- [Agent Plugins Package Capabilities. IRC-A Asks: Who Authorizes Them at Runtime?](https://dev.to/sandrog/agent-plugins-package-capabilities-irc-a-asks-who-authorizes-them-at-runtime-33gg)
-- [The bottleneck on AI data centers isn&#39;t semiconductors. It&#39;s a machine with a three-year lead time](https://dev.to/luige456/the-bottleneck-on-ai-data-centers-isnt-semiconductors-its-a-machine-with-a-three-year-lead-time-2h2h)
-- [Building Container Images and Container Orchestration Fundamentals](https://dev.to/derrickryangiggs/building-container-images-and-container-orchestration-fundamentals-1jgp)
+- [The Manifest That Keeps Your AI Agent Honest](https://dev.to/cognous/the-manifest-that-keeps-your-ai-agent-honest-3e97)
+- [I Built a RAG App on My Laptop Without Paying OpenAI a Single Rupee Here&#39;s How](https://dev.to/speaklouder/i-built-a-rag-app-on-my-laptop-without-paying-openai-a-single-rupee-heres-how-4dpc)
+- [The Software Development Life Cycle in the Age of AI Agents](https://dev.to/cpathirage/the-software-development-life-cycle-in-the-age-of-ai-agents-39m6)
+- [The Next Evolution of Software Developers](https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh)
+- [How I Used Claude Code to Cut My API&#39;s P99 Latency in Half](https://dev.to/yureki_lab/how-i-used-claude-code-to-cut-my-apis-p99-latency-in-half-mbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
