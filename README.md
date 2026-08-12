@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Un revisor encontró tres criterios WCAG equivocados en mi plugin de accesibilidad. Fui a mirar y encontré ocho.](https://dev.to/grounded/un-revisor-encontro-tres-criterios-wcag-equivocados-en-mi-plugin-de-accesibilidad-fui-a-mirar-y-3i75)
-- [SERP API reliability at scale: uptime, latency, concurrency](https://dev.to/rbatista19/serp-api-reliability-at-scale-uptime-latency-concurrency-op0)
-- [Claude Now Watermarks AI-Generated Text — Here&#39;s What It Means for Content Creators](https://dev.to/trismegistus/claude-now-watermarks-ai-generated-text-heres-what-it-means-for-content-creators-34kk)
-- [Why 3 of our 16 blog posts had no analytics tag](https://dev.to/liza_18827c15bdd387c4cd9c/why-3-of-our-16-blog-posts-had-no-analytics-tag-kc1)
-- [11-16x Faster LLM Inference in macOS VMs on Apple Silicon — Here&#39;s How](https://dev.to/trismegistus/11-16x-faster-llm-inference-in-macos-vms-on-apple-silicon-heres-how-2735)
+- [React useEventSource Hook: Server-Sent Events with Auto-Reconnect &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm)
+- [Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp)
+- [How I detected deleted YouTube videos using JSONL history diffing](https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc)
+- [API الخاص بك يزيل بيانات C2PA الوصفية: كيفية كشف ذلك بالاختبار](https://dev.to/yusuf_khalidd/api-lkhs-bk-yzyl-bynt-c2pa-lwsfy-kyfy-kshf-dhlk-blkhtbr-4cc8)
+- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 3](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-3-hcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
