@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Empire Strikes Back: Building Scalable Node.js APIs with Express](https://dev.to/timevolt/the-empire-strikes-back-building-scalable-nodejs-apis-with-express-1205)
-- [Text Prompt Moderation for AI Image Generation: Chat JSON Schema in Node.js](https://dev.to/peterparker8991/text-prompt-moderation-for-ai-image-generation-chat-json-schema-in-nodejs-279i)
-- [Meta Tag HTML — Catatan Pribadi](https://dev.to/sanudin-dev/meta-tag-html-catatan-pribadi-48e4)
-- [When your benchmark is wrong and your model is right](https://dev.to/hammertoe/when-your-benchmark-is-wrong-and-your-model-is-right-p74)
-- [Building a smart greenhouse in the woods: the architectural experiment of DevFest Basilicata - DevF{or}est](https://dev.to/margoneto/building-a-smart-greenhouse-in-the-woods-the-architectural-experiment-of-devfest-basilicata--15j)
+- [Supercharge Your Blog with Chrome&#39;s Built-in AI Summarizer API](https://dev.to/vitorstick/supercharge-your-blog-with-chromes-built-in-ai-summarizer-api-34l)
+- [Installing R and RStudio Server on Ubuntu 24.04](https://dev.to/vultr/installing-r-and-rstudio-server-on-ubuntu-2404-2pme)
+- [Installing and Setting Up Pritunl VPN Server on Ubuntu 24.04](https://dev.to/vultr/installing-and-setting-up-pritunl-vpn-server-on-ubuntu-2404-2io)
+- [Deploying DeepSeek V3 &lpar;LLM&rpar; Using SGLang](https://dev.to/vultr/deploying-deepseek-v3-llm-using-sglang-1p92)
+- [Installing Couchbase Database on Ubuntu 22.04](https://dev.to/vultr/installing-couchbase-database-on-ubuntu-2204-em1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
