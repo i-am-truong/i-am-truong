@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Manifest That Keeps Your AI Agent Honest](https://dev.to/cognous/the-manifest-that-keeps-your-ai-agent-honest-3e97)
-- [I Built a RAG App on My Laptop Without Paying OpenAI a Single Rupee Here&#39;s How](https://dev.to/speaklouder/i-built-a-rag-app-on-my-laptop-without-paying-openai-a-single-rupee-heres-how-4dpc)
-- [The Software Development Life Cycle in the Age of AI Agents](https://dev.to/cpathirage/the-software-development-life-cycle-in-the-age-of-ai-agents-39m6)
-- [The Next Evolution of Software Developers](https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh)
-- [How I Used Claude Code to Cut My API&#39;s P99 Latency in Half](https://dev.to/yureki_lab/how-i-used-claude-code-to-cut-my-apis-p99-latency-in-half-mbg)
+- [The Empire Strikes Back: Building Scalable Node.js APIs with Express](https://dev.to/timevolt/the-empire-strikes-back-building-scalable-nodejs-apis-with-express-1205)
+- [Text Prompt Moderation for AI Image Generation: Chat JSON Schema in Node.js](https://dev.to/peterparker8991/text-prompt-moderation-for-ai-image-generation-chat-json-schema-in-nodejs-279i)
+- [Meta Tag HTML — Catatan Pribadi](https://dev.to/sanudin-dev/meta-tag-html-catatan-pribadi-48e4)
+- [When your benchmark is wrong and your model is right](https://dev.to/hammertoe/when-your-benchmark-is-wrong-and-your-model-is-right-p74)
+- [Building a smart greenhouse in the woods: the architectural experiment of DevFest Basilicata - DevF{or}est](https://dev.to/margoneto/building-a-smart-greenhouse-in-the-woods-the-architectural-experiment-of-devfest-basilicata--15j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
