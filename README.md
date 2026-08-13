@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Full practical guide on creating production-grade webhook receivers](https://dev.to/artemooon/full-practical-guide-on-creating-production-grade-webhook-receivers-3p02)
-- [Hostinger vs Namecheap 2026: 20% Extra Discount Promo Code](https://dev.to/web_dev-usman/hostinger-vs-namecheap-2026-20-extra-discount-promo-code-4pnm)
-- [Every AI coding agent tracker is a self-report system](https://dev.to/albertoclemente/every-ai-coding-agent-tracker-is-a-self-report-system-53nm)
-- [Google upgraded Android&#39;s UI language, can test automation keep up?](https://dev.to/qapilot/google-upgraded-androids-ui-language-can-test-automation-keep-up-3ic2)
-- [How Can I Tell If My Phone Is Being Tracked? Understanding Smartphone Compromise and Mobile Spyware](https://dev.to/manuel_spataro_94998a20ea/how-can-i-tell-if-my-phone-is-being-tracked-understanding-smartphone-compromise-and-mobile-spyware-1f37)
+- [Building an outbound sales agent as a Claude Code plugin &lpar;and open-sourcing it&rpar;](https://dev.to/leadace/building-an-outbound-sales-agent-as-a-claude-code-plugin-and-open-sourcing-it-17ae)
+- [Are You Really Making the Most of Static Code Analysis?](https://dev.to/jeandevbr/are-you-really-making-the-most-of-static-code-analysis-102c)
+- [Sentry Saved Our Users When the API Melted: Fixing a Production-Stopping Schema Drift on CryptoPulse Terminal](https://dev.to/pooja_bhavani/sentry-saved-our-users-when-the-api-melted-fixing-a-production-stopping-schema-drift-on-1l1m)
+- [Designing an Ejar Contract Registration Workflow: From Readiness to Registration](https://dev.to/dra_ali_063a461a14aa6b2/designing-an-ejar-contract-registration-workflow-from-readiness-to-registration-1ceg)
+- [Maltego for Red and Blue Teams: Graph OSINT, Investigation Pivots and AI-Assisted Link Analysis](https://dev.to/mike_anderson_d01f52129fb/maltego-for-red-and-blue-teams-graph-osint-investigation-pivots-and-ai-assisted-link-analysis-4nka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
