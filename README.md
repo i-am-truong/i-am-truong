@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Shut Down My Startup After 100 Waitlist Signups. Here&#39;s What I Learned](https://dev.to/usamakashif/i-shut-down-my-startup-after-100-waitlist-signups-heres-what-i-learned-5784)
-- [Building a Custom MCP Server for Claude Code — A Fortune-Telling Tool with FastMCP](https://dev.to/_02121fbe984480fd65fc/building-a-custom-mcp-server-for-claude-code-a-fortune-telling-tool-with-fastmcp-2j0d)
-- [building for the next era of learning](https://dev.to/timur-latipov/building-for-the-next-era-of-learning-30fb)
-- [Gaming AI-Agent KPI Dashboards: Metrics API or Logs, EU GDPR, Node.js Rollback Safety](https://dev.to/hwpgsd503817/gaming-ai-agent-kpi-dashboards-metrics-api-or-logs-eu-gdpr-nodejs-rollback-safety-1lbd)
-- [Show DEV: read public X profiles, threads and media without an account](https://dev.to/evanmercerdev/show-dev-read-public-x-profiles-threads-and-media-without-an-account-6di)
+- [Craft NFTs on Algorand MainNet with IPFS Metadata via Pay-to-Pin SDK &lpar;No Pinata Required&rpar;](https://dev.to/garret_parker_ea7c7d73432/craft-nfts-on-algorand-mainnet-with-ipfs-metadata-via-pay-to-pin-sdk-no-pinata-required-m3k)
+- [Your Career Runs on Conversations](https://dev.to/asael_shinder_9f53bdca840/your-career-runs-on-conversations-4mak)
+- [Benchmarking DFlash on a 30B Model: Why Tokens per Second Can Mislead](https://dev.to/ail_akram_dcc5063c428734b/benchmarking-dflash-on-a-30b-model-why-tokens-per-second-can-mislead-4oel)
+- [OpenAI’s Enterprise AI Signals Point to Deeper Workflows, Not Just More Usage](https://dev.to/alifar/openais-enterprise-ai-signals-point-to-deeper-workflows-not-just-more-usage-c8)
+- [JavaScript – Introduction and History](https://dev.to/abishek_m_82/javascript-introduction-and-history-216p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
