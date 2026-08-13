@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Bulk Insert Isn&#39;t Slow. Waiting for the Database Is.](https://dev.to/nicolas_vbgh/your-bulk-insert-isnt-slow-waiting-for-the-database-is-3927)
-- [Patch Tuesday August 2026: 1 Zero-Day, 109 Critical Fixes Among 790 CVEs](https://dev.to/ian_bishop_98bf15c6a498d4/patch-tuesday-august-2026-1-zero-day-109-critical-fixes-among-790-cves-3hdc)
-- [Local vs Hosted LLMs: The Decision Framework](https://dev.to/apeder/local-vs-hosted-llms-the-decision-framework-56p)
-- [Those ugly tracking codes in your links? I’m building a one-click fix &lpar;while learning JavaScript from scratch&rpar;](https://dev.to/shashwatdeep/those-ugly-tracking-codes-in-your-links-im-building-a-one-click-fix-while-learning-javascript-15aj)
-- [Build an SMS Triage Bot on Telnyx Edge Compute](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-sms-triage-bot-on-telnyx-edge-compute-4gin)
+- [☁️ Cloud Computing Explained: A Beginner-Friendly Guide to AWS, IaaS, PaaS &amp; SaaS](https://dev.to/poushmita_paul_fddcbe1a2f/cloud-computing-explained-a-beginner-friendly-guide-to-aws-iaas-paas-saas-e1a)
+- [The Store Passed QA. Then Its Best Seller Vanished from Search](https://dev.to/asada_shinsaku_c2847b5/the-store-passed-qa-then-its-best-seller-vanished-from-search-4f5n)
+- [Vim-Fu](https://dev.to/nasr_maswood/vim-fu-3h5p)
+- [A Photo Vault Is Not a Lock Screen](https://dev.to/arkwarden/a-photo-vault-is-not-a-lock-screen-1bdo)
+- [Building a fullscreen countdown timer in vanilla JS: accurate time, Wake Lock, and a WebAudio alarm](https://dev.to/alexdev2/building-a-fullscreen-countdown-timer-in-vanilla-js-accurate-time-wake-lock-and-a-webaudio-alarm-1fai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
