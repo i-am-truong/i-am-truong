@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an outbound sales agent as a Claude Code plugin &lpar;and open-sourcing it&rpar;](https://dev.to/leadace/building-an-outbound-sales-agent-as-a-claude-code-plugin-and-open-sourcing-it-17ae)
-- [Are You Really Making the Most of Static Code Analysis?](https://dev.to/jeandevbr/are-you-really-making-the-most-of-static-code-analysis-102c)
-- [Sentry Saved Our Users When the API Melted: Fixing a Production-Stopping Schema Drift on CryptoPulse Terminal](https://dev.to/pooja_bhavani/sentry-saved-our-users-when-the-api-melted-fixing-a-production-stopping-schema-drift-on-1l1m)
-- [Designing an Ejar Contract Registration Workflow: From Readiness to Registration](https://dev.to/dra_ali_063a461a14aa6b2/designing-an-ejar-contract-registration-workflow-from-readiness-to-registration-1ceg)
-- [Maltego for Red and Blue Teams: Graph OSINT, Investigation Pivots and AI-Assisted Link Analysis](https://dev.to/mike_anderson_d01f52129fb/maltego-for-red-and-blue-teams-graph-osint-investigation-pivots-and-ai-assisted-link-analysis-4nka)
+- [Persisting Claude CLI Login Between Container Builds](https://dev.to/sukkergris/persisting-claude-cli-login-between-container-builds-55cl)
+- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
+- [You know what&#39;s worse than not being able to log in?](https://dev.to/ujja/you-know-whats-worse-than-not-being-able-to-log-in-5379)
+- [I built a free, no-signup AI text toolkit - here&#39;s the stack and why](https://dev.to/texttoolsai/i-built-a-free-no-signup-ai-text-toolkit-heres-the-stack-and-why-3dhk)
+- [Reclaiming Terabytes: How to Cut a Managed Database Bill Without Downtime](https://dev.to/muskan_bandta/reclaiming-terabytes-how-to-cut-a-managed-database-bill-without-downtime-3p56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
