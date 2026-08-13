@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Как устроена информационная система: проектируем простую систему учета заявок](https://dev.to/dmitrii_2223/kak-ustroiena-informatsionnaia-sistiema-proiektiruiem-prostuiu-sistiemu-uchieta-zaiavok-5hhf)
-- [&quot;Do Not Duplicate the Character&quot; Duplicated the Character](https://dev.to/guaiss/do-not-duplicate-the-character-3egb)
-- [Your Reader Cannot Be Stricter Than Your Schema](https://dev.to/iqtechsolutions/your-reader-cannot-be-stricter-than-your-schema-3edp)
-- [I said my tool supported multiple instances. A stranger running 15 of them filed three bugs. All three were right.](https://dev.to/achiya-automation/i-said-my-tool-supported-multiple-instances-a-stranger-running-15-of-them-filed-three-bugs-all-3egi)
-- [What I Learned While Testing OllaNode’s Free Version With Node.js](https://dev.to/harshitha_j_388552716a9a0/what-i-learned-while-testing-ollanodes-free-version-with-nodejs-9al)
+- [GhostSplice Isn&#39;t a Jailbreak, It&#39;s a Reminder That LLMs Can&#39;t Do Access Control](https://dev.to/coridev/ghostsplice-isnt-a-jailbreak-its-a-reminder-that-llms-cant-do-access-control-31po)
+- [Building epilot Apps from your terminal, with a little help from AI agents](https://dev.to/epilot/building-epilot-apps-from-your-terminal-with-a-little-help-from-ai-agents-5caa)
+- [Agent Identity and Durable Workflows: The Two Problems MCP Can&#39;t Solve](https://dev.to/aws-builders/agent-identity-and-durable-workflows-the-two-problems-mcp-cant-solve-4llb)
+- [The Third Predicate: Argument-Space Verification, Tested](https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh)
+- [MetaMask launches its agent wallet, Glamsterdam Testnet goes public, a lattice-crypto attack draws doubt, NEAR Intents unifies liquidity](https://dev.to/etherspot/metamask-launches-its-agent-wallet-glamsterdam-testnet-goes-public-a-lattice-crypto-attack-draws-788)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
