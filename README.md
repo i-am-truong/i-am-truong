@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding LLM Hallucinations: Why AI Lies and How to fix it.](https://dev.to/sangam_shrestha_07/understanding-llm-hallucinations-why-ai-lies-and-how-to-fix-it-bm7)
-- [AI Reasoning Leak: Extracting Models&#39; Inner Thoughts](https://dev.to/luckytaorem/ai-reasoning-leak-extracting-models-inner-thoughts-nmk)
-- [A Week as an AI Integration Consultant](https://dev.to/lamingsrb/a-week-as-an-ai-integration-consultant-4p27)
-- [Muse Glimmer: il modello “agentico” open source di Meta che vuole accesso profondo alla tua vita &lpar;anche in locale&rpar;](https://dev.to/frontendfacile/muse-glimmer-il-modello-agentico-open-source-di-meta-che-vuole-accesso-profondo-alla-tua-vita-56k9)
-- [Fabric IQ and Ontology: Giving Data a Shared Business Meaning](https://dev.to/audaciatechnology/fabric-iq-and-ontology-giving-data-a-shared-business-meaning-j4l)
+- [Как устроена информационная система: проектируем простую систему учета заявок](https://dev.to/dmitrii_2223/kak-ustroiena-informatsionnaia-sistiema-proiektiruiem-prostuiu-sistiemu-uchieta-zaiavok-5hhf)
+- [&quot;Do Not Duplicate the Character&quot; Duplicated the Character](https://dev.to/guaiss/do-not-duplicate-the-character-3egb)
+- [Your Reader Cannot Be Stricter Than Your Schema](https://dev.to/iqtechsolutions/your-reader-cannot-be-stricter-than-your-schema-3edp)
+- [I said my tool supported multiple instances. A stranger running 15 of them filed three bugs. All three were right.](https://dev.to/achiya-automation/i-said-my-tool-supported-multiple-instances-a-stranger-running-15-of-them-filed-three-bugs-all-3egi)
+- [What I Learned While Testing OllaNode’s Free Version With Node.js](https://dev.to/harshitha_j_388552716a9a0/what-i-learned-while-testing-ollanodes-free-version-with-nodejs-9al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
