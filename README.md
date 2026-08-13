@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to add motion trails and afterimages in Godot 4](https://dev.to/saltmire/how-to-add-motion-trails-and-afterimages-in-godot-4-281c)
-- [First days of NuxiPro&#39;s launch on Product Hunt, here&#39;s what it revealed](https://dev.to/sbabas/first-days-of-nuxipros-launch-on-product-hunt-heres-what-it-revealed-20db)
-- [Stop Parsing AI Text: Build Reliable Features with Structured Outputs](https://dev.to/johnnylemonny/stop-parsing-ai-text-build-reliable-features-with-structured-outputs-8im)
-- [Remote Diagnostics for Low-Power IoT Devices: Stop Treating Them Like Servers](https://dev.to/zediot/remote-diagnostics-for-low-power-iot-devices-stop-treating-them-like-servers-37j8)
-- [Detect variable frame rate uploads with ffprobe and normalize them before they break your pipeline](https://dev.to/masonwritescode/detect-variable-frame-rate-uploads-with-ffprobe-and-normalize-them-before-they-break-your-pipeline-55cf)
+- [I Shut Down My Startup After 100 Waitlist Signups. Here&#39;s What I Learned](https://dev.to/usamakashif/i-shut-down-my-startup-after-100-waitlist-signups-heres-what-i-learned-5784)
+- [Building a Custom MCP Server for Claude Code — A Fortune-Telling Tool with FastMCP](https://dev.to/_02121fbe984480fd65fc/building-a-custom-mcp-server-for-claude-code-a-fortune-telling-tool-with-fastmcp-2j0d)
+- [building for the next era of learning](https://dev.to/timur-latipov/building-for-the-next-era-of-learning-30fb)
+- [Gaming AI-Agent KPI Dashboards: Metrics API or Logs, EU GDPR, Node.js Rollback Safety](https://dev.to/hwpgsd503817/gaming-ai-agent-kpi-dashboards-metrics-api-or-logs-eu-gdpr-nodejs-rollback-safety-1lbd)
+- [Show DEV: read public X profiles, threads and media without an account](https://dev.to/evanmercerdev/show-dev-read-public-x-profiles-threads-and-media-without-an-account-6di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
