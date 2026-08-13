@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why SaaS AI Visibility May Depend on Community Signals, Citations, and Governance](https://dev.to/alifar/why-saas-ai-visibility-may-depend-on-community-signals-citations-and-governance-1n03)
-- [I Built My First Machine Learning API — Here&#39;s Everything I Learned](https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7)
-- [How I Actually Use Claude as a Backend Engineer 🤖](https://dev.to/gerale30/how-i-actually-use-claude-as-a-backend-engineer-24fe)
-- [PwC Finds AI Is Raising the Skill Bar for Entry-Level Jobs Across Industries](https://dev.to/alifar/pwc-finds-ai-is-raising-the-skill-bar-for-entry-level-jobs-across-industries-14nf)
-- [Don&#39;t Let the AI Find Your Bugs. Let It Judge Them.](https://dev.to/alimafana/dont-let-the-ai-find-your-bugs-let-it-judge-them-5dbp)
+- [Durable Memory: Why Vector Databases Aren&#39;t Enough](https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f)
+- [AI Overview Visibility May Depend on Query Intent, Not Just Traditional Click Metrics](https://dev.to/alifar/ai-overview-visibility-may-depend-on-query-intent-not-just-traditional-click-metrics-4i82)
+- [Como documentar soluções para decidir melhor, prever falhas e evoluir sem se perder](https://dev.to/fraanst/como-documentar-solucoes-para-decidir-melhor-prever-falhas-e-evoluir-sem-se-perder-9ng)
+- [Deploying a React App to AWS S3 + CloudFront](https://dev.to/duubemmm/deploying-a-react-app-to-aws-s3-cloudfront-55hn)
+- [An AI Director Made It to the World&#39;s Judging Table. But Not to the Shortlist.](https://dev.to/ghostyai_aionexo/an-ai-director-made-it-to-the-worlds-judging-table-but-not-to-the-shortlist-1a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
