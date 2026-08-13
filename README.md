@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Craft NFTs on Algorand MainNet with IPFS Metadata via Pay-to-Pin SDK &lpar;No Pinata Required&rpar;](https://dev.to/garret_parker_ea7c7d73432/craft-nfts-on-algorand-mainnet-with-ipfs-metadata-via-pay-to-pin-sdk-no-pinata-required-m3k)
-- [Your Career Runs on Conversations](https://dev.to/asael_shinder_9f53bdca840/your-career-runs-on-conversations-4mak)
-- [Benchmarking DFlash on a 30B Model: Why Tokens per Second Can Mislead](https://dev.to/ail_akram_dcc5063c428734b/benchmarking-dflash-on-a-30b-model-why-tokens-per-second-can-mislead-4oel)
-- [OpenAI’s Enterprise AI Signals Point to Deeper Workflows, Not Just More Usage](https://dev.to/alifar/openais-enterprise-ai-signals-point-to-deeper-workflows-not-just-more-usage-c8)
-- [JavaScript – Introduction and History](https://dev.to/abishek_m_82/javascript-introduction-and-history-216p)
+- [I Stopped Scraping Business Directories and Built an MCP Server on Official Registry Data](https://dev.to/darksider4all_afa2428f63d0/i-stopped-scraping-business-directories-and-built-an-mcp-server-on-official-registry-data-4caf)
+- [An empty result is not an all clear](https://dev.to/siddharth_pandey_27/an-empty-result-is-not-an-all-clear-4998)
+- [Multi region deployment with Terraform modules](https://dev.to/techwithhari/multi-region-deployment-with-terraform-modules-2jok)
+- [AI Governance 101: What ML Practitioners Actually Need to Know](https://dev.to/sakramen/ai-governance-101-what-ml-practitioners-actually-need-to-know-39b5)
+- [Letting an AI ask &#39;what shipped in this field this week?&#39;](https://dev.to/rss-atlas/letting-an-ai-ask-what-shipped-in-this-field-this-week-1nk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
