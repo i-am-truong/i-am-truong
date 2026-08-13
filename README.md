@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Lightweight and Streamable MCP Servers on AWS Lambda with Python](https://dev.to/clandro89/building-lightweight-and-streamable-mcp-servers-on-aws-lambda-with-python-1hab)
-- [AI Access Control for Enterprise AI: Turning Policy Into Runtime Enforcement](https://dev.to/kenwalger/ai-access-control-for-enterprise-ai-turning-policy-into-runtime-enforcement-5bkk)
-- [Dev Log: 2026-08-12 — a 96s suite that became 42s, a capability that wasn&#39;t a scope, and four steps to a passkey](https://dev.to/nasrulhazim/dev-log-2026-08-12-a-96s-suite-that-became-42s-a-capability-that-wasnt-a-scope-and-four-steps-c0a)
-- [SNEPPX-Alg: Project Structure, Current Status, and How to Contribute](https://dev.to/ammar49cyber/sneppx-alg-project-structure-current-status-and-how-to-contribute-48k4)
-- [I Moved My Discord Bot Off a Paid LLM API. Five Things Broke.](https://dev.to/codepy_1473/i-moved-my-discord-bot-off-a-paid-llm-api-five-things-broke-2ik5)
+- [Building Your First AI Agent from Scratch &lpar;No Framework&rpar;](https://dev.to/mryadavgulshan/building-your-first-ai-agent-from-scratch-no-framework-24m2)
+- [Plug and Pwn: Getting Windows SYSTEM Privileges from Fake USB and RDP Devices](https://dev.to/anoymask/plug-and-pwn-getting-windows-system-privileges-from-fake-usb-and-rdp-devices-13f)
+- [City-Forum: Anonymous Data Enumeration Across Salesforce Aura / LWR and ServiceNow Guest Search](https://dev.to/anoymask/city-forum-anonymous-data-enumeration-across-salesforce-aura-lwr-and-servicenow-guest-search-c1m)
+- [WindRelay + SpyNote: Phone Remote Control and NFC Relay for Loan and Card Fraud](https://dev.to/anoymask/windrelay-spynote-phone-remote-control-and-nfc-relay-for-loan-and-card-fraud-1kij)
+- [Lazarus &quot;Operation Dream Job&quot;: From Windows Zero-Day to EDR Bypass and Backdoor Deployment](https://dev.to/anoymask/lazarus-operation-dream-job-from-windows-zero-day-to-edr-bypass-and-backdoor-deployment-1bll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
