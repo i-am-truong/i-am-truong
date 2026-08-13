@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Isolation Levels &amp; Read Phenomena: An Extensive Deep Dive](https://dev.to/urvish_shah/database-isolation-levels-read-phenomena-an-extensive-deep-dive-4bm9)
-- [MCP C# SDK Protocol Negotiation: Pin 2026-07-28 When Fallback Is Unsafe](https://dev.to/ssukhpinder/mcp-c-sdk-protocol-negotiation-pin-2026-07-28-when-fallback-is-unsafe-2fhk)
-- [gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system](https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa)
-- [We measured the &quot;AI review tax&quot; across 5,388 repos. The median repo doesn&#39;t pay one.](https://dev.to/maki_vlach_289e052694eb2e/we-measured-the-ai-review-tax-across-5388-repos-the-median-repo-doesnt-pay-one-1bc1)
-- [The Difference Between Good Code and Bad Code is 5 Minutes](https://dev.to/logical_bytes/the-difference-between-good-code-and-bad-code-is-5-minutes-4a99)
+- [ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow](https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8)
+- [Mastering Low-Precision AI: FP8 and FP4 Support Across Frameworks in Mid-2026](https://dev.to/javaeeeee/mastering-low-precision-ai-fp8-and-fp4-support-across-frameworks-in-mid-2026-4c98)
+- [Using Python to Analyze Customer Behavior](https://dev.to/electathedev/using-python-to-analyze-customer-behavior-406h)
+- [What a Small-Business CRM Needs Beyond Contact Storage](https://dev.to/mendolatech/what-a-small-business-crm-needs-beyond-contact-storage-2gh2)
+- [Shipping an Isometric Game in the Browser With Three.js](https://dev.to/mendolatech/shipping-an-isometric-game-in-the-browser-with-threejs-20c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
