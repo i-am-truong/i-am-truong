@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHP 8.6 Enters Beta: What You Should Actually Start Looking At](https://dev.to/ndabene/php-86-enters-beta-what-you-should-actually-start-looking-at-51l9)
-- [Why Most WooCommerce &#39;B2B&#39; Plugins Break at Checkout &lpar;and How We Fixed It&rpar;](https://dev.to/softminal/why-most-woocommerce-b2b-plugins-break-at-checkout-and-how-we-fixed-it-3oop)
-- [The 9 Animation States of a Pixel Pet, Explained](https://dev.to/ahmed_isam_752b775a50fd90/the-9-animation-states-of-a-pixel-pet-explained-ip8)
-- [[Boost]](https://dev.to/varshithvhegde/-lmm)
-- [HTML em Camadas: Containers e Acessibilidade no Dashboard](https://dev.to/candidonkuerten346/html-em-camadas-containers-e-acessibilidade-no-dashboard-540h)
+- [What does the card say? Text extraction using Amazon Nova 2 Lite](https://dev.to/aws-builders/what-does-the-card-say-text-extraction-using-amazon-nova-2-lite-1538)
+- [73% of the Software Versions We Track Are Already End of Life](https://dev.to/endoflifeorg/73-of-the-software-versions-we-track-are-already-end-of-life-2e2o)
+- [Testing APIs without a cloud account: a local-first workflow](https://dev.to/usuario_rest/testing-apis-without-a-cloud-account-a-local-first-workflow-3bab)
+- [Demystifying JavaScript&#39;s Secret Weapon: The Event Loop Explained Simply](https://dev.to/saurav_tb_pandey/demystifying-javascripts-secret-weapon-the-event-loop-explained-simply-2pen)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4gk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
