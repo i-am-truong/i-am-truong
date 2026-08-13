@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Cycles and Loops in a Dependency Graph](https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca)
-- [ML Feature Store Versioning: Reproducible Quants](https://dev.to/shaktitiwari/ml-feature-store-versioning-reproducible-quants-4ob4)
-- [Extracting Recording Information From a Scanned Deed](https://dev.to/multigrid/extracting-recording-information-from-a-scanned-deed-2lnc)
-- [Extracting the Legal Description From a Property Deed](https://dev.to/multigrid/extracting-the-legal-description-from-a-property-deed-278l)
-- [Volatility Surface Basics: Term Structure Explained](https://dev.to/shaktitiwari/volatility-surface-basics-term-structure-explained-4gp1)
+- [Building Lightweight and Streamable MCP Servers on AWS Lambda with Python](https://dev.to/clandro89/building-lightweight-and-streamable-mcp-servers-on-aws-lambda-with-python-1hab)
+- [AI Access Control for Enterprise AI: Turning Policy Into Runtime Enforcement](https://dev.to/kenwalger/ai-access-control-for-enterprise-ai-turning-policy-into-runtime-enforcement-5bkk)
+- [Dev Log: 2026-08-12 — a 96s suite that became 42s, a capability that wasn&#39;t a scope, and four steps to a passkey](https://dev.to/nasrulhazim/dev-log-2026-08-12-a-96s-suite-that-became-42s-a-capability-that-wasnt-a-scope-and-four-steps-c0a)
+- [SNEPPX-Alg: Project Structure, Current Status, and How to Contribute](https://dev.to/ammar49cyber/sneppx-alg-project-structure-current-status-and-how-to-contribute-48k4)
+- [I Moved My Discord Bot Off a Paid LLM API. Five Things Broke.](https://dev.to/codepy_1473/i-moved-my-discord-bot-off-a-paid-llm-api-five-things-broke-2ik5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
