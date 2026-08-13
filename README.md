@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☁️ Cloud Computing Explained: A Beginner-Friendly Guide to AWS, IaaS, PaaS &amp; SaaS](https://dev.to/poushmita_paul_fddcbe1a2f/cloud-computing-explained-a-beginner-friendly-guide-to-aws-iaas-paas-saas-e1a)
-- [The Store Passed QA. Then Its Best Seller Vanished from Search](https://dev.to/asada_shinsaku_c2847b5/the-store-passed-qa-then-its-best-seller-vanished-from-search-4f5n)
-- [Vim-Fu](https://dev.to/nasr_maswood/vim-fu-3h5p)
-- [A Photo Vault Is Not a Lock Screen](https://dev.to/arkwarden/a-photo-vault-is-not-a-lock-screen-1bdo)
-- [Building a fullscreen countdown timer in vanilla JS: accurate time, Wake Lock, and a WebAudio alarm](https://dev.to/alexdev2/building-a-fullscreen-countdown-timer-in-vanilla-js-accurate-time-wake-lock-and-a-webaudio-alarm-1fai)
+- [Database Isolation Levels &amp; Read Phenomena: An Extensive Deep Dive](https://dev.to/urvish_shah/database-isolation-levels-read-phenomena-an-extensive-deep-dive-4bm9)
+- [MCP C# SDK Protocol Negotiation: Pin 2026-07-28 When Fallback Is Unsafe](https://dev.to/ssukhpinder/mcp-c-sdk-protocol-negotiation-pin-2026-07-28-when-fallback-is-unsafe-2fhk)
+- [gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system](https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa)
+- [We measured the &quot;AI review tax&quot; across 5,388 repos. The median repo doesn&#39;t pay one.](https://dev.to/maki_vlach_289e052694eb2e/we-measured-the-ai-review-tax-across-5388-repos-the-median-repo-doesnt-pay-one-1bc1)
+- [The Difference Between Good Code and Bad Code is 5 Minutes](https://dev.to/logical_bytes/the-difference-between-good-code-and-bad-code-is-5-minutes-4a99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
