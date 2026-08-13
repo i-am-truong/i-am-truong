@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Scraping Business Directories and Built an MCP Server on Official Registry Data](https://dev.to/darksider4all_afa2428f63d0/i-stopped-scraping-business-directories-and-built-an-mcp-server-on-official-registry-data-4caf)
-- [An empty result is not an all clear](https://dev.to/siddharth_pandey_27/an-empty-result-is-not-an-all-clear-4998)
-- [Multi region deployment with Terraform modules](https://dev.to/techwithhari/multi-region-deployment-with-terraform-modules-2jok)
-- [AI Governance 101: What ML Practitioners Actually Need to Know](https://dev.to/sakramen/ai-governance-101-what-ml-practitioners-actually-need-to-know-39b5)
-- [Letting an AI ask &#39;what shipped in this field this week?&#39;](https://dev.to/rss-atlas/letting-an-ai-ask-what-shipped-in-this-field-this-week-1nk0)
+- [1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine](https://dev.to/anvaysingh/1setting-up-my-first-linux-server-on-a-mac-and-the-scary-messages-that-are-actually-fine-3lph)
+- [Internal vs. External Documentation: What Belongs Where](https://dev.to/ninadpathak/internal-vs-external-documentation-what-belongs-where-3147)
+- [From Prompts to Infrastructure: Building Trustworthy, Scalable AI Agents in the Age of A2A and Agent Sandboxes](https://dev.to/tamizuddin/from-prompts-to-infrastructure-building-trustworthy-scalable-ai-agents-in-the-age-of-a2a-and-11md)
+- [Proxmox HA-Cluster: Split‑Brain verhindern &amp; Quorum richtig konfigurieren](https://dev.to/uhltak/proxmox-ha-cluster-split-brain-verhindern-quorum-richtig-konfigurieren-m3l)
+- [Deploying Microsoft Fabric items from Azure DevOps with a service principal](https://dev.to/vedaforge_eng/deploying-microsoft-fabric-items-from-azure-devops-with-a-service-principal-4nfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
