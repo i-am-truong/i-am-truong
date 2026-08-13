@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Persisting Claude CLI Login Between Container Builds](https://dev.to/sukkergris/persisting-claude-cli-login-between-container-builds-55cl)
-- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
-- [You know what&#39;s worse than not being able to log in?](https://dev.to/ujja/you-know-whats-worse-than-not-being-able-to-log-in-5379)
-- [I built a free, no-signup AI text toolkit - here&#39;s the stack and why](https://dev.to/texttoolsai/i-built-a-free-no-signup-ai-text-toolkit-heres-the-stack-and-why-3dhk)
-- [Reclaiming Terabytes: How to Cut a Managed Database Bill Without Downtime](https://dev.to/muskan_bandta/reclaiming-terabytes-how-to-cut-a-managed-database-bill-without-downtime-3p56)
+- [How to add motion trails and afterimages in Godot 4](https://dev.to/saltmire/how-to-add-motion-trails-and-afterimages-in-godot-4-281c)
+- [First days of NuxiPro&#39;s launch on Product Hunt, here&#39;s what it revealed](https://dev.to/sbabas/first-days-of-nuxipros-launch-on-product-hunt-heres-what-it-revealed-20db)
+- [Stop Parsing AI Text: Build Reliable Features with Structured Outputs](https://dev.to/johnnylemonny/stop-parsing-ai-text-build-reliable-features-with-structured-outputs-8im)
+- [Remote Diagnostics for Low-Power IoT Devices: Stop Treating Them Like Servers](https://dev.to/zediot/remote-diagnostics-for-low-power-iot-devices-stop-treating-them-like-servers-37j8)
+- [Detect variable frame rate uploads with ffprobe and normalize them before they break your pipeline](https://dev.to/masonwritescode/detect-variable-frame-rate-uploads-with-ffprobe-and-normalize-them-before-they-break-your-pipeline-55cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
