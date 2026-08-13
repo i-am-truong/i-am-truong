@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow](https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8)
-- [Mastering Low-Precision AI: FP8 and FP4 Support Across Frameworks in Mid-2026](https://dev.to/javaeeeee/mastering-low-precision-ai-fp8-and-fp4-support-across-frameworks-in-mid-2026-4c98)
-- [Using Python to Analyze Customer Behavior](https://dev.to/electathedev/using-python-to-analyze-customer-behavior-406h)
-- [What a Small-Business CRM Needs Beyond Contact Storage](https://dev.to/mendolatech/what-a-small-business-crm-needs-beyond-contact-storage-2gh2)
-- [Shipping an Isometric Game in the Browser With Three.js](https://dev.to/mendolatech/shipping-an-isometric-game-in-the-browser-with-threejs-20c9)
+- [Your MCP Server Needs a Capability Budget, Not Just Auth](https://dev.to/zira125/your-mcp-server-needs-a-capability-budget-not-just-auth-32p6)
+- [It Works on Office WiFi: Shipping AR to People Who Will Not Install Anything](https://dev.to/nabeelbaghoor/it-works-on-office-wifi-shipping-ar-to-people-who-will-not-install-anything-k92)
+- [Nmap for Authorized Infrastructure Validation &lpar;Not Hacking&rpar;](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)
+- [I built a free, open-source trading bot starter &lpar;Next.js&rpar;](https://dev.to/rkang30/i-built-a-free-open-source-trading-bot-starter-nextjs-1m9n)
+- [Arca Sophia Open-Core: Building Air-Gapped Local AI Inference for Industrial SCADA/PLC Systems](https://dev.to/matiasmeza_09/arca-sophia-open-core-building-air-gapped-local-ai-inference-for-industrial-scadaplc-systems-5917)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
