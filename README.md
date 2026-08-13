@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What does the card say? Text extraction using Amazon Nova 2 Lite](https://dev.to/aws-builders/what-does-the-card-say-text-extraction-using-amazon-nova-2-lite-1538)
-- [73% of the Software Versions We Track Are Already End of Life](https://dev.to/endoflifeorg/73-of-the-software-versions-we-track-are-already-end-of-life-2e2o)
-- [Testing APIs without a cloud account: a local-first workflow](https://dev.to/usuario_rest/testing-apis-without-a-cloud-account-a-local-first-workflow-3bab)
-- [Demystifying JavaScript&#39;s Secret Weapon: The Event Loop Explained Simply](https://dev.to/saurav_tb_pandey/demystifying-javascripts-secret-weapon-the-event-loop-explained-simply-2pen)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4gk5)
+- [Understanding LLM Hallucinations: Why AI Lies and How to fix it.](https://dev.to/sangam_shrestha_07/understanding-llm-hallucinations-why-ai-lies-and-how-to-fix-it-bm7)
+- [AI Reasoning Leak: Extracting Models&#39; Inner Thoughts](https://dev.to/luckytaorem/ai-reasoning-leak-extracting-models-inner-thoughts-nmk)
+- [A Week as an AI Integration Consultant](https://dev.to/lamingsrb/a-week-as-an-ai-integration-consultant-4p27)
+- [Muse Glimmer: il modello “agentico” open source di Meta che vuole accesso profondo alla tua vita &lpar;anche in locale&rpar;](https://dev.to/frontendfacile/muse-glimmer-il-modello-agentico-open-source-di-meta-che-vuole-accesso-profondo-alla-tua-vita-56k9)
+- [Fabric IQ and Ontology: Giving Data a Shared Business Meaning](https://dev.to/audaciatechnology/fabric-iq-and-ontology-giving-data-a-shared-business-meaning-j4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
