@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First AI Agent from Scratch &lpar;No Framework&rpar;](https://dev.to/mryadavgulshan/building-your-first-ai-agent-from-scratch-no-framework-24m2)
-- [Plug and Pwn: Getting Windows SYSTEM Privileges from Fake USB and RDP Devices](https://dev.to/anoymask/plug-and-pwn-getting-windows-system-privileges-from-fake-usb-and-rdp-devices-13f)
-- [City-Forum: Anonymous Data Enumeration Across Salesforce Aura / LWR and ServiceNow Guest Search](https://dev.to/anoymask/city-forum-anonymous-data-enumeration-across-salesforce-aura-lwr-and-servicenow-guest-search-c1m)
-- [WindRelay + SpyNote: Phone Remote Control and NFC Relay for Loan and Card Fraud](https://dev.to/anoymask/windrelay-spynote-phone-remote-control-and-nfc-relay-for-loan-and-card-fraud-1kij)
-- [Lazarus &quot;Operation Dream Job&quot;: From Windows Zero-Day to EDR Bypass and Backdoor Deployment](https://dev.to/anoymask/lazarus-operation-dream-job-from-windows-zero-day-to-edr-bypass-and-backdoor-deployment-1bll)
+- [PHP 8.6 Enters Beta: What You Should Actually Start Looking At](https://dev.to/ndabene/php-86-enters-beta-what-you-should-actually-start-looking-at-51l9)
+- [Why Most WooCommerce &#39;B2B&#39; Plugins Break at Checkout &lpar;and How We Fixed It&rpar;](https://dev.to/softminal/why-most-woocommerce-b2b-plugins-break-at-checkout-and-how-we-fixed-it-3oop)
+- [The 9 Animation States of a Pixel Pet, Explained](https://dev.to/ahmed_isam_752b775a50fd90/the-9-animation-states-of-a-pixel-pet-explained-ip8)
+- [[Boost]](https://dev.to/varshithvhegde/-lmm)
+- [HTML em Camadas: Containers e Acessibilidade no Dashboard](https://dev.to/candidonkuerten346/html-em-camadas-containers-e-acessibilidade-no-dashboard-540h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
