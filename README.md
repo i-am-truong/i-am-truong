@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine](https://dev.to/anvaysingh/1setting-up-my-first-linux-server-on-a-mac-and-the-scary-messages-that-are-actually-fine-3lph)
-- [Internal vs. External Documentation: What Belongs Where](https://dev.to/ninadpathak/internal-vs-external-documentation-what-belongs-where-3147)
-- [From Prompts to Infrastructure: Building Trustworthy, Scalable AI Agents in the Age of A2A and Agent Sandboxes](https://dev.to/tamizuddin/from-prompts-to-infrastructure-building-trustworthy-scalable-ai-agents-in-the-age-of-a2a-and-11md)
-- [Proxmox HA-Cluster: Split‑Brain verhindern &amp; Quorum richtig konfigurieren](https://dev.to/uhltak/proxmox-ha-cluster-split-brain-verhindern-quorum-richtig-konfigurieren-m3l)
-- [Deploying Microsoft Fabric items from Azure DevOps with a service principal](https://dev.to/vedaforge_eng/deploying-microsoft-fabric-items-from-azure-devops-with-a-service-principal-4nfa)
+- [Your Bulk Insert Isn&#39;t Slow. Waiting for the Database Is.](https://dev.to/nicolas_vbgh/your-bulk-insert-isnt-slow-waiting-for-the-database-is-3927)
+- [Patch Tuesday August 2026: 1 Zero-Day, 109 Critical Fixes Among 790 CVEs](https://dev.to/ian_bishop_98bf15c6a498d4/patch-tuesday-august-2026-1-zero-day-109-critical-fixes-among-790-cves-3hdc)
+- [Local vs Hosted LLMs: The Decision Framework](https://dev.to/apeder/local-vs-hosted-llms-the-decision-framework-56p)
+- [Those ugly tracking codes in your links? I’m building a one-click fix &lpar;while learning JavaScript from scratch&rpar;](https://dev.to/shashwatdeep/those-ugly-tracking-codes-in-your-links-im-building-a-one-click-fix-while-learning-javascript-15aj)
+- [Build an SMS Triage Bot on Telnyx Edge Compute](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-sms-triage-bot-on-telnyx-edge-compute-4gin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
