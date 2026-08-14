@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I filled my agent&#39;s wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple)
-- [They Matched The Slogan. The Decision Lived In The Undefined Word](https://dev.to/kenielzep97/they-matched-the-slogan-the-decision-lived-in-the-undefined-word-36o0)
-- [[Python/JS/C#] Block Engine v2.2.0: Run Python, Node.js, Lua &amp; PHP in a single document with zero-config state pipeline](https://dev.to/o-o1112/pythonjsc-block-engine-v220-run-python-nodejs-lua-php-in-a-single-document-with-4hlb)
-- [Snoring Secrets: Fine-Tuning Whisper-v3 to Identify Sleep Apnea Events Like a Pro](https://dev.to/beck_moulton/snoring-secrets-fine-tuning-whisper-v3-to-identify-sleep-apnea-events-like-a-pro-4phj)
-- [loveyourclanker.org](https://dev.to/javascriptmick/loveyourclankerorg-4ap4)
+- [Notes from getting QuickBooks to accept a generated .qbo file](https://dev.to/ink_gu/notes-from-getting-quickbooks-to-accept-a-generated-qbo-file-3k5i)
+- [Visual Studio 2026 Debugger Detection Failure](https://dev.to/sem7ac/visual-studio-2026-debugger-detection-failure-5fip)
+- [Zero-Trust SSH Access Blueprint: FIDO2 Hardware Keys &amp; SSH Certificate Authority](https://dev.to/aomiqaza/zero-trust-ssh-access-blueprint-fido2-hardware-keys-ssh-certificate-authority-55gj)
+- [Hoisting](https://dev.to/jaisurya/hoisting-1o35)
+- [Rich Results, Shopping, and AI Mode: What Google Merchant Center Actually Gets You](https://dev.to/dalenguyen/rich-results-shopping-and-ai-mode-what-google-merchant-center-actually-gets-you-5fem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
