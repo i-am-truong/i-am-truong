@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [89 nos and not a single line of code](https://dev.to/_jesmoo/89-nos-and-not-a-single-line-of-code-2da2)
 - [25+ useful and commonly used Regular Expressions](https://dev.to/developaaah/25-useful-and-commonly-used-regular-expressions-10d)
+- [Shaving a second off a real-time speech-to-LLM pipeline in Electron](https://dev.to/theinterviewcopilot/shaving-a-second-off-a-real-time-speech-to-llm-pipeline-in-electron-4c7h)
 - [Marketplace Cleanup: Queue Push Webhook Endpoint with Public HTTPS Signature Checks](https://dev.to/ethanbrooks111/marketplace-cleanup-queue-push-webhook-endpoint-with-public-https-signature-checks-471m)
 - [Writing evidence-linked docs exposed two missing regression tests](https://dev.to/shikiyusuke/writing-evidence-linked-docs-exposed-two-missing-regression-tests-3524)
-- [I built a tool that tells me if readers actually understood my articles](https://dev.to/autoshiftops/i-built-a-tool-that-tells-me-if-readers-actually-understood-my-articles-44d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
