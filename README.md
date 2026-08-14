@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Workflow Orchestration: How AI Agents Can Work Like Your Engineering Team](https://dev.to/jps27cse/ai-workflow-orchestration-how-ai-agents-can-work-like-your-engineering-team-286n)
-- [Breach monitoring from cron: no API key, no signup, just curl and jq](https://dev.to/devaonbreaches/breach-monitoring-from-cron-no-api-key-no-signup-just-curl-and-jq-2jh1)
-- [We Automated RCAs. The Real Value Was the Big Picture.](https://dev.to/borisgri/we-made-bug-tickets-write-their-own-root-cause-analysis-the-value-wasnt-the-rcas-it-was-what-5341)
-- [Even With The Figma MCP, AI Eyeballs Your Design and Ships Pixel-Wrong UI](https://dev.to/borisgri/even-with-the-figma-mcp-ai-eyeballs-your-design-and-ships-pixel-wrong-ui-5164)
-- [My workstation was faking sleep: how a $15 meter caught 163 watts of waste](https://dev.to/vinodgorla/my-workstation-was-faking-sleep-how-a-15-meter-caught-163-watts-of-waste-4edh)
+- [Close the Loop Before You Open a New One](https://dev.to/sergueyasaelshinder/close-the-loop-before-you-open-a-new-one-1kig)
+- [EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19](https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o)
+- [We Almost Deployed a Temporal Knowledge Graph. The Eval Said No.](https://dev.to/futhgar/we-almost-deployed-a-temporal-knowledge-graph-the-eval-said-no-3ld)
+- [Website Load Testing Guide: Test Performance at Scale](https://dev.to/serveravatar/website-load-testing-guide-test-performance-at-scale-3a0j)
+- [Why French Sound Inventories Differ — and How We Published a Bounded 35-Sound Learning Dataset](https://dev.to/levindong2026/why-french-sound-inventories-differ-and-how-we-published-a-bounded-35-sound-learning-dataset-5hil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
