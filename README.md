@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Close the Loop Before You Open a New One](https://dev.to/sergueyasaelshinder/close-the-loop-before-you-open-a-new-one-1kig)
-- [EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19](https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o)
-- [We Almost Deployed a Temporal Knowledge Graph. The Eval Said No.](https://dev.to/futhgar/we-almost-deployed-a-temporal-knowledge-graph-the-eval-said-no-3ld)
-- [Website Load Testing Guide: Test Performance at Scale](https://dev.to/serveravatar/website-load-testing-guide-test-performance-at-scale-3a0j)
-- [Why French Sound Inventories Differ — and How We Published a Bounded 35-Sound Learning Dataset](https://dev.to/levindong2026/why-french-sound-inventories-differ-and-how-we-published-a-bounded-35-sound-learning-dataset-5hil)
+- [The rounding bug that almost shipped in a payroll calculator](https://dev.to/saurabh_sharma_7a9a61107d/the-rounding-bug-that-almost-shipped-in-a-payroll-calculator-jm3)
+- [Translating Culinary Comfort into Pure CSS Art](https://dev.to/inushathathsara/translating-culinary-comfort-into-pure-css-art-39gg)
+- [Serverless Bill Shock: Tracking Edge Function and Database Expirations &lpar;Vercel, Supabase, Netlify, Neon&rpar;](https://dev.to/instarenewal/serverless-bill-shock-tracking-edge-function-and-database-expirations-vercel-supabase-netlify-1ca8)
+- [AI Voice Agents Need Improvement in Handling Natural Human Interruptions During Conversations](https://dev.to/natcher/ai-voice-agents-need-improvement-in-handling-natural-human-interruptions-during-conversations-1lf3)
+- [# I Built a Linux System-Intelligence Tool Using Bash, C and C#](https://dev.to/yathartsalil/-i-built-a-linux-system-intelligence-tool-using-bash-c-and-c-bl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
