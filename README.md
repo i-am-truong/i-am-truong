@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An O&lpar;1&rpar; Space Alternative to &quot;Rearrange Array Alternately&quot; Using Sequential Suffix Reversal](https://dev.to/juhi_gherkar_c07bebe88fa3/an-o1-space-alternative-to-rearrange-array-alternately-using-sequential-suffix-reversal-554a)
-- [JoyAI-Video-Edit Targets Streaming Video Without a Full Clip](https://dev.to/dd8888/joyai-video-edit-targets-streaming-video-without-a-full-clip-4mec)
-- [Software Team Scaling: Why More Developers Can Slow Delivery](https://dev.to/mjodeh/software-team-scaling-why-more-developers-can-slow-delivery-467n)
-- [AI API Costs Are Surprising People — Here&#39;s How to Check First](https://dev.to/sameermoin21/ai-api-costs-are-surprising-people-heres-how-to-check-first-3phc)
-- [Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows](https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m)
+- [HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database](https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033)
+- [Building Sluice: QoS-Aware Capacity Governance for Self-Hosted LLM Inference](https://dev.to/vampiriccyborg/building-sluice-qos-aware-capacity-governance-for-self-hosted-llm-inference-13ja)
+- [UCIe 3.0 Chiplet Verification: Turn Runtime Recalibration into a Scenario Matrix](https://dev.to/alpinumblogs/ucie-30-chiplet-verification-turn-runtime-recalibration-into-a-scenario-matrix-4j3o)
+- [The One-Minute Trap: What Microsoft Fabric&#39;s New Warehouse Billing Model Means for Your Workloads By Gilbert Kiptoo Lelon | DP-700|DP-600](https://dev.to/gilbert_lelon_8352bf20997/the-one-minute-trap-what-microsoft-fabrics-new-warehouse-billing-model-means-for-your-workloads-1ojb)
+- [Your AI Doesn’t Know Your Company](https://dev.to/seredasv/your-ai-doesnt-know-your-company-7da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
