@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Canvas: A Free Open Source Infinite Canvas for Storyboarding, Film Planning and Visual Thinking](https://dev.to/lovecatisgoodsudo/open-canvas-a-free-open-source-infinite-canvas-for-storyboarding-film-planning-and-visual-thinking-919)
-- [Observer Pattern: eventi senza accoppiamento](https://dev.to/dev_iadicola/observer-pattern-eventi-senza-accoppiamento-1e7e)
-- [How the rankings work — and what we refuse to count](https://dev.to/rss-atlas/how-the-rankings-work-and-what-we-refuse-to-count-4d6d)
-- [DS Express Errors &lpar;centralizing errors library&rpar; — v1.9.1 Release Notes August 13, 2026](https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v191-release-notes-august-13-2026-9ph)
-- [[Claude Code in Practice] Rethinking Terminal Workflows: From zsh Autocomplete to Search and Diff Toolchains](https://dev.to/evanlin/claude-code-in-practice-rethinking-terminal-workflows-from-zsh-autocomplete-to-search-and-diff-4jdk)
+- [Build an AI Financial Agent with EODHD&#39;s MCP Server](https://dev.to/kevin_menesesgonzlez/build-an-ai-financial-agent-with-eodhds-mcp-server-4pjc)
+- [Dev Opportunity Radar #12: $10K+ Magnificent Grants, Free CodePath Courses, AI Societal Impact Lab Fellowship, and Interview Prep 101](https://dev.to/devengers/dev-opportunity-radar-12-10k-magnificent-grants-free-codepath-courses-ai-societal-impact-lab-56h5)
+- [this is some thing crazy check this out guys](https://dev.to/beheb92372/this-is-some-thing-crazy-check-this-out-guys-4ill)
+- [AI Governance Framework Search Interest Suggests a New Enterprise Planning Signal](https://dev.to/alifar/ai-governance-framework-search-interest-suggests-a-new-enterprise-planning-signal-26o6)
+- [Why I Built an SSH Config and Tunnel Manager for macOS](https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-44lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
