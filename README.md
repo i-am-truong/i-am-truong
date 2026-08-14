@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Observability - A Counter in RAM, an ID in a Header, and a Batch Export](https://dev.to/telilabs/observability-a-counter-in-ram-an-id-in-a-header-and-a-batch-export-h41)
+- [How I Accidentally &quot;Killed&quot; an AI Coding Agent With a Totally Normal Prompt](https://dev.to/gurudev007/how-i-accidentally-killed-an-ai-coding-agent-with-a-totally-normal-prompt-e5m)
+- [I Run 85 Docker Containers as a Solo Founder. Here&#39;s the Bash That Keeps It Alive.](https://dev.to/frederikvonderheyden/i-run-85-docker-containers-as-a-solo-founder-heres-the-bash-that-keeps-it-alive-4k2n)
 - [Your memory layer is lying to you &lpar;and your LLM agrees&rpar;](https://dev.to/mansio/your-memory-layer-is-lying-to-you-and-your-llm-agrees-1oia)
 - [Edge vs Cloud Inference for Live Sports Highlights: Where Should the Model Run?](https://dev.to/zentagai/edge-vs-cloud-inference-for-live-sports-highlights-where-should-the-model-run-3lgd)
-- [Google lowers Gemini 3.7 Flash costs for developers](https://dev.to/vpodk/google-lowers-gemini-37-flash-costs-for-developers-1863)
-- [AI Referral Traffic Is Small but Growing: What the 1.08% Benchmark Means for Measurement](https://dev.to/alifar/ai-referral-traffic-is-small-but-growing-what-the-108-benchmark-means-for-measurement-10ci)
-- [Claude Terminal Hub: stop hunting for folders to resume Claude Code sessions](https://dev.to/brenoalvim/claude-terminal-hub-stop-hunting-for-folders-to-resume-claude-code-sessions-2p4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
