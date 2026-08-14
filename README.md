@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable Entire](https://dev.to/entire/how-to-enable-entire-4h9l)
-- [Engineer-to-Engineer: Building a Typing Test That Doesn&#39;t Lie to You](https://dev.to/lizely/engineer-to-engineer-building-a-typing-test-that-doesnt-lie-to-you-5822)
-- [The Reality of Working as a DevOps Engineer in Cameroon](https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l)
-- [DriftGate&lpar;&rpar;: Not just a weekend challenge](https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5)
-- [Observability - A Counter in RAM, an ID in a Header, and a Batch Export](https://dev.to/telilabs/observability-a-counter-in-ram-an-id-in-a-header-and-a-batch-export-h41)
+- [How to Review AI-Generated Code with Multiple AI Agents](https://dev.to/entire/how-to-review-ai-generated-code-with-multiple-ai-agents-gdc)
+- [Agent Memory, Part 3: Perfection Is a Unicorn](https://dev.to/johnonlee/agent-memory-part-3-perfection-is-a-unicorn-570n)
+- [Eleven pages that read your own files in the browser. The hard part was what they refuse to say.](https://dev.to/artificial_wasteland/eleven-pages-that-read-your-own-files-in-the-browser-the-hard-part-was-what-they-refuse-to-say-109)
+- [Semantic search for 796 pages, with no server, no vector database, and no model at query time](https://dev.to/artificial_wasteland/semantic-search-for-796-pages-with-no-server-no-vector-database-and-no-model-at-query-time-93m)
+- [One docker compose up, One Seeded Postgres](https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
