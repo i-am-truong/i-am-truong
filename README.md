@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Durable Memory: Why Vector Databases Aren&#39;t Enough](https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f)
-- [AI Overview Visibility May Depend on Query Intent, Not Just Traditional Click Metrics](https://dev.to/alifar/ai-overview-visibility-may-depend-on-query-intent-not-just-traditional-click-metrics-4i82)
-- [Como documentar soluções para decidir melhor, prever falhas e evoluir sem se perder](https://dev.to/fraanst/como-documentar-solucoes-para-decidir-melhor-prever-falhas-e-evoluir-sem-se-perder-9ng)
-- [Deploying a React App to AWS S3 + CloudFront](https://dev.to/duubemmm/deploying-a-react-app-to-aws-s3-cloudfront-55hn)
-- [An AI Director Made It to the World&#39;s Judging Table. But Not to the Shortlist.](https://dev.to/ghostyai_aionexo/an-ai-director-made-it-to-the-worlds-judging-table-but-not-to-the-shortlist-1a86)
+- [I filled my agent&#39;s wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple)
+- [They Matched The Slogan. The Decision Lived In The Undefined Word](https://dev.to/kenielzep97/they-matched-the-slogan-the-decision-lived-in-the-undefined-word-36o0)
+- [[Python/JS/C#] Block Engine v2.2.0: Run Python, Node.js, Lua &amp; PHP in a single document with zero-config state pipeline](https://dev.to/o-o1112/pythonjsc-block-engine-v220-run-python-nodejs-lua-php-in-a-single-document-with-4hlb)
+- [Snoring Secrets: Fine-Tuning Whisper-v3 to Identify Sleep Apnea Events Like a Pro](https://dev.to/beck_moulton/snoring-secrets-fine-tuning-whisper-v3-to-identify-sleep-apnea-events-like-a-pro-4phj)
+- [loveyourclanker.org](https://dev.to/javascriptmick/loveyourclankerorg-4ap4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
