@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Financial Agent with EODHD&#39;s MCP Server](https://dev.to/kevin_menesesgonzlez/build-an-ai-financial-agent-with-eodhds-mcp-server-4pjc)
-- [Dev Opportunity Radar #12: $10K+ Magnificent Grants, Free CodePath Courses, AI Societal Impact Lab Fellowship, and Interview Prep 101](https://dev.to/devengers/dev-opportunity-radar-12-10k-magnificent-grants-free-codepath-courses-ai-societal-impact-lab-56h5)
-- [this is some thing crazy check this out guys](https://dev.to/beheb92372/this-is-some-thing-crazy-check-this-out-guys-4ill)
-- [AI Governance Framework Search Interest Suggests a New Enterprise Planning Signal](https://dev.to/alifar/ai-governance-framework-search-interest-suggests-a-new-enterprise-planning-signal-26o6)
-- [Why I Built an SSH Config and Tunnel Manager for macOS](https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-44lj)
+- [Your MCP server didn&#39;t break. The protocol did.](https://dev.to/bazzz/your-mcp-server-didnt-break-the-protocol-did-3abp)
+- [Python Data Model - Part 2: Protocols and Special Methods](https://dev.to/brunotlps/python-data-model-part-2-protocols-and-special-methods-1k60)
+- [جعلنا موقعنا غير قابل للضغط مرتين، ولم يكن الخطأ في الكود](https://dev.to/kouanahesham/jln-mwqn-gyr-qbl-lldgt-mrtyn-wlm-ykn-lkht-fy-lkwd-2h9g)
+- [I built a RAG assistant, then found out my architecture change made it worse](https://dev.to/saftyy/i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse-1n7i)
+- [Modelo de Dados Python - Parte 2: Protocolos e métodos especiais](https://dev.to/brunotlps/modelo-de-dados-python-parte-2-protocolos-e-metodos-especiais-2e7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
