@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run Qwen 3.8 27B Locally: Real GGUF Sizes, the KV Cache Trick, and the Template Trap](https://dev.to/purpledoubled/run-qwen-38-27b-locally-real-gguf-sizes-the-kv-cache-trick-and-the-template-trap-114j)
-- [Let a Free Model Try to Break Your API Before Your Users Do](https://dev.to/codepy_1473/let-a-free-model-try-to-break-your-api-before-your-users-do-539m)
-- [Persistence of Memory, Personality, and Self in AI Agents The Someone That Persists, Session After Session, Across Months](https://dev.to/adoloslabs/persistence-of-memory-personality-and-self-in-ai-agents-the-someone-that-persists-session-after-10kd)
-- [Serving Gemma4 with Rust on vLLM 🦀](https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l)
-- [A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.](https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei)
+- [Your memory layer is lying to you &lpar;and your LLM agrees&rpar;](https://dev.to/mansio/your-memory-layer-is-lying-to-you-and-your-llm-agrees-1oia)
+- [Edge vs Cloud Inference for Live Sports Highlights: Where Should the Model Run?](https://dev.to/zentagai/edge-vs-cloud-inference-for-live-sports-highlights-where-should-the-model-run-3lgd)
+- [Google lowers Gemini 3.7 Flash costs for developers](https://dev.to/vpodk/google-lowers-gemini-37-flash-costs-for-developers-1863)
+- [AI Referral Traffic Is Small but Growing: What the 1.08% Benchmark Means for Measurement](https://dev.to/alifar/ai-referral-traffic-is-small-but-growing-what-the-108-benchmark-means-for-measurement-10ci)
+- [Claude Terminal Hub: stop hunting for folders to resume Claude Code sessions](https://dev.to/brenoalvim/claude-terminal-hub-stop-hunting-for-folders-to-resume-claude-code-sessions-2p4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
