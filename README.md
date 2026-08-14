@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BR-DE-15 is not a Schematron mystery](https://dev.to/michaelgorski/br-de-15-is-not-a-schematron-mystery-45ef)
-- [Microservices vs Monolith: Why You Should Probably Start With One Big App](https://dev.to/arnavsharma2711/microservices-vs-monolith-why-you-should-probably-start-with-one-big-app-34b6)
-- [Architectural Resilience: Mitigating V8 Memory Leaks and Redis Cache Stampedes](https://dev.to/rexreus/architectural-resilience-mitigating-v8-memory-leaks-and-redis-cache-stampedes-4jcb)
-- [Distinguishing Data and Logic: A Mathematical and Computational Perspective on Information Theory](https://dev.to/serbyte/distinguishing-data-and-logic-a-mathematical-and-computational-perspective-on-information-theory-477l)
-- [How to Build a Minimal SIEM with Python, SQLite and Telegram Alerts](https://dev.to/ayinedjimi-consultants/how-to-build-a-minimal-siem-with-python-sqlite-and-telegram-alerts-29f5)
+- [The Knock at the Door](https://dev.to/rawveg/the-knock-at-the-door-1jic)
+- [Building Better Error Handling in Node.js](https://dev.to/sam000/building-better-error-handling-in-nodejs-4ik5)
+- [When a String Assumption Broke Newsletter Tag Filtering in Ruby](https://dev.to/yashika_vijayvargiya/when-a-string-assumption-broke-newsletter-tag-filtering-in-ruby-3ak3)
+- [Your eval suite passes. I built the tool that checks whether it checks anything.](https://dev.to/agentdev9/your-eval-suite-passes-i-built-the-tool-that-checks-whether-it-checks-anything-2c3f)
+- [You Don&#39;t Always Need a Workflow Engine to Roll Back a Failed Checkout](https://dev.to/sient/you-dont-always-need-a-workflow-engine-to-roll-back-a-failed-checkout-5gop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
