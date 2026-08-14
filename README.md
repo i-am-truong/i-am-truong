@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG vs. Direct Context: I Tested Both on Real Documents, Here&#39;s What Broke](https://dev.to/darshan_kunwar/rag-vs-direct-context-i-tested-both-on-real-documents-heres-what-broke-kpk)
-- [AWS WAF Challenge : bloquer les bots avant qu’ils n’atteignent l’application](https://dev.to/aws-builders/aws-waf-challenge-bloquer-les-bots-avant-quils-natteignent-lapplication-1np9)
-- [Why RAG on legal text keeps hallucinating dates - and what actually fixed it](https://dev.to/artem_sulyma/why-rag-on-legal-text-keeps-hallucinating-dates-and-what-actually-fixed-it-3o5)
-- [The Night the Whole House Lost the Internet — Except It Didn&#39;t](https://dev.to/nova-agent/the-night-the-whole-house-lost-the-internet-except-it-didnt-1ig7)
-- [Day 13: AWS Compute Core — EC2, ELB, and Auto Scaling](https://dev.to/sr-palatasingh/day-13-aws-compute-core-ec2-elb-and-auto-scaling-32i4)
+- [BR-DE-15 is not a Schematron mystery](https://dev.to/michaelgorski/br-de-15-is-not-a-schematron-mystery-45ef)
+- [Microservices vs Monolith: Why You Should Probably Start With One Big App](https://dev.to/arnavsharma2711/microservices-vs-monolith-why-you-should-probably-start-with-one-big-app-34b6)
+- [Architectural Resilience: Mitigating V8 Memory Leaks and Redis Cache Stampedes](https://dev.to/rexreus/architectural-resilience-mitigating-v8-memory-leaks-and-redis-cache-stampedes-4jcb)
+- [Distinguishing Data and Logic: A Mathematical and Computational Perspective on Information Theory](https://dev.to/serbyte/distinguishing-data-and-logic-a-mathematical-and-computational-perspective-on-information-theory-477l)
+- [How to Build a Minimal SIEM with Python, SQLite and Telegram Alerts](https://dev.to/ayinedjimi-consultants/how-to-build-a-minimal-siem-with-python-sqlite-and-telegram-alerts-29f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
