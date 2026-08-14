@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your MCP server didn&#39;t break. The protocol did.](https://dev.to/bazzz/your-mcp-server-didnt-break-the-protocol-did-3abp)
-- [Python Data Model - Part 2: Protocols and Special Methods](https://dev.to/brunotlps/python-data-model-part-2-protocols-and-special-methods-1k60)
-- [جعلنا موقعنا غير قابل للضغط مرتين، ولم يكن الخطأ في الكود](https://dev.to/kouanahesham/jln-mwqn-gyr-qbl-lldgt-mrtyn-wlm-ykn-lkht-fy-lkwd-2h9g)
-- [I built a RAG assistant, then found out my architecture change made it worse](https://dev.to/saftyy/i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse-1n7i)
-- [Modelo de Dados Python - Parte 2: Protocolos e métodos especiais](https://dev.to/brunotlps/modelo-de-dados-python-parte-2-protocolos-e-metodos-especiais-2e7n)
+- [An O&lpar;1&rpar; Space Alternative to &quot;Rearrange Array Alternately&quot; Using Sequential Suffix Reversal](https://dev.to/juhi_gherkar_c07bebe88fa3/an-o1-space-alternative-to-rearrange-array-alternately-using-sequential-suffix-reversal-554a)
+- [JoyAI-Video-Edit Targets Streaming Video Without a Full Clip](https://dev.to/dd8888/joyai-video-edit-targets-streaming-video-without-a-full-clip-4mec)
+- [Software Team Scaling: Why More Developers Can Slow Delivery](https://dev.to/mjodeh/software-team-scaling-why-more-developers-can-slow-delivery-467n)
+- [AI API Costs Are Surprising People — Here&#39;s How to Check First](https://dev.to/sameermoin21/ai-api-costs-are-surprising-people-heres-how-to-check-first-3phc)
+- [Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows](https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
