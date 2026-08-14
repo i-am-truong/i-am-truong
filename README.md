@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating an AI Agent that curates images for ML datasets &lpar;Google All Things Agentic Hackathon&rpar;](https://dev.to/hackaprende/creating-an-ai-agent-for-curating-images-for-ml-datasets-google-all-things-agentic-hackathon-55fh)
-- [How to Review AI-Generated Code with Multiple AI Agents](https://dev.to/entire/how-to-review-ai-generated-code-with-multiple-ai-agents-gdc)
-- [Agent Memory, Part 3: Perfection Is a Unicorn](https://dev.to/johnonlee/agent-memory-part-3-perfection-is-a-unicorn-570n)
-- [Eleven pages that read your own files in the browser. The hard part was what they refuse to say.](https://dev.to/artificial_wasteland/eleven-pages-that-read-your-own-files-in-the-browser-the-hard-part-was-what-they-refuse-to-say-109)
-- [Semantic search for 796 pages, with no server, no vector database, and no model at query time](https://dev.to/artificial_wasteland/semantic-search-for-796-pages-with-no-server-no-vector-database-and-no-model-at-query-time-93m)
+- [89 nos and not a single line of code](https://dev.to/_jesmoo/89-nos-and-not-a-single-line-of-code-2da2)
+- [25+ useful and commonly used Regular Expressions](https://dev.to/developaaah/25-useful-and-commonly-used-regular-expressions-10d)
+- [Marketplace Cleanup: Queue Push Webhook Endpoint with Public HTTPS Signature Checks](https://dev.to/ethanbrooks111/marketplace-cleanup-queue-push-webhook-endpoint-with-public-https-signature-checks-471m)
+- [Writing evidence-linked docs exposed two missing regression tests](https://dev.to/shikiyusuke/writing-evidence-linked-docs-exposed-two-missing-regression-tests-3524)
+- [I built a tool that tells me if readers actually understood my articles](https://dev.to/autoshiftops/i-built-a-tool-that-tells-me-if-readers-actually-understood-my-articles-44d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
