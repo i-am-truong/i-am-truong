@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Reading Claims Need Stronger Evidence Before They Shape Enterprise Decisions](https://dev.to/alifar/ai-reading-claims-need-stronger-evidence-before-they-shape-enterprise-decisions-cd1)
-- [The Free-Model Agreement Test for AI Code Generation](https://dev.to/github_7727/the-free-model-agreement-test-for-ai-code-generation-31op)
-- [A Two-Model Regression Harness for Evaluating a New Low-Cost Model Release](https://dev.to/apppro_5726/a-two-model-regression-harness-for-evaluating-a-new-low-cost-model-release-47ga)
-- [Your linter has been spreading the bug it was built to catch.](https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7)
-- [A course generator with a quality gate: five ADK agents on Cloud Run](https://dev.to/tommy_leonhardsen_81d1f4e/a-course-generator-with-a-quality-gate-five-adk-agents-on-cloud-run-hnm)
+- [AI Is Making Programmers Stackless: Engineering Experience Is the New Moat](https://dev.to/ajidev/ai-is-making-programmers-stackless-engineering-experience-is-the-new-moat-5g03)
+- [5 Free Sanctions APIs That Automate EU AI Act Compliance](https://dev.to/onizuka/5-free-sanctions-apis-that-automate-eu-ai-act-compliance-gbg)
+- [Creating modern forms with form.fscss — pure CSS](https://dev.to/fscss/creating-modern-forms-with-formfscss-pure-css-4801)
+- [Docker Networking &amp; Volumes: Connecting Containers and Persisting Data](https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn)
+- [How I Built ActiveVPN: A Terminal Tool That Proves &lpar;or Exposes&rpar; Your VPN](https://dev.to/rkriad585/how-i-built-activevpn-a-terminal-tool-that-proves-or-exposes-your-vpn-38jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
