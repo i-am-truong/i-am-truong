@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database](https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033)
-- [Building Sluice: QoS-Aware Capacity Governance for Self-Hosted LLM Inference](https://dev.to/vampiriccyborg/building-sluice-qos-aware-capacity-governance-for-self-hosted-llm-inference-13ja)
-- [UCIe 3.0 Chiplet Verification: Turn Runtime Recalibration into a Scenario Matrix](https://dev.to/alpinumblogs/ucie-30-chiplet-verification-turn-runtime-recalibration-into-a-scenario-matrix-4j3o)
-- [The One-Minute Trap: What Microsoft Fabric&#39;s New Warehouse Billing Model Means for Your Workloads By Gilbert Kiptoo Lelon | DP-700|DP-600](https://dev.to/gilbert_lelon_8352bf20997/the-one-minute-trap-what-microsoft-fabrics-new-warehouse-billing-model-means-for-your-workloads-1ojb)
-- [Your AI Doesn’t Know Your Company](https://dev.to/seredasv/your-ai-doesnt-know-your-company-7da)
+- [Persistence of Memory, Personality, and Self in AI Agents The Someone That Persists, Session After Session, Across Months](https://dev.to/adoloslabs/persistence-of-memory-personality-and-self-in-ai-agents-the-someone-that-persists-session-after-10kd)
+- [Serving Gemma4 with Rust on vLLM 🦀](https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l)
+- [IRC-A in production, part 2: a 46-minute agent, an AI assistant that broke the rules — and a $0.04 bill](https://dev.to/irc-a/irc-a-in-production-part-2-a-46-minute-agent-an-ai-assistant-that-broke-the-rules-and-a-004-2nm)
+- [Installing Rust for vLLM on Graviton: a G5g walk-through 🦀](https://dev.to/aws-builders/installing-rust-for-vllm-on-graviton-a-g5g-walk-through-599a)
+- [How to Get Started with Grok Bot](https://dev.to/debs_obrien/how-to-get-started-with-grok-bot-4f5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
