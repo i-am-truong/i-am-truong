@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating an AI Agent that curates images for ML datasets &lpar;Google All Things Agentic Hackathon&rpar;](https://dev.to/hackaprende/creating-an-ai-agent-for-curating-images-for-ml-datasets-google-all-things-agentic-hackathon-55fh)
 - [How to Review AI-Generated Code with Multiple AI Agents](https://dev.to/entire/how-to-review-ai-generated-code-with-multiple-ai-agents-gdc)
 - [Agent Memory, Part 3: Perfection Is a Unicorn](https://dev.to/johnonlee/agent-memory-part-3-perfection-is-a-unicorn-570n)
 - [Eleven pages that read your own files in the browser. The hard part was what they refuse to say.](https://dev.to/artificial_wasteland/eleven-pages-that-read-your-own-files-in-the-browser-the-hard-part-was-what-they-refuse-to-say-109)
 - [Semantic search for 796 pages, with no server, no vector database, and no model at query time](https://dev.to/artificial_wasteland/semantic-search-for-796-pages-with-no-server-no-vector-database-and-no-model-at-query-time-93m)
-- [One docker compose up, One Seeded Postgres](https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
