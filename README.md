@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Making Programmers Stackless: Engineering Experience Is the New Moat](https://dev.to/ajidev/ai-is-making-programmers-stackless-engineering-experience-is-the-new-moat-5g03)
-- [5 Free Sanctions APIs That Automate EU AI Act Compliance](https://dev.to/onizuka/5-free-sanctions-apis-that-automate-eu-ai-act-compliance-gbg)
-- [Creating modern forms with form.fscss — pure CSS](https://dev.to/fscss/creating-modern-forms-with-formfscss-pure-css-4801)
-- [Docker Networking &amp; Volumes: Connecting Containers and Persisting Data](https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn)
-- [How I Built ActiveVPN: A Terminal Tool That Proves &lpar;or Exposes&rpar; Your VPN](https://dev.to/rkriad585/how-i-built-activevpn-a-terminal-tool-that-proves-or-exposes-your-vpn-38jg)
+- [Every Rule I Added Made It Worse: How Prompt Bloat Killed My Voice](https://dev.to/aws-builders/every-rule-i-added-made-it-worse-how-prompt-bloat-killed-my-voice-3ekd)
+- [App Shield: Your Server Should Not Trust the App Calling It](https://dev.to/codenameone/app-shield-your-server-should-not-trust-the-app-calling-it-4cpa)
+- [LLM observability: tracing, monitoring, and debugging agents in production](https://dev.to/aiarch_wibo/llm-observability-tracing-monitoring-and-debugging-agents-in-production-3jn8)
+- [Zero-Budget AI Coding Model Evaluation: A Sandbox-First Workflow](https://dev.to/hackjs_7468/zero-budget-ai-coding-model-evaluation-a-sandbox-first-workflow-4ioh)
+- [One Inline Button for Everyone: Parameters, Authentication, and Callbacks in a Telegram Mini App](https://dev.to/vibe_seeker/one-inline-button-for-everyone-parameters-authentication-and-callbacks-in-a-telegram-mini-app-9ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
