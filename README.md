@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every Rule I Added Made It Worse: How Prompt Bloat Killed My Voice](https://dev.to/aws-builders/every-rule-i-added-made-it-worse-how-prompt-bloat-killed-my-voice-3ekd)
-- [App Shield: Your Server Should Not Trust the App Calling It](https://dev.to/codenameone/app-shield-your-server-should-not-trust-the-app-calling-it-4cpa)
-- [LLM observability: tracing, monitoring, and debugging agents in production](https://dev.to/aiarch_wibo/llm-observability-tracing-monitoring-and-debugging-agents-in-production-3jn8)
-- [Zero-Budget AI Coding Model Evaluation: A Sandbox-First Workflow](https://dev.to/hackjs_7468/zero-budget-ai-coding-model-evaluation-a-sandbox-first-workflow-4ioh)
-- [One Inline Button for Everyone: Parameters, Authentication, and Callbacks in a Telegram Mini App](https://dev.to/vibe_seeker/one-inline-button-for-everyone-parameters-authentication-and-callbacks-in-a-telegram-mini-app-9ef)
+- [AWS News - S1E2](https://dev.to/aws-builders/aws-news-s1e2-k67)
+- [Turn the ASP.NET Core Web API you already have into an MCP server](https://dev.to/hovikaghajanyan/turn-the-aspnet-core-web-api-you-already-have-into-an-mcp-server-1f55)
+- [Consumir servidores MCP desde .NET: cuando tu app es el cliente](https://dev.to/jgomezdev/consumir-servidores-mcp-desde-net-cuando-tu-app-es-el-cliente-5fgm)
+- [Consuming MCP Servers from .NET: When Your App Becomes the Client](https://dev.to/jgomezdev/consuming-mcp-servers-from-net-when-your-app-becomes-the-client-2goc)
+- [Ordexa: a Next.js 16 admin dashboard template I actually finished](https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
