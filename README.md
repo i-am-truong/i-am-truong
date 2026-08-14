@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Knock at the Door](https://dev.to/rawveg/the-knock-at-the-door-1jic)
-- [Building Better Error Handling in Node.js](https://dev.to/sam000/building-better-error-handling-in-nodejs-4ik5)
-- [When a String Assumption Broke Newsletter Tag Filtering in Ruby](https://dev.to/yashika_vijayvargiya/when-a-string-assumption-broke-newsletter-tag-filtering-in-ruby-3ak3)
-- [Your eval suite passes. I built the tool that checks whether it checks anything.](https://dev.to/agentdev9/your-eval-suite-passes-i-built-the-tool-that-checks-whether-it-checks-anything-2c3f)
-- [You Don&#39;t Always Need a Workflow Engine to Roll Back a Failed Checkout](https://dev.to/sient/you-dont-always-need-a-workflow-engine-to-roll-back-a-failed-checkout-5gop)
+- [AI Reading Claims Need Stronger Evidence Before They Shape Enterprise Decisions](https://dev.to/alifar/ai-reading-claims-need-stronger-evidence-before-they-shape-enterprise-decisions-cd1)
+- [The Free-Model Agreement Test for AI Code Generation](https://dev.to/github_7727/the-free-model-agreement-test-for-ai-code-generation-31op)
+- [A Two-Model Regression Harness for Evaluating a New Low-Cost Model Release](https://dev.to/apppro_5726/a-two-model-regression-harness-for-evaluating-a-new-low-cost-model-release-47ga)
+- [Your linter has been spreading the bug it was built to catch.](https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7)
+- [A course generator with a quality gate: five ADK agents on Cloud Run](https://dev.to/tommy_leonhardsen_81d1f4e/a-course-generator-with-a-quality-gate-five-adk-agents-on-cloud-run-hnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
