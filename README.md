@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Entire](https://dev.to/entire/how-to-enable-entire-4h9l)
+- [Engineer-to-Engineer: Building a Typing Test That Doesn&#39;t Lie to You](https://dev.to/lizely/engineer-to-engineer-building-a-typing-test-that-doesnt-lie-to-you-5822)
+- [The Reality of Working as a DevOps Engineer in Cameroon](https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l)
+- [DriftGate&lpar;&rpar;: Not just a weekend challenge](https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5)
 - [Observability - A Counter in RAM, an ID in a Header, and a Batch Export](https://dev.to/telilabs/observability-a-counter-in-ram-an-id-in-a-header-and-a-batch-export-h41)
-- [How I Accidentally &quot;Killed&quot; an AI Coding Agent With a Totally Normal Prompt](https://dev.to/gurudev007/how-i-accidentally-killed-an-ai-coding-agent-with-a-totally-normal-prompt-e5m)
-- [I Run 85 Docker Containers as a Solo Founder. Here&#39;s the Bash That Keeps It Alive.](https://dev.to/frederikvonderheyden/i-run-85-docker-containers-as-a-solo-founder-heres-the-bash-that-keeps-it-alive-4k2n)
-- [Your memory layer is lying to you &lpar;and your LLM agrees&rpar;](https://dev.to/mansio/your-memory-layer-is-lying-to-you-and-your-llm-agrees-1oia)
-- [Edge vs Cloud Inference for Live Sports Highlights: Where Should the Model Run?](https://dev.to/zentagai/edge-vs-cloud-inference-for-live-sports-highlights-where-should-the-model-run-3lgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
