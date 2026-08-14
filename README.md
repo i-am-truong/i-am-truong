@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Expands Gemini Content Verification With SynthID and Content Credentials](https://dev.to/alifar/google-expands-gemini-content-verification-with-synthid-and-content-credentials-3hh1)
-- [GovBridge UK: Why I Built a Unified API Gateway for UK Government Data &lpar;HMRC, Companies House, DVLA, Land Registry&rpar;](https://dev.to/virendravyas/title-why-i-built-a-unified-api-gateway-for-uk-government-data-hmrc-companies-house-dvla-land-384c)
-- [Driving and Missing Messages? How Android Auto Notification Handling Actually Works](https://dev.to/axin888/driving-and-missing-messages-how-android-auto-notification-handling-actually-works-1i4h)
-- [Mutual Viability Loop: Designing Agentic AI That Survives by Serving](https://dev.to/michael_arnwine_6778d1570/mutual-viability-loop-designing-agentic-ai-that-survives-by-serving-aog)
-- [Should your daily batch job live inside your main application?](https://dev.to/tayeb_gasmi/should-your-daily-batch-job-live-inside-your-main-application-9cl)
+- [Open Canvas: A Free Open Source Infinite Canvas for Storyboarding, Film Planning and Visual Thinking](https://dev.to/lovecatisgoodsudo/open-canvas-a-free-open-source-infinite-canvas-for-storyboarding-film-planning-and-visual-thinking-919)
+- [Observer Pattern: eventi senza accoppiamento](https://dev.to/dev_iadicola/observer-pattern-eventi-senza-accoppiamento-1e7e)
+- [How the rankings work — and what we refuse to count](https://dev.to/rss-atlas/how-the-rankings-work-and-what-we-refuse-to-count-4d6d)
+- [DS Express Errors &lpar;centralizing errors library&rpar; — v1.9.1 Release Notes August 13, 2026](https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v191-release-notes-august-13-2026-9ph)
+- [[Claude Code in Practice] Rethinking Terminal Workflows: From zsh Autocomplete to Search and Diff Toolchains](https://dev.to/evanlin/claude-code-in-practice-rethinking-terminal-workflows-from-zsh-autocomplete-to-search-and-diff-4jdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
