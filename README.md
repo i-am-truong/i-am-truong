@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes from getting QuickBooks to accept a generated .qbo file](https://dev.to/ink_gu/notes-from-getting-quickbooks-to-accept-a-generated-qbo-file-3k5i)
-- [Visual Studio 2026 Debugger Detection Failure](https://dev.to/sem7ac/visual-studio-2026-debugger-detection-failure-5fip)
-- [Zero-Trust SSH Access Blueprint: FIDO2 Hardware Keys &amp; SSH Certificate Authority](https://dev.to/aomiqaza/zero-trust-ssh-access-blueprint-fido2-hardware-keys-ssh-certificate-authority-55gj)
-- [Hoisting](https://dev.to/jaisurya/hoisting-1o35)
-- [Rich Results, Shopping, and AI Mode: What Google Merchant Center Actually Gets You](https://dev.to/dalenguyen/rich-results-shopping-and-ai-mode-what-google-merchant-center-actually-gets-you-5fem)
+- [AI Workflow Orchestration: How AI Agents Can Work Like Your Engineering Team](https://dev.to/jps27cse/ai-workflow-orchestration-how-ai-agents-can-work-like-your-engineering-team-286n)
+- [Breach monitoring from cron: no API key, no signup, just curl and jq](https://dev.to/devaonbreaches/breach-monitoring-from-cron-no-api-key-no-signup-just-curl-and-jq-2jh1)
+- [We Automated RCAs. The Real Value Was the Big Picture.](https://dev.to/borisgri/we-made-bug-tickets-write-their-own-root-cause-analysis-the-value-wasnt-the-rcas-it-was-what-5341)
+- [Even With The Figma MCP, AI Eyeballs Your Design and Ships Pixel-Wrong UI](https://dev.to/borisgri/even-with-the-figma-mcp-ai-eyeballs-your-design-and-ships-pixel-wrong-ui-5164)
+- [My workstation was faking sleep: how a $15 meter caught 163 watts of waste](https://dev.to/vinodgorla/my-workstation-was-faking-sleep-how-a-15-meter-caught-163-watts-of-waste-4edh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
