@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS News - S1E2](https://dev.to/aws-builders/aws-news-s1e2-k67)
-- [Turn the ASP.NET Core Web API you already have into an MCP server](https://dev.to/hovikaghajanyan/turn-the-aspnet-core-web-api-you-already-have-into-an-mcp-server-1f55)
-- [Consumir servidores MCP desde .NET: cuando tu app es el cliente](https://dev.to/jgomezdev/consumir-servidores-mcp-desde-net-cuando-tu-app-es-el-cliente-5fgm)
-- [Consuming MCP Servers from .NET: When Your App Becomes the Client](https://dev.to/jgomezdev/consuming-mcp-servers-from-net-when-your-app-becomes-the-client-2goc)
-- [Ordexa: a Next.js 16 admin dashboard template I actually finished](https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4)
+- [Google Expands Gemini Content Verification With SynthID and Content Credentials](https://dev.to/alifar/google-expands-gemini-content-verification-with-synthid-and-content-credentials-3hh1)
+- [GovBridge UK: Why I Built a Unified API Gateway for UK Government Data &lpar;HMRC, Companies House, DVLA, Land Registry&rpar;](https://dev.to/virendravyas/title-why-i-built-a-unified-api-gateway-for-uk-government-data-hmrc-companies-house-dvla-land-384c)
+- [Driving and Missing Messages? How Android Auto Notification Handling Actually Works](https://dev.to/axin888/driving-and-missing-messages-how-android-auto-notification-handling-actually-works-1i4h)
+- [Mutual Viability Loop: Designing Agentic AI That Survives by Serving](https://dev.to/michael_arnwine_6778d1570/mutual-viability-loop-designing-agentic-ai-that-survives-by-serving-aog)
+- [Should your daily batch job live inside your main application?](https://dev.to/tayeb_gasmi/should-your-daily-batch-job-live-inside-your-main-application-9cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
