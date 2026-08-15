@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh)
-- [Building a Zero-Cloud Android Service: Privacy by Architecture](https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml)
-- [The Fix Was Committed. The Old Value Kept Running.](https://dev.to/hexisteme/the-fix-was-committed-the-old-value-kept-running-36bf)
-- [0 of 3 Articles Published for 3 Days Straight: The 41-Second Timeout Margin That Killed My Automation](https://dev.to/bokuwalily/0-of-3-articles-published-for-3-days-straight-the-41-second-timeout-margin-that-killed-my-4n7n)
-- [Before You Expose That Agent, Let a Free Model Attack It](https://dev.to/codepy_1473/before-you-expose-that-agent-let-a-free-model-attack-it-2bm3)
+- [A macOS cache and system-file cleaner for the Terminal. It is built as a single Bash script with zero dependencies and is fully compatible with native macOS &lpar;Bash 3.2+&rpar;.
+
+https://github.com/ombak/clean-shit](https://dev.to/ombak/a-macos-cache-and-system-file-cleaner-for-the-terminal-it-is-built-as-a-single-bash-script-with-5np)
+- [SEBI&#39;s Algo Trading Rules 2026: 2FA, Audit Trails &amp; What Retail Must Know](https://dev.to/shaktitiwari/sebis-algo-trading-rules-2026-2fa-audit-trails-what-retail-must-know-54og)
+- [Predicting the Future of Glucose: Real-time CGM Anomaly Detection with LSTM and TSFresh 🚀](https://dev.to/wellallytech/predicting-the-future-of-glucose-real-time-cgm-anomaly-detection-with-lstm-and-tsfresh-20pp)
+- [How to Handle Audio Transcription API 404/501 — available=false Speech-to-Text in 2026](https://dev.to/zylahmorn61835/how-to-handle-audio-transcription-api-404501-availablefalse-speech-to-text-in-2026-2k07)
+- [How to Build a Cybersecurity Metric Data Dictionary That Executives Can Actually Trust](https://dev.to/santa412_929884369ea40d9a/how-to-build-a-cybersecurity-metric-data-dictionary-that-executives-can-actually-trust-1f92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
