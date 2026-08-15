@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The cheap model is only cheap for half your tasks](https://dev.to/altrouter/the-cheap-model-is-only-cheap-for-half-your-tasks-29ac)
+- [I Bought a ₹6 Share and Learned the Hard Way: Building FinEd Saathi in 10 Days](https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980)
+- [Data Types Deep Dive](https://dev.to/polyvexr/data-types-deep-dive-7gb)
+- [About me and you ?](https://dev.to/thavoncoding/about-me-and-you--5bi3)
 - [macOS Screen Sharing CVE-2026-65400: Authentication Bypass Leads to Root Access and Monero Miner Installation](https://dev.to/anoymask/macos-screen-sharing-cve-2026-65400-authentication-bypass-leads-to-root-access-and-monero-miner-37kh)
-- [GeoServer jsonArrayContains SQL Injection Zero-Day: Mass Probes Hours After Disclosure, RCE Possible Depending on Configuration](https://dev.to/anoymask/geoserver-jsonarraycontains-sql-injection-zero-day-mass-probes-hours-after-disclosure-rce-159a)
-- [AmnesiaStealer: macOS Infostealer that Hijacks In-Browser Sessions via ClickFix](https://dev.to/anoymask/amnesiastealer-macos-infostealer-that-hijacks-in-browser-sessions-via-clickfix-13fg)
-- [SAP Commerce Cloud CVE-2026-58231: Active Exploit Attempts for Unauthenticated RCE](https://dev.to/anoymask/sap-commerce-cloud-cve-2026-58231-active-exploit-attempts-for-unauthenticated-rce-4ipp)
-- [Day 14: AWS Compute — Managed &amp; Serverless](https://dev.to/sr-palatasingh/day-14-aws-compute-managed-serverless-4foi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
