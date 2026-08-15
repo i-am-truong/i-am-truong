@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Added ML Anamoly Detection to My Cybersecurity Tool - Here&#39;s What the Numbers Actually Showed](https://dev.to/atenahfr/i-added-ml-anamoly-detection-to-my-cybersecurity-tool-heres-what-the-numbers-actually-showed-4jpp)
-- [Midnight Fridge Raid — comfort food isn&#39;t a dish, it&#39;s 2am](https://dev.to/maneesh_thakur_d16c2852fa/midnight-fridge-raid-comfort-food-isnt-a-dish-its-2am-1l04)
-- [The Repository Pattern in NestJS: a collection that happens to live in a database](https://dev.to/chacaponquin/the-repository-pattern-in-nestjs-a-collection-that-happens-to-live-in-a-database-1i1k)
-- [El patrón Repository en NestJS: una colección que, casualmente, vive en una base de datos](https://dev.to/chacaponquin/el-patron-repository-en-nestjs-una-coleccion-que-casualmente-vive-en-una-base-de-datos-2kfd)
-- [I built a WhatsApp/Telegram group directory with zero coding background — here&#39;s the whole, unfiltered story](https://dev.to/aditya_gudapati/i-built-a-whatsapptelegram-group-directory-with-zero-coding-background-heres-the-whole-3037)
+- [Rebuilding the Deprecated PostgreSQL MCP Server in Rust: Safe by Default](https://dev.to/eszetael/rebuilding-the-deprecated-postgresql-mcp-server-in-rust-safe-by-default-1eb)
+- [Test the second access path before you call a metric unreadable](https://dev.to/jacksonxly/test-the-second-access-path-before-you-call-a-metric-unreadable-4m2j)
+- [Solution to Challenge 3 - Visual Testing with API Mocking](https://dev.to/abigail_armijo/solution-to-challenge-3-visual-testing-with-api-mocking-4hb9)
+- [Microsoft Fabric Now Encrypts Spark Temporary Data with Customer-Managed Keys;What It Actually Means](https://dev.to/gilbert_lelon_8352bf20997/gilbert-kiptoo-lelon-why-customer-managed-key-encryption-for-spark-jobs-in-fabric-changes-the-2n1o)
+- [Cutting Chai — the comfort food that isn&#39;t food, drawn in CSS](https://dev.to/maneesh_thakur_d16c2852fa/cutting-chai-the-comfort-food-that-isnt-food-drawn-in-css-1c27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
