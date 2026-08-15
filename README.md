@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding the Deprecated PostgreSQL MCP Server in Rust: Safe by Default](https://dev.to/eszetael/rebuilding-the-deprecated-postgresql-mcp-server-in-rust-safe-by-default-1eb)
-- [Test the second access path before you call a metric unreadable](https://dev.to/jacksonxly/test-the-second-access-path-before-you-call-a-metric-unreadable-4m2j)
-- [Solution to Challenge 3 - Visual Testing with API Mocking](https://dev.to/abigail_armijo/solution-to-challenge-3-visual-testing-with-api-mocking-4hb9)
-- [Microsoft Fabric Now Encrypts Spark Temporary Data with Customer-Managed Keys;What It Actually Means](https://dev.to/gilbert_lelon_8352bf20997/gilbert-kiptoo-lelon-why-customer-managed-key-encryption-for-spark-jobs-in-fabric-changes-the-2n1o)
-- [Cutting Chai — the comfort food that isn&#39;t food, drawn in CSS](https://dev.to/maneesh_thakur_d16c2852fa/cutting-chai-the-comfort-food-that-isnt-food-drawn-in-css-1c27)
+- [Kubernetes: alertas utiles para readiness flapping](https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-readiness-flapping-1bi1)
+- [IA na descoberta de fármacos: como acelerar do laboratório à clínica](https://dev.to/leojulieta/ia-na-descoberta-de-farmacos-como-acelerar-do-laboratorio-a-clinica-543m)
+- [Building a Custom API Testing Framework Using Playwright and TypeScript](https://dev.to/shefali_qa/building-a-custom-api-testing-framework-using-playwright-and-typescript-56ja)
+- [LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes](https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60)
+- [LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search](https://dev.to/ultrontheai/liorandb-typescript-series-5-cursors-query-shaping-and-full-text-search-57pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
