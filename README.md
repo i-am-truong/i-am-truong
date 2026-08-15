@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes for Beginners: From Local to Production – May the Pods Be With You](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-may-the-pods-be-with-you-4i4n)
-- [My evidence pipeline was saving Cloudflare block pages as evidence](https://dev.to/renga154/my-evidence-pipeline-was-saving-cloudflare-block-pages-as-evidence-25ml)
-- [Your `if` statements are a database nobody can query](https://dev.to/fs-doc/your-if-statements-are-a-database-nobody-can-query-3d84)
-- [I Built a RAG Pipeline in TypeScript Without LangChain — The Whole Thing in 200 Lines](https://dev.to/apurwa/i-built-a-rag-pipeline-in-typescript-without-langchain-the-whole-thing-in-200-lines-3446)
-- [🍽️ Masala Dosa House — A Taste of Home](https://dev.to/makendrang/masala-dosa-house-a-taste-of-home-3hfi)
+- [Graph Theory in C#](https://dev.to/grantwatsondev/graph-theory-in-c-5h83)
+- [🐾 PawSense AI: Your Dog’s AI Sidekick, Powered by Gemini](https://dev.to/makendrang/pawsense-ai-your-dogs-ai-sidekick-powered-by-gemini-4e5f)
+- [The Internet Feels Simple Until the Pipes Start Leaking](https://dev.to/art_light/the-internet-feels-simple-until-the-pipes-start-leaking-2o4i)
+- [Saathi: building a Kirana store voice agent in 10 days with Murf Falcon published: true tags: voiceai, python, webdev, beginners](https://dev.to/greeva_jagani_c97a0f70e05/saathi-building-a-kirana-store-voice-agent-in-10-days-with-murf-falcon-published-true-tags-22bm)
+- [I Miss Being a Coder in the Age of AI !!](https://dev.to/riddhiagrawal001/i-miss-being-a-coder-in-the-age-of-ai--2k85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
