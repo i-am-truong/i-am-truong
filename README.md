@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Added ML Anamoly Detection to My Cybersecurity Tool - Here&#39;s What the Numbers Actually Showed](https://dev.to/atenahfr/i-added-ml-anamoly-detection-to-my-cybersecurity-tool-heres-what-the-numbers-actually-showed-4jpp)
+- [Midnight Fridge Raid — comfort food isn&#39;t a dish, it&#39;s 2am](https://dev.to/maneesh_thakur_d16c2852fa/midnight-fridge-raid-comfort-food-isnt-a-dish-its-2am-1l04)
+- [The Repository Pattern in NestJS: a collection that happens to live in a database](https://dev.to/chacaponquin/the-repository-pattern-in-nestjs-a-collection-that-happens-to-live-in-a-database-1i1k)
 - [El patrón Repository en NestJS: una colección que, casualmente, vive en una base de datos](https://dev.to/chacaponquin/el-patron-repository-en-nestjs-una-coleccion-que-casualmente-vive-en-una-base-de-datos-2kfd)
 - [I built a WhatsApp/Telegram group directory with zero coding background — here&#39;s the whole, unfiltered story](https://dev.to/aditya_gudapati/i-built-a-whatsapptelegram-group-directory-with-zero-coding-background-heres-the-whole-3037)
-- [Zenoh&#39;s put is fire-and-forget, get isn&#39;t — a read-after-write race in Elixir](https://dev.to/kikuyuta/zenohs-put-is-fire-and-forget-get-isnt-a-read-after-write-race-in-elixir-o6l)
-- [Building Shiksha: What I Learned Creating a Real-Time AI English Coach in 10 Days](https://dev.to/sp_gamer_e8a7ce484708618f/building-shiksha-what-i-learned-creating-a-real-time-ai-english-coach-in-10-days-jn6)
-- [PawDOS 95: A browser operating system for dogs](https://dev.to/sizzlebop/pawdos-95-a-browser-operating-system-for-dogs-167m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
