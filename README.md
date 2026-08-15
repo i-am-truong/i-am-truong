@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Twenty-Hour Fuse](https://dev.to/jeromefromhk/the-twenty-hour-fuse-2kgn)
-- [No Jinja: What Replaces Templating When SQL Is an AST](https://dev.to/5c4989ca297ed/no-jinja-what-replaces-templating-when-sql-is-an-ast-2eb4)
-- [Coalescing the Stream](https://dev.to/jeromefromhk/coalescing-the-stream-145h)
-- [Two Clocks, Neither Lying](https://dev.to/jeromefromhk/two-clocks-neither-lying-4k2l)
-- [I open-sourced a tiny PHP library that turns a photo into a Pinterest pin.](https://dev.to/carlstarus/i-open-sourced-a-tiny-php-library-that-turns-a-photo-into-a-pinterest-pin-3982)
+- [I built 49 free online tools in 3 months — here&#39;s what I learned](https://dev.to/leena_jadhav_77feb4cbd0a8/i-built-49-free-online-tools-in-3-months-heres-what-i-learned-3p78)
+- [Measuring the real concurrency ceiling of an LLM agent runner](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)
+- [Why Data Engineering Is the Oldest Profession in Infrastructure](https://dev.to/turboline_ai_/why-data-engineering-is-the-oldest-profession-in-infrastructure-b9m)
+- [Vector Similarity Search with DuckDB: A Practical Guide to the VSS Extension](https://dev.to/muhammadikhwanfathulloh/vector-similarity-search-with-duckdb-a-practical-guide-to-the-vss-extension-p5c)
+- [Can your verify gate actually fail?](https://dev.to/arti0/can-your-verify-gate-actually-fail-3ib4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
