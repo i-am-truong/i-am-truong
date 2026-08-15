@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating](https://dev.to/aniruddha_adak/the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating-5702)
-- [When I Narrowed My Human Inputs Down to Just Todoist and Discord, the System Started Running Itself](https://dev.to/ebibibi/when-i-narrowed-my-human-inputs-down-to-just-todoist-and-discord-the-system-started-running-itself-51lf)
-- [STAY - Keep the Days You Got](https://dev.to/octanexyz/stay-keep-the-days-you-got-4i4e)
-- [Private AI Inference with Homomorphic Encryption: A Practical Guide to Computing on Encrypted Data](https://dev.to/chenyuan20509/private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data-3349)
-- [Navigating Floods Without Data: Building Sentinel Voice Agent in 10 Days](https://dev.to/subhangidutta23shipit/navigating-floods-without-data-building-sentinel-voice-agent-in-10-days-j7c)
+- [A Python Model Is Just a Function](https://dev.to/5c4989ca297ed/a-python-model-is-just-a-function-4gk8)
+- [8051 What does SDCC do part 3 ?](https://dev.to/ddupard/8051-what-does-sdcc-do-part-3--3111)
+- [OpenAI Expands ChatGPT Ads With CPC Bidding and Contextual Targeting](https://dev.to/alifar/openai-expands-chatgpt-ads-with-cpc-bidding-and-contextual-targeting-3e2l)
+- [Amazon Q Developer Is Closed to New Signups. Our Review Didn&#39;t Say So.](https://dev.to/ramdai_bista/amazon-q-developer-is-closed-to-new-signups-our-review-didnt-say-so-m4h)
+- [Shiksha AI &amp; Mitra AI: Real-Time Spoken English &amp; Roleplay Voice Agent for Bharat](https://dev.to/ilhan_mansij_jidda/shiksha-ai-mitra-ai-real-time-spoken-english-roleplay-voice-agent-for-bharat-4n6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
