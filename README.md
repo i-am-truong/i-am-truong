@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tomato soup for the Soul](https://dev.to/glnurltn/tomato-soup-for-the-soul-3657)
-- [Ashraya AI: My 10-Day Journey Building a Voice Agent for Disaster Response](https://dev.to/asmi_raut/building-ashraya-ai-my-10-day-journey-building-a-voice-agent-for-disaster-response-20pc)
-- [Expired Domains Are Becoming a New Cybersecurity Attack Surface](https://dev.to/cyberbezpieczenstwo/expired-domains-are-becoming-a-new-cybersecurity-attack-surface-1bj6)
-- [The download button that silently did nothing on mobile](https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k)
-- [I Built a simple YouTube media ripper in Python](https://dev.to/codebunny20/i-built-a-simple-youtube-media-ripper-in-python-2c94)
+- [astral.ai.studio](https://dev.to/jan-klein/astralaistudio-419f)
+- [🍲 Annapurna&#39;s Kitchen — Every tiffin has Home&#39;s Flavour &lpar;Perfect Landing&rpar;](https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6)
+- [Build a Codebase Intelligence Tool Like repowise With a RAG-Assisted MCP for Your Monorepo](https://dev.to/tamizuddin/build-a-codebase-intelligence-tool-like-repowise-with-a-rag-assisted-mcp-for-your-monorepo-obo)
+- [Accessibility Testing for Documentation: A Release Checklist](https://dev.to/ninadpathak/accessibility-testing-for-documentation-a-release-checklist-1om7)
+- [The Longest Life in Compute](https://dev.to/aronchick/the-longest-life-in-compute-5amn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
