@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Midnight Power Cuts to Multi-Agent Voice AI: How I Built Raksha in 10 Days](https://dev.to/prakhidha_chawdhury/from-midnight-power-cuts-to-multi-agent-voice-ai-how-i-built-raksha-in-10-days-22lf)
-- [An AI Capture-the-Flag Tournament: What the Scoreboard Counted](https://dev.to/megapixel99/an-ai-capture-the-flag-tournament-what-the-scoreboard-counted-56fp)
-- [Make AI-Generated HTTP Endpoints Prove Themselves on a Disposable Server](https://dev.to/codepy_1473/make-ai-generated-http-endpoints-prove-themselves-on-a-disposable-server-hm4)
-- [A Free Server Caught the GUI Fallback a Model Buried in a CLI](https://dev.to/datacpp_8185/a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli-70e)
-- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
+- [Lean创始人访谈：Handwritten Math Will Change Dramatically](https://dev.to/cognitalk/leanchuang-shi-ren-fang-tan-handwritten-math-will-change-dramatically-4fn0)
+- [[Boost]](https://dev.to/anthonymax/-3937)
+- [Your pipeline deleted its own alarm &lpar;two greps to check&rpar;](https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m)
+- [Why Scam Infrastructure Is More Than a Website](https://dev.to/bruce1267/why-scam-infrastructure-is-more-than-a-website-19gb)
+- [Daily Dose of DevOps — GitHub Actions basics for DevOps](https://dev.to/marco13moo/daily-dose-of-devops-github-actions-basics-for-devops-1h5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
