@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building KisanVani &lpar;किसान वाणी&rpar;: An Ultra-Low-Latency Multilingual Voice Agent for Indian Agriculture with Murf Falcon &amp; LiveKit](https://dev.to/viral1998/building-kisanvani-kisaan-vaannii-an-ultra-low-latency-multilingual-voice-agent-for-indian-aoi)
-- [What Building a Food Menu Information Site Taught Me About Simple Web Development](https://dev.to/sophie_kelly_620ae11cbab3/what-building-a-food-menu-information-site-taught-me-about-simple-web-development-360o)
-- [How to Compare Two Large CSV Files Without Uploading the Data](https://dev.to/darkness_c8f5d00f0e37324d/how-to-compare-two-large-csv-files-without-uploading-the-data-1nnm)
-- [Stop Using AI to Write Code, Start Using It to Navigate](https://dev.to/ntty/stop-using-ai-to-write-code-start-using-it-to-navigate-58no)
-- [Zero GPU Cost and 4-Minute Daily Runs — Making Real Rain Fall on a Still Image with ffmpeg displace](https://dev.to/bokuwalily/zero-gpu-cost-and-4-minute-daily-runs-making-real-rain-fall-on-a-still-image-with-ffmpeg-displace-b5b)
+- [Why You Need to Ditch Sherlock and Holehe for This 2-in-1 OSINT Suite—user-scanner](https://dev.to/hadfy87867y/why-you-need-to-ditch-sherlock-and-holehe-for-this-2-in-1-osint-suite-5aaf)
+- [Self-attention, explained without the heavy math](https://dev.to/dev-into-space/self-attention-explained-without-the-heavy-math-3ip1)
+- [Building Arogya Seva: How I Built an Ultra-Low Latency Telehealth Voice AI for Bharat in 10 Days](https://dev.to/viral1998/building-arogya-seva-how-i-built-an-ultra-low-latency-telehealth-voice-ai-for-bharat-in-10-days-1cmg)
+- [I Shipped an Agent Gatekeeper &lpar;v0.1&rpar;. 14 Developers Showed Me What I Missed. Here&#39;s v0.2 — a Control Plane.](https://dev.to/debashish_ghosal/i-shipped-an-agent-gatekeeper-v01-14-developers-showed-me-what-i-missed-heres-v02-a-4n2n)
+- [Katalon Studio has no native Allure adapter. Here&#39;s how to get one anyway.](https://dev.to/monty_bagati_6651e3b22a36/katalon-studio-has-no-native-allure-adapter-heres-how-to-get-one-anyway-4g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
