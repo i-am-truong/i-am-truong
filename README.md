@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Graph Theory in C#](https://dev.to/grantwatsondev/graph-theory-in-c-5h83)
-- [🐾 PawSense AI: Your Dog’s AI Sidekick, Powered by Gemini](https://dev.to/makendrang/pawsense-ai-your-dogs-ai-sidekick-powered-by-gemini-4e5f)
-- [The Internet Feels Simple Until the Pipes Start Leaking](https://dev.to/art_light/the-internet-feels-simple-until-the-pipes-start-leaking-2o4i)
-- [Saathi: building a Kirana store voice agent in 10 days with Murf Falcon published: true tags: voiceai, python, webdev, beginners](https://dev.to/greeva_jagani_c97a0f70e05/saathi-building-a-kirana-store-voice-agent-in-10-days-with-murf-falcon-published-true-tags-22bm)
-- [I Miss Being a Coder in the Age of AI !!](https://dev.to/riddhiagrawal001/i-miss-being-a-coder-in-the-age-of-ai--2k85)
+- [I Built an MCP Server That Reviews Code Locally — No SaaS, No Uploads](https://dev.to/goodjobwilliam/i-built-an-mcp-server-that-reviews-code-locally-no-saas-no-uploads-568a)
+- [Killing a Feature Is a Graph Problem, Not a Product Problem](https://dev.to/dasdorf/killing-a-feature-is-a-graph-problem-not-a-product-problem-4m2j)
+- [🍝 Pasta Shape Guide — An Interactive Guide to the Pasta We Love](https://dev.to/gulrez/pasta-shape-guide-an-interactive-guide-to-the-pasta-we-love-2cpo)
+- [Building SpeakEasy AI: A Multilingual Voice Agent for Bharat](https://dev.to/priyal_2504/building-speakeasy-ai-a-multilingual-voice-agent-for-bharat-29i6)
+- [Salesforce Certified Administrator &lpar;Sales-Con-201&rpar;: Data Models, Security &amp; Flow Architecture](https://dev.to/infiniteloopcole/salesforce-certified-administrator-sales-con-201-data-models-security-flow-architecture-g7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
