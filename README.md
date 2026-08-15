@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lean创始人访谈：Handwritten Math Will Change Dramatically](https://dev.to/cognitalk/leanchuang-shi-ren-fang-tan-handwritten-math-will-change-dramatically-4fn0)
-- [How I Vibe-Coded a Fast Client-Side Word Counter Tool using AI](https://dev.to/hoangvibecode/how-i-vibe-coded-a-fast-client-side-word-counter-tool-using-ai-5hhn)
-- [[Boost]](https://dev.to/anthonymax/-3937)
-- [Your pipeline deleted its own alarm &lpar;two greps to check&rpar;](https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m)
-- [Why Scam Infrastructure Is More Than a Website](https://dev.to/bruce1267/why-scam-infrastructure-is-more-than-a-website-19gb)
+- [What Google did with a brand new site in its first 24 hours](https://dev.to/stackedboost/what-google-did-with-a-brand-new-site-in-its-first-24-hours-knn)
+- [The Other Sean Byrne Doesn&#39;t Exist: A Case Study in Digital Identity Ghosts](https://dev.to/kaixintelligence/the-other-sean-byrne-doesnt-exist-a-case-study-in-digital-identity-ghosts-mfk)
+- [The Writing Problem That Wasn’t Really a Writing Problem](https://dev.to/oldmanbelton/the-writing-problem-that-wasnt-really-a-writing-problem-433h)
+- [Portfolio Website Architecture for Dummies](https://dev.to/oldmanbelton/portfolio-website-architecture-for-dummies-46i2)
+- [Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work](https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
