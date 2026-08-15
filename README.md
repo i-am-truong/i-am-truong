@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The refactor that made every validation build pass without validating anything](https://dev.to/vedaforge_eng/the-refactor-that-made-every-validation-build-pass-without-validating-anything-50gd)
-- [Write your pages in PHP. Run them on the JVM.](https://dev.to/deniss_larka/write-your-pages-in-php-run-them-on-the-jvm-j6)
-- [🛑 &quot;Beta, Yeh Message Real Hai Kya?&quot; — How I Built an AI Voice Agent to Protect Families from Scams in 10 Days #VoiceForBharat](https://dev.to/jkbedi/beta-yeh-message-real-hai-kya-how-i-built-an-ai-voice-agent-to-protect-families-from-scams-2jdf)
-- [Kubernetes Networking [Level-3: Services]](https://dev.to/iadiraj/kubernetes-networking-level-3-services-5h3)
-- [Google + MIT พิสูจน์แล้ว: Multi-Agent ไม่ได้ดีเสมอไป, เปลี่ยนแค่ &#39;การเชื่อมต่อ&#39; ผลลัพธ์พลิกจากแย่ลง 70% เป็นดีขึ้น 80%](https://dev.to/sarantoon/google-mit-phisuucchnaelw-multi-agent-aimaiddiiesmaip-epliiynaekh-kaarechuuemt-phllaphthphlikcchaakaeylng-4n4h)
+- [Building KisanVani &lpar;किसान वाणी&rpar;: An Ultra-Low-Latency Multilingual Voice Agent for Indian Agriculture with Murf Falcon &amp; LiveKit](https://dev.to/viral1998/building-kisanvani-kisaan-vaannii-an-ultra-low-latency-multilingual-voice-agent-for-indian-aoi)
+- [What Building a Food Menu Information Site Taught Me About Simple Web Development](https://dev.to/sophie_kelly_620ae11cbab3/what-building-a-food-menu-information-site-taught-me-about-simple-web-development-360o)
+- [How to Compare Two Large CSV Files Without Uploading the Data](https://dev.to/darkness_c8f5d00f0e37324d/how-to-compare-two-large-csv-files-without-uploading-the-data-1nnm)
+- [Stop Using AI to Write Code, Start Using It to Navigate](https://dev.to/ntty/stop-using-ai-to-write-code-start-using-it-to-navigate-58no)
+- [Zero GPU Cost and 4-Minute Daily Runs — Making Real Rain Fall on a Still Image with ffmpeg displace](https://dev.to/bokuwalily/zero-gpu-cost-and-4-minute-daily-runs-making-real-rain-fall-on-a-still-image-with-ffmpeg-displace-b5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
