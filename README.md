@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic certification: the Claude &lpar;CCAR-F&rpar; credential, explained](https://dev.to/aiarch_wibo/anthropic-certification-the-claude-ccar-f-credential-explained-p7e)
+- [The Shopkeeper Who Never Gets a Break](https://dev.to/coderkartik/the-shopkeeper-who-never-gets-a-break-353b)
 - [I built 49 free online tools in 3 months — here&#39;s what I learned](https://dev.to/leena_jadhav_77feb4cbd0a8/i-built-49-free-online-tools-in-3-months-heres-what-i-learned-3p78)
 - [Measuring the real concurrency ceiling of an LLM agent runner](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)
-- [Why Data Engineering Is the Oldest Profession in Infrastructure](https://dev.to/turboline_ai_/why-data-engineering-is-the-oldest-profession-in-infrastructure-b9m)
-- [Vector Similarity Search with DuckDB: A Practical Guide to the VSS Extension](https://dev.to/muhammadikhwanfathulloh/vector-similarity-search-with-duckdb-a-practical-guide-to-the-vss-extension-p5c)
-- [Can your verify gate actually fail?](https://dev.to/arti0/can-your-verify-gate-actually-fail-3ib4)
+- [How Developers Think About Software Testing in the AI Era](https://dev.to/dhruvtechdev/how-developers-should-think-about-software-testing-in-the-ai-era-5ap7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
