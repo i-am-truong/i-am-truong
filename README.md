@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The cheap model is only cheap for half your tasks](https://dev.to/altrouter/the-cheap-model-is-only-cheap-for-half-your-tasks-29ac)
-- [I Bought a ₹6 Share and Learned the Hard Way: Building FinEd Saathi in 10 Days](https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980)
-- [Data Types Deep Dive](https://dev.to/polyvexr/data-types-deep-dive-7gb)
-- [About me and you ?](https://dev.to/thavoncoding/about-me-and-you--5bi3)
-- [macOS Screen Sharing CVE-2026-65400: Authentication Bypass Leads to Root Access and Monero Miner Installation](https://dev.to/anoymask/macos-screen-sharing-cve-2026-65400-authentication-bypass-leads-to-root-access-and-monero-miner-37kh)
+- [Building a Voice-First Learning Companion — My 10 Days of Voice Agents Journey](https://dev.to/roshan-sankhat/building-a-voice-first-learning-companion-my-10-days-of-voice-agents-journey-17e8)
+- [Z.ai’s GLM-5.3 Is Closing the Gap With Anthropic in AI Cybersecurity](https://dev.to/techytcm/zais-glm-53-is-closing-the-gap-with-anthropic-in-ai-cybersecurity-17h3)
+- [What Building Typing Games Taught Me About Designing Better Web Interactions](https://dev.to/ravindrachitla/what-building-typing-games-taught-me-about-designing-better-web-interactions-50d5)
+- [The value was in nine places and one enum, and the enum was the only one that ran](https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9)
+- [Sehat Sathi: Building a Voice Agent for Health Access in Bharat](https://dev.to/subratgouda/sehat-sathi-building-a-voice-agent-for-health-access-in-bharat-27j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
