@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Goish: พอร์ตรันไทม์ของ Go ทั้งตัวลงใน no_std Rust](https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n)
-- [Supplier Invoice Speech-to-Text: EU Startup Validation Beyond Per-Minute Pricing](https://dev.to/evanshepherd8274/supplier-invoice-speech-to-text-eu-startup-validation-beyond-per-minute-pricing-2h0a)
-- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
-- [How to Compare Speech-to-Text API Per-Minute Pricing for an EU Startup in 2026](https://dev.to/iversonblake8417/how-to-compare-speech-to-text-api-per-minute-pricing-for-an-eu-startup-in-2026-2054)
-- [AI Agent Memory: Why Every Agent Needs a Vector Database](https://dev.to/mryadavgulshan/ai-agent-memory-why-every-agent-needs-a-vector-database-1ocf)
+- [Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳](https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6)
+- [Stop Wasting Free Model Calls on Trivial Diffs: A Three-Tier Escalation Ladder](https://dev.to/gitlab_3188/stop-wasting-free-model-calls-on-trivial-diffs-a-three-tier-escalation-ladder-5132)
+- [Rasa — Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
+- [Rasa — Designing a Landing Page That Feels Like Opening a Food Journal](https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9)
+- [Terraform: The Future of Cloud Infrastructure Automation ☁️🚀](https://dev.to/yash_sonawane25/terraform-the-future-of-cloud-infrastructure-automation-mbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
