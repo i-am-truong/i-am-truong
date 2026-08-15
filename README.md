@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Ship a VS Code Extension That Wraps an Existing Web Tool](https://dev.to/bonzai2carn/how-to-ship-a-vs-code-extension-that-wraps-an-existing-web-tool-3jda)
-- [Built a Blog App with Rails &amp; PostgreSQL – Looking for Code Review!](https://dev.to/soham_chavan07/built-a-blog-app-with-rails-postgresql-looking-for-code-review-30a4)
-- [mmy-css: An Ultra-Lightweight CSS Framework Under 1.2 KB](https://dev.to/mmy-lana/mmy-css-an-ultra-lightweight-css-framework-under-12-kb-59hg)
-- [How to Review AI-Generated Tests: Seven Checks Before You Keep Them](https://dev.to/aiwithanton/how-to-review-ai-generated-tests-seven-checks-before-you-keep-them-3l4f)
-- [My JetBrains Rider Setup for Surviving Live-Coding Demos](https://dev.to/lovelacecoding/my-jetbrains-rider-setup-for-surviving-live-coding-demos-lh)
+- [Building an AI Voice Agent for Bharat: My 10-Day Journey](https://dev.to/ayushshinde13/building-an-ai-voice-agent-for-bharat-my-10-day-journey-f6d)
+- [I Built AnswerTrace . GitHub Discussions Analytics for Your README](https://dev.to/antonisloukis/i-built-answertrace-github-discussions-analytics-for-your-readme-4mno)
+- [Claude Code vs Cursor vs Windsurf in 2026: Which Agentic IDE Actually Ships Production Code](https://dev.to/jsmanifest/claude-code-vs-cursor-vs-windsurf-in-2026-which-agentic-ide-actually-ships-production-code-3maj)
+- [Run Claude Code for FREE on Your Machine Using OpenRouter](https://dev.to/soham_chavan07/run-claude-code-for-free-on-your-machine-using-openrouter-5d1o)
+- [I Used Sentry to Expose a Silent Data-Loss Bug with Zero Errors](https://dev.to/mirshah12/i-used-sentry-to-expose-a-silent-data-loss-bug-with-zero-errors-hmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
