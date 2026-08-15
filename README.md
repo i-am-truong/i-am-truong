@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Text Watermarking: The Statistics Hiding Inside Every Sentence](https://dev.to/sanjay_singh_1/ai-text-watermarking-the-statistics-hiding-inside-every-sentence-2g9f)
+- [Spicing Up the Web: Building &quot;Angaar&quot;, an Immersive Indian Comfort Food Experience](https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go)
 - [Building a Voice-First Learning Companion — My 10 Days of Voice Agents Journey](https://dev.to/roshan-sankhat/building-a-voice-first-learning-companion-my-10-days-of-voice-agents-journey-17e8)
 - [Z.ai’s GLM-5.3 Is Closing the Gap With Anthropic in AI Cybersecurity](https://dev.to/techytcm/zais-glm-53-is-closing-the-gap-with-anthropic-in-ai-cybersecurity-17h3)
-- [What Building Typing Games Taught Me About Designing Better Web Interactions](https://dev.to/ravindrachitla/what-building-typing-games-taught-me-about-designing-better-web-interactions-50d5)
-- [The value was in nine places and one enum, and the enum was the only one that ran](https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9)
-- [Sehat Sathi: Building a Voice Agent for Health Access in Bharat](https://dev.to/subratgouda/sehat-sathi-building-a-voice-agent-for-health-access-in-bharat-27j4)
+- [Getting a Flutter app through App Review](https://dev.to/shahryarahmad/getting-a-flutter-app-through-app-review-3did)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
