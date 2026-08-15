@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A 36% margin became 6% at month-end, and nothing was posted wrong](https://dev.to/_705cc6dba923dce49293c/a-36-margin-became-6-at-month-end-and-nothing-was-posted-wrong-56b1)
-- [Why Trend-Data Scrapers Silently Fail &lpar;And How I Fixed It&rpar;](https://dev.to/0xgollum/why-trend-data-scrapers-silently-fail-and-how-i-fixed-it-7a2)
-- [Context Engineering and Harness Engineering: Building Reliable AI Agents Beyond Prompts](https://dev.to/mino/context-engineering-and-harness-engineering-building-reliable-ai-agents-beyond-prompts-3dij)
-- [Building Bhasha Academy: A Multi-Agent Hinglish Voice Tutor with Murf Falcon &amp; LiveKit](https://dev.to/bharat03/building-bhasha-academy-a-multi-agent-hinglish-voice-tutor-with-murf-falcon-livekit-njp)
-- [React useInterval Hook: setInterval Without Stale Closures &lpar;2026&rpar;](https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla)
+- [Building Anisha: My 10-Day Journey to a Voice Agent for Learning &amp; Literacy](https://dev.to/ashishkumawat977/building-anisha-my-10-day-journey-to-a-voice-agent-for-learning-literacy-p8p)
+- [PawBot - An AI Desktop Puppy That Eats Your Files 🐾](https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a)
+- [Building Vendzoo: How I Built a Full Business OS for SMEs — Fraud Detection, 4 Couriers, RFM Engine &amp; More](https://dev.to/polash/building-vendzoo-how-i-built-a-full-business-os-for-smes-fraud-detection-4-couriers-rfm-engine-2094)
+- [Docker - redes e volumes na prática](https://dev.to/apsis-cc/docker-redes-e-volumes-na-pratica-1n0b)
+- [I Love Dogs, But Dogs Scare Me — So I Built Pawsitive with Gemini 🐾.](https://dev.to/ujja/i-love-dogs-but-dogs-scare-me-so-i-built-pawsitive-with-gemini--1536)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
