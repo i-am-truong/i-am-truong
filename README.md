@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Lean创始人访谈：Handwritten Math Will Change Dramatically](https://dev.to/cognitalk/leanchuang-shi-ren-fang-tan-handwritten-math-will-change-dramatically-4fn0)
+- [How I Vibe-Coded a Fast Client-Side Word Counter Tool using AI](https://dev.to/hoangvibecode/how-i-vibe-coded-a-fast-client-side-word-counter-tool-using-ai-5hhn)
 - [[Boost]](https://dev.to/anthonymax/-3937)
 - [Your pipeline deleted its own alarm &lpar;two greps to check&rpar;](https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m)
 - [Why Scam Infrastructure Is More Than a Website](https://dev.to/bruce1267/why-scam-infrastructure-is-more-than-a-website-19gb)
-- [Daily Dose of DevOps — GitHub Actions basics for DevOps](https://dev.to/marco13moo/daily-dose-of-devops-github-actions-basics-for-devops-1h5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
