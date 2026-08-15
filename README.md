@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Company Has AI Tribes. Send an Engineer as Emissary](https://dev.to/debashish_ghosal/your-company-has-ai-tribes-send-an-engineer-as-emissary-4g72)
+- [Shipping a five-mission offline Android FPS with Camo Scan](https://dev.to/ghazali_doae_4d37057cef78/shipping-a-five-mission-offline-android-fps-with-camo-scan-di0)
 - [Kubernetes: alertas utiles para readiness flapping](https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-readiness-flapping-1bi1)
 - [IA na descoberta de fármacos: como acelerar do laboratório à clínica](https://dev.to/leojulieta/ia-na-descoberta-de-farmacos-como-acelerar-do-laboratorio-a-clinica-543m)
-- [Building a Custom API Testing Framework Using Playwright and TypeScript](https://dev.to/shefali_qa/building-a-custom-api-testing-framework-using-playwright-and-typescript-56ja)
-- [LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes](https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60)
-- [LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search](https://dev.to/ultrontheai/liorandb-typescript-series-5-cursors-query-shaping-and-full-text-search-57pk)
+- [Redbelly Network: A Builder&#39;s Troubleshooting Guide](https://dev.to/chris0x80429/redbelly-network-a-builders-troubleshooting-guide-130e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
