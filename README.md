@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Entenda Ponteiros, simples e facil com Go](https://dev.to/lucasdasial/entenda-ponteiros-simples-e-facil-com-go-2nog)
+- [Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.](https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la)
 - [Frontend DevOps: mi mapa de recursos](https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7)
+- [ContextMemory v0.1.0-beta: what shipped](https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl)
 - [Writing the code is no longer the bottleneck](https://dev.to/engmanagerdesk/writing-the-code-is-no-longer-the-bottleneck-2jh2)
-- [YOUTHTREND-Beyond the group chat](https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7)
-- [The Matrix of Tree Traversals: Recursive vs Iterative Explained](https://dev.to/timevolt/the-matrix-of-tree-traversals-recursive-vs-iterative-explained-18a9)
-- [Building a Responsible Health Calculator Portal for Everyday Use](https://dev.to/matheus_cavalcanti_472d93/building-a-responsible-health-calculator-portal-for-everyday-use-3d2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
