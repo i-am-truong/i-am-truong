@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A macOS cache and system-file cleaner for the Terminal. It is built as a single Bash script with zero dependencies and is fully compatible with native macOS &lpar;Bash 3.2+&rpar;.
-
-https://github.com/ombak/clean-shit](https://dev.to/ombak/a-macos-cache-and-system-file-cleaner-for-the-terminal-it-is-built-as-a-single-bash-script-with-5np)
-- [SEBI&#39;s Algo Trading Rules 2026: 2FA, Audit Trails &amp; What Retail Must Know](https://dev.to/shaktitiwari/sebis-algo-trading-rules-2026-2fa-audit-trails-what-retail-must-know-54og)
-- [Predicting the Future of Glucose: Real-time CGM Anomaly Detection with LSTM and TSFresh 🚀](https://dev.to/wellallytech/predicting-the-future-of-glucose-real-time-cgm-anomaly-detection-with-lstm-and-tsfresh-20pp)
-- [How to Handle Audio Transcription API 404/501 — available=false Speech-to-Text in 2026](https://dev.to/zylahmorn61835/how-to-handle-audio-transcription-api-404501-availablefalse-speech-to-text-in-2026-2k07)
-- [How to Build a Cybersecurity Metric Data Dictionary That Executives Can Actually Trust](https://dev.to/santa412_929884369ea40d9a/how-to-build-a-cybersecurity-metric-data-dictionary-that-executives-can-actually-trust-1f92)
+- [Goish: พอร์ตรันไทม์ของ Go ทั้งตัวลงใน no_std Rust](https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n)
+- [Supplier Invoice Speech-to-Text: EU Startup Validation Beyond Per-Minute Pricing](https://dev.to/evanshepherd8274/supplier-invoice-speech-to-text-eu-startup-validation-beyond-per-minute-pricing-2h0a)
+- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
+- [How to Compare Speech-to-Text API Per-Minute Pricing for an EU Startup in 2026](https://dev.to/iversonblake8417/how-to-compare-speech-to-text-api-per-minute-pricing-for-an-eu-startup-in-2026-2054)
+- [AI Agent Memory: Why Every Agent Needs a Vector Database](https://dev.to/mryadavgulshan/ai-agent-memory-why-every-agent-needs-a-vector-database-1ocf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
