@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Foundry Agent Permission Governance: OBO, RBAC, and Approval Boundaries](https://dev.to/brucewong001/microsoft-foundry-agent-permission-governance-obo-rbac-and-approval-boundaries-4mj7)
-- [Install Hadoop on WSL2 Ubuntu &lpar;2026&rpar;: Complete Step-by-Step Guide](https://dev.to/bigdatatoday/install-hadoop-on-wsl2-ubuntu-2026-complete-step-by-step-guide-388j)
-- [Why You Need to Ditch Sherlock and Holehe for This 2-in-1 OSINT Suite—user-scanner](https://dev.to/hadfy87867y/why-you-need-to-ditch-sherlock-and-holehe-for-this-2-in-1-osint-suite-5aaf)
-- [Self-attention, explained without the heavy math](https://dev.to/dev-into-space/self-attention-explained-without-the-heavy-math-3ip1)
-- [Building Arogya Seva: How I Built an Ultra-Low Latency Telehealth Voice AI for Bharat in 10 Days](https://dev.to/viral1998/building-arogya-seva-how-i-built-an-ultra-low-latency-telehealth-voice-ai-for-bharat-in-10-days-1cmg)
+- [The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating](https://dev.to/aniruddha_adak/the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating-5702)
+- [When I Narrowed My Human Inputs Down to Just Todoist and Discord, the System Started Running Itself](https://dev.to/ebibibi/when-i-narrowed-my-human-inputs-down-to-just-todoist-and-discord-the-system-started-running-itself-51lf)
+- [STAY - Keep the Days You Got](https://dev.to/octanexyz/stay-keep-the-days-you-got-4i4e)
+- [Private AI Inference with Homomorphic Encryption: A Practical Guide to Computing on Encrypted Data](https://dev.to/chenyuan20509/private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data-3349)
+- [Navigating Floods Without Data: Building Sentinel Voice Agent in 10 Days](https://dev.to/subhangidutta23shipit/navigating-floods-without-data-building-sentinel-voice-agent-in-10-days-j7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
