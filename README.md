@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4)
-- [An open-source, modular CMS for developers and AI-assisted/vibe-coded websites.](https://dev.to/cloudhim/an-open-source-modular-cms-for-developers-and-ai-assistedvibe-coded-websites-1lc3)
-- [Harness Engineering - Part 8: Observability](https://dev.to/coderonfleek/harness-engineering-part-8-observability-3gc1)
-- [Network Troubleshooting as a Stack: Find Which Layer Is Broken First](https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6)
-- [Harness Engineering - Part 7: The Memory Layer](https://dev.to/coderonfleek/harness-engineering-part-7-the-memory-layer-3oon)
+- [El patrón Repository en NestJS: una colección que, casualmente, vive en una base de datos](https://dev.to/chacaponquin/el-patron-repository-en-nestjs-una-coleccion-que-casualmente-vive-en-una-base-de-datos-2kfd)
+- [I built a WhatsApp/Telegram group directory with zero coding background — here&#39;s the whole, unfiltered story](https://dev.to/aditya_gudapati/i-built-a-whatsapptelegram-group-directory-with-zero-coding-background-heres-the-whole-3037)
+- [Zenoh&#39;s put is fire-and-forget, get isn&#39;t — a read-after-write race in Elixir](https://dev.to/kikuyuta/zenohs-put-is-fire-and-forget-get-isnt-a-read-after-write-race-in-elixir-o6l)
+- [Building Shiksha: What I Learned Creating a Real-Time AI English Coach in 10 Days](https://dev.to/sp_gamer_e8a7ce484708618f/building-shiksha-what-i-learned-creating-a-real-time-ai-english-coach-in-10-days-jn6)
+- [PawDOS 95: A browser operating system for dogs](https://dev.to/sizzlebop/pawdos-95-a-browser-operating-system-for-dogs-167m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
