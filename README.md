@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Company Has AI Tribes. Send an Engineer as Emissary](https://dev.to/debashish_ghosal/your-company-has-ai-tribes-send-an-engineer-as-emissary-4g72)
-- [Shipping a five-mission offline Android FPS with Camo Scan](https://dev.to/ghazali_doae_4d37057cef78/shipping-a-five-mission-offline-android-fps-with-camo-scan-di0)
-- [Kubernetes: alertas utiles para readiness flapping](https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-readiness-flapping-1bi1)
-- [IA na descoberta de fármacos: como acelerar do laboratório à clínica](https://dev.to/leojulieta/ia-na-descoberta-de-farmacos-como-acelerar-do-laboratorio-a-clinica-543m)
-- [Redbelly Network: A Builder&#39;s Troubleshooting Guide](https://dev.to/chris0x80429/redbelly-network-a-builders-troubleshooting-guide-130e)
+- [🍬 Candy Logger v2.1.0 - The Correctness Release](https://dev.to/shehari007/candy-logger-v210-the-correctness-release-kbn)
+- [Adding Speech Therapy to a Live Directory: The Read-Path Allowlist Pattern at Special Needs Care Network](https://dev.to/member_5432fd74/adding-speech-therapy-to-a-live-directory-the-read-path-allowlist-pattern-at-special-needs-care-56o6)
+- [Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites](https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113)
+- [How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B &amp; EU AI Act Cryptographic Attestations](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
+- [A rebrand is not feature work](https://dev.to/tony-rowan/a-rebrand-is-not-feature-work-1162)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
