@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Foundry Agent Permission Governance: OBO, RBAC, and Approval Boundaries](https://dev.to/brucewong001/microsoft-foundry-agent-permission-governance-obo-rbac-and-approval-boundaries-4mj7)
+- [Install Hadoop on WSL2 Ubuntu &lpar;2026&rpar;: Complete Step-by-Step Guide](https://dev.to/bigdatatoday/install-hadoop-on-wsl2-ubuntu-2026-complete-step-by-step-guide-388j)
 - [Why You Need to Ditch Sherlock and Holehe for This 2-in-1 OSINT Suite—user-scanner](https://dev.to/hadfy87867y/why-you-need-to-ditch-sherlock-and-holehe-for-this-2-in-1-osint-suite-5aaf)
 - [Self-attention, explained without the heavy math](https://dev.to/dev-into-space/self-attention-explained-without-the-heavy-math-3ip1)
 - [Building Arogya Seva: How I Built an Ultra-Low Latency Telehealth Voice AI for Bharat in 10 Days](https://dev.to/viral1998/building-arogya-seva-how-i-built-an-ultra-low-latency-telehealth-voice-ai-for-bharat-in-10-days-1cmg)
-- [I Shipped an Agent Gatekeeper &lpar;v0.1&rpar;. 14 Developers Showed Me What I Missed. Here&#39;s v0.2 — a Control Plane.](https://dev.to/debashish_ghosal/i-shipped-an-agent-gatekeeper-v01-14-developers-showed-me-what-i-missed-heres-v02-a-4n2n)
-- [Katalon Studio has no native Allure adapter. Here&#39;s how to get one anyway.](https://dev.to/monty_bagati_6651e3b22a36/katalon-studio-has-no-native-allure-adapter-heres-how-to-get-one-anyway-4g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
