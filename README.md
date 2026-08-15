@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing the code is no longer the bottleneck](https://dev.to/engmanagerdesk/writing-the-code-is-no-longer-the-bottleneck-2jh2)
 - [YOUTHTREND-Beyond the group chat](https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7)
 - [The Matrix of Tree Traversals: Recursive vs Iterative Explained](https://dev.to/timevolt/the-matrix-of-tree-traversals-recursive-vs-iterative-explained-18a9)
 - [Building a Responsible Health Calculator Portal for Everyday Use](https://dev.to/matheus_cavalcanti_472d93/building-a-responsible-health-calculator-portal-for-everyday-use-3d2b)
 - [Your AI-generated post-mortem is just a fancy way of hiding the truth](https://dev.to/engmanagerdesk/your-ai-generated-post-mortem-is-just-a-fancy-way-of-hiding-the-truth-5b3c)
-- [&quot;Power BI Error: The Key Didn&#39;t Match Any Rows in the Table&quot;](https://dev.to/pbidocs/power-bi-error-the-key-didnt-match-any-rows-in-the-table-3fmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
