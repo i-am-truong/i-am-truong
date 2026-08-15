@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic certification: the Claude &lpar;CCAR-F&rpar; credential, explained](https://dev.to/aiarch_wibo/anthropic-certification-the-claude-ccar-f-credential-explained-p7e)
-- [The Shopkeeper Who Never Gets a Break](https://dev.to/coderkartik/the-shopkeeper-who-never-gets-a-break-353b)
-- [I built 49 free online tools in 3 months — here&#39;s what I learned](https://dev.to/leena_jadhav_77feb4cbd0a8/i-built-49-free-online-tools-in-3-months-heres-what-i-learned-3p78)
-- [Measuring the real concurrency ceiling of an LLM agent runner](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)
-- [How Developers Think About Software Testing in the AI Era](https://dev.to/dhruvtechdev/how-developers-should-think-about-software-testing-in-the-ai-era-5ap7)
+- [How to Ship a VS Code Extension That Wraps an Existing Web Tool](https://dev.to/bonzai2carn/how-to-ship-a-vs-code-extension-that-wraps-an-existing-web-tool-3jda)
+- [Built a Blog App with Rails &amp; PostgreSQL – Looking for Code Review!](https://dev.to/soham_chavan07/built-a-blog-app-with-rails-postgresql-looking-for-code-review-30a4)
+- [mmy-css: An Ultra-Lightweight CSS Framework Under 1.2 KB](https://dev.to/mmy-lana/mmy-css-an-ultra-lightweight-css-framework-under-12-kb-59hg)
+- [How to Review AI-Generated Tests: Seven Checks Before You Keep Them](https://dev.to/aiwithanton/how-to-review-ai-generated-tests-seven-checks-before-you-keep-them-3l4f)
+- [My JetBrains Rider Setup for Surviving Live-Coding Demos](https://dev.to/lovelacecoding/my-jetbrains-rider-setup-for-surviving-live-coding-demos-lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
