@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Voice Agent in 10 Days — My VoiceForBharat Journey](https://dev.to/nittala_koushik_3b5521b57/building-a-voice-agent-in-10-days-my-voiceforbharat-journey-2abh)
-- [FastAPI Dependency Injection for Anthropic Claude: Isolating API Keys and Rate Limits Per Tenant](https://dev.to/uaslimcreate/fastapi-dependency-injection-for-anthropic-claude-isolating-api-keys-and-rate-limits-per-tenant-4n7j)
-- [The 2026 Toolchain Revolution: From Postman to CLI, Code to Prompts — What Stays and What Goes](https://dev.to/tamizuddin/the-2026-toolchain-revolution-from-postman-to-cli-code-to-prompts-what-stays-and-what-goes-48j6)
-- [AI Integration for UK SMEs - A Practical Guide for 2026](https://dev.to/mecanik-dev/ai-integration-for-uk-smes-a-practical-guide-for-2026-1h66)
-- [I Built a Voice AI Assistant for Indian Farmers — My 10-Day Voice Agent Journey](https://dev.to/safdar_52ae400ba6ff01703e/i-built-a-voice-ai-assistant-for-indian-farmers-my-10-day-voice-agent-journey-l97)
+- [From Midnight Power Cuts to Multi-Agent Voice AI: How I Built Raksha in 10 Days](https://dev.to/prakhidha_chawdhury/from-midnight-power-cuts-to-multi-agent-voice-ai-how-i-built-raksha-in-10-days-22lf)
+- [An AI Capture-the-Flag Tournament: What the Scoreboard Counted](https://dev.to/megapixel99/an-ai-capture-the-flag-tournament-what-the-scoreboard-counted-56fp)
+- [Make AI-Generated HTTP Endpoints Prove Themselves on a Disposable Server](https://dev.to/codepy_1473/make-ai-generated-http-endpoints-prove-themselves-on-a-disposable-server-hm4)
+- [A Free Server Caught the GUI Fallback a Model Buried in a CLI](https://dev.to/datacpp_8185/a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli-70e)
+- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
