@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [89 nos and not a single line of code](https://dev.to/_jesmoo/89-nos-and-not-a-single-line-of-code-2da2)
-- [25+ useful and commonly used Regular Expressions](https://dev.to/developaaah/25-useful-and-commonly-used-regular-expressions-10d)
-- [Shaving a second off a real-time speech-to-LLM pipeline in Electron](https://dev.to/theinterviewcopilot/shaving-a-second-off-a-real-time-speech-to-llm-pipeline-in-electron-4c7h)
-- [Marketplace Cleanup: Queue Push Webhook Endpoint with Public HTTPS Signature Checks](https://dev.to/ethanbrooks111/marketplace-cleanup-queue-push-webhook-endpoint-with-public-https-signature-checks-471m)
-- [Writing evidence-linked docs exposed two missing regression tests](https://dev.to/shikiyusuke/writing-evidence-linked-docs-exposed-two-missing-regression-tests-3524)
+- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh)
+- [Building a Zero-Cloud Android Service: Privacy by Architecture](https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml)
+- [The Fix Was Committed. The Old Value Kept Running.](https://dev.to/hexisteme/the-fix-was-committed-the-old-value-kept-running-36bf)
+- [0 of 3 Articles Published for 3 Days Straight: The 41-Second Timeout Margin That Killed My Automation](https://dev.to/bokuwalily/0-of-3-articles-published-for-3-days-straight-the-41-second-timeout-margin-that-killed-my-4n7n)
+- [Before You Expose That Agent, Let a Free Model Attack It](https://dev.to/codepy_1473/before-you-expose-that-agent-let-a-free-model-attack-it-2bm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
