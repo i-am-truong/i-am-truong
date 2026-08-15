@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)
-- [I Built a Real-Time Collaborative Sheet Music Editor — Here&#39;s What MusicXML and CRDTs Taught Me](https://dev.to/tan-z-tan/i-built-a-real-time-collaborative-sheet-music-editor-heres-what-musicxml-and-crdts-taught-me-1dii)
-- [Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor with Murf Falcon &amp; LiveKit &lpar;10 Days of Voice Agents&rpar;](https://dev.to/stoichotoke/building-vidya-an-ultra-fast-bilingual-voice-ai-tutor-with-murf-falcon-livekit-10-days-of-voice-1fcf)
-- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
-- [10 Days to Build a Voice AI Tutor: The Good, The Bad, and The &quot;Why Is It Silent?!&quot;](https://dev.to/satwik_mn/10-days-to-build-a-voice-ai-tutor-the-good-the-bad-and-the-why-is-it-silent-7ii)
+- [The refactor that made every validation build pass without validating anything](https://dev.to/vedaforge_eng/the-refactor-that-made-every-validation-build-pass-without-validating-anything-50gd)
+- [Write your pages in PHP. Run them on the JVM.](https://dev.to/deniss_larka/write-your-pages-in-php-run-them-on-the-jvm-j6)
+- [🛑 &quot;Beta, Yeh Message Real Hai Kya?&quot; — How I Built an AI Voice Agent to Protect Families from Scams in 10 Days #VoiceForBharat](https://dev.to/jkbedi/beta-yeh-message-real-hai-kya-how-i-built-an-ai-voice-agent-to-protect-families-from-scams-2jdf)
+- [Kubernetes Networking [Level-3: Services]](https://dev.to/iadiraj/kubernetes-networking-level-3-services-5h3)
+- [Google + MIT พิสูจน์แล้ว: Multi-Agent ไม่ได้ดีเสมอไป, เปลี่ยนแค่ &#39;การเชื่อมต่อ&#39; ผลลัพธ์พลิกจากแย่ลง 70% เป็นดีขึ้น 80%](https://dev.to/sarantoon/google-mit-phisuucchnaelw-multi-agent-aimaiddiiesmaip-epliiynaekh-kaarechuuemt-phllaphthphlikcchaakaeylng-4n4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
