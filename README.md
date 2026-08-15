@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I pasted a production JWT into a random website. Then I read their privacy policy.](https://dev.to/zeeshan_imdad_c763729732e/i-got-tired-of-pasting-jwts-into-random-websites-so-i-built-my-own-tools-4hh5)
-- [ArthMitra](https://dev.to/sizico/arthmitra-4l6a)
-- [How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents](https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd)
-- [Why logrotate silently does nothing and how to actually debug it](https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd)
-- [The AI Crawler Checklist: Why the Model Never Even Read Your Page](https://dev.to/stefan_vasile_1ad9799e929/the-ai-crawler-checklist-why-the-model-never-even-read-your-page-5en5)
+- [I Built a simple YouTube media ripper in Python](https://dev.to/codebunny20/i-built-a-simple-youtube-media-ripper-in-python-2c94)
+- [Your dog&#39;s camera roll is a wellness history. BarkPass makes it speak.](https://dev.to/himanshu_748/your-dogs-camera-roll-is-a-wellness-history-barkpass-makes-it-speak-1m5j)
+- [I built a simple tool to automate Linux system updates across different package managers](https://dev.to/swarajnerlekar28/i-built-a-simple-tool-to-automate-linux-system-updates-across-different-package-managers-36jk)
+- [The half of Claude&#39;s watermark you can actually check](https://dev.to/haruodev/the-half-of-claudes-watermark-you-can-actually-check-1482)
+- [Claude Code 2.1.232: Six Regression Checks That Matter](https://dev.to/yan_gao_3ad90a90b26925538/claude-code-21232-six-regression-checks-that-matter-4bna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
