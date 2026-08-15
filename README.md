@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React useInterval Hook: setInterval Without Stale Closures &lpar;2026&rpar;](https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla)
+- [How I Built a Multi-Tenant RAG Knowledge Base with Source-Cited Answers — Pipeline, Multi-Tenancy, and Lessons](https://dev.to/raja-abbas-affandi/how-i-built-a-multi-tenant-rag-knowledge-base-with-source-cited-answers-pipeline-multi-tenancy-22oo)
 - [What Google did with a brand new site in its first 24 hours](https://dev.to/stackedboost/what-google-did-with-a-brand-new-site-in-its-first-24-hours-knn)
 - [The Other Sean Byrne Doesn&#39;t Exist: A Case Study in Digital Identity Ghosts](https://dev.to/kaixintelligence/the-other-sean-byrne-doesnt-exist-a-case-study-in-digital-identity-ghosts-mfk)
-- [The Writing Problem That Wasn’t Really a Writing Problem](https://dev.to/oldmanbelton/the-writing-problem-that-wasnt-really-a-writing-problem-433h)
-- [Portfolio Website Architecture for Dummies](https://dev.to/oldmanbelton/portfolio-website-architecture-for-dummies-46i2)
-- [Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work](https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm)
+- [My Journey at Gen AI Academy APAC Edition: Building the Future with AI &amp; Hardware](https://dev.to/suhail-18/my-journey-at-gen-ai-academy-apac-edition-building-the-future-with-ai-hardware-2j70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
