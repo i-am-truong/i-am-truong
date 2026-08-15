@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A 36% margin became 6% at month-end, and nothing was posted wrong](https://dev.to/_705cc6dba923dce49293c/a-36-margin-became-6-at-month-end-and-nothing-was-posted-wrong-56b1)
+- [Why Trend-Data Scrapers Silently Fail &lpar;And How I Fixed It&rpar;](https://dev.to/0xgollum/why-trend-data-scrapers-silently-fail-and-how-i-fixed-it-7a2)
+- [Context Engineering and Harness Engineering: Building Reliable AI Agents Beyond Prompts](https://dev.to/mino/context-engineering-and-harness-engineering-building-reliable-ai-agents-beyond-prompts-3dij)
+- [Building Bhasha Academy: A Multi-Agent Hinglish Voice Tutor with Murf Falcon &amp; LiveKit](https://dev.to/bharat03/building-bhasha-academy-a-multi-agent-hinglish-voice-tutor-with-murf-falcon-livekit-njp)
 - [React useInterval Hook: setInterval Without Stale Closures &lpar;2026&rpar;](https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla)
-- [How I Built a Multi-Tenant RAG Knowledge Base with Source-Cited Answers — Pipeline, Multi-Tenancy, and Lessons](https://dev.to/raja-abbas-affandi/how-i-built-a-multi-tenant-rag-knowledge-base-with-source-cited-answers-pipeline-multi-tenancy-22oo)
-- [What Google did with a brand new site in its first 24 hours](https://dev.to/stackedboost/what-google-did-with-a-brand-new-site-in-its-first-24-hours-knn)
-- [The Other Sean Byrne Doesn&#39;t Exist: A Case Study in Digital Identity Ghosts](https://dev.to/kaixintelligence/the-other-sean-byrne-doesnt-exist-a-case-study-in-digital-identity-ghosts-mfk)
-- [My Journey at Gen AI Academy APAC Edition: Building the Future with AI &amp; Hardware](https://dev.to/suhail-18/my-journey-at-gen-ai-academy-apac-edition-building-the-future-with-ai-hardware-2j70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
