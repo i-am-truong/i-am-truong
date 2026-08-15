@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tomato soup for the Soul](https://dev.to/glnurltn/tomato-soup-for-the-soul-3657)
+- [Ashraya AI: My 10-Day Journey Building a Voice Agent for Disaster Response](https://dev.to/asmi_raut/building-ashraya-ai-my-10-day-journey-building-a-voice-agent-for-disaster-response-20pc)
+- [Expired Domains Are Becoming a New Cybersecurity Attack Surface](https://dev.to/cyberbezpieczenstwo/expired-domains-are-becoming-a-new-cybersecurity-attack-surface-1bj6)
+- [The download button that silently did nothing on mobile](https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k)
 - [I Built a simple YouTube media ripper in Python](https://dev.to/codebunny20/i-built-a-simple-youtube-media-ripper-in-python-2c94)
-- [Your dog&#39;s camera roll is a wellness history. BarkPass makes it speak.](https://dev.to/himanshu_748/your-dogs-camera-roll-is-a-wellness-history-barkpass-makes-it-speak-1m5j)
-- [I built a simple tool to automate Linux system updates across different package managers](https://dev.to/swarajnerlekar28/i-built-a-simple-tool-to-automate-linux-system-updates-across-different-package-managers-36jk)
-- [The half of Claude&#39;s watermark you can actually check](https://dev.to/haruodev/the-half-of-claudes-watermark-you-can-actually-check-1482)
-- [Claude Code 2.1.232: Six Regression Checks That Matter](https://dev.to/yan_gao_3ad90a90b26925538/claude-code-21232-six-regression-checks-that-matter-4bna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
