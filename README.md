@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Text Watermarking: The Statistics Hiding Inside Every Sentence](https://dev.to/sanjay_singh_1/ai-text-watermarking-the-statistics-hiding-inside-every-sentence-2g9f)
-- [Spicing Up the Web: Building &quot;Angaar&quot;, an Immersive Indian Comfort Food Experience](https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go)
-- [Building a Voice-First Learning Companion — My 10 Days of Voice Agents Journey](https://dev.to/roshan-sankhat/building-a-voice-first-learning-companion-my-10-days-of-voice-agents-journey-17e8)
-- [Z.ai’s GLM-5.3 Is Closing the Gap With Anthropic in AI Cybersecurity](https://dev.to/techytcm/zais-glm-53-is-closing-the-gap-with-anthropic-in-ai-cybersecurity-17h3)
-- [Getting a Flutter app through App Review](https://dev.to/shahryarahmad/getting-a-flutter-app-through-app-review-3did)
+- [Building a Voice Agent in 10 Days — My VoiceForBharat Journey](https://dev.to/nittala_koushik_3b5521b57/building-a-voice-agent-in-10-days-my-voiceforbharat-journey-2abh)
+- [FastAPI Dependency Injection for Anthropic Claude: Isolating API Keys and Rate Limits Per Tenant](https://dev.to/uaslimcreate/fastapi-dependency-injection-for-anthropic-claude-isolating-api-keys-and-rate-limits-per-tenant-4n7j)
+- [The 2026 Toolchain Revolution: From Postman to CLI, Code to Prompts — What Stays and What Goes](https://dev.to/tamizuddin/the-2026-toolchain-revolution-from-postman-to-cli-code-to-prompts-what-stays-and-what-goes-48j6)
+- [AI Integration for UK SMEs - A Practical Guide for 2026](https://dev.to/mecanik-dev/ai-integration-for-uk-smes-a-practical-guide-for-2026-1h66)
+- [I Built a Voice AI Assistant for Indian Farmers — My 10-Day Voice Agent Journey](https://dev.to/safdar_52ae400ba6ff01703e/i-built-a-voice-ai-assistant-for-indian-farmers-my-10-day-voice-agent-journey-l97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
