@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Architecting a Hybrid GenAI Production Pipeline: Engineering Consistency, Scale, and Human-in-the-Loop Automation](https://dev.to/richard_rondeau/architecting-a-hybrid-genai-production-pipeline-engineering-consistency-scale-and-31h0)
+- [Building Mathastic Twice: One Math Puzzle Game, Two Native Architectures](https://dev.to/tapadyutichatterjee/building-mathastic-twice-one-math-puzzle-game-two-native-architectures-1og6)
+- [Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss](https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8)
 - [Entenda Ponteiros, simples e facil com Go](https://dev.to/lucasdasial/entenda-ponteiros-simples-e-facil-com-go-2nog)
 - [Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.](https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la)
-- [Frontend DevOps: mi mapa de recursos](https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7)
-- [ContextMemory v0.1.0-beta: what shipped](https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl)
-- [Writing the code is no longer the bottleneck](https://dev.to/engmanagerdesk/writing-the-code-is-no-longer-the-bottleneck-2jh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
