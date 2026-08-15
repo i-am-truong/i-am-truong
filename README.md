@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Voice Agent for Bharat: My 10-Day Journey](https://dev.to/ayushshinde13/building-an-ai-voice-agent-for-bharat-my-10-day-journey-f6d)
-- [I Built AnswerTrace . GitHub Discussions Analytics for Your README](https://dev.to/antonisloukis/i-built-answertrace-github-discussions-analytics-for-your-readme-4mno)
-- [Claude Code vs Cursor vs Windsurf in 2026: Which Agentic IDE Actually Ships Production Code](https://dev.to/jsmanifest/claude-code-vs-cursor-vs-windsurf-in-2026-which-agentic-ide-actually-ships-production-code-3maj)
-- [Run Claude Code for FREE on Your Machine Using OpenRouter](https://dev.to/soham_chavan07/run-claude-code-for-free-on-your-machine-using-openrouter-5d1o)
-- [I Used Sentry to Expose a Silent Data-Loss Bug with Zero Errors](https://dev.to/mirshah12/i-used-sentry-to-expose-a-silent-data-loss-bug-with-zero-errors-hmi)
+- [I Built a RAG Pipeline in TypeScript Without LangChain — The Whole Thing in 200 Lines](https://dev.to/apurwa/i-built-a-rag-pipeline-in-typescript-without-langchain-the-whole-thing-in-200-lines-3446)
+- [🍽️ Masala Dosa House — A Taste of Home](https://dev.to/makendrang/masala-dosa-house-a-taste-of-home-3hfi)
+- [CSS Masala Dosa — A Plate of Comfort 🍽️](https://dev.to/makendrang/css-masala-dosa-a-plate-of-comfort-3dh7)
+- [Let AI Explain traceroute with the Laws of Physics](https://dev.to/europeanplaice/let-ai-explain-traceroute-with-the-laws-of-physics-2ckh)
+- [Karachi Ki Raatein: A Love Letter to Midnight Street Food](https://dev.to/abdul_rehman_314626de0dd6/karachi-ki-raatein-a-love-letter-to-midnight-street-food-5c1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
