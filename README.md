@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍬 Candy Logger v2.1.0 - The Correctness Release](https://dev.to/shehari007/candy-logger-v210-the-correctness-release-kbn)
-- [Adding Speech Therapy to a Live Directory: The Read-Path Allowlist Pattern at Special Needs Care Network](https://dev.to/member_5432fd74/adding-speech-therapy-to-a-live-directory-the-read-path-allowlist-pattern-at-special-needs-care-56o6)
-- [Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites](https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113)
-- [How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B &amp; EU AI Act Cryptographic Attestations](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
-- [A rebrand is not feature work](https://dev.to/tony-rowan/a-rebrand-is-not-feature-work-1162)
+- [From Arduino To Automotive: How I Escaped The IDE And Owned The Bus](https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f)
+- [How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas](https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb)
+- [Turning your Obsidian notes into a queryable database with Dataview](https://dev.to/stacklinestudio/turning-your-obsidian-notes-into-a-queryable-database-with-dataview-3hn2)
+- [PHP FFI on Apple Silicon: your ioctl call is lying to you](https://dev.to/croustibat44/php-ffi-on-apple-silicon-your-ioctl-call-is-lying-to-you-23kj)
+- [Who&#39;s really winning open models in 2026? It&#39;s not who you think](https://dev.to/thegatewayguy/whos-really-winning-open-models-in-2026-its-not-who-you-think-c11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
