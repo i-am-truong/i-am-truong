@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Server That Reviews Code Locally — No SaaS, No Uploads](https://dev.to/goodjobwilliam/i-built-an-mcp-server-that-reviews-code-locally-no-saas-no-uploads-568a)
-- [Killing a Feature Is a Graph Problem, Not a Product Problem](https://dev.to/dasdorf/killing-a-feature-is-a-graph-problem-not-a-product-problem-4m2j)
-- [🍝 Pasta Shape Guide — An Interactive Guide to the Pasta We Love](https://dev.to/gulrez/pasta-shape-guide-an-interactive-guide-to-the-pasta-we-love-2cpo)
-- [Building SpeakEasy AI: A Multilingual Voice Agent for Bharat](https://dev.to/priyal_2504/building-speakeasy-ai-a-multilingual-voice-agent-for-bharat-29i6)
-- [Salesforce Certified Administrator &lpar;Sales-Con-201&rpar;: Data Models, Security &amp; Flow Architecture](https://dev.to/infiniteloopcole/salesforce-certified-administrator-sales-con-201-data-models-security-flow-architecture-g7a)
+- [I pasted a production JWT into a random website. Then I read their privacy policy.](https://dev.to/zeeshan_imdad_c763729732e/i-got-tired-of-pasting-jwts-into-random-websites-so-i-built-my-own-tools-4hh5)
+- [ArthMitra](https://dev.to/sizico/arthmitra-4l6a)
+- [How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents](https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd)
+- [Why logrotate silently does nothing and how to actually debug it](https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd)
+- [The AI Crawler Checklist: Why the Model Never Even Read Your Page](https://dev.to/stefan_vasile_1ad9799e929/the-ai-crawler-checklist-why-the-model-never-even-read-your-page-5en5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
