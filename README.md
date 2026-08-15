@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)
+- [I Built a Real-Time Collaborative Sheet Music Editor — Here&#39;s What MusicXML and CRDTs Taught Me](https://dev.to/tan-z-tan/i-built-a-real-time-collaborative-sheet-music-editor-heres-what-musicxml-and-crdts-taught-me-1dii)
+- [Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor with Murf Falcon &amp; LiveKit &lpar;10 Days of Voice Agents&rpar;](https://dev.to/stoichotoke/building-vidya-an-ultra-fast-bilingual-voice-ai-tutor-with-murf-falcon-livekit-10-days-of-voice-1fcf)
+- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
 - [10 Days to Build a Voice AI Tutor: The Good, The Bad, and The &quot;Why Is It Silent?!&quot;](https://dev.to/satwik_mn/10-days-to-build-a-voice-ai-tutor-the-good-the-bad-and-the-why-is-it-silent-7ii)
-- [Building Anisha: My 10-Day Journey to a Voice Agent for Learning &amp; Literacy](https://dev.to/ashishkumawat977/building-anisha-my-10-day-journey-to-a-voice-agent-for-learning-literacy-p8p)
-- [PawBot - An AI Desktop Puppy That Eats Your Files 🐾](https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a)
-- [Building Vendzoo: How I Built a Full Business OS for SMEs — Fraud Detection, 4 Couriers, RFM Engine &amp; More](https://dev.to/polash/building-vendzoo-how-i-built-a-full-business-os-for-smes-fraud-detection-4-couriers-rfm-engine-2094)
-- [Docker - redes e volumes na prática](https://dev.to/apsis-cc/docker-redes-e-volumes-na-pratica-1n0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
