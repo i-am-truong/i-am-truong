@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Python Model Is Just a Function](https://dev.to/5c4989ca297ed/a-python-model-is-just-a-function-4gk8)
-- [8051 What does SDCC do part 3 ?](https://dev.to/ddupard/8051-what-does-sdcc-do-part-3--3111)
-- [OpenAI Expands ChatGPT Ads With CPC Bidding and Contextual Targeting](https://dev.to/alifar/openai-expands-chatgpt-ads-with-cpc-bidding-and-contextual-targeting-3e2l)
-- [Amazon Q Developer Is Closed to New Signups. Our Review Didn&#39;t Say So.](https://dev.to/ramdai_bista/amazon-q-developer-is-closed-to-new-signups-our-review-didnt-say-so-m4h)
-- [Shiksha AI &amp; Mitra AI: Real-Time Spoken English &amp; Roleplay Voice Agent for Bharat](https://dev.to/ilhan_mansij_jidda/shiksha-ai-mitra-ai-real-time-spoken-english-roleplay-voice-agent-for-bharat-4n6e)
+- [Twenty-Five Million Rows in Five Seconds, and How to Check](https://dev.to/5c4989ca297ed/twenty-five-million-rows-in-five-seconds-and-how-to-check-4k1g)
+- [Building ASHA: A Real-Time Multi-Agent Voice AI Health Guide for Bharat](https://dev.to/muthukkumaran_b/building-asha-a-real-time-multi-agent-voice-ai-health-guide-for-bharat-8ja)
+- [Five things that break when you move from Jest to Vitest](https://dev.to/msakai/five-things-that-break-when-you-move-from-jest-to-vitest-3g3p)
+- [Google Pay Integration in Flutter with One Button](https://dev.to/mryadavgulshan/google-pay-integration-in-flutter-with-one-button-1kj9)
+- [Archi Semantic Core: Using Archi Models from TypeScript](https://dev.to/continuous-drivenarchitecture/archi-semantic-core-using-archi-models-from-typescript-171n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
