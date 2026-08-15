@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳](https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6)
-- [Stop Wasting Free Model Calls on Trivial Diffs: A Three-Tier Escalation Ladder](https://dev.to/gitlab_3188/stop-wasting-free-model-calls-on-trivial-diffs-a-three-tier-escalation-ladder-5132)
-- [Rasa — Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
-- [Rasa — Designing a Landing Page That Feels Like Opening a Food Journal](https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9)
-- [Terraform: The Future of Cloud Infrastructure Automation ☁️🚀](https://dev.to/yash_sonawane25/terraform-the-future-of-cloud-infrastructure-automation-mbj)
+- [Finding, Verifying, and Adapting the Right Skills for Your Project](https://dev.to/ndabene/finding-verifying-and-adapting-the-right-skills-for-your-project-4bgd)
+- [CanineWhisperer](https://dev.to/zenieverse/caninewhisperer-3no0)
+- [Building Shiksha: My 10-Day Voice Agent Journey with Murf Falcon](https://dev.to/naman5858/building-shiksha-my-10-day-voice-agent-journey-with-murf-falcon-ok5)
+- [Container Image Signing &amp; SLSA Provenance Verification with Sigstore Cosign](https://dev.to/aomiqaza/container-image-signing-slsa-provenance-verification-with-sigstore-cosign-56ce)
+- [Claude Code can make videos: it records the app, narrates with ElevenLabs, and syncs audio to video automatically](https://dev.to/chncwang/claude-code-can-make-videos-it-records-the-app-narrates-with-elevenlabs-and-syncs-audio-to-video-7g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
