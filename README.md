@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding, Verifying, and Adapting the Right Skills for Your Project](https://dev.to/ndabene/finding-verifying-and-adapting-the-right-skills-for-your-project-4bgd)
-- [CanineWhisperer](https://dev.to/zenieverse/caninewhisperer-3no0)
-- [Building Shiksha: My 10-Day Voice Agent Journey with Murf Falcon](https://dev.to/naman5858/building-shiksha-my-10-day-voice-agent-journey-with-murf-falcon-ok5)
-- [Container Image Signing &amp; SLSA Provenance Verification with Sigstore Cosign](https://dev.to/aomiqaza/container-image-signing-slsa-provenance-verification-with-sigstore-cosign-56ce)
-- [Claude Code can make videos: it records the app, narrates with ElevenLabs, and syncs audio to video automatically](https://dev.to/chncwang/claude-code-can-make-videos-it-records-the-app-narrates-with-elevenlabs-and-syncs-audio-to-video-7g8)
+- [macOS Screen Sharing CVE-2026-65400: Authentication Bypass Leads to Root Access and Monero Miner Installation](https://dev.to/anoymask/macos-screen-sharing-cve-2026-65400-authentication-bypass-leads-to-root-access-and-monero-miner-37kh)
+- [GeoServer jsonArrayContains SQL Injection Zero-Day: Mass Probes Hours After Disclosure, RCE Possible Depending on Configuration](https://dev.to/anoymask/geoserver-jsonarraycontains-sql-injection-zero-day-mass-probes-hours-after-disclosure-rce-159a)
+- [AmnesiaStealer: macOS Infostealer that Hijacks In-Browser Sessions via ClickFix](https://dev.to/anoymask/amnesiastealer-macos-infostealer-that-hijacks-in-browser-sessions-via-clickfix-13fg)
+- [SAP Commerce Cloud CVE-2026-58231: Active Exploit Attempts for Unauthenticated RCE](https://dev.to/anoymask/sap-commerce-cloud-cve-2026-58231-active-exploit-attempts-for-unauthenticated-rce-4ipp)
+- [Day 14: AWS Compute — Managed &amp; Serverless](https://dev.to/sr-palatasingh/day-14-aws-compute-managed-serverless-4foi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
