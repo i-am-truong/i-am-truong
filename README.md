@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [astral.ai.studio](https://dev.to/jan-klein/astralaistudio-419f)
-- [🍲 Annapurna&#39;s Kitchen — Every tiffin has Home&#39;s Flavour &lpar;Perfect Landing&rpar;](https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6)
-- [Build a Codebase Intelligence Tool Like repowise With a RAG-Assisted MCP for Your Monorepo](https://dev.to/tamizuddin/build-a-codebase-intelligence-tool-like-repowise-with-a-rag-assisted-mcp-for-your-monorepo-obo)
-- [Accessibility Testing for Documentation: A Release Checklist](https://dev.to/ninadpathak/accessibility-testing-for-documentation-a-release-checklist-1om7)
-- [The Longest Life in Compute](https://dev.to/aronchick/the-longest-life-in-compute-5amn)
+- [One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4)
+- [An open-source, modular CMS for developers and AI-assisted/vibe-coded websites.](https://dev.to/cloudhim/an-open-source-modular-cms-for-developers-and-ai-assistedvibe-coded-websites-1lc3)
+- [Harness Engineering - Part 8: Observability](https://dev.to/coderonfleek/harness-engineering-part-8-observability-3gc1)
+- [Network Troubleshooting as a Stack: Find Which Layer Is Broken First](https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6)
+- [Harness Engineering - Part 7: The Memory Layer](https://dev.to/coderonfleek/harness-engineering-part-7-the-memory-layer-3oon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
