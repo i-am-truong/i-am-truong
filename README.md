@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes for Beginners: From Local to Production – May the Pods Be With You](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-may-the-pods-be-with-you-4i4n)
+- [My evidence pipeline was saving Cloudflare block pages as evidence](https://dev.to/renga154/my-evidence-pipeline-was-saving-cloudflare-block-pages-as-evidence-25ml)
+- [Your `if` statements are a database nobody can query](https://dev.to/fs-doc/your-if-statements-are-a-database-nobody-can-query-3d84)
 - [I Built a RAG Pipeline in TypeScript Without LangChain — The Whole Thing in 200 Lines](https://dev.to/apurwa/i-built-a-rag-pipeline-in-typescript-without-langchain-the-whole-thing-in-200-lines-3446)
 - [🍽️ Masala Dosa House — A Taste of Home](https://dev.to/makendrang/masala-dosa-house-a-taste-of-home-3hfi)
-- [CSS Masala Dosa — A Plate of Comfort 🍽️](https://dev.to/makendrang/css-masala-dosa-a-plate-of-comfort-3dh7)
-- [Let AI Explain traceroute with the Laws of Physics](https://dev.to/europeanplaice/let-ai-explain-traceroute-with-the-laws-of-physics-2ckh)
-- [Karachi Ki Raatein: A Love Letter to Midnight Street Food](https://dev.to/abdul_rehman_314626de0dd6/karachi-ki-raatein-a-love-letter-to-midnight-street-food-5c1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
