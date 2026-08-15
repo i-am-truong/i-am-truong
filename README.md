@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JWT Authentication in Express That You Can Actually Revoke](https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i)
-- [How I Built a WhatsApp AI Bot That Runs for $0/Month on Windows](https://dev.to/zerocosttech/how-i-built-a-whatsapp-ai-bot-that-runs-for-0month-on-windows-4kig)
-- [Threat Model Your Apartment Like You Threat Model Your Laptop](https://dev.to/numbpill3d/threat-model-your-apartment-like-you-threat-model-your-laptop-3hl9)
-- [From Arduino To Automotive: How I Escaped The IDE And Owned The Bus](https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f)
-- [How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas](https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb)
+- [AI Hallucinations Are Still Not Solved](https://dev.to/theaidownside/ai-hallucinations-are-still-not-solved-1h97)
+- [Why Every AI Startup Looks the Same](https://dev.to/theaidownside/why-every-ai-startup-looks-the-same-3o5a)
+- [Why AI Benchmarks Mean Less Than You Think](https://dev.to/theaidownside/why-ai-benchmarks-mean-less-than-you-think-2o0k)
+- [The Problem With AI “Memory”](https://dev.to/theaidownside/the-problem-with-ai-memory-1jbm)
+- [When AI Refuses Perfectly Normal Requests](https://dev.to/theaidownside/when-ai-refuses-perfectly-normal-requests-4aa7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
