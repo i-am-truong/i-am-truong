@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Twenty-Five Million Rows in Five Seconds, and How to Check](https://dev.to/5c4989ca297ed/twenty-five-million-rows-in-five-seconds-and-how-to-check-4k1g)
-- [Building ASHA: A Real-Time Multi-Agent Voice AI Health Guide for Bharat](https://dev.to/muthukkumaran_b/building-asha-a-real-time-multi-agent-voice-ai-health-guide-for-bharat-8ja)
-- [Five things that break when you move from Jest to Vitest](https://dev.to/msakai/five-things-that-break-when-you-move-from-jest-to-vitest-3g3p)
-- [Google Pay Integration in Flutter with One Button](https://dev.to/mryadavgulshan/google-pay-integration-in-flutter-with-one-button-1kj9)
-- [Archi Semantic Core: Using Archi Models from TypeScript](https://dev.to/continuous-drivenarchitecture/archi-semantic-core-using-archi-models-from-typescript-171n)
+- [The Twenty-Hour Fuse](https://dev.to/jeromefromhk/the-twenty-hour-fuse-2kgn)
+- [No Jinja: What Replaces Templating When SQL Is an AST](https://dev.to/5c4989ca297ed/no-jinja-what-replaces-templating-when-sql-is-an-ast-2eb4)
+- [Coalescing the Stream](https://dev.to/jeromefromhk/coalescing-the-stream-145h)
+- [Two Clocks, Neither Lying](https://dev.to/jeromefromhk/two-clocks-neither-lying-4k2l)
+- [I open-sourced a tiny PHP library that turns a photo into a Pinterest pin.](https://dev.to/carlstarus/i-open-sourced-a-tiny-php-library-that-turns-a-photo-into-a-pinterest-pin-3982)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
