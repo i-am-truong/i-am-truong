@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ReClaim — Scalable, Campus-Centric Property Recovery via High-Dimensional Visual Search](https://dev.to/neeraj_ciju/reclaim-scalable-campus-centric-property-recovery-via-high-dimensional-visual-search-2106)
-- [I Built a Production E-commerce System — Here’s What I Learned](https://dev.to/themodernweb/i-built-a-production-e-commerce-system-heres-what-i-learned-3f8a)
-- [Agentic AI for Production Support: Moving from Alerts to Intelligent Incident Resolution](https://dev.to/dev_hajare_d11ce990734a91/agentic-ai-for-production-support-moving-from-alerts-to-intelligent-incident-resolution-d9g)
-- [I built the same automation in n8n, Make, and Zapier. One died on the free tier.](https://dev.to/shipsitself/i-built-the-same-automation-in-n8n-make-and-zapier-one-died-on-the-free-tier-212n)
-- [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
+- [What Happens When an LLM Never Reads Beyond Fifth Grade?](https://dev.to/kaixintelligence/what-happens-when-an-llm-never-reads-beyond-fifth-grade-phj)
+- [Why your CSV diff tool is lying to you &lpar;and how to fix it&rpar;](https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm)
+- [Letting an LLM call your APIs without losing sleep](https://dev.to/ranaharoon3222/letting-an-llm-call-your-apis-without-losing-sleep-3fa4)
+- [You Are the Shadow AI Your Security Team Is Worried About](https://dev.to/nodevguy/you-are-the-shadow-ai-your-security-team-is-worried-about-7fa)
+- [Your Coding Agent&#39;s Supply Chain Is a Mess. Here&#39;s How to Harden It.](https://dev.to/nodevguy/your-coding-agents-supply-chain-is-a-mess-heres-how-to-harden-it-40fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
