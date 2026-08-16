@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5gl9)
-- [Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs](https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02)
-- [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
-- [How PDF &amp; Document Parsers Actually Work Under the Hood](https://dev.to/tony_stark_h/how-pdf-document-parsers-actually-work-under-the-hood-16mp)
+- [From Neural Networks to LLMs: The Mental Model I Was Missing](https://dev.to/priyankaa/from-neural-networks-to-llms-a-developers-mental-model-55a6)
+- [I have built the same pipeline five times. The fifth took 68 minutes.](https://dev.to/upadhyayhari_/i-have-built-the-same-pipeline-five-times-the-fifth-took-68-minutes-eem)
+- [Foody](https://dev.to/aritra_adak_1186/foody-4ap6)
+- [Post Quantum TLS: What Hybrid Key Exchange Actually Changes](https://dev.to/michaelcarter09/post-quantum-tls-what-hybrid-key-exchange-actually-changes-4h9b)
+- [BarkToTheFuture — What Is Your Dog REALLY Thinking?](https://dev.to/muhammad_zeeshan_6499a22a/barktothefuture-what-is-your-dog-really-thinking-54fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
