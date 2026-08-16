@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why a static Three.js scene still cooks your phone, and the dirty-flag fix](https://dev.to/dheerajakula/why-a-static-threejs-scene-still-cooks-your-phone-and-the-dirty-flag-fix-3a6h)
-- [Why programmatic inserts don&#39;t wrap on iOS multiline TextInput, and the one-line native fix](https://dev.to/dheerajakula/why-programmatic-inserts-dont-wrap-on-ios-multiline-textinput-and-the-one-line-native-fix-3di1)
-- [Why a two-user Convex chat app read tens of MB a day](https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k)
-- [OrioleDB Multi-Version Concurrency Control](https://dev.to/franckpachot/orioledb-multi-version-concurrency-control-43d)
-- [Cleared Kimi Slides Repository Leaves Its Core Claims Unverifiable](https://dev.to/dd8888/cleared-kimi-slides-repository-leaves-its-core-claims-unverifiable-5f0)
+- [From Manual Clicking to Infrastructure as Code: My Terraform &amp; CloudFormation Journey — Like Leveling Up in Zelda](https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no)
+- [Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud &amp; More Compared](https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c)
+- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
+- [Agent State, Memory &amp; Checkpointing: Three Things That Sound Similar but Aren’t](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-three-things-that-sound-similar-but-arent-5dg9)
+- [Same Request Sent Twice: How Idempotency Prevents Duplicate Payments](https://dev.to/suyash_dhakal/same-request-sent-twice-how-idempotency-prevents-duplicate-payments-3g8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
