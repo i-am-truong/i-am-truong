@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [😸Catbot Integration, AI Office, Cat Mode &lpar;AI Avatar v17: VS Code and Chrome Extension&rpar;](https://dev.to/webdeveloperhyper/catbot-integration-ai-office-cat-mode-ai-avatar-v17-vs-code-and-chrome-extension-2f26)
+- [I built a production-ready Shopify Hydrogen theme and open-sourced it](https://dev.to/ozgursagiroglu/i-built-a-production-ready-shopify-hydrogen-theme-and-open-sourced-it-1891)
 - [Nintendo Hotline – What can Product Managers learn?](https://dev.to/h-j/nintendo-hotline-what-can-product-managers-learn-2gmj)
 - [Building AI Prompt Lab with Java 21, Spring Boot and React 19](https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8)
 - [What Actually Happens When You UPDATE a Row in PostgreSQL?](https://dev.to/ujjwal_011/what-actually-happens-when-you-update-a-row-in-postgresql-2nbk)
-- [AI Can Find the Failure. Who Decides What the Fix Should Be?](https://dev.to/praiztech/ai-can-find-the-failure-who-decides-what-the-fix-should-be-18o5)
-- [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
