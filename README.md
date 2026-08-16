@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React useLatest Hook: Read Fresh State in Async Callbacks &lpar;2026&rpar;](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
-- [How I Cut MCP Token Usage by 91% &lpar;and Learned a Humbling Lesson About Tokenizers&rpar;](https://dev.to/mcptokensaver/how-i-cut-mcp-token-usage-by-91-and-learned-a-humbling-lesson-about-tokenizers-5hl1)
-- [The AI revolution that fits on your phone](https://dev.to/dev-into-space/the-ai-revolution-that-fits-on-your-phone-4e44)
-- [Single Agent vs Multi-Agent Systems: When to Split](https://dev.to/mryadavgulshan/single-agent-vs-multi-agent-systems-when-to-split-nbp)
-- [ARPU Is the Wrong Shape for a Multi-Surface Ad Business](https://dev.to/corpdigest/arpu-is-the-wrong-shape-for-a-multi-surface-ad-business-4com)
+- [Tenant-Aware Speech-to-Text Explained — MP3/WAV File Uploads Across US/EU in 2026](https://dev.to/colbyhayes3521/tenant-aware-speech-to-text-explained-mp3wav-file-uploads-across-useu-in-2026-nec)
+- [&#39;We&#39;ll fix it later&#39; is a loan. Here&#39;s the interest rate](https://dev.to/dev-into-space/well-fix-it-later-is-a-loan-heres-the-interest-rate-34ej)
+- [The actual cost of shipping an iOS app in 2026](https://dev.to/maclessdev/the-actual-cost-of-shipping-an-ios-app-in-2026-4242)
+- [GitHub Actions&#39; free macOS minutes, explained](https://dev.to/maclessdev/github-actions-free-macos-minutes-explained-33p7)
+- [Context Is a Platform Capability Now](https://dev.to/vscarpenter/context-is-a-platform-capability-now-2c7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
