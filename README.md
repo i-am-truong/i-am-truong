@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dual-Graph Drift Detection for Solo Devs: What Happens When Your Docs and Your Code Start Talking to Each Other](https://dev.to/dexterlung/dual-graph-drift-detection-for-solo-devs-what-happens-when-your-docs-and-your-code-start-talking-522h)
-- [When &quot;Hidden&quot; Reasoning Isn&#39;t Hidden: The OpenAI/Anthropic/Google Encrypted Trace Replay Bug](https://dev.to/coridev/when-hidden-reasoning-isnt-hidden-the-openaianthropicgoogle-encrypted-trace-replay-bug-2a5j)
-- [One Migration, Start to Finish](https://dev.to/michaelnocito/one-migration-start-to-finish-649)
-- [What Data Migration Actually Is](https://dev.to/michaelnocito/what-data-migration-actually-is-2nem)
-- [Stage 6: User Acceptance Testing](https://dev.to/michaelnocito/stage-6-user-acceptance-testing-1ed2)
+- [The JavaScript Event Loop, Visualized](https://dev.to/audreyhal/the-javascript-event-loop-visualized-4dp7)
+- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
+- [Apple Pay in Flutter: The Easiest Implementation](https://dev.to/mryadavgulshan/apple-pay-in-flutter-the-easiest-implementation-17he)
+- [OAuth Tokens Were Always the Weak Link. AI Agents Just Made It Worse](https://dev.to/coridev/oauth-tokens-were-always-the-weak-link-ai-agents-just-made-it-worse-4dc6)
+- [Backblaze B2 vs Self-Hosted S3: Which Saves More Money?](https://dev.to/ethan-carter/backblaze-b2-vs-self-hosted-s3-which-saves-more-money-4gp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
