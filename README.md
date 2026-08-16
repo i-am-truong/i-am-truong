@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Yield on cost — the dividend metric DRIP quietly builds](https://dev.to/a353551071/yield-on-cost-the-dividend-metric-drip-quietly-builds-pgm)
-- [Why HEIC breaks every browser-based image tool, and what it costs to fix](https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g)
-- [An App Generator That Verifies Everything Except Its Parser](https://dev.to/megapixel99/an-app-generator-that-verifies-everything-except-its-parser-42dk)
-- [We treat a missing signature as suspicious. Should we?](https://dev.to/layercall/we-treat-a-missing-signature-as-suspicious-should-we-819)
-- [Phase 8 — Making It Trustworthy: Hardening a FastAPI App with an Audit, a Test Net, and a Logging Bug I Typed Twice](https://dev.to/silentcarry/phase-8-making-it-trustworthy-hardening-a-fastapi-app-with-an-audit-a-test-net-and-a-logging-11c8)
+- [Answer engine optimization: the same work, a clearer name](https://dev.to/bulti_global/answer-engine-optimization-the-same-work-a-clearer-name-2ehg)
+- [Cursor Learn Mode: teach a desktop workflow by demonstrating it](https://dev.to/liad07/cursor-learn-mode-teach-a-desktop-workflow-by-demonstrating-it-hm3)
+- [Tired of broken React Native environments? I built a CLI to fix that](https://dev.to/s0ci3tybug/tired-of-broken-react-native-environments-i-built-a-cli-to-fix-that-2je8)
+- [We benchmarked CognoDB against four graph databases. Here&#39;s what &quot;free tier&quot; actually buys you.](https://dev.to/hassanyosuf/we-benchmarked-cognodb-against-four-graph-databases-heres-what-free-tier-actually-buys-you-2b3e)
+- [I got tired of cookie banners so I turned my SaaS analytics into a pixel town](https://dev.to/omoll/i-got-tired-of-cookie-banners-so-i-turned-my-saas-analytics-into-a-pixel-town-1di8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
