@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The $0 Distribution Playbook for MCP Servers: 12 Channels, 30 Days, Real Numbers](https://dev.to/goodjobwilliam/the-0-distribution-playbook-for-mcp-servers-12-channels-30-days-real-numbers-b4o)
-- [MCP Transports: stdio vs HTTP, and What Just Changed](https://dev.to/studiomeyer_io/mcp-transports-stdio-vs-http-and-what-just-changed-41fi)
-- [International Personal Shopping Management Dashboard | PHP &amp; MySQL](https://dev.to/janrosedev/international-personal-shopping-management-dashboard-php-mysql-1191)
-- [How do you unit test an agent skill?](https://dev.to/danielwaltersdev/how-do-you-unit-test-an-agent-skill-1f82)
-- [Building a Static Encyclopedia with 1,000+ Entries, 8 Languages, and Zero Backend](https://dev.to/bigbenbena/building-a-static-encyclopedia-with-1000-entries-8-languages-and-zero-backend-gpd)
+- [So…#WTH is State Machine Replication?](https://dev.to/tanay_karmarkar_fe8eb6dcd/sowth-is-state-machine-replication-1oek)
+- [Building Multi-Agent Systems That Actually Scale: Lessons from Hermes, LobeHub, and the 2025 AI Agent Explosion](https://dev.to/tamizuddin/building-multi-agent-systems-that-actually-scale-lessons-from-hermes-lobehub-and-the-2025-ai-42gh)
+- [Un PDF piégé transforme l&#39;agent IA d&#39;Atlassian en espion](https://dev.to/thibault_monteiro/un-pdf-piege-transforme-lagent-ia-datlassian-en-espion-3c89)
+- [How to Build a Web App in 2026 - The UK Developer&#39;s Guide](https://dev.to/mecanik-dev/how-to-build-a-web-app-in-2026-the-uk-developers-guide-h29)
+- [Ai in Docs - Saviour of Dev&#39;s](https://dev.to/shanitiwari/ai-in-docs-saviour-of-devs-409k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
