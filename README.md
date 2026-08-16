@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shipping Assumptions: A Reliability Stack for AI-Generated Code](https://dev.to/copyleftdev/shipping-assumptions-a-reliability-stack-for-ai-generated-code-3p9f)
 - [So, I Vibe Coded A Way Out, Again.](https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb)
 - [PawPal is your New Dog&#39;s AI Sidekick 🐶⭐](https://dev.to/ishikathakur7802/pawpal-is-your-new-dogs-ai-sidekick-3bc8)
 - [Sidewalk to Summit — build log](https://dev.to/ohkpond/sidewalk-to-summit-build-log-4kp4)
 - [Cipr and Ciprnode zero](https://dev.to/barriteau/cipr-and-ciprnode-zero-1b89)
-- [Why await Doesn&#39;t Make JavaScript Run in Order](https://dev.to/designly/why-await-doesnt-make-javascript-run-in-order-1h0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
