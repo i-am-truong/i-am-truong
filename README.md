@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Just Wanted a WhatsApp Channel That Teaches Me One German Word a Day. It Took a Week and a Git History Rewrite.](https://dev.to/btkcodedev/i-just-wanted-a-whatsapp-channel-that-teaches-me-one-german-word-a-day-it-took-a-week-and-a-git-3a5k)
-- [&quot;Cron &#39;every 2 weeks&#39; doesn&#39;t exist. Here&#39;s the expression that actually works.&quot;](https://dev.to/developer_tech/cron-every-2-weeks-doesnt-exist-heres-the-expression-that-actually-works-2n5)
-- [Demystifying &#39;Cold Starts&#39; in Serverless: Why Your App Sometimes Shivers](https://dev.to/saurav_tb_pandey/demystifying-cold-starts-in-serverless-why-your-app-sometimes-shivers-2db8)
-- [EmpowerAgro: Bringing Real-Time Crop Disease Detection to India’s Smallholder Farmers with Google AI](https://dev.to/ak270704/empoweragro-bringing-real-time-crop-disease-detection-to-indias-smallholder-farmers-with-google-ai-l4d)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa)
+- [Building a High-Performance Daily Ledger API: Asynchronous Concurrency &amp; Data Validation with FastAPI](https://dev.to/skyatriya/building-a-high-performance-daily-ledger-api-asynchronous-concurrency-data-validation-with-4f0h)
+- [Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90](https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij)
+- [AI/ML Research Digest — Aug 02, 2026](https://dev.to/olaughter/aiml-research-digest-aug-02-2026-228j)
+- [How I build a Next.js Tailwind marketing site in hours, not days](https://dev.to/nayankyada/how-i-build-a-nextjs-tailwind-marketing-site-in-hours-not-days-4pk2)
+- [I Built a 100% Free Alternative to Studio 3T + Compass](https://dev.to/hepta7/i-built-a-100-free-alternative-to-studio-3t-compass-4h14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
