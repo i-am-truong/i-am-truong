@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you form a group nobody can admit they&#39;re in?](https://dev.to/bigachiever/how-do-you-form-a-group-nobody-can-admit-theyre-in-2mjl)
+- [How to Automate Scheduled X Posts with Codex and xurl](https://dev.to/designly/how-to-automate-scheduled-x-posts-with-codex-and-xurl-4inb)
 - [Build One Guarded Prisma Endpoint, Then Break It Five Ways](https://dev.to/hellowwworld/build-one-guarded-prisma-endpoint-then-break-it-five-ways-3aj6)
+- [Designing a referral system that can&#39;t be gamed by throwaway accounts](https://dev.to/jexx/designing-a-referral-system-that-cant-be-gamed-by-throwaway-accounts-3dmn)
 - [I Tested DeepSeek vs Qwen vs Kimi vs GLM — Here&#39;s the Winner](https://dev.to/fiercedash/i-tested-deepseek-vs-qwen-vs-kimi-vs-glm-heres-the-winner-43pa)
-- [Balan Coffee &amp; Roastery — A Slow-Drip Vietnamese Coffee Landing Page](https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep)
-- [Graph Engineering Explained: The Missing Fifth Layer of AI Agent Architecture](https://dev.to/shakti_mishra_308e9f36b5d/graph-engineering-explained-the-missing-fifth-layer-of-ai-agent-architecture-5ab)
-- [Escape the Algorithm and Save Time: Build Your Own Feed with AI Automation](https://dev.to/dev_amrwael/escape-the-algorithm-and-save-time-build-your-own-feed-with-ai-automation-11h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
