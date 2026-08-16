@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ReClaim — Scalable, Campus-Centric Property Recovery via High-Dimensional Visual Search](https://dev.to/neeraj_ciju/reclaim-scalable-campus-centric-property-recovery-via-high-dimensional-visual-search-2106)
+- [I Built a Production E-commerce System — Here’s What I Learned](https://dev.to/themodernweb/i-built-a-production-e-commerce-system-heres-what-i-learned-3f8a)
+- [Agentic AI for Production Support: Moving from Alerts to Intelligent Incident Resolution](https://dev.to/dev_hajare_d11ce990734a91/agentic-ai-for-production-support-moving-from-alerts-to-intelligent-incident-resolution-d9g)
+- [I built the same automation in n8n, Make, and Zapier. One died on the free tier.](https://dev.to/shipsitself/i-built-the-same-automation-in-n8n-make-and-zapier-one-died-on-the-free-tier-212n)
 - [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
-- [Day 173 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-173-of-learning-mern-stack-36b5)
-- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-3ohj)
-- [Transformer Architecture Basics](https://dev.to/godofgeeks/transformer-architecture-basics-2ep2)
-- [Day 172 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-172-of-learning-mern-stack-42f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
