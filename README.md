@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sofya: The New Programming Language That&#39;s Easier Than Python](https://dev.to/simple_code/sofya-the-new-programming-language-thats-easier-than-python-364a)
+- [Are passkeys still safe after Pass-ta-key?](https://dev.to/akashdas/are-passkeys-still-safe-after-pass-ta-key-ij1)
+- [{{ $&lpar;&#39;Get Ready Post&#39;&rpar;.item.json.Title }}](https://dev.to/qmshahzad/-get-ready-postitemjsontitle--22e6)
+- [Claude Code Auto Mode Goes Default August 14](https://dev.to/akashdas/claude-code-auto-mode-goes-default-august-14-8f2)
 - [WikiPaw - Dog hunt through Wiki hopping](https://dev.to/himanshuc3/wikipaw-dog-hunt-through-wiki-hopping-lj7)
-- [I Logged Every AI Crawler for 34 Days. ChatGPT Outreads Googlebot](https://dev.to/achiya-automation/i-logged-every-ai-crawler-for-34-days-chatgpt-outreads-googlebot-369o)
-- [Docker Compose - orquestrando múltiplos containers](https://dev.to/apsis-cc/docker-compose-orquestrando-multiplos-containers-27hd)
-- [DevStacker was supposed to launch, but we found bugs💔](https://dev.to/eedainbhat/devstacker-was-supposed-to-launch-but-we-found-bugs-4emn)
-- [Trend: Amodei predicts 1-person billion-dollar company](https://dev.to/frederikvonderheyden/trend-amodei-predicts-1-person-billion-dollar-company-53oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
