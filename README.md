@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Performance Testing with Apache JMeter](https://dev.to/shell_qa/a-beginners-guide-to-performance-testing-with-apache-jmeter-3on9)
+- [React Native Architecture: 8 Folder Structures for Scalable Apps](https://dev.to/prabhasg56/react-native-architecture-8-folder-structures-for-scalable-apps-41fe)
+- [Your Dog Can&#39;t Tell You Where It Hurts. MATCH_RECOGNIZE in Snowflake Can.](https://dev.to/soumyadeepdey/your-dog-cant-tell-you-where-it-hurts-matchrecognize-in-snowflake-can-1pan)
+- [Setting Up Playwright &amp; Cucumber UI Tests in Azure DevOps with LambdaTest](https://dev.to/shell_qa/setting-up-playwright-cucumber-ui-tests-in-azure-devops-with-lambdatest-2cld)
 - [var in JavaScript](https://dev.to/abishek_m_82/understanding-var-in-javascript-21fp)
-- [How I&#39;m Learning AI in Public: My Roadmap](https://dev.to/anushka190921/how-im-learning-ai-in-public-my-roadmap-1988)
-- [i18n sin gettext: traducciones en JSON con claves de punto](https://dev.to/isazajuancarlos/i18n-sin-gettext-traducciones-en-json-con-claves-de-punto-48fd)
-- [I measured 7,032 WordPress plugins to find out how anyone gets their first install](https://dev.to/stackedboost/i-measured-7032-wordpress-plugins-to-find-out-how-anyone-gets-their-first-install-g4m)
-- [The Ultimate Code Review Checklist for Data Validation Frameworks](https://dev.to/shell_qa/the-ultimate-code-review-checklist-for-data-validation-frameworks-4ola)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
