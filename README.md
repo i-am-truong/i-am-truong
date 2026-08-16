@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Soft Boil — six minutes, and you cannot get it wrong](https://dev.to/maneesh_thakur_d16c2852fa/soft-boil-six-minutes-and-you-cannot-get-it-wrong-5dj6)
-- [A Game Wallet Is More Than a Number: Handling Retries and Concurrency](https://dev.to/zzzu2221/a-game-wallet-is-more-than-a-number-handling-retries-and-concurrency-2al3)
-- [Android’s Walled Garden: Google’s Developer Verification Lockdown That Changes Everything](https://dev.to/ezhil_sivarajsr/androids-walled-garden-googles-developer-verification-lockdown-that-changes-everything-27po)
-- [Reverse-Engineering SWIO: Why Existing CH32V003 Programmers Fail and How I Built One That Works](https://dev.to/ishu1519/i-built-an-esp32-s3-ch32v003-swio-programmer-51p8)
-- [What the browser can actually tell you about your hardware &lpar;and what it can&#39;t&rpar;](https://dev.to/member_2ef2ebd8/what-the-browser-can-actually-tell-you-about-your-hardware-and-what-it-cant-2d2j)
+- [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
+- [Day 173 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-173-of-learning-mern-stack-36b5)
+- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-3ohj)
+- [Transformer Architecture Basics](https://dev.to/godofgeeks/transformer-architecture-basics-2ep2)
+- [Day 172 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-172-of-learning-mern-stack-42f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
