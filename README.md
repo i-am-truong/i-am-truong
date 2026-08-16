@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [So…#WTH is State Machine Replication?](https://dev.to/tanay_karmarkar_fe8eb6dcd/sowth-is-state-machine-replication-1oek)
-- [Building Multi-Agent Systems That Actually Scale: Lessons from Hermes, LobeHub, and the 2025 AI Agent Explosion](https://dev.to/tamizuddin/building-multi-agent-systems-that-actually-scale-lessons-from-hermes-lobehub-and-the-2025-ai-42gh)
-- [Un PDF piégé transforme l&#39;agent IA d&#39;Atlassian en espion](https://dev.to/thibault_monteiro/un-pdf-piege-transforme-lagent-ia-datlassian-en-espion-3c89)
-- [How to Build a Web App in 2026 - The UK Developer&#39;s Guide](https://dev.to/mecanik-dev/how-to-build-a-web-app-in-2026-the-uk-developers-guide-h29)
-- [Ai in Docs - Saviour of Dev&#39;s](https://dev.to/shanitiwari/ai-in-docs-saviour-of-devs-409k)
+- [Soft Boil — six minutes, and you cannot get it wrong](https://dev.to/maneesh_thakur_d16c2852fa/soft-boil-six-minutes-and-you-cannot-get-it-wrong-5dj6)
+- [A Game Wallet Is More Than a Number: Handling Retries and Concurrency](https://dev.to/zzzu2221/a-game-wallet-is-more-than-a-number-handling-retries-and-concurrency-2al3)
+- [Android’s Walled Garden: Google’s Developer Verification Lockdown That Changes Everything](https://dev.to/ezhil_sivarajsr/androids-walled-garden-googles-developer-verification-lockdown-that-changes-everything-27po)
+- [Reverse-Engineering SWIO: Why Existing CH32V003 Programmers Fail and How I Built One That Works](https://dev.to/ishu1519/i-built-an-esp32-s3-ch32v003-swio-programmer-51p8)
+- [What the browser can actually tell you about your hardware &lpar;and what it can&#39;t&rpar;](https://dev.to/member_2ef2ebd8/what-the-browser-can-actually-tell-you-about-your-hardware-and-what-it-cant-2d2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
