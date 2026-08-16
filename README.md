@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [So, I Vibe Coded A Way Out, Again.](https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb)
+- [PawPal is your New Dog&#39;s AI Sidekick 🐶⭐](https://dev.to/ishikathakur7802/pawpal-is-your-new-dogs-ai-sidekick-3bc8)
+- [Sidewalk to Summit — build log](https://dev.to/ohkpond/sidewalk-to-summit-build-log-4kp4)
 - [Cipr and Ciprnode zero](https://dev.to/barriteau/cipr-and-ciprnode-zero-1b89)
-- [Reverse Audio at Scale: A Debugging Playbook for Engineers Who Hate Surprise Sibilance](https://dev.to/lizely/reverse-audio-at-scale-a-debugging-playbook-for-engineers-who-hate-surprise-sibilance-47h9)
-- [Building a Customer Service AI Agent That Executes Workflows &lpar;Not Just Answers Questions&rpar; - Full Architecture](https://dev.to/dextralabs/building-a-customer-service-ai-agent-that-executes-workflows-not-just-answers-questions-full-4dd3)
-- [What are you working on? #01](https://dev.to/timhilehin1/what-are-you-working-on-01-3k4a)
+- [Why await Doesn&#39;t Make JavaScript Run in Order](https://dev.to/designly/why-await-doesnt-make-javascript-run-in-order-1h0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
