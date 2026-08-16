@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Error Capture: Tracking HTTP Exceptions Through Filter and Interceptor Boundaries](https://dev.to/elvrythn486209/nestjs-error-capture-tracking-http-exceptions-through-filter-and-interceptor-boundaries-3f6i)
-- [Stop Sending Your Vitals to the Cloud: Running Llama-3 Locally in the Browser with WebLLM &amp; WebGPU 🥑](https://dev.to/wellallytech/stop-sending-your-vitals-to-the-cloud-running-llama-3-locally-in-the-browser-with-webllm-webgpu-16jc)
-- [In the Beginning...](https://dev.to/professortom/in-the-beginning-5amp)
-- [A stale response can quietly break a recommendation tool](https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c)
-- [Building a Multi-Agent System in TypeScript](https://dev.to/kristinz/building-a-multi-agent-system-in-typescript-58ki)
+- [React useLatest Hook: Read Fresh State in Async Callbacks &lpar;2026&rpar;](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
+- [How I Cut MCP Token Usage by 91% &lpar;and Learned a Humbling Lesson About Tokenizers&rpar;](https://dev.to/mcptokensaver/how-i-cut-mcp-token-usage-by-91-and-learned-a-humbling-lesson-about-tokenizers-5hl1)
+- [The AI revolution that fits on your phone](https://dev.to/dev-into-space/the-ai-revolution-that-fits-on-your-phone-4e44)
+- [Single Agent vs Multi-Agent Systems: When to Split](https://dev.to/mryadavgulshan/single-agent-vs-multi-agent-systems-when-to-split-nbp)
+- [ARPU Is the Wrong Shape for a Multi-Surface Ad Business](https://dev.to/corpdigest/arpu-is-the-wrong-shape-for-a-multi-surface-ad-business-4com)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
