@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you catch it when a model update changes your agent&#39;s tool calls?](https://dev.to/divyansh_rai_8ac27714ba7e/how-do-you-catch-it-when-a-model-update-changes-your-agents-tool-calls-1bpf)
+- [Learning to Speak C &amp; Cython: My GSoC Summer with Astropy](https://dev.to/reemhamraz/learning-to-speak-c-cython-my-gsoc-summer-with-astropy-1fh0)
+- [Unpopular Opinion: Why I’m an AI Skeptic](https://dev.to/aws-builders/unpopular-opinion-why-im-an-ai-skeptic-35cf)
 - [[Boost]](https://dev.to/easbarba/-1336)
-- [The Model Didn’t Get Dumber. My Agent Skills Got Stale.](https://dev.to/evbermudez/the-model-didnt-get-dumber-my-agent-skills-got-stale-8cm)
-- [DeepSeek Code: A TUI for working in your terminal with DeepSeek!](https://dev.to/marcelo_maia/deepseek-code-a-tui-for-working-in-your-terminal-with-deepseek-2o4k)
-- [We scanned our own production site and found 8 vulnerabilities. Here’s the list.](https://dev.to/codecrack01/we-scanned-our-own-production-site-and-found-8-vulnerabilities-heres-the-list-5c50)
-- [How Much VRAM Do You Really Need for Local LLMs?](https://dev.to/apeder/how-much-vram-do-you-really-need-for-local-llms-142n)
+- [WordPress Block Themes vs Classic Themes: Should You Switch in 2026?](https://dev.to/muhammadmedhat/wordpress-block-themes-vs-classic-themes-should-you-switch-in-2026-2e1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
