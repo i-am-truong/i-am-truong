@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet The Builder: Why I&#39;m In for Cohort 3](https://dev.to/mahajanashok/meet-the-builder-why-im-in-for-cohort-3-420p)
-- [I Built AI DevList Because Finding AI Content Is No Longer the Problem](https://dev.to/younes_bentlili_9480340f/i-built-ai-devlist-because-finding-ai-content-is-no-longer-the-problem-502b)
-- [Can it scale? &lpar;First Part&rpar;](https://dev.to/h-j/can-it-scale-first-part-54kn)
-- [Why Statistics Matters in Data Science](https://dev.to/sharonnyabuto/why-statistics-matters-in-data-science-4ihl)
-- [🐶 Can AI Understand Your Dog? Meet Dogesh — Your Dog, Decoded.](https://dev.to/anmolpawar_/can-ai-understand-your-dog-meet-dogesh-your-dog-decoded-3gb6)
+- [Building an Enterprise Data Validation Framework: From Architecture to Version Control](https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57)
+- [Don&#39;t Start With RAG: Lessons From Building an Automotive AI Pipeline](https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc)
+- [RAG Retrieval Architectures: When Better Embeddings Stop Helping](https://dev.to/arvid_andersson_0a598fa45/rag-retrieval-architectures-when-better-embeddings-stop-helping-3ejm)
+- [Building Local-First AI Apps: MCP Integration, Offline Memory &amp; Cost Optimization](https://dev.to/tamizuddin/building-local-first-ai-apps-mcp-integration-offline-memory-cost-optimization-ha)
+- [A Practical Guide to jq in Shell Scripts](https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
