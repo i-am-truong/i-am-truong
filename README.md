@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you form a group nobody can admit they&#39;re in?](https://dev.to/bigachiever/how-do-you-form-a-group-nobody-can-admit-theyre-in-2mjl)
-- [How to Automate Scheduled X Posts with Codex and xurl](https://dev.to/designly/how-to-automate-scheduled-x-posts-with-codex-and-xurl-4inb)
-- [Build One Guarded Prisma Endpoint, Then Break It Five Ways](https://dev.to/hellowwworld/build-one-guarded-prisma-endpoint-then-break-it-five-ways-3aj6)
-- [Designing a referral system that can&#39;t be gamed by throwaway accounts](https://dev.to/jexx/designing-a-referral-system-that-cant-be-gamed-by-throwaway-accounts-3dmn)
-- [I Tested DeepSeek vs Qwen vs Kimi vs GLM — Here&#39;s the Winner](https://dev.to/fiercedash/i-tested-deepseek-vs-qwen-vs-kimi-vs-glm-heres-the-winner-43pa)
+- [So, I Vibe Coded A Way Out, Again.](https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb)
+- [Cipr and Ciprnode zero](https://dev.to/barriteau/cipr-and-ciprnode-zero-1b89)
+- [Reverse Audio at Scale: A Debugging Playbook for Engineers Who Hate Surprise Sibilance](https://dev.to/lizely/reverse-audio-at-scale-a-debugging-playbook-for-engineers-who-hate-surprise-sibilance-47h9)
+- [Building a Customer Service AI Agent That Executes Workflows &lpar;Not Just Answers Questions&rpar; - Full Architecture](https://dev.to/dextralabs/building-a-customer-service-ai-agent-that-executes-workflows-not-just-answers-questions-full-4dd3)
+- [What are you working on? #01](https://dev.to/timhilehin1/what-are-you-working-on-01-3k4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
