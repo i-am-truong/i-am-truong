@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trend: Forbes Solo-Founder AI Playbook](https://dev.to/frederikvonderheyden/trend-forbes-solo-founder-ai-playbook-38fj)
-- [The Introvert with AI Intelligence: How AI Can Turn Deep Thinking into Lightning-Fast Innovation](https://dev.to/ranjancse/the-introvert-with-ai-intelligence-how-ai-can-turn-deep-thinking-into-lightning-fast-innovation-47l2)
-- [I re-scanned the launches I flagged last week — here&#39;s who actually shipped the fixes](https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k)
-- [What&#39;s actually inside an .eml file &lpar;and how to read one without Outlook&rpar;](https://dev.to/caseymarlin/whats-actually-inside-an-eml-file-and-how-to-read-one-without-outlook-3jp1)
-- [I Fixed a Modal That Said “Accessible” But Wasn’t](https://dev.to/pawanatoshi/i-fixed-a-modal-that-said-accessible-but-wasnt-3bei)
+- [WikiPaw - Dog hunt through Wiki hopping](https://dev.to/himanshuc3/wikipaw-dog-hunt-through-wiki-hopping-lj7)
+- [I Logged Every AI Crawler for 34 Days. ChatGPT Outreads Googlebot](https://dev.to/achiya-automation/i-logged-every-ai-crawler-for-34-days-chatgpt-outreads-googlebot-369o)
+- [Docker Compose - orquestrando múltiplos containers](https://dev.to/apsis-cc/docker-compose-orquestrando-multiplos-containers-27hd)
+- [DevStacker was supposed to launch, but we found bugs💔](https://dev.to/eedainbhat/devstacker-was-supposed-to-launch-but-we-found-bugs-4emn)
+- [Trend: Amodei predicts 1-person billion-dollar company](https://dev.to/frederikvonderheyden/trend-amodei-predicts-1-person-billion-dollar-company-53oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
