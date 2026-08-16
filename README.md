@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Enterprise Data Validation Framework: From Architecture to Version Control](https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57)
-- [Don&#39;t Start With RAG: Lessons From Building an Automotive AI Pipeline](https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc)
-- [RAG Retrieval Architectures: When Better Embeddings Stop Helping](https://dev.to/arvid_andersson_0a598fa45/rag-retrieval-architectures-when-better-embeddings-stop-helping-3ejm)
-- [Building Local-First AI Apps: MCP Integration, Offline Memory &amp; Cost Optimization](https://dev.to/tamizuddin/building-local-first-ai-apps-mcp-integration-offline-memory-cost-optimization-ha)
-- [A Practical Guide to jq in Shell Scripts](https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6)
+- [var in JavaScript](https://dev.to/abishek_m_82/understanding-var-in-javascript-21fp)
+- [How I&#39;m Learning AI in Public: My Roadmap](https://dev.to/anushka190921/how-im-learning-ai-in-public-my-roadmap-1988)
+- [i18n sin gettext: traducciones en JSON con claves de punto](https://dev.to/isazajuancarlos/i18n-sin-gettext-traducciones-en-json-con-claves-de-punto-48fd)
+- [I measured 7,032 WordPress plugins to find out how anyone gets their first install](https://dev.to/stackedboost/i-measured-7032-wordpress-plugins-to-find-out-how-anyone-gets-their-first-install-g4m)
+- [The Ultimate Code Review Checklist for Data Validation Frameworks](https://dev.to/shell_qa/the-ultimate-code-review-checklist-for-data-validation-frameworks-4ola)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
