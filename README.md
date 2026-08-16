@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies](https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73)
-- [Building a Secure Enterprise AI Assistant: A Complete Architecture &amp; Usage Guide](https://dev.to/shell_qa/building-a-secure-enterprise-ai-assistant-a-complete-architecture-usage-guide-1gd3)
-- [A Detector That Only Ever Says &quot;Clean&quot; Proves Nothing](https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii)
-- [CanineIQ - Are You Actually Ready for the Dog You Want?](https://dev.to/an0n99x/canineiq-are-you-actually-ready-for-the-dog-you-want-c88)
-- [We wrote integrations for two marketplaces and skipped the shared interface](https://dev.to/fastogt_team/we-wrote-integrations-for-two-marketplaces-and-skipped-the-shared-interface-ig5)
+- [Meet The Builder: Why I&#39;m In for Cohort 3](https://dev.to/mahajanashok/meet-the-builder-why-im-in-for-cohort-3-420p)
+- [I Built AI DevList Because Finding AI Content Is No Longer the Problem](https://dev.to/younes_bentlili_9480340f/i-built-ai-devlist-because-finding-ai-content-is-no-longer-the-problem-502b)
+- [Can it scale? &lpar;First Part&rpar;](https://dev.to/h-j/can-it-scale-first-part-54kn)
+- [Why Statistics Matters in Data Science](https://dev.to/sharonnyabuto/why-statistics-matters-in-data-science-4ihl)
+- [🐶 Can AI Understand Your Dog? Meet Dogesh — Your Dog, Decoded.](https://dev.to/anmolpawar_/can-ai-understand-your-dog-meet-dogesh-your-dog-decoded-3gb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
