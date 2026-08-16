@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Small Business Agent Does Not Need Every Tool](https://dev.to/sphillips1337/your-small-business-agent-does-not-need-every-tool-5fc6)
+- [The Safest First MCP Workflow Is a Draft Queue, Not an Autonomous Agent](https://dev.to/sphillips1337/the-safest-first-mcp-workflow-is-a-draft-queue-not-an-autonomous-agent-1jbf)
+- [Supercharging Test Automation with Custom AI Agents and Secure GPT](https://dev.to/shell_qa/supercharging-test-automation-with-custom-ai-agents-and-sgpt-30jb)
+- [Scaling Infrastructure &amp; the FinOps Governance That Actually Catches the Bill](https://dev.to/shoaibalimir/scaling-infrastructure-the-finops-governance-that-actually-catches-the-bill-364b)
 - [What This Dog Actually Costs](https://dev.to/lewisawe/what-this-dog-actually-costs-37a)
-- [I Built DeepRead: An Evidence-First Reading Skill for Articles, Books, and PDFs](https://dev.to/_312a710fe7837e8fcea442/i-built-deepread-an-evidence-first-reading-skill-for-articles-books-and-pdfs-45e8)
-- [Complete Guide to Building a Scalable Java-Selenium Automation Framework](https://dev.to/shefali_qa/complete-guide-to-building-a-scalable-java-selenium-automation-framework-44fg)
-- [Playwright JavaScript Framework Best Practices](https://dev.to/shefali_qa/playwright-javascript-framework-best-practices-1b38)
-- [authority-auth: Stop Rolling Your Own Auth — A Framework-Agnostic Python Library](https://dev.to/rkriad585/authority-auth-stop-rolling-your-own-auth-a-framework-agnostic-python-library-232b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
