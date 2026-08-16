@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build One Guarded Prisma Endpoint, Then Break It Five Ways](https://dev.to/hellowwworld/build-one-guarded-prisma-endpoint-then-break-it-five-ways-3aj6)
+- [I Tested DeepSeek vs Qwen vs Kimi vs GLM — Here&#39;s the Winner](https://dev.to/fiercedash/i-tested-deepseek-vs-qwen-vs-kimi-vs-glm-heres-the-winner-43pa)
 - [Balan Coffee &amp; Roastery — A Slow-Drip Vietnamese Coffee Landing Page](https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep)
+- [Graph Engineering Explained: The Missing Fifth Layer of AI Agent Architecture](https://dev.to/shakti_mishra_308e9f36b5d/graph-engineering-explained-the-missing-fifth-layer-of-ai-agent-architecture-5ab)
 - [Escape the Algorithm and Save Time: Build Your Own Feed with AI Automation](https://dev.to/dev_amrwael/escape-the-algorithm-and-save-time-build-your-own-feed-with-ai-automation-11h1)
-- [Why Google Doesn&#39;t Index Some WordPress Pages: A Practical SEO Checklist](https://dev.to/mohamedmouatassim/why-google-doesnt-index-some-wordpress-pages-a-practical-seo-checklist-1m48)
-- [From Manual Clicking to Infrastructure as Code: My Terraform &amp; CloudFormation Journey — Like Leveling Up in Zelda](https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no)
-- [AI e mondo del lavoro: rischi, numeri e nuove professioni &lpar;speciale AI Breakfast&rpar;](https://dev.to/andrea_schiona/ai-e-mondo-del-lavoro-rischi-numeri-e-nuove-professioni-speciale-ai-breakfast-a12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
