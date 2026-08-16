@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sofya: The New Programming Language That&#39;s Easier Than Python](https://dev.to/simple_code/sofya-the-new-programming-language-thats-easier-than-python-364a)
-- [Are passkeys still safe after Pass-ta-key?](https://dev.to/akashdas/are-passkeys-still-safe-after-pass-ta-key-ij1)
-- [{{ $&lpar;&#39;Get Ready Post&#39;&rpar;.item.json.Title }}](https://dev.to/qmshahzad/-get-ready-postitemjsontitle--22e6)
-- [Claude Code Auto Mode Goes Default August 14](https://dev.to/akashdas/claude-code-auto-mode-goes-default-august-14-8f2)
-- [WikiPaw - Dog hunt through Wiki hopping](https://dev.to/himanshuc3/wikipaw-dog-hunt-through-wiki-hopping-lj7)
+- [Why I Built a Zero-Latency AI Utility Platform Running 100% in the Browser](https://dev.to/sir_lu_62bd118924537f9510/why-i-built-a-zero-latency-ai-utility-platform-running-100-in-the-browser-5fm4)
+- [Building UniFi Reactor: state-driven network automation for my Kubernetes homelab](https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50)
+- [How Coin Toss Statistics Actually Work: A Developer&#39;s Field Notes on Two-Outcome Generators](https://dev.to/lizely/how-coin-toss-statistics-actually-work-a-developers-field-notes-on-two-outcome-generators-2a38)
+- [I Finally Understood Linux Repositories &lpar;Main, Universe, Restricted &amp; Multiverse&rpar; as a Linux Mint Beginner](https://dev.to/sunilpradhan/i-finally-understood-linux-repositories-main-universe-restricted-multiverse-as-a-linux-mint-5daf)
+- [Slow Turn — nine birds, one fire, and twenty minutes of waiting](https://dev.to/maneesh_thakur_d16c2852fa/slow-turn-nine-birds-one-fire-and-twenty-minutes-of-waiting-1k17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
