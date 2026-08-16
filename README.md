@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Raku: a language that counts to infinity &lpar;Part 1&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-1-4h4l)
-- [Your dog walker says they went. This makes the walk say so too.](https://dev.to/arqamwd/your-dog-walker-says-they-went-this-makes-the-walk-say-so-too-29ai)
-- [How to Handle O365 Shared Mailboxes in CI/CD Test Automation](https://dev.to/shell_qa/how-to-handle-o365-shared-mailboxes-in-cicd-test-automation-pfa)
-- [How I Built a Chrome Extension to Analyze Viral Social Content &lpar;Statly&rpar;](https://dev.to/mthsocial/how-i-built-a-chrome-extension-to-analyze-viral-social-content-statly-1ebp)
-- [I&#39;ve decided to take back control of my brain in the era of ai](https://dev.to/zeejers/ive-decided-to-take-back-control-of-my-brain-in-the-era-of-ai-1inj)
+- [Why a static Three.js scene still cooks your phone, and the dirty-flag fix](https://dev.to/dheerajakula/why-a-static-threejs-scene-still-cooks-your-phone-and-the-dirty-flag-fix-3a6h)
+- [Why programmatic inserts don&#39;t wrap on iOS multiline TextInput, and the one-line native fix](https://dev.to/dheerajakula/why-programmatic-inserts-dont-wrap-on-ios-multiline-textinput-and-the-one-line-native-fix-3di1)
+- [Why a two-user Convex chat app read tens of MB a day](https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k)
+- [OrioleDB Multi-Version Concurrency Control](https://dev.to/franckpachot/orioledb-multi-version-concurrency-control-43d)
+- [Cleared Kimi Slides Repository Leaves Its Core Claims Unverifiable](https://dev.to/dd8888/cleared-kimi-slides-repository-leaves-its-core-claims-unverifiable-5f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
