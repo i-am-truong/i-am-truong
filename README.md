@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Power Query Error: Formula.Firewall and Privacy Level Errors&quot;](https://dev.to/pbidocs/power-query-error-formulafirewall-and-privacy-level-errors-3oo3)
-- [Clean Architecture in Flutter with BLoC: A Practical Guide](https://dev.to/bimal-py/clean-architecture-in-flutter-with-bloc-a-practical-guide-npa)
-- [How do you catch it when a model update changes your agent&#39;s tool calls?](https://dev.to/divyansh_rai_8ac27714ba7e/how-do-you-catch-it-when-a-model-update-changes-your-agents-tool-calls-1bpf)
-- [Learning to Speak C &amp; Cython: My GSoC Summer with Astropy](https://dev.to/reemhamraz/learning-to-speak-c-cython-my-gsoc-summer-with-astropy-1fh0)
-- [Unpopular Opinion: Why I’m an AI Skeptic](https://dev.to/aws-builders/unpopular-opinion-why-im-an-ai-skeptic-35cf)
+- [What This Dog Actually Costs](https://dev.to/lewisawe/what-this-dog-actually-costs-37a)
+- [I Built DeepRead: An Evidence-First Reading Skill for Articles, Books, and PDFs](https://dev.to/_312a710fe7837e8fcea442/i-built-deepread-an-evidence-first-reading-skill-for-articles-books-and-pdfs-45e8)
+- [Complete Guide to Building a Scalable Java-Selenium Automation Framework](https://dev.to/shefali_qa/complete-guide-to-building-a-scalable-java-selenium-automation-framework-44fg)
+- [Playwright JavaScript Framework Best Practices](https://dev.to/shefali_qa/playwright-javascript-framework-best-practices-1b38)
+- [authority-auth: Stop Rolling Your Own Auth — A Framework-Agnostic Python Library](https://dev.to/rkriad585/authority-auth-stop-rolling-your-own-auth-a-framework-agnostic-python-library-232b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
