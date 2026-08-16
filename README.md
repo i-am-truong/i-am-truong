@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I audited every post on my 200-post blog. Here&#39;s what was quietly broken.](https://dev.to/javapark/i-audited-every-post-on-my-200-post-blog-heres-what-was-quietly-broken-4j7)
+- [Why I stopped pasting production JWTs into random websites &lpar;and built an offline tool suite instead&rpar;](https://dev.to/collabier/why-i-stopped-pasting-production-jwts-into-random-websites-and-built-an-offline-tool-suite-instead-k9f)
+- [AWS IAM Least Privilege Without Losing Your Mind](https://dev.to/durrello/aws-iam-least-privilege-without-losing-your-mind-3n1j)
 - [From Neural Networks to LLMs: The Mental Model I Was Missing](https://dev.to/priyankaa/from-neural-networks-to-llms-a-developers-mental-model-55a6)
 - [I have built the same pipeline five times. The fifth took 68 minutes.](https://dev.to/upadhyayhari_/i-have-built-the-same-pipeline-five-times-the-fifth-took-68-minutes-eem)
-- [Foody](https://dev.to/aritra_adak_1186/foody-4ap6)
-- [Post Quantum TLS: What Hybrid Key Exchange Actually Changes](https://dev.to/michaelcarter09/post-quantum-tls-what-hybrid-key-exchange-actually-changes-4h9b)
-- [BarkToTheFuture — What Is Your Dog REALLY Thinking?](https://dev.to/muhammad_zeeshan_6499a22a/barktothefuture-what-is-your-dog-really-thinking-54fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
