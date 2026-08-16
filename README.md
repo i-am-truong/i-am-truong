@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Dabba — the box somebody packed for you before you were awake](https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7)
-- [TDD vs. Spike-Driven Development: When to Test First](https://dev.to/doogal/tdd-vs-spike-driven-development-when-to-test-first-2lgh)
-- [Rebuilding the Cerebras Knowledge Base: the web UI and a look back](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-the-web-ui-and-a-look-back-4k2m)
-- [Rebuilding the Cerebras Knowledge Base: planner, tools, and synthesis](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-planner-tools-and-synthesis-1g23)
-- [Rebuilding the Cerebras Knowledge Base: an LLM reranker](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-an-llm-reranker-4016)
+- [Dual-Graph Drift Detection for Solo Devs: What Happens When Your Docs and Your Code Start Talking to Each Other](https://dev.to/dexterlung/dual-graph-drift-detection-for-solo-devs-what-happens-when-your-docs-and-your-code-start-talking-522h)
+- [When &quot;Hidden&quot; Reasoning Isn&#39;t Hidden: The OpenAI/Anthropic/Google Encrypted Trace Replay Bug](https://dev.to/coridev/when-hidden-reasoning-isnt-hidden-the-openaianthropicgoogle-encrypted-trace-replay-bug-2a5j)
+- [One Migration, Start to Finish](https://dev.to/michaelnocito/one-migration-start-to-finish-649)
+- [What Data Migration Actually Is](https://dev.to/michaelnocito/what-data-migration-actually-is-2nem)
+- [Stage 6: User Acceptance Testing](https://dev.to/michaelnocito/stage-6-user-acceptance-testing-1ed2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
