@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Can Find the Failure. Who Decides What the Fix Should Be?](https://dev.to/praiztech/ai-can-find-the-failure-who-decides-what-the-fix-should-be-18o5)
+- [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
+- [I built a content recommender as a graph, and it found similarities I wasn&#39;t looking for](https://dev.to/mbadr3227sys/i-built-a-content-recommender-as-a-graph-and-it-found-similarities-i-wasnt-looking-for-3kj7)
 - [Shipping Assumptions: A Reliability Stack for AI-Generated Code](https://dev.to/copyleftdev/shipping-assumptions-a-reliability-stack-for-ai-generated-code-3p9f)
-- [So, I Vibe Coded A Way Out, Again.](https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb)
-- [PawPal is your New Dog&#39;s AI Sidekick 🐶⭐](https://dev.to/ishikathakur7802/pawpal-is-your-new-dogs-ai-sidekick-3bc8)
-- [Sidewalk to Summit — build log](https://dev.to/ohkpond/sidewalk-to-summit-build-log-4kp4)
-- [Cipr and Ciprnode zero](https://dev.to/barriteau/cipr-and-ciprnode-zero-1b89)
+- [Designing an Honest “Unlimited” Generative AI Product: Credits, Queues, and Fair Use](https://dev.to/abrahamaragon91/designing-an-honest-unlimited-generative-ai-product-credits-queues-and-fair-use-15li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
