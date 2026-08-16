@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What ACTUALLY Happens When You Type a URL google.com](https://dev.to/zidane1688/what-actually-happens-when-you-type-a-url-googlecom-58p6)
-- [Ghar Ka Swad — A Little Taste of Home](https://dev.to/arnav_nair_d942880de6378a/ghar-ka-swad-a-little-taste-of-home-1ei3)
-- [The AI Engineer&#39;s Reading List for 2026 &lpar;10 Books That Matter&rpar;](https://dev.to/somadevtoo/the-ai-engineers-reading-list-for-2026-10-books-that-matter-50pb)
-- [What Happens When an LLM Never Reads Beyond Fifth Grade?](https://dev.to/kaixintelligence/what-happens-when-an-llm-never-reads-beyond-fifth-grade-phj)
-- [.github/workflows/accessibility.yml](https://dev.to/maria_josegonzalezantel_80/githubworkflowsaccessibilityyml-3e6n)
+- [Trend: Forbes Solo-Founder AI Playbook](https://dev.to/frederikvonderheyden/trend-forbes-solo-founder-ai-playbook-38fj)
+- [The Introvert with AI Intelligence: How AI Can Turn Deep Thinking into Lightning-Fast Innovation](https://dev.to/ranjancse/the-introvert-with-ai-intelligence-how-ai-can-turn-deep-thinking-into-lightning-fast-innovation-47l2)
+- [I re-scanned the launches I flagged last week — here&#39;s who actually shipped the fixes](https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k)
+- [What&#39;s actually inside an .eml file &lpar;and how to read one without Outlook&rpar;](https://dev.to/caseymarlin/whats-actually-inside-an-eml-file-and-how-to-read-one-without-outlook-3jp1)
+- [I Fixed a Modal That Said “Accessible” But Wasn’t](https://dev.to/pawanatoshi/i-fixed-a-modal-that-said-accessible-but-wasnt-3bei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
