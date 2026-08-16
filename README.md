@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo Hotline – What can Product Managers learn?](https://dev.to/h-j/nintendo-hotline-what-can-product-managers-learn-2gmj)
+- [Building AI Prompt Lab with Java 21, Spring Boot and React 19](https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8)
+- [What Actually Happens When You UPDATE a Row in PostgreSQL?](https://dev.to/ujjwal_011/what-actually-happens-when-you-update-a-row-in-postgresql-2nbk)
 - [AI Can Find the Failure. Who Decides What the Fix Should Be?](https://dev.to/praiztech/ai-can-find-the-failure-who-decides-what-the-fix-should-be-18o5)
 - [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
-- [I built a content recommender as a graph, and it found similarities I wasn&#39;t looking for](https://dev.to/mbadr3227sys/i-built-a-content-recommender-as-a-graph-and-it-found-similarities-i-wasnt-looking-for-3kj7)
-- [Shipping Assumptions: A Reliability Stack for AI-Generated Code](https://dev.to/copyleftdev/shipping-assumptions-a-reliability-stack-for-ai-generated-code-3p9f)
-- [Designing an Honest “Unlimited” Generative AI Product: Credits, Queues, and Fair Use](https://dev.to/abrahamaragon91/designing-an-honest-unlimited-generative-ai-product-credits-queues-and-fair-use-15li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
