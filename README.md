@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Small Business Agent Does Not Need Every Tool](https://dev.to/sphillips1337/your-small-business-agent-does-not-need-every-tool-5fc6)
-- [The Safest First MCP Workflow Is a Draft Queue, Not an Autonomous Agent](https://dev.to/sphillips1337/the-safest-first-mcp-workflow-is-a-draft-queue-not-an-autonomous-agent-1jbf)
-- [Supercharging Test Automation with Custom AI Agents and Secure GPT](https://dev.to/shell_qa/supercharging-test-automation-with-custom-ai-agents-and-sgpt-30jb)
-- [Scaling Infrastructure &amp; the FinOps Governance That Actually Catches the Bill](https://dev.to/shoaibalimir/scaling-infrastructure-the-finops-governance-that-actually-catches-the-bill-364b)
-- [What This Dog Actually Costs](https://dev.to/lewisawe/what-this-dog-actually-costs-37a)
+- [A Detector That Only Ever Says &quot;Clean&quot; Proves Nothing](https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii)
+- [CanineIQ - Are You Actually Ready for the Dog You Want?](https://dev.to/an0n99x/canineiq-are-you-actually-ready-for-the-dog-you-want-c88)
+- [We wrote integrations for two marketplaces and skipped the shared interface](https://dev.to/fastogt_team/we-wrote-integrations-for-two-marketplaces-and-skipped-the-shared-interface-ig5)
+- [Part 1: Determining What to Build](https://dev.to/mazenaly256/part-1-choosing-the-idea-3c92)
+- [5 Things I Check First When a Linux Server Goes Down](https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
