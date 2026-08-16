@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How PDF &amp; Document Parsers Actually Work Under the Hood](https://dev.to/tony_stark_h/how-pdf-document-parsers-actually-work-under-the-hood-16mp)
 - [Why I Built a Zero-Latency AI Utility Platform Running 100% in the Browser](https://dev.to/sir_lu_62bd118924537f9510/why-i-built-a-zero-latency-ai-utility-platform-running-100-in-the-browser-5fm4)
+- [How Unicode Text Works: Why Stylish Fonts Can Be Copied and Pasted](https://dev.to/shahbakht-dev/how-unicode-text-works-why-stylish-fonts-can-be-copied-and-pasted-14kh)
 - [Building UniFi Reactor: state-driven network automation for my Kubernetes homelab](https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50)
-- [How Coin Toss Statistics Actually Work: A Developer&#39;s Field Notes on Two-Outcome Generators](https://dev.to/lizely/how-coin-toss-statistics-actually-work-a-developers-field-notes-on-two-outcome-generators-2a38)
-- [I Finally Understood Linux Repositories &lpar;Main, Universe, Restricted &amp; Multiverse&rpar; as a Linux Mint Beginner](https://dev.to/sunilpradhan/i-finally-understood-linux-repositories-main-universe-restricted-multiverse-as-a-linux-mint-5daf)
-- [Slow Turn — nine birds, one fire, and twenty minutes of waiting](https://dev.to/maneesh_thakur_d16c2852fa/slow-turn-nine-birds-one-fire-and-twenty-minutes-of-waiting-1k17)
+- [How to Turn Plain-English Requirements into SQL You Can Actually Trust](https://dev.to/craftloop/how-to-turn-plain-english-requirements-into-sql-you-can-actually-trust-l4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
