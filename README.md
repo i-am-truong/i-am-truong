@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Often Should I Post, and How Do I Choose Topics?](https://dev.to/towernter/how-often-should-i-post-and-how-do-i-choose-topics-55kp)
-- [Security questions every senior backend engineer should handle](https://dev.to/moputa/security-questions-every-senior-backend-engineer-should-handle-2n3g)
-- [Making a dog talk with zero backend: in-browser segmentation, WebGL lip sync and real MP4 export](https://dev.to/singhamandeep007/making-a-dog-talk-with-zero-backend-in-browser-segmentation-webgl-lip-sync-and-real-mp4-export-1i4o)
-- [Python’s := Operator Is Tiny… But Surprisingly Powerful](https://dev.to/junee1206/pythons-operator-is-tiny-but-surprisingly-powerful-29hn)
-- [Zero-Cost Uptime Monitoring + Status Page on Cloudflare&#39;s Free Tier](https://dev.to/xusteve/zero-cost-uptime-monitoring-status-page-on-cloudflares-free-tier-cak)
+- [[Boost]](https://dev.to/easbarba/-1336)
+- [The Model Didn’t Get Dumber. My Agent Skills Got Stale.](https://dev.to/evbermudez/the-model-didnt-get-dumber-my-agent-skills-got-stale-8cm)
+- [DeepSeek Code: A TUI for working in your terminal with DeepSeek!](https://dev.to/marcelo_maia/deepseek-code-a-tui-for-working-in-your-terminal-with-deepseek-2o4k)
+- [We scanned our own production site and found 8 vulnerabilities. Here’s the list.](https://dev.to/codecrack01/we-scanned-our-own-production-site-and-found-8-vulnerabilities-heres-the-list-5c50)
+- [How Much VRAM Do You Really Need for Local LLMs?](https://dev.to/apeder/how-much-vram-do-you-really-need-for-local-llms-142n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
