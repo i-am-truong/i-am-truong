@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Performance Daily Ledger API: Asynchronous Concurrency &amp; Data Validation with FastAPI](https://dev.to/skyatriya/building-a-high-performance-daily-ledger-api-asynchronous-concurrency-data-validation-with-4f0h)
-- [Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90](https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij)
-- [AI/ML Research Digest — Aug 02, 2026](https://dev.to/olaughter/aiml-research-digest-aug-02-2026-228j)
-- [How I build a Next.js Tailwind marketing site in hours, not days](https://dev.to/nayankyada/how-i-build-a-nextjs-tailwind-marketing-site-in-hours-not-days-4pk2)
-- [I Built a 100% Free Alternative to Studio 3T + Compass](https://dev.to/hepta7/i-built-a-100-free-alternative-to-studio-3t-compass-4h14)
+- [The $0 Distribution Playbook for MCP Servers: 12 Channels, 30 Days, Real Numbers](https://dev.to/goodjobwilliam/the-0-distribution-playbook-for-mcp-servers-12-channels-30-days-real-numbers-b4o)
+- [MCP Transports: stdio vs HTTP, and What Just Changed](https://dev.to/studiomeyer_io/mcp-transports-stdio-vs-http-and-what-just-changed-41fi)
+- [International Personal Shopping Management Dashboard | PHP &amp; MySQL](https://dev.to/janrosedev/international-personal-shopping-management-dashboard-php-mysql-1191)
+- [How do you unit test an agent skill?](https://dev.to/danielwaltersdev/how-do-you-unit-test-an-agent-skill-1f82)
+- [Building a Static Encyclopedia with 1,000+ Entries, 8 Languages, and Zero Backend](https://dev.to/bigbenbena/building-a-static-encyclopedia-with-1000-entries-8-languages-and-zero-backend-gpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
