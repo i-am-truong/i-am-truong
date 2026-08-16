@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Answer engine optimization: the same work, a clearer name](https://dev.to/bulti_global/answer-engine-optimization-the-same-work-a-clearer-name-2ehg)
-- [Cursor Learn Mode: teach a desktop workflow by demonstrating it](https://dev.to/liad07/cursor-learn-mode-teach-a-desktop-workflow-by-demonstrating-it-hm3)
-- [Tired of broken React Native environments? I built a CLI to fix that](https://dev.to/s0ci3tybug/tired-of-broken-react-native-environments-i-built-a-cli-to-fix-that-2je8)
-- [We benchmarked CognoDB against four graph databases. Here&#39;s what &quot;free tier&quot; actually buys you.](https://dev.to/hassanyosuf/we-benchmarked-cognodb-against-four-graph-databases-heres-what-free-tier-actually-buys-you-2b3e)
-- [I got tired of cookie banners so I turned my SaaS analytics into a pixel town](https://dev.to/omoll/i-got-tired-of-cookie-banners-so-i-turned-my-saas-analytics-into-a-pixel-town-1di8)
+- [How Often Should I Post, and How Do I Choose Topics?](https://dev.to/towernter/how-often-should-i-post-and-how-do-i-choose-topics-55kp)
+- [Security questions every senior backend engineer should handle](https://dev.to/moputa/security-questions-every-senior-backend-engineer-should-handle-2n3g)
+- [Making a dog talk with zero backend: in-browser segmentation, WebGL lip sync and real MP4 export](https://dev.to/singhamandeep007/making-a-dog-talk-with-zero-backend-in-browser-segmentation-webgl-lip-sync-and-real-mp4-export-1i4o)
+- [Python’s := Operator Is Tiny… But Surprisingly Powerful](https://dev.to/junee1206/pythons-operator-is-tiny-but-surprisingly-powerful-29hn)
+- [Zero-Cost Uptime Monitoring + Status Page on Cloudflare&#39;s Free Tier](https://dev.to/xusteve/zero-cost-uptime-monitoring-status-page-on-cloudflares-free-tier-cak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
