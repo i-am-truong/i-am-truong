@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Performance Testing with Apache JMeter](https://dev.to/shell_qa/a-beginners-guide-to-performance-testing-with-apache-jmeter-3on9)
-- [React Native Architecture: 8 Folder Structures for Scalable Apps](https://dev.to/prabhasg56/react-native-architecture-8-folder-structures-for-scalable-apps-41fe)
-- [Your Dog Can&#39;t Tell You Where It Hurts. MATCH_RECOGNIZE in Snowflake Can.](https://dev.to/soumyadeepdey/your-dog-cant-tell-you-where-it-hurts-matchrecognize-in-snowflake-can-1pan)
-- [Setting Up Playwright &amp; Cucumber UI Tests in Azure DevOps with LambdaTest](https://dev.to/shell_qa/setting-up-playwright-cucumber-ui-tests-in-azure-devops-with-lambdatest-2cld)
-- [var in JavaScript](https://dev.to/abishek_m_82/understanding-var-in-javascript-21fp)
+- [Raku: a language that counts to infinity &lpar;Part 1&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-1-4h4l)
+- [Your dog walker says they went. This makes the walk say so too.](https://dev.to/arqamwd/your-dog-walker-says-they-went-this-makes-the-walk-say-so-too-29ai)
+- [How to Handle O365 Shared Mailboxes in CI/CD Test Automation](https://dev.to/shell_qa/how-to-handle-o365-shared-mailboxes-in-cicd-test-automation-pfa)
+- [How I Built a Chrome Extension to Analyze Viral Social Content &lpar;Statly&rpar;](https://dev.to/mthsocial/how-i-built-a-chrome-extension-to-analyze-viral-social-content-statly-1ebp)
+- [I&#39;ve decided to take back control of my brain in the era of ai](https://dev.to/zeejers/ive-decided-to-take-back-control-of-my-brain-in-the-era-of-ai-1inj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
