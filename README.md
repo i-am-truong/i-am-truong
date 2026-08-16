@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I audited every post on my 200-post blog. Here&#39;s what was quietly broken.](https://dev.to/javapark/i-audited-every-post-on-my-200-post-blog-heres-what-was-quietly-broken-4j7)
-- [Why I stopped pasting production JWTs into random websites &lpar;and built an offline tool suite instead&rpar;](https://dev.to/collabier/why-i-stopped-pasting-production-jwts-into-random-websites-and-built-an-offline-tool-suite-instead-k9f)
-- [AWS IAM Least Privilege Without Losing Your Mind](https://dev.to/durrello/aws-iam-least-privilege-without-losing-your-mind-3n1j)
-- [From Neural Networks to LLMs: The Mental Model I Was Missing](https://dev.to/priyankaa/from-neural-networks-to-llms-a-developers-mental-model-55a6)
-- [I have built the same pipeline five times. The fifth took 68 minutes.](https://dev.to/upadhyayhari_/i-have-built-the-same-pipeline-five-times-the-fifth-took-68-minutes-eem)
+- [The Dabba — the box somebody packed for you before you were awake](https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7)
+- [TDD vs. Spike-Driven Development: When to Test First](https://dev.to/doogal/tdd-vs-spike-driven-development-when-to-test-first-2lgh)
+- [Rebuilding the Cerebras Knowledge Base: the web UI and a look back](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-the-web-ui-and-a-look-back-4k2m)
+- [Rebuilding the Cerebras Knowledge Base: planner, tools, and synthesis](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-planner-tools-and-synthesis-1g23)
+- [Rebuilding the Cerebras Knowledge Base: an LLM reranker](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-an-llm-reranker-4016)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
