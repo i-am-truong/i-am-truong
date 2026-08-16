@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The JavaScript Event Loop, Visualized](https://dev.to/audreyhal/the-javascript-event-loop-visualized-4dp7)
-- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
-- [Apple Pay in Flutter: The Easiest Implementation](https://dev.to/mryadavgulshan/apple-pay-in-flutter-the-easiest-implementation-17he)
-- [OAuth Tokens Were Always the Weak Link. AI Agents Just Made It Worse](https://dev.to/coridev/oauth-tokens-were-always-the-weak-link-ai-agents-just-made-it-worse-4dc6)
-- [Backblaze B2 vs Self-Hosted S3: Which Saves More Money?](https://dev.to/ethan-carter/backblaze-b2-vs-self-hosted-s3-which-saves-more-money-4gp8)
+- [What If Programs Were Mostly Just Values Flowing Through Functions?](https://dev.to/kentaromorishita/what-if-programs-were-mostly-just-values-flowing-through-functions-3ebb)
+- [Software Engineering Fundamentals Matter More Than Ever — Even in the Age of AI Coding Tools](https://dev.to/trismegistus/software-engineering-fundamentals-matter-more-than-ever-even-in-the-age-of-ai-coding-tools-3i9g)
+- [Why Should the Language Change the Moment I Build a UI?](https://dev.to/kentaromorishita/why-should-the-language-change-the-moment-i-build-a-ui-fgd)
+- [Chestnut: The $249 eGPU Dock With Open-Source Firmware That Could Disrupt a Closed Market](https://dev.to/trismegistus/chestnut-the-249-egpu-dock-with-open-source-firmware-that-could-disrupt-a-closed-market-2j64)
+- [Your Keras model config can contain a marshalled Python code object](https://dev.to/aisbom/your-keras-model-config-can-contain-a-marshalled-python-code-object-5885)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
