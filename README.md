@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Just Wanted a WhatsApp Channel That Teaches Me One German Word a Day. It Took a Week and a Git History Rewrite.](https://dev.to/btkcodedev/i-just-wanted-a-whatsapp-channel-that-teaches-me-one-german-word-a-day-it-took-a-week-and-a-git-3a5k)
+- [&quot;Cron &#39;every 2 weeks&#39; doesn&#39;t exist. Here&#39;s the expression that actually works.&quot;](https://dev.to/developer_tech/cron-every-2-weeks-doesnt-exist-heres-the-expression-that-actually-works-2n5)
+- [Demystifying &#39;Cold Starts&#39; in Serverless: Why Your App Sometimes Shivers](https://dev.to/saurav_tb_pandey/demystifying-cold-starts-in-serverless-why-your-app-sometimes-shivers-2db8)
 - [EmpowerAgro: Bringing Real-Time Crop Disease Detection to India’s Smallholder Farmers with Google AI](https://dev.to/ak270704/empoweragro-bringing-real-time-crop-disease-detection-to-indias-smallholder-farmers-with-google-ai-l4d)
-- [No Passport Required — Comfort Food Around the World](https://dev.to/pawanatoshi/no-passport-required-comfort-food-around-the-world-4dfj)
-- [Open-Weight Model Benchmark Harness: Test Cheaper Models Before You Route Traffic](https://dev.to/jackm-singularity/open-weight-model-benchmark-harness-test-cheaper-models-before-you-route-traffic-42e6)
-- [I Built an AI That Cuts Your Podcast Into Shorts. But I Didn’t Want It to Edit Your Content.](https://dev.to/munjapara/i-built-an-ai-that-cuts-your-podcast-into-shorts-but-i-didnt-want-it-to-edit-your-content-56mg)
-- [&quot;Your cache hit rate is low&quot; — true, and worth $0.16](https://dev.to/lizhuojunx86/your-cache-hit-rate-is-low-true-and-worth-016-30ie)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
