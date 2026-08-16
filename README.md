@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What ACTUALLY Happens When You Type a URL google.com](https://dev.to/zidane1688/what-actually-happens-when-you-type-a-url-googlecom-58p6)
+- [Ghar Ka Swad — A Little Taste of Home](https://dev.to/arnav_nair_d942880de6378a/ghar-ka-swad-a-little-taste-of-home-1ei3)
+- [The AI Engineer&#39;s Reading List for 2026 &lpar;10 Books That Matter&rpar;](https://dev.to/somadevtoo/the-ai-engineers-reading-list-for-2026-10-books-that-matter-50pb)
 - [What Happens When an LLM Never Reads Beyond Fifth Grade?](https://dev.to/kaixintelligence/what-happens-when-an-llm-never-reads-beyond-fifth-grade-phj)
-- [Why your CSV diff tool is lying to you &lpar;and how to fix it&rpar;](https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm)
-- [Letting an LLM call your APIs without losing sleep](https://dev.to/ranaharoon3222/letting-an-llm-call-your-apis-without-losing-sleep-3fa4)
-- [You Are the Shadow AI Your Security Team Is Worried About](https://dev.to/nodevguy/you-are-the-shadow-ai-your-security-team-is-worried-about-7fa)
-- [Your Coding Agent&#39;s Supply Chain Is a Mess. Here&#39;s How to Harden It.](https://dev.to/nodevguy/your-coding-agents-supply-chain-is-a-mess-heres-how-to-harden-it-40fa)
+- [.github/workflows/accessibility.yml](https://dev.to/maria_josegonzalezantel_80/githubworkflowsaccessibilityyml-3e6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
