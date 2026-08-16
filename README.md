@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5gl9)
+- [Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs](https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02)
+- [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
 - [How PDF &amp; Document Parsers Actually Work Under the Hood](https://dev.to/tony_stark_h/how-pdf-document-parsers-actually-work-under-the-hood-16mp)
-- [Why I Built a Zero-Latency AI Utility Platform Running 100% in the Browser](https://dev.to/sir_lu_62bd118924537f9510/why-i-built-a-zero-latency-ai-utility-platform-running-100-in-the-browser-5fm4)
-- [How Unicode Text Works: Why Stylish Fonts Can Be Copied and Pasted](https://dev.to/shahbakht-dev/how-unicode-text-works-why-stylish-fonts-can-be-copied-and-pasted-14kh)
-- [Building UniFi Reactor: state-driven network automation for my Kubernetes homelab](https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50)
-- [How to Turn Plain-English Requirements into SQL You Can Actually Trust](https://dev.to/craftloop/how-to-turn-plain-english-requirements-into-sql-you-can-actually-trust-l4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
