@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;DeprecationWarning: datetime.datetime.utcnow&lpar;&rpar; is deprecated&quot; — fixing the Python 3.12 warning in AWS Lambda](https://dev.to/ntoledo319/deprecationwarning-datetimedatetimeutcnow-is-deprecated-fixing-the-python-312-warning-in-5ggc)
-- [Adoption Is a Latency Problem: The Zero-Backlog Policy](https://dev.to/helkyn_coello/adoption-is-a-latency-problem-the-zero-backlog-policy-1pi0)
-- [AI专用芯片御三家：Celebras vs Groq vs Taalas（今天的主角）](https://dev.to/cognitalk/aizhuan-yong-xin-pian-yu-san-jia-celebras-vs-groq-vs-taalasjin-tian-de-zhu-jiao--3iec)
-- [I put my identity-depth scorer behind a public GET endpoint so you can argue with it](https://dev.to/zekebuilds/i-put-my-identity-depth-scorer-behind-a-public-get-endpoint-so-you-can-argue-with-it-1cgl)
-- [Good Boy Amnesia: An AI Detective Game where Memory IS the Gameplay 🐶🧠](https://dev.to/reet_singh_ee97da2986538e/good-boy-amnesia-an-ai-detective-game-where-memory-is-the-gameplay-5ap0)
+- [Are You Crippled By Your Preferences](https://dev.to/psypher1/are-you-crippled-by-your-preferences-8l5)
+- [I built two small Claude Code plugins this week - here&#39;s what I learned about hooks](https://dev.to/abhishek_sharma_a9792aee8/i-built-two-small-claude-code-plugins-this-week-heres-what-i-learned-about-hooks-2f29)
+- [The Agent Economy Reality Check: Which APIs Will Agents Pay $USDC for First via x402?](https://dev.to/anhmtk/the-agent-economy-reality-check-which-apis-will-agents-pay-usdc-for-first-via-x402-556m)
+- [Edmonton Founders: Stop Hiring Local, Start Building Across Timezones](https://dev.to/devwithzach/edmonton-founders-stop-hiring-local-start-building-across-timezones-17dj)
+- [Keeping junk out of programmatic geo pages: an allow list for metro, a block list for districts](https://dev.to/numart/keeping-junk-out-of-programmatic-geo-pages-an-allow-list-for-metro-a-block-list-for-districts-4adk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
