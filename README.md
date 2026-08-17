@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Ayeixa MCP Guardian: Capability Fencing &amp; Parameter Sanitization for MCP](https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-mcp-guardian-capability-fencing-parameter-sanitization-for-mcp-14dj)
-- [Feature Flag Pitfalls: How to Turn Your Codebase Into a Haunted House](https://dev.to/avlcodemonkey-industries/feature-flag-pitfalls-how-to-turn-your-codebase-into-a-haunted-house-1b1m)
-- [The loudest attacks on our Next.js site were aimed at software it never ran](https://dev.to/custralis/the-loudest-attacks-on-our-nextjs-site-were-aimed-at-software-it-never-ran-2g1n)
-- [Feature Flags in the Real World: Use Cases That Won&#39;t Get You Fired](https://dev.to/avlcodemonkey-industries/feature-flags-in-the-real-world-use-cases-that-wont-get-you-fired-20j2)
-- [Build Your First Spring AI Application with OpenAI Using Spring Boot](https://dev.to/ayshriv/build-your-first-spring-ai-application-with-openai-using-spring-boot-c3b)
+- [MiniAI Chat SDK – React AI Chat in 5 Minutes with Claude, Gemini, and LLM7](https://dev.to/mini_7181c522f240ea3c26a2/miniai-chat-sdk-react-ai-chat-in-5-minutes-with-claude-gemini-and-llm7-2gc8)
+- [My best-looking GitHub Actions run shipped zero installs](https://dev.to/heinrichneb/my-best-looking-github-actions-run-shipped-zero-installs-1ee8)
+- [Your CI is not flaky. It fails every 7 days.](https://dev.to/heinrichneb/your-ci-is-not-flaky-it-fails-every-7-days-4ljd)
+- [Has your GitHub Actions gate ever said no?](https://dev.to/heinrichneb/has-your-github-actions-gate-ever-said-no-dj2)
+- [Parsing numbers from JSON in Python](https://dev.to/pomidoroshev/parsing-numbers-from-json-in-python-2e8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
