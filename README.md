@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Browser Testing Tools: The 2026 Landscape &amp; Decision Framework](https://dev.to/maadhesh_d14697cfa10adfab/cross-browser-testing-tools-the-2026-landscape-decision-framework-84i)
-- [What the registry of a dying chain revealed](https://dev.to/sergeipalii/what-the-registry-of-a-dying-chain-revealed-1ha4)
-- [I Got Tired of $50/month YouTube SEO Tools, So I Built a Lightning-Fast Free Alternative with Next.js &amp; Groq AI 🚀](https://dev.to/freeviralkit/i-got-tired-of-50mo-youtube-seo-tools-so-i-built-a-lightning-fast-free-alternative-with-nextjs-5cl8)
-- [QH256 in C — A Deterministic 256-Bit State Structure for K501-AIONARC](https://dev.to/k501is/qh256-in-c-a-deterministic-256-bit-state-structure-for-k501-aionarc-3bji)
-- [Memes políticos IA: la nueva arma viral de la campaña 2026](https://dev.to/leojulieta/memes-politicos-ia-la-nueva-arma-viral-de-la-campana-2026-4d75)
+- [Docker avançado - multi-stage builds, segurança e CI/CD](https://dev.to/apsis-cc/docker-avancado-multi-stage-builds-seguranca-e-cicd-113j)
+- [How to Build a Playwright BDD Test Framework from Scratch: Step-by-Step Setup Guide](https://dev.to/shell_qa/how-to-build-a-playwright-bdd-test-framework-from-scratch-step-by-step-setup-guide-geo)
+- [Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds](https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm)
+- [Structuring a Playwright BDD Automation Framework: Core Architecture &amp; Directory Guide](https://dev.to/shell_qa/structuring-a-playwright-bdd-automation-framework-core-architecture-directory-guide-5hne)
+- [The Importance of a Risk Framework in Corporate Cybersecurity](https://dev.to/marco_altomare_0e7674642c/the-importance-of-a-risk-framework-in-corporate-cybersecurity-3ki0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
