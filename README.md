@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Visibility May Start Before Search Volume: A New Framework for Content Strategy](https://dev.to/alifar/ai-visibility-may-start-before-search-volume-a-new-framework-for-content-strategy-im7)
 - [Retry patterns: when you should give up &lpar;and why most code doesn&#39;t&rpar;](https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa)
 - [Don&#39;t update Compact maps on Midnight Undeployed](https://dev.to/socialprescribing/dont-update-compact-maps-on-midnight-undeployed-35dl)
 - [A Free Model Endpoint Proposed a Build Cleanup. My C++ Executor Required a Dry Run Before Touching State.](https://dev.to/datacpp_8185/a-free-model-endpoint-proposed-a-build-cleanup-my-c-executor-required-a-dry-run-before-touching-4il2)
 - [Your duplicate check cannot prove absence. Ours returned 404 for the post we had just published.](https://dev.to/unmannedops/your-duplicate-check-cannot-prove-absence-ours-returned-404-for-the-post-we-had-just-published-2ao7)
-- [A blockchain is a line. We built a mesh: the architecture of offline-first validation](https://dev.to/navigatorbuilds/a-blockchain-is-a-line-we-built-a-mesh-the-architecture-of-offline-first-validation-564f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
