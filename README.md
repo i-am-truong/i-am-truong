@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Caninography](https://dev.to/maisamabbas0323/caninography-36g5)
-- [Building a Production-Ready Chat Application: From Zero to Live](https://dev.to/engineersabir/building-a-production-ready-chat-application-from-zero-to-live-55dl)
-- [PawServe: AI Symptom Help, Breed Finder &amp; Real Vet Care in One Place](https://dev.to/m1raclescr1pt/pawserve-ai-symptom-help-breed-finder-real-vet-care-in-one-place-5b1g)
-- [Running three AI models on one local server when your VRAM doesn&#39;t cover all of them](https://dev.to/hannune/running-three-ai-models-on-one-local-server-when-your-vram-doesnt-cover-all-of-them-b7g)
-- [I thought backing up Supabase was just pg_dump + rclone. It wasn&#39;t.](https://dev.to/mkpdigital/i-thought-backing-up-supabase-was-just-pgdump-rclone-it-wasnt-1lbl)
+- [HOW TO DEVREL: The Most Un-Natural Act](https://dev.to/leonadato/how-to-devrel-the-most-un-natural-act-44oo)
+- [AI Is Not a Source of Truth](https://dev.to/rud0lforrp/ai-is-not-a-source-of-truth-48kc)
+- [&quot;My pending&lpar;&rpar; Function Learned to Draft Against Nested Comments. My audit&lpar;&rpar; Function Never Learned to Look for Them.&quot;](https://dev.to/enjoy_kumawat/my-pending-function-learned-to-draft-against-nested-comments-my-audit-function-never-learned-34h0)
+- [I built five code generators to delete Go boilerplate](https://dev.to/mickamy/i-built-five-code-generators-to-delete-go-boilerplate-h65)
+- [My MCP Tool&#39;s Schema Lists null as the Default for a Field. Sending null Was the One Value It Rejected.](https://dev.to/enjoy_kumawat/my-mcp-tools-schema-lists-null-as-the-default-for-a-field-sending-null-was-the-one-value-it-kdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
