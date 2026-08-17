@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can Copilot Fix Its Own Security Findings? Testing GitHub Agentic Autofix](https://dev.to/pwd9000/can-copilot-fix-its-own-security-findings-testing-github-agentic-autofix-351b)
-- [Iniciando minha jornada em ADS: Configurando o ambiente com Git, VS Code e GitHub](https://dev.to/davidjrpereira/iniciando-minha-jornada-em-ads-configurando-o-ambiente-com-git-vs-code-e-github-2hdh)
-- [What breaks if I delete this file? React tooling can&#39;t answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
-- [Why I Built a Browser-Only Tool Platform &lpar;and What Broke That Rule&rpar;](https://dev.to/amritanshu_gaurav_8c70b9e/why-i-built-a-browser-only-tool-platform-and-what-broke-that-rule-16df)
-- [🚀 This Week&#39;s Build: Save. Share. Stay Aligned.](https://dev.to/darshit_tank/this-weeks-build-save-share-stay-aligned-ebh)
+- [How to Secure Your VPS: Firewall, SSH &amp; Fail2ban](https://dev.to/ahmad_bayat/how-to-secure-your-vps-firewall-ssh-fail2ban-180l)
+- [I Built Cat Guardian for My Seven Cats 🐾](https://dev.to/lfrichter/i-built-cat-guardian-for-my-seven-cats-287)
+- [Swift 6 Strict Concurrency: 4 Migration Mistakes and How to Fix Them](https://dev.to/mrugeshtank/swift-6-strict-concurrency-4-migration-mistakes-and-how-to-fix-them-50ij)
+- [SPI, I2C, UART: How To Trigger On What Matters Instead Of Drowning In Noise](https://dev.to/numbpill3d/spi-i2c-uart-how-to-trigger-on-what-matters-instead-of-drowning-in-noise-5ac5)
+- [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
