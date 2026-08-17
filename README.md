@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Android APK Distribution: What Developers Should Consider Outside Google Play](https://dev.to/rae_stammler_c7297978420c/android-apk-distribution-what-developers-should-consider-outside-google-play-4pkj)
-- [How do I group an array of objects in JavaScript and sum a field?](https://dev.to/juli04guilar/how-do-i-group-an-array-of-objects-in-javascript-and-sum-a-field-54gi)
-- [Object Detection on Android for Autonomous Robots](https://dev.to/vmodal_ai/object-detection-on-android-for-autonomous-robots-5hf0)
-- [Building a Voice-Controlled Robot with Kotlin and LLMs](https://dev.to/vmodal_ai/building-a-voice-controlled-robot-with-kotlin-and-llms-4mn0)
-- [Android + NVIDIA Jetson + ROS 2: Building an AI Robot](https://dev.to/vmodal_ai/android-nvidia-jetson-ros-2-building-an-ai-robot-1jjd)
+- [PromptShrink](https://dev.to/heloisapegarcia/promptshrink-5hh0)
+- [The Agent Left the IDE](https://dev.to/prpatel05/the-agent-left-the-ide-39fo)
+- [The Outbox Pattern Is Not Enough](https://dev.to/ramesh-yara/the-outbox-pattern-is-not-enough-28g1)
+- [Architecting a Custom Purple Team Infrastructure Scanner in Go.](https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7)
+- [Comprei um water cooler sem suporte para Linux. Então fiz engenharia reversa do software.](https://dev.to/kleber333/comprei-um-water-cooler-sem-suporte-para-linux-entao-fiz-engenharia-reversa-do-software-4gli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
