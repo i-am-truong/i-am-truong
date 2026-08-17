@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Authenticated Node.js Web Chatbot Backend Validates Streaming Reviews &lpar;Without an SDK&rpar;](https://dev.to/mitchellcross2134/authenticated-nodejs-web-chatbot-backend-validates-streaming-reviews-without-an-sdk-14bm)
-- [Your Database Said &quot;Success.&quot; Your Message Broker Said &quot;Try Again.&quot;](https://dev.to/kainat_saricioglu/your-database-said-success-your-message-broker-said-try-again-4jaj)
-- [I built SugarTrack: A simple offline blood sugar tracker for Android](https://dev.to/hunzaboy/i-built-sugartrack-a-simple-offline-blood-sugar-tracker-for-android-k45)
-- [Shadow Traffic Is the Only Honest Free Model Evaluation](https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja)
-- [From HTTP Requests to Atomic On-Chain Transactions](https://dev.to/parnita_singh_73778510977/from-http-requests-to-atomic-on-chain-transactions-3517)
+- [Fulmine.js: a faster drop-in Express 5 replacement on uWebSockets.js](https://dev.to/nigrosimone/fulminejs-a-faster-drop-in-express-5-replacement-on-uwebsocketsjs-3bnn)
+- [Fraunhofer Researchers Refine Quantum Advantage Assessment Metrics](https://dev.to/vpodk/fraunhofer-researchers-refine-quantum-advantage-assessment-metrics-4a5)
+- [Circle Ships an App Store for AI Agents — and Discovery Becomes the Moat](https://dev.to/minia2a/circle-ships-an-app-store-for-ai-agents-and-discovery-becomes-the-moat-2j99)
+- [The &quot;1 Dog Year = 7 Human Years&quot; Myth: How I Built a Veterinary-Accurate Pet Age Engine in Next.js](https://dev.to/g_s_6bc9d3a878dd452010bec/the-1-dog-year-7-human-years-myth-how-i-built-a-veterinary-accurate-pet-age-engine-in-nextjs-5ag8)
+- [React.memo Doesn&#39;t Do What You Think](https://dev.to/frontend-guide/reactmemo-doesnt-do-what-you-think-265o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
