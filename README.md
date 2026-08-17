@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time](https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7)
-- [GSoC 2026 - Week 11](https://dev.to/harkeerat24/gsoc-2026-week-11-2fj)
-- [AIoT and the Physical World: Turning Connected Data Into Industrial Intelligence](https://dev.to/samra_mahmood_235c878310b/aiot-and-the-physical-world-turning-connected-data-into-industrial-intelligence-31li)
-- [Mastering Salesforce Automation: A Complete Guide to Centralized Test Locators](https://dev.to/shell_qa/mastering-salesforce-automation-a-complete-guide-to-centralized-test-locators-25ln)
-- [WebSockets: How Real-Time Communication Works](https://dev.to/tanu_priya/websockets-how-real-time-communication-works-4500)
+- [Performance Gains After a Rails Upgrade from 7 to 8](https://dev.to/railsfactory_sedin/performance-gains-after-a-rails-upgrade-from-7-to-8-3m4d)
+- [How to Build a &quot;Second Brain&quot; with Obsidian That Your AI Agent Can Read, Without Building a Custom RAG Pipeline](https://dev.to/next4i/how-to-build-a-second-brain-with-obsidian-that-your-ai-agent-can-read-without-building-a-custom-29h3)
+- [Your AI Agent Logs Are Not an Audit Trail Until You Test the Evidence](https://dev.to/zira125/your-ai-agent-logs-are-not-an-audit-trail-until-you-test-the-evidence-19ld)
+- [Stablecoin settlement b2b: як бізнес використовує стейблкоїни для міжнародних розрахунків](https://dev.to/tanya_kamenskih_fae915d43/stablecoin-settlement-b2b-iak-biznies-vikoristovuie-stieiblkoyini-dlia-mizhnarodnikh-rozrakhunkiv-4d3b)
+- [The Follow-Up Question That Always Started With &quot;What Would You Sacrifice&quot;](https://dev.to/amitesh0512/the-follow-up-question-that-always-started-with-what-would-you-sacrifice-2mpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
