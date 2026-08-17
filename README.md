@@ -120,18 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Broken Music Tool. The Mistake Became the Feature](https://dev.to/bell-kk/i-built-a-broken-music-tool-the-mistake-became-the-feature-mpp)
-- [Fintech Node.js Speech-to-Text: 4 Timeout Gates for Large Multipart Audio](https://dev.to/marcorossi4891/fintech-nodejs-speech-to-text-4-timeout-gates-for-large-multipart-audio-4m35)
-- [Making a dog talk with zero backend. 🐶✨
-
-Built an entirely client-side pipeline to animate talking pets:
- - ✂️ In-browser image segmentation
- - 👄 Real-time WebGL lip-syncing
- - 🎬 Native MP4 export &lpar;all in the browser&rpar;
-
-No servers, no GPU compute bills](https://dev.to/singhamandeep007/making-a-dog-talk-with-zero-backend-built-an-entirely-client-side-pipeline-to-animate-3mkd)
-- [Google launches Gemini 3.7 Flash specifically for coding and agents](https://dev.to/ashutosh_maurya/google-launches-gemini-37-flash-specifically-for-coding-and-agents-17m4)
-- [PawSpective: See the World Closer to How Your Dog Sees It](https://dev.to/kernelkain/pawspective-see-the-world-closer-to-how-your-dog-sees-it-2k4g)
+- [Why Walk When You Can SKI: Ditching the Type-Wait-Check Loop for Voice Coding](https://dev.to/julie_elis_01325f/why-walk-when-you-can-ski-ditching-the-type-wait-check-loop-for-voice-coding-31b3)
+- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
+- [An Index Suggestion Is a Hypothesis, Not a Patch](https://dev.to/codepy_1473/an-index-suggestion-is-a-hypothesis-not-a-patch-20e4)
+- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
+- [Spring proxies: JDK dynamic vs CGLIB](https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
