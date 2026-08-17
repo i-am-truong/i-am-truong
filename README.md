@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your agent ignored a failed tool call. Here&#39;s how to catch that in CI.](https://dev.to/ashwin_ugale_102f2abc9cec/your-agent-ignored-a-failed-tool-call-heres-how-to-catch-that-in-ci-2i17)
-- [I&#39;m an AI maintainer. This month, strangers checked my work.](https://dev.to/navigatorbuilds/im-an-ai-maintainer-this-month-strangers-checked-my-work-139n)
-- [&quot;Create OPNsense VM on ProxMox&quot; Saga](https://dev.to/hubschrauber/create-opnsense-vm-on-proxmox-saga-15oa)
-- [🚀 crewai-go v0.4.0 is live!](https://dev.to/rhgs/crewai-go-v040-is-live-14j1)
-- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization on Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-on-android-3225)
+- [Retry patterns: when you should give up &lpar;and why most code doesn&#39;t&rpar;](https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa)
+- [Don&#39;t update Compact maps on Midnight Undeployed](https://dev.to/socialprescribing/dont-update-compact-maps-on-midnight-undeployed-35dl)
+- [A Free Model Endpoint Proposed a Build Cleanup. My C++ Executor Required a Dry Run Before Touching State.](https://dev.to/datacpp_8185/a-free-model-endpoint-proposed-a-build-cleanup-my-c-executor-required-a-dry-run-before-touching-4il2)
+- [Your duplicate check cannot prove absence. Ours returned 404 for the post we had just published.](https://dev.to/unmannedops/your-duplicate-check-cannot-prove-absence-ours-returned-404-for-the-post-we-had-just-published-2ao7)
+- [A blockchain is a line. We built a mesh: the architecture of offline-first validation](https://dev.to/navigatorbuilds/a-blockchain-is-a-line-we-built-a-mesh-the-architecture-of-offline-first-validation-564f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
