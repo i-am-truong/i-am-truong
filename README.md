@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GeekNews Frontend Weekly Deep Dive - 2026-08-17](https://dev.to/ageofclick/geeknews-frontend-weekly-deep-dive-2026-08-17-l5i)
-- [From a 15-Second Walk to a Digital Memory: Building a Canine Cognitive Twin](https://dev.to/prince_panchani_f971a20ec/from-a-15-second-walk-to-a-digital-memory-building-a-canine-cognitive-twin-476c)
-- [AI Agents Yield to Each Other in the &quot;Break Room&quot; — A Month in My DIY Discord Bridge](https://dev.to/ebibibi/ai-agents-yield-to-each-other-in-the-break-room-a-month-in-my-diy-discord-bridge-5gf1)
-- [Find people asking for what you sell, using LinkedIn post search](https://dev.to/data_pool/find-people-asking-for-what-you-sell-using-linkedin-post-search-23n3)
-- [Unit testing example](https://dev.to/chaimabouchareb/unit-testing-example-251k)
+- [#We&#39;re Building Contoprix — Here&#39;s Why](https://dev.to/neha_varade_554c4868f727a/were-building-contoprix-heres-why-2ncm)
+- [My team went too fast with AI coding, and now we&#39;re drowning in tech debt](https://dev.to/richard_smith_154156d471ef/my-team-went-too-fast-with-ai-coding-and-now-were-drowning-in-tech-debt-5hl0)
+- [Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?](https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0)
+- [Export a Database Data Dictionary: HTML, Markdown and Excel from Your ERD](https://dev.to/tbson87/export-a-database-data-dictionary-html-markdown-and-excel-from-your-erd-4oo7)
+- [Prove a Generated Migration Can Undo Itself Before It Touches Your Data](https://dev.to/codepy_1473/prove-a-generated-migration-can-undo-itself-before-it-touches-your-data-gi0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
