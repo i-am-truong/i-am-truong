@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your VPS: Firewall, SSH &amp; Fail2ban](https://dev.to/ahmad_bayat/how-to-secure-your-vps-firewall-ssh-fail2ban-180l)
-- [I Built Cat Guardian for My Seven Cats 🐾](https://dev.to/lfrichter/i-built-cat-guardian-for-my-seven-cats-287)
-- [Swift 6 Strict Concurrency: 4 Migration Mistakes and How to Fix Them](https://dev.to/mrugeshtank/swift-6-strict-concurrency-4-migration-mistakes-and-how-to-fix-them-50ij)
-- [SPI, I2C, UART: How To Trigger On What Matters Instead Of Drowning In Noise](https://dev.to/numbpill3d/spi-i2c-uart-how-to-trigger-on-what-matters-instead-of-drowning-in-noise-5ac5)
-- [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g)
+- [Algorithmic Patterns: The Ultimate Guide to Sliding Window](https://dev.to/architect_bytes/algorithmic-patterns-the-ultimate-guide-to-sliding-window-33g9)
+- [Network Devices Explained — The Foundation Every Cloud &amp; DevOps Engineer Needs](https://dev.to/tejas_shinkar/network-devices-explained-the-foundation-every-cloud-devops-engineer-needs-218a)
+- [Why I left Warehouse out of our Fabric deployment scope](https://dev.to/vedaforge_eng/why-i-left-warehouse-out-of-our-fabric-deployment-scope-2jca)
+- [The Day I Realized I Wasn&#39;t Building Apps](https://dev.to/ashb4/the-day-i-realized-i-wasnt-building-apps-14fm)
+- [Why Your Generated Tone Clicks, and How an Envelope Fixes It](https://dev.to/mwiginton/why-your-generated-tone-clicks-and-how-an-envelope-fixes-it-1p89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
