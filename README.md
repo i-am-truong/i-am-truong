@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28)
-- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8)
-- [Is UI Overdraw Killing Your WebGL Performance?](https://dev.to/alok_krishali/is-ui-overdraw-killing-your-webgl-performance-2o92)
-- [Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish](https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1)
-- [How to Standardize Line Endings in Git Without Committing `.gitattributes`](https://dev.to/vast-cow/how-to-standardize-line-endings-in-git-without-committing-gitattributes-1k29)
+- [&quot;DeprecationWarning: datetime.datetime.utcnow&lpar;&rpar; is deprecated&quot; — fixing the Python 3.12 warning in AWS Lambda](https://dev.to/ntoledo319/deprecationwarning-datetimedatetimeutcnow-is-deprecated-fixing-the-python-312-warning-in-5ggc)
+- [Adoption Is a Latency Problem: The Zero-Backlog Policy](https://dev.to/helkyn_coello/adoption-is-a-latency-problem-the-zero-backlog-policy-1pi0)
+- [AI专用芯片御三家：Celebras vs Groq vs Taalas（今天的主角）](https://dev.to/cognitalk/aizhuan-yong-xin-pian-yu-san-jia-celebras-vs-groq-vs-taalasjin-tian-de-zhu-jiao--3iec)
+- [I put my identity-depth scorer behind a public GET endpoint so you can argue with it](https://dev.to/zekebuilds/i-put-my-identity-depth-scorer-behind-a-public-get-endpoint-so-you-can-argue-with-it-1cgl)
+- [Good Boy Amnesia: An AI Detective Game where Memory IS the Gameplay 🐶🧠](https://dev.to/reet_singh_ee97da2986538e/good-boy-amnesia-an-ai-detective-game-where-memory-is-the-gameplay-5ap0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
