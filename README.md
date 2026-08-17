@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [100% client-side dev toolkit &lpar;no data leaves your browser&rpar;](https://dev.to/juicy/100-client-side-dev-toolkit-no-data-leaves-your-browser-209g)
-- [AI Generates Faster Than You Review. Properties Replace the Reviewer.](https://dev.to/bala_paranj_059d338e44e7e/ai-generates-faster-than-you-review-properties-replace-the-reviewer-o7j)
-- [Azure Data Theft Campaign: F500 Breach Anatomy &amp; Operator TTPs](https://dev.to/satyam_rastogi/azure-data-theft-campaign-f500-breach-anatomy-operator-ttps-3oho)
-- [Your monorepo remembers infrastructure you deleted](https://dev.to/siddharth_pandey_27/your-monorepo-remembers-infrastructure-you-deleted-24lp)
-- [The React Search Bug That Shows Old Results and How to Fix It](https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7)
+- [The `doRegister is not defined` Bug: How a Live-Count Feature Broke Registration](https://dev.to/minia2a/the-doregister-is-not-defined-bug-how-a-live-count-feature-broke-registration-3239)
+- [I Wish I Knew AI API Cost Hacks Sooner — Full Breakdown](https://dev.to/truelane/i-wish-i-knew-ai-api-cost-hacks-sooner-full-breakdown-65k)
+- [SCORM vs Custom API: Integrating Games with Learning Management Systems](https://dev.to/oceanviewgames/scorm-vs-custom-api-integrating-games-with-learning-management-systems-2j0o)
+- [The context you passed is not the context that cancels](https://dev.to/msakai/the-context-you-passed-is-not-the-context-that-cancels-2ia5)
+- [I Wish I Knew About Fast AI APIs Sooner — Here&#39;s the Full Breakdown](https://dev.to/gentleforge/i-wish-i-knew-about-fast-ai-apis-sooner-heres-the-full-breakdown-528b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
