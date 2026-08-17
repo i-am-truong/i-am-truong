@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MiniAI Chat SDK – React AI Chat in 5 Minutes with Claude, Gemini, and LLM7](https://dev.to/mini_7181c522f240ea3c26a2/miniai-chat-sdk-react-ai-chat-in-5-minutes-with-claude-gemini-and-llm7-2gc8)
-- [My best-looking GitHub Actions run shipped zero installs](https://dev.to/heinrichneb/my-best-looking-github-actions-run-shipped-zero-installs-1ee8)
-- [Your CI is not flaky. It fails every 7 days.](https://dev.to/heinrichneb/your-ci-is-not-flaky-it-fails-every-7-days-4ljd)
-- [Has your GitHub Actions gate ever said no?](https://dev.to/heinrichneb/has-your-github-actions-gate-ever-said-no-dj2)
-- [Parsing numbers from JSON in Python](https://dev.to/pomidoroshev/parsing-numbers-from-json-in-python-2e8c)
+- [Android APK Distribution: What Developers Should Consider Outside Google Play](https://dev.to/rae_stammler_c7297978420c/android-apk-distribution-what-developers-should-consider-outside-google-play-4pkj)
+- [How do I group an array of objects in JavaScript and sum a field?](https://dev.to/juli04guilar/how-do-i-group-an-array-of-objects-in-javascript-and-sum-a-field-54gi)
+- [Object Detection on Android for Autonomous Robots](https://dev.to/vmodal_ai/object-detection-on-android-for-autonomous-robots-5hf0)
+- [Building a Voice-Controlled Robot with Kotlin and LLMs](https://dev.to/vmodal_ai/building-a-voice-controlled-robot-with-kotlin-and-llms-4mn0)
+- [Android + NVIDIA Jetson + ROS 2: Building an AI Robot](https://dev.to/vmodal_ai/android-nvidia-jetson-ros-2-building-an-ai-robot-1jjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
