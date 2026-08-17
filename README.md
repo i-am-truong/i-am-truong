@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OmniMem, IDE RAM monitor :&rpar;](https://dev.to/sergiosuarezgil/omnimem-mi-extension-para-ide-4npe)
-- [AI Visibility May Start Before Search Volume: A New Framework for Content Strategy](https://dev.to/alifar/ai-visibility-may-start-before-search-volume-a-new-framework-for-content-strategy-im7)
-- [Matt Pocock&#39;s skills repo is the missing link for vibe coding](https://dev.to/yosp31/matt-pococks-skills-repo-is-the-missing-link-for-vibe-coding-40c5)
-- [Retry patterns: when you should give up &lpar;and why most code doesn&#39;t&rpar;](https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa)
-- [Don&#39;t update Compact maps on Midnight Undeployed](https://dev.to/socialprescribing/dont-update-compact-maps-on-midnight-undeployed-35dl)
+- [How to build a Polymarket trading bot &lpar;50ms delay edition&rpar;](https://dev.to/soulcrancerdev/how-to-build-a-polymarket-trading-bot-50ms-delay-edition-20o4)
+- [How to Debug Android Chrome Browser Logs from a Windows Laptop](https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib)
+- [Hashing across architectures](https://dev.to/geauxvirtual/hashing-across-architectures-3fb4)
+- [&quot;It works on my machine&quot;](https://dev.to/geauxvirtual/it-works-on-my-machine-741)
+- [# The Part About Linked Lists Being O&lpar;1&rpar; That Confused Me](https://dev.to/sylvia_uwa/-the-part-about-linked-lists-being-o1-that-confused-me-1d39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
