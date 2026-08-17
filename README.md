@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker avançado - multi-stage builds, segurança e CI/CD](https://dev.to/apsis-cc/docker-avancado-multi-stage-builds-seguranca-e-cicd-113j)
-- [How to Build a Playwright BDD Test Framework from Scratch: Step-by-Step Setup Guide](https://dev.to/shell_qa/how-to-build-a-playwright-bdd-test-framework-from-scratch-step-by-step-setup-guide-geo)
-- [Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds](https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm)
-- [Structuring a Playwright BDD Automation Framework: Core Architecture &amp; Directory Guide](https://dev.to/shell_qa/structuring-a-playwright-bdd-automation-framework-core-architecture-directory-guide-5hne)
-- [The Importance of a Risk Framework in Corporate Cybersecurity](https://dev.to/marco_altomare_0e7674642c/the-importance-of-a-risk-framework-in-corporate-cybersecurity-3ki0)
+- [I built a system to catch unreliable AI agents. In my own evaluation, it missed the worst one.](https://dev.to/alizahidraja/i-built-a-system-to-catch-unreliable-ai-agents-in-my-own-evaluation-it-missed-the-worst-one-k48)
+- [Recreate the Dropped Config Field Before You Trust the AI Refactor](https://dev.to/codepy_1473/recreate-the-dropped-config-field-before-you-trust-the-ai-refactor-5a02)
+- [From 7MB to 52KB: My WebAssembly Size Optimization Journey](https://dev.to/cdieck88/from-7mb-to-52kb-my-webassembly-size-optimization-journey-3oah)
+- [Email Marketing for Developers](https://dev.to/shreyastaware/email-marketing-for-developers-53ko)
+- [Testing That Secrets Cannot Reach Logs in Go](https://dev.to/anakin_writers/testing-that-secrets-cannot-reach-logs-in-go-504)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
