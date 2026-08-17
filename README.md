@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a system to catch unreliable AI agents. In my own evaluation, it missed the worst one.](https://dev.to/alizahidraja/i-built-a-system-to-catch-unreliable-ai-agents-in-my-own-evaluation-it-missed-the-worst-one-k48)
-- [Recreate the Dropped Config Field Before You Trust the AI Refactor](https://dev.to/codepy_1473/recreate-the-dropped-config-field-before-you-trust-the-ai-refactor-5a02)
-- [From 7MB to 52KB: My WebAssembly Size Optimization Journey](https://dev.to/cdieck88/from-7mb-to-52kb-my-webassembly-size-optimization-journey-3oah)
-- [Email Marketing for Developers](https://dev.to/shreyastaware/email-marketing-for-developers-53ko)
-- [Testing That Secrets Cannot Reach Logs in Go](https://dev.to/anakin_writers/testing-that-secrets-cannot-reach-logs-in-go-504)
+- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)
+- [Why I don’t want AI agents executing code in someone else’s cloud](https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf)
+- [Virtual threads didn&#39;t scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)
+- [Stripe Just Bought OpenRouter for $7B+ — and That Is the Most Important AI Story of the Week](https://dev.to/amrree/stripe-just-bought-openrouter-for-7b-and-that-is-the-most-important-ai-story-of-the-week-4kc9)
+- [Python Scope, First-Class Functions, *args,**kwargs &amp; Mutable Default Arguments](https://dev.to/deepika_pusala/python-scope-first-class-functions-argskwargs-mutable-default-arguments-1dbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
