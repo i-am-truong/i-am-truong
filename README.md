@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)
-- [Why I don’t want AI agents executing code in someone else’s cloud](https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf)
-- [Virtual threads didn&#39;t scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)
-- [Stripe Just Bought OpenRouter for $7B+ — and That Is the Most Important AI Story of the Week](https://dev.to/amrree/stripe-just-bought-openrouter-for-7b-and-that-is-the-most-important-ai-story-of-the-week-4kc9)
-- [Python Scope, First-Class Functions, *args,**kwargs &amp; Mutable Default Arguments](https://dev.to/deepika_pusala/python-scope-first-class-functions-argskwargs-mutable-default-arguments-1dbc)
+- [What Happens When You Create a Pod in Kubernetes?](https://dev.to/naveens16/what-happens-when-you-create-a-pod-in-kubernetes-5p8)
+- [[Boost]](https://dev.to/diadal/-35cl)
+- [IA Predice Crisis de Ansiedad en Autismo: Guía](https://dev.to/niklauss_quintero_1360ce7/ia-predice-crisis-de-ansiedad-en-autismo-guia-233j)
+- [Linear Algebra Done Right: A fundamental perspective!](https://dev.to/mgobea/linear-algebra-done-right-a-fundamental-perspective-dbh)
+- [Building Structured Inter-Agent Communication: A Practical Guide](https://dev.to/albert_zhang_f468830cf0e6/building-structured-inter-agent-communication-a-practical-guide-26i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
