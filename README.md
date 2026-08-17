@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Daily Tech-News Bot for Slack or Discord in 15 Minutes &lpar;Node.js + NewTqnia API&rpar;](https://dev.to/samymassoud/build-a-daily-tech-news-bot-for-slack-or-discord-in-15-minutes-nodejs-newtqnia-api-5gmp)
+- [Your robots.txt probably does not block the AI crawler you think it blocks](https://dev.to/angeo/your-robotstxt-probably-does-not-block-the-ai-crawler-you-think-it-blocks-5g3n)
+- [I Built a Bowl Builder Tool for Nawtch, and the Save Button Was Harder Than It Sounds](https://dev.to/uhdallas/i-built-a-bowl-builder-tool-for-nawtch-and-the-save-button-was-harder-than-it-sounds-8g4)
 - [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
 - [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
-- [Aspect Ratio Mismatches in Production: A Frontend Team&#39;s Crop QA Checklist](https://dev.to/lizely/aspect-ratio-mismatches-in-production-a-frontend-teams-crop-qa-checklist-2njb)
-- [Practice Real-World Testing Scenarios for QA: Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-26o9)
-- [Lessons from a 2,734-tick earning loop on OpenClaw](https://dev.to/hamo_e38ec2422de5ab43c6c6/lessons-from-a-2734-tick-earning-loop-on-openclaw-4g92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
