@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Daily Tech-News Bot for Slack or Discord in 15 Minutes &lpar;Node.js + NewTqnia API&rpar;](https://dev.to/samymassoud/build-a-daily-tech-news-bot-for-slack-or-discord-in-15-minutes-nodejs-newtqnia-api-5gmp)
-- [Your robots.txt probably does not block the AI crawler you think it blocks](https://dev.to/angeo/your-robotstxt-probably-does-not-block-the-ai-crawler-you-think-it-blocks-5g3n)
-- [I Built a Bowl Builder Tool for Nawtch, and the Save Button Was Harder Than It Sounds](https://dev.to/uhdallas/i-built-a-bowl-builder-tool-for-nawtch-and-the-save-button-was-harder-than-it-sounds-8g4)
-- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
-- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
+- [Introducing Ayeixa MCP Guardian: Capability Fencing &amp; Parameter Sanitization for MCP](https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-mcp-guardian-capability-fencing-parameter-sanitization-for-mcp-14dj)
+- [Feature Flag Pitfalls: How to Turn Your Codebase Into a Haunted House](https://dev.to/avlcodemonkey-industries/feature-flag-pitfalls-how-to-turn-your-codebase-into-a-haunted-house-1b1m)
+- [The loudest attacks on our Next.js site were aimed at software it never ran](https://dev.to/custralis/the-loudest-attacks-on-our-nextjs-site-were-aimed-at-software-it-never-ran-2g1n)
+- [Feature Flags in the Real World: Use Cases That Won&#39;t Get You Fired](https://dev.to/avlcodemonkey-industries/feature-flags-in-the-real-world-use-cases-that-wont-get-you-fired-20j2)
+- [Build Your First Spring AI Application with OpenAI Using Spring Boot](https://dev.to/ayshriv/build-your-first-spring-ai-application-with-openai-using-spring-boot-c3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
