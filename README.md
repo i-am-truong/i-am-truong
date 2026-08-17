@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Introduction: What Is Java, Who Created It, and How Sun Microsystems Became Oracle?](https://dev.to/poushmita_paul_fddcbe1a2f/java-introduction-what-is-java-who-created-it-and-how-sun-microsystems-became-oracle-4abp)
-- [What I Learned Shipping My First Chrome Extension to the Web Store](https://dev.to/10aburnett/what-i-learned-shipping-my-first-chrome-extension-to-the-web-store-42lb)
-- [QUASAR: How Saliency-Weighted Reconstruction Closes the Loss Floor Gap in LLM Quantization-Aware Training](https://dev.to/prabhakar_chaudhary_7afe4/quasar-how-saliency-weighted-reconstruction-closes-the-loss-floor-gap-in-llm-quantization-aware-5akb)
-- [Overview of the RTOS Kernel Project](https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca)
-- [The Ecology of Engineering Teams](https://dev.to/druid628/the-ecology-of-engineering-teams-3jgg)
+- [Few-Shot Prompting Explained: Teach AI With Examples &lpar;With Templates&rpar;](https://dev.to/sungwoo_lee_e0f26be4a29fd/few-shot-prompting-explained-teach-ai-with-examples-with-templates-367c)
+- [St-core.fscss Multi-Line Chart Pure CSS](https://dev.to/fscss/st-corefscss-multi-line-chart-pure-css-npa)
+- [What I Learned Turning a Side Project Into a Sellable Dev Tool](https://dev.to/gerale30/what-i-learned-turning-a-side-project-into-a-sellable-dev-tool-35ie)
+- [Real Ephemeris Math, Graceful AI Degradation, and a Rebuild Gotcha: Building an Astrology SaaS on Cloudflare Workers](https://dev.to/amritanshu_gaurav_8c70b9e/real-ephemeris-math-graceful-ai-degradation-and-a-rebuild-gotcha-building-an-astrology-saas-on-308i)
+- [Building a GraphQL Video Discovery API with Strawberry and FastAPI over SQLite](https://dev.to/ahmet_gedik778845/building-a-graphql-video-discovery-api-with-strawberry-and-fastapi-over-sqlite-3maa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
