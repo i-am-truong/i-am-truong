@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Performance Gains After a Rails Upgrade from 7 to 8](https://dev.to/railsfactory_sedin/performance-gains-after-a-rails-upgrade-from-7-to-8-3m4d)
-- [How to Build a &quot;Second Brain&quot; with Obsidian That Your AI Agent Can Read, Without Building a Custom RAG Pipeline](https://dev.to/next4i/how-to-build-a-second-brain-with-obsidian-that-your-ai-agent-can-read-without-building-a-custom-29h3)
-- [Your AI Agent Logs Are Not an Audit Trail Until You Test the Evidence](https://dev.to/zira125/your-ai-agent-logs-are-not-an-audit-trail-until-you-test-the-evidence-19ld)
-- [Stablecoin settlement b2b: як бізнес використовує стейблкоїни для міжнародних розрахунків](https://dev.to/tanya_kamenskih_fae915d43/stablecoin-settlement-b2b-iak-biznies-vikoristovuie-stieiblkoyini-dlia-mizhnarodnikh-rozrakhunkiv-4d3b)
-- [The Follow-Up Question That Always Started With &quot;What Would You Sacrifice&quot;](https://dev.to/amitesh0512/the-follow-up-question-that-always-started-with-what-would-you-sacrifice-2mpd)
+- [Don&#39;t Trust a New Model&#39;s Benchmarks Until You Run Your Own 30-Minute Smoke Test](https://dev.to/webx_2736/dont-trust-a-new-models-benchmarks-until-you-run-your-own-30-minute-smoke-test-485i)
+- [Unified Secrets Security with GitGuardian and AWS Secrets Manager](https://dev.to/gitguardian/unified-secrets-security-with-gitguardian-and-aws-secrets-manager-416)
+- [NuGet Restore Failing with &#39;Unable to find version&#39; Package? Check Your NuGetToolInstaller Version!](https://dev.to/sui23e879d/nuget-restore-failing-with-unable-to-find-version-package-check-your-nugettoolinstaller-version-2e9l)
+- [Meme Monday](https://dev.to/ben/meme-monday-1abg)
+- [How to Build a Lightweight Client Delivery Workflow](https://dev.to/dhom_917d3e3b56a850ad04a2/how-to-build-a-lightweight-client-delivery-workflow-6np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
