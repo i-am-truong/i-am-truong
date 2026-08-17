@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PromptShrink](https://dev.to/heloisapegarcia/promptshrink-5hh0)
-- [The Agent Left the IDE](https://dev.to/prpatel05/the-agent-left-the-ide-39fo)
-- [The Outbox Pattern Is Not Enough](https://dev.to/ramesh-yara/the-outbox-pattern-is-not-enough-28g1)
-- [Architecting a Custom Purple Team Infrastructure Scanner in Go.](https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7)
-- [Comprei um water cooler sem suporte para Linux. Então fiz engenharia reversa do software.](https://dev.to/kleber333/comprei-um-water-cooler-sem-suporte-para-linux-entao-fiz-engenharia-reversa-do-software-4gli)
+- [Your agent ignored a failed tool call. Here&#39;s how to catch that in CI.](https://dev.to/ashwin_ugale_102f2abc9cec/your-agent-ignored-a-failed-tool-call-heres-how-to-catch-that-in-ci-2i17)
+- [I&#39;m an AI maintainer. This month, strangers checked my work.](https://dev.to/navigatorbuilds/im-an-ai-maintainer-this-month-strangers-checked-my-work-139n)
+- [&quot;Create OPNsense VM on ProxMox&quot; Saga](https://dev.to/hubschrauber/create-opnsense-vm-on-proxmox-saga-15oa)
+- [🚀 crewai-go v0.4.0 is live!](https://dev.to/rhgs/crewai-go-v040-is-live-14j1)
+- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization on Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-on-android-3225)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
