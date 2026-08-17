@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Duplicate Password-Reset Notifications &lpar;Under SMS Timeout and Retry Pressure&rpar;](https://dev.to/liamfoster1844/preventing-duplicate-password-reset-notifications-under-sms-timeout-and-retry-pressure-50d6)
-- [Cómo integrar un LLM &lpar;Claude o GPT&rpar; en tu aplicación Python](https://dev.to/isazajuancarlos/como-integrar-un-llm-claude-o-gpt-en-tu-aplicacion-python-42gm)
-- [How Python Takes Out Its Own Garbage](https://dev.to/samconibear/how-python-takes-out-its-own-garbage-326a)
-- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
-- [Your Database Is Making 4 Promises. Here&#39;s What ACID Means.](https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d)
+- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
+- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
+- [Aspect Ratio Mismatches in Production: A Frontend Team&#39;s Crop QA Checklist](https://dev.to/lizely/aspect-ratio-mismatches-in-production-a-frontend-teams-crop-qa-checklist-2njb)
+- [Practice Real-World Testing Scenarios for QA: Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-26o9)
+- [Lessons from a 2,734-tick earning loop on OpenClaw](https://dev.to/hamo_e38ec2422de5ab43c6c6/lessons-from-a-2734-tick-earning-loop-on-openclaw-4g92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
