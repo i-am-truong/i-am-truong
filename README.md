@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fulmine.js: a faster drop-in Express 5 replacement on uWebSockets.js](https://dev.to/nigrosimone/fulminejs-a-faster-drop-in-express-5-replacement-on-uwebsocketsjs-3bnn)
-- [Fraunhofer Researchers Refine Quantum Advantage Assessment Metrics](https://dev.to/vpodk/fraunhofer-researchers-refine-quantum-advantage-assessment-metrics-4a5)
-- [Circle Ships an App Store for AI Agents — and Discovery Becomes the Moat](https://dev.to/minia2a/circle-ships-an-app-store-for-ai-agents-and-discovery-becomes-the-moat-2j99)
-- [The &quot;1 Dog Year = 7 Human Years&quot; Myth: How I Built a Veterinary-Accurate Pet Age Engine in Next.js](https://dev.to/g_s_6bc9d3a878dd452010bec/the-1-dog-year-7-human-years-myth-how-i-built-a-veterinary-accurate-pet-age-engine-in-nextjs-5ag8)
-- [React.memo Doesn&#39;t Do What You Think](https://dev.to/frontend-guide/reactmemo-doesnt-do-what-you-think-265o)
+- [Preventing Duplicate Password-Reset Notifications &lpar;Under SMS Timeout and Retry Pressure&rpar;](https://dev.to/liamfoster1844/preventing-duplicate-password-reset-notifications-under-sms-timeout-and-retry-pressure-50d6)
+- [Cómo integrar un LLM &lpar;Claude o GPT&rpar; en tu aplicación Python](https://dev.to/isazajuancarlos/como-integrar-un-llm-claude-o-gpt-en-tu-aplicacion-python-42gm)
+- [How Python Takes Out Its Own Garbage](https://dev.to/samconibear/how-python-takes-out-its-own-garbage-326a)
+- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
+- [Your Database Is Making 4 Promises. Here&#39;s What ACID Means.](https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
