@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When You Create a Pod in Kubernetes?](https://dev.to/naveens16/what-happens-when-you-create-a-pod-in-kubernetes-5p8)
-- [[Boost]](https://dev.to/diadal/-35cl)
-- [IA Predice Crisis de Ansiedad en Autismo: Guía](https://dev.to/niklauss_quintero_1360ce7/ia-predice-crisis-de-ansiedad-en-autismo-guia-233j)
-- [Linear Algebra Done Right: A fundamental perspective!](https://dev.to/mgobea/linear-algebra-done-right-a-fundamental-perspective-dbh)
-- [Building Structured Inter-Agent Communication: A Practical Guide](https://dev.to/albert_zhang_f468830cf0e6/building-structured-inter-agent-communication-a-practical-guide-26i7)
+- [Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time](https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7)
+- [GSoC 2026 - Week 11](https://dev.to/harkeerat24/gsoc-2026-week-11-2fj)
+- [AIoT and the Physical World: Turning Connected Data Into Industrial Intelligence](https://dev.to/samra_mahmood_235c878310b/aiot-and-the-physical-world-turning-connected-data-into-industrial-intelligence-31li)
+- [Mastering Salesforce Automation: A Complete Guide to Centralized Test Locators](https://dev.to/shell_qa/mastering-salesforce-automation-a-complete-guide-to-centralized-test-locators-25ln)
+- [WebSockets: How Real-Time Communication Works](https://dev.to/tanu_priya/websockets-how-real-time-communication-works-4500)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
