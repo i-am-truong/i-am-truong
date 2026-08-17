@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Polymarket trading bot &lpar;50ms delay edition&rpar;](https://dev.to/soulcrancerdev/how-to-build-a-polymarket-trading-bot-50ms-delay-edition-20o4)
-- [How to Debug Android Chrome Browser Logs from a Windows Laptop](https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib)
-- [Hashing across architectures](https://dev.to/geauxvirtual/hashing-across-architectures-3fb4)
-- [&quot;It works on my machine&quot;](https://dev.to/geauxvirtual/it-works-on-my-machine-741)
-- [# The Part About Linked Lists Being O&lpar;1&rpar; That Confused Me](https://dev.to/sylvia_uwa/-the-part-about-linked-lists-being-o1-that-confused-me-1d39)
+- [Breaking Up Big SwiftUI Views the Right Way](https://dev.to/emadbeyrami/breaking-up-big-swiftui-views-the-right-way-3m42)
+- [Gitcard Weekly Challenge #1: Build Something That Solves an Everyday Problem](https://dev.to/ptb4866/gitcard-weekly-challenge-1-build-something-that-solves-an-everyday-problem-35lb)
+- [Upgrade your Test Suite with fn-monitor](https://dev.to/typescript-guy/upgrade-your-test-suite-with-fn-monitor-17gn)
+- [The Whole Loop, One Window](https://dev.to/thebguy/the-whole-loop-one-window-561g)
+- [Single-flight caching: how one hot key stops taking the database down](https://dev.to/numart/single-flight-caching-how-one-hot-key-stops-taking-the-database-down-3ae5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
