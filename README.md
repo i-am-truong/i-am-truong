@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Trust a New Model&#39;s Benchmarks Until You Run Your Own 30-Minute Smoke Test](https://dev.to/webx_2736/dont-trust-a-new-models-benchmarks-until-you-run-your-own-30-minute-smoke-test-485i)
-- [Unified Secrets Security with GitGuardian and AWS Secrets Manager](https://dev.to/gitguardian/unified-secrets-security-with-gitguardian-and-aws-secrets-manager-416)
-- [NuGet Restore Failing with &#39;Unable to find version&#39; Package? Check Your NuGetToolInstaller Version!](https://dev.to/sui23e879d/nuget-restore-failing-with-unable-to-find-version-package-check-your-nugettoolinstaller-version-2e9l)
-- [Meme Monday](https://dev.to/ben/meme-monday-1abg)
-- [How to Build a Lightweight Client Delivery Workflow](https://dev.to/dhom_917d3e3b56a850ad04a2/how-to-build-a-lightweight-client-delivery-workflow-6np)
+- [100% client-side dev toolkit &lpar;no data leaves your browser&rpar;](https://dev.to/juicy/100-client-side-dev-toolkit-no-data-leaves-your-browser-209g)
+- [AI Generates Faster Than You Review. Properties Replace the Reviewer.](https://dev.to/bala_paranj_059d338e44e7e/ai-generates-faster-than-you-review-properties-replace-the-reviewer-o7j)
+- [Azure Data Theft Campaign: F500 Breach Anatomy &amp; Operator TTPs](https://dev.to/satyam_rastogi/azure-data-theft-campaign-f500-breach-anatomy-operator-ttps-3oho)
+- [Your monorepo remembers infrastructure you deleted](https://dev.to/siddharth_pandey_27/your-monorepo-remembers-infrastructure-you-deleted-24lp)
+- [The React Search Bug That Shows Old Results and How to Fix It](https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
