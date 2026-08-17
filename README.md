@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The `doRegister is not defined` Bug: How a Live-Count Feature Broke Registration](https://dev.to/minia2a/the-doregister-is-not-defined-bug-how-a-live-count-feature-broke-registration-3239)
-- [I Wish I Knew AI API Cost Hacks Sooner — Full Breakdown](https://dev.to/truelane/i-wish-i-knew-ai-api-cost-hacks-sooner-full-breakdown-65k)
-- [SCORM vs Custom API: Integrating Games with Learning Management Systems](https://dev.to/oceanviewgames/scorm-vs-custom-api-integrating-games-with-learning-management-systems-2j0o)
-- [The context you passed is not the context that cancels](https://dev.to/msakai/the-context-you-passed-is-not-the-context-that-cancels-2ia5)
-- [I Wish I Knew About Fast AI APIs Sooner — Here&#39;s the Full Breakdown](https://dev.to/gentleforge/i-wish-i-knew-about-fast-ai-apis-sooner-heres-the-full-breakdown-528b)
+- [Can Copilot Fix Its Own Security Findings? Testing GitHub Agentic Autofix](https://dev.to/pwd9000/can-copilot-fix-its-own-security-findings-testing-github-agentic-autofix-351b)
+- [Iniciando minha jornada em ADS: Configurando o ambiente com Git, VS Code e GitHub](https://dev.to/davidjrpereira/iniciando-minha-jornada-em-ads-configurando-o-ambiente-com-git-vs-code-e-github-2hdh)
+- [What breaks if I delete this file? React tooling can&#39;t answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
+- [Why I Built a Browser-Only Tool Platform &lpar;and What Broke That Rule&rpar;](https://dev.to/amritanshu_gaurav_8c70b9e/why-i-built-a-browser-only-tool-platform-and-what-broke-that-rule-16df)
+- [🚀 This Week&#39;s Build: Save. Share. Stay Aligned.](https://dev.to/darshit_tank/this-weeks-build-save-share-stay-aligned-ebh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
