@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are You Crippled By Your Preferences](https://dev.to/psypher1/are-you-crippled-by-your-preferences-8l5)
-- [I built two small Claude Code plugins this week - here&#39;s what I learned about hooks](https://dev.to/abhishek_sharma_a9792aee8/i-built-two-small-claude-code-plugins-this-week-heres-what-i-learned-about-hooks-2f29)
-- [The Agent Economy Reality Check: Which APIs Will Agents Pay $USDC for First via x402?](https://dev.to/anhmtk/the-agent-economy-reality-check-which-apis-will-agents-pay-usdc-for-first-via-x402-556m)
-- [Edmonton Founders: Stop Hiring Local, Start Building Across Timezones](https://dev.to/devwithzach/edmonton-founders-stop-hiring-local-start-building-across-timezones-17dj)
-- [Keeping junk out of programmatic geo pages: an allow list for metro, a block list for districts](https://dev.to/numart/keeping-junk-out-of-programmatic-geo-pages-an-allow-list-for-metro-a-block-list-for-districts-4adk)
+- [Cross-Browser Testing Tools: The 2026 Landscape &amp; Decision Framework](https://dev.to/maadhesh_d14697cfa10adfab/cross-browser-testing-tools-the-2026-landscape-decision-framework-84i)
+- [What the registry of a dying chain revealed](https://dev.to/sergeipalii/what-the-registry-of-a-dying-chain-revealed-1ha4)
+- [I Got Tired of $50/month YouTube SEO Tools, So I Built a Lightning-Fast Free Alternative with Next.js &amp; Groq AI 🚀](https://dev.to/freeviralkit/i-got-tired-of-50mo-youtube-seo-tools-so-i-built-a-lightning-fast-free-alternative-with-nextjs-5cl8)
+- [QH256 in C — A Deterministic 256-Bit State Structure for K501-AIONARC](https://dev.to/k501is/qh256-in-c-a-deterministic-256-bit-state-structure-for-k501-aionarc-3bji)
+- [Memes políticos IA: la nueva arma viral de la campaña 2026](https://dev.to/leojulieta/memes-politicos-ia-la-nueva-arma-viral-de-la-campana-2026-4d75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
