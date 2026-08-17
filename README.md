@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#We&#39;re Building Contoprix — Here&#39;s Why](https://dev.to/neha_varade_554c4868f727a/were-building-contoprix-heres-why-2ncm)
-- [My team went too fast with AI coding, and now we&#39;re drowning in tech debt](https://dev.to/richard_smith_154156d471ef/my-team-went-too-fast-with-ai-coding-and-now-were-drowning-in-tech-debt-5hl0)
-- [Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?](https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0)
-- [Export a Database Data Dictionary: HTML, Markdown and Excel from Your ERD](https://dev.to/tbson87/export-a-database-data-dictionary-html-markdown-and-excel-from-your-erd-4oo7)
-- [Prove a Generated Migration Can Undo Itself Before It Touches Your Data](https://dev.to/codepy_1473/prove-a-generated-migration-can-undo-itself-before-it-touches-your-data-gi0)
+- [Caninography](https://dev.to/maisamabbas0323/caninography-36g5)
+- [Building a Production-Ready Chat Application: From Zero to Live](https://dev.to/engineersabir/building-a-production-ready-chat-application-from-zero-to-live-55dl)
+- [PawServe: AI Symptom Help, Breed Finder &amp; Real Vet Care in One Place](https://dev.to/m1raclescr1pt/pawserve-ai-symptom-help-breed-finder-real-vet-care-in-one-place-5b1g)
+- [Running three AI models on one local server when your VRAM doesn&#39;t cover all of them](https://dev.to/hannune/running-three-ai-models-on-one-local-server-when-your-vram-doesnt-cover-all-of-them-b7g)
+- [I thought backing up Supabase was just pg_dump + rclone. It wasn&#39;t.](https://dev.to/mkpdigital/i-thought-backing-up-supabase-was-just-pgdump-rclone-it-wasnt-1lbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
