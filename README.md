@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming for Cybersecurity: What You Actually Need to Know](https://dev.to/xyberghost007/programming-for-cybersecurity-what-you-actually-need-to-know-1d99)
+- [The Kitchen Doesn&#39;t Care About Your Excuses](https://dev.to/kenwalger/the-kitchen-doesnt-care-about-your-excuses-i10)
+- [Why I Built Unlockt: A Local-First Instagram Saved Archiver, Canvas Collage Studio &amp; 9:16 Video Vault](https://dev.to/mah7moud_madi/why-i-built-unlockt-a-local-first-instagram-saved-archiver-canvas-collage-studio-916-video-fkk)
 - [Algorithmic Patterns: The Ultimate Guide to Sliding Window](https://dev.to/architect_bytes/algorithmic-patterns-the-ultimate-guide-to-sliding-window-33g9)
-- [Network Devices Explained — The Foundation Every Cloud &amp; DevOps Engineer Needs](https://dev.to/tejas_shinkar/network-devices-explained-the-foundation-every-cloud-devops-engineer-needs-218a)
-- [Why I left Warehouse out of our Fabric deployment scope](https://dev.to/vedaforge_eng/why-i-left-warehouse-out-of-our-fabric-deployment-scope-2jca)
-- [The Day I Realized I Wasn&#39;t Building Apps](https://dev.to/ashb4/the-day-i-realized-i-wasnt-building-apps-14fm)
-- [Why Your Generated Tone Clicks, and How an Envelope Fixes It](https://dev.to/mwiginton/why-your-generated-tone-clicks-and-how-an-envelope-fixes-it-1p89)
+- [Codex vs. Claude Code at Liar&#39;s Dice: the Winning Bluff Was the Truth](https://dev.to/haoxiang_li_a709204042e6b/codex-vs-claude-code-at-liars-dice-the-winning-bluff-was-the-truth-203l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
