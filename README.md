@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Few-Shot Prompting Explained: Teach AI With Examples &lpar;With Templates&rpar;](https://dev.to/sungwoo_lee_e0f26be4a29fd/few-shot-prompting-explained-teach-ai-with-examples-with-templates-367c)
-- [St-core.fscss Multi-Line Chart Pure CSS](https://dev.to/fscss/st-corefscss-multi-line-chart-pure-css-npa)
-- [What I Learned Turning a Side Project Into a Sellable Dev Tool](https://dev.to/gerale30/what-i-learned-turning-a-side-project-into-a-sellable-dev-tool-35ie)
-- [Real Ephemeris Math, Graceful AI Degradation, and a Rebuild Gotcha: Building an Astrology SaaS on Cloudflare Workers](https://dev.to/amritanshu_gaurav_8c70b9e/real-ephemeris-math-graceful-ai-degradation-and-a-rebuild-gotcha-building-an-astrology-saas-on-308i)
-- [Building a GraphQL Video Discovery API with Strawberry and FastAPI over SQLite](https://dev.to/ahmet_gedik778845/building-a-graphql-video-discovery-api-with-strawberry-and-fastapi-over-sqlite-3maa)
+- [Authenticated Node.js Web Chatbot Backend Validates Streaming Reviews &lpar;Without an SDK&rpar;](https://dev.to/mitchellcross2134/authenticated-nodejs-web-chatbot-backend-validates-streaming-reviews-without-an-sdk-14bm)
+- [Your Database Said &quot;Success.&quot; Your Message Broker Said &quot;Try Again.&quot;](https://dev.to/kainat_saricioglu/your-database-said-success-your-message-broker-said-try-again-4jaj)
+- [I built SugarTrack: A simple offline blood sugar tracker for Android](https://dev.to/hunzaboy/i-built-sugartrack-a-simple-offline-blood-sugar-tracker-for-android-k45)
+- [Shadow Traffic Is the Only Honest Free Model Evaluation](https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja)
+- [From HTTP Requests to Atomic On-Chain Transactions](https://dev.to/parnita_singh_73778510977/from-http-requests-to-atomic-on-chain-transactions-3517)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
