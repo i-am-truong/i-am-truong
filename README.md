@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😸Catbot Integration, AI Office, Cat Mode &lpar;AI Avatar v17: VS Code and Chrome Extension&rpar;](https://dev.to/webdeveloperhyper/catbot-integration-ai-office-cat-mode-ai-avatar-v17-vs-code-and-chrome-extension-2f26)
-- [I built a production-ready Shopify Hydrogen theme and open-sourced it](https://dev.to/ozgursagiroglu/i-built-a-production-ready-shopify-hydrogen-theme-and-open-sourced-it-1891)
-- [Nintendo Hotline – What can Product Managers learn?](https://dev.to/h-j/nintendo-hotline-what-can-product-managers-learn-2gmj)
-- [Building AI Prompt Lab with Java 21, Spring Boot and React 19](https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8)
-- [What Actually Happens When You UPDATE a Row in PostgreSQL?](https://dev.to/ujjwal_011/what-actually-happens-when-you-update-a-row-in-postgresql-2nbk)
+- [GeekNews Frontend Weekly Deep Dive - 2026-08-17](https://dev.to/ageofclick/geeknews-frontend-weekly-deep-dive-2026-08-17-l5i)
+- [From a 15-Second Walk to a Digital Memory: Building a Canine Cognitive Twin](https://dev.to/prince_panchani_f971a20ec/from-a-15-second-walk-to-a-digital-memory-building-a-canine-cognitive-twin-476c)
+- [AI Agents Yield to Each Other in the &quot;Break Room&quot; — A Month in My DIY Discord Bridge](https://dev.to/ebibibi/ai-agents-yield-to-each-other-in-the-break-room-a-month-in-my-diy-discord-bridge-5gf1)
+- [Find people asking for what you sell, using LinkedIn post search](https://dev.to/data_pool/find-people-asking-for-what-you-sell-using-linkedin-post-search-23n3)
+- [Unit testing example](https://dev.to/chaimabouchareb/unit-testing-example-251k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
