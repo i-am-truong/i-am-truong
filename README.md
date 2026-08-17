@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Async Programming](https://dev.to/techwithmatheus/understanding-async-programming-4mei)
-- [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-2b1b)
-- [Authentication done right: JWT, sessions, and OAuth explained — Like a Marvel superhero assembling the team](https://dev.to/timevolt/authentication-done-right-jwt-sessions-and-oauth-explained-like-a-marvel-superhero-assembling-2ihf)
-- [The Status Quo of AI in Software Development &lpar;2026&rpar;](https://dev.to/ogc16/the-status-quo-of-ai-in-software-development-2026-17k8)
-- [Programming for Cybersecurity: What You Actually Need to Know](https://dev.to/xyberghost007/programming-for-cybersecurity-what-you-actually-need-to-know-1d99)
+- [Java Introduction: What Is Java, Who Created It, and How Sun Microsystems Became Oracle?](https://dev.to/poushmita_paul_fddcbe1a2f/java-introduction-what-is-java-who-created-it-and-how-sun-microsystems-became-oracle-4abp)
+- [What I Learned Shipping My First Chrome Extension to the Web Store](https://dev.to/10aburnett/what-i-learned-shipping-my-first-chrome-extension-to-the-web-store-42lb)
+- [QUASAR: How Saliency-Weighted Reconstruction Closes the Loss Floor Gap in LLM Quantization-Aware Training](https://dev.to/prabhakar_chaudhary_7afe4/quasar-how-saliency-weighted-reconstruction-closes-the-loss-floor-gap-in-llm-quantization-aware-5akb)
+- [Overview of the RTOS Kernel Project](https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca)
+- [The Ecology of Engineering Teams](https://dev.to/druid628/the-ecology-of-engineering-teams-3jgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
