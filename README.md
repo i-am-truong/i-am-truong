@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Walk When You Can SKI: Ditching the Type-Wait-Check Loop for Voice Coding](https://dev.to/julie_elis_01325f/why-walk-when-you-can-ski-ditching-the-type-wait-check-loop-for-voice-coding-31b3)
-- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
-- [An Index Suggestion Is a Hypothesis, Not a Patch](https://dev.to/codepy_1473/an-index-suggestion-is-a-hypothesis-not-a-patch-20e4)
-- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
-- [Spring proxies: JDK dynamic vs CGLIB](https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1)
+- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28)
+- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8)
+- [Is UI Overdraw Killing Your WebGL Performance?](https://dev.to/alok_krishali/is-ui-overdraw-killing-your-webgl-performance-2o92)
+- [Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish](https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1)
+- [How to Standardize Line Endings in Git Without Committing `.gitattributes`](https://dev.to/vast-cow/how-to-standardize-line-endings-in-git-without-committing-gitattributes-1k29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
