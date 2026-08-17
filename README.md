@@ -120,11 +120,18 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HOW TO DEVREL: The Most Un-Natural Act](https://dev.to/leonadato/how-to-devrel-the-most-un-natural-act-44oo)
-- [AI Is Not a Source of Truth](https://dev.to/rud0lforrp/ai-is-not-a-source-of-truth-48kc)
-- [&quot;My pending&lpar;&rpar; Function Learned to Draft Against Nested Comments. My audit&lpar;&rpar; Function Never Learned to Look for Them.&quot;](https://dev.to/enjoy_kumawat/my-pending-function-learned-to-draft-against-nested-comments-my-audit-function-never-learned-34h0)
-- [I built five code generators to delete Go boilerplate](https://dev.to/mickamy/i-built-five-code-generators-to-delete-go-boilerplate-h65)
-- [My MCP Tool&#39;s Schema Lists null as the Default for a Field. Sending null Was the One Value It Rejected.](https://dev.to/enjoy_kumawat/my-mcp-tools-schema-lists-null-as-the-default-for-a-field-sending-null-was-the-one-value-it-kdl)
+- [I Built a Broken Music Tool. The Mistake Became the Feature](https://dev.to/bell-kk/i-built-a-broken-music-tool-the-mistake-became-the-feature-mpp)
+- [Fintech Node.js Speech-to-Text: 4 Timeout Gates for Large Multipart Audio](https://dev.to/marcorossi4891/fintech-nodejs-speech-to-text-4-timeout-gates-for-large-multipart-audio-4m35)
+- [Making a dog talk with zero backend. 🐶✨
+
+Built an entirely client-side pipeline to animate talking pets:
+ - ✂️ In-browser image segmentation
+ - 👄 Real-time WebGL lip-syncing
+ - 🎬 Native MP4 export &lpar;all in the browser&rpar;
+
+No servers, no GPU compute bills](https://dev.to/singhamandeep007/making-a-dog-talk-with-zero-backend-built-an-entirely-client-side-pipeline-to-animate-3mkd)
+- [Google launches Gemini 3.7 Flash specifically for coding and agents](https://dev.to/ashutosh_maurya/google-launches-gemini-37-flash-specifically-for-coding-and-agents-17m4)
+- [PawSpective: See the World Closer to How Your Dog Sees It](https://dev.to/kernelkain/pawspective-see-the-world-closer-to-how-your-dog-sees-it-2k4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
