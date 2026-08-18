@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Search Console can measure TikTok. Your pipeline can&#39;t.](https://dev.to/jangwook_kim_e31e7291ad98/search-console-can-measure-tiktok-your-pipeline-cant-3ong)
-- [A 100% win rate is a red flag, not a résumé](https://dev.to/thedryrun/a-100-win-rate-is-a-red-flag-not-a-resume-50fd)
-- [Show DEV: I built an AI Agentic IDE from Scratch](https://dev.to/devoresyah/show-dev-i-built-an-ai-agentic-ide-from-scratch-3lha)
-- [Everything Is Green and Nothing Works: Tracing Kubernetes Network Reachability](https://dev.to/dovzhikova/everything-is-green-and-nothing-works-tracing-kubernetes-network-reachability-4e23)
-- [JavaScript! JavaScript! JavaScript!](https://dev.to/sonia_imorgan/javascript-javascript-javascript-3dm8)
+- [Cloudflare&#39;s AI block names eight crawlers. None is ChatGPT&#39;s search bot](https://dev.to/th3nate/cloudflares-ai-block-names-eight-crawlers-none-is-chatgpts-search-bot-4ikm)
+- [Your verifier will be gamed by the thing it verifies](https://dev.to/checksumstudio/your-verifier-will-be-gamed-by-the-thing-it-verifies-1e4d)
+- [Should Small Businesses Block AI Crawlers in 2026?](https://dev.to/rverwey/should-small-businesses-block-ai-crawlers-in-2026-3f43)
+- [Core Web Vitals Checklist for Small Business Websites](https://dev.to/rverwey/core-web-vitals-checklist-for-small-business-websites-4ef7)
+- [Next.js May 2026 Security Release: Small Business Takeaways](https://dev.to/rverwey/nextjs-may-2026-security-release-small-business-takeaways-1ge1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
