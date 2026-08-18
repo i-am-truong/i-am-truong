@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RAG - Async Pipelines, MCP](https://dev.to/ramya_perumal/rag-async-pipelines-mcp-4j8j)
+- [OpenAI’s Preparedness Framework v2 Raises the Bar for Frontier AI Governance](https://dev.to/alifar/openais-preparedness-framework-v2-raises-the-bar-for-frontier-ai-governance-3lol)
+- [How to Generate Images in n8n &lpar;Social Cards, Certificates and PDF Reports&rpar;](https://dev.to/accreditly/how-to-generate-images-in-n8n-social-cards-certificates-and-pdf-reports-h24)
 - [dsh-market Turns DeepSeek Harness Plugins Into a Managed Surface](https://dev.to/dd8888/dsh-market-turns-deepseek-harness-plugins-into-a-managed-surface-4n78)
 - [Vibe Coding Reality Check: 41% More Bugs, 2.74x Flaws](https://dev.to/mudassirworks/vibe-coding-reality-check-41-more-bugs-274x-flaws-1bj3)
-- [OpenAI’s Reported RL Training Pause Signals a Tougher Frontier Safety Approach](https://dev.to/alifar/openais-reported-rl-training-pause-signals-a-tougher-frontier-safety-approach-50d)
-- [Before You Write Code, Ask Better Questions](https://dev.to/anik_sikder_313/before-you-write-code-ask-better-questions-1pja)
-- [What Is an AI First Engineer in 2026? 🤖](https://dev.to/souravdey777/what-is-an-ai-first-engineer-in-2026-3ac4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
