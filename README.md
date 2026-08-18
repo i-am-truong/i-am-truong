@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#39;importe quel cours](https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3)
 - [Nodum.md - An Open-Source Alternative to Obsidian.md](https://dev.to/maqboolthoufeeq/nodummd-an-open-source-alternative-to-obsidianmd-4fdk)
 - [I Could Hack My Own Rails App With One Hidden Input](https://dev.to/gjhewitt/i-could-hack-my-own-rails-app-with-one-hidden-input-3ca1)
 - [Grid Bot vs Concentrated Liquidity Pool Comparison | Real Test Results](https://dev.to/seredasv/grid-bot-vs-concentrated-liquidity-pool-comparison-real-test-results-4jhi)
 - [Build your first theme and course in the Theme Workshop](https://dev.to/pathprotocol/build-your-first-theme-and-course-in-the-theme-workshop-51b0)
-- [Build a deterministic browser game engine](https://dev.to/pathprotocol/build-a-deterministic-browser-game-engine-50j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
