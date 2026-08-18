@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cheapest AI APIs in 2026: A Bootcamp Grad&#39;s Deep Dive](https://dev.to/swift-logic-io218/the-cheapest-ai-apis-in-2026-a-bootcamp-grads-deep-dive-1ene)
-- [One Lookup Table Turned a Risky Server Migration Into a One-Line Change](https://dev.to/techwithhari/one-lookup-table-turned-a-risky-server-migration-into-a-one-line-change-2mf8)
-- [If you can&#39;t answer &quot;Where do you see yourself in 5 years?&quot; — you&#39;re not broken&quot;](https://dev.to/shinya_saita/if-you-cant-answer-where-do-you-see-yourself-in-5-years-youre-not-broken-57f3)
-- [Google Tests AI Mode Shortcuts in Desktop Search for Images, Files and Brainstorming](https://dev.to/alifar/google-tests-ai-mode-shortcuts-in-desktop-search-for-images-files-and-brainstorming-44jm)
-- [Why Does Every AI Agent Still Look Like `while &lpar;true&rpar; { ... }`?](https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a)
+- [My Data Pipeline Caught an AI Fabricating a Source. Here&#39;s What 19 Years of Safaricom&#39;s Financial Data Taught Me About Trust.](https://dev.to/derrickryangiggs/my-data-pipeline-caught-an-ai-fabricating-a-source-heres-what-19-years-of-safaricoms-financial-2ebe)
+- [RBAC for AI: Governing the AI Control Plane](https://dev.to/kenwalger/rbac-for-ai-governing-the-ai-control-plane-e59)
+- [A 27B AI model running in your office — no cloud, no monthly API bill](https://dev.to/ebercruz/a-27b-ai-model-running-in-your-office-no-cloud-no-monthly-api-bill-ck5)
+- [Why I built a full PayPal checkout on Cloudflare Workers instead of using Stripe](https://dev.to/luca_at_webround/why-i-built-a-full-paypal-checkout-on-cloudflare-workers-instead-of-using-stripe-5b06)
+- [Why Can&#39;t We Just Use Claude for Everything? Agent Creation vs. Agent Engineering](https://dev.to/aws/why-cant-we-just-use-claude-for-everything-agent-creation-vs-agent-engineering-5aaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
