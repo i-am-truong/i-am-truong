@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Polyhost: Why I Built a Reference Stack Instead of a Framework](https://dev.to/sukkergris/polyhost-why-i-built-a-reference-stack-instead-of-a-framework-42hd)
-- [A Practical Guide to Learning AI in 2026: From Zero to Building Real Projects](https://dev.to/hwonhwon_kitty_869/a-practical-guide-to-learning-ai-in-2026-from-zero-to-building-real-projects-1opc)
-- [GPT-5.6 Sol&#39;s &#39;Best Vision Model&#39; Claim Is Roboflow&#39;s, Not OpenAI&#39;s](https://dev.to/vin-patel/gpt-56-sols-best-vision-model-claim-is-roboflows-not-openais-2hoj)
-- [Understanding Main package and arguments passing in Go.](https://dev.to/open_dev/understanding-main-package-and-arguments-passing-in-go-1a94)
-- [The Art of Starting a New Project](https://dev.to/sukkergris/the-art-of-starting-a-new-project-l7)
+- [A missing ORDER BY cost us Thousands in API calls](https://dev.to/mathorde/a-missing-order-by-cost-us-thousands-in-api-calls-5elg)
+- [How to Design a Scalable Web Application Architecture for 10x Traffic Without 10x Cloud Costs](https://dev.to/quokkalabs/how-to-design-a-scalable-web-application-architecture-for-10x-traffic-without-10x-cloud-costs-4om)
+- [I found a duplicate-charge bug in an MCP tool via static analysis — here&#39;s the finding and the fix &lpar;NEXUM-004&rpar;](https://dev.to/mbelckadi/i-found-a-duplicate-charge-bug-in-an-mcp-tool-via-static-analysis-heres-the-finding-and-the-fix-5a64)
+- [HoloMobile Devlog #1: Die Reise von der ersten Idee zum Code](https://dev.to/hololabs/holomobile-devlog-1-die-reise-von-der-ersten-idee-zum-code-4nd3)
+- [EU Right to Repair Sets a 2026 Compliance Deadline and 2027 Platform Rollout](https://dev.to/alifar/eu-right-to-repair-sets-a-2026-compliance-deadline-and-2027-platform-rollout-3j1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
