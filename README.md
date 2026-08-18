@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The First Job Changes More Than Your Resume](https://dev.to/beyond_code7a733987/the-first-job-changes-more-than-your-resume-65g)
-- [7 MCP Tool-Schema Mistakes That Make AI Agents Less Reliable](https://dev.to/toolreadyai/7-mcp-tool-schema-mistakes-that-make-ai-agents-less-reliable-36ge)
-- [A month ago I decided &#39;no background music.&#39; Today I overruled that guy](https://dev.to/jun_uen0/a-month-ago-i-decided-no-background-music-today-i-overruled-that-guy-281l)
-- [Cursor&#39;s Origin Platform Launches Amid GitHub Outage](https://dev.to/davekurian/cursors-origin-platform-launches-amid-github-outage-4854)
-- [Malawi Paid $5 Million for Drought Insurance. The Model Was Watching a Crop the Farmers Had Stopped Planting.](https://dev.to/vibeagentmaking/malawi-paid-5-million-for-drought-insurance-the-model-was-watching-a-crop-the-farmers-had-stopped-1j4m)
+- [The Railway Test](https://dev.to/agentic-jj/the-railway-test-1aln)
+- [Why I Built xAgent](https://dev.to/coffeehc/why-i-built-xagent-2m3o)
+- [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
+- [🚀 30 React.js Interview Questions You Should Know Before Your Next Frontend Interview ⚛️](https://dev.to/rashmi_roy_447a69fec6d340/30-reactjs-interview-questions-you-should-know-before-your-next-frontend-interview-1l8l)
+- [Building OopsCalorie: When Your AI Thinks Dinuguan Is Champorado 😂](https://dev.to/chimkennuggyszdev/building-oopscalorie-when-your-ai-thinks-dinuguan-is-champorado-4961)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
