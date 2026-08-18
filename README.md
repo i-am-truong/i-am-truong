@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM Lifecycle](https://dev.to/shameer_sh_mg/llm-lifecycle-1gei)
-- [How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator](https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2)
-- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
-- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
-- [n8n Adds an AI Stock-Analysis Template With Automated Buy, Hold, or Sell Reports](https://dev.to/alifar/n8n-adds-an-ai-stock-analysis-template-with-automated-buy-hold-or-sell-reports-peg)
+- [Distributed Locking in Practice: Guarantees, Failure Scenarios and Better Alternatives &lpar;2/4&rpar;](https://dev.to/morpheus-vera/distributed-locking-in-practice-guarantees-failure-scenarios-and-better-alternatives-24-809)
+- [EU Updates Teacher Guidelines for Digital Literacy and AI-Driven Disinformation](https://dev.to/alifar/eu-updates-teacher-guidelines-for-digital-literacy-and-ai-driven-disinformation-3h0i)
+- [Checklist: Onboarding End-to-End Automation Frameworks to Harness CI](https://dev.to/shell_qa/checklist-onboarding-end-to-end-automation-frameworks-to-harness-ci-2jmb)
+- [I generated 8,664 SEO pages. Google indexed them. I got 9 clicks.](https://dev.to/tezvyn/i-generated-8664-seo-pages-google-indexed-them-i-got-9-clicks-216o)
+- [End-to-End Setup Guide: Integrating Playwright + Cucumber with Harness CI](https://dev.to/shell_qa/end-to-end-setup-guide-integrating-playwright-cucumber-with-harness-ci-423p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
