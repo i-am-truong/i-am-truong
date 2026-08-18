@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tracked My Anxious Thoughts for 30 Days in Notion — Here&#39;s What the Data Revealed](https://dev.to/473185670/i-tracked-my-anxious-thoughts-for-30-days-in-notion-heres-what-the-data-revealed-7b2)
-- [Four green CI checks. All four blind.](https://dev.to/heinrichneb/four-green-ci-checks-all-four-blind-18b)
-- [My First Engineering Job Is Teaching Me Something I Didn&#39;t Expect](https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96)
-- [Come consegnare un security audit degli header HTTP che il cliente capisce davvero](https://dev.to/cub4nh1/come-consegnare-un-security-audit-degli-header-http-che-il-cliente-capisce-davvero-53nm)
-- [I audited six token usage trackers. They disagree with each other by 2x to 8x.](https://dev.to/lizhuojunx86/i-audited-six-token-usage-trackers-they-disagree-with-each-other-by-2x-to-8x-2b1h)
+- [I read the docs of 9 WordPress AI search plugins. Three run TF-IDF and four send you a second bill.](https://dev.to/gronrafal/i-read-the-docs-of-9-wordpress-ai-search-plugins-three-run-tf-idf-and-four-send-you-a-second-bill-5812)
+- [Why systemctl --user daemon-reload silently does nothing](https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9)
+- [There is always another way](https://dev.to/thedumebi/there-is-always-another-way-enl)
+- [Building FindCoffeeMate: A Small MVP That Taught Me Big Lessons](https://dev.to/binaykumardas/building-findcoffeemate-a-small-mvp-that-taught-me-big-lessons-509o)
+- [Hearth &amp; Bowl — Dinner, the Way Home Does It 🍲](https://dev.to/sri_ram8526/hearth-bowl-dinner-the-way-home-does-it-20lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
