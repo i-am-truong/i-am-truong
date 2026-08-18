@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable IoT Architecture for Telecom Tower Monitoring](https://dev.to/perch_darbinyan_3954e7032/how-to-build-a-scalable-iot-architecture-for-telecom-tower-monitoring-cec)
-- [Go 1.26 iterators turned the simplest language into functional spaghetti](https://dev.to/adioof/go-126-iterators-turned-the-simplest-language-into-functional-spaghetti-5c4h)
-- [One repo, one day: 4 CI guards that were green and blind](https://dev.to/heinrichneb/one-repo-one-day-4-ci-guards-that-were-green-and-blind-oge)
-- [Refactoring the views system in YOUR gift!](https://dev.to/codemaster_121482/refactoring-the-views-system-in-your-gift-4kno)
-- [TTFB Won&#39;t Go Down? Server-Side Culprits Beyond the Theme](https://dev.to/apogeewatcher/ttfb-wont-go-down-server-side-culprits-beyond-the-theme-410h)
+- [User-Scoped Memory in Deep Agents: What It Is and Why You Need It](https://dev.to/syeedmdtalha/user-scoped-memory-in-deep-agents-what-it-is-and-why-you-need-it-4n3p)
+- [How to Scale a Backend From 1 User to 1 Million Users](https://dev.to/sanukhandev/how-to-scale-a-backend-from-1-user-to-1-million-users-2k6p)
+- [Beyond OOP: Entity Component System schema for high performance](https://dev.to/utak3r/beyond-oop-entity-component-system-schema-for-high-performance-8bp)
+- [CompTIA CloudNetX &lpar;CNX-001&rpar;: What It Actually Tests, and Whether You&#39;re Ready](https://dev.to/develop_this_one/comptia-cloudnetx-cnx-001-what-it-actually-tests-and-whether-youre-ready-23j0)
+- [LLM Output Repetition Has Three Independent Causes, and Fixing One Isn&#39;t Enough](https://dev.to/amitesh0512/llm-output-repetition-has-three-independent-causes-and-fixing-one-isnt-enough-3n20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
