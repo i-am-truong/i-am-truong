@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Grid Awakens: CSS Grid vs Flexbox — A Star Wars Tale](https://dev.to/timevolt/the-grid-awakens-css-grid-vs-flexbox-a-star-wars-tale-3oi8)
-- [Breaking Up Big SwiftUI Views the Right Way](https://dev.to/emadbeyrami/breaking-up-big-swiftui-views-the-right-way-3m42)
-- [Gitcard Weekly Challenge #1: Build Something That Solves an Everyday Problem](https://dev.to/ptb4866/gitcard-weekly-challenge-1-build-something-that-solves-an-everyday-problem-35lb)
-- [Upgrade your Test Suite with fn-monitor](https://dev.to/typescript-guy/upgrade-your-test-suite-with-fn-monitor-17gn)
-- [The Whole Loop, One Window](https://dev.to/thebguy/the-whole-loop-one-window-561g)
+- [An ambiguity gate for AI coding agents: measure the request before writing code](https://dev.to/q00/an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code-4n75)
+- [Why Strong Google Rankings Do Not Necessarily Translate Into LLM Brand Visibility](https://dev.to/alifar/why-strong-google-rankings-do-not-necessarily-translate-into-llm-brand-visibility-2hb7)
+- [From 30 Minutes to 3 Seconds: Automated LLM Memory Recall Testing with pytest + FAISS](https://dev.to/_eb7f2a654e97a60ae9f96e/from-30-minutes-to-3-seconds-automated-llm-memory-recall-testing-with-pytest-faiss-3f12)
+- [RAG Hallucination Diagnosis: Evidence Gating Beats Embeddings for Ask-Your-Docs Chatbot Answers](https://dev.to/brockfletcher1438/rag-hallucination-diagnosis-evidence-gating-beats-embeddings-for-ask-your-docs-chatbot-answers-18a7)
+- [Meta lança óculos Ray‑Ban com reconhecimento facial: entenda os riscos](https://dev.to/leojulieta/meta-lanca-oculos-ray-ban-com-reconhecimento-facial-entenda-os-riscos-3fll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
