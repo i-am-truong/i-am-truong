@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A missing ORDER BY cost us Thousands in API calls](https://dev.to/mathorde/a-missing-order-by-cost-us-thousands-in-api-calls-5elg)
-- [How to Design a Scalable Web Application Architecture for 10x Traffic Without 10x Cloud Costs](https://dev.to/quokkalabs/how-to-design-a-scalable-web-application-architecture-for-10x-traffic-without-10x-cloud-costs-4om)
-- [I found a duplicate-charge bug in an MCP tool via static analysis — here&#39;s the finding and the fix &lpar;NEXUM-004&rpar;](https://dev.to/mbelckadi/i-found-a-duplicate-charge-bug-in-an-mcp-tool-via-static-analysis-heres-the-finding-and-the-fix-5a64)
-- [HoloMobile Devlog #1: Die Reise von der ersten Idee zum Code](https://dev.to/hololabs/holomobile-devlog-1-die-reise-von-der-ersten-idee-zum-code-4nd3)
-- [EU Right to Repair Sets a 2026 Compliance Deadline and 2027 Platform Rollout](https://dev.to/alifar/eu-right-to-repair-sets-a-2026-compliance-deadline-and-2027-platform-rollout-3j1d)
+- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
+- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
+- [Build a Tiny Tool-Result Gatekeeper Before You Trust an Agent&#39;s &#39;Done&#39;](https://dev.to/magickong/build-a-tiny-tool-result-gatekeeper-before-you-trust-an-agents-done-1p2i)
+- [A Free Model Returned Markdown That NVDA Read as One Endless Sentence: Normalizing LLM Output Before It Reaches the Live Region](https://dev.to/babycat/a-free-model-returned-markdown-that-nvda-read-as-one-endless-sentence-normalizing-llm-output-457p)
+- [How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
