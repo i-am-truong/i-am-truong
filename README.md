@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Railway Test](https://dev.to/agentic-jj/the-railway-test-1aln)
-- [Why I Built xAgent](https://dev.to/coffeehc/why-i-built-xagent-2m3o)
-- [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
-- [🚀 30 React.js Interview Questions You Should Know Before Your Next Frontend Interview ⚛️](https://dev.to/rashmi_roy_447a69fec6d340/30-reactjs-interview-questions-you-should-know-before-your-next-frontend-interview-1l8l)
-- [Building OopsCalorie: When Your AI Thinks Dinuguan Is Champorado 😂](https://dev.to/chimkennuggyszdev/building-oopscalorie-when-your-ai-thinks-dinuguan-is-champorado-4961)
+- [DeepSeek vs Qwen vs Kimi vs GLM: Which One Should You Use?](https://dev.to/rarenode/deepseek-vs-qwen-vs-kimi-vs-glm-which-one-should-you-use-mhd)
+- [The day our scraper fleet shipped nothing — and the afternoon it shipped three](https://dev.to/devil_scrapes/the-day-our-scraper-fleet-shipped-nothing-and-the-afternoon-it-shipped-three-4jjo)
+- [What on-device should mean for a Mac AI assistant](https://dev.to/sarthakagrawal927/what-on-device-should-mean-for-a-mac-ai-assistant-2bkc)
+- [AI 辅助 i18n：我是怎么把 3 小时翻译压缩到 30 分钟的](https://dev.to/ggg_party_98c7744276773d6/ai-fu-zhu-i18nwo-shi-zen-yao-ba-3-xiao-shi-fan-yi-ya-suo-dao-30-fen-zhong-de-4po3)
+- [Code Review Retrieval Explained: Simple Semantic and Keyword Search with Portable Reranking](https://dev.to/fairchildblake8483/code-review-retrieval-explained-simple-semantic-and-keyword-search-with-portable-reranking-p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
