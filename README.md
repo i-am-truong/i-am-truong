@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An ambiguity gate for AI coding agents: measure the request before writing code](https://dev.to/q00/an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code-4n75)
-- [Why Strong Google Rankings Do Not Necessarily Translate Into LLM Brand Visibility](https://dev.to/alifar/why-strong-google-rankings-do-not-necessarily-translate-into-llm-brand-visibility-2hb7)
-- [From 30 Minutes to 3 Seconds: Automated LLM Memory Recall Testing with pytest + FAISS](https://dev.to/_eb7f2a654e97a60ae9f96e/from-30-minutes-to-3-seconds-automated-llm-memory-recall-testing-with-pytest-faiss-3f12)
-- [RAG Hallucination Diagnosis: Evidence Gating Beats Embeddings for Ask-Your-Docs Chatbot Answers](https://dev.to/brockfletcher1438/rag-hallucination-diagnosis-evidence-gating-beats-embeddings-for-ask-your-docs-chatbot-answers-18a7)
-- [Meta lança óculos Ray‑Ban com reconhecimento facial: entenda os riscos](https://dev.to/leojulieta/meta-lanca-oculos-ray-ban-com-reconhecimento-facial-entenda-os-riscos-3fll)
+- [How Bluesky Draws Its Logo on Screenshots and Why It Matters for Platform Identity](https://dev.to/trismegistus/how-bluesky-draws-its-logo-on-screenshots-and-why-it-matters-for-platform-identity-1kfo)
+- [repomapper v0.1.0: guía operativa AGENTS.md para cualquier repositorio](https://dev.to/magopredator/repomapper-v010-guia-operativa-agentsmd-para-cualquier-repositorio-d09)
+- [Designing Smart AI Agents: Architecture Patterns That Survive Production](https://dev.to/mryadavgulshan/designing-smart-ai-agents-architecture-patterns-that-survive-production-5nh)
+- [Sending Email Using Gmail SMTP](https://dev.to/harsh_gs/sending-email-using-gmail-smtp-2745)
+- [features vs. decisions](https://dev.to/svvarade7/features-vs-decisions-bdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
