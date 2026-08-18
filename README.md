@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Coding Agents Silently Break Full-Stack Apps &lpar;And How We Solved It in 0.75ms&rpar;](https://dev.to/zainulabideen02/why-ai-coding-agents-silently-break-full-stack-apps-and-how-we-solved-it-in-075ms-2haa)
-- [Building a Video Thumbnail Generator Service with Go and FFmpeg Workers](https://dev.to/ahmet_gedik778845/building-a-video-thumbnail-generator-service-with-go-and-ffmpeg-workers-h52)
-- [Your AI agent shouldn’t flinch at every tiny change, but it also shouldn’t treat a career switch like background noise. This post asks what happens when you treat “experience” as leftover surprise: the part of reality your model did not already see coming.](https://dev.to/rouche01/your-ai-agent-shouldnt-flinch-at-every-tiny-change-but-it-also-shouldnt-treat-a-career-switch-5ao)
-- [Design Patterns: Reusable Solutions to Recurring Problems](https://dev.to/rhuturaj_takle/design-patterns-reusable-solutions-to-recurring-problems-2e31)
-- [The Rust Awakens: Ownership Explained for JavaScript Devs](https://dev.to/timevolt/the-rust-awakens-ownership-explained-for-javascript-devs-2a8)
+- [The Cheapest AI APIs in 2026: A Bootcamp Grad&#39;s Deep Dive](https://dev.to/swift-logic-io218/the-cheapest-ai-apis-in-2026-a-bootcamp-grads-deep-dive-1ene)
+- [One Lookup Table Turned a Risky Server Migration Into a One-Line Change](https://dev.to/techwithhari/one-lookup-table-turned-a-risky-server-migration-into-a-one-line-change-2mf8)
+- [If you can&#39;t answer &quot;Where do you see yourself in 5 years?&quot; — you&#39;re not broken&quot;](https://dev.to/shinya_saita/if-you-cant-answer-where-do-you-see-yourself-in-5-years-youre-not-broken-57f3)
+- [Google Tests AI Mode Shortcuts in Desktop Search for Images, Files and Brainstorming](https://dev.to/alifar/google-tests-ai-mode-shortcuts-in-desktop-search-for-images-files-and-brainstorming-44jm)
+- [Why Does Every AI Agent Still Look Like `while &lpar;true&rpar; { ... }`?](https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
