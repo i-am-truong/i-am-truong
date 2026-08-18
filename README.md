@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [User-Scoped Memory in Deep Agents: What It Is and Why You Need It](https://dev.to/syeedmdtalha/user-scoped-memory-in-deep-agents-what-it-is-and-why-you-need-it-4n3p)
-- [How to Scale a Backend From 1 User to 1 Million Users](https://dev.to/sanukhandev/how-to-scale-a-backend-from-1-user-to-1-million-users-2k6p)
-- [Beyond OOP: Entity Component System schema for high performance](https://dev.to/utak3r/beyond-oop-entity-component-system-schema-for-high-performance-8bp)
-- [CompTIA CloudNetX &lpar;CNX-001&rpar;: What It Actually Tests, and Whether You&#39;re Ready](https://dev.to/develop_this_one/comptia-cloudnetx-cnx-001-what-it-actually-tests-and-whether-youre-ready-23j0)
-- [LLM Output Repetition Has Three Independent Causes, and Fixing One Isn&#39;t Enough](https://dev.to/amitesh0512/llm-output-repetition-has-three-independent-causes-and-fixing-one-isnt-enough-3n20)
+- [Polyhost: Why I Built a Reference Stack Instead of a Framework](https://dev.to/sukkergris/polyhost-why-i-built-a-reference-stack-instead-of-a-framework-42hd)
+- [A Practical Guide to Learning AI in 2026: From Zero to Building Real Projects](https://dev.to/hwonhwon_kitty_869/a-practical-guide-to-learning-ai-in-2026-from-zero-to-building-real-projects-1opc)
+- [GPT-5.6 Sol&#39;s &#39;Best Vision Model&#39; Claim Is Roboflow&#39;s, Not OpenAI&#39;s](https://dev.to/vin-patel/gpt-56-sols-best-vision-model-claim-is-roboflows-not-openais-2hoj)
+- [Understanding Main package and arguments passing in Go.](https://dev.to/open_dev/understanding-main-package-and-arguments-passing-in-go-1a94)
+- [The Art of Starting a New Project](https://dev.to/sukkergris/the-art-of-starting-a-new-project-l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
