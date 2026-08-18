@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare&#39;s AI block names eight crawlers. None is ChatGPT&#39;s search bot](https://dev.to/th3nate/cloudflares-ai-block-names-eight-crawlers-none-is-chatgpts-search-bot-4ikm)
-- [Your verifier will be gamed by the thing it verifies](https://dev.to/checksumstudio/your-verifier-will-be-gamed-by-the-thing-it-verifies-1e4d)
-- [Should Small Businesses Block AI Crawlers in 2026?](https://dev.to/rverwey/should-small-businesses-block-ai-crawlers-in-2026-3f43)
-- [Core Web Vitals Checklist for Small Business Websites](https://dev.to/rverwey/core-web-vitals-checklist-for-small-business-websites-4ef7)
-- [Next.js May 2026 Security Release: Small Business Takeaways](https://dev.to/rverwey/nextjs-may-2026-security-release-small-business-takeaways-1ge1)
+- [Why AI Coding Agents Silently Break Full-Stack Apps &lpar;And How We Solved It in 0.75ms&rpar;](https://dev.to/zainulabideen02/why-ai-coding-agents-silently-break-full-stack-apps-and-how-we-solved-it-in-075ms-2haa)
+- [Building a Video Thumbnail Generator Service with Go and FFmpeg Workers](https://dev.to/ahmet_gedik778845/building-a-video-thumbnail-generator-service-with-go-and-ffmpeg-workers-h52)
+- [Your AI agent shouldn’t flinch at every tiny change, but it also shouldn’t treat a career switch like background noise. This post asks what happens when you treat “experience” as leftover surprise: the part of reality your model did not already see coming.](https://dev.to/rouche01/your-ai-agent-shouldnt-flinch-at-every-tiny-change-but-it-also-shouldnt-treat-a-career-switch-5ao)
+- [Design Patterns: Reusable Solutions to Recurring Problems](https://dev.to/rhuturaj_takle/design-patterns-reusable-solutions-to-recurring-problems-2e31)
+- [The Rust Awakens: Ownership Explained for JavaScript Devs](https://dev.to/timevolt/the-rust-awakens-ownership-explained-for-javascript-devs-2a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
