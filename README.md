@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Generated Helper Passed Locally, Then Died in a Clean Container Because It Read a Global I Never Passed](https://dev.to/codepy_1473/the-generated-helper-passed-locally-then-died-in-a-clean-container-because-it-read-a-global-i-1l4l)
-- [An AI gave me a confidently wrong spreadsheet total — so I built one where AI writes code, not guesses, and gets verified.](https://dev.to/durlabh_kumar_a839a974273/an-ai-gave-me-a-confidently-wrong-spreadsheet-total-so-i-built-one-where-ai-writes-code-not-1nf3)
-- [I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”](https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp)
-- [Delphi Tools es el complemento para las Dev Tools](https://dev.to/cescquintero/delphi-tools-es-el-complemento-para-las-dev-tools-3h48)
-- [Three Silent Failures Between You and Sidecar Injection](https://dev.to/eaferstl/three-silent-failures-between-you-and-sidecar-injection-1b1n)
+- [ChatGPT Leads Top Google Destinations in Paid-Click Share, iPullRank Finds](https://dev.to/alifar/chatgpt-leads-top-google-destinations-in-paid-click-share-ipullrank-finds-md3)
+- [Prisma Studio is not an admin panel](https://dev.to/divinesta/prisma-studio-is-not-an-admin-panel-4d0m)
+- [OpenAI GPT-5.6 Launch Reshapes Its Model Line With Sol, Terra and Luna](https://dev.to/alifar/openai-gpt-56-launch-reshapes-its-model-line-with-sol-terra-and-luna-2j00)
+- [GPT-4o Mini Fine-Tuning: Evaluation-First Guide](https://dev.to/gateofai/gpt-4o-mini-fine-tuning-evaluation-first-guide-43n6)
+- [D-MO &lpar;Data Micro-Optimizer&rpar;](https://dev.to/omargpax/d-mo-data-micro-optimizer-244f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
