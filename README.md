@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Insurance Claim Analyzer with RocketRide](https://dev.to/piyarkhatrizx/building-an-ai-insurance-claim-analyzer-with-rocketride-1kne)
-- [The storefronts are coming to Linux: Epic, GOG, and the tipping point](https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468)
-- [Your AI-Generated Code Might Not Be Yours](https://dev.to/theaidownside/your-ai-generated-code-might-not-be-yours-5314)
-- [The Problem Isn’t AI. It’s the Pace.](https://dev.to/andresclua/the-problem-isnt-ai-its-the-pace-3p3b)
-- [Your Retry Budget Is Not a Safety Net](https://dev.to/frozer/your-retry-budget-is-not-a-safety-net-o1k)
+- [Nodum.md - An Open-Source Alternative to Obsidian.md](https://dev.to/maqboolthoufeeq/nodummd-an-open-source-alternative-to-obsidianmd-4fdk)
+- [I Could Hack My Own Rails App With One Hidden Input](https://dev.to/gjhewitt/i-could-hack-my-own-rails-app-with-one-hidden-input-3ca1)
+- [Grid Bot vs Concentrated Liquidity Pool Comparison | Real Test Results](https://dev.to/seredasv/grid-bot-vs-concentrated-liquidity-pool-comparison-real-test-results-4jhi)
+- [Build your first theme and course in the Theme Workshop](https://dev.to/pathprotocol/build-your-first-theme-and-course-in-the-theme-workshop-51b0)
+- [Build a deterministic browser game engine](https://dev.to/pathprotocol/build-a-deterministic-browser-game-engine-50j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
