@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Semiconductor Progress in Quantum Computing Systems](https://dev.to/vpodk/silicon-semiconductor-progress-in-quantum-computing-systems-e2c)
-- [Standardizing safe generative UI implementation](https://dev.to/vpodk/standardizing-safe-generative-ui-implementation-afo)
-- [Certo na Teoria, Inútil na Prática: IA, Dívida de Conhecimento e o Sujeito Oculto da Liderança Técnica](https://dev.to/targanski/certo-na-teoria-inutil-na-pratica-ia-divida-de-conhecimento-e-o-sujeito-oculto-da-lideranca-dnk)
-- [Your AI Knows More About You Than You Think](https://dev.to/sairam_suravarapu/your-ai-knows-more-about-you-than-you-think-59l7)
-- [What the GitHub Outage Taught Us About Authentication Retries](https://dev.to/prasadmk/what-the-github-outage-taught-us-about-authentication-retries-1lbn)
+- [Java 11 New Features and Performance Improvements: A Practical Guide &lpar;2026-08-18 18:42&rpar;](https://dev.to/said_olano/java-11-new-features-and-performance-improvements-a-practical-guide-2026-08-18-1842-1op6)
+- [Building Suzi Chat: A retro MSN-style chat platform with mini-games](https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431)
+- [How We Built a Safe GitHub Bounty Lifecycle for MyZubster](https://dev.to/danielioni/how-we-built-a-safe-github-bounty-lifecycle-for-myzubster-a2)
+- [How to Build an AI Agent That Asks Permission First &lpar;Nuxt + AI SDK 7&rpar;](https://dev.to/aws/how-to-build-an-ai-agent-that-asks-permission-first-nuxt-ai-sdk-7-n42)
+- [Transactions in NestJS and TypeORM without passing the EntityManager around](https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-1k9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
