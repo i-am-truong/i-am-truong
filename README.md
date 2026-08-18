@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Bluesky Draws Its Logo on Screenshots and Why It Matters for Platform Identity](https://dev.to/trismegistus/how-bluesky-draws-its-logo-on-screenshots-and-why-it-matters-for-platform-identity-1kfo)
-- [repomapper v0.1.0: guía operativa AGENTS.md para cualquier repositorio](https://dev.to/magopredator/repomapper-v010-guia-operativa-agentsmd-para-cualquier-repositorio-d09)
-- [Designing Smart AI Agents: Architecture Patterns That Survive Production](https://dev.to/mryadavgulshan/designing-smart-ai-agents-architecture-patterns-that-survive-production-5nh)
-- [Sending Email Using Gmail SMTP](https://dev.to/harsh_gs/sending-email-using-gmail-smtp-2745)
-- [features vs. decisions](https://dev.to/svvarade7/features-vs-decisions-bdc)
+- [The First Job Changes More Than Your Resume](https://dev.to/beyond_code7a733987/the-first-job-changes-more-than-your-resume-65g)
+- [7 MCP Tool-Schema Mistakes That Make AI Agents Less Reliable](https://dev.to/toolreadyai/7-mcp-tool-schema-mistakes-that-make-ai-agents-less-reliable-36ge)
+- [A month ago I decided &#39;no background music.&#39; Today I overruled that guy](https://dev.to/jun_uen0/a-month-ago-i-decided-no-background-music-today-i-overruled-that-guy-281l)
+- [Cursor&#39;s Origin Platform Launches Amid GitHub Outage](https://dev.to/davekurian/cursors-origin-platform-launches-amid-github-outage-4854)
+- [Malawi Paid $5 Million for Drought Insurance. The Model Was Watching a Crop the Farmers Had Stopped Planting.](https://dev.to/vibeagentmaking/malawi-paid-5-million-for-drought-insurance-the-model-was-watching-a-crop-the-farmers-had-stopped-1j4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
