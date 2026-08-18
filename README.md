@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your AI-Generated Code Might Not Be Yours](https://dev.to/theaidownside/your-ai-generated-code-might-not-be-yours-5314)
+- [Your Retry Budget Is Not a Safety Net](https://dev.to/frozer/your-retry-budget-is-not-a-safety-net-o1k)
 - [ChatGPT Leads Top Google Destinations in Paid-Click Share, iPullRank Finds](https://dev.to/alifar/chatgpt-leads-top-google-destinations-in-paid-click-share-ipullrank-finds-md3)
 - [Prisma Studio is not an admin panel](https://dev.to/divinesta/prisma-studio-is-not-an-admin-panel-4d0m)
-- [OpenAI GPT-5.6 Launch Reshapes Its Model Line With Sol, Terra and Luna](https://dev.to/alifar/openai-gpt-56-launch-reshapes-its-model-line-with-sol-terra-and-luna-2j00)
-- [GPT-4o Mini Fine-Tuning: Evaluation-First Guide](https://dev.to/gateofai/gpt-4o-mini-fine-tuning-evaluation-first-guide-43n6)
-- [D-MO &lpar;Data Micro-Optimizer&rpar;](https://dev.to/omargpax/d-mo-data-micro-optimizer-244f)
+- [Construí 17 calculadoras sin una sola dependencia de JavaScript en el cliente](https://dev.to/dhlincoln/construi-17-calculadoras-sin-una-sola-dependencia-de-javascript-en-el-cliente-47jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
