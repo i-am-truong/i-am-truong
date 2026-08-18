@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a scraper for a government agency&#39;s announcements — and learned why boring tools win](https://dev.to/primesieve/i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win-2blk)
-- [Scaling WebRTC Streams with Engine Pooling in Go](https://dev.to/rusegal/scaling-webrtc-streams-with-engine-pooling-in-go-3a72)
-- [AI Agents in the Dev Workflow: Riding the Wave of Eliza, Airbyte, and the Snowflake &#39;Autofix&#39; Breach](https://dev.to/tamizuddin/ai-agents-in-the-dev-workflow-riding-the-wave-of-eliza-airbyte-and-the-snowflake-autofix-breach-4dh6)
-- [How I Built a $2,400/Month Passive Income Stream Using AI to Automate Niche Newsletter Curation](https://dev.to/sinan_koak_4a6dea677278a/how-i-built-a-2400month-passive-income-stream-using-ai-to-automate-niche-newsletter-curation-d1j)
-- [Host a Static Web App on Cloudflare Pages: A 2026 Guide](https://dev.to/mecanik-dev/host-a-static-web-app-on-cloudflare-pages-a-2026-guide-8mg)
+- [Prompt Injection Isn&#39;t Just a Chatbot Problem — It&#39;s Coming for Your Internal Tools Too](https://dev.to/ayushi_kumari_22cee92b18f/prompt-injection-isnt-just-a-chatbot-problem-its-coming-for-your-internal-tools-too-4mp2)
+- [Judgment Is the Job Now](https://dev.to/sergueyasaelshinder/judgment-is-the-job-now-4kmm)
+- [Designing AI Evals: Clarity Now and Visualization Next](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
+- [YouTube Playlist to a 100% Static](https://dev.to/focss/youtube-playlist-to-a-100-static-18b6)
+- [The Hidden Math of VPS Hosting: Why Your $5 Server Actually Costs $150](https://dev.to/the_nazar/the-hidden-math-of-vps-hosting-why-your-5-server-actually-costs-150-4263)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
