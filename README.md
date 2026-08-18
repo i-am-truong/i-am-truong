@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Injection Isn&#39;t Just a Chatbot Problem — It&#39;s Coming for Your Internal Tools Too](https://dev.to/ayushi_kumari_22cee92b18f/prompt-injection-isnt-just-a-chatbot-problem-its-coming-for-your-internal-tools-too-4mp2)
-- [Judgment Is the Job Now](https://dev.to/sergueyasaelshinder/judgment-is-the-job-now-4kmm)
-- [Designing AI Evals: Clarity Now and Visualization Next](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
-- [YouTube Playlist to a 100% Static](https://dev.to/focss/youtube-playlist-to-a-100-static-18b6)
-- [The Hidden Math of VPS Hosting: Why Your $5 Server Actually Costs $150](https://dev.to/the_nazar/the-hidden-math-of-vps-hosting-why-your-5-server-actually-costs-150-4263)
+- [Why Pure Vector Search Fails on Kannada Literature — And How Hybrid RRF Fixed It](https://dev.to/amruth/why-pure-vector-search-fails-on-kannada-literature-and-how-hybrid-rrf-fixed-it-56jj)
+- [Escaping the Boring Portfolio: Building a Cinematic IDE Experience](https://dev.to/ruumidev/escaping-the-boring-portfolio-building-a-cinematic-ide-experience-4o20)
+- [I Built a Lottery Simulator That Shows You Losing Money for 1000 Years](https://dev.to/cdieck88/i-built-a-lottery-simulator-that-shows-you-losing-money-for-1000-years-1fdp)
+- [17 ways I tried to sneak past my own merge gate](https://dev.to/zanshindev/17-ways-i-tried-to-sneak-past-my-own-merge-gate-4a3)
+- [Daily Dose of DevOps — Terraform remote state explained](https://dev.to/marco13moo/daily-dose-of-devops-terraform-remote-state-explained-4bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
