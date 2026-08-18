@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
-- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
-- [Build a Tiny Tool-Result Gatekeeper Before You Trust an Agent&#39;s &#39;Done&#39;](https://dev.to/magickong/build-a-tiny-tool-result-gatekeeper-before-you-trust-an-agents-done-1p2i)
-- [A Free Model Returned Markdown That NVDA Read as One Endless Sentence: Normalizing LLM Output Before It Reaches the Live Region](https://dev.to/babycat/a-free-model-returned-markdown-that-nvda-read-as-one-endless-sentence-normalizing-llm-output-457p)
-- [How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)
+- [NVIDIA&#39;s CEO says future companies will be built on harness engineering. Mine has been for six months — here&#39;s the half he left out](https://dev.to/dexterlung/nvidias-ceo-says-future-companies-will-be-built-on-harness-engineering-mine-has-been-for-six-219)
+- [Multimodal AI at Scale: My Cloud Architect&#39;s Production Notes](https://dev.to/swift-logic-io218/multimodal-ai-at-scale-my-cloud-architects-production-notes-56nj)
+- [The hard part of batch date conversion isn&#39;t formatting — it&#39;s deciding what `01/02/2024` means](https://dev.to/begoodtool/the-hard-part-of-batch-date-conversion-isnt-formatting-its-deciding-what-01022024-means-49o5)
+- [I built a PDF merger that never uploads your files — here&#39;s how published: false](https://dev.to/jeffrey_hamilton6399/i-built-a-pdf-merger-that-never-uploads-your-files-heres-howpublished-false-1iik)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
