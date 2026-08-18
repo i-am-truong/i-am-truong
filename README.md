@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Pure Vector Search Fails on Kannada Literature — And How Hybrid RRF Fixed It](https://dev.to/amruth/why-pure-vector-search-fails-on-kannada-literature-and-how-hybrid-rrf-fixed-it-56jj)
-- [Escaping the Boring Portfolio: Building a Cinematic IDE Experience](https://dev.to/ruumidev/escaping-the-boring-portfolio-building-a-cinematic-ide-experience-4o20)
-- [I Built a Lottery Simulator That Shows You Losing Money for 1000 Years](https://dev.to/cdieck88/i-built-a-lottery-simulator-that-shows-you-losing-money-for-1000-years-1fdp)
-- [17 ways I tried to sneak past my own merge gate](https://dev.to/zanshindev/17-ways-i-tried-to-sneak-past-my-own-merge-gate-4a3)
-- [Daily Dose of DevOps — Terraform remote state explained](https://dev.to/marco13moo/daily-dose-of-devops-terraform-remote-state-explained-4bi)
+- [DeepSeek Harness &lpar;`dsh`&rpar; 插件开发教程](https://dev.to/henry_lin_3ac6363747f45b4/deepseek-harness-dsh-cha-jian-kai-fa-jiao-cheng-4h6j)
+- [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
+- [Loop Engineering 101](https://dev.to/aairom/loop-engineering-101-83o)
+- [Building a 10-Band Equalizer with the Web Audio API](https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4)
+- [SSH keys on your phone: generate, import, and use them without leaking the private key](https://dev.to/chen_zong_43c81f1a65b1a54/ssh-keys-on-your-phone-generate-import-and-use-them-without-leaking-the-private-key-5d89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
