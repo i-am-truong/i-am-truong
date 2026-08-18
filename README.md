@@ -120,18 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Distributed Systems in Elixir: Part 5 — Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
-- [We cut our CLAUDE.md from 548KB to 34KB: what loads when, measured — and the commit gate that keeps it small](https://dev.to/rulestack/we-cut-our-claudemd-from-548kb-to-34kb-what-loads-when-measured-and-the-commit-gate-that-keeps-1kpk)
-- [What I Checked Before Shipping a Browser Game to itch.io](https://dev.to/zzzu2221/what-i-checked-before-shipping-a-browser-game-to-itchio-4506)
-- [New tabs are usually just… blank.
-
-So I built Cosmos, a new-tab workspace with something I haven’t seen done well:
-Developer + Designer widgets. 👨‍💻🎨
-
-Your apps, bookmarks &amp; useful info, right where you start working.
-
-cosmos-newtab.vercel.app](https://dev.to/uiuxsatyam/new-tabs-are-usually-just-blank-so-i-built-cosmos-a-new-tab-workspace-with-something-i-havent-398m)
-- [The Cache Hit Ratio Was Fine, but the Burst Still Melted the Database](https://dev.to/codepy_1473/the-cache-hit-ratio-was-fine-but-the-burst-still-melted-the-database-3ekg)
+- [I wrote a scraper for a government agency&#39;s announcements — and learned why boring tools win](https://dev.to/primesieve/i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win-2blk)
+- [Scaling WebRTC Streams with Engine Pooling in Go](https://dev.to/rusegal/scaling-webrtc-streams-with-engine-pooling-in-go-3a72)
+- [AI Agents in the Dev Workflow: Riding the Wave of Eliza, Airbyte, and the Snowflake &#39;Autofix&#39; Breach](https://dev.to/tamizuddin/ai-agents-in-the-dev-workflow-riding-the-wave-of-eliza-airbyte-and-the-snowflake-autofix-breach-4dh6)
+- [How I Built a $2,400/Month Passive Income Stream Using AI to Automate Niche Newsletter Curation](https://dev.to/sinan_koak_4a6dea677278a/how-i-built-a-2400month-passive-income-stream-using-ai-to-automate-niche-newsletter-curation-d1j)
+- [Host a Static Web App on Cloudflare Pages: A 2026 Guide](https://dev.to/mecanik-dev/host-a-static-web-app-on-cloudflare-pages-a-2026-guide-8mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
