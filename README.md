@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java 11 New Features and Performance Improvements: A Practical Guide &lpar;2026-08-18 18:42&rpar;](https://dev.to/said_olano/java-11-new-features-and-performance-improvements-a-practical-guide-2026-08-18-1842-1op6)
-- [Building Suzi Chat: A retro MSN-style chat platform with mini-games](https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431)
-- [How We Built a Safe GitHub Bounty Lifecycle for MyZubster](https://dev.to/danielioni/how-we-built-a-safe-github-bounty-lifecycle-for-myzubster-a2)
-- [How to Build an AI Agent That Asks Permission First &lpar;Nuxt + AI SDK 7&rpar;](https://dev.to/aws/how-to-build-an-ai-agent-that-asks-permission-first-nuxt-ai-sdk-7-n42)
-- [Transactions in NestJS and TypeORM without passing the EntityManager around](https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-1k9h)
+- [AI Governance Is Becoming a Transformation Problem](https://dev.to/debashish_ghosal/ai-governance-is-becoming-a-transformation-problem-1bkh)
+- [What really fits in 8GB VRAM](https://dev.to/thekilteddev/what-really-fits-in-8gb-vram-4o02)
+- [MAI-Image-2.5 Arena Rankings Differ Across Published Leaderboard Snapshots](https://dev.to/alifar/mai-image-25-arena-rankings-differ-across-published-leaderboard-snapshots-1789)
+- [Implementing Feature Management in .NET: The Lazy Way](https://dev.to/avlcodemonkey/implementing-feature-management-in-net-the-lazy-way-gcb)
+- [Ota v1.6.26 is here. We’re looking for design partners.](https://dev.to/faithada/ota-v1626-is-here-were-looking-for-design-partners-395e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
