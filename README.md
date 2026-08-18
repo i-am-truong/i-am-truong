@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Insurance Claim Analyzer with RocketRide](https://dev.to/piyarkhatrizx/building-an-ai-insurance-claim-analyzer-with-rocketride-1kne)
+- [The storefronts are coming to Linux: Epic, GOG, and the tipping point](https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468)
 - [Your AI-Generated Code Might Not Be Yours](https://dev.to/theaidownside/your-ai-generated-code-might-not-be-yours-5314)
+- [The Problem Isn’t AI. It’s the Pace.](https://dev.to/andresclua/the-problem-isnt-ai-its-the-pace-3p3b)
 - [Your Retry Budget Is Not a Safety Net](https://dev.to/frozer/your-retry-budget-is-not-a-safety-net-o1k)
-- [ChatGPT Leads Top Google Destinations in Paid-Click Share, iPullRank Finds](https://dev.to/alifar/chatgpt-leads-top-google-destinations-in-paid-click-share-ipullrank-finds-md3)
-- [Prisma Studio is not an admin panel](https://dev.to/divinesta/prisma-studio-is-not-an-admin-panel-4d0m)
-- [Construí 17 calculadoras sin una sola dependencia de JavaScript en el cliente](https://dev.to/dhlincoln/construi-17-calculadoras-sin-una-sola-dependencia-de-javascript-en-el-cliente-47jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
