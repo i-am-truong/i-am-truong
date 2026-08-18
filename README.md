@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Cut Our Agent&#39;s Token Bill by 21%. One Task in Four Got Nothing.](https://dev.to/benchclaw/we-cut-our-agents-token-bill-by-21-one-task-in-four-got-nothing-5h9n)
-- [แกะความคิดของ AI — เมื่อ Proprietary Model ไม่สามารถซ่อน Reasoning Trace ได้อีกต่อไป](https://dev.to/sarantoon/aekakhwaamkhidkhng-ai-emuue-proprietary-model-aimsaamaarthchn-reasoning-trace-aidiiktaip-557e)
-- [Building Custom AI Agents With JavaScript and React — From Prototype to Production](https://dev.to/vishal_porwal_e0389856c35/building-custom-ai-agents-with-javascript-and-react-from-prototype-to-production-7id)
-- [One Letter Broke Four Toolchains. A Symlink Didn&#39;t Fix It.](https://dev.to/onurkesim/one-letter-broke-four-toolchains-a-symlink-didnt-fix-it-3290)
-- [Fixing a Critical CLI Crash: How a One‑Line Import Bug Broke Every Bazable Command](https://dev.to/medievalbatman/fixing-a-critical-cli-crash-how-a-one-line-import-bug-broke-every-bazable-command-115n)
+- [LLM Lifecycle](https://dev.to/shameer_sh_mg/llm-lifecycle-1gei)
+- [How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator](https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2)
+- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
+- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
+- [n8n Adds an AI Stock-Analysis Template With Automated Buy, Hold, or Sell Reports](https://dev.to/alifar/n8n-adds-an-ai-stock-analysis-template-with-automated-buy-hold-or-sell-reports-peg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
