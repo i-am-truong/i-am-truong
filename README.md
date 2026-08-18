@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Semiconductor Progress in Quantum Computing Systems](https://dev.to/vpodk/silicon-semiconductor-progress-in-quantum-computing-systems-e2c)
+- [Standardizing safe generative UI implementation](https://dev.to/vpodk/standardizing-safe-generative-ui-implementation-afo)
 - [Certo na Teoria, Inútil na Prática: IA, Dívida de Conhecimento e o Sujeito Oculto da Liderança Técnica](https://dev.to/targanski/certo-na-teoria-inutil-na-pratica-ia-divida-de-conhecimento-e-o-sujeito-oculto-da-lideranca-dnk)
 - [Your AI Knows More About You Than You Think](https://dev.to/sairam_suravarapu/your-ai-knows-more-about-you-than-you-think-59l7)
 - [What the GitHub Outage Taught Us About Authentication Retries](https://dev.to/prasadmk/what-the-github-outage-taught-us-about-authentication-retries-1lbn)
-- [Should AI-Generated Code Be Labeled in Your Git History?](https://dev.to/nazar-boyko/should-ai-generated-code-be-labeled-in-your-git-history-4hff)
-- [tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
