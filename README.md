@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek Harness &lpar;`dsh`&rpar; 插件开发教程](https://dev.to/henry_lin_3ac6363747f45b4/deepseek-harness-dsh-cha-jian-kai-fa-jiao-cheng-4h6j)
-- [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
-- [Loop Engineering 101](https://dev.to/aairom/loop-engineering-101-83o)
-- [Building a 10-Band Equalizer with the Web Audio API](https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4)
-- [SSH keys on your phone: generate, import, and use them without leaking the private key](https://dev.to/chen_zong_43c81f1a65b1a54/ssh-keys-on-your-phone-generate-import-and-use-them-without-leaking-the-private-key-5d89)
+- [We Cut Our Agent&#39;s Token Bill by 21%. One Task in Four Got Nothing.](https://dev.to/benchclaw/we-cut-our-agents-token-bill-by-21-one-task-in-four-got-nothing-5h9n)
+- [แกะความคิดของ AI — เมื่อ Proprietary Model ไม่สามารถซ่อน Reasoning Trace ได้อีกต่อไป](https://dev.to/sarantoon/aekakhwaamkhidkhng-ai-emuue-proprietary-model-aimsaamaarthchn-reasoning-trace-aidiiktaip-557e)
+- [Building Custom AI Agents With JavaScript and React — From Prototype to Production](https://dev.to/vishal_porwal_e0389856c35/building-custom-ai-agents-with-javascript-and-react-from-prototype-to-production-7id)
+- [One Letter Broke Four Toolchains. A Symlink Didn&#39;t Fix It.](https://dev.to/onurkesim/one-letter-broke-four-toolchains-a-symlink-didnt-fix-it-3290)
+- [Fixing a Critical CLI Crash: How a One‑Line Import Bug Broke Every Bazable Command](https://dev.to/medievalbatman/fixing-a-critical-cli-crash-how-a-one-line-import-bug-broke-every-bazable-command-115n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
