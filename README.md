@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Locking in Practice: Guarantees, Failure Scenarios and Better Alternatives &lpar;2/4&rpar;](https://dev.to/morpheus-vera/distributed-locking-in-practice-guarantees-failure-scenarios-and-better-alternatives-24-809)
-- [EU Updates Teacher Guidelines for Digital Literacy and AI-Driven Disinformation](https://dev.to/alifar/eu-updates-teacher-guidelines-for-digital-literacy-and-ai-driven-disinformation-3h0i)
-- [Checklist: Onboarding End-to-End Automation Frameworks to Harness CI](https://dev.to/shell_qa/checklist-onboarding-end-to-end-automation-frameworks-to-harness-ci-2jmb)
-- [I generated 8,664 SEO pages. Google indexed them. I got 9 clicks.](https://dev.to/tezvyn/i-generated-8664-seo-pages-google-indexed-them-i-got-9-clicks-216o)
-- [End-to-End Setup Guide: Integrating Playwright + Cucumber with Harness CI](https://dev.to/shell_qa/end-to-end-setup-guide-integrating-playwright-cucumber-with-harness-ci-423p)
+- [How to Build a Scalable IoT Architecture for Telecom Tower Monitoring](https://dev.to/perch_darbinyan_3954e7032/how-to-build-a-scalable-iot-architecture-for-telecom-tower-monitoring-cec)
+- [Go 1.26 iterators turned the simplest language into functional spaghetti](https://dev.to/adioof/go-126-iterators-turned-the-simplest-language-into-functional-spaghetti-5c4h)
+- [One repo, one day: 4 CI guards that were green and blind](https://dev.to/heinrichneb/one-repo-one-day-4-ci-guards-that-were-green-and-blind-oge)
+- [Refactoring the views system in YOUR gift!](https://dev.to/codemaster_121482/refactoring-the-views-system-in-your-gift-4kno)
+- [TTFB Won&#39;t Go Down? Server-Side Culprits Beyond the Theme](https://dev.to/apogeewatcher/ttfb-wont-go-down-server-side-culprits-beyond-the-theme-410h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
