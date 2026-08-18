@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA&#39;s CEO says future companies will be built on harness engineering. Mine has been for six months — here&#39;s the half he left out](https://dev.to/dexterlung/nvidias-ceo-says-future-companies-will-be-built-on-harness-engineering-mine-has-been-for-six-219)
-- [Multimodal AI at Scale: My Cloud Architect&#39;s Production Notes](https://dev.to/swift-logic-io218/multimodal-ai-at-scale-my-cloud-architects-production-notes-56nj)
-- [The hard part of batch date conversion isn&#39;t formatting — it&#39;s deciding what `01/02/2024` means](https://dev.to/begoodtool/the-hard-part-of-batch-date-conversion-isnt-formatting-its-deciding-what-01022024-means-49o5)
-- [I built a PDF merger that never uploads your files — here&#39;s how published: false](https://dev.to/jeffrey_hamilton6399/i-built-a-pdf-merger-that-never-uploads-your-files-heres-howpublished-false-1iik)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c26)
+- [I Tracked My Anxious Thoughts for 30 Days in Notion — Here&#39;s What the Data Revealed](https://dev.to/473185670/i-tracked-my-anxious-thoughts-for-30-days-in-notion-heres-what-the-data-revealed-7b2)
+- [Four green CI checks. All four blind.](https://dev.to/heinrichneb/four-green-ci-checks-all-four-blind-18b)
+- [My First Engineering Job Is Teaching Me Something I Didn&#39;t Expect](https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96)
+- [Come consegnare un security audit degli header HTTP che il cliente capisce davvero](https://dev.to/cub4nh1/come-consegnare-un-security-audit-degli-header-http-che-il-cliente-capisce-davvero-53nm)
+- [I audited six token usage trackers. They disagree with each other by 2x to 8x.](https://dev.to/lizhuojunx86/i-audited-six-token-usage-trackers-they-disagree-with-each-other-by-2x-to-8x-2b1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
