@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I read the docs of 9 WordPress AI search plugins. Three run TF-IDF and four send you a second bill.](https://dev.to/gronrafal/i-read-the-docs-of-9-wordpress-ai-search-plugins-three-run-tf-idf-and-four-send-you-a-second-bill-5812)
-- [Why systemctl --user daemon-reload silently does nothing](https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9)
-- [There is always another way](https://dev.to/thedumebi/there-is-always-another-way-enl)
-- [Building FindCoffeeMate: A Small MVP That Taught Me Big Lessons](https://dev.to/binaykumardas/building-findcoffeemate-a-small-mvp-that-taught-me-big-lessons-509o)
-- [Hearth &amp; Bowl — Dinner, the Way Home Does It 🍲](https://dev.to/sri_ram8526/hearth-bowl-dinner-the-way-home-does-it-20lh)
+- [Search Console can measure TikTok. Your pipeline can&#39;t.](https://dev.to/jangwook_kim_e31e7291ad98/search-console-can-measure-tiktok-your-pipeline-cant-3ong)
+- [A 100% win rate is a red flag, not a résumé](https://dev.to/thedryrun/a-100-win-rate-is-a-red-flag-not-a-resume-50fd)
+- [Show DEV: I built an AI Agentic IDE from Scratch](https://dev.to/devoresyah/show-dev-i-built-an-ai-agentic-ide-from-scratch-3lha)
+- [Everything Is Green and Nothing Works: Tracing Kubernetes Network Reachability](https://dev.to/dovzhikova/everything-is-green-and-nothing-works-tracing-kubernetes-network-reachability-4e23)
+- [JavaScript! JavaScript! JavaScript!](https://dev.to/sonia_imorgan/javascript-javascript-javascript-3dm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
