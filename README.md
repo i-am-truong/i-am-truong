@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Governance Is Becoming a Transformation Problem](https://dev.to/debashish_ghosal/ai-governance-is-becoming-a-transformation-problem-1bkh)
-- [What really fits in 8GB VRAM](https://dev.to/thekilteddev/what-really-fits-in-8gb-vram-4o02)
-- [MAI-Image-2.5 Arena Rankings Differ Across Published Leaderboard Snapshots](https://dev.to/alifar/mai-image-25-arena-rankings-differ-across-published-leaderboard-snapshots-1789)
-- [Implementing Feature Management in .NET: The Lazy Way](https://dev.to/avlcodemonkey/implementing-feature-management-in-net-the-lazy-way-gcb)
-- [Ota v1.6.26 is here. We’re looking for design partners.](https://dev.to/faithada/ota-v1626-is-here-were-looking-for-design-partners-395e)
+- [dsh-market Turns DeepSeek Harness Plugins Into a Managed Surface](https://dev.to/dd8888/dsh-market-turns-deepseek-harness-plugins-into-a-managed-surface-4n78)
+- [Vibe Coding Reality Check: 41% More Bugs, 2.74x Flaws](https://dev.to/mudassirworks/vibe-coding-reality-check-41-more-bugs-274x-flaws-1bj3)
+- [OpenAI’s Reported RL Training Pause Signals a Tougher Frontier Safety Approach](https://dev.to/alifar/openais-reported-rl-training-pause-signals-a-tougher-frontier-safety-approach-50d)
+- [Before You Write Code, Ask Better Questions](https://dev.to/anik_sikder_313/before-you-write-code-ask-better-questions-1pja)
+- [What Is an AI First Engineer in 2026? 🤖](https://dev.to/souravdey777/what-is-an-ai-first-engineer-in-2026-3ac4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
