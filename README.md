@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Urgent Compliance Notifications with Delivery Polling and Fallback Logic](https://dev.to/zanesterling7589/a-guide-to-urgent-compliance-notifications-with-delivery-polling-and-fallback-logic-llo)
-- [Building your own Git remote in under an hour](https://dev.to/calganaygun/building-your-own-git-remote-in-under-an-hour-1gjp)
-- [NVIDIA Blackwell NVL72 Overheating: Tundaan Masif ke Q1 2025, Hyperscaler Revisi Capex](https://dev.to/ibramedia/nvidia-blackwell-nvl72-overheating-tundaan-masif-ke-q1-2025-hyperscaler-revisi-capex-1h0c)
-- [Everything Is an Agent Now, and they are arguing with me](https://dev.to/uipath/everything-is-an-agent-now-and-they-are-arguing-with-me-5fpa)
-- [Timeout Is Not Failure: The State Your AI Agent Is Missing](https://dev.to/anasbuilds997/timeout-is-not-failure-the-state-your-ai-agent-is-missing-1fml)
+- [I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”](https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp)
+- [Delphi Tools es el complemento para las Dev Tools](https://dev.to/cescquintero/delphi-tools-es-el-complemento-para-las-dev-tools-3h48)
+- [Three Silent Failures Between You and Sidecar Injection](https://dev.to/eaferstl/three-silent-failures-between-you-and-sidecar-injection-1b1n)
+- [Mistral.AI in France now hosts Z.ai GLM-5.2](https://dev.to/simbo1905/french-mistralai-in-paris-now-hosts-zai-glm-52-e8)
+- [Most Claude Code Complaints Are Context Problems, Not Model Problems](https://dev.to/asfbar/most-claude-code-complaints-are-context-problems-not-model-problems-1dak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
