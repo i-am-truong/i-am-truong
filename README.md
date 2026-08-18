@@ -120,11 +120,18 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js in 2026: honest practitioner take on what&#39;s working and what isn&#39;t](https://dev.to/nayankyada/nextjs-in-2026-honest-practitioner-take-on-whats-working-and-what-isnt-4j36)
-- [5 Content Lanes, One Watchdog: How I Stopped Wondering If My Automation Still Runs](https://dev.to/bokuwalily/5-content-lanes-one-watchdog-how-i-stopped-wondering-if-my-automation-still-runs-3fh1)
-- [7 Hidden Business Advantages of Choosing AngularJS for Your App](https://dev.to/sahil_khurana_486f374ecf2/7-hidden-business-advantages-of-choosing-angularjs-for-your-app-oeg)
-- [Claude’s Invisible Watermark Marks Even Your Own Writing](https://dev.to/theaidownside/claudes-invisible-watermark-marks-even-your-own-writing-ddp)
-- [Supabase .NET DevLog #6](https://dev.to/tr00d/supabase-net-devlog-6-40b2)
+- [Building Distributed Systems in Elixir: Part 5 — Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
+- [We cut our CLAUDE.md from 548KB to 34KB: what loads when, measured — and the commit gate that keeps it small](https://dev.to/rulestack/we-cut-our-claudemd-from-548kb-to-34kb-what-loads-when-measured-and-the-commit-gate-that-keeps-1kpk)
+- [What I Checked Before Shipping a Browser Game to itch.io](https://dev.to/zzzu2221/what-i-checked-before-shipping-a-browser-game-to-itchio-4506)
+- [New tabs are usually just… blank.
+
+So I built Cosmos, a new-tab workspace with something I haven’t seen done well:
+Developer + Designer widgets. 👨‍💻🎨
+
+Your apps, bookmarks &amp; useful info, right where you start working.
+
+cosmos-newtab.vercel.app](https://dev.to/uiuxsatyam/new-tabs-are-usually-just-blank-so-i-built-cosmos-a-new-tab-workspace-with-something-i-havent-398m)
+- [The Cache Hit Ratio Was Fine, but the Burst Still Melted the Database](https://dev.to/codepy_1473/the-cache-hit-ratio-was-fine-but-the-burst-still-melted-the-database-3ekg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
