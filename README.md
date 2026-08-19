@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Critical Content Should Not Depend on Client-Side Rendering](https://dev.to/alifar/why-critical-content-should-not-depend-on-client-side-rendering-1p4a)
 - [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
 - [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
+- [How we expose a full project tracker over MCP &lpar;so agents can file and close issues&rpar;](https://dev.to/omarharis/how-we-expose-a-full-project-tracker-over-mcp-so-agents-can-file-and-close-issues-3dn5)
 - [Google Expands Gemini Student Access Globally, Raising Governance Questions for Education](https://dev.to/alifar/google-expands-gemini-student-access-globally-raising-governance-questions-for-education-k43)
-- [Is Drupal Still a CMS? Its New Role in the Agentic Stack](https://dev.to/yielab/is-drupal-still-a-cms-its-new-role-in-the-agentic-stack-4mfa)
-- [Google Expands Gemini for Education With Study Notebooks and Adaptive Learning Tools](https://dev.to/alifar/google-expands-gemini-for-education-with-study-notebooks-and-adaptive-learning-tools-5g1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
