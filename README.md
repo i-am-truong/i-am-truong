@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Publish the Data Before It&#39;s Correct. On Purpose.](https://dev.to/srdjan_poppovic/we-publish-the-data-before-its-correct-on-purpose-4j13)
-- [I Built FridgeChef: A Web App That Turns Your Ingredients Into Recipe Ideas 🍳](https://dev.to/hiba_hashimsaleem_530b30/i-built-fridgechef-a-web-app-that-turns-your-ingredients-into-recipe-ideas-17kf)
-- [Docker, Index, and a very expensive lesson in reading pricing tables](https://dev.to/miles_huynh/docker-index-and-a-very-expensive-lesson-in-reading-pricing-tables-2k96)
-- [AI coding agent usage limits: what actually resets, and when](https://dev.to/sam_novak_574b07811e18495/ai-coding-agent-usage-limits-what-actually-resets-and-when-7h4)
-- [A Practical Workflow for Delegating Software Tasks to AI Agents](https://dev.to/paruyryan/a-practical-workflow-for-delegating-software-tasks-to-ai-agents-4epe)
+- [European Commission’s 2022 Platform Foresight Study Put Design and Policy in Focus](https://dev.to/alifar/european-commissions-2022-platform-foresight-study-put-design-and-policy-in-focus-cl1)
+- [An AI-Powered Platform for Smarter Investments: Stock Trading Platform](https://dev.to/ishika_nadar_54/an-ai-powered-platform-for-smarter-investments-stock-trading-platform-58j7)
+- [From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code](https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09)
+- [Designing Reliable APIs for Production Applications: Lessons From Building Real-World Digital Products](https://dev.to/iyamokuma/designing-reliable-apis-for-production-applications-lessons-from-building-real-world-digital-1dl)
+- [MCP Control Planes Bring Governance to LLM Tool Calls in Production Automation](https://dev.to/alifar/mcp-control-planes-bring-governance-to-llm-tool-calls-in-production-automation-4gba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
