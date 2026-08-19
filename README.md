@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent](https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl)
-- [We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.](https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73)
-- [Replayable Node.js Content Moderation Contracts for JSON Chat Completions](https://dev.to/briarvoss47291/replayable-nodejs-content-moderation-contracts-for-json-chat-completions-4ch0)
-- [What Happens If Your Password Manager’s Master Password Is Compromised?](https://dev.to/mahavault/what-happens-if-your-password-managers-master-password-is-compromised-3k3h)
-- [Your sysctl says one thing, the kernel says another](https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha)
+- [I built a 100% free in-browser CS Academy with AI Tutor &amp; Memory Visualizers &lpar;No Paywalls&rpar;](https://dev.to/buggaram_vignesh_99bbc236/i-built-a-100-free-in-browser-cs-academy-with-ai-tutor-memory-visualizers-no-paywalls-19p8)
+- [Reliable Password Reset Email Retries After 429 Responses &lpar;Without Duplicate Storms&rpar;](https://dev.to/mt41gzp73rc6/reliable-password-reset-email-retries-after-429-responses-without-duplicate-storms-1hok)
+- [LLMs on Consumer Hardware — Part 4: The Coordinator Search — Role-Casting and the Memory Wall](https://dev.to/sven_welack/llms-on-consumer-hardware-part-4-the-coordinator-search-role-casting-and-the-memory-wall-3345)
+- [Chinese AI vs US AI APIs: Which One Actually Wins in 2026?](https://dev.to/loyaldash/chinese-ai-vs-us-ai-apis-which-one-actually-wins-in-2026-dij)
+- [Healthtech SaaS Pricing: Node.js Feature Flag Percentage Release with Audit Telemetry](https://dev.to/milohastings5316/healthtech-saas-pricing-nodejs-feature-flag-percentage-release-with-audit-telemetry-3bc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
