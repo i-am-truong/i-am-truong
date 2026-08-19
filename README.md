@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LighthouseReckoning: A Lightweight LoRa Mesh Network for Arduino, ESP32 and RP2040](https://dev.to/peter_mller_8dad41ee4e7b/lighthousereckoning-a-lightweight-lora-mesh-network-for-arduino-esp32-and-rp2040-50oh)
-- [I Built a Claude Code Skill That Reverse-Engineers Undocumented APIs](https://dev.to/theprasenjeet/i-built-a-claude-code-skill-that-reverse-engineers-undocumented-apis-2h47)
-- [Transactional Email Warmup Explained — 5 Steps for Deliverability and Volume Ramping](https://dev.to/oskarholm4968/transactional-email-warmup-explained-5-steps-for-deliverability-and-volume-ramping-5cnc)
-- [[Boost]](https://dev.to/jonmarkgo/-27fl)
-- [I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here&#39;s What Died First.](https://dev.to/le_beltagy/i-deliberately-destroyed-my-kubernetes-cluster-at-2-am-heres-what-died-first-40no)
+- [# Build Log #1: Processing my first Sentinel-2 pass in 48 hours](https://dev.to/ptzivras/-build-log-1-processing-my-first-sentinel-2-pass-in-48-hours-8p9)
+- [Point-in-Time Fundamentals for Numerai Signals: Killing Lookahead in Your Feature Join](https://dev.to/tradevodata/point-in-time-fundamentals-for-numerai-signals-killing-lookahead-in-your-feature-join-1h54)
+- [Gemini in Chrome for Android Brings Agentic Browsing to Eligible U.S. Users](https://dev.to/alifar/gemini-in-chrome-for-android-brings-agentic-browsing-to-eligible-us-users-41fn)
+- [I ran a honeypot for AI agents for 45 days. 82% of the traffic that reached it was an attack.](https://dev.to/nomurasan/i-ran-a-honeypot-for-ai-agents-for-45-days-82-of-the-traffic-that-reached-it-was-an-attack-4f35)
+- [What Actually Happens When You Call `-&gt;save&lpar;&rpar;` in Laravel Eloquent](https://dev.to/haseebmirza/what-actually-happens-when-you-call-save-in-laravel-eloquent-444f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
