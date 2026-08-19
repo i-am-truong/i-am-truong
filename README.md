@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thread Claims Interoperability. Your Network Has Three Meshes.](https://dev.to/kahwee/thread-claims-interoperability-your-network-has-three-meshes-30gl)
-- [Tripsy Now Has a CLI &lpar;and an MCP&rpar;](https://dev.to/kahwee/tripsy-now-has-a-cli-and-an-mcp-1ne4)
-- [Your Linter Needs to Be as Fast as Your AI](https://dev.to/kahwee/your-linter-needs-to-be-as-fast-as-your-ai-5dme)
-- [AI-Generated Code Review: What Reviewers Should Still Block](https://dev.to/kahwee/ai-generated-code-review-what-reviewers-should-still-block-2bdf)
-- [Vite’s ?url Import Gives You a URL, Not jQuery](https://dev.to/kahwee/vites-url-import-gives-you-a-url-not-jquery-1dp4)
+- [Automatiza tareas repetitivas con un bot en Python](https://dev.to/isazajuancarlos/automatiza-tareas-repetitivas-con-un-bot-en-python-2p3b)
+- [React State Management in 2026 — Context API vs Redux Toolkit vs Zustand vs Jotai &lpar;Same Cart, Real Code + Benchmarks&rpar;](https://dev.to/kirandeepjassalcrypto/react-state-management-in-2026-context-api-vs-redux-toolkit-vs-zustand-vs-jotai-same-cart-real-1d2a)
+- [Foodwars: Battle of the Comfort Foods](https://dev.to/konark_13/foodwars-battle-of-the-comfort-foods-36bg)
+- [Google Checks Is Shutting Down: What the Privacy Compliance Platform Deprecation Means for Developers](https://dev.to/jamilxt/google-checks-is-shutting-down-what-the-privacy-compliance-platform-deprecation-means-for-4h7k)
+- [Rules, Standards, and a Missing Line on My Chart](https://dev.to/lovestaco/rules-standards-and-a-missing-line-on-my-chart-4eme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
