@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Patch Tuesday as a weapon: what Nightmare Eclipse exposed about the disclosure model](https://dev.to/do_not_test_me/patch-tuesday-as-a-weapon-what-nightmare-eclipse-exposed-about-the-disclosure-model-ej7)
-- [Addressing the CSA Top Threats to Cloud Computing 2026](https://dev.to/bala_paranj_059d338e44e7e/addressing-the-csa-top-threats-to-cloud-computing-2026-28d)
-- [How to Start a Software Project: A Practical Guide for Developers](https://dev.to/zakaria_haruna_b4d3cfd189/how-to-start-a-software-project-a-practical-guide-for-developers-ge3)
-- [One storage security audit suite for Azure, AWS, and GCP](https://dev.to/priyaranjansahu/one-storage-security-audit-suite-for-azure-aws-and-gcp-cml)
-- [The hardest part of vibe coding isn&#39;t building the app](https://dev.to/webppers/the-hardest-part-of-vibe-coding-isnt-building-the-app-1l7b)
+- [Why Synthesia Owns Its Video Player, Not Just an API](https://dev.to/epplusuk/why-synthesia-owns-its-video-player-not-just-an-api-237f)
+- [Stripe Says Paid, WooCommerce Says Pending: A Safe Reconciliation Checklist](https://dev.to/moxianyu6975cpu/stripe-says-paid-woocommerce-says-pending-a-safe-reconciliation-checklist-nml)
+- [My agent had two rules and obeyed neither](https://dev.to/gilneto8/my-agent-had-two-rules-and-obeyed-neither-4940)
+- [Your firewall log knows a connection happened and nothing about what it carried](https://dev.to/tiltedlunar123/your-firewall-log-knows-a-connection-happened-and-nothing-about-what-it-carried-5dka)
+- [Database interview questions for backend engineers](https://dev.to/moputa/database-interview-questions-for-backend-engineers-4nob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
