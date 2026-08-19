@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Engineering: Dreams, or Self-Actualization?](https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok)
-- [Claude-Enabled Protein Binder Design Shows Progress, but TREM2 Results Need Context](https://dev.to/alifar/claude-enabled-protein-binder-design-shows-progress-but-trem2-results-need-context-pi0)
-- [Why I&#39;m Building an Engineering Publishing Platform](https://dev.to/mgmaster24/why-im-building-an-engineering-publishing-platform-2p69)
-- [One Vue app, three homes: desktop with Tauri, Android with Capacitor, and the web](https://dev.to/dibodev/one-vue-app-three-homes-desktop-with-tauri-android-with-capacitor-and-the-web-4eoe)
-- [An Agent&#39;s Work Isn&#39;t &quot;Done Later&quot; Until You Can Find It Later](https://dev.to/nomurasan/an-agents-work-isnt-done-later-until-you-can-find-it-later-1929)
+- [Warp terminal alternatives in 2026 &lpar;and 2 outdated reasons to switch&rpar;](https://dev.to/chen_zong_43c81f1a65b1a54/warp-terminal-alternatives-in-2026-and-2-outdated-reasons-to-switch-1ll5)
+- [How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure](https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537)
+- [Why I Don’t Want AI Coding Agents to Have Shell Access by Default](https://dev.to/lukie81/why-i-dont-want-ai-coding-agents-to-have-shell-access-by-default-kng)
+- [Building a server monitoring SaaS on Cloudflare Workers — architecture, decisions, mistakes](https://dev.to/shannonops/building-a-server-monitoring-saas-on-cloudflare-workers-architecture-decisions-mistakes-7em)
+- [Best Strategy Frameworks Every Product Leader Should Know](https://dev.to/david_moralesweaver_3807/best-strategy-frameworks-every-product-leader-should-know-27hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
