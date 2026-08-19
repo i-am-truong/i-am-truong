@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3.8-27B: A Deep Dive Into Qwen&#39;s Newest Vision-Language Powerhouse](https://dev.to/mayu2008/qwen38-27b-a-deep-dive-into-qwens-newest-vision-language-powerhouse-2e7)
+- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
+- [My AI Content Journey](https://dev.to/playfulprogramming/my-ai-content-journey-1b8p)
 - [How to do work queuing?](https://dev.to/ymerzouka/how-to-do-work-queuing-3loc)
 - [Authentication Before Building Features](https://dev.to/tushar7084/authentication-before-building-features-boa)
-- [I Design AI Workflows With Review Points, Not Blind Automation](https://dev.to/nwhite_systems/i-design-ai-workflows-with-review-points-not-blind-automation-5fik)
-- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Only Honest Answer Most Enterprises Have Left.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-only-honest-answer-most-enterprises-have-left-1m7j)
-- [How to find a device by its MAC address](https://dev.to/deviceshelf/how-to-find-a-device-by-its-mac-address-34d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
