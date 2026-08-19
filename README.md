@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Engineering: Dreams, or Self-Actualization?](https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok)
+- [Claude-Enabled Protein Binder Design Shows Progress, but TREM2 Results Need Context](https://dev.to/alifar/claude-enabled-protein-binder-design-shows-progress-but-trem2-results-need-context-pi0)
 - [Why I&#39;m Building an Engineering Publishing Platform](https://dev.to/mgmaster24/why-im-building-an-engineering-publishing-platform-2p69)
 - [One Vue app, three homes: desktop with Tauri, Android with Capacitor, and the web](https://dev.to/dibodev/one-vue-app-three-homes-desktop-with-tauri-android-with-capacitor-and-the-web-4eoe)
 - [An Agent&#39;s Work Isn&#39;t &quot;Done Later&quot; Until You Can Find It Later](https://dev.to/nomurasan/an-agents-work-isnt-done-later-until-you-can-find-it-later-1929)
-- [Building GNOME Apps with Rust, Part 6: Fetching Feeds](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-6-fetching-feeds-bjf)
-- [What Google’s Ongoing AI Overviews Testing Means for Recipe Publishers and SEO](https://dev.to/alifar/what-googles-ongoing-ai-overviews-testing-means-for-recipe-publishers-and-seo-30kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
