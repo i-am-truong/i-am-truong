@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pine Script v6 in 2026: math.sum, math.tanh, User Defined Types &amp; Risk Management Engine](https://dev.to/guetaquant/pine-script-v6-in-2026-mathsum-mathtanh-user-defined-types-risk-management-engine-2426)
-- [What I Learned Auditing a 129-Page HTML5 Catalog: Iframe Load Is Not Playability](https://dev.to/linsheng4g/what-i-learned-auditing-a-129-page-html5-catalog-iframe-load-is-not-playability-2li2)
-- [The ROI of Zero Trust: What the Breach-Cost Data Actually Shows](https://dev.to/simonrr/the-roi-of-zero-trust-what-the-breach-cost-data-actually-shows-51m9)
-- [MCP Server on Bedrock AgentCore: What &quot;Stateless Writes&quot; Actually Forces You Into](https://dev.to/company_perfsys_3fd837950/mcp-server-on-bedrock-agentcore-what-stateless-writes-actually-forces-you-into-46d9)
-- [What Metrics Indicate Pipeline Security Health?](https://dev.to/varunvarde/what-metrics-indicate-pipeline-security-health-2379)
+- [I&#39;m building Guren, a fullstack TypeScript framework for the AI-agent era](https://dev.to/7nohe/im-building-guren-a-fullstack-typescript-framework-for-the-ai-agent-era-47k6)
+- [I Built a 40-Minute Evaluation for Free Model Endpoints. Here&#39;s the Scorecard.](https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1)
+- [Opinion: The Diff Is a Claim, the Probe Is the Proof](https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3)
+- [Top 7 DigitalOcean Alternatives in India for Startups That Need More Than Droplets](https://dev.to/umesh_singh/top-7-digitalocean-alternatives-in-india-for-startups-that-need-more-than-droplets-ena)
+- [Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse &lpar;CSV, JSON, Parquet&rpar;](https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
