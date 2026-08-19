@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When My Laravel Queue Kept Stopping, the Queue Wasn&#39;t the Real Problem](https://dev.to/meera9/when-my-laravel-queue-kept-stopping-the-queue-wasnt-the-real-problem-561b)
-- [Deploying SigNoz in 2026: A Survival Guide to ClickHouse v25+ and OTel Gotchas](https://dev.to/zhukmax/deploying-signoz-in-2026-a-survival-guide-to-clickhouse-v25-and-otel-gotchas-3pec)
-- [Wiring MLX to Swift: Running Fine-Tuned Models on Apple Silicon with Zero CoreML Overhead](https://dev.to/software_mvp-factory/wiring-mlx-to-swift-running-fine-tuned-models-on-apple-silicon-with-zero-coreml-overhead-1d8i)
-- [The Bug That Turned Every Bad Password Into a Server Outage](https://dev.to/cloudwiseteam/the-bug-that-turned-every-bad-password-into-a-server-outage-4dda)
-- [Finding public SSM parameters for AMIs with the EC2 DescribeImages API](https://dev.to/aparkris/finding-public-ssm-parameters-for-amis-with-the-ec2-describeimages-api-6e5)
+- [exec-8](https://dev.to/query_filter_591122b53770/exec-8-4mn4)
+- [Show DEV: I built a free, no-signup tool that turns audio and video into text](https://dev.to/nadiakesslerdev/show-dev-i-built-a-free-no-signup-tool-that-turns-audio-and-video-into-text-4f45)
+- [Python Practice Programs](https://dev.to/dev_saravanan_journey/python-practice-programs-56ob)
+- [Hyperia 0.17.5 is Released](https://dev.to/kordless/hyperia-0175-is-released-4kk9)
+- [QZ Tray with React: Print Directly from the Browser](https://dev.to/juliusz_kowalewski_ff40e0/qz-tray-with-react-print-directly-from-the-browser-1h39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
