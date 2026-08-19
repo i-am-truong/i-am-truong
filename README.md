@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Fundamentals of AI Engineering - EP 01](https://dev.to/kbzaman2/the-fundamentals-of-ai-engineering-ep-01-1949)
-- [how die&lpar;&rpar; helps you in debugging &lpar;PHP&rpar;](https://dev.to/burirodev/how-die-help-you-in-debugging-php-2pb4)
-- [LLM visibility tracking tools: 15 compared, and when to build instead](https://dev.to/rbatista19/llm-visibility-tracking-tools-15-compared-and-when-to-build-instead-2cf)
-- [Build a Self-Running Newsletter Business with AI That Earns $500+/Month](https://dev.to/sinan_koak_4a6dea677278a/build-a-self-running-newsletter-business-with-ai-that-earns-500month-23i1)
-- [Rate Limiting in the Next.js App Router: Field Notes on Middleware, Redis, and the Server Action That Looks Like Every Other POST](https://dev.to/ahmed_mahmoud360/rate-limiting-in-the-nextjs-app-router-field-notes-on-middleware-redis-and-the-server-action-2lh2)
+- [Mistral Shieldstral 1.0 Review — A 3B Self-Hostable Moderation Model That Runs on a Single 16GB GPU](https://dev.to/alvarito1983/mistral-shieldstral-10-review-a-3b-self-hostable-moderation-model-that-runs-on-a-single-16gb-gpu-3ecb)
+- [Isolation Forest vs GPT-4o for AI Log Anomaly Detection](https://dev.to/oleksandr_kuryzhev_42873f/isolation-forest-vs-gpt-4o-for-ai-log-anomaly-detection-392j)
+- [Two Junior Devs, One Expo Template, and 15 Hours Lost to Docs That Didn&#39;t Exist](https://dev.to/jules_sarah_0718e958f0d24/two-junior-devs-one-expo-template-and-15-hours-lost-to-docs-that-didnt-exist-52bh)
+- [AX-RAY: VIDRAFT&#39;s Open AI Safety Diagnostic Leaderboard &amp; Dataset Now on Hugging Face](https://dev.to/ai_openfree_b23025ef075cf/ax-ray-vidrafts-open-ai-safety-diagnostic-leaderboard-dataset-now-on-hugging-face-16ba)
+- [ऑप्शंस बायर ML: एक मॉडल क्यों फेल होता है &lpar;V2 फिक्स&rpar;](https://dev.to/shaktitiwari/onpshns-baayr-ml-ek-monddl-kyon-phel-hotaa-hai-v2-phiks-4ofp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
