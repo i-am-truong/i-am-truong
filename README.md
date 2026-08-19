@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3.8-27B: A Deep Dive Into Qwen&#39;s Newest Vision-Language Powerhouse](https://dev.to/mayu2008/qwen38-27b-a-deep-dive-into-qwens-newest-vision-language-powerhouse-2e7)
-- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
-- [My AI Content Journey](https://dev.to/playfulprogramming/my-ai-content-journey-1b8p)
-- [How to do work queuing?](https://dev.to/ymerzouka/how-to-do-work-queuing-3loc)
-- [Authentication Before Building Features](https://dev.to/tushar7084/authentication-before-building-features-boa)
+- [Turn Claude Code, Codex, and Hermes sessions into a shareable graph your agent can query](https://dev.to/fayzan123/turn-claude-code-codex-and-hermes-sessions-into-a-shareable-graph-your-agent-can-query-4j0d)
+- [Migrate EBS gp2 volumes to gp3 and cut storage cost by about 20%](https://dev.to/jorelfermin/migrate-ebs-gp2-volumes-to-gp3-and-cut-storage-cost-by-about-20-2fk7)
+- [Opus 5: Review bottleneck](https://dev.to/reporails/opus-5-review-bottleneck-2c6p)
+- [60-Second TWAP Settlement on Polymarket: Detailed Impact Analysis](https://dev.to/abrownfox001/60-second-twap-settlement-on-polymarket-detailed-impact-analysis-38nk)
+- [What I Found While Exploring AI-Powered Test Automation](https://dev.to/sri_ramya_1205/what-i-found-while-exploring-ai-powered-test-automation-3hkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
