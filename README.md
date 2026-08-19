@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Warp terminal alternatives in 2026 &lpar;and 2 outdated reasons to switch&rpar;](https://dev.to/chen_zong_43c81f1a65b1a54/warp-terminal-alternatives-in-2026-and-2-outdated-reasons-to-switch-1ll5)
-- [How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure](https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537)
-- [Why I Don’t Want AI Coding Agents to Have Shell Access by Default](https://dev.to/lukie81/why-i-dont-want-ai-coding-agents-to-have-shell-access-by-default-kng)
-- [Building a server monitoring SaaS on Cloudflare Workers — architecture, decisions, mistakes](https://dev.to/shannonops/building-a-server-monitoring-saas-on-cloudflare-workers-architecture-decisions-mistakes-7em)
-- [Best Strategy Frameworks Every Product Leader Should Know](https://dev.to/david_moralesweaver_3807/best-strategy-frameworks-every-product-leader-should-know-27hi)
+- [Your Markdown Parser Is Not Your XSS Boundary](https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk)
+- [The cheapest LLM call is the one you don&#39;t make: a caching layer that actually pays off](https://dev.to/xuanyi/the-cheapest-llm-call-is-the-one-you-dont-make-a-caching-layer-that-actually-pays-off-59e)
+- [Architecting low-power location triggers for Android automation](https://dev.to/haseebthedev0/architecting-low-power-location-triggers-for-android-automation-maa)
+- [DeepSeek vs Qwen vs Kimi vs GLM: An Architect&#39;s 2026 Breakdown](https://dev.to/eagerspark/deepseek-vs-qwen-vs-kimi-vs-glm-an-architects-2026-breakdown-apm)
+- [Test-Driven Development: Why I Feel Like Neo in The Matrix](https://dev.to/timevolt/test-driven-development-why-i-feel-like-neo-in-the-matrix-4ibp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
