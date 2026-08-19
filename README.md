@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI governance dashboard is probably lying to you. Mine was too.](https://dev.to/jothimani_rajendran/your-ai-governance-dashboard-is-probably-lying-to-you-mine-was-too-2kpc)
-- [Building for the Real World: What Winning an International Ideathon Taught Me](https://dev.to/casperday11/building-for-the-real-world-what-winning-an-international-ideathon-taught-me-4p6f)
-- [GitGuardian Power for Amazon Kiro: Secrets Detection Built Into the Agent](https://dev.to/gitguardian/gitguardian-power-for-amazon-kiro-secrets-detection-built-into-the-agent-4fp6)
-- [Polymarket API Guide 2026: CLOB, Gamma, WebSockets, Rate Limits and the IP Gate](https://dev.to/will_c38674673aba82fa4cbe/polymarket-api-guide-2026-clob-gamma-websockets-rate-limits-and-the-ip-gate-51mp)
-- [S3 Lifecycle Policies: How to Cut Your Storage Bill 40% &lpar;With the Actual Arithmetic&rpar;](https://dev.to/ethan-carter/s3-lifecycle-policies-how-to-cut-your-storage-bill-40-with-the-actual-arithmetic-4lnk)
+- [When My Laravel Queue Kept Stopping, the Queue Wasn&#39;t the Real Problem](https://dev.to/meera9/when-my-laravel-queue-kept-stopping-the-queue-wasnt-the-real-problem-561b)
+- [Deploying SigNoz in 2026: A Survival Guide to ClickHouse v25+ and OTel Gotchas](https://dev.to/zhukmax/deploying-signoz-in-2026-a-survival-guide-to-clickhouse-v25-and-otel-gotchas-3pec)
+- [Wiring MLX to Swift: Running Fine-Tuned Models on Apple Silicon with Zero CoreML Overhead](https://dev.to/software_mvp-factory/wiring-mlx-to-swift-running-fine-tuned-models-on-apple-silicon-with-zero-coreml-overhead-1d8i)
+- [The Bug That Turned Every Bad Password Into a Server Outage](https://dev.to/cloudwiseteam/the-bug-that-turned-every-bad-password-into-a-server-outage-4dda)
+- [Finding public SSM parameters for AMIs with the EC2 DescribeImages API](https://dev.to/aparkris/finding-public-ssm-parameters-for-amis-with-the-ec2-describeimages-api-6e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
