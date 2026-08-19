@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Flat Logs to Execution Trees: Debugging Modern AI Agents](https://dev.to/raju_dandigam/from-flat-logs-to-execution-trees-debugging-modern-ai-agents-1mop)
+- [findnix.eu: A GDPR-Compliant Search Engine Built From Scratch](https://dev.to/findnix/findnixeu-a-gdpr-compliant-search-engine-built-from-scratch-39d2)
+- [Bolting a rich-text editor onto a column full of plain text](https://dev.to/nasrulhazim/bolting-a-rich-text-editor-onto-a-column-full-of-plain-text-10o5)
 - [The Agenthood news digest now writes itself](https://dev.to/flabstech/the-agenthood-news-digest-now-writes-itself-2199)
-- [How Scalevise Measures AI Visibility Beyond Rankings With a Repeatable GEO Framework](https://dev.to/alifar/how-scalevise-measures-ai-visibility-beyond-rankings-with-a-repeatable-geo-framework-443o)
-- [Why Critical Content Should Not Depend on Client-Side Rendering](https://dev.to/alifar/why-critical-content-should-not-depend-on-client-side-rendering-1p4a)
-- [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
-- [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
+- [Reconciliation Loop: Como o Kubernetes implementa infraestrutura declarativa](https://dev.to/pramos/reconciliation-loop-como-o-kubernetes-implementa-infraestrutura-declarativa-2l6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
