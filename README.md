@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Chat Box: OpenAI&#39;s OS-level Agent and Its Plaintext Problem](https://dev.to/albertomontagnese/beyond-the-chat-box-openais-os-level-agent-and-its-plaintext-problem-3aek)
-- [Debugging Like a Jedi: Finding the Bug in the Force](https://dev.to/timevolt/debugging-like-a-jedi-finding-the-bug-in-the-force-3h77)
-- [GrapheneOS in 2027 available on high-end Motorola phones](https://dev.to/technoblogger14o3/grapheneos-in-2027-available-on-high-end-motorola-phones-3i3l)
-- [I Replaced kube-proxy with eBPF in Production &lpar;And Why My Monitoring Went Blind for 6 Hours&rpar;](https://dev.to/le_beltagy/i-replaced-kube-proxy-with-ebpf-in-production-and-why-my-monitoring-went-blind-for-6-hours-1lkb)
-- [Build a Niche Newsletter Empire With AI: How I Automated $2,400/Month in Recurring Revenue](https://dev.to/sinan_koak_4a6dea677278a/build-a-niche-newsletter-empire-with-ai-how-i-automated-2400month-in-recurring-revenue-55n4)
+- [LighthouseReckoning: A Lightweight LoRa Mesh Network for Arduino, ESP32 and RP2040](https://dev.to/peter_mller_8dad41ee4e7b/lighthousereckoning-a-lightweight-lora-mesh-network-for-arduino-esp32-and-rp2040-50oh)
+- [I Built a Claude Code Skill That Reverse-Engineers Undocumented APIs](https://dev.to/theprasenjeet/i-built-a-claude-code-skill-that-reverse-engineers-undocumented-apis-2h47)
+- [Transactional Email Warmup Explained — 5 Steps for Deliverability and Volume Ramping](https://dev.to/oskarholm4968/transactional-email-warmup-explained-5-steps-for-deliverability-and-volume-ramping-5cnc)
+- [[Boost]](https://dev.to/jonmarkgo/-27fl)
+- [I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here&#39;s What Died First.](https://dev.to/le_beltagy/i-deliberately-destroyed-my-kubernetes-cluster-at-2-am-heres-what-died-first-40no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
