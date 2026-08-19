@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Audit Became a Build Step](https://dev.to/henry_dan_81513dd35a2f540/the-audit-became-a-build-step-45je)
 - [Five agent engineering problems, with the numbers behind them](https://dev.to/akashdas/five-agent-engineering-problems-with-the-numbers-behind-them-3ol7)
-- [Pew Study Shows Google AI Summaries Are Reshaping Search Click Behavior](https://dev.to/alifar/pew-study-shows-google-ai-summaries-are-reshaping-search-click-behavior-3h16)
-- [How I Built a 50-State US Statutory Probate Calculator with Astro and Tailwind CSS](https://dev.to/logicpilgrim/how-i-built-a-50-state-us-statutory-probate-calculator-with-astro-and-tailwind-css-3p0b)
-- [Your AI Agent Needs a Cancellation Contract, Not Just a Stop Button](https://dev.to/zira125/your-ai-agent-needs-a-cancellation-contract-not-just-a-stop-button-4k8n)
-- [InfraAI at the heart of your architecture](https://dev.to/lifoter_kayla/infraai-at-the-heart-of-your-architecture-3j24)
+- [Day 29: A Pull Request Needs Two People, and Peering Needs Two Routes](https://dev.to/ndcodes/a-pull-request-needs-two-people-and-peering-needs-two-routes-5emj)
+- [How to set up a lightweight SMTP relay for your apps in seconds](https://dev.to/wizard_0ac4371d77f3efd763/how-to-set-up-a-lightweight-smtp-relay-for-your-apps-in-seconds-32l1)
+- [Why AI Coding Tools Still Don&#39;t Understand How Developers Work](https://dev.to/omerfarukduran/why-ai-coding-tools-still-dont-understand-how-developers-work-3fh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
