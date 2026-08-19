@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Agenthood news digest now writes itself](https://dev.to/flabstech/the-agenthood-news-digest-now-writes-itself-2199)
+- [How Scalevise Measures AI Visibility Beyond Rankings With a Repeatable GEO Framework](https://dev.to/alifar/how-scalevise-measures-ai-visibility-beyond-rankings-with-a-repeatable-geo-framework-443o)
 - [Why Critical Content Should Not Depend on Client-Side Rendering](https://dev.to/alifar/why-critical-content-should-not-depend-on-client-side-rendering-1p4a)
 - [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
 - [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
-- [How we expose a full project tracker over MCP &lpar;so agents can file and close issues&rpar;](https://dev.to/omarharis/how-we-expose-a-full-project-tracker-over-mcp-so-agents-can-file-and-close-issues-3dn5)
-- [Google Expands Gemini Student Access Globally, Raising Governance Questions for Education](https://dev.to/alifar/google-expands-gemini-student-access-globally-raising-governance-questions-for-education-k43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
