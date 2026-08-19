@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Pick AI Coding Models — A 2026 Startup CTO Guide](https://dev.to/rarenode/how-i-pick-ai-coding-models-a-2026-startup-cto-guide-512g)
-- [The CSS Grid vs Flexbox Showdown: A Jedi&#39;s Guide to Layout Mastery](https://dev.to/timevolt/the-css-grid-vs-flexbox-showdown-a-jedis-guide-to-layout-mastery-2eje)
-- [Hi everyone! 👋](https://dev.to/techywilbur/hi-everyone-2hd)
-- [Building a Human-in-the-Loop Autonomous Coding Agent with n8n and Telegram](https://dev.to/anggbchtr/building-a-human-in-the-loop-autonomous-coding-agent-with-n8n-and-telegram-46gp)
-- [Stop Rebuilding Backend Plumbing: Treat It as Code You Own](https://dev.to/codewithnuh/stop-rebuilding-backend-plumbing-treat-it-as-code-you-own-17bj)
+- [How to Help Intern Projects Succeed in the Real World &lpar;Beyond a Great Demo&rpar;](https://dev.to/hainanzhao/how-to-help-intern-projects-succeed-in-the-real-world-beyond-a-great-demo-28c5)
+- [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
+- [Distributed Locking in Practice: Guarantees, Failure Scenarios and Better Alternatives &lpar;4/4&rpar;](https://dev.to/morpheus-vera/distributed-locking-in-practice-guarantees-failure-scenarios-and-better-alternatives-44-2am1)
+- [There are 755 static-analysis tools. Only 42 are open-source security scanners.](https://dev.to/hamelin123/there-are-755-static-analysis-tools-only-42-are-open-source-security-scanners-3256)
+- [Markdown Tricks for Cleaner Docs](https://dev.to/binaryjournal/markdown-tricks-for-cleaner-docs-pdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
