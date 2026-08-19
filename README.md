@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Healthtech Welcome Email in 2026: Auditable Templates, API Delivery, Domain Verification](https://dev.to/arjunpatel3681/healthtech-welcome-email-in-2026-auditable-templates-api-delivery-domain-verification-2ik1)
-- [Your AI Agent Scheduler Needs a Clock-Skew Budget, Not Just Cron](https://dev.to/zira125/your-ai-agent-scheduler-needs-a-clock-skew-budget-not-just-cron-mck)
-- [Three Lines to Draw Before You Scrape Instagram](https://dev.to/automate-better/three-lines-to-draw-before-you-scrape-instagram-5h5h)
-- [Marketplace Call Summarization API: Multiple Documents, Async Jobs, Verified CRM Exports](https://dev.to/iversonblake8417/marketplace-call-summarization-api-multiple-documents-async-jobs-verified-crm-exports-2h0o)
-- [🛡️ Arquitectura de Defensa para Agentes de IA: Cómo asegurar tus LLMs contra Prompt Injection, Tool-Poisoning y Fugitividad.](https://dev.to/magopredator/arquitectura-de-defensa-para-agentes-de-ia-como-asegurar-tus-llms-contra-prompt-injection-1hmd)
+- [Designing Transaction Monitoring Dashboards for FinTech Operations](https://dev.to/vaibhav_shakya_e6b352bfc4/designing-transaction-monitoring-dashboards-for-fintech-operations-1m0d)
+- [3 problems I hit connecting an AI agent to financial data &lpar;and how I fixed them&rpar;](https://dev.to/d_edu_eebba6de1155fe/3-problems-i-hit-connecting-an-ai-agent-to-financial-data-and-how-i-fixed-them-ed9)
+- [Notion AI Agents in 2026: What They Can Replace &lpar;and Can&#39;t&rpar;](https://dev.to/abhijeet_singh_4577af3ef9/notion-ai-agents-in-2026-what-they-can-replace-and-cant-3cmb)
+- [Keyword Research Across Countries: Volume, CPC &amp; SEO Difficulty](https://dev.to/carllowman/keyword-research-across-countries-volume-cpc-seo-difficulty-1i78)
+- [Grounding an LLM in real tax data with a public MCP server](https://dev.to/d_edu_eebba6de1155fe/grounding-an-llm-in-real-tax-data-with-a-public-mcp-server-5h58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
