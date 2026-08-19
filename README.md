@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt injection: your customer-facing AI is an attack surface](https://dev.to/fetchply/prompt-injection-your-customer-facing-ai-is-an-attack-surface-g34)
-- [The Model Did Not Change: The Test Was Comparing Strings, Not Behavior](https://dev.to/codepy_1473/the-model-did-not-change-the-test-was-comparing-strings-not-behavior-4ahd)
-- [White Label ICT Software Vendors Inherit Every Reseller&#39;s AI Mistake](https://dev.to/tahiralmas/white-label-ict-software-vendors-inherit-every-resellers-ai-mistake-5cm9)
-- [Navigating AWS Solution Architecture: Real-World Lessons and Key Exam Insights](https://dev.to/itzaustinreed/navigating-aws-solution-architecture-real-world-lessons-and-key-exam-insights-4nil)
-- [How I Cut AI API Costs 95% — A Data Scientist&#39;s Field Guide](https://dev.to/gentleforge/how-i-cut-ai-api-costs-95-a-data-scientists-field-guide-3k9g)
+- [Healthtech Welcome Email in 2026: Auditable Templates, API Delivery, Domain Verification](https://dev.to/arjunpatel3681/healthtech-welcome-email-in-2026-auditable-templates-api-delivery-domain-verification-2ik1)
+- [Your AI Agent Scheduler Needs a Clock-Skew Budget, Not Just Cron](https://dev.to/zira125/your-ai-agent-scheduler-needs-a-clock-skew-budget-not-just-cron-mck)
+- [Three Lines to Draw Before You Scrape Instagram](https://dev.to/automate-better/three-lines-to-draw-before-you-scrape-instagram-5h5h)
+- [Marketplace Call Summarization API: Multiple Documents, Async Jobs, Verified CRM Exports](https://dev.to/iversonblake8417/marketplace-call-summarization-api-multiple-documents-async-jobs-verified-crm-exports-2h0o)
+- [🛡️ Arquitectura de Defensa para Agentes de IA: Cómo asegurar tus LLMs contra Prompt Injection, Tool-Poisoning y Fugitividad.](https://dev.to/magopredator/arquitectura-de-defensa-para-agentes-de-ia-como-asegurar-tus-llms-contra-prompt-injection-1hmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
