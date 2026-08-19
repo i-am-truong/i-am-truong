@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini Adds Study Notebooks to Build a Structured Student Learning Hub](https://dev.to/alifar/google-gemini-adds-study-notebooks-to-build-a-structured-student-learning-hub-4659)
-- [5 Laravel Authorization Problems You&#39;re Probably Facing &lpar;And How to Solve Them in 2026&rpar;](https://dev.to/hosseinhezami/5-laravel-authorization-problems-youre-probably-facing-and-how-to-solve-them-in-2026-11la)
-- [5 Portable Agent Skills for OpenCode and Claude Code](https://dev.to/israelsaba/5-portable-agent-skills-for-opencode-and-claude-code-2a30)
-- [Replaying real-time telemetry through a live rendering pipeline, without touching the components](https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33)
-- [OpenAI Expands Zero Data Retention Options for Frontier Model Enterprise Workloads](https://dev.to/alifar/openai-expands-zero-data-retention-options-for-frontier-model-enterprise-workloads-bjb)
+- [Part 1 — What Actually Happens When Code Runs](https://dev.to/thecoollearner/part-1-what-actually-happens-when-code-runs-558o)
+- [Saiba de qual IP estão saindo as suas chamadas REST feitas via Banco de Dados Oracle/APEX](https://dev.to/valter_filho_24448308265f/saiba-de-qual-ip-estao-saindo-as-suas-chamadas-rest-feitas-via-banco-de-dados-oracleapex-3f1e)
+- [How to structure your RSS Feed for DEV.to Ingestion](https://dev.to/digitaldrreamer/how-to-structure-your-rss-feed-for-devto-ingestion-mnc)
+- [Google Gemini Live Brings Voice-Started Deep Research to Mobile Multitasking](https://dev.to/alifar/google-gemini-live-brings-voice-started-deep-research-to-mobile-multitasking-54ll)
+- [The Mark and the Meter: A Fortnight of AI Gripes](https://dev.to/theaidownside/the-mark-and-the-meter-a-fortnight-of-ai-gripes-4cpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
