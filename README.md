@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building Guren, a fullstack TypeScript framework for the AI-agent era](https://dev.to/7nohe/im-building-guren-a-fullstack-typescript-framework-for-the-ai-agent-era-47k6)
-- [I Built a 40-Minute Evaluation for Free Model Endpoints. Here&#39;s the Scorecard.](https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1)
-- [Opinion: The Diff Is a Claim, the Probe Is the Proof](https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3)
-- [Top 7 DigitalOcean Alternatives in India for Startups That Need More Than Droplets](https://dev.to/umesh_singh/top-7-digitalocean-alternatives-in-india-for-startups-that-need-more-than-droplets-ena)
-- [Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse &lpar;CSV, JSON, Parquet&rpar;](https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk)
+- [Your AI governance dashboard is probably lying to you. Mine was too.](https://dev.to/jothimani_rajendran/your-ai-governance-dashboard-is-probably-lying-to-you-mine-was-too-2kpc)
+- [Building for the Real World: What Winning an International Ideathon Taught Me](https://dev.to/casperday11/building-for-the-real-world-what-winning-an-international-ideathon-taught-me-4p6f)
+- [GitGuardian Power for Amazon Kiro: Secrets Detection Built Into the Agent](https://dev.to/gitguardian/gitguardian-power-for-amazon-kiro-secrets-detection-built-into-the-agent-4fp6)
+- [Polymarket API Guide 2026: CLOB, Gamma, WebSockets, Rate Limits and the IP Gate](https://dev.to/will_c38674673aba82fa4cbe/polymarket-api-guide-2026-clob-gamma-websockets-rate-limits-and-the-ip-gate-51mp)
+- [S3 Lifecycle Policies: How to Cut Your Storage Bill 40% &lpar;With the Actual Arithmetic&rpar;](https://dev.to/ethan-carter/s3-lifecycle-policies-how-to-cut-your-storage-bill-40-with-the-actual-arithmetic-4lnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
