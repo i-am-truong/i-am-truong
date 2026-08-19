@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turn Claude Code, Codex, and Hermes sessions into a shareable graph your agent can query](https://dev.to/fayzan123/turn-claude-code-codex-and-hermes-sessions-into-a-shareable-graph-your-agent-can-query-4j0d)
-- [Migrate EBS gp2 volumes to gp3 and cut storage cost by about 20%](https://dev.to/jorelfermin/migrate-ebs-gp2-volumes-to-gp3-and-cut-storage-cost-by-about-20-2fk7)
-- [Opus 5: Review bottleneck](https://dev.to/reporails/opus-5-review-bottleneck-2c6p)
-- [60-Second TWAP Settlement on Polymarket: Detailed Impact Analysis](https://dev.to/abrownfox001/60-second-twap-settlement-on-polymarket-detailed-impact-analysis-38nk)
-- [What I Found While Exploring AI-Powered Test Automation](https://dev.to/sri_ramya_1205/what-i-found-while-exploring-ai-powered-test-automation-3hkk)
+- [Thread Claims Interoperability. Your Network Has Three Meshes.](https://dev.to/kahwee/thread-claims-interoperability-your-network-has-three-meshes-30gl)
+- [Tripsy Now Has a CLI &lpar;and an MCP&rpar;](https://dev.to/kahwee/tripsy-now-has-a-cli-and-an-mcp-1ne4)
+- [Your Linter Needs to Be as Fast as Your AI](https://dev.to/kahwee/your-linter-needs-to-be-as-fast-as-your-ai-5dme)
+- [AI-Generated Code Review: What Reviewers Should Still Block](https://dev.to/kahwee/ai-generated-code-review-what-reviewers-should-still-block-2bdf)
+- [Vite’s ?url Import Gives You a URL, Not jQuery](https://dev.to/kahwee/vites-url-import-gives-you-a-url-not-jquery-1dp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
