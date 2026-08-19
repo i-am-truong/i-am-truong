@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Markdown Parser Is Not Your XSS Boundary](https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk)
-- [The cheapest LLM call is the one you don&#39;t make: a caching layer that actually pays off](https://dev.to/xuanyi/the-cheapest-llm-call-is-the-one-you-dont-make-a-caching-layer-that-actually-pays-off-59e)
-- [Architecting low-power location triggers for Android automation](https://dev.to/haseebthedev0/architecting-low-power-location-triggers-for-android-automation-maa)
-- [DeepSeek vs Qwen vs Kimi vs GLM: An Architect&#39;s 2026 Breakdown](https://dev.to/eagerspark/deepseek-vs-qwen-vs-kimi-vs-glm-an-architects-2026-breakdown-apm)
-- [Test-Driven Development: Why I Feel Like Neo in The Matrix](https://dev.to/timevolt/test-driven-development-why-i-feel-like-neo-in-the-matrix-4ibp)
+- [Prompt injection: your customer-facing AI is an attack surface](https://dev.to/fetchply/prompt-injection-your-customer-facing-ai-is-an-attack-surface-g34)
+- [The Model Did Not Change: The Test Was Comparing Strings, Not Behavior](https://dev.to/codepy_1473/the-model-did-not-change-the-test-was-comparing-strings-not-behavior-4ahd)
+- [White Label ICT Software Vendors Inherit Every Reseller&#39;s AI Mistake](https://dev.to/tahiralmas/white-label-ict-software-vendors-inherit-every-resellers-ai-mistake-5cm9)
+- [Navigating AWS Solution Architecture: Real-World Lessons and Key Exam Insights](https://dev.to/itzaustinreed/navigating-aws-solution-architecture-real-world-lessons-and-key-exam-insights-4nil)
+- [How I Cut AI API Costs 95% — A Data Scientist&#39;s Field Guide](https://dev.to/gentleforge/how-i-cut-ai-api-costs-95-a-data-scientists-field-guide-3k9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
