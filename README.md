@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
+- [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
+- [Google Expands Gemini Student Access Globally, Raising Governance Questions for Education](https://dev.to/alifar/google-expands-gemini-student-access-globally-raising-governance-questions-for-education-k43)
+- [Is Drupal Still a CMS? Its New Role in the Agentic Stack](https://dev.to/yielab/is-drupal-still-a-cms-its-new-role-in-the-agentic-stack-4mfa)
 - [Google Expands Gemini for Education With Study Notebooks and Adaptive Learning Tools](https://dev.to/alifar/google-expands-gemini-for-education-with-study-notebooks-and-adaptive-learning-tools-5g1b)
-- [Picking the Right Way to Turn JPG Files Into PNG: An Engineer&#39;s Decision Guide](https://dev.to/lizely/picking-the-right-way-to-turn-jpg-files-into-png-an-engineers-decision-guide-3pj8)
-- [The Best Test Automation Tool Is Usually the One That Matches Your Mess](https://dev.to/randomsquirrel802/the-best-test-automation-tool-is-usually-the-one-that-matches-your-mess-54hb)
-- [Google Gemini Adds In-Chat 3D Visualizations, With Enterprise Access Still Limited](https://dev.to/alifar/google-gemini-adds-in-chat-3d-visualizations-with-enterprise-access-still-limited-26a1)
-- [Discipline Can&#39;t Beat Environment — Design It Before Willpower](https://dev.to/foreverlovewisdom/discipline-cant-beat-environment-design-it-before-willpower-3ame)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
