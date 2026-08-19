@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Synthesia Owns Its Video Player, Not Just an API](https://dev.to/epplusuk/why-synthesia-owns-its-video-player-not-just-an-api-237f)
-- [Stripe Says Paid, WooCommerce Says Pending: A Safe Reconciliation Checklist](https://dev.to/moxianyu6975cpu/stripe-says-paid-woocommerce-says-pending-a-safe-reconciliation-checklist-nml)
-- [My agent had two rules and obeyed neither](https://dev.to/gilneto8/my-agent-had-two-rules-and-obeyed-neither-4940)
-- [Your firewall log knows a connection happened and nothing about what it carried](https://dev.to/tiltedlunar123/your-firewall-log-knows-a-connection-happened-and-nothing-about-what-it-carried-5dka)
-- [Database interview questions for backend engineers](https://dev.to/moputa/database-interview-questions-for-backend-engineers-4nob)
+- [Pine Script v6 in 2026: math.sum, math.tanh, User Defined Types &amp; Risk Management Engine](https://dev.to/guetaquant/pine-script-v6-in-2026-mathsum-mathtanh-user-defined-types-risk-management-engine-2426)
+- [What I Learned Auditing a 129-Page HTML5 Catalog: Iframe Load Is Not Playability](https://dev.to/linsheng4g/what-i-learned-auditing-a-129-page-html5-catalog-iframe-load-is-not-playability-2li2)
+- [The ROI of Zero Trust: What the Breach-Cost Data Actually Shows](https://dev.to/simonrr/the-roi-of-zero-trust-what-the-breach-cost-data-actually-shows-51m9)
+- [MCP Server on Bedrock AgentCore: What &quot;Stateless Writes&quot; Actually Forces You Into](https://dev.to/company_perfsys_3fd837950/mcp-server-on-bedrock-agentcore-what-stateless-writes-actually-forces-you-into-46d9)
+- [What Metrics Indicate Pipeline Security Health?](https://dev.to/varunvarde/what-metrics-indicate-pipeline-security-health-2379)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
