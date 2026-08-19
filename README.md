@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Safer Way to Delegate AI Coding Tasks Without Sharing Accounts](https://dev.to/paruyrian/a-safer-way-to-delegate-ai-coding-tasks-without-sharing-accounts-3ofn)
-- [The Login Loop of Doom.](https://dev.to/georgejnrs/the-login-loop-of-doom-how-a-naive-datetime-held-our-users-hostage-4cmm)
-- [Kubernetes Doesn&#39;t Have a Cost Problem. Most Teams Have an Operations Problem.](https://dev.to/vshosting/kubernetes-doesnt-have-a-cost-problem-most-teams-have-an-operations-problem-180n)
-- [European Commission’s 2022 Platform Foresight Study Put Design and Policy in Focus](https://dev.to/alifar/european-commissions-2022-platform-foresight-study-put-design-and-policy-in-focus-cl1)
-- [An AI-Powered Platform for Smarter Investments: Stock Trading Platform](https://dev.to/ishika_nadar_54/an-ai-powered-platform-for-smarter-investments-stock-trading-platform-58j7)
+- [I built a local-first AI video dubbing pipeline with WhisperX + VoxCPM2](https://dev.to/kadirb4rut/i-built-a-local-first-ai-video-dubbing-pipeline-with-whisperx-voxcpm2-1bek)
+- [Barrel files are the clean-code habit quietly wrecking your bundle](https://dev.to/adioof/barrel-files-are-the-clean-code-habit-quietly-wrecking-your-bundle-1cn6)
+- [Anthropic Hits $65 Billion Revenue Run Rate, Surpassing OpenAI](https://dev.to/hunter_g_50e2ec233acd07b5/anthropic-hits-65-billion-revenue-run-rate-surpassing-openai-36pg)
+- [Google Was Indexing My New Site in Hours. Then I Scaled Too Fast.](https://dev.to/ruishan_yuian_63f1d154/google-was-indexing-my-new-site-in-hours-then-i-scaled-too-fast-4al3)
+- [From Wallet to Ownership: How NFT Marketplaces Work](https://dev.to/ishan_maity_48/from-wallet-to-ownership-how-nft-marketplaces-work-4a8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
