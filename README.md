@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Bun rewrite proves &#39;never rewrite from scratch&#39; was always a cope](https://dev.to/adioof/the-bun-rewrite-proves-never-rewrite-from-scratch-was-always-a-cope-4iog)
+- [The Cognito war stories: four ways it breaks an MCP server, and the fix for each](https://dev.to/akashy/the-cognito-war-stories-four-ways-it-breaks-an-mcp-server-and-the-fix-for-each-2fim)
+- [Dynamic machine ID leases in Elixir](https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj)
+- [I Built a Live Multiplayer Game Where a Shared Multiplier Grows — Until It Collapses. Here&#39;s the Real-Time Architecture.](https://dev.to/jacob_miller_6a433a011a83/i-built-a-live-multiplayer-game-where-a-shared-multiplier-grows-until-it-collapses-heres-the-1a78)
 - [MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint](https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp)
-- [Can AI agents actually hand work off to each other? 🤖 I tested Hermes Agent’s new Bot Mode with 3 specialists: research challenge synthesis. Here’s what worked, what failed, and where Bot Mode fits vs Kanban. 👇](https://dev.to/vivek_shetye/can-ai-agents-actually-hand-work-off-to-each-other-i-tested-hermes-agents-new-bot-mode-with-3-3dfk)
-- [Reinforcement Learning Series](https://dev.to/mitanshgor/reinforcement-learning-series-4m6j)
-- [Idle load balancers: the ~$16/month each you forgot to delete&quot;](https://dev.to/jorelfermin/idle-load-balancers-the-16month-each-you-forgot-to-delete-548f)
-- [You Benchmarked the Model. Now Benchmark the Server.](https://dev.to/gitlab_3188/you-benchmarked-the-model-now-benchmark-the-server-4df5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
