@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 1 — What Actually Happens When Code Runs](https://dev.to/thecoollearner/part-1-what-actually-happens-when-code-runs-558o)
-- [Saiba de qual IP estão saindo as suas chamadas REST feitas via Banco de Dados Oracle/APEX](https://dev.to/valter_filho_24448308265f/saiba-de-qual-ip-estao-saindo-as-suas-chamadas-rest-feitas-via-banco-de-dados-oracleapex-3f1e)
-- [How to structure your RSS Feed for DEV.to Ingestion](https://dev.to/digitaldrreamer/how-to-structure-your-rss-feed-for-devto-ingestion-mnc)
-- [Google Gemini Live Brings Voice-Started Deep Research to Mobile Multitasking](https://dev.to/alifar/google-gemini-live-brings-voice-started-deep-research-to-mobile-multitasking-54ll)
-- [The Mark and the Meter: A Fortnight of AI Gripes](https://dev.to/theaidownside/the-mark-and-the-meter-a-fortnight-of-ai-gripes-4cpo)
+- [Google Expands Gemini for Education With Study Notebooks and Adaptive Learning Tools](https://dev.to/alifar/google-expands-gemini-for-education-with-study-notebooks-and-adaptive-learning-tools-5g1b)
+- [Picking the Right Way to Turn JPG Files Into PNG: An Engineer&#39;s Decision Guide](https://dev.to/lizely/picking-the-right-way-to-turn-jpg-files-into-png-an-engineers-decision-guide-3pj8)
+- [The Best Test Automation Tool Is Usually the One That Matches Your Mess](https://dev.to/randomsquirrel802/the-best-test-automation-tool-is-usually-the-one-that-matches-your-mess-54hb)
+- [Google Gemini Adds In-Chat 3D Visualizations, With Enterprise Access Still Limited](https://dev.to/alifar/google-gemini-adds-in-chat-3d-visualizations-with-enterprise-access-still-limited-26a1)
+- [Discipline Can&#39;t Beat Environment — Design It Before Willpower](https://dev.to/foreverlovewisdom/discipline-cant-beat-environment-design-it-before-willpower-3ame)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
