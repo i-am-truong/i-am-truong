@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Build Log #1: Processing my first Sentinel-2 pass in 48 hours](https://dev.to/ptzivras/-build-log-1-processing-my-first-sentinel-2-pass-in-48-hours-8p9)
-- [Point-in-Time Fundamentals for Numerai Signals: Killing Lookahead in Your Feature Join](https://dev.to/tradevodata/point-in-time-fundamentals-for-numerai-signals-killing-lookahead-in-your-feature-join-1h54)
-- [Gemini in Chrome for Android Brings Agentic Browsing to Eligible U.S. Users](https://dev.to/alifar/gemini-in-chrome-for-android-brings-agentic-browsing-to-eligible-us-users-41fn)
-- [I ran a honeypot for AI agents for 45 days. 82% of the traffic that reached it was an attack.](https://dev.to/nomurasan/i-ran-a-honeypot-for-ai-agents-for-45-days-82-of-the-traffic-that-reached-it-was-an-attack-4f35)
-- [What Actually Happens When You Call `-&gt;save&lpar;&rpar;` in Laravel Eloquent](https://dev.to/haseebmirza/what-actually-happens-when-you-call-save-in-laravel-eloquent-444f)
+- [How to do work queuing?](https://dev.to/ymerzouka/how-to-do-work-queuing-3loc)
+- [Authentication Before Building Features](https://dev.to/tushar7084/authentication-before-building-features-boa)
+- [I Design AI Workflows With Review Points, Not Blind Automation](https://dev.to/nwhite_systems/i-design-ai-workflows-with-review-points-not-blind-automation-5fik)
+- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Only Honest Answer Most Enterprises Have Left.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-only-honest-answer-most-enterprises-have-left-1m7j)
+- [How to find a device by its MAC address](https://dev.to/deviceshelf/how-to-find-a-device-by-its-mac-address-34d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
