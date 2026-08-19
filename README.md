@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mistral Shieldstral 1.0 Review — A 3B Self-Hostable Moderation Model That Runs on a Single 16GB GPU](https://dev.to/alvarito1983/mistral-shieldstral-10-review-a-3b-self-hostable-moderation-model-that-runs-on-a-single-16gb-gpu-3ecb)
-- [Isolation Forest vs GPT-4o for AI Log Anomaly Detection](https://dev.to/oleksandr_kuryzhev_42873f/isolation-forest-vs-gpt-4o-for-ai-log-anomaly-detection-392j)
-- [Two Junior Devs, One Expo Template, and 15 Hours Lost to Docs That Didn&#39;t Exist](https://dev.to/jules_sarah_0718e958f0d24/two-junior-devs-one-expo-template-and-15-hours-lost-to-docs-that-didnt-exist-52bh)
-- [AX-RAY: VIDRAFT&#39;s Open AI Safety Diagnostic Leaderboard &amp; Dataset Now on Hugging Face](https://dev.to/ai_openfree_b23025ef075cf/ax-ray-vidrafts-open-ai-safety-diagnostic-leaderboard-dataset-now-on-hugging-face-16ba)
-- [ऑप्शंस बायर ML: एक मॉडल क्यों फेल होता है &lpar;V2 फिक्स&rpar;](https://dev.to/shaktitiwari/onpshns-baayr-ml-ek-monddl-kyon-phel-hotaa-hai-v2-phiks-4ofp)
+- [How I Pick AI Coding Models — A 2026 Startup CTO Guide](https://dev.to/rarenode/how-i-pick-ai-coding-models-a-2026-startup-cto-guide-512g)
+- [The CSS Grid vs Flexbox Showdown: A Jedi&#39;s Guide to Layout Mastery](https://dev.to/timevolt/the-css-grid-vs-flexbox-showdown-a-jedis-guide-to-layout-mastery-2eje)
+- [Hi everyone! 👋](https://dev.to/techywilbur/hi-everyone-2hd)
+- [Building a Human-in-the-Loop Autonomous Coding Agent with n8n and Telegram](https://dev.to/anggbchtr/building-a-human-in-the-loop-autonomous-coding-agent-with-n8n-and-telegram-46gp)
+- [Stop Rebuilding Backend Plumbing: Treat It as Code You Own](https://dev.to/codewithnuh/stop-rebuilding-backend-plumbing-treat-it-as-code-you-own-17bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
