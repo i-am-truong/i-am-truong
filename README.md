@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [exec-8](https://dev.to/query_filter_591122b53770/exec-8-4mn4)
-- [Show DEV: I built a free, no-signup tool that turns audio and video into text](https://dev.to/nadiakesslerdev/show-dev-i-built-a-free-no-signup-tool-that-turns-audio-and-video-into-text-4f45)
-- [Python Practice Programs](https://dev.to/dev_saravanan_journey/python-practice-programs-56ob)
-- [Hyperia 0.17.5 is Released](https://dev.to/kordless/hyperia-0175-is-released-4kk9)
-- [QZ Tray with React: Print Directly from the Browser](https://dev.to/juliusz_kowalewski_ff40e0/qz-tray-with-react-print-directly-from-the-browser-1h39)
+- [Beyond the Chat Box: OpenAI&#39;s OS-level Agent and Its Plaintext Problem](https://dev.to/albertomontagnese/beyond-the-chat-box-openais-os-level-agent-and-its-plaintext-problem-3aek)
+- [Debugging Like a Jedi: Finding the Bug in the Force](https://dev.to/timevolt/debugging-like-a-jedi-finding-the-bug-in-the-force-3h77)
+- [GrapheneOS in 2027 available on high-end Motorola phones](https://dev.to/technoblogger14o3/grapheneos-in-2027-available-on-high-end-motorola-phones-3i3l)
+- [I Replaced kube-proxy with eBPF in Production &lpar;And Why My Monitoring Went Blind for 6 Hours&rpar;](https://dev.to/le_beltagy/i-replaced-kube-proxy-with-ebpf-in-production-and-why-my-monitoring-went-blind-for-6-hours-1lkb)
+- [Build a Niche Newsletter Empire With AI: How I Automated $2,400/Month in Recurring Revenue](https://dev.to/sinan_koak_4a6dea677278a/build-a-niche-newsletter-empire-with-ai-how-i-automated-2400month-in-recurring-revenue-55n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
