@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built a DSL for infrastructure in 10 days with AI](https://dev.to/tuvidev/how-i-built-a-dsl-for-infrastructure-in-10-days-with-ai-120n)
-- [Forking Macro: A Technical Walkthrough of Agent Collaboration](https://dev.to/harshithvaddiparthy/forking-macro-a-technical-walkthrough-of-agent-collaboration-6ab)
-- [Try GreenOps Scan Safely: Create a Read-Only AWS Profile First](https://dev.to/spidgorny/try-greenops-scan-safely-create-a-read-only-aws-profile-first-3nle)
-- [GreenOps vs. AWS Native Cost &amp; Carbon Tools](https://dev.to/spidgorny/greenops-vs-aws-native-cost-carbon-tools-571k)
-- [Graphify: Turn Codebases into Knowledge Graphs to Slash AI Token Costs](https://dev.to/terminalchai/graphify-turn-codebases-into-knowledge-graphs-to-slash-ai-token-costs-3lfb)
+- [Imagine Having a Heroku Mobile App](https://dev.to/madalitsonyemba/imagine-having-a-heroku-mobile-appa-27o8)
+- [OpenAI Adds Zero Data Retention and Private Safety Processing for Enterprise AI](https://dev.to/alifar/openai-adds-zero-data-retention-and-private-safety-processing-for-enterprise-ai-26dd)
+- [The compliance frameworks were written before AI coding tools existed](https://dev.to/sirinivask/the-compliance-frameworks-were-written-before-ai-coding-tools-existed-2pja)
+- [The Most Advanced Laravel Permission Manager: Enterprise Authorization Engine with RBAC, ABAC, Role Hierarchy &amp; Multi-Tenancy](https://dev.to/hosseinhezami/the-most-advanced-laravel-permission-manager-enterprise-authorization-engine-with-rbac-abac-role-30n6)
+- [# Join Me on My Coding Journey](https://dev.to/cassie_codes/-join-me-on-my-coding-journey-3d68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
