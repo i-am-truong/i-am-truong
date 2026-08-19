@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Bun rewrite proves &#39;never rewrite from scratch&#39; was always a cope](https://dev.to/adioof/the-bun-rewrite-proves-never-rewrite-from-scratch-was-always-a-cope-4iog)
-- [The Cognito war stories: four ways it breaks an MCP server, and the fix for each](https://dev.to/akashy/the-cognito-war-stories-four-ways-it-breaks-an-mcp-server-and-the-fix-for-each-2fim)
-- [Dynamic machine ID leases in Elixir](https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj)
-- [I Built a Live Multiplayer Game Where a Shared Multiplier Grows — Until It Collapses. Here&#39;s the Real-Time Architecture.](https://dev.to/jacob_miller_6a433a011a83/i-built-a-live-multiplayer-game-where-a-shared-multiplier-grows-until-it-collapses-heres-the-1a78)
-- [MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint](https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp)
+- [Five agent engineering problems, with the numbers behind them](https://dev.to/akashdas/five-agent-engineering-problems-with-the-numbers-behind-them-3ol7)
+- [Pew Study Shows Google AI Summaries Are Reshaping Search Click Behavior](https://dev.to/alifar/pew-study-shows-google-ai-summaries-are-reshaping-search-click-behavior-3h16)
+- [How I Built a 50-State US Statutory Probate Calculator with Astro and Tailwind CSS](https://dev.to/logicpilgrim/how-i-built-a-50-state-us-statutory-probate-calculator-with-astro-and-tailwind-css-3p0b)
+- [Your AI Agent Needs a Cancellation Contract, Not Just a Stop Button](https://dev.to/zira125/your-ai-agent-needs-a-cancellation-contract-not-just-a-stop-button-4k8n)
+- [InfraAI at the heart of your architecture](https://dev.to/lifoter_kayla/infraai-at-the-heart-of-your-architecture-3j24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
