@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a 100% free in-browser CS Academy with AI Tutor &amp; Memory Visualizers &lpar;No Paywalls&rpar;](https://dev.to/buggaram_vignesh_99bbc236/i-built-a-100-free-in-browser-cs-academy-with-ai-tutor-memory-visualizers-no-paywalls-19p8)
-- [Reliable Password Reset Email Retries After 429 Responses &lpar;Without Duplicate Storms&rpar;](https://dev.to/mt41gzp73rc6/reliable-password-reset-email-retries-after-429-responses-without-duplicate-storms-1hok)
-- [LLMs on Consumer Hardware — Part 4: The Coordinator Search — Role-Casting and the Memory Wall](https://dev.to/sven_welack/llms-on-consumer-hardware-part-4-the-coordinator-search-role-casting-and-the-memory-wall-3345)
-- [Chinese AI vs US AI APIs: Which One Actually Wins in 2026?](https://dev.to/loyaldash/chinese-ai-vs-us-ai-apis-which-one-actually-wins-in-2026-dij)
-- [Healthtech SaaS Pricing: Node.js Feature Flag Percentage Release with Audit Telemetry](https://dev.to/milohastings5316/healthtech-saas-pricing-nodejs-feature-flag-percentage-release-with-audit-telemetry-3bc1)
+- [The Fundamentals of AI Engineering - EP 01](https://dev.to/kbzaman2/the-fundamentals-of-ai-engineering-ep-01-1949)
+- [how die&lpar;&rpar; helps you in debugging &lpar;PHP&rpar;](https://dev.to/burirodev/how-die-help-you-in-debugging-php-2pb4)
+- [LLM visibility tracking tools: 15 compared, and when to build instead](https://dev.to/rbatista19/llm-visibility-tracking-tools-15-compared-and-when-to-build-instead-2cf)
+- [Build a Self-Running Newsletter Business with AI That Earns $500+/Month](https://dev.to/sinan_koak_4a6dea677278a/build-a-self-running-newsletter-business-with-ai-that-earns-500month-23i1)
+- [Rate Limiting in the Next.js App Router: Field Notes on Middleware, Redis, and the Server Action That Looks Like Every Other POST](https://dev.to/ahmed_mahmoud360/rate-limiting-in-the-nextjs-app-router-field-notes-on-middleware-redis-and-the-server-action-2lh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
