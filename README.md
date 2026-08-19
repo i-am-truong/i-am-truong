@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Imagine Having a Heroku Mobile App](https://dev.to/madalitsonyemba/imagine-having-a-heroku-mobile-appa-27o8)
-- [OpenAI Adds Zero Data Retention and Private Safety Processing for Enterprise AI](https://dev.to/alifar/openai-adds-zero-data-retention-and-private-safety-processing-for-enterprise-ai-26dd)
-- [The compliance frameworks were written before AI coding tools existed](https://dev.to/sirinivask/the-compliance-frameworks-were-written-before-ai-coding-tools-existed-2pja)
-- [The Most Advanced Laravel Permission Manager: Enterprise Authorization Engine with RBAC, ABAC, Role Hierarchy &amp; Multi-Tenancy](https://dev.to/hosseinhezami/the-most-advanced-laravel-permission-manager-enterprise-authorization-engine-with-rbac-abac-role-30n6)
-- [# Join Me on My Coding Journey](https://dev.to/cassie_codes/-join-me-on-my-coding-journey-3d68)
+- [Google Gemini Adds Study Notebooks to Build a Structured Student Learning Hub](https://dev.to/alifar/google-gemini-adds-study-notebooks-to-build-a-structured-student-learning-hub-4659)
+- [5 Laravel Authorization Problems You&#39;re Probably Facing &lpar;And How to Solve Them in 2026&rpar;](https://dev.to/hosseinhezami/5-laravel-authorization-problems-youre-probably-facing-and-how-to-solve-them-in-2026-11la)
+- [5 Portable Agent Skills for OpenCode and Claude Code](https://dev.to/israelsaba/5-portable-agent-skills-for-opencode-and-claude-code-2a30)
+- [Replaying real-time telemetry through a live rendering pipeline, without touching the components](https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33)
+- [OpenAI Expands Zero Data Retention Options for Frontier Model Enterprise Workloads](https://dev.to/alifar/openai-expands-zero-data-retention-options-for-frontier-model-enterprise-workloads-bjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
