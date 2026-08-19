@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Help Intern Projects Succeed in the Real World &lpar;Beyond a Great Demo&rpar;](https://dev.to/hainanzhao/how-to-help-intern-projects-succeed-in-the-real-world-beyond-a-great-demo-28c5)
-- [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
-- [Distributed Locking in Practice: Guarantees, Failure Scenarios and Better Alternatives &lpar;4/4&rpar;](https://dev.to/morpheus-vera/distributed-locking-in-practice-guarantees-failure-scenarios-and-better-alternatives-44-2am1)
-- [There are 755 static-analysis tools. Only 42 are open-source security scanners.](https://dev.to/hamelin123/there-are-755-static-analysis-tools-only-42-are-open-source-security-scanners-3256)
-- [Markdown Tricks for Cleaner Docs](https://dev.to/binaryjournal/markdown-tricks-for-cleaner-docs-pdh)
+- [We Publish the Data Before It&#39;s Correct. On Purpose.](https://dev.to/srdjan_poppovic/we-publish-the-data-before-its-correct-on-purpose-4j13)
+- [I Built FridgeChef: A Web App That Turns Your Ingredients Into Recipe Ideas 🍳](https://dev.to/hiba_hashimsaleem_530b30/i-built-fridgechef-a-web-app-that-turns-your-ingredients-into-recipe-ideas-17kf)
+- [Docker, Index, and a very expensive lesson in reading pricing tables](https://dev.to/miles_huynh/docker-index-and-a-very-expensive-lesson-in-reading-pricing-tables-2k96)
+- [AI coding agent usage limits: what actually resets, and when](https://dev.to/sam_novak_574b07811e18495/ai-coding-agent-usage-limits-what-actually-resets-and-when-7h4)
+- [A Practical Workflow for Delegating Software Tasks to AI Agents](https://dev.to/paruyryan/a-practical-workflow-for-delegating-software-tasks-to-ai-agents-4epe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
