@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automatiza tareas repetitivas con un bot en Python](https://dev.to/isazajuancarlos/automatiza-tareas-repetitivas-con-un-bot-en-python-2p3b)
-- [React State Management in 2026 — Context API vs Redux Toolkit vs Zustand vs Jotai &lpar;Same Cart, Real Code + Benchmarks&rpar;](https://dev.to/kirandeepjassalcrypto/react-state-management-in-2026-context-api-vs-redux-toolkit-vs-zustand-vs-jotai-same-cart-real-1d2a)
-- [Foodwars: Battle of the Comfort Foods](https://dev.to/konark_13/foodwars-battle-of-the-comfort-foods-36bg)
-- [Google Checks Is Shutting Down: What the Privacy Compliance Platform Deprecation Means for Developers](https://dev.to/jamilxt/google-checks-is-shutting-down-what-the-privacy-compliance-platform-deprecation-means-for-4h7k)
-- [Rules, Standards, and a Missing Line on My Chart](https://dev.to/lovestaco/rules-standards-and-a-missing-line-on-my-chart-4eme)
+- [MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint](https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp)
+- [Can AI agents actually hand work off to each other? 🤖 I tested Hermes Agent’s new Bot Mode with 3 specialists: research challenge synthesis. Here’s what worked, what failed, and where Bot Mode fits vs Kanban. 👇](https://dev.to/vivek_shetye/can-ai-agents-actually-hand-work-off-to-each-other-i-tested-hermes-agents-new-bot-mode-with-3-3dfk)
+- [Reinforcement Learning Series](https://dev.to/mitanshgor/reinforcement-learning-series-4m6j)
+- [Idle load balancers: the ~$16/month each you forgot to delete&quot;](https://dev.to/jorelfermin/idle-load-balancers-the-16month-each-you-forgot-to-delete-548f)
+- [You Benchmarked the Model. Now Benchmark the Server.](https://dev.to/gitlab_3188/you-benchmarked-the-model-now-benchmark-the-server-4df5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
