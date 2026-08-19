@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Transaction Monitoring Dashboards for FinTech Operations](https://dev.to/vaibhav_shakya_e6b352bfc4/designing-transaction-monitoring-dashboards-for-fintech-operations-1m0d)
-- [3 problems I hit connecting an AI agent to financial data &lpar;and how I fixed them&rpar;](https://dev.to/d_edu_eebba6de1155fe/3-problems-i-hit-connecting-an-ai-agent-to-financial-data-and-how-i-fixed-them-ed9)
-- [Notion AI Agents in 2026: What They Can Replace &lpar;and Can&#39;t&rpar;](https://dev.to/abhijeet_singh_4577af3ef9/notion-ai-agents-in-2026-what-they-can-replace-and-cant-3cmb)
-- [Keyword Research Across Countries: Volume, CPC &amp; SEO Difficulty](https://dev.to/carllowman/keyword-research-across-countries-volume-cpc-seo-difficulty-1i78)
-- [Grounding an LLM in real tax data with a public MCP server](https://dev.to/d_edu_eebba6de1155fe/grounding-an-llm-in-real-tax-data-with-a-public-mcp-server-5h58)
+- [Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent](https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl)
+- [We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.](https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73)
+- [Replayable Node.js Content Moderation Contracts for JSON Chat Completions](https://dev.to/briarvoss47291/replayable-nodejs-content-moderation-contracts-for-json-chat-completions-4ch0)
+- [What Happens If Your Password Manager’s Master Password Is Compromised?](https://dev.to/mahavault/what-happens-if-your-password-managers-master-password-is-compromised-3k3h)
+- [Your sysctl says one thing, the kernel says another](https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
