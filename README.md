@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a local-first AI video dubbing pipeline with WhisperX + VoxCPM2](https://dev.to/kadirb4rut/i-built-a-local-first-ai-video-dubbing-pipeline-with-whisperx-voxcpm2-1bek)
-- [Barrel files are the clean-code habit quietly wrecking your bundle](https://dev.to/adioof/barrel-files-are-the-clean-code-habit-quietly-wrecking-your-bundle-1cn6)
-- [Anthropic Hits $65 Billion Revenue Run Rate, Surpassing OpenAI](https://dev.to/hunter_g_50e2ec233acd07b5/anthropic-hits-65-billion-revenue-run-rate-surpassing-openai-36pg)
-- [Google Was Indexing My New Site in Hours. Then I Scaled Too Fast.](https://dev.to/ruishan_yuian_63f1d154/google-was-indexing-my-new-site-in-hours-then-i-scaled-too-fast-4al3)
-- [From Wallet to Ownership: How NFT Marketplaces Work](https://dev.to/ishan_maity_48/from-wallet-to-ownership-how-nft-marketplaces-work-4a8i)
+- [Patch Tuesday as a weapon: what Nightmare Eclipse exposed about the disclosure model](https://dev.to/do_not_test_me/patch-tuesday-as-a-weapon-what-nightmare-eclipse-exposed-about-the-disclosure-model-ej7)
+- [Addressing the CSA Top Threats to Cloud Computing 2026](https://dev.to/bala_paranj_059d338e44e7e/addressing-the-csa-top-threats-to-cloud-computing-2026-28d)
+- [How to Start a Software Project: A Practical Guide for Developers](https://dev.to/zakaria_haruna_b4d3cfd189/how-to-start-a-software-project-a-practical-guide-for-developers-ge3)
+- [One storage security audit suite for Azure, AWS, and GCP](https://dev.to/priyaranjansahu/one-storage-security-audit-suite-for-azure-aws-and-gcp-cml)
+- [The hardest part of vibe coding isn&#39;t building the app](https://dev.to/webppers/the-hardest-part-of-vibe-coding-isnt-building-the-app-1l7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
