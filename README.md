@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Audit Became a Build Step](https://dev.to/henry_dan_81513dd35a2f540/the-audit-became-a-build-step-45je)
-- [Five agent engineering problems, with the numbers behind them](https://dev.to/akashdas/five-agent-engineering-problems-with-the-numbers-behind-them-3ol7)
-- [Day 29: A Pull Request Needs Two People, and Peering Needs Two Routes](https://dev.to/ndcodes/a-pull-request-needs-two-people-and-peering-needs-two-routes-5emj)
-- [How to set up a lightweight SMTP relay for your apps in seconds](https://dev.to/wizard_0ac4371d77f3efd763/how-to-set-up-a-lightweight-smtp-relay-for-your-apps-in-seconds-32l1)
-- [Why AI Coding Tools Still Don&#39;t Understand How Developers Work](https://dev.to/omerfarukduran/why-ai-coding-tools-still-dont-understand-how-developers-work-3fh1)
+- [How I built a DSL for infrastructure in 10 days with AI](https://dev.to/tuvidev/how-i-built-a-dsl-for-infrastructure-in-10-days-with-ai-120n)
+- [Forking Macro: A Technical Walkthrough of Agent Collaboration](https://dev.to/harshithvaddiparthy/forking-macro-a-technical-walkthrough-of-agent-collaboration-6ab)
+- [Try GreenOps Scan Safely: Create a Read-Only AWS Profile First](https://dev.to/spidgorny/try-greenops-scan-safely-create-a-read-only-aws-profile-first-3nle)
+- [GreenOps vs. AWS Native Cost &amp; Carbon Tools](https://dev.to/spidgorny/greenops-vs-aws-native-cost-carbon-tools-571k)
+- [Graphify: Turn Codebases into Knowledge Graphs to Slash AI Token Costs](https://dev.to/terminalchai/graphify-turn-codebases-into-knowledge-graphs-to-slash-ai-token-costs-3lfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
