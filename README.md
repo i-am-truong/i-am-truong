@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Disposable Notion Agent on Cheap Models](https://dev.to/ashish_mishra_8491c3b9912/building-a-disposable-notion-agent-on-cheap-models-m5b)
-- [How to Fix &#39;command not found&#39; &lpar;Without Reinstalling Everything&rpar;](https://dev.to/systemcraftdev/how-to-fix-command-not-found-without-reinstalling-everything-3am0)
-- [Stop Copy-Pasting Parts in Docker Compose](https://dev.to/kasir-barati/stop-copy-pasting-parts-in-docker-compose-71m)
-- [5 Common Subnetting Mistakes That Break Real Networks](https://dev.to/subnetica/5-common-subnetting-mistakes-that-break-real-networks-4an7)
-- [How I Built a Color Picker That Actually Converts Colors Correctly &lpar;HEX/RGB/HSL&rpar;](https://dev.to/ggwork/how-i-built-a-color-picker-that-actually-converts-colors-correctly-hexrgbhsl-45ga)
+- [DeepSeek Harness &lpar;dsh&rpar; คืออะไร? เจาะลึกคู่แข่งโค้ดโอเพ่นซอร์สของ Claude](https://dev.to/thanawat_wonchai/deepseek-harness-dsh-khuueaair-ecchaaaluekkhuuaekhngokhdoephnchrskhng-claude-1fpl)
+- [From &#39;src refspec&#39; Errors to Clean PRs: The Practical Git Branching Workflow You Need](https://dev.to/alanvarghese-dev/from-src-refspec-errors-to-clean-prs-the-practical-git-branching-workflow-you-need-4job)
+- [Claude Sonnet 5&#39;s Introductory Pricing Expires August 31. Your Cost Model Doesn&#39;t Know That Yet.](https://dev.to/assili_salim_e3c07f9954de/claude-sonnet-5s-introductory-pricing-expires-august-31-your-cost-model-doesnt-know-that-yet-4e1j)
+- [I searched &#39;Sepolia&#39; in my wallet&#39;s network list and got 20+ similar names. Here&#39;s the one number that actually matters.](https://dev.to/nomurasan/i-searched-sepolia-in-my-wallets-network-list-and-got-20-similar-names-heres-the-one-number-4eml)
+- [A screenshot is not enough for a screen-aware Mac assistant](https://dev.to/sarthakagrawal927/a-screenshot-is-not-enough-for-a-screen-aware-mac-assistant-38bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
