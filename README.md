@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clean code isn&#39;t what I thought it was](https://dev.to/alekswritescode/clean-code-isnt-what-i-thought-it-was-2akk)
-- [Building an interactive WebGL water hero in React — and the four bugs it cost me](https://dev.to/melissuki/building-an-interactive-webgl-water-hero-in-react-and-the-four-bugs-it-cost-me-4n7f)
-- [What Is a Vulnerability, Really? Source, Sink, and Taint](https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75)
-- [The error pointed at the GPU. The culprit was the HBA. — a Proxmox passthrough recovery](https://dev.to/jjozzietech/the-error-pointed-at-the-gpu-the-culprit-was-the-hba-a-proxmox-passthrough-recovery-3c33)
-- [Versioning PNG Snapshots Into a PDF Diff Trail You Can Actually Defend](https://dev.to/lizely/versioning-png-snapshots-into-a-pdf-diff-trail-you-can-actually-defend-h52)
+- [Google Gemini 3.7 Flash Goes GA Across AI Mode, APIs, and Enterprise Surfaces](https://dev.to/alifar/google-gemini-37-flash-goes-ga-across-ai-mode-apis-and-enterprise-surfaces-50o0)
+- [Building a viral Imax ticketing app that never crashes](https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58)
+- [Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend](https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal)
+- [Buying a phone number is a distributed transaction](https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/first_name_alice/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-1cp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
