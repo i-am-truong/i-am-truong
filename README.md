@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Flat Logs to Execution Trees: Debugging Modern AI Agents](https://dev.to/raju_dandigam/from-flat-logs-to-execution-trees-debugging-modern-ai-agents-1mop)
-- [findnix.eu: A GDPR-Compliant Search Engine Built From Scratch](https://dev.to/findnix/findnixeu-a-gdpr-compliant-search-engine-built-from-scratch-39d2)
-- [Bolting a rich-text editor onto a column full of plain text](https://dev.to/nasrulhazim/bolting-a-rich-text-editor-onto-a-column-full-of-plain-text-10o5)
-- [The Agenthood news digest now writes itself](https://dev.to/flabstech/the-agenthood-news-digest-now-writes-itself-2199)
-- [Reconciliation Loop: Como o Kubernetes implementa infraestrutura declarativa](https://dev.to/pramos/reconciliation-loop-como-o-kubernetes-implementa-infraestrutura-declarativa-2l6o)
+- [Perry Mason in: The Case of the Drifting Timer](https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj)
+- [Three of the First Four Alerts Were the Question&#39;s Fault](https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb)
+- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)
+- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
+- [What&#39;s New in Go 1.27: A Developer&#39;s Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
