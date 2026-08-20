@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Over-Engineering Your Indie Project](https://dev.to/ntty/stop-over-engineering-your-indie-project-3j0h)
-- [Your tools/list is stamped. That is not the same as cached.](https://dev.to/wolfejam/your-toolslist-is-stamped-that-is-not-the-same-as-cached-2j0f)
-- [Inside the Accountability Vacuum](https://dev.to/rawveg/inside-the-accountability-vacuum-3c3g)
-- [I launched my very first project](https://dev.to/vatana7/i-launched-my-very-first-project-136g)
-- [Firmenbuch, GISA, VIES: die APIs hinter unserem Impressum-Generator für Österreich](https://dev.to/webgaudi/firmenbuch-gisa-vies-die-apis-hinter-unserem-impressum-generator-fur-osterreich-1p0l)
+- [How Framer Templates Help Businesses Launch Websites Faster](https://dev.to/joywinter90/how-framer-templates-help-businesses-launch-websites-faster-2n8i)
+- [AWS Trusted Advisor vs Compute Optimizer vs Cost Explorer: How Much Recoverable Waste Each One Actually Finds](https://dev.to/zop_8abedcc7e12/aws-trusted-advisor-vs-compute-optimizer-vs-cost-explorer-how-much-recoverable-waste-each-one-3g4n)
+- [Idle Cloud Resources: What an Unused NAT Gateway, Idle Load Balancer and Sub-5% EC2 Instance Cost You Per Month](https://dev.to/zop_8abedcc7e12/idle-cloud-resources-what-an-unused-nat-gateway-idle-load-balancer-and-sub-5-ec2-instance-cost-1147)
+- [Cloud Rightsizing Without Breaking Production: gp2 to gp3, EC2 CPU Baselines and GPU Instances &lpar;G5, G6, P4, P5&rpar;](https://dev.to/zop_8abedcc7e12/cloud-rightsizing-without-breaking-production-gp2-to-gp3-ec2-cpu-baselines-and-gpu-instances-g5-1kk0)
+- [Don&#39;t trust model quotes; use anchors instead](https://dev.to/gmhoward9289ops/dont-trust-model-quotes-use-anchors-instead-2ohl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
