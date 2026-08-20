@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Next.js App Router API Routes Without Leaving Your Editor](https://dev.to/saurowankhade/testing-nextjs-app-router-api-routes-without-leaving-your-editor-372n)
-- [Invoked, not executed](https://dev.to/thekilteddev/invoked-not-executed-1cg8)
-- [Swift ARC Doesn’t Scan the Heap — I Removed strong_release from SIL to Prove It](https://dev.to/_a3620048b828cbaa5d742/swift-arc-doesnt-scan-the-heap-i-removed-strongrelease-from-sil-to-prove-it-oed)
-- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-22n3)
-- [Kubernetes DNS was failing 33% of the time. CoreDNS was fine.](https://dev.to/hilmib/kubernetes-dns-was-failing-33-of-the-time-coredns-was-fine-221e)
+- [I shipped a plugin with one branch I hadn&#39;t tested — so I built a fallback](https://dev.to/eugeniya_ivanova_4a58eadc/i-shipped-a-plugin-with-one-branch-i-hadnt-tested-so-i-built-a-fallback-lc8)
+- [Windows Brings Out the Rorschach Test in Everyone: Why Your OS Opinion Says More About You Than Microsoft](https://dev.to/kaixintelligence/windows-brings-out-the-rorschach-test-in-everyone-why-your-os-opinion-says-more-about-you-than-2aag)
+- [BlazorMemory 1.0 is out. Ten months, 14 packages, and what I got wrong along the way.](https://dev.to/aftabkh4n/blazormemory-10-is-out-ten-months-14-packages-and-what-i-got-wrong-along-the-way-1548)
+- [I cut small AWS charges by picturing them at 100x scale](https://dev.to/uehara/i-cut-small-aws-charges-by-picturing-them-at-100x-scale-24n7)
+- [Stop Stuffing Your Context Window: 6 Architectural Shifts to Cut Token Costs and Latency](https://dev.to/bhavin_gandha_38051596191/stop-stuffing-your-context-window-6-architectural-shifts-to-cut-token-costs-and-latency-3kkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
