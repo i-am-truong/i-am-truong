@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I shipped a plugin with one branch I hadn&#39;t tested — so I built a fallback](https://dev.to/eugeniya_ivanova_4a58eadc/i-shipped-a-plugin-with-one-branch-i-hadnt-tested-so-i-built-a-fallback-lc8)
-- [Windows Brings Out the Rorschach Test in Everyone: Why Your OS Opinion Says More About You Than Microsoft](https://dev.to/kaixintelligence/windows-brings-out-the-rorschach-test-in-everyone-why-your-os-opinion-says-more-about-you-than-2aag)
-- [BlazorMemory 1.0 is out. Ten months, 14 packages, and what I got wrong along the way.](https://dev.to/aftabkh4n/blazormemory-10-is-out-ten-months-14-packages-and-what-i-got-wrong-along-the-way-1548)
-- [I cut small AWS charges by picturing them at 100x scale](https://dev.to/uehara/i-cut-small-aws-charges-by-picturing-them-at-100x-scale-24n7)
-- [Stop Stuffing Your Context Window: 6 Architectural Shifts to Cut Token Costs and Latency](https://dev.to/bhavin_gandha_38051596191/stop-stuffing-your-context-window-6-architectural-shifts-to-cut-token-costs-and-latency-3kkd)
+- [I built an MCP memory server for one user &lpar;me, for six weeks&rpar;](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)
+- [Understanding PHP-FPM&#39;s process manager &lpar;by actually watching it&rpar;](https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g)
+- [Why Your Robot Performance Is Unstable: The Hidden Power Problems Engineers Often Miss](https://dev.to/docy/why-your-robot-performance-is-unstable-the-hidden-power-problems-engineers-often-miss-3l74)
+- [Solving Gradle metadata and Renovate integration](https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a)
+- [Octomind 0.44.2: I Removed the Agent&#39;s Ability to Grade Its Own Homework](https://dev.to/donk8r/octomind-0442-i-removed-the-agents-ability-to-grade-its-own-homework-97l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
