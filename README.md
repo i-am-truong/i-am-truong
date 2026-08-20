@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a test for prompt injection. It passed while the attack worked.](https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9)
-- [The alarm wasn&#39;t silent. It was lying.](https://dev.to/mk023/the-alarm-wasnt-silent-it-was-lying-iam)
-- [Two Verifiers, One Verdict: Closing the &#39;Self-Reported Exit Code&#39; Hole](https://dev.to/dengyier/two-verifiers-one-verdict-closing-the-self-reported-exit-code-hole-1cmd)
-- [7,798 Components. Import One, Ship One.](https://dev.to/james-coombs/7798-components-import-one-ship-one-nk2)
-- [The CSS Problem Nobody Thinks Is Solvable](https://dev.to/james-coombs/the-css-problem-nobody-thinks-is-solvable-10g)
+- [Deploying Multiple Python Bots to a Single Railway Container](https://dev.to/codenamew/deploying-multiple-python-bots-to-a-single-railway-container-4hf1)
+- [How to Stop Your Discord Bot From Sleeping on Render&#39;s Free Tier](https://dev.to/codenamew/how-to-stop-your-discord-bot-from-sleeping-on-renders-free-tier-4aca)
+- [&quot;What&#39;s the Catch?&quot; — Why StayPresent Is Actually Free](https://dev.to/codenamew/whats-the-catch-why-staypresent-is-actually-free-4p0j)
+- [I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.](https://dev.to/anthony_builds/i-built-a-saas-then-i-asked-chatgpt-to-recommend-it-it-had-never-heard-of-me-1dfc)
+- [HTML, CSS and Bootstrap Interview Questions](https://dev.to/abimanyu_p_9e75124634d2a4/html-css-and-bootstrap-interview-questions-57ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
