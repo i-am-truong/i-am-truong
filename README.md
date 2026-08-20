@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running LM Studio Locally Doesn&#39;t Mean It Never Connects Out](https://dev.to/k-wada/running-lm-studio-locally-doesnt-mean-it-never-connects-out-keb)
-- [Building Real-Time Analytics for a WhatsApp Native CRM](https://dev.to/indra_gunanda_62bce13f91e/building-real-time-analytics-for-a-whatsapp-native-crm-4d0h)
-- [Stop Selling AI‑Sell The Outcome: Monetization Lessons For Indie Builders](https://dev.to/buildpilots/stop-selling-ai-sell-the-outcome-monetization-lessons-for-indie-builders-30co)
-- [GitHub Advanced Security ROI: Why Scanning Without SLAs Is a Waste of Money](https://dev.to/instasla/github-advanced-security-roi-why-scanning-without-slas-is-a-waste-of-money-5cc5)
-- [I fed a parody LinkedIn generator to three AI detectors. Gemini said it was human.](https://dev.to/aragossa/i-fed-a-parody-linkedin-generator-to-three-ai-detectors-gemini-said-it-was-human-2l40)
+- [Testing Next.js App Router API Routes Without Leaving Your Editor](https://dev.to/saurowankhade/testing-nextjs-app-router-api-routes-without-leaving-your-editor-372n)
+- [Invoked, not executed](https://dev.to/thekilteddev/invoked-not-executed-1cg8)
+- [Swift ARC Doesn’t Scan the Heap — I Removed strong_release from SIL to Prove It](https://dev.to/_a3620048b828cbaa5d742/swift-arc-doesnt-scan-the-heap-i-removed-strongrelease-from-sil-to-prove-it-oed)
+- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-22n3)
+- [Kubernetes DNS was failing 33% of the time. CoreDNS was fine.](https://dev.to/hilmib/kubernetes-dns-was-failing-33-of-the-time-coredns-was-fine-221e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
