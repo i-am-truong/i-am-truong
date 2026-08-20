@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Railway vs Render vs Fly.io vs Just Using AWS: The Real Monthly Cost Once You Outgrow the Free Tier](https://dev.to/muskan_bandta/railway-vs-render-vs-flyio-vs-just-using-aws-the-real-monthly-cost-once-you-outgrow-the-free-tier-5hm4)
-- [GreenOps Is FinOps With a Second Bill: Carbon-Aware Scheduling in Practice](https://dev.to/muskan_bandta/greenops-is-finops-with-a-second-bill-carbon-aware-scheduling-in-practice-36pm)
-- [A 4-Minute Freeze, a Dead PATH, and 3 More: 5 launchd Pitfalls From Mapping 26 Automation Jobs](https://dev.to/bokuwalily/a-4-minute-freeze-a-dead-path-and-3-more-5-launchd-pitfalls-from-mapping-26-automation-jobs-1h6)
-- [Which Team Is Eating Your Kubernetes Bill? Cost Attribution Without Perfect Tagging](https://dev.to/muskan_bandta/which-team-is-eating-your-kubernetes-bill-cost-attribution-without-perfect-tagging-2hke)
-- [Device Tree Ownership Is Moving Up Into Firmware](https://dev.to/raghu_bharadwaj_404e60eb0c/firmware-provided-device-tree-is-a-product-decision-not-a-boot-detail-2jlh)
+- [Run Local LLMs with Ollama and Spring AI](https://dev.to/ayshriv/run-local-llms-with-ollama-and-spring-ai-36l3)
+- [Self-Hosted Chatwoot: 5 Failures the Docs Don&#39;t Warn You About](https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3)
+- [How to Do IoT Test Automation: A 7-Step Process](https://dev.to/perfectqaservices/how-to-do-iot-test-automation-a-7-step-process-1e0m)
+- [The AI Assistant That Lied: Why Self-Correcting Agents Are the Only Path to Trustworthy Production LLMs](https://dev.to/tamizuddin/the-ai-assistant-that-lied-why-self-correcting-agents-are-the-only-path-to-trustworthy-production-194a)
+- [Build a Self-Running Newsletter That Earns $500/Month Using AI Agents](https://dev.to/sinan_koak_4a6dea677278a/build-a-self-running-newsletter-that-earns-500month-using-ai-agents-4fpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
