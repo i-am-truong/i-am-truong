@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Every Java SaaS Backend Keeps Rebuilding — and How to Structure It Once](https://dev.to/ldslabs/what-every-java-saas-backend-keeps-rebuilding-and-how-to-structure-it-once-35hk)
-- [I found a $45 billion number that vanished from NVIDIA&#39;s SEC filings](https://dev.to/tianninglab/i-found-a-45-billion-number-that-vanished-from-nvidias-sec-filings-1g5n)
-- [Advanced BLoC Architecture for Production Flutter Apps](https://dev.to/vmodal_ai/advanced-bloc-architecture-for-production-flutter-apps-4kig)
-- [PayPal Android SDK with Flutter: Integrate PayPal Checkout Using Platform Channels](https://dev.to/vmodal_ai/paypal-android-sdk-with-flutter-integrate-paypal-checkout-using-platform-channels-5ha9)
-- [Flutter FFI: Integrating Native C/C++ Libraries](https://dev.to/vmodal_ai/flutter-ffi-integrating-native-cc-libraries-5fkn)
+- [What Is a Vulnerability, Really? Source, Sink, and Taint](https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75)
+- [The error pointed at the GPU. The culprit was the HBA. — a Proxmox passthrough recovery](https://dev.to/jjozzietech/the-error-pointed-at-the-gpu-the-culprit-was-the-hba-a-proxmox-passthrough-recovery-3c33)
+- [Versioning PNG Snapshots Into a PDF Diff Trail You Can Actually Defend](https://dev.to/lizely/versioning-png-snapshots-into-a-pdf-diff-trail-you-can-actually-defend-h52)
+- [OpenAI Uses NVIDIA GB200 NVL72 for Model Training as Rubin Deployments Expand](https://dev.to/alifar/openai-uses-nvidia-gb200-nvl72-for-model-training-as-rubin-deployments-expand-no6)
+- [Flutter Performance Optimization: Fix Jank and Dropped Frames](https://dev.to/vmodal_ai/flutter-performance-optimization-fix-jank-and-dropped-frames-5gm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
