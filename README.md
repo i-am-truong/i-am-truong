@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Multiple Python Bots to a Single Railway Container](https://dev.to/codenamew/deploying-multiple-python-bots-to-a-single-railway-container-4hf1)
-- [How to Stop Your Discord Bot From Sleeping on Render&#39;s Free Tier](https://dev.to/codenamew/how-to-stop-your-discord-bot-from-sleeping-on-renders-free-tier-4aca)
-- [&quot;What&#39;s the Catch?&quot; — Why StayPresent Is Actually Free](https://dev.to/codenamew/whats-the-catch-why-staypresent-is-actually-free-4p0j)
-- [I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.](https://dev.to/anthony_builds/i-built-a-saas-then-i-asked-chatgpt-to-recommend-it-it-had-never-heard-of-me-1dfc)
-- [HTML, CSS and Bootstrap Interview Questions](https://dev.to/abimanyu_p_9e75124634d2a4/html-css-and-bootstrap-interview-questions-57ed)
+- [Building a Disposable Notion Agent on Cheap Models](https://dev.to/ashish_mishra_8491c3b9912/building-a-disposable-notion-agent-on-cheap-models-m5b)
+- [How to Fix &#39;command not found&#39; &lpar;Without Reinstalling Everything&rpar;](https://dev.to/systemcraftdev/how-to-fix-command-not-found-without-reinstalling-everything-3am0)
+- [Stop Copy-Pasting Parts in Docker Compose](https://dev.to/kasir-barati/stop-copy-pasting-parts-in-docker-compose-71m)
+- [5 Common Subnetting Mistakes That Break Real Networks](https://dev.to/subnetica/5-common-subnetting-mistakes-that-break-real-networks-4an7)
+- [How I Built a Color Picker That Actually Converts Colors Correctly &lpar;HEX/RGB/HSL&rpar;](https://dev.to/ggwork/how-i-built-a-color-picker-that-actually-converts-colors-correctly-hexrgbhsl-45ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
