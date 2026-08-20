@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Brought IdentityServer Back to Life as Open Source &lpar;.NET 8&rpar;](https://dev.to/richard_vquezprez_c356/i-brought-identityserver-back-to-life-as-open-source-net-8-3374)
+- [Two YubiKeys, One Prompt Too Many](https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78)
+- [My Wi-Fi networks](https://dev.to/glenw/my-wi-fi-networks-3ee8)
 - [Adding Semantic Search to an Existing DynamoDB Table with Vector Indexes](https://dev.to/aws-builders/adding-semantic-search-to-an-existing-dynamodb-table-with-vector-indexes-4icj)
-- [I Built a Freelance Marketplace from Scratch — Here’s What I Learned](https://dev.to/fllaviuf/i-built-a-freelance-marketplace-from-scratch-heres-what-i-learned-3odn)
-- [Your Memory API Is Lying to Your Agent](https://dev.to/kenwalger/your-memory-api-is-lying-to-your-agent-252h)
-- [Kryptix: A Truly Offline Password Manager Built for People Who Don’t Trust the Cloud](https://dev.to/nimamehr/kryptix-a-truly-offline-password-manager-built-for-people-who-dont-trust-the-cloud-4i3c)
-- [How to Plug a Lambda Function into a Legacy Application Without Changing a Single Line of Code](https://dev.to/jeancy/how-to-plug-a-lambda-function-into-a-legacy-application-without-changing-a-single-line-of-code-4bcd)
+- [I Rebuilt My Laboratory System Into a Hospital Management Platform — And Learned That Bigger Isn&#39;t Always Better](https://dev.to/mangi_lerinelasliejr_96/i-rebuilt-my-laboratory-system-into-a-hospital-management-platform-and-learned-that-bigger-isnt-k2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
