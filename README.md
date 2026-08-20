@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LISKOV SUBSTITUTION PRINCIPLE](https://dev.to/victorlisbronzo/liskov-substitution-principle-67n)
-- [The day I asked three LLM agents to rewrite legacy Java for me — and what actually happened](https://dev.to/meryyy/the-day-i-asked-three-llm-agents-to-rewrite-legacy-java-for-me-and-what-actually-happened-2jda)
-- [PRINCÍPIO DA SUBSTITUIÇÃO DE LISKOV](https://dev.to/victorlisbronzo/principio-da-substituicao-de-liskov-4ao9)
-- [Designing CRM Workflows Like State Machines](https://dev.to/neha_6ddfbf87f8ffe5f87b89/designing-crm-workflows-like-state-machines-4788)
-- [Making a screenshot PDF searchable — no OCR, because we rendered the page](https://dev.to/petr_savenok/making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page-2poi)
+- [🚀 Como comunicar .NET 10 com Pydantic usando Logfire](https://dev.to/daniloopinheiro/como-comunicar-net-10-com-pydantic-usando-logfire-g8g)
+- [A Beginners Guide To Closures](https://dev.to/kansoldev/a-beginners-guide-to-closuresu-1i1m)
+- [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
+- [Computers Powered By Living Human Brain Cells?](https://dev.to/daniel_possiblekwabi_b57/computers-powered-by-living-human-brain-cells-5e2i)
+- [The Browser Is Filling With Synthetic Fog](https://dev.to/maroneta/the-browser-is-filling-with-synthetic-fog-3bbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
