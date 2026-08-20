@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Tile Cache Has No Invalidation, So I Set It to Zero](https://dev.to/srdjan_poppovic/my-tile-cache-has-no-invalidation-so-i-set-it-to-zero-11l0)
-- [FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New FFmpeg, FFprobe &amp; FFplay Features for Flutter and React Native](https://dev.to/akashskypatel/ffmpeg-kit-extended-upgraded-to-ffmpeg-901-new-ffmpeg-ffprobe-ffplay-features-for-flutter-and-1fgg)
-- [A leveled map of 149 GenAI tools — sorted by concept depth, not hype](https://dev.to/maneesh_thakur_d16c2852fa/a-leveled-map-of-149-genai-tools-sorted-by-concept-depth-not-hype-18ch)
-- [What If AI Is Just Telling You What You Want to Hear?](https://dev.to/dev_hajare_d11ce990734a91/what-if-ai-is-just-telling-you-what-you-want-to-hear-o81)
-- [Infrastructure requirements for running agents in production · TokenGO](https://dev.to/bingusbongo/infrastructure-requirements-for-running-agents-in-productionaug-14-2026-tokengo-35ng)
+- [What Every Java SaaS Backend Keeps Rebuilding — and How to Structure It Once](https://dev.to/ldslabs/what-every-java-saas-backend-keeps-rebuilding-and-how-to-structure-it-once-35hk)
+- [I found a $45 billion number that vanished from NVIDIA&#39;s SEC filings](https://dev.to/tianninglab/i-found-a-45-billion-number-that-vanished-from-nvidias-sec-filings-1g5n)
+- [Advanced BLoC Architecture for Production Flutter Apps](https://dev.to/vmodal_ai/advanced-bloc-architecture-for-production-flutter-apps-4kig)
+- [PayPal Android SDK with Flutter: Integrate PayPal Checkout Using Platform Channels](https://dev.to/vmodal_ai/paypal-android-sdk-with-flutter-integrate-paypal-checkout-using-platform-channels-5ha9)
+- [Flutter FFI: Integrating Native C/C++ Libraries](https://dev.to/vmodal_ai/flutter-ffi-integrating-native-cc-libraries-5fkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
