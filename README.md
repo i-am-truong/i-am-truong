@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Framer Templates Help Businesses Launch Websites Faster](https://dev.to/joywinter90/how-framer-templates-help-businesses-launch-websites-faster-2n8i)
-- [AWS Trusted Advisor vs Compute Optimizer vs Cost Explorer: How Much Recoverable Waste Each One Actually Finds](https://dev.to/zop_8abedcc7e12/aws-trusted-advisor-vs-compute-optimizer-vs-cost-explorer-how-much-recoverable-waste-each-one-3g4n)
-- [Idle Cloud Resources: What an Unused NAT Gateway, Idle Load Balancer and Sub-5% EC2 Instance Cost You Per Month](https://dev.to/zop_8abedcc7e12/idle-cloud-resources-what-an-unused-nat-gateway-idle-load-balancer-and-sub-5-ec2-instance-cost-1147)
-- [Cloud Rightsizing Without Breaking Production: gp2 to gp3, EC2 CPU Baselines and GPU Instances &lpar;G5, G6, P4, P5&rpar;](https://dev.to/zop_8abedcc7e12/cloud-rightsizing-without-breaking-production-gp2-to-gp3-ec2-cpu-baselines-and-gpu-instances-g5-1kk0)
-- [Don&#39;t trust model quotes; use anchors instead](https://dev.to/gmhoward9289ops/dont-trust-model-quotes-use-anchors-instead-2ohl)
+- [A container per job, without a daemon](https://dev.to/amartyadev/a-container-per-job-without-a-daemon-1l7c)
+- [Taking the network away from a Cloud Run job](https://dev.to/amartyadev/taking-the-network-away-from-a-cloud-run-job-3il7)
+- [Laravel env&lpar;&rpar; Outside config/: Catch Deployment Bugs Before config:cache](https://dev.to/codegenie_be/laravel-env-outside-config-catch-deployment-bugs-before-configcache-d83)
+- [The GTA VI leak isn&#39;t really about GTA VI — it&#39;s an extortion playbook](https://dev.to/alvarito1983/the-gta-vi-leak-isnt-really-about-gta-vi-its-an-extortion-playbook-o1a)
+- [How we implemented client-side encrypted streaming in Flutter with Dart Isolates](https://dev.to/natexcorporation/how-we-implemented-client-side-encrypted-streaming-in-flutter-with-dart-isolates-1g99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
