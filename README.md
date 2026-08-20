@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Millions of log lines in PHP, at constant memory](https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n)
-- [The &lt;geolocation&gt; element lands in Chrome 144](https://dev.to/leobaniak/the-element-lands-in-chrome-144-5g7m)
-- [I built an AI Shopify audit tool, then decided to take it back into my own hands](https://dev.to/builtbyvena/i-built-an-ai-shopify-audit-tool-then-decided-to-take-it-back-into-my-own-hands-jda)
-- [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
-- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/probe-3-571a)
+- [3 Ways to Manage Files in CloudShell](https://dev.to/aws/3-ways-to-manage-files-in-cloudshell-3j8n)
+- [Tab completion, without writing a completion script](https://dev.to/mauvilsa/tab-completion-without-writing-a-completion-script-4nab)
+- [Why Browser Games That Look Offline Still Need an Internet Connection](https://dev.to/renato_cindori/why-browser-games-that-look-offline-still-need-an-internet-connection-2fgn)
+- [I encoded a 1000-year-old divination system in Go. Every bug was a distinction my types had collapsed.](https://dev.to/arsene_muyenlee_b6090d8d/i-encoded-a-1000-year-old-divination-system-in-go-every-bug-was-a-distinction-my-types-had-2p56)
+- [A Linux video player with NVIDIA VFX VSR support &lpar;real-time upscaling + frame interpolation, built with an AI coding agent&rpar;](https://dev.to/zhangmq/a-linux-video-player-with-nvidia-vfx-vsr-support-real-time-upscaling-frame-interpolation-built-3fbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
