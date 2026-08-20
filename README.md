@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A container per job, without a daemon](https://dev.to/amartyadev/a-container-per-job-without-a-daemon-1l7c)
-- [Taking the network away from a Cloud Run job](https://dev.to/amartyadev/taking-the-network-away-from-a-cloud-run-job-3il7)
-- [Laravel env&lpar;&rpar; Outside config/: Catch Deployment Bugs Before config:cache](https://dev.to/codegenie_be/laravel-env-outside-config-catch-deployment-bugs-before-configcache-d83)
-- [The GTA VI leak isn&#39;t really about GTA VI — it&#39;s an extortion playbook](https://dev.to/alvarito1983/the-gta-vi-leak-isnt-really-about-gta-vi-its-an-extortion-playbook-o1a)
-- [How we implemented client-side encrypted streaming in Flutter with Dart Isolates](https://dev.to/natexcorporation/how-we-implemented-client-side-encrypted-streaming-in-flutter-with-dart-isolates-1g99)
+- [LISKOV SUBSTITUTION PRINCIPLE](https://dev.to/victorlisbronzo/liskov-substitution-principle-67n)
+- [The day I asked three LLM agents to rewrite legacy Java for me — and what actually happened](https://dev.to/meryyy/the-day-i-asked-three-llm-agents-to-rewrite-legacy-java-for-me-and-what-actually-happened-2jda)
+- [PRINCÍPIO DA SUBSTITUIÇÃO DE LISKOV](https://dev.to/victorlisbronzo/principio-da-substituicao-de-liskov-4ao9)
+- [Designing CRM Workflows Like State Machines](https://dev.to/neha_6ddfbf87f8ffe5f87b89/designing-crm-workflows-like-state-machines-4788)
+- [Making a screenshot PDF searchable — no OCR, because we rendered the page](https://dev.to/petr_savenok/making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page-2poi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
