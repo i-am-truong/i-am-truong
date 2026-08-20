@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [So... Vercel doesn&#39;t have built-in email?](https://dev.to/pablodevrel/how-to-set-up-email-on-vercel-with-amelu-free-tier-34oe)
-- [How Does a Database Actually Store Your Data?](https://dev.to/jishnusaha89/how-does-a-database-actually-store-your-data-17f1)
-- [Beta‑testing API Gateway for Chinese‑origin LLMs — Free Test Quota for Feedback](https://dev.to/zephyr2026/beta-testing-api-gateway-for-chinese-origin-llms-free-test-quota-for-feedback-19oi)
-- [I built flutter_auditor — a zero-config CLI tool to audit Flutter apps for permissions, dead assets, security risks, and package hygiene](https://dev.to/dt14/i-built-flutterauditor-a-zero-config-cli-tool-to-audit-flutter-apps-for-permissions-dead-149n)
-- [Hands-on: dedicated Lumpcode daemon](https://dev.to/dyod/hands-on-dedicated-lumpcode-daemon-5c38)
+- [The Next Big African Tech Product May Already Exist, but Nobody Is Funding It](https://dev.to/imamabubakar/the-next-big-african-tech-product-may-already-exist-but-nobody-is-funding-it-kd)
+- [The $11k cloud bill was mostly the tools you added to watch the cloud bill](https://dev.to/adioof/the-11k-cloud-bill-was-mostly-the-tools-you-added-to-watch-the-cloud-bill-3oec)
+- [Your CI stack ships four YAML parsers and half of them are still on the 2009 spec](https://dev.to/webgaudi/your-ci-stack-ships-four-yaml-parsers-and-half-of-them-are-still-on-the-2009-spec-15hf)
+- [FlashAlpha vs Bloomberg Terminal 2026 - Options Analytics for Quants](https://dev.to/tomasz_dobrowolski_35d32c/flashalpha-vs-bloomberg-terminal-2026-options-analytics-for-quants-1m3l)
+- [Maybe choosing Flutter was the biggest mistake of my life. 😭](https://dev.to/dt14/maybe-choosing-flutter-was-the-biggest-mistake-of-my-life-34pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
