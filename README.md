@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Como comunicar .NET 10 com Pydantic usando Logfire](https://dev.to/daniloopinheiro/como-comunicar-net-10-com-pydantic-usando-logfire-g8g)
-- [A Beginners Guide To Closures](https://dev.to/kansoldev/a-beginners-guide-to-closuresu-1i1m)
-- [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
-- [Computers Powered By Living Human Brain Cells?](https://dev.to/daniel_possiblekwabi_b57/computers-powered-by-living-human-brain-cells-5e2i)
-- [The Browser Is Filling With Synthetic Fog](https://dev.to/maroneta/the-browser-is-filling-with-synthetic-fog-3bbd)
+- [7 Security Checks Before Installing a New Developer Tool](https://dev.to/mostafatech/7-security-checks-before-installing-a-new-developer-tool-5e44)
+- [From Python to Go: rewriting a CrewAI workflow in pure stdlib](https://dev.to/rhgs/from-python-to-go-rewriting-a-crewai-workflow-in-pure-stdlib-47nm)
+- [A Slow Task Runner Is Not a Dead Task Runner](https://dev.to/lucioliu/a-slow-task-runner-is-not-a-dead-task-runner-1hb7)
+- [The Reasoning Ledger: Remembering Decisions, Not Just Data](https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm)
+- [Looking for 100 technical testers: SecondGate &lpar;WordPress security &amp; passkeys, no cloud dependency&rpar;](https://dev.to/secondgatewp/looking-for-100-technical-testers-secondgate-wordpress-security-passkeys-no-cloud-dependency-5b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
