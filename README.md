@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Plug a Lambda Function into a Legacy Application Without Changing a Single Line of Code](https://dev.to/jeancy/how-to-plug-a-lambda-function-into-a-legacy-application-without-changing-a-single-line-of-code-4bcd)
+- [JAX-RS: Building RESTful Web Services in Java &lpar;2026-08-20 22:15&rpar;](https://dev.to/said_olano/jax-rs-building-restful-web-services-in-java-2026-08-20-2215-1fpd)
+- [Debugging 4 Password Reset Email Failures &lpar;Requests, Domains, Templates, Payloads&rpar;](https://dev.to/hadleyfox8439/debugging-4-password-reset-email-failures-requests-domains-templates-payloads-215d)
+- [Switch AI Models at Runtime on Telnyx Edge Compute](https://dev.to/sonam_50a41a4ced7e6b4f3fa/switch-ai-models-at-runtime-on-telnyx-edge-compute-2ncf)
 - [The Serverless Equation: Conquering the Cold Start in Real-Time AI Inference](https://dev.to/informatiqs1/the-serverless-equation-conquering-the-cold-start-in-real-time-ai-inference-4bfd)
-- [Beyond the Vector: Why Graph Neural Networks are the Strategic Choice for Enterprise Generative AI on GCP](https://dev.to/informatiqs1/beyond-the-vector-why-graph-neural-networks-are-the-strategic-choice-for-enterprise-generative-ai-4n92)
-- [OpenAI Is Testing a Button to Reset ChatGPT’s Limits — For $8](https://dev.to/theaidownside/openai-is-testing-a-button-to-reset-chatgpts-limits-for-8-20pf)
-- [The Active Flag Trap: unvalidated-but-logged-in in CakeDC/Users](https://dev.to/viniciusbig/the-active-flag-trap-unvalidated-but-logged-in-in-cakedcusers-c8a)
-- [Show DEV: Strata – Inspect your coding agent sessions](https://dev.to/stele/show-dev-strata-inspect-your-coding-agent-sessions-278b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
