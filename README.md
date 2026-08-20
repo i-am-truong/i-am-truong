@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every release makes the harness harder to fool: LLMKube 0.9.19](https://dev.to/defilan/every-release-makes-the-harness-harder-to-fool-llmkube-0919-354k)
-- [Google’s Structured Data and AI Search: What Toronto Signals, and What It Does Not](https://dev.to/alifar/googles-structured-data-and-ai-search-what-toronto-signals-and-what-it-does-not-3c5c)
-- [Identity Infrastructure: Why Credentials Are the Layer Directories Don&#39;t Secure](https://dev.to/gitguardian/identity-infrastructure-why-credentials-are-the-layer-directories-dont-secure-21gm)
-- [Building Premium React UI Components with Tailwind CSS and Framer Motion](https://dev.to/headbanger/building-premium-react-ui-components-with-tailwind-css-and-framer-motion-56op)
-- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
+- [Building Enterprise Storage, Backups &amp; Cosign Image Security in Go &amp; Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+- [Twitter API Guide: Search Tweets, Scrape Data, and Automate](https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn)
+- [The 2026 AI Agent Stack: From Local Execution to Governance Layer](https://dev.to/tamizuddin/the-2026-ai-agent-stack-from-local-execution-to-governance-layer-2dc9)
+- [I Moved to Windows and Missed My Mac Terminal — So I Built beautiful-wmux](https://dev.to/vatana7/i-moved-to-windows-and-missed-my-mac-terminal-so-i-built-beautiful-wmux-3dpb)
+- [Self-Hosting Kimi K3: Hardware, Cost and Sovereignty](https://dev.to/mecanik-dev/self-hosting-kimi-k3-hardware-cost-and-sovereignty-27ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
