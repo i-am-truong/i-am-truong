@@ -120,11 +120,21 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek Harness &lpar;dsh&rpar; คืออะไร? เจาะลึกคู่แข่งโค้ดโอเพ่นซอร์สของ Claude](https://dev.to/thanawat_wonchai/deepseek-harness-dsh-khuueaair-ecchaaaluekkhuuaekhngokhdoephnchrskhng-claude-1fpl)
-- [From &#39;src refspec&#39; Errors to Clean PRs: The Practical Git Branching Workflow You Need](https://dev.to/alanvarghese-dev/from-src-refspec-errors-to-clean-prs-the-practical-git-branching-workflow-you-need-4job)
-- [Claude Sonnet 5&#39;s Introductory Pricing Expires August 31. Your Cost Model Doesn&#39;t Know That Yet.](https://dev.to/assili_salim_e3c07f9954de/claude-sonnet-5s-introductory-pricing-expires-august-31-your-cost-model-doesnt-know-that-yet-4e1j)
-- [I searched &#39;Sepolia&#39; in my wallet&#39;s network list and got 20+ similar names. Here&#39;s the one number that actually matters.](https://dev.to/nomurasan/i-searched-sepolia-in-my-wallets-network-list-and-got-20-similar-names-heres-the-one-number-4eml)
-- [A screenshot is not enough for a screen-aware Mac assistant](https://dev.to/sarthakagrawal927/a-screenshot-is-not-enough-for-a-screen-aware-mac-assistant-38bm)
+- [Running Multiple A/B Tests at Once: When Overlap Is Safe](https://dev.to/david_sert/running-multiple-ab-tests-at-once-when-overlap-is-safe-1dbf)
+- [We Can&#39;t See What You Paste — And That Was a Design Constraint, Not a Slogan](https://dev.to/formatstack_2688dca3303f2/we-cant-see-what-you-paste-and-that-was-a-design-constraint-not-a-slogan-i8j)
+- [startup founder in 2026:
+
+“we&#39;re a lean team of 4”
+
+also the team:
+
+37 agents
+11 cron jobs
+4 MCP servers
+2 databases
+one exhausted human](https://dev.to/ishm6m/startup-founder-in-2026-were-a-lean-team-of-4-also-the-team-37-agents-11-cron-jobs-1paf)
+- [The Authorization Gap in AI Operations: Building a Policy-Enforced EKS Control Plane with Cedar, Step Functions, and Systems Manager](https://dev.to/pradeep_kandepaneni/the-authorization-gap-in-ai-operations-building-a-policy-enforced-eks-control-plane-with-cedar-1o4k)
+- [&quot;Agent 协议栈三层分化：MCP 管工具、A2A 管协作、Agent Plugins 管分发&quot;](https://dev.to/sanyaduan/agent-xie-yi-zhan-san-ceng-fen-hua-mcp-guan-gong-ju-a2a-guan-xie-zuo-agent-plugins-guan-fen-fa--35aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
