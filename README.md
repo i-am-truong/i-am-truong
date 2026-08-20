@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Ways to Manage Files in CloudShell](https://dev.to/aws/3-ways-to-manage-files-in-cloudshell-3j8n)
-- [Tab completion, without writing a completion script](https://dev.to/mauvilsa/tab-completion-without-writing-a-completion-script-4nab)
-- [Why Browser Games That Look Offline Still Need an Internet Connection](https://dev.to/renato_cindori/why-browser-games-that-look-offline-still-need-an-internet-connection-2fgn)
-- [I encoded a 1000-year-old divination system in Go. Every bug was a distinction my types had collapsed.](https://dev.to/arsene_muyenlee_b6090d8d/i-encoded-a-1000-year-old-divination-system-in-go-every-bug-was-a-distinction-my-types-had-2p56)
-- [A Linux video player with NVIDIA VFX VSR support &lpar;real-time upscaling + frame interpolation, built with an AI coding agent&rpar;](https://dev.to/zhangmq/a-linux-video-player-with-nvidia-vfx-vsr-support-real-time-upscaling-frame-interpolation-built-3fbd)
+- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
+- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
+- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/go-127s-simd-ties-with-numpy-until-the-data-fits-in-cache-2bm8)
+- [Sessioni sicure: flash data, timeout e protezione anti-fixation](https://dev.to/dev_iadicola/sessioni-sicure-flash-data-timeout-e-protezione-anti-fixation-1lai)
+- [COSS Weekly: Databricks acquires Electric, Stripe reportedly acquires OpenRouter, Temporal in talks for $500M, and more](https://dev.to/sabirchinstrap/coss-weekly-databricks-acquires-electric-stripe-reportedly-acquires-openrouter-temporal-in-talks-17d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
