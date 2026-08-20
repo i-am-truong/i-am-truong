@@ -120,21 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running Multiple A/B Tests at Once: When Overlap Is Safe](https://dev.to/david_sert/running-multiple-ab-tests-at-once-when-overlap-is-safe-1dbf)
-- [We Can&#39;t See What You Paste — And That Was a Design Constraint, Not a Slogan](https://dev.to/formatstack_2688dca3303f2/we-cant-see-what-you-paste-and-that-was-a-design-constraint-not-a-slogan-i8j)
-- [startup founder in 2026:
-
-“we&#39;re a lean team of 4”
-
-also the team:
-
-37 agents
-11 cron jobs
-4 MCP servers
-2 databases
-one exhausted human](https://dev.to/ishm6m/startup-founder-in-2026-were-a-lean-team-of-4-also-the-team-37-agents-11-cron-jobs-1paf)
-- [The Authorization Gap in AI Operations: Building a Policy-Enforced EKS Control Plane with Cedar, Step Functions, and Systems Manager](https://dev.to/pradeep_kandepaneni/the-authorization-gap-in-ai-operations-building-a-policy-enforced-eks-control-plane-with-cedar-1o4k)
-- [&quot;Agent 协议栈三层分化：MCP 管工具、A2A 管协作、Agent Plugins 管分发&quot;](https://dev.to/sanyaduan/agent-xie-yi-zhan-san-ceng-fen-hua-mcp-guan-gong-ju-a2a-guan-xie-zuo-agent-plugins-guan-fen-fa--35aj)
+- [Railway vs Render vs Fly.io vs Just Using AWS: The Real Monthly Cost Once You Outgrow the Free Tier](https://dev.to/muskan_bandta/railway-vs-render-vs-flyio-vs-just-using-aws-the-real-monthly-cost-once-you-outgrow-the-free-tier-5hm4)
+- [GreenOps Is FinOps With a Second Bill: Carbon-Aware Scheduling in Practice](https://dev.to/muskan_bandta/greenops-is-finops-with-a-second-bill-carbon-aware-scheduling-in-practice-36pm)
+- [A 4-Minute Freeze, a Dead PATH, and 3 More: 5 launchd Pitfalls From Mapping 26 Automation Jobs](https://dev.to/bokuwalily/a-4-minute-freeze-a-dead-path-and-3-more-5-launchd-pitfalls-from-mapping-26-automation-jobs-1h6)
+- [Which Team Is Eating Your Kubernetes Bill? Cost Attribution Without Perfect Tagging](https://dev.to/muskan_bandta/which-team-is-eating-your-kubernetes-bill-cost-attribution-without-perfect-tagging-2hke)
+- [Device Tree Ownership Is Moving Up Into Firmware](https://dev.to/raghu_bharadwaj_404e60eb0c/firmware-provided-device-tree-is-a-product-decision-not-a-boot-detail-2jlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
