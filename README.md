@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Next Big African Tech Product May Already Exist, but Nobody Is Funding It](https://dev.to/imamabubakar/the-next-big-african-tech-product-may-already-exist-but-nobody-is-funding-it-kd)
-- [The $11k cloud bill was mostly the tools you added to watch the cloud bill](https://dev.to/adioof/the-11k-cloud-bill-was-mostly-the-tools-you-added-to-watch-the-cloud-bill-3oec)
-- [Your CI stack ships four YAML parsers and half of them are still on the 2009 spec](https://dev.to/webgaudi/your-ci-stack-ships-four-yaml-parsers-and-half-of-them-are-still-on-the-2009-spec-15hf)
-- [FlashAlpha vs Bloomberg Terminal 2026 - Options Analytics for Quants](https://dev.to/tomasz_dobrowolski_35d32c/flashalpha-vs-bloomberg-terminal-2026-options-analytics-for-quants-1m3l)
-- [Maybe choosing Flutter was the biggest mistake of my life. 😭](https://dev.to/dt14/maybe-choosing-flutter-was-the-biggest-mistake-of-my-life-34pm)
+- [Stop Over-Engineering Your Indie Project](https://dev.to/ntty/stop-over-engineering-your-indie-project-3j0h)
+- [Your tools/list is stamped. That is not the same as cached.](https://dev.to/wolfejam/your-toolslist-is-stamped-that-is-not-the-same-as-cached-2j0f)
+- [Inside the Accountability Vacuum](https://dev.to/rawveg/inside-the-accountability-vacuum-3c3g)
+- [I launched my very first project](https://dev.to/vatana7/i-launched-my-very-first-project-136g)
+- [Firmenbuch, GISA, VIES: die APIs hinter unserem Impressum-Generator für Österreich](https://dev.to/webgaudi/firmenbuch-gisa-vies-die-apis-hinter-unserem-impressum-generator-fur-osterreich-1p0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
