@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run Local LLMs with Ollama and Spring AI](https://dev.to/ayshriv/run-local-llms-with-ollama-and-spring-ai-36l3)
-- [Self-Hosted Chatwoot: 5 Failures the Docs Don&#39;t Warn You About](https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3)
-- [How to Do IoT Test Automation: A 7-Step Process](https://dev.to/perfectqaservices/how-to-do-iot-test-automation-a-7-step-process-1e0m)
-- [The AI Assistant That Lied: Why Self-Correcting Agents Are the Only Path to Trustworthy Production LLMs](https://dev.to/tamizuddin/the-ai-assistant-that-lied-why-self-correcting-agents-are-the-only-path-to-trustworthy-production-194a)
-- [Build a Self-Running Newsletter That Earns $500/Month Using AI Agents](https://dev.to/sinan_koak_4a6dea677278a/build-a-self-running-newsletter-that-earns-500month-using-ai-agents-4fpb)
+- [Running LM Studio Locally Doesn&#39;t Mean It Never Connects Out](https://dev.to/k-wada/running-lm-studio-locally-doesnt-mean-it-never-connects-out-keb)
+- [Building Real-Time Analytics for a WhatsApp Native CRM](https://dev.to/indra_gunanda_62bce13f91e/building-real-time-analytics-for-a-whatsapp-native-crm-4d0h)
+- [Stop Selling AI‑Sell The Outcome: Monetization Lessons For Indie Builders](https://dev.to/buildpilots/stop-selling-ai-sell-the-outcome-monetization-lessons-for-indie-builders-30co)
+- [GitHub Advanced Security ROI: Why Scanning Without SLAs Is a Waste of Money](https://dev.to/instasla/github-advanced-security-roi-why-scanning-without-slas-is-a-waste-of-money-5cc5)
+- [I fed a parody LinkedIn generator to three AI detectors. Gemini said it was human.](https://dev.to/aragossa/i-fed-a-parody-linkedin-generator-to-three-ai-detectors-gemini-said-it-was-human-2l40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
