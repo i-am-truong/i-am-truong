@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Job Postings Are the Most Underused B2B Intent Signal &lpar;And You Don&#39;t Even Need to Scrape&rpar;](https://dev.to/benedictmendoza/job-postings-are-the-most-underused-b2b-intent-signal-and-you-dont-even-need-to-scrape-p3k)
+- [I Posted 23 Articles in 3 Months. Then My Body Just Stopped. Zero Posts, 5 Weeks of Burnout.](https://dev.to/itsaalaa7/i-posted-23-articles-in-3-months-then-my-body-just-stopped-zero-posts-5-weeks-of-burnout-e9m)
+- [We Built Guardrails Against JSON Precision Loss. Then We Found Out Half of Them Weren&#39;t Actually Guarding Anything.](https://dev.to/jacksmith_de/we-built-guardrails-against-json-precision-loss-then-we-found-out-half-of-them-werent-actually-4nk2)
+- [How Java&#39;s Concurrency APIs Fit Together](https://dev.to/esteban389/how-javas-concurrency-apis-fit-together-bii)
 - [I Brought IdentityServer Back to Life as Open Source &lpar;.NET 8&rpar;](https://dev.to/richard_vquezprez_c356/i-brought-identityserver-back-to-life-as-open-source-net-8-3374)
-- [Two YubiKeys, One Prompt Too Many](https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78)
-- [My Wi-Fi networks](https://dev.to/glenw/my-wi-fi-networks-3ee8)
-- [Adding Semantic Search to an Existing DynamoDB Table with Vector Indexes](https://dev.to/aws-builders/adding-semantic-search-to-an-existing-dynamodb-table-with-vector-indexes-4icj)
-- [I Rebuilt My Laboratory System Into a Hospital Management Platform — And Learned That Bigger Isn&#39;t Always Better](https://dev.to/mangi_lerinelasliejr_96/i-rebuilt-my-laboratory-system-into-a-hospital-management-platform-and-learned-that-bigger-isnt-k2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
