@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎬 Reel Quick now has a live animated demo in the GitHub README](https://dev.to/munirfarhan/reel-quick-now-has-a-live-animated-demo-in-the-github-readme-20d5)
-- [Reduce LLM Cost for Catalog: Compare Small Models to Summarize, Classify, and Extract JSON](https://dev.to/mordecainilsson7582/reduce-llm-cost-for-catalog-compare-small-models-to-summarize-classify-and-extract-json-35e7)
-- [Speculative Decoding and MTP: Why Guessing Is Free](https://dev.to/jessiejia11/speculative-decoding-and-mtp-why-guessing-is-free-4p36)
-- [The Midnight wallet SDK changed its npm scope. Here is what to update.](https://dev.to/chaps_grid/the-midnight-wallet-sdk-changed-its-npm-scope-here-is-what-to-update-5gem)
-- [How to Create Your Own Claude Code Skill With SKILL.md](https://dev.to/arthur_luca/how-to-create-your-own-claude-code-skill-with-skillmd-3555)
+- [Millions of log lines in PHP, at constant memory](https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n)
+- [The &lt;geolocation&gt; element lands in Chrome 144](https://dev.to/leobaniak/the-element-lands-in-chrome-144-5g7m)
+- [I built an AI Shopify audit tool, then decided to take it back into my own hands](https://dev.to/builtbyvena/i-built-an-ai-shopify-audit-tool-then-decided-to-take-it-back-into-my-own-hands-jda)
+- [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
+- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/probe-3-571a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
