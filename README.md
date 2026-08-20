@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perry Mason in: The Case of the Drifting Timer](https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj)
-- [Three of the First Four Alerts Were the Question&#39;s Fault](https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb)
-- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)
-- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
-- [What&#39;s New in Go 1.27: A Developer&#39;s Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622)
+- [I wrote a test for prompt injection. It passed while the attack worked.](https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9)
+- [The alarm wasn&#39;t silent. It was lying.](https://dev.to/mk023/the-alarm-wasnt-silent-it-was-lying-iam)
+- [Two Verifiers, One Verdict: Closing the &#39;Self-Reported Exit Code&#39; Hole](https://dev.to/dengyier/two-verifiers-one-verdict-closing-the-self-reported-exit-code-hole-1cmd)
+- [7,798 Components. Import One, Ship One.](https://dev.to/james-coombs/7798-components-import-one-ship-one-nk2)
+- [The CSS Problem Nobody Thinks Is Solvable](https://dev.to/james-coombs/the-css-problem-nobody-thinks-is-solvable-10g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
