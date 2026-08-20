@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [So... Vercel doesn&#39;t have built-in email?](https://dev.to/pablodevrel/how-to-set-up-email-on-vercel-with-amelu-free-tier-34oe)
+- [How Does a Database Actually Store Your Data?](https://dev.to/jishnusaha89/how-does-a-database-actually-store-your-data-17f1)
+- [Beta‑testing API Gateway for Chinese‑origin LLMs — Free Test Quota for Feedback](https://dev.to/zephyr2026/beta-testing-api-gateway-for-chinese-origin-llms-free-test-quota-for-feedback-19oi)
+- [I built flutter_auditor — a zero-config CLI tool to audit Flutter apps for permissions, dead assets, security risks, and package hygiene](https://dev.to/dt14/i-built-flutterauditor-a-zero-config-cli-tool-to-audit-flutter-apps-for-permissions-dead-149n)
 - [Hands-on: dedicated Lumpcode daemon](https://dev.to/dyod/hands-on-dedicated-lumpcode-daemon-5c38)
-- [The Forked History: Byzantine Witness and the 3-of-4 Quorum — Tested](https://dev.to/zxpmail/the-forked-history-byzantine-witness-and-the-3-of-4-quorum-tested-53hc)
-- [Infrastructure Security Audits: What Businesses Should Check](https://dev.to/ronak_sharma_913570f6e215/business-continuity-planning-for-cloud-infrastructure-5662)
-- [Calling a TypeScript Backend Without Integration Code - A Simple Task Tracker with Graftcode](https://dev.to/coderoflagos/calling-a-typescript-backend-without-integration-code-a-simple-task-tracker-with-graftcode-1n7e)
-- [Read-Only by Design: Letting AI Explore Your Database Without the Risk of Writes](https://dev.to/vivekdraxlr/read-only-by-design-letting-ai-explore-your-database-without-the-risk-of-writes-2pmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
