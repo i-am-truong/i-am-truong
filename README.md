@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Gave Five Graph Databases 256MB of RAM Each. Here&#39;s What Broke.](https://dev.to/sree_charan/i-gave-five-graph-databases-256mb-of-ram-each-heres-what-broke-1jde)
-- [Building File Utilities That Run 100% in the Browser](https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4)
-- [Cleaning Up Feature Flags: The Art of Not Leaving a Mess](https://dev.to/avlcodemonkey-industries/cleaning-up-feature-flags-the-art-of-not-leaving-a-mess-4ojl)
-- [Book](https://dev.to/shogu123/book-38db)
-- [Chapter 3 Core System Components and Internal Implementation](https://dev.to/black_shadow_team/chapter-3core-system-components-and-internal-implementation-46dl)
+- [My Tile Cache Has No Invalidation, So I Set It to Zero](https://dev.to/srdjan_poppovic/my-tile-cache-has-no-invalidation-so-i-set-it-to-zero-11l0)
+- [FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New FFmpeg, FFprobe &amp; FFplay Features for Flutter and React Native](https://dev.to/akashskypatel/ffmpeg-kit-extended-upgraded-to-ffmpeg-901-new-ffmpeg-ffprobe-ffplay-features-for-flutter-and-1fgg)
+- [A leveled map of 149 GenAI tools — sorted by concept depth, not hype](https://dev.to/maneesh_thakur_d16c2852fa/a-leveled-map-of-149-genai-tools-sorted-by-concept-depth-not-hype-18ch)
+- [What If AI Is Just Telling You What You Want to Hear?](https://dev.to/dev_hajare_d11ce990734a91/what-if-ai-is-just-telling-you-what-you-want-to-hear-o81)
+- [Infrastructure requirements for running agents in production · TokenGO](https://dev.to/bingusbongo/infrastructure-requirements-for-running-agents-in-productionaug-14-2026-tokengo-35ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
