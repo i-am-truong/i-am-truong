@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Caching: First vs Repeat Request Costs](https://dev.to/bettertoken_ai/prompt-caching-first-vs-repeat-request-costs-3o59)
-- [API 429 Errors: Rate Limits, Retry-After, and Safe Retries](https://dev.to/bettertoken_ai/api-429-errors-rate-limits-retry-after-and-safe-retries-1ioe)
-- [API Timeouts: Find the Breakpoint and Retry Safely](https://dev.to/bettertoken_ai/api-timeouts-find-the-breakpoint-and-retry-safely-1lnj)
-- [Context Length Exceeded: Reduce the Request and Verify the Result](https://dev.to/bettertoken_ai/context-length-exceeded-reduce-the-request-and-verify-the-result-3fn3)
-- [How to Migrate an OpenRouter Integration to Another API Gateway](https://dev.to/bettertoken_ai/how-to-migrate-an-openrouter-integration-to-another-api-gateway-3cp7)
+- [🎬 Reel Quick now has a live animated demo in the GitHub README](https://dev.to/munirfarhan/reel-quick-now-has-a-live-animated-demo-in-the-github-readme-20d5)
+- [Reduce LLM Cost for Catalog: Compare Small Models to Summarize, Classify, and Extract JSON](https://dev.to/mordecainilsson7582/reduce-llm-cost-for-catalog-compare-small-models-to-summarize-classify-and-extract-json-35e7)
+- [Speculative Decoding and MTP: Why Guessing Is Free](https://dev.to/jessiejia11/speculative-decoding-and-mtp-why-guessing-is-free-4p36)
+- [The Midnight wallet SDK changed its npm scope. Here is what to update.](https://dev.to/chaps_grid/the-midnight-wallet-sdk-changed-its-npm-scope-here-is-what-to-update-5gem)
+- [How to Create Your Own Claude Code Skill With SKILL.md](https://dev.to/arthur_luca/how-to-create-your-own-claude-code-skill-with-skillmd-3555)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
