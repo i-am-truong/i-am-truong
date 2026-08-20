@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an MCP memory server for one user &lpar;me, for six weeks&rpar;](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)
-- [Understanding PHP-FPM&#39;s process manager &lpar;by actually watching it&rpar;](https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g)
-- [Why Your Robot Performance Is Unstable: The Hidden Power Problems Engineers Often Miss](https://dev.to/docy/why-your-robot-performance-is-unstable-the-hidden-power-problems-engineers-often-miss-3l74)
-- [Solving Gradle metadata and Renovate integration](https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a)
-- [Octomind 0.44.2: I Removed the Agent&#39;s Ability to Grade Its Own Homework](https://dev.to/donk8r/octomind-0442-i-removed-the-agents-ability-to-grade-its-own-homework-97l)
+- [Hands-on: dedicated Lumpcode daemon](https://dev.to/dyod/hands-on-dedicated-lumpcode-daemon-5c38)
+- [The Forked History: Byzantine Witness and the 3-of-4 Quorum — Tested](https://dev.to/zxpmail/the-forked-history-byzantine-witness-and-the-3-of-4-quorum-tested-53hc)
+- [Infrastructure Security Audits: What Businesses Should Check](https://dev.to/ronak_sharma_913570f6e215/business-continuity-planning-for-cloud-infrastructure-5662)
+- [Calling a TypeScript Backend Without Integration Code - A Simple Task Tracker with Graftcode](https://dev.to/coderoflagos/calling-a-typescript-backend-without-integration-code-a-simple-task-tracker-with-graftcode-1n7e)
+- [Read-Only by Design: Letting AI Explore Your Database Without the Risk of Writes](https://dev.to/vivekdraxlr/read-only-by-design-letting-ai-explore-your-database-without-the-risk-of-writes-2pmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
