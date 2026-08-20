@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini 3.7 Flash Goes GA Across AI Mode, APIs, and Enterprise Surfaces](https://dev.to/alifar/google-gemini-37-flash-goes-ga-across-ai-mode-apis-and-enterprise-surfaces-50o0)
-- [Building a viral Imax ticketing app that never crashes](https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58)
-- [Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend](https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal)
-- [Buying a phone number is a distributed transaction](https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/first_name_alice/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-1cp0)
+- [The Serverless Equation: Conquering the Cold Start in Real-Time AI Inference](https://dev.to/informatiqs1/the-serverless-equation-conquering-the-cold-start-in-real-time-ai-inference-4bfd)
+- [Beyond the Vector: Why Graph Neural Networks are the Strategic Choice for Enterprise Generative AI on GCP](https://dev.to/informatiqs1/beyond-the-vector-why-graph-neural-networks-are-the-strategic-choice-for-enterprise-generative-ai-4n92)
+- [OpenAI Is Testing a Button to Reset ChatGPT’s Limits — For $8](https://dev.to/theaidownside/openai-is-testing-a-button-to-reset-chatgpts-limits-for-8-20pf)
+- [The Active Flag Trap: unvalidated-but-logged-in in CakeDC/Users](https://dev.to/viniciusbig/the-active-flag-trap-unvalidated-but-logged-in-in-cakedcusers-c8a)
+- [Show DEV: Strata – Inspect your coding agent sessions](https://dev.to/stele/show-dev-strata-inspect-your-coding-agent-sessions-278b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
