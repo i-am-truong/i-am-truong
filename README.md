@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Every release makes the harness harder to fool: LLMKube 0.9.19](https://dev.to/defilan/every-release-makes-the-harness-harder-to-fool-llmkube-0919-354k)
+- [Google’s Structured Data and AI Search: What Toronto Signals, and What It Does Not](https://dev.to/alifar/googles-structured-data-and-ai-search-what-toronto-signals-and-what-it-does-not-3c5c)
+- [Identity Infrastructure: Why Credentials Are the Layer Directories Don&#39;t Secure](https://dev.to/gitguardian/identity-infrastructure-why-credentials-are-the-layer-directories-dont-secure-21gm)
+- [Building Premium React UI Components with Tailwind CSS and Framer Motion](https://dev.to/headbanger/building-premium-react-ui-components-with-tailwind-css-and-framer-motion-56op)
 - [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
-- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
-- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/go-127s-simd-ties-with-numpy-until-the-data-fits-in-cache-2bm8)
-- [Sessioni sicure: flash data, timeout e protezione anti-fixation](https://dev.to/dev_iadicola/sessioni-sicure-flash-data-timeout-e-protezione-anti-fixation-1lai)
-- [COSS Weekly: Databricks acquires Electric, Stripe reportedly acquires OpenRouter, Temporal in talks for $500M, and more](https://dev.to/sabirchinstrap/coss-weekly-databricks-acquires-electric-stripe-reportedly-acquires-openrouter-temporal-in-talks-17d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
