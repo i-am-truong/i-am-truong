@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building next-word prediction for a keyboard app - pipeline, smoothing algorithms, and vocabulary tradeoffs](https://dev.to/silvern47/building-next-word-prediction-for-a-keyboard-app-pipeline-smoothing-algorithms-and-vocabulary-1ng9)
+- [Dockerize Your LLM Proxy: One Container for Free Multi-Provider Access](https://dev.to/garage23auto_a7c1e189d84f/dockerize-your-llm-proxy-one-container-for-free-multi-provider-access-1i3l)
+- [How the Nostr journey is going for me?](https://dev.to/delirehberi/how-the-nostr-journey-is-going-for-me-2gdl)
 - [Fixing a null-body crash in the Formbricks survey SDK, found by Sentry](https://dev.to/lewisawe/fixing-a-null-body-crash-in-the-formbricks-survey-sdk-found-by-sentry-549j)
 - [The duration your video API accepts is not the duration it renders](https://dev.to/whereisthisplace/the-duration-your-video-api-accepts-is-not-the-duration-it-renders-4j86)
-- [You Don&#39;t Need to Choose Between a Gateway and an Agent Framework](https://dev.to/fcn06/you-dont-need-to-choose-between-a-gateway-and-an-agent-framework-2gma)
-- [Why I Built a No-Signup QR &amp; URL Utility Platform &lpar;And How to Use the API&rpar;](https://dev.to/klicktools/why-i-built-a-no-signup-qr-url-utility-platform-and-how-to-use-the-api-3lef)
-- [useEditorContext composable in n8n codebase.](https://dev.to/ramunarasinga-11/useeditorcontext-composable-in-n8n-codebase-1hkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
