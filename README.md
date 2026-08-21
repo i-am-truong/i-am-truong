@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Row-level security in Symfony: the role that ran your migrations bypasses every policy you wrote](https://dev.to/mollenthiel/row-level-security-in-symfony-the-role-that-ran-your-migrations-bypasses-every-policy-you-wrote-34bi)
-- [Building in Public: My Journey Constructing a Weather App with OpenWeatherMap](https://dev.to/joelezema/building-in-public-my-journey-constructing-a-weather-app-with-openweathermap-48c6)
-- [AI Capex Has Moved Into Credit&#39;s Jurisdiction](https://dev.to/deanlee/ai-capex-has-moved-into-credits-jurisdiction-3h78)
-- [AI Capex Is Turning Into an Infrastructure Bill](https://dev.to/reidmarlow/ai-capex-is-turning-into-an-infrastructure-bill-3mfi)
-- [Sub‑50 ms On‑Device TTS: Instant Voice for Games &amp; Streams](https://dev.to/leojulieta/sub-50-ms-on-device-tts-instant-voice-for-games-streams-5e8)
+- [I Built a Full-Stack Flutter Expense Splitting App — Here&#39;s What I Learned](https://dev.to/mtahir27/i-built-a-full-stack-flutter-expense-splitting-app-heres-what-i-learned-5gn3)
+- [Smart MCP Proxy — Hot-Swap MCP Aggregation + AI Concierge](https://dev.to/milkyway008/smart-mcp-proxy-hot-swap-mcp-aggregation-ai-concierge-59fj)
+- [Kubernetes for Beginners: From Local to Production – A Quest Worth the Ring &lpar;Lord of the Rings&rpar;](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-worth-the-ring-lord-of-the-rings-18hi)
+- [Docker for Developers: 10 Practical Things You Should Know Before Deploying an App](https://dev.to/arthur_luca/docker-for-developers-10-practical-things-you-should-know-before-deploying-an-app-53n8)
+- [Why I am Switching To UV and why you should too!](https://dev.to/gracenimimi/why-i-am-switching-to-uv-and-why-you-should-too-4b84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
