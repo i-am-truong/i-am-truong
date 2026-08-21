@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [macOS: Open Files and Folders in VS Code from Finder](https://dev.to/moyarich/macos-open-files-and-folders-in-vs-code-from-finder-4mn4)
 - [Platform Engineering starts before Kubernetes](https://dev.to/rogeroliveira86/platform-engineering-starts-before-kubernetes-3ja1)
 - [Linux from Zero #2 Processes: what&#39;s actually running under your terminal](https://dev.to/rogeroliveira86/linux-from-zero-2-processes-whats-actually-running-under-your-terminal-1a0f)
 - [Feature-based: por que sua pasta components virou uma bagunça?](https://dev.to/matheusdsilva01/feature-based-por-que-sua-pasta-components-virou-uma-bagunca-51lc)
 - [I Built a 10 MB GPU-Accelerated Terminal in Rust + Metal](https://dev.to/pioner92/i-built-a-10-mb-gpu-accelerated-terminal-in-rust-metal-1le3)
-- [I Shipped a Security Product I Cannot Fully Audit](https://dev.to/sangyeonpark/i-shipped-a-security-product-i-cannot-fully-audit-47ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
