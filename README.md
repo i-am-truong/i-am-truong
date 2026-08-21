@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running three coding agents at once is easy. Noticing when they need you isn&#39;t.](https://dev.to/altansaid/running-three-coding-agents-at-once-is-easy-noticing-when-they-need-you-isnt-3dif)
-- [Nash Is Now Open Source; Meet Your New AI Workspace](https://dev.to/jon_at_backboardio/nash-is-now-open-source-meet-your-new-ai-workspace-29d8)
-- [KV Cache by hand](https://dev.to/lewis_won/kv-cache-by-hand-26i4)
-- [The AI demo failed, but the database remembered half of it](https://dev.to/jtorchia/the-ai-demo-failed-but-the-database-remembered-half-of-it-3m4a)
-- [Willpower is manual memory management — here&#39;s why I switched to garbage collection for my habits](https://dev.to/crazychief/willpower-is-manual-memory-management-heres-why-i-switched-to-garbage-collection-for-my-habits-31d4)
+- [Fixing a null-body crash in the Formbricks survey SDK, found by Sentry](https://dev.to/lewisawe/fixing-a-null-body-crash-in-the-formbricks-survey-sdk-found-by-sentry-549j)
+- [The duration your video API accepts is not the duration it renders](https://dev.to/whereisthisplace/the-duration-your-video-api-accepts-is-not-the-duration-it-renders-4j86)
+- [You Don&#39;t Need to Choose Between a Gateway and an Agent Framework](https://dev.to/fcn06/you-dont-need-to-choose-between-a-gateway-and-an-agent-framework-2gma)
+- [Why I Built a No-Signup QR &amp; URL Utility Platform &lpar;And How to Use the API&rpar;](https://dev.to/klicktools/why-i-built-a-no-signup-qr-url-utility-platform-and-how-to-use-the-api-3lef)
+- [useEditorContext composable in n8n codebase.](https://dev.to/ramunarasinga-11/useeditorcontext-composable-in-n8n-codebase-1hkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
