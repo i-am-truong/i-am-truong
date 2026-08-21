@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running a Monitoring SaaS on Cloudflare Workers + Supabase for Almost Nothing](https://dev.to/merlonix/running-a-monitoring-saas-on-cloudflare-workers-supabase-for-almost-nothing-1hkm)
-- [The homoglyph trick against similarity checking is documented - as not working](https://dev.to/yotta-fish/the-homoglyph-trick-against-similarity-checking-is-documented-as-not-working-2fdi)
-- [Spring JPA Fundamentals for Tailored Software Solution...](https://dev.to/sahil_khurana_486f374ecf2/spring-jpa-fundamentals-for-tailored-software-solution-2jh8)
-- [The Commit Timestamps Told the Real Story](https://dev.to/james_caron_3da04b2ed359a/the-commit-timestamps-told-the-real-story-1oh6)
-- [Does running a document through a rewriting tool change what you have to declare?](https://dev.to/yotta-fish/does-running-a-document-through-a-rewriting-tool-change-what-you-have-to-declare-aoo)
+- [I Got Called Out by My Senior — and It Taught Me the Real Cost of &quot;AI-First&quot; Coding](https://dev.to/kumaresan02/i-got-called-out-by-my-senior-and-it-taught-me-the-real-cost-of-ai-first-coding-1pg5)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5lb)
+- [Shipping 12 iOS Apps to the App Store Unattended, Part 2 — Every Review Trap &lpar;Beta Builds Rejected, Pricing, Name Collisions&rpar;](https://dev.to/bokuwalily/shipping-12-ios-apps-to-the-app-store-unattended-part-2-every-review-trap-beta-builds-rejected-2jim)
+- [The Counterfeit Web](https://dev.to/rawveg/the-counterfeit-web-2pg4)
+- [What Is an AI Crawler? &lpar;GPTBot, ClaudeBot &amp; More&rpar;](https://dev.to/ravigupta0210/what-is-an-ai-crawler-gptbot-claudebot-more-2a2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
