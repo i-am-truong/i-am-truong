@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A CSS Hover-Reveal Pattern for Technical Specs](https://dev.to/richardlemon/a-css-hover-reveal-pattern-for-technical-specs-413h)
-- [D9：他這次照規則走了，兩筆預測全錯](https://dev.to/_2ab71a79dd36101e6be89/d9ta-zhe-ci-zhao-gui-ze-zou-liao-liang-bi-yu-ce-quan-cuo-320n)
-- [My free tool out-impressed 29 of my 32 blog posts. Its ranking got five times worse.](https://dev.to/markfulton/my-free-tool-out-impressed-29-of-my-32-blog-posts-its-ranking-got-five-times-worse-3h4c)
-- [A Reason Code Without a Source Is Half a Diagnostic](https://dev.to/iqtechsolutions/a-reason-code-without-a-source-is-half-a-diagnostic-4dg9)
-- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob)
+- [Cross-posting to dev.to without giving away your SEO](https://dev.to/mk023/cross-posting-to-devto-without-giving-away-your-seo-5gd)
+- [Marla to Gaj &lpar;Square Yard&rpar; Conversion: A Simple Tool I Built for My Local Marketplace](https://dev.to/nuran_khan_80733dc4e19f6b/marla-to-gaj-square-yard-conversion-a-simple-tool-i-built-for-my-local-marketplace-5g17)
+- [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
+- [ACH Return Codes Explained: R01–R85 and How to Handle Them in Production](https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj)
+- [Your compiled DSPy program re-sends up to 20 few-shot demos on every single call](https://dev.to/wartzarbee/your-compiled-dspy-program-re-sends-up-to-20-few-shot-demos-on-every-single-call-3a74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
