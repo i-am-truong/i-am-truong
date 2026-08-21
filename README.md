@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Deployed Google&#39;s Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes](https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal)
-- [Polyglot persistence was the mistake. Postgres was always enough.](https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41)
-- [Intelligence at Rest](https://dev.to/wiseai/intelligence-at-rest-43co)
-- [Best AI Coding Assistants for Sublime Text in 2026](https://dev.to/jawuilp/best-ai-coding-assistants-for-sublime-text-in-2026-4960)
-- [I miss the pre-AI Mossad agents.](https://dev.to/wiseai/i-miss-the-pre-ai-mossad-agents-1ka1)
+- [Platform Engineering starts before Kubernetes](https://dev.to/rogeroliveira86/platform-engineering-starts-before-kubernetes-3ja1)
+- [Linux from Zero #2 Processes: what&#39;s actually running under your terminal](https://dev.to/rogeroliveira86/linux-from-zero-2-processes-whats-actually-running-under-your-terminal-1a0f)
+- [Feature-based: por que sua pasta components virou uma bagunça?](https://dev.to/matheusdsilva01/feature-based-por-que-sua-pasta-components-virou-uma-bagunca-51lc)
+- [I Built a 10 MB GPU-Accelerated Terminal in Rust + Metal](https://dev.to/pioner92/i-built-a-10-mb-gpu-accelerated-terminal-in-rust-metal-1le3)
+- [I Shipped a Security Product I Cannot Fully Audit](https://dev.to/sangyeonpark/i-shipped-a-security-product-i-cannot-fully-audit-47ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
