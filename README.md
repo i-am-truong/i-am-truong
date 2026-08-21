@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [As Engineers, LLMs should pay us for tokens usage.](https://dev.to/wiseai/as-engineers-llms-should-pay-us-for-tokens-usage-11ic)
-- [UniSin - LinkdIn Post Scheduler](https://dev.to/sameermistrii/unisin-linkdin-post-scheduler-10jh)
-- [Your Rust Code Proves You Don&#39;t Understand Memory](https://dev.to/xxxn3m3s1sxxx/your-rust-code-proves-you-dont-understand-memory-4lo9)
-- [Small Models Are Coming for the Cloud — And the Data Is Damning](https://dev.to/thegatewayguy/small-models-are-coming-for-the-cloud-and-the-data-is-damning-3g6f)
-- [The Local LLM Stack in 2026: What Actually Works](https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1)
+- [the penguins are already sentient. Your neural network is just a distraction.](https://dev.to/wiseai/the-penguins-are-already-sentient-your-neural-network-is-just-a-distraction-1kgj)
+- [Training Is an Evil Concept. LMMs Eliminates it Altogether.](https://dev.to/wiseai/training-is-an-evil-concept-lmms-eliminates-it-altogether-15ej)
+- [Four places ffmpeg.wasm fails silently in a Next.js app &lpar;and the fixes&rpar;](https://dev.to/_e37583b7079a729834958/four-places-ffmpegwasm-fails-silently-in-a-nextjs-app-and-the-fixes-4jo3)
+- [What Your Multisig Threshold Actually Protects](https://dev.to/0xrivet/what-your-multisig-threshold-actually-protects-4jd)
+- [My first website said &quot;Don&#39;t commit without context.&quot; I never committed it at all.](https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
