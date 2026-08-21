@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [macOS: Open Files and Folders in VS Code from Finder](https://dev.to/moyarich/macos-open-files-and-folders-in-vs-code-from-finder-4mn4)
-- [Platform Engineering starts before Kubernetes](https://dev.to/rogeroliveira86/platform-engineering-starts-before-kubernetes-3ja1)
-- [Linux from Zero #2 Processes: what&#39;s actually running under your terminal](https://dev.to/rogeroliveira86/linux-from-zero-2-processes-whats-actually-running-under-your-terminal-1a0f)
-- [Feature-based: por que sua pasta components virou uma bagunça?](https://dev.to/matheusdsilva01/feature-based-por-que-sua-pasta-components-virou-uma-bagunca-51lc)
-- [I Built a 10 MB GPU-Accelerated Terminal in Rust + Metal](https://dev.to/pioner92/i-built-a-10-mb-gpu-accelerated-terminal-in-rust-metal-1le3)
+- [The Notification Born out of Love: Building an Adaptive Geofencing Engine for Digital Wallets](https://dev.to/alex_g_aeeb05ba69eee8a4fd/the-notification-born-out-of-love-building-an-adaptive-geofencing-engine-for-digital-wallets-4512)
+- [Outputting Data: Why Sofya Beats Python in Simplicity](https://dev.to/simple_code/outputting-data-why-sofya-beats-python-in-simplicity-47pk)
+- [Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.](https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm)
+- [How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks](https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k)
+- [Migrating an Express Backend to Vercel Functions Without Downtime](https://dev.to/gabbs279/migrating-an-express-backend-to-vercel-functions-without-downtime-3kal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
