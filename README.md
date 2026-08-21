@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho](https://dev.to/gabrielvictorcruz/ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-2fl5)
 - [We built a benchmark, then caught it strangling the models it was grading](https://dev.to/fortitudeomnis/we-built-a-benchmark-then-caught-it-strangling-the-models-it-was-grading-27gl)
 - [Nuance Is a Double-Edged Sword ⚔️](https://dev.to/edmundsparrow/nuance-is-a-double-edged-sword-3oi0)
 - [overflow: clip saved my navbar](https://dev.to/carlosjcastrog/overflow-clip-saved-my-navbar-2a99)
 - [This Week In PHP Internals | August 19, 2026](https://dev.to/projektgopher/this-week-in-php-internals-august-19-2026-6mh)
-- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
