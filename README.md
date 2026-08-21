@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Reactive MPAs in 2KB: Meet Flynt.js](https://dev.to/marsbos/building-reactive-mpas-in-2kb-meet-flyntjs-31ap)
-- [Oracle Designer Lost Support in 2013. My AI Agent Develops in It Anyway.](https://dev.to/nunc/oracle-designer-lost-support-in-2013-my-ai-agent-develops-in-it-anyway-2c2k)
-- [The Sandbox Had One Allowed Egress Path. The Model Used it to Escape.](https://dev.to/bala_paranj_059d338e44e7e/the-sandbox-had-one-allowed-egress-path-the-model-used-it-to-escape-3ll6)
-- [Quantum Computing Meets Clinical Medicine: Why the Biology Is Already Ahead of the Software](https://dev.to/harvey_the_dev/quantum-computing-meets-clinical-medicine-why-the-biology-is-already-ahead-of-the-software-400k)
-- [I gave an AI agent money without giving it a wallet. It is just a string.](https://dev.to/thecryptodonkey/i-gave-an-ai-agent-money-without-giving-it-a-wallet-it-is-just-a-string-1c1f)
+- [NETO: Chat P2P local para equipos dev sin depender de la nube](https://dev.to/dasilvaba/neto-chat-p2p-local-para-equipos-dev-sin-depender-de-la-nube-3f4e)
+- [Be the Teacher and Learn Something](https://dev.to/suffle/be-the-teacher-and-learn-something-1i9i)
+- [RAG vs MCP in AI Testing: Stop Treating Them as Competitors](https://dev.to/rahul_sharma_pq/rag-vs-mcp-in-ai-testing-stop-treating-them-as-competitors-bjo)
+- [I Built a Chrome Extension to Track AI Token Usage — Here&#39;s How It Works](https://dev.to/anoop_kumar_63925e275ea06/i-built-a-chrome-extension-to-track-ai-token-usage-heres-how-it-works-1701)
+- [Your RLS Policy Passed Its Test For the Wrong Reason](https://dev.to/dev_encyclopedia/your-rls-policy-passed-its-test-for-the-wrong-reason-2oah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
