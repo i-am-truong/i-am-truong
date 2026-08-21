@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Column Comments in PostgreSQL and MySQL: How to Document Columns Without a Migration](https://dev.to/tbson87/column-comments-in-postgresql-and-mysql-how-to-document-columns-without-a-migration-2no0)
-- [Custom Domain Verification, DKIM Rotation, and Suppression for Transactional Email APIs](https://dev.to/frosty45/custom-domain-verification-dkim-rotation-and-suppression-for-transactional-email-apis-5c63)
-- [HTML contenteditable Attribute](https://dev.to/code1/html-contenteditable-attribute-2fhe)
-- [The Criteria pattern in NestJS: what a client may ask for is a file, not a signature](https://dev.to/chacaponquin/the-criteria-pattern-in-nestjs-what-a-client-may-ask-for-is-a-file-not-a-signature-3ifm)
-- [El patrón Criteria en NestJS: lo que un cliente puede pedir es un archivo, no una firma](https://dev.to/chacaponquin/el-patron-criteria-en-nestjs-lo-que-un-cliente-puede-pedir-es-un-archivo-no-una-firma-3jj0)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-f31)
+- [Are We Sending Too Much Data to LLMs? Agentic Production Support &lpar;APS&rpar;](https://dev.to/dev_hajare_d11ce990734a91/are-we-sending-too-much-data-to-llms-agentic-production-support-aps-b5p)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1330)
+- [Top Vector Databases for AI Agents in 2026: Qdrant vs Pinecone vs Weaviate vs PgVector vs Milvus](https://dev.to/agdex_ai/top-vector-databases-for-ai-agents-in-2026-qdrant-vs-pinecone-vs-weaviate-vs-pgvector-vs-milvus-4ng2)
+- [Top AI Agent Security &amp; Guardrails Frameworks in 2026: Defending Against Prompt Injections &amp; Tool Hijacking](https://dev.to/agdex_ai/top-ai-agent-security-guardrails-frameworks-in-2026-defending-against-prompt-injections-tool-3njo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
