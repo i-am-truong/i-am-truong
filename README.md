@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-posting to dev.to without giving away your SEO](https://dev.to/mk023/cross-posting-to-devto-without-giving-away-your-seo-5gd)
-- [Marla to Gaj &lpar;Square Yard&rpar; Conversion: A Simple Tool I Built for My Local Marketplace](https://dev.to/nuran_khan_80733dc4e19f6b/marla-to-gaj-square-yard-conversion-a-simple-tool-i-built-for-my-local-marketplace-5g17)
-- [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
-- [ACH Return Codes Explained: R01–R85 and How to Handle Them in Production](https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj)
-- [Your compiled DSPy program re-sends up to 20 few-shot demos on every single call](https://dev.to/wartzarbee/your-compiled-dspy-program-re-sends-up-to-20-few-shot-demos-on-every-single-call-3a74)
+- [Schema Gate: a signed acceptance boundary for AI-generated JSON](https://dev.to/woodhousecorpaitech/schema-gate-a-signed-acceptance-boundary-for-ai-generated-json-438j)
+- [Don&#39;t Let Codex Roam Free: 6 Guardrails I Use for AI-Assisted Coding](https://dev.to/tosane932/dont-let-codex-roam-free-6-guardrails-i-use-for-ai-assisted-coding-4bj4)
+- [Tracking Football Odds Movement in Python — the Full Tick History, Not Just a Snapshot](https://dev.to/johnellis/tracking-football-odds-movement-in-python-the-full-tick-history-not-just-a-snapshot-4ng9)
+- [Designing Functions That Compound](https://dev.to/codeatlas/designing-functions-that-compound-299f)
+- [Between Macro Diagnosis and Micro Implementation: What About the Gap?](https://dev.to/zse4321/between-macro-diagnosis-and-micro-implementation-what-about-the-gap-25j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
