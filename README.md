@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Systems, One Project at a Time 🚀](https://dev.to/ilakkiyan-j/building-ai-systems-one-project-at-a-time-39f8)
-- [Building an API on Top of MVCC](https://dev.to/derekmwale/building-an-api-on-top-of-mvcc-5fje)
-- [Robot Training Data Is Messier Than You Think: Auditing 4,959 Episodes with an Open-Source Tool](https://dev.to/liesliy/robot-training-data-is-messier-than-you-think-auditing-4959-episodes-with-an-open-source-tool-20ke)
-- [Why I Built a Windows Desktop App with C++ + WebView2 Instead of Electron](https://dev.to/jearry/why-i-built-a-windows-desktop-app-with-c-webview2-instead-of-electron-2o69)
-- [ChatGPT Search Is Firing site: Queries - Test Yours Today](https://dev.to/basavaraj_sh_1ea7d95f0f2e/chatgpt-search-is-firing-site-queries-test-yours-today-1381)
+- [I Let an AI Agent Run a SaaS Like a Solo Founder. It Made the Same Mistakes Humans Make.](https://dev.to/ai_made_tools/i-let-an-ai-agent-run-a-saas-like-a-solo-founder-it-made-the-same-mistakes-humans-make-3b6l)
+- [Detecting Tool + Schema Drift in a Remote MCP Server](https://dev.to/merlonix/detecting-tool-schema-drift-in-a-remote-mcp-server-1p9i)
+- [AWS Serverless Patterns and Anti-Patterns: What Works, What Breaks, and When to Use What](https://dev.to/alpeshkumbhare/aws-serverless-patterns-and-anti-patterns-what-works-what-breaks-and-when-to-use-what-4k50)
+- [VRP Is Ready for External Validation — One Company Can Be the First to Pilot It](https://dev.to/jumping_vpn_fcb498eb2c7e1/vrp-is-ready-for-external-validation-one-company-can-be-the-first-to-pilot-it-4l0g)
+- [Your feature-usage scanner doesn&#39;t know Vue, Svelte, or Astro exist. Here&#39;s how we fixed that without touching its core.](https://dev.to/__c500e8ac9bc2/your-feature-usage-scanner-doesnt-know-vue-svelte-or-astro-exist-heres-how-we-fixed-that-1eif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
