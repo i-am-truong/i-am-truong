@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Reconnection Done Right: Backoff, Jitter, and Replay](https://dev.to/iurii_rogulia/websocket-reconnection-done-right-backoff-jitter-and-replay-1on6)
-- [Mortgage Gift Letter Fraud: The Donor Statement Your Underwriting Never Inspects](https://dev.to/iurii_rogulia/mortgage-gift-letter-fraud-the-donor-statement-your-underwriting-never-inspects-155o)
-- [Separating Retrieval Problems From Answer-Writing Problems](https://dev.to/wukongchat/separating-retrieval-problems-from-answer-writing-problems-1m4a)
-- [Build or Buy a Price Scraper? Start With Failure Modes](https://dev.to/anakin_writers/build-or-buy-a-price-scraper-start-with-failure-modes-fh1)
-- [The bug was in the colour space, not the parser](https://dev.to/yasmax91/the-bug-was-in-the-colour-space-not-the-parser-3hna)
+- [Running a Monitoring SaaS on Cloudflare Workers + Supabase for Almost Nothing](https://dev.to/merlonix/running-a-monitoring-saas-on-cloudflare-workers-supabase-for-almost-nothing-1hkm)
+- [The homoglyph trick against similarity checking is documented - as not working](https://dev.to/yotta-fish/the-homoglyph-trick-against-similarity-checking-is-documented-as-not-working-2fdi)
+- [Spring JPA Fundamentals for Tailored Software Solution...](https://dev.to/sahil_khurana_486f374ecf2/spring-jpa-fundamentals-for-tailored-software-solution-2jh8)
+- [The Commit Timestamps Told the Real Story](https://dev.to/james_caron_3da04b2ed359a/the-commit-timestamps-told-the-real-story-1oh6)
+- [Does running a document through a rewriting tool change what you have to declare?](https://dev.to/yotta-fish/does-running-a-document-through-a-rewriting-tool-change-what-you-have-to-declare-aoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
