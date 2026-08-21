@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Called Out by My Senior — and It Taught Me the Real Cost of &quot;AI-First&quot; Coding](https://dev.to/kumaresan02/i-got-called-out-by-my-senior-and-it-taught-me-the-real-cost-of-ai-first-coding-1pg5)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5lb)
-- [Shipping 12 iOS Apps to the App Store Unattended, Part 2 — Every Review Trap &lpar;Beta Builds Rejected, Pricing, Name Collisions&rpar;](https://dev.to/bokuwalily/shipping-12-ios-apps-to-the-app-store-unattended-part-2-every-review-trap-beta-builds-rejected-2jim)
-- [The Counterfeit Web](https://dev.to/rawveg/the-counterfeit-web-2pg4)
-- [What Is an AI Crawler? &lpar;GPTBot, ClaudeBot &amp; More&rpar;](https://dev.to/ravigupta0210/what-is-an-ai-crawler-gptbot-claudebot-more-2a2f)
+- [🌐 I Took APIC From Desktop to the Browser](https://dev.to/akhourianmolkumar/i-took-apic-from-desktop-to-the-browser-i6p)
+- [After 15 Years of Coding, AI Made Me Start More Projects in 6 Months Than My Entire Career Combined](https://dev.to/devworkdir/after-15-years-of-coding-ai-made-me-start-more-projects-in-6-months-than-my-entire-career-combined-1b49)
+- [What actually breaks when you run LLM agents unattended for 58 days](https://dev.to/gxcafellc/what-actually-breaks-when-you-run-llm-agents-unattended-for-58-days-2n7i)
+- [Can EnvHarness Turn Static Worlds Into Real Agent Training Grounds?](https://dev.to/vin-patel/can-envharness-turn-static-worlds-into-real-agent-training-grounds-1p5p)
+- [Your GitHub Is Not Your Developer Portfolio](https://dev.to/brianyoung/your-github-is-not-your-developer-portfolio-4849)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
