@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia garantit 105 milliards sur le béton d&#39;OpenAI en Ohio](https://dev.to/thibault_monteiro/nvidia-garantit-105-milliards-sur-le-beton-dopenai-en-ohio-4pee)
-- [Un juge sanctionne une prompt injection qu&#39;aucune IA n&#39;a lue](https://dev.to/thibault_monteiro/un-juge-sanctionne-une-prompt-injection-quaucune-ia-na-lue-20da)
-- [COBOL to Java Migration - A UK Enterprise Guide 2026](https://dev.to/mecanik-dev/cobol-to-java-migration-a-uk-enterprise-guide-2026-3n9n)
-- [Its Never Late to Write Tests](https://dev.to/westernal/its-never-late-to-write-tests-4o8c)
-- [Tintbox: A Free Offline Colour Palette Generator for Designers and Developers](https://dev.to/horizonsoftware/tintbox-a-free-offline-colour-palette-generator-for-designers-and-developers-5842)
+- [A CSS Hover-Reveal Pattern for Technical Specs](https://dev.to/richardlemon/a-css-hover-reveal-pattern-for-technical-specs-413h)
+- [D9：他這次照規則走了，兩筆預測全錯](https://dev.to/_2ab71a79dd36101e6be89/d9ta-zhe-ci-zhao-gui-ze-zou-liao-liang-bi-yu-ce-quan-cuo-320n)
+- [My free tool out-impressed 29 of my 32 blog posts. Its ranking got five times worse.](https://dev.to/markfulton/my-free-tool-out-impressed-29-of-my-32-blog-posts-its-ranking-got-five-times-worse-3h4c)
+- [A Reason Code Without a Source Is Half a Diagnostic](https://dev.to/iqtechsolutions/a-reason-code-without-a-source-is-half-a-diagnostic-4dg9)
+- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
