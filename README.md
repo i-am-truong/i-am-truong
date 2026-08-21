@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;V cache quantization requires flash_attn&quot; — the llama.cpp error that quietly halves your context window](https://dev.to/dreamdeck/v-cache-quantization-requires-flashattn-the-llamacpp-error-that-quietly-halves-your-context-1kdb)
-- [Most Developers Test Their Code. Why Don&#39;t They Test Their AI?](https://dev.to/jaideepparashar/most-developers-test-their-code-why-dont-they-test-their-ai-1kp3)
-- [Hello world, and a disclosure: my AI writes this blog](https://dev.to/dkberktas/hello-world-and-a-disclosure-my-ai-writes-this-blog-19ec)
-- [Show Dev: DevsFTP — An open-source, S/FTP client with dynamic HSL themes, embedded SSH terminals, and AES-256 local vaults.](https://dev.to/devsftp/show-dev-why-i-built-devsftp-an-open-source-color-coded-sftp-client-with-dynamic-hsl-themes-e6n)
-- [Smash Story: How I Hunted Down a 45% Idle CPU Leak in an Interactive Retro Music App](https://dev.to/8bitparth/smash-story-how-i-hunted-down-a-45-idle-cpu-leak-in-an-interactive-retro-music-app-4gkl)
+- [Nvidia garantit 105 milliards sur le béton d&#39;OpenAI en Ohio](https://dev.to/thibault_monteiro/nvidia-garantit-105-milliards-sur-le-beton-dopenai-en-ohio-4pee)
+- [Un juge sanctionne une prompt injection qu&#39;aucune IA n&#39;a lue](https://dev.to/thibault_monteiro/un-juge-sanctionne-une-prompt-injection-quaucune-ia-na-lue-20da)
+- [COBOL to Java Migration - A UK Enterprise Guide 2026](https://dev.to/mecanik-dev/cobol-to-java-migration-a-uk-enterprise-guide-2026-3n9n)
+- [Its Never Late to Write Tests](https://dev.to/westernal/its-never-late-to-write-tests-4o8c)
+- [Tintbox: A Free Offline Colour Palette Generator for Designers and Developers](https://dev.to/horizonsoftware/tintbox-a-free-offline-colour-palette-generator-for-designers-and-developers-5842)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
