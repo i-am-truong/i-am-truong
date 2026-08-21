@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [monkeypatch or mock.patch? One question decides it](https://dev.to/msakai/monkeypatch-or-mockpatch-one-question-decides-it-1bf5)
-- [CI Is Green. What Could Still Go Wrong?](https://dev.to/dulvarn/ci-is-green-what-could-still-go-wrong-4g0k)
-- [What a lost dispute actually costs a Connect platform](https://dev.to/veristria/what-a-lost-dispute-actually-costs-a-connect-platform-5gh2)
-- [Using S3 as Your Disaster Recovery Target: A Practical Guide](https://dev.to/ethan-carter/using-s3-as-your-disaster-recovery-target-a-practical-guide-3f0b)
-- [The Stripe Connect refund that only costs the platform](https://dev.to/veristria/the-stripe-connect-refund-that-only-costs-the-platform-1l68)
+- [Minecraft Server - Part 3: Running on Kubernetes](https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf)
+- [Fantastic resource. Treating API keys like passwords—rotation, secure storage, least privilege—is simple advice that prevents massive breaches. The OWASP framework gives it authority, and the practical steps make it easy to implement.](https://dev.to/sadique_anwar_b90373bc79c/fantastic-resource-treating-api-keys-like-passwords-rotation-secure-storage-least-privilege-is-1m6h)
+- [The Bug That Only Showed Up in a Second Tab: Debugging a Multi-Tab localStorage Race Condition](https://dev.to/mehwish_e1e7e09af6e0754ed/the-bug-that-only-showed-up-in-a-second-tab-debugging-a-multi-tab-localstorage-race-condition-4kjk)
+- [How to Stop an Image Model From Ignoring Your Reference Image](https://dev.to/libersand/how-to-stop-an-image-model-from-ignoring-your-reference-image-i5a)
+- [Microfrontends Without the Complexity: How Onefold Handles Multi-Team Frontend Architecture](https://dev.to/zahirul/microfrontends-without-the-complexity-how-onefold-handles-multi-team-frontend-architecture-25dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
