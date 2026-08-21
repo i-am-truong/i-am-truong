@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Coding Agent Just Finished. Now Ask It to Attack Its Own Work.](https://dev.to/jlmartel/your-ai-coding-agent-just-finished-now-ask-it-to-attack-its-own-work-54g3)
-- [Node.js SEA Just Got Way Simpler — Updating My node-sea Boilerplate for Node 26](https://dev.to/hamdi_laadhari/nodejs-sea-just-got-way-simpler-updating-my-node-sea-boilerplate-for-node-26-1efl)
-- [We tested &quot;tokenize before you compress&quot; against 452 configurations, and it mostly held up](https://dev.to/ronak_parmar_033c50d168b5/we-tested-tokenize-before-you-compress-against-452-configurations-and-it-mostly-held-up-4m6p)
-- [MCP C# SDK Array Tool Outputs: Stop Looking for a `result` Wrapper](https://dev.to/ssukhpinder/mcp-c-sdk-array-tool-outputs-stop-looking-for-a-result-wrapper-452c)
-- [JavaScript Links Can Hide Content From AI Crawlers, a 41-Day Test Shows](https://dev.to/alifar/javascript-links-can-hide-content-from-ai-crawlers-a-41-day-test-shows-34cg)
+- [UAT-10147 AI-Assisted Intrusion and SPECTRE Malware](https://dev.to/anoymask/uat-10147-ai-assisted-intrusion-and-spectre-malware-3ej)
+- [Manic Android Malware: Information Theft via Transparent Overlays and Short-Range Device Relaying](https://dev.to/anoymask/manic-android-malware-information-theft-via-transparent-overlays-and-short-range-device-relaying-193a)
+- [Zimbra CVE-2026-73570: Unauthenticated Command Injection via SMTP](https://dev.to/anoymask/zimbra-cve-2026-73570-unauthenticated-command-injection-via-smtp-kl4)
+- [SilkParasite: Cloud C2 and Multi-Language RATs Targeting Central Asia](https://dev.to/anoymask/silkparasite-cloud-c2-and-multi-language-rats-targeting-central-asia-1ikl)
+- [React useTimeout Hook: Declarative setTimeout with Cleanup &lpar;2026&rpar;](https://dev.to/childrentime/react-usetimeout-hook-declarative-settimeout-with-cleanup-2026-47pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
