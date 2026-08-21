@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Notification Born out of Love: Building an Adaptive Geofencing Engine for Digital Wallets](https://dev.to/alex_g_aeeb05ba69eee8a4fd/the-notification-born-out-of-love-building-an-adaptive-geofencing-engine-for-digital-wallets-4512)
-- [Outputting Data: Why Sofya Beats Python in Simplicity](https://dev.to/simple_code/outputting-data-why-sofya-beats-python-in-simplicity-47pk)
-- [Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.](https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm)
-- [How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks](https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k)
-- [Migrating an Express Backend to Vercel Functions Without Downtime](https://dev.to/gabbs279/migrating-an-express-backend-to-vercel-functions-without-downtime-3kal)
+- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
+- [OpenAI GPT-5.6 Pricing Update Cuts Terra and Luna Costs, Leaves Sol Unchanged](https://dev.to/alifar/openai-gpt-56-pricing-update-cuts-terra-and-luna-costs-leaves-sol-unchanged-4ac7)
+- [A IA é um &quot;esquema de pirâmide&quot; para os meios de pagamento?](https://dev.to/matheuscamarques/a-ia-e-um-esquema-de-piramide-para-os-meios-de-pagamento-1add)
+- [MCP has a discovery problem. I built a meta-server that searches all 75,000 servers.](https://dev.to/dror_bengal_4d4388774752d/mcp-has-a-discovery-problem-i-built-a-meta-server-that-searches-all-75000-servers-30gm)
+- [The cheapest model on my plan loses every benchmark. It still beats models charging 14x more.](https://dev.to/dev_michael/the-cheapest-model-on-my-plan-loses-every-benchmark-it-still-beats-models-charging-14x-more-2po8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
