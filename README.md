@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/esther_karanja_/understanding-the-git-workflowworking-directorystaging-commit-and-push-2b3j)
-- [n8n vs Python for Automation: When No-Code Wins vs When You Need Code](https://dev.to/samchenreviews/n8n-vs-python-for-automation-when-no-code-wins-vs-when-you-need-code-22c5)
-- [what is rag ai: a no-PhD guide to retrieval-augmented generation](https://dev.to/samchenreviews/what-is-rag-ai-a-no-phd-guide-to-retrieval-augmented-generation-a2g)
-- [How to automate meeting notes with AI - from transcript to assigned tasks](https://dev.to/samchenreviews/how-to-automate-meeting-notes-with-ai-from-transcript-to-assigned-tasks-53b0)
-- [How to automate customer support with AI: Build a RAG-powered chatbot that knows when to escalate](https://dev.to/samchenreviews/how-to-automate-customer-support-with-ai-build-a-rag-powered-chatbot-that-knows-when-to-escalate-2789)
+- [keybound: auditoria de aislamiento de prompt cache en relays LLM multi-tenant](https://dev.to/magopredator/keybound-auditoria-de-aislamiento-de-prompt-cache-en-relays-llm-multi-tenant-2pfe)
+- [Supercharging Dev VMs with Vagrant and Ansible &lpar;2014&rpar;](https://dev.to/hamdi_laadhari/supercharging-dev-vms-with-vagrant-and-ansible-2014-4c58)
+- [This Is Why My profile picture is now a shigure ui picture.](https://dev.to/wiseai/this-is-why-my-profile-picture-is-now-a-shigure-ui-picture-ap9)
+- [Naming eZ Publish Web Transactions in New Relic &lpar;2013&rpar;](https://dev.to/hamdi_laadhari/naming-ez-publish-web-transactions-in-new-relic-2013-4inc)
+- [Scaling Code Reviews in the Age of Generative AI](https://dev.to/dmitryame/scaling-code-reviews-in-the-age-of-generative-ai-2mie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
