@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft MAI-Image-2.6 Reaches No. 2 on Arena as Foundry Preview Begins](https://dev.to/alifar/microsoft-mai-image-26-reaches-no-2-on-arena-as-foundry-preview-begins-f2j)
-- [PAGI 0.002002: Clarifying How Applications Are Loaded](https://dev.to/jjn1056/pagi-0002002-clarifying-how-applications-are-loaded-4c0f)
-- [MCP servers won&#39;t start on Windows: the &#39;C:\Program&#39; space-in-path fix](https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa)
-- [How parallel AI agents should talk to each other &lpar;and the bug that proved it&rpar;](https://dev.to/ahmadammar/how-parallel-ai-agents-should-talk-to-each-other-and-the-bug-that-proved-it-2mh1)
-- [Windows silently stops delivering WH_KEYBOARD_LL hook events when a Chromium window has focus &lpar;and the diagnostic hook hides it&rpar;](https://dev.to/wudaming00/windows-silently-stops-delivering-whkeyboardll-hook-events-when-a-chromium-window-has-focus-and-bi8)
+- [As Engineers, LLMs should pay us for tokens usage.](https://dev.to/wiseai/as-engineers-llms-should-pay-us-for-tokens-usage-11ic)
+- [UniSin - LinkdIn Post Scheduler](https://dev.to/sameermistrii/unisin-linkdin-post-scheduler-10jh)
+- [Your Rust Code Proves You Don&#39;t Understand Memory](https://dev.to/xxxn3m3s1sxxx/your-rust-code-proves-you-dont-understand-memory-4lo9)
+- [Small Models Are Coming for the Cloud — And the Data Is Damning](https://dev.to/thegatewayguy/small-models-are-coming-for-the-cloud-and-the-data-is-damning-3g6f)
+- [The Local LLM Stack in 2026: What Actually Works](https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
