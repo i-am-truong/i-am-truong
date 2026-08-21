@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full-Stack Flutter Expense Splitting App — Here&#39;s What I Learned](https://dev.to/mtahir27/i-built-a-full-stack-flutter-expense-splitting-app-heres-what-i-learned-5gn3)
-- [Smart MCP Proxy — Hot-Swap MCP Aggregation + AI Concierge](https://dev.to/milkyway008/smart-mcp-proxy-hot-swap-mcp-aggregation-ai-concierge-59fj)
-- [Kubernetes for Beginners: From Local to Production – A Quest Worth the Ring &lpar;Lord of the Rings&rpar;](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-worth-the-ring-lord-of-the-rings-18hi)
-- [Docker for Developers: 10 Practical Things You Should Know Before Deploying an App](https://dev.to/arthur_luca/docker-for-developers-10-practical-things-you-should-know-before-deploying-an-app-53n8)
-- [Why I am Switching To UV and why you should too!](https://dev.to/gracenimimi/why-i-am-switching-to-uv-and-why-you-should-too-4b84)
+- [Microsoft MAI-Image-2.6 Reaches No. 2 on Arena as Foundry Preview Begins](https://dev.to/alifar/microsoft-mai-image-26-reaches-no-2-on-arena-as-foundry-preview-begins-f2j)
+- [PAGI 0.002002: Clarifying How Applications Are Loaded](https://dev.to/jjn1056/pagi-0002002-clarifying-how-applications-are-loaded-4c0f)
+- [MCP servers won&#39;t start on Windows: the &#39;C:\Program&#39; space-in-path fix](https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa)
+- [How parallel AI agents should talk to each other &lpar;and the bug that proved it&rpar;](https://dev.to/ahmadammar/how-parallel-ai-agents-should-talk-to-each-other-and-the-bug-that-proved-it-2mh1)
+- [Windows silently stops delivering WH_KEYBOARD_LL hook events when a Chromium window has focus &lpar;and the diagnostic hook hides it&rpar;](https://dev.to/wudaming00/windows-silently-stops-delivering-whkeyboardll-hook-events-when-a-chromium-window-has-focus-and-bi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
