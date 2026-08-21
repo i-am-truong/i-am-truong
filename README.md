@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft Server - Part 3: Running on Kubernetes](https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf)
-- [Fantastic resource. Treating API keys like passwords—rotation, secure storage, least privilege—is simple advice that prevents massive breaches. The OWASP framework gives it authority, and the practical steps make it easy to implement.](https://dev.to/sadique_anwar_b90373bc79c/fantastic-resource-treating-api-keys-like-passwords-rotation-secure-storage-least-privilege-is-1m6h)
-- [The Bug That Only Showed Up in a Second Tab: Debugging a Multi-Tab localStorage Race Condition](https://dev.to/mehwish_e1e7e09af6e0754ed/the-bug-that-only-showed-up-in-a-second-tab-debugging-a-multi-tab-localstorage-race-condition-4kjk)
-- [How to Stop an Image Model From Ignoring Your Reference Image](https://dev.to/libersand/how-to-stop-an-image-model-from-ignoring-your-reference-image-i5a)
-- [Microfrontends Without the Complexity: How Onefold Handles Multi-Team Frontend Architecture](https://dev.to/zahirul/microfrontends-without-the-complexity-how-onefold-handles-multi-team-frontend-architecture-25dg)
+- [Running three coding agents at once is easy. Noticing when they need you isn&#39;t.](https://dev.to/altansaid/running-three-coding-agents-at-once-is-easy-noticing-when-they-need-you-isnt-3dif)
+- [Nash Is Now Open Source; Meet Your New AI Workspace](https://dev.to/jon_at_backboardio/nash-is-now-open-source-meet-your-new-ai-workspace-29d8)
+- [KV Cache by hand](https://dev.to/lewis_won/kv-cache-by-hand-26i4)
+- [The AI demo failed, but the database remembered half of it](https://dev.to/jtorchia/the-ai-demo-failed-but-the-database-remembered-half-of-it-3m4a)
+- [Willpower is manual memory management — here&#39;s why I switched to garbage collection for my habits](https://dev.to/crazychief/willpower-is-manual-memory-management-heres-why-i-switched-to-garbage-collection-for-my-habits-31d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
