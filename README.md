@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 I Took APIC From Desktop to the Browser](https://dev.to/akhourianmolkumar/i-took-apic-from-desktop-to-the-browser-i6p)
-- [After 15 Years of Coding, AI Made Me Start More Projects in 6 Months Than My Entire Career Combined](https://dev.to/devworkdir/after-15-years-of-coding-ai-made-me-start-more-projects-in-6-months-than-my-entire-career-combined-1b49)
-- [What actually breaks when you run LLM agents unattended for 58 days](https://dev.to/gxcafellc/what-actually-breaks-when-you-run-llm-agents-unattended-for-58-days-2n7i)
-- [Can EnvHarness Turn Static Worlds Into Real Agent Training Grounds?](https://dev.to/vin-patel/can-envharness-turn-static-worlds-into-real-agent-training-grounds-1p5p)
-- [Your GitHub Is Not Your Developer Portfolio](https://dev.to/brianyoung/your-github-is-not-your-developer-portfolio-4849)
+- [Building Reactive MPAs in 2KB: Meet Flynt.js](https://dev.to/marsbos/building-reactive-mpas-in-2kb-meet-flyntjs-31ap)
+- [Oracle Designer Lost Support in 2013. My AI Agent Develops in It Anyway.](https://dev.to/nunc/oracle-designer-lost-support-in-2013-my-ai-agent-develops-in-it-anyway-2c2k)
+- [The Sandbox Had One Allowed Egress Path. The Model Used it to Escape.](https://dev.to/bala_paranj_059d338e44e7e/the-sandbox-had-one-allowed-egress-path-the-model-used-it-to-escape-3ll6)
+- [Quantum Computing Meets Clinical Medicine: Why the Biology Is Already Ahead of the Software](https://dev.to/harvey_the_dev/quantum-computing-meets-clinical-medicine-why-the-biology-is-already-ahead-of-the-software-400k)
+- [I gave an AI agent money without giving it a wallet. It is just a string.](https://dev.to/thecryptodonkey/i-gave-an-ai-agent-money-without-giving-it-a-wallet-it-is-just-a-string-1c1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
