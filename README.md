@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [the penguins are already sentient. Your neural network is just a distraction.](https://dev.to/wiseai/the-penguins-are-already-sentient-your-neural-network-is-just-a-distraction-1kgj)
-- [Training Is an Evil Concept. LMMs Eliminates it Altogether.](https://dev.to/wiseai/training-is-an-evil-concept-lmms-eliminates-it-altogether-15ej)
-- [Four places ffmpeg.wasm fails silently in a Next.js app &lpar;and the fixes&rpar;](https://dev.to/_e37583b7079a729834958/four-places-ffmpegwasm-fails-silently-in-a-nextjs-app-and-the-fixes-4jo3)
-- [What Your Multisig Threshold Actually Protects](https://dev.to/0xrivet/what-your-multisig-threshold-actually-protects-4jd)
-- [My first website said &quot;Don&#39;t commit without context.&quot; I never committed it at all.](https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57)
+- [I Deployed Google&#39;s Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes](https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal)
+- [Polyglot persistence was the mistake. Postgres was always enough.](https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41)
+- [Intelligence at Rest](https://dev.to/wiseai/intelligence-at-rest-43co)
+- [Best AI Coding Assistants for Sublime Text in 2026](https://dev.to/jawuilp/best-ai-coding-assistants-for-sublime-text-in-2026-4960)
+- [I miss the pre-AI Mossad agents.](https://dev.to/wiseai/i-miss-the-pre-ai-mossad-agents-1ka1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
