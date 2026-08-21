@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building next-word prediction for a keyboard app - pipeline, smoothing algorithms, and vocabulary tradeoffs](https://dev.to/silvern47/building-next-word-prediction-for-a-keyboard-app-pipeline-smoothing-algorithms-and-vocabulary-1ng9)
-- [Dockerize Your LLM Proxy: One Container for Free Multi-Provider Access](https://dev.to/garage23auto_a7c1e189d84f/dockerize-your-llm-proxy-one-container-for-free-multi-provider-access-1i3l)
-- [How the Nostr journey is going for me?](https://dev.to/delirehberi/how-the-nostr-journey-is-going-for-me-2gdl)
-- [Fixing a null-body crash in the Formbricks survey SDK, found by Sentry](https://dev.to/lewisawe/fixing-a-null-body-crash-in-the-formbricks-survey-sdk-found-by-sentry-549j)
-- [The duration your video API accepts is not the duration it renders](https://dev.to/whereisthisplace/the-duration-your-video-api-accepts-is-not-the-duration-it-renders-4j86)
+- [Row-level security in Symfony: the role that ran your migrations bypasses every policy you wrote](https://dev.to/mollenthiel/row-level-security-in-symfony-the-role-that-ran-your-migrations-bypasses-every-policy-you-wrote-34bi)
+- [Building in Public: My Journey Constructing a Weather App with OpenWeatherMap](https://dev.to/joelezema/building-in-public-my-journey-constructing-a-weather-app-with-openweathermap-48c6)
+- [AI Capex Has Moved Into Credit&#39;s Jurisdiction](https://dev.to/deanlee/ai-capex-has-moved-into-credits-jurisdiction-3h78)
+- [AI Capex Is Turning Into an Infrastructure Bill](https://dev.to/reidmarlow/ai-capex-is-turning-into-an-infrastructure-bill-3mfi)
+- [Sub‑50 ms On‑Device TTS: Instant Voice for Games &amp; Streams](https://dev.to/leojulieta/sub-50-ms-on-device-tts-instant-voice-for-games-streams-5e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
