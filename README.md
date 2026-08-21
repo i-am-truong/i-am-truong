@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Handle Client-Side CSV Merging Without Server Processing](https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8)
-- [OpenAI Rolls Out Flexible Codex Pricing for Business and Enterprise Teams](https://dev.to/alifar/openai-rolls-out-flexible-codex-pricing-for-business-and-enterprise-teams-1p3f)
-- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
-- [OpenAI GPT-5.6 Pricing Update Cuts Terra and Luna Costs, Leaves Sol Unchanged](https://dev.to/alifar/openai-gpt-56-pricing-update-cuts-terra-and-luna-costs-leaves-sol-unchanged-4ac7)
-- [What I Learned Contributing to Prefect, dbt, and Airflow &lpar;An Honest OSS Retrospective&rpar;](https://dev.to/bobby_ray_581732c715283b2/what-i-learned-contributing-to-prefect-dbt-and-airflow-an-honest-oss-retrospective-1ki8)
+- [is-agentic Scored Promptway 74. Here Is What I Changed](https://dev.to/promptway/is-agentic-scored-promptway-74-here-is-what-i-changed-4if9)
+- [Building an Escalation Root-Cause Agent with Gemini and ADK](https://dev.to/aadilmajeedlone/building-an-escalation-root-cause-agent-with-gemini-and-adk-5b23)
+- [Anyone ever go back to their notetaker outputs and summaries?](https://dev.to/jon_at_backboardio/anyone-ever-go-back-to-their-notetaker-outputs-and-summaries-5bkp)
+- [Security news weekly round-up - 21st August 2026](https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44)
+- [UNDERSTANDING THE GIT WORKFLOW](https://dev.to/lynne_chanzu/understanding-the-git-workflow-g2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
