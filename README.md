@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Handle Client-Side CSV Merging Without Server Processing](https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8)
+- [OpenAI Rolls Out Flexible Codex Pricing for Business and Enterprise Teams](https://dev.to/alifar/openai-rolls-out-flexible-codex-pricing-for-business-and-enterprise-teams-1p3f)
 - [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
 - [OpenAI GPT-5.6 Pricing Update Cuts Terra and Luna Costs, Leaves Sol Unchanged](https://dev.to/alifar/openai-gpt-56-pricing-update-cuts-terra-and-luna-costs-leaves-sol-unchanged-4ac7)
-- [A IA é um &quot;esquema de pirâmide&quot; para os meios de pagamento?](https://dev.to/matheuscamarques/a-ia-e-um-esquema-de-piramide-para-os-meios-de-pagamento-1add)
-- [MCP has a discovery problem. I built a meta-server that searches all 75,000 servers.](https://dev.to/dror_bengal_4d4388774752d/mcp-has-a-discovery-problem-i-built-a-meta-server-that-searches-all-75000-servers-30gm)
-- [The cheapest model on my plan loses every benchmark. It still beats models charging 14x more.](https://dev.to/dev_michael/the-cheapest-model-on-my-plan-loses-every-benchmark-it-still-beats-models-charging-14x-more-2po8)
+- [What I Learned Contributing to Prefect, dbt, and Airflow &lpar;An Honest OSS Retrospective&rpar;](https://dev.to/bobby_ray_581732c715283b2/what-i-learned-contributing-to-prefect-dbt-and-airflow-an-honest-oss-retrospective-1ki8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
