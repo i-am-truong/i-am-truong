@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing a Snapcraft Build that had been Broken for Two Years](https://dev.to/professortom/fixing-a-snapcraft-build-that-had-been-broken-for-two-years-1140)
+- [Waymo’s Gemini in Ojai Remains a Limited Beta as Rider Access Expands](https://dev.to/alifar/waymos-gemini-in-ojai-remains-a-limited-beta-as-rider-access-expands-2ini)
+- [How AI Models Can Leak the Data They Were Trained On](https://dev.to/theaidownside/how-ai-models-can-leak-the-data-they-were-trained-on-4i67)
+- [The flaky test was right: a 58%-reproducible race in a scroll-reading pipeline&#39;s disk cache](https://dev.to/acejayl/the-flaky-test-was-right-a-58-reproducible-race-in-a-scroll-reading-pipelines-disk-cache-964)
 - [is-agentic Scored Promptway 74. Here Is What I Changed](https://dev.to/promptway/is-agentic-scored-promptway-74-here-is-what-i-changed-4if9)
-- [Building an Escalation Root-Cause Agent with Gemini and ADK](https://dev.to/aadilmajeedlone/building-an-escalation-root-cause-agent-with-gemini-and-adk-5b23)
-- [Anyone ever go back to their notetaker outputs and summaries?](https://dev.to/jon_at_backboardio/anyone-ever-go-back-to-their-notetaker-outputs-and-summaries-5bkp)
-- [Security news weekly round-up - 21st August 2026](https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44)
-- [UNDERSTANDING THE GIT WORKFLOW](https://dev.to/lynne_chanzu/understanding-the-git-workflow-g2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
