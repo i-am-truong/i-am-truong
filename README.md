@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing a Snapcraft Build that had been Broken for Two Years](https://dev.to/professortom/fixing-a-snapcraft-build-that-had-been-broken-for-two-years-1140)
-- [Waymo’s Gemini in Ojai Remains a Limited Beta as Rider Access Expands](https://dev.to/alifar/waymos-gemini-in-ojai-remains-a-limited-beta-as-rider-access-expands-2ini)
-- [How AI Models Can Leak the Data They Were Trained On](https://dev.to/theaidownside/how-ai-models-can-leak-the-data-they-were-trained-on-4i67)
-- [The flaky test was right: a 58%-reproducible race in a scroll-reading pipeline&#39;s disk cache](https://dev.to/acejayl/the-flaky-test-was-right-a-58-reproducible-race-in-a-scroll-reading-pipelines-disk-cache-964)
-- [is-agentic Scored Promptway 74. Here Is What I Changed](https://dev.to/promptway/is-agentic-scored-promptway-74-here-is-what-i-changed-4if9)
+- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/esther_karanja_/understanding-the-git-workflowworking-directorystaging-commit-and-push-2b3j)
+- [n8n vs Python for Automation: When No-Code Wins vs When You Need Code](https://dev.to/samchenreviews/n8n-vs-python-for-automation-when-no-code-wins-vs-when-you-need-code-22c5)
+- [what is rag ai: a no-PhD guide to retrieval-augmented generation](https://dev.to/samchenreviews/what-is-rag-ai-a-no-phd-guide-to-retrieval-augmented-generation-a2g)
+- [How to automate meeting notes with AI - from transcript to assigned tasks](https://dev.to/samchenreviews/how-to-automate-meeting-notes-with-ai-from-transcript-to-assigned-tasks-53b0)
+- [How to automate customer support with AI: Build a RAG-powered chatbot that knows when to escalate](https://dev.to/samchenreviews/how-to-automate-customer-support-with-ai-build-a-rag-powered-chatbot-that-knows-when-to-escalate-2789)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
