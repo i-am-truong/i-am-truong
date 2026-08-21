@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [keybound: auditoria de aislamiento de prompt cache en relays LLM multi-tenant](https://dev.to/magopredator/keybound-auditoria-de-aislamiento-de-prompt-cache-en-relays-llm-multi-tenant-2pfe)
-- [Supercharging Dev VMs with Vagrant and Ansible &lpar;2014&rpar;](https://dev.to/hamdi_laadhari/supercharging-dev-vms-with-vagrant-and-ansible-2014-4c58)
-- [This Is Why My profile picture is now a shigure ui picture.](https://dev.to/wiseai/this-is-why-my-profile-picture-is-now-a-shigure-ui-picture-ap9)
-- [Naming eZ Publish Web Transactions in New Relic &lpar;2013&rpar;](https://dev.to/hamdi_laadhari/naming-ez-publish-web-transactions-in-new-relic-2013-4inc)
-- [Scaling Code Reviews in the Age of Generative AI](https://dev.to/dmitryame/scaling-code-reviews-in-the-age-of-generative-ai-2mie)
+- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
+- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
+- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
+- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
+- [pandas GroupBy: How to Summarize a DataFrame Without Losing Track of Your Rows](https://dev.to/michaelnocito/pandas-groupby-how-to-summarize-a-dataframe-without-losing-track-of-your-rows-46dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
