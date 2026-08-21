@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We built a benchmark, then caught it strangling the models it was grading](https://dev.to/fortitudeomnis/we-built-a-benchmark-then-caught-it-strangling-the-models-it-was-grading-27gl)
+- [Nuance Is a Double-Edged Sword ⚔️](https://dev.to/edmundsparrow/nuance-is-a-double-edged-sword-3oi0)
+- [overflow: clip saved my navbar](https://dev.to/carlosjcastrog/overflow-clip-saved-my-navbar-2a99)
+- [This Week In PHP Internals | August 19, 2026](https://dev.to/projektgopher/this-week-in-php-internals-august-19-2026-6mh)
 - [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
-- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
-- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
-- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
-- [pandas GroupBy: How to Summarize a DataFrame Without Losing Track of Your Rows](https://dev.to/michaelnocito/pandas-groupby-how-to-summarize-a-dataframe-without-losing-track-of-your-rows-46dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
