@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Job Postings Are the Most Underused B2B Intent Signal &lpar;And You Don&#39;t Even Need to Scrape&rpar;](https://dev.to/benedictmendoza/job-postings-are-the-most-underused-b2b-intent-signal-and-you-dont-even-need-to-scrape-p3k)
-- [I Posted 23 Articles in 3 Months. Then My Body Just Stopped. Zero Posts, 5 Weeks of Burnout.](https://dev.to/itsaalaa7/i-posted-23-articles-in-3-months-then-my-body-just-stopped-zero-posts-5-weeks-of-burnout-e9m)
-- [We Built Guardrails Against JSON Precision Loss. Then We Found Out Half of Them Weren&#39;t Actually Guarding Anything.](https://dev.to/jacksmith_de/we-built-guardrails-against-json-precision-loss-then-we-found-out-half-of-them-werent-actually-4nk2)
-- [How Java&#39;s Concurrency APIs Fit Together](https://dev.to/esteban389/how-javas-concurrency-apis-fit-together-bii)
-- [I Brought IdentityServer Back to Life as Open Source &lpar;.NET 8&rpar;](https://dev.to/richard_vquezprez_c356/i-brought-identityserver-back-to-life-as-open-source-net-8-3374)
+- [Your AI Coding Agent Just Finished. Now Ask It to Attack Its Own Work.](https://dev.to/jlmartel/your-ai-coding-agent-just-finished-now-ask-it-to-attack-its-own-work-54g3)
+- [Node.js SEA Just Got Way Simpler — Updating My node-sea Boilerplate for Node 26](https://dev.to/hamdi_laadhari/nodejs-sea-just-got-way-simpler-updating-my-node-sea-boilerplate-for-node-26-1efl)
+- [We tested &quot;tokenize before you compress&quot; against 452 configurations, and it mostly held up](https://dev.to/ronak_parmar_033c50d168b5/we-tested-tokenize-before-you-compress-against-452-configurations-and-it-mostly-held-up-4m6p)
+- [MCP C# SDK Array Tool Outputs: Stop Looking for a `result` Wrapper](https://dev.to/ssukhpinder/mcp-c-sdk-array-tool-outputs-stop-looking-for-a-result-wrapper-452c)
+- [JavaScript Links Can Hide Content From AI Crawlers, a 41-Day Test Shows](https://dev.to/alifar/javascript-links-can-hide-content-from-ai-crawlers-a-41-day-test-shows-34cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
