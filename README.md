@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-f31)
-- [Are We Sending Too Much Data to LLMs? Agentic Production Support &lpar;APS&rpar;](https://dev.to/dev_hajare_d11ce990734a91/are-we-sending-too-much-data-to-llms-agentic-production-support-aps-b5p)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1330)
-- [Top Vector Databases for AI Agents in 2026: Qdrant vs Pinecone vs Weaviate vs PgVector vs Milvus](https://dev.to/agdex_ai/top-vector-databases-for-ai-agents-in-2026-qdrant-vs-pinecone-vs-weaviate-vs-pgvector-vs-milvus-4ng2)
-- [Top AI Agent Security &amp; Guardrails Frameworks in 2026: Defending Against Prompt Injections &amp; Tool Hijacking](https://dev.to/agdex_ai/top-ai-agent-security-guardrails-frameworks-in-2026-defending-against-prompt-injections-tool-3njo)
+- [Slate: shadcn-style UI for Laravel — in Blade, not React](https://dev.to/neerajsohal/slate-shadcn-style-ui-for-laravel-in-blade-not-react-40hh)
+- [Smashed: Eliminating Ghost Audio &amp; YouTube IFrame Lifecycle Race Conditions in a Next.js Retro Web App](https://dev.to/8bitparth/smashed-eliminating-ghost-audio-youtube-iframe-lifecycle-race-conditions-in-a-nextjs-retro-web-3996)
+- [Building with AI: My Journey Through Hackathons, Cloud, and Real-World Solutions](https://dev.to/srivaishnavikarthikatech/building-with-ai-my-journey-through-hackathons-cloud-and-real-world-solutions-5p1)
+- [The Sloppiest Thing About AI](https://dev.to/oxplot/the-sloppiest-thing-about-ai-15i6)
+- [A backtest that cheats off tomorrow won&#39;t fail code review. So I fired a spike into the future](https://dev.to/jun_uen0/a-backtest-that-cheats-off-tomorrow-wont-fail-code-review-so-i-fired-a-spike-into-the-future-455j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
