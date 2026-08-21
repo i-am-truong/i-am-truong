@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UAT-10147 AI-Assisted Intrusion and SPECTRE Malware](https://dev.to/anoymask/uat-10147-ai-assisted-intrusion-and-spectre-malware-3ej)
-- [Manic Android Malware: Information Theft via Transparent Overlays and Short-Range Device Relaying](https://dev.to/anoymask/manic-android-malware-information-theft-via-transparent-overlays-and-short-range-device-relaying-193a)
-- [Zimbra CVE-2026-73570: Unauthenticated Command Injection via SMTP](https://dev.to/anoymask/zimbra-cve-2026-73570-unauthenticated-command-injection-via-smtp-kl4)
-- [SilkParasite: Cloud C2 and Multi-Language RATs Targeting Central Asia](https://dev.to/anoymask/silkparasite-cloud-c2-and-multi-language-rats-targeting-central-asia-1ikl)
-- [React useTimeout Hook: Declarative setTimeout with Cleanup &lpar;2026&rpar;](https://dev.to/childrentime/react-usetimeout-hook-declarative-settimeout-with-cleanup-2026-47pk)
+- [Column Comments in PostgreSQL and MySQL: How to Document Columns Without a Migration](https://dev.to/tbson87/column-comments-in-postgresql-and-mysql-how-to-document-columns-without-a-migration-2no0)
+- [Custom Domain Verification, DKIM Rotation, and Suppression for Transactional Email APIs](https://dev.to/frosty45/custom-domain-verification-dkim-rotation-and-suppression-for-transactional-email-apis-5c63)
+- [HTML contenteditable Attribute](https://dev.to/code1/html-contenteditable-attribute-2fhe)
+- [The Criteria pattern in NestJS: what a client may ask for is a file, not a signature](https://dev.to/chacaponquin/the-criteria-pattern-in-nestjs-what-a-client-may-ask-for-is-a-file-not-a-signature-3ifm)
+- [El patrón Criteria en NestJS: lo que un cliente puede pedir es un archivo, no una firma](https://dev.to/chacaponquin/el-patron-criteria-en-nestjs-lo-que-un-cliente-puede-pedir-es-un-archivo-no-una-firma-3jj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
