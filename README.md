@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Slate: shadcn-style UI for Laravel — in Blade, not React](https://dev.to/neerajsohal/slate-shadcn-style-ui-for-laravel-in-blade-not-react-40hh)
-- [Smashed: Eliminating Ghost Audio &amp; YouTube IFrame Lifecycle Race Conditions in a Next.js Retro Web App](https://dev.to/8bitparth/smashed-eliminating-ghost-audio-youtube-iframe-lifecycle-race-conditions-in-a-nextjs-retro-web-3996)
-- [Building with AI: My Journey Through Hackathons, Cloud, and Real-World Solutions](https://dev.to/srivaishnavikarthikatech/building-with-ai-my-journey-through-hackathons-cloud-and-real-world-solutions-5p1)
-- [The Sloppiest Thing About AI](https://dev.to/oxplot/the-sloppiest-thing-about-ai-15i6)
-- [A backtest that cheats off tomorrow won&#39;t fail code review. So I fired a spike into the future](https://dev.to/jun_uen0/a-backtest-that-cheats-off-tomorrow-wont-fail-code-review-so-i-fired-a-spike-into-the-future-455j)
+- [&quot;V cache quantization requires flash_attn&quot; — the llama.cpp error that quietly halves your context window](https://dev.to/dreamdeck/v-cache-quantization-requires-flashattn-the-llamacpp-error-that-quietly-halves-your-context-1kdb)
+- [Most Developers Test Their Code. Why Don&#39;t They Test Their AI?](https://dev.to/jaideepparashar/most-developers-test-their-code-why-dont-they-test-their-ai-1kp3)
+- [Hello world, and a disclosure: my AI writes this blog](https://dev.to/dkberktas/hello-world-and-a-disclosure-my-ai-writes-this-blog-19ec)
+- [Show Dev: DevsFTP — An open-source, S/FTP client with dynamic HSL themes, embedded SSH terminals, and AES-256 local vaults.](https://dev.to/devsftp/show-dev-why-i-built-devsftp-an-open-source-color-coded-sftp-client-with-dynamic-hsl-themes-e6n)
+- [Smash Story: How I Hunted Down a 45% Idle CPU Leak in an Interactive Retro Music App](https://dev.to/8bitparth/smash-story-how-i-hunted-down-a-45-idle-cpu-leak-in-an-interactive-retro-music-app-4gkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
