@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Agent Run a SaaS Like a Solo Founder. It Made the Same Mistakes Humans Make.](https://dev.to/ai_made_tools/i-let-an-ai-agent-run-a-saas-like-a-solo-founder-it-made-the-same-mistakes-humans-make-3b6l)
-- [Detecting Tool + Schema Drift in a Remote MCP Server](https://dev.to/merlonix/detecting-tool-schema-drift-in-a-remote-mcp-server-1p9i)
-- [AWS Serverless Patterns and Anti-Patterns: What Works, What Breaks, and When to Use What](https://dev.to/alpeshkumbhare/aws-serverless-patterns-and-anti-patterns-what-works-what-breaks-and-when-to-use-what-4k50)
-- [VRP Is Ready for External Validation — One Company Can Be the First to Pilot It](https://dev.to/jumping_vpn_fcb498eb2c7e1/vrp-is-ready-for-external-validation-one-company-can-be-the-first-to-pilot-it-4l0g)
-- [Your feature-usage scanner doesn&#39;t know Vue, Svelte, or Astro exist. Here&#39;s how we fixed that without touching its core.](https://dev.to/__c500e8ac9bc2/your-feature-usage-scanner-doesnt-know-vue-svelte-or-astro-exist-heres-how-we-fixed-that-1eif)
+- [WebSocket Reconnection Done Right: Backoff, Jitter, and Replay](https://dev.to/iurii_rogulia/websocket-reconnection-done-right-backoff-jitter-and-replay-1on6)
+- [Mortgage Gift Letter Fraud: The Donor Statement Your Underwriting Never Inspects](https://dev.to/iurii_rogulia/mortgage-gift-letter-fraud-the-donor-statement-your-underwriting-never-inspects-155o)
+- [Separating Retrieval Problems From Answer-Writing Problems](https://dev.to/wukongchat/separating-retrieval-problems-from-answer-writing-problems-1m4a)
+- [Build or Buy a Price Scraper? Start With Failure Modes](https://dev.to/anakin_writers/build-or-buy-a-price-scraper-start-with-failure-modes-fh1)
+- [The bug was in the colour space, not the parser](https://dev.to/yasmax91/the-bug-was-in-the-colour-space-not-the-parser-3hna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
