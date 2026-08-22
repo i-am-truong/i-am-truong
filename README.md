@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notas de campo: la resolución de la cascada, de principio a fin](https://dev.to/ortizfranklindev/notas-de-campo-la-resolucion-de-la-cascada-de-principio-a-fin-34jh)
-- [Field Notes: Watching the Cascade Resolve, Start to Finish](https://dev.to/ortizfranklindev/field-notes-watching-the-cascade-resolve-start-to-finish-7jo)
-- [I Built a Kawaii Native GUI with Nim and SDL3](https://dev.to/puffball1567/i-built-a-kawaii-native-gui-with-nim-and-sdl3-3bj2)
-- [Can a Compiler-First Framework Scale to Real Apps Without Reinventing React?](https://dev.to/bunzzeok/can-a-compiler-first-framework-scale-to-real-apps-without-reinventing-react-g8d)
-- [I built a bilingual railway station finder for foreign travelers in China](https://dev.to/pujes/i-built-a-bilingual-railway-station-finder-for-foreign-travelers-in-china-5o4)
+- [The Ralph Loop: running coding agents for hours](https://dev.to/ghalex/the-ralph-loop-running-coding-agents-for-hours-3po2)
+- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151)
+- [Where the LLM Stops: Deterministic Scoring in an AI-Assisted VAPT Pipeline](https://dev.to/maverickaayush/where-the-llm-stops-deterministic-scoring-in-an-ai-assisted-vapt-pipeline-4jcd)
+- [Your LLM App Is Wasting Money: What Happens When Users Close the Tab?](https://dev.to/kristinz/your-llm-app-is-wasting-money-what-happens-when-users-close-the-tab-4k01)
+- [[260727~29] 조용한 크래시, 기록 누락, 27시간 신호 침묵](https://dev.to/finaltype/26072729-joyonghan-keuraesi-girog-nurag-27sigan-sinho-cimmug-e8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
