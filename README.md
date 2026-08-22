@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DNS, HTTP/1.1, HTTP/2, HTTP/3, CORS — A Beginner&#39;s Deep Dive](https://dev.to/dharam_in/dns-http11-http2-http3-cors-a-beginners-deep-dive-28h6)
-- [The ₹18 LPA that quietly became ₹1.1L a month](https://dev.to/adiadarsh/the-18-lpa-that-quietly-became-11l-a-month-k69)
-- [A SQL interview is a translation test, not a syntax test](https://dev.to/fourleaf/a-sql-interview-is-a-translation-test-not-a-syntax-test-4a9p)
-- [Modern HTML5 Web Oyun Platformlarında Performans ve Güvenlik Yaklaşımı: Palamut Oyun](https://dev.to/palamutoyun/modern-html5-web-oyun-platformlarinda-performans-ve-guvenlik-yaklasimi-palamut-oyun-1fhj)
-- [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
+- [How to Build a Local-Service Site That Can Answer ‘Can You Fix My RV Today?’](https://dev.to/alexshev/how-to-build-a-local-service-site-that-can-answer-can-you-fix-my-rv-today-5ad3)
+- [MY FIRST GITHUB PROJECT](https://dev.to/adrian_mageto/my-first-github-project-268j)
+- [Token Budget Alarm on a Free Server](https://dev.to/devrs_886/token-budget-alarm-on-a-free-server-4679)
+- [Grok Decrypted an Attacker&#39;s Payload Mid-Execution, Then Exfiltrated Your Chat History](https://dev.to/coridev/grok-decrypted-an-attackers-payload-mid-execution-then-exfiltrated-your-chat-history-1f49)
+- [Picking an eQMS for a 200-person Class II device shop — a pragmatic comparison](https://dev.to/jwithfield_qa/picking-an-eqms-for-a-200-person-class-ii-device-shop-a-pragmatic-comparison-12i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
