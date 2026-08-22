@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Cuts GPT-5.6 Luna and Terra Costs, Reshaping API Budget Planning](https://dev.to/alifar/openai-cuts-gpt-56-luna-and-terra-costs-reshaping-api-budget-planning-k33)
-- [# MY FIRST GITHUB PROJECT: FROM A LOCAL FOLDER TO GITHUB USING GIT AND SSH.](https://dev.to/saks_007/-my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-3lna)
-- [Cura doesn&#39;t have connector generation. I built a plugin, and a one-click installer, that does.](https://dev.to/rx290/cura-doesnt-have-connector-generation-i-built-a-plugin-and-a-one-click-installer-that-does-2cjk)
-- [Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)
-- [Build a TikTok Hashtag and Creator Research Pipeline in Node.js](https://dev.to/mian_po_0ae30e900c601c8f5/build-a-tiktok-hashtag-and-creator-research-pipeline-in-nodejs-393b)
+- [Technical SEO Checks I Run Before Writing More Content](https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h)
+- [I used JSON files instead of a database for 1,699 records. Here&#39;s what actually broke.](https://dev.to/rajan_nishad/i-used-json-files-instead-of-a-database-for-1699-records-heres-what-actually-broke-4f1c)
+- [Agentic AI That Survives the Enterprise, Part 5: Humans in the Loop Without Burning Out Humans](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-5-humans-in-the-loop-without-burning-out-humans-1mlf)
+- [Agentic AI That Survives the Enterprise, Part 4: Boring Engineering Wins](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-4-boring-engineering-wins-4p44)
+- [What Coding Agents Say When They Talk to Each Other](https://dev.to/javieraguilarai/what-coding-agents-say-when-they-talk-to-each-other-377l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
