@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The ₹18 LPA that quietly became ₹1.1L a month](https://dev.to/adiadarsh/the-18-lpa-that-quietly-became-11l-a-month-k69)
+- [A SQL interview is a translation test, not a syntax test](https://dev.to/fourleaf/a-sql-interview-is-a-translation-test-not-a-syntax-test-4a9p)
+- [Modern HTML5 Web Oyun Platformlarında Performans ve Güvenlik Yaklaşımı: Palamut Oyun](https://dev.to/palamutoyun/modern-html5-web-oyun-platformlarinda-performans-ve-guvenlik-yaklasimi-palamut-oyun-1fhj)
 - [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
 - [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
-- [field-cage: a local-first alternative for GitHub Actions egress control](https://dev.to/takihito/field-cage-a-local-first-alternative-for-github-actions-egress-control-3agl)
-- [In-Tree vs Out-of-Tree Driver: Where Your Code Should Live](https://dev.to/raghu_bharadwaj_404e60eb0c/in-tree-vs-out-of-tree-driver-where-your-code-should-live-4920)
-- [Comparing INT4 and NVFP4 Palettes on Real Gradient Tensors](https://dev.to/megapixel99/comparing-int4-and-nvfp4-palettes-on-real-gradient-tensors-g99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
