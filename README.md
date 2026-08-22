@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [May the Source Be With You: Why Your AI Agent Is Only as Good as Its Knowledge](https://dev.to/cityjs_conference_5c08941/may-the-source-be-with-you-why-your-ai-agent-is-only-as-good-as-its-knowledge-1hhm)
-- [Sprix SAGE makes agent routing a stateful scheduling problem](https://dev.to/dd8888/sprix-sage-makes-agent-routing-a-stateful-scheduling-problem-1mdj)
-- [9 RAG Techniques That Actually Improve Retrieval Quality](https://dev.to/bibekkakati/9-rag-techniques-that-actually-improve-retrieval-quality-36jh)
-- [Engineering Reliable AI Document Scanning: Prompts and Schemas](https://dev.to/bibekkakati/engineering-reliable-ai-document-scanning-prompts-and-schemas-16a6)
-- [Building a Multi-Agent AI Pipeline with Mastra and TypeScript](https://dev.to/bibekkakati/building-a-multi-agent-ai-pipeline-with-mastra-and-typescript-1fjk)
+- [Punk: Fully Authed](https://dev.to/lnation/punk-fully-authed-3d3g)
+- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push.](https://dev.to/9ichia/understanding-the-git-workflow-working-directory-staging-commit-and-push-226i)
+- [Everyone is hyping Claude Code. I used Google Jules to build and ship a phone tracking app—entirely from my phone on the beach.](https://dev.to/gents_83/everyone-is-hyping-claude-code-i-used-google-jules-to-build-and-ship-a-location-sharing-4o1e)
+- [How I Built a Trading Value Tool for a Game With Constantly Changing Data](https://dev.to/bloxy123/how-i-built-a-trading-value-tool-for-a-game-with-constantly-changing-data-4ick)
+- [WordPress or Custom Development? The Decision Framework I Use With Clients](https://dev.to/ijaz_khan_afea4eeecd14f86/wordpress-or-custom-development-the-decision-framework-i-use-with-clients-2324)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
