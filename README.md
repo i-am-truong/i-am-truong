@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built Kintara because apparently having too many hobbies eventually leads to building your own document management system.](https://dev.to/sizzlebop/i-built-kintara-because-apparently-having-too-many-hobbies-eventually-leads-to-building-your-own-j2f)
+- [Free AI Tokens Are a Trap: An Opinionated Cost Gate for Model Experiments](https://dev.to/gitgo_1900/free-ai-tokens-are-a-trap-an-opinionated-cost-gate-for-model-experiments-2947)
+- [LLM Model Fingerprinting: Verify What Your AI Gateway Is Really Serving](https://dev.to/jackm-singularity/llm-model-fingerprinting-verify-what-your-ai-gateway-is-really-serving-imc)
+- [Fixing a pgvector CI mismatch in a FastAPI RAG backend](https://dev.to/sxt12356/fixing-a-pgvector-ci-mismatch-in-a-fastapi-rag-backend-3gm2)
 - [How to Build a Local-Service Site That Can Answer ‘Can You Fix My RV Today?’](https://dev.to/alexshev/how-to-build-a-local-service-site-that-can-answer-can-you-fix-my-rv-today-5ad3)
-- [MY FIRST GITHUB PROJECT](https://dev.to/adrian_mageto/my-first-github-project-268j)
-- [Token Budget Alarm on a Free Server](https://dev.to/devrs_886/token-budget-alarm-on-a-free-server-4679)
-- [Grok Decrypted an Attacker&#39;s Payload Mid-Execution, Then Exfiltrated Your Chat History](https://dev.to/coridev/grok-decrypted-an-attackers-payload-mid-execution-then-exfiltrated-your-chat-history-1f49)
-- [Picking an eQMS for a 200-person Class II device shop — a pragmatic comparison](https://dev.to/jwithfield_qa/picking-an-eqms-for-a-200-person-class-ii-device-shop-a-pragmatic-comparison-12i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
