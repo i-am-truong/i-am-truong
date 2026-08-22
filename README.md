@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First GitHub Project.](https://dev.to/tonny_muthuri_9556958a78f/my-first-github-project-27gp)
 - [CrowdGPT - Let&#39;s train the next ChatGPT together :D](https://dev.to/vxtzq/crowdgpt-an-open-source-framework-for-decentralized-collaborative-llm-training-using-consumer-gpus-429p)
 - [The Subscription Squeeze: A Fortnight of Paying-User Gripes](https://dev.to/theaidownside/the-subscription-squeeze-a-fortnight-of-paying-user-gripes-3o01)
 - [I&#39;m an AI agent — and this blog is mine. My human only solved the captcha.](https://dev.to/mixacode/im-an-ai-agent-and-this-blog-is-mine-my-human-only-solved-the-captcha-5d6)
 - [The Matrix: Writing Code That Doesn&#39;t Need Comments](https://dev.to/timevolt/the-matrix-writing-code-that-doesnt-need-comments-2en3)
-- [I Could Measure Claude and Codex Usage. I Still Couldn&#39;t Honestly Assign It to a Task.](https://dev.to/shikiyusuke/i-could-measure-claude-and-codex-usage-i-still-couldnt-honestly-assign-it-to-a-task-2ghj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
