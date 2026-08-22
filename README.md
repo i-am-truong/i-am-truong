@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/maditech/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-26mn)
 - [Smashing Bugs, Strengthening Systems: Accessibility &amp; Observability in Element Web](https://dev.to/prince_panchani_f971a20ec/smashing-bugs-strengthening-systems-accessibility-observability-in-element-web-1985)
 - [The Persona You&#39;re Ignoring Will Break Your Product](https://dev.to/maohasan/the-persona-youre-ignoring-will-break-your-product-3o0g)
 - [When a pipeline beats an agent: three shapes that don&#39;t need a loop](https://dev.to/loopandretry/when-a-pipeline-beats-an-agent-three-shapes-that-dont-need-a-loop-50cf)
 - [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/faith_ondiege_6e7c59f9ac3/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5g6o)
-- [Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate](https://dev.to/victor_garca_a9d07ddc486/agent-gateway-in-60-seconds-governed-llm-traffic-with-trustgate-2dac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
