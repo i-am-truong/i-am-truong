@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [App Hardening: One Obfuscation Pipeline Across Every Port](https://dev.to/codenameone/app-hardening-one-obfuscation-pipeline-across-every-port-ani)
 - [Convert Image URL to File in Flutter — Exact Code](https://dev.to/mryadavgulshan/convert-image-url-to-file-in-flutter-exact-code-4cf7)
 - [Job Hunt With a Bot?](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3)
+- [Polymarket Slippage: How to Control It in Trading Bots](https://dev.to/nagi777/polymarket-slippage-how-to-control-it-in-trading-bots-o1k)
 - [Compressing an image to an exact file size, in the browser](https://dev.to/textmachine/compressing-an-image-to-an-exact-file-size-in-the-browser-12ha)
-- [Your Scheduled Agent Says Success. It Did Nothing. Here&#39;s Why.](https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
