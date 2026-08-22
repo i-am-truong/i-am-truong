@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ralph Loop: running coding agents for hours](https://dev.to/ghalex/the-ralph-loop-running-coding-agents-for-hours-3po2)
-- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151)
-- [Where the LLM Stops: Deterministic Scoring in an AI-Assisted VAPT Pipeline](https://dev.to/maverickaayush/where-the-llm-stops-deterministic-scoring-in-an-ai-assisted-vapt-pipeline-4jcd)
-- [Your LLM App Is Wasting Money: What Happens When Users Close the Tab?](https://dev.to/kristinz/your-llm-app-is-wasting-money-what-happens-when-users-close-the-tab-4k01)
-- [[260727~29] 조용한 크래시, 기록 누락, 27시간 신호 침묵](https://dev.to/finaltype/26072729-joyonghan-keuraesi-girog-nurag-27sigan-sinho-cimmug-e8l)
+- [PR#1: Make SurrealDB performance slightly better](https://dev.to/hosseinmobarakian/pr1-make-surrealdb-performance-slightly-better-102m)
+- [Why AI Output Feels Wrong Even When It Is Correct](https://dev.to/synthaicode_commander/why-ai-output-feels-wrong-even-when-it-is-correct-29cc)
+- [The multilingual bugs that never throw: hreflang, JSON-LD and a site in 12 languages](https://dev.to/ohadfarkash/the-multilingual-bugs-that-never-throw-hreflang-json-ld-and-a-site-in-12-languages-50d2)
+- [Four things SVG and CSS did that I did not expect](https://dev.to/pop3_zxcv/four-things-svg-and-css-did-that-i-did-not-expect-4f4d)
+- [Bulletproofing AI Agents: How to Prevent $2,000 Infinite API Loops](https://dev.to/srijan_bhai/bulletproofing-ai-agents-how-to-prevent-2000-infinite-api-loops-21gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
