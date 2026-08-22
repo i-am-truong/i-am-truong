@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Tier Application On EKS](https://dev.to/mayankthakur001/3-tier-application-on-eks-oc7)
 - [AI Is Changing What &#39;Correct Software&#39; Means](https://dev.to/majdizlitni/ai-is-changing-what-correct-software-means-14hf)
 - [I Built Neva, a Small Lattice Analysis Toolkit in Python](https://dev.to/black210/i-built-neva-a-small-lattice-analysis-toolkit-in-python-3mg0)
 - [Preventing lost updates in Symfony APIs with ETags and Doctrine](https://dev.to/alkin/preventing-lost-updates-in-symfony-apis-with-etags-and-doctrine-1h57)
 - [OpenAI&#39;s New Security Controls Are an Admission, Not an Innovation](https://dev.to/coridev/openais-new-security-controls-are-an-admission-not-an-innovation-197c)
-- [Claude Opus 4.6 Shows Why Old Models Need Patch Windows](https://dev.to/reidmarlow/claude-opus-46-shows-why-old-models-need-patch-windows-44pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
