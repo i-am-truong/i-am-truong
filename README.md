@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?](https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21)
-- [Real Token Cost of MCP: 91K Tokens of JSON](https://dev.to/mcptokensaver/real-token-cost-of-mcp-91k-tokens-of-json-4goe)
-- [When Every Internal Check Passes and the Handoff Is Still Wrong](https://dev.to/boxofrecycling/when-every-internal-check-passes-and-the-handoff-is-still-wrong-bfe)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/barbz04/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-12po)
-- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
+- [How I Decide a RAXXO Tool Needs a Redesign, Not a Patch](https://dev.to/raxxostudios/how-i-decide-a-raxxo-tool-needs-a-redesign-not-a-patch-41bn)
+- [Indexing Like a Jedi: How I Tamed My Database](https://dev.to/timevolt/indexing-like-a-jedi-how-i-tamed-my-database-16p0)
+- [An unlikely experiment](https://dev.to/johnrushwrs/an-unlikely-experiment-1ogp)
+- [I built an open API for Nigeria&#39;s 752 universities, polytechnics, and colleges of education](https://dev.to/devfarouqk/i-built-an-open-api-for-nigerias-752-universities-polytechnics-and-colleges-of-education-2a2p)
+- [Foundations of Data Systems Part 1: Reliability](https://dev.to/oladeji_adekunle_f56f16b2/foundations-of-data-systems-part-1-reliability-3a5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
