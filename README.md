@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Forms in React : From Inputs to Controlled Components](https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23)
-- [The Badge Was Issued, but the Goal Wasn&#39;t Achieved.](https://dev.to/raphink/the-badge-was-issued-but-the-goal-wasnt-achieved-41l3)
-- [Practical Understanding of GitHub Using {GIT And SSH}.](https://dev.to/lincon_omondi_d2159f29b9d/practical-understanding-of-github-using-git-and-ssh-5341)
-- [I Built an AI That Auto-Replies to Your Instagram DMs &lpar;No Login Required&rpar;](https://dev.to/nandan_das_369/i-built-an-ai-that-auto-replies-to-your-instagram-dms-no-login-required-1b07)
-- [Engrava 0.5.0: a first-class MCP server](https://dev.to/sovantica/engrava-050-a-first-class-mcp-server-2djc)
+- [The Matrix: Writing Code That Doesn&#39;t Need Comments](https://dev.to/timevolt/the-matrix-writing-code-that-doesnt-need-comments-2en3)
+- [I Could Measure Claude and Codex Usage. I Still Couldn&#39;t Honestly Assign It to a Task.](https://dev.to/shikiyusuke/i-could-measure-claude-and-codex-usage-i-still-couldnt-honestly-assign-it-to-a-task-2ghj)
+- [The Rate Floor Doesn&#39;t Exist: Tech Contracting Has Become a Race the Market Never Agreed to Run](https://dev.to/javiercastromdq/the-rate-floor-doesnt-exist-tech-contracting-has-become-a-race-the-market-never-agreed-to-run-480p)
+- [The Meeting You Skipped Was the One That Actually Mattered](https://dev.to/javiercastromdq/the-meeting-you-skipped-was-the-one-that-actually-mattered-3i44)
+- [Hybrid Delivery Is Winning. That Doesn&#39;t Mean You&#39;re Doing It Right.](https://dev.to/javiercastromdq/hybrid-delivery-is-winning-that-doesnt-mean-youre-doing-it-right-476p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
