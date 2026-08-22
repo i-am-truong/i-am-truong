@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Stop Webhook Replay Attacks in Node.js &amp; PostgreSQL](https://dev.to/doaaa_04/how-i-stop-webhook-replay-attacks-in-nodejs-postgresql-24m6)
-- [Why model.fit&lpar;&rpar; Is the Least Interesting Line in an ML Trading System](https://dev.to/whetlan/why-modelfit-is-the-least-interesting-line-in-an-ml-trading-system-2e60)
-- [Understanding Zippers](https://dev.to/jzhonx/understanding-zippers-4dpf)
-- [The DevOps Roadmap I Wish Someone Had Handed Me on Day One](https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m)
-- [Mastering Playwright Test Fixtures for Robust E2E Tests](https://dev.to/pratham_rathod_a08657abf5/mastering-playwright-test-fixtures-for-robust-e2e-tests-9lc)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d)
+- [The 4,000-Token Tax: Auto-Disabling Claude Code Plugins You Haven&#39;t Touched in 30 Days](https://dev.to/bokuwalily/the-4000-token-tax-auto-disabling-claude-code-plugins-you-havent-touched-in-30-days-ac5)
+- [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
+- [Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)
+- [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
