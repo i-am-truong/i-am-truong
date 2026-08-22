@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop chasing fads. Operate Claude like a startup founder.](https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b)
-- [Building a Custom REST API in WordPress the Right Way](https://dev.to/kai01916/building-a-custom-rest-api-in-wordpress-the-right-way-164m)
-- [Ruby Pathname Moved to Core, Documentation Upgraded](https://dev.to/burdettelamar/ruby-pathname-moved-to-core-documentation-upgraded-3d00)
-- [How I turned Linear into a customer-facing roadmap without adding client seats](https://dev.to/l_dragssinel_b6c789f3c4b/how-i-turned-linear-into-a-customer-facing-roadmap-without-adding-client-seats-3od0)
-- [.NET 10 JSON Console Logging: Stop Parsing State.Message](https://dev.to/ssukhpinder/net-10-json-console-logging-stop-parsing-statemessage-6p5)
+- [Sprix SAGE makes agent routing a stateful scheduling problem](https://dev.to/dd8888/sprix-sage-makes-agent-routing-a-stateful-scheduling-problem-1mdj)
+- [9 RAG Techniques That Actually Improve Retrieval Quality](https://dev.to/bibekkakati/9-rag-techniques-that-actually-improve-retrieval-quality-36jh)
+- [Engineering Reliable AI Document Scanning: Prompts and Schemas](https://dev.to/bibekkakati/engineering-reliable-ai-document-scanning-prompts-and-schemas-16a6)
+- [Building a Multi-Agent AI Pipeline with Mastra and TypeScript](https://dev.to/bibekkakati/building-a-multi-agent-ai-pipeline-with-mastra-and-typescript-1fjk)
+- [OpenAI’s Zero Data Retention Update: A Beginner’s AI App Data Checklist for 2026](https://dev.to/marcusykim/openais-zero-data-retention-update-a-beginners-ai-app-data-checklist-for-2026-o0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
