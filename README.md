@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We put an AI helper in our course and spent weeks teaching it to say I don&#39;t know](https://dev.to/academy_agineai/we-put-an-ai-helper-in-our-course-and-spent-weeks-teaching-it-to-say-i-dont-know-hfc)
-- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l)
-- [Can We Automate the Work of a Software Engineer? The Story Behind HEALER](https://dev.to/_a9de0f38ed294cfb7e5e/can-we-automate-the-work-of-a-software-engineer-the-story-behind-healer-2mge)
-- [Leveling up OpenCode... and not in the way you would expect.](https://dev.to/searay_11_254650fe8d2b6b6/leveling-up-opencode-and-not-in-the-way-you-would-expect-27)
-- [How to Review AI-Generated SQL Before You Trust the Number](https://dev.to/michaelnocito/how-to-review-ai-generated-sql-before-you-trust-the-number-19ek)
+- [4 Non-obvious learnings from working with alerts](https://dev.to/harishteens/4-non-obvious-learnings-from-working-with-alerts-ba5)
+- [E4del / PINHOLE Using FTP Banners for Command Retrieval](https://dev.to/anoymask/e4del-pinhole-using-ftp-banners-for-command-retrieval-12h5)
+- [TrueConf Server Exploitation: PhantomCore Delivered via CVE-2026-72529 / 72530](https://dev.to/anoymask/trueconf-server-exploitation-phantomcore-delivered-via-cve-2026-72529-72530-3dc3)
+- [HLD: URL Shortener &lpar;like bit.ly&rpar;](https://dev.to/gouranga-das-khulna/hld-url-shortener-like-bitly-3696)
+- [Three Russian-Linked Clusters Abuse Legitimate Authentication Flows](https://dev.to/anoymask/three-russian-linked-clusters-abuse-legitimate-authentication-flows-4h0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
