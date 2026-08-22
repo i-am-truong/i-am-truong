@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)
-- [Automatic HTTPS on Kestrel in 2026, now that LettuceEncrypt is archived](https://dev.to/jhenderson1992/automatic-https-on-kestrel-in-2026-now-that-lettuceencrypt-is-archived-1m3k)
-- [How to fix punctuation in speech-to-text and LLM output without calling a model](https://dev.to/sheikaminul/how-to-fix-punctuation-in-speech-to-text-and-llm-output-without-calling-a-model-3ofl)
-- [Swap Your LLM Without a Deploy: Dynamic Model Routing on Bedrock with AWS AppConfig](https://dev.to/maruchin_tech_555/swap-your-llm-without-a-deploy-dynamic-model-routing-on-bedrock-with-aws-appconfig-48bn)
-- [I built a GitHub repository intelligence API — here&#39;s what I learned](https://dev.to/kingdavid9999/i-built-a-github-repository-intelligence-api-heres-what-i-learned-14ok)
+- [OpenAI Cuts GPT-5.6 Luna and Terra Costs, Reshaping API Budget Planning](https://dev.to/alifar/openai-cuts-gpt-56-luna-and-terra-costs-reshaping-api-budget-planning-k33)
+- [# MY FIRST GITHUB PROJECT: FROM A LOCAL FOLDER TO GITHUB USING GIT AND SSH.](https://dev.to/saks_007/-my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-3lna)
+- [Cura doesn&#39;t have connector generation. I built a plugin, and a one-click installer, that does.](https://dev.to/rx290/cura-doesnt-have-connector-generation-i-built-a-plugin-and-a-one-click-installer-that-does-2cjk)
+- [Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)
+- [Build a TikTok Hashtag and Creator Research Pipeline in Node.js](https://dev.to/mian_po_0ae30e900c601c8f5/build-a-tiktok-hashtag-and-creator-research-pipeline-in-nodejs-393b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
