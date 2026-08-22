@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep-Dive Write-up by Huynh Kien Minh: CVE-2026-13736 — NewPath WildApricotPress Member Directory PII Disclosure](https://dev.to/minhhk68/deep-dive-write-up-by-huynh-kien-minh-cve-2026-13736-newpath-wildapricotpress-member-directory-174d)
-- [AI Model Routing: The Missing Infrastructure Layer for Multi-Model AI Applications](https://dev.to/wolffy-good/ai-model-routing-the-missing-infrastructure-layer-for-multi-model-ai-applications-32cf)
-- [You can now clip video from inside your AI agent: the state of MCP for video in 2026](https://dev.to/anthony_builds/you-can-now-clip-video-from-inside-your-ai-agent-the-state-of-mcp-for-video-in-2026-2jek)
-- [Fix Lambda S3 Trigger Error Handling Before It Loses Events](https://dev.to/oleksandr_kuryzhev_42873f/fix-lambda-s3-trigger-error-handling-before-it-loses-events-58b4)
-- [Invite an AI to Look Upon Your Figma Designs](https://dev.to/planetabhi_/invite-an-ai-to-look-upon-your-figma-designs-4930)
+- [Swap Your LLM Without a Deploy: Dynamic Model Routing on Bedrock with AWS AppConfig](https://dev.to/maruchin_tech_555/swap-your-llm-without-a-deploy-dynamic-model-routing-on-bedrock-with-aws-appconfig-48bn)
+- [I built a GitHub repository intelligence API — here&#39;s what I learned](https://dev.to/kingdavid9999/i-built-a-github-repository-intelligence-api-heres-what-i-learned-14ok)
+- [MCP&#39;s Tasks Extension Lets a Tool Call Run in the Background — If You Get the Object Shape Right](https://dev.to/ethan_5b3022150e2c07a4030/mcps-tasks-extension-lets-a-tool-call-run-in-the-background-if-you-get-the-object-shape-right-jj0)
+- [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
+- [A Valid Lookup Can Still Be Historically Wrong](https://dev.to/iqtechsolutions/a-valid-lookup-can-still-be-historically-wrong-2gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
