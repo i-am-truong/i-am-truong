@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notas de campo: la resolución de la cascada, de principio a fin](https://dev.to/ortizfranklindev/notas-de-campo-la-resolucion-de-la-cascada-de-principio-a-fin-34jh)
+- [Field Notes: Watching the Cascade Resolve, Start to Finish](https://dev.to/ortizfranklindev/field-notes-watching-the-cascade-resolve-start-to-finish-7jo)
+- [I Built a Kawaii Native GUI with Nim and SDL3](https://dev.to/puffball1567/i-built-a-kawaii-native-gui-with-nim-and-sdl3-3bj2)
 - [Can a Compiler-First Framework Scale to Real Apps Without Reinventing React?](https://dev.to/bunzzeok/can-a-compiler-first-framework-scale-to-real-apps-without-reinventing-react-g8d)
 - [I built a bilingual railway station finder for foreign travelers in China](https://dev.to/pujes/i-built-a-bilingual-railway-station-finder-for-foreign-travelers-in-china-5o4)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d)
-- [The 4,000-Token Tax: Auto-Disabling Claude Code Plugins You Haven&#39;t Touched in 30 Days](https://dev.to/bokuwalily/the-4000-token-tax-auto-disabling-claude-code-plugins-you-havent-touched-in-30-days-ac5)
-- [Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
