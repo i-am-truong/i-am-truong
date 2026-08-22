@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why a 99% Cache Hit Rate Is 10x Faster Than 90% &lpar;Not 9%&rpar;](https://dev.to/dilip_v_p/why-a-99-cache-hit-rate-is-10x-faster-than-90-not-9-32bh)
-- [Understanding Git Workflows](https://dev.to/eduxic/understanding-git-workflows-4i52)
-- [What I learned building a job-description importer that needs a manual fallback](https://dev.to/shortliststudio/what-i-learned-building-a-job-description-importer-that-needs-a-manual-fallback-575m)
-- [The Bug That Kept Coming Back in Framer Motion](https://dev.to/carlosjcastrog/the-bug-that-kept-coming-back-in-framer-motion-2kmh)
-- [Why I Built a 100% Client-Side PDF Workspace &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/why-i-built-a-100-client-side-pdf-workspace-zero-server-uploads-5j8)
+- [Smashing Bugs, Strengthening Systems: Accessibility &amp; Observability in Element Web](https://dev.to/prince_panchani_f971a20ec/smashing-bugs-strengthening-systems-accessibility-observability-in-element-web-1985)
+- [The Persona You&#39;re Ignoring Will Break Your Product](https://dev.to/maohasan/the-persona-youre-ignoring-will-break-your-product-3o0g)
+- [When a pipeline beats an agent: three shapes that don&#39;t need a loop](https://dev.to/loopandretry/when-a-pipeline-beats-an-agent-three-shapes-that-dont-need-a-loop-50cf)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/faith_ondiege_6e7c59f9ac3/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5g6o)
+- [Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate](https://dev.to/victor_garca_a9d07ddc486/agent-gateway-in-60-seconds-governed-llm-traffic-with-trustgate-2dac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
