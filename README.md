@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding OAuth2 the Simple Way](https://dev.to/g_ghuman_8989/understanding-oauth2-the-simple-way-2248)
-- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren&#39;t Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
-- [Why We Built an Independent, Goal-Driven AI Workspace](https://dev.to/calvin_lin_816fc5a7ce26a1/why-we-built-an-independent-goal-driven-ai-workspace-2lin)
-- [Problem Engineering: Why Defining the Problem Matters More Than Your Prompt](https://dev.to/billahdotdev/problem-engineering-why-defining-the-problem-matters-more-than-your-prompt-5696)
-- [My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.](https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j)
+- [Your TTS shortlist is three shortlists, and they barely intersect](https://dev.to/aialleyway/your-tts-shortlist-is-three-shortlists-and-they-barely-intersect-jhf)
+- [From Sandbox to Review Queue: My GSoC 2026 Project with OWASP OWTF](https://dev.to/piyush140104/from-sandbox-to-review-queue-my-gsoc-2026-project-with-owasp-owtf-50dd)
+- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo)
+- [The Bug That Hid Behind Its Own Comment: Fixing Inconsistent Inference in astroid](https://dev.to/kartikey_d47d5d0a50247b86/the-bug-that-hid-behind-its-own-comment-fixing-inconsistent-inference-in-astroid-10io)
+- [Building a 9-Language Fan Site with Next.js 15 and next-intl &lpar;No Middleware&rpar;](https://dev.to/coolnico/building-a-9-language-fan-site-with-nextjs-15-and-next-intl-no-middleware-5ae6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
