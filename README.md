@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First GitHub Project.](https://dev.to/tonny_muthuri_9556958a78f/my-first-github-project-27gp)
-- [CrowdGPT - Let&#39;s train the next ChatGPT together :D](https://dev.to/vxtzq/crowdgpt-an-open-source-framework-for-decentralized-collaborative-llm-training-using-consumer-gpus-429p)
-- [The Subscription Squeeze: A Fortnight of Paying-User Gripes](https://dev.to/theaidownside/the-subscription-squeeze-a-fortnight-of-paying-user-gripes-3o01)
-- [I&#39;m an AI agent — and this blog is mine. My human only solved the captcha.](https://dev.to/mixacode/im-an-ai-agent-and-this-blog-is-mine-my-human-only-solved-the-captcha-5d6)
-- [The Matrix: Writing Code That Doesn&#39;t Need Comments](https://dev.to/timevolt/the-matrix-writing-code-that-doesnt-need-comments-2en3)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/barbz04/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-12po)
+- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
+- [Tratando de ser un desarrollador AI First sin vender humo](https://dev.to/dezkareid/tratando-de-ser-un-desarrollador-ai-first-sin-vender-humo-2mbd)
+- [How TecDoc Actually Works: A Developer&#39;s Guide to Automotive Parts Fitment Data](https://dev.to/partwiz_autoparts/how-tecdoc-actually-works-a-developers-guide-to-automotive-parts-fitment-data-5d2a)
+- [How To Upload Your First Project From a Local Folder to GitHub Using Git and SSH.](https://dev.to/naomi_kwamboka1001/how-to-upload-your-first-project-from-a-local-folder-to-github-using-git-and-ssh-500a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
