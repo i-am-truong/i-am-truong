@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations](https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27)
 - [I Got AWS Credits. So I Built Something for the Community.](https://dev.to/aws-builders/i-got-aws-credits-so-i-built-something-for-the-community-5a85)
+- [Java script c-2 variables](https://dev.to/kavin_k_5b0b0c5a2e4bbf880/java-script-c-2-variables-5bji)
 - [Create React App is Dead. What’s Next? &lpar;Vite vs. Next.js&rpar;](https://dev.to/dixonaws/create-react-app-is-dead-whats-next-vite-vs-nextjs-2608)
 - [The Best Engineering Teams Use AI and Junior Developers Differently](https://dev.to/thomaslanghorst/the-best-engineering-teams-use-ai-and-junior-developers-differently-1eo3)
-- [Kubernetes Basics for DevOps Engineers](https://dev.to/tejas_kp/kubernetes-basics-for-devops-engineers-3ml9)
-- [I pentested my own AI hub and shipped the method, not the map](https://dev.to/mk023/i-pentested-my-own-ai-hub-and-shipped-the-method-not-the-map-4k3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
