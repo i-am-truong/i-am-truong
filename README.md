@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Punk: Fully Authed](https://dev.to/lnation/punk-fully-authed-3d3g)
-- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push.](https://dev.to/9ichia/understanding-the-git-workflow-working-directory-staging-commit-and-push-226i)
-- [Everyone is hyping Claude Code. I used Google Jules to build and ship a phone tracking app—entirely from my phone on the beach.](https://dev.to/gents_83/everyone-is-hyping-claude-code-i-used-google-jules-to-build-and-ship-a-location-sharing-4o1e)
-- [How I Built a Trading Value Tool for a Game With Constantly Changing Data](https://dev.to/bloxy123/how-i-built-a-trading-value-tool-for-a-game-with-constantly-changing-data-4ick)
-- [WordPress or Custom Development? The Decision Framework I Use With Clients](https://dev.to/ijaz_khan_afea4eeecd14f86/wordpress-or-custom-development-the-decision-framework-i-use-with-clients-2324)
+- [The Badge Was Issued, but the Goal Wasn&#39;t Achieved.](https://dev.to/raphink/the-badge-was-issued-but-the-goal-wasnt-achieved-41l3)
+- [Practical Understanding of GitHub Using {GIT And SSH}.](https://dev.to/lincon_omondi_d2159f29b9d/practical-understanding-of-github-using-git-and-ssh-5341)
+- [I Built an AI That Auto-Replies to Your Instagram DMs &lpar;No Login Required&rpar;](https://dev.to/nandan_das_369/i-built-an-ai-that-auto-replies-to-your-instagram-dms-no-login-required-1b07)
+- [Engrava 0.5.0: a first-class MCP server](https://dev.to/sovantica/engrava-050-a-first-class-mcp-server-2djc)
+- [Routing in Go Part 3: The last upgrade](https://dev.to/nahamaalochi/routing-in-go-part-3-the-last-upgrade-3295)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
