@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can a Compiler-First Framework Scale to Real Apps Without Reinventing React?](https://dev.to/bunzzeok/can-a-compiler-first-framework-scale-to-real-apps-without-reinventing-react-g8d)
+- [I built a bilingual railway station finder for foreign travelers in China](https://dev.to/pujes/i-built-a-bilingual-railway-station-finder-for-foreign-travelers-in-china-5o4)
 - [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d)
 - [The 4,000-Token Tax: Auto-Disabling Claude Code Plugins You Haven&#39;t Touched in 30 Days](https://dev.to/bokuwalily/the-4000-token-tax-auto-disabling-claude-code-plugins-you-havent-touched-in-30-days-ac5)
-- [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
 - [Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)
-- [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
