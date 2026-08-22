@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FieldOS, Part 1: I Built the Core System and Timed Every Single Hour](https://dev.to/scott_steinmetz/fieldos-part-1-i-built-the-core-system-and-timed-every-single-hour-2ig6)
-- [topowatch: audita el Attack Success Rate de tu workspace contra inyección indirecta](https://dev.to/magopredator/topowatch-audita-el-attack-success-rate-de-tu-workspace-contra-inyeccion-indirecta-2klh)
-- [Nvidia is buying power, not just selling GPUs](https://dev.to/induwara_ashinsana_9e4d5b/nvidia-is-buying-power-not-just-selling-gpus-55l8)
-- [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911)
-- [Hey Dev Community — New Here!](https://dev.to/tejas_kp/hey-dev-community-new-here-34kj)
+- [I Got AWS Credits. So I Built Something for the Community.](https://dev.to/aws-builders/i-got-aws-credits-so-i-built-something-for-the-community-5a85)
+- [Create React App is Dead. What’s Next? &lpar;Vite vs. Next.js&rpar;](https://dev.to/dixonaws/create-react-app-is-dead-whats-next-vite-vs-nextjs-2608)
+- [The Best Engineering Teams Use AI and Junior Developers Differently](https://dev.to/thomaslanghorst/the-best-engineering-teams-use-ai-and-junior-developers-differently-1eo3)
+- [Kubernetes Basics for DevOps Engineers](https://dev.to/tejas_kp/kubernetes-basics-for-devops-engineers-3ml9)
+- [I pentested my own AI hub and shipped the method, not the map](https://dev.to/mk023/i-pentested-my-own-ai-hub-and-shipped-the-method-not-the-map-4k3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
