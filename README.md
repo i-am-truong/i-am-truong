@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [App Hardening: One Obfuscation Pipeline Across Every Port](https://dev.to/codenameone/app-hardening-one-obfuscation-pipeline-across-every-port-ani)
-- [Convert Image URL to File in Flutter — Exact Code](https://dev.to/mryadavgulshan/convert-image-url-to-file-in-flutter-exact-code-4cf7)
-- [Job Hunt With a Bot?](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3)
-- [Polymarket Slippage: How to Control It in Trading Bots](https://dev.to/nagi777/polymarket-slippage-how-to-control-it-in-trading-bots-o1k)
-- [Compressing an image to an exact file size, in the browser](https://dev.to/textmachine/compressing-an-image-to-an-exact-file-size-in-the-browser-12ha)
+- [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
+- [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
+- [field-cage: a local-first alternative for GitHub Actions egress control](https://dev.to/takihito/field-cage-a-local-first-alternative-for-github-actions-egress-control-3agl)
+- [In-Tree vs Out-of-Tree Driver: Where Your Code Should Live](https://dev.to/raghu_bharadwaj_404e60eb0c/in-tree-vs-out-of-tree-driver-where-your-code-should-live-4920)
+- [Comparing INT4 and NVFP4 Palettes on Real Gradient Tensors](https://dev.to/megapixel99/comparing-int4-and-nvfp4-palettes-on-real-gradient-tensors-g99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
