@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho](https://dev.to/gabrielvictorcruz/ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-2fl5)
-- [We built a benchmark, then caught it strangling the models it was grading](https://dev.to/fortitudeomnis/we-built-a-benchmark-then-caught-it-strangling-the-models-it-was-grading-27gl)
-- [Nuance Is a Double-Edged Sword ⚔️](https://dev.to/edmundsparrow/nuance-is-a-double-edged-sword-3oi0)
-- [overflow: clip saved my navbar](https://dev.to/carlosjcastrog/overflow-clip-saved-my-navbar-2a99)
-- [This Week In PHP Internals | August 19, 2026](https://dev.to/projektgopher/this-week-in-php-internals-august-19-2026-6mh)
+- [We put an AI helper in our course and spent weeks teaching it to say I don&#39;t know](https://dev.to/academy_agineai/we-put-an-ai-helper-in-our-course-and-spent-weeks-teaching-it-to-say-i-dont-know-hfc)
+- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l)
+- [Can We Automate the Work of a Software Engineer? The Story Behind HEALER](https://dev.to/_a9de0f38ed294cfb7e5e/can-we-automate-the-work-of-a-software-engineer-the-story-behind-healer-2mge)
+- [Leveling up OpenCode... and not in the way you would expect.](https://dev.to/searay_11_254650fe8d2b6b6/leveling-up-opencode-and-not-in-the-way-you-would-expect-27)
+- [How to Review AI-Generated SQL Before You Trust the Number](https://dev.to/michaelnocito/how-to-review-ai-generated-sql-before-you-trust-the-number-19ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
