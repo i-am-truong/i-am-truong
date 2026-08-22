@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your TTS shortlist is three shortlists, and they barely intersect](https://dev.to/aialleyway/your-tts-shortlist-is-three-shortlists-and-they-barely-intersect-jhf)
-- [From Sandbox to Review Queue: My GSoC 2026 Project with OWASP OWTF](https://dev.to/piyush140104/from-sandbox-to-review-queue-my-gsoc-2026-project-with-owasp-owtf-50dd)
-- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo)
-- [The Bug That Hid Behind Its Own Comment: Fixing Inconsistent Inference in astroid](https://dev.to/kartikey_d47d5d0a50247b86/the-bug-that-hid-behind-its-own-comment-fixing-inconsistent-inference-in-astroid-10io)
-- [Building a 9-Language Fan Site with Next.js 15 and next-intl &lpar;No Middleware&rpar;](https://dev.to/coolnico/building-a-9-language-fan-site-with-nextjs-15-and-next-intl-no-middleware-5ae6)
+- [Deep-Dive Write-up by Huynh Kien Minh: CVE-2026-13736 — NewPath WildApricotPress Member Directory PII Disclosure](https://dev.to/minhhk68/deep-dive-write-up-by-huynh-kien-minh-cve-2026-13736-newpath-wildapricotpress-member-directory-174d)
+- [AI Model Routing: The Missing Infrastructure Layer for Multi-Model AI Applications](https://dev.to/wolffy-good/ai-model-routing-the-missing-infrastructure-layer-for-multi-model-ai-applications-32cf)
+- [You can now clip video from inside your AI agent: the state of MCP for video in 2026](https://dev.to/anthony_builds/you-can-now-clip-video-from-inside-your-ai-agent-the-state-of-mcp-for-video-in-2026-2jek)
+- [Fix Lambda S3 Trigger Error Handling Before It Loses Events](https://dev.to/oleksandr_kuryzhev_42873f/fix-lambda-s3-trigger-error-handling-before-it-loses-events-58b4)
+- [Invite an AI to Look Upon Your Figma Designs](https://dev.to/planetabhi_/invite-an-ai-to-look-upon-your-figma-designs-4930)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
