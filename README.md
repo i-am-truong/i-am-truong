@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [May the Source Be With You: Why Your AI Agent Is Only as Good as Its Knowledge](https://dev.to/cityjs_conference_5c08941/may-the-source-be-with-you-why-your-ai-agent-is-only-as-good-as-its-knowledge-1hhm)
 - [Sprix SAGE makes agent routing a stateful scheduling problem](https://dev.to/dd8888/sprix-sage-makes-agent-routing-a-stateful-scheduling-problem-1mdj)
 - [9 RAG Techniques That Actually Improve Retrieval Quality](https://dev.to/bibekkakati/9-rag-techniques-that-actually-improve-retrieval-quality-36jh)
 - [Engineering Reliable AI Document Scanning: Prompts and Schemas](https://dev.to/bibekkakati/engineering-reliable-ai-document-scanning-prompts-and-schemas-16a6)
 - [Building a Multi-Agent AI Pipeline with Mastra and TypeScript](https://dev.to/bibekkakati/building-a-multi-agent-ai-pipeline-with-mastra-and-typescript-1fjk)
-- [OpenAI’s Zero Data Retention Update: A Beginner’s AI App Data Checklist for 2026](https://dev.to/marcusykim/openais-zero-data-retention-update-a-beginners-ai-app-data-checklist-for-2026-o0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
