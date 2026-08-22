@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Forms in React : From Inputs to Controlled Components](https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23)
 - [The Badge Was Issued, but the Goal Wasn&#39;t Achieved.](https://dev.to/raphink/the-badge-was-issued-but-the-goal-wasnt-achieved-41l3)
 - [Practical Understanding of GitHub Using {GIT And SSH}.](https://dev.to/lincon_omondi_d2159f29b9d/practical-understanding-of-github-using-git-and-ssh-5341)
 - [I Built an AI That Auto-Replies to Your Instagram DMs &lpar;No Login Required&rpar;](https://dev.to/nandan_das_369/i-built-an-ai-that-auto-replies-to-your-instagram-dms-no-login-required-1b07)
 - [Engrava 0.5.0: a first-class MCP server](https://dev.to/sovantica/engrava-050-a-first-class-mcp-server-2djc)
-- [Routing in Go Part 3: The last upgrade](https://dev.to/nahamaalochi/routing-in-go-part-3-the-last-upgrade-3295)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
