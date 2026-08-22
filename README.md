@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Tier Application On EKS](https://dev.to/mayankthakur001/3-tier-application-on-eks-oc7)
-- [AI Is Changing What &#39;Correct Software&#39; Means](https://dev.to/majdizlitni/ai-is-changing-what-correct-software-means-14hf)
-- [I Built Neva, a Small Lattice Analysis Toolkit in Python](https://dev.to/black210/i-built-neva-a-small-lattice-analysis-toolkit-in-python-3mg0)
-- [Preventing lost updates in Symfony APIs with ETags and Doctrine](https://dev.to/alkin/preventing-lost-updates-in-symfony-apis-with-etags-and-doctrine-1h57)
-- [OpenAI&#39;s New Security Controls Are an Admission, Not an Innovation](https://dev.to/coridev/openais-new-security-controls-are-an-admission-not-an-innovation-197c)
+- [Why a 99% Cache Hit Rate Is 10x Faster Than 90% &lpar;Not 9%&rpar;](https://dev.to/dilip_v_p/why-a-99-cache-hit-rate-is-10x-faster-than-90-not-9-32bh)
+- [Understanding Git Workflows](https://dev.to/eduxic/understanding-git-workflows-4i52)
+- [What I learned building a job-description importer that needs a manual fallback](https://dev.to/shortliststudio/what-i-learned-building-a-job-description-importer-that-needs-a-manual-fallback-575m)
+- [The Bug That Kept Coming Back in Framer Motion](https://dev.to/carlosjcastrog/the-bug-that-kept-coming-back-in-framer-motion-2kmh)
+- [Why I Built a 100% Client-Side PDF Workspace &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/why-i-built-a-100-client-side-pdf-workspace-zero-server-uploads-5j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
