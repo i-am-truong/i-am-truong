@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding OAuth2 the Simple Way](https://dev.to/g_ghuman_8989/understanding-oauth2-the-simple-way-2248)
+- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren&#39;t Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
+- [Why We Built an Independent, Goal-Driven AI Workspace](https://dev.to/calvin_lin_816fc5a7ce26a1/why-we-built-an-independent-goal-driven-ai-workspace-2lin)
+- [Problem Engineering: Why Defining the Problem Matters More Than Your Prompt](https://dev.to/billahdotdev/problem-engineering-why-defining-the-problem-matters-more-than-your-prompt-5696)
 - [My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.](https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j)
-- [Correlation Is Pairwise. Multicollinearity Isn&#39;t.](https://dev.to/mohit_modi_e86a932fb11e61/correlation-is-pairwise-multicollinearity-isnt-2970)
-- [How I plan and ship web apps for startups: discovery to launch](https://dev.to/nayankyada/how-i-plan-and-ship-web-apps-for-startups-discovery-to-launch-24cb)
-- [19 Chrome DevTools Tricks Every Developer Should Know](https://dev.to/devshefali/19-chrome-devtools-tricks-every-developer-should-know-3o6f)
-- [Life On Earth is 100% AI Generated Slop.](https://dev.to/wiseai/life-on-earth-is-100-ai-generated-slop-2hc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
