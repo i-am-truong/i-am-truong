@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a self-healing scraper agent that won&#39;t ship a fix it can&#39;t prove](https://dev.to/athoughtfulsoul/building-a-self-healing-scraper-agent-that-wont-ship-a-fix-it-cant-prove-2in1)
-- [500+ Projeden Sonra WordPress&#39;i Neden Bıraktık? Bir Web Ajansının Next.js Mimarisine Geçişi](https://dev.to/renklisayfa/500-projeden-sonra-wordpressi-neden-biraktik-bir-web-ajansinin-nextjs-mimarisine-gecisi-2jne)
-- [Tooling every AI software harness should have](https://dev.to/grantps/tooling-every-ai-software-harness-should-have-4512)
-- [Where I Want to See Myself in My 40s](https://dev.to/akhourianmolkumar/where-i-want-to-see-myself-in-my-40s-3egm)
-- [Free vs Self-Hosted Models: A Break-Even Framework for Agent Workloads](https://dev.to/codepro_3283/free-vs-self-hosted-models-a-break-even-framework-for-agent-workloads-14lp)
+- [AI Is Changing What &#39;Correct Software&#39; Means](https://dev.to/majdizlitni/ai-is-changing-what-correct-software-means-14hf)
+- [I Built Neva, a Small Lattice Analysis Toolkit in Python](https://dev.to/black210/i-built-neva-a-small-lattice-analysis-toolkit-in-python-3mg0)
+- [Preventing lost updates in Symfony APIs with ETags and Doctrine](https://dev.to/alkin/preventing-lost-updates-in-symfony-apis-with-etags-and-doctrine-1h57)
+- [OpenAI&#39;s New Security Controls Are an Admission, Not an Innovation](https://dev.to/coridev/openais-new-security-controls-are-an-admission-not-an-innovation-197c)
+- [Claude Opus 4.6 Shows Why Old Models Need Patch Windows](https://dev.to/reidmarlow/claude-opus-46-shows-why-old-models-need-patch-windows-44pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
