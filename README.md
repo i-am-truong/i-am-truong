@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS, HTTP/1.1, HTTP/2, HTTP/3, CORS — A Beginner&#39;s Deep Dive](https://dev.to/dharam_in/dns-http11-http2-http3-cors-a-beginners-deep-dive-28h6)
 - [The ₹18 LPA that quietly became ₹1.1L a month](https://dev.to/adiadarsh/the-18-lpa-that-quietly-became-11l-a-month-k69)
 - [A SQL interview is a translation test, not a syntax test](https://dev.to/fourleaf/a-sql-interview-is-a-translation-test-not-a-syntax-test-4a9p)
 - [Modern HTML5 Web Oyun Platformlarında Performans ve Güvenlik Yaklaşımı: Palamut Oyun](https://dev.to/palamutoyun/modern-html5-web-oyun-platformlarinda-performans-ve-guvenlik-yaklasimi-palamut-oyun-1fhj)
 - [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
-- [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
