@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PR#1: Make SurrealDB performance slightly better](https://dev.to/hosseinmobarakian/pr1-make-surrealdb-performance-slightly-better-102m)
-- [Why AI Output Feels Wrong Even When It Is Correct](https://dev.to/synthaicode_commander/why-ai-output-feels-wrong-even-when-it-is-correct-29cc)
-- [The multilingual bugs that never throw: hreflang, JSON-LD and a site in 12 languages](https://dev.to/ohadfarkash/the-multilingual-bugs-that-never-throw-hreflang-json-ld-and-a-site-in-12-languages-50d2)
-- [Four things SVG and CSS did that I did not expect](https://dev.to/pop3_zxcv/four-things-svg-and-css-did-that-i-did-not-expect-4f4d)
-- [Bulletproofing AI Agents: How to Prevent $2,000 Infinite API Loops](https://dev.to/srijan_bhai/bulletproofing-ai-agents-how-to-prevent-2000-infinite-api-loops-21gm)
+- [App Hardening: One Obfuscation Pipeline Across Every Port](https://dev.to/codenameone/app-hardening-one-obfuscation-pipeline-across-every-port-ani)
+- [Convert Image URL to File in Flutter — Exact Code](https://dev.to/mryadavgulshan/convert-image-url-to-file-in-flutter-exact-code-4cf7)
+- [Job Hunt With a Bot?](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3)
+- [Compressing an image to an exact file size, in the browser](https://dev.to/textmachine/compressing-an-image-to-an-exact-file-size-in-the-browser-12ha)
+- [Your Scheduled Agent Says Success. It Did Nothing. Here&#39;s Why.](https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
