@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Exact Funnel I Use to Get Free CLI Tools Their First Users](https://dev.to/ke_jia_24bb2f9f84f14f728a/the-exact-funnel-i-use-to-get-free-cli-tools-their-first-users-4go5)
+- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push](https://dev.to/waweru_8583fe284b383faf87/understanding-the-git-workflow-working-directory-staging-commit-and-push-5894)
+- [I built an OLX scraper for 24 countries — the boring version that actually ships](https://dev.to/primesieve/i-built-an-olx-scraper-for-24-countries-the-boring-version-that-actually-ships-432p)
 - [Our Product Hunt launch returned 2 upvotes and 0 signups. Here is every number.](https://dev.to/leouno/our-product-hunt-launch-returned-2-upvotes-and-0-signups-here-is-every-number-89l)
 - [How much of the SPX options book is new each day? Open-interest change across 1,081 sessions](https://dev.to/gexlive/how-much-of-the-spx-options-book-is-new-each-day-open-interest-change-across-1081-sessions-4gco)
-- [Why free chess analysis is always capped at one game a day](https://dev.to/chessdream/why-free-chess-analysis-is-always-capped-at-one-game-a-day-50n)
-- [Building an AI Test Automation Factory: How We Reduced Automation Effort by 78% with Multi-Agent Systems &amp; MCP](https://dev.to/shell_qa/building-an-ai-test-automation-factory-how-we-reduced-automation-effort-by-78-with-multi-agent-45h3)
-- [Navigating Microsoft Azure Certifications in 2026: Value, Trends, and Blueprint Strategy](https://dev.to/jordancarterdevv/navigating-microsoft-azure-certifications-in-2026-value-trends-and-blueprint-strategy-30k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
