@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Superpowers for Coding Agents: Turn Vague Requests Into Tested Changes](https://dev.to/shubham399/superpowers-for-coding-agents-turn-vague-requests-into-tested-changes-5474)
+- [🔒 Lock Folder Util — The Mutex Your Agent Swarm Desperately Needs](https://dev.to/simbo1905/lock-folder-util-the-mutex-your-agent-swarm-desperately-needs-6dk)
+- [Associate Cloud Engineer Certification Path](https://dev.to/fortune_precious/associate-cloud-engineer-certification-path-ajd)
+- [The People Building AI Are the Worst at Predicting It](https://dev.to/bonour/the-people-building-ai-are-the-worst-at-predicting-it-4b5k)
 - [How I Decide a RAXXO Tool Needs a Redesign, Not a Patch](https://dev.to/raxxostudios/how-i-decide-a-raxxo-tool-needs-a-redesign-not-a-patch-41bn)
-- [Indexing Like a Jedi: How I Tamed My Database](https://dev.to/timevolt/indexing-like-a-jedi-how-i-tamed-my-database-16p0)
-- [An unlikely experiment](https://dev.to/johnrushwrs/an-unlikely-experiment-1ogp)
-- [I built an open API for Nigeria&#39;s 752 universities, polytechnics, and colleges of education](https://dev.to/devfarouqk/i-built-an-open-api-for-nigerias-752-universities-polytechnics-and-colleges-of-education-2a2p)
-- [Foundations of Data Systems Part 1: Reliability](https://dev.to/oladeji_adekunle_f56f16b2/foundations-of-data-systems-part-1-reliability-3a5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
