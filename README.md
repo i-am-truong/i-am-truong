@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 Non-obvious learnings from working with alerts](https://dev.to/harishteens/4-non-obvious-learnings-from-working-with-alerts-ba5)
-- [E4del / PINHOLE Using FTP Banners for Command Retrieval](https://dev.to/anoymask/e4del-pinhole-using-ftp-banners-for-command-retrieval-12h5)
-- [TrueConf Server Exploitation: PhantomCore Delivered via CVE-2026-72529 / 72530](https://dev.to/anoymask/trueconf-server-exploitation-phantomcore-delivered-via-cve-2026-72529-72530-3dc3)
-- [HLD: URL Shortener &lpar;like bit.ly&rpar;](https://dev.to/gouranga-das-khulna/hld-url-shortener-like-bitly-3696)
-- [Three Russian-Linked Clusters Abuse Legitimate Authentication Flows](https://dev.to/anoymask/three-russian-linked-clusters-abuse-legitimate-authentication-flows-4h0b)
+- [FieldOS, Part 1: I Built the Core System and Timed Every Single Hour](https://dev.to/scott_steinmetz/fieldos-part-1-i-built-the-core-system-and-timed-every-single-hour-2ig6)
+- [topowatch: audita el Attack Success Rate de tu workspace contra inyección indirecta](https://dev.to/magopredator/topowatch-audita-el-attack-success-rate-de-tu-workspace-contra-inyeccion-indirecta-2klh)
+- [Nvidia is buying power, not just selling GPUs](https://dev.to/induwara_ashinsana_9e4d5b/nvidia-is-buying-power-not-just-selling-gpus-55l8)
+- [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911)
+- [Hey Dev Community — New Here!](https://dev.to/tejas_kp/hey-dev-community-new-here-34kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
