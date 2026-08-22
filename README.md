@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations](https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27)
-- [I Got AWS Credits. So I Built Something for the Community.](https://dev.to/aws-builders/i-got-aws-credits-so-i-built-something-for-the-community-5a85)
-- [Java script c-2 variables](https://dev.to/kavin_k_5b0b0c5a2e4bbf880/java-script-c-2-variables-5bji)
-- [Create React App is Dead. What’s Next? &lpar;Vite vs. Next.js&rpar;](https://dev.to/dixonaws/create-react-app-is-dead-whats-next-vite-vs-nextjs-2608)
-- [The Best Engineering Teams Use AI and Junior Developers Differently](https://dev.to/thomaslanghorst/the-best-engineering-teams-use-ai-and-junior-developers-differently-1eo3)
+- [My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.](https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j)
+- [Correlation Is Pairwise. Multicollinearity Isn&#39;t.](https://dev.to/mohit_modi_e86a932fb11e61/correlation-is-pairwise-multicollinearity-isnt-2970)
+- [How I plan and ship web apps for startups: discovery to launch](https://dev.to/nayankyada/how-i-plan-and-ship-web-apps-for-startups-discovery-to-launch-24cb)
+- [19 Chrome DevTools Tricks Every Developer Should Know](https://dev.to/devshefali/19-chrome-devtools-tricks-every-developer-should-know-3o6f)
+- [Life On Earth is 100% AI Generated Slop.](https://dev.to/wiseai/life-on-earth-is-100-ai-generated-slop-2hc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
