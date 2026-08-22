@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Downloading and Running a Kali Linux VM in VirtualBox on Windows](https://dev.to/muneebahmedkhanwriting/downloading-and-running-a-kali-linux-vm-in-virtualbox-on-windows-51hl)
-- [I made a Symfony bundle for masking sensitive data](https://dev.to/alkin/i-made-a-symfony-bundle-for-masking-sensitive-data-3b1f)
-- [My AI visibility score was 78%. Then I fixed how I measured it and it was 25%](https://dev.to/reidify/my-ai-visibility-score-was-78-then-i-fixed-how-i-measured-it-and-it-was-25-4h5b)
-- [GitHub&#39;s Copilot SDK for Java: What Running Agents in Spring Boot Without Frameworks Reveals About Tool Integration](https://dev.to/mech_app_ai/githubs-copilot-sdk-for-java-what-running-agents-in-spring-boot-without-frameworks-reveals-about-282m)
-- [Where Security Fits in an AI Agent Stack: NVIDIA&#39;s Layer-by-Layer Threat Model](https://dev.to/mech_app_ai/where-security-fits-in-an-ai-agent-stack-nvidias-layer-by-layer-threat-model-h2g)
+- [How I Stop Webhook Replay Attacks in Node.js &amp; PostgreSQL](https://dev.to/doaaa_04/how-i-stop-webhook-replay-attacks-in-nodejs-postgresql-24m6)
+- [Why model.fit&lpar;&rpar; Is the Least Interesting Line in an ML Trading System](https://dev.to/whetlan/why-modelfit-is-the-least-interesting-line-in-an-ml-trading-system-2e60)
+- [Understanding Zippers](https://dev.to/jzhonx/understanding-zippers-4dpf)
+- [The DevOps Roadmap I Wish Someone Had Handed Me on Day One](https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m)
+- [Mastering Playwright Test Fixtures for Robust E2E Tests](https://dev.to/pratham_rathod_a08657abf5/mastering-playwright-test-fixtures-for-robust-e2e-tests-9lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
