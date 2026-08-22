@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)
+- [Automatic HTTPS on Kestrel in 2026, now that LettuceEncrypt is archived](https://dev.to/jhenderson1992/automatic-https-on-kestrel-in-2026-now-that-lettuceencrypt-is-archived-1m3k)
+- [How to fix punctuation in speech-to-text and LLM output without calling a model](https://dev.to/sheikaminul/how-to-fix-punctuation-in-speech-to-text-and-llm-output-without-calling-a-model-3ofl)
 - [Swap Your LLM Without a Deploy: Dynamic Model Routing on Bedrock with AWS AppConfig](https://dev.to/maruchin_tech_555/swap-your-llm-without-a-deploy-dynamic-model-routing-on-bedrock-with-aws-appconfig-48bn)
 - [I built a GitHub repository intelligence API — here&#39;s what I learned](https://dev.to/kingdavid9999/i-built-a-github-repository-intelligence-api-heres-what-i-learned-14ok)
-- [MCP&#39;s Tasks Extension Lets a Tool Call Run in the Background — If You Get the Object Shape Right](https://dev.to/ethan_5b3022150e2c07a4030/mcps-tasks-extension-lets-a-tool-call-run-in-the-background-if-you-get-the-object-shape-right-jj0)
-- [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
-- [A Valid Lookup Can Still Be Historically Wrong](https://dev.to/iqtechsolutions/a-valid-lookup-can-still-be-historically-wrong-2gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
