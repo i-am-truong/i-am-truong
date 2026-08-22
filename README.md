@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Technical SEO Checks I Run Before Writing More Content](https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h)
-- [I used JSON files instead of a database for 1,699 records. Here&#39;s what actually broke.](https://dev.to/rajan_nishad/i-used-json-files-instead-of-a-database-for-1699-records-heres-what-actually-broke-4f1c)
-- [Agentic AI That Survives the Enterprise, Part 5: Humans in the Loop Without Burning Out Humans](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-5-humans-in-the-loop-without-burning-out-humans-1mlf)
-- [Agentic AI That Survives the Enterprise, Part 4: Boring Engineering Wins](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-4-boring-engineering-wins-4p44)
-- [What Coding Agents Say When They Talk to Each Other](https://dev.to/javieraguilarai/what-coding-agents-say-when-they-talk-to-each-other-377l)
+- [Our Product Hunt launch returned 2 upvotes and 0 signups. Here is every number.](https://dev.to/leouno/our-product-hunt-launch-returned-2-upvotes-and-0-signups-here-is-every-number-89l)
+- [How much of the SPX options book is new each day? Open-interest change across 1,081 sessions](https://dev.to/gexlive/how-much-of-the-spx-options-book-is-new-each-day-open-interest-change-across-1081-sessions-4gco)
+- [Why free chess analysis is always capped at one game a day](https://dev.to/chessdream/why-free-chess-analysis-is-always-capped-at-one-game-a-day-50n)
+- [Building an AI Test Automation Factory: How We Reduced Automation Effort by 78% with Multi-Agent Systems &amp; MCP](https://dev.to/shell_qa/building-an-ai-test-automation-factory-how-we-reduced-automation-effort-by-78-with-multi-agent-45h3)
+- [Navigating Microsoft Azure Certifications in 2026: Value, Trends, and Blueprint Strategy](https://dev.to/jordancarterdevv/navigating-microsoft-azure-certifications-in-2026-value-trends-and-blueprint-strategy-30k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
