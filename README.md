@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Exact Funnel I Use to Get Free CLI Tools Their First Users](https://dev.to/ke_jia_24bb2f9f84f14f728a/the-exact-funnel-i-use-to-get-free-cli-tools-their-first-users-4go5)
-- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push](https://dev.to/waweru_8583fe284b383faf87/understanding-the-git-workflow-working-directory-staging-commit-and-push-5894)
-- [I built an OLX scraper for 24 countries — the boring version that actually ships](https://dev.to/primesieve/i-built-an-olx-scraper-for-24-countries-the-boring-version-that-actually-ships-432p)
-- [Our Product Hunt launch returned 2 upvotes and 0 signups. Here is every number.](https://dev.to/leouno/our-product-hunt-launch-returned-2-upvotes-and-0-signups-here-is-every-number-89l)
-- [How much of the SPX options book is new each day? Open-interest change across 1,081 sessions](https://dev.to/gexlive/how-much-of-the-spx-options-book-is-new-each-day-open-interest-change-across-1081-sessions-4gco)
+- [Downloading and Running a Kali Linux VM in VirtualBox on Windows](https://dev.to/muneebahmedkhanwriting/downloading-and-running-a-kali-linux-vm-in-virtualbox-on-windows-51hl)
+- [I made a Symfony bundle for masking sensitive data](https://dev.to/alkin/i-made-a-symfony-bundle-for-masking-sensitive-data-3b1f)
+- [My AI visibility score was 78%. Then I fixed how I measured it and it was 25%](https://dev.to/reidify/my-ai-visibility-score-was-78-then-i-fixed-how-i-measured-it-and-it-was-25-4h5b)
+- [GitHub&#39;s Copilot SDK for Java: What Running Agents in Spring Boot Without Frameworks Reveals About Tool Integration](https://dev.to/mech_app_ai/githubs-copilot-sdk-for-java-what-running-agents-in-spring-boot-without-frameworks-reveals-about-282m)
+- [Where Security Fits in an AI Agent Stack: NVIDIA&#39;s Layer-by-Layer Threat Model](https://dev.to/mech_app_ai/where-security-fits-in-an-ai-agent-stack-nvidias-layer-by-layer-threat-model-h2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
