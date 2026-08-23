@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next step to client-side storage](https://dev.to/neel-vekariya/next-step-to-client-side-storage-4g83)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/jkisutsa/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-27nh)
-- [Redora 0.3.1 — Redis for NestJS](https://dev.to/neba/redora-031-redis-for-nestjs-2blh)
-- [I built a JSON toolkit that never sends your data anywhere](https://dev.to/sekhar_babu_1095c83b17413/i-built-a-json-toolkit-that-never-sends-your-data-anywhere-1nlm)
-- [Cómo solucionar el error \&quot;Text content does not match server-rendered HTML\&quot; en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-548o)
+- [How to Find Which WordPress Plugin Actually Generated a Canonical Tag](https://dev.to/floliv/how-to-find-which-wordpress-plugin-actually-generated-a-canonical-tag-238n)
+- [Building a Self-Correcting AI Agent with Reflection Loops in Python](https://dev.to/ayinedjimi-consultants/building-a-self-correcting-ai-agent-with-reflection-loops-in-python-hda)
+- [A Practical Taxonomy for Ecommerce Support Questions](https://dev.to/wukongchat/a-practical-taxonomy-for-ecommerce-support-questions-4gc3)
+- [Designing AI Assistance for Agents, Not Just Automation](https://dev.to/wukongchat/designing-ai-assistance-for-agents-not-just-automation-5b3m)
+- [PUSHING FOLDERS TO GITHUB USING SSH](https://dev.to/neal_onyango_ebe0034528d6/pushing-folders-to-github-using-ssh-9n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
