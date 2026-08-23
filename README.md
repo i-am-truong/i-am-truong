@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://dev.to/rosgluk/pi-coding-agent-review-minimal-hackable-ai-coding-cli-4ge8)
-- [# I Didn’t Plan to Build a 4,000-Page Site](https://dev.to/_4131c5ac4bbd76f422b8c6/-i-didnt-plan-to-build-a-4000-page-site-3nd9)
-- [I Was Learning PyTorch, Then I Accidentally Started Building My Own AI Training Framework](https://dev.to/puneetkumar2010/i-was-learning-pytorch-then-i-accidentally-started-building-my-own-ai-training-framework-55a9)
-- [Your AI Coding Agent Is Probably Wasting Half Its Context Window](https://dev.to/numbpill3d/your-ai-coding-agent-is-probably-wasting-half-its-context-window-130)
-- [[Boost]](https://dev.to/anthonymax/-34j0)
+- [The AI writes the answer](https://dev.to/elliot_a0d9f15cbd67c/the-ai-writes-the-answer-1h0k)
+- [I built a daily JavaScript puzzle game where a wrong answer physically can&#39;t ship](https://dev.to/ashhwani/i-built-a-daily-javascript-puzzle-game-where-a-wrong-answer-physically-cant-ship-4pih)
+- [I Built Format-on-Save for Everything That Isn&#39;t an Editor](https://dev.to/amartyadev/i-built-format-on-save-for-everything-that-isnt-an-editor-3dpm)
+- [Migrating a 5-year-old React admin app from CRA + Webpack to Vite + SWC — 166 files, 70 days](https://dev.to/prince_panchani_f971a20ec/migrating-a-5-year-old-react-admin-app-from-cra-webpack-to-vite-swc-166-files-70-days-4g6l)
+- [Old Iron Earns More: A Technical Look at RustChain Proof-of-Antiquity](https://dev.to/shamylbm/old-iron-earns-more-a-technical-look-at-rustchain-proof-of-antiquity-1dkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
