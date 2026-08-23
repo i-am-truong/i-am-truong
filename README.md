@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I built an FVG trading bot for OKX and made 99% of its signals useless on purpose](https://dev.to/xbs950812/how-i-built-an-fvg-trading-bot-for-okx-and-made-99-of-its-signals-useless-on-purpose-590b)
+- [why some people use neovim](https://dev.to/black0rca/why-some-people-use-neovim-881)
+- [483 tests passed, but Vestibule RAG framework wasn&#39;t installable — lessons from building with AI agents](https://dev.to/vk032503/483-tests-passed-but-vestibule-rag-framework-wasnt-installable-lessons-from-building-with-ai-b81)
+- [Creating Bluesky starter packs from code: three AT Protocol records and one non-idempotency trap](https://dev.to/rulestack/creating-bluesky-starter-packs-from-code-three-at-protocol-records-and-one-non-idempotency-trap-3b98)
 - [Kubernetes Architecture](https://dev.to/tejas_kp/kubernetes-architecture-32c9)
-- [Why AI Virtual Staging Needs Constraints More Than It Needs More Creativity](https://dev.to/phoenix0714/why-ai-virtual-staging-needs-constraints-more-than-it-needs-more-creativity-1e5m)
-- [ByteByteGo in 2026: Is It Still Worth It for System Design Interview Prep?](https://dev.to/somadevtoo/bytebytego-in-2026-is-it-still-worth-it-for-system-design-interview-prep-2dgn)
-- [New here — building WhiteDragon-dev 🐉](https://dev.to/whitedragon/new-here-building-whitedragon-dev-27bj)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/prudence_korir_/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-4k5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
