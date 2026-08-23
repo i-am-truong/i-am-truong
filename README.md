@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Which WordPress Plugin Actually Generated a Canonical Tag](https://dev.to/floliv/how-to-find-which-wordpress-plugin-actually-generated-a-canonical-tag-238n)
-- [Building a Self-Correcting AI Agent with Reflection Loops in Python](https://dev.to/ayinedjimi-consultants/building-a-self-correcting-ai-agent-with-reflection-loops-in-python-hda)
-- [A Practical Taxonomy for Ecommerce Support Questions](https://dev.to/wukongchat/a-practical-taxonomy-for-ecommerce-support-questions-4gc3)
-- [Designing AI Assistance for Agents, Not Just Automation](https://dev.to/wukongchat/designing-ai-assistance-for-agents-not-just-automation-5b3m)
-- [PUSHING FOLDERS TO GITHUB USING SSH](https://dev.to/neal_onyango_ebe0034528d6/pushing-folders-to-github-using-ssh-9n0)
+- [[Boost]](https://dev.to/anthonymax/-34j0)
+- [MCP stdio Protocol&#39;s 3 Hidden Traps: When All Unit Tests Pass but the MCP Server Won&#39;t Respond](https://dev.to/yuelinghuashu/mcp-stdio-protocols-3-hidden-traps-when-all-unit-tests-pass-but-the-mcp-server-wont-respond-53l6)
+- [Title: Guess Master – The Ultimate Number Guessing Challenge](https://dev.to/sarthakgholve13-py/title-guess-master-the-ultimate-number-guessing-challenge-4n9h)
+- [Getting Started in QA — Why Now?](https://dev.to/dev-dinakajoy/getting-started-in-qa-why-now-3bb1)
+- [Building Local Multiplayer iOS Experiences Without a Server](https://dev.to/amol_srivastava_7fb7543ef/building-local-multiplayer-ios-experiences-without-a-server-1678)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
