@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Opinion: Your Tests Can&#39;t See What a Migration Destroys — Dry-Run It on a Clone](https://dev.to/github_7727/opinion-your-tests-cant-see-what-a-migration-destroys-dry-run-it-on-a-clone-878)
-- [mcp-drift-monitor: detección continua de cambios no autorizados en servidores MCP](https://dev.to/magopredator/mcp-drift-monitor-deteccion-continua-de-cambios-no-autorizados-en-servidores-mcp-f8)
-- [Beyond Words: Building an AI Mental Health Monitor with HuBERT and Psycho-Acoustics](https://dev.to/beck_moulton/beyond-words-building-an-ai-mental-health-monitor-with-hubert-and-psycho-acoustics-16kk)
-- [Lets talk about llms](https://dev.to/bluantstudio/lets-talk-about-llms-169f)
-- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Intelligence](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-intelligence-7ke)
+- [Building a Reliable Multi-Agent Pipeline with the Claude API: Orchestration Patterns That Hold Up in Production](https://dev.to/theaishop/building-a-reliable-multi-agent-pipeline-with-the-claude-api-orchestration-patterns-that-hold-up-29pl)
+- [Preview the November 2026 AWS SDK for Java retry defaults on your own traffic](https://dev.to/bibekmhj/preview-the-november-2026-aws-sdk-for-java-retry-defaults-on-your-own-traffic-2g4i)
+- [Your Agent Loop Is Lying About Being Done: Writing Verifiable Stop Conditions](https://dev.to/shipwithaiio/your-agent-loop-is-lying-about-being-done-writing-verifiable-stop-conditions-270p)
+- [I failed at time management five times. Then I audited where the time actually went.](https://dev.to/hyunho_lee_e4373878e60f62/i-failed-at-time-management-five-times-then-i-audited-where-the-time-actually-went-ode)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/alfred-otuko/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-3lae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
