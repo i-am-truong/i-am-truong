@@ -120,16 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Acted on some feedback about ToolHub&#39;s positioning - here&#39;s the actual change](https://dev.to/trytoolhub/acted-on-some-feedback-about-toolhubs-positioning-heres-the-actual-change-o2a)
-- [ASSIGNMENT WEEK 1](https://dev.to/dorcas_chebet/assignment-week-1-334a)
-- [Building a Cloudflare Integration for Umbraco Automate](https://dev.to/erikjanwestendorp/building-a-cloudflare-integration-for-umbraco-automate-3f8m)
-- [No LeetCode. No club leadership. No internship on my resume.
-Still got the offer.
-
-I wrote about how that happened — and it involved a semester I almost didn&#39;t recover from.
-
-What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-f85)
-- [Crowdsourcing User Contributions to Expand US Basketball Court Database in App Development](https://dev.to/chriswalmart/crowdsourcing-user-contributions-to-expand-us-basketball-court-database-in-app-development-3hgi)
+- [Remote Troubleshooting Restores VPN Server After Failed Restart, Resolving Inaccessibility Issue](https://dev.to/elenbit/remote-troubleshooting-restores-vpn-server-after-failed-restart-resolving-inaccessibility-issue-3585)
+- [Building a Custom Kubernetes Scheduler&lpar;with Simple ShellScripts&rpar;: A Hands-On Lab Journey](https://dev.to/hardik_arora999/building-a-custom-kubernetes-scheduler-a-hands-on-lab-journey-be8)
+- [Developer Experience Improves with Go&#39;s Faster Compile Times and Ease of Use Compared to Swift](https://dev.to/viklogix/developer-experience-improves-with-gos-faster-compile-times-and-ease-of-use-compared-to-swift-49em)
+- [My Two Weeks At Luxe Dev Hq Data Analysis Class: From a Local Folder to GitHub Using Git and SSH](https://dev.to/stan7210/my-two-weeks-at-luxe-dev-hq-data-analysis-class-from-a-local-folder-to-github-using-git-and-ssh-2bco)
+- [Causal Lineage and Session Replay with ZizkaDB](https://dev.to/mir_arshadalitalpur_1b3/causal-lineage-and-session-replay-with-zizkadb-350b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
