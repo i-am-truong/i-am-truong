@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Open Turkish EV Charging Intent Dataset](https://dev.to/birdircik/building-an-open-turkish-ev-charging-intent-dataset-571p)
-- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
-- [Proof-of-Antiquity vs Proof-of-Stake: Why Hardware Diversity Beats Wealth Concentration](https://dev.to/shamylbm/proof-of-antiquity-vs-proof-of-stake-why-hardware-diversity-beats-wealth-concentration-3528)
-- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
-- [We fixed the eval platform we&#39;re competing on: a TypeError that crashed three benchmark pipelines](https://dev.to/bryanw/we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-three-benchmark-pipelines-35oj)
+- [We’re running an online hackathon for building concurrent AI agents — Sep 5–6](https://dev.to/jigjoy/were-running-an-online-hackathon-for-building-concurrent-ai-agents-sep-5-6-3n20)
+- [Atlassian Now Trains Its AI on Your Work by Default — and Full Opt-Out Is an Enterprise Feature](https://dev.to/theaidownside/atlassian-now-trains-its-ai-on-your-work-by-default-and-full-opt-out-is-an-enterprise-feature-5661)
+- [Why I Built an Ad-Free Alternative to Untappd](https://dev.to/brent_pilon_1a20d8529d1eb/why-i-built-an-ad-free-alternative-to-untappd-2nhc)
+- [Enforcing a style rule with a linter that actually fails the build](https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-a-style-rule-with-a-linter-that-actually-fails-the-build-1k13)
+- [Don&#39;t validate the output. Validate that you were allowed to generate it.](https://dev.to/takahiro_hashito_a1f3f0dc/dont-validate-the-output-validate-that-you-were-allowed-to-generate-it-2ekh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
