@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Fixes Terraform Drift Automatically](https://dev.to/sudarshan_thakur_1e141b99/i-built-an-ai-that-fixes-terraform-drift-automatically-p97)
-- [Styled Unicode Breaks Character Counters](https://dev.to/3ugen/styled-unicode-breaks-character-counters-fg1)
-- [Everything, All at Once](https://dev.to/thesanjeevsharma/everything-all-at-once-50pd)
-- [I Built an Open-Source AWS Cloud Security tool for solo devs &amp; founders !](https://dev.to/kavee-dev/i-built-an-open-source-aws-cloud-security-tool-for-solo-devs-founders--58f7)
-- [Debugging Is the Killer App for Free Model Tokens — Here&#39;s the Workflow](https://dev.to/devrs_9381/debugging-is-the-killer-app-for-free-model-tokens-heres-the-workflow-1fda)
+- [Why engineers need commercial awareness, not just technical depth](https://dev.to/divyakush/why-engineers-need-commercial-awareness-not-just-technical-depth-3o19)
+- [Keeping Mac work alive without pretending awake means safe](https://dev.to/afterlid/keeping-mac-work-alive-without-pretending-awake-means-safe-4j8m)
+- [Checking Polish companies from code: VAT, KRS, REGON, EU VAT &lpar;REST + Python + MCP&rpar;](https://dev.to/bartoszkuc/checking-polish-companies-from-code-vat-krs-regon-eu-vat-rest-python-mcp-2pkc)
+- [A hackathon is a compression test for how you actually work](https://dev.to/divyakush/a-hackathon-is-a-compression-test-for-how-you-actually-work-cf4)
+- [Why I built my own technical blog website.](https://dev.to/johnhaab/why-i-built-my-own-technical-blog-website-21kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
