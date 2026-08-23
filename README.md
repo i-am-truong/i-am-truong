@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m 14, I my coding environment is on a phone, and I shipped 3 projects till now.](https://dev.to/crimsonvoid/im-14-i-my-coding-environment-is-on-a-phone-and-i-shipped-3-projects-till-now-1lfb)
+- [The enum value that had never been written](https://dev.to/aghassis/the-enum-value-that-had-never-been-written-2j7c)
+- [Testcontainers: Real Dependencies in Disposable Docker Containers](https://dev.to/rhuturaj_takle/testcontainers-real-dependencies-in-disposable-docker-containers-49dg)
+- [Run AI Models Locally with Docker Model Runner and Spring AI](https://dev.to/ayshriv/run-ai-models-locally-with-docker-model-runner-and-spring-ai-2god)
 - [How to Check a Palindrome in Python](https://dev.to/adhi_sankar_45ccfb9350749/how-to-check-a-palindrome-in-python-4of1)
-- [Iskor Devlog #1 - Learning a Little Bit of Everything](https://dev.to/jedct/iskor-devlog-1-learning-a-little-bit-of-everything-243f)
-- [Test-Driven Development: My Jedi Training](https://dev.to/timevolt/test-driven-development-my-jedi-training-5a1o)
-- [Stop writing the same custom HTTP wrapper in every project](https://dev.to/sovan_kandar_cfc10d231218/stop-writing-the-same-custom-http-wrapper-in-every-project-1gka)
-- [The HTTP 429 That Turned Seven Minutes Into Zero Work](https://dev.to/jblaz6335/the-http-429-that-turned-seven-minutes-into-zero-work-3ppl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
