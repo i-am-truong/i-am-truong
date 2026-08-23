@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jesus Was Right. You Are God and Infinite.](https://dev.to/wiseai/jesus-was-right-you-are-god-and-infinite-6cc)
-- [Rate Limits Cost Me a Whole Night of Work — Here&#39;s the 46-Line Script That Fixed It](https://dev.to/bokuwalily/rate-limits-cost-me-a-whole-night-of-work-heres-the-46-line-script-that-fixed-it-7o3)
-- [How I recorded my first product demo in 54 seconds &lpar;OBS, ffmpeg, openai.fm&rpar;](https://dev.to/serhii_kalyna_730b636889c/how-i-recorded-my-first-product-demo-in-54-seconds-obs-ffmpeg-openaifm-50eg)
-- [My First Github Project:From a Local Folder to GitHub Using Git and SSH](https://dev.to/siele/my-first-github-projectfrom-a-local-folder-to-github-using-git-and-ssh-79g)
-- [Kubernetes Explained: Why Every Cloud &amp; DevOps Engineer Should Learn It 🚀](https://dev.to/yash_sonawane25/kubernetes-explained-why-every-cloud-devops-engineer-should-learn-it-3kgg)
+- [Idempotency is not a key, it&#39;s a contract](https://dev.to/mashhadi/idempotency-is-not-a-key-its-a-contract-534h)
+- [Your Amazon scraper is returning mixed currencies and won&#39;t tell you](https://dev.to/pagewright/your-amazon-scraper-is-returning-mixed-currencies-and-wont-tell-you-ohc)
+- [How to Create an MCP Server: Tutorial](https://dev.to/santattech/how-to-create-an-mcp-server-tutorial-5dj5)
+- [Offline_SOS_System](https://dev.to/annaraokoduri/offlinesossystem-2bdp)
+- [I checked my database logs and found a Senior Engineer stress-testing my AI 🕵️‍♂️](https://dev.to/koda2026/i-checked-my-database-logs-and-found-a-senior-engineer-stress-testing-my-ai-24p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
