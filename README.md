@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo solucionar el error \&quot;Text content does not match server-rendered HTML\&quot; en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-548o)
+- [# Understanding The Git Workflow :Working Directory, Staging, Commit and Push](https://dev.to/rachel_ngunjiri_4fef646b5/-understanding-the-git-workflow-working-directory-staging-commit-and-push-2dnh)
+- [I Built a Simple Way to Find Vegan Beauty Products in India](https://dev.to/veggora/i-built-a-simple-way-to-find-vegan-beauty-products-in-india-2pm5)
 - [I&#39;m 14, I my coding environment is on a phone, and I shipped 3 projects till now.](https://dev.to/crimsonvoid/im-14-i-my-coding-environment-is-on-a-phone-and-i-shipped-3-projects-till-now-1lfb)
-- [The enum value that had never been written](https://dev.to/aghassis/the-enum-value-that-had-never-been-written-2j7c)
-- [Testcontainers: Real Dependencies in Disposable Docker Containers](https://dev.to/rhuturaj_takle/testcontainers-real-dependencies-in-disposable-docker-containers-49dg)
-- [Run AI Models Locally with Docker Model Runner and Spring AI](https://dev.to/ayshriv/run-ai-models-locally-with-docker-model-runner-and-spring-ai-2god)
-- [How to Check a Palindrome in Python](https://dev.to/adhi_sankar_45ccfb9350749/how-to-check-a-palindrome-in-python-4of1)
+- [Arid 2.0: From Fast Python Duplicate Detection to CI-Ready Tooling](https://dev.to/spongeb0b/arid-20-from-fast-python-duplicate-detection-to-ci-ready-tooling-4h1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
