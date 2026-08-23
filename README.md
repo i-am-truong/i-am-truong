@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Claude Getting Dumber? You May Be Looking at the Wrong Part](https://dev.to/socialawy/is-claude-getting-dumber-you-may-be-looking-at-the-wrong-part-f6e)
-- [My Data Science &amp; Analytics Journey: Understanding Git, Git Bash &amp; GitHub](https://dev.to/ezzy_kinyua/-my-data-science-analytics-journey-understanding-git-git-bash-github-4c73)
-- [The 10-Task Gauntlet: Measuring a Free Coding Model Before You Trust It](https://dev.to/codejs_6920/the-10-task-gauntlet-measuring-a-free-coding-model-before-you-trust-it-1676)
-- [I Built an AI That Decides Which WhatsApp Messages Deserve Your Attention](https://dev.to/arul_cornelious/i-built-an-ai-that-decides-which-whatsapp-messages-deserve-your-attention-ho2)
-- [What a browser cannot do, and what that costs — notes from building a small paid lookup tool](https://dev.to/__c8f1377d7/what-a-browser-cannot-do-and-what-that-costs-notes-from-building-a-small-paid-lookup-tool-4f3j)
+- [Debugging Is the Killer App for Free Model Tokens — Here&#39;s the Workflow](https://dev.to/devrs_9381/debugging-is-the-killer-app-for-free-model-tokens-heres-the-workflow-1fda)
+- [VeloxDB : database admin tool for Linux](https://dev.to/abeni16/veloxdb-database-admin-tool-for-linux-7l9)
+- [Dynamic Programming: The Matrix of Patterns](https://dev.to/timevolt/dynamic-programming-the-matrix-of-patterns-4aha)
+- [The CSS bug that taught me JS-injected styles always win](https://dev.to/nogandev/the-css-bug-that-taught-me-js-injected-styles-always-win-2io2)
+- [Making AI Coding Agents More Efficient: My Local Toolkit](https://dev.to/ammarnajjar/making-ai-coding-agents-more-efficient-my-local-toolkit-86n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
