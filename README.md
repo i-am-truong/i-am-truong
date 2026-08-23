@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why engineers need commercial awareness, not just technical depth](https://dev.to/divyakush/why-engineers-need-commercial-awareness-not-just-technical-depth-3o19)
-- [Keeping Mac work alive without pretending awake means safe](https://dev.to/afterlid/keeping-mac-work-alive-without-pretending-awake-means-safe-4j8m)
-- [Checking Polish companies from code: VAT, KRS, REGON, EU VAT &lpar;REST + Python + MCP&rpar;](https://dev.to/bartoszkuc/checking-polish-companies-from-code-vat-krs-regon-eu-vat-rest-python-mcp-2pkc)
-- [A hackathon is a compression test for how you actually work](https://dev.to/divyakush/a-hackathon-is-a-compression-test-for-how-you-actually-work-cf4)
-- [Why I built my own technical blog website.](https://dev.to/johnhaab/why-i-built-my-own-technical-blog-website-21kp)
+- [When Learning to Code Becomes a Loop: Why I’m Choosing to Build](https://dev.to/goldheart/when-learning-to-code-becomes-a-loop-why-im-choosing-to-build-207a)
+- [One Knowledge Base, Four Surfaces: Pages, Graph, Search Index, and MCP](https://dev.to/makaminski1337/one-knowledge-base-four-surfaces-pages-graph-search-index-and-mcp-5a5p)
+- [How I Built Smart Scraper M2M: A Fast ~30ms Scraper API for AI Agents](https://dev.to/hasna_dev2/how-i-built-smart-scraper-m2m-a-fast-30ms-scraper-api-for-ai-agents-1k9f)
+- [Too Many Req: A Bucket List Guide to Building a Rate Limiter](https://dev.to/lovestaco/too-many-req-a-bucket-list-guide-to-building-a-rate-limiter-529a)
+- [Cómo pensamos el cifrado de PII en una app Ionic + Angular, para cumplir el RGPD y la LOPD-GDD](https://dev.to/dmorfav/como-pensamos-el-cifrado-de-pii-en-una-app-ionic-angular-para-cumplir-el-rgpd-y-la-lopd-gdd-2o3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
