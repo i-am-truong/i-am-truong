@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
-- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
-- [从 Demo 到生产：那些真正让 AI Agent 敢上线的护栏](https://dev.to/sunny_1024k/cong-demo-dao-sheng-chan-na-xie-zhen-zheng-rang-ai-agent-gan-shang-xian-de-hu-lan-3p6e)
-- [From Demo to Production: The Guardrails That Make an AI Agent Safe to Ship](https://dev.to/sunny_1024k/from-demo-to-production-the-guardrails-that-make-an-ai-agent-safe-to-ship-d2o)
-- [App-like UX in Next.js 16.3](https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh)
+- [The 10-Task Gauntlet: Measuring a Free Coding Model Before You Trust It](https://dev.to/codejs_6920/the-10-task-gauntlet-measuring-a-free-coding-model-before-you-trust-it-1676)
+- [I Built an AI That Decides Which WhatsApp Messages Deserve Your Attention](https://dev.to/arul_cornelious/i-built-an-ai-that-decides-which-whatsapp-messages-deserve-your-attention-ho2)
+- [Aayra: Building an AI Agent to Help Students Learn, Adapt, and Grow](https://dev.to/jidnya_26/aayra-building-an-ai-agent-to-help-students-learn-adapt-and-grow-1k33)
+- [Week 10 of #100DaysOfCode: Exploring Microservices and Modern Architecture](https://dev.to/onatade_abdulmajeed/week-10-of-100daysofcode-exploring-microservices-and-modern-architecture-4a9c)
+- [Dev log #18 From Redis Brokers to Knowledge Graphs: A 177-Commit Sprint](https://dev.to/yashksaini/dev-log-18-from-redis-brokers-to-knowledge-graphs-a-177-commit-sprint-1mni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
