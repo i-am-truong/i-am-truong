@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://dev.to/rosgluk/pi-coding-agent-review-minimal-hackable-ai-coding-cli-4ge8)
+- [# I Didn’t Plan to Build a 4,000-Page Site](https://dev.to/_4131c5ac4bbd76f422b8c6/-i-didnt-plan-to-build-a-4000-page-site-3nd9)
+- [I Was Learning PyTorch, Then I Accidentally Started Building My Own AI Training Framework](https://dev.to/puneetkumar2010/i-was-learning-pytorch-then-i-accidentally-started-building-my-own-ai-training-framework-55a9)
+- [Your AI Coding Agent Is Probably Wasting Half Its Context Window](https://dev.to/numbpill3d/your-ai-coding-agent-is-probably-wasting-half-its-context-window-130)
 - [[Boost]](https://dev.to/anthonymax/-34j0)
-- [MCP stdio Protocol&#39;s 3 Hidden Traps: When All Unit Tests Pass but the MCP Server Won&#39;t Respond](https://dev.to/yuelinghuashu/mcp-stdio-protocols-3-hidden-traps-when-all-unit-tests-pass-but-the-mcp-server-wont-respond-53l6)
-- [Title: Guess Master – The Ultimate Number Guessing Challenge](https://dev.to/sarthakgholve13-py/title-guess-master-the-ultimate-number-guessing-challenge-4n9h)
-- [Getting Started in QA — Why Now?](https://dev.to/dev-dinakajoy/getting-started-in-qa-why-now-3bb1)
-- [Building Local Multiplayer iOS Experiences Without a Server](https://dev.to/amol_srivastava_7fb7543ef/building-local-multiplayer-ios-experiences-without-a-server-1678)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
