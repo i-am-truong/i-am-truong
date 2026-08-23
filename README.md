@@ -120,16 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Supply-Chain Worm Wrote Itself Into Claude Code&#39;s Hook Files to Survive Credential Rotation](https://dev.to/ramdai_bista/a-supply-chain-worm-wrote-itself-into-claude-codes-hook-files-to-survive-credential-rotation-5ce4)
-- [From brute force to optimal: leveling up like a Jedi](https://dev.to/timevolt/from-brute-force-to-optimal-leveling-up-like-a-jedi-2be2)
-- [How to Block Disposable Email Signups Without SMTP Verification](https://dev.to/nproejct/how-to-block-disposable-email-signups-without-smtp-verification-1lk8)
-- [No LeetCode. No club leadership. No internship on my resume.
-Still got the offer.
-
-I wrote about how that happened — and honestly, the path was nowhere near what I expected.
-
-What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-1f18)
-- [Automating the Overhead: Building a Multi-Tool Developer Assistant with Python and Gemini](https://dev.to/yugeshwaran-gm/automating-the-overhead-building-a-multi-tool-developer-assistant-with-python-and-gemini-264m)
+- [Object Storage vs File Storage: When to Use Which &lpar;2026&rpar;](https://dev.to/ethan-carter/object-storage-vs-file-storage-when-to-use-which-2026-mc6)
+- [Solving AI Amnesia: Why Your Coding Agents Needs Institutional Memory](https://dev.to/alexleotz23086493/solving-ai-amnesia-why-your-coding-agents-needs-institutional-memory-5c46)
+- [From a Local Folder to Github](https://dev.to/gloriah_john_/from-a-local-folder-to-github-i98)
+- [How to Choose the Right Web Development Approach for a Business Website](https://dev.to/epixelservices/how-to-choose-the-right-web-development-approach-for-a-business-website-2j1m)
+- [Scrum Myths We Retired After Thursday Spillover](https://dev.to/devops_oasis/scrum-myths-we-retired-after-thursday-spillover-5095)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
