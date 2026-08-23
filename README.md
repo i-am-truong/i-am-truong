@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [# Stopping S3 Data Exfiltration in Real Time: A Step-by-Step Incident Response](https://dev.to/nghidanh2005/-stopping-s3-data-exfiltration-in-real-time-a-step-by-step-incident-response-2jp)
+- [My First week in data Engineering:Setting Up My tools](https://dev.to/calvince_okoth_16b57a5ea9/my-first-week-in-data-engineeringsetting-up-my-tools-219)
 - [Same Zone, Same Projection, 427 Metres Apart](https://dev.to/srdjan_poppovic/same-zone-same-projection-427-metres-apart-1k9a)
 - [#Git Workflow](https://dev.to/tkay/git-workflow-543p)
 - [Backpropagation by Hand: Two Layers, a Pen, and Then Autograd Agrees](https://dev.to/pytorchfromgroundup/backpropagation-by-hand-two-layers-a-pen-and-then-autograd-agrees-13i6)
-- [I Built TTMAIL: A Fast, Serverless Disposable Temp Mail Service with Next.js 15 &amp; Cloudflare D1](https://dev.to/ttmail/i-built-ttmail-a-fast-serverless-disposable-temp-mail-service-with-nextjs-15-cloudflare-d1-46mc)
-- [What 166K Clicks Taught Me About Using AI for SEO](https://dev.to/iammofidul/what-166k-clicks-taught-me-about-using-ai-for-seo-1pe6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
