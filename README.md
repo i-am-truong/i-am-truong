@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Domux: a compact open model for smart-home command understanding at the edge](https://dev.to/sparkllm/domux-a-compact-open-model-for-smart-home-command-understanding-at-the-edge-f8l)
-- [BrunnerCTF : WordPressed to Root Writeup](https://dev.to/exploitnotes/brunnerctf-wordpressed-to-root-writeup-3o62)
-- [What if you don&#39;t have to build a login page again?](https://dev.to/muhammadkholidb/what-if-you-dont-have-to-build-a-login-page-again-36ag)
-- [Knowing When to Use If/Else vs. Switch in JavaScript](https://dev.to/joelezema/knowing-when-to-use-ifelse-vs-switch-in-javascript-3777)
-- [I turned browser cookie counts into game currency - meet Crumbongo](https://dev.to/teobella/i-turned-browser-cookie-counts-into-game-currency-meet-crumbongo-48bo)
+- [从 Demo 到生产：那些真正让 AI Agent 敢上线的护栏](https://dev.to/sunny_1024k/cong-demo-dao-sheng-chan-na-xie-zhen-zheng-rang-ai-agent-gan-shang-xian-de-hu-lan-3p6e)
+- [From Demo to Production: The Guardrails That Make an AI Agent Safe to Ship](https://dev.to/sunny_1024k/from-demo-to-production-the-guardrails-that-make-an-ai-agent-safe-to-ship-d2o)
+- [App-like UX in Next.js 16.3](https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh)
+- [I Built a Python Bot That Plays Blackjack on Discord&#39;s OwO Bot 🃏](https://dev.to/wannabeghost/i-built-a-python-bot-that-plays-blackjack-on-discords-owo-bot-100c)
+- [From Local Folder to Github: Setting Up my First Project With Git and Github: A Guide](https://dev.to/njoroge_peter_5f72998620f/from-local-folder-to-github-setting-up-my-first-project-with-git-and-github-a-guide-4lpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
