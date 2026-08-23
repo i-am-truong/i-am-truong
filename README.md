@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2)
-- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7)
-- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel)
-- [A Developer&#39;s Checklist for Every RAG Lifecycle &lpar;Beyond Chunk-Embed-Search&rpar;](https://dev.to/tanmay_bhurkunde/a-developers-checklist-for-every-rag-lifecycle-beyond-chunk-embed-search-5ab9)
-- [Understanding the Git Workflow: Working Directory, Staging, Commit, and Push](https://dev.to/sam_manox/understanding-the-git-workflow-working-directory-staging-commit-and-push-14c9)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git &amp; SSH](https://dev.to/mich2025/my-first-github-project-from-a-local-folder-to-github-using-git-ssh-5gi2)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/gabriel_wainaina_f7281529/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-34jj)
+- [Product Engineering Alignment](https://dev.to/mjodeh/product-engineering-alignment-lj)
+- [Shipping Stock CLIs as Subprocess Instead of Static-Linking SDKs](https://dev.to/jearry/shipping-stock-clis-as-subprocess-instead-of-static-linking-sdks-1jl8)
+- [Building a Live, User-Controlled Canvas Background System That Doesn&#39;t Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
