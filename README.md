@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ESP32 + Python: From Microcontroller to IoT](https://dev.to/janadapelahara/esp32-python-from-microcontroller-to-iot-2498)
+- [Log Level Design and Rotation: Why Apps Use DEBUG/INFO/WARNING/ERROR](https://dev.to/susumun/log-level-design-and-rotation-why-apps-use-debuginfowarningerror-4bdi)
+- [Same tokens. Different DNA. Why a Texas notebook must not become a parlor.](https://dev.to/kayforkind/same-tokens-different-dna-why-a-texas-notebook-must-not-become-a-parlor-2n82)
+- [Running the AWS CLI Against Your Own Hardware](https://dev.to/toddyholiday/running-the-aws-cli-against-your-own-hardware-11i2)
 - [How we run five coding agents side by side in one window](https://dev.to/eliseomdq/how-we-run-five-coding-agents-side-by-side-in-one-window-32gf)
-- [I pushed the badBANANA Threat Observatory public](https://dev.to/gnomeman4201/i-pushed-the-badbanana-threat-observatory-public-49e8)
-- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
-- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
-- [Trusted AI Agent Transactions, Part 2: PingFederate Token Exchange](https://dev.to/darkedges/trusted-ai-agent-transactions-part-2-pingfederate-token-exchange-35pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
