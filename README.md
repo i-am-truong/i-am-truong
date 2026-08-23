@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
 - [We’re running an online hackathon for building concurrent AI agents — Sep 5–6](https://dev.to/jigjoy/were-running-an-online-hackathon-for-building-concurrent-ai-agents-sep-5-6-3n20)
 - [Atlassian Now Trains Its AI on Your Work by Default — and Full Opt-Out Is an Enterprise Feature](https://dev.to/theaidownside/atlassian-now-trains-its-ai-on-your-work-by-default-and-full-opt-out-is-an-enterprise-feature-5661)
 - [Why I Built an Ad-Free Alternative to Untappd](https://dev.to/brent_pilon_1a20d8529d1eb/why-i-built-an-ad-free-alternative-to-untappd-2nhc)
 - [Enforcing a style rule with a linter that actually fails the build](https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-a-style-rule-with-a-linter-that-actually-fails-the-build-1k13)
-- [Don&#39;t validate the output. Validate that you were allowed to generate it.](https://dev.to/takahiro_hashito_a1f3f0dc/dont-validate-the-output-validate-that-you-were-allowed-to-generate-it-2ekh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
