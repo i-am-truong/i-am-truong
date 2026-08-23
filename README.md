@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an AI That Fixes Terraform Drift Automatically](https://dev.to/sudarshan_thakur_1e141b99/i-built-an-ai-that-fixes-terraform-drift-automatically-p97)
+- [Styled Unicode Breaks Character Counters](https://dev.to/3ugen/styled-unicode-breaks-character-counters-fg1)
+- [Everything, All at Once](https://dev.to/thesanjeevsharma/everything-all-at-once-50pd)
+- [I Built an Open-Source AWS Cloud Security tool for solo devs &amp; founders !](https://dev.to/kavee-dev/i-built-an-open-source-aws-cloud-security-tool-for-solo-devs-founders--58f7)
 - [Debugging Is the Killer App for Free Model Tokens — Here&#39;s the Workflow](https://dev.to/devrs_9381/debugging-is-the-killer-app-for-free-model-tokens-heres-the-workflow-1fda)
-- [VeloxDB : database admin tool for Linux](https://dev.to/abeni16/veloxdb-database-admin-tool-for-linux-7l9)
-- [Dynamic Programming: The Matrix of Patterns](https://dev.to/timevolt/dynamic-programming-the-matrix-of-patterns-4aha)
-- [The CSS bug that taught me JS-injected styles always win](https://dev.to/nogandev/the-css-bug-that-taught-me-js-injected-styles-always-win-2io2)
-- [Making AI Coding Agents More Efficient: My Local Toolkit](https://dev.to/ammarnajjar/making-ai-coding-agents-more-efficient-my-local-toolkit-86n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
