@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Remote Troubleshooting Restores VPN Server After Failed Restart, Resolving Inaccessibility Issue](https://dev.to/elenbit/remote-troubleshooting-restores-vpn-server-after-failed-restart-resolving-inaccessibility-issue-3585)
-- [Building a Custom Kubernetes Scheduler&lpar;with Simple ShellScripts&rpar;: A Hands-On Lab Journey](https://dev.to/hardik_arora999/building-a-custom-kubernetes-scheduler-a-hands-on-lab-journey-be8)
-- [Developer Experience Improves with Go&#39;s Faster Compile Times and Ease of Use Compared to Swift](https://dev.to/viklogix/developer-experience-improves-with-gos-faster-compile-times-and-ease-of-use-compared-to-swift-49em)
-- [My Two Weeks At Luxe Dev Hq Data Analysis Class: From a Local Folder to GitHub Using Git and SSH](https://dev.to/stan7210/my-two-weeks-at-luxe-dev-hq-data-analysis-class-from-a-local-folder-to-github-using-git-and-ssh-2bco)
-- [Causal Lineage and Session Replay with ZizkaDB](https://dev.to/mir_arshadalitalpur_1b3/causal-lineage-and-session-replay-with-zizkadb-350b)
+- [I’m testing a faster way to research podcast guests before an interview](https://dev.to/usman076/im-testing-a-faster-way-to-research-podcast-guests-before-an-interview-25mk)
+- [Concertos VR 2026: o futuro imersivo dos shows ao vivo](https://dev.to/leojulieta/concertos-vr-2026-o-futuro-imersivo-dos-shows-ao-vivo-5cn0)
+- [Making webpack&#39;s Docs Update Themselves | GSoC 2026, wrapped](https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn)
+- [RPA vs BPA vs Intelligent Automation: A Practical Map for Ops Leaders](https://dev.to/snehasishkonger/rpa-vs-bpa-vs-intelligent-automation-a-practical-map-for-ops-leaders-3459)
+- [How to Become an AWS Community Builder: Complete Guide for 2027 Applications](https://dev.to/durrello/how-to-become-an-aws-community-builder-complete-guide-for-2027-applications-2911)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
