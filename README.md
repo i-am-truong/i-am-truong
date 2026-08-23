@@ -120,11 +120,16 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I’m testing a faster way to research podcast guests before an interview](https://dev.to/usman076/im-testing-a-faster-way-to-research-podcast-guests-before-an-interview-25mk)
-- [Concertos VR 2026: o futuro imersivo dos shows ao vivo](https://dev.to/leojulieta/concertos-vr-2026-o-futuro-imersivo-dos-shows-ao-vivo-5cn0)
-- [Making webpack&#39;s Docs Update Themselves | GSoC 2026, wrapped](https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn)
-- [RPA vs BPA vs Intelligent Automation: A Practical Map for Ops Leaders](https://dev.to/snehasishkonger/rpa-vs-bpa-vs-intelligent-automation-a-practical-map-for-ops-leaders-3459)
-- [How to Become an AWS Community Builder: Complete Guide for 2027 Applications](https://dev.to/durrello/how-to-become-an-aws-community-builder-complete-guide-for-2027-applications-2911)
+- [A Supply-Chain Worm Wrote Itself Into Claude Code&#39;s Hook Files to Survive Credential Rotation](https://dev.to/ramdai_bista/a-supply-chain-worm-wrote-itself-into-claude-codes-hook-files-to-survive-credential-rotation-5ce4)
+- [From brute force to optimal: leveling up like a Jedi](https://dev.to/timevolt/from-brute-force-to-optimal-leveling-up-like-a-jedi-2be2)
+- [How to Block Disposable Email Signups Without SMTP Verification](https://dev.to/nproejct/how-to-block-disposable-email-signups-without-smtp-verification-1lk8)
+- [No LeetCode. No club leadership. No internship on my resume.
+Still got the offer.
+
+I wrote about how that happened — and honestly, the path was nowhere near what I expected.
+
+What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-1f18)
+- [Automating the Overhead: Building a Multi-Tool Developer Assistant with Python and Gemini](https://dev.to/yugeshwaran-gm/automating-the-overhead-building-a-multi-tool-developer-assistant-with-python-and-gemini-264m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
