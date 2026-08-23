@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Stopping S3 Data Exfiltration in Real Time: A Step-by-Step Incident Response](https://dev.to/nghidanh2005/-stopping-s3-data-exfiltration-in-real-time-a-step-by-step-incident-response-2jp)
-- [My First week in data Engineering:Setting Up My tools](https://dev.to/calvince_okoth_16b57a5ea9/my-first-week-in-data-engineeringsetting-up-my-tools-219)
-- [Same Zone, Same Projection, 427 Metres Apart](https://dev.to/srdjan_poppovic/same-zone-same-projection-427-metres-apart-1k9a)
-- [#Git Workflow](https://dev.to/tkay/git-workflow-543p)
-- [Backpropagation by Hand: Two Layers, a Pen, and Then Autograd Agrees](https://dev.to/pytorchfromgroundup/backpropagation-by-hand-two-layers-a-pen-and-then-autograd-agrees-13i6)
+- [How to Check a Palindrome in Python](https://dev.to/adhi_sankar_45ccfb9350749/how-to-check-a-palindrome-in-python-4of1)
+- [Iskor Devlog #1 - Learning a Little Bit of Everything](https://dev.to/jedct/iskor-devlog-1-learning-a-little-bit-of-everything-243f)
+- [Test-Driven Development: My Jedi Training](https://dev.to/timevolt/test-driven-development-my-jedi-training-5a1o)
+- [Stop writing the same custom HTTP wrapper in every project](https://dev.to/sovan_kandar_cfc10d231218/stop-writing-the-same-custom-http-wrapper-in-every-project-1gka)
+- [The HTTP 429 That Turned Seven Minutes Into Zero Work](https://dev.to/jblaz6335/the-http-429-that-turned-seven-minutes-into-zero-work-3ppl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
