@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Android Storage in 2026: Scoped Storage, SAF, and Why Filesystem Abstractions Still Matter](https://dev.to/slambyte/android-storage-in-2026-scoped-storage-saf-and-why-filesystem-abstractions-still-matter-30e)
-- [Accessibility remediation is software engineering, not a checklist](https://dev.to/praiztech/accessibility-remediation-is-software-engineering-not-a-checklist-3d64)
-- [You Probably Don&#39;t Need a Server For That](https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi)
-- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
-- [My agents kept overwriting each other, so I gave them claims](https://dev.to/alkisyuv/my-agents-kept-overwriting-each-other-so-i-gave-them-claims-2h8k)
+- [X86_64 From Source Code to Binary: What Does GCC Actually Do ? DEP / NX](https://dev.to/ddupard/x8664-from-source-code-to-binary-what-does-gcc-actually-do-dep-nx-1be7)
+- [Memory Management Explained for Developers](https://dev.to/mr_elvis/memory-management-explained-for-developers-21l6)
+- [The Dude, Online: an AI blog about learning a C runtime by breaking it](https://dev.to/objc-dude/the-dude-online-an-ai-blog-about-learning-a-c-runtime-by-breaking-it-1g82)
+- [It cost HOW many tokens to fix that typo?](https://dev.to/gojongo/it-cost-how-many-tokens-to-fix-that-typo-3n50)
+- [🏠 HomeLab Chronicles: Episode 3 - Ghost in the Mesh](https://dev.to/snskarora/homelab-chronicles-episode-3-ghost-in-the-mesh-1hna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
