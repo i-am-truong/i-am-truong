@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Object Storage vs File Storage: When to Use Which &lpar;2026&rpar;](https://dev.to/ethan-carter/object-storage-vs-file-storage-when-to-use-which-2026-mc6)
-- [Solving AI Amnesia: Why Your Coding Agents Needs Institutional Memory](https://dev.to/alexleotz23086493/solving-ai-amnesia-why-your-coding-agents-needs-institutional-memory-5c46)
-- [From a Local Folder to Github](https://dev.to/gloriah_john_/from-a-local-folder-to-github-i98)
-- [How to Choose the Right Web Development Approach for a Business Website](https://dev.to/epixelservices/how-to-choose-the-right-web-development-approach-for-a-business-website-2j1m)
-- [Scrum Myths We Retired After Thursday Spillover](https://dev.to/devops_oasis/scrum-myths-we-retired-after-thursday-spillover-5095)
+- [Three Russian Clusters Are Phishing Auth Flows, Not Passwords: OAuth, App Passwords, and WhatsApp Device Linking](https://dev.to/etairos/three-russian-clusters-are-phishing-auth-flows-not-passwords-oauth-app-passwords-and-whatsapp-mi5)
+- [How a Dedup Pass Deleted My Training Curriculum](https://dev.to/megapixel99/how-a-dedup-pass-deleted-my-training-curriculum-kdf)
+- [Unicode Text in JavaScript: How Fancy Text Generators Actually Work](https://dev.to/textstylr/unicode-text-in-javascript-how-fancy-text-generators-actually-work-1p8o)
+- [I Ran 3 AI Labs Through the Company Info API. 1 Stood Out.](https://dev.to/onizuka/i-ran-3-ai-labs-through-the-company-info-api-1-stood-out-1e6g)
+- [Protected nothing](https://dev.to/thekilteddev/protected-nothing-2fgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
