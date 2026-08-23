@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BrunnerCTF 2026 - Welcome Aboard &lpar;Web&rpar;](https://dev.to/exploitnotes/brunnerctf-2026-welcome-aboard-web-391d)
+- [Building CUBELANDS for Steam: an early alpha generated from cubes](https://dev.to/mario_jgoestarosso_5c91/building-cubelands-for-steam-an-early-alpha-generated-from-cubes-2m9d)
+- [22 tests passing, and my solver still told you to click a mine](https://dev.to/dylanhuang/22-tests-passing-and-my-solver-still-told-you-to-click-a-mine-46d8)
+- [Let Your AI Agent Use Slack: One CLI, No Slack App Needed](https://dev.to/shaharia/let-your-ai-agent-use-slack-one-cli-no-slack-app-needed-1279)
 - [I Wanted to Process One Image. Somehow I Ended Up Building APIC.](https://dev.to/akhourianmolkumar/i-wanted-to-process-one-image-somehow-i-ended-up-building-apic-464m)
-- [Leetcode 41 : First Missing Positive Integer](https://dev.to/suhara_j_salim/leetcode-41-first-missing-positive-integer-4doc)
-- [Parte 2: Resolvendo o Desafio Técnico de Backend do PicPay](https://dev.to/_devzin/parte-2-resolvendo-o-desafio-tecnico-de-backend-do-picpay-4621)
-- [Most App Store Rejections Aren&#39;t About Your Code](https://dev.to/maclessdev/most-app-store-rejections-arent-about-your-code-3p75)
-- [I stopped spawning a second Pi just to switch sessions](https://dev.to/imper_7cde72b79d2529291ec/i-stopped-spawning-a-second-pi-just-to-switch-sessions-9cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
