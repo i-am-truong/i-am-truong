@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First GitHub Project: From a Local Folder to GitHub Using Git &amp; SSH](https://dev.to/mich2025/my-first-github-project-from-a-local-folder-to-github-using-git-ssh-5gi2)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/gabriel_wainaina_f7281529/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-34jj)
-- [Product Engineering Alignment](https://dev.to/mjodeh/product-engineering-alignment-lj)
-- [Shipping Stock CLIs as Subprocess Instead of Static-Linking SDKs](https://dev.to/jearry/shipping-stock-clis-as-subprocess-instead-of-static-linking-sdks-1jl8)
-- [Building a Live, User-Controlled Canvas Background System That Doesn&#39;t Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7)
+- [Same Zone, Same Projection, 427 Metres Apart](https://dev.to/srdjan_poppovic/same-zone-same-projection-427-metres-apart-1k9a)
+- [#Git Workflow](https://dev.to/tkay/git-workflow-543p)
+- [Backpropagation by Hand: Two Layers, a Pen, and Then Autograd Agrees](https://dev.to/pytorchfromgroundup/backpropagation-by-hand-two-layers-a-pen-and-then-autograd-agrees-13i6)
+- [I Built TTMAIL: A Fast, Serverless Disposable Temp Mail Service with Next.js 15 &amp; Cloudflare D1](https://dev.to/ttmail/i-built-ttmail-a-fast-serverless-disposable-temp-mail-service-with-nextjs-15-cloudflare-d1-46mc)
+- [What 166K Clicks Taught Me About Using AI for SEO](https://dev.to/iammofidul/what-166k-clicks-taught-me-about-using-ai-for-seo-1pe6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
