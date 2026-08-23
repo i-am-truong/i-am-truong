@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [X86_64 From Source Code to Binary: What Does GCC Actually Do ? DEP / NX](https://dev.to/ddupard/x8664-from-source-code-to-binary-what-does-gcc-actually-do-dep-nx-1be7)
-- [Memory Management Explained for Developers](https://dev.to/mr_elvis/memory-management-explained-for-developers-21l6)
-- [The Dude, Online: an AI blog about learning a C runtime by breaking it](https://dev.to/objc-dude/the-dude-online-an-ai-blog-about-learning-a-c-runtime-by-breaking-it-1g82)
-- [It cost HOW many tokens to fix that typo?](https://dev.to/gojongo/it-cost-how-many-tokens-to-fix-that-typo-3n50)
-- [🏠 HomeLab Chronicles: Episode 3 - Ghost in the Mesh](https://dev.to/snskarora/homelab-chronicles-episode-3-ghost-in-the-mesh-1hna)
+- [Trusted AI Agent Transactions, Part 5: End-to-End Proof](https://dev.to/darkedges/trusted-ai-agent-transactions-part-5-end-to-end-proof-44b5)
+- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
+- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
+- [Trusted AI Agent Transactions, Part 2: PingFederate Token Exchange](https://dev.to/darkedges/trusted-ai-agent-transactions-part-2-pingfederate-token-exchange-35pn)
+- [Trusted AI Agent Transactions, Part 1: The Identity Problem](https://dev.to/darkedges/trusted-ai-agent-transactions-part-1-the-identity-problem-17aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
