@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Claude Getting Dumber? You May Be Looking at the Wrong Part](https://dev.to/socialawy/is-claude-getting-dumber-you-may-be-looking-at-the-wrong-part-f6e)
+- [My Data Science &amp; Analytics Journey: Understanding Git, Git Bash &amp; GitHub](https://dev.to/ezzy_kinyua/-my-data-science-analytics-journey-understanding-git-git-bash-github-4c73)
 - [The 10-Task Gauntlet: Measuring a Free Coding Model Before You Trust It](https://dev.to/codejs_6920/the-10-task-gauntlet-measuring-a-free-coding-model-before-you-trust-it-1676)
 - [I Built an AI That Decides Which WhatsApp Messages Deserve Your Attention](https://dev.to/arul_cornelious/i-built-an-ai-that-decides-which-whatsapp-messages-deserve-your-attention-ho2)
-- [Aayra: Building an AI Agent to Help Students Learn, Adapt, and Grow](https://dev.to/jidnya_26/aayra-building-an-ai-agent-to-help-students-learn-adapt-and-grow-1k33)
-- [Week 10 of #100DaysOfCode: Exploring Microservices and Modern Architecture](https://dev.to/onatade_abdulmajeed/week-10-of-100daysofcode-exploring-microservices-and-modern-architecture-4a9c)
-- [Dev log #18 From Redis Brokers to Knowledge Graphs: A 177-Commit Sprint](https://dev.to/yashksaini/dev-log-18-from-redis-brokers-to-knowledge-graphs-a-177-commit-sprint-1mni)
+- [What a browser cannot do, and what that costs — notes from building a small paid lookup tool](https://dev.to/__c8f1377d7/what-a-browser-cannot-do-and-what-that-costs-notes-from-building-a-small-paid-lookup-tool-4f3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
