@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your degree got you the interview. This is why it isn&#39;t getting you the job.](https://dev.to/theworkbehindtheluck/your-degree-got-you-the-interview-this-is-why-it-isnt-getting-you-the-job-30o6)
-- [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
-- [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
-- [Healthtech Welcome Email — 4 API Signals Before Raising Dedicated-Domain Volume](https://dev.to/marcorossi4891/healthtech-welcome-email-4-api-signals-before-raising-dedicated-domain-volume-1jbe)
-- [Auditing an Existing Subnet Plan Before a Cloud Migration](https://dev.to/lizely/auditing-an-existing-subnet-plan-before-a-cloud-migration-2f6g)
+- [Understanding Git Workflow from Working Directory, Staging, Commit, and Push.](https://dev.to/expertwriter/understanding-git-workflow-from-working-directory-staging-commit-and-push-4kdi)
+- [Model Cascade: making LLM classification cheaper](https://dev.to/boris9027/model-cascade-making-llm-classification-cheaper-2kii)
+- [How I Built a Zero-Knowledge 2FA Authenticator Using Rust, Tauri, and React](https://dev.to/euromoscow/how-i-built-a-zero-knowledge-2fa-authenticator-using-rust-tauri-and-react-1co6)
+- [I built a local heuristic to catch AI sounding product copy. Here is what it actually catches and what it misses.](https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73)
+- [Why this blog exists](https://dev.to/loopandretry/why-this-blog-exists-37pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
