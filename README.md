@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
+- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
 - [Understanding Git Workflow from Working Directory, Staging, Commit, and Push.](https://dev.to/expertwriter/understanding-git-workflow-from-working-directory-staging-commit-and-push-4kdi)
 - [Model Cascade: making LLM classification cheaper](https://dev.to/boris9027/model-cascade-making-llm-classification-cheaper-2kii)
 - [How I Built a Zero-Knowledge 2FA Authenticator Using Rust, Tauri, and React](https://dev.to/euromoscow/how-i-built-a-zero-knowledge-2fa-authenticator-using-rust-tauri-and-react-1co6)
-- [I built a local heuristic to catch AI sounding product copy. Here is what it actually catches and what it misses.](https://dev.to/buildittheywillcome/i-built-a-local-heuristic-to-catch-ai-sounding-product-copy-here-is-what-it-actually-catches-and-1n73)
-- [Why this blog exists](https://dev.to/loopandretry/why-this-blog-exists-37pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
