@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Bug That Passed Every Test — And Still Took Production Down](https://dev.to/antfarm-tech/the-bug-that-passed-every-test-and-still-took-production-down-3n1p)
-- [Mix and Match: Serving a Bedrock Agent to Google and Azure](https://dev.to/aws-builders/mix-and-match-serving-a-bedrock-agent-to-google-and-azure-4kg8)
-- [A Windows Service is Down. Now What?](https://dev.to/prateek_srivastava_6a5661/a-windows-service-is-down-now-what-2gh9)
-- [Harden for the reader: three red flags an AppSec engineer hits on `git clone`](https://dev.to/elwin_ernst/harden-for-the-reader-three-red-flags-an-appsec-engineer-hits-on-git-clone-508o)
-- [Seven interview rounds is a confession that your bar is broken](https://dev.to/adioof/seven-interview-rounds-is-a-confession-that-your-bar-is-broken-4ig2)
+- [Your degree got you the interview. This is why it isn&#39;t getting you the job.](https://dev.to/theworkbehindtheluck/your-degree-got-you-the-interview-this-is-why-it-isnt-getting-you-the-job-30o6)
+- [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
+- [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
+- [Healthtech Welcome Email — 4 API Signals Before Raising Dedicated-Domain Volume](https://dev.to/marcorossi4891/healthtech-welcome-email-4-api-signals-before-raising-dedicated-domain-volume-1jbe)
+- [Auditing an Existing Subnet Plan Before a Cloud Migration](https://dev.to/lizely/auditing-an-existing-subnet-plan-before-a-cloud-migration-2f6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
