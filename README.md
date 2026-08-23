@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reliable Multi-Agent Pipeline with the Claude API: Orchestration Patterns That Hold Up in Production](https://dev.to/theaishop/building-a-reliable-multi-agent-pipeline-with-the-claude-api-orchestration-patterns-that-hold-up-29pl)
-- [Preview the November 2026 AWS SDK for Java retry defaults on your own traffic](https://dev.to/bibekmhj/preview-the-november-2026-aws-sdk-for-java-retry-defaults-on-your-own-traffic-2g4i)
-- [Your Agent Loop Is Lying About Being Done: Writing Verifiable Stop Conditions](https://dev.to/shipwithaiio/your-agent-loop-is-lying-about-being-done-writing-verifiable-stop-conditions-270p)
-- [I failed at time management five times. Then I audited where the time actually went.](https://dev.to/hyunho_lee_e4373878e60f62/i-failed-at-time-management-five-times-then-i-audited-where-the-time-actually-went-ode)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/alfred-otuko/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-3lae)
+- [Kubernetes Architecture](https://dev.to/tejas_kp/kubernetes-architecture-32c9)
+- [Why AI Virtual Staging Needs Constraints More Than It Needs More Creativity](https://dev.to/phoenix0714/why-ai-virtual-staging-needs-constraints-more-than-it-needs-more-creativity-1e5m)
+- [ByteByteGo in 2026: Is It Still Worth It for System Design Interview Prep?](https://dev.to/somadevtoo/bytebytego-in-2026-is-it-still-worth-it-for-system-design-interview-prep-2dgn)
+- [New here — building WhiteDragon-dev 🐉](https://dev.to/whitedragon/new-here-building-whitedragon-dev-27bj)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/prudence_korir_/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-4k5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
