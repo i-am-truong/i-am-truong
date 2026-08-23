@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Next step to client-side storage](https://dev.to/neel-vekariya/next-step-to-client-side-storage-4g83)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/jkisutsa/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-27nh)
+- [Redora 0.3.1 — Redis for NestJS](https://dev.to/neba/redora-031-redis-for-nestjs-2blh)
+- [I built a JSON toolkit that never sends your data anywhere](https://dev.to/sekhar_babu_1095c83b17413/i-built-a-json-toolkit-that-never-sends-your-data-anywhere-1nlm)
 - [Cómo solucionar el error \&quot;Text content does not match server-rendered HTML\&quot; en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-548o)
-- [# Understanding The Git Workflow :Working Directory, Staging, Commit and Push](https://dev.to/rachel_ngunjiri_4fef646b5/-understanding-the-git-workflow-working-directory-staging-commit-and-push-2dnh)
-- [I Built a Simple Way to Find Vegan Beauty Products in India](https://dev.to/veggora/i-built-a-simple-way-to-find-vegan-beauty-products-in-india-2pm5)
-- [I&#39;m 14, I my coding environment is on a phone, and I shipped 3 projects till now.](https://dev.to/crimsonvoid/im-14-i-my-coding-environment-is-on-a-phone-and-i-shipped-3-projects-till-now-1lfb)
-- [Arid 2.0: From Fast Python Duplicate Detection to CI-Ready Tooling](https://dev.to/spongeb0b/arid-20-from-fast-python-duplicate-detection-to-ci-ready-tooling-4h1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
