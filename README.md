@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mix and Match: Serving a Bedrock Agent to Google and Azure](https://dev.to/aws-builders/mix-and-match-serving-a-bedrock-agent-to-google-and-azure-4kg8)
+- [A Windows Service is Down. Now What?](https://dev.to/prateek_srivastava_6a5661/a-windows-service-is-down-now-what-2gh9)
+- [Harden for the reader: three red flags an AppSec engineer hits on `git clone`](https://dev.to/elwin_ernst/harden-for-the-reader-three-red-flags-an-appsec-engineer-hits-on-git-clone-508o)
 - [Seven interview rounds is a confession that your bar is broken](https://dev.to/adioof/seven-interview-rounds-is-a-confession-that-your-bar-is-broken-4ig2)
 - [GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫](https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b)
-- [🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform](https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp)
-- [As I said, Alea AIcta est.](https://dev.to/dveb/as-i-said-alea-aicta-est-17i1)
-- [Optimizing Disk I/O in NumPy: Implementing a Fast LZ4 Compression Algorithm via C-Extensions](https://dev.to/__f57a448/optimizing-disk-io-in-numpy-implementing-a-fast-lz4-compression-algorithm-via-c-extensions-ilm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
