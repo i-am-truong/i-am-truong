@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Superpowers for Coding Agents: Turn Vague Requests Into Tested Changes](https://dev.to/shubham399/superpowers-for-coding-agents-turn-vague-requests-into-tested-changes-5474)
-- [🔒 Lock Folder Util — The Mutex Your Agent Swarm Desperately Needs](https://dev.to/simbo1905/lock-folder-util-the-mutex-your-agent-swarm-desperately-needs-6dk)
-- [Associate Cloud Engineer Certification Path](https://dev.to/fortune_precious/associate-cloud-engineer-certification-path-ajd)
-- [The People Building AI Are the Worst at Predicting It](https://dev.to/bonour/the-people-building-ai-are-the-worst-at-predicting-it-4b5k)
-- [How I Decide a RAXXO Tool Needs a Redesign, Not a Patch](https://dev.to/raxxostudios/how-i-decide-a-raxxo-tool-needs-a-redesign-not-a-patch-41bn)
+- [Opinion: Your Tests Can&#39;t See What a Migration Destroys — Dry-Run It on a Clone](https://dev.to/github_7727/opinion-your-tests-cant-see-what-a-migration-destroys-dry-run-it-on-a-clone-878)
+- [mcp-drift-monitor: detección continua de cambios no autorizados en servidores MCP](https://dev.to/magopredator/mcp-drift-monitor-deteccion-continua-de-cambios-no-autorizados-en-servidores-mcp-f8)
+- [Beyond Words: Building an AI Mental Health Monitor with HuBERT and Psycho-Acoustics](https://dev.to/beck_moulton/beyond-words-building-an-ai-mental-health-monitor-with-hubert-and-psycho-acoustics-16kk)
+- [Lets talk about llms](https://dev.to/bluantstudio/lets-talk-about-llms-169f)
+- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Intelligence](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-intelligence-7ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
