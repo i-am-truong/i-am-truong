@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Learning to Code Becomes a Loop: Why I’m Choosing to Build](https://dev.to/goldheart/when-learning-to-code-becomes-a-loop-why-im-choosing-to-build-207a)
-- [One Knowledge Base, Four Surfaces: Pages, Graph, Search Index, and MCP](https://dev.to/makaminski1337/one-knowledge-base-four-surfaces-pages-graph-search-index-and-mcp-5a5p)
-- [How I Built Smart Scraper M2M: A Fast ~30ms Scraper API for AI Agents](https://dev.to/hasna_dev2/how-i-built-smart-scraper-m2m-a-fast-30ms-scraper-api-for-ai-agents-1k9f)
-- [Too Many Req: A Bucket List Guide to Building a Rate Limiter](https://dev.to/lovestaco/too-many-req-a-bucket-list-guide-to-building-a-rate-limiter-529a)
-- [Cómo pensamos el cifrado de PII en una app Ionic + Angular, para cumplir el RGPD y la LOPD-GDD](https://dev.to/dmorfav/como-pensamos-el-cifrado-de-pii-en-una-app-ionic-angular-para-cumplir-el-rgpd-y-la-lopd-gdd-2o3g)
+- [Seven interview rounds is a confession that your bar is broken](https://dev.to/adioof/seven-interview-rounds-is-a-confession-that-your-bar-is-broken-4ig2)
+- [GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫](https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b)
+- [🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform](https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp)
+- [As I said, Alea AIcta est.](https://dev.to/dveb/as-i-said-alea-aicta-est-17i1)
+- [Optimizing Disk I/O in NumPy: Implementing a Fast LZ4 Compression Algorithm via C-Extensions](https://dev.to/__f57a448/optimizing-disk-io-in-numpy-implementing-a-fast-lz4-compression-algorithm-via-c-extensions-ilm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
