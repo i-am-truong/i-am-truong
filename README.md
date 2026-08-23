@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency is not a key, it&#39;s a contract](https://dev.to/mashhadi/idempotency-is-not-a-key-its-a-contract-534h)
-- [Your Amazon scraper is returning mixed currencies and won&#39;t tell you](https://dev.to/pagewright/your-amazon-scraper-is-returning-mixed-currencies-and-wont-tell-you-ohc)
-- [How to Create an MCP Server: Tutorial](https://dev.to/santattech/how-to-create-an-mcp-server-tutorial-5dj5)
-- [Offline_SOS_System](https://dev.to/annaraokoduri/offlinesossystem-2bdp)
-- [I checked my database logs and found a Senior Engineer stress-testing my AI 🕵️‍♂️](https://dev.to/koda2026/i-checked-my-database-logs-and-found-a-senior-engineer-stress-testing-my-ai-24p)
+- [This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2)
+- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7)
+- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel)
+- [A Developer&#39;s Checklist for Every RAG Lifecycle &lpar;Beyond Chunk-Embed-Search&rpar;](https://dev.to/tanmay_bhurkunde/a-developers-checklist-for-every-rag-lifecycle-beyond-chunk-embed-search-5ab9)
+- [Understanding the Git Workflow: Working Directory, Staging, Commit, and Push](https://dev.to/sam_manox/understanding-the-git-workflow-working-directory-staging-commit-and-push-14c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
