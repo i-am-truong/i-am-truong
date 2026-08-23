@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
+- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
 - [从 Demo 到生产：那些真正让 AI Agent 敢上线的护栏](https://dev.to/sunny_1024k/cong-demo-dao-sheng-chan-na-xie-zhen-zheng-rang-ai-agent-gan-shang-xian-de-hu-lan-3p6e)
 - [From Demo to Production: The Guardrails That Make an AI Agent Safe to Ship](https://dev.to/sunny_1024k/from-demo-to-production-the-guardrails-that-make-an-ai-agent-safe-to-ship-d2o)
 - [App-like UX in Next.js 16.3](https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh)
-- [I Built a Python Bot That Plays Blackjack on Discord&#39;s OwO Bot 🃏](https://dev.to/wannabeghost/i-built-a-python-bot-that-plays-blackjack-on-discords-owo-bot-100c)
-- [From Local Folder to Github: Setting Up my First Project With Git and Github: A Guide](https://dev.to/njoroge_peter_5f72998620f/from-local-folder-to-github-setting-up-my-first-project-with-git-and-github-a-guide-4lpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
