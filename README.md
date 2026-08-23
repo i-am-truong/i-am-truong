@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BrunnerCTF 2026 - Welcome Aboard &lpar;Web&rpar;](https://dev.to/exploitnotes/brunnerctf-2026-welcome-aboard-web-391d)
-- [Building CUBELANDS for Steam: an early alpha generated from cubes](https://dev.to/mario_jgoestarosso_5c91/building-cubelands-for-steam-an-early-alpha-generated-from-cubes-2m9d)
-- [22 tests passing, and my solver still told you to click a mine](https://dev.to/dylanhuang/22-tests-passing-and-my-solver-still-told-you-to-click-a-mine-46d8)
-- [Let Your AI Agent Use Slack: One CLI, No Slack App Needed](https://dev.to/shaharia/let-your-ai-agent-use-slack-one-cli-no-slack-app-needed-1279)
-- [I Wanted to Process One Image. Somehow I Ended Up Building APIC.](https://dev.to/akhourianmolkumar/i-wanted-to-process-one-image-somehow-i-ended-up-building-apic-464m)
+- [Domux: a compact open model for smart-home command understanding at the edge](https://dev.to/sparkllm/domux-a-compact-open-model-for-smart-home-command-understanding-at-the-edge-f8l)
+- [BrunnerCTF : WordPressed to Root Writeup](https://dev.to/exploitnotes/brunnerctf-wordpressed-to-root-writeup-3o62)
+- [What if you don&#39;t have to build a login page again?](https://dev.to/muhammadkholidb/what-if-you-dont-have-to-build-a-login-page-again-36ag)
+- [Knowing When to Use If/Else vs. Switch in JavaScript](https://dev.to/joelezema/knowing-when-to-use-ifelse-vs-switch-in-javascript-3777)
+- [I turned browser cookie counts into game currency - meet Crumbongo](https://dev.to/teobella/i-turned-browser-cookie-counts-into-game-currency-meet-crumbongo-48bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
