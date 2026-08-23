@@ -120,11 +120,16 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI writes the answer](https://dev.to/elliot_a0d9f15cbd67c/the-ai-writes-the-answer-1h0k)
-- [I built a daily JavaScript puzzle game where a wrong answer physically can&#39;t ship](https://dev.to/ashhwani/i-built-a-daily-javascript-puzzle-game-where-a-wrong-answer-physically-cant-ship-4pih)
-- [I Built Format-on-Save for Everything That Isn&#39;t an Editor](https://dev.to/amartyadev/i-built-format-on-save-for-everything-that-isnt-an-editor-3dpm)
-- [Migrating a 5-year-old React admin app from CRA + Webpack to Vite + SWC — 166 files, 70 days](https://dev.to/prince_panchani_f971a20ec/migrating-a-5-year-old-react-admin-app-from-cra-webpack-to-vite-swc-166-files-70-days-4g6l)
-- [Old Iron Earns More: A Technical Look at RustChain Proof-of-Antiquity](https://dev.to/shamylbm/old-iron-earns-more-a-technical-look-at-rustchain-proof-of-antiquity-1dkf)
+- [Acted on some feedback about ToolHub&#39;s positioning - here&#39;s the actual change](https://dev.to/trytoolhub/acted-on-some-feedback-about-toolhubs-positioning-heres-the-actual-change-o2a)
+- [ASSIGNMENT WEEK 1](https://dev.to/dorcas_chebet/assignment-week-1-334a)
+- [Building a Cloudflare Integration for Umbraco Automate](https://dev.to/erikjanwestendorp/building-a-cloudflare-integration-for-umbraco-automate-3f8m)
+- [No LeetCode. No club leadership. No internship on my resume.
+Still got the offer.
+
+I wrote about how that happened — and it involved a semester I almost didn&#39;t recover from.
+
+What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-f85)
+- [Crowdsourcing User Contributions to Expand US Basketball Court Database in App Development](https://dev.to/chriswalmart/crowdsourcing-user-contributions-to-expand-us-basketball-court-database-in-app-development-3hgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
