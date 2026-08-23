@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Bug That Passed Every Test — And Still Took Production Down](https://dev.to/antfarm-tech/the-bug-that-passed-every-test-and-still-took-production-down-3n1p)
 - [Mix and Match: Serving a Bedrock Agent to Google and Azure](https://dev.to/aws-builders/mix-and-match-serving-a-bedrock-agent-to-google-and-azure-4kg8)
 - [A Windows Service is Down. Now What?](https://dev.to/prateek_srivastava_6a5661/a-windows-service-is-down-now-what-2gh9)
 - [Harden for the reader: three red flags an AppSec engineer hits on `git clone`](https://dev.to/elwin_ernst/harden-for-the-reader-three-red-flags-an-appsec-engineer-hits-on-git-clone-508o)
 - [Seven interview rounds is a confession that your bar is broken](https://dev.to/adioof/seven-interview-rounds-is-a-confession-that-your-bar-is-broken-4ig2)
-- [GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫](https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
