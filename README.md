@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built an FVG trading bot for OKX and made 99% of its signals useless on purpose](https://dev.to/xbs950812/how-i-built-an-fvg-trading-bot-for-okx-and-made-99-of-its-signals-useless-on-purpose-590b)
-- [why some people use neovim](https://dev.to/black0rca/why-some-people-use-neovim-881)
-- [483 tests passed, but Vestibule RAG framework wasn&#39;t installable — lessons from building with AI agents](https://dev.to/vk032503/483-tests-passed-but-vestibule-rag-framework-wasnt-installable-lessons-from-building-with-ai-b81)
-- [Creating Bluesky starter packs from code: three AT Protocol records and one non-idempotency trap](https://dev.to/rulestack/creating-bluesky-starter-packs-from-code-three-at-protocol-records-and-one-non-idempotency-trap-3b98)
-- [Kubernetes Architecture](https://dev.to/tejas_kp/kubernetes-architecture-32c9)
+- [Two Pieces of Code, Same Answer — Which One Should You Write?](https://dev.to/yuudaikido/two-pieces-of-code-same-answer-which-one-should-you-write-2p43)
+- [De atendimento e logística para a programação.](https://dev.to/gnandes7/de-atendimento-e-logistica-para-a-programacao-1cjj)
+- [No More Midnight Deploys: The Magic of Blue-Green Deployments](https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29)
+- [Why LLMs Are Bad at Math, Explained Simply](https://dev.to/james_anderson_h/why-llms-are-bad-at-math-explained-simply-3omj)
+- [When you need an Agent Gateway, not just another LLM proxy](https://dev.to/victor_garca_a9d07ddc486/when-you-need-an-agent-gateway-not-just-another-llm-proxy-3nff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
