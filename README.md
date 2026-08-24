@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IT labour market brief](https://dev.to/bulataleev/it-labour-market-brief-20m9)
+- [Permit Lead Finder: Turning Public Permit Data Into Ranked Sales Leads](https://dev.to/bsymbolic/permit-lead-finder-turning-public-permit-data-into-ranked-sales-leads-575o)
+- [dsh-web Bundles DSH Web Plugins Behind a Workshop Catalog](https://dev.to/dd8888/dsh-web-bundles-dsh-web-plugins-behind-a-workshop-catalog-4gf4)
+- [How to Never Miss Salah at Work: The Free Prayer Times Bot for Slack](https://dev.to/ikhaledabdelfattah/how-to-never-miss-salah-at-work-the-free-prayer-times-bot-for-slack-f2b)
 - [15 Node.js Interview Questions You Should Be Able to Answer &lpar;2026&rpar;](https://dev.to/akashguptasky/15-nodejs-interview-questions-you-should-be-able-to-answer-2026-5aeg)
-- [ChatGPT Ads Are Expanding: What CPC Bidding Means for Advertisers in 2026](https://dev.to/alifar/chatgpt-ads-are-expanding-what-cpc-bidding-means-for-advertisers-in-2026-22ma)
-- [Why Great Performance Isn’t a Case for Promotion](https://dev.to/epklein/why-great-performance-isnt-a-case-for-promotion-3h60)
-- [Validating OpenAI &amp; Anthropic Tool-Calling Schemas](https://dev.to/jsonutiltools/validating-openai-anthropic-tool-calling-schemas-535)
-- [One Project Ate the Shared Free Tier: A Per-Project Quota Pattern for LLM Gateways](https://dev.to/codepro_9661/one-project-ate-the-shared-free-tier-a-per-project-quota-pattern-for-llm-gateways-27i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
