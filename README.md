@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [qm Gives Every Employee Their Own Agent Sandbox Instead of One Shared Brain](https://dev.to/renolu/qm-gives-every-employee-their-own-agent-sandbox-instead-of-one-shared-brain-42i3)
-- [The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?](https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4)
-- [AI Isn’t Killing Tech Jobs. But It Is Changing Who Gets Hired. 🤖](https://dev.to/akanksha_sharma/ai-isnt-killing-tech-jobs-but-it-is-changing-who-gets-hired-1430)
-- [The Productivity J-Curve](https://dev.to/diyaburman/the-productivity-j-curve-c4f)
-- [Give Your AI Agent a Scientist&#39;s Library. a Science MCP Server](https://dev.to/valyuai/give-your-ai-agent-a-scientists-library-a-science-mcp-server-4pdb)
+- [Our build wave shipped four scrapers that scraped nothing](https://dev.to/devil_scrapes/our-build-wave-shipped-four-scrapers-that-scraped-nothing-1g67)
+- [How I Cut a 2.1 MB JavaScript Bundle to 890 KB With Claude Code](https://dev.to/yureki_lab/how-i-cut-a-21-mb-javascript-bundle-to-890-kb-with-claude-code-2a0p)
+- [Your evals pass. That doesn&#39;t mean they work.](https://dev.to/ashwin_ugale_102f2abc9cec/your-evals-pass-that-doesnt-mean-they-work-ho7)
+- [Your AI Coding Agent Forgets Everything — Fix It With a Free Obsidian Vault](https://dev.to/secondbrainstarter/your-ai-coding-agent-forgets-everything-fix-it-with-a-free-obsidian-vault-1p0i)
+- [Write your custom generic utility in TypeScript](https://dev.to/thatonevikash/write-your-custom-generic-utility-in-typescript-5f16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
