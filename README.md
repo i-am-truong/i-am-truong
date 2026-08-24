@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Multi-Page PDFs to High-Res Images Client-Side in Vanilla JS &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/how-to-convert-multi-page-pdfs-to-high-res-images-client-side-in-vanilla-js-zero-server-uploads-239h)
-- [Turn a missed cron into a GitHub or Linear ticket](https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7)
-- [What Makes a Good Design System in Frontend Engineering](https://dev.to/tefe_1e10673cb0d696594bf5/what-makes-a-good-design-system-in-frontend-engineering-jgj)
-- [An AI&#39;s “Done” Can&#39;t Be Trusted — Quality Gates That Stop False Completion With Evidence](https://dev.to/uehara/an-ais-done-cant-be-trusted-quality-gates-that-stop-false-completion-with-evidence-422f)
-- [FastAPI and Node.js Property Incidents: 7-Field Error Schema for Request Correlation](https://dev.to/darkveilcorvyn26/fastapi-and-nodejs-property-incidents-7-field-error-schema-for-request-correlation-4hpi)
+- [I built a vulnerability scanner that refuses to lie to me](https://dev.to/balbaks/i-built-a-vulnerability-scanner-that-refuses-to-lie-to-me-22fl)
+- [Taming Kubernetes Cost Sprawl: A FinOps Blueprint for Executives](https://dev.to/mtahir27/taming-kubernetes-cost-sprawl-a-finops-blueprint-for-executives-1d62)
+- [Tech webinar: How to control costs &amp; measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b)
+- [AI is Not Alive...Yet](https://dev.to/jballanc/ai-is-not-aliveyet-23m9)
+- [CI/CD Pipelines That Actually Work: A Journey Through the Matrix](https://dev.to/timevolt/cicd-pipelines-that-actually-work-a-journey-through-the-matrix-3fkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
