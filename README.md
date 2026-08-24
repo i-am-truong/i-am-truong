@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Putting Secrets in Plaintext](https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd)
-- [Designing a spacetime overlap index](https://dev.to/othmane_elmariky_92aa9df/designing-a-spacetime-overlap-index-3l88)
-- [.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)
-- [6 Sneaky Ways to Get AI to Actually Finish the Code/Email/Essay Instead of Trailing Off Mid-Sentence](https://dev.to/scobsmett/6-sneaky-ways-to-get-ai-to-actually-finish-the-codeemailessay-instead-of-trailing-off-mid-sentence-253d)
-- [Tailscale vs WireGuard: which mesh VPN fits your remote access setup](https://dev.to/roberts_jakuko_fbc04cb38/tailscale-vs-wireguard-which-mesh-vpn-fits-your-remote-access-setup-4cm0)
+- [Thirteen Merges, 177 Bug Reports, and One Rescue Mission: My August in Open Source](https://dev.to/aniruddhaadak/thirteen-merges-177-bug-reports-and-one-rescue-mission-my-august-in-open-source-4781)
+- [Node.js Invoice Summarization: Batch API Quality Versus Token Cost](https://dev.to/marencrest5138/nodejs-invoice-summarization-batch-api-quality-versus-token-cost-36m2)
+- [VIDRAFT&#39;s Open Discovery Challenge: Claude vs. GPT-4 on Malaria &amp; TB Drug Candidates — Early Benchmark Data](https://dev.to/ai_openfree_b23025ef075cf/vidrafts-open-discovery-challenge-claude-vs-gpt-4-on-malaria-tb-drug-candidates-early-2p0i)
+- [AI Agent Memory Rots Silently — Audit Yours in One Command](https://dev.to/secondbrainstarter/ai-agent-memory-rots-silently-audit-yours-in-one-command-5amd)
+- [ReffConnect Building a Referral-First Hiring Marketplace in India](https://dev.to/rasmi_ranjanpatnaik_2514/reffconnect-building-a-referral-first-hiring-marketplace-in-india-413e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
