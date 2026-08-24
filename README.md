@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [剖析AI漏洞：从私有 LLM API 窃取推理轨迹](https://dev.to/cognitalk/stealing-reasoning-traces-from-proprietary-llm-apis-22g1)
-- [Embed Charts in Markdown Without Chart.js: SVG, Data URIs, and What Actually Works](https://dev.to/provchart/embed-charts-in-markdown-without-chartjs-svg-data-uris-and-what-actually-works-39pi)
-- [Controllers vs Minimal APIs: Stop Picking a Winner](https://dev.to/kazemmdev/controllers-vs-minimal-apis-stop-picking-a-winner-452g)
-- [I Was Burning $1.20 a Night on Nothing: A Claude Code Skill Library That Harvests and Curates Itself](https://dev.to/bokuwalily/i-was-burning-120-a-night-on-nothing-a-claude-code-skill-library-that-harvests-and-curates-itself-2l4i)
-- [Vibecoding: Why Flow State is the New Syntax](https://dev.to/ntty/vibecoding-why-flow-state-is-the-new-syntax-2ajf)
+- [New advancements in Generative AI](https://dev.to/g_ghuman_8989/new-advancements-in-generative-ai-4ppg)
+- [canvas.convertToBlob&lpar;&rpar; doesn&#39;t throw on a format it can&#39;t encode. It hands you a PNG.](https://dev.to/profostropher/canvasconverttoblob-doesnt-throw-on-a-format-it-cant-encode-it-hands-you-a-png-5ce3)
+- [Superpowers Quickstart: Install, Workflow, and Tryout](https://dev.to/rosgluk/superpowers-quickstart-install-workflow-and-tryout-505n)
+- [I Built a Leak Detector for API Keys. My Synthetic Tests Caught 8 Out of 20](https://dev.to/chen0/i-built-a-leak-detector-for-api-keys-my-synthetic-tests-caught-8-out-of-20-h7g)
+- [I Built an AWS DevOps AI Agent Using Kiro Crew + MCP](https://dev.to/aws-builders/i-built-an-aws-devops-ai-agent-using-kiro-crew-mcp-fk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
