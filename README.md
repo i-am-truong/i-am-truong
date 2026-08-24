@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ESP32 + Python: From Microcontroller to IoT](https://dev.to/janadapelahara/esp32-python-from-microcontroller-to-iot-2498)
-- [Log Level Design and Rotation: Why Apps Use DEBUG/INFO/WARNING/ERROR](https://dev.to/susumun/log-level-design-and-rotation-why-apps-use-debuginfowarningerror-4bdi)
-- [Same tokens. Different DNA. Why a Texas notebook must not become a parlor.](https://dev.to/kayforkind/same-tokens-different-dna-why-a-texas-notebook-must-not-become-a-parlor-2n82)
-- [Running the AWS CLI Against Your Own Hardware](https://dev.to/toddyholiday/running-the-aws-cli-against-your-own-hardware-11i2)
-- [How we run five coding agents side by side in one window](https://dev.to/eliseomdq/how-we-run-five-coding-agents-side-by-side-in-one-window-32gf)
+- [test](https://dev.to/nickytonline/test-1dm4)
+- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
+- [Architectural Breakdown: We fixed the eval platform we&#39;re competing on: a TypeError that crashed thr](https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg)
+- [Construyendo un recomendador de emparejamiento de expertos](https://dev.to/aws-builders/construyendo-un-recomendador-de-emparejamiento-de-expertos-57h2)
+- [Building PickTool with Next.js and Laravel: Lessons from Creating a Software Discovery Platform](https://dev.to/doaaabed94/building-picktool-with-nextjs-and-laravel-lessons-from-creating-a-software-discovery-platform-d72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
