@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your retry logic is correct and does nothing](https://dev.to/siddharth_pandey_27/your-retry-logic-is-correct-and-does-nothing-9oc)
-- [NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted](https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18)
-- [Python 3.15 development features and performance updates](https://dev.to/vpodk/python-315-development-features-and-performance-updates-31le)
-- [The Weekend I Broke Up with Claude and Moved My Entire Estate](https://dev.to/jenatechio/the-weekend-i-broke-up-with-claude-and-moved-my-entire-estate-3ek0)
-- [GIT WORKFLOW](https://dev.to/maxnjiru/git-workflow-5119)
+- [LinkedIn Is Facebook for People in Suits. Here&#39;s How to Post on It Anyway](https://dev.to/towernter/linkedin-is-facebook-for-people-in-suits-heres-how-to-post-on-it-anyway-2cd8)
+- [Announcing NgRx v22: Resource Extensions, Dynamic Deep Signals, a Light Theme, and more!](https://dev.to/ngrx/announcing-ngrx-v22-resource-extensions-dynamic-deep-signals-a-light-theme-and-more-5gci)
+- [How I Built a Zero-Trust Docker Sandbox for AI Coding Agents &amp; Untrusted Repos](https://dev.to/henderson01/how-i-built-a-zero-trust-docker-sandbox-for-ai-coding-agents-untrusted-repos-4o7b)
+- [Quipu: cifrado post-cuántico en Rust puro, con una rueda para Python](https://dev.to/isazajuancarlos/quipu-cifrado-post-cuantico-en-rust-puro-con-una-rueda-para-python-1194)
+- [OpenART Red-Teams Stateful Agents Across 10,000 Evolving Environment Scenarios](https://dev.to/aimodels-fyi/openart-red-teams-stateful-agents-across-10000-evolving-environment-scenarios-2063)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
