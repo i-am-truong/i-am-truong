@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IT labour market brief](https://dev.to/bulataleev/it-labour-market-brief-20m9)
-- [Permit Lead Finder: Turning Public Permit Data Into Ranked Sales Leads](https://dev.to/bsymbolic/permit-lead-finder-turning-public-permit-data-into-ranked-sales-leads-575o)
-- [dsh-web Bundles DSH Web Plugins Behind a Workshop Catalog](https://dev.to/dd8888/dsh-web-bundles-dsh-web-plugins-behind-a-workshop-catalog-4gf4)
-- [How to Never Miss Salah at Work: The Free Prayer Times Bot for Slack](https://dev.to/ikhaledabdelfattah/how-to-never-miss-salah-at-work-the-free-prayer-times-bot-for-slack-f2b)
-- [15 Node.js Interview Questions You Should Be Able to Answer &lpar;2026&rpar;](https://dev.to/akashguptasky/15-nodejs-interview-questions-you-should-be-able-to-answer-2026-5aeg)
+- [What our coverage number did not protect](https://dev.to/sovantica/what-our-coverage-number-did-not-protect-2ck2)
+- [How to test document management software with 20 real files](https://dev.to/jun-stoatify/how-to-test-document-management-software-with-20-real-files-32e6)
+- [Android SDK for Robot Battery, Power, and Charging Management](https://dev.to/vmodal_ai/android-sdk-for-robot-battery-power-and-charging-management-1b49)
+- [Hey, I&#39;m new here! Documenting my Java, Spring Boot &amp; Applied AI learning journey 👋](https://dev.to/shreya_karka/hey-im-new-here-documenting-my-java-spring-boot-applied-ai-learning-journey-3i75)
+- [I Tried the Mysterious Ox Alpha Model. Then I Fell Down the Rabbit Hole of Who Actually Made It.](https://dev.to/sizzlebop/i-tried-the-mysterious-ox-alpha-model-then-i-fell-down-the-rabbit-hole-of-who-actually-made-it-a4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
