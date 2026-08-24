@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Predictions, August 2026](https://dev.to/keithjmackay/ai-predictions-august-2026-56mk)
-- [ChatGPT and Gemini Rarely Agree on Top Local Businesses, Study Finds](https://dev.to/alifar/chatgpt-and-gemini-rarely-agree-on-top-local-businesses-study-finds-4aog)
-- [Free Endpoints Are a Contract, Not a Gift: A Fit Test for Agent Workloads](https://dev.to/codepro_3283/free-endpoints-are-a-contract-not-a-gift-a-fit-test-for-agent-workloads-2h9c)
-- [Node.js Passwordless Phone Login: SMS OTP Resend Cooldowns and Attempt Caps](https://dev.to/ignatiuscole6932/nodejs-passwordless-phone-login-sms-otp-resend-cooldowns-and-attempt-caps-59b0)
-- [Measuring AI Search Consistency Beyond Traditional Rank Tracking](https://dev.to/alifar/measuring-ai-search-consistency-beyond-traditional-rank-tracking-559p)
+- [The Right to Be Forgotten Is Hard for AI: Why Deleting Your Data From a Model Isn’t a Delete Button](https://dev.to/theaidownside/the-right-to-be-forgotten-is-hard-for-ai-why-deleting-your-data-from-a-model-isnt-a-delete-button-375d)
+- [7 Ways Startup Apps Define Moderation Categories &lpar;Harassment to PII&rpar;](https://dev.to/finnoakley52947/7-ways-startup-apps-define-moderation-categories-harassment-to-pii-5h2o)
+- [Your PrestaShop hook renders nothing, and nothing is logged](https://dev.to/megventure/your-prestashop-hook-renders-nothing-and-nothing-is-logged-37c8)
+- [Dictionary Pattern Matching in Some Languages Ignores Unspecified Keys, Risks Unexpected Bugs](https://dev.to/romdevin/dictionary-pattern-matching-in-some-languages-ignores-unspecified-keys-risks-unexpected-bugs-2eh0)
+- [Comparing prices across retailers is a unit-normalization problem, not a scraping problem](https://dev.to/dipen_bhuva_4c9f47712fd32/comparing-prices-across-retailers-is-a-unit-normalization-problem-not-a-scraping-problem-3hnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
