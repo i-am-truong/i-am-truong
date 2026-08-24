@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a vulnerability scanner that refuses to lie to me](https://dev.to/balbaks/i-built-a-vulnerability-scanner-that-refuses-to-lie-to-me-22fl)
-- [Taming Kubernetes Cost Sprawl: A FinOps Blueprint for Executives](https://dev.to/mtahir27/taming-kubernetes-cost-sprawl-a-finops-blueprint-for-executives-1d62)
-- [Tech webinar: How to control costs &amp; measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b)
-- [AI is Not Alive...Yet](https://dev.to/jballanc/ai-is-not-aliveyet-23m9)
-- [CI/CD Pipelines That Actually Work: A Journey Through the Matrix](https://dev.to/timevolt/cicd-pipelines-that-actually-work-a-journey-through-the-matrix-3fkd)
+- [Your retry logic is correct and does nothing](https://dev.to/siddharth_pandey_27/your-retry-logic-is-correct-and-does-nothing-9oc)
+- [NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted](https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18)
+- [Python 3.15 development features and performance updates](https://dev.to/vpodk/python-315-development-features-and-performance-updates-31le)
+- [The Weekend I Broke Up with Claude and Moved My Entire Estate](https://dev.to/jenatechio/the-weekend-i-broke-up-with-claude-and-moved-my-entire-estate-3ek0)
+- [GIT WORKFLOW](https://dev.to/maxnjiru/git-workflow-5119)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
