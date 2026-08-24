@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [`next dev` Renders but Nothing Works: Your CSP Is Missing `unsafe-eval`](https://dev.to/ai_changewatch/next-dev-renders-but-nothing-works-your-csp-is-missing-unsafe-eval-26pl)
-- [The Shopify zero-price bug that breaks Merchant Center feeds](https://dev.to/max_buildogs/the-shopify-zero-price-bug-that-breaks-merchant-center-feeds-3abb)
-- [Zero Permissions on Secrets Manager. Full Access to Your Secrets.](https://dev.to/bala_paranj_059d338e44e7e/zero-permissions-on-secrets-manager-full-access-to-your-secrets-49o)
-- [AI Agents with SQS and Lambda: Build a Plan‑Act‑Observe Loop in Node.js](https://dev.to/dineshgowtham/ai-agents-with-sqs-and-lambda-build-a-plan-act-observe-loop-in-nodejs-32n7)
-- [One task, two readers:the agent, the human](https://dev.to/sam_novak_574b07811e18495/one-task-two-readersthe-agent-the-human-2o00)
+- [Building agents is increasingly becoming less about “how smart is the model?” and more about “what does the agent remember, retrieve, and use at the right moment?” This experiment explores that rabbit hole. Loved the concept deep dive.](https://dev.to/ai_unboxed/building-agents-is-increasingly-becoming-less-about-how-smart-is-the-model-and-more-about-what-13ck)
+- [How AI Models Are Reshaping Cybersecurity — And Why We&#39;re Not Ready](https://dev.to/musespark/how-ai-models-are-reshaping-cybersecurity-and-why-were-not-ready-5gc8)
+- [Nowhere to Put the Disagreement: What a Memory Store Cannot Tell Your Agent](https://dev.to/izgorodin/nowhere-to-put-the-disagreement-what-a-memory-store-cannot-tell-your-agent-369l)
+- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/njorogekristofa/understanding-the-git-workflowworking-directorystaging-commit-and-push-5d3f)
+- [JWT Authentication in Node.js: A Practical Guide &lpar;with Express&rpar;](https://dev.to/akashguptasky/jwt-authentication-in-nodejs-a-practical-guide-with-express-2341)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
