@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Predictions, August 2026](https://dev.to/keithjmackay/ai-predictions-august-2026-56mk)
+- [ChatGPT and Gemini Rarely Agree on Top Local Businesses, Study Finds](https://dev.to/alifar/chatgpt-and-gemini-rarely-agree-on-top-local-businesses-study-finds-4aog)
+- [Free Endpoints Are a Contract, Not a Gift: A Fit Test for Agent Workloads](https://dev.to/codepro_3283/free-endpoints-are-a-contract-not-a-gift-a-fit-test-for-agent-workloads-2h9c)
 - [Node.js Passwordless Phone Login: SMS OTP Resend Cooldowns and Attempt Caps](https://dev.to/ignatiuscole6932/nodejs-passwordless-phone-login-sms-otp-resend-cooldowns-and-attempt-caps-59b0)
 - [Measuring AI Search Consistency Beyond Traditional Rank Tracking](https://dev.to/alifar/measuring-ai-search-consistency-beyond-traditional-rank-tracking-559p)
-- [The Lottielab watermark is layer 12345679](https://dev.to/lotiqlab/the-lottielab-watermark-is-layer-12345679-1e2d)
-- [How I Found My First CTF Flag Hidden in an Image&#39;s Metadata](https://dev.to/enoch_franco_55845279f6a3/how-i-found-my-first-ctf-flag-hidden-in-an-images-metadata-36ha)
-- [Structured Data for AI Answer Engines: Why JSON-LD Decides Whether You Get Cited](https://dev.to/merlonix/structured-data-for-ai-answer-engines-why-json-ld-decides-whether-you-get-cited-4mad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
