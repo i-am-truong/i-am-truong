@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I turned 200+ BCQuality knowledge files into 26 AL rules &lpar;and rejected most of the rest&rpar;](https://dev.to/yahyatouil/how-i-turned-200-bcquality-knowledge-files-into-26-al-rules-and-rejected-most-of-the-rest-1cnm)
-- [CSS Container Queries: How Browsers Calculate and Recalculate Styles](https://dev.to/mspk97/css-container-queries-how-browsers-calculate-and-recalculate-styles-kk7)
-- [How to Get Your First Front End Developer Job With No Experience](https://dev.to/srdan_borovi_584c6b1d773/how-to-get-your-first-front-end-developer-job-with-no-experience-1p1p)
-- [Password Manager Security Audits: What Independent Reviews Reveal About Top Providers](https://dev.to/yaroslav_k/password-manager-security-audits-what-independent-reviews-reveal-about-top-providers-1j26)
-- [Full-Text Search Still Works. It Just Doesn’t Get You to an Answer](https://dev.to/sanikolaev/full-text-search-still-works-it-just-doesnt-get-you-to-an-answer-1dhd)
+- [剖析AI漏洞：从私有 LLM API 窃取推理轨迹](https://dev.to/cognitalk/stealing-reasoning-traces-from-proprietary-llm-apis-22g1)
+- [Embed Charts in Markdown Without Chart.js: SVG, Data URIs, and What Actually Works](https://dev.to/provchart/embed-charts-in-markdown-without-chartjs-svg-data-uris-and-what-actually-works-39pi)
+- [Controllers vs Minimal APIs: Stop Picking a Winner](https://dev.to/kazemmdev/controllers-vs-minimal-apis-stop-picking-a-winner-452g)
+- [I Was Burning $1.20 a Night on Nothing: A Claude Code Skill Library That Harvests and Curates Itself](https://dev.to/bokuwalily/i-was-burning-120-a-night-on-nothing-a-claude-code-skill-library-that-harvests-and-curates-itself-2l4i)
+- [Vibecoding: Why Flow State is the New Syntax](https://dev.to/ntty/vibecoding-why-flow-state-is-the-new-syntax-2ajf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
