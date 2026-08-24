@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sync Enterprise Data: React Query + Server Actions 🔄](https://dev.to/iprajapatiparesh/sync-enterprise-data-react-query-server-actions-5fd2)
-- [AI&#39;s Worst Failure Mode Isn&#39;t Hallucination](https://dev.to/max_quimby/ais-worst-failure-mode-isnt-hallucination-3oo7)
-- [Your agent bill is a context problem, not a budget problem](https://dev.to/sentraai/your-agent-bill-is-a-context-problem-not-a-budget-problem-4mmo)
-- [Giving back to my favorite Bookmarks manager - making it better for everyone](https://dev.to/iabdsam/giving-back-to-my-favorite-bookmarks-manager-making-it-better-for-everyone-513p)
-- [Build a Mini Engineering Graph With TypeScript and GitHub](https://dev.to/bobbyhalljr/build-a-mini-engineering-graph-with-typescript-and-github-4haj)
+- [Hey DEV! I&#39;m Stefan — TYPO3 dev, and I just launched a page of free browser tools](https://dev.to/stefan_andres_07/hey-dev-im-stefan-typo3-dev-and-i-just-launched-a-page-of-free-browser-tools-4h65)
+- [C++ Tool That Extracts Text From Scrolling Screen Recordings](https://dev.to/plexescor/c-tool-that-extracts-text-from-scrolling-screen-recordings-30f6)
+- [6 Pitfalls of Building a Multilingual Site with Next.js 15: From Query Strings to URL Paths](https://dev.to/utlkit/6-pitfalls-of-building-a-multilingual-site-with-nextjs-15-from-query-strings-to-url-paths-51fh)
+- [Designing Intelligence: From Ad-Hoc Prompts to Enterprise AI Skills](https://dev.to/balagmadhu/designing-intelligence-from-ad-hoc-prompts-to-enterprise-ai-skills-1mmc)
+- [I Built 16 Browser-Based Developer Tools That Never Upload Your Data.](https://dev.to/vishaltripathi1/i-built-16-browser-based-developer-tools-that-never-upload-your-data-40od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
