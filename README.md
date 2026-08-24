@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn Is Facebook for People in Suits. Here&#39;s How to Post on It Anyway](https://dev.to/towernter/linkedin-is-facebook-for-people-in-suits-heres-how-to-post-on-it-anyway-2cd8)
-- [Announcing NgRx v22: Resource Extensions, Dynamic Deep Signals, a Light Theme, and more!](https://dev.to/ngrx/announcing-ngrx-v22-resource-extensions-dynamic-deep-signals-a-light-theme-and-more-5gci)
-- [How I Built a Zero-Trust Docker Sandbox for AI Coding Agents &amp; Untrusted Repos](https://dev.to/henderson01/how-i-built-a-zero-trust-docker-sandbox-for-ai-coding-agents-untrusted-repos-4o7b)
-- [Quipu: cifrado post-cuántico en Rust puro, con una rueda para Python](https://dev.to/isazajuancarlos/quipu-cifrado-post-cuantico-en-rust-puro-con-una-rueda-para-python-1194)
-- [OpenART Red-Teams Stateful Agents Across 10,000 Evolving Environment Scenarios](https://dev.to/aimodels-fyi/openart-red-teams-stateful-agents-across-10000-evolving-environment-scenarios-2063)
+- [15 Node.js Interview Questions You Should Be Able to Answer &lpar;2026&rpar;](https://dev.to/akashguptasky/15-nodejs-interview-questions-you-should-be-able-to-answer-2026-5aeg)
+- [ChatGPT Ads Are Expanding: What CPC Bidding Means for Advertisers in 2026](https://dev.to/alifar/chatgpt-ads-are-expanding-what-cpc-bidding-means-for-advertisers-in-2026-22ma)
+- [Why Great Performance Isn’t a Case for Promotion](https://dev.to/epklein/why-great-performance-isnt-a-case-for-promotion-3h60)
+- [Validating OpenAI &amp; Anthropic Tool-Calling Schemas](https://dev.to/jsonutiltools/validating-openai-anthropic-tool-calling-schemas-535)
+- [One Project Ate the Shared Free Tier: A Per-Project Quota Pattern for LLM Gateways](https://dev.to/codepro_9661/one-project-ate-the-shared-free-tier-a-per-project-quota-pattern-for-llm-gateways-27i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
