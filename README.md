@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New advancements in Generative AI](https://dev.to/g_ghuman_8989/new-advancements-in-generative-ai-4ppg)
-- [canvas.convertToBlob&lpar;&rpar; doesn&#39;t throw on a format it can&#39;t encode. It hands you a PNG.](https://dev.to/profostropher/canvasconverttoblob-doesnt-throw-on-a-format-it-cant-encode-it-hands-you-a-png-5ce3)
-- [Superpowers Quickstart: Install, Workflow, and Tryout](https://dev.to/rosgluk/superpowers-quickstart-install-workflow-and-tryout-505n)
-- [I Built a Leak Detector for API Keys. My Synthetic Tests Caught 8 Out of 20](https://dev.to/chen0/i-built-a-leak-detector-for-api-keys-my-synthetic-tests-caught-8-out-of-20-h7g)
-- [I Built an AWS DevOps AI Agent Using Kiro Crew + MCP](https://dev.to/aws-builders/i-built-an-aws-devops-ai-agent-using-kiro-crew-mcp-fk0)
+- [`next dev` Renders but Nothing Works: Your CSP Is Missing `unsafe-eval`](https://dev.to/ai_changewatch/next-dev-renders-but-nothing-works-your-csp-is-missing-unsafe-eval-26pl)
+- [The Shopify zero-price bug that breaks Merchant Center feeds](https://dev.to/max_buildogs/the-shopify-zero-price-bug-that-breaks-merchant-center-feeds-3abb)
+- [Zero Permissions on Secrets Manager. Full Access to Your Secrets.](https://dev.to/bala_paranj_059d338e44e7e/zero-permissions-on-secrets-manager-full-access-to-your-secrets-49o)
+- [AI Agents with SQS and Lambda: Build a Plan‑Act‑Observe Loop in Node.js](https://dev.to/dineshgowtham/ai-agents-with-sqs-and-lambda-build-a-plan-act-observe-loop-in-nodejs-32n7)
+- [One task, two readers:the agent, the human](https://dev.to/sam_novak_574b07811e18495/one-task-two-readersthe-agent-the-human-2o00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
