@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of China&#39;s Urban Pilot Assist: From &quot;Exam Cramming&quot; to One-Stage End-to-End](https://dev.to/michael_su_2d935214f6d114/the-evolution-of-chinas-urban-pilot-assist-from-exam-cramming-to-one-stage-end-to-end-5bmn)
-- [EF Core bugs that look like correct code](https://dev.to/kazemmdev/ef-core-bugs-that-look-like-correct-code-51j6)
-- [How to Compress a Photo Under a Specific KB Limit on Android](https://dev.to/ahsanpitafi/how-to-compress-a-photo-under-a-specific-kb-limit-on-android-4a8f)
-- [Building an ASCII Art Generator with AI: The Good, The Bad, and The Figlet](https://dev.to/ggwork/building-an-ascii-art-generator-with-ai-the-good-the-bad-and-the-figlet-3d4h)
-- [How to Build a Fair A/B Audio Preview for AI Processing](https://dev.to/yidao_713c5eeea4f16821823/how-to-build-a-fair-ab-audio-preview-for-ai-processing-52ne)
+- [How I turned 200+ BCQuality knowledge files into 26 AL rules &lpar;and rejected most of the rest&rpar;](https://dev.to/yahyatouil/how-i-turned-200-bcquality-knowledge-files-into-26-al-rules-and-rejected-most-of-the-rest-1cnm)
+- [CSS Container Queries: How Browsers Calculate and Recalculate Styles](https://dev.to/mspk97/css-container-queries-how-browsers-calculate-and-recalculate-styles-kk7)
+- [How to Get Your First Front End Developer Job With No Experience](https://dev.to/srdan_borovi_584c6b1d773/how-to-get-your-first-front-end-developer-job-with-no-experience-1p1p)
+- [Password Manager Security Audits: What Independent Reviews Reveal About Top Providers](https://dev.to/yaroslav_k/password-manager-security-audits-what-independent-reviews-reveal-about-top-providers-1j26)
+- [Full-Text Search Still Works. It Just Doesn’t Get You to an Answer](https://dev.to/sanikolaev/full-text-search-still-works-it-just-doesnt-get-you-to-an-answer-1dhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
