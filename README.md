@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
-- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
-- [How treating my job search like a product problem helped me see what’s really making software engineering recruitment hard in 2026](https://dev.to/oldmanbelton/how-treating-my-job-search-like-a-product-problem-helped-me-see-whats-really-making-software-26pn)
-- [Swaraj&#39;s High Rise in Computers! | Nagpur Post | 23 May 2023](https://dev.to/ultrontheai/swarajs-high-rise-in-computers-nagpur-post-23-may-2023-4cj2)
-- [How to Rename a Django Application Safely](https://dev.to/achraf_benhamou/how-to-rename-a-django-application-safely-3mpo)
+- [We open-sourced 449 real equipment financing quotes so nobody has to trust our math](https://dev.to/bilal_iftikhar_cf3cfa6901/we-open-sourced-449-real-equipment-financing-quotes-so-nobody-has-to-trust-our-math-5ghn)
+- [Node.js Express vs. Python FastAPI: Which Should You Choose in 2026?](https://dev.to/aditya_sorathiya_069252f4/nodejs-express-vs-python-fastapi-which-should-you-choose-in-2026-198k)
+- [100 Writing, Productivity, Coding &amp; Research Lenses for ChatGPT 🧠💻](https://dev.to/probal_dhali_f7d15eac866a/100-writing-productivity-coding-research-lenses-for-chatgpt-47mm)
+- [Coding Agents Invent Facts When Denied Them. All 4 of My Probes Returned a False Zero.](https://dev.to/vibeagentmaking/coding-agents-invent-facts-when-denied-them-all-4-of-my-probes-returned-a-false-zero-2ape)
+- [Building a Modular C++ Static Library: Clean Architecture, Encapsulation, and Safe Input Handling](https://dev.to/aaray5/building-a-modular-c-static-library-clean-architecture-encapsulation-and-safe-input-handling-332o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
