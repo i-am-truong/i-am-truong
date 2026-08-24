@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Right to Be Forgotten Is Hard for AI: Why Deleting Your Data From a Model Isn’t a Delete Button](https://dev.to/theaidownside/the-right-to-be-forgotten-is-hard-for-ai-why-deleting-your-data-from-a-model-isnt-a-delete-button-375d)
-- [7 Ways Startup Apps Define Moderation Categories &lpar;Harassment to PII&rpar;](https://dev.to/finnoakley52947/7-ways-startup-apps-define-moderation-categories-harassment-to-pii-5h2o)
-- [Your PrestaShop hook renders nothing, and nothing is logged](https://dev.to/megventure/your-prestashop-hook-renders-nothing-and-nothing-is-logged-37c8)
-- [Dictionary Pattern Matching in Some Languages Ignores Unspecified Keys, Risks Unexpected Bugs](https://dev.to/romdevin/dictionary-pattern-matching-in-some-languages-ignores-unspecified-keys-risks-unexpected-bugs-2eh0)
-- [Comparing prices across retailers is a unit-normalization problem, not a scraping problem](https://dev.to/dipen_bhuva_4c9f47712fd32/comparing-prices-across-retailers-is-a-unit-normalization-problem-not-a-scraping-problem-3hnp)
+- [.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)
+- [6 Sneaky Ways to Get AI to Actually Finish the Code/Email/Essay Instead of Trailing Off Mid-Sentence](https://dev.to/scobsmett/6-sneaky-ways-to-get-ai-to-actually-finish-the-codeemailessay-instead-of-trailing-off-mid-sentence-253d)
+- [PAGI::Server 0.002007: One Contract, Two Transports](https://dev.to/jjn1056/pagiserver-0002007-one-contract-two-transports-4mce)
+- [You Found the ERROR. The Cause Is in the Lines Before It](https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2)
+- [Why .env.example Gets Out of Sync — and What Actually Fixes It](https://dev.to/rabbilyasar/why-envexample-gets-out-of-sync-and-what-actually-fixes-it-1a76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
