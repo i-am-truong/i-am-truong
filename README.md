@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Comparing GPU Clouds Only by $/hour](https://dev.to/highreso/stop-comparing-gpu-clouds-only-by-hour-4kbc)
-- [One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents](https://dev.to/seasonkoh/one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents-4fme)
-- [Shopify just gave millions of stores WebMCP tools for free — here&#39;s what it does, and what it doesn&#39;t](https://dev.to/r0bertini/shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-1cln)
-- [How late is Form 4 &#39;real-time&#39; data? Measuring filing delay on 11,241 insider filings](https://dev.to/itsraxzey/how-late-is-form-4-real-time-data-measuring-filing-delay-on-11241-insider-filings-2e9j)
-- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
+- [A beginner&#39;s guide to the Vibevoice model by Microsoft on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vibevoice-model-by-microsoft-on-replicate-296a)
+- [A beginner&#39;s guide to the Beat_this model by Xavriley on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-beatthis-model-by-xavriley-on-replicate-4g44)
+- [A beginner&#39;s guide to the Qwen-Image-2-Pro model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-2-pro-model-by-qwen-on-replicate-3k1)
+- [A beginner&#39;s guide to the Flux-Pulid model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-pulid-model-by-jichengdu-on-replicate-4ec4)
+- [Prove Your Backups Actually Restore Automatically, on a Separate Server](https://dev.to/deepeshd/prove-your-backups-actually-restore-automatically-on-a-separate-server-o36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
