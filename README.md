@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Putting Secrets in Plaintext](https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd)
+- [Designing a spacetime overlap index](https://dev.to/othmane_elmariky_92aa9df/designing-a-spacetime-overlap-index-3l88)
 - [.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)
 - [6 Sneaky Ways to Get AI to Actually Finish the Code/Email/Essay Instead of Trailing Off Mid-Sentence](https://dev.to/scobsmett/6-sneaky-ways-to-get-ai-to-actually-finish-the-codeemailessay-instead-of-trailing-off-mid-sentence-253d)
-- [PAGI::Server 0.002007: One Contract, Two Transports](https://dev.to/jjn1056/pagiserver-0002007-one-contract-two-transports-4mce)
-- [You Found the ERROR. The Cause Is in the Lines Before It](https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2)
-- [Why .env.example Gets Out of Sync — and What Actually Fixes It](https://dev.to/rabbilyasar/why-envexample-gets-out-of-sync-and-what-actually-fixes-it-1a76)
+- [Tailscale vs WireGuard: which mesh VPN fits your remote access setup](https://dev.to/roberts_jakuko_fbc04cb38/tailscale-vs-wireguard-which-mesh-vpn-fits-your-remote-access-setup-4cm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
