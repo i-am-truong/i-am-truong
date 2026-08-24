@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building for Agentic Commerce: What Devs Need to Know Before It&#39;s Too Late](https://dev.to/icentric/building-for-agentic-commerce-what-devs-need-to-know-before-its-too-late-6ej)
-- [How to Deploy a Full-Stack App on a VPS with Peon](https://dev.to/peon_sh/how-to-deploy-a-full-stack-app-on-a-vps-with-peon-132j)
-- [.NET Native AOT: Ecossistema de Compilação em C#](https://dev.to/lzocate-li/net-native-aot-ecossistema-de-compilacao-em-c-42bo)
-- [Paste a tx hash, get a plain-English explanation of what happened. No wallet connect](https://dev.to/khalilahmed/paste-a-tx-hash-get-a-plain-english-explanation-of-what-happened-no-wallet-connect-21ng)
-- [When to Validate a Customer&#39;s VAT Number](https://dev.to/iurii_rogulia/when-to-validate-a-customers-vat-number-3dnb)
+- [The Evolution of China&#39;s Urban Pilot Assist: From &quot;Exam Cramming&quot; to One-Stage End-to-End](https://dev.to/michael_su_2d935214f6d114/the-evolution-of-chinas-urban-pilot-assist-from-exam-cramming-to-one-stage-end-to-end-5bmn)
+- [EF Core bugs that look like correct code](https://dev.to/kazemmdev/ef-core-bugs-that-look-like-correct-code-51j6)
+- [How to Compress a Photo Under a Specific KB Limit on Android](https://dev.to/ahsanpitafi/how-to-compress-a-photo-under-a-specific-kb-limit-on-android-4a8f)
+- [Building an ASCII Art Generator with AI: The Good, The Bad, and The Figlet](https://dev.to/ggwork/building-an-ascii-art-generator-with-ai-the-good-the-bad-and-the-figlet-3d4h)
+- [How to Build a Fair A/B Audio Preview for AI Processing](https://dev.to/yidao_713c5eeea4f16821823/how-to-build-a-fair-ab-audio-preview-for-ai-processing-52ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
