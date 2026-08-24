@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s Claude Is Designing Proteins That Work](https://dev.to/peremptory/anthropics-claude-is-designing-proteins-that-work-1lei)
-- [Procurement is where good technology goes to die](https://dev.to/issam_fathi/procurement-is-where-good-technology-goes-to-die-2e5j)
-- [AI Slop Is Becoming a Search Infrastructure Problem](https://dev.to/cloudsway/ai-slop-is-becoming-a-search-infrastructure-problem-112d)
-- [Why Your OAuth Integration Randomly Returns invalid_grant &lpar;and How to Stop Two Workers From Racing&rpar;](https://dev.to/libme/why-your-oauth-integration-randomly-returns-invalidgrant-and-how-to-stop-two-workers-from-racing-4ake)
-- [AutoHttps: automatic HTTPS for ASP.NET Core with no NuGet dependencies](https://dev.to/jhenderson1992/autohttps-automatic-https-for-aspnet-core-with-no-nuget-dependencies-43hm)
+- [Building for Agentic Commerce: What Devs Need to Know Before It&#39;s Too Late](https://dev.to/icentric/building-for-agentic-commerce-what-devs-need-to-know-before-its-too-late-6ej)
+- [How to Deploy a Full-Stack App on a VPS with Peon](https://dev.to/peon_sh/how-to-deploy-a-full-stack-app-on-a-vps-with-peon-132j)
+- [.NET Native AOT: Ecossistema de Compilação em C#](https://dev.to/lzocate-li/net-native-aot-ecossistema-de-compilacao-em-c-42bo)
+- [Paste a tx hash, get a plain-English explanation of what happened. No wallet connect](https://dev.to/khalilahmed/paste-a-tx-hash-get-a-plain-english-explanation-of-what-happened-no-wallet-connect-21ng)
+- [When to Validate a Customer&#39;s VAT Number](https://dev.to/iurii_rogulia/when-to-validate-a-customers-vat-number-3dnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
