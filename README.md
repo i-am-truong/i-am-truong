@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Understand and Improve AI Agent Design](https://dev.to/codeplato/how-to-quickly-understand-and-improve-ai-agent-design-3kmi)
-- [Where the money actually goes when you generate at scale](https://dev.to/xiaodong_zhang_bd8dc835b3/where-the-money-actually-goes-when-you-generate-at-scale-32hn)
-- [Front-load the free work — turning a 90-minute recording into short clips](https://dev.to/xiaodong_zhang_bd8dc835b3/front-load-the-free-work-turning-a-90-minute-recording-into-short-clips-35d0)
-- [Your coding agent can&#39;t see the video it just made](https://dev.to/xiaodong_zhang_bd8dc835b3/your-coding-agent-cant-see-the-video-it-just-made-3p2p)
-- [How and why you learn code has completely shifted](https://dev.to/tak089/how-and-why-you-learn-code-has-completely-shifted-4gpd)
+- [Anthropic&#39;s Claude Is Designing Proteins That Work](https://dev.to/peremptory/anthropics-claude-is-designing-proteins-that-work-1lei)
+- [Procurement is where good technology goes to die](https://dev.to/issam_fathi/procurement-is-where-good-technology-goes-to-die-2e5j)
+- [AI Slop Is Becoming a Search Infrastructure Problem](https://dev.to/cloudsway/ai-slop-is-becoming-a-search-infrastructure-problem-112d)
+- [Why Your OAuth Integration Randomly Returns invalid_grant &lpar;and How to Stop Two Workers From Racing&rpar;](https://dev.to/libme/why-your-oauth-integration-randomly-returns-invalidgrant-and-how-to-stop-two-workers-from-racing-4ake)
+- [AutoHttps: automatic HTTPS for ASP.NET Core with no NuGet dependencies](https://dev.to/jhenderson1992/autohttps-automatic-https-for-aspnet-core-with-no-nuget-dependencies-43hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
