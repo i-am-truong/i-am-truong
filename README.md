@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/nickytonline/test-1dm4)
-- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
-- [Architectural Breakdown: We fixed the eval platform we&#39;re competing on: a TypeError that crashed thr](https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg)
-- [Construyendo un recomendador de emparejamiento de expertos](https://dev.to/aws-builders/construyendo-un-recomendador-de-emparejamiento-de-expertos-57h2)
-- [Building PickTool with Next.js and Laravel: Lessons from Creating a Software Discovery Platform](https://dev.to/doaaabed94/building-picktool-with-nextjs-and-laravel-lessons-from-creating-a-software-discovery-platform-d72)
+- [Stop Comparing GPU Clouds Only by $/hour](https://dev.to/highreso/stop-comparing-gpu-clouds-only-by-hour-4kbc)
+- [One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents](https://dev.to/seasonkoh/one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents-4fme)
+- [Shopify just gave millions of stores WebMCP tools for free — here&#39;s what it does, and what it doesn&#39;t](https://dev.to/r0bertini/shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-1cln)
+- [How late is Form 4 &#39;real-time&#39; data? Measuring filing delay on 11,241 insider filings](https://dev.to/itsraxzey/how-late-is-form-4-real-time-data-measuring-filing-delay-on-11241-insider-filings-2e9j)
+- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
