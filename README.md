@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A FinOps MCP Server: What Your AI Assistant Can Ask About Your Cloud Bill, and What It Can Never Change](https://dev.to/zop_8abedcc7e12/a-finops-mcp-server-what-your-ai-assistant-can-ask-about-your-cloud-bill-and-what-it-can-never-5ak8)
-- [AI, Fairy&#39;s, and Agile](https://dev.to/wyattdave/ai-fairys-and-agile-44cc)
-- [Why Claude Loses Users to Cheaper AI Tools](https://dev.to/adilaidev/why-claude-loses-users-to-cheaper-ai-tools-44cn)
-- [The Solo Founder Simulation: Lessons from Letting an AI Agent Run a SaaS While I Audited Its Human-Like Mistakes](https://dev.to/tamizuddin/the-solo-founder-simulation-lessons-from-letting-an-ai-agent-run-a-saas-while-i-audited-its-48cc)
-- [Linux Server Hardening Guide for 2026](https://dev.to/mecanik-dev/linux-server-hardening-guide-for-2026-2be9)
+- [How to Quickly Understand and Improve AI Agent Design](https://dev.to/codeplato/how-to-quickly-understand-and-improve-ai-agent-design-3kmi)
+- [Where the money actually goes when you generate at scale](https://dev.to/xiaodong_zhang_bd8dc835b3/where-the-money-actually-goes-when-you-generate-at-scale-32hn)
+- [Front-load the free work — turning a 90-minute recording into short clips](https://dev.to/xiaodong_zhang_bd8dc835b3/front-load-the-free-work-turning-a-90-minute-recording-into-short-clips-35d0)
+- [Your coding agent can&#39;t see the video it just made](https://dev.to/xiaodong_zhang_bd8dc835b3/your-coding-agent-cant-see-the-video-it-just-made-3p2p)
+- [How and why you learn code has completely shifted](https://dev.to/tak089/how-and-why-you-learn-code-has-completely-shifted-4gpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
