@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Our build wave shipped four scrapers that scraped nothing](https://dev.to/devil_scrapes/our-build-wave-shipped-four-scrapers-that-scraped-nothing-1g67)
-- [How I Cut a 2.1 MB JavaScript Bundle to 890 KB With Claude Code](https://dev.to/yureki_lab/how-i-cut-a-21-mb-javascript-bundle-to-890-kb-with-claude-code-2a0p)
-- [Your evals pass. That doesn&#39;t mean they work.](https://dev.to/ashwin_ugale_102f2abc9cec/your-evals-pass-that-doesnt-mean-they-work-ho7)
-- [Your AI Coding Agent Forgets Everything — Fix It With a Free Obsidian Vault](https://dev.to/secondbrainstarter/your-ai-coding-agent-forgets-everything-fix-it-with-a-free-obsidian-vault-1p0i)
-- [Write your custom generic utility in TypeScript](https://dev.to/thatonevikash/write-your-custom-generic-utility-in-typescript-5f16)
+- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
+- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
+- [How treating my job search like a product problem helped me see what’s really making software engineering recruitment hard in 2026](https://dev.to/oldmanbelton/how-treating-my-job-search-like-a-product-problem-helped-me-see-whats-really-making-software-26pn)
+- [Swaraj&#39;s High Rise in Computers! | Nagpur Post | 23 May 2023](https://dev.to/ultrontheai/swarajs-high-rise-in-computers-nagpur-post-23-may-2023-4cj2)
+- [How to Rename a Django Application Safely](https://dev.to/achraf_benhamou/how-to-rename-a-django-application-safely-3mpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
