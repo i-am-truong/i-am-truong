@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Vibevoice model by Microsoft on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vibevoice-model-by-microsoft-on-replicate-296a)
-- [A beginner&#39;s guide to the Beat_this model by Xavriley on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-beatthis-model-by-xavriley-on-replicate-4g44)
-- [A beginner&#39;s guide to the Qwen-Image-2-Pro model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-2-pro-model-by-qwen-on-replicate-3k1)
-- [A beginner&#39;s guide to the Flux-Pulid model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-pulid-model-by-jichengdu-on-replicate-4ec4)
-- [Prove Your Backups Actually Restore Automatically, on a Separate Server](https://dev.to/deepeshd/prove-your-backups-actually-restore-automatically-on-a-separate-server-o36)
+- [A Windows Desktop App Is “Not Responding”: Diagnose the Wait Before Reinstalling](https://dev.to/wangwang_huang/a-windows-desktop-app-is-not-responding-diagnose-the-wait-before-reinstalling-1h7j)
+- [🚀 From FlipaClip to SitePoint: The Full Story of Kehinde Owolabi](https://dev.to/kehinde_owolabi_e2e54567a/from-flipaclip-to-sitepoint-the-full-story-of-kehinde-owolabi-2eb)
+- [Building a Plug-and-Play JVM Compiler for Android and Desktop with Bytesmith](https://dev.to/slambyte/building-a-plug-and-play-jvm-compiler-for-android-and-desktop-with-bytesmith-oeo)
+- [Leetcode 31: Next Permutation](https://dev.to/suhara_j_salim/leetcode-31-next-permutation-1eh2)
+- [ToxicPanda 2.0 Chains VPN, Accessibility, and ADB](https://dev.to/anoymask/toxicpanda-20-chains-vpn-accessibility-and-adb-34l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
