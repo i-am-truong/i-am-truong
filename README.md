@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thirteen Merges, 177 Bug Reports, and One Rescue Mission: My August in Open Source](https://dev.to/aniruddhaadak/thirteen-merges-177-bug-reports-and-one-rescue-mission-my-august-in-open-source-4781)
-- [Node.js Invoice Summarization: Batch API Quality Versus Token Cost](https://dev.to/marencrest5138/nodejs-invoice-summarization-batch-api-quality-versus-token-cost-36m2)
-- [VIDRAFT&#39;s Open Discovery Challenge: Claude vs. GPT-4 on Malaria &amp; TB Drug Candidates — Early Benchmark Data](https://dev.to/ai_openfree_b23025ef075cf/vidrafts-open-discovery-challenge-claude-vs-gpt-4-on-malaria-tb-drug-candidates-early-2p0i)
-- [AI Agent Memory Rots Silently — Audit Yours in One Command](https://dev.to/secondbrainstarter/ai-agent-memory-rots-silently-audit-yours-in-one-command-5amd)
-- [ReffConnect Building a Referral-First Hiring Marketplace in India](https://dev.to/rasmi_ranjanpatnaik_2514/reffconnect-building-a-referral-first-hiring-marketplace-in-india-413e)
+- [A Broken-Link Check Counts 404s. The Resource That Breaks Your Padlock Returns 200.](https://dev.to/merlonix/a-broken-link-check-counts-404s-the-resource-that-breaks-your-padlock-returns-200-47fb)
+- [AI promoted every developer to reviewer. Nobody tested the reviewer.](https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h)
+- [Is My Domain Blacklisted? Why a Public DNSBL Check Can Show a False Positive](https://dev.to/merlonix/is-my-domain-blacklisted-why-a-public-dnsbl-check-can-show-a-false-positive-dk6)
+- [Reachy PizzAIolo: When a Restaurant Sign Starts a Conversation](https://dev.to/danuw/reachy-pizzaiolo-when-a-restaurant-sign-starts-a-conversation-4agf)
+- [Greedy vs. Non-Greedy Regex: Why the Same Pattern Can Match Differently](https://dev.to/susumun/greedy-vs-non-greedy-regex-why-the-same-pattern-can-match-differently-3eg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
