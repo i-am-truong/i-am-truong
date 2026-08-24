@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Effective AI Agents with GitHub Copilot](https://dev.to/majdizlitni/effective-ai-agents-with-github-copilot-4ck7)
-- [AI UI Testing: Why Local Demos Hit 9/10 and Production Hits 6/10](https://dev.to/su_qym_e0ffcb6804a23256f7/ai-ui-testing-why-local-demos-hit-910-and-production-hits-610-2i6a)
-- [The data is in: AI is how developers learn now](https://dev.to/mlh/the-data-is-in-ai-is-how-developers-learn-now-28p4)
-- [AI Agents: A High-Level Overview](https://dev.to/devliz/ai-agents-a-high-level-overview-5e7l)
-- [SSL Certificate Problem: Unable to Get Local Issuer Certificate](https://dev.to/merlonix/ssl-certificate-problem-unable-to-get-local-issuer-certificate-40ak)
+- [How to Convert Multi-Page PDFs to High-Res Images Client-Side in Vanilla JS &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/how-to-convert-multi-page-pdfs-to-high-res-images-client-side-in-vanilla-js-zero-server-uploads-239h)
+- [Turn a missed cron into a GitHub or Linear ticket](https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7)
+- [What Makes a Good Design System in Frontend Engineering](https://dev.to/tefe_1e10673cb0d696594bf5/what-makes-a-good-design-system-in-frontend-engineering-jgj)
+- [An AI&#39;s “Done” Can&#39;t Be Trusted — Quality Gates That Stop False Completion With Evidence](https://dev.to/uehara/an-ais-done-cant-be-trusted-quality-gates-that-stop-false-completion-with-evidence-422f)
+- [FastAPI and Node.js Property Incidents: 7-Field Error Schema for Request Correlation](https://dev.to/darkveilcorvyn26/fastapi-and-nodejs-property-incidents-7-field-error-schema-for-request-correlation-4hpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
