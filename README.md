@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DaDaScribe API: YouTube Multi-Language Transcript + SRT in One Request](https://dev.to/infinistrategy/dadascribe-api-youtube-multi-language-transcript-srt-in-one-request-4efk)
+- [Why I run ceremonies](https://dev.to/benmeddeb/why-i-run-ceremonies-2380)
+- [Azure Integration Services Interview Prep Part 4: Application Insights, Log Analytics, Distributed Tracing, and Debugging a Broken Pipeline](https://dev.to/manoharij/azure-integration-services-interview-prep-part-4-application-insights-log-analytics-distributed-46kh)
 - [A Broken-Link Check Counts 404s. The Resource That Breaks Your Padlock Returns 200.](https://dev.to/merlonix/a-broken-link-check-counts-404s-the-resource-that-breaks-your-padlock-returns-200-47fb)
 - [AI promoted every developer to reviewer. Nobody tested the reviewer.](https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h)
-- [Is My Domain Blacklisted? Why a Public DNSBL Check Can Show a False Positive](https://dev.to/merlonix/is-my-domain-blacklisted-why-a-public-dnsbl-check-can-show-a-false-positive-dk6)
-- [Reachy PizzAIolo: When a Restaurant Sign Starts a Conversation](https://dev.to/danuw/reachy-pizzaiolo-when-a-restaurant-sign-starts-a-conversation-4agf)
-- [Greedy vs. Non-Greedy Regex: Why the Same Pattern Can Match Differently](https://dev.to/susumun/greedy-vs-non-greedy-regex-why-the-same-pattern-can-match-differently-3eg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
