@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We open-sourced 449 real equipment financing quotes so nobody has to trust our math](https://dev.to/bilal_iftikhar_cf3cfa6901/we-open-sourced-449-real-equipment-financing-quotes-so-nobody-has-to-trust-our-math-5ghn)
-- [Node.js Express vs. Python FastAPI: Which Should You Choose in 2026?](https://dev.to/aditya_sorathiya_069252f4/nodejs-express-vs-python-fastapi-which-should-you-choose-in-2026-198k)
-- [100 Writing, Productivity, Coding &amp; Research Lenses for ChatGPT 🧠💻](https://dev.to/probal_dhali_f7d15eac866a/100-writing-productivity-coding-research-lenses-for-chatgpt-47mm)
-- [Coding Agents Invent Facts When Denied Them. All 4 of My Probes Returned a False Zero.](https://dev.to/vibeagentmaking/coding-agents-invent-facts-when-denied-them-all-4-of-my-probes-returned-a-false-zero-2ape)
-- [Building a Modular C++ Static Library: Clean Architecture, Encapsulation, and Safe Input Handling](https://dev.to/aaray5/building-a-modular-c-static-library-clean-architecture-encapsulation-and-safe-input-handling-332o)
+- [Effective AI Agents with GitHub Copilot](https://dev.to/majdizlitni/effective-ai-agents-with-github-copilot-4ck7)
+- [AI UI Testing: Why Local Demos Hit 9/10 and Production Hits 6/10](https://dev.to/su_qym_e0ffcb6804a23256f7/ai-ui-testing-why-local-demos-hit-910-and-production-hits-610-2i6a)
+- [The data is in: AI is how developers learn now](https://dev.to/mlh/the-data-is-in-ai-is-how-developers-learn-now-28p4)
+- [AI Agents: A High-Level Overview](https://dev.to/devliz/ai-agents-a-high-level-overview-5e7l)
+- [SSL Certificate Problem: Unable to Get Local Issuer Certificate](https://dev.to/merlonix/ssl-certificate-problem-unable-to-get-local-issuer-certificate-40ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
