@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hey DEV! I&#39;m Stefan — TYPO3 dev, and I just launched a page of free browser tools](https://dev.to/stefan_andres_07/hey-dev-im-stefan-typo3-dev-and-i-just-launched-a-page-of-free-browser-tools-4h65)
-- [C++ Tool That Extracts Text From Scrolling Screen Recordings](https://dev.to/plexescor/c-tool-that-extracts-text-from-scrolling-screen-recordings-30f6)
-- [6 Pitfalls of Building a Multilingual Site with Next.js 15: From Query Strings to URL Paths](https://dev.to/utlkit/6-pitfalls-of-building-a-multilingual-site-with-nextjs-15-from-query-strings-to-url-paths-51fh)
-- [Designing Intelligence: From Ad-Hoc Prompts to Enterprise AI Skills](https://dev.to/balagmadhu/designing-intelligence-from-ad-hoc-prompts-to-enterprise-ai-skills-1mmc)
-- [I Built 16 Browser-Based Developer Tools That Never Upload Your Data.](https://dev.to/vishaltripathi1/i-built-16-browser-based-developer-tools-that-never-upload-your-data-40od)
+- [A FinOps MCP Server: What Your AI Assistant Can Ask About Your Cloud Bill, and What It Can Never Change](https://dev.to/zop_8abedcc7e12/a-finops-mcp-server-what-your-ai-assistant-can-ask-about-your-cloud-bill-and-what-it-can-never-5ak8)
+- [AI, Fairy&#39;s, and Agile](https://dev.to/wyattdave/ai-fairys-and-agile-44cc)
+- [Why Claude Loses Users to Cheaper AI Tools](https://dev.to/adilaidev/why-claude-loses-users-to-cheaper-ai-tools-44cn)
+- [The Solo Founder Simulation: Lessons from Letting an AI Agent Run a SaaS While I Audited Its Human-Like Mistakes](https://dev.to/tamizuddin/the-solo-founder-simulation-lessons-from-letting-an-ai-agent-run-a-saas-while-i-audited-its-48cc)
+- [Linux Server Hardening Guide for 2026](https://dev.to/mecanik-dev/linux-server-hardening-guide-for-2026-2be9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
