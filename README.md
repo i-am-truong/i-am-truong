@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Windows Desktop App Is “Not Responding”: Diagnose the Wait Before Reinstalling](https://dev.to/wangwang_huang/a-windows-desktop-app-is-not-responding-diagnose-the-wait-before-reinstalling-1h7j)
-- [🚀 From FlipaClip to SitePoint: The Full Story of Kehinde Owolabi](https://dev.to/kehinde_owolabi_e2e54567a/from-flipaclip-to-sitepoint-the-full-story-of-kehinde-owolabi-2eb)
-- [Building a Plug-and-Play JVM Compiler for Android and Desktop with Bytesmith](https://dev.to/slambyte/building-a-plug-and-play-jvm-compiler-for-android-and-desktop-with-bytesmith-oeo)
-- [Leetcode 31: Next Permutation](https://dev.to/suhara_j_salim/leetcode-31-next-permutation-1eh2)
-- [ToxicPanda 2.0 Chains VPN, Accessibility, and ADB](https://dev.to/anoymask/toxicpanda-20-chains-vpn-accessibility-and-adb-34l9)
+- [Sync Enterprise Data: React Query + Server Actions 🔄](https://dev.to/iprajapatiparesh/sync-enterprise-data-react-query-server-actions-5fd2)
+- [AI&#39;s Worst Failure Mode Isn&#39;t Hallucination](https://dev.to/max_quimby/ais-worst-failure-mode-isnt-hallucination-3oo7)
+- [Your agent bill is a context problem, not a budget problem](https://dev.to/sentraai/your-agent-bill-is-a-context-problem-not-a-budget-problem-4mmo)
+- [Giving back to my favorite Bookmarks manager - making it better for everyone](https://dev.to/iabdsam/giving-back-to-my-favorite-bookmarks-manager-making-it-better-for-everyone-513p)
+- [Build a Mini Engineering Graph With TypeScript and GitHub](https://dev.to/bobbyhalljr/build-a-mini-engineering-graph-with-typescript-and-github-4haj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
