@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transforme PowerPoint em Vídeo IA em 20s: Guia WAN‑3.0](https://dev.to/leojulieta/transforme-powerpoint-em-video-ia-em-20s-guia-wan-30-3d75)
-- [Per-user two-factor auth in CakePHP with CakeDC/Users &lpar;opt-in, one method&rpar;](https://dev.to/viniciusbig/per-user-two-factor-auth-in-cakephp-with-cakedcusers-opt-in-one-method-4n6d)
-- [I built a free image and video hosting tool after Imgur blocked the UK](https://dev.to/danielbankss/i-built-a-free-image-and-video-hosting-tool-after-imgur-blocked-the-uk-29na)
-- [I built an open cross-reference dataset for 217 global steel grades so engineers stop guessing &quot;is that equivalent?&quot;](https://dev.to/david_web/i-built-an-open-cross-reference-dataset-for-217-global-steel-grades-so-engineers-stop-guessing-is-4n48)
-- [Find YouTube Channels by Topic, Language, and Country](https://dev.to/kinderbb_47a004c5a2093289/find-youtube-channels-by-topic-language-and-country-2i1p)
+- [The 18 products EarthLink Network builds in-house](https://dev.to/uehara/the-18-products-earthlink-network-builds-in-house-hb1)
+- [My tests could fail. They still could not tell me I was wrong.](https://dev.to/ink_gu/my-tests-could-fail-they-still-could-not-tell-me-i-was-wrong-5a95)
+- [AWS Shared Responsibility Model Quem Cuida do Quê na Nuvem](https://dev.to/ikauedev/aws-shared-responsibility-model-quem-cuida-do-que-na-nuvem-5bnn)
+- [Three things I got wrong measuring my own cache](https://dev.to/hubertgarcia/three-things-i-got-wrong-measuring-my-own-cache-45je)
+- [Backtesting overfitting: why your backtest lies and how to make it honest](https://dev.to/weston_carnes_d580b505e0c/backtesting-overfitting-why-your-backtest-lies-and-how-to-make-it-honest-d03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
