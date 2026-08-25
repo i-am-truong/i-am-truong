@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two Vulnerabilities Bypassing Signature Verification in miniOrange SAML SSO](https://dev.to/anoymask/two-vulnerabilities-bypassing-signature-verification-in-miniorange-saml-sso-59c9)
-- [CVE-2026-75501: Calix Router WAN-side UPnP Exposes Internal Devices](https://dev.to/anoymask/cve-2026-75501-calix-router-wan-side-upnp-exposes-internal-devices-5bo3)
-- [Maintaining A Government Custom GPT After The Training Ends Is A Different Job Than Building It](https://dev.to/faraz_farhan_83ed23a154a2/maintaining-a-government-custom-gpt-after-the-training-ends-is-a-different-job-than-building-it-11ea)
-- [Treat Your Agent&#39;s Free Server Like a Compromised Machine](https://dev.to/webx_2736/treat-your-agents-free-server-like-a-compromised-machine-34j0)
-- [Your Tests Passed. That Still Doesn’t Mean You Should Release.](https://dev.to/dulvarn/your-tests-passed-that-still-doesnt-mean-you-should-release-184o)
+- [Web Performance on a Budget: Bundle Size, API Limits, and Database Indexes](https://dev.to/apeder/web-performance-on-a-budget-bundle-size-api-limits-and-database-indexes-44c6)
+- [Token Forensics: A Self-Hosted Observatory for Every Model Call](https://dev.to/airs_6907/token-forensics-a-self-hosted-observatory-for-every-model-call-7hd)
+- [Debugging a Flaky LLM Pipeline: Timeouts, Truncation, and a 40-Line Probe](https://dev.to/datago_8008/debugging-a-flaky-llm-pipeline-timeouts-truncation-and-a-40-line-probe-12pm)
+- [Headless CMS setup: when it makes sense and when it doesn&#39;t](https://dev.to/nayankyada/headless-cms-setup-when-it-makes-sense-and-when-it-doesnt-1k5d)
+- [Your Scraper Didn’t Fail. It Just Started Lying. So I Built Molt.](https://dev.to/prince_panchani_f971a20ec/your-scraper-didnt-fail-it-just-started-lying-so-i-built-molt-9kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
