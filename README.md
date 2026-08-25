@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modeling three markets &lpar;BR / US / Crypto&rpar; with one rebalancing engine](https://dev.to/diegocard117/modeling-three-markets-br-us-crypto-with-one-rebalancing-engine-4jkd)
-- [Make your writing easier to read without AI](https://dev.to/drew_gallagher_0785c86b20/make-your-writing-easier-to-read-without-ai-iag)
-- [Your RAG Demo Works Because Someone Picked the Documents](https://dev.to/nabeelbaghoor/your-rag-demo-works-because-someone-picked-the-documents-3980)
-- [GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them](https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p)
-- [The Upgrade That Wasn’t: When ‘Newer’ AI Feels Like a Downgrade](https://dev.to/theaidownside/the-upgrade-that-wasnt-when-newer-ai-feels-like-a-downgrade-4ngo)
+- [DevsFTP s/FTP Client for Windows &amp; Linux](https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl)
+- [Introducing Crypts and Commits](https://dev.to/thebraindonor/introducing-crypts-and-commits-3igo)
+- [Your Proxy Is in Germany. The Rest of Your Client Isn&#39;t.](https://dev.to/roamproxy/your-proxy-is-in-germany-the-rest-of-your-client-isnt-208b)
+- [Your AI image is 1024px. The canvas is 4 feet wide. Here&#39;s the math that saved me.](https://dev.to/erich_mayne_a9cab13715b29/your-ai-image-is-1024px-the-canvas-is-4-feet-wide-heres-the-math-that-saved-me-1cc1)
+- [Feedback for the first post on my blog](https://dev.to/mevlut_bulut_8eb137cc7bce/feedback-for-the-first-post-on-my-blog-3gbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
