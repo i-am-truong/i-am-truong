@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Solutions Architect Associate: La Guía Que Pasé el Examen y No Quería Olvidar](https://dev.to/antitopy/aws-solutions-architect-associate-la-guia-que-pase-el-examen-y-no-queria-olvidar-513g)
-- [Simplifying Access to Parent Properties in Deeply Nested Class Hierarchies Without Passing Entire Objects](https://dev.to/pavkode/simplifying-access-to-parent-properties-in-deeply-nested-class-hierarchies-without-passing-entire-3l9k)
-- [The Third Price: I Measured Prompt Caching Across 393 LLMs and Found a 90% Discount Hiding Behind One JSON Field](https://dev.to/ptokito/the-third-price-i-measured-prompt-caching-across-393-llms-and-found-a-90-discount-hiding-behind-eck)
-- [Vue&#39;s Vapor Mode Is Almost Here. Writing Browser Games With No Framework Taught Me Why It Matters](https://dev.to/gabbrowick/vues-vapor-mode-is-almost-here-writing-browser-games-with-no-framework-taught-me-why-it-matters-5gak)
-- [I Set Up a Fake Internet to Catch a Trojan: Analyzing FlexenseActivator.exe](https://dev.to/almahmudkhalif/i-set-up-a-fake-internet-to-catch-a-trojan-analyzing-flexenseactivatorexe-1bj1)
+- [That Time Client Retries Turned a Recovery Into a 7-Hour Outage](https://dev.to/schiff_heimlich/that-time-client-retries-turned-a-recovery-into-a-7-hour-outage-51e2)
+- [Claude Pro Usage Limits Explained and How to Work Around Them](https://dev.to/swapnoneel123/claude-pro-usage-limits-explained-and-how-to-work-around-them-2lki)
+- [Feedback wanted](https://dev.to/statpace/feedback-wanted-4p20)
+- [AWS in 2026: The Cloud Skills Every Developer Should Master ☁️🚀](https://dev.to/yash_sonawane25/aws-in-2026-the-cloud-skills-every-developer-should-master-5ni)
+- [Getting Agentic Harnesses Out of the Terminal](https://dev.to/elvean/getting-agentic-harnesses-out-of-the-terminal-5d3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
