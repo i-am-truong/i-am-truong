@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qwen 27B na Q3 kvantizaci napsal WebGL hlavu od nuly](https://dev.to/petr_baloun/qwen-27b-na-q3-kvantizaci-napsal-webgl-hlavu-od-nuly-126k)
-- [Authorize Can&#39;t See Your Data](https://dev.to/kazemmdev/authorize-cant-see-your-data-47pc)
-- [Why Your OpenAPI Spec Isn&#39;t Enough for AI Agents](https://dev.to/spread2009/why-your-openapi-spec-isnt-enough-for-ai-agents-3cpe)
-- [I audited 99 resume templates for contrast. Nine rendered the candidate&#39;s name invisible.](https://dev.to/thedolceway/i-audited-99-resume-templates-for-contrast-nine-rendered-the-candidates-name-invisible-hom)
-- [Building a Modern Data Lakehouse on AWS: S3, Iceberg, Glue, Athena, and Lake Formation](https://dev.to/alpeshkumbhare/building-a-modern-data-lakehouse-on-aws-s3-iceberg-glue-athena-and-lake-formation-1lel)
+- [Half the Requests Wearing ChatGPT&#39;s Name Were Scanning Us for Secrets](https://dev.to/izgorodin/half-of-chatgpts-requests-to-our-site-were-not-chatgpt-3hj2)
+- [Build a Data Lake on S3-Compatible Storage](https://dev.to/ethan-carter/build-a-data-lake-on-s3-compatible-storage-d5f)
+- [CAN XL: what changes for robots, HMIs and industrial machines](https://dev.to/pezzullo/can-xl-what-changes-for-robots-hmis-and-industrial-machines-1o39)
+- [Chat history is a second read path into your RAG data — gate the replay like the search](https://dev.to/rdiegoss/chat-history-is-a-second-read-path-into-your-rag-data-gate-the-replay-like-the-search-10j0)
+- [Qwen 3.8, Ornith, Nemotron a Muse-Glimmer v reálném srovnání](https://dev.to/petr_baloun/qwen-38-ornith-nemotron-a-muse-glimmer-v-realnem-srovnani-3e3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
