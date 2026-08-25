@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automatizaciones para pymes: las cinco que siempre piden, ordenadas por lo que cuesta mantenerlas](https://dev.to/gonzalo_terrones_7737b137/automatizaciones-para-pymes-las-cinco-que-siempre-piden-ordenadas-por-lo-que-cuesta-mantenerlas-peo)
-- [How We Keep a Trunk-Based Pipeline From Being Reckless](https://dev.to/sohammondal/how-we-keep-a-trunk-based-pipeline-from-being-reckless-250j)
-- [Bitwise and Otherwise: Understanding XOR Distance](https://dev.to/lovestaco/bitwise-and-otherwise-understanding-xor-distance-1kh8)
-- [From community review to a shipped security hardening with Codex](https://dev.to/oitydobcrypto/from-community-review-to-a-shipped-security-hardening-with-codex-3g1p)
-- [Why Is Bad Software Okay?](https://dev.to/nmiller15/why-is-bad-software-okay-3i9c)
+- [Inside a Suspected Fake CoinDesk Podcast Funnel Targeting Web3 Founders](https://dev.to/frantzgs/inside-a-suspected-fake-coindesk-podcast-funnel-targeting-web3-founders-3k43)
+- [Your Agent Pipeline&#39;s Review Gate Should Be Code, Not a Prompt Convention](https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem)
+- [🩺 Building RadScan AI: Autonomous Multimodal Radiology Triage on GCP Cloud Run &amp; Vertex AI](https://dev.to/sahil_5273/building-radscan-ai-autonomous-multimodal-radiology-triage-on-gcp-cloud-run-vertex-ai-42d0)
+- [Barcode Workflows: Choosing Between Manual, Spreadsheet, and Online Tooling](https://dev.to/lizely/barcode-workflows-choosing-between-manual-spreadsheet-and-online-tooling-3cij)
+- [Go 1.27 banning generic methods from interfaces is the honest move](https://dev.to/adioof/go-127-banning-generic-methods-from-interfaces-is-the-honest-move-3npb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
