@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Express Observability: A Beginner&#39;s Health Endpoint-to-Uptime Signal Contract](https://dev.to/iversonblake8417/nodejs-express-observability-a-beginners-health-endpoint-to-uptime-signal-contract-3906)
+- [An Agent on a Leash, or why my AI agent doesn&#39;t make business decisions](https://dev.to/tonal/an-agent-on-a-leash-or-why-my-ai-agent-doesnt-make-business-decisions-1o1)
 - [My AI Agent Recommended a Non-Existent Investment Product — Exposing Information Gaps Between Fund Distributors and Asset Manage](https://dev.to/masaoshimadaopen/my-ai-agent-recommended-a-non-existent-investment-product-exposing-information-gaps-between-fund-12j5)
 - [Let AI Write the Mac OS App Without Learning Swift](https://dev.to/bgsan6009/let-ai-write-the-mac-os-app-without-learning-swift-463c)
 - [.NET 10 BufferedStream WriteByte: Flush Full Buffers Explicitly](https://dev.to/ssukhpinder/net-10-bufferedstream-writebyte-flush-full-buffers-explicitly-45a2)
-- [DevsFTP s/FTP Client for Windows &amp; Linux](https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl)
-- [Introducing Crypts and Commits](https://dev.to/thebraindonor/introducing-crypts-and-commits-3igo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
