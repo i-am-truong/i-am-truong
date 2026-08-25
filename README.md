@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My AI Agent Recommended a Non-Existent Investment Product — Exposing Information Gaps Between Fund Distributors and Asset Manage](https://dev.to/masaoshimadaopen/my-ai-agent-recommended-a-non-existent-investment-product-exposing-information-gaps-between-fund-12j5)
+- [Let AI Write the Mac OS App Without Learning Swift](https://dev.to/bgsan6009/let-ai-write-the-mac-os-app-without-learning-swift-463c)
+- [.NET 10 BufferedStream WriteByte: Flush Full Buffers Explicitly](https://dev.to/ssukhpinder/net-10-bufferedstream-writebyte-flush-full-buffers-explicitly-45a2)
 - [DevsFTP s/FTP Client for Windows &amp; Linux](https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl)
 - [Introducing Crypts and Commits](https://dev.to/thebraindonor/introducing-crypts-and-commits-3igo)
-- [AI-Driven Discovery &amp; Quantum ESPRESSO DFT Validation for 0 GPa Room-Temp Superconductor Candidate &lpar;C2H2B6Be&rpar;](https://dev.to/tsagi/ai-driven-discovery-quantum-espresso-dft-validation-for-0-gpa-room-temp-superconductor-candidate-5hjn)
-- [Your Proxy Is in Germany. The Rest of Your Client Isn&#39;t.](https://dev.to/roamproxy/your-proxy-is-in-germany-the-rest-of-your-client-isnt-208b)
-- [Your AI image is 1024px. The canvas is 4 feet wide. Here&#39;s the math that saved me.](https://dev.to/erich_mayne_a9cab13715b29/your-ai-image-is-1024px-the-canvas-is-4-feet-wide-heres-the-math-that-saved-me-1cc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
