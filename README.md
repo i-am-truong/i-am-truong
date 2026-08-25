@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Secured the App. Who&#39;s Securing You? &lpar;The React Native Developer&#39;s Security Guide&rpar;](https://dev.to/stephanww/you-secured-the-app-whos-securing-you-the-react-native-developers-security-guide-m39)
-- [What Hermes Agent Gets Right About Long Running Agents](https://dev.to/paulcrinigan/what-hermes-agent-gets-right-about-long-running-agents-2gc4)
-- [From Hype to Production: The Harsh Reality of Shipping AI Agents Beyond the Demo](https://dev.to/tamizuddin/from-hype-to-production-the-harsh-reality-of-shipping-ai-agents-beyond-the-demo-402f)
-- [Proxmox HA-Cluster: Split-Brain vermeiden &amp; Quorum richtig einstellen](https://dev.to/uhltak/proxmox-ha-cluster-split-brain-vermeiden-quorum-richtig-einstellen-jip)
-- [TypeScript 7.0 Is Rewriting the Compiler in Go](https://dev.to/shresthapandey/typescript-70-is-rewriting-the-compiler-in-go-3ppj)
+- [Automatizaciones para pymes: las cinco que siempre piden, ordenadas por lo que cuesta mantenerlas](https://dev.to/gonzalo_terrones_7737b137/automatizaciones-para-pymes-las-cinco-que-siempre-piden-ordenadas-por-lo-que-cuesta-mantenerlas-peo)
+- [How We Keep a Trunk-Based Pipeline From Being Reckless](https://dev.to/sohammondal/how-we-keep-a-trunk-based-pipeline-from-being-reckless-250j)
+- [Bitwise and Otherwise: Understanding XOR Distance](https://dev.to/lovestaco/bitwise-and-otherwise-understanding-xor-distance-1kh8)
+- [From community review to a shipped security hardening with Codex](https://dev.to/oitydobcrypto/from-community-review-to-a-shipped-security-hardening-with-codex-3g1p)
+- [Why Is Bad Software Okay?](https://dev.to/nmiller15/why-is-bad-software-okay-3i9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
