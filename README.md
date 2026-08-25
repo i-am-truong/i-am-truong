@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Launches ChatGPT Business Premium Seats With 5x More Usage Capacity](https://dev.to/alifar/openai-launches-chatgpt-business-premium-seats-with-5x-more-usage-capacity-2gbg)
+- [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+- [FDA aprova wearable que mede cetonas e glicose em tempo real](https://dev.to/leojulieta/fda-aprova-wearable-que-mede-cetonas-e-glicose-em-tempo-real-5gfb)
 - [Understanding the Git Workflow: Working Directory, Staging, Commit and Push](https://dev.to/javan_p_962641807facd5030/understanding-the-git-workflow-working-directory-staging-commit-and-push-14hc)
 - [Node.js Moderation Control: Large Volume User Content Through Batch LLM Triage](https://dev.to/oswaldjohansson6946/nodejs-moderation-control-large-volume-user-content-through-batch-llm-triage-2nn0)
-- [Supercharging Your Daily Dev Workflow with GitHub Copilot: From Jira to JUnit](https://dev.to/shubhamp23/supercharging-your-daily-dev-workflow-with-github-copilot-from-jira-to-junit-fc7)
-- [Multi-tenant Angular deployments: CloudFront vs Cloudflare Pages](https://dev.to/darell/multi-tenant-angular-deployments-cloudfront-vs-cloudflare-pages-2pil)
-- [Google Advises Noindex for New User Content: What SMB Websites Should Do](https://dev.to/alifar/google-advises-noindex-for-new-user-content-what-smb-websites-should-do-g7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
