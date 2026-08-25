@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Nginx 502 and 504 Gateway Errors](https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i)
-- [CCD - Cost of Cognitive Debt](https://dev.to/ljtn/ccd-cost-of-cognitive-debt-a47)
-- [Six Posts on Ensembles and Tuning, and the Uncomfortable Thing They All Turned Out to Be About](https://dev.to/sachin_krrajput/six-posts-on-ensembles-and-tuning-and-the-uncomfortable-thing-they-all-turned-out-to-be-about-3acd)
-- [Why and How You Should Build at Least One Open-Source Project in College](https://dev.to/sumit0rn/why-you-should-build-at-least-one-open-source-project-in-college-44p3)
-- [The Complete Guide to GDPR-Compliant Cloud Backup Solutions](https://dev.to/yaroslav_k/the-complete-guide-to-gdpr-compliant-cloud-backup-solutions-33ma)
+- [Qwen 27B na Q3 kvantizaci napsal WebGL hlavu od nuly](https://dev.to/petr_baloun/qwen-27b-na-q3-kvantizaci-napsal-webgl-hlavu-od-nuly-126k)
+- [Authorize Can&#39;t See Your Data](https://dev.to/kazemmdev/authorize-cant-see-your-data-47pc)
+- [Why Your OpenAPI Spec Isn&#39;t Enough for AI Agents](https://dev.to/spread2009/why-your-openapi-spec-isnt-enough-for-ai-agents-3cpe)
+- [I audited 99 resume templates for contrast. Nine rendered the candidate&#39;s name invisible.](https://dev.to/thedolceway/i-audited-99-resume-templates-for-contrast-nine-rendered-the-candidates-name-invisible-hom)
+- [Building a Modern Data Lakehouse on AWS: S3, Iceberg, Glue, Athena, and Lake Formation](https://dev.to/alpeshkumbhare/building-a-modern-data-lakehouse-on-aws-s3-iceberg-glue-athena-and-lake-formation-1lel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
