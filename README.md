@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right LINE Message UI: Confirm, Buttons, Quick Replies, Carousel, or Flex?](https://dev.to/unifyport/choosing-the-right-line-message-ui-confirm-buttons-quick-replies-carousel-or-flex-l5b)
-- [What Developers and Entrepreneurs Can Learn From Sara Blakely&#39;s Product Innovation Journey](https://dev.to/mogul_times_5b26c74343ca2/what-developers-and-entrepreneurs-can-learn-from-sara-blakelys-product-innovation-journey-19c0)
-- [Designing a GDPR‑ and UK Online Safety Act‑ready serverless plugin system for AI‑driven career assistants on AWS: balancing…](https://dev.to/maria_josegonzalezantel_80/designing-a-gdpr-and-uk-online-safety-act-ready-serverless-plugin-system-for-ai-driven-career-1o7c)
-- [Design a Scalable Chat Application Combine everything into one architecture](https://dev.to/tanu_priya/design-a-scalable-chat-application-combine-everything-into-one-architecture-6m2)
-- [285 commits, opened and closed in one minute: what I do with forks that never upstream](https://dev.to/nhirschfeld/285-commits-opened-and-closed-in-one-minute-what-i-do-with-forks-that-never-upstream-24k2)
+- [Your Detection Rules Have Ten Years of Windows Logic and Zero Lines for a Stolen IAM Key](https://dev.to/rockyyy/your-detection-rules-have-ten-years-of-windows-logic-and-zero-lines-for-a-stolen-iam-key-1daj)
+- [How we detect a bad Capacitor OTA and roll it back in 10 seconds](https://dev.to/capgo_app/how-we-detect-a-bad-capacitor-ota-and-roll-it-back-in-10-seconds-84)
+- [One Dead Container Stopped nginx From Starting At All](https://dev.to/srdjan_poppovic/one-dead-container-stopped-nginx-from-starting-at-all-44h2)
+- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
+- [I put a 45M-parameter LLM on a phone. It was 100% confident about a number it invented.](https://dev.to/vigneshwaran_m/i-put-a-45m-parameter-llm-on-a-phone-it-was-100-confident-about-a-number-it-invented-aej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
