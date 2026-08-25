@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modeling three markets &lpar;BR / US / Crypto&rpar; with one rebalancing engine](https://dev.to/diegocard117/modeling-three-markets-br-us-crypto-with-one-rebalancing-engine-4jkd)
+- [Make your writing easier to read without AI](https://dev.to/drew_gallagher_0785c86b20/make-your-writing-easier-to-read-without-ai-iag)
+- [Your RAG Demo Works Because Someone Picked the Documents](https://dev.to/nabeelbaghoor/your-rag-demo-works-because-someone-picked-the-documents-3980)
 - [GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them](https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p)
 - [The Upgrade That Wasn’t: When ‘Newer’ AI Feels Like a Downgrade](https://dev.to/theaidownside/the-upgrade-that-wasnt-when-newer-ai-feels-like-a-downgrade-4ngo)
-- [Adding OpenAPI Support to Mummy, a Nim HTTP Framework](https://dev.to/isaiahpeter/adding-openapi-support-to-mummy-a-nim-http-framework-227m)
-- [Node.js API Key Text Classification: JSON Validation Before Multi-Provider Gateway Failover](https://dev.to/oberonjohansson6982/nodejs-api-key-text-classification-json-validation-before-multi-provider-gateway-failover-1491)
-- [Implementing Persistent AI Disclosure Without Killing the Persona Experience](https://dev.to/__d34ca/implementing-persistent-ai-disclosure-without-killing-the-persona-experience-l3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
