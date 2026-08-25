@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Open-Source AI-Assisted International Job Search Platform](https://dev.to/subraatakumar/building-an-open-source-ai-assisted-international-job-search-platform-39em)
-- [Why Your Self-Hosted Stirling-PDF Container OOMs, Hangs or Returns a Broken PDF: 15 Anti-Patterns and Their Fixes](https://dev.to/john_182319291/why-your-self-hosted-stirling-pdf-container-ooms-hangs-or-returns-a-broken-pdf-15-anti-patterns-4db2)
-- [MCP vs. a Direct Database Connection: A Security and Workflow Comparison](https://dev.to/vivekdraxlr/mcp-vs-a-direct-database-connection-a-security-and-workflow-comparison-3c8a)
-- [Argo CD Canary Deployment: Gating Rollouts with Real SLIs](https://dev.to/oleksandr_kuryzhev_42873f/argo-cd-canary-deployment-gating-rollouts-with-real-slis-4o4j)
-- [Automating Webhook Testing in Your CI/CD Pipeline &lpar;GitHub Actions &amp; GitLab CI&rpar;](https://dev.to/instawebhook/automating-webhook-testing-in-your-cicd-pipeline-github-actions-gitlab-ci-3pgm)
+- [Choosing the Right LINE Message UI: Confirm, Buttons, Quick Replies, Carousel, or Flex?](https://dev.to/unifyport/choosing-the-right-line-message-ui-confirm-buttons-quick-replies-carousel-or-flex-l5b)
+- [What Developers and Entrepreneurs Can Learn From Sara Blakely&#39;s Product Innovation Journey](https://dev.to/mogul_times_5b26c74343ca2/what-developers-and-entrepreneurs-can-learn-from-sara-blakelys-product-innovation-journey-19c0)
+- [Designing a GDPR‑ and UK Online Safety Act‑ready serverless plugin system for AI‑driven career assistants on AWS: balancing…](https://dev.to/maria_josegonzalezantel_80/designing-a-gdpr-and-uk-online-safety-act-ready-serverless-plugin-system-for-ai-driven-career-1o7c)
+- [Design a Scalable Chat Application Combine everything into one architecture](https://dev.to/tanu_priya/design-a-scalable-chat-application-combine-everything-into-one-architecture-6m2)
+- [285 commits, opened and closed in one minute: what I do with forks that never upstream](https://dev.to/nhirschfeld/285-commits-opened-and-closed-in-one-minute-what-i-do-with-forks-that-never-upstream-24k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
