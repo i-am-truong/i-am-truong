@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DIY Cold Email Stack: Replace Lemlist, Clay + Calendly &lpar;2026&rpar;](https://dev.to/dan_bbddf989101dbe6f23c77/diy-cold-email-stack-replace-lemlist-clay-calendly-2026-3mp1)
-- [GitHub Copilot After 10 Months: Reliable Autocomplete, and a Security Story Our Review Doesn&#39;t Cover Yet](https://dev.to/ramdai_bista/github-copilot-after-10-months-reliable-autocomplete-and-a-security-story-our-review-doesnt-1fpg)
-- [Day 2: Text Preprocessing: Tokenization and Normalization](https://dev.to/priyeshdave6/day-2-text-preprocessing-tokenization-and-normalization-2png)
-- [Write-Side Custody: Trust Begins Before Memory](https://dev.to/kenwalger/write-side-custody-trust-begins-before-memory-1cam)
-- [Add a Watermark to Images in Flutter in 5 Lines](https://dev.to/mryadavgulshan/add-a-watermark-to-images-in-flutter-in-5-lines-2fg4)
+- [Building a TypeScript Code Radar: What an AST Reveals That Text Search Misses](https://dev.to/akamabe/building-a-typescript-code-radar-what-an-ast-reveals-that-text-search-misses-231d)
+- [I built a dependency-driven scheduling engine entirely in Excel/VBA](https://dev.to/tmailletfr/i-built-a-dependency-driven-scheduling-engine-entirely-in-excelvba-4hbf)
+- [Wrought - For stopping your over-engineered codebases.](https://dev.to/proportanilityconstant/wrought-for-stopping-your-over-engineered-codebases-729)
+- [HD-101 — The first pull request](https://dev.to/nazmur96/hd-101-the-first-pull-request-2fep)
+- [Facing State Management: &quot;Truly&quot; Understanding Provider in Flutter](https://dev.to/ali_cimen/facing-state-management-truly-understanding-provider-in-flutter-29ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
