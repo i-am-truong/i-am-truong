@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Ran a Week of Real Open Source Work on Ox Alpha, the Internet&#39;s Mystery Free Coding Model](https://dev.to/aniruddhaadak/i-ran-a-week-of-real-open-source-work-on-ox-alpha-the-internets-mystery-free-coding-model-1lbo)
-- [5 AI Infrastructure Layers That Decide Whether Your Shopify Store Gets Cited in 2026](https://dev.to/pramendray/5-ai-infrastructure-layers-that-decide-whether-your-shopify-store-gets-cited-in-2026-2229)
-- [The cleanest way to keep your compliance‑AI out of the EU AI Act high‑risk class: AI proposes, a human approves and signs](https://dev.to/priya_nair_ree/the-cleanest-way-to-keep-your-compliance-ai-out-of-the-eu-ai-act-high-risk-class-ai-proposes-a-96k)
-- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
-- [Building a 12-language AI product search on the edge: what actually broke](https://dev.to/ohadfarkash/building-a-12-language-ai-product-search-on-the-edge-what-actually-broke-45kb)
+- [How to Reduce Nginx 502 and 504 Gateway Errors](https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i)
+- [CCD - Cost of Cognitive Debt](https://dev.to/ljtn/ccd-cost-of-cognitive-debt-a47)
+- [Six Posts on Ensembles and Tuning, and the Uncomfortable Thing They All Turned Out to Be About](https://dev.to/sachin_krrajput/six-posts-on-ensembles-and-tuning-and-the-uncomfortable-thing-they-all-turned-out-to-be-about-3acd)
+- [Why and How You Should Build at Least One Open-Source Project in College](https://dev.to/sumit0rn/why-you-should-build-at-least-one-open-source-project-in-college-44p3)
+- [The Complete Guide to GDPR-Compliant Cloud Backup Solutions](https://dev.to/yaroslav_k/the-complete-guide-to-gdpr-compliant-cloud-backup-solutions-33ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
