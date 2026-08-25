@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Load-Testing Playbook for Free AI Servers &lpar;and Why I Wrote One&rpar;](https://dev.to/codepy_1473/a-load-testing-playbook-for-free-ai-servers-and-why-i-wrote-one-2ffi)
-- [Docora — An open-source documentation framework for Next.js and React](https://dev.to/md_arifulislam_77c9d1236/docora-an-open-source-documentation-framework-for-nextjs-and-react-2482)
-- [The First Wi-Fi Device You Own That Never Moves: Sticky Clients, Roaming Suggestions, and Why the New Mesh Node Did Not Fix Your Live View](https://dev.to/superfunicular/the-first-wi-fi-device-you-own-that-never-moves-sticky-clients-roaming-suggestions-and-why-the-24f8)
-- [AI Is Making Software Faster. But Is It Making Decisions Better?](https://dev.to/fathimath_fida_ffbda72c61/ai-is-making-software-faster-but-is-it-making-decisions-better-3k56)
-- [A Free-Tier AI PR Reviewer: A GitHub Actions Workflow That Actually Works](https://dev.to/byteio_3726/a-free-tier-ai-pr-reviewer-a-github-actions-workflow-that-actually-works-hgk)
+- [Architectural Analysis of Modern Clinical Trial Management Systems](https://dev.to/chrismakaynes/architectural-analysis-of-modern-clinical-trial-management-systems-37g1)
+- [The Remote Job Search Playbook for Developers Outside the US/EU](https://dev.to/respect17/the-remote-job-search-playbook-for-developers-outside-the-useu-3njb)
+- [Breaking Into Full-Stack Development Without a CS Degree: What Actually Worked for Me](https://dev.to/respect17/breaking-into-full-stack-development-without-a-cs-degree-what-actually-worked-for-me-59g7)
+- [Using AI in Your Job Search: What Actually Helps vs What Looks Lazy to Recruiters](https://dev.to/respect17/using-ai-in-your-job-search-what-actually-helps-vs-what-looks-lazy-to-recruiters-lna)
+- [Unread badges that would not clear: 59 of my 64 messages were junk](https://dev.to/tacckim/unread-badges-that-would-not-clear-59-of-my-64-messages-were-junk-4fi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
