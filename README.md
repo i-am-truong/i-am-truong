@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Rewrote the Same Prompt Three Times, Tuning Against Noise](https://dev.to/den0011/i-rewrote-the-same-prompt-three-times-tuning-against-noise-1pmm)
-- [I tried to build a &quot;token optimization stack&quot; for coding agents. Here&#39;s why I killed it.](https://dev.to/shreyasht/i-tried-to-build-a-token-optimization-stack-for-coding-agents-heres-why-i-killed-it-5316)
-- [XMind&#39;s Mango on Splitting Work, Circles, and Money to Run on AI](https://dev.to/hunter_g_50e2ec233acd07b5/xminds-mango-on-splitting-work-circles-and-money-to-run-on-ai-238j)
-- [OpenAI Plans Jalapeño Inference Chip Deployment by the End of 2026](https://dev.to/alifar/openai-plans-jalapeno-inference-chip-deployment-by-the-end-of-2026-36dh)
-- [Phonebook: a Storybook-style preview gallery for SwiftUI and Compose, built for agents](https://dev.to/orelzion/phonebook-a-storybook-style-preview-gallery-for-swiftui-and-compose-built-for-agents-6g9)
+- [You Secured the App. Who&#39;s Securing You? &lpar;The React Native Developer&#39;s Security Guide&rpar;](https://dev.to/stephanww/you-secured-the-app-whos-securing-you-the-react-native-developers-security-guide-m39)
+- [What Hermes Agent Gets Right About Long Running Agents](https://dev.to/paulcrinigan/what-hermes-agent-gets-right-about-long-running-agents-2gc4)
+- [From Hype to Production: The Harsh Reality of Shipping AI Agents Beyond the Demo](https://dev.to/tamizuddin/from-hype-to-production-the-harsh-reality-of-shipping-ai-agents-beyond-the-demo-402f)
+- [Proxmox HA-Cluster: Split-Brain vermeiden &amp; Quorum richtig einstellen](https://dev.to/uhltak/proxmox-ha-cluster-split-brain-vermeiden-quorum-richtig-einstellen-jip)
+- [TypeScript 7.0 Is Rewriting the Compiler in Go](https://dev.to/shresthapandey/typescript-70-is-rewriting-the-compiler-in-go-3ppj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
