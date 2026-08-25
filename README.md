@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Analysis of Modern Clinical Trial Management Systems](https://dev.to/chrismakaynes/architectural-analysis-of-modern-clinical-trial-management-systems-37g1)
-- [The Remote Job Search Playbook for Developers Outside the US/EU](https://dev.to/respect17/the-remote-job-search-playbook-for-developers-outside-the-useu-3njb)
-- [Breaking Into Full-Stack Development Without a CS Degree: What Actually Worked for Me](https://dev.to/respect17/breaking-into-full-stack-development-without-a-cs-degree-what-actually-worked-for-me-59g7)
-- [Using AI in Your Job Search: What Actually Helps vs What Looks Lazy to Recruiters](https://dev.to/respect17/using-ai-in-your-job-search-what-actually-helps-vs-what-looks-lazy-to-recruiters-lna)
-- [Unread badges that would not clear: 59 of my 64 messages were junk](https://dev.to/tacckim/unread-badges-that-would-not-clear-59-of-my-64-messages-were-junk-4fi1)
+- [Building an Open-Source AI-Assisted International Job Search Platform](https://dev.to/subraatakumar/building-an-open-source-ai-assisted-international-job-search-platform-39em)
+- [Why Your Self-Hosted Stirling-PDF Container OOMs, Hangs or Returns a Broken PDF: 15 Anti-Patterns and Their Fixes](https://dev.to/john_182319291/why-your-self-hosted-stirling-pdf-container-ooms-hangs-or-returns-a-broken-pdf-15-anti-patterns-4db2)
+- [MCP vs. a Direct Database Connection: A Security and Workflow Comparison](https://dev.to/vivekdraxlr/mcp-vs-a-direct-database-connection-a-security-and-workflow-comparison-3c8a)
+- [Argo CD Canary Deployment: Gating Rollouts with Real SLIs](https://dev.to/oleksandr_kuryzhev_42873f/argo-cd-canary-deployment-gating-rollouts-with-real-slis-4o4j)
+- [Automating Webhook Testing in Your CI/CD Pipeline &lpar;GitHub Actions &amp; GitLab CI&rpar;](https://dev.to/instawebhook/automating-webhook-testing-in-your-cicd-pipeline-github-actions-gitlab-ci-3pgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
