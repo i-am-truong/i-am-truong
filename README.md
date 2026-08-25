@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9)
-- [Your coding agent shouldn&#39;t run pytest](https://dev.to/dgotlieb/your-coding-agent-shouldnt-run-pytest-4ak1)
-- [My Validation Layer Was Correctly Deleting 16% of My Good Data](https://dev.to/bedvibe_studios/my-validation-layer-was-correctly-deleting-16-of-my-good-data-1fpj)
-- [Your TTS Model Sounds Great — Until It Says &quot;GPUB&quot;](https://dev.to/bedvibe_studios/your-tts-model-sounds-great-until-it-says-gpub-1d77)
-- [Key integration points for A‑share real‑time Level‑2 API feeds](https://dev.to/sam_choi_aff94225f397c27c/key-integration-points-for-a-share-real-time-level-2-api-feeds-260b)
+- [isolcpus= takes CPUs off the scheduler. Hardware IRQs still land there.](https://dev.to/sunshoutkernel/isolcpus-takes-cpus-off-the-scheduler-hardware-irqs-still-land-there-ihe)
+- [Stop saying SSL: TLS only does three jobs, and your &#39;SSL cert&#39; is usually not the outage](https://dev.to/sunshoutkernel/stop-saying-ssl-tls-only-does-three-jobs-and-your-ssl-cert-is-usually-not-the-outage-26dh)
+- [DeepSeek&#39;s Vision Lineage: From DeepSeek-VL to Vision-Exp](https://dev.to/forestlioooooo/deepseeks-vision-lineage-from-deepseek-vl-to-vision-exp-45ki)
+- [Hierarchical Clustering Fails Beautifully](https://dev.to/nishant_banginwar_80b7dc5/hierarchical-clustering-fails-beautifully-561b)
+- [Rate limits are not quality gates: the guardrail stack behind an AI agent that posts publicly every day](https://dev.to/rulestack/rate-limits-are-not-quality-gates-the-guardrail-stack-behind-an-ai-agent-that-posts-publicly-every-2b6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
