@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Convert JSON to MD for your agents](https://dev.to/rajnandan1/convert-json-to-md-for-your-agents-2j4k)
-- [My Local LLM Was Running at 1.6% of Its Context. Here&#39;s the Setting That Fixed It](https://dev.to/devlog/my-local-llm-was-running-at-16-of-its-context-heres-the-setting-that-fixed-it-3i4j)
-- [How to Calculate ROI on an AI Agent Before You Build It](https://dev.to/pykero/how-to-calculate-roi-on-an-ai-agent-before-you-build-it-42ja)
-- [Magento 2 Performance Regression Testing: Catch Slowdowns in CI](https://dev.to/magevanta/magento-2-performance-regression-testing-catch-slowdowns-in-ci-32h2)
-- [Polymarket Trading Bot Position Sizing: A Practical Guide](https://dev.to/xniiinx/polymarket-trading-bot-position-sizing-a-practical-guide-59jj)
+- [Baklava: Generate API Documentation and Type-Safe Clients from Scala Routing Tests](https://dev.to/katarzyna_kozowska/baklava-generate-api-documentation-and-type-safe-clients-from-scala-routing-tests-3eif)
+- [Why your hreflang tags are being ignored](https://dev.to/sserghei/why-your-hreflang-tags-are-being-ignored-3k70)
+- [Free AI Tiers Bill You in Hours, Not Dollars](https://dev.to/devrs_9381/free-ai-tiers-bill-you-in-hours-not-dollars-494c)
+- [A New Way to Build Aggregation Pipelines in Go](https://dev.to/lucecarter1/a-new-way-to-build-aggregation-pipelines-in-go-614)
+- [Using an AST to validate AI-generated PostgreSQL before it runs](https://dev.to/nur-zaman/using-an-ast-to-validate-ai-generated-postgresql-before-it-runs-1o47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
