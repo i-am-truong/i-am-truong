@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [That Time Client Retries Turned a Recovery Into a 7-Hour Outage](https://dev.to/schiff_heimlich/that-time-client-retries-turned-a-recovery-into-a-7-hour-outage-51e2)
-- [Claude Pro Usage Limits Explained and How to Work Around Them](https://dev.to/swapnoneel123/claude-pro-usage-limits-explained-and-how-to-work-around-them-2lki)
-- [Feedback wanted](https://dev.to/statpace/feedback-wanted-4p20)
-- [AWS in 2026: The Cloud Skills Every Developer Should Master ☁️🚀](https://dev.to/yash_sonawane25/aws-in-2026-the-cloud-skills-every-developer-should-master-5ni)
-- [Getting Agentic Harnesses Out of the Terminal](https://dev.to/elvean/getting-agentic-harnesses-out-of-the-terminal-5d3b)
+- [I Rewrote the Same Prompt Three Times, Tuning Against Noise](https://dev.to/den0011/i-rewrote-the-same-prompt-three-times-tuning-against-noise-1pmm)
+- [I tried to build a &quot;token optimization stack&quot; for coding agents. Here&#39;s why I killed it.](https://dev.to/shreyasht/i-tried-to-build-a-token-optimization-stack-for-coding-agents-heres-why-i-killed-it-5316)
+- [XMind&#39;s Mango on Splitting Work, Circles, and Money to Run on AI](https://dev.to/hunter_g_50e2ec233acd07b5/xminds-mango-on-splitting-work-circles-and-money-to-run-on-ai-238j)
+- [OpenAI Plans Jalapeño Inference Chip Deployment by the End of 2026](https://dev.to/alifar/openai-plans-jalapeno-inference-chip-deployment-by-the-end-of-2026-36dh)
+- [Phonebook: a Storybook-style preview gallery for SwiftUI and Compose, built for agents](https://dev.to/orelzion/phonebook-a-storybook-style-preview-gallery-for-swiftui-and-compose-built-for-agents-6g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
