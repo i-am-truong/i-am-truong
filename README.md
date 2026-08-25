@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Launches ChatGPT Business Premium Seats With 5x More Usage Capacity](https://dev.to/alifar/openai-launches-chatgpt-business-premium-seats-with-5x-more-usage-capacity-2gbg)
-- [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
-- [FDA aprova wearable que mede cetonas e glicose em tempo real](https://dev.to/leojulieta/fda-aprova-wearable-que-mede-cetonas-e-glicose-em-tempo-real-5gfb)
-- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push](https://dev.to/javan_p_962641807facd5030/understanding-the-git-workflow-working-directory-staging-commit-and-push-14hc)
-- [Node.js Moderation Control: Large Volume User Content Through Batch LLM Triage](https://dev.to/oswaldjohansson6946/nodejs-moderation-control-large-volume-user-content-through-batch-llm-triage-2nn0)
+- [Gemini in Chrome Adds Select from Screen for Faster Image and Page Analysis](https://dev.to/alifar/gemini-in-chrome-adds-select-from-screen-for-faster-image-and-page-analysis-3cfd)
+- [I inspected my KMP iOS export header 61% of it was dead weight. Here’s what I found and built](https://dev.to/siddhantpanhalkar/i-inspected-my-kmp-ios-export-header-61-of-it-was-dead-weight-heres-what-i-found-and-built-3mef)
+- [mcp-tool-sanitizer v0.1.0: Making the MCP approval-view match the bytes the model gets](https://dev.to/magopredator/mcp-tool-sanitizer-v010-making-the-mcp-approval-view-match-the-bytes-the-model-gets-17i5)
+- [Auto-Seed Admin Controls: Building Governance for an AI Training Pipeline](https://dev.to/humzakt/auto-seed-admin-controls-building-governance-for-an-ai-training-pipeline-22c4)
+- [One Source of Truth for Aspect Ratio: Retrofitting 16:9 Into a Portrait-Only Pipeline](https://dev.to/humzakt/one-source-of-truth-for-aspect-ratio-retrofitting-169-into-a-portrait-only-pipeline-5bh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
