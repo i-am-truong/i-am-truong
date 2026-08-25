@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a local video search CLI with ffmpeg and OpenCLIP](https://dev.to/harry_xu_74d04f7a971995d5/building-a-local-video-search-cli-with-ffmpeg-and-openclip-3a5g)
-- [How not to use sub-agents!](https://dev.to/atul_joshi_f/how-not-to-use-sub-agents-1p38)
-- [Auto-provisioning hundreds of softphones: what actually has to happen under the hood](https://dev.to/johnw007/auto-provisioning-hundreds-of-softphones-what-actually-has-to-happen-under-the-hood-h1c)
-- [Build a Local RAG Chatbot for Trading Research Using Ollama + Termux &lpar;Zero API Cost&rpar;](https://dev.to/shaktitiwari/build-a-local-rag-chatbot-for-trading-research-using-ollama-termux-zero-api-cost-5df4)
-- [How I Debugged a phpMyAdmin 500 Error While Importing a Large SQL File on Laragon](https://dev.to/tahsin000/how-i-debugged-a-phpmyadmin-500-error-while-importing-a-large-sql-file-on-laragon-245i)
+- [DIY Cold Email Stack: Replace Lemlist, Clay + Calendly &lpar;2026&rpar;](https://dev.to/dan_bbddf989101dbe6f23c77/diy-cold-email-stack-replace-lemlist-clay-calendly-2026-3mp1)
+- [GitHub Copilot After 10 Months: Reliable Autocomplete, and a Security Story Our Review Doesn&#39;t Cover Yet](https://dev.to/ramdai_bista/github-copilot-after-10-months-reliable-autocomplete-and-a-security-story-our-review-doesnt-1fpg)
+- [Day 2: Text Preprocessing: Tokenization and Normalization](https://dev.to/priyeshdave6/day-2-text-preprocessing-tokenization-and-normalization-2png)
+- [Write-Side Custody: Trust Begins Before Memory](https://dev.to/kenwalger/write-side-custody-trust-begins-before-memory-1cam)
+- [Add a Watermark to Images in Flutter in 5 Lines](https://dev.to/mryadavgulshan/add-a-watermark-to-images-in-flutter-in-5-lines-2fg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
