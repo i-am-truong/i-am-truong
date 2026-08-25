@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [isolcpus= takes CPUs off the scheduler. Hardware IRQs still land there.](https://dev.to/sunshoutkernel/isolcpus-takes-cpus-off-the-scheduler-hardware-irqs-still-land-there-ihe)
-- [Stop saying SSL: TLS only does three jobs, and your &#39;SSL cert&#39; is usually not the outage](https://dev.to/sunshoutkernel/stop-saying-ssl-tls-only-does-three-jobs-and-your-ssl-cert-is-usually-not-the-outage-26dh)
-- [DeepSeek&#39;s Vision Lineage: From DeepSeek-VL to Vision-Exp](https://dev.to/forestlioooooo/deepseeks-vision-lineage-from-deepseek-vl-to-vision-exp-45ki)
-- [Hierarchical Clustering Fails Beautifully](https://dev.to/nishant_banginwar_80b7dc5/hierarchical-clustering-fails-beautifully-561b)
-- [Rate limits are not quality gates: the guardrail stack behind an AI agent that posts publicly every day](https://dev.to/rulestack/rate-limits-are-not-quality-gates-the-guardrail-stack-behind-an-ai-agent-that-posts-publicly-every-2b6k)
+- [Two Vulnerabilities Bypassing Signature Verification in miniOrange SAML SSO](https://dev.to/anoymask/two-vulnerabilities-bypassing-signature-verification-in-miniorange-saml-sso-59c9)
+- [CVE-2026-75501: Calix Router WAN-side UPnP Exposes Internal Devices](https://dev.to/anoymask/cve-2026-75501-calix-router-wan-side-upnp-exposes-internal-devices-5bo3)
+- [Maintaining A Government Custom GPT After The Training Ends Is A Different Job Than Building It](https://dev.to/faraz_farhan_83ed23a154a2/maintaining-a-government-custom-gpt-after-the-training-ends-is-a-different-job-than-building-it-11ea)
+- [Treat Your Agent&#39;s Free Server Like a Compromised Machine](https://dev.to/webx_2736/treat-your-agents-free-server-like-a-compromised-machine-34j0)
+- [Your Tests Passed. That Still Doesn’t Mean You Should Release.](https://dev.to/dulvarn/your-tests-passed-that-still-doesnt-mean-you-should-release-184o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
