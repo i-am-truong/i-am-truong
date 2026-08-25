@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DaDaScribe API: YouTube Multi-Language Transcript + SRT in One Request](https://dev.to/infinistrategy/dadascribe-api-youtube-multi-language-transcript-srt-in-one-request-4efk)
-- [Why I run ceremonies](https://dev.to/benmeddeb/why-i-run-ceremonies-2380)
-- [Azure Integration Services Interview Prep Part 4: Application Insights, Log Analytics, Distributed Tracing, and Debugging a Broken Pipeline](https://dev.to/manoharij/azure-integration-services-interview-prep-part-4-application-insights-log-analytics-distributed-46kh)
-- [A Broken-Link Check Counts 404s. The Resource That Breaks Your Padlock Returns 200.](https://dev.to/merlonix/a-broken-link-check-counts-404s-the-resource-that-breaks-your-padlock-returns-200-47fb)
-- [AI promoted every developer to reviewer. Nobody tested the reviewer.](https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h)
+- [Transforme PowerPoint em Vídeo IA em 20s: Guia WAN‑3.0](https://dev.to/leojulieta/transforme-powerpoint-em-video-ia-em-20s-guia-wan-30-3d75)
+- [Per-user two-factor auth in CakePHP with CakeDC/Users &lpar;opt-in, one method&rpar;](https://dev.to/viniciusbig/per-user-two-factor-auth-in-cakephp-with-cakedcusers-opt-in-one-method-4n6d)
+- [I built a free image and video hosting tool after Imgur blocked the UK](https://dev.to/danielbankss/i-built-a-free-image-and-video-hosting-tool-after-imgur-blocked-the-uk-29na)
+- [I built an open cross-reference dataset for 217 global steel grades so engineers stop guessing &quot;is that equivalent?&quot;](https://dev.to/david_web/i-built-an-open-cross-reference-dataset-for-217-global-steel-grades-so-engineers-stop-guessing-is-4n48)
+- [Find YouTube Channels by Topic, Language, and Country](https://dev.to/kinderbb_47a004c5a2093289/find-youtube-channels-by-topic-language-and-country-2i1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
