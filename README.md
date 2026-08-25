@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a TypeScript Code Radar: What an AST Reveals That Text Search Misses](https://dev.to/akamabe/building-a-typescript-code-radar-what-an-ast-reveals-that-text-search-misses-231d)
-- [I built a dependency-driven scheduling engine entirely in Excel/VBA](https://dev.to/tmailletfr/i-built-a-dependency-driven-scheduling-engine-entirely-in-excelvba-4hbf)
-- [Wrought - For stopping your over-engineered codebases.](https://dev.to/proportanilityconstant/wrought-for-stopping-your-over-engineered-codebases-729)
-- [HD-101 — The first pull request](https://dev.to/nazmur96/hd-101-the-first-pull-request-2fep)
-- [Facing State Management: &quot;Truly&quot; Understanding Provider in Flutter](https://dev.to/ali_cimen/facing-state-management-truly-understanding-provider-in-flutter-29ka)
+- [Computer use leaves beta, request shape changes — the weekly AI engineering brief](https://dev.to/aiarch_wibo/computer-use-leaves-beta-request-shape-changes-the-weekly-ai-engineering-brief-5eij)
+- [A Few Tips for Improving Your SEO](https://dev.to/thomasbnt/a-few-tips-for-improving-your-seo-5df3)
+- [Coding &lpar;by hand&rpar; is the only activity that makes you question your life choices...and the next moment, it makes you feel the smartest...](https://dev.to/canro91/coding-by-hand-is-the-only-activity-that-makes-you-question-your-life-choicesand-the-next-52kc)
+- [De &quot;Merge é Deploy&quot; para Release Engineering com GitHub Actions](https://dev.to/victorlisbronzo/de-merge-e-deploy-para-release-engineering-com-github-actions-1a8h)
+- [App store Submission : Rules and regulations every developer must know](https://dev.to/rithanya_angappan_11988c0/app-store-submission-rules-and-regulations-every-developer-must-know-og9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
