@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 18 products EarthLink Network builds in-house](https://dev.to/uehara/the-18-products-earthlink-network-builds-in-house-hb1)
-- [My tests could fail. They still could not tell me I was wrong.](https://dev.to/ink_gu/my-tests-could-fail-they-still-could-not-tell-me-i-was-wrong-5a95)
-- [AWS Shared Responsibility Model Quem Cuida do Quê na Nuvem](https://dev.to/ikauedev/aws-shared-responsibility-model-quem-cuida-do-que-na-nuvem-5bnn)
-- [Three things I got wrong measuring my own cache](https://dev.to/hubertgarcia/three-things-i-got-wrong-measuring-my-own-cache-45je)
-- [Backtesting overfitting: why your backtest lies and how to make it honest](https://dev.to/weston_carnes_d580b505e0c/backtesting-overfitting-why-your-backtest-lies-and-how-to-make-it-honest-d03)
+- [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9)
+- [Your coding agent shouldn&#39;t run pytest](https://dev.to/dgotlieb/your-coding-agent-shouldnt-run-pytest-4ak1)
+- [My Validation Layer Was Correctly Deleting 16% of My Good Data](https://dev.to/bedvibe_studios/my-validation-layer-was-correctly-deleting-16-of-my-good-data-1fpj)
+- [Your TTS Model Sounds Great — Until It Says &quot;GPUB&quot;](https://dev.to/bedvibe_studios/your-tts-model-sounds-great-until-it-says-gpub-1d77)
+- [Key integration points for A‑share real‑time Level‑2 API feeds](https://dev.to/sam_choi_aff94225f397c27c/key-integration-points-for-a-share-real-time-level-2-api-feeds-260b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
