@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Performance on a Budget: Bundle Size, API Limits, and Database Indexes](https://dev.to/apeder/web-performance-on-a-budget-bundle-size-api-limits-and-database-indexes-44c6)
-- [Token Forensics: A Self-Hosted Observatory for Every Model Call](https://dev.to/airs_6907/token-forensics-a-self-hosted-observatory-for-every-model-call-7hd)
-- [Debugging a Flaky LLM Pipeline: Timeouts, Truncation, and a 40-Line Probe](https://dev.to/datago_8008/debugging-a-flaky-llm-pipeline-timeouts-truncation-and-a-40-line-probe-12pm)
-- [Headless CMS setup: when it makes sense and when it doesn&#39;t](https://dev.to/nayankyada/headless-cms-setup-when-it-makes-sense-and-when-it-doesnt-1k5d)
-- [Your Scraper Didn’t Fail. It Just Started Lying. So I Built Molt.](https://dev.to/prince_panchani_f971a20ec/your-scraper-didnt-fail-it-just-started-lying-so-i-built-molt-9kd)
+- [A Load-Testing Playbook for Free AI Servers &lpar;and Why I Wrote One&rpar;](https://dev.to/codepy_1473/a-load-testing-playbook-for-free-ai-servers-and-why-i-wrote-one-2ffi)
+- [Docora — An open-source documentation framework for Next.js and React](https://dev.to/md_arifulislam_77c9d1236/docora-an-open-source-documentation-framework-for-nextjs-and-react-2482)
+- [The First Wi-Fi Device You Own That Never Moves: Sticky Clients, Roaming Suggestions, and Why the New Mesh Node Did Not Fix Your Live View](https://dev.to/superfunicular/the-first-wi-fi-device-you-own-that-never-moves-sticky-clients-roaming-suggestions-and-why-the-24f8)
+- [AI Is Making Software Faster. But Is It Making Decisions Better?](https://dev.to/fathimath_fida_ffbda72c61/ai-is-making-software-faster-but-is-it-making-decisions-better-3k56)
+- [A Free-Tier AI PR Reviewer: A GitHub Actions Workflow That Actually Works](https://dev.to/byteio_3726/a-free-tier-ai-pr-reviewer-a-github-actions-workflow-that-actually-works-hgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
