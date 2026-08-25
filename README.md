@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Computer use leaves beta, request shape changes — the weekly AI engineering brief](https://dev.to/aiarch_wibo/computer-use-leaves-beta-request-shape-changes-the-weekly-ai-engineering-brief-5eij)
-- [A Few Tips for Improving Your SEO](https://dev.to/thomasbnt/a-few-tips-for-improving-your-seo-5df3)
-- [Coding &lpar;by hand&rpar; is the only activity that makes you question your life choices...and the next moment, it makes you feel the smartest...](https://dev.to/canro91/coding-by-hand-is-the-only-activity-that-makes-you-question-your-life-choicesand-the-next-52kc)
-- [De &quot;Merge é Deploy&quot; para Release Engineering com GitHub Actions](https://dev.to/victorlisbronzo/de-merge-e-deploy-para-release-engineering-com-github-actions-1a8h)
-- [App store Submission : Rules and regulations every developer must know](https://dev.to/rithanya_angappan_11988c0/app-store-submission-rules-and-regulations-every-developer-must-know-og9)
+- [From Software Developer to Founder: Learning to Build Beyond Code](https://dev.to/banupriya_mohanraj_09f15a/from-software-developer-to-founder-learning-to-build-beyond-code-2pb5)
+- [Amazon, Temu, and AliExpress already have visual search. Desktop just hides it.](https://dev.to/fgiust/amazon-temu-and-aliexpress-already-have-visual-search-desktop-just-hides-it-336b)
+- [My Nand2Tetris Journey #2 - Building Basic Chips And ALU](https://dev.to/rondo/my-nand2tetris-journey-2-building-basic-chips-and-alu-ahh)
+- [Your Users Experience Your Backend Too.](https://dev.to/hilda_enyioko/your-users-experience-your-backend-too-cb0)
+- [React Form Backends Compared: Serverless Functions vs. Form-as-a-Service](https://dev.to/ekwoster/react-form-backends-compared-serverless-functions-vs-form-as-a-service-ap6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
