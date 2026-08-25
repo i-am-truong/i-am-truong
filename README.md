@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini in Chrome Adds Select from Screen for Faster Image and Page Analysis](https://dev.to/alifar/gemini-in-chrome-adds-select-from-screen-for-faster-image-and-page-analysis-3cfd)
-- [I inspected my KMP iOS export header 61% of it was dead weight. Here’s what I found and built](https://dev.to/siddhantpanhalkar/i-inspected-my-kmp-ios-export-header-61-of-it-was-dead-weight-heres-what-i-found-and-built-3mef)
-- [mcp-tool-sanitizer v0.1.0: Making the MCP approval-view match the bytes the model gets](https://dev.to/magopredator/mcp-tool-sanitizer-v010-making-the-mcp-approval-view-match-the-bytes-the-model-gets-17i5)
-- [Auto-Seed Admin Controls: Building Governance for an AI Training Pipeline](https://dev.to/humzakt/auto-seed-admin-controls-building-governance-for-an-ai-training-pipeline-22c4)
-- [One Source of Truth for Aspect Ratio: Retrofitting 16:9 Into a Portrait-Only Pipeline](https://dev.to/humzakt/one-source-of-truth-for-aspect-ratio-retrofitting-169-into-a-portrait-only-pipeline-5bh3)
+- [GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them](https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p)
+- [The Upgrade That Wasn’t: When ‘Newer’ AI Feels Like a Downgrade](https://dev.to/theaidownside/the-upgrade-that-wasnt-when-newer-ai-feels-like-a-downgrade-4ngo)
+- [Adding OpenAPI Support to Mummy, a Nim HTTP Framework](https://dev.to/isaiahpeter/adding-openapi-support-to-mummy-a-nim-http-framework-227m)
+- [Node.js API Key Text Classification: JSON Validation Before Multi-Provider Gateway Failover](https://dev.to/oberonjohansson6982/nodejs-api-key-text-classification-json-validation-before-multi-provider-gateway-failover-1491)
+- [Implementing Persistent AI Disclosure Without Killing the Persona Experience](https://dev.to/__d34ca/implementing-persistent-ai-disclosure-without-killing-the-persona-experience-l3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
