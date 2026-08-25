@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Say Goodbye to YAML Hell: Introducing Infra Lang v0.5.1](https://dev.to/tuvidev/say-goodbye-to-yaml-hell-introducing-infra-lang-v051-1ge2)
+- [Your Documents, Chunked and Searchable: The Knowledge Base in ByteChef](https://dev.to/bytechef/your-documents-chunked-and-searchable-the-knowledge-base-in-bytechef-h9d)
+- [Driving an Undocumented 3nm ASIC with an ESP32: Inside the First Sub-10 J/TH Open-Source Bitcoin Miner](https://dev.to/solosatoshi/driving-an-undocumented-3nm-asic-with-an-esp32-inside-the-first-sub-10-jth-open-source-bitcoin-8kh)
+- [Beyond Vibe Coding: A Quick Field Guide to Agentic Engineering](https://dev.to/bunshee/beyond-vibe-coding-a-quick-field-guide-to-agentic-engineering-4agi)
 - [Inside a Suspected Fake CoinDesk Podcast Funnel Targeting Web3 Founders](https://dev.to/frantzgs/inside-a-suspected-fake-coindesk-podcast-funnel-targeting-web3-founders-3k43)
-- [Your Agent Pipeline&#39;s Review Gate Should Be Code, Not a Prompt Convention](https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem)
-- [🩺 Building RadScan AI: Autonomous Multimodal Radiology Triage on GCP Cloud Run &amp; Vertex AI](https://dev.to/sahil_5273/building-radscan-ai-autonomous-multimodal-radiology-triage-on-gcp-cloud-run-vertex-ai-42d0)
-- [Barcode Workflows: Choosing Between Manual, Spreadsheet, and Online Tooling](https://dev.to/lizely/barcode-workflows-choosing-between-manual-spreadsheet-and-online-tooling-3cij)
-- [Go 1.27 banning generic methods from interfaces is the honest move](https://dev.to/adioof/go-127-banning-generic-methods-from-interfaces-is-the-honest-move-3npb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
