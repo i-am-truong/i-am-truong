@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Half the Requests Wearing ChatGPT&#39;s Name Were Scanning Us for Secrets](https://dev.to/izgorodin/half-of-chatgpts-requests-to-our-site-were-not-chatgpt-3hj2)
-- [Build a Data Lake on S3-Compatible Storage](https://dev.to/ethan-carter/build-a-data-lake-on-s3-compatible-storage-d5f)
-- [CAN XL: what changes for robots, HMIs and industrial machines](https://dev.to/pezzullo/can-xl-what-changes-for-robots-hmis-and-industrial-machines-1o39)
-- [Chat history is a second read path into your RAG data — gate the replay like the search](https://dev.to/rdiegoss/chat-history-is-a-second-read-path-into-your-rag-data-gate-the-replay-like-the-search-10j0)
-- [Qwen 3.8, Ornith, Nemotron a Muse-Glimmer v reálném srovnání](https://dev.to/petr_baloun/qwen-38-ornith-nemotron-a-muse-glimmer-v-realnem-srovnani-3e3g)
+- [Building a local video search CLI with ffmpeg and OpenCLIP](https://dev.to/harry_xu_74d04f7a971995d5/building-a-local-video-search-cli-with-ffmpeg-and-openclip-3a5g)
+- [How not to use sub-agents!](https://dev.to/atul_joshi_f/how-not-to-use-sub-agents-1p38)
+- [Auto-provisioning hundreds of softphones: what actually has to happen under the hood](https://dev.to/johnw007/auto-provisioning-hundreds-of-softphones-what-actually-has-to-happen-under-the-hood-h1c)
+- [Build a Local RAG Chatbot for Trading Research Using Ollama + Termux &lpar;Zero API Cost&rpar;](https://dev.to/shaktitiwari/build-a-local-rag-chatbot-for-trading-research-using-ollama-termux-zero-api-cost-5df4)
+- [How I Debugged a phpMyAdmin 500 Error While Importing a Large SQL File on Laragon](https://dev.to/tahsin000/how-i-debugged-a-phpmyadmin-500-error-while-importing-a-large-sql-file-on-laragon-245i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
