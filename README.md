@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Detection Rules Have Ten Years of Windows Logic and Zero Lines for a Stolen IAM Key](https://dev.to/rockyyy/your-detection-rules-have-ten-years-of-windows-logic-and-zero-lines-for-a-stolen-iam-key-1daj)
-- [How we detect a bad Capacitor OTA and roll it back in 10 seconds](https://dev.to/capgo_app/how-we-detect-a-bad-capacitor-ota-and-roll-it-back-in-10-seconds-84)
-- [One Dead Container Stopped nginx From Starting At All](https://dev.to/srdjan_poppovic/one-dead-container-stopped-nginx-from-starting-at-all-44h2)
-- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
-- [I put a 45M-parameter LLM on a phone. It was 100% confident about a number it invented.](https://dev.to/vigneshwaran_m/i-put-a-45m-parameter-llm-on-a-phone-it-was-100-confident-about-a-number-it-invented-aej)
+- [Convert JSON to MD for your agents](https://dev.to/rajnandan1/convert-json-to-md-for-your-agents-2j4k)
+- [My Local LLM Was Running at 1.6% of Its Context. Here&#39;s the Setting That Fixed It](https://dev.to/devlog/my-local-llm-was-running-at-16-of-its-context-heres-the-setting-that-fixed-it-3i4j)
+- [How to Calculate ROI on an AI Agent Before You Build It](https://dev.to/pykero/how-to-calculate-roi-on-an-ai-agent-before-you-build-it-42ja)
+- [Magento 2 Performance Regression Testing: Catch Slowdowns in CI](https://dev.to/magevanta/magento-2-performance-regression-testing-catch-slowdowns-in-ci-32h2)
+- [Polymarket Trading Bot Position Sizing: A Practical Guide](https://dev.to/xniiinx/polymarket-trading-bot-position-sizing-a-practical-guide-59jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
