@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning OWASP A01 and A02: Broken Access Control and Security Misconfiguration](https://dev.to/samyuktha_saravanan_97001/learning-owasp-a01-and-a02-broken-access-control-and-security-misconfiguration-44a6)
-- [Down, Up, Sideways: The Three Directions I Dig Deeper With AI](https://dev.to/dexterlung/down-up-sideways-the-three-directions-i-dig-deeper-with-ai-51j2)
-- [How do you design permissions for a multi-tenant SaaS product?](https://dev.to/imamifti056/how-do-you-design-permissions-for-a-multi-tenant-saas-product-1c9e)
-- [LLMOps for Compound AI Systems — Observability &amp; Cost](https://dev.to/nainikmehta/llmops-for-compound-ai-systems-observability-cost-d6b)
-- [Building Connect Now: My Take on Real-Time Video Calling](https://dev.to/basantgautam/building-connect-now-my-take-on-real-time-video-calling-53ca)
+- [Critical Gitea RCE Under Active Exploitation: CVE-2026-60004 Turns a Signup Form Into Shell Access](https://dev.to/etairos/critical-gitea-rce-under-active-exploitation-cve-2026-60004-turns-a-signup-form-into-shell-access-5gnk)
+- [The &quot;Private Language&quot; You Build With AI Never Actually Gets Stored](https://dev.to/icophy/the-private-language-you-build-with-ai-never-actually-gets-stored-2ici)
+- [.NET WebCIL Container Meets WebForms Core 2.1](https://dev.to/elanatframework/net-webcil-container-meets-webforms-core-21-39f5)
+- [What are the basics of prompt writing ??](https://dev.to/dikshaanand/what-are-the-basics-of-prompt-writing--2fn7)
+- [trelix v3.1.2 to v3.2.1: The Tests That Passed Without Testing Anything](https://dev.to/sai_ram_0000/trelix-v312-to-v321-the-tests-that-passed-without-testing-anything-1gp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
