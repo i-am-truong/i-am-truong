@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The fuss with running a code ONLY once in React.js &lpar;after page load&rpar;](https://dev.to/midnqp/the-fuss-with-running-a-code-only-once-in-reactjs-after-page-load-jo7)
-- [AI Cut Korean Herbal Medicine Prep Time from 300 Minutes to 5 - But the Smart Part Is What It Didn&#39;t Touch: the Korean Medicine Doctor&#39;s Judgment](https://dev.to/judy_miranttie/ai-cut-korean-herbal-medicine-prep-time-from-300-minutes-to-5-but-the-smart-part-is-what-it-1hlc)
-- [Even Cloudflare Is Now Issuing Wallets to AI - The &#39;Spending Cap&#39; Everyone&#39;s Racing to Build Is What Actually Makes AI Safe to Spend Money](https://dev.to/judy_miranttie/even-cloudflare-is-now-issuing-wallets-to-ai-the-spending-cap-everyones-racing-to-build-is-4opm)
-- [Build a Full-Stack Music Station with OpenRouter, Amazon Bedrock, and Nuxt](https://dev.to/aws/build-a-full-stack-music-station-with-openrouter-amazon-bedrock-and-nuxt-5fh4)
-- [I built free, no-code Bluesky feeds for dev topics &lpar;Postgres, Redis, Docker&rpar; — no login, no LLM](https://dev.to/snaplink/i-built-free-no-code-bluesky-feeds-for-dev-topics-postgres-redis-docker-no-login-no-llm-5b1a)
+- [Vector Database vs Knowledge Graph: Choosing Your LLM Store](https://dev.to/mryadavgulshan/vector-database-vs-knowledge-graph-choosing-your-llm-store-4me5)
+- [Ten ai automations businesses pay for and How to Build Them](https://dev.to/samchenreviews/ten-ai-automations-businesses-pay-for-and-how-to-build-them-40ij)
+- [How to Automate Invoicing and Stop Chasing Payments](https://dev.to/samchenreviews/how-to-automate-invoicing-and-stop-chasing-payments-2dka)
+- [how to make faceless youtube shorts with ai](https://dev.to/samchenreviews/how-to-make-faceless-youtube-shorts-with-ai-1o3k)
+- [Coastline Index’s Machine-Readable GTA 6 Data: llms.txt and JSON APIs](https://dev.to/kyd_630f9e5792ecd90bf8c3e/coastline-indexs-machine-readable-gta-6-data-llmstxt-and-json-apis-6ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
