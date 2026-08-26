@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI wave](https://dev.to/michele-9e58e27dac99451/ai-wave-h75)
-- [I Treated Agent Sessions as Portable Cache and Moved Control to a Policy Plane: Vendor Lock-In Became Manageable](https://dev.to/jangwook_kim_e31e7291ad98/i-treated-agent-sessions-as-portable-cache-and-moved-control-to-a-policy-plane-vendor-lock-in-15j4)
-- [I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard](https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk)
-- [AI-Driven Dynamic Pricing in Hotels: A Data Engineer&#39;s Deep Dive](https://dev.to/airtruffle/ai-driven-dynamic-pricing-in-hotels-a-data-engineers-deep-dive-3m86)
-- [&quot;Needs an Account&quot; here means &quot;Not Nutomatable&quot;](https://dev.to/chao_wang_e3932d4a8c58d48/needs-an-account-here-means-not-nutomatable-2hfe)
+- [IDEAX2026 Registration Open](https://dev.to/gaurab_pandey_1bb3e74577e/ideax2026-registration-open-44li)
+- [Your App Works. But Is It Actually Solving Your Users’ Problems?](https://dev.to/vasundhra/your-app-works-but-is-it-actually-solving-your-users-problems-2mo3)
+- [Vibecoding: How to Manage an AI Coder and Not Drown in Spaghetti Code](https://dev.to/traliran/vibecoding-how-to-manage-an-ai-coder-and-not-drown-in-spaghetti-code-38gn)
+- [Stop Googling! 7 Python Functions You Should Master as a Beginner](https://dev.to/nusduw/stop-googling-7-python-functions-you-should-master-as-a-beginner-142f)
+- [My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong.](https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
