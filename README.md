@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Henna Virkkunen’s Gamescom 2026 Visit Puts EU Games Strategy in Focus](https://dev.to/alifar/henna-virkkunens-gamescom-2026-visit-puts-eu-games-strategy-in-focus-3ghh)
-- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-l53)
-- [5 Days of Silent Failures: A launchd Locale Bug That Was Hiding in 5 Repos](https://dev.to/bokuwalily/5-days-of-silent-failures-a-launchd-locale-bug-that-was-hiding-in-5-repos-hk)
-- [How to Scrape App Store &amp; Google Play Reviews &lpar;with Sentiment Analysis&rpar; 2026](https://dev.to/robertokerber/how-to-scrape-app-store-google-play-reviews-with-sentiment-analysis-2026-27e2)
-- [I Seeded Bugs Into My Own PR to Test the AI Reviewer](https://dev.to/magickong/i-seeded-bugs-into-my-own-pr-to-test-the-ai-reviewer-92b)
+- [Your JSON never leaves your machine](https://dev.to/holo-dev/your-json-never-leaves-your-machine-4b7o)
+- [A Zero-Budget Overnight Code Review Pipeline for Solo Repos](https://dev.to/hackcpp_3619/a-zero-budget-overnight-code-review-pipeline-for-solo-repos-320i)
+- [Adaptive live-sports polling under a fixed API quota](https://dev.to/acerankteam/adaptive-live-sports-polling-under-a-fixed-api-quota-3a8k)
+- [Literature-in-the-Loop: Citation-Grounded Triage for AI Protein Design](https://dev.to/valyuai/literature-in-the-loop-citation-grounded-triage-for-ai-protein-design-3m8i)
+- [What I gave up to run Spring static analysis in a browser](https://dev.to/brahamshakti/what-i-gave-up-to-run-spring-static-analysis-in-a-browser-6f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
