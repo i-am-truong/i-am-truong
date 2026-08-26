@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate Your Data to a New Cloud Backup Service Without Losing Files](https://dev.to/yaroslav_k/how-to-migrate-your-data-to-a-new-cloud-backup-service-without-losing-files-2dh5)
-- [Unlocking the LeetCode Quest: 5 Steps to Solve Any Problem Like a Jedi](https://dev.to/timevolt/unlocking-the-leetcode-quest-5-steps-to-solve-any-problem-like-a-jedi-5e0c)
-- [AI Is Writing All the Code. Who&#39;s Reviewing It? &lpar;Please Don&#39;t Say Another AI&rpar;](https://dev.to/pranta/ai-is-writing-all-the-code-whos-reviewing-it-please-dont-say-another-ai-3gd3)
-- [How We Got Voice AI Response Times Under 1.8 Seconds on Real Phone Calls](https://dev.to/parvejshah/how-we-got-voice-ai-response-times-under-18-seconds-on-real-phone-calls-2eei)
-- [Password Manager Breaches: What Happened and Why Your Data Stayed Safe &lpar;Or Didn&#39;t&rpar;](https://dev.to/yaroslav_k/password-manager-breaches-what-happened-and-why-your-data-stayed-safe-or-didnt-4nki)
+- [Henna Virkkunen’s Gamescom 2026 Visit Puts EU Games Strategy in Focus](https://dev.to/alifar/henna-virkkunens-gamescom-2026-visit-puts-eu-games-strategy-in-focus-3ghh)
+- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-l53)
+- [5 Days of Silent Failures: A launchd Locale Bug That Was Hiding in 5 Repos](https://dev.to/bokuwalily/5-days-of-silent-failures-a-launchd-locale-bug-that-was-hiding-in-5-repos-hk)
+- [How to Scrape App Store &amp; Google Play Reviews &lpar;with Sentiment Analysis&rpar; 2026](https://dev.to/robertokerber/how-to-scrape-app-store-google-play-reviews-with-sentiment-analysis-2026-27e2)
+- [I Seeded Bugs Into My Own PR to Test the AI Reviewer](https://dev.to/magickong/i-seeded-bugs-into-my-own-pr-to-test-the-ai-reviewer-92b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
