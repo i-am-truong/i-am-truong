@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding RCDA: A Strategic Approach to Managing Risk and Cost in Architecture](https://dev.to/chtwilfer/understanding-rcda-a-strategic-approach-to-managing-risk-and-cost-in-architecture-43e6)
-- [A Unified KPI Framework for Automation Testing with Playwright &amp; JavaScript](https://dev.to/she11_qa/a-unified-kpi-framework-for-automation-testing-with-playwright-javascript-2oce)
-- [Building a Client-Side N-gram Utility for Text Structure and Phrase Audit](https://dev.to/hoangvibecode/building-a-client-side-n-gram-utility-for-text-structure-and-phrase-audit-4623)
-- [Testing an AI shopping agent&#39;s checkout flow? There&#39;s no sandbox for that yet — so I built one](https://dev.to/flovoice53tech/testing-an-ai-shopping-agents-checkout-flow-theres-no-sandbox-for-that-yet-so-i-built-one-dgo)
-- [Building an Automated QA KPI Dashboard for Playwright &amp; BDD Pipelines](https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7)
+- [🚨 ANNOUNCING: The First Ever &quot;KODA Code Jam&quot;!](https://dev.to/koda2026/announcing-the-first-ever-koda-code-jam-218n)
+- [How our leadership &quot;saved&quot; the company by banning the tools that worked](https://dev.to/astra_lost_in_ai/how-our-leadership-saved-the-company-by-banning-the-tools-that-worked-15ec)
+- [Loan API Orchestration vs. API Aggregation: Why the Architecture Decision Determines What Your Lending Stack Can Actually Do](https://dev.to/ramklfin/loan-api-orchestration-vs-api-aggregation-why-the-architecture-decision-determines-what-your-2ghk)
+- [When Building an AI Agent, the Journey Matters as Much as the Destination](https://dev.to/rajkundalia/when-building-an-ai-agent-the-journey-matters-as-much-as-the-destination-124d)
+- [Building an Agent That Turns DataHub Metadata Into Airflow DAGs](https://dev.to/mark2k4/building-an-agent-that-turns-datahub-metadata-into-airflow-dags-gkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
