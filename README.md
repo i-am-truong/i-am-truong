@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embeddings Cannot Say No: An Intent Detector&#39;s Real Numbers](https://dev.to/julesrobineau/embeddings-cannot-say-no-an-intent-detectors-real-numbers-3pg6)
-- [From Hype to Hard Reality: What We&#39;re Learning About Shipping AI Agents in Production](https://dev.to/tamizuddin/from-hype-to-hard-reality-what-were-learning-about-shipping-ai-agents-in-production-42il)
-- [What I Check When I Inherit a WordPress Site I Didn&#39;t Build](https://dev.to/nokazehayato/what-i-check-when-i-inherit-a-wordpress-site-i-didnt-build-2lp4)
-- [I hosted my no-Mac iOS pipeline as a browser wizard &lpar;and dropped the price to $1 for a day&rpar;](https://dev.to/maclessdev/i-hosted-my-no-mac-ios-pipeline-as-a-browser-wizard-and-dropped-the-price-to-1-for-a-day-512e)
-- [Google Gemini 3.5 and Gemini 3.5 Flash: The Complete Guide](https://dev.to/mecanik-dev/google-gemini-35-and-gemini-35-flash-the-complete-guide-59he)
+- [Understanding RCDA: A Strategic Approach to Managing Risk and Cost in Architecture](https://dev.to/chtwilfer/understanding-rcda-a-strategic-approach-to-managing-risk-and-cost-in-architecture-43e6)
+- [A Unified KPI Framework for Automation Testing with Playwright &amp; JavaScript](https://dev.to/she11_qa/a-unified-kpi-framework-for-automation-testing-with-playwright-javascript-2oce)
+- [Building a Client-Side N-gram Utility for Text Structure and Phrase Audit](https://dev.to/hoangvibecode/building-a-client-side-n-gram-utility-for-text-structure-and-phrase-audit-4623)
+- [Testing an AI shopping agent&#39;s checkout flow? There&#39;s no sandbox for that yet — so I built one](https://dev.to/flovoice53tech/testing-an-ai-shopping-agents-checkout-flow-theres-no-sandbox-for-that-yet-so-i-built-one-dgo)
+- [Building an Automated QA KPI Dashboard for Playwright &amp; BDD Pipelines](https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
