@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Constraint Weakening in LLM Agent Workflows: Why \\\\\\\&quot;Must\\\\\\\&quot; Becomes \\\\\\\&quot;Maybe\\\\\\\&quot; Across Multi-Stage Pipelines](https://dev.to/mech_app_ai/constraint-weakening-in-llm-agent-workflows-why-must-becomes-maybe-272j)
-- [Agent Vault: HTTP Credential Proxy for AI Agent Tool Calls](https://dev.to/mech_app_ai/agent-vault-http-credential-proxy-for-ai-agent-tool-calls-42m4)
-- [Building Malaaz: Decentralized Mesh Network Simulation &amp; Signal Reconstruction](https://dev.to/mohamed_mansour25/building-malaaz-decentralized-mesh-network-simulation-signal-reconstruction-9jp)
-- [Mem0 vs Zep vs LangChain Memory vs Letta: Which One Actually Remembers?](https://dev.to/mukesh_13/mem0-vs-zep-vs-langchain-memory-vs-letta-which-one-actually-remembers-2j47)
-- [Google Gemini Spark Brings Persistent, Cross-Device Task Automation to Gemini](https://dev.to/alifar/google-gemini-spark-brings-persistent-cross-device-task-automation-to-gemini-3435)
+- [I went quiet for a while. This is what I was building.](https://dev.to/kkierii/i-went-quiet-for-a-while-this-is-what-i-was-building-1a74)
+- [We measured a week of inference. Routing by task difficulty cuts our cost per call roughly 48x — and flips which users are profitable.](https://dev.to/weio/we-measured-a-week-of-inference-routing-by-task-difficulty-cuts-our-cost-per-call-roughly-48x--ama)
+- [Managed vs Self-Hosted React Native OTA: Compare the Ownership Boundary](https://dev.to/gfean/managed-vs-self-hosted-react-native-ota-compare-the-ownership-boundary-48li)
+- [How long does a Google trend stay alive? Measuring trend duration with started_at and ended_at](https://dev.to/orbotshq/how-long-does-a-google-trend-stay-alive-measuring-trend-duration-with-startedat-and-endedat-i6n)
+- [Migrate from SchemaSpy to SchemaCrawler Without Rewriting Your Runbooks](https://dev.to/sualeh/migrate-from-schemaspy-to-schemacrawler-without-rewriting-your-runbooks-34k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
