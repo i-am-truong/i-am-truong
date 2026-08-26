@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IDEAX2026 Registration Open](https://dev.to/gaurab_pandey_1bb3e74577e/ideax2026-registration-open-44li)
-- [Your App Works. But Is It Actually Solving Your Users’ Problems?](https://dev.to/vasundhra/your-app-works-but-is-it-actually-solving-your-users-problems-2mo3)
-- [Vibecoding: How to Manage an AI Coder and Not Drown in Spaghetti Code](https://dev.to/traliran/vibecoding-how-to-manage-an-ai-coder-and-not-drown-in-spaghetti-code-38gn)
-- [Stop Googling! 7 Python Functions You Should Master as a Beginner](https://dev.to/nusduw/stop-googling-7-python-functions-you-should-master-as-a-beginner-142f)
-- [My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong.](https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p)
+- [How to Migrate Your Data to a New Cloud Backup Service Without Losing Files](https://dev.to/yaroslav_k/how-to-migrate-your-data-to-a-new-cloud-backup-service-without-losing-files-2dh5)
+- [Unlocking the LeetCode Quest: 5 Steps to Solve Any Problem Like a Jedi](https://dev.to/timevolt/unlocking-the-leetcode-quest-5-steps-to-solve-any-problem-like-a-jedi-5e0c)
+- [AI Is Writing All the Code. Who&#39;s Reviewing It? &lpar;Please Don&#39;t Say Another AI&rpar;](https://dev.to/pranta/ai-is-writing-all-the-code-whos-reviewing-it-please-dont-say-another-ai-3gd3)
+- [How We Got Voice AI Response Times Under 1.8 Seconds on Real Phone Calls](https://dev.to/parvejshah/how-we-got-voice-ai-response-times-under-18-seconds-on-real-phone-calls-2eei)
+- [Password Manager Breaches: What Happened and Why Your Data Stayed Safe &lpar;Or Didn&#39;t&rpar;](https://dev.to/yaroslav_k/password-manager-breaches-what-happened-and-why-your-data-stayed-safe-or-didnt-4nki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
