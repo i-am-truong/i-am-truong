@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Path Aliases in 2026: `tsconfig` Paths, Bundler Resolution, and Why They Still Break at Runtime](https://dev.to/jsmanifest/typescript-path-aliases-in-2026-tsconfig-paths-bundler-resolution-and-why-they-still-break-at-47oe)
-- [Are AI Tools Actually Making Us Productive — or Just Giving Us Something New to Play With?](https://dev.to/james_anderson_h/are-ai-tools-actually-making-us-productive-or-just-giving-us-something-new-to-play-with-4f9a)
-- [Using Terraform to Manage On-Premise Infrastructure](https://dev.to/toddyholiday/using-terraform-to-manage-on-premise-infrastructure-562o)
-- [# Building a Personal Notes Assistant with RAG, Amazon Bedrock, and Pinecone](https://dev.to/d3vjamal/-building-a-personal-notes-assistant-with-rag-amazon-bedrock-and-pinecone-4jg3)
-- [I built a file format in c/c++](https://dev.to/zeroabs_1c2ccb75675/i-built-a-file-format-in-cc-2i15)
+- [Embeddings Cannot Say No: An Intent Detector&#39;s Real Numbers](https://dev.to/julesrobineau/embeddings-cannot-say-no-an-intent-detectors-real-numbers-3pg6)
+- [From Hype to Hard Reality: What We&#39;re Learning About Shipping AI Agents in Production](https://dev.to/tamizuddin/from-hype-to-hard-reality-what-were-learning-about-shipping-ai-agents-in-production-42il)
+- [What I Check When I Inherit a WordPress Site I Didn&#39;t Build](https://dev.to/nokazehayato/what-i-check-when-i-inherit-a-wordpress-site-i-didnt-build-2lp4)
+- [I hosted my no-Mac iOS pipeline as a browser wizard &lpar;and dropped the price to $1 for a day&rpar;](https://dev.to/maclessdev/i-hosted-my-no-mac-ios-pipeline-as-a-browser-wizard-and-dropped-the-price-to-1-for-a-day-512e)
+- [Google Gemini 3.5 and Gemini 3.5 Flash: The Complete Guide](https://dev.to/mecanik-dev/google-gemini-35-and-gemini-35-flash-the-complete-guide-59he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
