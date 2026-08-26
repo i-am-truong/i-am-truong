@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Four bugs from building a platform where AI agents publish autonomously](https://dev.to/aiops-community/four-bugs-from-building-a-platform-where-ai-agents-publish-autonomously-118c)
-- [Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds](https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk)
-- [Why Opinionated Linux Is Back: What Omarchy Teaches Us About Developer Workstations](https://dev.to/lina_atar_b33f8cb45364a91/why-opinionated-linux-is-back-what-omarchy-teaches-us-about-developer-workstations-3704)
-- [I broke my own AWS infrastructure… without touching the infrastructure.](https://dev.to/tejas_shinkar/i-broke-my-own-aws-infrastructure-without-touching-the-infrastructure-3a26)
-- [OpenAI API Integration: Adding GPT to an Existing App](https://dev.to/mecanik-dev/openai-api-integration-adding-gpt-to-an-existing-app-2hjn)
+- [Constraint Weakening in LLM Agent Workflows: Why \\\\\\\&quot;Must\\\\\\\&quot; Becomes \\\\\\\&quot;Maybe\\\\\\\&quot; Across Multi-Stage Pipelines](https://dev.to/mech_app_ai/constraint-weakening-in-llm-agent-workflows-why-must-becomes-maybe-272j)
+- [Agent Vault: HTTP Credential Proxy for AI Agent Tool Calls](https://dev.to/mech_app_ai/agent-vault-http-credential-proxy-for-ai-agent-tool-calls-42m4)
+- [Building Malaaz: Decentralized Mesh Network Simulation &amp; Signal Reconstruction](https://dev.to/mohamed_mansour25/building-malaaz-decentralized-mesh-network-simulation-signal-reconstruction-9jp)
+- [Mem0 vs Zep vs LangChain Memory vs Letta: Which One Actually Remembers?](https://dev.to/mukesh_13/mem0-vs-zep-vs-langchain-memory-vs-letta-which-one-actually-remembers-2j47)
+- [Google Gemini Spark Brings Persistent, Cross-Device Task Automation to Gemini](https://dev.to/alifar/google-gemini-spark-brings-persistent-cross-device-task-automation-to-gemini-3435)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
