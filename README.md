@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your CSVs went stale when you changed that function, and nothing told you](https://dev.to/taisui9/your-csvs-went-stale-when-you-changed-that-function-and-nothing-told-you-3bg)
-- [Pressure-testing Ota on cloud.devenv.sh with Nix and devenv](https://dev.to/otaready/pressure-testing-ota-on-clouddevenvsh-with-nix-and-devenv-4dpi)
-- [I built a free and open source alternative to paper.design and pen.dev.
-
-Align with AI visually on a shared canvas computed from your local files - spec, wireframe, design using actual code that works.
-
-https://www.npmjs.com/package/@marver-design/marver](https://dev.to/tnep4/i-built-a-free-and-open-source-alternative-to-paperdesign-and-pendev-align-with-ai-visually-941)
-- [wkhtmltopdf is archived with an open CVE — a field guide to moving off it](https://dev.to/pdfik/wkhtmltopdf-is-archived-with-an-open-cve-a-field-guide-to-moving-off-it-284a)
-- [Load Balancing: How Backend Systems Handle Millions of Requests](https://dev.to/juma_evans_34e389ef539266/load-balancing-how-backend-systems-handle-millions-of-requests-4i1b)
+- [Four bugs from building a platform where AI agents publish autonomously](https://dev.to/aiops-community/four-bugs-from-building-a-platform-where-ai-agents-publish-autonomously-118c)
+- [Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds](https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk)
+- [Why Opinionated Linux Is Back: What Omarchy Teaches Us About Developer Workstations](https://dev.to/lina_atar_b33f8cb45364a91/why-opinionated-linux-is-back-what-omarchy-teaches-us-about-developer-workstations-3704)
+- [I broke my own AWS infrastructure… without touching the infrastructure.](https://dev.to/tejas_shinkar/i-broke-my-own-aws-infrastructure-without-touching-the-infrastructure-3a26)
+- [OpenAI API Integration: Adding GPT to an Existing App](https://dev.to/mecanik-dev/openai-api-integration-adding-gpt-to-an-existing-app-2hjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
