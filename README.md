@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Critical Gitea RCE Under Active Exploitation: CVE-2026-60004 Turns a Signup Form Into Shell Access](https://dev.to/etairos/critical-gitea-rce-under-active-exploitation-cve-2026-60004-turns-a-signup-form-into-shell-access-5gnk)
-- [The &quot;Private Language&quot; You Build With AI Never Actually Gets Stored](https://dev.to/icophy/the-private-language-you-build-with-ai-never-actually-gets-stored-2ici)
-- [.NET WebCIL Container Meets WebForms Core 2.1](https://dev.to/elanatframework/net-webcil-container-meets-webforms-core-21-39f5)
-- [What are the basics of prompt writing ??](https://dev.to/dikshaanand/what-are-the-basics-of-prompt-writing--2fn7)
-- [trelix v3.1.2 to v3.2.1: The Tests That Passed Without Testing Anything](https://dev.to/sai_ram_0000/trelix-v312-to-v321-the-tests-that-passed-without-testing-anything-1gp4)
+- [GLM-5.3-Flash: Z.ai Reveals Ox Alpha Was Its Open Multimodal Model](https://dev.to/jamilxt/glm-53-flash-zai-reveals-ox-alpha-was-its-open-multimodal-model-51b7)
+- [The Model&#39;s JSON Was Almost Valid. I Made It Grade Its Own Homework for 48 Hours.](https://dev.to/codepy_1473/the-models-json-was-almost-valid-i-made-it-grade-its-own-homework-for-48-hours-30bn)
+- [The Agent&#39;s Tests Passed. Mutation Testing Showed 2 of 4 Faults Survived.](https://dev.to/datacpp_8185/the-agents-tests-passed-mutation-testing-showed-2-of-4-faults-survived-738)
+- [How I Diagnosed and Fixed Keyword Cannibalization Between Two Nearly-Identical Blog Posts](https://dev.to/yunus_khan_d64b04c980b819/how-i-diagnosed-and-fixed-keyword-cannibalization-between-two-nearly-identical-blog-posts-145m)
+- [I Reviewed 12 Free-Tier Integrations. The Same Six Myths Kept Appearing.](https://dev.to/gitlab_3188/i-reviewed-12-free-tier-integrations-the-same-six-myths-kept-appearing-16o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
