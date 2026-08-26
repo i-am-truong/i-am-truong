@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When should Codex use multiple agents? A benchmark, not a slogan](https://dev.to/tam_nguyenvan_1f689d35bc9/when-should-codex-use-multiple-agents-a-benchmark-not-a-slogan-4fp8)
-- [The n8n Community Node You Need Might Already Exist](https://dev.to/bhavyshekhaliya/the-n8n-community-node-you-need-might-already-exist-2e4f)
-- [블록체인으로 융합하는 금융: 전통 금융의 포용과 암호화폐의 제도권 진입](https://dev.to/ice1121/beulrogceineuro-yunghabhaneun-geumyung-jeontong-geumyungyi-poyonggwa-amhohwapyeyi-jedogweon-jinib-230m)
-- [Mac Studio M5 Ultra vs NVIDIA DGX Spark: The $5,500 Local AI Bet](https://dev.to/jamilxt/mac-studio-m5-ultra-vs-nvidia-dgx-spark-the-5500-local-ai-bet-4odh)
-- [Show Dev: I built a 3D circuit simulator in Three.js](https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj)
+- [How to Explain a Technical Issue in English: Conclusion, Reason, Example](https://dev.to/cherryengkr/how-to-explain-a-technical-issue-in-english-conclusion-reason-example-2167)
+- [Figma published 10 skills](https://dev.to/zawoj/figma-published-10-skills-5fic)
+- [Five Files, No Record of Which Came First](https://dev.to/elliot_a0d9f15cbd67c/five-files-no-record-of-which-came-first-74g)
+- [Multi-Cloud Mastery: Combining Microsoft Azure and Google Cloud Certifications in 2026](https://dev.to/packetsnifferben/multi-cloud-mastery-combining-microsoft-azure-and-google-cloud-certifications-in-2026-2mlb)
+- [My 369 Merged Pull Requests On GitHub, Every Single One Linked And Verified](https://dev.to/aniruddhaadak/my-369-merged-pull-requests-on-github-every-single-one-linked-and-verified-1b66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
