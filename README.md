@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Flutter DateTime Toolkit You Didn&#39;t Know You Needed](https://dev.to/harsh_yadav_5939/the-complete-flutter-datetime-toolkit-you-didnt-know-you-needed-4kgp)
-- [Add scam &amp; fraud detection to your app with one API call](https://dev.to/smijo-geek888/add-scam-fraud-detection-to-your-app-with-one-api-call-fn8)
-- [One CAPI JSON cannot serve every vendor](https://dev.to/aleksuix/one-capi-json-cannot-serve-every-vendor-56dg)
-- [OpenAI CAPI is not Meta with a new host](https://dev.to/aleksuix/openai-capi-is-not-meta-with-a-new-host-39nj)
-- [imp.native.request is a JSON string, not a nested object.](https://dev.to/aleksuix/impnativerequest-is-a-json-string-not-a-nested-object-4eap)
+- [TypeScript Path Aliases in 2026: `tsconfig` Paths, Bundler Resolution, and Why They Still Break at Runtime](https://dev.to/jsmanifest/typescript-path-aliases-in-2026-tsconfig-paths-bundler-resolution-and-why-they-still-break-at-47oe)
+- [Are AI Tools Actually Making Us Productive — or Just Giving Us Something New to Play With?](https://dev.to/james_anderson_h/are-ai-tools-actually-making-us-productive-or-just-giving-us-something-new-to-play-with-4f9a)
+- [Using Terraform to Manage On-Premise Infrastructure](https://dev.to/toddyholiday/using-terraform-to-manage-on-premise-infrastructure-562o)
+- [# Building a Personal Notes Assistant with RAG, Amazon Bedrock, and Pinecone](https://dev.to/d3vjamal/-building-a-personal-notes-assistant-with-rag-amazon-bedrock-and-pinecone-4jg3)
+- [I built a file format in c/c++](https://dev.to/zeroabs_1c2ccb75675/i-built-a-file-format-in-cc-2i15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
