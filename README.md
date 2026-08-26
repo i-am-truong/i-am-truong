@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why You Shouldn&#39;t Create a Multi-Vendor Marketplace in Magento: 14 Reasons, Costs &amp; 2026 Data](https://dev.to/mercur/why-you-shouldnt-create-a-multi-vendor-marketplace-in-magento-14-reasons-costs-2026-data-29ma)
-- [Node.js Game Account Security: Reliable Login, Refresh, and Device Risk](https://dev.to/kaelvyn47/nodejs-game-account-security-reliable-login-refresh-and-device-risk-1eg3)
-- [I Checked Google&#39;s Own Billing Console So You Don&#39;t Have To: The Real Text-to-Speech Free Tier, Voice by Voice](https://dev.to/just_a_side_project/i-checked-googles-own-billing-console-so-you-dont-have-to-the-real-text-to-speech-free-tier-2l0m)
-- [Why Your AI Agent Fails at Observability: A Debugging Framework for Memory, Tool Calls, and RAG](https://dev.to/tamizuddin/why-your-ai-agent-fails-at-observability-a-debugging-framework-for-memory-tool-calls-and-rag-428b)
-- [How to Build a Good Human-in-the-Loop for AI-Driven Deployments](https://dev.to/brennhill/how-to-build-a-good-human-in-the-loop-for-ai-driven-deployments-5b07)
+- [Learning OWASP A01 and A02: Broken Access Control and Security Misconfiguration](https://dev.to/samyuktha_saravanan_97001/learning-owasp-a01-and-a02-broken-access-control-and-security-misconfiguration-44a6)
+- [Down, Up, Sideways: The Three Directions I Dig Deeper With AI](https://dev.to/dexterlung/down-up-sideways-the-three-directions-i-dig-deeper-with-ai-51j2)
+- [How do you design permissions for a multi-tenant SaaS product?](https://dev.to/imamifti056/how-do-you-design-permissions-for-a-multi-tenant-saas-product-1c9e)
+- [LLMOps for Compound AI Systems — Observability &amp; Cost](https://dev.to/nainikmehta/llmops-for-compound-ai-systems-observability-cost-d6b)
+- [Building Connect Now: My Take on Real-Time Video Calling](https://dev.to/basantgautam/building-connect-now-my-take-on-real-time-video-calling-53ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
