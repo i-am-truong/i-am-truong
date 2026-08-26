@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚨 ANNOUNCING: The First Ever &quot;KODA Code Jam&quot;!](https://dev.to/koda2026/announcing-the-first-ever-koda-code-jam-218n)
-- [How our leadership &quot;saved&quot; the company by banning the tools that worked](https://dev.to/astra_lost_in_ai/how-our-leadership-saved-the-company-by-banning-the-tools-that-worked-15ec)
-- [Loan API Orchestration vs. API Aggregation: Why the Architecture Decision Determines What Your Lending Stack Can Actually Do](https://dev.to/ramklfin/loan-api-orchestration-vs-api-aggregation-why-the-architecture-decision-determines-what-your-2ghk)
-- [When Building an AI Agent, the Journey Matters as Much as the Destination](https://dev.to/rajkundalia/when-building-an-ai-agent-the-journey-matters-as-much-as-the-destination-124d)
-- [Building an Agent That Turns DataHub Metadata Into Airflow DAGs](https://dev.to/mark2k4/building-an-agent-that-turns-datahub-metadata-into-airflow-dags-gkk)
+- [Determinism Is a Feature](https://dev.to/pierrelaurentmedori/determinism-is-a-feature-3kb9)
+- [Reading Constraints Like Neo: How to See the Algorithm Instantly](https://dev.to/timevolt/reading-constraints-like-neo-how-to-see-the-algorithm-instantly-4116)
+- [How I Organized a WordPress Content Website for Better Readability and User Experience](https://dev.to/find-supplement-review/how-i-organized-a-wordpress-content-website-for-better-readability-and-user-experience-3e06)
+- [Caltech&#39;s Physics AI Ditches Transformers for Neural Operators](https://dev.to/peremptory/caltechs-physics-ai-ditches-transformers-for-neural-operators-3hl2)
+- [SQLazy: Search for Adjacent Records at a Specified Offset Within Groups](https://dev.to/esproc_spl/sqlazy-search-for-adjacent-records-at-a-specified-offset-within-groups-2m3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
