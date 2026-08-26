@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Determinism Is a Feature](https://dev.to/pierrelaurentmedori/determinism-is-a-feature-3kb9)
-- [Reading Constraints Like Neo: How to See the Algorithm Instantly](https://dev.to/timevolt/reading-constraints-like-neo-how-to-see-the-algorithm-instantly-4116)
-- [How I Organized a WordPress Content Website for Better Readability and User Experience](https://dev.to/find-supplement-review/how-i-organized-a-wordpress-content-website-for-better-readability-and-user-experience-3e06)
-- [Caltech&#39;s Physics AI Ditches Transformers for Neural Operators](https://dev.to/peremptory/caltechs-physics-ai-ditches-transformers-for-neural-operators-3hl2)
-- [SQLazy: Search for Adjacent Records at a Specified Offset Within Groups](https://dev.to/esproc_spl/sqlazy-search-for-adjacent-records-at-a-specified-offset-within-groups-2m3i)
+- [AI wave](https://dev.to/michele-9e58e27dac99451/ai-wave-h75)
+- [I Treated Agent Sessions as Portable Cache and Moved Control to a Policy Plane: Vendor Lock-In Became Manageable](https://dev.to/jangwook_kim_e31e7291ad98/i-treated-agent-sessions-as-portable-cache-and-moved-control-to-a-policy-plane-vendor-lock-in-15j4)
+- [I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard](https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk)
+- [AI-Driven Dynamic Pricing in Hotels: A Data Engineer&#39;s Deep Dive](https://dev.to/airtruffle/ai-driven-dynamic-pricing-in-hotels-a-data-engineers-deep-dive-3m86)
+- [&quot;Needs an Account&quot; here means &quot;Not Nutomatable&quot;](https://dev.to/chao_wang_e3932d4a8c58d48/needs-an-account-here-means-not-nutomatable-2hfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
