@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Explain a Technical Issue in English: Conclusion, Reason, Example](https://dev.to/cherryengkr/how-to-explain-a-technical-issue-in-english-conclusion-reason-example-2167)
-- [Figma published 10 skills](https://dev.to/zawoj/figma-published-10-skills-5fic)
-- [Five Files, No Record of Which Came First](https://dev.to/elliot_a0d9f15cbd67c/five-files-no-record-of-which-came-first-74g)
-- [Multi-Cloud Mastery: Combining Microsoft Azure and Google Cloud Certifications in 2026](https://dev.to/packetsnifferben/multi-cloud-mastery-combining-microsoft-azure-and-google-cloud-certifications-in-2026-2mlb)
-- [My 369 Merged Pull Requests On GitHub, Every Single One Linked And Verified](https://dev.to/aniruddhaadak/my-369-merged-pull-requests-on-github-every-single-one-linked-and-verified-1b66)
+- [The Complete Flutter DateTime Toolkit You Didn&#39;t Know You Needed](https://dev.to/harsh_yadav_5939/the-complete-flutter-datetime-toolkit-you-didnt-know-you-needed-4kgp)
+- [Add scam &amp; fraud detection to your app with one API call](https://dev.to/smijo-geek888/add-scam-fraud-detection-to-your-app-with-one-api-call-fn8)
+- [One CAPI JSON cannot serve every vendor](https://dev.to/aleksuix/one-capi-json-cannot-serve-every-vendor-56dg)
+- [OpenAI CAPI is not Meta with a new host](https://dev.to/aleksuix/openai-capi-is-not-meta-with-a-new-host-39nj)
+- [imp.native.request is a JSON string, not a nested object.](https://dev.to/aleksuix/impnativerequest-is-a-json-string-not-a-nested-object-4eap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
