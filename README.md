@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your JSON never leaves your machine](https://dev.to/holo-dev/your-json-never-leaves-your-machine-4b7o)
-- [A Zero-Budget Overnight Code Review Pipeline for Solo Repos](https://dev.to/hackcpp_3619/a-zero-budget-overnight-code-review-pipeline-for-solo-repos-320i)
-- [Adaptive live-sports polling under a fixed API quota](https://dev.to/acerankteam/adaptive-live-sports-polling-under-a-fixed-api-quota-3a8k)
-- [Literature-in-the-Loop: Citation-Grounded Triage for AI Protein Design](https://dev.to/valyuai/literature-in-the-loop-citation-grounded-triage-for-ai-protein-design-3m8i)
-- [What I gave up to run Spring static analysis in a browser](https://dev.to/brahamshakti/what-i-gave-up-to-run-spring-static-analysis-in-a-browser-6f8)
+- [Why You Shouldn&#39;t Create a Multi-Vendor Marketplace in Magento: 14 Reasons, Costs &amp; 2026 Data](https://dev.to/mercur/why-you-shouldnt-create-a-multi-vendor-marketplace-in-magento-14-reasons-costs-2026-data-29ma)
+- [Node.js Game Account Security: Reliable Login, Refresh, and Device Risk](https://dev.to/kaelvyn47/nodejs-game-account-security-reliable-login-refresh-and-device-risk-1eg3)
+- [I Checked Google&#39;s Own Billing Console So You Don&#39;t Have To: The Real Text-to-Speech Free Tier, Voice by Voice](https://dev.to/just_a_side_project/i-checked-googles-own-billing-console-so-you-dont-have-to-the-real-text-to-speech-free-tier-2l0m)
+- [Why Your AI Agent Fails at Observability: A Debugging Framework for Memory, Tool Calls, and RAG](https://dev.to/tamizuddin/why-your-ai-agent-fails-at-observability-a-debugging-framework-for-memory-tool-calls-and-rag-428b)
+- [How to Build a Good Human-in-the-Loop for AI-Driven Deployments](https://dev.to/brennhill/how-to-build-a-good-human-in-the-loop-for-ai-driven-deployments-5b07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
