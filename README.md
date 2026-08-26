@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GLM-5.3-Flash: Z.ai Reveals Ox Alpha Was Its Open Multimodal Model](https://dev.to/jamilxt/glm-53-flash-zai-reveals-ox-alpha-was-its-open-multimodal-model-51b7)
-- [The Model&#39;s JSON Was Almost Valid. I Made It Grade Its Own Homework for 48 Hours.](https://dev.to/codepy_1473/the-models-json-was-almost-valid-i-made-it-grade-its-own-homework-for-48-hours-30bn)
-- [The Agent&#39;s Tests Passed. Mutation Testing Showed 2 of 4 Faults Survived.](https://dev.to/datacpp_8185/the-agents-tests-passed-mutation-testing-showed-2-of-4-faults-survived-738)
-- [How I Diagnosed and Fixed Keyword Cannibalization Between Two Nearly-Identical Blog Posts](https://dev.to/yunus_khan_d64b04c980b819/how-i-diagnosed-and-fixed-keyword-cannibalization-between-two-nearly-identical-blog-posts-145m)
-- [I Reviewed 12 Free-Tier Integrations. The Same Six Myths Kept Appearing.](https://dev.to/gitlab_3188/i-reviewed-12-free-tier-integrations-the-same-six-myths-kept-appearing-16o1)
+- [Your CSVs went stale when you changed that function, and nothing told you](https://dev.to/taisui9/your-csvs-went-stale-when-you-changed-that-function-and-nothing-told-you-3bg)
+- [Pressure-testing Ota on cloud.devenv.sh with Nix and devenv](https://dev.to/otaready/pressure-testing-ota-on-clouddevenvsh-with-nix-and-devenv-4dpi)
+- [I built a free and open source alternative to paper.design and pen.dev.
+
+Align with AI visually on a shared canvas computed from your local files - spec, wireframe, design using actual code that works.
+
+https://www.npmjs.com/package/@marver-design/marver](https://dev.to/tnep4/i-built-a-free-and-open-source-alternative-to-paperdesign-and-pendev-align-with-ai-visually-941)
+- [wkhtmltopdf is archived with an open CVE — a field guide to moving off it](https://dev.to/pdfik/wkhtmltopdf-is-archived-with-an-open-cve-a-field-guide-to-moving-off-it-284a)
+- [Load Balancing: How Backend Systems Handle Millions of Requests](https://dev.to/juma_evans_34e389ef539266/load-balancing-how-backend-systems-handle-millions-of-requests-4i1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
