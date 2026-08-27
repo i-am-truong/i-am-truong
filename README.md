@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I went quiet for a while. This is what I was building.](https://dev.to/kkierii/i-went-quiet-for-a-while-this-is-what-i-was-building-1a74)
-- [We measured a week of inference. Routing by task difficulty cuts our cost per call roughly 48x — and flips which users are profitable.](https://dev.to/weio/we-measured-a-week-of-inference-routing-by-task-difficulty-cuts-our-cost-per-call-roughly-48x--ama)
-- [Managed vs Self-Hosted React Native OTA: Compare the Ownership Boundary](https://dev.to/gfean/managed-vs-self-hosted-react-native-ota-compare-the-ownership-boundary-48li)
-- [How long does a Google trend stay alive? Measuring trend duration with started_at and ended_at](https://dev.to/orbotshq/how-long-does-a-google-trend-stay-alive-measuring-trend-duration-with-startedat-and-endedat-i6n)
-- [Migrate from SchemaSpy to SchemaCrawler Without Rewriting Your Runbooks](https://dev.to/sualeh/migrate-from-schemaspy-to-schemacrawler-without-rewriting-your-runbooks-34k9)
+- [How to Reduce Docker Image Size: From Gigabytes to Megabytes](https://dev.to/peon_sh/how-to-reduce-docker-image-size-from-gigabytes-to-megabytes-4cjp)
+- [A/B Testing &amp; Experimentation: How to Run Tests That Actually Teach You Something](https://dev.to/apeder/ab-testing-experimentation-how-to-run-tests-that-actually-teach-you-something-4lo1)
+- [2026 Realtime Event Type Discovery with Schemas Over Logs for IoT Control Panels](https://dev.to/thatchercole8235/2026-realtime-event-type-discovery-with-schemas-over-logs-for-iot-control-panels-1k1g)
+- [APIC — The Desktop Image Toolkit I Wish Existed Before I Built It](https://dev.to/akhourianmolkumar/apic-the-desktop-image-toolkit-i-wish-existed-before-i-built-it-1d9d)
+- [Password Reset Email for Property Compliance: Node.js API or SMTP Relay?](https://dev.to/drummondreed8257/password-reset-email-for-property-compliance-nodejs-api-or-smtp-relay-1efh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
