@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Docker Image Size: From Gigabytes to Megabytes](https://dev.to/peon_sh/how-to-reduce-docker-image-size-from-gigabytes-to-megabytes-4cjp)
-- [A/B Testing &amp; Experimentation: How to Run Tests That Actually Teach You Something](https://dev.to/apeder/ab-testing-experimentation-how-to-run-tests-that-actually-teach-you-something-4lo1)
-- [2026 Realtime Event Type Discovery with Schemas Over Logs for IoT Control Panels](https://dev.to/thatchercole8235/2026-realtime-event-type-discovery-with-schemas-over-logs-for-iot-control-panels-1k1g)
-- [APIC — The Desktop Image Toolkit I Wish Existed Before I Built It](https://dev.to/akhourianmolkumar/apic-the-desktop-image-toolkit-i-wish-existed-before-i-built-it-1d9d)
-- [Password Reset Email for Property Compliance: Node.js API or SMTP Relay?](https://dev.to/drummondreed8257/password-reset-email-for-property-compliance-nodejs-api-or-smtp-relay-1efh)
+- [.NET 10 ActivitySamplingResult PropagationData: Why Recorded Turns False](https://dev.to/ssukhpinder/net-10-activitysamplingresult-propagationdata-why-recorded-turns-false-d1g)
+- [Tinkuy 0.1.0 — Donde los ríos se encuentran](https://dev.to/ccortezb/tinkuy-010-donde-los-rios-se-encuentran-pjb)
+- [From Prompts to Policies: Why AI Engineering Needs a Control Plane](https://dev.to/bayu911/from-prompts-to-policies-why-ai-engineering-needs-a-control-plane-4cg9)
+- [The LLM Isn&#39;t Your Attacker. Your eval&lpar;&rpar; Statement Is.](https://dev.to/coridev/the-llm-isnt-your-attacker-your-eval-statement-is-2clp)
+- [The Great Despecialization: Why AI Changes the Shape of Jobs Instead of Deleting Them](https://dev.to/alexmercedcoder/the-great-despecialization-why-ai-changes-the-shape-of-jobs-instead-of-deleting-them-1kba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
