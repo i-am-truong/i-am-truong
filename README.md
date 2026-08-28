@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.NET 10 ActivitySamplingResult PropagationData: Why Recorded Turns False](https://dev.to/ssukhpinder/net-10-activitysamplingresult-propagationdata-why-recorded-turns-false-d1g)
-- [Tinkuy 0.1.0 — Donde los ríos se encuentran](https://dev.to/ccortezb/tinkuy-010-donde-los-rios-se-encuentran-pjb)
-- [From Prompts to Policies: Why AI Engineering Needs a Control Plane](https://dev.to/bayu911/from-prompts-to-policies-why-ai-engineering-needs-a-control-plane-4cg9)
-- [The LLM Isn&#39;t Your Attacker. Your eval&lpar;&rpar; Statement Is.](https://dev.to/coridev/the-llm-isnt-your-attacker-your-eval-statement-is-2clp)
-- [The Great Despecialization: Why AI Changes the Shape of Jobs Instead of Deleting Them](https://dev.to/alexmercedcoder/the-great-despecialization-why-ai-changes-the-shape-of-jobs-instead-of-deleting-them-1kba)
+- [GitHub Trending Digest — 28 Agustus 2026](https://dev.to/muildev/github-trending-digest-28-agustus-2026-4587)
+- [Where Should I Look? 3 Small UX Problems in Remote Demos](https://dev.to/masaki_iino_60e1ef88991b5/where-should-i-look-3-small-ux-problems-in-remote-demos-2n1d)
+- [Structured API Logging in 2026: Correlating Response Status and Delivery Latency](https://dev.to/jerichorhodes5847/structured-api-logging-in-2026-correlating-response-status-and-delivery-latency-16o)
+- [Security Notice: @bananacool467/ui-tools — Use 0.1.9-beta or Newer](https://dev.to/banana_cool/security-notice-bananacool467ui-tools-use-019-beta-or-newer-28b)
+- [The Growing Threat: Attackers Using GitHub Repositories as Malware Staging Mechanisms](https://dev.to/raxis/the-growing-threat-attackers-using-github-repositories-as-malware-staging-mechanisms-9nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
