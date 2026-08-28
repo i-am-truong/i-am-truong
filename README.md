@@ -120,14 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Connect a Local Developer Toolbox to Any MCP Assistant](https://dev.to/paladini/connect-a-local-developer-toolbox-to-any-mcp-assistant-2c2h)
-- [How I Got Ollama Running on My AMD Radeon RX 9060 XT Using WSL and ROCm](https://dev.to/gaetan_faverge_7350777e07/how-i-got-ollama-running-on-my-amd-radeon-rx-9060-xt-using-wsl-and-rocm-2ki5)
-- [Pressure-testing Ota on EventCatalog: generated artifact lineage across sibling consumers](https://dev.to/otaready/pressure-testing-ota-on-eventcatalog-generated-artifact-lineage-across-sibling-consumers-1h3j)
-- [Durante meus estudos em ADS, comecei a aprender HTML, CSS e Python. Tenho maior interesse por HTML e CSS, principalmente pela criação de sites e interfaces.
-
-
-Meu principal desafio foi entender como HTML e CSS trabalham juntos e desenvolver a lógica de pro](https://dev.to/jacieltrajano/durante-meus-estudos-em-ads-comecei-a-aprender-html-css-e-python-tenho-maior-interesse-por-html-2e1n)
-- [De prompts genéricos a um sebo virtual funcional](https://dev.to/igor_lucena_ef1428896a621/de-prompts-genericos-a-um-sebo-virtual-funcional-31c6)
+- [Your agent didn&#39;t fail. You closed the lid](https://dev.to/dmitryganin/your-agent-didnt-fail-you-closed-the-lid-g8o)
+- [How I find out whether a filter is filtering: ask it two questions that cannot share an answer](https://dev.to/blueticks/how-i-find-out-whether-a-filter-is-filtering-ask-it-two-questions-that-cannot-share-an-answer-4ngp)
+- [Building Next-Gen Agentic Architectures: From Local RAG to Sandboxed Execution and BigQuery MCP](https://dev.to/mpnishanth/building-next-gen-agentic-architectures-from-local-rag-to-sandboxed-execution-and-bigquery-mcp-3ekh)
+- [Minha jornada na Tecnologia: do Hardware à Programação](https://dev.to/kaiky_hamada/minha-jornada-na-tecnologia-do-hardware-a-programacao-3hk9)
+- [One AI Chat Is Not a Research Workspace](https://dev.to/omidfarhang/one-ai-chat-is-not-a-research-workspace-18ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
