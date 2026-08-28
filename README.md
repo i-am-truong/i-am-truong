@@ -120,11 +120,14 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Trending Digest — 28 Agustus 2026](https://dev.to/muildev/github-trending-digest-28-agustus-2026-4587)
-- [Where Should I Look? 3 Small UX Problems in Remote Demos](https://dev.to/masaki_iino_60e1ef88991b5/where-should-i-look-3-small-ux-problems-in-remote-demos-2n1d)
-- [Structured API Logging in 2026: Correlating Response Status and Delivery Latency](https://dev.to/jerichorhodes5847/structured-api-logging-in-2026-correlating-response-status-and-delivery-latency-16o)
-- [Security Notice: @bananacool467/ui-tools — Use 0.1.9-beta or Newer](https://dev.to/banana_cool/security-notice-bananacool467ui-tools-use-019-beta-or-newer-28b)
-- [The Growing Threat: Attackers Using GitHub Repositories as Malware Staging Mechanisms](https://dev.to/raxis/the-growing-threat-attackers-using-github-repositories-as-malware-staging-mechanisms-9nh)
+- [Connect a Local Developer Toolbox to Any MCP Assistant](https://dev.to/paladini/connect-a-local-developer-toolbox-to-any-mcp-assistant-2c2h)
+- [How I Got Ollama Running on My AMD Radeon RX 9060 XT Using WSL and ROCm](https://dev.to/gaetan_faverge_7350777e07/how-i-got-ollama-running-on-my-amd-radeon-rx-9060-xt-using-wsl-and-rocm-2ki5)
+- [Pressure-testing Ota on EventCatalog: generated artifact lineage across sibling consumers](https://dev.to/otaready/pressure-testing-ota-on-eventcatalog-generated-artifact-lineage-across-sibling-consumers-1h3j)
+- [Durante meus estudos em ADS, comecei a aprender HTML, CSS e Python. Tenho maior interesse por HTML e CSS, principalmente pela criação de sites e interfaces.
+
+
+Meu principal desafio foi entender como HTML e CSS trabalham juntos e desenvolver a lógica de pro](https://dev.to/jacieltrajano/durante-meus-estudos-em-ads-comecei-a-aprender-html-css-e-python-tenho-maior-interesse-por-html-2e1n)
+- [De prompts genéricos a um sebo virtual funcional](https://dev.to/igor_lucena_ef1428896a621/de-prompts-genericos-a-um-sebo-virtual-funcional-31c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
