@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your agent didn&#39;t fail. You closed the lid](https://dev.to/dmitryganin/your-agent-didnt-fail-you-closed-the-lid-g8o)
-- [How I find out whether a filter is filtering: ask it two questions that cannot share an answer](https://dev.to/blueticks/how-i-find-out-whether-a-filter-is-filtering-ask-it-two-questions-that-cannot-share-an-answer-4ngp)
-- [Building Next-Gen Agentic Architectures: From Local RAG to Sandboxed Execution and BigQuery MCP](https://dev.to/mpnishanth/building-next-gen-agentic-architectures-from-local-rag-to-sandboxed-execution-and-bigquery-mcp-3ekh)
-- [Minha jornada na Tecnologia: do Hardware à Programação](https://dev.to/kaiky_hamada/minha-jornada-na-tecnologia-do-hardware-a-programacao-3hk9)
-- [One AI Chat Is Not a Research Workspace](https://dev.to/omidfarhang/one-ai-chat-is-not-a-research-workspace-18ae)
+- [Restrict Cron Access](https://dev.to/janak0ff/restrict-cron-access-3g5m)
+- [I Built an API Because My Government’s Website Got the Date Wrong &lpar;and Just… Deleted It&rpar;](https://dev.to/pijaradiluhung/i-built-an-api-because-my-governments-website-got-the-date-wrong-and-just-deleted-it-4ca5)
+- [Stop Just Learning. Start Shipping: Welcome to SHEinnov8](https://dev.to/mary_macharia_49fa3c6d21e/stop-just-learning-start-shipping-welcome-to-sheinnov8-2ch6)
+- [Beyond Arduino: Getting Started with ESP-IDF in VS Code for ESP32](https://dev.to/effessdev/beyond-arduino-getting-started-with-esp-idf-in-vs-code-for-esp32-3ed4)
+- [GitHub Copilot Spending Limit: How to Set It, What It Caps](https://dev.to/rebeca_vb/github-copilot-spending-limit-how-to-set-it-what-it-caps-288k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
