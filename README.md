@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nobody searches for security apps. So I made mine a tool for AI agents instead.](https://dev.to/lafine_systemsdesign/nobody-searches-for-security-apps-so-i-made-mine-a-tool-for-ai-agents-instead-195g)
-- [MCP C# Per-Request Client Capabilities: Read the Request, Not the Server](https://dev.to/ssukhpinder/mcp-c-per-request-client-capabilities-read-the-request-not-the-server-566m)
-- [Five Languages, One Law](https://dev.to/tomlee/five-languages-one-law-3811)
-- [Plataforma IoT Brasileira — Decisões e o que estamos preparando para o mês de Setembro de 2026](https://dev.to/costafavero_27ea88f21c98a/plataforma-iot-brasileira-decisoes-e-o-que-estamos-preparando-para-o-mes-de-setembro-de-2026-h8n)
-- [The #1 row on this AI memory leaderboard is not a measurement](https://dev.to/gde03/the-1-row-on-this-ai-memory-leaderboard-is-not-a-measurement-3mhc)
+- [Reward Hacking in LLMs: When the Model Learns to Win the Game Instead of Doing the Job](https://dev.to/shrsv/reward-hacking-in-llms-when-the-model-learns-to-win-the-game-instead-of-doing-the-job-5b62)
+- [The AI Wrote the Diff. The Tests Wrote the Verdict.](https://dev.to/hackrs_6393/the-ai-wrote-the-diff-the-tests-wrote-the-verdict-2m07)
+- [🔄 Loops in JavaScript](https://dev.to/abishek_m_82/loops-in-javascript-1beg)
+- [AI-Based Collaboration Tools for Remote Software Teams &lpar;2026&rpar;](https://dev.to/nlocoding/ai-based-collaboration-tools-for-remote-software-teams-2026-44l6)
+- [The Robots Had Their Biggest Week Yet — Record-Breaking Games, a Viral $399 Duck, and Billion-Dollar Bets](https://dev.to/jason_gunnells/the-robots-had-their-biggest-week-yet-record-breaking-games-a-viral-399-duck-and-3cn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
