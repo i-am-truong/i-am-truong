@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running multiple claude code accounts on Linux](https://dev.to/sakibullah2006/running-multiple-claude-code-accounts-on-linux-opj)
-- [The Whale Metaphor: How OOP&#39;s Four Pillars Actually Work in WordPress](https://dev.to/adovgun/the-whale-metaphor-how-oops-four-pillars-actually-work-in-wordpress-21cd)
-- [I Built a System to Run My Job Search Like a Pipeline](https://dev.to/michael_inghilterra/i-built-a-system-to-run-my-job-search-like-a-pipeline-54k6)
-- [I built browser-to-browser remote file access with WebRTC – no app required](https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b)
-- [Launching vizcrush: Three Beliefs My Benchmarks Killed](https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0)
+- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
+- [How to Send Form Submissions to Notion Automatically Without Zapier](https://dev.to/allenarduino/how-to-send-form-submissionsto-notion-automatically-withoutzapier-56co)
+- [ROBOTICS IS MORE THAN HARDWARE AND EMBEDDED SYSTEMS](https://dev.to/vontek/robotics-is-more-than-hardware-and-embedded-systems-2cpl)
+- [PAGI: What happens to a Send in Flight?](https://dev.to/jjn1056/wpens-to-a-send-in-flightpolishing-pagis-disconnect-contract-1n34)
+- [How to Find Companies That Just Started Hiring &lpar;Greenhouse, Lever &amp; Ashby APIs&rpar;](https://dev.to/feedharbor/how-to-find-companies-that-just-started-hiring-greenhouse-lever-ashby-apis-26ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
