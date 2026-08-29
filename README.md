@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reward Hacking in LLMs: When the Model Learns to Win the Game Instead of Doing the Job](https://dev.to/shrsv/reward-hacking-in-llms-when-the-model-learns-to-win-the-game-instead-of-doing-the-job-5b62)
-- [The AI Wrote the Diff. The Tests Wrote the Verdict.](https://dev.to/hackrs_6393/the-ai-wrote-the-diff-the-tests-wrote-the-verdict-2m07)
-- [🔄 Loops in JavaScript](https://dev.to/abishek_m_82/loops-in-javascript-1beg)
-- [AI-Based Collaboration Tools for Remote Software Teams &lpar;2026&rpar;](https://dev.to/nlocoding/ai-based-collaboration-tools-for-remote-software-teams-2026-44l6)
-- [The Robots Had Their Biggest Week Yet — Record-Breaking Games, a Viral $399 Duck, and Billion-Dollar Bets](https://dev.to/jason_gunnells/the-robots-had-their-biggest-week-yet-record-breaking-games-a-viral-399-duck-and-3cn2)
+- [Running multiple claude code accounts on Linux](https://dev.to/sakibullah2006/running-multiple-claude-code-accounts-on-linux-opj)
+- [The Whale Metaphor: How OOP&#39;s Four Pillars Actually Work in WordPress](https://dev.to/adovgun/the-whale-metaphor-how-oops-four-pillars-actually-work-in-wordpress-21cd)
+- [I Built a System to Run My Job Search Like a Pipeline](https://dev.to/michael_inghilterra/i-built-a-system-to-run-my-job-search-like-a-pipeline-54k6)
+- [I built browser-to-browser remote file access with WebRTC – no app required](https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b)
+- [Launching vizcrush: Three Beliefs My Benchmarks Killed](https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
