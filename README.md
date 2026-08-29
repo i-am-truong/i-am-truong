@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Restrict Cron Access](https://dev.to/janak0ff/restrict-cron-access-3g5m)
-- [I Built an API Because My Government’s Website Got the Date Wrong &lpar;and Just… Deleted It&rpar;](https://dev.to/pijaradiluhung/i-built-an-api-because-my-governments-website-got-the-date-wrong-and-just-deleted-it-4ca5)
-- [Stop Just Learning. Start Shipping: Welcome to SHEinnov8](https://dev.to/mary_macharia_49fa3c6d21e/stop-just-learning-start-shipping-welcome-to-sheinnov8-2ch6)
-- [Beyond Arduino: Getting Started with ESP-IDF in VS Code for ESP32](https://dev.to/effessdev/beyond-arduino-getting-started-with-esp-idf-in-vs-code-for-esp32-3ed4)
-- [GitHub Copilot Spending Limit: How to Set It, What It Caps](https://dev.to/rebeca_vb/github-copilot-spending-limit-how-to-set-it-what-it-caps-288k)
+- [Agent Teams - Building a Local-First Desktop App for Multi-Agent Coordination](https://dev.to/ben-witt/agent-teams-building-a-local-first-desktop-app-for-multi-agent-coordination-42mh)
+- [GUIs should have been keyboard-first this whole time](https://dev.to/adioof/guis-should-have-been-keyboard-first-this-whole-time-29g8)
+- [Documenting Code Nobody Remembers: A Git-History Draft Pipeline](https://dev.to/datago_7777/documenting-code-nobody-remembers-a-git-history-draft-pipeline-58n7)
+- [I Let AI Write My Code — Here Are 10 Things I Never Let It Do Without Checking](https://dev.to/darun_karasabir_b79602fd/i-let-ai-write-my-code-here-are-10-things-i-never-let-it-do-without-checking-cbk)
+- [Proxy Cost Optimization: Reduce Bandwidth Spending Without Sacrificing Performance and Speed](https://dev.to/yaroslav_k/proxy-cost-optimization-reduce-bandwidth-spending-without-sacrificing-performance-and-speed-1340)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
