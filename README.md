@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Teams - Building a Local-First Desktop App for Multi-Agent Coordination](https://dev.to/ben-witt/agent-teams-building-a-local-first-desktop-app-for-multi-agent-coordination-42mh)
-- [GUIs should have been keyboard-first this whole time](https://dev.to/adioof/guis-should-have-been-keyboard-first-this-whole-time-29g8)
-- [Documenting Code Nobody Remembers: A Git-History Draft Pipeline](https://dev.to/datago_7777/documenting-code-nobody-remembers-a-git-history-draft-pipeline-58n7)
-- [I Let AI Write My Code — Here Are 10 Things I Never Let It Do Without Checking](https://dev.to/darun_karasabir_b79602fd/i-let-ai-write-my-code-here-are-10-things-i-never-let-it-do-without-checking-cbk)
-- [Proxy Cost Optimization: Reduce Bandwidth Spending Without Sacrificing Performance and Speed](https://dev.to/yaroslav_k/proxy-cost-optimization-reduce-bandwidth-spending-without-sacrificing-performance-and-speed-1340)
+- [Nobody searches for security apps. So I made mine a tool for AI agents instead.](https://dev.to/lafine_systemsdesign/nobody-searches-for-security-apps-so-i-made-mine-a-tool-for-ai-agents-instead-195g)
+- [MCP C# Per-Request Client Capabilities: Read the Request, Not the Server](https://dev.to/ssukhpinder/mcp-c-per-request-client-capabilities-read-the-request-not-the-server-566m)
+- [Five Languages, One Law](https://dev.to/tomlee/five-languages-one-law-3811)
+- [Plataforma IoT Brasileira — Decisões e o que estamos preparando para o mês de Setembro de 2026](https://dev.to/costafavero_27ea88f21c98a/plataforma-iot-brasileira-decisoes-e-o-que-estamos-preparando-para-o-mes-de-setembro-de-2026-h8n)
+- [The #1 row on this AI memory leaderboard is not a measurement](https://dev.to/gde03/the-1-row-on-this-ai-memory-leaderboard-is-not-a-measurement-3mhc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
