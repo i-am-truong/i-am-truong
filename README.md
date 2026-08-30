@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ডকারফাইল বিল্ডের ভেতরের জাদু: ইন্টারমিডিয়েট লেয়ার ও ক্যাশিং মেকানিজম &lpar;Building Magic Behind Dockerfile&rpar;](https://dev.to/ragibcs/ddkaarphaail-bildder-bhetrer-jaadu-inttaarmiddiyyett-leyyaar-o-kyaashin-mekaanijm-building-magic-behind-159c)
-- [Why developing a love for reading is one of the greatest things for your dev career](https://dev.to/andreas_mller_2fd27cf578/why-developing-a-love-for-reading-is-one-of-the-greatest-things-for-your-dev-career-36c6)
-- [Help wanted: validate a SharePoint Requests &amp; Approvals SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-sharepoint-requests-approvals-spfx-sample-30ca)
-- [I Built an AI Agent That Negotiates My Bills For Me, Here&#39;s Everything That Went Wrong](https://dev.to/abdullahinnit/i-built-an-ai-agent-that-negotiates-my-bills-for-me-heres-everything-that-went-wrong-560l)
-- [Beyond the Cloud Bound: Why Local-First and Client-Side Privacy Are the Developer&#39;s New OS](https://dev.to/tamizuddin/beyond-the-cloud-bound-why-local-first-and-client-side-privacy-are-the-developers-new-os-209e)
+- [Docker for Developers: From Zero to Production-Ready Containers](https://dev.to/hirdo/docker-for-developers-from-zero-to-production-ready-containers-8f8)
+- [ACAI — Chapter 7: Workflow Orchestration and Agent Execution](https://dev.to/black_shadow_team/acai-chapter-7-workflow-orchestration-and-agent-execution-15im)
+- [Reconcilation in Payment systems](https://dev.to/rahmannugar/reconcilation-in-payment-systems-4b64)
+- [The Answer Looked Right. That Was the Problem.](https://dev.to/reet_singh_ee97da2986538e/the-answer-looked-right-that-was-the-problem-lhn)
+- [Building My First RAG System: From Components to Knowledge and Query Pipelines - Part Two](https://dev.to/timilehin-olusegun/building-my-first-rag-system-from-components-to-knowledge-and-query-pipelines-part-two-jdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
