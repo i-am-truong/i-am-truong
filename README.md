@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Claude Code config costs 9,857 tokens before I type anything](https://dev.to/amzotec/my-claude-code-config-costs-9857-tokens-before-i-type-anything-3gin)
-- [MySQL Connection Pooling Explained: Do 50 Concurrent Users Need 50 Database Connections?](https://dev.to/abirk/mysql-connection-pooling-explained-do-50-concurrent-users-need-50-database-connections-415o)
-- [Qwen3.8-27B vs Muse Glimmer 30B: Which Permissive Open-Weight Model Fits Your Local GPU?](https://dev.to/roberts_jakuko_fbc04cb38/qwen38-27b-vs-muse-glimmer-30b-which-permissive-open-weight-model-fits-your-local-gpu-36h1)
-- [From Zzz&#39;s to Data: Building an AI-Powered Sleep Apnea Monitor with Whisper-v3](https://dev.to/beck_moulton/from-zzzs-to-data-building-an-ai-powered-sleep-apnea-monitor-with-whisper-v3-3i4l)
-- [The nginx misconfigurations that fail silently](https://dev.to/getpagespeed/the-nginx-misconfigurations-that-fail-silently-22i2)
+- [The agent wrote the migration. Are you really going to Approve it?](https://dev.to/erdonline/the-agent-wrote-the-migration-are-you-really-going-to-approve-it-4l6d)
+- [The failures that don&#39;t fail loudly](https://dev.to/harsh_singh_1/the-failures-that-dont-fail-loudly-2ph2)
+- [Nginx Load Balancing with DNS-Based Service Discovery on Incus](https://dev.to/hardyweb/nginx-load-balancing-with-dns-based-service-discovery-on-incus-2kom)
+- [A versão de API que vence sem avisar](https://dev.to/nayaramartins/a-versao-de-api-que-vence-sem-avisar-4ao)
+- [O dicionário que corrige acento errado sozinho](https://dev.to/nayaramartins/o-dicionario-que-corrige-acento-errado-sozinho-55n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
