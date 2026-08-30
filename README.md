@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 11 of #100DaysOfCode: Learning and Building Microservices with Spring Boot](https://dev.to/onatade_abdulmajeed/week-11-of-100daysofcode-learning-and-building-microservices-with-spring-boot-274e)
-- [Retries didn&#39;t make GitHub resilient. They DDoS&#39;d it.](https://dev.to/adioof/retries-didnt-make-github-resilient-they-ddosd-it-4m0d)
-- [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
-- [Tell Me About You](https://dev.to/kenielzep97/tell-me-about-you-1hi4)
-- [Decoding an Amortization Schedule: How to Audit a Mortgage Calculator&#39;s Output Row by Row](https://dev.to/lizely/decoding-an-amortization-schedule-how-to-audit-a-mortgage-calculators-output-row-by-row-41c1)
+- [Well-Architected Framework Relied On Knowing The Call Graph. But Agents Are Not As Predictable.](https://dev.to/atiur_siddique/well-architected-framework-relied-on-knowing-the-call-graph-but-agents-are-not-as-predictable-2hbe)
+- [Digest Guarantees: How to Choose Public HTTPS Webhook Push, Subscribe, or Polling](https://dev.to/jamesanderson3589/digest-guarantees-how-to-choose-public-https-webhook-push-subscribe-or-polling-374i)
+- [Running Coding Agents in Parallel with Git Worktrees](https://dev.to/servatj/running-coding-agents-in-parallel-with-git-worktrees-507i)
+- [I love gaming and past few months I’ve been working on a laravel project 😇 for gamers a social network designed for gamers to share , discuss and discover gaming related content would love feedback and honest opinions so far https://norespawn.space](https://dev.to/kda809/i-love-gaming-and-past-few-months-ive-been-working-on-a-laravel-project-for-gamers-a-social-38kp)
+- [When HTTP Retries Become Dangerous: Idempotency in Symfony Without the Fairy Tales](https://dev.to/alkin/when-http-retries-become-dangerous-idempotency-in-symfony-without-the-fairy-tales-10l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
