@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
-- [How to Send Form Submissions to Notion Automatically Without Zapier](https://dev.to/allenarduino/how-to-send-form-submissionsto-notion-automatically-withoutzapier-56co)
-- [ROBOTICS IS MORE THAN HARDWARE AND EMBEDDED SYSTEMS](https://dev.to/vontek/robotics-is-more-than-hardware-and-embedded-systems-2cpl)
-- [PAGI: What happens to a Send in Flight?](https://dev.to/jjn1056/wpens-to-a-send-in-flightpolishing-pagis-disconnect-contract-1n34)
-- [How to Find Companies That Just Started Hiring &lpar;Greenhouse, Lever &amp; Ashby APIs&rpar;](https://dev.to/feedharbor/how-to-find-companies-that-just-started-hiring-greenhouse-lever-ashby-apis-26ck)
+- [My Claude Code config costs 9,857 tokens before I type anything](https://dev.to/amzotec/my-claude-code-config-costs-9857-tokens-before-i-type-anything-3gin)
+- [MySQL Connection Pooling Explained: Do 50 Concurrent Users Need 50 Database Connections?](https://dev.to/abirk/mysql-connection-pooling-explained-do-50-concurrent-users-need-50-database-connections-415o)
+- [Qwen3.8-27B vs Muse Glimmer 30B: Which Permissive Open-Weight Model Fits Your Local GPU?](https://dev.to/roberts_jakuko_fbc04cb38/qwen38-27b-vs-muse-glimmer-30b-which-permissive-open-weight-model-fits-your-local-gpu-36h1)
+- [From Zzz&#39;s to Data: Building an AI-Powered Sleep Apnea Monitor with Whisper-v3](https://dev.to/beck_moulton/from-zzzs-to-data-building-an-ai-powered-sleep-apnea-monitor-with-whisper-v3-3i4l)
+- [The nginx misconfigurations that fail silently](https://dev.to/getpagespeed/the-nginx-misconfigurations-that-fail-silently-22i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
