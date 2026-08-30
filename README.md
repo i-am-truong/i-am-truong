@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The agent wrote the migration. Are you really going to Approve it?](https://dev.to/erdonline/the-agent-wrote-the-migration-are-you-really-going-to-approve-it-4l6d)
-- [The failures that don&#39;t fail loudly](https://dev.to/harsh_singh_1/the-failures-that-dont-fail-loudly-2ph2)
-- [Nginx Load Balancing with DNS-Based Service Discovery on Incus](https://dev.to/hardyweb/nginx-load-balancing-with-dns-based-service-discovery-on-incus-2kom)
-- [A versão de API que vence sem avisar](https://dev.to/nayaramartins/a-versao-de-api-que-vence-sem-avisar-4ao)
-- [O dicionário que corrige acento errado sozinho](https://dev.to/nayaramartins/o-dicionario-que-corrige-acento-errado-sozinho-55n5)
+- [ডকারফাইল বিল্ডের ভেতরের জাদু: ইন্টারমিডিয়েট লেয়ার ও ক্যাশিং মেকানিজম &lpar;Building Magic Behind Dockerfile&rpar;](https://dev.to/ragibcs/ddkaarphaail-bildder-bhetrer-jaadu-inttaarmiddiyyett-leyyaar-o-kyaashin-mekaanijm-building-magic-behind-159c)
+- [Why developing a love for reading is one of the greatest things for your dev career](https://dev.to/andreas_mller_2fd27cf578/why-developing-a-love-for-reading-is-one-of-the-greatest-things-for-your-dev-career-36c6)
+- [Help wanted: validate a SharePoint Requests &amp; Approvals SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-sharepoint-requests-approvals-spfx-sample-30ca)
+- [I Built an AI Agent That Negotiates My Bills For Me, Here&#39;s Everything That Went Wrong](https://dev.to/abdullahinnit/i-built-an-ai-agent-that-negotiates-my-bills-for-me-heres-everything-that-went-wrong-560l)
+- [Beyond the Cloud Bound: Why Local-First and Client-Side Privacy Are the Developer&#39;s New OS](https://dev.to/tamizuddin/beyond-the-cloud-bound-why-local-first-and-client-side-privacy-are-the-developers-new-os-209e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
