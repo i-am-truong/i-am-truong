@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Developers: From Zero to Production-Ready Containers](https://dev.to/hirdo/docker-for-developers-from-zero-to-production-ready-containers-8f8)
-- [ACAI — Chapter 7: Workflow Orchestration and Agent Execution](https://dev.to/black_shadow_team/acai-chapter-7-workflow-orchestration-and-agent-execution-15im)
-- [Reconcilation in Payment systems](https://dev.to/rahmannugar/reconcilation-in-payment-systems-4b64)
-- [The Answer Looked Right. That Was the Problem.](https://dev.to/reet_singh_ee97da2986538e/the-answer-looked-right-that-was-the-problem-lhn)
-- [Building My First RAG System: From Components to Knowledge and Query Pipelines - Part Two](https://dev.to/timilehin-olusegun/building-my-first-rag-system-from-components-to-knowledge-and-query-pipelines-part-two-jdj)
+- [Week 11 of #100DaysOfCode: Learning and Building Microservices with Spring Boot](https://dev.to/onatade_abdulmajeed/week-11-of-100daysofcode-learning-and-building-microservices-with-spring-boot-274e)
+- [Retries didn&#39;t make GitHub resilient. They DDoS&#39;d it.](https://dev.to/adioof/retries-didnt-make-github-resilient-they-ddosd-it-4m0d)
+- [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
+- [Tell Me About You](https://dev.to/kenielzep97/tell-me-about-you-1hi4)
+- [Decoding an Amortization Schedule: How to Audit a Mortgage Calculator&#39;s Output Row by Row](https://dev.to/lizely/decoding-an-amortization-schedule-how-to-audit-a-mortgage-calculators-output-row-by-row-41c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
