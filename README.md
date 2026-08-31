@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using WP-CLI aliases to switch between multiple WordPress environments safely](https://dev.to/susumun/using-wp-cli-aliases-to-switch-between-multiple-wordpress-environments-safely-34a7)
-- [RAG Explained Simply: How to Teach AI About Your Private Data](https://dev.to/its_ryann/rag-explained-simply-how-to-teach-ai-about-your-private-data-5c6f)
-- [Why AI Agents Keep Lying to Themselves — And What Sandboxing, Audit Trails, and Honest Agent Design Actually Solve](https://dev.to/tamizuddin/why-ai-agents-keep-lying-to-themselves-and-what-sandboxing-audit-trails-and-honest-agent-design-ob2)
-- [The Multi-Agent Patterns That Outlived AutoGen](https://dev.to/paulcrinigan/the-multi-agent-patterns-that-outlived-autogen-56ae)
-- [Vaadin: Building Modern Web UIs with Pure Java &lpar;2026-08-31 00:00&rpar;](https://dev.to/said_olano/vaadin-building-modern-web-uis-with-pure-java-2026-08-31-0000-2njh)
+- [Building an AI Agent Honeypot &amp; Lead Engine with Model Context Protocol &lpar;MCP&rpar; &amp; FastAPI](https://dev.to/marioezquerro/building-an-ai-agent-honeypot-lead-engine-with-model-context-protocol-mcp-fastapi-195e)
+- [I had to tell Claude to stop writing my code for me](https://dev.to/piyushxcoder/i-had-to-tell-claude-to-stop-writing-my-code-for-me-3b8h)
+- [I Run n8n in Both Modes. Queue Mode&#39;s Peak Load: 19 Jobs.](https://dev.to/achiya-automation/i-run-n8n-in-both-modes-queue-modes-peak-load-19-jobs-4bo5)
+- [Why Your Last Chatbot Failed, and It Was Not the Model](https://dev.to/mikefluff/why-your-last-chatbot-failed-and-it-was-not-the-model-4pjh)
+- [I was not losing product docs. I was losing the current decision.](https://dev.to/wintory/i-was-not-losing-product-docs-i-was-losing-the-current-decision-e0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
