@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Your Freelance Rate Without Guessing](https://dev.to/juankkipas/how-to-set-your-freelance-rate-without-guessing-3dao)
-- [ValidationError Is Not a Policy](https://dev.to/den0011/validationerror-is-not-a-policy-3jpp)
-- [Proxmox HA-Cluster: Split-Brain vermeiden und Quorum richtig einrichten](https://dev.to/uhltak/proxmox-ha-cluster-split-brain-vermeiden-und-quorum-richtig-einrichten-14hj)
-- [Edge Computing Middleware: Securing and Scaling Distributed Architectures](https://dev.to/tamizuddin/edge-computing-middleware-securing-and-scaling-distributed-architectures-2fi9)
-- [10x Your Coding Productivity: The Ultimate GitHub Copilot Cheat Sheet](https://dev.to/isahlopess/10x-your-coding-productivity-the-ultimate-github-copilot-cheat-sheet-5245)
+- [AI Answers Are Changing SEO Measurement: Why Brand Visibility Needs New Metrics](https://dev.to/alifar/ai-answers-are-changing-seo-measurement-why-brand-visibility-needs-new-metrics-ag1)
+- [Simulating Capillary Action in a WebGL Shader for a UI Press Effect](https://dev.to/tarun_raja_5c9da995d22137/simulating-capillary-action-in-a-webgl-shader-for-a-ui-press-effect-48cm)
+- [Why Repeated ChatGPT Runs Change How Businesses Measure AI Visibility](https://dev.to/alifar/why-repeated-chatgpt-runs-change-how-businesses-measure-ai-visibility-4ig8)
+- [Technology Career Growth vs. Short-Cuts](https://dev.to/lionelpj/technology-career-growth-vs-short-cuts-29fp)
+- [Onboarding Agent: teaching agents the questions a new hire actually has](https://dev.to/envtecto/onboarding-agent-teaching-agents-the-questions-a-new-hire-actually-has-6pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
