@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Well-Architected Framework Relied On Knowing The Call Graph. But Agents Are Not As Predictable.](https://dev.to/atiur_siddique/well-architected-framework-relied-on-knowing-the-call-graph-but-agents-are-not-as-predictable-2hbe)
-- [Digest Guarantees: How to Choose Public HTTPS Webhook Push, Subscribe, or Polling](https://dev.to/jamesanderson3589/digest-guarantees-how-to-choose-public-https-webhook-push-subscribe-or-polling-374i)
-- [Running Coding Agents in Parallel with Git Worktrees](https://dev.to/servatj/running-coding-agents-in-parallel-with-git-worktrees-507i)
-- [I love gaming and past few months I’ve been working on a laravel project 😇 for gamers a social network designed for gamers to share , discuss and discover gaming related content would love feedback and honest opinions so far https://norespawn.space](https://dev.to/kda809/i-love-gaming-and-past-few-months-ive-been-working-on-a-laravel-project-for-gamers-a-social-38kp)
-- [When HTTP Retries Become Dangerous: Idempotency in Symfony Without the Fairy Tales](https://dev.to/alkin/when-http-retries-become-dangerous-idempotency-in-symfony-without-the-fairy-tales-10l5)
+- [Using WP-CLI aliases to switch between multiple WordPress environments safely](https://dev.to/susumun/using-wp-cli-aliases-to-switch-between-multiple-wordpress-environments-safely-34a7)
+- [RAG Explained Simply: How to Teach AI About Your Private Data](https://dev.to/its_ryann/rag-explained-simply-how-to-teach-ai-about-your-private-data-5c6f)
+- [Why AI Agents Keep Lying to Themselves — And What Sandboxing, Audit Trails, and Honest Agent Design Actually Solve](https://dev.to/tamizuddin/why-ai-agents-keep-lying-to-themselves-and-what-sandboxing-audit-trails-and-honest-agent-design-ob2)
+- [The Multi-Agent Patterns That Outlived AutoGen](https://dev.to/paulcrinigan/the-multi-agent-patterns-that-outlived-autogen-56ae)
+- [Vaadin: Building Modern Web UIs with Pure Java &lpar;2026-08-31 00:00&rpar;](https://dev.to/said_olano/vaadin-building-modern-web-uis-with-pure-java-2026-08-31-0000-2njh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
