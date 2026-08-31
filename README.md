@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wow, We Gained 10+ Users 😂 — So I Kept Updating Rizzzler](https://dev.to/puneetkumar2010/wow-we-gained-10-users-so-i-kept-updating-rizzzler-2d7o)
-- [I Turned GitHub Contribution Graphs into an Animated Minecraft Tree 🌳](https://dev.to/ecoplse/i-turned-github-contribution-graphs-into-an-animated-minecraft-tree-10ma)
-- [Free AWS Certification for Students: The Complete Step-by-Step Guide](https://dev.to/aws-builders/free-aws-certification-for-students-the-complete-step-by-step-guide-3m1m)
-- [Building Needflare: An Autonomous Disaster Intelligence &amp; Logistics Agent with Gemini 3.7, Gemma 4 &amp; Google Veo](https://dev.to/vero-code/building-needflare-an-autonomous-disaster-intelligence-logistics-agent-with-gemini-37-gemma-4-21m8)
-- [Teaching a local coding agent from its own mistakes: DPO on a 30B model](https://dev.to/wuicframework/teaching-a-local-coding-agent-from-its-own-mistakes-dpo-on-a-30b-model-50ac)
+- [How to Set Your Freelance Rate Without Guessing](https://dev.to/juankkipas/how-to-set-your-freelance-rate-without-guessing-3dao)
+- [ValidationError Is Not a Policy](https://dev.to/den0011/validationerror-is-not-a-policy-3jpp)
+- [Proxmox HA-Cluster: Split-Brain vermeiden und Quorum richtig einrichten](https://dev.to/uhltak/proxmox-ha-cluster-split-brain-vermeiden-und-quorum-richtig-einrichten-14hj)
+- [Edge Computing Middleware: Securing and Scaling Distributed Architectures](https://dev.to/tamizuddin/edge-computing-middleware-securing-and-scaling-distributed-architectures-2fi9)
+- [10x Your Coding Productivity: The Ultimate GitHub Copilot Cheat Sheet](https://dev.to/isahlopess/10x-your-coding-productivity-the-ultimate-github-copilot-cheat-sheet-5245)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
