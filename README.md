@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Agent Honeypot &amp; Lead Engine with Model Context Protocol &lpar;MCP&rpar; &amp; FastAPI](https://dev.to/marioezquerro/building-an-ai-agent-honeypot-lead-engine-with-model-context-protocol-mcp-fastapi-195e)
-- [I had to tell Claude to stop writing my code for me](https://dev.to/piyushxcoder/i-had-to-tell-claude-to-stop-writing-my-code-for-me-3b8h)
-- [I Run n8n in Both Modes. Queue Mode&#39;s Peak Load: 19 Jobs.](https://dev.to/achiya-automation/i-run-n8n-in-both-modes-queue-modes-peak-load-19-jobs-4bo5)
-- [Why Your Last Chatbot Failed, and It Was Not the Model](https://dev.to/mikefluff/why-your-last-chatbot-failed-and-it-was-not-the-model-4pjh)
-- [I was not losing product docs. I was losing the current decision.](https://dev.to/wintory/i-was-not-losing-product-docs-i-was-losing-the-current-decision-e0d)
+- [Wow, We Gained 10+ Users 😂 — So I Kept Updating Rizzzler](https://dev.to/puneetkumar2010/wow-we-gained-10-users-so-i-kept-updating-rizzzler-2d7o)
+- [I Turned GitHub Contribution Graphs into an Animated Minecraft Tree 🌳](https://dev.to/ecoplse/i-turned-github-contribution-graphs-into-an-animated-minecraft-tree-10ma)
+- [Free AWS Certification for Students: The Complete Step-by-Step Guide](https://dev.to/aws-builders/free-aws-certification-for-students-the-complete-step-by-step-guide-3m1m)
+- [Building Needflare: An Autonomous Disaster Intelligence &amp; Logistics Agent with Gemini 3.7, Gemma 4 &amp; Google Veo](https://dev.to/vero-code/building-needflare-an-autonomous-disaster-intelligence-logistics-agent-with-gemini-37-gemma-4-21m8)
+- [Teaching a local coding agent from its own mistakes: DPO on a 30B model](https://dev.to/wuicframework/teaching-a-local-coding-agent-from-its-own-mistakes-dpo-on-a-30b-model-50ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
