@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Reset: Returning to Code, AI, and Building After a Year Off](https://dev.to/akshathashivakumar/the-reset-returning-to-code-ai-and-building-after-a-year-off-4o68)
-- [Soul in Motion — 9:22 PM | 2026-09-01](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-922-pm-2026-09-01-4jbm)
-- [Universal Trust Adapter: o USB-C da confiança entre agentes de IA &lpar;em português&rpar;](https://dev.to/edison_flores_6d2cd381b13/universal-trust-adapter-o-usb-c-da-confianca-entre-agentes-de-ia-em-portugues-1hcl)
-- [Universal Trust Adapter: el USB-C de la confianza entre agentes IA &lpar;en español&rpar;](https://dev.to/edison_flores_6d2cd381b13/universal-trust-adapter-el-usb-c-de-la-confianza-entre-agentes-ia-en-espanol-1glk)
-- [Building a Bulletproof Python CI Pipeline with GitHub Actions, DevPod &amp; Mise &lpar;+ the Real-World Bugs We Squashed Along the Way&rpar;](https://dev.to/alanvarghese-dev/building-a-bulletproof-python-ci-pipeline-with-github-actions-devpod-mise-the-real-world-bugs-1dog)
+- [Geospatial Data in Apache Iceberg: Geometry, Geography, and GeoParquet](https://dev.to/alexmercedcoder/geospatial-data-in-apache-iceberg-geometry-geography-and-geoparquet-3ojj)
+- [Preptember is here!! Plan a Fest for your local community.](https://dev.to/mlh/preptember-is-here-plan-a-fest-for-your-local-community-5ce3)
+- [AI Gave Me a Mid-Life Crisis](https://dev.to/randomdev0801/ai-gave-me-a-mid-life-crisis-17kj)
+- [Standby pay at $3 an hour is a wage for owning your whole evening](https://dev.to/adioof/standby-pay-at-3-an-hour-is-a-wage-for-owning-your-whole-evening-2n63)
+- [Runway Just Showed What a Code-Free Internet Could Look Like](https://dev.to/jason_gunnells/runway-just-showed-what-a-code-free-internet-could-look-like-3l7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
