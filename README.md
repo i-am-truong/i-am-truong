@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Geospatial Data in Apache Iceberg: Geometry, Geography, and GeoParquet](https://dev.to/alexmercedcoder/geospatial-data-in-apache-iceberg-geometry-geography-and-geoparquet-3ojj)
-- [Preptember is here!! Plan a Fest for your local community.](https://dev.to/mlh/preptember-is-here-plan-a-fest-for-your-local-community-5ce3)
-- [AI Gave Me a Mid-Life Crisis](https://dev.to/randomdev0801/ai-gave-me-a-mid-life-crisis-17kj)
-- [Standby pay at $3 an hour is a wage for owning your whole evening](https://dev.to/adioof/standby-pay-at-3-an-hour-is-a-wage-for-owning-your-whole-evening-2n63)
-- [Runway Just Showed What a Code-Free Internet Could Look Like](https://dev.to/jason_gunnells/runway-just-showed-what-a-code-free-internet-could-look-like-3l7l)
+- [Stop drawing the graph: reactive agents over versioned artifacts](https://dev.to/bzdvdn/stop-drawing-the-graph-reactive-agents-over-versioned-artifacts-49d4)
+- [Deploying a static site to Cloudflare Workers](https://dev.to/indiecoredev/deploying-a-static-site-to-cloudflare-workers-1n2c)
+- [We built a local-first screenshot app for macOS and would love your feedback](https://dev.to/jojo219/we-built-a-local-first-screenshot-app-for-macos-and-would-love-your-feedback-48ke)
+- [Property Moderation Router: Compare 3 Startup API Token Costs with One Key](https://dev.to/rivenpulse5812/property-moderation-router-compare-3-startup-api-token-costs-with-one-key-18he)
+- [ChatGPT Connects to Health Records, Bringing AI Closer to Clinical Workflows](https://dev.to/alifar/chatgpt-connects-to-health-records-bringing-ai-closer-to-clinical-workflows-23k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
