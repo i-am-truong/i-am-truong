@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS :open Is Baseline 2026: Style Open UI States with One Selector](https://dev.to/vishal_singh_0610/css-open-is-baseline-2026-style-open-ui-states-with-one-selector-4i09)
-- [IEC 61850 Security Research: From SCL and MMS to GOOSE, Sampled Values, and the Process Bus](https://dev.to/null_saint/iec-61850-security-research-from-scl-and-mms-to-goose-sampled-values-and-the-process-bus-bnp)
-- [How to Ship AI in Real-Time Communications: A 7-Stage Adoption Framework for Engineering Teams](https://dev.to/ecosmob_technologies/how-to-ship-ai-in-real-time-communications-a-7-stage-adoption-framework-for-engineering-teams-lo5)
-- [There is no free lunch, especially in app publishing](https://dev.to/goodbarber/there-is-no-free-lunch-especially-in-app-publishing-2ec8)
-- [WebMCP: Make Your Website Agent-Ready Without Screen Scraping](https://dev.to/vishal_singh_0610/webmcp-make-your-website-agent-ready-without-screen-scraping-254c)
+- [The Reset: Returning to Code, AI, and Building After a Year Off](https://dev.to/akshathashivakumar/the-reset-returning-to-code-ai-and-building-after-a-year-off-4o68)
+- [Soul in Motion — 9:22 PM | 2026-09-01](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-922-pm-2026-09-01-4jbm)
+- [Universal Trust Adapter: o USB-C da confiança entre agentes de IA &lpar;em português&rpar;](https://dev.to/edison_flores_6d2cd381b13/universal-trust-adapter-o-usb-c-da-confianca-entre-agentes-de-ia-em-portugues-1hcl)
+- [Universal Trust Adapter: el USB-C de la confianza entre agentes IA &lpar;en español&rpar;](https://dev.to/edison_flores_6d2cd381b13/universal-trust-adapter-el-usb-c-de-la-confianza-entre-agentes-ia-en-espanol-1glk)
+- [Building a Bulletproof Python CI Pipeline with GitHub Actions, DevPod &amp; Mise &lpar;+ the Real-World Bugs We Squashed Along the Way&rpar;](https://dev.to/alanvarghese-dev/building-a-bulletproof-python-ci-pipeline-with-github-actions-devpod-mise-the-real-world-bugs-1dog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
