@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two AWS IAM privesc tools, one path finder](https://dev.to/yayopalacios/two-aws-iam-privesc-tools-26pb)
-- [GLM-5.3 Costs ~1/40 of Claude Opus: What It Does to Your API Bill](https://dev.to/van_massey/glm-53-costs-140-of-claude-opus-what-it-does-to-your-api-bill-106g)
-- [Anthropic Reports Claude Security Evaluation Incidents Involving Real Systems](https://dev.to/alifar/anthropic-reports-claude-security-evaluation-incidents-involving-real-systems-3jp3)
-- [LocalStack vs Spinifex: the Right Tool for Dev, the Right Tool for Production](https://dev.to/toddyholiday/localstack-vs-spinifex-the-right-tool-for-dev-the-right-tool-for-production-2c42)
-- [Program Organization &lpar;with Examples in C&rpar;](https://dev.to/pauljlucas/program-organization-with-examples-in-c-20o1)
+- [GSoC&#39;26_Week14 : Schema, AJV &amp; the Final Stretch](https://dev.to/harkeerat24/gsoc26week14-schema-ajv-the-final-stretch-7kg)
+- [GSoC&#39;26_Week13 : Auto Layout](https://dev.to/harkeerat24/gsoc26week13-auto-layout-mge)
+- [A Green Build Is Not a Route Test](https://dev.to/iqtechsolutions/a-green-build-is-not-a-route-test-4oec)
+- [Vibe Engineering: From Prompt-and-Pray to Controlled Ingenuity](https://dev.to/plcpl/vibe-engineering-from-prompt-and-pray-to-controlled-ingenuity-1g7f)
+- [Trust as as Currency in AI models: Silent AI Economics.](https://dev.to/thoth/trust-as-as-currency-in-ai-models-silent-ai-economics-3gjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
