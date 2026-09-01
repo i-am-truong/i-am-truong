@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GSoC&#39;26_Week14 : Schema, AJV &amp; the Final Stretch](https://dev.to/harkeerat24/gsoc26week14-schema-ajv-the-final-stretch-7kg)
-- [GSoC&#39;26_Week13 : Auto Layout](https://dev.to/harkeerat24/gsoc26week13-auto-layout-mge)
-- [A Green Build Is Not a Route Test](https://dev.to/iqtechsolutions/a-green-build-is-not-a-route-test-4oec)
-- [Vibe Engineering: From Prompt-and-Pray to Controlled Ingenuity](https://dev.to/plcpl/vibe-engineering-from-prompt-and-pray-to-controlled-ingenuity-1g7f)
-- [Trust as as Currency in AI models: Silent AI Economics.](https://dev.to/thoth/trust-as-as-currency-in-ai-models-silent-ai-economics-3gjf)
+- [CSS :open Is Baseline 2026: Style Open UI States with One Selector](https://dev.to/vishal_singh_0610/css-open-is-baseline-2026-style-open-ui-states-with-one-selector-4i09)
+- [IEC 61850 Security Research: From SCL and MMS to GOOSE, Sampled Values, and the Process Bus](https://dev.to/null_saint/iec-61850-security-research-from-scl-and-mms-to-goose-sampled-values-and-the-process-bus-bnp)
+- [How to Ship AI in Real-Time Communications: A 7-Stage Adoption Framework for Engineering Teams](https://dev.to/ecosmob_technologies/how-to-ship-ai-in-real-time-communications-a-7-stage-adoption-framework-for-engineering-teams-lo5)
+- [There is no free lunch, especially in app publishing](https://dev.to/goodbarber/there-is-no-free-lunch-especially-in-app-publishing-2ec8)
+- [WebMCP: Make Your Website Agent-Ready Without Screen Scraping](https://dev.to/vishal_singh_0610/webmcp-make-your-website-agent-ready-without-screen-scraping-254c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
