@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Answers Are Changing SEO Measurement: Why Brand Visibility Needs New Metrics](https://dev.to/alifar/ai-answers-are-changing-seo-measurement-why-brand-visibility-needs-new-metrics-ag1)
-- [Simulating Capillary Action in a WebGL Shader for a UI Press Effect](https://dev.to/tarun_raja_5c9da995d22137/simulating-capillary-action-in-a-webgl-shader-for-a-ui-press-effect-48cm)
-- [Why Repeated ChatGPT Runs Change How Businesses Measure AI Visibility](https://dev.to/alifar/why-repeated-chatgpt-runs-change-how-businesses-measure-ai-visibility-4ig8)
-- [Technology Career Growth vs. Short-Cuts](https://dev.to/lionelpj/technology-career-growth-vs-short-cuts-29fp)
-- [Onboarding Agent: teaching agents the questions a new hire actually has](https://dev.to/envtecto/onboarding-agent-teaching-agents-the-questions-a-new-hire-actually-has-6pa)
+- [Two AWS IAM privesc tools, one path finder](https://dev.to/yayopalacios/two-aws-iam-privesc-tools-26pb)
+- [GLM-5.3 Costs ~1/40 of Claude Opus: What It Does to Your API Bill](https://dev.to/van_massey/glm-53-costs-140-of-claude-opus-what-it-does-to-your-api-bill-106g)
+- [Anthropic Reports Claude Security Evaluation Incidents Involving Real Systems](https://dev.to/alifar/anthropic-reports-claude-security-evaluation-incidents-involving-real-systems-3jp3)
+- [LocalStack vs Spinifex: the Right Tool for Dev, the Right Tool for Production](https://dev.to/toddyholiday/localstack-vs-spinifex-the-right-tool-for-dev-the-right-tool-for-production-2c42)
+- [Program Organization &lpar;with Examples in C&rpar;](https://dev.to/pauljlucas/program-organization-with-examples-in-c-20o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
