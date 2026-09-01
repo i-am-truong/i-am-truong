@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop drawing the graph: reactive agents over versioned artifacts](https://dev.to/bzdvdn/stop-drawing-the-graph-reactive-agents-over-versioned-artifacts-49d4)
-- [Deploying a static site to Cloudflare Workers](https://dev.to/indiecoredev/deploying-a-static-site-to-cloudflare-workers-1n2c)
-- [We built a local-first screenshot app for macOS and would love your feedback](https://dev.to/jojo219/we-built-a-local-first-screenshot-app-for-macos-and-would-love-your-feedback-48ke)
-- [Property Moderation Router: Compare 3 Startup API Token Costs with One Key](https://dev.to/rivenpulse5812/property-moderation-router-compare-3-startup-api-token-costs-with-one-key-18he)
-- [ChatGPT Connects to Health Records, Bringing AI Closer to Clinical Workflows](https://dev.to/alifar/chatgpt-connects-to-health-records-bringing-ai-closer-to-clinical-workflows-23k2)
+- [O prompt de AppSec que eu criei achou 1 gap em 174 rotas.](https://dev.to/tiagovilasboas/o-prompt-de-auditoria-que-eu-escrevi-achou-1-gap-em-174-rotas-o-semgrep-achou-23-outras-coisas-575j)
+- [Facebook temp email en revisiones de riesgo](https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn)
+- [The Security Fix That Would Have Silently Broken My Feature](https://dev.to/a-abdellatif98/the-security-fix-that-would-have-silently-broken-my-feature-43lm)
+- [ChatGPT Ads Arrive in Europe, Starting With the Free Tier](https://dev.to/theaidownside/chatgpt-ads-arrive-in-europe-starting-with-the-free-tier-58cp)
+- [Sin of Angels &lpar;SOA Game&rpar;: The Digital Board Game that Plays like Sons of Anarchy](https://dev.to/crimedigital/one-public-view-six-private-ones-shipping-a-board-game-where-the-tv-knows-less-than-the-phones-24de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
