@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[pt-BR] O pêndulo de Charity Majors e como isso influenciou minha carreira.](https://dev.to/pbalduino/pt-br-o-pendulo-de-charity-majors-e-como-isso-influenciou-minha-carreira-4j3i)
-- [What if AI became more expensive than the workers it replaced?](https://dev.to/ctrotech/what-if-ai-became-more-expensive-than-the-workers-it-replaced-gbf)
-- [Building a Real-Time Payment Gateway Integration with PHP, PayHere, ngrok, and MySQL](https://dev.to/dulannithilaliyanarachchi/building-a-real-time-payment-gateway-integration-with-php-payhere-ngrok-and-mysql-dnf)
-- [Does this node actually need an LLM? The four-gate test, and the second test nobody runs](https://dev.to/vainamoinen/does-this-node-actually-need-an-llm-the-four-gate-test-and-the-second-test-nobody-runs-3c63)
-- [Netmiko vs pexpect vs tmux: pick the existing tool before you build your own](https://dev.to/vainamoinen/netmiko-vs-pexpect-vs-tmux-pick-the-existing-tool-before-you-build-your-own-4g7o)
+- [The Human Harness: Your Loop Runs First](https://dev.to/idnk2203/the-human-harness-your-loop-runs-first-31h1)
+- [Why is my LLM stream empty? A field guide to broken SSE responses](https://dev.to/mohammadhasankaman/why-is-my-llm-stream-empty-a-field-guide-to-broken-sse-responses-4l0k)
+- [A Free ColdFusion Course With Something Most Tutorials Skip: Interview Questions](https://dev.to/devlearningtools/a-free-coldfusion-course-with-something-most-tutorials-skip-interview-questions-3cil)
+- [Der Alarm, der niemanden weckt, ist schlimmer als keiner](https://dev.to/sergey_shinder_ab2d943365/der-alarm-der-niemanden-weckt-ist-schlimmer-als-keiner-eaj)
+- [Best Alternatives to Github Copilot in 2026: Real Tools, Real Stats](https://dev.to/nlocoding/best-alternatives-to-github-copilot-in-2026-real-tools-real-stats-2l44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
