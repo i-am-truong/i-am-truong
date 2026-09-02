@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Constructing a CrowdStrike EDR Evasion Debugging Pipeline](https://dev.to/excalibra/constructing-a-crowdstrike-edr-evasion-debugging-pipeline-pp3)
-- [Why my AI agents needed a rivalry](https://dev.to/antfitch/why-my-ai-agents-needed-a-rivalry-mixing-gemini-and-claude-for-better-code-1mje)
-- [Another new quality moderation feature! I&#39;m excited to see how this shifts the feed in the coming weeks](https://dev.to/heyitsjem/another-new-quality-moderation-feature-im-excited-to-see-how-this-shifts-the-feed-in-the-coming-1dcp)
-- [Getting Started With Excel For Data Analytics](https://dev.to/ndinda_mwanzia_d6b37c466f/getting-started-with-excel-for-data-analytics-1l15)
-- [Blast Radius for Agent-Assisted Development on Kubernetes](https://dev.to/sshaaf/blast-radius-for-agent-assisted-development-on-kubernetes-161)
+- [Claude Code journal plugin: Notion session summaries at a glance](https://dev.to/cseeman/claude-code-journal-plugin-notion-session-summaries-at-a-glance-940)
+- [SEO Priorities for 2027: Building Visibility Across AI Answers, SERPs and Communities](https://dev.to/alifar/seo-priorities-for-2027-building-visibility-across-ai-answers-serps-and-communities-24kd)
+- [Bypassing ChatGPT’s Open-Source Model Security Restrictions for Agentic Hacking](https://dev.to/raxis/bypassing-chatgpts-open-source-model-security-restrictions-for-agentic-hacking-5173)
+- [RL 1: Biological foundations and the &quot;Law of Effect&quot; &lpar;1898– 1949&rpar;](https://dev.to/mitanshgor/rl-1-biological-foundations-and-the-law-of-effect-1898-1949-1a9f)
+- [A website redesign above €5M revenue is not a design project. It is a migration with a committee attached.](https://dev.to/413x/a-website-redesign-above-eu5m-revenue-is-not-a-design-project-it-is-a-migration-with-a-committee-41o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
