@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fashion E-Commerce Store](https://dev.to/ajith_5906ae8402d31b2d6d8/fashion-e-commerce-store-48fa)
-- [Open Source PIM im Jahr 2026: Was sich bei den Lizenzen geändert hat — und was das für Ihre Systemauswahl bedeutet](https://dev.to/aditya_pandey_pba/open-source-pim-im-jahr-2026-was-sich-bei-den-lizenzen-geandert-hat-und-was-das-fur-ihre-iap)
-- [10 Automation Mistakes Developers Make That Break Production Workflows](https://dev.to/ciphernutz/10-automation-mistakes-developers-make-that-break-production-workflows-3idd)
-- [Why I made my project-management SaaS 100% free &lpar;and how I plan to survive&rpar;](https://dev.to/vanillapm/why-i-made-my-project-management-saas-100-free-and-how-i-plan-to-survive-4ge1)
-- [AI Code Review Packet: Make Agent-Written Pull Requests Easy to Trust](https://dev.to/jackm-singularity/ai-code-review-packet-make-agent-written-pull-requests-easy-to-trust-2c0g)
+- [Prompts Lie. Permissions Don&#39;t.](https://dev.to/tonal/prompts-lie-permissions-dont-2l7f)
+- [Your Time-Series Validation Score Is Inflated, and Your Test Suite Will Never Tell You](https://dev.to/neuportal/your-time-series-validation-score-is-inflated-and-your-test-suite-will-never-tell-you-2c9l)
+- [Introducing PageIndex: A Vectorless RAG Solution for dev.to](https://dev.to/ram_charantejathotada_5/introducing-pageindex-a-vectorless-rag-solution-for-devto-3p1)
+- [The POST was guarded, the GET on the same URL was not: cross-tenant PII disclosure in CoopCycle &lpar;GET /api/stores/{id}/addresses&rpar;](https://dev.to/santosh_kumarpuppala_96e/the-post-was-guarded-the-get-on-the-same-url-was-not-cross-tenant-pii-disclosure-in-coopcycle-2j5i)
+- [I Don’t Think I’m Losing My Memory. I Think I’m Trying to Think at AI Speed.](https://dev.to/jackfiallos/i-dont-think-im-losing-my-memory-i-think-im-trying-to-think-at-ai-speed-1pde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
