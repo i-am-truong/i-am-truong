@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompts Lie. Permissions Don&#39;t.](https://dev.to/tonal/prompts-lie-permissions-dont-2l7f)
-- [Your Time-Series Validation Score Is Inflated, and Your Test Suite Will Never Tell You](https://dev.to/neuportal/your-time-series-validation-score-is-inflated-and-your-test-suite-will-never-tell-you-2c9l)
-- [Introducing PageIndex: A Vectorless RAG Solution for dev.to](https://dev.to/ram_charantejathotada_5/introducing-pageindex-a-vectorless-rag-solution-for-devto-3p1)
-- [The POST was guarded, the GET on the same URL was not: cross-tenant PII disclosure in CoopCycle &lpar;GET /api/stores/{id}/addresses&rpar;](https://dev.to/santosh_kumarpuppala_96e/the-post-was-guarded-the-get-on-the-same-url-was-not-cross-tenant-pii-disclosure-in-coopcycle-2j5i)
-- [I Don’t Think I’m Losing My Memory. I Think I’m Trying to Think at AI Speed.](https://dev.to/jackfiallos/i-dont-think-im-losing-my-memory-i-think-im-trying-to-think-at-ai-speed-1pde)
+- [[pt-BR] O pêndulo de Charity Majors e como isso influenciou minha carreira.](https://dev.to/pbalduino/pt-br-o-pendulo-de-charity-majors-e-como-isso-influenciou-minha-carreira-4j3i)
+- [What if AI became more expensive than the workers it replaced?](https://dev.to/ctrotech/what-if-ai-became-more-expensive-than-the-workers-it-replaced-gbf)
+- [Building a Real-Time Payment Gateway Integration with PHP, PayHere, ngrok, and MySQL](https://dev.to/dulannithilaliyanarachchi/building-a-real-time-payment-gateway-integration-with-php-payhere-ngrok-and-mysql-dnf)
+- [Does this node actually need an LLM? The four-gate test, and the second test nobody runs](https://dev.to/vainamoinen/does-this-node-actually-need-an-llm-the-four-gate-test-and-the-second-test-nobody-runs-3c63)
+- [Netmiko vs pexpect vs tmux: pick the existing tool before you build your own](https://dev.to/vainamoinen/netmiko-vs-pexpect-vs-tmux-pick-the-existing-tool-before-you-build-your-own-4g7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
