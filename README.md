@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek Harness: el harness abierto que hace lo que Claude Code no te deja tocar](https://dev.to/macorreag/deepseek-harness-el-harness-abierto-que-hace-lo-que-claude-code-no-te-deja-tocar-2df4)
-- [Why `sponsors/rtk-ai` Is Trending on GitHub](https://dev.to/jamse_bao/why-sponsorsrtk-ai-is-trending-on-github-eo9)
-- [How YOU Can Deploy Web Apps Free with Tencent EdgeOne Makers](https://dev.to/yasans/how-you-can-deploy-web-apps-free-with-tencent-edgeone-makers-31k9)
-- [How On-Device Sensitive Photo Scanning Works](https://dev.to/dmytropolianskyi/how-on-device-sensitive-photo-scanning-works-5e3c)
-- [Why AI Models Sometimes Elongate Their Greetings Like &#39;Kon&#39;nichiwa~&#39;](https://dev.to/orca_forge/why-ai-models-sometimes-elongate-their-greetings-like-konnichiwa-ole)
+- [Fashion E-Commerce Store](https://dev.to/ajith_5906ae8402d31b2d6d8/fashion-e-commerce-store-48fa)
+- [Open Source PIM im Jahr 2026: Was sich bei den Lizenzen geändert hat — und was das für Ihre Systemauswahl bedeutet](https://dev.to/aditya_pandey_pba/open-source-pim-im-jahr-2026-was-sich-bei-den-lizenzen-geandert-hat-und-was-das-fur-ihre-iap)
+- [10 Automation Mistakes Developers Make That Break Production Workflows](https://dev.to/ciphernutz/10-automation-mistakes-developers-make-that-break-production-workflows-3idd)
+- [Why I made my project-management SaaS 100% free &lpar;and how I plan to survive&rpar;](https://dev.to/vanillapm/why-i-made-my-project-management-saas-100-free-and-how-i-plan-to-survive-4ge1)
+- [AI Code Review Packet: Make Agent-Written Pull Requests Easy to Trust](https://dev.to/jackm-singularity/ai-code-review-packet-make-agent-written-pull-requests-easy-to-trust-2c0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
