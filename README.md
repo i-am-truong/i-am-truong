@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [O prompt de AppSec que eu criei achou 1 gap em 174 rotas.](https://dev.to/tiagovilasboas/o-prompt-de-auditoria-que-eu-escrevi-achou-1-gap-em-174-rotas-o-semgrep-achou-23-outras-coisas-575j)
-- [Facebook temp email en revisiones de riesgo](https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn)
-- [The Security Fix That Would Have Silently Broken My Feature](https://dev.to/a-abdellatif98/the-security-fix-that-would-have-silently-broken-my-feature-43lm)
-- [ChatGPT Ads Arrive in Europe, Starting With the Free Tier](https://dev.to/theaidownside/chatgpt-ads-arrive-in-europe-starting-with-the-free-tier-58cp)
-- [Sin of Angels &lpar;SOA Game&rpar;: The Digital Board Game that Plays like Sons of Anarchy](https://dev.to/crimedigital/one-public-view-six-private-ones-shipping-a-board-game-where-the-tv-knows-less-than-the-phones-24de)
+- [DeepSeek Harness: el harness abierto que hace lo que Claude Code no te deja tocar](https://dev.to/macorreag/deepseek-harness-el-harness-abierto-que-hace-lo-que-claude-code-no-te-deja-tocar-2df4)
+- [Why `sponsors/rtk-ai` Is Trending on GitHub](https://dev.to/jamse_bao/why-sponsorsrtk-ai-is-trending-on-github-eo9)
+- [How YOU Can Deploy Web Apps Free with Tencent EdgeOne Makers](https://dev.to/yasans/how-you-can-deploy-web-apps-free-with-tencent-edgeone-makers-31k9)
+- [How On-Device Sensitive Photo Scanning Works](https://dev.to/dmytropolianskyi/how-on-device-sensitive-photo-scanning-works-5e3c)
+- [Why AI Models Sometimes Elongate Their Greetings Like &#39;Kon&#39;nichiwa~&#39;](https://dev.to/orca_forge/why-ai-models-sometimes-elongate-their-greetings-like-konnichiwa-ole)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
