@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Human Harness: Your Loop Runs First](https://dev.to/idnk2203/the-human-harness-your-loop-runs-first-31h1)
-- [Why is my LLM stream empty? A field guide to broken SSE responses](https://dev.to/mohammadhasankaman/why-is-my-llm-stream-empty-a-field-guide-to-broken-sse-responses-4l0k)
-- [A Free ColdFusion Course With Something Most Tutorials Skip: Interview Questions](https://dev.to/devlearningtools/a-free-coldfusion-course-with-something-most-tutorials-skip-interview-questions-3cil)
-- [Der Alarm, der niemanden weckt, ist schlimmer als keiner](https://dev.to/sergey_shinder_ab2d943365/der-alarm-der-niemanden-weckt-ist-schlimmer-als-keiner-eaj)
-- [Best Alternatives to Github Copilot in 2026: Real Tools, Real Stats](https://dev.to/nlocoding/best-alternatives-to-github-copilot-in-2026-real-tools-real-stats-2l44)
+- [Constructing a CrowdStrike EDR Evasion Debugging Pipeline](https://dev.to/excalibra/constructing-a-crowdstrike-edr-evasion-debugging-pipeline-pp3)
+- [Why my AI agents needed a rivalry](https://dev.to/antfitch/why-my-ai-agents-needed-a-rivalry-mixing-gemini-and-claude-for-better-code-1mje)
+- [Another new quality moderation feature! I&#39;m excited to see how this shifts the feed in the coming weeks](https://dev.to/heyitsjem/another-new-quality-moderation-feature-im-excited-to-see-how-this-shifts-the-feed-in-the-coming-1dcp)
+- [Getting Started With Excel For Data Analytics](https://dev.to/ndinda_mwanzia_d6b37c466f/getting-started-with-excel-for-data-analytics-1l15)
+- [Blast Radius for Agent-Assisted Development on Kubernetes](https://dev.to/sshaaf/blast-radius-for-agent-assisted-development-on-kubernetes-161)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
