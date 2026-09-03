@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code journal plugin: Notion session summaries at a glance](https://dev.to/cseeman/claude-code-journal-plugin-notion-session-summaries-at-a-glance-940)
-- [SEO Priorities for 2027: Building Visibility Across AI Answers, SERPs and Communities](https://dev.to/alifar/seo-priorities-for-2027-building-visibility-across-ai-answers-serps-and-communities-24kd)
-- [Bypassing ChatGPT’s Open-Source Model Security Restrictions for Agentic Hacking](https://dev.to/raxis/bypassing-chatgpts-open-source-model-security-restrictions-for-agentic-hacking-5173)
-- [RL 1: Biological foundations and the &quot;Law of Effect&quot; &lpar;1898– 1949&rpar;](https://dev.to/mitanshgor/rl-1-biological-foundations-and-the-law-of-effect-1898-1949-1a9f)
-- [A website redesign above €5M revenue is not a design project. It is a migration with a committee attached.](https://dev.to/413x/a-website-redesign-above-eu5m-revenue-is-not-a-design-project-it-is-a-migration-with-a-committee-41o9)
+- [Read 10,202 times. Visited twice.](https://dev.to/roadleon/read-10202-times-visited-twice-mmi)
+- [Beyond the Chatbot: Building Production AI Systems on AWS](https://dev.to/xx_lanka/beyond-the-chatbot-building-production-ai-systems-on-aws-52k3)
+- [Stop Guessing! Use Causal Inference to Analyze Your Health Habits with Python and DoWhy](https://dev.to/beck_moulton/stop-guessing-use-causal-inference-to-analyze-your-health-habits-with-python-and-dowhy-28ia)
+- [I Thought the Model Drifted. My Cache Key Was Serving Tuesday.](https://dev.to/codepy_1473/i-thought-the-model-drifted-my-cache-key-was-serving-tuesday-4ce5)
+- [The &#39;3-Character&#39; Catchphrase That the Quality Gate Allowed Became the Model&#39;s Habit](https://dev.to/orca_forge/the-3-character-catchphrase-that-the-quality-gate-allowed-became-the-models-habit-g5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
