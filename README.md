@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL Basics: A Real-World Guide to Databases and Queries](https://dev.to/harshitha_madhavarapu/sql-basics-a-real-world-guide-to-databases-and-queries-3mc7)
-- [CPU Steal Time Explained: What %st Really Means on a Virtual Machine](https://dev.to/aeza__net/cpu-steal-time-explained-what-st-really-means-on-a-virtual-machine-109h)
-- [I&#39;m Learning DSA by Teaching It And I Want Your Feedback](https://dev.to/asmita_mhetre_d1cf421818f/im-learning-dsa-by-teaching-it-and-i-want-your-feedback-4k3m)
-- [8 Open Source Tools for Building AI Agents with Memory](https://dev.to/statewave/8-open-source-tools-for-building-ai-agents-with-memory-4i47)
-- [SOC define.](https://dev.to/vp_xudon/soc-define-mce)
+- [Hidden Resources to Consider When Removing an AWS Lambda Function](https://dev.to/martin_d_5a09a3d2755932b1/hidden-resources-to-consider-when-removing-an-aws-lambda-function-180e)
+- [Building a Color Sorting Puzzle Game in Unity: The Architecture Behind the Genre](https://dev.to/unitysourcecode/building-a-color-sorting-puzzle-game-in-unity-the-architecture-behind-the-genre-319)
+- [Using Claude on AWS: Why Your Integration Choice Matters](https://dev.to/xdevisch/using-claude-on-aws-why-your-integration-choice-matters-3h4p)
+- [Your Mac&#39;s Terminal in Your Pocket. Orchestrate Your Agents From Anywhere](https://dev.to/allocx/your-macs-terminal-in-your-pocket-orchestrate-your-agents-from-anywhere-1od3)
+- [Golden-Master a Tangled Script Before the Cleanup Diff](https://dev.to/hackrs_6393/golden-master-a-tangled-script-before-the-cleanup-diff-45lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
