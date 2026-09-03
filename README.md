@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a QR code phishing scanner for our free API — and ended up writing a PNG decoder from scratch to make it work.](https://dev.to/presend/i-built-a-qr-code-phishing-scanner-for-our-free-api-and-ended-up-writing-a-png-decoder-from-3ffd)
-- [Context Engineering: o ativo que a maioria ainda trata como prompt](https://dev.to/aspepper/context-engineering-o-ativo-que-a-maioria-ainda-trata-como-prompt-230n)
-- [Laravel Cloud vs Forge vs a Self-Hosted VPS](https://dev.to/mumbai_web_designer/laravel-cloud-vs-forge-vs-a-self-hosted-vps-2976)
-- [A small privacy decision that changed my web calculator](https://dev.to/laconicleon/a-small-privacy-decision-that-changed-my-web-calculator-5c99)
-- [Value Betting Engine: del modelo de probabilidad a la apuesta de valor con el criterio de Kelly](https://dev.to/adrian_368e1d3e691afab697/value-betting-engine-del-modelo-de-probabilidad-a-la-apuesta-de-valor-con-el-criterio-de-kelly-a4n)
+- [SQL Basics: A Real-World Guide to Databases and Queries](https://dev.to/harshitha_madhavarapu/sql-basics-a-real-world-guide-to-databases-and-queries-3mc7)
+- [CPU Steal Time Explained: What %st Really Means on a Virtual Machine](https://dev.to/aeza__net/cpu-steal-time-explained-what-st-really-means-on-a-virtual-machine-109h)
+- [I&#39;m Learning DSA by Teaching It And I Want Your Feedback](https://dev.to/asmita_mhetre_d1cf421818f/im-learning-dsa-by-teaching-it-and-i-want-your-feedback-4k3m)
+- [8 Open Source Tools for Building AI Agents with Memory](https://dev.to/statewave/8-open-source-tools-for-building-ai-agents-with-memory-4i47)
+- [SOC define.](https://dev.to/vp_xudon/soc-define-mce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
