@@ -120,11 +120,16 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Read 10,202 times. Visited twice.](https://dev.to/roadleon/read-10202-times-visited-twice-mmi)
-- [Beyond the Chatbot: Building Production AI Systems on AWS](https://dev.to/xx_lanka/beyond-the-chatbot-building-production-ai-systems-on-aws-52k3)
-- [Stop Guessing! Use Causal Inference to Analyze Your Health Habits with Python and DoWhy](https://dev.to/beck_moulton/stop-guessing-use-causal-inference-to-analyze-your-health-habits-with-python-and-dowhy-28ia)
-- [I Thought the Model Drifted. My Cache Key Was Serving Tuesday.](https://dev.to/codepy_1473/i-thought-the-model-drifted-my-cache-key-was-serving-tuesday-4ce5)
-- [The &#39;3-Character&#39; Catchphrase That the Quality Gate Allowed Became the Model&#39;s Habit](https://dev.to/orca_forge/the-3-character-catchphrase-that-the-quality-gate-allowed-became-the-models-habit-g5a)
+- [Hands-On SIEM Detection: Building, Breaking, and Auditing a Wazuh Lab Environment](https://dev.to/catalog346/hands-on-siem-detection-building-breaking-and-auditing-a-wazuh-lab-environment-4imd)
+- [How to Make 恋みくじ Results Shareable Without Storing Personal Data](https://dev.to/doichizen/how-to-make-lian-mikuzi-results-shareable-without-storing-personal-data-3m1a)
+- [Running Whisper on Modal from Cloudflare Workers](https://dev.to/ray_mac/running-whisper-on-modal-from-cloudflare-workers-2hla)
+- [This Saturday, I’ll be speaking at the Omarchy meetup in Tbilisi!
+
+My talk: Linux: A Timeline of Freedom
+
+I’ve also put together a Linux timeline for IT History Journal:
+https://history.purple-magic.com/en/timelines/linux/](https://dev.to/kalashnikovisme/this-saturday-ill-be-speaking-at-the-omarchy-meetup-in-tbilisi-my-talk-linux-a-timeline-of-1jbp)
+- [Modeling 恋みくじ Results as Structured Content, Not Random Strings](https://dev.to/keyoneok/modeling-lian-mikuzi-results-as-structured-content-not-random-strings-42i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
