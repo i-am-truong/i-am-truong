@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Resources to Consider When Removing an AWS Lambda Function](https://dev.to/martin_d_5a09a3d2755932b1/hidden-resources-to-consider-when-removing-an-aws-lambda-function-180e)
-- [Building a Color Sorting Puzzle Game in Unity: The Architecture Behind the Genre](https://dev.to/unitysourcecode/building-a-color-sorting-puzzle-game-in-unity-the-architecture-behind-the-genre-319)
-- [Using Claude on AWS: Why Your Integration Choice Matters](https://dev.to/xdevisch/using-claude-on-aws-why-your-integration-choice-matters-3h4p)
-- [Your Mac&#39;s Terminal in Your Pocket. Orchestrate Your Agents From Anywhere](https://dev.to/allocx/your-macs-terminal-in-your-pocket-orchestrate-your-agents-from-anywhere-1od3)
-- [Golden-Master a Tangled Script Before the Cleanup Diff](https://dev.to/hackrs_6393/golden-master-a-tangled-script-before-the-cleanup-diff-45lo)
+- [DaaC: The Lost XaaC Nobody Talks About](https://dev.to/hatamabolghasemi/daac-the-lost-xaac-nobody-talks-about-1b77)
+- [I set up my first Docker SBX kit, and here&#39;s how I did it](https://dev.to/yhary_arias/i-set-up-my-first-docker-sbx-kit-and-heres-how-i-did-it-b9a)
+- [5 Reasons to Switch From Google Analytics in 2026](https://dev.to/zenovay/5-reasons-to-switch-from-google-analytics-in-2026-1019)
+- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827)
+- [The Org Chart Is About to Become Obsolete](https://dev.to/jalal246/the-org-chart-is-about-to-become-obsolete-5bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
