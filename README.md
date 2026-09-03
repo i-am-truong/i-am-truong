@@ -120,16 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On SIEM Detection: Building, Breaking, and Auditing a Wazuh Lab Environment](https://dev.to/catalog346/hands-on-siem-detection-building-breaking-and-auditing-a-wazuh-lab-environment-4imd)
-- [How to Make 恋みくじ Results Shareable Without Storing Personal Data](https://dev.to/doichizen/how-to-make-lian-mikuzi-results-shareable-without-storing-personal-data-3m1a)
-- [Running Whisper on Modal from Cloudflare Workers](https://dev.to/ray_mac/running-whisper-on-modal-from-cloudflare-workers-2hla)
-- [This Saturday, I’ll be speaking at the Omarchy meetup in Tbilisi!
-
-My talk: Linux: A Timeline of Freedom
-
-I’ve also put together a Linux timeline for IT History Journal:
-https://history.purple-magic.com/en/timelines/linux/](https://dev.to/kalashnikovisme/this-saturday-ill-be-speaking-at-the-omarchy-meetup-in-tbilisi-my-talk-linux-a-timeline-of-1jbp)
-- [Modeling 恋みくじ Results as Structured Content, Not Random Strings](https://dev.to/keyoneok/modeling-lian-mikuzi-results-as-structured-content-not-random-strings-42i1)
+- [I built a QR code phishing scanner for our free API — and ended up writing a PNG decoder from scratch to make it work.](https://dev.to/presend/i-built-a-qr-code-phishing-scanner-for-our-free-api-and-ended-up-writing-a-png-decoder-from-3ffd)
+- [Context Engineering: o ativo que a maioria ainda trata como prompt](https://dev.to/aspepper/context-engineering-o-ativo-que-a-maioria-ainda-trata-como-prompt-230n)
+- [Laravel Cloud vs Forge vs a Self-Hosted VPS](https://dev.to/mumbai_web_designer/laravel-cloud-vs-forge-vs-a-self-hosted-vps-2976)
+- [A small privacy decision that changed my web calculator](https://dev.to/laconicleon/a-small-privacy-decision-that-changed-my-web-calculator-5c99)
+- [Value Betting Engine: del modelo de probabilidad a la apuesta de valor con el criterio de Kelly](https://dev.to/adrian_368e1d3e691afab697/value-betting-engine-del-modelo-de-probabilidad-a-la-apuesta-de-valor-con-el-criterio-de-kelly-a4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
