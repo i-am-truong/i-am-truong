@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DaaC: The Lost XaaC Nobody Talks About](https://dev.to/hatamabolghasemi/daac-the-lost-xaac-nobody-talks-about-1b77)
-- [I set up my first Docker SBX kit, and here&#39;s how I did it](https://dev.to/yhary_arias/i-set-up-my-first-docker-sbx-kit-and-heres-how-i-did-it-b9a)
-- [5 Reasons to Switch From Google Analytics in 2026](https://dev.to/zenovay/5-reasons-to-switch-from-google-analytics-in-2026-1019)
-- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827)
-- [The Org Chart Is About to Become Obsolete](https://dev.to/jalal246/the-org-chart-is-about-to-become-obsolete-5bd)
+- [500+ коммитов за пять месяцев: как я в одиночку запустил RetroPoint](https://dev.to/wildtuna/500-kommitov-za-piat-miesiatsiev-kak-ia-v-odinochku-zapustil-retropoint-43m4)
+- [MLOps for Developers: Deploying, Monitoring, and Optimizing Machine Learning Models](https://dev.to/apeder/mlops-for-developers-deploying-monitoring-and-optimizing-machine-learning-models-2hli)
+- [Routing by task difficulty: the numbers that changed how our AI company spends on models](https://dev.to/weio/routing-by-task-difficulty-the-numbers-that-changed-how-our-ai-company-spends-on-models-5eb)
+- [Building TargetV1: A Confidence-Gated Recognition Pipeline &lpar;and the Blackwell GPU Bug That Almost Stopped Me&rpar;](https://dev.to/tariq_ahmad/building-targetv1-a-confidence-gated-recognition-pipeline-and-the-blackwell-gpu-bug-that-almost-3n6h)
+- [Neve - Towards a Unified Programming Model for the Complete Deep Learning Stack](https://dev.to/no_saved_data/neve-towards-a-unified-programming-model-for-the-complete-deep-learning-stack-1g86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
