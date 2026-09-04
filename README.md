@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Classify the Failure Before the Agent Edits a Test](https://dev.to/datacpp_8185/classify-the-failure-before-the-agent-edits-a-test-36pk)
-- [Google Launches Gemini 3.8 Flash and Flash Cyber With New API Pricing and Access](https://dev.to/alifar/google-launches-gemini-38-flash-and-flash-cyber-with-new-api-pricing-and-access-2o2i)
-- [RTO mandates are just layoffs that skip the severance check](https://dev.to/adioof/rto-mandates-are-just-layoffs-that-skip-the-severance-check-2j75)
-- [The Part Of Your RAG Pipeline That Decides Everything](https://dev.to/paulcrinigan/the-part-of-your-rag-pipeline-that-decides-everything-36hl)
-- [On-demand SSH tunnels with systemd](https://dev.to/rdentato/on-demand-ssh-tunnels-with-systemd-3mec)
+- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-25a3)
+- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-2f8e)
+- [I Compared 4 Dungeon Generation Algorithms. One of Them Never Works.](https://dev.to/turingrtss/i-compared-4-dungeon-generation-algorithms-one-of-them-never-works-3gkl)
+- [Open Source Contribution](https://dev.to/pratyush_kumar_b2aa2b63e0/open-source-contribution-55jh)
+- [Traceroute devlog #6](https://dev.to/thkim5937/traceroute-devlog-5-40h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
