@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-25a3)
-- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-2f8e)
-- [I Compared 4 Dungeon Generation Algorithms. One of Them Never Works.](https://dev.to/turingrtss/i-compared-4-dungeon-generation-algorithms-one-of-them-never-works-3gkl)
-- [Open Source Contribution](https://dev.to/pratyush_kumar_b2aa2b63e0/open-source-contribution-55jh)
-- [Traceroute devlog #6](https://dev.to/thkim5937/traceroute-devlog-5-40h0)
+- [Postman for API Work: Collections, Environment Variables, Secrets, Auth, and Tests](https://dev.to/manoharij/postman-for-api-work-collections-environment-variables-secrets-auth-and-tests-23ob)
+- [Claude Keeps Going Down, and Anthropic&#39;s Own Status Page Says So](https://dev.to/theaidownside/claude-keeps-going-down-and-anthropics-own-status-page-says-so-29mc)
+- [👀](https://dev.to/tess314/-53en)
+- [JWT Claim Validation at the Edge: Scope Inflation, Audience Misrouting, and the RBAC Boundary Problem](https://dev.to/neeraj_singhi_golang/jwt-claim-validation-at-the-edge-scope-inflation-audience-misrouting-and-the-rbac-boundary-13be)
+- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-9go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
