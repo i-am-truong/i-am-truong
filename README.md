@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Stop Defaulting to WebSockets: Why Server-Sent Events &lpar;SSE&rpar; are Usually Better](https://dev.to/mindinu/stop-defaulting-to-websockets-why-server-sent-events-sse-are-usually-better-3k2g)
-- [Node.js SMS Alerts for US and EU Orders: 3 Polling API Trade-offs](https://dev.to/zanesterling7589/nodejs-sms-alerts-for-us-and-eu-orders-3-polling-api-trade-offs-epj)
-- [How I build Suwu: an omarchy inspired remote shell with the cheapest model in Opencode Go](https://dev.to/yu_li_d4471673ced6f4dbb4f/how-i-build-suwu-an-omarchy-inspired-remote-shell-with-the-cheapest-model-in-opencode-go-34g0)
-- [Three Privacy-Bound PDF Endpoints for Low-Latency SaaS Contract Report Generation](https://dev.to/brennthorn8571/three-privacy-bound-pdf-endpoints-for-low-latency-saas-contract-report-generation-3c16)
-- [Go Consent Gates for Logistics Login: Recoverable Decisions and Preference Views](https://dev.to/hwpgsd503817/go-consent-gates-for-logistics-login-recoverable-decisions-and-preference-views-37ji)
+- [I Like Carbon-Aware Pricing, but I Would Not Let It Drive Production Yet](https://dev.to/james_lin/i-like-carbon-aware-pricing-but-i-would-not-let-it-drive-production-yet-1bf)
+- [Building AI Agents That Actually Work: What Nobody Tells You](https://dev.to/danilgaleev/building-ai-agents-that-actually-work-what-nobody-tells-you-2f88)
+- [Building a Web Development Workbench for Unitree G1 with C++17, SDK2 and WebSockets](https://dev.to/liershui2500/building-a-web-development-workbench-for-unitree-g1-with-c17-sdk2-and-websockets-3og1)
+- [10,000 Agents, Zero Tokens: Why the Best AI Architectures &quot;Skip&quot; the LLM](https://dev.to/alisterbaroi/10000-agents-zero-tokens-why-the-best-ai-architectures-skip-the-llm-6o5)
+- [Running the WUIC assistant on a local LLM: Ollama, an MCP server, and a free agentic VS Code](https://dev.to/wuicframework/running-the-wuic-assistant-on-a-local-llm-ollama-an-mcp-server-and-a-free-agentic-vs-code-4233)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
