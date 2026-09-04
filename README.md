@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Like Carbon-Aware Pricing, but I Would Not Let It Drive Production Yet](https://dev.to/james_lin/i-like-carbon-aware-pricing-but-i-would-not-let-it-drive-production-yet-1bf)
-- [Building AI Agents That Actually Work: What Nobody Tells You](https://dev.to/danilgaleev/building-ai-agents-that-actually-work-what-nobody-tells-you-2f88)
-- [Building a Web Development Workbench for Unitree G1 with C++17, SDK2 and WebSockets](https://dev.to/liershui2500/building-a-web-development-workbench-for-unitree-g1-with-c17-sdk2-and-websockets-3og1)
-- [10,000 Agents, Zero Tokens: Why the Best AI Architectures &quot;Skip&quot; the LLM](https://dev.to/alisterbaroi/10000-agents-zero-tokens-why-the-best-ai-architectures-skip-the-llm-6o5)
-- [Running the WUIC assistant on a local LLM: Ollama, an MCP server, and a free agentic VS Code](https://dev.to/wuicframework/running-the-wuic-assistant-on-a-local-llm-ollama-an-mcp-server-and-a-free-agentic-vs-code-4233)
+- [Same agent, different list: 238 cold emails to Japanese schools, 13 replies, 2 meetings](https://dev.to/leouno/same-agent-different-list-238-cold-emails-to-japanese-schools-13-replies-2-meetings-37ai)
+- [An Angular + .NET Auth Template with Multi-Channel 2FA and a Live Demo](https://dev.to/dgates82/an-angular-net-auth-template-with-multi-channel-2fa-and-a-live-demo-2hp4)
+- [Implementing Authentication in Node.js Apps &lpar;JWT, OAuth 2.0, bcrypt&rpar;](https://dev.to/mryadavgulshan/implementing-authentication-in-nodejs-apps-jwt-oauth-20-bcrypt-1k8n)
+- [Solving the Implicit Colebrook-White Equation in TypeScript via Newton-Raphson Iterations](https://dev.to/miad_ea7faef80e5125861119/solving-the-implicit-colebrook-white-equation-in-typescript-via-newton-raphson-iterations-efj)
+- [Google dropped two-thirds of our site from its index in a single day. We found the culprit — except it wasn&#39;t him](https://dev.to/ramoart/google-dropped-two-thirds-of-our-site-from-its-index-in-a-single-day-we-found-the-culprit-except-4o9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
