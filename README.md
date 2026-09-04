@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [500+ коммитов за пять месяцев: как я в одиночку запустил RetroPoint](https://dev.to/wildtuna/500-kommitov-za-piat-miesiatsiev-kak-ia-v-odinochku-zapustil-retropoint-43m4)
-- [MLOps for Developers: Deploying, Monitoring, and Optimizing Machine Learning Models](https://dev.to/apeder/mlops-for-developers-deploying-monitoring-and-optimizing-machine-learning-models-2hli)
-- [Routing by task difficulty: the numbers that changed how our AI company spends on models](https://dev.to/weio/routing-by-task-difficulty-the-numbers-that-changed-how-our-ai-company-spends-on-models-5eb)
-- [Building TargetV1: A Confidence-Gated Recognition Pipeline &lpar;and the Blackwell GPU Bug That Almost Stopped Me&rpar;](https://dev.to/tariq_ahmad/building-targetv1-a-confidence-gated-recognition-pipeline-and-the-blackwell-gpu-bug-that-almost-3n6h)
-- [Neve - Towards a Unified Programming Model for the Complete Deep Learning Stack](https://dev.to/no_saved_data/neve-towards-a-unified-programming-model-for-the-complete-deep-learning-stack-1g86)
+- [From 0 to 1,000 Couples: SEO Lessons From a Niche SaaS](https://dev.to/_artiaga_62d71fe6cd5/from-0-to-1000-couples-seo-lessons-from-a-niche-saas-gbn)
+- [Defects Missed in Transcription — AI Speaks After 0.5-Second Silence](https://dev.to/orca_forge/defects-missed-in-transcription-ai-speaks-after-05-second-silence-3id5)
+- [Organizing per-host settings with `~/.ssh/config` — a standard practice for anyone managing multiple servers](https://dev.to/susumun/organizing-per-host-settings-with-sshconfig-a-standard-practice-for-anyone-managing-1kom)
+- [Your AI recommended a store. Is it a scam? &lpar;Free API, no auth, transparent heuristics&rpar;](https://dev.to/edison_flores_6d2cd381b13/your-ai-recommended-a-store-is-it-a-scam-free-api-no-auth-transparent-heuristics-1god)
+- [Google Photos Connects to Gemini Spark for Prompt-Driven Asset Discovery](https://dev.to/alifar/google-photos-connects-to-gemini-spark-for-prompt-driven-asset-discovery-4nh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
