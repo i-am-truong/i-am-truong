@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grammar multi-driver: una API, quattro dialetti SQL](https://dev.to/dev_iadicola/grammar-multi-driver-una-api-quattro-dialetti-sql-1h1o)
-- [Agent Clarifying Questions Need a Focus Handoff, Not a Noisier Live Region](https://dev.to/babycat/agent-clarifying-questions-need-a-focus-handoff-not-a-noisier-live-region-214l)
-- [How AI Agents Are Changing the Way We Use the Internet](https://dev.to/worldbulletin/how-ai-agents-are-changing-the-way-we-use-the-internet-47go)
-- [One App, More Than One Native Window](https://dev.to/codenameone/one-app-more-than-one-native-window-3dm1)
-- [A trustworthy weekly AI research brief stays honest about sources and uncertainty](https://dev.to/xiaobei/a-trustworthy-weekly-ai-research-brief-stays-honest-about-sources-and-uncertainty-5cnb)
+- [Classify the Failure Before the Agent Edits a Test](https://dev.to/datacpp_8185/classify-the-failure-before-the-agent-edits-a-test-36pk)
+- [Google Launches Gemini 3.8 Flash and Flash Cyber With New API Pricing and Access](https://dev.to/alifar/google-launches-gemini-38-flash-and-flash-cyber-with-new-api-pricing-and-access-2o2i)
+- [RTO mandates are just layoffs that skip the severance check](https://dev.to/adioof/rto-mandates-are-just-layoffs-that-skip-the-severance-check-2j75)
+- [The Part Of Your RAG Pipeline That Decides Everything](https://dev.to/paulcrinigan/the-part-of-your-rag-pipeline-that-decides-everything-36hl)
+- [On-demand SSH tunnels with systemd](https://dev.to/rdentato/on-demand-ssh-tunnels-with-systemd-3mec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
