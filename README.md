@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Same agent, different list: 238 cold emails to Japanese schools, 13 replies, 2 meetings](https://dev.to/leouno/same-agent-different-list-238-cold-emails-to-japanese-schools-13-replies-2-meetings-37ai)
-- [An Angular + .NET Auth Template with Multi-Channel 2FA and a Live Demo](https://dev.to/dgates82/an-angular-net-auth-template-with-multi-channel-2fa-and-a-live-demo-2hp4)
-- [Implementing Authentication in Node.js Apps &lpar;JWT, OAuth 2.0, bcrypt&rpar;](https://dev.to/mryadavgulshan/implementing-authentication-in-nodejs-apps-jwt-oauth-20-bcrypt-1k8n)
-- [Solving the Implicit Colebrook-White Equation in TypeScript via Newton-Raphson Iterations](https://dev.to/miad_ea7faef80e5125861119/solving-the-implicit-colebrook-white-equation-in-typescript-via-newton-raphson-iterations-efj)
-- [Google dropped two-thirds of our site from its index in a single day. We found the culprit — except it wasn&#39;t him](https://dev.to/ramoart/google-dropped-two-thirds-of-our-site-from-its-index-in-a-single-day-we-found-the-culprit-except-4o9f)
+- [Grammar multi-driver: una API, quattro dialetti SQL](https://dev.to/dev_iadicola/grammar-multi-driver-una-api-quattro-dialetti-sql-1h1o)
+- [Agent Clarifying Questions Need a Focus Handoff, Not a Noisier Live Region](https://dev.to/babycat/agent-clarifying-questions-need-a-focus-handoff-not-a-noisier-live-region-214l)
+- [How AI Agents Are Changing the Way We Use the Internet](https://dev.to/worldbulletin/how-ai-agents-are-changing-the-way-we-use-the-internet-47go)
+- [One App, More Than One Native Window](https://dev.to/codenameone/one-app-more-than-one-native-window-3dm1)
+- [A trustworthy weekly AI research brief stays honest about sources and uncertainty](https://dev.to/xiaobei/a-trustworthy-weekly-ai-research-brief-stays-honest-about-sources-and-uncertainty-5cnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
