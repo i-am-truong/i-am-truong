@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Character Looks Right—Except Every Asymmetric Detail Flipped](https://dev.to/nomurasan/your-ai-character-looks-right-except-every-asymmetric-detail-flipped-38k3)
-- [The Dedicated OCR Engine Lost to the General-Purpose Model — 300 Slower](https://dev.to/hexisteme/the-dedicated-ocr-engine-lost-to-the-general-purpose-model-300x-slower-2bf7)
-- [A coding assistant drafted my Nginx config. Here’s what I still had to verify](https://dev.to/aardnsyhs/a-coding-assistant-drafted-my-nginx-config-heres-what-i-still-had-to-verify-2e4j)
-- [Building an Interactive Excel Dashboard.](https://dev.to/kbonymark/building-an-interactive-excel-dashboard-2329)
-- [badblocks dies instantly on 8TB+ drives — the -b 4096 fix](https://dev.to/vainamoinen/badblocks-dies-instantly-on-8tb-drives-the-b-4096-fix-dg6)
+- [How I built my own set of audio plugins with JUCE](https://dev.to/lluisestape/how-i-built-my-own-set-of-audio-plugins-with-juce-4i2b)
+- [Learning Elixir: Private vs Public Functions](https://dev.to/abreujp/learning-elixir-private-vs-public-functions-2a00)
+- [How to convert a folder of PNGs to one PDF without uploading the files](https://dev.to/laconicleon/how-to-convert-a-folder-of-pngs-to-one-pdf-without-uploading-the-files-19pe)
+- [My MCP Security Scanner Missed 2026&#39;s Worst MCP RCE: Here Is the One-Rule Fix](https://dev.to/kielltampubolon/my-mcp-security-scanner-missed-2026s-worst-mcp-rce-here-is-the-one-rule-fix-1g1i)
+- [Building Production KRA eTIMS and Safaricom M-Pesa Integrations for Odoo 19](https://dev.to/ken_mwaura1/building-production-kra-etims-and-safaricom-m-pesa-integrations-for-odoo-19-2f29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
