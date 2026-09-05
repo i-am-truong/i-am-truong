@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Ran My Own Favicon Checker Against 10 Sites. All 10 Failed.](https://dev.to/li_5408/i-ran-my-own-favicon-checker-against-10-sites-all-10-failed-5840)
-- [Building an SPL Token: Creating the Mint](https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-creating-the-mint-gi7)
-- [When an AI Agent Makes a Mistake in Production, Which Layer Should Stop It?](https://dev.to/hosseinhezami/when-an-ai-agent-makes-a-mistake-in-production-which-layer-should-stop-it-4m0b)
-- [Test post and some ray casting](https://dev.to/smarchevsky/test-post-and-some-ray-casting-2jo4)
-- [From API to AI Agent: Turning a Laravel Backend Into a Tool-Using System](https://dev.to/hosseinhezami/from-api-to-ai-agent-turning-a-laravel-backend-into-a-tool-using-system-2bd3)
+- [MY FIRST IDEA](https://dev.to/whoshotu/my-first-idea-4be9)
+- [How I Turned a Research Paper into an AI Skill with NotebookLM](https://dev.to/rahmanfrr/how-i-turned-a-research-paper-into-an-ai-skill-with-notebooklm-1okp)
+- [An unquoted heredoc halved my backslashes and turned a character class into the letter w](https://dev.to/mahirhir/an-unquoted-heredoc-halved-my-backslashes-and-turned-a-character-class-into-the-letter-w-2k96)
+- [git commit with a pathspec ignored my index and committed the file as it sat on disk](https://dev.to/mahirhir/git-commit-with-a-pathspec-ignored-my-index-and-committed-the-file-as-it-sat-on-disk-262g)
+- [My Generosity Card: Thank You Everyone](https://dev.to/ishwar_ghotale/my-generosity-card-thank-you-everyone-3ai9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
