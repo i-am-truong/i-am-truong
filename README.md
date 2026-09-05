@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built my own set of audio plugins with JUCE](https://dev.to/lluisestape/how-i-built-my-own-set-of-audio-plugins-with-juce-4i2b)
-- [Learning Elixir: Private vs Public Functions](https://dev.to/abreujp/learning-elixir-private-vs-public-functions-2a00)
-- [How to convert a folder of PNGs to one PDF without uploading the files](https://dev.to/laconicleon/how-to-convert-a-folder-of-pngs-to-one-pdf-without-uploading-the-files-19pe)
-- [My MCP Security Scanner Missed 2026&#39;s Worst MCP RCE: Here Is the One-Rule Fix](https://dev.to/kielltampubolon/my-mcp-security-scanner-missed-2026s-worst-mcp-rce-here-is-the-one-rule-fix-1g1i)
-- [Building Production KRA eTIMS and Safaricom M-Pesa Integrations for Odoo 19](https://dev.to/ken_mwaura1/building-production-kra-etims-and-safaricom-m-pesa-integrations-for-odoo-19-2f29)
+- [I Ran My Own Favicon Checker Against 10 Sites. All 10 Failed.](https://dev.to/li_5408/i-ran-my-own-favicon-checker-against-10-sites-all-10-failed-5840)
+- [Building an SPL Token: Creating the Mint](https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-creating-the-mint-gi7)
+- [When an AI Agent Makes a Mistake in Production, Which Layer Should Stop It?](https://dev.to/hosseinhezami/when-an-ai-agent-makes-a-mistake-in-production-which-layer-should-stop-it-4m0b)
+- [Test post and some ray casting](https://dev.to/smarchevsky/test-post-and-some-ray-casting-2jo4)
+- [From API to AI Agent: Turning a Laravel Backend Into a Tool-Using System](https://dev.to/hosseinhezami/from-api-to-ai-agent-turning-a-laravel-backend-into-a-tool-using-system-2bd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
