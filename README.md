@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MY FIRST IDEA](https://dev.to/whoshotu/my-first-idea-4be9)
-- [How I Turned a Research Paper into an AI Skill with NotebookLM](https://dev.to/rahmanfrr/how-i-turned-a-research-paper-into-an-ai-skill-with-notebooklm-1okp)
-- [An unquoted heredoc halved my backslashes and turned a character class into the letter w](https://dev.to/mahirhir/an-unquoted-heredoc-halved-my-backslashes-and-turned-a-character-class-into-the-letter-w-2k96)
-- [git commit with a pathspec ignored my index and committed the file as it sat on disk](https://dev.to/mahirhir/git-commit-with-a-pathspec-ignored-my-index-and-committed-the-file-as-it-sat-on-disk-262g)
-- [My Generosity Card: Thank You Everyone](https://dev.to/ishwar_ghotale/my-generosity-card-thank-you-everyone-3ai9)
+- [The Tea on Teamwork: Week One of My i.c.stars Tech Internship](https://dev.to/keenenwilkins/the-tea-on-teamwork-week-one-of-my-icstars-tech-internship-k3o)
+- [From API to GPU, Week 6 &lpar;Part 2&rpar;: Watching a Neural Network Learn](https://dev.to/dramasamy/from-api-to-gpu-week-6-part-2-watching-a-neural-network-learn-2pef)
+- [From API to GPU, Week 6 &lpar;Part 1&rpar;: A Model That Predicts, and How Wrong It Is](https://dev.to/dramasamy/from-api-to-gpu-week-6-part-1-a-model-that-predicts-and-how-wrong-it-is-3d80)
+- [Tennis, football and basketball results as clean JSON, without a sports data contract](https://dev.to/clearfetch/tennis-football-and-basketball-results-as-clean-json-without-a-sports-data-contract-3b19)
+- [How to find every Shopify store in a list of 10,000 domains](https://dev.to/clearfetch/how-to-find-every-shopify-store-in-a-list-of-10000-domains-m89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
