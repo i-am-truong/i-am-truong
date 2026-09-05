@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Postman for API Work: Collections, Environment Variables, Secrets, Auth, and Tests](https://dev.to/manoharij/postman-for-api-work-collections-environment-variables-secrets-auth-and-tests-23ob)
-- [Claude Keeps Going Down, and Anthropic&#39;s Own Status Page Says So](https://dev.to/theaidownside/claude-keeps-going-down-and-anthropics-own-status-page-says-so-29mc)
-- [👀](https://dev.to/tess314/-53en)
-- [JWT Claim Validation at the Edge: Scope Inflation, Audience Misrouting, and the RBAC Boundary Problem](https://dev.to/neeraj_singhi_golang/jwt-claim-validation-at-the-edge-scope-inflation-audience-misrouting-and-the-rbac-boundary-13be)
-- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-9go)
+- [We Built the Same Product Twice. Only 6% of It Carried Over.](https://dev.to/mikefluff/we-built-the-same-product-twice-only-6-of-it-carried-over-37ii)
+- [Mastering HRV: Building a Stress Predictor with Random Forest, LSTM, and Wearable Data](https://dev.to/beck_moulton/mastering-hrv-building-a-stress-predictor-with-random-forest-lstm-and-wearable-data-35bo)
+- [CleanGeek: a free Windows cleaner with no registry cleaner and no upsell](https://dev.to/techygeeks1/cleangeek-a-free-windows-cleaner-with-no-registry-cleaner-and-no-upsell-fa7)
+- [Shadow-Compare the Agent Patch. Merge Only Classified Divergences.](https://dev.to/datacpp_8185/shadow-compare-the-agent-patch-merge-only-classified-divergences-kgm)
+- [OpenAI Rolls Out GPT-6 Astra and Astra Pro Across ChatGPT, API, and Cloud Platforms](https://dev.to/alifar/openai-rolls-out-gpt-6-astra-and-astra-pro-across-chatgpt-api-and-cloud-platforms-194b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
