@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking at what we are Building](https://dev.to/kasir-barati/looking-at-what-we-are-building-1flf)
-- [What actually happens in a database index &lpar;and why half of them do nothing&rpar;](https://dev.to/vladut02/what-actually-happens-in-a-database-index-and-why-half-of-them-do-nothing-3mh6)
-- [Liar Liar Pants on Fire](https://dev.to/alexiskroberson/liar-liar-pants-on-fire-56ki)
-- [Save Our Developers and Engineers — AI Is Stealing Our Jobs](https://dev.to/opaul/save-our-developers-and-engineers-ai-is-stealing-our-jobs-4hff)
-- [Trying VLA &lpar;Part 6&rpar;: Controlling LeRobot with a SpaceMouse](https://dev.to/takeofuture/trying-vla-part-6-controlling-lerobot-with-a-spacemouse-4ap8)
+- [Give Your Coding Agent Eyes](https://dev.to/zeflq/give-your-coding-agent-eyes-4mmj)
+- [What Actually Happens When You Round an RGB Triplet to a HEX Code](https://dev.to/lizely/what-actually-happens-when-you-round-an-rgb-triplet-to-a-hex-code-180p)
+- [Backtest 63.7%, production AUC 0.51 - a postmortem](https://dev.to/khavel/backtest-637-production-auc-051-a-postmortem-2alc)
+- [Why my prerendered pages shipped with three &lt;title&gt; tags](https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal)
+- [Getting Work Off the Main Thread: Isolates Without the Hand-Waving](https://dev.to/devshakib/getting-work-off-the-main-thread-isolates-without-the-hand-waving-41nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
