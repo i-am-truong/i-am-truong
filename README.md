@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Tea on Teamwork: Week One of My i.c.stars Tech Internship](https://dev.to/keenenwilkins/the-tea-on-teamwork-week-one-of-my-icstars-tech-internship-k3o)
-- [From API to GPU, Week 6 &lpar;Part 2&rpar;: Watching a Neural Network Learn](https://dev.to/dramasamy/from-api-to-gpu-week-6-part-2-watching-a-neural-network-learn-2pef)
-- [From API to GPU, Week 6 &lpar;Part 1&rpar;: A Model That Predicts, and How Wrong It Is](https://dev.to/dramasamy/from-api-to-gpu-week-6-part-1-a-model-that-predicts-and-how-wrong-it-is-3d80)
-- [Tennis, football and basketball results as clean JSON, without a sports data contract](https://dev.to/clearfetch/tennis-football-and-basketball-results-as-clean-json-without-a-sports-data-contract-3b19)
-- [How to find every Shopify store in a list of 10,000 domains](https://dev.to/clearfetch/how-to-find-every-shopify-store-in-a-list-of-10000-domains-m89)
+- [Looking at what we are Building](https://dev.to/kasir-barati/looking-at-what-we-are-building-1flf)
+- [What actually happens in a database index &lpar;and why half of them do nothing&rpar;](https://dev.to/vladut02/what-actually-happens-in-a-database-index-and-why-half-of-them-do-nothing-3mh6)
+- [Liar Liar Pants on Fire](https://dev.to/alexiskroberson/liar-liar-pants-on-fire-56ki)
+- [Save Our Developers and Engineers — AI Is Stealing Our Jobs](https://dev.to/opaul/save-our-developers-and-engineers-ai-is-stealing-our-jobs-4hff)
+- [Trying VLA &lpar;Part 6&rpar;: Controlling LeRobot with a SpaceMouse](https://dev.to/takeofuture/trying-vla-part-6-controlling-lerobot-with-a-spacemouse-4ap8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
