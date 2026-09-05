@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Dotguard: What Writing Detection Rules Taught Me About Developer Habits](https://dev.to/ke_jia_24bb2f9f84f14f728a/building-dotguard-what-writing-detection-rules-taught-me-about-developer-habits-1i6e)
-- [How I Built a Zero-Latency Open Graph &amp; SERP Previewer with Next.js](https://dev.to/amrgharzuae/how-i-built-a-zero-latency-open-graph-serp-previewer-with-nextjs-4b9m)
-- [Self-Improving AI Agents บทที่ 6: Hype vs Reality + ความเสี่ยงและอนาคต](https://dev.to/sarantoon/self-improving-ai-agents-bththii-6-hype-vs-reality-khwaamesiiyngaelanaakht-2h88)
-- [Self-Improving AI Agents บทที่ 5: GVU Operator และ Recursive Self-Improvement](https://dev.to/sarantoon/self-improving-ai-agents-bththii-5-gvu-operator-aela-recursive-self-improvement-3df8)
-- [Clean Start, Clean Deps: Why Template Choice Affects Your Security Posture](https://dev.to/ke_jia_24bb2f9f84f14f728a/clean-start-clean-deps-why-template-choice-affects-your-security-posture-3jj8)
+- [Your AI Character Looks Right—Except Every Asymmetric Detail Flipped](https://dev.to/nomurasan/your-ai-character-looks-right-except-every-asymmetric-detail-flipped-38k3)
+- [The Dedicated OCR Engine Lost to the General-Purpose Model — 300 Slower](https://dev.to/hexisteme/the-dedicated-ocr-engine-lost-to-the-general-purpose-model-300x-slower-2bf7)
+- [A coding assistant drafted my Nginx config. Here’s what I still had to verify](https://dev.to/aardnsyhs/a-coding-assistant-drafted-my-nginx-config-heres-what-i-still-had-to-verify-2e4j)
+- [Building an Interactive Excel Dashboard.](https://dev.to/kbonymark/building-an-interactive-excel-dashboard-2329)
+- [badblocks dies instantly on 8TB+ drives — the -b 4096 fix](https://dev.to/vainamoinen/badblocks-dies-instantly-on-8tb-drives-the-b-4096-fix-dg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
