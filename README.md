@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built the Same Product Twice. Only 6% of It Carried Over.](https://dev.to/mikefluff/we-built-the-same-product-twice-only-6-of-it-carried-over-37ii)
-- [Mastering HRV: Building a Stress Predictor with Random Forest, LSTM, and Wearable Data](https://dev.to/beck_moulton/mastering-hrv-building-a-stress-predictor-with-random-forest-lstm-and-wearable-data-35bo)
-- [CleanGeek: a free Windows cleaner with no registry cleaner and no upsell](https://dev.to/techygeeks1/cleangeek-a-free-windows-cleaner-with-no-registry-cleaner-and-no-upsell-fa7)
-- [Shadow-Compare the Agent Patch. Merge Only Classified Divergences.](https://dev.to/datacpp_8185/shadow-compare-the-agent-patch-merge-only-classified-divergences-kgm)
-- [OpenAI Rolls Out GPT-6 Astra and Astra Pro Across ChatGPT, API, and Cloud Platforms](https://dev.to/alifar/openai-rolls-out-gpt-6-astra-and-astra-pro-across-chatgpt-api-and-cloud-platforms-194b)
+- [Building Dotguard: What Writing Detection Rules Taught Me About Developer Habits](https://dev.to/ke_jia_24bb2f9f84f14f728a/building-dotguard-what-writing-detection-rules-taught-me-about-developer-habits-1i6e)
+- [How I Built a Zero-Latency Open Graph &amp; SERP Previewer with Next.js](https://dev.to/amrgharzuae/how-i-built-a-zero-latency-open-graph-serp-previewer-with-nextjs-4b9m)
+- [Self-Improving AI Agents บทที่ 6: Hype vs Reality + ความเสี่ยงและอนาคต](https://dev.to/sarantoon/self-improving-ai-agents-bththii-6-hype-vs-reality-khwaamesiiyngaelanaakht-2h88)
+- [Self-Improving AI Agents บทที่ 5: GVU Operator และ Recursive Self-Improvement](https://dev.to/sarantoon/self-improving-ai-agents-bththii-5-gvu-operator-aela-recursive-self-improvement-3df8)
+- [Clean Start, Clean Deps: Why Template Choice Affects Your Security Posture](https://dev.to/ke_jia_24bb2f9f84f14f728a/clean-start-clean-deps-why-template-choice-affects-your-security-posture-3jj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
