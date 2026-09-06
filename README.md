@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Development with Kiro: The Hidden DevSecOps Layer — Closing the Loop](https://dev.to/aws-builders/agentic-ai-development-with-kiro-the-hidden-devsecops-layer-closing-the-loop-3657)
-- [Whisper.cpp Vulkan on Arch: A Detective Story With No Crime](https://dev.to/hopsayer/whispercpp-vulkan-on-arch-a-detective-story-with-no-crime-3nl4)
-- [Amparo: applying for food aid without reading a single word](https://dev.to/lluisestape/amparo-applying-for-food-aid-without-reading-a-single-word-2mfi)
-- [Shopify&#39;s agent-commerce category filter doesn&#39;t filter. We checked 190 stores.](https://dev.to/bpmcginley/shopifys-agent-commerce-category-filter-doesnt-filter-we-checked-190-stores-1na2)
-- [133 of 10,099 Shopify stores block an AI crawler. Six block the one ChatGPT shops with.](https://dev.to/bpmcginley/133-of-10099-shopify-stores-block-an-ai-crawler-six-block-the-one-chatgpt-shops-with-13ec)
+- [Working: HTTP parameter pollution attacks APIs because WAFs evaluate one parameter value while frameworks execute a different one](https://dev.to/roxdavirox/working-http-parameter-pollution-attacks-apis-because-wafs-evaluate-one-parameter-value-while-35jd)
+- [SSRF in APIs: Six URL-Accepting Parameter Types and the IMDSv1/IMDSv2 Decision That Determines Severity](https://dev.to/roxdavirox/ssrf-in-apis-six-url-accepting-parameter-types-and-the-imdsv1imdsv2-decision-that-determines-35i0)
+- [Your agent orchestrator is a black box. Mine is a folder.](https://dev.to/tempolong/your-agent-orchestrator-is-a-black-box-mine-is-a-folder-16ag)
+- [Working: Prototype Pollution in Node.js APIs Is a Process-Wide Trust Failure, Not a Library Bug](https://dev.to/roxdavirox/working-prototype-pollution-in-nodejs-apis-is-a-process-wide-trust-failure-not-a-library-bug-hl8)
+- [Speculative decoding won&#39;t change your model&#39;s distribution. It might still change your output.](https://dev.to/narotra05hp/speculative-decoding-wont-change-your-models-distribution-it-might-still-change-your-output-3de8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
