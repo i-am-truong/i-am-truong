@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [readm3 can edit now, and it speaks Reddit](https://dev.to/chovy/readm3-can-edit-now-and-it-speaks-reddit-1be4)
-- [AI Can Write the Code. Your Real Job Is Becoming the Reviewer — Here’s How to Do It Properly](https://dev.to/robertadam987_/ai-can-write-the-code-your-real-job-is-becoming-the-reviewer-heres-how-to-do-it-properly-551l)
-- [Giving AI Agents the Same RBAC Rules as Your Users: Building a Laravel Permission Layer LLMs Actually Respect](https://dev.to/hosseinhezami/giving-ai-agents-the-same-rbac-rules-as-your-users-building-a-laravel-permission-layer-llms-189)
-- [Texttile, a multiplayer blog engine for people who write together](https://dev.to/klausbreyer/texttile-a-multiplayer-blog-engine-for-people-who-write-together-1f7f)
-- [snmpwalk Works. Is Your Monitoring Actually Ready?](https://dev.to/nw_field_memo/snmpwalk-works-is-your-monitoring-actually-ready-51m5)
+- [Next.js 15 next/form: Stop Writing Search Form Boilerplate](https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke)
+- [Contribution Margin and Break-Even: The Fixed Cost That Does Not Belong in the Unit](https://dev.to/michaelnocito/contribution-margin-and-break-even-the-fixed-cost-that-does-not-belong-in-the-unit-3lbn)
+- [SUM vs SUMX in DAX: Why a Row-by-Row Calculation Needs an Iterator](https://dev.to/michaelnocito/sum-vs-sumx-in-dax-why-a-row-by-row-calculation-needs-an-iterator-468a)
+- [Why Verification Asks You to Leave the Language You Ship](https://dev.to/thechrisin/why-verification-asks-you-to-leave-the-language-you-ship-1h32)
+- [A Straightforward Guide for MVCC in Postgres](https://dev.to/eyochen/a-straightforward-guide-for-mvcc-in-postgres-15b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
