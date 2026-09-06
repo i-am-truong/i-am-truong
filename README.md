@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Working: HTTP parameter pollution attacks APIs because WAFs evaluate one parameter value while frameworks execute a different one](https://dev.to/roxdavirox/working-http-parameter-pollution-attacks-apis-because-wafs-evaluate-one-parameter-value-while-35jd)
-- [SSRF in APIs: Six URL-Accepting Parameter Types and the IMDSv1/IMDSv2 Decision That Determines Severity](https://dev.to/roxdavirox/ssrf-in-apis-six-url-accepting-parameter-types-and-the-imdsv1imdsv2-decision-that-determines-35i0)
-- [Your agent orchestrator is a black box. Mine is a folder.](https://dev.to/tempolong/your-agent-orchestrator-is-a-black-box-mine-is-a-folder-16ag)
-- [Working: Prototype Pollution in Node.js APIs Is a Process-Wide Trust Failure, Not a Library Bug](https://dev.to/roxdavirox/working-prototype-pollution-in-nodejs-apis-is-a-process-wide-trust-failure-not-a-library-bug-hl8)
-- [Speculative decoding won&#39;t change your model&#39;s distribution. It might still change your output.](https://dev.to/narotra05hp/speculative-decoding-wont-change-your-models-distribution-it-might-still-change-your-output-3de8)
+- [readm3 can edit now, and it speaks Reddit](https://dev.to/chovy/readm3-can-edit-now-and-it-speaks-reddit-1be4)
+- [AI Can Write the Code. Your Real Job Is Becoming the Reviewer — Here’s How to Do It Properly](https://dev.to/robertadam987_/ai-can-write-the-code-your-real-job-is-becoming-the-reviewer-heres-how-to-do-it-properly-551l)
+- [Giving AI Agents the Same RBAC Rules as Your Users: Building a Laravel Permission Layer LLMs Actually Respect](https://dev.to/hosseinhezami/giving-ai-agents-the-same-rbac-rules-as-your-users-building-a-laravel-permission-layer-llms-189)
+- [Texttile, a multiplayer blog engine for people who write together](https://dev.to/klausbreyer/texttile-a-multiplayer-blog-engine-for-people-who-write-together-1f7f)
+- [snmpwalk Works. Is Your Monitoring Actually Ready?](https://dev.to/nw_field_memo/snmpwalk-works-is-your-monitoring-actually-ready-51m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
