@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Charity money follows the news cycle. I built a Blink that splits it evenly instead](https://dev.to/ali_hamza_4bd92ee9f67e78702/charity-money-follows-the-news-cycle-i-built-a-blink-that-splits-it-evenly-instead-83p)
-- [Compare Against the Schema They Shipped, Not the One You Expected](https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8)
-- [Freeze the Retry Budget Before the Percentage](https://dev.to/apppro_5726/freeze-the-retry-budget-before-the-percentage-5bjn)
-- [Five Code Paths Write the Same Subscription Row. On Purpose.](https://dev.to/nabeelbaghoor/five-code-paths-write-the-same-subscription-row-on-purpose-25f7)
-- [When Free Inference Should Not Own the Contract](https://dev.to/aiio_6471/when-free-inference-should-not-own-the-contract-53dn)
+- [Proof of Good: Turning Acts of Generosity Into Digital Memories](https://dev.to/yinkaabeeb/proof-of-good-turning-acts-of-generosity-into-digital-memories-5a4i)
+- [Beyond the Transformer FFN: How CellularFlow Solves Catastrophic Forgetting](https://dev.to/celcilin/beyond-the-transformer-ffn-how-cellularflow-solves-catastrophic-forgetting-1p5)
+- [Turn a website security finding into a client-ready next step](https://dev.to/glarion/turn-a-website-security-finding-into-a-client-ready-next-step-5cch)
+- [Designing the Risk Engine Behind CIDS](https://dev.to/cybermoranda/designing-the-risk-engine-behind-cids-59mm)
+- [PII Meets GenAI: What Actually Happens When Sensitive Data Enters Your Prompt?](https://dev.to/jaimin_suketupatel_da0e0/pii-meets-genai-what-actually-happens-when-sensitive-data-enters-your-prompt-41gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
