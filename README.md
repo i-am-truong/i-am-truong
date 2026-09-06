@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 next/form: Stop Writing Search Form Boilerplate](https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke)
-- [Contribution Margin and Break-Even: The Fixed Cost That Does Not Belong in the Unit](https://dev.to/michaelnocito/contribution-margin-and-break-even-the-fixed-cost-that-does-not-belong-in-the-unit-3lbn)
-- [SUM vs SUMX in DAX: Why a Row-by-Row Calculation Needs an Iterator](https://dev.to/michaelnocito/sum-vs-sumx-in-dax-why-a-row-by-row-calculation-needs-an-iterator-468a)
-- [Why Verification Asks You to Leave the Language You Ship](https://dev.to/thechrisin/why-verification-asks-you-to-leave-the-language-you-ship-1h32)
-- [A Straightforward Guide for MVCC in Postgres](https://dev.to/eyochen/a-straightforward-guide-for-mvcc-in-postgres-15b4)
+- [Your audit log is probably lying to you. Postgres 18 fixes it in one statement.](https://dev.to/remdore/your-audit-log-is-probably-lying-to-you-postgres-18-fixes-it-in-one-statement-15nb)
+- [From adapter to deployment: merging LoRA weights and serving with vLLM or a Space](https://dev.to/pranjulrathour/from-adapter-to-deployment-merging-lora-weights-and-serving-with-vllm-or-a-space-29o)
+- [Authenticate a React Telegram Mini App against your PHP API with initData and JWT](https://dev.to/serhii_a9c08345ac360cf5c8/authenticate-a-react-telegram-mini-app-against-your-php-api-with-initdata-and-jwt-433g)
+- [Why I Rewrote Four Services in Go](https://dev.to/medampudi/why-i-rewrote-four-services-in-go-2i0p)
+- [Cloud Cost Management: Your Bill Is a Product Metric](https://dev.to/medampudi/cloud-cost-management-your-bill-is-a-product-metric-l3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
