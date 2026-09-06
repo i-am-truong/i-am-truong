@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Agent from Your Existing REST API — Without an MCP Server](https://dev.to/raiyan_hasan_857d2fb07211/how-to-build-an-ai-agent-from-your-existing-rest-api-without-an-mcp-server-3f3c)
-- [Prapatti AI: Restoring Digital Independence for the Disabled with Gemini-Powered Navigation](https://dev.to/solomon1029/prapatti-ai-restoring-digital-independence-for-the-disabled-with-gemini-powered-navigation-ml9)
-- [# Chapter 90 — Secure AI Platform Security Analytics &amp; Threat Detection](https://dev.to/black_shadow_team/-chapter-90-secure-ai-platform-security-analytics-threat-detection-53a1)
-- [QF Solver 0.2.7: Building an Inspectable Python FEM Solver with Reproducible V&amp;V](https://dev.to/emptiesvoidcloud/qf-solver-027-building-an-inspectable-python-fem-solver-with-reproducible-vv-27c2)
-- [How to Spot 2026 Election Deepfakes in the US, Mexico &amp; France](https://dev.to/leojulieta/how-to-spot-2026-election-deepfakes-in-the-us-mexico-france-1dgp)
+- [The money was already approved. It stopped at a sheet of paper nobody could read.](https://dev.to/abeera_lodhi/the-money-was-already-approved-it-stopped-at-a-sheet-of-paper-nobody-could-read-2o3d)
+- [VoiceStudio: A 100% Local, Open-Source Alternative to ElevenLabs](https://dev.to/terminalchai/voicestudio-a-100-local-open-source-alternative-to-elevenlabs-4bd)
+- [La Liga&#39;s Web Accessibility Table: How Do Clubs Actually Score?](https://dev.to/alvaromontoro/la-ligas-web-accessibility-table-how-do-clubs-actually-score-21ib)
+- [Be generous - Calculate how much you owe to the needy](https://dev.to/itsmefminsaf/be-generous-calculate-how-much-you-owe-to-the-needy-545m)
+- [OpenPledge: See Exactly Where Your Donation Goes &lpar;Blockchain + AI for Charity&rpar;](https://dev.to/sanjaysah/openpledge-see-exactly-where-your-donation-goes-blockchain-ai-for-charity-2a1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
