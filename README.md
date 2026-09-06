@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The money was already approved. It stopped at a sheet of paper nobody could read.](https://dev.to/abeera_lodhi/the-money-was-already-approved-it-stopped-at-a-sheet-of-paper-nobody-could-read-2o3d)
-- [VoiceStudio: A 100% Local, Open-Source Alternative to ElevenLabs](https://dev.to/terminalchai/voicestudio-a-100-local-open-source-alternative-to-elevenlabs-4bd)
-- [La Liga&#39;s Web Accessibility Table: How Do Clubs Actually Score?](https://dev.to/alvaromontoro/la-ligas-web-accessibility-table-how-do-clubs-actually-score-21ib)
-- [Be generous - Calculate how much you owe to the needy](https://dev.to/itsmefminsaf/be-generous-calculate-how-much-you-owe-to-the-needy-545m)
-- [OpenPledge: See Exactly Where Your Donation Goes &lpar;Blockchain + AI for Charity&rpar;](https://dev.to/sanjaysah/openpledge-see-exactly-where-your-donation-goes-blockchain-ai-for-charity-2a1k)
+- [Charity money follows the news cycle. I built a Blink that splits it evenly instead](https://dev.to/ali_hamza_4bd92ee9f67e78702/charity-money-follows-the-news-cycle-i-built-a-blink-that-splits-it-evenly-instead-83p)
+- [Compare Against the Schema They Shipped, Not the One You Expected](https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8)
+- [Freeze the Retry Budget Before the Percentage](https://dev.to/apppro_5726/freeze-the-retry-budget-before-the-percentage-5bjn)
+- [Five Code Paths Write the Same Subscription Row. On Purpose.](https://dev.to/nabeelbaghoor/five-code-paths-write-the-same-subscription-row-on-purpose-25f7)
+- [When Free Inference Should Not Own the Contract](https://dev.to/aiio_6471/when-free-inference-should-not-own-the-contract-53dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
