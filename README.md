@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your audit log is probably lying to you. Postgres 18 fixes it in one statement.](https://dev.to/remdore/your-audit-log-is-probably-lying-to-you-postgres-18-fixes-it-in-one-statement-15nb)
-- [From adapter to deployment: merging LoRA weights and serving with vLLM or a Space](https://dev.to/pranjulrathour/from-adapter-to-deployment-merging-lora-weights-and-serving-with-vllm-or-a-space-29o)
-- [Authenticate a React Telegram Mini App against your PHP API with initData and JWT](https://dev.to/serhii_a9c08345ac360cf5c8/authenticate-a-react-telegram-mini-app-against-your-php-api-with-initdata-and-jwt-433g)
-- [Why I Rewrote Four Services in Go](https://dev.to/medampudi/why-i-rewrote-four-services-in-go-2i0p)
-- [Cloud Cost Management: Your Bill Is a Product Metric](https://dev.to/medampudi/cloud-cost-management-your-bill-is-a-product-metric-l3h)
+- [How to Build an AI Agent from Your Existing REST API — Without an MCP Server](https://dev.to/raiyan_hasan_857d2fb07211/how-to-build-an-ai-agent-from-your-existing-rest-api-without-an-mcp-server-3f3c)
+- [Prapatti AI: Restoring Digital Independence for the Disabled with Gemini-Powered Navigation](https://dev.to/solomon1029/prapatti-ai-restoring-digital-independence-for-the-disabled-with-gemini-powered-navigation-ml9)
+- [# Chapter 90 — Secure AI Platform Security Analytics &amp; Threat Detection](https://dev.to/black_shadow_team/-chapter-90-secure-ai-platform-security-analytics-threat-detection-53a1)
+- [QF Solver 0.2.7: Building an Inspectable Python FEM Solver with Reproducible V&amp;V](https://dev.to/emptiesvoidcloud/qf-solver-027-building-an-inspectable-python-fem-solver-with-reproducible-vv-27c2)
+- [How to Spot 2026 Election Deepfakes in the US, Mexico &amp; France](https://dev.to/leojulieta/how-to-spot-2026-election-deepfakes-in-the-us-mexico-france-1dgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
