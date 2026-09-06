@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Give Your Coding Agent Eyes](https://dev.to/zeflq/give-your-coding-agent-eyes-4mmj)
-- [What Actually Happens When You Round an RGB Triplet to a HEX Code](https://dev.to/lizely/what-actually-happens-when-you-round-an-rgb-triplet-to-a-hex-code-180p)
-- [Backtest 63.7%, production AUC 0.51 - a postmortem](https://dev.to/khavel/backtest-637-production-auc-051-a-postmortem-2alc)
-- [Why my prerendered pages shipped with three &lt;title&gt; tags](https://dev.to/dquillman/why-my-prerendered-pages-shipped-with-three-tags-3aal)
-- [Getting Work Off the Main Thread: Isolates Without the Hand-Waving](https://dev.to/devshakib/getting-work-off-the-main-thread-isolates-without-the-hand-waving-41nd)
+- [Agentic AI Development with Kiro: The Hidden DevSecOps Layer — Closing the Loop](https://dev.to/aws-builders/agentic-ai-development-with-kiro-the-hidden-devsecops-layer-closing-the-loop-3657)
+- [Whisper.cpp Vulkan on Arch: A Detective Story With No Crime](https://dev.to/hopsayer/whispercpp-vulkan-on-arch-a-detective-story-with-no-crime-3nl4)
+- [Amparo: applying for food aid without reading a single word](https://dev.to/lluisestape/amparo-applying-for-food-aid-without-reading-a-single-word-2mfi)
+- [Shopify&#39;s agent-commerce category filter doesn&#39;t filter. We checked 190 stores.](https://dev.to/bpmcginley/shopifys-agent-commerce-category-filter-doesnt-filter-we-checked-190-stores-1na2)
+- [133 of 10,099 Shopify stores block an AI crawler. Six block the one ChatGPT shops with.](https://dev.to/bpmcginley/133-of-10099-shopify-stores-block-an-ai-crawler-six-block-the-one-chatgpt-shops-with-13ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
