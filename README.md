@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blind Replay Before Merge: Keep Only the Agent Diff a Clean Environment Recreates](https://dev.to/codehub_1304/blind-replay-before-merge-keep-only-the-agent-diff-a-clean-environment-recreates-5ad6)
-- [I tried removing burned-in text from videos with VideoDetext](https://dev.to/drift_boss_a434be123b673d/i-tried-removing-burned-in-text-from-videos-with-videodetext-kb9)
-- [From AI Solutions to Shared Knowledge: Building an MCP for the Community](https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk)
-- [Charitas Clew: Bureaucracy is heavy. Let&#39;s build the counterweight with Google AI.](https://dev.to/earlgreyhot1701d/charitas-clew-bureaucracy-is-heavy-lets-build-the-counterweight-with-google-ai-1p5k)
-- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
+- [Dari DevHandal Batch 2, Mengenal Lebih Jauh Tencent EdgeOne Makers](https://dev.to/nadifaazmif/dari-devhandal-batch-2-mengenal-lebih-jauh-tencent-edgeone-makers-3h2m)
+- [The infrastructure I run alone for a transactional email API](https://dev.to/greg_pabijanmorawski/the-infrastructure-i-run-alone-for-a-transactional-email-api-1l9i)
+- [The Agentic Coding Era Is Here: How Autonomous AI Coding Agents Are Rewriting the SDLC](https://dev.to/monuminu/the-agentic-coding-era-is-here-how-autonomous-ai-coding-agents-are-rewriting-the-sdlc-5dpa)
+- [Probador virtual IA en Google Fotos: impulsa tu tienda online](https://dev.to/leojulieta/probador-virtual-ia-en-google-fotos-impulsa-tu-tienda-online-244a)
+- [Integrate Prettier with Astro and Tailwind CSS](https://dev.to/seppegadeyne/integrate-prettier-with-astro-and-tailwind-css-58ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
