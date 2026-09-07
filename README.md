@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Now Runs 3.1 Agent-Workdays Per Human Workday: What Freelancers Should Learn About AI Productivity in 2026](https://dev.to/marcusykim/openai-now-runs-31-agent-workdays-per-human-workday-what-freelancers-should-learn-about-ai-3j2o)
-- [Enjoying coding again](https://dev.to/mmar58/enjoying-coding-again-3mpm)
-- [Zero-Budget Web Dev: Moving from Discord/Drive to Google Sites](https://dev.to/kadmium/zero-budget-web-dev-moving-from-discorddrive-to-google-sites-2bm9)
-- [NextAuth / Auth.js Database Schema Explained](https://dev.to/not_varunkv/nextauth-authjs-database-schema-explained-13d2)
-- [Understanding the Replication Queue in ClickHouse](https://dev.to/mohhddhassan/understanding-the-replication-queue-in-clickhouse-gl6)
+- [Faker Doesn&#39;t Know Your Entities Are Related, So I Built Something That Does](https://dev.to/themba/faker-doesnt-know-your-entities-are-related-so-i-built-something-that-does-2jgn)
+- [Security Foundations Behind Reliable AI Systems](https://dev.to/josemariaosuorah/security-foundations-behind-reliable-ai-systems-5413)
+- [Your AI Agent Has an OAuth Token. Does It Have an Identity?](https://dev.to/fathin_dosunmu/your-ai-agent-has-an-oauth-token-does-it-have-an-identity-a9h)
+- [From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms](https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-57fh)
+- [Networking Foundations for Modern Edge &amp; IoT Systems](https://dev.to/josemariaosuorah/networking-foundations-for-modern-edge-iot-systems-43n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
