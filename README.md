@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a React CRUD App on Salesforce with GraphQL](https://dev.to/exploring_agentforce/building-a-react-crud-app-on-salesforce-with-graphql-n44)
-- [Your Chatbot Verified the Price, Then Pasted It Into a Sentence It Wrote](https://dev.to/hayrullahkar/your-chatbot-verified-the-price-then-pasted-it-into-a-sentence-it-wrote-5a20)
-- [Open-weights LLMs vs frontier APIs: when to rent, when to own](https://dev.to/tyler007/open-weights-llms-vs-frontier-apis-when-to-rent-when-to-own-4bdg)
-- [Cool &lpar;and Free&rpar; Astro themes you can use for your next site](https://dev.to/climentea/cool-and-free-astro-themes-you-can-use-for-your-next-site-19ke)
-- [Building a Prompt-Based Video Object Removal Pipeline](https://dev.to/_67f1d28fb6524be411d1f/building-a-prompt-based-video-object-removal-pipeline-4ib9)
+- [OpenAI Now Runs 3.1 Agent-Workdays Per Human Workday: What Freelancers Should Learn About AI Productivity in 2026](https://dev.to/marcusykim/openai-now-runs-31-agent-workdays-per-human-workday-what-freelancers-should-learn-about-ai-3j2o)
+- [Enjoying coding again](https://dev.to/mmar58/enjoying-coding-again-3mpm)
+- [Zero-Budget Web Dev: Moving from Discord/Drive to Google Sites](https://dev.to/kadmium/zero-budget-web-dev-moving-from-discorddrive-to-google-sites-2bm9)
+- [NextAuth / Auth.js Database Schema Explained](https://dev.to/not_varunkv/nextauth-authjs-database-schema-explained-13d2)
+- [Understanding the Replication Queue in ClickHouse](https://dev.to/mohhddhassan/understanding-the-replication-queue-in-clickhouse-gl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
