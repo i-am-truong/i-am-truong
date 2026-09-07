@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Proof of Good: Turning Acts of Generosity Into Digital Memories](https://dev.to/yinkaabeeb/proof-of-good-turning-acts-of-generosity-into-digital-memories-5a4i)
-- [Beyond the Transformer FFN: How CellularFlow Solves Catastrophic Forgetting](https://dev.to/celcilin/beyond-the-transformer-ffn-how-cellularflow-solves-catastrophic-forgetting-1p5)
-- [Turn a website security finding into a client-ready next step](https://dev.to/glarion/turn-a-website-security-finding-into-a-client-ready-next-step-5cch)
-- [Designing the Risk Engine Behind CIDS](https://dev.to/cybermoranda/designing-the-risk-engine-behind-cids-59mm)
-- [PII Meets GenAI: What Actually Happens When Sensitive Data Enters Your Prompt?](https://dev.to/jaimin_suketupatel_da0e0/pii-meets-genai-what-actually-happens-when-sensitive-data-enters-your-prompt-41gk)
+- [Blind Replay Before Merge: Keep Only the Agent Diff a Clean Environment Recreates](https://dev.to/codehub_1304/blind-replay-before-merge-keep-only-the-agent-diff-a-clean-environment-recreates-5ad6)
+- [I tried removing burned-in text from videos with VideoDetext](https://dev.to/drift_boss_a434be123b673d/i-tried-removing-burned-in-text-from-videos-with-videodetext-kb9)
+- [From AI Solutions to Shared Knowledge: Building an MCP for the Community](https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk)
+- [Charitas Clew: Bureaucracy is heavy. Let&#39;s build the counterweight with Google AI.](https://dev.to/earlgreyhot1701d/charitas-clew-bureaucracy-is-heavy-lets-build-the-counterweight-with-google-ai-1p5k)
+- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
