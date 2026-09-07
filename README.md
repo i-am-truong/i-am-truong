@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dari DevHandal Batch 2, Mengenal Lebih Jauh Tencent EdgeOne Makers](https://dev.to/nadifaazmif/dari-devhandal-batch-2-mengenal-lebih-jauh-tencent-edgeone-makers-3h2m)
-- [The infrastructure I run alone for a transactional email API](https://dev.to/greg_pabijanmorawski/the-infrastructure-i-run-alone-for-a-transactional-email-api-1l9i)
-- [The Agentic Coding Era Is Here: How Autonomous AI Coding Agents Are Rewriting the SDLC](https://dev.to/monuminu/the-agentic-coding-era-is-here-how-autonomous-ai-coding-agents-are-rewriting-the-sdlc-5dpa)
-- [Probador virtual IA en Google Fotos: impulsa tu tienda online](https://dev.to/leojulieta/probador-virtual-ia-en-google-fotos-impulsa-tu-tienda-online-244a)
-- [Integrate Prettier with Astro and Tailwind CSS](https://dev.to/seppegadeyne/integrate-prettier-with-astro-and-tailwind-css-58ig)
+- [Building a React CRUD App on Salesforce with GraphQL](https://dev.to/exploring_agentforce/building-a-react-crud-app-on-salesforce-with-graphql-n44)
+- [Your Chatbot Verified the Price, Then Pasted It Into a Sentence It Wrote](https://dev.to/hayrullahkar/your-chatbot-verified-the-price-then-pasted-it-into-a-sentence-it-wrote-5a20)
+- [Open-weights LLMs vs frontier APIs: when to rent, when to own](https://dev.to/tyler007/open-weights-llms-vs-frontier-apis-when-to-rent-when-to-own-4bdg)
+- [Cool &lpar;and Free&rpar; Astro themes you can use for your next site](https://dev.to/climentea/cool-and-free-astro-themes-you-can-use-for-your-next-site-19ke)
+- [Building a Prompt-Based Video Object Removal Pipeline](https://dev.to/_67f1d28fb6524be411d1f/building-a-prompt-based-video-object-removal-pipeline-4ib9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
