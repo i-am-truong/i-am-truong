@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Secrets In, Proofs Out: How Witnesses Power Midnight Privacy](https://dev.to/anshsonkusare/secrets-in-proofs-out-how-witnesses-power-midnight-privacy-10cn)
-- [Building My CCNA Packet Tracer Lab Collection](https://dev.to/abderaouf-b/building-my-ccna-packet-tracer-lab-collection-15fd)
-- [PyScript](https://dev.to/meroline_lizlent/pyscript-29de)
-- [How to Build Production-Ready AI Agents with LangGraph](https://dev.to/ciphernutz/how-to-build-production-ready-ai-agents-with-langgraph-5b2h)
-- [What I Wish I Knew in My First Year as a Cloud Associate](https://dev.to/muskan_bandta/what-i-wish-i-knew-in-my-first-year-as-a-cloud-associate-1cgo)
+- [I Built Formal Verification for Compiled Sekura JS Programs with SJV and Z3](https://dev.to/jupitersoft/i-built-formal-verification-for-compiled-sekura-js-programs-with-sjv-and-z3-37md)
+- [Docker Security Dispatch — Issue 6: Wait Five Days, Take a SIP ☕](https://dev.to/docker/docker-security-dispatch-issue-6-wait-five-days-take-a-sip-51m5)
+- [One symptom, ten problems: a Kotlin + Spring Boot + Kafka debugging case](https://dev.to/marketing_explyt_a7b53da9/one-symptom-ten-problems-a-kotlin-spring-boot-kafka-debugging-case-k4j)
+- [Top 4 Open-Weight Coding Models for Local Workstations in Late 2026](https://dev.to/roberts_jakuko_fbc04cb38/top-4-open-weight-coding-models-for-local-workstations-in-late-2026-4fdn)
+- [Top 5 Rust-Powered CLI Utilities to Modernize Your Terminal in 2026](https://dev.to/roberts_jakuko_fbc04cb38/top-5-rust-powered-cli-utilities-to-modernize-your-terminal-in-2026-492h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
