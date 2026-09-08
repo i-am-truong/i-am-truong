@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leanstral 1.5 is a what..?](https://dev.to/simbo1905/leanstral-15-is-a-what-31fa)
-- [One Model Call, Then Deterministic Code: Build a Controllable Tencent RTC Voice Companion](https://dev.to/susiewang/one-model-call-then-deterministic-code-build-a-controllable-tencent-rtc-voice-companion-4b13)
-- [Aidrop on Linux?](https://dev.to/jayf0x/aidrop-on-linux-36kh)
-- [Every sound in my browser game is a few lines of Web Audio &lpar;no files&rpar;](https://dev.to/mighty840/every-sound-in-my-browser-game-is-a-few-lines-of-web-audio-no-files-44an)
-- [Graph Coloring: A Simple Implementation with JavaScript](https://dev.to/frorning/graph-coloring-a-simple-implementation-with-javascript-4jdo)
+- [OpenAI Navier-Stokes Claim Signals a New Test for Multi-Agent AI Research](https://dev.to/alifar/openai-navier-stokes-claim-signals-a-new-test-for-multi-agent-ai-research-4pff)
+- [The Failure Message Had a Checkmark. LANG=C Refused to Print It.](https://dev.to/codepy_1473/the-failure-message-had-a-checkmark-langc-refused-to-print-it-fkd)
+- [In the Age of LLMs, Do Notes and Blogs Still Matter?](https://dev.to/perrinyong/in-the-age-of-llms-do-notes-and-blogs-still-matter-4kd9)
+- [Your AI agent will patch itself. The question is who approves the patch.](https://dev.to/rameswaran_mohan_9c8b5d8f/your-ai-agent-will-patch-itself-the-question-is-who-approves-the-patch-gl)
+- [Dynamic Workflows: Critical Analysis &lpar;pt. II&rpar; &lpar;feat. Fable&rpar;](https://dev.to/hesreallyhim/dynamic-workflows-critical-analysis-pt-ii-feat-fable-258n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
