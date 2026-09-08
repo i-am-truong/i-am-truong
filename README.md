@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Formal Verification for Compiled Sekura JS Programs with SJV and Z3](https://dev.to/jupitersoft/i-built-formal-verification-for-compiled-sekura-js-programs-with-sjv-and-z3-37md)
-- [Docker Security Dispatch — Issue 6: Wait Five Days, Take a SIP ☕](https://dev.to/docker/docker-security-dispatch-issue-6-wait-five-days-take-a-sip-51m5)
-- [One symptom, ten problems: a Kotlin + Spring Boot + Kafka debugging case](https://dev.to/marketing_explyt_a7b53da9/one-symptom-ten-problems-a-kotlin-spring-boot-kafka-debugging-case-k4j)
-- [Top 4 Open-Weight Coding Models for Local Workstations in Late 2026](https://dev.to/roberts_jakuko_fbc04cb38/top-4-open-weight-coding-models-for-local-workstations-in-late-2026-4fdn)
-- [Top 5 Rust-Powered CLI Utilities to Modernize Your Terminal in 2026](https://dev.to/roberts_jakuko_fbc04cb38/top-5-rust-powered-cli-utilities-to-modernize-your-terminal-in-2026-492h)
+- [Leanstral 1.5 is a what..?](https://dev.to/simbo1905/leanstral-15-is-a-what-31fa)
+- [One Model Call, Then Deterministic Code: Build a Controllable Tencent RTC Voice Companion](https://dev.to/susiewang/one-model-call-then-deterministic-code-build-a-controllable-tencent-rtc-voice-companion-4b13)
+- [Aidrop on Linux?](https://dev.to/jayf0x/aidrop-on-linux-36kh)
+- [Every sound in my browser game is a few lines of Web Audio &lpar;no files&rpar;](https://dev.to/mighty840/every-sound-in-my-browser-game-is-a-few-lines-of-web-audio-no-files-44an)
+- [Graph Coloring: A Simple Implementation with JavaScript](https://dev.to/frorning/graph-coloring-a-simple-implementation-with-javascript-4jdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
