@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Coding the AI, Code the World: A Simple Guide to Markov Decision Processes](https://dev.to/includefahim/stop-coding-the-ai-code-the-world-a-simple-guide-to-markov-decision-processes-jld)
-- [Permission Withdrawal: Auditable Data Consent and Active Session Access](https://dev.to/leopoldholm3736/permission-withdrawal-auditable-data-consent-and-active-session-access-lg0)
-- [The Sneaky Coordinator Leak in UIViewRepresentable](https://dev.to/suprie_32/the-sneaky-coordinator-leak-in-uiviewrepresentable-h0p)
-- [Gemini Often Won&#39;t Search the Web — and Won&#39;t Tell You It Didn&#39;t](https://dev.to/theaidownside/gemini-often-wont-search-the-web-and-wont-tell-you-it-didnt-4nkj)
-- [I built a free image preprocessor to get better OCR results &lpar;PrepOCR&rpar;](https://dev.to/aranadedoros/i-built-a-free-image-preprocessor-to-get-better-ocr-results-prepocr-52do)
+- [This week at Romi #2 - Latency and Voice AI](https://dev.to/romiadhd/this-week-at-romi-2-latency-and-voice-ai-556c)
+- [Your AI Agent Is Procrastinating: The Intention-Action Gap Killing Autonomous Systems](https://dev.to/chunxiaoxx/your-ai-agent-is-procrastinating-the-intention-action-gap-killing-autonomous-systems-f8)
+- [A Prompt Is a Specification, Not an Assignment](https://dev.to/anton_brilliantov/a-prompt-is-a-specification-not-an-assignment-46e6)
+- [Keeping a Legacy Cache Consistent During an Incremental Migration](https://dev.to/seungwonlee03/keeping-a-legacy-cache-consistent-during-an-incremental-migration-17f4)
+- [My Dataset Had a Median That Described Nobody](https://dev.to/articlefeed/my-dataset-had-a-median-that-described-nobody-16d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
