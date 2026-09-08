@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Faker Doesn&#39;t Know Your Entities Are Related, So I Built Something That Does](https://dev.to/themba/faker-doesnt-know-your-entities-are-related-so-i-built-something-that-does-2jgn)
-- [Security Foundations Behind Reliable AI Systems](https://dev.to/josemariaosuorah/security-foundations-behind-reliable-ai-systems-5413)
-- [Your AI Agent Has an OAuth Token. Does It Have an Identity?](https://dev.to/fathin_dosunmu/your-ai-agent-has-an-oauth-token-does-it-have-an-identity-a9h)
-- [From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms](https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-57fh)
-- [Networking Foundations for Modern Edge &amp; IoT Systems](https://dev.to/josemariaosuorah/networking-foundations-for-modern-edge-iot-systems-43n9)
+- [Stop Coding the AI, Code the World: A Simple Guide to Markov Decision Processes](https://dev.to/includefahim/stop-coding-the-ai-code-the-world-a-simple-guide-to-markov-decision-processes-jld)
+- [Permission Withdrawal: Auditable Data Consent and Active Session Access](https://dev.to/leopoldholm3736/permission-withdrawal-auditable-data-consent-and-active-session-access-lg0)
+- [The Sneaky Coordinator Leak in UIViewRepresentable](https://dev.to/suprie_32/the-sneaky-coordinator-leak-in-uiviewrepresentable-h0p)
+- [Gemini Often Won&#39;t Search the Web — and Won&#39;t Tell You It Didn&#39;t](https://dev.to/theaidownside/gemini-often-wont-search-the-web-and-wont-tell-you-it-didnt-4nkj)
+- [I built a free image preprocessor to get better OCR results &lpar;PrepOCR&rpar;](https://dev.to/aranadedoros/i-built-a-free-image-preprocessor-to-get-better-ocr-results-prepocr-52do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
