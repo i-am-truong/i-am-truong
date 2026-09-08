@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Navier-Stokes Claim Signals a New Test for Multi-Agent AI Research](https://dev.to/alifar/openai-navier-stokes-claim-signals-a-new-test-for-multi-agent-ai-research-4pff)
-- [The Failure Message Had a Checkmark. LANG=C Refused to Print It.](https://dev.to/codepy_1473/the-failure-message-had-a-checkmark-langc-refused-to-print-it-fkd)
-- [In the Age of LLMs, Do Notes and Blogs Still Matter?](https://dev.to/perrinyong/in-the-age-of-llms-do-notes-and-blogs-still-matter-4kd9)
-- [Your AI agent will patch itself. The question is who approves the patch.](https://dev.to/rameswaran_mohan_9c8b5d8f/your-ai-agent-will-patch-itself-the-question-is-who-approves-the-patch-gl)
-- [Dynamic Workflows: Critical Analysis &lpar;pt. II&rpar; &lpar;feat. Fable&rpar;](https://dev.to/hesreallyhim/dynamic-workflows-critical-analysis-pt-ii-feat-fable-258n)
+- [.NET 10 Generic Math Shift Masking: Catch Overshifts That Now Wrap](https://dev.to/ssukhpinder/net-10-generic-math-shift-masking-catch-overshifts-that-now-wrap-1612)
+- [OpenAI Reports Navier-Stokes Breakthrough, With GPT-6 Astra Used for Lean Verification](https://dev.to/alifar/openai-reports-navier-stokes-breakthrough-with-gpt-6-astra-used-for-lean-verification-19d2)
+- [IonQ Introduces Superion 256 Quantum Computing System](https://dev.to/vpodk/ionq-introduces-superion-256-quantum-computing-system-op9)
+- [myna 0.15.0: myna update](https://dev.to/chovy/myna-0150-myna-update-4dhc)
+- [How to sum a column in a Confluence table](https://dev.to/mikhailklimenko/how-to-sum-a-column-in-a-confluence-table-1nlm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
