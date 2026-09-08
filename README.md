@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This week at Romi #2 - Latency and Voice AI](https://dev.to/romiadhd/this-week-at-romi-2-latency-and-voice-ai-556c)
-- [Your AI Agent Is Procrastinating: The Intention-Action Gap Killing Autonomous Systems](https://dev.to/chunxiaoxx/your-ai-agent-is-procrastinating-the-intention-action-gap-killing-autonomous-systems-f8)
-- [A Prompt Is a Specification, Not an Assignment](https://dev.to/anton_brilliantov/a-prompt-is-a-specification-not-an-assignment-46e6)
-- [Keeping a Legacy Cache Consistent During an Incremental Migration](https://dev.to/seungwonlee03/keeping-a-legacy-cache-consistent-during-an-incremental-migration-17f4)
-- [My Dataset Had a Median That Described Nobody](https://dev.to/articlefeed/my-dataset-had-a-median-that-described-nobody-16d3)
+- [Secrets In, Proofs Out: How Witnesses Power Midnight Privacy](https://dev.to/anshsonkusare/secrets-in-proofs-out-how-witnesses-power-midnight-privacy-10cn)
+- [Building My CCNA Packet Tracer Lab Collection](https://dev.to/abderaouf-b/building-my-ccna-packet-tracer-lab-collection-15fd)
+- [PyScript](https://dev.to/meroline_lizlent/pyscript-29de)
+- [How to Build Production-Ready AI Agents with LangGraph](https://dev.to/ciphernutz/how-to-build-production-ready-ai-agents-with-langgraph-5b2h)
+- [What I Wish I Knew in My First Year as a Cloud Associate](https://dev.to/muskan_bandta/what-i-wish-i-knew-in-my-first-year-as-a-cloud-associate-1cgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
