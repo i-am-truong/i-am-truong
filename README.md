@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4WP-Booking: How One Dental Clinic’s Request Became a Domain-Driven WordPress Booking Platform](https://dev.to/adovgun/4wp-booking-how-one-dental-clinics-request-became-a-domain-driven-wordpress-booking-platform-2fm6)
-- [map&lpar;&rpar; method under the hood](https://dev.to/derrickodhiambo/map-method-under-the-hood-d6m)
-- [A dependency-free snapshot dashboard: http.server + sqlite3, and the ALTER TABLE trap](https://dev.to/takahiro_hashito_a1f3f0dc/a-dependency-free-snapshot-dashboard-httpserver-sqlite3-and-the-alter-table-trap-514o)
-- [ลองใช้แอป LLM บนมือถือ 3 ตัวเต็มเดือน, ตัวที่ดังน้อยสุดกลับทำได้ในสิ่งที่ตัวอื่นทำไม่ได้](https://dev.to/sarantoon/lngaichaep-llm-bnmuuethuue-3-tawetmeduuen-tawthiidangnysudklabthamaidainsingthiitawuuenthamaimaid-4hkh)
-- [Ponytail, ปลั๊กอินที่ทำให้ Claude Code เขียนโค้ดน้อยลง 94% โดยไม่พังฟังก์ชัน](https://dev.to/sarantoon/ponytail-plakinthiithamaih-claude-code-ekhiiynokhdnylng-94-odyaimphangfangkchan-2h85)
+- [The Difference Between an AI Agent That Works and One You Can Trust](https://dev.to/hosseinhezami/the-difference-between-an-ai-agent-that-works-and-one-you-can-trust-4k24)
+- [Networking Needs a Protocol: Build a Consent-First Community Introduction Flow](https://dev.to/susiewang/networking-needs-a-protocol-build-a-consent-first-community-introduction-flow-b4h)
+- [Letting an AI agent follow a relation without widening what it can see](https://dev.to/catidegla/letting-an-ai-agent-follow-a-relation-without-widening-what-it-can-see-3o8l)
+- [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://dev.to/codenameone/rootless-jailbreak-detection-updating-the-signals-not-the-claim-3b1e)
+- [Advanced JSON Path Operations in WebForms Core 2.1](https://dev.to/elanatframework/advanced-json-path-operations-in-webforms-core-21-53gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
