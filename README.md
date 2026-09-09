@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Sprint Review Doesn&#39;t Have a Checkbox for &quot;Agent Did It&quot;](https://dev.to/javiercastromdq/the-sprint-review-doesnt-have-a-checkbox-for-agent-did-it-4fom)
-- [Your AI Adoption Strategy Is Beautiful. Your Codebase Is Not.](https://dev.to/javiercastromdq/your-ai-adoption-strategy-is-beautiful-your-codebase-is-not-1c3)
-- [Give your AI agents real schema context! SchemaCrawler provides three models &lpar;Catalog, ERModel, ImportanceModel&rpar; to turn raw database metadata into agent-ready maps. The ultimate boost for Agentic Coding!](https://dev.to/bekoenig/give-your-ai-agents-real-schema-context-schemacrawler-provides-three-models-catalog-ermodel-19be)
-- [Unifying Agent Orchestration and Model Gateways in Rust: Solving the Stateless Turn Problem](https://dev.to/fcn06/unifying-agent-orchestration-and-model-gateways-in-rust-solving-the-stateless-turn-problem-op2)
-- [What a SOC 2 auditor actually asks about your CI/CD pipeline](https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic)
+- [ChatGPT Adoption by Age in the US: What Pew Data Means for Business AI Rollouts](https://dev.to/alifar/chatgpt-adoption-by-age-in-the-us-what-pew-data-means-for-business-ai-rollouts-580b)
+- [Master planning &lpar;MRP&rpar; module in Dynamics 365 F&amp;O and Infor LN](https://dev.to/deanfachrie/master-planning-mrp-module-in-dynamics-365-fo-and-infor-ln-1bp6)
+- [I shipped a Chrome extension, then found a permission bug and a hidden analytics call in the same week](https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi)
+- [ChatGPT Has an Estimated 67.7 Million US Monthly Users, But Adoption Needs Context](https://dev.to/alifar/chatgpt-has-an-estimated-677-million-us-monthly-users-but-adoption-needs-context-9p0)
+- [Anyone else getting colour changing backgrounds on their user icon?](https://dev.to/unitbuilds/anyone-else-getting-colour-changing-backgrounds-on-their-user-icon-5aje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
