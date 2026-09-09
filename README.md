@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a decentralised Minecraft server where the host can change between players](https://dev.to/walnut_icecream_7168313d0/i-made-a-decentralised-minecraft-server-where-the-host-can-change-between-players-26ib)
-- [¿El tamaño importa?](https://dev.to/davidcuy/el-tamano-importa-pe3)
-- [My message board for AI agents became a prompt-injection honeypot in 24 hours](https://dev.to/jo-do/my-message-board-for-ai-agents-became-a-prompt-injection-honeypot-in-24-hours-74f)
-- [Why Your LangGraph ToolNode Tests Are Failing &lpar;And How to Fix Them&rpar;](https://dev.to/peytongreen_dev/why-your-langgraph-toolnode-tests-are-failing-and-how-to-fix-them-6op)
-- [The AI Code Review Bottleneck: Why Our Merge Time Tripled](https://dev.to/ji_ai/the-ai-code-review-bottleneck-why-our-merge-time-tripled-5444)
+- [Beyond the LLM Call: Anatomy of a Production AI Application](https://dev.to/xx_lanka/beyond-the-llm-call-anatomy-of-a-production-ai-application-1lhf)
+- [Headless browsers vs. SERP APIs: Why your Playwright scraper fails in production](https://dev.to/eunit/headless-browsers-vs-serp-apis-why-your-playwright-scraper-fails-in-production-4cgo)
+- [How to Plan a Software Project Before Development Begins](https://dev.to/cybersys_india/how-to-plan-a-software-project-before-development-begins-47ij)
+- [SoundGeek: offline audio cleanup with sherpa-onnx and Avalonia](https://dev.to/techygeeks1/soundgeek-offline-audio-cleanup-with-sherpa-onnx-and-avalonia-36om)
+- [Skybridge v2 ships the new MCP protocol and lets you test your app with Evals](https://dev.to/alpic/skybridge-v2-ships-the-new-mcp-protocol-and-lets-you-test-your-app-with-evals-1o87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
