@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.NET 10 Generic Math Shift Masking: Catch Overshifts That Now Wrap](https://dev.to/ssukhpinder/net-10-generic-math-shift-masking-catch-overshifts-that-now-wrap-1612)
-- [OpenAI Reports Navier-Stokes Breakthrough, With GPT-6 Astra Used for Lean Verification](https://dev.to/alifar/openai-reports-navier-stokes-breakthrough-with-gpt-6-astra-used-for-lean-verification-19d2)
-- [IonQ Introduces Superion 256 Quantum Computing System](https://dev.to/vpodk/ionq-introduces-superion-256-quantum-computing-system-op9)
-- [myna 0.15.0: myna update](https://dev.to/chovy/myna-0150-myna-update-4dhc)
-- [How to sum a column in a Confluence table](https://dev.to/mikhailklimenko/how-to-sum-a-column-in-a-confluence-table-1nlm)
+- [AI Agents - Tool Calling](https://dev.to/ramya_perumal/ai-agents-tool-calling-cie)
+- [How LLMs Learned to Reason: SFT --&gt; RLHF --&gt; RLVR](https://dev.to/cyprus09/how-llms-learned-to-reason-sft-rlhf-rlvr-1ldh)
+- [5 Pitfalls I Hit Rendering Markdown Tables to PNG with Headless Chrome](https://dev.to/bokuwalily/5-pitfalls-i-hit-rendering-markdown-tables-to-png-with-headless-chrome-2i1i)
+- [Kubernetes v1.35 &lpar;Timbernetes&rpar;: Why This Release Actually Matters for Production &amp; AI Workloads](https://dev.to/cloudraft/kubernetes-v135-timbernetes-why-this-release-actually-matters-for-production-ai-workloads-3h1l)
+- [Why Full-Stack Developers Should Care More About Relational Data Modeling Than Frontend Frameworks](https://dev.to/lucas_ventavele/why-full-stack-developers-should-care-more-about-relational-data-modeling-than-frontend-frameworks-4m25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
