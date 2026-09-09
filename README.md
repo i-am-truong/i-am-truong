@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between an AI Agent That Works and One You Can Trust](https://dev.to/hosseinhezami/the-difference-between-an-ai-agent-that-works-and-one-you-can-trust-4k24)
-- [Networking Needs a Protocol: Build a Consent-First Community Introduction Flow](https://dev.to/susiewang/networking-needs-a-protocol-build-a-consent-first-community-introduction-flow-b4h)
-- [Letting an AI agent follow a relation without widening what it can see](https://dev.to/catidegla/letting-an-ai-agent-follow-a-relation-without-widening-what-it-can-see-3o8l)
-- [Rootless Jailbreak Detection: Updating the Signals, Not the Claim](https://dev.to/codenameone/rootless-jailbreak-detection-updating-the-signals-not-the-claim-3b1e)
-- [Advanced JSON Path Operations in WebForms Core 2.1](https://dev.to/elanatframework/advanced-json-path-operations-in-webforms-core-21-53gc)
+- [The Sprint Review Doesn&#39;t Have a Checkbox for &quot;Agent Did It&quot;](https://dev.to/javiercastromdq/the-sprint-review-doesnt-have-a-checkbox-for-agent-did-it-4fom)
+- [Your AI Adoption Strategy Is Beautiful. Your Codebase Is Not.](https://dev.to/javiercastromdq/your-ai-adoption-strategy-is-beautiful-your-codebase-is-not-1c3)
+- [Give your AI agents real schema context! SchemaCrawler provides three models &lpar;Catalog, ERModel, ImportanceModel&rpar; to turn raw database metadata into agent-ready maps. The ultimate boost for Agentic Coding!](https://dev.to/bekoenig/give-your-ai-agents-real-schema-context-schemacrawler-provides-three-models-catalog-ermodel-19be)
+- [Unifying Agent Orchestration and Model Gateways in Rust: Solving the Stateless Turn Problem](https://dev.to/fcn06/unifying-agent-orchestration-and-model-gateways-in-rust-solving-the-stateless-turn-problem-op2)
+- [What a SOC 2 auditor actually asks about your CI/CD pipeline](https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
