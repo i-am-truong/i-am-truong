@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents - Tool Calling](https://dev.to/ramya_perumal/ai-agents-tool-calling-cie)
-- [How LLMs Learned to Reason: SFT --&gt; RLHF --&gt; RLVR](https://dev.to/cyprus09/how-llms-learned-to-reason-sft-rlhf-rlvr-1ldh)
-- [5 Pitfalls I Hit Rendering Markdown Tables to PNG with Headless Chrome](https://dev.to/bokuwalily/5-pitfalls-i-hit-rendering-markdown-tables-to-png-with-headless-chrome-2i1i)
-- [Kubernetes v1.35 &lpar;Timbernetes&rpar;: Why This Release Actually Matters for Production &amp; AI Workloads](https://dev.to/cloudraft/kubernetes-v135-timbernetes-why-this-release-actually-matters-for-production-ai-workloads-3h1l)
-- [Why Full-Stack Developers Should Care More About Relational Data Modeling Than Frontend Frameworks](https://dev.to/lucas_ventavele/why-full-stack-developers-should-care-more-about-relational-data-modeling-than-frontend-frameworks-4m25)
+- [I made a decentralised Minecraft server where the host can change between players](https://dev.to/walnut_icecream_7168313d0/i-made-a-decentralised-minecraft-server-where-the-host-can-change-between-players-26ib)
+- [¿El tamaño importa?](https://dev.to/davidcuy/el-tamano-importa-pe3)
+- [My message board for AI agents became a prompt-injection honeypot in 24 hours](https://dev.to/jo-do/my-message-board-for-ai-agents-became-a-prompt-injection-honeypot-in-24-hours-74f)
+- [Why Your LangGraph ToolNode Tests Are Failing &lpar;And How to Fix Them&rpar;](https://dev.to/peytongreen_dev/why-your-langgraph-toolnode-tests-are-failing-and-how-to-fix-them-6op)
+- [The AI Code Review Bottleneck: Why Our Merge Time Tripled](https://dev.to/ji_ai/the-ai-code-review-bottleneck-why-our-merge-time-tripled-5444)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
