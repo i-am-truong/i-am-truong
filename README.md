@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the LLM Call: Anatomy of a Production AI Application](https://dev.to/xx_lanka/beyond-the-llm-call-anatomy-of-a-production-ai-application-1lhf)
-- [Headless browsers vs. SERP APIs: Why your Playwright scraper fails in production](https://dev.to/eunit/headless-browsers-vs-serp-apis-why-your-playwright-scraper-fails-in-production-4cgo)
-- [How to Plan a Software Project Before Development Begins](https://dev.to/cybersys_india/how-to-plan-a-software-project-before-development-begins-47ij)
-- [SoundGeek: offline audio cleanup with sherpa-onnx and Avalonia](https://dev.to/techygeeks1/soundgeek-offline-audio-cleanup-with-sherpa-onnx-and-avalonia-36om)
-- [Skybridge v2 ships the new MCP protocol and lets you test your app with Evals](https://dev.to/alpic/skybridge-v2-ships-the-new-mcp-protocol-and-lets-you-test-your-app-with-evals-1o87)
+- [4WP-Booking: How One Dental Clinic’s Request Became a Domain-Driven WordPress Booking Platform](https://dev.to/adovgun/4wp-booking-how-one-dental-clinics-request-became-a-domain-driven-wordpress-booking-platform-2fm6)
+- [map&lpar;&rpar; method under the hood](https://dev.to/derrickodhiambo/map-method-under-the-hood-d6m)
+- [A dependency-free snapshot dashboard: http.server + sqlite3, and the ALTER TABLE trap](https://dev.to/takahiro_hashito_a1f3f0dc/a-dependency-free-snapshot-dashboard-httpserver-sqlite3-and-the-alter-table-trap-514o)
+- [ลองใช้แอป LLM บนมือถือ 3 ตัวเต็มเดือน, ตัวที่ดังน้อยสุดกลับทำได้ในสิ่งที่ตัวอื่นทำไม่ได้](https://dev.to/sarantoon/lngaichaep-llm-bnmuuethuue-3-tawetmeduuen-tawthiidangnysudklabthamaidainsingthiitawuuenthamaimaid-4hkh)
+- [Ponytail, ปลั๊กอินที่ทำให้ Claude Code เขียนโค้ดน้อยลง 94% โดยไม่พังฟังก์ชัน](https://dev.to/sarantoon/ponytail-plakinthiithamaih-claude-code-ekhiiynokhdnylng-94-odyaimphangfangkchan-2h85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
