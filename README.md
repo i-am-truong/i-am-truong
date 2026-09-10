@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run AI Code Reviews for the Cost of a $5 VPS — No Per-Seat SaaS Required](https://dev.to/tom_seidel_d47bb467039516/run-ai-code-reviews-for-the-cost-of-a-5-vps-no-per-seat-saas-required-54jp)
-- [Self-hosting AnythingLLM: the three settings that decide whether your workspaces survive a redeploy](https://dev.to/greatsage_sh/self-hosting-anythingllm-the-three-settings-that-decide-whether-your-workspaces-survive-a-redeploy-3kik)
-- [561/2006 Tells You When to Stop. It Doesn&#39;t Tell You If the Bay Is Free.](https://dev.to/road511/5612006-tells-you-when-to-stop-it-doesnt-tell-you-if-the-bay-is-free-15dj)
-- [Two Release Notes per Release: One for Users, One for Future Me](https://dev.to/mashi_mashi_3092153ef1ab5/two-release-notes-per-release-one-for-users-one-for-future-me-2o69)
-- [Auto memory on 21 projects: 17 empty, and 3 repos learned the same fix separately](https://dev.to/rulestack/auto-memory-on-21-projects-17-empty-and-3-repos-learned-the-same-fix-separately-4k4d)
+- [Build Hints That Fail Before the Build Server](https://dev.to/codenameone/build-hints-that-fail-before-the-build-server-3c6o)
+- [I built a new tool to evaluate and optimize GitHub README files automatically using AI](https://dev.to/readmerank/i-built-a-new-tool-to-evaluate-and-optimize-github-readme-files-automatically-using-ai-3oga)
+- [Enable authentication in your instance of Jitsi Meet](https://dev.to/jkirstaetter/enable-authentication-in-your-instance-of-jitsi-meet-2e9p)
+- [Flora Find — A Full-Text Search Engine for Your Own Files, Built Without a Single Third-Party Import.](https://dev.to/thanmayee__0416/flora-find-a-full-text-search-engine-for-your-own-files-built-without-a-single-third-party-bmf)
+- [The Breach Wasn&#39;t Stadler&#39;s. The Consequence Was.](https://dev.to/ntctech/the-breach-wasnt-stadlers-the-consequence-was-4a5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
