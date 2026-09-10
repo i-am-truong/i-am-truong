@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond LLMs: How World Models Are Changing Generative Media](https://dev.to/blackgirlbytes/beyond-llms-how-world-models-are-changing-generative-media-1f4)
-- [SMS vs Email OTP Template Ownership for US/EU SaaS Login](https://dev.to/ethanbrooks1647/sms-vs-email-otp-template-ownership-for-useu-saas-login-4beh)
-- [Activity Monitor For Your AI Agents - Corral](https://dev.to/hkulekci/activity-monitor-for-your-ai-agents-corral-23jg)
-- [Social cards in pure Rust: no headless Chrome](https://dev.to/jorelfermin/social-cards-in-pure-rust-no-headless-chrome-2ok2)
-- [EU AI Act Fines: 35 Million EUR or 7% — Complete Breakdown](https://dev.to/char-z-ai/eu-ai-act-fines-35-million-eur-or-7-complete-breakdown-3goi)
+- [How to send HTML form data to an email address](https://dev.to/uki7991/how-to-send-html-form-data-to-an-email-address-a7k)
+- [AI Weekly — 2026-09-04 to 2026-09-11 | Open-weight races collide with closed-frontier launches](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-2026-09-04-to-2026-09-11-open-weight-races-collide-with-closed-frontier-launches-2fle)
+- [OpenAI’s Hinted ChatGPT Work Data Agent: What Businesses Can Expect](https://dev.to/alifar/openais-hinted-chatgpt-work-data-agent-what-businesses-can-expect-2892)
+- [Grok Can Be Tricked Into Handing Your Chat History to a Web Page](https://dev.to/theaidownside/grok-can-be-tricked-into-handing-your-chat-history-to-a-web-page-4a23)
+- [MCP Python SDK Extension Method Collisions: Fail Before the Server Starts](https://dev.to/ssukhpinder/mcp-python-sdk-extension-method-collisions-fail-before-the-server-starts-329l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
