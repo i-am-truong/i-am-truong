@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an engineering roadmap that skips the video tutorials](https://dev.to/abhirup0/i-built-an-engineering-roadmap-that-skips-the-video-tutorials-4j2k)
-- [GPT-6 Astra Isn&#39;t AGI. It&#39;s a For-Loop With Better PR](https://dev.to/ashraf_chowdury09/gpt-6-astra-isnt-agi-its-a-for-loop-with-better-pr-105h)
-- [Build an AI Agent &lpar;From Scratch&rpar;](https://dev.to/nfrankel/build-an-ai-agent-from-scratch-42e6)
-- [The AI-in-QA Decision Framework, With Real Prompts](https://dev.to/prantakunduqa/the-ai-in-qa-decision-framework-with-real-prompts-16kh)
-- [Mastra is launching today on Product Hunt https://www.producthunt.com/products/mastra](https://dev.to/fmerian/mastra-is-launching-today-on-product-hunt-httpswwwproducthuntcomproductsmastra-32lk)
+- [Run AI Code Reviews for the Cost of a $5 VPS — No Per-Seat SaaS Required](https://dev.to/tom_seidel_d47bb467039516/run-ai-code-reviews-for-the-cost-of-a-5-vps-no-per-seat-saas-required-54jp)
+- [Self-hosting AnythingLLM: the three settings that decide whether your workspaces survive a redeploy](https://dev.to/greatsage_sh/self-hosting-anythingllm-the-three-settings-that-decide-whether-your-workspaces-survive-a-redeploy-3kik)
+- [561/2006 Tells You When to Stop. It Doesn&#39;t Tell You If the Bay Is Free.](https://dev.to/road511/5612006-tells-you-when-to-stop-it-doesnt-tell-you-if-the-bay-is-free-15dj)
+- [Two Release Notes per Release: One for Users, One for Future Me](https://dev.to/mashi_mashi_3092153ef1ab5/two-release-notes-per-release-one-for-users-one-for-future-me-2o69)
+- [Auto memory on 21 projects: 17 empty, and 3 repos learned the same fix separately](https://dev.to/rulestack/auto-memory-on-21-projects-17-empty-and-3-repos-learned-the-same-fix-separately-4k4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
