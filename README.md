@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Served 5,000 Fully Dynamic Websites from a 2-vCPU, 4 GB VPS](https://dev.to/kooboo/we-served-5000-fully-dynamic-websites-from-a-2-vcpu-4-gb-vps-1pch)
-- [Treat Merge as Promotion: Four Stages Between Local Green and main](https://dev.to/codego_3211/treat-merge-as-promotion-four-stages-between-local-green-and-main-37jh)
-- [Reviewing Agents](https://dev.to/976905690/reviewing-agents-9kp)
-- [400 rounds, and the bug never showed up. So I stopped rolling dice.](https://dev.to/edycutjong/400-rounds-and-the-bug-never-showed-up-so-i-stopped-rolling-dice-3dig)
-- [Last Green Tag First: Bisect an OSS Regression Before the Patch Review](https://dev.to/datars_7274/last-green-tag-first-bisect-an-oss-regression-before-the-patch-review-4l0a)
+- [I built an engineering roadmap that skips the video tutorials](https://dev.to/abhirup0/i-built-an-engineering-roadmap-that-skips-the-video-tutorials-4j2k)
+- [GPT-6 Astra Isn&#39;t AGI. It&#39;s a For-Loop With Better PR](https://dev.to/ashraf_chowdury09/gpt-6-astra-isnt-agi-its-a-for-loop-with-better-pr-105h)
+- [Build an AI Agent &lpar;From Scratch&rpar;](https://dev.to/nfrankel/build-an-ai-agent-from-scratch-42e6)
+- [The AI-in-QA Decision Framework, With Real Prompts](https://dev.to/prantakunduqa/the-ai-in-qa-decision-framework-with-real-prompts-16kh)
+- [Mastra is launching today on Product Hunt https://www.producthunt.com/products/mastra](https://dev.to/fmerian/mastra-is-launching-today-on-product-hunt-httpswwwproducthuntcomproductsmastra-32lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
