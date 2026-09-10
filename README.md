@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Adoption by Age in the US: What Pew Data Means for Business AI Rollouts](https://dev.to/alifar/chatgpt-adoption-by-age-in-the-us-what-pew-data-means-for-business-ai-rollouts-580b)
-- [Master planning &lpar;MRP&rpar; module in Dynamics 365 F&amp;O and Infor LN](https://dev.to/deanfachrie/master-planning-mrp-module-in-dynamics-365-fo-and-infor-ln-1bp6)
-- [I shipped a Chrome extension, then found a permission bug and a hidden analytics call in the same week](https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi)
-- [ChatGPT Has an Estimated 67.7 Million US Monthly Users, But Adoption Needs Context](https://dev.to/alifar/chatgpt-has-an-estimated-677-million-us-monthly-users-but-adoption-needs-context-9p0)
-- [Anyone else getting colour changing backgrounds on their user icon?](https://dev.to/unitbuilds/anyone-else-getting-colour-changing-backgrounds-on-their-user-icon-5aje)
+- [I Built a Website Crawler Because “It Works in the Browser” Isn’t Enough](https://dev.to/abdelrahman_ragab_20/i-built-a-website-crawler-because-it-works-in-the-browser-isnt-enough-54ji)
+- [Google’s 2026 Updates Separate Content Quality From AI Search Destination Signals](https://dev.to/alifar/googles-2026-updates-separate-content-quality-from-ai-search-destination-signals-57ek)
+- [Signup Abuse Defense: When CAPTCHA Gates Creation and Risk Signals Catch Up](https://dev.to/ingramcole6479/signup-abuse-defense-when-captcha-gates-creation-and-risk-signals-catch-up-2a9j)
+- [Your Git History Is a Story. I Wrote the Algorithm That Finds It.](https://dev.to/ahmad_rrrtx/your-git-history-is-a-story-i-wrote-the-algorithm-that-finds-it-1734)
+- [Google Logged Six Search Ranking Updates in 2026: What Website Owners Should Watch](https://dev.to/alifar/google-logged-six-search-ranking-updates-in-2026-what-website-owners-should-watch-5jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
