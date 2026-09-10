@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Hints That Fail Before the Build Server](https://dev.to/codenameone/build-hints-that-fail-before-the-build-server-3c6o)
-- [I built a new tool to evaluate and optimize GitHub README files automatically using AI](https://dev.to/readmerank/i-built-a-new-tool-to-evaluate-and-optimize-github-readme-files-automatically-using-ai-3oga)
-- [Enable authentication in your instance of Jitsi Meet](https://dev.to/jkirstaetter/enable-authentication-in-your-instance-of-jitsi-meet-2e9p)
-- [Flora Find — A Full-Text Search Engine for Your Own Files, Built Without a Single Third-Party Import.](https://dev.to/thanmayee__0416/flora-find-a-full-text-search-engine-for-your-own-files-built-without-a-single-third-party-bmf)
-- [The Breach Wasn&#39;t Stadler&#39;s. The Consequence Was.](https://dev.to/ntctech/the-breach-wasnt-stadlers-the-consequence-was-4a5i)
+- [How to Increase Website Traffic While Building Your SaaS in Public](https://dev.to/urielbitton/how-to-increase-website-traffic-while-building-your-saas-in-public-4k4h)
+- [Self-hosting open source is easy. Running it in production is not.](https://dev.to/amitshuklabag/self-hosting-open-source-is-easy-running-it-in-production-is-not-i72)
+- [is Graph Engineering just reinventing systems architecture for the AI age?](https://dev.to/annthurium/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427)
+- [Bitemporal CIEDE2000 Calibration: Event-Sourced PostgreSQL Queues and Low-Latency SSE Telemetry for Shadow’s 24fps Multimodal Synthesis Core](https://dev.to/biffer_rowley_4cdbf203087/bitemporal-ciede2000-calibration-event-sourced-postgresql-queues-and-low-latency-sse-telemetry-for-50fk)
+- [Generalizing Transactions in NestJS: A Domain Port over TypeORM and MongoDB](https://dev.to/josec_gc/generalizing-transactions-in-nestjs-a-domain-port-over-typeorm-and-mongodb-4gmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
