@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Increase Website Traffic While Building Your SaaS in Public](https://dev.to/urielbitton/how-to-increase-website-traffic-while-building-your-saas-in-public-4k4h)
-- [Self-hosting open source is easy. Running it in production is not.](https://dev.to/amitshuklabag/self-hosting-open-source-is-easy-running-it-in-production-is-not-i72)
-- [is Graph Engineering just reinventing systems architecture for the AI age?](https://dev.to/annthurium/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427)
-- [Bitemporal CIEDE2000 Calibration: Event-Sourced PostgreSQL Queues and Low-Latency SSE Telemetry for Shadow’s 24fps Multimodal Synthesis Core](https://dev.to/biffer_rowley_4cdbf203087/bitemporal-ciede2000-calibration-event-sourced-postgresql-queues-and-low-latency-sse-telemetry-for-50fk)
-- [Generalizing Transactions in NestJS: A Domain Port over TypeORM and MongoDB](https://dev.to/josec_gc/generalizing-transactions-in-nestjs-a-domain-port-over-typeorm-and-mongodb-4gmj)
+- [Beyond LLMs: How World Models Are Changing Generative Media](https://dev.to/blackgirlbytes/beyond-llms-how-world-models-are-changing-generative-media-1f4)
+- [SMS vs Email OTP Template Ownership for US/EU SaaS Login](https://dev.to/ethanbrooks1647/sms-vs-email-otp-template-ownership-for-useu-saas-login-4beh)
+- [Activity Monitor For Your AI Agents - Corral](https://dev.to/hkulekci/activity-monitor-for-your-ai-agents-corral-23jg)
+- [Social cards in pure Rust: no headless Chrome](https://dev.to/jorelfermin/social-cards-in-pure-rust-no-headless-chrome-2ok2)
+- [EU AI Act Fines: 35 Million EUR or 7% — Complete Breakdown](https://dev.to/char-z-ai/eu-ai-act-fines-35-million-eur-or-7-complete-breakdown-3goi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
