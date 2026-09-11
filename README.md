@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everything was running. The port belonged to the wrong process.](https://dev.to/pbxqdown/everything-was-running-the-port-belonged-to-the-wrong-process-3e1i)
-- [I asked Claude to draw my homelab from the repo that runs it](https://dev.to/robbeverhelst/i-asked-claude-to-draw-my-homelab-from-the-repo-that-runs-it-1ick)
-- [Top 5 MCP gateways for AI agents in your product in 2026](https://dev.to/sapnesh_naik_ngo/top-5-mcp-gateways-for-ai-agents-in-your-product-in-2026-49h8)
-- [AI-Driven Solutions for Frontend Development in 2026](https://dev.to/nlocoding/ai-driven-solutions-for-frontend-development-in-2026-58a1)
-- [AI Agent Architecture 2026: Building Production-Grade Systems — Patterns, Benchmarks, and Lessons from 10,000-Agent Swarms](https://dev.to/monuminu/ai-agent-architecture-2026-building-production-grade-systems-patterns-benchmarks-and-lessons-5d34)
+- [The Code Casino](https://dev.to/svrz/the-code-casino-43mg)
+- [I gave Claude Code a team. Then I caught it grading its own homework.](https://dev.to/_vjk/i-gave-claude-code-a-team-then-i-caught-it-grading-its-own-homework-5f8i)
+- [Building a Pi-hole Home Lab From an Old PC : Why](https://dev.to/ghchattaouibit/building-a-pi-hole-home-lab-from-an-old-pc-why-29h2)
+- [Great News for the Rust Community: A New Server-Driven UI Technology in Rust](https://dev.to/elanatframework/great-news-for-the-rust-community-a-new-server-driven-ui-technology-in-rust-4eo8)
+- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
