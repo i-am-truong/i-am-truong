@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From One Prompt to PetFinder](https://dev.to/tony123s/from-one-prompt-to-petfinder-6pp)
-- [622 of our 5,087 LLM API calls never returned an answer](https://dev.to/altrouter/622-of-our-5087-llm-api-calls-never-returned-an-answer-ale)
-- [Platform Engineering: Mehr als nur DevOps? Der ultimative Guide](https://dev.to/uhltak/platform-engineering-mehr-als-nur-devops-der-ultimative-guide-4860)
-- [Indexing Like a Pro: Lessons from The Matrix](https://dev.to/timevolt/indexing-like-a-pro-lessons-from-the-matrix-351)
-- [Website Security Audit: Prevent Enterprise Breaches](https://dev.to/mecanik-dev/website-security-audit-prevent-enterprise-breaches-4cb6)
+- [We Built a DevRel Knowledge Base](https://dev.to/envitab/we-built-a-devrel-knowledge-base-2bjj)
+- [JUMIA PRODUCT PERFORMANCE INTERACTIVE DASHBOARD](https://dev.to/tonny_muthuri_9556958a78f/jumia-product-performance-interactive-dashboard-18a5)
+- [Logging Like a Jedi: Spotting Problems Before Users Do](https://dev.to/timevolt/logging-like-a-jedi-spotting-problems-before-users-do-5ahg)
+- [Next.js 16&#39;s Turbopack is 2.5x faster, but the bundler is only 4% of your build](https://dev.to/remdore/nextjs-16s-turbopack-is-25x-faster-but-the-bundler-is-only-4-of-your-build-9j9)
+- [My local repos were full of zombie branches and git never told me which ones were safe to delete](https://dev.to/raknaos/my-local-repos-were-full-of-zombie-branches-and-git-never-told-me-which-ones-were-safe-to-delete-39fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
