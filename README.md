@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [จัด Context ใน Multi-Agent Harness ให้ถูกวิธี, บทเรียนจาก Forked Subagents ของ LangChain](https://dev.to/sarantoon/cchad-context-ain-multi-agent-harness-aihthuukwithii-btheriiyncchaak-forked-subagents-khng-langchain-4olj)
-- [The AI Skill Most People Skip: Building a Verification Loop](https://dev.to/autonomous/the-ai-skill-most-people-skip-building-a-verification-loop-h9e)
-- [Your agents don&#39;t need a jailbreak to go rogue](https://dev.to/humanbound_ai/your-agents-dont-need-a-jailbreak-to-go-rogue-34bl)
-- [Give Any AI Assistant Direct Access to Your Knowledge Graph with MCP](https://dev.to/chaoscypherinc/give-any-ai-assistant-direct-access-to-your-knowledge-graph-with-mcp-18b2)
-- [LINQ &lpar;Language Integrated Query&rpar; in C#](https://dev.to/rhuturaj_takle/linq-language-integrated-query-in-c-pd2)
+- [Everything was running. The port belonged to the wrong process.](https://dev.to/pbxqdown/everything-was-running-the-port-belonged-to-the-wrong-process-3e1i)
+- [I asked Claude to draw my homelab from the repo that runs it](https://dev.to/robbeverhelst/i-asked-claude-to-draw-my-homelab-from-the-repo-that-runs-it-1ick)
+- [Top 5 MCP gateways for AI agents in your product in 2026](https://dev.to/sapnesh_naik_ngo/top-5-mcp-gateways-for-ai-agents-in-your-product-in-2026-49h8)
+- [AI-Driven Solutions for Frontend Development in 2026](https://dev.to/nlocoding/ai-driven-solutions-for-frontend-development-in-2026-58a1)
+- [AI Agent Architecture 2026: Building Production-Grade Systems — Patterns, Benchmarks, and Lessons from 10,000-Agent Swarms](https://dev.to/monuminu/ai-agent-architecture-2026-building-production-grade-systems-patterns-benchmarks-and-lessons-5d34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
