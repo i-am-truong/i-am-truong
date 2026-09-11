@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Code Casino](https://dev.to/svrz/the-code-casino-43mg)
-- [I gave Claude Code a team. Then I caught it grading its own homework.](https://dev.to/_vjk/i-gave-claude-code-a-team-then-i-caught-it-grading-its-own-homework-5f8i)
-- [Building a Pi-hole Home Lab From an Old PC : Why](https://dev.to/ghchattaouibit/building-a-pi-hole-home-lab-from-an-old-pc-why-29h2)
-- [Great News for the Rust Community: A New Server-Driven UI Technology in Rust](https://dev.to/elanatframework/great-news-for-the-rust-community-a-new-server-driven-ui-technology-in-rust-4eo8)
-- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
+- [Agentic development needs a famous 5 minute install](https://dev.to/cory_marsh/agentic-development-needs-a-famous-5-minute-install-9m7)
+- [I Started Using /clear After Testing with Playwright MCP](https://dev.to/tohru_yaginuma_4f041533c6/i-started-using-clear-after-testing-with-playwright-mcp-5ggk)
+- [Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom](https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m)
+- [Anatomy of a skill](https://dev.to/lisandro_reinoso_d12ac7b9/anatomy-of-a-skill-295g)
+- [&quot;EFFluentify: Convert EF Core Data Annotations to Fluent API in one command&quot;](https://dev.to/hosameldeen_reda_398691c9/effluentify-convert-ef-core-data-annotations-to-fluent-api-in-one-command-27lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
