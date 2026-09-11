@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built a DevRel Knowledge Base](https://dev.to/envitab/we-built-a-devrel-knowledge-base-2bjj)
-- [JUMIA PRODUCT PERFORMANCE INTERACTIVE DASHBOARD](https://dev.to/tonny_muthuri_9556958a78f/jumia-product-performance-interactive-dashboard-18a5)
-- [Logging Like a Jedi: Spotting Problems Before Users Do](https://dev.to/timevolt/logging-like-a-jedi-spotting-problems-before-users-do-5ahg)
-- [Next.js 16&#39;s Turbopack is 2.5x faster, but the bundler is only 4% of your build](https://dev.to/remdore/nextjs-16s-turbopack-is-25x-faster-but-the-bundler-is-only-4-of-your-build-9j9)
-- [My local repos were full of zombie branches and git never told me which ones were safe to delete](https://dev.to/raknaos/my-local-repos-were-full-of-zombie-branches-and-git-never-told-me-which-ones-were-safe-to-delete-39fn)
+- [จัด Context ใน Multi-Agent Harness ให้ถูกวิธี, บทเรียนจาก Forked Subagents ของ LangChain](https://dev.to/sarantoon/cchad-context-ain-multi-agent-harness-aihthuukwithii-btheriiyncchaak-forked-subagents-khng-langchain-4olj)
+- [The AI Skill Most People Skip: Building a Verification Loop](https://dev.to/autonomous/the-ai-skill-most-people-skip-building-a-verification-loop-h9e)
+- [Your agents don&#39;t need a jailbreak to go rogue](https://dev.to/humanbound_ai/your-agents-dont-need-a-jailbreak-to-go-rogue-34bl)
+- [Give Any AI Assistant Direct Access to Your Knowledge Graph with MCP](https://dev.to/chaoscypherinc/give-any-ai-assistant-direct-access-to-your-knowledge-graph-with-mcp-18b2)
+- [LINQ &lpar;Language Integrated Query&rpar; in C#](https://dev.to/rhuturaj_takle/linq-language-integrated-query-in-c-pd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
