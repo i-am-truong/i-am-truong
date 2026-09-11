@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GCC Flags Notes](https://dev.to/csm18/gcc-flags-notes-5h51)
-- [Preparing a Markdown document for a technical slide deck with Gamma App](https://dev.to/nicedayup/preparing-a-markdown-document-for-a-technical-slide-deck-with-gamma-app-551l)
-- [Agent Guardrails Beat Agent Capability: Three September Incidents Every Cross-Border Seller Should Read](https://dev.to/goodpa/agent-guardrails-beat-agent-capability-three-september-incidents-every-cross-border-seller-should-2ncb)
-- [GLM-5.3: The Post-Training Revolution That&#39;s Reshaping AI Development](https://dev.to/ryan_zhao/glm-53-the-post-training-revolution-thats-reshaping-ai-development-28bp)
-- [Upgrade Skill Development Kamu dengan Menjelajahi Fitur Keren di Tencent EdgeOne Makers](https://dev.to/stffny_afsy_8bf09af7d58ac/upgrade-skill-development-kamu-dengan-menjelajahi-fitur-keren-di-tencent-edgeone-makers-40im)
+- [From One Prompt to PetFinder](https://dev.to/tony123s/from-one-prompt-to-petfinder-6pp)
+- [622 of our 5,087 LLM API calls never returned an answer](https://dev.to/altrouter/622-of-our-5087-llm-api-calls-never-returned-an-answer-ale)
+- [Platform Engineering: Mehr als nur DevOps? Der ultimative Guide](https://dev.to/uhltak/platform-engineering-mehr-als-nur-devops-der-ultimative-guide-4860)
+- [Indexing Like a Pro: Lessons from The Matrix](https://dev.to/timevolt/indexing-like-a-pro-lessons-from-the-matrix-351)
+- [Website Security Audit: Prevent Enterprise Breaches](https://dev.to/mecanik-dev/website-security-audit-prevent-enterprise-breaches-4cb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
