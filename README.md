@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to send HTML form data to an email address](https://dev.to/uki7991/how-to-send-html-form-data-to-an-email-address-a7k)
-- [AI Weekly — 2026-09-04 to 2026-09-11 | Open-weight races collide with closed-frontier launches](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-2026-09-04-to-2026-09-11-open-weight-races-collide-with-closed-frontier-launches-2fle)
-- [OpenAI’s Hinted ChatGPT Work Data Agent: What Businesses Can Expect](https://dev.to/alifar/openais-hinted-chatgpt-work-data-agent-what-businesses-can-expect-2892)
-- [Grok Can Be Tricked Into Handing Your Chat History to a Web Page](https://dev.to/theaidownside/grok-can-be-tricked-into-handing-your-chat-history-to-a-web-page-4a23)
-- [MCP Python SDK Extension Method Collisions: Fail Before the Server Starts](https://dev.to/ssukhpinder/mcp-python-sdk-extension-method-collisions-fail-before-the-server-starts-329l)
+- [GCC Flags Notes](https://dev.to/csm18/gcc-flags-notes-5h51)
+- [Preparing a Markdown document for a technical slide deck with Gamma App](https://dev.to/nicedayup/preparing-a-markdown-document-for-a-technical-slide-deck-with-gamma-app-551l)
+- [Agent Guardrails Beat Agent Capability: Three September Incidents Every Cross-Border Seller Should Read](https://dev.to/goodpa/agent-guardrails-beat-agent-capability-three-september-incidents-every-cross-border-seller-should-2ncb)
+- [GLM-5.3: The Post-Training Revolution That&#39;s Reshaping AI Development](https://dev.to/ryan_zhao/glm-53-the-post-training-revolution-thats-reshaping-ai-development-28bp)
+- [Upgrade Skill Development Kamu dengan Menjelajahi Fitur Keren di Tencent EdgeOne Makers](https://dev.to/stffny_afsy_8bf09af7d58ac/upgrade-skill-development-kamu-dengan-menjelajahi-fitur-keren-di-tencent-edgeone-makers-40im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
