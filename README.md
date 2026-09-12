@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is your Data Lakehouse actually a HIPAA liability?](https://dev.to/aniketsoni/is-your-data-lakehouse-actually-a-hipaa-liability-18jm)
-- [Fixing Fatal Process Aborts in TensorFlow Lookup Tables](https://dev.to/adi-il/fixing-fatal-process-aborts-in-tensorflow-lookup-tables-6i1)
-- [We tagged EKS workers like app servers — and Prometheus started scraping telegraf on nodes that never had it](https://dev.to/mridul_it_is/we-tagged-eks-workers-like-app-servers-and-prometheus-started-scraping-telegraf-on-nodes-that-2n59)
-- [What Fighting Style Will Robots Use in the Future?](https://dev.to/sumit0rn/what-fighting-style-will-robots-use-in-the-future-4fb5)
-- [Multi-Cloud Networking: How to Connect AWS, Azure and GCP Securely](https://dev.to/ronak_sharma_913570f6e215/multi-cloud-networking-how-to-connect-aws-azure-and-gcp-securely-2b68)
+- [Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4)
+- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)
+- [An Attacker&#39;s Multi-Agent Framework Stole Thousands of Credentials in Under Six Hours](https://dev.to/aditya_soni_e5b9d5213e544/an-attackers-multi-agent-framework-stole-thousands-of-credentials-in-under-six-hours-4kgh)
+- [How I Built a Fast, Clean Wiki &amp; Database for Steal an Egg](https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n)
+- [I Built a Financial Dashboard for Indie Devs and Digital Creators and It is Free](https://dev.to/erenelagz/how-i-unified-stripe-revenuecat-and-gumroad-revenue-into-one-dashboard-3clk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
