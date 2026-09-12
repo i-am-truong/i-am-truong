@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic development needs a famous 5 minute install](https://dev.to/cory_marsh/agentic-development-needs-a-famous-5-minute-install-9m7)
-- [I Started Using /clear After Testing with Playwright MCP](https://dev.to/tohru_yaginuma_4f041533c6/i-started-using-clear-after-testing-with-playwright-mcp-5ggk)
-- [Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom](https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m)
-- [Anatomy of a skill](https://dev.to/lisandro_reinoso_d12ac7b9/anatomy-of-a-skill-295g)
-- [&quot;EFFluentify: Convert EF Core Data Annotations to Fluent API in one command&quot;](https://dev.to/hosameldeen_reda_398691c9/effluentify-convert-ef-core-data-annotations-to-fluent-api-in-one-command-27lp)
+- [Stop Prompt-Engineering Copilot. Write Three Rules in a File Instead.](https://dev.to/jjoyneriv/stop-prompt-engineering-copilot-write-three-rules-in-a-file-instead-2kac)
+- [Fixed Is Not Repaired](https://dev.to/cortia/fixed-is-not-repaired-b6l)
+- [How I built an email-scanning SaaS audit engine with Next.js, Prisma and Neon](https://dev.to/lwr0g/how-i-built-an-email-scanning-saas-audit-engine-with-nextjs-prisma-and-neon-5976)
+- [LingoGeek: translating whole documents offline with CTranslate2 and a Python desktop app](https://dev.to/techygeeks1/lingogeek-translating-whole-documents-offline-with-ctranslate2-and-a-python-desktop-app-22b5)
+- [Why most &#39;AI fixes bugs automatically&#39; demos don&#39;t survive contact with production](https://dev.to/anton_shorygin_b13d2c53fc/why-most-ai-fixes-bugs-automatically-demos-dont-survive-contact-with-production-7pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
