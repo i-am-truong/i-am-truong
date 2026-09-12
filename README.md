@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Prompt-Engineering Copilot. Write Three Rules in a File Instead.](https://dev.to/jjoyneriv/stop-prompt-engineering-copilot-write-three-rules-in-a-file-instead-2kac)
-- [Fixed Is Not Repaired](https://dev.to/cortia/fixed-is-not-repaired-b6l)
-- [How I built an email-scanning SaaS audit engine with Next.js, Prisma and Neon](https://dev.to/lwr0g/how-i-built-an-email-scanning-saas-audit-engine-with-nextjs-prisma-and-neon-5976)
-- [LingoGeek: translating whole documents offline with CTranslate2 and a Python desktop app](https://dev.to/techygeeks1/lingogeek-translating-whole-documents-offline-with-ctranslate2-and-a-python-desktop-app-22b5)
-- [Why most &#39;AI fixes bugs automatically&#39; demos don&#39;t survive contact with production](https://dev.to/anton_shorygin_b13d2c53fc/why-most-ai-fixes-bugs-automatically-demos-dont-survive-contact-with-production-7pa)
+- [Is your Data Lakehouse actually a HIPAA liability?](https://dev.to/aniketsoni/is-your-data-lakehouse-actually-a-hipaa-liability-18jm)
+- [Fixing Fatal Process Aborts in TensorFlow Lookup Tables](https://dev.to/adi-il/fixing-fatal-process-aborts-in-tensorflow-lookup-tables-6i1)
+- [We tagged EKS workers like app servers — and Prometheus started scraping telegraf on nodes that never had it](https://dev.to/mridul_it_is/we-tagged-eks-workers-like-app-servers-and-prometheus-started-scraping-telegraf-on-nodes-that-2n59)
+- [What Fighting Style Will Robots Use in the Future?](https://dev.to/sumit0rn/what-fighting-style-will-robots-use-in-the-future-4fb5)
+- [Multi-Cloud Networking: How to Connect AWS, Azure and GCP Securely](https://dev.to/ronak_sharma_913570f6e215/multi-cloud-networking-how-to-connect-aws-azure-and-gcp-securely-2b68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
