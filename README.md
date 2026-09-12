@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Round-Robin Load Balancing Breaks WebSockets at Scale](https://dev.to/nainikmehta/why-round-robin-load-balancing-breaks-websockets-at-scale-2g71)
-- [Beyond the Outage: Lessons from the GitHub Actions Incident for Your Software Planning Process](https://dev.to/devactivity/beyond-the-outage-lessons-from-the-github-actions-incident-for-your-software-planning-process-38ji)
-- [GitHub Billing Incident: A Wake-Up Call for Software Engineering Productivity](https://dev.to/devactivity/github-billing-incident-a-wake-up-call-for-software-engineering-productivity-423)
-- [Dijkstra, Knuth, Kernighan: 10 Quotes That Predicted the AI Coding Debate](https://dev.to/kenimo49/dijkstra-knuth-kernighan-10-quotes-that-predicted-the-ai-coding-debate-2mpb)
-- [I wanted a system-design lab that could prove me wrong](https://dev.to/othmanez05/i-wanted-a-system-design-lab-that-could-prove-me-wrong-5540)
+- [The test that failed every morning and passed every afternoon](https://dev.to/eugen_taranowski/the-test-that-failed-every-morning-and-passed-every-afternoon-35pa)
+- [Store Load Reordering: x86 vs ARM64, and the Bug Intel Was Hiding](https://dev.to/harrisonsec/store-load-reordering-x86-vs-arm64-and-the-bug-intel-was-hiding-de9)
+- [Api Key Authentication in ASP .NET Core](https://dev.to/remigiuszzalewski/api-key-authentication-in-asp-net-core-2gng)
+- [Safari Technology Preview 252 adds @supports named-feature&lpar;&rpar;, unprefixed user-select and two accessible-name fixes](https://dev.to/leobaniak/safari-technology-preview-252-adds-supports-named-feature-unprefixed-user-select-and-two-50d5)
+- [I&#39;ve Spent 4 Hours Setting Up an SDK, So You Don&#39;t Have To](https://dev.to/bitnboson/ive-spent-4-hours-setting-up-an-sdk-so-you-dont-have-to-bm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
