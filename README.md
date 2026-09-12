@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The test that failed every morning and passed every afternoon](https://dev.to/eugen_taranowski/the-test-that-failed-every-morning-and-passed-every-afternoon-35pa)
-- [Store Load Reordering: x86 vs ARM64, and the Bug Intel Was Hiding](https://dev.to/harrisonsec/store-load-reordering-x86-vs-arm64-and-the-bug-intel-was-hiding-de9)
-- [Api Key Authentication in ASP .NET Core](https://dev.to/remigiuszzalewski/api-key-authentication-in-asp-net-core-2gng)
-- [Safari Technology Preview 252 adds @supports named-feature&lpar;&rpar;, unprefixed user-select and two accessible-name fixes](https://dev.to/leobaniak/safari-technology-preview-252-adds-supports-named-feature-unprefixed-user-select-and-two-50d5)
-- [I&#39;ve Spent 4 Hours Setting Up an SDK, So You Don&#39;t Have To](https://dev.to/bitnboson/ive-spent-4-hours-setting-up-an-sdk-so-you-dont-have-to-bm4)
+- [Можно ли, не имея доступа к маршрутизаторам провайдера, повлиять на выбор его upstream для своего трафика?](https://dev.to/yamrf/mozhno-li-nie-imieia-dostupa-k-marshrutizatoram-provaidiera-povliiat-na-vybor-iegho-upstream-dlia-svoiegho-1o3a)
+- [If the Remainder Doesn&#39;t Shrink, It&#39;s a Zero: A Bootcamp Lab on Agent Loop Progress](https://dev.to/hackjs_7468/if-the-remainder-doesnt-shrink-its-a-zero-a-bootcamp-lab-on-agent-loop-progress-3p4e)
+- [SEO in 2026: Why Brand Signals and Entity Authority Matter Alongside Backlinks](https://dev.to/alifar/seo-in-2026-why-brand-signals-and-entity-authority-matter-alongside-backlinks-m70)
+- [An Alarm Dashboard + Tecnoalarm Keypad in Home Assistant](https://dev.to/cloudapp_dev/an-alarm-dashboard-tecnoalarm-keypad-in-home-assistant-4e49)
+- [I don&#39;t open a video editor any more. I ask Claude instead.](https://dev.to/jeet_adeshara_1e1108ba7da/i-dont-open-a-video-editor-any-more-i-ask-claude-instead-36bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
