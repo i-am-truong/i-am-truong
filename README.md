@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4)
-- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)
-- [An Attacker&#39;s Multi-Agent Framework Stole Thousands of Credentials in Under Six Hours](https://dev.to/aditya_soni_e5b9d5213e544/an-attackers-multi-agent-framework-stole-thousands-of-credentials-in-under-six-hours-4kgh)
-- [How I Built a Fast, Clean Wiki &amp; Database for Steal an Egg](https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n)
-- [I Built a Financial Dashboard for Indie Devs and Digital Creators and It is Free](https://dev.to/erenelagz/how-i-unified-stripe-revenuecat-and-gumroad-revenue-into-one-dashboard-3clk)
+- [Why Round-Robin Load Balancing Breaks WebSockets at Scale](https://dev.to/nainikmehta/why-round-robin-load-balancing-breaks-websockets-at-scale-2g71)
+- [Beyond the Outage: Lessons from the GitHub Actions Incident for Your Software Planning Process](https://dev.to/devactivity/beyond-the-outage-lessons-from-the-github-actions-incident-for-your-software-planning-process-38ji)
+- [GitHub Billing Incident: A Wake-Up Call for Software Engineering Productivity](https://dev.to/devactivity/github-billing-incident-a-wake-up-call-for-software-engineering-productivity-423)
+- [Dijkstra, Knuth, Kernighan: 10 Quotes That Predicted the AI Coding Debate](https://dev.to/kenimo49/dijkstra-knuth-kernighan-10-quotes-that-predicted-the-ai-coding-debate-2mpb)
+- [I wanted a system-design lab that could prove me wrong](https://dev.to/othmanez05/i-wanted-a-system-design-lab-that-could-prove-me-wrong-5540)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
