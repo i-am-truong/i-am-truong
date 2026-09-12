@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Можно ли, не имея доступа к маршрутизаторам провайдера, повлиять на выбор его upstream для своего трафика?](https://dev.to/yamrf/mozhno-li-nie-imieia-dostupa-k-marshrutizatoram-provaidiera-povliiat-na-vybor-iegho-upstream-dlia-svoiegho-1o3a)
-- [If the Remainder Doesn&#39;t Shrink, It&#39;s a Zero: A Bootcamp Lab on Agent Loop Progress](https://dev.to/hackjs_7468/if-the-remainder-doesnt-shrink-its-a-zero-a-bootcamp-lab-on-agent-loop-progress-3p4e)
-- [SEO in 2026: Why Brand Signals and Entity Authority Matter Alongside Backlinks](https://dev.to/alifar/seo-in-2026-why-brand-signals-and-entity-authority-matter-alongside-backlinks-m70)
-- [An Alarm Dashboard + Tecnoalarm Keypad in Home Assistant](https://dev.to/cloudapp_dev/an-alarm-dashboard-tecnoalarm-keypad-in-home-assistant-4e49)
-- [I don&#39;t open a video editor any more. I ask Claude instead.](https://dev.to/jeet_adeshara_1e1108ba7da/i-dont-open-a-video-editor-any-more-i-ask-claude-instead-36bi)
+- [Creating Adaptive Flutter Screens and Widgets](https://dev.to/dylanscottmickelson/creating-adaptive-flutter-screens-and-widgets-m8l)
+- [Seven Patterns That Decide If Your AI App Survives 10,000 Users](https://dev.to/lovestaco/seven-patterns-that-decide-if-your-ai-app-survives-10000-users-2e0b)
+- [The .NET HTTP Failure Nobody Sees Coming -Najeeb Ullah](https://dev.to/najeebullah/the-net-http-failure-nobody-sees-coming-najeeb-ullah-3g45)
+- [My checker blamed the other tool, and the defect was in the one doing the blaming](https://dev.to/mahirhir/my-checker-blamed-the-other-tool-and-the-defect-was-in-the-one-doing-the-blaming-3cpo)
+- [How I built a CLI music player in Python and what I learned](https://dev.to/tagouli/how-i-built-a-cli-music-player-in-python-and-what-i-learned-5a4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
