@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating Adaptive Flutter Screens and Widgets](https://dev.to/dylanscottmickelson/creating-adaptive-flutter-screens-and-widgets-m8l)
-- [Seven Patterns That Decide If Your AI App Survives 10,000 Users](https://dev.to/lovestaco/seven-patterns-that-decide-if-your-ai-app-survives-10000-users-2e0b)
-- [The .NET HTTP Failure Nobody Sees Coming -Najeeb Ullah](https://dev.to/najeebullah/the-net-http-failure-nobody-sees-coming-najeeb-ullah-3g45)
-- [My checker blamed the other tool, and the defect was in the one doing the blaming](https://dev.to/mahirhir/my-checker-blamed-the-other-tool-and-the-defect-was-in-the-one-doing-the-blaming-3cpo)
-- [How I built a CLI music player in Python and what I learned](https://dev.to/tagouli/how-i-built-a-cli-music-player-in-python-and-what-i-learned-5a4e)
+- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-1e6j)
+- [How I pick a voice input setup for PC typing &lpar;2026&rpar;](https://dev.to/starlightxbaby/how-i-pick-a-voice-input-setup-for-pc-typing-2026-50a1)
+- [Nobody wants to import your library](https://dev.to/ashish_sinha_5241c7673d93/nobody-wants-to-import-your-library-1bbn)
+- [Ahead of the Chatbot generation: Scaling Production-Ready Agent Fleets with AWS AgentCore](https://dev.to/safiya_k/ahead-of-the-chatbot-generation-scaling-production-ready-agent-fleets-with-aws-agentcore-4a18)
+- [AI Is Not Your Bottleneck. Your Organization Is.](https://dev.to/stratumpraxis/ai-is-not-your-bottleneck-your-organization-is-53kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
