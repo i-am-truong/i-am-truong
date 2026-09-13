@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Record why an approach was rejected—and when to revisit it](https://dev.to/masondelan/record-why-an-approach-was-rejected-and-when-to-revisit-it-20op)
-- [AI Website Handoffs: When a Prototype Needs a Real Code Boundary](https://dev.to/linxi-ai/ai-website-handoffs-when-a-prototype-needs-a-real-code-boundary-2fcc)
-- [I made two AIs review each other&#39;s code for 30 days. A human still caught the bug in 5 minutes.](https://dev.to/infoinlet1/i-made-two-ais-review-each-others-code-for-30-days-a-human-still-caught-the-bug-in-5-minutes-484a)
-- [The more aggressive matmul kernel lost to the register budget](https://dev.to/sarthakagrawal927/the-more-aggressive-matmul-kernel-lost-to-the-register-budget-1e2i)
-- [&quot;Gen-Alpha is Cooking&quot;: Why 12 and 13-year-olds are out-shipping adults with zero budget.](https://dev.to/koda2026/gen-alpha-is-cooking-why-12-and-13-year-olds-are-out-shipping-adults-with-zero-budget-ain)
+- [My Comment Section Designed My Next Experiment. Then It Made Me Freeze My Predictions.](https://dev.to/alimafana/my-comment-section-designed-my-next-experiment-then-it-made-me-freeze-my-predictions-2hg1)
+- [Python: Loops](https://dev.to/maryngure/python-loops-29k8)
+- [Everyone Said &#39;Just Go Serverless.&#39; I Ran a Long-Lived Node Process — Here&#39;s What That Bought](https://dev.to/yaseenyk04/everyone-said-just-go-serverless-i-ran-a-long-lived-node-process-heres-what-that-bought-36bb)
+- [How I Run Agents Off a React Flow Canvas, Not a Diagram](https://dev.to/yaseenyk04/how-i-run-agents-off-a-react-flow-canvas-not-a-diagram-3ieb)
+- [Software Engineer di Era AI: Bukan Digantikan, Tapi Berevolusi](https://dev.to/hellogung/software-engineer-di-era-ai-bukan-digantikan-tapi-berevolusi-3moo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
