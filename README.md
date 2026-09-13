@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Meter Is Running on Every Request](https://dev.to/sergueyasaelshinder/the-meter-is-running-on-every-request-2pc2)
-- [Building MyZubster: Turning a Marketplace Demo Into a Real Product Experience](https://dev.to/danielioni/building-myzubster-turning-a-marketplace-demo-into-a-real-product-experience-aif)
-- [Renovating a vibe-coded app: readable code, no reasoning behind it](https://dev.to/yveshabchy/renovating-a-vibe-coded-app-readable-code-no-reasoning-behind-it-2eg1)
-- [Most of the Questions Will Not Be About Code](https://dev.to/asael_shinder_9f53bdca840/most-of-the-questions-will-not-be-about-code-55dm)
-- [From Mathematical Equations to Financial Modeling: My HackerRank Hackathon Experience](https://dev.to/panda_suraj/from-mathematical-equations-to-financial-modeling-my-hackerrank-hackathon-experience-2bdf)
+- [Why Your .NET MCP Tool Classes Crash at Runtime &lpar;And the Two-Line Fix&rpar;](https://dev.to/tekspry/why-your-net-mcp-tool-classes-crash-at-runtime-and-the-two-line-fix-lcb)
+- [Learn Eval Ownership by Building a Tiny Lab Witness](https://dev.to/magickong/learn-eval-ownership-by-building-a-tiny-lab-witness-3ic7)
+- [5 Small Projects That Can Make You Better at JavaScript](https://dev.to/webprims/5-small-projects-that-can-make-you-better-at-javascript-4cia)
+- [How long should CLAUDE.md be? The 200-line target and what it costs you](https://dev.to/aicoding-guide/how-long-should-claudemd-be-the-200-line-target-and-what-it-costs-you-5a2e)
+- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Arbitrum Bridge](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-arbitrum-bridge-5603)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
