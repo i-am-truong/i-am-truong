@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-1e6j)
-- [How I pick a voice input setup for PC typing &lpar;2026&rpar;](https://dev.to/starlightxbaby/how-i-pick-a-voice-input-setup-for-pc-typing-2026-50a1)
-- [Nobody wants to import your library](https://dev.to/ashish_sinha_5241c7673d93/nobody-wants-to-import-your-library-1bbn)
-- [Ahead of the Chatbot generation: Scaling Production-Ready Agent Fleets with AWS AgentCore](https://dev.to/safiya_k/ahead-of-the-chatbot-generation-scaling-production-ready-agent-fleets-with-aws-agentcore-4a18)
-- [AI Is Not Your Bottleneck. Your Organization Is.](https://dev.to/stratumpraxis/ai-is-not-your-bottleneck-your-organization-is-53kh)
+- [Mastering Advanced Server-Side Caching Patterns in Next.js 14](https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2)
+- [Keeping Services Loosely Coupled Without Making Everything Abstract](https://dev.to/techforge/keeping-services-loosely-coupled-without-making-everything-abstract-1hdg)
+- [Moving Off PaaS: Deploying Production Laravel Stacks with Kamal 2](https://dev.to/klytron/moving-off-paas-deploying-production-laravel-stacks-with-kamal-2-2h0j)
+- [Digitale Souveränität: Europas Weg zur Infra-Unabhängigkeit](https://dev.to/uhltak/digitale-souveranitat-europas-weg-zur-infra-unabhangigkeit-58km)
+- [Production API Key Rotation Explained: 6 Least-Privilege Checks for Node.js GitHub Actions](https://dev.to/judsonrhodes1569/production-api-key-rotation-explained-6-least-privilege-checks-for-nodejs-github-actions-58oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
