@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Comment Section Designed My Next Experiment. Then It Made Me Freeze My Predictions.](https://dev.to/alimafana/my-comment-section-designed-my-next-experiment-then-it-made-me-freeze-my-predictions-2hg1)
-- [Python: Loops](https://dev.to/maryngure/python-loops-29k8)
-- [Everyone Said &#39;Just Go Serverless.&#39; I Ran a Long-Lived Node Process — Here&#39;s What That Bought](https://dev.to/yaseenyk04/everyone-said-just-go-serverless-i-ran-a-long-lived-node-process-heres-what-that-bought-36bb)
-- [How I Run Agents Off a React Flow Canvas, Not a Diagram](https://dev.to/yaseenyk04/how-i-run-agents-off-a-react-flow-canvas-not-a-diagram-3ieb)
-- [Software Engineer di Era AI: Bukan Digantikan, Tapi Berevolusi](https://dev.to/hellogung/software-engineer-di-era-ai-bukan-digantikan-tapi-berevolusi-3moo)
+- [Same Kitchen, Two Doors, One Maître d&#39;](https://dev.to/steefjan_wiggers_34a415b/same-kitchen-two-doors-one-maitre-d-510)
+- [Best .NET Obfuscators in 2026: Top 5 Comparison](https://dev.to/zero_heartbeat_06a3625d7a/best-net-obfuscators-in-2026-top-5-comparison-1g2p)
+- [How to Obfuscate a .NET App in GitHub Actions &lpar;CI/CD&rpar;](https://dev.to/zero_heartbeat_06a3625d7a/how-to-obfuscate-a-net-app-in-github-actions-cicd-4i3b)
+- [tracehub-mcp: Giving AI Assistants a Real Query Interface Into Your LLM Traces](https://dev.to/sai_ram_0000/tracehub-mcp-giving-ai-assistants-a-real-query-interface-into-your-llm-traces-22ck)
+- [Building NICHLYST: The 14-Day Clock, the &quot;Web App&quot; Illusion, and Hardening the Archive](https://dev.to/koztechie/building-nichlyst-the-14-day-clock-the-web-app-illusion-and-hardening-the-archive-4a6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
