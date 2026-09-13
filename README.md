@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Same Kitchen, Two Doors, One Maître d&#39;](https://dev.to/steefjan_wiggers_34a415b/same-kitchen-two-doors-one-maitre-d-510)
-- [Best .NET Obfuscators in 2026: Top 5 Comparison](https://dev.to/zero_heartbeat_06a3625d7a/best-net-obfuscators-in-2026-top-5-comparison-1g2p)
-- [How to Obfuscate a .NET App in GitHub Actions &lpar;CI/CD&rpar;](https://dev.to/zero_heartbeat_06a3625d7a/how-to-obfuscate-a-net-app-in-github-actions-cicd-4i3b)
-- [tracehub-mcp: Giving AI Assistants a Real Query Interface Into Your LLM Traces](https://dev.to/sai_ram_0000/tracehub-mcp-giving-ai-assistants-a-real-query-interface-into-your-llm-traces-22ck)
-- [Building NICHLYST: The 14-Day Clock, the &quot;Web App&quot; Illusion, and Hardening the Archive](https://dev.to/koztechie/building-nichlyst-the-14-day-clock-the-web-app-illusion-and-hardening-the-archive-4a6c)
+- [The Meter Is Running on Every Request](https://dev.to/sergueyasaelshinder/the-meter-is-running-on-every-request-2pc2)
+- [Building MyZubster: Turning a Marketplace Demo Into a Real Product Experience](https://dev.to/danielioni/building-myzubster-turning-a-marketplace-demo-into-a-real-product-experience-aif)
+- [Renovating a vibe-coded app: readable code, no reasoning behind it](https://dev.to/yveshabchy/renovating-a-vibe-coded-app-readable-code-no-reasoning-behind-it-2eg1)
+- [Most of the Questions Will Not Be About Code](https://dev.to/asael_shinder_9f53bdca840/most-of-the-questions-will-not-be-about-code-55dm)
+- [From Mathematical Equations to Financial Modeling: My HackerRank Hackathon Experience](https://dev.to/panda_suraj/from-mathematical-equations-to-financial-modeling-my-hackerrank-hackathon-experience-2bdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
