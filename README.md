@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your .NET MCP Tool Classes Crash at Runtime &lpar;And the Two-Line Fix&rpar;](https://dev.to/tekspry/why-your-net-mcp-tool-classes-crash-at-runtime-and-the-two-line-fix-lcb)
-- [Learn Eval Ownership by Building a Tiny Lab Witness](https://dev.to/magickong/learn-eval-ownership-by-building-a-tiny-lab-witness-3ic7)
-- [5 Small Projects That Can Make You Better at JavaScript](https://dev.to/webprims/5-small-projects-that-can-make-you-better-at-javascript-4cia)
-- [How long should CLAUDE.md be? The 200-line target and what it costs you](https://dev.to/aicoding-guide/how-long-should-claudemd-be-the-200-line-target-and-what-it-costs-you-5a2e)
-- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Arbitrum Bridge](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-arbitrum-bridge-5603)
+- [How to Build a Custom Ecommerce Store with Thor Commerce and AI](https://dev.to/rsoe/how-to-build-a-custom-ecommerce-store-with-thor-commerce-and-ai-2786)
+- [Why I&#39;m Migrating My Blog to Astro](https://dev.to/somedood/why-im-migrating-my-blog-to-astro-2o4)
+- [AI Workflow Automation in WordPress: Where the 4WP Plugins Are Headed](https://dev.to/adovgun/ai-workflow-automation-in-wordpress-where-the-4wp-plugins-are-headed-1la8)
+- [A 100 PageSpeed score does not contain INP, and that is the most expensive thing about it](https://dev.to/413x/a-100-pagespeed-score-does-not-contain-inp-and-that-is-the-most-expensive-thing-about-it-260e)
+- [Self-taught dev with real client work, looking for a team to learn from](https://dev.to/monicah/self-taught-dev-with-real-client-work-looking-for-a-team-to-learn-from-130g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
