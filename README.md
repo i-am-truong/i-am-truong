@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Advanced Server-Side Caching Patterns in Next.js 14](https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2)
-- [Keeping Services Loosely Coupled Without Making Everything Abstract](https://dev.to/techforge/keeping-services-loosely-coupled-without-making-everything-abstract-1hdg)
-- [Moving Off PaaS: Deploying Production Laravel Stacks with Kamal 2](https://dev.to/klytron/moving-off-paas-deploying-production-laravel-stacks-with-kamal-2-2h0j)
-- [Digitale Souveränität: Europas Weg zur Infra-Unabhängigkeit](https://dev.to/uhltak/digitale-souveranitat-europas-weg-zur-infra-unabhangigkeit-58km)
-- [Production API Key Rotation Explained: 6 Least-Privilege Checks for Node.js GitHub Actions](https://dev.to/judsonrhodes1569/production-api-key-rotation-explained-6-least-privilege-checks-for-nodejs-github-actions-58oc)
+- [Record why an approach was rejected—and when to revisit it](https://dev.to/masondelan/record-why-an-approach-was-rejected-and-when-to-revisit-it-20op)
+- [AI Website Handoffs: When a Prototype Needs a Real Code Boundary](https://dev.to/linxi-ai/ai-website-handoffs-when-a-prototype-needs-a-real-code-boundary-2fcc)
+- [I made two AIs review each other&#39;s code for 30 days. A human still caught the bug in 5 minutes.](https://dev.to/infoinlet1/i-made-two-ais-review-each-others-code-for-30-days-a-human-still-caught-the-bug-in-5-minutes-484a)
+- [The more aggressive matmul kernel lost to the register budget](https://dev.to/sarthakagrawal927/the-more-aggressive-matmul-kernel-lost-to-the-register-budget-1e2i)
+- [&quot;Gen-Alpha is Cooking&quot;: Why 12 and 13-year-olds are out-shipping adults with zero budget.](https://dev.to/koda2026/gen-alpha-is-cooking-why-12-and-13-year-olds-are-out-shipping-adults-with-zero-budget-ain)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
