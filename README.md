@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Material Design 4 in Android: UX Patterns That Convert](https://dev.to/mryadavgulshan/material-design-4-in-android-ux-patterns-that-convert-3jcm)
-- [Implementing Named Slots in React With Child Type Inspection](https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4)
-- [Top 5 AI Governance Tools for Enterprises &lpar;2026&rpar;](https://dev.to/coderoflagos/top-5-ai-governance-tools-for-enterprises-2026-d2g)
-- [Diseñando una Landing Zone enterprise en 2026: el framework de decisiones estructurales para clientes con legacy y ambición de IA](https://dev.to/oscar_gaviria_2b862594738/disenando-una-landing-zone-enterprise-en-2026-el-framework-de-decisiones-estructurales-para-3g08)
-- [I looked at 558 AGENTS.md files: here&#39;s a 5-minute check for yours](https://dev.to/janzong/i-looked-at-558-agentsmd-files-heres-a-5-minute-check-for-yours-5cih)
+- [Fill an SMS Verification Code Without Reading the Inbox](https://dev.to/codenameone/fill-an-sms-verification-code-without-reading-the-inbox-926)
+- [An OpenAI Agent Swarm Attacked RubyGems](https://dev.to/cseeman/an-openai-agent-swarm-attacked-rubygems-26fk)
+- [Upgrading a Locked-Down Linux Fleet with Nothing but kubectl](https://dev.to/sidharth_cp/upgrading-a-locked-down-linux-fleet-with-nothing-but-kubectl-3d7k)
+- [[Boost]](https://dev.to/managerfx/-1577)
+- [OpenClaw Plugin: Connect WAIaaS to LangChain, CrewAI, and Any AI Framework](https://dev.to/walletguy/openclaw-plugin-connect-waiaas-to-langchain-crewai-and-any-ai-framework-1klh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
