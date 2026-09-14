@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grok Bot and the Rise of AI Teammates](https://dev.to/javaskr/grok-bot-and-the-rise-of-ai-teammates-3ib7)
-- [Instinct&#39;s AI Assistant Sent an Email Nobody Approved](https://dev.to/theaidownside/instincts-ai-assistant-sent-an-email-nobody-approved-46nk)
-- [Week 13 of #100DaysOfCode: Completing Spring Microservices and Starting JUnit 5](https://dev.to/onatade_abdulmajeed/week-13-of-100daysofcode-completing-spring-microservices-and-starting-junit-5-50pd)
-- [My Extraction Score Was 0.08 and the Model Was Innocent: Rebuilding the Ruler](https://dev.to/debashish_ghosal/my-extraction-score-was-008-and-the-model-was-innocent-rebuilding-the-ruler-2fc1)
-- [Implementing a Secure MCP Server](https://dev.to/cherware/implementing-a-secure-mcp-server-27a0)
+- [The Sky Becomes a Data Center: The Race to Put AI in Orbit](https://dev.to/presentofai/the-sky-becomes-a-data-center-the-race-to-put-ai-in-orbit-25g6)
+- [Nvidia เปิดสูตรเหรียญทอง IMO ทั้งชุด หลังนักคณิตศาสตร์เตือนเรื่อง AI](https://dev.to/sarantoon/nvidia-epidsuutrehriiyythng-imo-thangchud-hlangnakkhnitsaastretuueneruueng-ai-3bcg)
+- [The Workflow Ran With Four Personas Instead of Five and Looked Fine](https://dev.to/quintetkit/the-workflow-ran-with-four-personas-instead-of-five-and-looked-fine-2cd7)
+- [Calling the NovelAI V5 API directly: nai-diffusion-5-full request body, params_version 4/3/1/0 identical, missing v4_prompt is a 500](https://dev.to/ilan_kim/calling-the-novelai-v5-api-directly-nai-diffusion-5-full-request-body-paramsversion-4310-133a)
+- [Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4](https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
