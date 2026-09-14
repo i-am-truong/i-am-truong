@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Sky Becomes a Data Center: The Race to Put AI in Orbit](https://dev.to/presentofai/the-sky-becomes-a-data-center-the-race-to-put-ai-in-orbit-25g6)
-- [Nvidia เปิดสูตรเหรียญทอง IMO ทั้งชุด หลังนักคณิตศาสตร์เตือนเรื่อง AI](https://dev.to/sarantoon/nvidia-epidsuutrehriiyythng-imo-thangchud-hlangnakkhnitsaastretuueneruueng-ai-3bcg)
-- [The Workflow Ran With Four Personas Instead of Five and Looked Fine](https://dev.to/quintetkit/the-workflow-ran-with-four-personas-instead-of-five-and-looked-fine-2cd7)
-- [Calling the NovelAI V5 API directly: nai-diffusion-5-full request body, params_version 4/3/1/0 identical, missing v4_prompt is a 500](https://dev.to/ilan_kim/calling-the-novelai-v5-api-directly-nai-diffusion-5-full-request-body-paramsversion-4310-133a)
-- [Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4](https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b)
+- [PCB Design on Mobile: Can You Really Design a Board on a Phone, Tablet, or Chromebook?](https://dev.to/dibyaprakash_pradhan/pcb-design-on-mobile-can-you-really-design-a-board-on-a-phone-tablet-or-chromebook-27od)
+- [AI Agent Testing: Why a 77% Pass Rate Can Mean 53% in Production](https://dev.to/abyzgenic/ai-agent-testing-why-a-77-pass-rate-can-mean-53-in-production-3ln)
+- [Security Exposure Counts Need Context](https://dev.to/stark_zhuang_df5076f35c68/security-exposure-counts-need-context-1a20)
+- [Bir Hafta Sonu Projesi: AWS EC2 Üzerinde V2Ray &lpar;3X-UI&rpar; ve Cloudflare WARP ile Datacenter IP Engellerini Aşmak](https://dev.to/hakanbaban53/bir-hafta-sonu-projesi-aws-ec2-uzerinde-v2ray-3x-ui-ve-cloudflare-warp-ile-datacenter-ip-e0)
+- [Rails の `dependent: :destroy` が激重になる話を簡単な例で](https://dev.to/kaziusan/rails-no-dependent-destroy-gaben-fan-deji-zhong-ninaruhua-wojian-dan-nali-de-301a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
