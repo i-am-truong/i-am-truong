@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fill an SMS Verification Code Without Reading the Inbox](https://dev.to/codenameone/fill-an-sms-verification-code-without-reading-the-inbox-926)
-- [An OpenAI Agent Swarm Attacked RubyGems](https://dev.to/cseeman/an-openai-agent-swarm-attacked-rubygems-26fk)
-- [Upgrading a Locked-Down Linux Fleet with Nothing but kubectl](https://dev.to/sidharth_cp/upgrading-a-locked-down-linux-fleet-with-nothing-but-kubectl-3d7k)
-- [[Boost]](https://dev.to/managerfx/-1577)
-- [OpenClaw Plugin: Connect WAIaaS to LangChain, CrewAI, and Any AI Framework](https://dev.to/walletguy/openclaw-plugin-connect-waiaas-to-langchain-crewai-and-any-ai-framework-1klh)
+- [Lint a One-Page Charter Before an Agent Pilot Starts](https://dev.to/techlab_7968/lint-a-one-page-charter-before-an-agent-pilot-starts-4cbn)
+- [What should trigger an autonomous agent in production?](https://dev.to/causely/what-should-trigger-an-autonomous-agent-in-production-3ado)
+- [Ephemeral Generators Need a Review Boundary](https://dev.to/codepro_4664/ephemeral-generators-need-a-review-boundary-569e)
+- [Case Study: Freeze the Error Taxonomy Before an Agent Writes the Error Mapper](https://dev.to/devrs_9381/case-study-freeze-the-error-taxonomy-before-an-agent-writes-the-error-mapper-hdd)
+- [Maye Enterprise Software Doesn’t Have to Suck Anymore](https://dev.to/remojansen/maye-enterprise-software-doesnt-have-to-suck-anymore-2163)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
