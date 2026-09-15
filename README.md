@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Listened to a Blockchain in Real Time for the First Time. Here&#39;s What I Learned.](https://dev.to/luisbotelho/i-listened-to-a-blockchain-in-real-time-for-the-first-time-heres-what-i-learned-38co)
-- [I built 30+ free browser tools for pixel artists in a weekend — here they are](https://dev.to/penny_penguin_199601ef2a7/i-built-30-free-browser-tools-for-pixel-artists-in-a-weekend-here-they-are-1g3e)
-- [Cost-Effective Public Hosting for Typescript/MySQL Monorepo: Optimizing for Small User Base Without Unnecessary Expenses](https://dev.to/serbyte/cost-effective-public-hosting-for-typescriptmysql-monorepo-optimizing-for-small-user-base-without-4j34)
-- [Steering vectors align LLMs with human values](https://dev.to/olaughter/steering-vectors-align-llms-with-human-values-4i4l)
-- [I Stopped Managing Servers Manually — Understanding Docker, Amazon ECR, ECS &amp; Fargate](https://dev.to/anupa_supul/i-stopped-managing-servers-manually-understanding-docker-amazon-ecr-ecs-fargate-46cn)
+- [I Connected Claude to 20 Years of Azure SQL Data with a Custom MCP Server. Here&#39;s How.](https://dev.to/mhk_sameera/i-connected-claude-to-20-years-of-azure-sql-data-with-a-custom-mcp-server-heres-how-53ba)
+- [View and Automatically Decode Captured Data with TraceEagle: JSON Pretty, Hex View, Media Preview](https://dev.to/datastack/view-and-automatically-decode-captured-data-with-traceeagle-json-pretty-hex-view-media-preview-36oi)
+- [LLM Wiki&#39;s Two-Step Chain-of-Thought Ingest: How Incremental Cache and Source Traceability Replace Traditional RAG](https://dev.to/mech_app_ai/llm-wikis-two-step-chain-of-thought-ingest-how-incremental-cache-and-source-traceability-replace-4acc)
+- [The Spreadsheet Copilot Test: Ask It a Number You Already Know](https://dev.to/ugliai/the-spreadsheet-copilot-test-ask-it-a-number-you-already-know-4nfh)
+- [WebNN: The Only Web API That Can Reach Your NPU](https://dev.to/grimicorn/webnn-the-only-web-api-that-can-reach-your-npu-2pbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
