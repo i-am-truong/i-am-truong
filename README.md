@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 6.0 `--strictBuiltinIteratorReturn`: What Changes When Iterators Finally Have Correct Return Types](https://dev.to/jsmanifest/typescript-60-strictbuiltiniteratorreturn-what-changes-when-iterators-finally-have-correct-804)
-- [The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh)
-- [I&#39;m 12. I ran a global Code Jam on a $150 phone. Here’s the Supabase architecture that held it together. 🐯](https://dev.to/koda2026/im-12-i-ran-a-global-code-jam-on-a-150-phone-heres-the-supabase-architecture-that-held-it-4jkk)
-- [One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy](https://dev.to/carlosrgomes/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy-4b9m)
-- [SaaS Demo Data: Show One Complete Workflow](https://dev.to/urielbitton/saas-demo-data-show-one-complete-workflow-6m0)
+- [The Standup Is Now Automated. The Team Is Slowly Forgetting How to Think Together.](https://dev.to/javiercastromdq/the-standup-is-now-automated-the-team-is-slowly-forgetting-how-to-think-together-586j)
+- [Isolating Multi‑Tenant Email Cron Jobs in a Next.js/Node Monorepo](https://dev.to/zaerohell/isolating-multi-tenant-email-cron-jobs-in-a-nextjsnode-monorepo-mle)
+- [What If a Transformer Never Had to Forget? Meet the Recurrent Looped Transformer &lpar;RLT&rpar;](https://dev.to/neha_maurya/what-if-a-transformer-never-had-to-forget-meet-the-recurrent-looped-transformer-rlt-43oh)
+- [From Spreadsheets to a Self-Hosted Mini-ERP: Building an Inventory System with an AI Layer](https://dev.to/giusseppemarinelly/from-spreadsheets-to-a-self-hosted-mini-erp-building-an-inventory-system-with-an-ai-layer-1e8k)
+- [Snapyo — free TikTok, Reels &amp; YouTube Shorts downloader &lpar;video + MP3&rpar;, built in 2 days](https://dev.to/utopiahq/snapyo-free-tiktok-reels-youtube-shorts-downloader-video-mp3-built-in-2-days-5030)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
