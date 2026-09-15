@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Connected Claude to 20 Years of Azure SQL Data with a Custom MCP Server. Here&#39;s How.](https://dev.to/mhk_sameera/i-connected-claude-to-20-years-of-azure-sql-data-with-a-custom-mcp-server-heres-how-53ba)
-- [View and Automatically Decode Captured Data with TraceEagle: JSON Pretty, Hex View, Media Preview](https://dev.to/datastack/view-and-automatically-decode-captured-data-with-traceeagle-json-pretty-hex-view-media-preview-36oi)
-- [LLM Wiki&#39;s Two-Step Chain-of-Thought Ingest: How Incremental Cache and Source Traceability Replace Traditional RAG](https://dev.to/mech_app_ai/llm-wikis-two-step-chain-of-thought-ingest-how-incremental-cache-and-source-traceability-replace-4acc)
-- [The Spreadsheet Copilot Test: Ask It a Number You Already Know](https://dev.to/ugliai/the-spreadsheet-copilot-test-ask-it-a-number-you-already-know-4nfh)
-- [WebNN: The Only Web API That Can Reach Your NPU](https://dev.to/grimicorn/webnn-the-only-web-api-that-can-reach-your-npu-2pbg)
+- [TypeScript 6.0 `--strictBuiltinIteratorReturn`: What Changes When Iterators Finally Have Correct Return Types](https://dev.to/jsmanifest/typescript-60-strictbuiltiniteratorreturn-what-changes-when-iterators-finally-have-correct-804)
+- [The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh)
+- [I&#39;m 12. I ran a global Code Jam on a $150 phone. Here’s the Supabase architecture that held it together. 🐯](https://dev.to/koda2026/im-12-i-ran-a-global-code-jam-on-a-150-phone-heres-the-supabase-architecture-that-held-it-4jkk)
+- [One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy](https://dev.to/carlosrgomes/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy-4b9m)
+- [SaaS Demo Data: Show One Complete Workflow](https://dev.to/urielbitton/saas-demo-data-show-one-complete-workflow-6m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
