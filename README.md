@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Blocking an Agent Isn&#39;t Enough: Wiring LangChain Into the Agent Control Plane](https://dev.to/cognous/when-blocking-an-agent-isnt-enough-wiring-langchain-into-the-agent-control-plane-c43)
-- [The Hell Documentation](https://dev.to/icarotelesdasilva/the-hell-documentation-4k28)
-- [Por que o seu código deveria falar a mesma língua do seu negócio &lpar;e não do seu framework&rpar;](https://dev.to/powerclonic/por-que-o-seu-codigo-deveria-falar-a-mesma-lingua-do-seu-negocio-e-nao-do-seu-framework-aoh)
-- [Building MyZubster World: A Privacy-First Metaverse Connected to a Circular Marketplace](https://dev.to/danielioni/building-myzubster-world-a-privacy-first-metaverse-connected-to-a-circular-marketplace-3pci)
-- [Architectural Breakdown: Empty Is Not a State](https://dev.to/agenticstack/architectural-breakdown-empty-is-not-a-state-1h3f)
+- [I Listened to a Blockchain in Real Time for the First Time. Here&#39;s What I Learned.](https://dev.to/luisbotelho/i-listened-to-a-blockchain-in-real-time-for-the-first-time-heres-what-i-learned-38co)
+- [I built 30+ free browser tools for pixel artists in a weekend — here they are](https://dev.to/penny_penguin_199601ef2a7/i-built-30-free-browser-tools-for-pixel-artists-in-a-weekend-here-they-are-1g3e)
+- [Cost-Effective Public Hosting for Typescript/MySQL Monorepo: Optimizing for Small User Base Without Unnecessary Expenses](https://dev.to/serbyte/cost-effective-public-hosting-for-typescriptmysql-monorepo-optimizing-for-small-user-base-without-4j34)
+- [Steering vectors align LLMs with human values](https://dev.to/olaughter/steering-vectors-align-llms-with-human-values-4i4l)
+- [I Stopped Managing Servers Manually — Understanding Docker, Amazon ECR, ECS &amp; Fargate](https://dev.to/anupa_supul/i-stopped-managing-servers-manually-understanding-docker-amazon-ecr-ecs-fargate-46cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
