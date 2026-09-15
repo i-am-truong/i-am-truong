@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SetrixDB: a set engine in Go — exact set intersection over IDs &lpar;and where it loses&rpar;](https://dev.to/tgosoul/setrixdb-a-set-engine-in-go-exact-set-intersection-over-ids-and-where-it-loses-39dm)
-- [SetrixDB: motor de conjuntos em Go — interseção exata sobre IDs &lpar;e onde ele perde&rpar;](https://dev.to/tgosoul/setrixdb-motor-de-conjuntos-em-go-intersecao-exata-sobre-ids-e-onde-ele-perde-dic)
-- [I&#39;m Learning to Code — But I’m Learning Alone.”](https://dev.to/shabani_hamidu_8cb7f48c9a/im-learning-to-code-but-im-learning-alone-4nd1)
-- [One 5G frame, two security contexts — reading a decrypted NR attach](https://dev.to/eventhelix/one-5g-frame-two-security-contexts-reading-a-decrypted-nr-attach-43gk)
-- [How to move a Google Doc into Confluence Cloud](https://dev.to/mikhailklimenko/how-to-move-a-google-doc-into-confluence-cloud-5e68)
+- [‘Gotten Lazy’: A Week of Users Watching Their AI Do Less](https://dev.to/theaidownside/gotten-lazy-a-week-of-users-watching-their-ai-do-less-3494)
+- [Expiry Windows: Node.js Email Status, SMS Escalation, and Event Traces](https://dev.to/horatiofox1281/expiry-windows-nodejs-email-status-sms-escalation-and-event-traces-303k)
+- [Examining the &quot;Boolean-Switch&quot; in Java \_&lpar;ツ&rpar;_/](https://dev.to/annavi11arrea1/examining-the-boolean-switch-in-java-tu--39j4)
+- [Conceptual Contours](https://dev.to/mckeondev/conceptual-contours-dc6)
+- [NFL playoff odds after Week 1 &lpar;2026&rpar;: why my Monte Carlo model barely trusts a 31-10 win](https://dev.to/commodus67/nfl-playoff-odds-after-week-1-2026-why-my-monte-carlo-model-barely-trusts-a-31-10-win-25k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
