@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lint a One-Page Charter Before an Agent Pilot Starts](https://dev.to/techlab_7968/lint-a-one-page-charter-before-an-agent-pilot-starts-4cbn)
-- [What should trigger an autonomous agent in production?](https://dev.to/causely/what-should-trigger-an-autonomous-agent-in-production-3ado)
-- [Ephemeral Generators Need a Review Boundary](https://dev.to/codepro_4664/ephemeral-generators-need-a-review-boundary-569e)
-- [Case Study: Freeze the Error Taxonomy Before an Agent Writes the Error Mapper](https://dev.to/devrs_9381/case-study-freeze-the-error-taxonomy-before-an-agent-writes-the-error-mapper-hdd)
-- [Maye Enterprise Software Doesn’t Have to Suck Anymore](https://dev.to/remojansen/maye-enterprise-software-doesnt-have-to-suck-anymore-2163)
+- [When Blocking an Agent Isn&#39;t Enough: Wiring LangChain Into the Agent Control Plane](https://dev.to/cognous/when-blocking-an-agent-isnt-enough-wiring-langchain-into-the-agent-control-plane-c43)
+- [The Hell Documentation](https://dev.to/icarotelesdasilva/the-hell-documentation-4k28)
+- [Por que o seu código deveria falar a mesma língua do seu negócio &lpar;e não do seu framework&rpar;](https://dev.to/powerclonic/por-que-o-seu-codigo-deveria-falar-a-mesma-lingua-do-seu-negocio-e-nao-do-seu-framework-aoh)
+- [Building MyZubster World: A Privacy-First Metaverse Connected to a Circular Marketplace](https://dev.to/danielioni/building-myzubster-world-a-privacy-first-metaverse-connected-to-a-circular-marketplace-3pci)
+- [Architectural Breakdown: Empty Is Not a State](https://dev.to/agenticstack/architectural-breakdown-empty-is-not-a-state-1h3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
