@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying SSH Key Management and Security Inside Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/davjesse/demystifying-ssh-key-management-and-security-inside-windows-subsystem-for-linux-wsl-2ldm)
-- [CetinLM: Breaking the Billion-Dollar AI Infrastructure Myth](https://dev.to/hyperroxsi/cetinlm-breaking-the-billion-dollar-ai-infrastructure-myth-2imc)
-- [How to Test a UPS: Charge Is Not Health](https://dev.to/techfuelhq/how-to-test-a-ups-charge-is-not-health-nb4)
-- [How to use libvmaf_cuda on Windows: an easy-to-follow guide &lpar;WSL2 + Docker + NVIDIA&rpar;](https://dev.to/rtagl/-how-to-use-libvmafcuda-on-windows-an-easy-to-follow-guide-wsl2-docker-nvidia-59mc)
-- [Node.js SaaS Job Retries — Simple Queues, Delayed Backoff, and Dead Letters](https://dev.to/lachlanholm6518/nodejs-saas-job-retries-simple-queues-delayed-backoff-and-dead-letters-351k)
+- [I Gave a Simulated Connectome External Memory. Then I Killed the Brain.](https://dev.to/constant_itis/i-gave-a-simulated-connectome-external-memory-then-i-killed-the-brain-175)
+- [I Said Install ffmpeg. I Did Not Say Rewrite My Machine.](https://dev.to/constant_itis/i-said-install-ffmpeg-i-did-not-say-rewrite-my-machine-57an)
+- [CVE-2026-16723: Pre-Auth RCE in Fastjson 1.x via the @JSONType Trust Branch](https://dev.to/guidance_white/cve-2026-16723-pre-auth-rce-in-fastjson-1x-via-the-jsontype-trust-branch-10bf)
+- [How to Lead DevRel in the AI Era: Stop Playing It Safe](https://dev.to/blackgirlbytes/how-to-lead-devrel-in-the-ai-boom-stop-playing-it-safe-19jo)
+- [An AI impersonated me](https://dev.to/banana_cool/an-ai-impersonated-me-3lhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
