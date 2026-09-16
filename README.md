@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [‘Gotten Lazy’: A Week of Users Watching Their AI Do Less](https://dev.to/theaidownside/gotten-lazy-a-week-of-users-watching-their-ai-do-less-3494)
-- [Expiry Windows: Node.js Email Status, SMS Escalation, and Event Traces](https://dev.to/horatiofox1281/expiry-windows-nodejs-email-status-sms-escalation-and-event-traces-303k)
-- [Examining the &quot;Boolean-Switch&quot; in Java \_&lpar;ツ&rpar;_/](https://dev.to/annavi11arrea1/examining-the-boolean-switch-in-java-tu--39j4)
-- [Conceptual Contours](https://dev.to/mckeondev/conceptual-contours-dc6)
-- [NFL playoff odds after Week 1 &lpar;2026&rpar;: why my Monte Carlo model barely trusts a 31-10 win](https://dev.to/commodus67/nfl-playoff-odds-after-week-1-2026-why-my-monte-carlo-model-barely-trusts-a-31-10-win-25k8)
+- [Chandra Meets CodeDeploy: My First AWS Deployment Journey](https://dev.to/chandra_prabha_v/chandra-meets-codedeploy-my-first-aws-deployment-journey-2oom)
+- [JaiTTS โคลนเสียงไทยที่คะแนนแม่นกว่ามนุษย์ และเปิดใช้ฟรี](https://dev.to/sarantoon/jaitts-okhlnesiiyngaithythiikhaaennaemnkwaamnusy-aelaepidaichfrii-648)
+- [What If AI Had a Digital Endocrine System?](https://dev.to/alirezaai/what-if-ai-had-a-digital-endocrine-system-f05)
+- [Your AI Vendor&#39;s Benchmark Score Is Theater. Test It on Your Own Data.](https://dev.to/goodpa/your-ai-vendors-benchmark-score-is-theater-test-it-on-your-own-data-1e3b)
+- [How to Fine-Tune Nvidia Nemotron 3.5 ASR for Your Language, Domain, or Accent](https://dev.to/judy_miranttie/how-to-fine-tune-nvidia-nemotron-35-asr-for-your-language-domain-or-accent-2n8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
