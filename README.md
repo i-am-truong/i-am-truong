@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I went through it all](https://dev.to/tomerbendavid/i-went-through-it-all-3j37)
-- [Finish your software factory: take a bad change back before anyone notices](https://dev.to/launchdarkly/finish-your-software-factory-take-a-bad-change-back-before-anyone-notices-8dn)
-- [Arquitetura Hexagonal em Python do zero: um domínio que não sabe onde mora nem quem o chama](https://dev.to/m_kocotem_1b69865766c653/arquitetura-hexagonal-em-python-do-zero-um-dominio-que-nao-sabe-onde-mora-nem-quem-o-chama-2bfn)
-- [Probably you won&#39;t like it, but...](https://dev.to/canro91/probably-you-wont-like-it-but-3m89)
-- [The Database I Deleted: Migrating an Agentic RAG App to AWS Serverless](https://dev.to/dmitriy_trunov_9a09a497b1/the-database-i-deleted-migrating-an-agentic-rag-app-to-aws-serverless-n18)
+- [Demystifying SSH Key Management and Security Inside Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/davjesse/demystifying-ssh-key-management-and-security-inside-windows-subsystem-for-linux-wsl-2ldm)
+- [CetinLM: Breaking the Billion-Dollar AI Infrastructure Myth](https://dev.to/hyperroxsi/cetinlm-breaking-the-billion-dollar-ai-infrastructure-myth-2imc)
+- [How to Test a UPS: Charge Is Not Health](https://dev.to/techfuelhq/how-to-test-a-ups-charge-is-not-health-nb4)
+- [How to use libvmaf_cuda on Windows: an easy-to-follow guide &lpar;WSL2 + Docker + NVIDIA&rpar;](https://dev.to/rtagl/-how-to-use-libvmafcuda-on-windows-an-easy-to-follow-guide-wsl2-docker-nvidia-59mc)
+- [Node.js SaaS Job Retries — Simple Queues, Delayed Backoff, and Dead Letters](https://dev.to/lachlanholm6518/nodejs-saas-job-retries-simple-queues-delayed-backoff-and-dead-letters-351k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
