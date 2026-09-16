@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Output Methods: Complete Guide to print&lpar;&rpar; vs. println&lpar;&rpar;](https://dev.to/poojakolusu/java-output-methods-complete-guide-to-print-vs-println-23lh)
-- [How I Built a Flash Sale System for WooCommerce Without Changing Product Prices](https://dev.to/hiren_gediya/how-i-built-a-flash-sale-system-for-woocommerce-without-changing-product-prices-2gij)
-- [Quick Way to Build a Campus IT Helpdesk Chatbot with Tencent EdgeOne Makers](https://dev.to/andi_irhamm/quick-way-to-build-a-campus-it-helpdesk-chatbot-with-tencent-edgeone-makers-1n8)
-- [A Beginner’s Guide to Unsupervised Learning in Machine Learning](https://dev.to/ephantus_macharia_/a-beginners-guide-to-unsupervised-learning-in-machine-learning-1535)
-- [GLM-6.0 Is a Feedback-System Roadmap, Not a Model Spec](https://dev.to/nathanbrooks1/glm-60-is-a-feedback-system-roadmap-not-a-model-spec-2gf)
+- [Cloud-Based Recovery Didn&#39;t Eliminate USB Drives. It Eliminated Recovery Independence.](https://dev.to/ntctech/cloud-based-recovery-didnt-eliminate-usb-drives-it-eliminated-recovery-independence-440f)
+- [Python String Functions](https://dev.to/ashleyk/python-string-functions-410)
+- [The 10 percent that bought nothing: what a flooring calculator should actually tell you](https://dev.to/danorie/the-10-percent-that-bought-nothing-what-a-flooring-calculator-should-actually-tell-you-1ene)
+- [Hi everyone have a Question!](https://dev.to/wahid_ullah_netdev13/hi-everyone-have-a-question-4kp4)
+- [The Detection Layer That Was Quietly Off: GuardDuty Disabled on an AWS Account](https://dev.to/bala_paranj_059d338e44e7e/the-detection-layer-that-was-quietly-off-guardduty-disabled-on-an-aws-account-45d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
