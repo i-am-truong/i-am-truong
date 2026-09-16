@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud-Based Recovery Didn&#39;t Eliminate USB Drives. It Eliminated Recovery Independence.](https://dev.to/ntctech/cloud-based-recovery-didnt-eliminate-usb-drives-it-eliminated-recovery-independence-440f)
-- [Python String Functions](https://dev.to/ashleyk/python-string-functions-410)
-- [The 10 percent that bought nothing: what a flooring calculator should actually tell you](https://dev.to/danorie/the-10-percent-that-bought-nothing-what-a-flooring-calculator-should-actually-tell-you-1ene)
-- [Hi everyone have a Question!](https://dev.to/wahid_ullah_netdev13/hi-everyone-have-a-question-4kp4)
-- [The Detection Layer That Was Quietly Off: GuardDuty Disabled on an AWS Account](https://dev.to/bala_paranj_059d338e44e7e/the-detection-layer-that-was-quietly-off-guardduty-disabled-on-an-aws-account-45d8)
+- [I went through it all](https://dev.to/tomerbendavid/i-went-through-it-all-3j37)
+- [Finish your software factory: take a bad change back before anyone notices](https://dev.to/launchdarkly/finish-your-software-factory-take-a-bad-change-back-before-anyone-notices-8dn)
+- [Arquitetura Hexagonal em Python do zero: um domínio que não sabe onde mora nem quem o chama](https://dev.to/m_kocotem_1b69865766c653/arquitetura-hexagonal-em-python-do-zero-um-dominio-que-nao-sabe-onde-mora-nem-quem-o-chama-2bfn)
+- [Probably you won&#39;t like it, but...](https://dev.to/canro91/probably-you-wont-like-it-but-3m89)
+- [The Database I Deleted: Migrating an Agentic RAG App to AWS Serverless](https://dev.to/dmitriy_trunov_9a09a497b1/the-database-i-deleted-migrating-an-agentic-rag-app-to-aws-serverless-n18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
