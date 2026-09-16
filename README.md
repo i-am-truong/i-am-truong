@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chandra Meets CodeDeploy: My First AWS Deployment Journey](https://dev.to/chandra_prabha_v/chandra-meets-codedeploy-my-first-aws-deployment-journey-2oom)
-- [JaiTTS โคลนเสียงไทยที่คะแนนแม่นกว่ามนุษย์ และเปิดใช้ฟรี](https://dev.to/sarantoon/jaitts-okhlnesiiyngaithythiikhaaennaemnkwaamnusy-aelaepidaichfrii-648)
-- [What If AI Had a Digital Endocrine System?](https://dev.to/alirezaai/what-if-ai-had-a-digital-endocrine-system-f05)
-- [Your AI Vendor&#39;s Benchmark Score Is Theater. Test It on Your Own Data.](https://dev.to/goodpa/your-ai-vendors-benchmark-score-is-theater-test-it-on-your-own-data-1e3b)
-- [How to Fine-Tune Nvidia Nemotron 3.5 ASR for Your Language, Domain, or Accent](https://dev.to/judy_miranttie/how-to-fine-tune-nvidia-nemotron-35-asr-for-your-language-domain-or-accent-2n8b)
+- [Java Output Methods: Complete Guide to print&lpar;&rpar; vs. println&lpar;&rpar;](https://dev.to/poojakolusu/java-output-methods-complete-guide-to-print-vs-println-23lh)
+- [How I Built a Flash Sale System for WooCommerce Without Changing Product Prices](https://dev.to/hiren_gediya/how-i-built-a-flash-sale-system-for-woocommerce-without-changing-product-prices-2gij)
+- [Quick Way to Build a Campus IT Helpdesk Chatbot with Tencent EdgeOne Makers](https://dev.to/andi_irhamm/quick-way-to-build-a-campus-it-helpdesk-chatbot-with-tencent-edgeone-makers-1n8)
+- [A Beginner’s Guide to Unsupervised Learning in Machine Learning](https://dev.to/ephantus_macharia_/a-beginners-guide-to-unsupervised-learning-in-machine-learning-1535)
+- [GLM-6.0 Is a Feedback-System Roadmap, Not a Model Spec](https://dev.to/nathanbrooks1/glm-60-is-a-feedback-system-roadmap-not-a-model-spec-2gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
