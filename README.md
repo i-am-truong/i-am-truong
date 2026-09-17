@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Measurable PCBA Inspection Feedback Loop](https://dev.to/maker-rayaoi/building-a-measurable-pcba-inspection-feedback-loop-55lg)
-- [Detectar volatilidad anómala en los mercados con un Temporal Fusion Transformer](https://dev.to/adrian_368e1d3e691afab697/detectar-volatilidad-anomala-en-los-mercados-con-un-temporal-fusion-transformer-20c2)
-- [MCP package versions in npm can 404 even when the package exists](https://dev.to/robswierk/mcp-package-versions-in-npm-can-404-even-when-the-package-exists-539j)
-- [The Conversation That Changed My View on AI &lpar;As a 10-Year DevOps Engineer&rpar;](https://dev.to/naveedkumbhar/i-asked-my-manager-if-ai-was-making-my-10-year-devops-career-obsolete-his-answer-changed-2kc8)
-- [The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, CIS Benchmark, and ISO 27001](https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf)
+- [TLS Handshakes and OAuth Flows Are Easier to Learn by Clicking Through Them](https://dev.to/devopsdaily/tls-handshakes-and-oauth-flows-are-easier-to-learn-by-clicking-through-them-1g1g)
+- [Stop Optimizing for Output: Why Software Engineering is a Discovery Problem](https://dev.to/dmitryame/stop-optimizing-for-output-why-software-engineering-is-a-discovery-problem-1bb9)
+- [KREMLIN: Forging Chromium Integrity Checks to Steal Banking Sessions](https://dev.to/anoymask/kremlin-forging-chromium-integrity-checks-to-steal-banking-sessions-oli)
+- [BragJack: Prompt-Forcing In-Browser AI Agents via Browser Extensions](https://dev.to/anoymask/bragjack-prompt-forcing-in-browser-ai-agents-via-browser-extensions-1d67)
+- [Google Pixel CVE-2026-58704: Limited Active Exploitation of Modem Authorization Bypass](https://dev.to/anoymask/google-pixel-cve-2026-58704-limited-active-exploitation-of-modem-authorization-bypass-1ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
