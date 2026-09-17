@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Separates AI Training Controls From Search Indexing for Website Owners](https://dev.to/alifar/cloudflare-separates-ai-training-controls-from-search-indexing-for-website-owners-152a)
-- [Privacy-First AI: Fine-Tuning Llama-3 on Your MacBook to Decipher 10 Years of Health Reports](https://dev.to/beck_moulton/privacy-first-ai-fine-tuning-llama-3-on-your-macbook-to-decipher-10-years-of-health-reports-jcb)
-- [HTTP Status Code Basics: What 200/301/403/500 Actually Mean for Maintenance Tools](https://dev.to/susumun/http-status-code-basics-what-200301403500-actually-mean-for-maintenance-tools-424a)
-- [CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)
-- [How Do Verified Sending Domains, Webhooks, and Logs Work in an Email API?](https://dev.to/sohom_47/how-do-verified-sending-domains-webhooks-and-logs-work-in-an-email-api-1lj9)
+- [I Built a Fun Name-Based Love Calculator — Here&#39;s How It Works](https://dev.to/olivia_hayes_d6ec37feae1b/i-built-a-fun-name-based-love-calculator-heres-how-it-works-17m9)
+- [Two Cloudflare Pages behaviours I had to measure to believe](https://dev.to/ankit_gupta_37c6b9df66fb7/two-cloudflare-pages-behaviours-i-had-to-measure-to-believe-4gki)
+- [Freeze a Holdout Before You Quote a Coding-Agent Score](https://dev.to/byteio_501/freeze-a-holdout-before-you-quote-a-coding-agent-score-2ooa)
+- [Ten years building applications, zero years designing infrastructure. Starting AWS in public.](https://dev.to/tayyabhassan04/ten-years-building-applications-zero-years-designing-infrastructure-starting-aws-in-public-b0j)
+- [Make Sandbox Epoch a Fencing Token Before Free Compute Vanishes Mid-Write](https://dev.to/robinzzz/make-sandbox-epoch-a-fencing-token-before-free-compute-vanishes-mid-write-3l5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
