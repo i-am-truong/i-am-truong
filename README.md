@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Assistant in Termux With Python](https://dev.to/terminaltools/how-to-build-an-ai-assistant-in-termux-with-python-4278)
-- [Building Privacy-First Web Utilities with Utilvo](https://dev.to/utilvo/building-privacy-first-web-utilities-with-utilvo-4272)
-- [An AI System Grows Upward, Not Sideways](https://dev.to/studiomeyer_io/an-ai-system-grows-upward-not-sideways-1719)
-- [Building a Vision AI Assistant with Meta AI Glasses, Flutter, and Gemini](https://dev.to/vmodal_ai/building-a-vision-ai-assistant-with-meta-ai-glasses-flutter-and-gemini-3k7i)
-- [The Explanation Gap: Why Explainable AI Still Struggles to Speak Human](https://dev.to/daviewisdm/the-explanation-gap-why-explainable-ai-still-struggles-to-speak-human-13j6)
+- [Google Search Console’s June 2026 Indexing Data Gap: What Website Owners Should Do](https://dev.to/alifar/google-search-consoles-june-2026-indexing-data-gap-what-website-owners-should-do-2nmp)
+- [5 Best LLM Routing Tools in 2026: Architectures, Latency, and Trade-Offs](https://dev.to/moussa62/5-best-llm-routing-tools-in-2026-architectures-latency-and-trade-offs-2hgl)
+- [Attaching a Runner: The DevOps Term Nobody Explains Until It Costs You](https://dev.to/bathonspidey/attaching-a-runner-the-devops-term-nobody-explains-until-it-costs-you-1h5c)
+- [Top LLM Routing Tools in 2026: Architectures, Benchmarks, and Production Trade-Offs](https://dev.to/artem42/top-llm-routing-tools-in-2026-architectures-benchmarks-and-production-trade-offs-ife)
+- [Weekly Report PDF Pipeline: 3 Boundaries Between HTML Templates and Cron Jobs](https://dev.to/elibennett128/weekly-report-pdf-pipeline-3-boundaries-between-html-templates-and-cron-jobs-4lkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
