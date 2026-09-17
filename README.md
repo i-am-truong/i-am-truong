@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Fun Name-Based Love Calculator — Here&#39;s How It Works](https://dev.to/olivia_hayes_d6ec37feae1b/i-built-a-fun-name-based-love-calculator-heres-how-it-works-17m9)
-- [Two Cloudflare Pages behaviours I had to measure to believe](https://dev.to/ankit_gupta_37c6b9df66fb7/two-cloudflare-pages-behaviours-i-had-to-measure-to-believe-4gki)
-- [Freeze a Holdout Before You Quote a Coding-Agent Score](https://dev.to/byteio_501/freeze-a-holdout-before-you-quote-a-coding-agent-score-2ooa)
-- [Ten years building applications, zero years designing infrastructure. Starting AWS in public.](https://dev.to/tayyabhassan04/ten-years-building-applications-zero-years-designing-infrastructure-starting-aws-in-public-b0j)
-- [Make Sandbox Epoch a Fencing Token Before Free Compute Vanishes Mid-Write](https://dev.to/robinzzz/make-sandbox-epoch-a-fencing-token-before-free-compute-vanishes-mid-write-3l5c)
+- [Building a Measurable PCBA Inspection Feedback Loop](https://dev.to/maker-rayaoi/building-a-measurable-pcba-inspection-feedback-loop-55lg)
+- [Detectar volatilidad anómala en los mercados con un Temporal Fusion Transformer](https://dev.to/adrian_368e1d3e691afab697/detectar-volatilidad-anomala-en-los-mercados-con-un-temporal-fusion-transformer-20c2)
+- [MCP package versions in npm can 404 even when the package exists](https://dev.to/robswierk/mcp-package-versions-in-npm-can-404-even-when-the-package-exists-539j)
+- [The Conversation That Changed My View on AI &lpar;As a 10-Year DevOps Engineer&rpar;](https://dev.to/naveedkumbhar/i-asked-my-manager-if-ai-was-making-my-10-year-devops-career-obsolete-his-answer-changed-2kc8)
+- [The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, CIS Benchmark, and ISO 27001](https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
