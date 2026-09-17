@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Gave a Simulated Connectome External Memory. Then I Killed the Brain.](https://dev.to/constant_itis/i-gave-a-simulated-connectome-external-memory-then-i-killed-the-brain-175)
-- [I Said Install ffmpeg. I Did Not Say Rewrite My Machine.](https://dev.to/constant_itis/i-said-install-ffmpeg-i-did-not-say-rewrite-my-machine-57an)
-- [CVE-2026-16723: Pre-Auth RCE in Fastjson 1.x via the @JSONType Trust Branch](https://dev.to/guidance_white/cve-2026-16723-pre-auth-rce-in-fastjson-1x-via-the-jsontype-trust-branch-10bf)
-- [How to Lead DevRel in the AI Era: Stop Playing It Safe](https://dev.to/blackgirlbytes/how-to-lead-devrel-in-the-ai-boom-stop-playing-it-safe-19jo)
-- [An AI impersonated me](https://dev.to/banana_cool/an-ai-impersonated-me-3lhi)
+- [Cloudflare Separates AI Training Controls From Search Indexing for Website Owners](https://dev.to/alifar/cloudflare-separates-ai-training-controls-from-search-indexing-for-website-owners-152a)
+- [Privacy-First AI: Fine-Tuning Llama-3 on Your MacBook to Decipher 10 Years of Health Reports](https://dev.to/beck_moulton/privacy-first-ai-fine-tuning-llama-3-on-your-macbook-to-decipher-10-years-of-health-reports-jcb)
+- [HTTP Status Code Basics: What 200/301/403/500 Actually Mean for Maintenance Tools](https://dev.to/susumun/http-status-code-basics-what-200301403500-actually-mean-for-maintenance-tools-424a)
+- [CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)
+- [How Do Verified Sending Domains, Webhooks, and Logs Work in an Email API?](https://dev.to/sohom_47/how-do-verified-sending-domains-webhooks-and-logs-work-in-an-email-api-1lj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
