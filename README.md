@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TLS Handshakes and OAuth Flows Are Easier to Learn by Clicking Through Them](https://dev.to/devopsdaily/tls-handshakes-and-oauth-flows-are-easier-to-learn-by-clicking-through-them-1g1g)
-- [Stop Optimizing for Output: Why Software Engineering is a Discovery Problem](https://dev.to/dmitryame/stop-optimizing-for-output-why-software-engineering-is-a-discovery-problem-1bb9)
-- [KREMLIN: Forging Chromium Integrity Checks to Steal Banking Sessions](https://dev.to/anoymask/kremlin-forging-chromium-integrity-checks-to-steal-banking-sessions-oli)
-- [BragJack: Prompt-Forcing In-Browser AI Agents via Browser Extensions](https://dev.to/anoymask/bragjack-prompt-forcing-in-browser-ai-agents-via-browser-extensions-1d67)
-- [Google Pixel CVE-2026-58704: Limited Active Exploitation of Modem Authorization Bypass](https://dev.to/anoymask/google-pixel-cve-2026-58704-limited-active-exploitation-of-modem-authorization-bypass-1ep)
+- [How to Build an AI Assistant in Termux With Python](https://dev.to/terminaltools/how-to-build-an-ai-assistant-in-termux-with-python-4278)
+- [Building Privacy-First Web Utilities with Utilvo](https://dev.to/utilvo/building-privacy-first-web-utilities-with-utilvo-4272)
+- [An AI System Grows Upward, Not Sideways](https://dev.to/studiomeyer_io/an-ai-system-grows-upward-not-sideways-1719)
+- [Building a Vision AI Assistant with Meta AI Glasses, Flutter, and Gemini](https://dev.to/vmodal_ai/building-a-vision-ai-assistant-with-meta-ai-glasses-flutter-and-gemini-3k7i)
+- [The Explanation Gap: Why Explainable AI Still Struggles to Speak Human](https://dev.to/daviewisdm/the-explanation-gap-why-explainable-ai-still-struggles-to-speak-human-13j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
