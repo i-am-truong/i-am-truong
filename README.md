@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Making Restaurant Menus Easier to Navigate](https://dev.to/albert_nahas_cdc8469a6ae8/how-ai-is-making-restaurant-menus-easier-to-navigate-1m6o)
-- [Goodbye Fritz!Box, Hello Ubiquiti](https://dev.to/cdieck88/goodbye-fritzbox-hello-ubiquiti-b6m)
-- [Modular External-Firmware Architecture for Arduino UNO R4 WiFi](https://dev.to/gamertoky1188gro/modular-external-firmware-architecture-for-arduino-uno-r4-wifi-kp1)
-- [[Boost]](https://dev.to/dannwaneri/-2phg)
-- [How I built an AI code reviewer that knows when to shut up](https://dev.to/phi_blankslate/how-i-built-an-ai-code-reviewer-that-knows-when-to-shut-up-3b0c)
+- [Probabilistic Graph Neural Inference for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-during-45i8)
+- [Zeek 9.0 Launches LTS Boost for Network Security Monitoring](https://dev.to/techpulse01239/zeek-90-launches-lts-boost-for-network-security-monitoring-2m1p)
+- [Incus Lab: Belajar Rangkaian Dengan Cara Mencuba](https://dev.to/hardyweb/incus-lab-belajar-rangkaian-dengan-cara-mencuba-5fla)
+- [The only stateful part of an x402 payment gate is the replay ledger](https://dev.to/polycratia/the-only-stateful-part-of-an-x402-payment-gate-is-the-replay-ledger-2c2k)
+- [Playing YouTube in Flutter: the case for a WebView fallback](https://dev.to/leonard_matasel/playing-youtube-in-flutter-the-case-for-a-webview-fallback-25dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
