@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Search Console’s June 2026 Indexing Data Gap: What Website Owners Should Do](https://dev.to/alifar/google-search-consoles-june-2026-indexing-data-gap-what-website-owners-should-do-2nmp)
-- [5 Best LLM Routing Tools in 2026: Architectures, Latency, and Trade-Offs](https://dev.to/moussa62/5-best-llm-routing-tools-in-2026-architectures-latency-and-trade-offs-2hgl)
-- [Attaching a Runner: The DevOps Term Nobody Explains Until It Costs You](https://dev.to/bathonspidey/attaching-a-runner-the-devops-term-nobody-explains-until-it-costs-you-1h5c)
-- [Top LLM Routing Tools in 2026: Architectures, Benchmarks, and Production Trade-Offs](https://dev.to/artem42/top-llm-routing-tools-in-2026-architectures-benchmarks-and-production-trade-offs-ife)
-- [Weekly Report PDF Pipeline: 3 Boundaries Between HTML Templates and Cron Jobs](https://dev.to/elibennett128/weekly-report-pdf-pipeline-3-boundaries-between-html-templates-and-cron-jobs-4lkf)
+- [Anthropic Releases Open-Source Bloom and Petri for AI Behavior Auditing](https://dev.to/alifar/anthropic-releases-open-source-bloom-and-petri-for-ai-behavior-auditing-28ap)
+- [15 launchd Jobs and One Quota Circuit Breaker: Deciding What to Re-run Once the Circuit Closes](https://dev.to/bokuwalily/15-launchd-jobs-and-one-quota-circuit-breaker-deciding-what-to-re-run-once-the-circuit-closes-3f95)
+- [DeskKit available now!](https://dev.to/mrparcelain/deskkit-available-now-2kkk)
+- [LLM - Day 5 - RAG a Intro](https://dev.to/technonotes/llm-day-5-rag-a-intro-31p3)
+- [Anthropic and Adaptyv Bio Launch Claude-Powered Protein Design Competition](https://dev.to/alifar/anthropic-and-adaptyv-bio-launch-claude-powered-protein-design-competition-jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
