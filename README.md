@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why a VAT API Needs More Than a Rate Lookup](https://dev.to/vat-engine/why-a-vat-api-needs-more-than-a-rate-lookup-50i9)
-- [Bloated Clouds, Anyone?](https://dev.to/sharpvik/bloated-clouds-anyone-1jhc)
-- [The Cardinality Bomb: Defending APIs at the Edge Without an External Cache](https://dev.to/shyam-s00/the-cardinality-bomb-defending-apis-at-the-edge-without-an-external-cache-2b0k)
-- [Google Ads Is Shifting to Longer Queries: What Advertisers Should Change Now](https://dev.to/alifar/google-ads-is-shifting-to-longer-queries-what-advertisers-should-change-now-2ngo)
-- [The rollback that only rolled back half of it](https://dev.to/pauloantunes/the-rollback-that-only-rolled-back-half-of-it-51dg)
+- [It&#39;s Got What Content Craves: Sanity, Built for the People of Idiocracy](https://dev.to/xbill/its-got-what-content-craves-sanity-built-for-the-people-of-idiocracy-4k84)
+- [Win at WFH: How to be remote, visible, and sane all at once 🧑‍💻](https://dev.to/sonika_onboardedhq/win-at-wfh-how-to-be-remote-visible-and-sane-all-at-once-9nf)
+- [How I Turned a 10-Year-Old Galaxy Note 4 into a 1.2W Linux Server for Marine Safety](https://dev.to/keremkalyoncu/how-i-turned-a-10-year-old-galaxy-note-4-into-a-12w-linux-server-for-marine-safety-1lb5)
+- [Expose Crypto KAT Runners as MCP Tools Instead of Pasting Hex](https://dev.to/infracore/expose-crypto-kat-runners-as-mcp-tools-instead-of-pasting-hex-122l)
+- [Lux Stay Agent — a hotel travel agent that only works because its content is structured](https://dev.to/jeffreyturov/lux-stay-agent-a-hotel-travel-agent-that-only-works-because-its-content-is-structured-5ff6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
