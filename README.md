@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Got What Content Craves: Sanity, Built for the People of Idiocracy](https://dev.to/xbill/its-got-what-content-craves-sanity-built-for-the-people-of-idiocracy-4k84)
-- [Win at WFH: How to be remote, visible, and sane all at once 🧑‍💻](https://dev.to/sonika_onboardedhq/win-at-wfh-how-to-be-remote-visible-and-sane-all-at-once-9nf)
-- [How I Turned a 10-Year-Old Galaxy Note 4 into a 1.2W Linux Server for Marine Safety](https://dev.to/keremkalyoncu/how-i-turned-a-10-year-old-galaxy-note-4-into-a-12w-linux-server-for-marine-safety-1lb5)
-- [Expose Crypto KAT Runners as MCP Tools Instead of Pasting Hex](https://dev.to/infracore/expose-crypto-kat-runners-as-mcp-tools-instead-of-pasting-hex-122l)
-- [Lux Stay Agent — a hotel travel agent that only works because its content is structured](https://dev.to/jeffreyturov/lux-stay-agent-a-hotel-travel-agent-that-only-works-because-its-content-is-structured-5ff6)
+- [‘Brought to You in 5-Hour Increments’: A Week of Moving AI Usage Limits](https://dev.to/theaidownside/brought-to-you-in-5-hour-increments-a-week-of-moving-ai-usage-limits-1a3)
+- [Building an Android APK Protection Platform Against Reverse Engineering](https://dev.to/charlezin_ffx/building-an-android-apk-protection-platform-against-reverse-engineering-2kn3)
+- [When the Payment-Failure Email Is the Exploit: Inside the Magento Template Rendering Chain of CVE-2026-75650](https://dev.to/jeffreyciend/when-the-payment-failure-email-is-the-exploit-inside-the-magento-template-rendering-chain-of-f49)
+- [Do AI Coding Tools Actually Make Developers Faster? The Data Says It Depends](https://dev.to/owusuaduomiflorencefl/do-ai-coding-tools-actually-make-developers-faster-the-data-says-it-depends-1e9c)
+- [How to kill a Zombie?](https://dev.to/js402/how-to-kill-a-zombie-3abf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
