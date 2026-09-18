@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Domain Retirement Guard: Log Intent Before a Destructive Automation Operation](https://dev.to/callumreed2198/domain-retirement-guard-log-intent-before-a-destructive-automation-operation-3i04)
-- [Permissions &amp; Tool Allowlisting in Claude Code: A Beginner&#39;s Guide](https://dev.to/alimurrazi/permissions-tool-allowlisting-in-claude-code-a-beginners-guide-592i)
-- [MCP server ที่คนใช้จริง: วัด 11 ตัว แล้วพบว่าโทเคนเป็นข้อจำกัดการออกแบบ](https://dev.to/sarantoon/mcp-server-thiikhnaichcchring-wad-11-taw-aelwphbwaaothekhnepnkhcchamkadkaarkaebb-1g4h)
-- [Capsule CRM vs HubSpot: Selecting by Business Job, Costs, and Scale Constraints](https://dev.to/reaperoak/capsule-crm-vs-hubspot-selecting-by-business-job-costs-and-scale-constraints-55pi)
-- [Customer Support DNS: Migrate a Zone with 4-Gate Diff Before Nameservers](https://dev.to/winslowknight8469/customer-support-dns-migrate-a-zone-with-4-gate-diff-before-nameservers-1de1)
+- [How AI Is Making Restaurant Menus Easier to Navigate](https://dev.to/albert_nahas_cdc8469a6ae8/how-ai-is-making-restaurant-menus-easier-to-navigate-1m6o)
+- [Goodbye Fritz!Box, Hello Ubiquiti](https://dev.to/cdieck88/goodbye-fritzbox-hello-ubiquiti-b6m)
+- [Modular External-Firmware Architecture for Arduino UNO R4 WiFi](https://dev.to/gamertoky1188gro/modular-external-firmware-architecture-for-arduino-uno-r4-wifi-kp1)
+- [[Boost]](https://dev.to/dannwaneri/-2phg)
+- [How I built an AI code reviewer that knows when to shut up](https://dev.to/phi_blankslate/how-i-built-an-ai-code-reviewer-that-knows-when-to-shut-up-3b0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
