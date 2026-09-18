@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Probabilistic Graph Neural Inference for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-during-45i8)
-- [Zeek 9.0 Launches LTS Boost for Network Security Monitoring](https://dev.to/techpulse01239/zeek-90-launches-lts-boost-for-network-security-monitoring-2m1p)
-- [Incus Lab: Belajar Rangkaian Dengan Cara Mencuba](https://dev.to/hardyweb/incus-lab-belajar-rangkaian-dengan-cara-mencuba-5fla)
-- [The only stateful part of an x402 payment gate is the replay ledger](https://dev.to/polycratia/the-only-stateful-part-of-an-x402-payment-gate-is-the-replay-ledger-2c2k)
-- [Playing YouTube in Flutter: the case for a WebView fallback](https://dev.to/leonard_matasel/playing-youtube-in-flutter-the-case-for-a-webview-fallback-25dn)
+- [SaaS CSV Exports: Give Users a File They Can Actually Use](https://dev.to/urielbitton/saas-csv-exports-give-users-a-file-they-can-actually-use-5e9n)
+- [Building a TikTok Downloader: Streaming, Expiring URLs, Slideshows and MP3](https://dev.to/david1390/building-a-tiktok-downloader-streaming-expiring-urls-slideshows-and-mp3-313j)
+- [OpenBot writes the audit row before an allowed computer action runs](https://dev.to/renolu/openbot-writes-the-audit-row-before-an-allowed-computer-action-runs-cl7)
+- [Jev HighwayEnv: 60 Seconds Without a Crash](https://dev.to/trknhr/jev-x-highwayenv-60-seconds-without-a-crash-30ig)
+- [Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford&#39;s Code in Place X, and Dev3Pack Hackathon](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
