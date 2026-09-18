@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Releases Open-Source Bloom and Petri for AI Behavior Auditing](https://dev.to/alifar/anthropic-releases-open-source-bloom-and-petri-for-ai-behavior-auditing-28ap)
-- [15 launchd Jobs and One Quota Circuit Breaker: Deciding What to Re-run Once the Circuit Closes](https://dev.to/bokuwalily/15-launchd-jobs-and-one-quota-circuit-breaker-deciding-what-to-re-run-once-the-circuit-closes-3f95)
-- [DeskKit available now!](https://dev.to/mrparcelain/deskkit-available-now-2kkk)
-- [LLM - Day 5 - RAG a Intro](https://dev.to/technonotes/llm-day-5-rag-a-intro-31p3)
-- [Anthropic and Adaptyv Bio Launch Claude-Powered Protein Design Competition](https://dev.to/alifar/anthropic-and-adaptyv-bio-launch-claude-powered-protein-design-competition-jg)
+- [Domain Retirement Guard: Log Intent Before a Destructive Automation Operation](https://dev.to/callumreed2198/domain-retirement-guard-log-intent-before-a-destructive-automation-operation-3i04)
+- [Permissions &amp; Tool Allowlisting in Claude Code: A Beginner&#39;s Guide](https://dev.to/alimurrazi/permissions-tool-allowlisting-in-claude-code-a-beginners-guide-592i)
+- [MCP server ที่คนใช้จริง: วัด 11 ตัว แล้วพบว่าโทเคนเป็นข้อจำกัดการออกแบบ](https://dev.to/sarantoon/mcp-server-thiikhnaichcchring-wad-11-taw-aelwphbwaaothekhnepnkhcchamkadkaarkaebb-1g4h)
+- [Capsule CRM vs HubSpot: Selecting by Business Job, Costs, and Scale Constraints](https://dev.to/reaperoak/capsule-crm-vs-hubspot-selecting-by-business-job-costs-and-scale-constraints-55pi)
+- [Customer Support DNS: Migrate a Zone with 4-Gate Diff Before Nameservers](https://dev.to/winslowknight8469/customer-support-dns-migrate-a-zone-with-4-gate-diff-before-nameservers-1de1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
