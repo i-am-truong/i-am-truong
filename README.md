@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SaaS CSV Exports: Give Users a File They Can Actually Use](https://dev.to/urielbitton/saas-csv-exports-give-users-a-file-they-can-actually-use-5e9n)
-- [Building a TikTok Downloader: Streaming, Expiring URLs, Slideshows and MP3](https://dev.to/david1390/building-a-tiktok-downloader-streaming-expiring-urls-slideshows-and-mp3-313j)
-- [OpenBot writes the audit row before an allowed computer action runs](https://dev.to/renolu/openbot-writes-the-audit-row-before-an-allowed-computer-action-runs-cl7)
-- [Jev HighwayEnv: 60 Seconds Without a Crash](https://dev.to/trknhr/jev-x-highwayenv-60-seconds-without-a-crash-30ig)
-- [Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford&#39;s Code in Place X, and Dev3Pack Hackathon](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm)
+- [Why a VAT API Needs More Than a Rate Lookup](https://dev.to/vat-engine/why-a-vat-api-needs-more-than-a-rate-lookup-50i9)
+- [Bloated Clouds, Anyone?](https://dev.to/sharpvik/bloated-clouds-anyone-1jhc)
+- [The Cardinality Bomb: Defending APIs at the Edge Without an External Cache](https://dev.to/shyam-s00/the-cardinality-bomb-defending-apis-at-the-edge-without-an-external-cache-2b0k)
+- [Google Ads Is Shifting to Longer Queries: What Advertisers Should Change Now](https://dev.to/alifar/google-ads-is-shifting-to-longer-queries-what-advertisers-should-change-now-2ngo)
+- [The rollback that only rolled back half of it](https://dev.to/pauloantunes/the-rollback-that-only-rolled-back-half-of-it-51dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
