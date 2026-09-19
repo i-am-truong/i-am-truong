@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Worktrunk: Git Worktrees Made Simple for Parallel AI Agents](https://dev.to/arshtechpro/worktrunk-git-worktrees-made-simple-for-parallel-ai-agents-1106)
-- [Docling: Turn Messy Documents into Clean Data for Your AI App](https://dev.to/arshtechpro/docling-turn-messy-documents-into-clean-data-for-your-ai-app-3gnp)
-- [How to make your own Vim operator](https://dev.to/iggredible/how-to-make-your-own-vim-operator-4d4k)
-- [USAspending API, No API Key: Federal Contract Awards](https://dev.to/mayd-it/usaspending-api-no-api-key-federal-contract-awards-1320)
-- [Most supply chain security tools react. They scan your `package-lock.json` or `go.sum`, fl](https://dev.to/marek_builds/most-supply-chain-security-tools-react-they-scan-your-package-lockjson-or-gosum-fl-58ei)
+- [Measuring the Edge: What ZoomEye Sees When You Search for Exposed Access Gateways](https://dev.to/jeffreyciend/measuring-the-edge-what-zoomeye-sees-when-you-search-for-exposed-access-gateways-2n2i)
+- [Why your order system and your payment provider disagree](https://dev.to/0xenx/why-your-order-system-and-your-payment-provider-disagree-1ob)
+- [Stop Your CSS Layout From Breaking: Understand `box-sizing](https://dev.to/codeandseek/stop-your-css-layout-from-breaking-understand-box-sizing-3ac0)
+- [I&#39;m an architect. I built an AI agent that draws - and outputs IFC models](https://dev.to/axidesk/im-an-architect-i-built-an-ai-agent-that-draws-and-outputs-ifc-models-1j08)
+- [From KEV to Exposure: Mapping the September 2026 Batch to Measurable Services](https://dev.to/kozhevniko/from-kev-to-exposure-mapping-the-september-2026-batch-to-measurable-services-4nco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
