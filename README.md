@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Entendiendo la desestructuración en Javascript](https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7)
-- [Cua: Open-Source Computer-Use Infrastructure &amp; Drivers for AI Agents](https://dev.to/terminalchai/cua-open-source-computer-use-infrastructure-drivers-for-ai-agents-4len)
-- [The story of morphing-scroll, my npm library](https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb)
-- [Svelte&#39;s runes are just React hooks wearing a Svelte hoodie](https://dev.to/adioof/sveltes-runes-are-just-react-hooks-wearing-a-svelte-hoodie-10l3)
-- [Dumping Every User&#39;s Plaintext Password Without Touching the Database](https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob)
+- [Worktrunk: Git Worktrees Made Simple for Parallel AI Agents](https://dev.to/arshtechpro/worktrunk-git-worktrees-made-simple-for-parallel-ai-agents-1106)
+- [Docling: Turn Messy Documents into Clean Data for Your AI App](https://dev.to/arshtechpro/docling-turn-messy-documents-into-clean-data-for-your-ai-app-3gnp)
+- [How to make your own Vim operator](https://dev.to/iggredible/how-to-make-your-own-vim-operator-4d4k)
+- [USAspending API, No API Key: Federal Contract Awards](https://dev.to/mayd-it/usaspending-api-no-api-key-federal-contract-awards-1320)
+- [Most supply chain security tools react. They scan your `package-lock.json` or `go.sum`, fl](https://dev.to/marek_builds/most-supply-chain-security-tools-react-they-scan-your-package-lockjson-or-gosum-fl-58ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
