@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Migrated 90 Cypress Tests to Playwright With Claude Code in 4 Days](https://dev.to/yureki_lab/how-i-migrated-90-cypress-tests-to-playwright-with-claude-code-in-4-days-1im6)
-- [Building a Lightweight Biometric Authentication Library for React Native with Kotlin](https://dev.to/vijeshkr/building-a-lightweight-biometric-authentication-library-for-react-native-with-kotlin-5al4)
-- [How Your Message Actually Reaches the AI Model — And What You&#39;re Really Sending](https://dev.to/shamprakash2000/how-your-message-actually-reaches-the-ai-model-and-what-youre-really-sending-1nlb)
-- [DNS change monitoring: the seven false alarms I had to kill](https://dev.to/dnsnotify/dns-change-monitoring-the-seven-false-alarms-i-had-to-kill-hh3)
-- [Lemmalog: Agent Memory as a Deductive Database, Not Another Vector Store](https://dev.to/sun_young_517829fc09d0c05/lemmalog-agent-memory-as-a-deductive-database-not-another-vector-store-2ima)
+- [The best comment I ever got was someone proving my code wrong](https://dev.to/frankchu/the-best-comment-i-ever-got-was-someone-proving-my-code-wrong-40kg)
+- [The End of Traditional UX](https://dev.to/alexyampolsky/the-end-of-traditional-ux-4lg2)
+- [Architecture of WarchOS: A Custom Arch-Based Setup with Hyprland, a Dynamic CPU Scheduling Daemon, and an Automated Wine Prefix Manager](https://dev.to/warchos/architecture-of-warchos-a-custom-arch-based-setup-with-hyprland-a-dynamic-cpu-scheduling-daemon-1892)
+- [A Kafka Streams topology starts in a sandbox, not on your cluster](https://dev.to/alginte/a-kafka-streams-topology-starts-in-a-sandbox-not-on-your-cluster-i3p)
+- [Nobody talks about RAM. Every local-LLM regret is a RAM problem.](https://dev.to/mrsaynothing/nobody-talks-about-ram-every-local-llm-regret-is-a-ram-problem-177h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
