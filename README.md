@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What actually breaks when you build a WebRTC SFU in Go](https://dev.to/ailaohuyu/what-actually-breaks-when-you-build-a-webrtc-sfu-in-go-45af)
-- [Model Context Protocol &lpar;MCP&rpar; Internals: JSON-RPC 2.0 Transport and Tool Sandboxing](https://dev.to/wantsvibes/model-context-protocol-mcp-internals-json-rpc-20-transport-and-tool-sandboxing-384g)
-- [AI Data Centers: Engineering High-Density Infrastructure and Grid Demands](https://dev.to/wantsvibes/ai-data-centers-engineering-high-density-infrastructure-and-grid-demands-5goe)
-- [Building a Zero-Lag Client-Side Python Visualizer with Pyodide &amp; WebAssembly](https://dev.to/debpriya_santra_72b0ade20/building-a-zero-lag-client-side-python-visualizer-with-pyodide-webassembly-118o)
-- [The CancellationToken That Never Propagated: A Subtle ASP.NET Core Timeout Bug I Missed in Code Review](https://dev.to/developerimranahmed/the-cancellationtoken-that-never-propagated-a-subtle-aspnet-core-timeout-bug-i-missed-in-code-2hhp)
+- [วิธีใช้ Jev ใน Agent จริง 10 ขั้น พร้อมตัวเลขที่ตรวจสอบได้](https://dev.to/sarantoon/withiiaich-jev-ain-agent-cchring-10-khan-phrmtawelkhthiitrwcchsbaid-4jd)
+- [Sliding Window Technique : Solving Subarray and Substring Problems Efficiently](https://dev.to/polyvexr/sliding-window-technique-solving-subarray-and-substring-problems-efficiently-224a)
+- [Stop Building Portfolio Projects. They&#39;re Making You Worse.](https://dev.to/mikachu/stop-building-portfolio-projects-theyre-making-you-worse-4mlf)
+- [Developer Tools Beyond IDEs: 10 Systems for Modern Architectures](https://dev.to/wantsvibes/developer-tools-beyond-ides-10-systems-for-modern-architectures-1gn8)
+- [Enabling HTTP/2 and HTTP/3 for Your Laravel App: A Practical Nginx Guide](https://dev.to/deploynix/enabling-http2-and-http3-for-your-laravel-app-a-practical-nginx-guide-1n0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
