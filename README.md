@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The best comment I ever got was someone proving my code wrong](https://dev.to/frankchu/the-best-comment-i-ever-got-was-someone-proving-my-code-wrong-40kg)
-- [The End of Traditional UX](https://dev.to/alexyampolsky/the-end-of-traditional-ux-4lg2)
-- [Architecture of WarchOS: A Custom Arch-Based Setup with Hyprland, a Dynamic CPU Scheduling Daemon, and an Automated Wine Prefix Manager](https://dev.to/warchos/architecture-of-warchos-a-custom-arch-based-setup-with-hyprland-a-dynamic-cpu-scheduling-daemon-1892)
-- [A Kafka Streams topology starts in a sandbox, not on your cluster](https://dev.to/alginte/a-kafka-streams-topology-starts-in-a-sandbox-not-on-your-cluster-i3p)
-- [Nobody talks about RAM. Every local-LLM regret is a RAM problem.](https://dev.to/mrsaynothing/nobody-talks-about-ram-every-local-llm-regret-is-a-ram-problem-177h)
+- [Entendiendo la desestructuración en Javascript](https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7)
+- [Cua: Open-Source Computer-Use Infrastructure &amp; Drivers for AI Agents](https://dev.to/terminalchai/cua-open-source-computer-use-infrastructure-drivers-for-ai-agents-4len)
+- [The story of morphing-scroll, my npm library](https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb)
+- [Svelte&#39;s runes are just React hooks wearing a Svelte hoodie](https://dev.to/adioof/sveltes-runes-are-just-react-hooks-wearing-a-svelte-hoodie-10l3)
+- [Dumping Every User&#39;s Plaintext Password Without Touching the Database](https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
