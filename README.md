@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [‘Brought to You in 5-Hour Increments’: A Week of Moving AI Usage Limits](https://dev.to/theaidownside/brought-to-you-in-5-hour-increments-a-week-of-moving-ai-usage-limits-1a3)
-- [Building an Android APK Protection Platform Against Reverse Engineering](https://dev.to/charlezin_ffx/building-an-android-apk-protection-platform-against-reverse-engineering-2kn3)
-- [When the Payment-Failure Email Is the Exploit: Inside the Magento Template Rendering Chain of CVE-2026-75650](https://dev.to/jeffreyciend/when-the-payment-failure-email-is-the-exploit-inside-the-magento-template-rendering-chain-of-f49)
-- [Do AI Coding Tools Actually Make Developers Faster? The Data Says It Depends](https://dev.to/owusuaduomiflorencefl/do-ai-coding-tools-actually-make-developers-faster-the-data-says-it-depends-1e9c)
-- [How to kill a Zombie?](https://dev.to/js402/how-to-kill-a-zombie-3abf)
+- [A One-Command Pre-Flight Checklist for Developers: astro-tasks](https://dev.to/3ni8ma/a-one-command-pre-flight-checklist-for-developers-astro-tasks-3cg6)
+- [🚀 Introducing WebCraft7767 — Building Useful Websites, One Project at a Time](https://dev.to/webcraft7767/introducing-webcraft7767-building-useful-websites-one-project-at-a-time-k93)
+- [Native Federation - Deep Dive - Part 1/8 - The Mental Model, Why Native Federation Exists and What Changed in v4](https://dev.to/sakthicodes22/the-mental-model-revisited-why-native-federation-exists-and-what-changed-in-v4-1klg)
+- [Your Stack Has One Point of Failure. It&#39;s the Tool You Trusted Most.](https://dev.to/goodpa/your-stack-has-one-point-of-failure-its-the-tool-you-trusted-most-13fa)
+- [Rapuncel: Fake GitHub Repositories Disable EDR with a Signed Kernel Driver](https://dev.to/anoymask/rapuncel-fake-github-repositories-disable-edr-with-a-signed-kernel-driver-1nl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
