@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A One-Command Pre-Flight Checklist for Developers: astro-tasks](https://dev.to/3ni8ma/a-one-command-pre-flight-checklist-for-developers-astro-tasks-3cg6)
-- [🚀 Introducing WebCraft7767 — Building Useful Websites, One Project at a Time](https://dev.to/webcraft7767/introducing-webcraft7767-building-useful-websites-one-project-at-a-time-k93)
-- [Native Federation - Deep Dive - Part 1/8 - The Mental Model, Why Native Federation Exists and What Changed in v4](https://dev.to/sakthicodes22/the-mental-model-revisited-why-native-federation-exists-and-what-changed-in-v4-1klg)
-- [Your Stack Has One Point of Failure. It&#39;s the Tool You Trusted Most.](https://dev.to/goodpa/your-stack-has-one-point-of-failure-its-the-tool-you-trusted-most-13fa)
-- [Rapuncel: Fake GitHub Repositories Disable EDR with a Signed Kernel Driver](https://dev.to/anoymask/rapuncel-fake-github-repositories-disable-edr-with-a-signed-kernel-driver-1nl8)
+- [What actually breaks when you build a WebRTC SFU in Go](https://dev.to/ailaohuyu/what-actually-breaks-when-you-build-a-webrtc-sfu-in-go-45af)
+- [Model Context Protocol &lpar;MCP&rpar; Internals: JSON-RPC 2.0 Transport and Tool Sandboxing](https://dev.to/wantsvibes/model-context-protocol-mcp-internals-json-rpc-20-transport-and-tool-sandboxing-384g)
+- [AI Data Centers: Engineering High-Density Infrastructure and Grid Demands](https://dev.to/wantsvibes/ai-data-centers-engineering-high-density-infrastructure-and-grid-demands-5goe)
+- [Building a Zero-Lag Client-Side Python Visualizer with Pyodide &amp; WebAssembly](https://dev.to/debpriya_santra_72b0ade20/building-a-zero-lag-client-side-python-visualizer-with-pyodide-webassembly-118o)
+- [The CancellationToken That Never Propagated: A Subtle ASP.NET Core Timeout Bug I Missed in Code Review](https://dev.to/developerimranahmed/the-cancellationtoken-that-never-propagated-a-subtle-aspnet-core-timeout-bug-i-missed-in-code-2hhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
