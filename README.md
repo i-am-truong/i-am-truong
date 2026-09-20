@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Union Alpha ไม่ใช่โมเดลลึกลับแล้ว และไม่ฟรีตั้งแต่เมื่อวาน](https://dev.to/sarantoon/union-alpha-aimaichomedllueklabaelw-aelaaimfriitangaetemuuewaan-3oo2)
-- [Building a Persistent Smart Contact Book CLI App Using Pure Python](https://dev.to/nivedya2008/building-a-persistent-smart-contact-book-cli-app-using-pure-python-3n86)
-- [How I built Maliklang-A Hinglish-native Python interpreter from scratch in 19 day](https://dev.to/shailendracodes/how-i-built-maliklang-a-hinglish-native-python-interpreter-from-scratch-in-19-day-ee4)
-- [I Built a CI/CD Platform From Scratch — From PipelineOS to OdinRun](https://dev.to/foldedodin/i-built-a-cicd-platform-from-scratch-from-pipelineos-to-odinrun-13m6)
-- [[Boost]](https://dev.to/saan1984/-4hij)
+- [Debunking the Fixed Window rate limiting &quot;boundary burst&quot; myth](https://dev.to/animir/debunking-the-fixed-window-rate-limiting-boundary-burst-myth-49bi)
+- [CabinClaim - a cabin-rules desk search cannot run](https://dev.to/nakabiri_knolz_c215da66a1/cabinclaim-a-cabin-rules-desk-search-cannot-run-i7m)
+- [8 Papers on the Agent Harness Progress You Need to Know](https://dev.to/hyperai/8-papers-on-the-agent-harness-progress-you-need-to-know-44ai)
+- [What Retrieval Still Hasn&#39;t Decided](https://dev.to/shinpr/what-retrieval-still-hasnt-decided-3haa)
+- [How to Actually Prepare for a Backend Developer Interview in 2026](https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
