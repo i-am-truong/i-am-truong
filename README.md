@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built CLI to make $20 AI coding normal again](https://dev.to/malgatyuvraj_10/built-cli-to-make-20-ai-coding-normal-again-58jl)
-- [A Short Code Tour Helps AI Find the Right Files](https://dev.to/xiaobei/a-short-code-tour-helps-ai-find-the-right-files-5d8c)
-- [netcup VPS 1000 G12 benchmarked: how fast is it really?](https://dev.to/serverkueche/netcup-vps-1000-g12-benchmarked-how-fast-is-it-really-5689)
-- [HitKeep: self-host privacy-friendly web analytics](https://dev.to/serverkueche/hitkeep-self-host-privacy-friendly-web-analytics-5f11)
-- [Keeping your whole Docker stack safely up to date](https://dev.to/serverkueche/keeping-your-whole-docker-stack-safely-up-to-date-4i8m)
+- [Every answer our agent reads has an age, and it never asked for one](https://dev.to/unmannedops/every-answer-our-agent-reads-has-an-age-and-it-never-asked-for-one-4fg)
+- [Port 6443 in the Wild: Measuring Public Kubernetes API Endpoint Exposure](https://dev.to/stark_zhuang_df5076f35c68/port-6443-in-the-wild-measuring-public-kubernetes-api-endpoint-exposure-3a89)
+- [Looking for collaborators!](https://dev.to/fortheloveofpointers/looking-for-collaborators-4ned)
+- [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/aws-builders/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-jp5)
+- [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
