@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop the Slouch! Build a Privacy-First AI Posture Monitor with MediaPipe and React](https://dev.to/wellallytech/stop-the-slouch-build-a-privacy-first-ai-posture-monitor-with-mediapipe-and-react-17oc)
-- [Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/thomasbnt/progressive-web-apps-pwas-237d)
-- [I missed Go&#39;s `if err != nil`, so I built errval for TypeScript](https://dev.to/aymanepraxe/i-missed-gos-if-err-nil-so-i-built-errval-for-typescript-iga)
-- [Git Remembers How You Resolved That Conflict — If You Let It](https://dev.to/jjoyneriv/git-remembers-how-you-resolved-that-conflict-if-you-let-it-418g)
-- [Undo a Git Commit: Two Questions Before You Type Anything](https://dev.to/jjoyneriv/undo-a-git-commit-two-questions-before-you-type-anything-21o)
+- [Union Alpha ไม่ใช่โมเดลลึกลับแล้ว และไม่ฟรีตั้งแต่เมื่อวาน](https://dev.to/sarantoon/union-alpha-aimaichomedllueklabaelw-aelaaimfriitangaetemuuewaan-3oo2)
+- [Building a Persistent Smart Contact Book CLI App Using Pure Python](https://dev.to/nivedya2008/building-a-persistent-smart-contact-book-cli-app-using-pure-python-3n86)
+- [How I built Maliklang-A Hinglish-native Python interpreter from scratch in 19 day](https://dev.to/shailendracodes/how-i-built-maliklang-a-hinglish-native-python-interpreter-from-scratch-in-19-day-ee4)
+- [I Built a CI/CD Platform From Scratch — From PipelineOS to OdinRun](https://dev.to/foldedodin/i-built-a-cicd-platform-from-scratch-from-pipelineos-to-odinrun-13m6)
+- [[Boost]](https://dev.to/saan1984/-4hij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
