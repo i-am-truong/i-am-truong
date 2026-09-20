@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debunking the Fixed Window rate limiting &quot;boundary burst&quot; myth](https://dev.to/animir/debunking-the-fixed-window-rate-limiting-boundary-burst-myth-49bi)
-- [CabinClaim - a cabin-rules desk search cannot run](https://dev.to/nakabiri_knolz_c215da66a1/cabinclaim-a-cabin-rules-desk-search-cannot-run-i7m)
-- [8 Papers on the Agent Harness Progress You Need to Know](https://dev.to/hyperai/8-papers-on-the-agent-harness-progress-you-need-to-know-44ai)
-- [What Retrieval Still Hasn&#39;t Decided](https://dev.to/shinpr/what-retrieval-still-hasnt-decided-3haa)
-- [How to Actually Prepare for a Backend Developer Interview in 2026](https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57)
+- [Downscaled a 1080p video to 480x270 to protect its quality](https://dev.to/maxslashwang/we-downscaled-a-1080p-video-to-480x270-to-protect-its-quality-1m46)
+- [How to Escape &quot;Tutorial Hell&quot; in 2026 &lpar;And Actually Build Projects&rpar;](https://dev.to/tanmay_gupta_f5e6a6c64ad2/how-to-escape-tutorial-hell-in-2026-and-actually-build-projects-4co1)
+- [Iniciando meus estudos em Event Loop](https://dev.to/brendonhenrrique/-1c5g)
+- [I built a free Chrome extension for people with 50+ tabs open](https://dev.to/akshay_khajuriya_80c68073/i-built-a-free-chrome-extension-for-people-with-50-tabs-open-2chi)
+- [JavaScript Array Methods](https://dev.to/jaisurya/javascript-array-methods-2i5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
