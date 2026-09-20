@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Measuring the Edge: What ZoomEye Sees When You Search for Exposed Access Gateways](https://dev.to/jeffreyciend/measuring-the-edge-what-zoomeye-sees-when-you-search-for-exposed-access-gateways-2n2i)
-- [Why your order system and your payment provider disagree](https://dev.to/0xenx/why-your-order-system-and-your-payment-provider-disagree-1ob)
-- [Stop Your CSS Layout From Breaking: Understand `box-sizing](https://dev.to/codeandseek/stop-your-css-layout-from-breaking-understand-box-sizing-3ac0)
-- [I&#39;m an architect. I built an AI agent that draws - and outputs IFC models](https://dev.to/axidesk/im-an-architect-i-built-an-ai-agent-that-draws-and-outputs-ifc-models-1j08)
-- [From KEV to Exposure: Mapping the September 2026 Batch to Measurable Services](https://dev.to/kozhevniko/from-kev-to-exposure-mapping-the-september-2026-batch-to-measurable-services-4nco)
+- [Stop the Slouch! Build a Privacy-First AI Posture Monitor with MediaPipe and React](https://dev.to/wellallytech/stop-the-slouch-build-a-privacy-first-ai-posture-monitor-with-mediapipe-and-react-17oc)
+- [Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/thomasbnt/progressive-web-apps-pwas-237d)
+- [I missed Go&#39;s `if err != nil`, so I built errval for TypeScript](https://dev.to/aymanepraxe/i-missed-gos-if-err-nil-so-i-built-errval-for-typescript-iga)
+- [Git Remembers How You Resolved That Conflict — If You Let It](https://dev.to/jjoyneriv/git-remembers-how-you-resolved-that-conflict-if-you-let-it-418g)
+- [Undo a Git Commit: Two Questions Before You Type Anything](https://dev.to/jjoyneriv/undo-a-git-commit-two-questions-before-you-type-anything-21o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
