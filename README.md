@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Downscaled a 1080p video to 480x270 to protect its quality](https://dev.to/maxslashwang/we-downscaled-a-1080p-video-to-480x270-to-protect-its-quality-1m46)
-- [How to Escape &quot;Tutorial Hell&quot; in 2026 &lpar;And Actually Build Projects&rpar;](https://dev.to/tanmay_gupta_f5e6a6c64ad2/how-to-escape-tutorial-hell-in-2026-and-actually-build-projects-4co1)
-- [Iniciando meus estudos em Event Loop](https://dev.to/brendonhenrrique/-1c5g)
-- [I built a free Chrome extension for people with 50+ tabs open](https://dev.to/akshay_khajuriya_80c68073/i-built-a-free-chrome-extension-for-people-with-50-tabs-open-2chi)
-- [JavaScript Array Methods](https://dev.to/jaisurya/javascript-array-methods-2i5b)
+- [Built CLI to make $20 AI coding normal again](https://dev.to/malgatyuvraj_10/built-cli-to-make-20-ai-coding-normal-again-58jl)
+- [A Short Code Tour Helps AI Find the Right Files](https://dev.to/xiaobei/a-short-code-tour-helps-ai-find-the-right-files-5d8c)
+- [netcup VPS 1000 G12 benchmarked: how fast is it really?](https://dev.to/serverkueche/netcup-vps-1000-g12-benchmarked-how-fast-is-it-really-5689)
+- [HitKeep: self-host privacy-friendly web analytics](https://dev.to/serverkueche/hitkeep-self-host-privacy-friendly-web-analytics-5f11)
+- [Keeping your whole Docker stack safely up to date](https://dev.to/serverkueche/keeping-your-whole-docker-stack-safely-up-to-date-4i8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
