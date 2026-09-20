@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every answer our agent reads has an age, and it never asked for one](https://dev.to/unmannedops/every-answer-our-agent-reads-has-an-age-and-it-never-asked-for-one-4fg)
-- [Port 6443 in the Wild: Measuring Public Kubernetes API Endpoint Exposure](https://dev.to/stark_zhuang_df5076f35c68/port-6443-in-the-wild-measuring-public-kubernetes-api-endpoint-exposure-3a89)
-- [Looking for collaborators!](https://dev.to/fortheloveofpointers/looking-for-collaborators-4ned)
-- [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/aws-builders/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-jp5)
-- [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605)
+- [Speeding Up a Python Service with CinderX: JIT and Static Typing](https://dev.to/deadlovelll/speeding-up-a-python-service-with-cinderx-jit-and-static-typing-53bh)
+- [Permissions and Authorisation: A Practical Playbook](https://dev.to/rafaelbernard/permissions-and-authorisation-a-practical-playbook-bo)
+- [Hexfield Deck is for Kanban lovers and Markdown believers](https://dev.to/henri_farewell/hexfield-deck-is-for-kanban-lovers-and-markdown-believers-4ibd)
+- [CVE-2026-87886: Insecure File Permissions in Acronis Backup Plugins for cPanel, WHM and Plesk](https://dev.to/stark_zhuang_df5076f35c68/cve-2026-87886-insecure-file-permissions-in-acronis-backup-plugins-for-cpanel-whm-and-plesk-5fpd)
+- [We wanted a Vercel + Supabase alternative without becoming full-time DevOps](https://dev.to/lathelive/we-wanted-a-vercel-supabase-alternative-without-becoming-full-time-devops-1e7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
