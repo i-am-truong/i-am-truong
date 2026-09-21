@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [npm publish Ignores .gitignore: The .npmignore Override Rule](https://dev.to/ji_ai/npm-publish-ignores-gitignore-the-npmignore-override-rule-1pjg)
-- [Python Operators &amp; Conditionals](https://dev.to/alex_murithi/python-operators-conditionals-mlg)
-- [A Reproducible 3D Context Pipeline with Cityweft, Shapezo, site3d, Tripo3D, and CityEngine](https://dev.to/future_built_ai/a-reproducible-3d-context-pipeline-with-cityweft-shapezo-site3d-tripo3d-and-cityengine-h00)
-- [Your Wrist Pain Is a Lagging Indicator](https://dev.to/thainextweb_bf4273cb40dba/your-wrist-pain-is-a-lagging-indicator-4799)
-- [@zharwebsite | Muhammad idzhar Al-asyari](https://dev.to/zhar_website_8d85e9f795f3/zharwebsite-muhammad-idzhar-al-asyari-27k9)
+- [Decoding the Accessibility Tree in Shadow DOM: Challenges and Solutions](https://dev.to/mspk97/decoding-the-accessibility-tree-in-shadow-dom-challenges-and-solutions-ahm)
+- [Building Bivack: A Cloud Dev Sandbox for Coding Agents on AWS Lambda MicroVMs](https://dev.to/gunnargrosch/building-bivack-a-cloud-dev-sandbox-for-coding-agents-on-aws-lambda-microvms-24o6)
+- [TypeSafe AI and Jev in PHP: Model Routing and Classifier with Neuron AI](https://dev.to/inspector/typesafe-ai-and-jev-in-php-model-routing-and-classifier-with-neuron-ai-452d)
+- [A Laravel Middleware for Blocking High-Risk Signups](https://dev.to/abdullah_afzal/a-laravel-middleware-for-blocking-high-risk-signups-2jan)
+- [AI agent runs first end-to-end breach in Spain](https://dev.to/analista_83/ai-agent-runs-first-end-to-end-breach-in-spain-4g2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
