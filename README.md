@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What It Actually Costs to Serve a 1M-Token Model in Production](https://dev.to/digitalocean/what-it-actually-costs-to-serve-a-1m-token-model-in-production-4f0k)
-- [Infostealers Are Selling Your Claude and ChatGPT Sessions for $5 on Telegram](https://dev.to/numbpill3d/infostealers-are-selling-your-claude-and-chatgpt-sessions-for-5-on-telegram-fp0)
-- [DEV-Part-1-Backend.md](https://dev.to/iron_man/dev-part-1-backendmd-4dj5)
-- [fastlogging-rs: High-Performance Logging for many different Programming Languages](https://dev.to/martin_bammer_6838a4d3b65/fastlogging-rs-high-performance-logging-for-many-different-programming-languages-772)
-- [I Benchmarked My Vanilla JS CBT Detector Against 5 NLP Libraries — Here Is When Rule-Based Wins](https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068)
+- [Gemini Notebook Expands Its Workspace, but Artifact Organization Is Still Undocumented](https://dev.to/alifar/gemini-notebook-expands-its-workspace-but-artifact-organization-is-still-undocumented-2em9)
+- [Is everything on here AI generated?](https://dev.to/cory_marsh/is-everything-on-here-ai-generated-27e2)
+- [CVE-2026–17633 - Authenticated RCE in Langflow OSS via /api/v1/custom_component](https://dev.to/guidance_white/cve-2026-17633-authenticated-rce-in-langflow-oss-via-apiv1customcomponent-5baj)
+- [Your First Factory: GtkListView and the Bind/Unbind Rhythm](https://dev.to/fromthearchitect/your-first-factory-gtklistview-and-the-bindunbind-rhythm-4c1d)
+- [You&#39;re not an impostor, you just started from a different line](https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
