@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Speeding Up a Python Service with CinderX: JIT and Static Typing](https://dev.to/deadlovelll/speeding-up-a-python-service-with-cinderx-jit-and-static-typing-53bh)
-- [Permissions and Authorisation: A Practical Playbook](https://dev.to/rafaelbernard/permissions-and-authorisation-a-practical-playbook-bo)
-- [Hexfield Deck is for Kanban lovers and Markdown believers](https://dev.to/henri_farewell/hexfield-deck-is-for-kanban-lovers-and-markdown-believers-4ibd)
-- [CVE-2026-87886: Insecure File Permissions in Acronis Backup Plugins for cPanel, WHM and Plesk](https://dev.to/stark_zhuang_df5076f35c68/cve-2026-87886-insecure-file-permissions-in-acronis-backup-plugins-for-cpanel-whm-and-plesk-5fpd)
-- [We wanted a Vercel + Supabase alternative without becoming full-time DevOps](https://dev.to/lathelive/we-wanted-a-vercel-supabase-alternative-without-becoming-full-time-devops-1e7f)
+- [Overpatch and Heapjack: Two Techniques for Bypassing Codex&#39;s Write Restrictions and Escaping Its Read-Only Sandbox](https://dev.to/anoymask/overpatch-and-heapjack-two-techniques-for-bypassing-codexs-write-restrictions-and-escaping-its-48of)
+- [indexed-btree: npm Supply Chain Malware Executes at Runtime and Uses a Smart Contract on Ethereum Sepolia for C2](https://dev.to/anoymask/indexed-btree-npm-supply-chain-malware-executes-at-runtime-and-uses-a-smart-contract-on-ethereum-d83)
+- [Architectural Breakdown: i built a green blob that lives on my desktop. now it has feelings.](https://dev.to/agenticstack/architectural-breakdown-i-built-a-green-blob-that-lives-on-my-desktop-now-it-has-feelings-3ehc)
+- [Unreal C++ Course Chapter 109](https://dev.to/liquefier/unreal-c-course-chapter-109-81g)
+- [I Built a 100% Free AI Toolbox with No Sign-Up &lpar;Here&#39;s How&rpar;](https://dev.to/magickit/i-built-a-100-free-ai-toolbox-with-no-sign-up-heres-how-1m2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
