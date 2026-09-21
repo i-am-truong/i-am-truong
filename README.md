@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Overpatch and Heapjack: Two Techniques for Bypassing Codex&#39;s Write Restrictions and Escaping Its Read-Only Sandbox](https://dev.to/anoymask/overpatch-and-heapjack-two-techniques-for-bypassing-codexs-write-restrictions-and-escaping-its-48of)
-- [indexed-btree: npm Supply Chain Malware Executes at Runtime and Uses a Smart Contract on Ethereum Sepolia for C2](https://dev.to/anoymask/indexed-btree-npm-supply-chain-malware-executes-at-runtime-and-uses-a-smart-contract-on-ethereum-d83)
-- [Architectural Breakdown: i built a green blob that lives on my desktop. now it has feelings.](https://dev.to/agenticstack/architectural-breakdown-i-built-a-green-blob-that-lives-on-my-desktop-now-it-has-feelings-3ehc)
-- [Unreal C++ Course Chapter 109](https://dev.to/liquefier/unreal-c-course-chapter-109-81g)
-- [I Built a 100% Free AI Toolbox with No Sign-Up &lpar;Here&#39;s How&rpar;](https://dev.to/magickit/i-built-a-100-free-ai-toolbox-with-no-sign-up-heres-how-1m2b)
+- [npm publish Ignores .gitignore: The .npmignore Override Rule](https://dev.to/ji_ai/npm-publish-ignores-gitignore-the-npmignore-override-rule-1pjg)
+- [Python Operators &amp; Conditionals](https://dev.to/alex_murithi/python-operators-conditionals-mlg)
+- [A Reproducible 3D Context Pipeline with Cityweft, Shapezo, site3d, Tripo3D, and CityEngine](https://dev.to/future_built_ai/a-reproducible-3d-context-pipeline-with-cityweft-shapezo-site3d-tripo3d-and-cityengine-h00)
+- [Your Wrist Pain Is a Lagging Indicator](https://dev.to/thainextweb_bf4273cb40dba/your-wrist-pain-is-a-lagging-indicator-4799)
+- [@zharwebsite | Muhammad idzhar Al-asyari](https://dev.to/zhar_website_8d85e9f795f3/zharwebsite-muhammad-idzhar-al-asyari-27k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
