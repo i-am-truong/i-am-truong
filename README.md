@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Accessibility Tree in Shadow DOM: Challenges and Solutions](https://dev.to/mspk97/decoding-the-accessibility-tree-in-shadow-dom-challenges-and-solutions-ahm)
-- [Building Bivack: A Cloud Dev Sandbox for Coding Agents on AWS Lambda MicroVMs](https://dev.to/gunnargrosch/building-bivack-a-cloud-dev-sandbox-for-coding-agents-on-aws-lambda-microvms-24o6)
-- [TypeSafe AI and Jev in PHP: Model Routing and Classifier with Neuron AI](https://dev.to/inspector/typesafe-ai-and-jev-in-php-model-routing-and-classifier-with-neuron-ai-452d)
-- [A Laravel Middleware for Blocking High-Risk Signups](https://dev.to/abdullah_afzal/a-laravel-middleware-for-blocking-high-risk-signups-2jan)
-- [AI agent runs first end-to-end breach in Spain](https://dev.to/analista_83/ai-agent-runs-first-end-to-end-breach-in-spain-4g2d)
+- [How Forward Deployed Engineering turns intelligence into lasting value](https://dev.to/peibolsang/how-forward-deployed-engineering-turns-intelligence-into-lasting-value-1jhe)
+- [Put the Arithmetic in the Tool: an MCP Server for an AWS Waste Scanner](https://dev.to/aws-builders/put-the-arithmetic-in-the-tool-an-mcp-server-for-an-aws-waste-scanner-3n79)
+- [A news site in Flask, deployed for free](https://dev.to/apitube/a-news-site-in-flask-deployed-for-free-1mfh)
+- [We hit 709 MAU, then lost 82% of it to a bug I didn&#39;t find for 2 months](https://dev.to/vmzavas/we-hit-709-mau-then-lost-82-of-it-to-a-bug-i-didnt-find-for-2-months-4jjg)
+- [The Scariest Part of AI Coding Isn&#39;t the Code. It&#39;s the Pressure to Ship It.](https://dev.to/sambhab_mishra/the-scariest-part-of-ai-coding-isnt-the-code-its-the-pressure-to-ship-it-1bm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
