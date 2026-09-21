@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Forward Deployed Engineering turns intelligence into lasting value](https://dev.to/peibolsang/how-forward-deployed-engineering-turns-intelligence-into-lasting-value-1jhe)
-- [Put the Arithmetic in the Tool: an MCP Server for an AWS Waste Scanner](https://dev.to/aws-builders/put-the-arithmetic-in-the-tool-an-mcp-server-for-an-aws-waste-scanner-3n79)
-- [A news site in Flask, deployed for free](https://dev.to/apitube/a-news-site-in-flask-deployed-for-free-1mfh)
-- [We hit 709 MAU, then lost 82% of it to a bug I didn&#39;t find for 2 months](https://dev.to/vmzavas/we-hit-709-mau-then-lost-82-of-it-to-a-bug-i-didnt-find-for-2-months-4jjg)
-- [The Scariest Part of AI Coding Isn&#39;t the Code. It&#39;s the Pressure to Ship It.](https://dev.to/sambhab_mishra/the-scariest-part-of-ai-coding-isnt-the-code-its-the-pressure-to-ship-it-1bm2)
+- [What It Actually Costs to Serve a 1M-Token Model in Production](https://dev.to/digitalocean/what-it-actually-costs-to-serve-a-1m-token-model-in-production-4f0k)
+- [Infostealers Are Selling Your Claude and ChatGPT Sessions for $5 on Telegram](https://dev.to/numbpill3d/infostealers-are-selling-your-claude-and-chatgpt-sessions-for-5-on-telegram-fp0)
+- [DEV-Part-1-Backend.md](https://dev.to/iron_man/dev-part-1-backendmd-4dj5)
+- [fastlogging-rs: High-Performance Logging for many different Programming Languages](https://dev.to/martin_bammer_6838a4d3b65/fastlogging-rs-high-performance-logging-for-many-different-programming-languages-772)
+- [I Benchmarked My Vanilla JS CBT Detector Against 5 NLP Libraries — Here Is When Rule-Based Wins](https://dev.to/473185670/i-benchmarked-my-vanilla-js-cbt-detector-against-5-nlp-libraries-here-is-when-rule-based-wins-2068)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
