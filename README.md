@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Git Recovery Guide: How to Undo Anything &lpar;Without Panic&rpar;](https://dev.to/james_anderson_h/the-git-recovery-guide-how-to-undo-anything-without-panic-547e)
-- [We Thought the LLM Was Wrong. Our Safety Detector Was Wrong.](https://dev.to/iamwaqarjaved/we-thought-the-llm-was-wrong-our-safety-detector-was-wrong-50pc)
-- [How One 2-vCPU VPS Hosts 5,000 Dynamic Sites and Renders a 10-Blog-Item Page in Under 1 ms?](https://dev.to/kooboo/how-one-2-vcpu-vps-hosts-5000-dynamic-sites-and-renders-a-10-blog-item-page-in-under-1-ms-pln)
-- [The Shortlist Decides First](https://dev.to/steefjan_wiggers_34a415b/the-shortlist-decides-first-1d5a)
-- [Select Like a Surgeon: LINQ Projection That Doesn&#39;t Bleed Data](https://dev.to/homolibere/select-like-a-surgeon-linq-projection-that-doesnt-bleed-data-4loo)
+- [GitOps with ArgoCD 2026: Cluster Pause, PreDelete Hooks, and the Future of Kubernetes Deployments](https://dev.to/saaro_net/gitops-with-argocd-2026-cluster-pause-predelete-hooks-and-the-future-of-kubernetes-deployments-5bce)
+- [Unlocking Client-Side AI: Running LLMs in the Browser with WebGPU](https://dev.to/lightningdev123/unlocking-client-side-ai-running-llms-in-the-browser-with-webgpu-15nc)
+- [I Told a PR Nothing Would Break. Qodo Checked.](https://dev.to/dannwaneri/i-told-a-pr-nothing-would-break-qodo-checked-32nd)
+- [Think smaller: why specialist SLMs beat frontier models in production](https://dev.to/tyler007/think-smaller-why-specialist-slms-beat-frontier-models-in-production-17gl)
+- [How to Build a High-Converting Shopify Store Without Writing Tons of Custom Code](https://dev.to/divyang_0835/how-to-build-a-high-converting-shopify-store-without-writing-tons-of-custom-code-2117)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
