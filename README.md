@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Same Model, Three APIs: Contract-Testing with Docker Model Runner](https://dev.to/raju_dandigam/same-model-three-apis-contract-testing-with-docker-model-runner-3d67)
-- [I Sent 50 Emails After 250 OK. 24% Still Bounced.](https://dev.to/onizuka/i-sent-50-emails-after-250-ok-24-still-bounced-4fh2)
-- [Why High-Quality Real-Time Face Swap Is Harder Than Offline Video Face Swap](https://dev.to/mixcbaea5/why-high-quality-real-time-face-swap-is-harder-than-offline-video-face-swap-b4g)
-- [No Agent Reviews Its Own Work](https://dev.to/jpwise/no-agent-reviews-its-own-work-3l8m)
-- [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
+- [[Boost]](https://dev.to/priyacodes/-4728)
+- [Google Search Live Gets Gemini 3.8 Live for More Natural AI Conversations](https://dev.to/alifar/google-search-live-gets-gemini-38-live-for-more-natural-ai-conversations-37dg)
+- [goto&#39;s underrated](https://dev.to/nour_dude_314/gotos-underrated-1ne7)
+- [48-Hour Field Notes: curl Looked Instant. Python Paid a Handshake on Every Call.](https://dev.to/codepy_1473/48-hour-field-notes-curl-looked-instant-python-paid-a-handshake-on-every-call-30h0)
+- [I built a browser extension to show pixel diffs in GitHub PRs](https://dev.to/radilov/i-built-a-browser-extension-to-show-pixel-diffs-in-github-prs-8hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
