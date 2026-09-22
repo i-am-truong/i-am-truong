@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Localhost MCP](https://dev.to/vikas_mano_870c09cfee793f/beyond-localhost-mcp-gh)
-- [Why &#39;monitoring&#39; isn&#39;t enough for AI agents — and how I made delegation cryptographically verifiable](https://dev.to/kironovlazizdel/why-monitoring-isnt-enough-for-ai-agents-and-how-i-made-delegation-cryptographically-verifiable-5bad)
-- [How to Search Your Claude Code Conversation History](https://dev.to/heylittlepan/how-to-search-your-claude-code-conversation-history-3l8m)
-- [Masa Depan Manajemen Data: Mengenal Konsep Data Mesh yang Revolusioner](https://dev.to/khalifumarr/masa-depan-manajemen-data-mengenal-konsep-data-mesh-yang-revolusioner-2f90)
-- [Beyond Bigger Models: Toward a Modular Cognitive Architecture](https://dev.to/_2cc42b5afe889a48a1562/beyond-bigger-models-toward-a-modular-cognitive-architecture-42no)
+- [The Git Recovery Guide: How to Undo Anything &lpar;Without Panic&rpar;](https://dev.to/james_anderson_h/the-git-recovery-guide-how-to-undo-anything-without-panic-547e)
+- [We Thought the LLM Was Wrong. Our Safety Detector Was Wrong.](https://dev.to/iamwaqarjaved/we-thought-the-llm-was-wrong-our-safety-detector-was-wrong-50pc)
+- [How One 2-vCPU VPS Hosts 5,000 Dynamic Sites and Renders a 10-Blog-Item Page in Under 1 ms?](https://dev.to/kooboo/how-one-2-vcpu-vps-hosts-5000-dynamic-sites-and-renders-a-10-blog-item-page-in-under-1-ms-pln)
+- [The Shortlist Decides First](https://dev.to/steefjan_wiggers_34a415b/the-shortlist-decides-first-1d5a)
+- [Select Like a Surgeon: LINQ Projection That Doesn&#39;t Bleed Data](https://dev.to/homolibere/select-like-a-surgeon-linq-projection-that-doesnt-bleed-data-4loo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
