@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/priyacodes/-4728)
-- [Google Search Live Gets Gemini 3.8 Live for More Natural AI Conversations](https://dev.to/alifar/google-search-live-gets-gemini-38-live-for-more-natural-ai-conversations-37dg)
-- [goto&#39;s underrated](https://dev.to/nour_dude_314/gotos-underrated-1ne7)
-- [48-Hour Field Notes: curl Looked Instant. Python Paid a Handshake on Every Call.](https://dev.to/codepy_1473/48-hour-field-notes-curl-looked-instant-python-paid-a-handshake-on-every-call-30h0)
-- [I built a browser extension to show pixel diffs in GitHub PRs](https://dev.to/radilov/i-built-a-browser-extension-to-show-pixel-diffs-in-github-prs-8hg)
+- [Google Expands Gemini Notebook With Syncing, Interactive Tools and a New Name](https://dev.to/alifar/google-expands-gemini-notebook-with-syncing-interactive-tools-and-a-new-name-1dm)
+- [Automating Android Play Store Releases, Part 3: The Storage-Quota Wall](https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663)
+- [314 IPP and 44897 Raw Print Results: The Office Device Layer on the Open Internet](https://dev.to/kozhevniko/314-ipp-and-44897-raw-print-results-the-office-device-layer-on-the-open-internet-co)
+- [Do You Really Need Python to Build AI Agents and Test Their Security?](https://dev.to/wasa-confidence/do-you-really-need-python-to-build-ai-agents-and-test-their-security-4kn6)
+- [I Built a Virtual Machine Inside the Xbox Sandbox. Then I Let AI Agents Build on Top of It.](https://dev.to/danielecangi/i-built-a-virtual-machine-inside-the-xbox-sandbox-then-i-let-ai-agents-build-on-top-of-it-ef0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
