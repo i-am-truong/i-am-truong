@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini Notebook Expands Its Workspace, but Artifact Organization Is Still Undocumented](https://dev.to/alifar/gemini-notebook-expands-its-workspace-but-artifact-organization-is-still-undocumented-2em9)
-- [Is everything on here AI generated?](https://dev.to/cory_marsh/is-everything-on-here-ai-generated-27e2)
-- [CVE-2026–17633 - Authenticated RCE in Langflow OSS via /api/v1/custom_component](https://dev.to/guidance_white/cve-2026-17633-authenticated-rce-in-langflow-oss-via-apiv1customcomponent-5baj)
-- [Your First Factory: GtkListView and the Bind/Unbind Rhythm](https://dev.to/fromthearchitect/your-first-factory-gtklistview-and-the-bindunbind-rhythm-4c1d)
-- [You&#39;re not an impostor, you just started from a different line](https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph)
+- [Beyond Localhost MCP](https://dev.to/vikas_mano_870c09cfee793f/beyond-localhost-mcp-gh)
+- [Why &#39;monitoring&#39; isn&#39;t enough for AI agents — and how I made delegation cryptographically verifiable](https://dev.to/kironovlazizdel/why-monitoring-isnt-enough-for-ai-agents-and-how-i-made-delegation-cryptographically-verifiable-5bad)
+- [How to Search Your Claude Code Conversation History](https://dev.to/heylittlepan/how-to-search-your-claude-code-conversation-history-3l8m)
+- [Masa Depan Manajemen Data: Mengenal Konsep Data Mesh yang Revolusioner](https://dev.to/khalifumarr/masa-depan-manajemen-data-mengenal-konsep-data-mesh-yang-revolusioner-2f90)
+- [Beyond Bigger Models: Toward a Modular Cognitive Architecture](https://dev.to/_2cc42b5afe889a48a1562/beyond-bigger-models-toward-a-modular-cognitive-architecture-42no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
