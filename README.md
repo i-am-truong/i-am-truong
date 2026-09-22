@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitOps with ArgoCD 2026: Cluster Pause, PreDelete Hooks, and the Future of Kubernetes Deployments](https://dev.to/saaro_net/gitops-with-argocd-2026-cluster-pause-predelete-hooks-and-the-future-of-kubernetes-deployments-5bce)
-- [Unlocking Client-Side AI: Running LLMs in the Browser with WebGPU](https://dev.to/lightningdev123/unlocking-client-side-ai-running-llms-in-the-browser-with-webgpu-15nc)
-- [I Told a PR Nothing Would Break. Qodo Checked.](https://dev.to/dannwaneri/i-told-a-pr-nothing-would-break-qodo-checked-32nd)
-- [Think smaller: why specialist SLMs beat frontier models in production](https://dev.to/tyler007/think-smaller-why-specialist-slms-beat-frontier-models-in-production-17gl)
-- [How to Build a High-Converting Shopify Store Without Writing Tons of Custom Code](https://dev.to/divyang_0835/how-to-build-a-high-converting-shopify-store-without-writing-tons-of-custom-code-2117)
+- [Same Model, Three APIs: Contract-Testing with Docker Model Runner](https://dev.to/raju_dandigam/same-model-three-apis-contract-testing-with-docker-model-runner-3d67)
+- [I Sent 50 Emails After 250 OK. 24% Still Bounced.](https://dev.to/onizuka/i-sent-50-emails-after-250-ok-24-still-bounced-4fh2)
+- [Why High-Quality Real-Time Face Swap Is Harder Than Offline Video Face Swap](https://dev.to/mixcbaea5/why-high-quality-real-time-face-swap-is-harder-than-offline-video-face-swap-b4g)
+- [No Agent Reviews Its Own Work](https://dev.to/jpwise/no-agent-reviews-its-own-work-3l8m)
+- [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
