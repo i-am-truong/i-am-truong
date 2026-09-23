@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Vibe-Coded a Cryptid-Reporting Station on Sanity &lpar;and the Workflow Rejects Bigfoot Blurs&rpar;](https://dev.to/aniruddhaadak/i-vibe-coded-a-cryptid-reporting-station-on-sanity-and-the-workflow-rejects-bigfoot-blurs-cmc)
-- [Will Jev Replace LLMs? A Support Ticket Routing Example](https://dev.to/vandnakapoor19/will-jev-replace-llms-a-support-ticket-routing-example-m2k)
-- [Rebuilding the MyZubster Knowledge Explorer as a Static, Evidence-Aware Knowledge Interface](https://dev.to/danielioni/rebuilding-the-myzubster-knowledge-explorer-as-a-static-evidence-aware-knowledge-interface-1amf)
-- [How I keep shared sales knowledge safe for different roles — SalesWiki, Part 2 of 5](https://dev.to/artemr_rudenko_0bf2c2c505/how-i-keep-shared-sales-knowledge-safe-for-different-roles-saleswiki-part-2-of-5-1ngl)
-- [Testing AWS DevOps Agent Security: Directed Actions, Guardrails, and CloudTrail Evidence](https://dev.to/aws-builders/testing-aws-devops-agent-security-directed-actions-guardrails-and-cloudtrail-evidence-338i)
+- [The Markdown File Changed Even Though I Only Edited One Word](https://dev.to/yugenelee/the-markdown-file-changed-even-though-i-only-edited-one-word-1ca2)
+- [Tenant membership is not resource permission](https://dev.to/authbyexample1/tenant-membership-is-not-resource-permission-nco)
+- [How a Typography Pipeline Actually Rewrites Text: Order, Spans, and Fixed Points](https://dev.to/iurii_rogulia/how-a-typography-pipeline-actually-rewrites-text-order-spans-and-fixed-points-41ik)
+- [How to Build Better Product Information Pages for Regulated Industries](https://dev.to/gynsyng/how-to-build-better-product-information-pages-for-regulated-industries-5g4)
+- [Price matching is a bad default: model the pricing decision instead](https://dev.to/anakin_writers/price-matching-is-a-bad-default-model-the-pricing-decision-instead-11on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
