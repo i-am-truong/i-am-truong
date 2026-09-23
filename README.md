@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Separating a VS Code Extension from a TypeScript Core: Architecture Lessons from Aqiron Security](https://dev.to/aqiron-security/separating-a-vs-code-extension-from-a-typescript-core-architecture-lessons-from-aqiron-security-4mc5)
-- [Does finally Run Before return? What javac Actually Does](https://dev.to/nazrinsuleymanli/does-finally-run-before-return-what-javac-actually-does-58hd)
-- [Gas Optimization Audit: Curve DEX](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-curve-dex-2ib8)
-- [AI Can Remember Everything. That&#39;s Exactly the Problem.](https://dev.to/josaphatstar/ai-can-remember-everything-thats-exactly-the-problem-1ee8)
-- [Synth-OOP: An Object-Oriented Language Where Operators Become Methods](https://dev.to/vp_xudon/synth-oop-an-object-oriented-language-where-operators-become-methods-26pf)
+- [Road to State Machines Part I](https://dev.to/canburaks/road-to-state-machines-part-i-2d9k)
+- [Add self-service ad hoc reporting to an ASP.NET Core app &lpar;without writing every report yourself&rpar;](https://dev.to/razisyed/add-self-service-ad-hoc-reporting-to-an-aspnet-core-app-without-writing-every-report-yourself-44ng)
+- [The Row Says &#39;system&#39;: Spring Data JPA Auditing Outside the HTTP Request](https://dev.to/purbano/the-row-says-system-spring-data-jpa-auditing-outside-the-http-request-f77)
+- [Google Gemini Enterprise Adds Airtable Connector for Search and Workspace Actions](https://dev.to/alifar/google-gemini-enterprise-adds-airtable-connector-for-search-and-workspace-actions-kpf)
+- [How I Built a Windows Version of Ghostty in 3 Days with AI](https://dev.to/lugia123/how-i-built-a-windows-version-of-ghostty-in-3-days-with-ai-1d2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
