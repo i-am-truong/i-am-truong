@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Expands Gemini Notebook With Syncing, Interactive Tools and a New Name](https://dev.to/alifar/google-expands-gemini-notebook-with-syncing-interactive-tools-and-a-new-name-1dm)
-- [Automating Android Play Store Releases, Part 3: The Storage-Quota Wall](https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663)
-- [314 IPP and 44897 Raw Print Results: The Office Device Layer on the Open Internet](https://dev.to/kozhevniko/314-ipp-and-44897-raw-print-results-the-office-device-layer-on-the-open-internet-co)
-- [Do You Really Need Python to Build AI Agents and Test Their Security?](https://dev.to/wasa-confidence/do-you-really-need-python-to-build-ai-agents-and-test-their-security-4kn6)
-- [I Built a Virtual Machine Inside the Xbox Sandbox. Then I Let AI Agents Build on Top of It.](https://dev.to/danielecangi/i-built-a-virtual-machine-inside-the-xbox-sandbox-then-i-let-ai-agents-build-on-top-of-it-ef0)
+- [What Is intent.md in Claude Code? A Practical Guide with an Example](https://dev.to/naelawadallah/what-is-intentmd-in-claude-code-a-practical-guide-with-an-example-506d)
+- [5 Things I Learned From Bad AI Video Generations](https://dev.to/lee_xiaoyuan_a97212d2f33b/5-things-i-learned-from-bad-ai-video-generations-3d58)
+- [I optimized an API for AI agents instead of humans. Here&#39;s what one week of data looked like.](https://dev.to/wonderfulian/i-optimized-an-api-for-ai-agents-instead-of-humans-heres-what-one-week-of-data-looked-like-ec6)
+- [I Built Fast API, but for Flutter/Dart &amp; AI](https://dev.to/dylanscottmickelson/i-built-fast-api-but-for-flutterdart-ai-57c)
+- [The Hidden Cost of Testing Third-Party Webhooks &lpar;And How I Bypassed It&rpar;](https://dev.to/naelawadallah/the-hidden-cost-of-testing-third-party-webhooks-and-how-i-bypassed-it-3h65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
