@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Markdown File Changed Even Though I Only Edited One Word](https://dev.to/yugenelee/the-markdown-file-changed-even-though-i-only-edited-one-word-1ca2)
-- [Tenant membership is not resource permission](https://dev.to/authbyexample1/tenant-membership-is-not-resource-permission-nco)
-- [How a Typography Pipeline Actually Rewrites Text: Order, Spans, and Fixed Points](https://dev.to/iurii_rogulia/how-a-typography-pipeline-actually-rewrites-text-order-spans-and-fixed-points-41ik)
-- [How to Build Better Product Information Pages for Regulated Industries](https://dev.to/gynsyng/how-to-build-better-product-information-pages-for-regulated-industries-5g4)
-- [Price matching is a bad default: model the pricing decision instead](https://dev.to/anakin_writers/price-matching-is-a-bad-default-model-the-pricing-decision-instead-11on)
+- [Separating a VS Code Extension from a TypeScript Core: Architecture Lessons from Aqiron Security](https://dev.to/aqiron-security/separating-a-vs-code-extension-from-a-typescript-core-architecture-lessons-from-aqiron-security-4mc5)
+- [Does finally Run Before return? What javac Actually Does](https://dev.to/nazrinsuleymanli/does-finally-run-before-return-what-javac-actually-does-58hd)
+- [Gas Optimization Audit: Curve DEX](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-curve-dex-2ib8)
+- [AI Can Remember Everything. That&#39;s Exactly the Problem.](https://dev.to/josaphatstar/ai-can-remember-everything-thats-exactly-the-problem-1ee8)
+- [Synth-OOP: An Object-Oriented Language Where Operators Become Methods](https://dev.to/vp_xudon/synth-oop-an-object-oriented-language-where-operators-become-methods-26pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
