@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Road to State Machines Part I](https://dev.to/canburaks/road-to-state-machines-part-i-2d9k)
-- [Add self-service ad hoc reporting to an ASP.NET Core app &lpar;without writing every report yourself&rpar;](https://dev.to/razisyed/add-self-service-ad-hoc-reporting-to-an-aspnet-core-app-without-writing-every-report-yourself-44ng)
-- [The Row Says &#39;system&#39;: Spring Data JPA Auditing Outside the HTTP Request](https://dev.to/purbano/the-row-says-system-spring-data-jpa-auditing-outside-the-http-request-f77)
-- [Google Gemini Enterprise Adds Airtable Connector for Search and Workspace Actions](https://dev.to/alifar/google-gemini-enterprise-adds-airtable-connector-for-search-and-workspace-actions-kpf)
-- [How I Built a Windows Version of Ghostty in 3 Days with AI](https://dev.to/lugia123/how-i-built-a-windows-version-of-ghostty-in-3-days-with-ai-1d2j)
+- [Uptime Is Not an Agent SLO](https://dev.to/raju_dandigam/uptime-is-not-an-agent-slo-f34)
+- [RPI in Practice: Research, Plan, Implement with Claude Code Subagents](https://dev.to/hamzezn/rpi-in-practice-research-plan-implement-with-claude-code-subagents-50ci)
+- [161,907 Hosts on Port 102 and 173 Siemens S7 Fingerprints: Reading Two Numbers From the Same Internet](https://dev.to/bianliang/161907-hosts-on-port-102-and-173-siemens-s7-fingerprints-reading-two-numbers-from-the-same-55il)
+- [The Future of Product Documentation](https://dev.to/ekeneeze/the-future-of-product-documentation-2mn2)
+- [My MikroTik workaround for LaLiga Cloudflare blocks](https://dev.to/alikhil/my-mikrotik-workaround-for-laliga-cloudflare-blocks-3oan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
