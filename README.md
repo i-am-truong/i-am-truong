@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is intent.md in Claude Code? A Practical Guide with an Example](https://dev.to/naelawadallah/what-is-intentmd-in-claude-code-a-practical-guide-with-an-example-506d)
-- [5 Things I Learned From Bad AI Video Generations](https://dev.to/lee_xiaoyuan_a97212d2f33b/5-things-i-learned-from-bad-ai-video-generations-3d58)
-- [I optimized an API for AI agents instead of humans. Here&#39;s what one week of data looked like.](https://dev.to/wonderfulian/i-optimized-an-api-for-ai-agents-instead-of-humans-heres-what-one-week-of-data-looked-like-ec6)
-- [I Built Fast API, but for Flutter/Dart &amp; AI](https://dev.to/dylanscottmickelson/i-built-fast-api-but-for-flutterdart-ai-57c)
-- [The Hidden Cost of Testing Third-Party Webhooks &lpar;And How I Bypassed It&rpar;](https://dev.to/naelawadallah/the-hidden-cost-of-testing-third-party-webhooks-and-how-i-bypassed-it-3h65)
+- [I Vibe-Coded a Cryptid-Reporting Station on Sanity &lpar;and the Workflow Rejects Bigfoot Blurs&rpar;](https://dev.to/aniruddhaadak/i-vibe-coded-a-cryptid-reporting-station-on-sanity-and-the-workflow-rejects-bigfoot-blurs-cmc)
+- [Will Jev Replace LLMs? A Support Ticket Routing Example](https://dev.to/vandnakapoor19/will-jev-replace-llms-a-support-ticket-routing-example-m2k)
+- [Rebuilding the MyZubster Knowledge Explorer as a Static, Evidence-Aware Knowledge Interface](https://dev.to/danielioni/rebuilding-the-myzubster-knowledge-explorer-as-a-static-evidence-aware-knowledge-interface-1amf)
+- [How I keep shared sales knowledge safe for different roles — SalesWiki, Part 2 of 5](https://dev.to/artemr_rudenko_0bf2c2c505/how-i-keep-shared-sales-knowledge-safe-for-different-roles-saleswiki-part-2-of-5-1ngl)
+- [Testing AWS DevOps Agent Security: Directed Actions, Guardrails, and CloudTrail Evidence](https://dev.to/aws-builders/testing-aws-devops-agent-security-directed-actions-guardrails-and-cloudtrail-evidence-338i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
