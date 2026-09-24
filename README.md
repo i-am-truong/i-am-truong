@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Schopenhauer in the Standup: 7 Rules to Neutralize a Toxic Boss](https://dev.to/dmitryame/schopenhauer-in-the-standup-7-rules-to-neutralize-a-toxic-boss-4kb8)
-- [Treat Free-Server Eval as a Shadow Protocol Before It Shares a Write Key](https://dev.to/robinzzz/treat-free-server-eval-as-a-shadow-protocol-before-it-shares-a-write-key-6m0)
-- [MCP Observability: How to Trace Every Tool Call in Production](https://dev.to/rupa_tiwari_dd308948d710f/mcp-observability-how-to-trace-every-tool-call-in-production-21cp)
-- [How DNS Actually Works: A Practical Guide for Engineers](https://dev.to/rakshyak/how-dns-actually-works-a-practical-guide-for-engineers-dd9)
-- [Chaos, Order, and Code: The Cycle That Drives Software &lpar;and Our Careers&rpar;](https://dev.to/diogojorge/chaos-order-and-code-the-cycle-that-drives-software-and-our-careers-2gif)
+- [What If Your AI Agent Never Left the Browser?](https://dev.to/adado_2e958757fa4dbf/6-free-public-apis-every-developer-should-know-38d3)
+- [43% of the visits go to ten apps: what the indie long tail looks like](https://dev.to/dzuamaafk/43-of-the-visits-go-to-ten-apps-what-the-indie-long-tail-looks-like-3bb1)
+- [How We Run 4 Services From One Go Monorepo](https://dev.to/towami/how-we-run-4-services-from-one-go-monorepo-5dlm)
+- [Case Study: A License Inventory Endpoint That Fails Closed on Unknown Obligations](https://dev.to/devrs_9381/case-study-a-license-inventory-endpoint-that-fails-closed-on-unknown-obligations-4ipp)
+- [Indie makers build Productivity apps. The visits go to Food &amp; Drink and Finance.](https://dev.to/dzuamaafk/indie-makers-build-productivity-apps-the-visits-go-to-food-drink-and-finance-3mbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
