@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Cleverness: A Backend Engineer’s Guide to Strategic Simplicity](https://dev.to/nahamaalochi/the-cost-of-cleverness-a-backend-engineers-guide-to-strategic-simplicity-5h7c)
-- [Build Your First GitHub Copilot Custom Agent: A Practical LoadRunner Example](https://dev.to/kavin_arvind_8a1adbd39efd/build-your-first-github-copilot-custom-agent-a-practical-loadrunner-example-4bo0)
-- [Adnan Obuz: 5 hard-won Meta Muse warnings for 2026](https://dev.to/adnanobuz/adnan-obuz-5-hard-won-meta-muse-warnings-for-2026-j62)
-- [The Architecture Behind a 4,000+ Dealer Transformation: How TVS Motor Modernized Its Legacy Dealer Management System](https://dev.to/kishore_freaks/the-architecture-behind-a-4000-dealer-transformation-how-tvs-motor-modernized-its-legacy-dealer-kl7)
-- [I didn&#39;t fix the bug: contributing to a 20k-star ML repo by measuring it](https://dev.to/genelab_999/i-didnt-fix-the-bug-contributing-to-a-20k-star-ml-repo-by-measuring-it-1lg7)
+- [I built a CLI that scaffolds the boring parts of an AI SaaS — here&#39;s what it actually generates](https://dev.to/armin_burger_ab136b2f8bb1/i-built-a-cli-that-scaffolds-the-boring-parts-of-an-ai-saas-heres-what-it-actually-generates-248f)
+- [Python Error Handling: try/except for Beginners](https://dev.to/sameerqaisar17/python-error-handling-tryexcept-for-beginners-4kd5)
+- [38 recipes, seven conditions, and the seven collection pages we did not build](https://dev.to/daniel_pertu/38-recipes-seven-conditions-and-the-seven-collection-pages-we-did-not-build-3ee3)
+- [You Don&#39;t Need Adobe Commerce Cloud to Survive Black Friday](https://dev.to/andriiboyko/you-dont-need-adobe-commerce-cloud-to-survive-black-friday-2jcf)
+- [What is Programming And How i can Enjoy it?](https://dev.to/kumarshubh01/what-is-programming-and-how-i-an-enjoy-it-5ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
