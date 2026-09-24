@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Uptime Is Not an Agent SLO](https://dev.to/raju_dandigam/uptime-is-not-an-agent-slo-f34)
-- [RPI in Practice: Research, Plan, Implement with Claude Code Subagents](https://dev.to/hamzezn/rpi-in-practice-research-plan-implement-with-claude-code-subagents-50ci)
-- [161,907 Hosts on Port 102 and 173 Siemens S7 Fingerprints: Reading Two Numbers From the Same Internet](https://dev.to/bianliang/161907-hosts-on-port-102-and-173-siemens-s7-fingerprints-reading-two-numbers-from-the-same-55il)
-- [The Future of Product Documentation](https://dev.to/ekeneeze/the-future-of-product-documentation-2mn2)
-- [My MikroTik workaround for LaLiga Cloudflare blocks](https://dev.to/alikhil/my-mikrotik-workaround-for-laliga-cloudflare-blocks-3oan)
+- [Governance Attack Surface Review: Gemini](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-gemini-n4b)
+- [Cyber Decoys After the CISA Guide: Turning an Assumed Breach into an Alert Pipeline](https://dev.to/jeffreyciend/cyber-decoys-after-the-cisa-guide-turning-an-assumed-breach-into-an-alert-pipeline-155k)
+- [Customer Domain Verification: Scheduled Polling and Triggered Rechecks for Tenant Onboarding](https://dev.to/valerianblack3895/customer-domain-verification-scheduled-polling-and-triggered-rechecks-for-tenant-onboarding-6ig)
+- [Google AI Mode Reduced Publisher Clicks in a Controlled Search Experiment](https://dev.to/alifar/google-ai-mode-reduced-publisher-clicks-in-a-controlled-search-experiment-29jn)
+- [Your AI Agent Isn&#39;t Broken. It&#39;s Doing Exactly What You Trained It To Do](https://dev.to/coridev/your-ai-agent-isnt-broken-its-doing-exactly-what-you-trained-it-to-do-ebh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
