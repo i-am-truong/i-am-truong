@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Agent 365 Supports n8n Agents in Microsoft 365 With Governance](https://dev.to/alifar/microsoft-agent-365-supports-n8n-agents-in-microsoft-365-with-governance-118n)
-- [Azure Operations Copilot in Microsoft Teams - Monitor, Investigate and Understand Azure from One Chat](https://dev.to/shivanna_gundanavar_d1c43/azure-operations-copilot-in-microsoft-teams-monitor-investigate-and-understand-azure-from-one-1nib)
-- [JavaScript Primitive Data Types Explained for Beginners](https://dev.to/megalraja/javascript-primitive-data-types-explained-for-beginners-4285)
-- [Chapter 6 — Make Feature Lifecycle Intentional with Null, Reset, and Destroy](https://dev.to/sdux-vault/chapter-6-make-feature-lifecycle-intentional-with-null-reset-and-destroy-4obl)
-- [Block the Agent Patch Until a Second Process Replays the Witness](https://dev.to/datacpp_8185/block-the-agent-patch-until-a-second-process-replays-the-witness-3ipl)
+- [Schopenhauer in the Standup: 7 Rules to Neutralize a Toxic Boss](https://dev.to/dmitryame/schopenhauer-in-the-standup-7-rules-to-neutralize-a-toxic-boss-4kb8)
+- [Treat Free-Server Eval as a Shadow Protocol Before It Shares a Write Key](https://dev.to/robinzzz/treat-free-server-eval-as-a-shadow-protocol-before-it-shares-a-write-key-6m0)
+- [MCP Observability: How to Trace Every Tool Call in Production](https://dev.to/rupa_tiwari_dd308948d710f/mcp-observability-how-to-trace-every-tool-call-in-production-21cp)
+- [How DNS Actually Works: A Practical Guide for Engineers](https://dev.to/rakshyak/how-dns-actually-works-a-practical-guide-for-engineers-dd9)
+- [Chaos, Order, and Code: The Cycle That Drives Software &lpar;and Our Careers&rpar;](https://dev.to/diogojorge/chaos-order-and-code-the-cycle-that-drives-software-and-our-careers-2gif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
