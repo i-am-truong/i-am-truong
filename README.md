@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Governance Attack Surface Review: Gemini](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-gemini-n4b)
-- [Cyber Decoys After the CISA Guide: Turning an Assumed Breach into an Alert Pipeline](https://dev.to/jeffreyciend/cyber-decoys-after-the-cisa-guide-turning-an-assumed-breach-into-an-alert-pipeline-155k)
-- [Customer Domain Verification: Scheduled Polling and Triggered Rechecks for Tenant Onboarding](https://dev.to/valerianblack3895/customer-domain-verification-scheduled-polling-and-triggered-rechecks-for-tenant-onboarding-6ig)
-- [Google AI Mode Reduced Publisher Clicks in a Controlled Search Experiment](https://dev.to/alifar/google-ai-mode-reduced-publisher-clicks-in-a-controlled-search-experiment-29jn)
-- [Your AI Agent Isn&#39;t Broken. It&#39;s Doing Exactly What You Trained It To Do](https://dev.to/coridev/your-ai-agent-isnt-broken-its-doing-exactly-what-you-trained-it-to-do-ebh)
+- [The Cost of Cleverness: A Backend Engineer’s Guide to Strategic Simplicity](https://dev.to/nahamaalochi/the-cost-of-cleverness-a-backend-engineers-guide-to-strategic-simplicity-5h7c)
+- [Build Your First GitHub Copilot Custom Agent: A Practical LoadRunner Example](https://dev.to/kavin_arvind_8a1adbd39efd/build-your-first-github-copilot-custom-agent-a-practical-loadrunner-example-4bo0)
+- [Adnan Obuz: 5 hard-won Meta Muse warnings for 2026](https://dev.to/adnanobuz/adnan-obuz-5-hard-won-meta-muse-warnings-for-2026-j62)
+- [The Architecture Behind a 4,000+ Dealer Transformation: How TVS Motor Modernized Its Legacy Dealer Management System](https://dev.to/kishore_freaks/the-architecture-behind-a-4000-dealer-transformation-how-tvs-motor-modernized-its-legacy-dealer-kl7)
+- [I didn&#39;t fix the bug: contributing to a 20k-star ML repo by measuring it](https://dev.to/genelab_999/i-didnt-fix-the-bug-contributing-to-a-20k-star-ml-repo-by-measuring-it-1lg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
