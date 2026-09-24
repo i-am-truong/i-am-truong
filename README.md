@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI that scaffolds the boring parts of an AI SaaS — here&#39;s what it actually generates](https://dev.to/armin_burger_ab136b2f8bb1/i-built-a-cli-that-scaffolds-the-boring-parts-of-an-ai-saas-heres-what-it-actually-generates-248f)
-- [Python Error Handling: try/except for Beginners](https://dev.to/sameerqaisar17/python-error-handling-tryexcept-for-beginners-4kd5)
-- [38 recipes, seven conditions, and the seven collection pages we did not build](https://dev.to/daniel_pertu/38-recipes-seven-conditions-and-the-seven-collection-pages-we-did-not-build-3ee3)
-- [You Don&#39;t Need Adobe Commerce Cloud to Survive Black Friday](https://dev.to/andriiboyko/you-dont-need-adobe-commerce-cloud-to-survive-black-friday-2jcf)
-- [What is Programming And How i can Enjoy it?](https://dev.to/kumarshubh01/what-is-programming-and-how-i-an-enjoy-it-5ci)
+- [Microsoft Agent 365 Supports n8n Agents in Microsoft 365 With Governance](https://dev.to/alifar/microsoft-agent-365-supports-n8n-agents-in-microsoft-365-with-governance-118n)
+- [Azure Operations Copilot in Microsoft Teams - Monitor, Investigate and Understand Azure from One Chat](https://dev.to/shivanna_gundanavar_d1c43/azure-operations-copilot-in-microsoft-teams-monitor-investigate-and-understand-azure-from-one-1nib)
+- [JavaScript Primitive Data Types Explained for Beginners](https://dev.to/megalraja/javascript-primitive-data-types-explained-for-beginners-4285)
+- [Chapter 6 — Make Feature Lifecycle Intentional with Null, Reset, and Destroy](https://dev.to/sdux-vault/chapter-6-make-feature-lifecycle-intentional-with-null-reset-and-destroy-4obl)
+- [Block the Agent Patch Until a Second Process Replays the Witness](https://dev.to/datacpp_8185/block-the-agent-patch-until-a-second-process-replays-the-witness-3ipl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
