@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Webflow Pricing 2026: Free Tier Limits, CMS Costs &amp; When to Upgrade](https://dev.to/nayankyada/webflow-pricing-2026-free-tier-limits-cms-costs-when-to-upgrade-1jmb)
-- [Refactor Agent Skills for 10x Cost Efficiency](https://dev.to/jennieji/refactor-agent-skills-for-10x-cost-efficiency-52fg)
-- [DOCIFY](https://dev.to/docify/docify-5ga6)
-- [Eight things I measured about M-Pesa STK Push that the documentation doesn&#39;t tell you](https://dev.to/deval123/eight-things-i-measured-about-m-pesa-stk-push-that-the-documentation-doesnt-tell-you-19l1)
-- [Data Modelling, Relationships &amp; Joins](https://dev.to/waweru_8583fe284b383faf87/data-modelling-relationships-joins-34d6)
+- [Un fallo, un éxito](https://dev.to/mattsenter/un-fallo-un-exito-50cn)
+- [The AI Was Right. The Answer Was Still Wrong.](https://dev.to/akanksha_sharma/the-ai-was-right-the-answer-was-still-wrong-2pl4)
+- [Your SVG Has No Scripts. Is It Safe to Process?](https://dev.to/svgicons/your-svg-has-no-scripts-is-it-safe-to-process-3di)
+- [Run a self-healing crypto trading bot 24/7 for $0 &lpar;Freqtrade + watchdog&rpar;](https://dev.to/matteo_adorni_948bc601a06/run-a-self-healing-crypto-trading-bot-247-for-0-freqtrade-watchdog-30dh)
+- [dbdiagram.io vs dbdiagramr vs DrawSQL: Honest Comparison](https://dev.to/not_varunkv/dbdiagramio-vs-dbdiagramr-vs-drawsql-honest-comparison-4794)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
