@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to track Google Hotels prices with Python &lpar;no browser, no API key&rpar;](https://dev.to/rel8ble/how-to-track-google-hotels-prices-with-python-no-browser-no-api-key-590g)
-- [Why your pages are crawled but not indexed](https://dev.to/nooralto1/why-your-pages-are-crawled-but-not-indexed-4lfa)
-- [Internal linking as a data structure](https://dev.to/nooralto1/internal-linking-as-a-data-structure-16ej)
-- [The Silent Killer of AI Agents: Why Your Evaluation Metrics Are Lying to You](https://dev.to/tamizuddin/the-silent-killer-of-ai-agents-why-your-evaluation-metrics-are-lying-to-you-20g7)
-- [SAM.gov&#39;s exclusions list looked key-gated. The dataset wasn&#39;t — the endpoint was.](https://dev.to/fetchsmith/samgovs-exclusions-list-looked-key-gated-the-dataset-wasnt-the-endpoint-was-2237)
+- [Developer tools need repository context and safe remediation](https://dev.to/sarthakagrawal927/developer-tools-need-repository-context-and-safe-remediation-42p3)
+- [Why a swarm of AI agents is the hardest thing this series has tried to tame](https://dev.to/derekwang85/why-a-swarm-of-ai-agents-is-the-hardest-thing-this-series-has-tried-to-tame-38g9)
+- [I rebuilt my 2018 agar.io clone around real orbital physics, with no game server](https://dev.to/lagario/i-rebuilt-my-2018-agario-clone-around-real-orbital-physics-with-no-game-server-1e7d)
+- [Day 20 — CDN ও Edge Caching — সার্ভারকে বিশ্রাম দিন](https://dev.to/mislam-dev/day-20-cdn-o-edge-caching-saarbhaarke-bishraam-din-56gp)
+- [My Agent Counted 34 YouTube Links as Doors for Two Weeks. 33 of Them Could Not Be Clicked.](https://dev.to/dbsoul/my-agent-counted-34-youtube-links-as-doors-for-two-weeks-33-of-them-could-not-be-clicked-3n6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
