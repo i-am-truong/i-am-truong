@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What If Your AI Agent Never Left the Browser?](https://dev.to/adado_2e958757fa4dbf/6-free-public-apis-every-developer-should-know-38d3)
-- [43% of the visits go to ten apps: what the indie long tail looks like](https://dev.to/dzuamaafk/43-of-the-visits-go-to-ten-apps-what-the-indie-long-tail-looks-like-3bb1)
-- [How We Run 4 Services From One Go Monorepo](https://dev.to/towami/how-we-run-4-services-from-one-go-monorepo-5dlm)
-- [Case Study: A License Inventory Endpoint That Fails Closed on Unknown Obligations](https://dev.to/devrs_9381/case-study-a-license-inventory-endpoint-that-fails-closed-on-unknown-obligations-4ipp)
-- [Indie makers build Productivity apps. The visits go to Food &amp; Drink and Finance.](https://dev.to/dzuamaafk/indie-makers-build-productivity-apps-the-visits-go-to-food-drink-and-finance-3mbm)
+- [How to track Google Hotels prices with Python &lpar;no browser, no API key&rpar;](https://dev.to/rel8ble/how-to-track-google-hotels-prices-with-python-no-browser-no-api-key-590g)
+- [Why your pages are crawled but not indexed](https://dev.to/nooralto1/why-your-pages-are-crawled-but-not-indexed-4lfa)
+- [Internal linking as a data structure](https://dev.to/nooralto1/internal-linking-as-a-data-structure-16ej)
+- [The Silent Killer of AI Agents: Why Your Evaluation Metrics Are Lying to You](https://dev.to/tamizuddin/the-silent-killer-of-ai-agents-why-your-evaluation-metrics-are-lying-to-you-20g7)
+- [SAM.gov&#39;s exclusions list looked key-gated. The dataset wasn&#39;t — the endpoint was.](https://dev.to/fetchsmith/samgovs-exclusions-list-looked-key-gated-the-dataset-wasnt-the-endpoint-was-2237)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
