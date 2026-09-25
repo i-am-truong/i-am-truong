@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Wrote All the Code for an Orienteering Analyzer. The Hard Part Came After It Worked.](https://dev.to/hram/my-ai-agent-wrote-all-the-code-for-an-orienteering-analyzer-the-hard-part-came-after-it-worked-594h)
-- [Epílogo: haviam muitas possibilidades para dar errado](https://dev.to/josimarzin/epilogo-haviam-muitas-possibilidades-para-dar-errado-3p6d)
-- [Transactional Email Service Alternatives: 7 Welcome API Signals for Startups](https://dev.to/rivenor85/transactional-email-service-alternatives-7-welcome-api-signals-for-startups-478d)
-- [Kafka only guarantees order if you earn it — keys are the currency](https://dev.to/william_rodriguez_65a5898/kafka-only-guarantees-order-if-you-earn-it-keys-are-the-currency-450o)
-- [[ES] Deja de escribir el boilerplate de Kafka a pie: Un decorador es suficiente](https://dev.to/william_rodriguez_65a5898/es-deja-de-escribir-el-boilerplate-de-kafka-a-pie-un-decorador-es-suficiente-510)
+- [Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://dev.to/aws-builders/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-2c9d)
+- [I got tired of always being three Java versions behind, so I built a little game to fix it](https://dev.to/nextpatch/i-got-tired-of-always-being-three-java-versions-behind-so-i-built-a-little-game-to-fix-it-3nn)
+- [I Built a Stock Price Prediction App While Learning ML — Here&#39;s What I Learned](https://dev.to/ankit02327/i-built-a-stock-price-prediction-app-while-learning-ml-heres-what-i-learned-19ho)
+- [Back to the gym after three years](https://dev.to/debs_obrien/back-to-the-gym-after-three-years-1akb)
+- [OpenAI Details Hugging Face Incident and Broadens Frontier Model Safety Review](https://dev.to/alifar/openai-details-hugging-face-incident-and-broadens-frontier-model-safety-review-1lac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
