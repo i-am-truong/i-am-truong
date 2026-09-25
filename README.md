@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Un fallo, un éxito](https://dev.to/mattsenter/un-fallo-un-exito-50cn)
-- [The AI Was Right. The Answer Was Still Wrong.](https://dev.to/akanksha_sharma/the-ai-was-right-the-answer-was-still-wrong-2pl4)
-- [Your SVG Has No Scripts. Is It Safe to Process?](https://dev.to/svgicons/your-svg-has-no-scripts-is-it-safe-to-process-3di)
-- [Run a self-healing crypto trading bot 24/7 for $0 &lpar;Freqtrade + watchdog&rpar;](https://dev.to/matteo_adorni_948bc601a06/run-a-self-healing-crypto-trading-bot-247-for-0-freqtrade-watchdog-30dh)
-- [dbdiagram.io vs dbdiagramr vs DrawSQL: Honest Comparison](https://dev.to/not_varunkv/dbdiagramio-vs-dbdiagramr-vs-drawsql-honest-comparison-4794)
+- [My AI Agent Wrote All the Code for an Orienteering Analyzer. The Hard Part Came After It Worked.](https://dev.to/hram/my-ai-agent-wrote-all-the-code-for-an-orienteering-analyzer-the-hard-part-came-after-it-worked-594h)
+- [Epílogo: haviam muitas possibilidades para dar errado](https://dev.to/josimarzin/epilogo-haviam-muitas-possibilidades-para-dar-errado-3p6d)
+- [Transactional Email Service Alternatives: 7 Welcome API Signals for Startups](https://dev.to/rivenor85/transactional-email-service-alternatives-7-welcome-api-signals-for-startups-478d)
+- [Kafka only guarantees order if you earn it — keys are the currency](https://dev.to/william_rodriguez_65a5898/kafka-only-guarantees-order-if-you-earn-it-keys-are-the-currency-450o)
+- [[ES] Deja de escribir el boilerplate de Kafka a pie: Un decorador es suficiente](https://dev.to/william_rodriguez_65a5898/es-deja-de-escribir-el-boilerplate-de-kafka-a-pie-un-decorador-es-suficiente-510)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
