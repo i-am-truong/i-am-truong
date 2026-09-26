@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RLS says yes and Postgres still says permission denied: the 403 family I only understood on the second one](https://dev.to/dexterlung/rls-says-yes-and-postgres-still-says-permission-denied-the-403-family-i-only-understood-on-the-1f3p)
-- [Recognizing the Unit of Work Pattern in a Simple Multi-Step Save](https://dev.to/dhanagani_lakshmi_2487ad0/recognizing-the-unit-of-work-pattern-in-a-simple-multi-step-save-lm9)
-- [What Actually Happens Inside a Smart Suitcase?](https://dev.to/notagaussiancurve/what-actually-happens-inside-a-smart-suitcase-5eop)
-- [I Looked at How AIUniverse Builds AI Agents. Here’s What’s Happening Under the Hood](https://dev.to/katul1512/i-looked-at-how-aiuniverse-builds-ai-agents-heres-whats-happening-under-the-hood-2clp)
-- [2026 - Backend Interview Questions](https://dev.to/vivek1030/2026-backend-interview-questions-hjh)
+- [10 Years In, Everything I Was Proud Of As a Junior Was Wrong](https://dev.to/rudratosh/10-years-in-everything-i-was-proud-of-as-a-junior-was-wrong-igo)
+- [Fila por fila es la muerte de OLAP: Ingestión masiva de alta velocidad en ClickHouse](https://dev.to/william_rodriguez_65a5898/fila-por-fila-es-la-muerte-de-olap-ingestion-masiva-de-alta-velocidad-en-clickhouse-36kf)
+- [When a Kyverno Wildcard Guardrail Runs Past a Post-Policy CRD Until a Restart](https://dev.to/whenitruns/when-a-kyverno-wildcard-guardrail-runs-past-a-post-policy-crd-until-a-restart-226l)
+- [Row-by-row is the death of OLAP: High-speed bulk ingestion in ClickHouse](https://dev.to/william_rodriguez_65a5898/row-by-row-is-the-death-of-olap-high-speed-bulk-ingestion-in-clickhouse-36mb)
+- [I checked a million free proxies. One in five of the working ones rewrote my pages.](https://dev.to/taventix/i-checked-a-million-free-proxies-one-in-five-of-the-working-ones-rewrote-my-pages-1no9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
