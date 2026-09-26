@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Verify an Indexer Can Recover from a Chain Reorganization](https://dev.to/pharos_production/verify-an-indexer-can-recover-from-a-chain-reorganization-1gn0)
-- [Astra Killed Claude, Claude Killed Gemini, Gemini Killed Google, Google Committed Suicide](https://dev.to/web_dev-usman/astra-killed-claude-claude-killed-gemini-gemini-killed-google-google-committed-suicide-n32)
-- [How I Built a Real-Time rPPG Heart Rate Tracker in Python &lpar;POS Algorithm &amp; Butterworth Filtering&rpar;](https://dev.to/shakeelahmedneuroai/how-i-built-a-real-time-rppg-heart-rate-tracker-in-python-pos-algorithm-butterworth-filtering-1koe)
-- [How to Automate Git Add, Commit, and Push with a Bash Script](https://dev.to/jamiukayode27/how-to-automate-git-add-commit-and-push-with-a-bash-script-524g)
-- [Understanding IPTV Streaming Protocols in 2026: HLS vs MPEG-TS &amp; Hardware Acceleration](https://dev.to/uranua_oussama_4fd52575a9/understanding-iptv-streaming-protocols-in-2026-hls-vs-mpeg-ts-hardware-acceleration-1cik)
+- [Don&#39;t put your agent guardrails in the system prompt](https://dev.to/alexiskroberson/dont-put-your-agent-guardrails-in-the-system-prompt-54p2)
+- [Diagrams as Code: Keep Your Architecture Docs Alive Inside the Repo](https://dev.to/eme_gug_0821b41b948be6516/diagrams-as-code-keep-your-architecture-docs-alive-inside-the-repo-40co)
+- [Will It Stack? An agent that knows which Raspberry Pi HATs fight over the same pins](https://dev.to/anur4ag/will-it-stack-an-agent-that-knows-which-raspberry-pi-hats-fight-over-the-same-pins-4kl4)
+- [A Startup Claims Its AI Is 444x Cheaper. Nobody Can Prove It. Everyone&#39;s Buying It.](https://dev.to/mukul-kumar-mishra/a-startup-claims-its-ai-is-444x-cheaper-nobody-can-prove-it-everyones-buying-it-3n5m)
+- [I Got Rejected 2 Minutes After Applying. So Much for &#39;Skills-Based Hiring.&#39;](https://dev.to/mikachu/i-got-rejected-2-minutes-after-applying-so-much-for-skills-based-hiring-4315)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
