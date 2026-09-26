@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://dev.to/aws-builders/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-2c9d)
-- [I got tired of always being three Java versions behind, so I built a little game to fix it](https://dev.to/nextpatch/i-got-tired-of-always-being-three-java-versions-behind-so-i-built-a-little-game-to-fix-it-3nn)
-- [I Built a Stock Price Prediction App While Learning ML — Here&#39;s What I Learned](https://dev.to/ankit02327/i-built-a-stock-price-prediction-app-while-learning-ml-heres-what-i-learned-19ho)
-- [Back to the gym after three years](https://dev.to/debs_obrien/back-to-the-gym-after-three-years-1akb)
-- [OpenAI Details Hugging Face Incident and Broadens Frontier Model Safety Review](https://dev.to/alifar/openai-details-hugging-face-incident-and-broadens-frontier-model-safety-review-1lac)
+- [SEO Automation Signals a Hybrid Future: Rules, AI, and Human Approval](https://dev.to/alifar/seo-automation-signals-a-hybrid-future-rules-ai-and-human-approval-2hd)
+- [Node.js Text Summarization API — Reliable Chat Completions for Moderation SaaS](https://dev.to/ulricdonovan1564/nodejs-text-summarization-api-reliable-chat-completions-for-moderation-saas-26f7)
+- [Permission Filters and pgvector: Why Your Most Restricted Users Get the Fewest Answers](https://dev.to/agave_info_solutions/permission-filters-and-pgvector-why-your-most-restricted-users-get-the-fewest-answers-2e63)
+- [When AI-generated code outruns the reader, the fix is tooling, not a stronger reviewer](https://dev.to/cole_halton_42f71d71b809b/when-ai-generated-code-outruns-the-reader-the-fix-is-tooling-not-a-stronger-reviewer-5676)
+- [Cutting PR review time is an orchestration problem, not a reviewer problem](https://dev.to/tessainsley/cutting-pr-review-time-is-an-orchestration-problem-not-a-reviewer-problem-476c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
