@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Years In, Everything I Was Proud Of As a Junior Was Wrong](https://dev.to/rudratosh/10-years-in-everything-i-was-proud-of-as-a-junior-was-wrong-igo)
-- [Fila por fila es la muerte de OLAP: Ingestión masiva de alta velocidad en ClickHouse](https://dev.to/william_rodriguez_65a5898/fila-por-fila-es-la-muerte-de-olap-ingestion-masiva-de-alta-velocidad-en-clickhouse-36kf)
-- [When a Kyverno Wildcard Guardrail Runs Past a Post-Policy CRD Until a Restart](https://dev.to/whenitruns/when-a-kyverno-wildcard-guardrail-runs-past-a-post-policy-crd-until-a-restart-226l)
-- [Row-by-row is the death of OLAP: High-speed bulk ingestion in ClickHouse](https://dev.to/william_rodriguez_65a5898/row-by-row-is-the-death-of-olap-high-speed-bulk-ingestion-in-clickhouse-36mb)
-- [I checked a million free proxies. One in five of the working ones rewrote my pages.](https://dev.to/taventix/i-checked-a-million-free-proxies-one-in-five-of-the-working-ones-rewrote-my-pages-1no9)
+- [Retry, Backoff, and Circuit Breakers for LLM API Calls](https://dev.to/draganristicrsjpg/retry-backoff-and-circuit-breakers-for-llm-api-calls-h3k)
+- [What If the Website Stops Being the Front Door of E-Commerce?](https://dev.to/fcn06/what-if-the-website-stops-being-the-front-door-of-e-commerce-m9k)
+- [Vite+ — Chapter 5: Should You Use Vite+?](https://dev.to/othmane_nemli/vite-chapter-5-should-you-use-vite-4l8b)
+- [Entity Framework Core Performance Optimization: A Practical Guide for .NET Developers](https://dev.to/chethan_ramaswamy_773955e/entity-framework-core-performance-optimization-a-practical-guide-for-net-developers-4d35)
+- [Building FoxyInvoice — Appendix: Glossary &amp; Checklists](https://dev.to/seolith/building-foxyinvoice-appendix-glossary-checklists-72f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
