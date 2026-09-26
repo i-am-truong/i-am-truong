@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A security researcher told me to close my OAuth registration endpoint. I said no.](https://dev.to/nativecode/a-security-researcher-told-me-to-close-my-oauth-registration-endpoint-i-said-no-46c7)
-- [[AI in Action] Gemini Agentic Video: 4 Hidden Prerequisites and My LINE Bot Integration Process](https://dev.to/evanlin/ai-in-action-gemini-agentic-video-4-hidden-prerequisites-and-my-line-bot-integration-process-582f)
-- [[Steam Deck Guide] Fix Windows .exe Patch Path Errors: The Ultra-Stable &quot;Relay Transfer Method&quot;](https://dev.to/evanlin/steam-deck-guide-fix-windows-exe-patch-path-errors-the-ultra-stable-relay-transfer-method-me1)
-- [[AI in Practice] Gemini 3.8 Flash TTS Launch: I built a &quot;Learn Japanese with MVs&quot; Web App and burned through my daily quota.](https://dev.to/evanlin/ai-in-practice-gemini-38-flash-tts-launch-i-built-a-learn-japanese-with-mvs-web-app-and-4o79)
-- [[AI in Practice] Deploying Song Lingo to Cloud Run: Making a Private Lyrics Website Just for Me](https://dev.to/evanlin/ai-in-practice-deploying-song-lingo-to-cloud-run-making-a-private-lyrics-website-just-for-me-mb3)
+- [Verify an Indexer Can Recover from a Chain Reorganization](https://dev.to/pharos_production/verify-an-indexer-can-recover-from-a-chain-reorganization-1gn0)
+- [Astra Killed Claude, Claude Killed Gemini, Gemini Killed Google, Google Committed Suicide](https://dev.to/web_dev-usman/astra-killed-claude-claude-killed-gemini-gemini-killed-google-google-committed-suicide-n32)
+- [How I Built a Real-Time rPPG Heart Rate Tracker in Python &lpar;POS Algorithm &amp; Butterworth Filtering&rpar;](https://dev.to/shakeelahmedneuroai/how-i-built-a-real-time-rppg-heart-rate-tracker-in-python-pos-algorithm-butterworth-filtering-1koe)
+- [How to Automate Git Add, Commit, and Push with a Bash Script](https://dev.to/jamiukayode27/how-to-automate-git-add-commit-and-push-with-a-bash-script-524g)
+- [Understanding IPTV Streaming Protocols in 2026: HLS vs MPEG-TS &amp; Hardware Acceleration](https://dev.to/uranua_oussama_4fd52575a9/understanding-iptv-streaming-protocols-in-2026-hls-vs-mpeg-ts-hardware-acceleration-1cik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
