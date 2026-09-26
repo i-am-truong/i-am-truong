@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SEO Automation Signals a Hybrid Future: Rules, AI, and Human Approval](https://dev.to/alifar/seo-automation-signals-a-hybrid-future-rules-ai-and-human-approval-2hd)
-- [Node.js Text Summarization API — Reliable Chat Completions for Moderation SaaS](https://dev.to/ulricdonovan1564/nodejs-text-summarization-api-reliable-chat-completions-for-moderation-saas-26f7)
-- [Permission Filters and pgvector: Why Your Most Restricted Users Get the Fewest Answers](https://dev.to/agave_info_solutions/permission-filters-and-pgvector-why-your-most-restricted-users-get-the-fewest-answers-2e63)
-- [When AI-generated code outruns the reader, the fix is tooling, not a stronger reviewer](https://dev.to/cole_halton_42f71d71b809b/when-ai-generated-code-outruns-the-reader-the-fix-is-tooling-not-a-stronger-reviewer-5676)
-- [Cutting PR review time is an orchestration problem, not a reviewer problem](https://dev.to/tessainsley/cutting-pr-review-time-is-an-orchestration-problem-not-a-reviewer-problem-476c)
+- [RLS says yes and Postgres still says permission denied: the 403 family I only understood on the second one](https://dev.to/dexterlung/rls-says-yes-and-postgres-still-says-permission-denied-the-403-family-i-only-understood-on-the-1f3p)
+- [Recognizing the Unit of Work Pattern in a Simple Multi-Step Save](https://dev.to/dhanagani_lakshmi_2487ad0/recognizing-the-unit-of-work-pattern-in-a-simple-multi-step-save-lm9)
+- [What Actually Happens Inside a Smart Suitcase?](https://dev.to/notagaussiancurve/what-actually-happens-inside-a-smart-suitcase-5eop)
+- [I Looked at How AIUniverse Builds AI Agents. Here’s What’s Happening Under the Hood](https://dev.to/katul1512/i-looked-at-how-aiuniverse-builds-ai-agents-heres-whats-happening-under-the-hood-2clp)
+- [2026 - Backend Interview Questions](https://dev.to/vivek1030/2026-backend-interview-questions-hjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
