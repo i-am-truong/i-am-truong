@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Retry, Backoff, and Circuit Breakers for LLM API Calls](https://dev.to/draganristicrsjpg/retry-backoff-and-circuit-breakers-for-llm-api-calls-h3k)
-- [What If the Website Stops Being the Front Door of E-Commerce?](https://dev.to/fcn06/what-if-the-website-stops-being-the-front-door-of-e-commerce-m9k)
-- [Vite+ — Chapter 5: Should You Use Vite+?](https://dev.to/othmane_nemli/vite-chapter-5-should-you-use-vite-4l8b)
-- [Entity Framework Core Performance Optimization: A Practical Guide for .NET Developers](https://dev.to/chethan_ramaswamy_773955e/entity-framework-core-performance-optimization-a-practical-guide-for-net-developers-4d35)
-- [Building FoxyInvoice — Appendix: Glossary &amp; Checklists](https://dev.to/seolith/building-foxyinvoice-appendix-glossary-checklists-72f)
+- [A security researcher told me to close my OAuth registration endpoint. I said no.](https://dev.to/nativecode/a-security-researcher-told-me-to-close-my-oauth-registration-endpoint-i-said-no-46c7)
+- [[AI in Action] Gemini Agentic Video: 4 Hidden Prerequisites and My LINE Bot Integration Process](https://dev.to/evanlin/ai-in-action-gemini-agentic-video-4-hidden-prerequisites-and-my-line-bot-integration-process-582f)
+- [[Steam Deck Guide] Fix Windows .exe Patch Path Errors: The Ultra-Stable &quot;Relay Transfer Method&quot;](https://dev.to/evanlin/steam-deck-guide-fix-windows-exe-patch-path-errors-the-ultra-stable-relay-transfer-method-me1)
+- [[AI in Practice] Gemini 3.8 Flash TTS Launch: I built a &quot;Learn Japanese with MVs&quot; Web App and burned through my daily quota.](https://dev.to/evanlin/ai-in-practice-gemini-38-flash-tts-launch-i-built-a-learn-japanese-with-mvs-web-app-and-4o79)
+- [[AI in Practice] Deploying Song Lingo to Cloud Run: Making a Private Lyrics Website Just for Me](https://dev.to/evanlin/ai-in-practice-deploying-song-lingo-to-cloud-run-making-a-private-lyrics-website-just-for-me-mb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
