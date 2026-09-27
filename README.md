@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Signed hackathon results anyone can recompute and verify](https://dev.to/zkasuran/signed-hackathon-results-anyone-can-recompute-and-verify-4f59)
-- [Wait, I was today years old when I realized you can post on dev like its Twitter. Well hello good people of the internets](https://dev.to/alexiskroberson/wait-i-was-today-years-old-when-i-realized-you-can-post-on-dev-like-its-twitter-well-hello-good-3gbo)
-- [How to Clone Your Voice Using ElevenLabs API](https://dev.to/voice_developer/how-to-clone-your-voice-using-elevenlabs-api-p06)
-- [MCP task manager integration guide for Claude and ChatGPT](https://dev.to/ldvloper/mcp-task-manager-integration-guide-for-claude-and-chatgpt-1b1g)
-- [The Retry Storm Problem: Why Your ASP.NET Core API Needs Idempotency Keys](https://dev.to/developerimranahmed/the-retry-storm-problem-why-your-aspnet-core-api-needs-idempotency-keys-1048)
+- [I burned out. Now I don&#39;t know how to start again.](https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79)
+- [Best AI Research Tools 2026: What Works](https://dev.to/diflowrin/best-ai-research-tools-2026-what-works-5e8p)
+- [How I analyze theHunter: Call of the Wild saves without changing them](https://dev.to/justlovemaki/how-i-analyze-thehunter-call-of-the-wild-saves-without-changing-them-f2h)
+- [The $78,000 Agent Runaway: What OpenAI Codex&#39;s 826-Thread Explosion Reveals About Agent Cost Controls](https://dev.to/mech_app_ai/the-78000-agent-runaway-what-openai-codexs-826-thread-explosion-reveals-about-agent-cost-1fpo)
+- [I built a free online C compiler from scratch – here&#39;s how it works](https://dev.to/rohit_choudhary_e9c105c75/i-built-a-free-online-c-compiler-from-scratch-heres-how-it-works-3e56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
