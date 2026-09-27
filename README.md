@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I burned out. Now I don&#39;t know how to start again.](https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79)
-- [Best AI Research Tools 2026: What Works](https://dev.to/diflowrin/best-ai-research-tools-2026-what-works-5e8p)
-- [How I analyze theHunter: Call of the Wild saves without changing them](https://dev.to/justlovemaki/how-i-analyze-thehunter-call-of-the-wild-saves-without-changing-them-f2h)
-- [The $78,000 Agent Runaway: What OpenAI Codex&#39;s 826-Thread Explosion Reveals About Agent Cost Controls](https://dev.to/mech_app_ai/the-78000-agent-runaway-what-openai-codexs-826-thread-explosion-reveals-about-agent-cost-1fpo)
-- [I built a free online C compiler from scratch – here&#39;s how it works](https://dev.to/rohit_choudhary_e9c105c75/i-built-a-free-online-c-compiler-from-scratch-heres-how-it-works-3e56)
+- [Beyond &amp;self and &amp;mut self: Rust’s Underrated Method Receivers](https://dev.to/lorishu/beyond-self-and-mut-self-rusts-underrated-method-receivers-4jad)
+- [Field Notes from an Agent-Run Site #2: 125 Impressions, Zero Clicks](https://dev.to/mrsaynothing/field-notes-from-an-agent-run-site-2-125-impressions-zero-clicks-58cp)
+- [Barge-in for eight AI voices: what it took to let people interrupt a live AI group call](https://dev.to/tashthemaker/barge-in-for-eight-ai-voices-what-it-took-to-let-people-interrupt-a-live-ai-group-call-4ll)
+- [Will It Focus: 21 of 22 Quotes Word for Word From the Manufacturer&#39;s Own Documents](https://dev.to/jonathansolvesstuff/will-it-focus-21-of-22-quotes-word-for-word-from-the-manufacturers-own-documents-4imm)
+- [How to Compress a PDF Without Losing Quality](https://dev.to/pulkitgovrani/how-to-compress-a-pdf-without-losing-quality-4ooh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
