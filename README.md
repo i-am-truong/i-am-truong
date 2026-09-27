@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t put your agent guardrails in the system prompt](https://dev.to/alexiskroberson/dont-put-your-agent-guardrails-in-the-system-prompt-54p2)
-- [Diagrams as Code: Keep Your Architecture Docs Alive Inside the Repo](https://dev.to/eme_gug_0821b41b948be6516/diagrams-as-code-keep-your-architecture-docs-alive-inside-the-repo-40co)
-- [Will It Stack? An agent that knows which Raspberry Pi HATs fight over the same pins](https://dev.to/anur4ag/will-it-stack-an-agent-that-knows-which-raspberry-pi-hats-fight-over-the-same-pins-4kl4)
-- [A Startup Claims Its AI Is 444x Cheaper. Nobody Can Prove It. Everyone&#39;s Buying It.](https://dev.to/mukul-kumar-mishra/a-startup-claims-its-ai-is-444x-cheaper-nobody-can-prove-it-everyones-buying-it-3n5m)
-- [I Got Rejected 2 Minutes After Applying. So Much for &#39;Skills-Based Hiring.&#39;](https://dev.to/mikachu/i-got-rejected-2-minutes-after-applying-so-much-for-skills-based-hiring-4315)
+- [Infected by git pull and npm run build — Malware planted in a build config through a forged merge commit](https://dev.to/itskill_jp/infected-by-git-pull-and-npm-run-build-malware-planted-in-a-build-config-through-a-forged-merge-3c6l)
+- [Agent正在重写分工，而治理框架还停在石器时代](https://dev.to/maref/agentzheng-zai-zhong-xie-fen-gong-er-zhi-li-kuang-jia-huan-ting-zai-shi-qi-shi-dai-5696)
+- [CI said the deploy succeeded](https://dev.to/b0gy/ci-said-the-deploy-succeeded-42fo)
+- [Exploitation Conditions in CVE-2026-75682: What a Low-Privileged Account Buys an Attacker](https://dev.to/jeffreyciend/exploitation-conditions-in-cve-2026-75682-what-a-low-privileged-account-buys-an-attacker-49ne)
+- [Stop Prompting, Start Onboarding: Treat Your AI Agent Like an Intern](https://dev.to/debashish_ghosal/stop-prompting-start-onboarding-treat-your-ai-agent-like-an-intern-nb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
