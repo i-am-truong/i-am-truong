@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Infected by git pull and npm run build — Malware planted in a build config through a forged merge commit](https://dev.to/itskill_jp/infected-by-git-pull-and-npm-run-build-malware-planted-in-a-build-config-through-a-forged-merge-3c6l)
-- [Agent正在重写分工，而治理框架还停在石器时代](https://dev.to/maref/agentzheng-zai-zhong-xie-fen-gong-er-zhi-li-kuang-jia-huan-ting-zai-shi-qi-shi-dai-5696)
-- [CI said the deploy succeeded](https://dev.to/b0gy/ci-said-the-deploy-succeeded-42fo)
-- [Exploitation Conditions in CVE-2026-75682: What a Low-Privileged Account Buys an Attacker](https://dev.to/jeffreyciend/exploitation-conditions-in-cve-2026-75682-what-a-low-privileged-account-buys-an-attacker-49ne)
-- [Stop Prompting, Start Onboarding: Treat Your AI Agent Like an Intern](https://dev.to/debashish_ghosal/stop-prompting-start-onboarding-treat-your-ai-agent-like-an-intern-nb1)
+- [Signed hackathon results anyone can recompute and verify](https://dev.to/zkasuran/signed-hackathon-results-anyone-can-recompute-and-verify-4f59)
+- [Wait, I was today years old when I realized you can post on dev like its Twitter. Well hello good people of the internets](https://dev.to/alexiskroberson/wait-i-was-today-years-old-when-i-realized-you-can-post-on-dev-like-its-twitter-well-hello-good-3gbo)
+- [How to Clone Your Voice Using ElevenLabs API](https://dev.to/voice_developer/how-to-clone-your-voice-using-elevenlabs-api-p06)
+- [MCP task manager integration guide for Claude and ChatGPT](https://dev.to/ldvloper/mcp-task-manager-integration-guide-for-claude-and-chatgpt-1b1g)
+- [The Retry Storm Problem: Why Your ASP.NET Core API Needs Idempotency Keys](https://dev.to/developerimranahmed/the-retry-storm-problem-why-your-aspnet-core-api-needs-idempotency-keys-1048)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
