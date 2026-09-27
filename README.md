@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond &amp;self and &amp;mut self: Rust’s Underrated Method Receivers](https://dev.to/lorishu/beyond-self-and-mut-self-rusts-underrated-method-receivers-4jad)
-- [Field Notes from an Agent-Run Site #2: 125 Impressions, Zero Clicks](https://dev.to/mrsaynothing/field-notes-from-an-agent-run-site-2-125-impressions-zero-clicks-58cp)
-- [Barge-in for eight AI voices: what it took to let people interrupt a live AI group call](https://dev.to/tashthemaker/barge-in-for-eight-ai-voices-what-it-took-to-let-people-interrupt-a-live-ai-group-call-4ll)
-- [Will It Focus: 21 of 22 Quotes Word for Word From the Manufacturer&#39;s Own Documents](https://dev.to/jonathansolvesstuff/will-it-focus-21-of-22-quotes-word-for-word-from-the-manufacturers-own-documents-4imm)
-- [How to Compress a PDF Without Losing Quality](https://dev.to/pulkitgovrani/how-to-compress-a-pdf-without-losing-quality-4ooh)
+- [AI agents: OpenAI bots probed public and university sites](https://dev.to/getpack/ai-agents-openai-bots-probed-public-and-university-sites-5c8)
+- [The Hard Part of AI Engineering Isn’t the Model](https://dev.to/coffee00125/the-hard-part-of-ai-engineering-isnt-the-model-4okp)
+- [A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)
+- [App economy 2026: why new apps get 3% of subscription revenue](https://dev.to/axrisi/app-economy-2026-why-new-apps-get-3-of-subscription-revenue-3cj8)
+- [A review contract for an agent-authored pull request](https://dev.to/_firelinks/a-review-contract-for-an-agent-authored-pull-request-2en6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
