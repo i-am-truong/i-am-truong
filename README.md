@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI agents: OpenAI bots probed public and university sites](https://dev.to/getpack/ai-agents-openai-bots-probed-public-and-university-sites-5c8)
-- [The Hard Part of AI Engineering Isn’t the Model](https://dev.to/coffee00125/the-hard-part-of-ai-engineering-isnt-the-model-4okp)
-- [A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)
-- [App economy 2026: why new apps get 3% of subscription revenue](https://dev.to/axrisi/app-economy-2026-why-new-apps-get-3-of-subscription-revenue-3cj8)
-- [A review contract for an agent-authored pull request](https://dev.to/_firelinks/a-review-contract-for-an-agent-authored-pull-request-2en6)
+- [What is the Dependency Inversion Principle?](https://dev.to/3ayut0/what-is-the-dependency-inversion-principle-4mk2)
+- [AI 3D Character Creation — No GPU Required](https://dev.to/plastikelectrik/ai-3d-character-creation-no-gpu-required-44mj)
+- [AI as an Optional Capability, Not an Application Dependency](https://dev.to/qnbs/ai-as-an-optional-capability-not-an-application-dependency-20jf)
+- [Implementation is where judgements go to become invisible](https://dev.to/tom_jones_230c4659491adcd/implementation-is-where-judgements-go-to-become-invisible-4p1h)
+- [Building a Chrome extension that reads Hanifi Rohingya webpages in Latin script](https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
