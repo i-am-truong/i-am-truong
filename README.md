@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [H Company Ships Holo4, Open-Weight Agents That Work Any Software Interface](https://dev.to/mikefluff/h-company-ships-holo4-open-weight-agents-that-work-any-software-interface-3pnp)
-- [TryHackMe: Binary Heaven - Writeup](https://dev.to/exploitnotes/tryhackme-binary-heaven-writeup-12bp)
-- [Measuring Generative AI ROI in Production](https://dev.to/vpodk/measuring-generative-ai-roi-in-production-b7i)
-- [Microsoft Releases .NET SDK for Agent-User Protocol](https://dev.to/vpodk/microsoft-releases-net-sdk-for-agent-user-protocol-55p7)
-- [OpenSparrow v3.9 - makes the board and calendar fully touch-friendly](https://dev.to/wrobeltomasz/opensparrow-v39-makes-the-board-and-calendar-fully-touch-friendly-21ig)
+- [Who Calls Me, Not Whom I Call](https://dev.to/anton_brilliantov/who-calls-me-not-whom-i-call-1lm0)
+- [I Used Hindsight to Remember Human Invoice Decisions](https://dev.to/harini_varma_a5c641756f3e/i-used-hindsight-to-remember-human-invoice-decisions-4ilb)
+- [SupportMind: A support agent that remembers every customer](https://dev.to/raghavi707/supportmind-a-support-agent-that-remembers-every-customer-2kh3)
+- [Google Gemini 3.8 Live Avatar Reaches GA for Real-Time Enterprise Agents](https://dev.to/alifar/google-gemini-38-live-avatar-reaches-ga-for-real-time-enterprise-agents-524h)
+- [MobileTopUP: Designing a Reliable Recharge Transaction Workflow](https://dev.to/mobiletopup/mobiletopup-designing-a-reliable-recharge-transaction-workflow-1m23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
