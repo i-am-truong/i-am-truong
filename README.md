@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Email Worker inbox: store every message in D1 in 30 lines](https://dev.to/howardzlh/cloudflare-email-worker-inbox-store-every-message-in-d1-in-30-lines-ii1)
-- [A Button That Sends Command+Shift+3](https://dev.to/devasservice/a-button-that-sends-commandshift3-2k5h)
-- [Scraping for RAG: Keeping Your Retrieval Index Fresh &lpar;and Why Staleness Hallucinates&rpar;](https://dev.to/promptcloud_services/scraping-for-rag-keeping-your-retrieval-index-fresh-and-why-staleness-hallucinates-3km8)
-- [The shift from feature ownership to business ownership](https://dev.to/pranjal_sarkar_ab7791e75b/the-shift-from-feature-ownership-to-business-ownership-133p)
-- [How Much Does Google Play Closed Testing Cost?](https://dev.to/vmzavas/how-much-does-google-play-closed-testing-cost-20n0)
+- [H Company Ships Holo4, Open-Weight Agents That Work Any Software Interface](https://dev.to/mikefluff/h-company-ships-holo4-open-weight-agents-that-work-any-software-interface-3pnp)
+- [TryHackMe: Binary Heaven - Writeup](https://dev.to/exploitnotes/tryhackme-binary-heaven-writeup-12bp)
+- [Measuring Generative AI ROI in Production](https://dev.to/vpodk/measuring-generative-ai-roi-in-production-b7i)
+- [Microsoft Releases .NET SDK for Agent-User Protocol](https://dev.to/vpodk/microsoft-releases-net-sdk-for-agent-user-protocol-55p7)
+- [OpenSparrow v3.9 - makes the board and calendar fully touch-friendly](https://dev.to/wrobeltomasz/opensparrow-v39-makes-the-board-and-calendar-fully-touch-friendly-21ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
