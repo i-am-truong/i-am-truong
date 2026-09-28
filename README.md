@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Science vs. Data Engineering: Mana Jalur Karier yang Tepat untuk Kamu? - 20:50](https://dev.to/khalifumarr/data-science-vs-data-engineering-mana-jalur-karier-yang-tepat-untuk-kamu-2050-39mp)
-- [Nested Arrays in JavaScript](https://dev.to/farah_ismahhana_1c67ec83/nested-arrays-in-javascript-3h68)
-- [Every line of my recovery code was correct. It failed every single time.&quot;](https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72)
-- [C# Singleton basics](https://dev.to/karenpayneoregon/c-singleton-basics-1o9i)
-- [There Are No &#39;Rogue&#39; AI Agents](https://dev.to/goodpa/there-are-no-rogue-ai-agents-1ki3)
+- [Cloudflare Email Worker inbox: store every message in D1 in 30 lines](https://dev.to/howardzlh/cloudflare-email-worker-inbox-store-every-message-in-d1-in-30-lines-ii1)
+- [A Button That Sends Command+Shift+3](https://dev.to/devasservice/a-button-that-sends-commandshift3-2k5h)
+- [Scraping for RAG: Keeping Your Retrieval Index Fresh &lpar;and Why Staleness Hallucinates&rpar;](https://dev.to/promptcloud_services/scraping-for-rag-keeping-your-retrieval-index-fresh-and-why-staleness-hallucinates-3km8)
+- [The shift from feature ownership to business ownership](https://dev.to/pranjal_sarkar_ab7791e75b/the-shift-from-feature-ownership-to-business-ownership-133p)
+- [How Much Does Google Play Closed Testing Cost?](https://dev.to/vmzavas/how-much-does-google-play-closed-testing-cost-20n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
