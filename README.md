@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the Dependency Inversion Principle?](https://dev.to/3ayut0/what-is-the-dependency-inversion-principle-4mk2)
-- [AI 3D Character Creation — No GPU Required](https://dev.to/plastikelectrik/ai-3d-character-creation-no-gpu-required-44mj)
-- [AI as an Optional Capability, Not an Application Dependency](https://dev.to/qnbs/ai-as-an-optional-capability-not-an-application-dependency-20jf)
-- [Implementation is where judgements go to become invisible](https://dev.to/tom_jones_230c4659491adcd/implementation-is-where-judgements-go-to-become-invisible-4p1h)
-- [Building a Chrome extension that reads Hanifi Rohingya webpages in Latin script](https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1)
+- [Data Science vs. Data Engineering: Mana Jalur Karier yang Tepat untuk Kamu? - 20:50](https://dev.to/khalifumarr/data-science-vs-data-engineering-mana-jalur-karier-yang-tepat-untuk-kamu-2050-39mp)
+- [Nested Arrays in JavaScript](https://dev.to/farah_ismahhana_1c67ec83/nested-arrays-in-javascript-3h68)
+- [Every line of my recovery code was correct. It failed every single time.&quot;](https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72)
+- [C# Singleton basics](https://dev.to/karenpayneoregon/c-singleton-basics-1o9i)
+- [There Are No &#39;Rogue&#39; AI Agents](https://dev.to/goodpa/there-are-no-rogue-ai-agents-1ki3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
