@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why My Audit Agent Needed Hindsight, Not More Prompts](https://dev.to/poojitha_boinapalli_4c094/why-my-audit-agent-needed-hindsight-not-more-prompts-47dd)
-- [Grok 4.7 Just Landed on Amazon Bedrock: First Call, Reasoning Effort, and the Cost Trap](https://dev.to/yong_yu_f98e15562e9b120a0/grok-47-just-landed-on-amazon-bedrock-first-call-reasoning-effort-and-the-cost-trap-31dp)
-- [The Observer Effect in Chain-of-Thought Monitoring](https://dev.to/maref/the-observer-effect-in-chain-of-thought-monitoring-370f)
-- [Network segmentation decides whether CVE-2026-7273 in Zyxel GS1900 switches is reachable](https://dev.to/bianliang/network-segmentation-decides-whether-cve-2026-7273-in-zyxel-gs1900-switches-is-reachable-5hmb)
-- [Poncho Pay Integration Tutorial: Node.js API, Webhooks and Flutter](https://dev.to/chirag_boghara_/poncho-pay-integration-tutorial-nodejs-api-webhooks-and-flutter-2jol)
+- [What changed when our cameras started remembering, with Hindsight](https://dev.to/abhishek_konda_9c7f19acd4/what-changed-when-our-cameras-started-remembering-with-hindsight-104l)
+- [Listen to your coding agent instead of reading it: how I save my eyes](https://dev.to/klukyanov/listen-to-your-coding-agent-instead-of-reading-it-how-i-save-my-eyes-4ci0)
+- [Building a Real Time Attack Visualizer: SSH Honeypot and Cloudflare Workers](https://dev.to/f4lcon/building-a-real-time-attack-visualizer-ssh-honeypot-and-cloudflare-workers-3104)
+- [Password Reset UX: Make Recovery Clear and Safe](https://dev.to/urielbitton/password-reset-ux-make-recovery-clear-and-safe-4i1b)
+- [A practical license-key flow for a .NET desktop app, including the sale](https://dev.to/permitcore/a-practical-license-key-flow-for-a-net-desktop-app-including-the-sale-a1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
