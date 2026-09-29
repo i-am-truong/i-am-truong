@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Some of Your Former Peers Now Report to You](https://dev.to/asael_shinder_9f53bdca840/some-of-your-former-peers-now-report-to-you-21bp)
-- [Five PRs, two merges, and four real bugs in agent infrastructure](https://dev.to/aniruddhaadak/five-prs-two-merges-and-four-real-bugs-in-agent-infrastructure-jj1)
-- [How to Use DeepSeek for SEO](https://dev.to/heysupa/how-to-use-deepseek-for-seo-5c3c)
-- [Designing Software That Runs for Ten Years: Architecture Lessons from 14 Years in Production](https://dev.to/zhonglian/designing-software-that-runs-for-ten-years-architecture-lessons-from-14-years-in-production-5e7k)
-- [Which service lost its logs depended on who wrote first after midnight](https://dev.to/sergey_shinder_ab2d943365/which-service-lost-its-logs-depended-on-who-wrote-first-after-midnight-4kil)
+- [Why My Audit Agent Needed Hindsight, Not More Prompts](https://dev.to/poojitha_boinapalli_4c094/why-my-audit-agent-needed-hindsight-not-more-prompts-47dd)
+- [Grok 4.7 Just Landed on Amazon Bedrock: First Call, Reasoning Effort, and the Cost Trap](https://dev.to/yong_yu_f98e15562e9b120a0/grok-47-just-landed-on-amazon-bedrock-first-call-reasoning-effort-and-the-cost-trap-31dp)
+- [The Observer Effect in Chain-of-Thought Monitoring](https://dev.to/maref/the-observer-effect-in-chain-of-thought-monitoring-370f)
+- [Network segmentation decides whether CVE-2026-7273 in Zyxel GS1900 switches is reachable](https://dev.to/bianliang/network-segmentation-decides-whether-cve-2026-7273-in-zyxel-gs1900-switches-is-reachable-5hmb)
+- [Poncho Pay Integration Tutorial: Node.js API, Webhooks and Flutter](https://dev.to/chirag_boghara_/poncho-pay-integration-tutorial-nodejs-api-webhooks-and-flutter-2jol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
