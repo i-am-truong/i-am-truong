@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What changed when our cameras started remembering, with Hindsight](https://dev.to/abhishek_konda_9c7f19acd4/what-changed-when-our-cameras-started-remembering-with-hindsight-104l)
-- [Listen to your coding agent instead of reading it: how I save my eyes](https://dev.to/klukyanov/listen-to-your-coding-agent-instead-of-reading-it-how-i-save-my-eyes-4ci0)
-- [Building a Real Time Attack Visualizer: SSH Honeypot and Cloudflare Workers](https://dev.to/f4lcon/building-a-real-time-attack-visualizer-ssh-honeypot-and-cloudflare-workers-3104)
-- [Password Reset UX: Make Recovery Clear and Safe](https://dev.to/urielbitton/password-reset-ux-make-recovery-clear-and-safe-4i1b)
-- [A practical license-key flow for a .NET desktop app, including the sale](https://dev.to/permitcore/a-practical-license-key-flow-for-a-net-desktop-app-including-the-sale-a1j)
+- [Node.js Transactional Email Warmup Plan: How to Ramp a Dedicated Domain](https://dev.to/orlandojohansson7621/nodejs-transactional-email-warmup-plan-how-to-ramp-a-dedicated-domain-2a7c)
+- [React Error Tracking — A Go Backend Without a Browser SDK](https://dev.to/sterlingvance2196/react-error-tracking-a-go-backend-without-a-browser-sdk-49i9)
+- [Google Apps Script Debugging: Why Your Script Works Until It Doesn&#39;t](https://dev.to/mahrosh_ishere_10687b6a5/google-apps-script-debugging-why-your-script-works-until-it-doesnt-44i4)
+- [New Developers Struggle with Modular Code Navigation; Structured Documentation and IDE Tools Offer Solutions](https://dev.to/ilyatech/new-developers-struggle-with-modular-code-navigation-structured-documentation-and-ide-tools-offer-2cdn)
+- [Monitore sua rede diretamente pelo terminal](https://dev.to/marcosplusplus/monitore-sua-rede-diretamente-pelo-terminal-2dp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
