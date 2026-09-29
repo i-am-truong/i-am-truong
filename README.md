@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who Calls Me, Not Whom I Call](https://dev.to/anton_brilliantov/who-calls-me-not-whom-i-call-1lm0)
-- [I Used Hindsight to Remember Human Invoice Decisions](https://dev.to/harini_varma_a5c641756f3e/i-used-hindsight-to-remember-human-invoice-decisions-4ilb)
-- [SupportMind: A support agent that remembers every customer](https://dev.to/raghavi707/supportmind-a-support-agent-that-remembers-every-customer-2kh3)
-- [Google Gemini 3.8 Live Avatar Reaches GA for Real-Time Enterprise Agents](https://dev.to/alifar/google-gemini-38-live-avatar-reaches-ga-for-real-time-enterprise-agents-524h)
-- [MobileTopUP: Designing a Reliable Recharge Transaction Workflow](https://dev.to/mobiletopup/mobiletopup-designing-a-reliable-recharge-transaction-workflow-1m23)
+- [Critical Zero-Day in Popular AI API Library Exposes Developer Secrets](https://dev.to/techpulse01239/critical-zero-day-in-popular-ai-api-library-exposes-developer-secrets-29bc)
+- [Moving off WP Event Manager: what&#39;s in your database and what breaks](https://dev.to/jeffreyinman/moving-off-wp-event-manager-whats-in-your-database-and-what-breaks-1b6m)
+- [pip Version Specifiers — What `==`, `&gt;=`, and `~=` Actually Commit You To](https://dev.to/susumun/pip-version-specifiers-what-and-actually-commit-you-to-5a9)
+- [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-across-multilingual-1dgm)
+- [How We Built a 99.9% Uptime Multi-Model AI Router &lpar;Claude -&gt; GPT-4o -&gt; DeepSeek&rpar; in n8n Without SaaS Middleware](https://dev.to/ancucorp/how-we-built-a-999-uptime-multi-model-ai-router-claude-gpt-4o-deepseek-in-n8n-without-2491)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
