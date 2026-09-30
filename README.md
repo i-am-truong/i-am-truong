@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Firma electrónica y firma digital no son lo mismo](https://dev.to/isazajuancarlos/firma-electronica-y-firma-digital-no-son-lo-mismo-42og)
-- [Your Uptime Monitor Says 200 OK and Your Site Is Still Broken](https://dev.to/paulcrinigan/your-uptime-monitor-says-200-ok-and-your-site-is-still-broken-28l0)
-- [Image Search Captions vs Pixels: What Is Actually Available for Clinical Cropping](https://dev.to/godfreysterling9226/image-search-captions-vs-pixels-what-is-actually-available-for-clinical-cropping-j8n)
-- [How Did We Get Here? A Decade of Building on Qlik](https://dev.to/etso/how-did-we-get-here-a-decade-of-building-on-qlik-3hio)
-- [Where to get your vendors&#39; SOC 2 reports &lpar;AWS, Vercel, Supabase, GitHub, Stripe and 25 more&rpar;](https://dev.to/__56bc6913b1c85e11/where-to-get-your-vendors-soc-2-reports-aws-vercel-supabase-github-stripe-and-25-more-4jg4)
+- [Google Releases Gemma 4 While Gemini 4 Argon Signals Build](https://dev.to/alifar/google-releases-gemma-4-while-gemini-4-argon-signals-build-1dd8)
+- [In-browser machine translation: I measured 30 phrases, found 30% wrong in meaning, and changed the engine](https://dev.to/convertilo/in-browser-machine-translation-i-measured-30-phrases-found-30-wrong-in-meaning-and-changed-the-1146)
+- [I updated our drug profile to 563-drug harm-reduction library in 9 languages on Cloudflare&#39;s free tier — here&#39;s the stack](https://dev.to/isiah_swopes_d8deec2d9ef1/i-updated-our-drug-profile-to-563-drug-harm-reduction-library-in-9-languages-on-cloudflares-free-3f4c)
+- [OpenAI shipped Dots on Tuesday. By Wednesday night my terminal had its own, running 100% locally](https://dev.to/natuworkguy/openai-shipped-dots-on-tuesday-by-wednesday-night-my-terminal-had-its-own-running-100-locally-1h0d)
+- [AI agent governance has to happen before the tool executes](https://dev.to/indu_das_e14b18dd167a8cf7/ai-agent-governance-has-to-happen-before-the-tool-executes-457h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
