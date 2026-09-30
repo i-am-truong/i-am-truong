@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We added a fourth server and made our cluster easier to break](https://dev.to/sergey_shinder_ab2d943365/we-added-a-fourth-server-and-made-our-cluster-easier-to-break-4795)
-- [6 Supabase RLS Policies That Pass Code Review and Still Leak Data](https://dev.to/mason_roy/6-supabase-rls-policies-that-pass-code-review-and-still-leak-data-1hi5)
-- [When the Warehouse Has Robots, an IT Change Becomes a Safety Decision](https://dev.to/serguey_shinder_4ab9b87b1/when-the-warehouse-has-robots-an-it-change-becomes-a-safety-decision-3pg0)
-- [How to Self-Host Chatwoot in 2026 &lpar;After the Cloud API Paywall&rpar;](https://dev.to/pavel-hostim/how-to-self-host-chatwoot-in-2026-after-the-cloud-api-paywall-59ap)
-- [How to set performance budgets that CI and clients both keep](https://dev.to/apogeewatcher/how-to-set-performance-budgets-that-ci-and-clients-both-keep-3mln)
+- [Headless WordPress with WPGraphQL and Next.js: From First Query to Production](https://dev.to/4wpdev/headless-wordpress-with-wpgraphql-and-nextjs-from-first-query-to-production-m98)
+- [How We Built AI Rap Duo: Two Photos In, Lip-Synced Rap Video Out](https://dev.to/ht_z_3f3a6ecb10a9606ba6a3/how-we-built-ai-rap-duo-two-photos-in-lip-synced-rap-video-out-53ji)
+- [# How to Send Transactional Emails with Node.js: A Production-Ready Guide](https://dev.to/chekwubemanuel/-how-to-send-transactional-emails-with-nodejs-a-production-ready-guide-4ang)
+- [Building Auth From Scratch with Next.js, Sequelize, and Supabase &lpar;No Auth Library&rpar;](https://dev.to/daspunk778/building-auth-from-scratch-with-nextjs-sequelize-and-supabase-no-auth-library-aon)
+- [Time Travel Coding: Stop Burning Tokens - Build It in the .md First](https://dev.to/goshee/time-travel-coding-stop-burning-tokens-build-it-in-the-md-first-2cek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
