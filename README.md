@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of the v4 Package Graph - Core, Adapters, Runtime, and Orchestrator](https://dev.to/sakthicodes22/anatomy-of-the-v4-package-graph-core-adapters-runtime-and-orchestrator-36b8)
-- [CTranslate2 CVE-2026-102566 &amp; CVE-2026-102567 — Heap Overflow in AI Model Loader](https://dev.to/threataft_dev/ctranslate2-cve-2026-102566-cve-2026-102567-heap-overflow-in-ai-model-loader-552n)
-- [Introduction to Python Virtual Environments for Beginners](https://dev.to/qjlsh7055/introduction-to-python-virtual-environments-for-beginners-4np9)
-- [I Built a Self-Hosted AI Code Reviewer for GitHub PRs with Spring Boot](https://dev.to/sweety717/i-built-a-self-hosted-ai-code-reviewer-for-github-prs-with-spring-boot-1ocf)
-- [Why You Should&lpar;n’t&rpar; Use AI: The Trouble With Reading Carefully](https://dev.to/temphero/why-you-shouldnt-use-ai-the-trouble-with-reading-carefully-547a)
+- [We added a fourth server and made our cluster easier to break](https://dev.to/sergey_shinder_ab2d943365/we-added-a-fourth-server-and-made-our-cluster-easier-to-break-4795)
+- [6 Supabase RLS Policies That Pass Code Review and Still Leak Data](https://dev.to/mason_roy/6-supabase-rls-policies-that-pass-code-review-and-still-leak-data-1hi5)
+- [When the Warehouse Has Robots, an IT Change Becomes a Safety Decision](https://dev.to/serguey_shinder_4ab9b87b1/when-the-warehouse-has-robots-an-it-change-becomes-a-safety-decision-3pg0)
+- [How to Self-Host Chatwoot in 2026 &lpar;After the Cloud API Paywall&rpar;](https://dev.to/pavel-hostim/how-to-self-host-chatwoot-in-2026-after-the-cloud-api-paywall-59ap)
+- [How to set performance budgets that CI and clients both keep](https://dev.to/apogeewatcher/how-to-set-performance-budgets-that-ci-and-clients-both-keep-3mln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
