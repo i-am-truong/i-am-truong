@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Headless WordPress with WPGraphQL and Next.js: From First Query to Production](https://dev.to/4wpdev/headless-wordpress-with-wpgraphql-and-nextjs-from-first-query-to-production-m98)
-- [How We Built AI Rap Duo: Two Photos In, Lip-Synced Rap Video Out](https://dev.to/ht_z_3f3a6ecb10a9606ba6a3/how-we-built-ai-rap-duo-two-photos-in-lip-synced-rap-video-out-53ji)
-- [# How to Send Transactional Emails with Node.js: A Production-Ready Guide](https://dev.to/chekwubemanuel/-how-to-send-transactional-emails-with-nodejs-a-production-ready-guide-4ang)
-- [Building Auth From Scratch with Next.js, Sequelize, and Supabase &lpar;No Auth Library&rpar;](https://dev.to/daspunk778/building-auth-from-scratch-with-nextjs-sequelize-and-supabase-no-auth-library-aon)
-- [Time Travel Coding: Stop Burning Tokens - Build It in the .md First](https://dev.to/goshee/time-travel-coding-stop-burning-tokens-build-it-in-the-md-first-2cek)
+- [Firma electrónica y firma digital no son lo mismo](https://dev.to/isazajuancarlos/firma-electronica-y-firma-digital-no-son-lo-mismo-42og)
+- [Your Uptime Monitor Says 200 OK and Your Site Is Still Broken](https://dev.to/paulcrinigan/your-uptime-monitor-says-200-ok-and-your-site-is-still-broken-28l0)
+- [Image Search Captions vs Pixels: What Is Actually Available for Clinical Cropping](https://dev.to/godfreysterling9226/image-search-captions-vs-pixels-what-is-actually-available-for-clinical-cropping-j8n)
+- [How Did We Get Here? A Decade of Building on Qlik](https://dev.to/etso/how-did-we-get-here-a-decade-of-building-on-qlik-3hio)
+- [Where to get your vendors&#39; SOC 2 reports &lpar;AWS, Vercel, Supabase, GitHub, Stripe and 25 more&rpar;](https://dev.to/__56bc6913b1c85e11/where-to-get-your-vendors-soc-2-reports-aws-vercel-supabase-github-stripe-and-25-more-4jg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
