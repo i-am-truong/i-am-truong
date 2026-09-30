@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Transactional Email Warmup Plan: How to Ramp a Dedicated Domain](https://dev.to/orlandojohansson7621/nodejs-transactional-email-warmup-plan-how-to-ramp-a-dedicated-domain-2a7c)
-- [React Error Tracking — A Go Backend Without a Browser SDK](https://dev.to/sterlingvance2196/react-error-tracking-a-go-backend-without-a-browser-sdk-49i9)
-- [Google Apps Script Debugging: Why Your Script Works Until It Doesn&#39;t](https://dev.to/mahrosh_ishere_10687b6a5/google-apps-script-debugging-why-your-script-works-until-it-doesnt-44i4)
-- [New Developers Struggle with Modular Code Navigation; Structured Documentation and IDE Tools Offer Solutions](https://dev.to/ilyatech/new-developers-struggle-with-modular-code-navigation-structured-documentation-and-ide-tools-offer-2cdn)
-- [Monitore sua rede diretamente pelo terminal](https://dev.to/marcosplusplus/monitore-sua-rede-diretamente-pelo-terminal-2dp6)
+- [Anatomy of the v4 Package Graph - Core, Adapters, Runtime, and Orchestrator](https://dev.to/sakthicodes22/anatomy-of-the-v4-package-graph-core-adapters-runtime-and-orchestrator-36b8)
+- [CTranslate2 CVE-2026-102566 &amp; CVE-2026-102567 — Heap Overflow in AI Model Loader](https://dev.to/threataft_dev/ctranslate2-cve-2026-102566-cve-2026-102567-heap-overflow-in-ai-model-loader-552n)
+- [Introduction to Python Virtual Environments for Beginners](https://dev.to/qjlsh7055/introduction-to-python-virtual-environments-for-beginners-4np9)
+- [I Built a Self-Hosted AI Code Reviewer for GitHub PRs with Spring Boot](https://dev.to/sweety717/i-built-a-self-hosted-ai-code-reviewer-for-github-prs-with-spring-boot-1ocf)
+- [Why You Should&lpar;n’t&rpar; Use AI: The Trouble With Reading Carefully](https://dev.to/temphero/why-you-shouldnt-use-ai-the-trouble-with-reading-carefully-547a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
