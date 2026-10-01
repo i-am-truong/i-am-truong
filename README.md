@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Releases Gemma 4 While Gemini 4 Argon Signals Build](https://dev.to/alifar/google-releases-gemma-4-while-gemini-4-argon-signals-build-1dd8)
-- [In-browser machine translation: I measured 30 phrases, found 30% wrong in meaning, and changed the engine](https://dev.to/convertilo/in-browser-machine-translation-i-measured-30-phrases-found-30-wrong-in-meaning-and-changed-the-1146)
-- [I updated our drug profile to 563-drug harm-reduction library in 9 languages on Cloudflare&#39;s free tier — here&#39;s the stack](https://dev.to/isiah_swopes_d8deec2d9ef1/i-updated-our-drug-profile-to-563-drug-harm-reduction-library-in-9-languages-on-cloudflares-free-3f4c)
-- [OpenAI shipped Dots on Tuesday. By Wednesday night my terminal had its own, running 100% locally](https://dev.to/natuworkguy/openai-shipped-dots-on-tuesday-by-wednesday-night-my-terminal-had-its-own-running-100-locally-1h0d)
-- [AI agent governance has to happen before the tool executes](https://dev.to/indu_das_e14b18dd167a8cf7/ai-agent-governance-has-to-happen-before-the-tool-executes-457h)
+- [Database MCP Server: Should an AI Agent Run SQL or Only Read the Schema?](https://dev.to/tbson87/database-mcp-server-should-an-ai-agent-run-sql-or-only-read-the-schema-4nap)
+- [Changing a Column Type in SQLite: The Table Rebuild and What It Deletes](https://dev.to/tbson87/changing-a-column-type-in-sqlite-the-table-rebuild-and-what-it-deletes-do1)
+- [WebP Cover Conversion: Generate 3 Responsive Widths with Atomic Publishing](https://dev.to/alariccross6851/webp-cover-conversion-generate-3-responsive-widths-with-atomic-publishing-86a)
+- [Generate Marketplace Video Thumbnails Through an API &lpar;With Stored Poster Frames&rpar;](https://dev.to/cloudveilelenor12/generate-marketplace-video-thumbnails-through-an-api-with-stored-poster-frames-n96)
+- [ON DELETE SET NULL vs CASCADE vs RESTRICT in PostgreSQL: Which to Use](https://dev.to/tbson87/on-delete-set-null-vs-cascade-vs-restrict-in-postgresql-which-to-use-1n6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
