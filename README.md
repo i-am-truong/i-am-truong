@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Confidence Trap: Cognitive Bias on Both Sides of the Screen](https://dev.to/rverwey/the-confidence-trap-cognitive-bias-on-both-sides-of-the-screen-4oc5)
-- [Prompt search is a hill-climber, and accuracy is the wrong hill](https://dev.to/o96a/prompt-search-is-a-hill-climber-and-accuracy-is-the-wrong-hill-2i1f)
-- [My Eval Passed Because the Model Had Already Seen the Answers](https://dev.to/aws-builders/my-eval-passed-because-the-model-had-already-seen-the-answers-4ca8)
-- [From IoT to Physical AI: The Intelligence Loop Between Software and the Physical World](https://dev.to/nashtarin_nur_5a0419526ec/from-iot-to-physical-ai-the-intelligence-loop-between-software-and-the-physical-world-364c)
-- [Who Will Notice That AI Has Already Changed the Promise to the Customer?](https://dev.to/yura_solovey/who-will-notice-that-ai-has-already-changed-the-promise-to-the-customer-201h)
+- [Shining in the Darkness: The 16-Bit Dungeon Crawler That Started Sega&#39;s Shining Saga](https://dev.to/retrorom/shining-in-the-darkness-the-16-bit-dungeon-crawler-that-started-segas-shining-saga-4i08)
+- [Lynx: a passive, read-only security auditor for Debian and Ubuntu](https://dev.to/matarturo/lynx-a-passive-read-only-security-auditor-for-debian-and-ubuntu-2fll)
+- [Node.js Urgent Signup Notifications: 5 SMS-First Email Fallback Evidence Records](https://dev.to/gregorsterling9652/nodejs-urgent-signup-notifications-5-sms-first-email-fallback-evidence-records-1ma0)
+- [I Tried to Prompt a 3D Museum Into Existence. Then I Had to Teach Sanity to Remember Life and Death.](https://dev.to/ayush_gupta_17/i-tried-to-prompt-a-3d-museum-into-existence-then-i-had-to-teach-sanity-to-remember-life-and-death-1ipb)
+- [Why our Kubernetes UI installer used to be 500 MB &lpar;and isn&#39;t anymore&rpar;](https://dev.to/udawpk_ed5db9215291bfd07d/why-our-kubernetes-ui-installer-used-to-be-500-mb-and-isnt-anymore-gb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
