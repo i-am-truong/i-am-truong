@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Retrying a label API that already charged you](https://dev.to/fulfillnexa/retrying-a-label-api-that-already-charged-you-eh5)
-- [A per-order margin ledger: reconciling what you quoted against what the carrier billed](https://dev.to/fulfillnexa/a-per-order-margin-ledger-reconciling-what-you-quoted-against-what-the-carrier-billed-34gg)
-- [10 Claude Code CLI Mistakes That Kill Your Productivity — And How to Fix Each One](https://dev.to/artifilog/10-claude-code-cli-mistakes-that-kill-your-productivity-and-how-to-fix-each-one-3n1o)
-- [How to Build MCP Gateway from Scratch](https://dev.to/artifilog/how-to-build-mcp-gateway-from-scratch-4857)
-- [A website without a CMS: Astro Content Collections in practice](https://dev.to/seppegadeyne/a-website-without-a-cms-astro-content-collections-in-practice-17)
+- [The Confidence Trap: Cognitive Bias on Both Sides of the Screen](https://dev.to/rverwey/the-confidence-trap-cognitive-bias-on-both-sides-of-the-screen-4oc5)
+- [Prompt search is a hill-climber, and accuracy is the wrong hill](https://dev.to/o96a/prompt-search-is-a-hill-climber-and-accuracy-is-the-wrong-hill-2i1f)
+- [My Eval Passed Because the Model Had Already Seen the Answers](https://dev.to/aws-builders/my-eval-passed-because-the-model-had-already-seen-the-answers-4ca8)
+- [From IoT to Physical AI: The Intelligence Loop Between Software and the Physical World](https://dev.to/nashtarin_nur_5a0419526ec/from-iot-to-physical-ai-the-intelligence-loop-between-software-and-the-physical-world-364c)
+- [Who Will Notice That AI Has Already Changed the Promise to the Customer?](https://dev.to/yura_solovey/who-will-notice-that-ai-has-already-changed-the-promise-to-the-customer-201h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
