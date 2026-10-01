@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database MCP Server: Should an AI Agent Run SQL or Only Read the Schema?](https://dev.to/tbson87/database-mcp-server-should-an-ai-agent-run-sql-or-only-read-the-schema-4nap)
-- [Changing a Column Type in SQLite: The Table Rebuild and What It Deletes](https://dev.to/tbson87/changing-a-column-type-in-sqlite-the-table-rebuild-and-what-it-deletes-do1)
-- [WebP Cover Conversion: Generate 3 Responsive Widths with Atomic Publishing](https://dev.to/alariccross6851/webp-cover-conversion-generate-3-responsive-widths-with-atomic-publishing-86a)
-- [Generate Marketplace Video Thumbnails Through an API &lpar;With Stored Poster Frames&rpar;](https://dev.to/cloudveilelenor12/generate-marketplace-video-thumbnails-through-an-api-with-stored-poster-frames-n96)
-- [ON DELETE SET NULL vs CASCADE vs RESTRICT in PostgreSQL: Which to Use](https://dev.to/tbson87/on-delete-set-null-vs-cascade-vs-restrict-in-postgresql-which-to-use-1n6l)
+- [Retrying a label API that already charged you](https://dev.to/fulfillnexa/retrying-a-label-api-that-already-charged-you-eh5)
+- [A per-order margin ledger: reconciling what you quoted against what the carrier billed](https://dev.to/fulfillnexa/a-per-order-margin-ledger-reconciling-what-you-quoted-against-what-the-carrier-billed-34gg)
+- [10 Claude Code CLI Mistakes That Kill Your Productivity — And How to Fix Each One](https://dev.to/artifilog/10-claude-code-cli-mistakes-that-kill-your-productivity-and-how-to-fix-each-one-3n1o)
+- [How to Build MCP Gateway from Scratch](https://dev.to/artifilog/how-to-build-mcp-gateway-from-scratch-4857)
+- [A website without a CMS: Astro Content Collections in practice](https://dev.to/seppegadeyne/a-website-without-a-cms-astro-content-collections-in-practice-17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
