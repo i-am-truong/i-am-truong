@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shining in the Darkness: The 16-Bit Dungeon Crawler That Started Sega&#39;s Shining Saga](https://dev.to/retrorom/shining-in-the-darkness-the-16-bit-dungeon-crawler-that-started-segas-shining-saga-4i08)
-- [Lynx: a passive, read-only security auditor for Debian and Ubuntu](https://dev.to/matarturo/lynx-a-passive-read-only-security-auditor-for-debian-and-ubuntu-2fll)
-- [Node.js Urgent Signup Notifications: 5 SMS-First Email Fallback Evidence Records](https://dev.to/gregorsterling9652/nodejs-urgent-signup-notifications-5-sms-first-email-fallback-evidence-records-1ma0)
-- [I Tried to Prompt a 3D Museum Into Existence. Then I Had to Teach Sanity to Remember Life and Death.](https://dev.to/ayush_gupta_17/i-tried-to-prompt-a-3d-museum-into-existence-then-i-had-to-teach-sanity-to-remember-life-and-death-1ipb)
-- [Why our Kubernetes UI installer used to be 500 MB &lpar;and isn&#39;t anymore&rpar;](https://dev.to/udawpk_ed5db9215291bfd07d/why-our-kubernetes-ui-installer-used-to-be-500-mb-and-isnt-anymore-gb8)
+- [Maîtriser le filtrage de flux textuels : du pattern matching aux règles de validation en production](https://dev.to/john_jessy_21a81a2125958e/maitriser-le-filtrage-de-flux-textuels-du-pattern-matching-aux-regles-de-validation-en-production-1epo)
+- [Thank You, Every Time: What the Pyxel Team at ESA Taught Me That No Employer Ever Did](https://dev.to/dobybaxter127/thank-you-every-time-what-the-pyxel-team-at-esa-taught-me-that-no-employer-ever-did-c8c)
+- [A Failure Bundle for GitHub Actions API Tests](https://dev.to/pong1965/a-failure-bundle-for-github-actions-api-tests-5anc)
+- [Turn your ERP Integration into a Cloud App](https://dev.to/jtl-softwareeng/turn-your-erp-integration-into-a-cloud-app-5d7c)
+- [LangSmith: Essential Observability for LLM Applications in 2026](https://dev.to/said_olano/langsmith-essential-observability-for-llm-applications-in-2026-2cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
