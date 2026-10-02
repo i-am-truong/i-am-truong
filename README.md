@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Pomodoro timer that builds a moon base](https://dev.to/jonathan_buckland_953ad08/i-built-a-pomodoro-timer-that-builds-a-moon-base-3g3k)
-- [How to Build Your First MCP Server: Step-by-Step Guide for Developers &lpar;2026&rpar;](https://dev.to/thebitforge/how-to-build-your-first-mcp-server-step-by-step-guide-for-developers-2026-1n25)
-- [Landstalker: The Isometric Treasure Hunt That Made the Genesis Defy Perspective](https://dev.to/retrorom/landstalker-the-isometric-treasure-hunt-that-made-the-genesis-defy-perspective-22f5)
-- [umux 1.7.0: close the window, keep the work](https://dev.to/crystalstudio/umux-170-close-the-window-keep-the-work-4bll)
-- [wordsearchbattleonline.com](https://dev.to/karanpatill/wordsearchbattleonlinecom-je7)
+- [Cloudflare Put a 402 Paywall Behind Every Domain. The Rail Was Never the Hard Part.](https://dev.to/minia2a/cloudflare-put-a-402-paywall-behind-every-domain-the-rail-was-never-the-hard-part-5g4j)
+- [Reliable Realtime Notification Preferences for Stock Trading Watchlist Testing](https://dev.to/jerichorhodes5847/reliable-realtime-notification-preferences-for-stock-trading-watchlist-testing-3781)
+- [Is Open Source no longer exciting!?](https://dev.to/babblebey/is-open-source-no-longer-exciting-o4e)
+- [Eight Layers Between an Attacker and Your Data. You&#39;ve Only Configured One.](https://dev.to/chizee/eight-layers-between-an-attacker-and-your-data-youve-only-configured-one-2n51)
+- [Transactional Email Operations: Compliance, Custom Domains, and Bounce Reconciliation](https://dev.to/zorvyngale1729/transactional-email-operations-compliance-custom-domains-and-bounce-reconciliation-77l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
