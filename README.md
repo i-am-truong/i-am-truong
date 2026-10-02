@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python APIs: Making HTTP Requests for Beginners](https://dev.to/sameerqaisar17/python-apis-making-http-requests-for-beginners-201d)
-- [useRef in React](https://dev.to/abimanyu_p_9e75124634d2a4/useref-in-react-46jm)
-- [Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027](https://dev.to/devengers/dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-and-pear-prime-2027-291n)
-- [Designing Resilient Ingestion: Handling High-Throughput Stream Spikes Without Crashing](https://dev.to/amamit/designing-resilient-ingestion-handling-high-throughput-stream-spikes-without-crashing-57go)
-- [DevLog 20261002: Desktop Automation Toolbox and Mouse Emulation](https://dev.to/methodox/devlog-20261002-desktop-automation-toolbox-and-mouse-emulation-1113)
+- [I built a Pomodoro timer that builds a moon base](https://dev.to/jonathan_buckland_953ad08/i-built-a-pomodoro-timer-that-builds-a-moon-base-3g3k)
+- [How to Build Your First MCP Server: Step-by-Step Guide for Developers &lpar;2026&rpar;](https://dev.to/thebitforge/how-to-build-your-first-mcp-server-step-by-step-guide-for-developers-2026-1n25)
+- [Landstalker: The Isometric Treasure Hunt That Made the Genesis Defy Perspective](https://dev.to/retrorom/landstalker-the-isometric-treasure-hunt-that-made-the-genesis-defy-perspective-22f5)
+- [umux 1.7.0: close the window, keep the work](https://dev.to/crystalstudio/umux-170-close-the-window-keep-the-work-4bll)
+- [wordsearchbattleonline.com](https://dev.to/karanpatill/wordsearchbattleonlinecom-je7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
