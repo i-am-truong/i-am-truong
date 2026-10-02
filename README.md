@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a custom JSX runtime for Discord bots](https://dev.to/phoenxho/i-built-a-custom-jsx-runtime-for-discord-bots-40nj)
-- [Hacktoberfest 2026 is here](https://dev.to/anuragyadav7800/tackling-the-hacktoberfest-2026-weekend-challenge-568)
-- [Smart Contract Vulnerability Surface Analysis: Binance CEX](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-binance-cex-4iha)
-- [Jev vs Local Models: Where Japanese Intent Routing Stands After 1,000 Utterances](https://dev.to/orca_forge/jev-vs-local-models-where-japanese-intent-routing-stands-after-1000-utterances-50j2)
-- [Generated Promo Videos API: Store and Expire Game Assets with Telemetry](https://dev.to/frozensigh2853916/generated-promo-videos-api-store-and-expire-game-assets-with-telemetry-4kdk)
+- [My RAG pipeline answered 1. The real answer was 20.](https://dev.to/harshdipsaha/my-rag-pipeline-answered-1-the-real-answer-was-20-2bbo)
+- [How AWS Well‑Architected Agent Uses Generative AI to Review Your Infra‑as‑Code, Explained Simply](https://dev.to/dineshgowtham/how-aws-well-architected-agent-uses-generative-ai-to-review-your-infra-as-code-explained-simply-1132)
+- [Five Years Ago, &quot;Junior Developer&quot; Meant Something Different. Here&#39;s What I&#39;m Facing Now.](https://dev.to/frihk_ian/five-years-ago-junior-developer-meant-something-different-heres-what-im-facing-now-35ia)
+- [Building LitGrid: One Web Component DataGrid for React, Angular, Vue, and Blazor](https://dev.to/tipolox/building-litgrid-one-web-component-datagrid-for-react-angular-vue-and-blazor-e4l)
+- [Your shapefile is in the wrong place? Measure how far off it is](https://dev.to/arabind_kumar_429558888b9/your-shapefile-is-in-the-wrong-place-measure-how-far-off-it-is-548o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
