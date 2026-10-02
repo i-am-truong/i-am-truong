@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maîtriser le filtrage de flux textuels : du pattern matching aux règles de validation en production](https://dev.to/john_jessy_21a81a2125958e/maitriser-le-filtrage-de-flux-textuels-du-pattern-matching-aux-regles-de-validation-en-production-1epo)
-- [Thank You, Every Time: What the Pyxel Team at ESA Taught Me That No Employer Ever Did](https://dev.to/dobybaxter127/thank-you-every-time-what-the-pyxel-team-at-esa-taught-me-that-no-employer-ever-did-c8c)
-- [A Failure Bundle for GitHub Actions API Tests](https://dev.to/pong1965/a-failure-bundle-for-github-actions-api-tests-5anc)
-- [Turn your ERP Integration into a Cloud App](https://dev.to/jtl-softwareeng/turn-your-erp-integration-into-a-cloud-app-5d7c)
-- [LangSmith: Essential Observability for LLM Applications in 2026](https://dev.to/said_olano/langsmith-essential-observability-for-llm-applications-in-2026-2cj)
+- [I built a custom JSX runtime for Discord bots](https://dev.to/phoenxho/i-built-a-custom-jsx-runtime-for-discord-bots-40nj)
+- [Hacktoberfest 2026 is here](https://dev.to/anuragyadav7800/tackling-the-hacktoberfest-2026-weekend-challenge-568)
+- [Smart Contract Vulnerability Surface Analysis: Binance CEX](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-binance-cex-4iha)
+- [Jev vs Local Models: Where Japanese Intent Routing Stands After 1,000 Utterances](https://dev.to/orca_forge/jev-vs-local-models-where-japanese-intent-routing-stands-after-1000-utterances-50j2)
+- [Generated Promo Videos API: Store and Expire Game Assets with Telemetry](https://dev.to/frozensigh2853916/generated-promo-videos-api-store-and-expire-game-assets-with-telemetry-4kdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
