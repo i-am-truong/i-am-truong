@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My RAG pipeline answered 1. The real answer was 20.](https://dev.to/harshdipsaha/my-rag-pipeline-answered-1-the-real-answer-was-20-2bbo)
-- [How AWS Well‑Architected Agent Uses Generative AI to Review Your Infra‑as‑Code, Explained Simply](https://dev.to/dineshgowtham/how-aws-well-architected-agent-uses-generative-ai-to-review-your-infra-as-code-explained-simply-1132)
-- [Five Years Ago, &quot;Junior Developer&quot; Meant Something Different. Here&#39;s What I&#39;m Facing Now.](https://dev.to/frihk_ian/five-years-ago-junior-developer-meant-something-different-heres-what-im-facing-now-35ia)
-- [Building LitGrid: One Web Component DataGrid for React, Angular, Vue, and Blazor](https://dev.to/tipolox/building-litgrid-one-web-component-datagrid-for-react-angular-vue-and-blazor-e4l)
-- [Your shapefile is in the wrong place? Measure how far off it is](https://dev.to/arabind_kumar_429558888b9/your-shapefile-is-in-the-wrong-place-measure-how-far-off-it-is-548o)
+- [Python APIs: Making HTTP Requests for Beginners](https://dev.to/sameerqaisar17/python-apis-making-http-requests-for-beginners-201d)
+- [useRef in React](https://dev.to/abimanyu_p_9e75124634d2a4/useref-in-react-46jm)
+- [Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027](https://dev.to/devengers/dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-and-pear-prime-2027-291n)
+- [Designing Resilient Ingestion: Handling High-Throughput Stream Spikes Without Crashing](https://dev.to/amamit/designing-resilient-ingestion-handling-high-throughput-stream-spikes-without-crashing-57go)
+- [DevLog 20261002: Desktop Automation Toolbox and Mouse Emulation](https://dev.to/methodox/devlog-20261002-desktop-automation-toolbox-and-mouse-emulation-1113)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
