@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Django vs FastAPI: Which Should You Build On?](https://dev.to/codexlava/django-vs-fastapi-which-should-you-build-on-3pon)
-- [Your AI Code Review Is Missing These Bugs](https://dev.to/robust_true_try/your-ai-code-review-is-missing-these-bugs-3l7p)
-- [Handle partial failures in optional widgets with Promise.allSettled&lpar;&rpar;](https://dev.to/stavleak-hackathons/handle-partial-failures-in-optional-widgets-with-promiseallsettled-153d)
-- [How we check every AI-generated room render before a user sees it](https://dev.to/aifliproom/how-we-check-every-ai-generated-room-render-before-a-user-sees-it-3ek8)
-- [I built a handover board for the friend who was doing all the remembering](https://dev.to/aniruddhaadak/i-built-a-handover-board-for-the-friend-who-was-doing-all-the-remembering-2ii8)
+- [Hello DEV 👋 I’m Shivani, and I’m Building My Way Into Tech](https://dev.to/shivani_pal_/hello-dev-im-shivani-and-im-building-my-way-into-tech-1423)
+- [Chrome records WebM with no duration in the header, and five HEAD requests decide whether you get charged](https://dev.to/daniel_pertu/chrome-records-webm-with-no-duration-in-the-header-and-five-head-requests-decide-whether-you-get-1ho7)
+- [664KB of expert answer keys, and an import graph is the only thing keeping them off your machine](https://dev.to/daniel_pertu/664kb-of-expert-answer-keys-and-an-import-graph-is-the-only-thing-keeping-them-off-your-machine-3am4)
+- [Build AI agents on WhatsApp in less than a minute!](https://dev.to/csr1010/build-ai-agents-on-whatsapp-in-less-than-1-minute-52op)
+- [Your migrated workflow rules still run. That is not the same as still working](https://dev.to/mihai_leanzero/your-migrated-workflow-rules-still-run-that-is-not-the-same-as-still-working-1ff2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
