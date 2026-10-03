@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello DEV 👋 I’m Shivani, and I’m Building My Way Into Tech](https://dev.to/shivani_pal_/hello-dev-im-shivani-and-im-building-my-way-into-tech-1423)
-- [Chrome records WebM with no duration in the header, and five HEAD requests decide whether you get charged](https://dev.to/daniel_pertu/chrome-records-webm-with-no-duration-in-the-header-and-five-head-requests-decide-whether-you-get-1ho7)
-- [664KB of expert answer keys, and an import graph is the only thing keeping them off your machine](https://dev.to/daniel_pertu/664kb-of-expert-answer-keys-and-an-import-graph-is-the-only-thing-keeping-them-off-your-machine-3am4)
-- [Build AI agents on WhatsApp in less than a minute!](https://dev.to/csr1010/build-ai-agents-on-whatsapp-in-less-than-1-minute-52op)
-- [Your migrated workflow rules still run. That is not the same as still working](https://dev.to/mihai_leanzero/your-migrated-workflow-rules-still-run-that-is-not-the-same-as-still-working-1ff2)
+- [CMD Is Underrated for One Job: Dead-Simple File Ops on Locked Machines](https://dev.to/arnostorg/cmd-is-underrated-for-one-job-dead-simple-file-ops-on-locked-machines-3p76)
+- [Count the Rings or Sear the Squid](https://dev.to/javieraguilarai/count-the-rings-or-sear-the-squid-96n)
+- [Who Is the x402 Foundation&#39;s Executive Director? The Standard for Machine Payments Still Has No Authorization Layer](https://dev.to/scriptmasterlabs01/who-is-the-x402-foundations-executive-director-the-standard-for-machine-payments-still-has-no-42c9)
+- [Release a withdrawal hold only when the rail says no](https://dev.to/polycratia/release-a-withdrawal-hold-only-when-the-rail-says-no-4aid)
+- [StudyMate AI: Your Notes, Your Tutor, Your Study Companion](https://dev.to/mr_saivardhan/studymate-ai-your-notes-your-tutor-your-study-companion-6gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
