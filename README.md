@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git Interview Questions &lpar;With Model Answers&rpar;](https://dev.to/peakblick/git-interview-questions-with-model-answers-88c)
-- [Stop Copying Successful Businesses: Build a Sovereign Moat Instead](https://dev.to/dan_draguta_d18e1735edb6c/stop-copying-successful-businesses-build-a-sovereign-moat-instead-fl)
-- [How Sinner won Wimbledon 2025, in break points](https://dev.to/cleanscrape/how-sinner-won-wimbledon-2025-in-break-points-3jjc)
-- [MCP vs function calling vs ChatGPT plugins: what API teams actually need in 2026](https://dev.to/jeff_pdc/mcp-vs-function-calling-vs-chatgpt-plugins-what-api-teams-actually-need-in-2026-4fl8)
-- [Study Buddy](https://dev.to/tashu_gupta_031/study-buddy-37o6)
+- [Build a Go Admin Dashboard: Triage Open Error Groups in 2026](https://dev.to/yannicksterling6563/build-a-go-admin-dashboard-triage-open-error-groups-in-2026-54bc)
+- [Optimizing Zpool Scrub Performance During Home Server Upgrade and Maintenance with Efficient Hardware and Power Management](https://dev.to/elenbit/optimizing-zpool-scrub-performance-during-home-server-upgrade-and-maintenance-with-efficient-3l)
+- [I Turned My Web Directory Into a Growing Collection of Tools, Sites, and Experiments](https://dev.to/base31/i-turned-my-web-directory-into-a-growing-collection-of-tools-sites-and-experiments-4b88)
+- [Flock sob ataque: como detectar, se proteger e evitar multas](https://dev.to/leojulieta/flock-sob-ataque-como-detectar-se-proteger-e-evitar-multas-1p2d)
+- [Creating a GKE Cluster and Deploying a Microservice Application &lpar;End-to-End&rpar;](https://dev.to/mitrakumar/creating-a-gke-cluster-and-deploying-a-microservice-application-end-to-end-2e2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
