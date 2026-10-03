@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Put a 402 Paywall Behind Every Domain. The Rail Was Never the Hard Part.](https://dev.to/minia2a/cloudflare-put-a-402-paywall-behind-every-domain-the-rail-was-never-the-hard-part-5g4j)
-- [Reliable Realtime Notification Preferences for Stock Trading Watchlist Testing](https://dev.to/jerichorhodes5847/reliable-realtime-notification-preferences-for-stock-trading-watchlist-testing-3781)
-- [Is Open Source no longer exciting!?](https://dev.to/babblebey/is-open-source-no-longer-exciting-o4e)
-- [Eight Layers Between an Attacker and Your Data. You&#39;ve Only Configured One.](https://dev.to/chizee/eight-layers-between-an-attacker-and-your-data-youve-only-configured-one-2n51)
-- [Transactional Email Operations: Compliance, Custom Domains, and Bounce Reconciliation](https://dev.to/zorvyngale1729/transactional-email-operations-compliance-custom-domains-and-bounce-reconciliation-77l)
+- [Django vs FastAPI: Which Should You Build On?](https://dev.to/codexlava/django-vs-fastapi-which-should-you-build-on-3pon)
+- [Your AI Code Review Is Missing These Bugs](https://dev.to/robust_true_try/your-ai-code-review-is-missing-these-bugs-3l7p)
+- [Handle partial failures in optional widgets with Promise.allSettled&lpar;&rpar;](https://dev.to/stavleak-hackathons/handle-partial-failures-in-optional-widgets-with-promiseallsettled-153d)
+- [How we check every AI-generated room render before a user sees it](https://dev.to/aifliproom/how-we-check-every-ai-generated-room-render-before-a-user-sees-it-3ek8)
+- [I built a handover board for the friend who was doing all the remembering](https://dev.to/aniruddhaadak/i-built-a-handover-board-for-the-friend-who-was-doing-all-the-remembering-2ii8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
