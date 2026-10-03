@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CMD Is Underrated for One Job: Dead-Simple File Ops on Locked Machines](https://dev.to/arnostorg/cmd-is-underrated-for-one-job-dead-simple-file-ops-on-locked-machines-3p76)
-- [Count the Rings or Sear the Squid](https://dev.to/javieraguilarai/count-the-rings-or-sear-the-squid-96n)
-- [Who Is the x402 Foundation&#39;s Executive Director? The Standard for Machine Payments Still Has No Authorization Layer](https://dev.to/scriptmasterlabs01/who-is-the-x402-foundations-executive-director-the-standard-for-machine-payments-still-has-no-42c9)
-- [Release a withdrawal hold only when the rail says no](https://dev.to/polycratia/release-a-withdrawal-hold-only-when-the-rail-says-no-4aid)
-- [StudyMate AI: Your Notes, Your Tutor, Your Study Companion](https://dev.to/mr_saivardhan/studymate-ai-your-notes-your-tutor-your-study-companion-6gi)
+- [Jira automation rules do not migrate themselves](https://dev.to/mihai_leanzero/jira-automation-rules-do-not-migrate-themselves-4egd)
+- [Jira 32,767 characters limit: find the description and comment data a JCMA migration lost](https://dev.to/mihai_leanzero/jira-32767-characters-limit-find-the-description-and-comment-data-a-jcma-migration-lost-2cmb)
+- [Claude Code mods: Minesweeper and testkit](https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067)
+- [How HuskHoard Talks to the Cloud &lpar;and Why It Beats Managing Buckets by Hand&rpar;](https://dev.to/coldstorage/how-huskhoard-talks-to-the-cloud-and-why-it-beats-managing-buckets-by-hand-4136)
+- [CSV Import Summary Field: Why It&#39;s Required and How It Breaks Your Data](https://dev.to/mihai_leanzero/csv-import-summary-field-why-its-required-and-how-it-breaks-your-data-1ejf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
