@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jira automation rules do not migrate themselves](https://dev.to/mihai_leanzero/jira-automation-rules-do-not-migrate-themselves-4egd)
-- [Jira 32,767 characters limit: find the description and comment data a JCMA migration lost](https://dev.to/mihai_leanzero/jira-32767-characters-limit-find-the-description-and-comment-data-a-jcma-migration-lost-2cmb)
-- [Claude Code mods: Minesweeper and testkit](https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067)
-- [How HuskHoard Talks to the Cloud &lpar;and Why It Beats Managing Buckets by Hand&rpar;](https://dev.to/coldstorage/how-huskhoard-talks-to-the-cloud-and-why-it-beats-managing-buckets-by-hand-4136)
-- [CSV Import Summary Field: Why It&#39;s Required and How It Breaks Your Data](https://dev.to/mihai_leanzero/csv-import-summary-field-why-its-required-and-how-it-breaks-your-data-1ejf)
+- [Git Interview Questions &lpar;With Model Answers&rpar;](https://dev.to/peakblick/git-interview-questions-with-model-answers-88c)
+- [Stop Copying Successful Businesses: Build a Sovereign Moat Instead](https://dev.to/dan_draguta_d18e1735edb6c/stop-copying-successful-businesses-build-a-sovereign-moat-instead-fl)
+- [How Sinner won Wimbledon 2025, in break points](https://dev.to/cleanscrape/how-sinner-won-wimbledon-2025-in-break-points-3jjc)
+- [MCP vs function calling vs ChatGPT plugins: what API teams actually need in 2026](https://dev.to/jeff_pdc/mcp-vs-function-calling-vs-chatgpt-plugins-what-api-teams-actually-need-in-2026-4fl8)
+- [Study Buddy](https://dev.to/tashu_gupta_031/study-buddy-37o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
