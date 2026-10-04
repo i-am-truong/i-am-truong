@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to find who deleted a Jira Cloud work item &lpar;and why some sites can&#39;t&rpar;](https://dev.to/algorithmicenterprises/how-to-find-who-deleted-a-jira-cloud-work-item-and-why-some-sites-cant-10io)
-- [Intercepting a Wallet from a Browser Extension &lpar;TxnLense, Part 1&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/intercepting-a-wallet-from-a-browser-extension-txnlense-part-1-52bg)
-- [ApnaGhar 🏠: Designing a Home That Feels Like Yours](https://dev.to/devdesagar/apnaghar-designing-a-home-that-feels-like-yours-3an8)
-- [Recallix: A Local AI Study Assistant That Turns Lecture Notes into Actionable Learning](https://dev.to/namandeep_tripathi/recallix-a-local-ai-study-assistant-that-turns-lecture-notes-into-actionable-learning-5bmn)
-- [PocketMentor: An Open-Source Workplace Conversation Simulator Built for My Junior Batchmate](https://dev.to/dipanshurdev/pocketmentor-an-open-source-workplace-conversation-simulator-built-for-my-junior-batchmate-5676)
+- [claude code token optimizer vscode extension](https://dev.to/emalia/claude-code-token-optimizer-vscode-extension-344e)
+- [Lexington&#39;s data center debate exposes a planning risk for AI infrastructure](https://dev.to/da-li-at-pl/lexingtons-data-center-debate-exposes-a-planning-risk-for-ai-infrastructure-9ne)
+- [Should I Buy: a traffic light for my friend who never makes it to the end of the month](https://dev.to/virien84/should-i-buy-a-traffic-light-for-my-friend-who-never-makes-it-to-the-end-of-the-month-3h6e)
+- [wildguard ai](https://dev.to/satyakam_das_891754/wildguard-ai-2lg3)
+- [I built a local encrypted SSH vault because I don’t want my hosts in the cloud](https://dev.to/emperr0r/i-built-a-local-encrypted-ssh-vault-because-i-dont-want-my-hosts-in-the-cloud-3c2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
