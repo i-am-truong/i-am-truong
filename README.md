@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot vs Cursor in 2026: Which AI Coder Earns Its Seat?](https://dev.to/stimlau/github-copilot-vs-cursor-in-2026-which-ai-coder-earns-its-seat-4mak)
-- [FriendFit: An Open-Source AI Fitness Companion Built for a Friend](https://dev.to/ayush_manitiwari_e716764/friendfit-an-open-source-ai-fitness-companion-built-for-a-friend-3dkn)
-- [1,250,964 audit rows recorded that we had decided nothing, and 51,884 recorded a decision](https://dev.to/daniel_pertu/1250964-audit-rows-recorded-that-we-had-decided-nothing-and-51884-recorded-a-decision-443o)
-- [ElevenLabs Pricing Explained: Free, Starter, Creator and Pro in 2026](https://dev.to/stimlau/elevenlabs-pricing-explained-free-starter-creator-and-pro-in-2026-4p6b)
-- [A search box is a second door into the same scanner, and Postgres made us write one expression twice](https://dev.to/daniel_pertu/a-search-box-is-a-second-door-into-the-same-scanner-and-postgres-made-us-write-one-expression-twice-2388)
+- [Google Sheets market data template: a watchlist you can copy](https://dev.to/siftingio/google-sheets-market-data-template-a-watchlist-you-can-copy-215j)
+- [Why I’m building a unified DevOps OS to kill context switching at 16](https://dev.to/ejoyment/why-im-building-a-unified-devops-os-to-kill-context-switching-at-16-1hkm)
+- [He Missed IIT Madras CSE by 0.01. MIT Rejected Him. Today, He Leads a $20B AI Startup.](https://dev.to/techytcm/he-missed-iit-madras-cse-by-001-mit-rejected-him-today-he-leads-a-20b-ai-startup-2fk8)
+- [SeaweedFS and the Object Store You Forgot You Deployed: 6,345 Matches](https://dev.to/stark_zhuang_df5076f35c68/seaweedfs-and-the-object-store-you-forgot-you-deployed-6345-matches-48m2)
+- [Poolfolio: An Investment Tracker Built for My Friends](https://dev.to/heramb1221/poolfolio-an-investment-tracker-built-for-my-friends-3di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
