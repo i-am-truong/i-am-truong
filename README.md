@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Sheets market data template: a watchlist you can copy](https://dev.to/siftingio/google-sheets-market-data-template-a-watchlist-you-can-copy-215j)
-- [Why I’m building a unified DevOps OS to kill context switching at 16](https://dev.to/ejoyment/why-im-building-a-unified-devops-os-to-kill-context-switching-at-16-1hkm)
-- [He Missed IIT Madras CSE by 0.01. MIT Rejected Him. Today, He Leads a $20B AI Startup.](https://dev.to/techytcm/he-missed-iit-madras-cse-by-001-mit-rejected-him-today-he-leads-a-20b-ai-startup-2fk8)
-- [SeaweedFS and the Object Store You Forgot You Deployed: 6,345 Matches](https://dev.to/stark_zhuang_df5076f35c68/seaweedfs-and-the-object-store-you-forgot-you-deployed-6345-matches-48m2)
-- [Poolfolio: An Investment Tracker Built for My Friends](https://dev.to/heramb1221/poolfolio-an-investment-tracker-built-for-my-friends-3di7)
+- [How to find who deleted a Jira Cloud work item &lpar;and why some sites can&#39;t&rpar;](https://dev.to/algorithmicenterprises/how-to-find-who-deleted-a-jira-cloud-work-item-and-why-some-sites-cant-10io)
+- [Intercepting a Wallet from a Browser Extension &lpar;TxnLense, Part 1&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/intercepting-a-wallet-from-a-browser-extension-txnlense-part-1-52bg)
+- [ApnaGhar 🏠: Designing a Home That Feels Like Yours](https://dev.to/devdesagar/apnaghar-designing-a-home-that-feels-like-yours-3an8)
+- [Recallix: A Local AI Study Assistant That Turns Lecture Notes into Actionable Learning](https://dev.to/namandeep_tripathi/recallix-a-local-ai-study-assistant-that-turns-lecture-notes-into-actionable-learning-5bmn)
+- [PocketMentor: An Open-Source Workplace Conversation Simulator Built for My Junior Batchmate](https://dev.to/dipanshurdev/pocketmentor-an-open-source-workplace-conversation-simulator-built-for-my-junior-batchmate-5676)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
