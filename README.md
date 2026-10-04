@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS CI Email Fixtures Need a Promotion Gate](https://dev.to/jasonmills94/aws-ci-email-fixtures-need-a-promotion-gate-2bae)
-- [Ngôn Ngữ Lập Trình Là Gì?](https://dev.to/tieushare/ngon-ngu-lap-trinh-la-gi-235c)
-- [My Automated Quality Check Passed Garbage. Here Is the Second Layer I Added.](https://dev.to/revanzart/my-automated-quality-check-passed-garbage-here-is-the-second-layer-i-added-1lgf)
-- [Node.js Pricing Rollout Logs — Choosing Sentry, Better Stack, Axiom, or Seq](https://dev.to/barnabyvance6852/nodejs-pricing-rollout-logs-choosing-sentry-better-stack-axiom-or-seq-3jj0)
-- [Pulse &amp; Pressure](https://dev.to/nicholascloud4/pulse-pressure-117g)
+- [GitHub Copilot vs Cursor in 2026: Which AI Coder Earns Its Seat?](https://dev.to/stimlau/github-copilot-vs-cursor-in-2026-which-ai-coder-earns-its-seat-4mak)
+- [FriendFit: An Open-Source AI Fitness Companion Built for a Friend](https://dev.to/ayush_manitiwari_e716764/friendfit-an-open-source-ai-fitness-companion-built-for-a-friend-3dkn)
+- [1,250,964 audit rows recorded that we had decided nothing, and 51,884 recorded a decision](https://dev.to/daniel_pertu/1250964-audit-rows-recorded-that-we-had-decided-nothing-and-51884-recorded-a-decision-443o)
+- [ElevenLabs Pricing Explained: Free, Starter, Creator and Pro in 2026](https://dev.to/stimlau/elevenlabs-pricing-explained-free-starter-creator-and-pro-in-2026-4p6b)
+- [A search box is a second door into the same scanner, and Postgres made us write one expression twice](https://dev.to/daniel_pertu/a-search-box-is-a-second-door-into-the-same-scanner-and-postgres-made-us-write-one-expression-twice-2388)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
