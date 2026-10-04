@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Go Admin Dashboard: Triage Open Error Groups in 2026](https://dev.to/yannicksterling6563/build-a-go-admin-dashboard-triage-open-error-groups-in-2026-54bc)
-- [Optimizing Zpool Scrub Performance During Home Server Upgrade and Maintenance with Efficient Hardware and Power Management](https://dev.to/elenbit/optimizing-zpool-scrub-performance-during-home-server-upgrade-and-maintenance-with-efficient-3l)
-- [I Turned My Web Directory Into a Growing Collection of Tools, Sites, and Experiments](https://dev.to/base31/i-turned-my-web-directory-into-a-growing-collection-of-tools-sites-and-experiments-4b88)
-- [Flock sob ataque: como detectar, se proteger e evitar multas](https://dev.to/leojulieta/flock-sob-ataque-como-detectar-se-proteger-e-evitar-multas-1p2d)
-- [Creating a GKE Cluster and Deploying a Microservice Application &lpar;End-to-End&rpar;](https://dev.to/mitrakumar/creating-a-gke-cluster-and-deploying-a-microservice-application-end-to-end-2e2p)
+- [AWS CI Email Fixtures Need a Promotion Gate](https://dev.to/jasonmills94/aws-ci-email-fixtures-need-a-promotion-gate-2bae)
+- [Ngôn Ngữ Lập Trình Là Gì?](https://dev.to/tieushare/ngon-ngu-lap-trinh-la-gi-235c)
+- [My Automated Quality Check Passed Garbage. Here Is the Second Layer I Added.](https://dev.to/revanzart/my-automated-quality-check-passed-garbage-here-is-the-second-layer-i-added-1lgf)
+- [Node.js Pricing Rollout Logs — Choosing Sentry, Better Stack, Axiom, or Seq](https://dev.to/barnabyvance6852/nodejs-pricing-rollout-logs-choosing-sentry-better-stack-axiom-or-seq-3jj0)
+- [Pulse &amp; Pressure](https://dev.to/nicholascloud4/pulse-pressure-117g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
