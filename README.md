@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scikit-learn vs LLM APIs: Which Should You Use for Your Next AI Project?](https://dev.to/addwebsolutionpvtltd/scikit-learn-vs-llm-apis-which-should-you-use-for-your-next-ai-project-1e31)
-- [How Hard Should You Review This? Ask What It Touches.](https://dev.to/pixel-wraith/how-hard-should-you-review-this-ask-what-it-touches-4847)
-- [Fixing &#39;previously freed instance&#39; errors in Godot 4 combat code](https://dev.to/saltmire/fixing-previously-freed-instance-errors-in-godot-4-combat-code-5fm6)
-- [A photo is made through a moving slit. Here is an interactive look.](https://dev.to/sushutter/a-photo-is-made-through-a-moving-slit-here-is-an-interactive-look-fjp)
-- [Wave v0.2.1-pre-beta](https://dev.to/lunastev/wave-v021-pre-beta-b4)
+- [How to Handle Errors Correctly with the JavaScript Fetch API](https://dev.to/greatness_10xxx7/how-to-handle-errors-correctly-with-the-javascript-fetch-api-lab)
+- [Daily Cleanup Job to Delete Old Uploads and Logs — Cron Selection](https://dev.to/cloudveilelenor12/daily-cleanup-job-to-delete-old-uploads-and-logs-cron-selection-1im7)
+- [How One New Memory Tech Could Make Delivery Drones 18% Safer in 5 Minutes](https://dev.to/amrithesh_dev/how-one-new-memory-tech-could-make-delivery-drones-18-safer-in-5-minutes-49hh)
+- [An $18,000 AWS bill that should have been $12,000](https://dev.to/vlad_z_16b6320e21f32bee0d/an-18000-aws-bill-that-should-have-been-12000-4o15)
+- [Clean Air Window: the cleanest hour to go outside in smog season](https://dev.to/ailegend/clean-air-window-the-cleanest-hour-to-go-outside-in-smog-season-189h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
