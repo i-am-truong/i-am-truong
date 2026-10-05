@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Yield Strategy Optimization Report: Veda](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-veda-2152)
-- [Caching Strategies Explained: Cache-Aside vs Write-Through vs Write-Behind &lpar;With Redis Code&rpar;](https://dev.to/prisminfoways/caching-strategies-explained-cache-aside-vs-write-through-vs-write-behind-with-redis-code-1gd0)
-- [For Loop vs While Loop in JavaScript 🔄](https://dev.to/narasimma/for-loop-vs-while-loop-in-javascript-4p7d)
-- [Designing High-Throughput Event-Driven Microservices with Kafka and RabbitMQ](https://dev.to/mtahir27/designing-high-throughput-event-driven-microservices-with-kafka-and-rabbitmq-15l3)
-- [ne-ne, what do you want to build: A Cloud Coding Agent So My Friend Can Go Touch Grass](https://dev.to/huy_vu_c06df7ccc09dc6243b/ne-ne-what-do-you-want-to-build-a-cloud-coding-agent-so-my-friend-can-go-touch-grass-34fe)
+- [Scikit-learn vs LLM APIs: Which Should You Use for Your Next AI Project?](https://dev.to/addwebsolutionpvtltd/scikit-learn-vs-llm-apis-which-should-you-use-for-your-next-ai-project-1e31)
+- [How Hard Should You Review This? Ask What It Touches.](https://dev.to/pixel-wraith/how-hard-should-you-review-this-ask-what-it-touches-4847)
+- [Fixing &#39;previously freed instance&#39; errors in Godot 4 combat code](https://dev.to/saltmire/fixing-previously-freed-instance-errors-in-godot-4-combat-code-5fm6)
+- [A photo is made through a moving slit. Here is an interactive look.](https://dev.to/sushutter/a-photo-is-made-through-a-moving-slit-here-is-an-interactive-look-fjp)
+- [Wave v0.2.1-pre-beta](https://dev.to/lunastev/wave-v021-pre-beta-b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
