@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [claude code token optimizer vscode extension](https://dev.to/emalia/claude-code-token-optimizer-vscode-extension-344e)
-- [Lexington&#39;s data center debate exposes a planning risk for AI infrastructure](https://dev.to/da-li-at-pl/lexingtons-data-center-debate-exposes-a-planning-risk-for-ai-infrastructure-9ne)
-- [Should I Buy: a traffic light for my friend who never makes it to the end of the month](https://dev.to/virien84/should-i-buy-a-traffic-light-for-my-friend-who-never-makes-it-to-the-end-of-the-month-3h6e)
-- [wildguard ai](https://dev.to/satyakam_das_891754/wildguard-ai-2lg3)
-- [I built a local encrypted SSH vault because I don’t want my hosts in the cloud](https://dev.to/emperr0r/i-built-a-local-encrypted-ssh-vault-because-i-dont-want-my-hosts-in-the-cloud-3c2j)
+- [Backend Metrics Dashboard Signal Triage for Cron Jobs and API Failures](https://dev.to/kendrickberg5327/backend-metrics-dashboard-signal-triage-for-cron-jobs-and-api-failures-3lj2)
+- [HandNotes: teaching an open model to read my friend&#39;s handwriting, on his own laptop](https://dev.to/jemankalita/handnotes-teaching-an-open-model-to-read-my-friends-handwriting-on-his-own-laptop-3ce3)
+- [“Beta, Is This News Real?” — So I Built My Grandparents VerifAI](https://dev.to/tanishh-13/beta-is-this-news-real-so-i-built-my-grandparents-verifai-2ml9)
+- [How well do player projections predict team wins? I froze MLB 2026 first, then checked](https://dev.to/yasumorishima/how-well-do-player-projections-predict-team-wins-i-froze-mlb-2026-first-then-checked-3ih1)
+- [Explainable Causal Reinforcement Learning for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-with-zero-trust-1g24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
