@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Redrawing Your Architecture: YAML, SQL, Terraform and EXPLAIN Plans to Diagrams in One Paste](https://dev.to/adnan_hamdi/stop-redrawing-your-architecture-yaml-sql-terraform-and-explain-plans-to-diagrams-in-one-paste-39lc)
-- [Denmark CPR Breach: Legitimate Company Access Abused to Query Data on About 8.8 Million People](https://dev.to/anoymask/denmark-cpr-breach-legitimate-company-access-abused-to-query-data-on-about-88-million-people-3be4)
-- [Build Multiplayer AI Bots Locally in Minutes with OpenBot 3](https://dev.to/leojulieta/build-multiplayer-ai-bots-locally-in-minutes-with-openbot-3-19ji)
-- [OpenBot 3: Bots IA locales, multijugador y sin nube](https://dev.to/leojulieta/openbot-3-bots-ia-locales-multijugador-y-sin-nube-10kp)
-- [Sandboxes in Kubernetes without privileged: cgroup_writable and hostUsers: false](https://dev.to/mhmtarif/sandboxes-in-kubernetes-without-privileged-cgroupwritable-and-hostusers-false-1jbf)
+- [What SaaS Actually Means for Startups and Small Teams](https://dev.to/razen-creations/what-saas-actually-means-for-startups-and-small-teams-m3l)
+- [Where to Sell Website Templates and UI Kits: 20+ Best Platforms](https://dev.to/sxntionc/where-to-sell-website-templates-and-ui-kits-20-best-platforms-jcc)
+- [How DeepWiki Works: Turning a Codebase into a Searchable Mental Model](https://dev.to/shrsv/how-deepwiki-works-turning-a-codebase-into-a-searchable-mental-model-21jm)
+- [Brain Computer Interfaces: How the Technology Is Advancing in 2026](https://dev.to/the_daily_flare/brain-computer-interfaces-how-the-technology-is-advancing-in-2026-8)
+- [Nobody can tell you how many Linux distributions exist](https://dev.to/max_ilands/nobody-can-tell-you-how-many-linux-distributions-exist-99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
