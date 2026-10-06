@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your control arm is a probe too](https://dev.to/pm25coder/your-control-arm-is-a-probe-too-53a0)
-- [Building a To-Do List App in Python &lpar;With File Saving&rpar;](https://dev.to/sameerqaisar17/building-a-to-do-list-app-in-python-with-file-saving-2o23)
-- [How to Practise Java Daily: A Simple Routine for Students?](https://dev.to/rohit_cs_730b68ec18a76a55/how-to-practise-java-daily-a-simple-routine-for-students-19pe)
-- [Building a Production-Ready CRUD API in Laravel: Menu Categories for Django Developers](https://dev.to/vincenttommi/building-a-production-ready-crud-api-in-laravel-menu-categories-for-django-developers-3c8i)
-- [System design for physical AI: read-only fire protection monitoring across a hundred factories](https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-read-only-fire-protection-monitoring-across-a-hundred-factories-4c2)
+- [Stop Redrawing Your Architecture: YAML, SQL, Terraform and EXPLAIN Plans to Diagrams in One Paste](https://dev.to/adnan_hamdi/stop-redrawing-your-architecture-yaml-sql-terraform-and-explain-plans-to-diagrams-in-one-paste-39lc)
+- [Denmark CPR Breach: Legitimate Company Access Abused to Query Data on About 8.8 Million People](https://dev.to/anoymask/denmark-cpr-breach-legitimate-company-access-abused-to-query-data-on-about-88-million-people-3be4)
+- [Build Multiplayer AI Bots Locally in Minutes with OpenBot 3](https://dev.to/leojulieta/build-multiplayer-ai-bots-locally-in-minutes-with-openbot-3-19ji)
+- [OpenBot 3: Bots IA locales, multijugador y sin nube](https://dev.to/leojulieta/openbot-3-bots-ia-locales-multijugador-y-sin-nube-10kp)
+- [Sandboxes in Kubernetes without privileged: cgroup_writable and hostUsers: false](https://dev.to/mhmtarif/sandboxes-in-kubernetes-without-privileged-cgroupwritable-and-hostusers-false-1jbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
