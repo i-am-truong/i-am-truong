@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Errors Correctly with the JavaScript Fetch API](https://dev.to/greatness_10xxx7/how-to-handle-errors-correctly-with-the-javascript-fetch-api-lab)
-- [Daily Cleanup Job to Delete Old Uploads and Logs — Cron Selection](https://dev.to/cloudveilelenor12/daily-cleanup-job-to-delete-old-uploads-and-logs-cron-selection-1im7)
-- [How One New Memory Tech Could Make Delivery Drones 18% Safer in 5 Minutes](https://dev.to/amrithesh_dev/how-one-new-memory-tech-could-make-delivery-drones-18-safer-in-5-minutes-49hh)
-- [An $18,000 AWS bill that should have been $12,000](https://dev.to/vlad_z_16b6320e21f32bee0d/an-18000-aws-bill-that-should-have-been-12000-4o15)
-- [Clean Air Window: the cleanest hour to go outside in smog season](https://dev.to/ailegend/clean-air-window-the-cleanest-hour-to-go-outside-in-smog-season-189h)
+- [How to Write Your First Agent Skill](https://dev.to/alapha888/how-to-write-your-first-agent-skill-ab6)
+- [Private LLM Options: Local, Cloud, or Confidential?](https://dev.to/rio_consulting/private-llm-options-local-cloud-or-confidential-4h1p)
+- [Hello World !](https://dev.to/adpocalypse/hello-world--2icn)
+- [Amazon Aurora Serverless v2 guia detalhado de arquitetura, escala, custo e operação](https://dev.to/ikauedev/amazon-aurora-serverless-v2-guia-detalhado-de-arquitetura-escala-custo-e-operacao-999)
+- [CVE-2026-65660: a SharePoint code injection reachable with an ordinary user account](https://dev.to/onaeiuspkz/cve-2026-65660-a-sharepoint-code-injection-reachable-with-an-ordinary-user-account-31jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
