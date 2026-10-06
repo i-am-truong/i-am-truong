@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Your First Agent Skill](https://dev.to/alapha888/how-to-write-your-first-agent-skill-ab6)
-- [Private LLM Options: Local, Cloud, or Confidential?](https://dev.to/rio_consulting/private-llm-options-local-cloud-or-confidential-4h1p)
-- [Hello World !](https://dev.to/adpocalypse/hello-world--2icn)
-- [Amazon Aurora Serverless v2 guia detalhado de arquitetura, escala, custo e operação](https://dev.to/ikauedev/amazon-aurora-serverless-v2-guia-detalhado-de-arquitetura-escala-custo-e-operacao-999)
-- [CVE-2026-65660: a SharePoint code injection reachable with an ordinary user account](https://dev.to/onaeiuspkz/cve-2026-65660-a-sharepoint-code-injection-reachable-with-an-ordinary-user-account-31jm)
+- [Your control arm is a probe too](https://dev.to/pm25coder/your-control-arm-is-a-probe-too-53a0)
+- [Building a To-Do List App in Python &lpar;With File Saving&rpar;](https://dev.to/sameerqaisar17/building-a-to-do-list-app-in-python-with-file-saving-2o23)
+- [How to Practise Java Daily: A Simple Routine for Students?](https://dev.to/rohit_cs_730b68ec18a76a55/how-to-practise-java-daily-a-simple-routine-for-students-19pe)
+- [Building a Production-Ready CRUD API in Laravel: Menu Categories for Django Developers](https://dev.to/vincenttommi/building-a-production-ready-crud-api-in-laravel-menu-categories-for-django-developers-3c8i)
+- [System design for physical AI: read-only fire protection monitoring across a hundred factories](https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-read-only-fire-protection-monitoring-across-a-hundred-factories-4c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
