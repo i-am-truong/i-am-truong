@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What SaaS Actually Means for Startups and Small Teams](https://dev.to/razen-creations/what-saas-actually-means-for-startups-and-small-teams-m3l)
-- [Where to Sell Website Templates and UI Kits: 20+ Best Platforms](https://dev.to/sxntionc/where-to-sell-website-templates-and-ui-kits-20-best-platforms-jcc)
-- [How DeepWiki Works: Turning a Codebase into a Searchable Mental Model](https://dev.to/shrsv/how-deepwiki-works-turning-a-codebase-into-a-searchable-mental-model-21jm)
-- [Brain Computer Interfaces: How the Technology Is Advancing in 2026](https://dev.to/the_daily_flare/brain-computer-interfaces-how-the-technology-is-advancing-in-2026-8)
-- [Nobody can tell you how many Linux distributions exist](https://dev.to/max_ilands/nobody-can-tell-you-how-many-linux-distributions-exist-99)
+- [The Flattery Tax: I pressure-tested 29 LLMs with confident wrong users — the frontier held, the small ones folded](https://dev.to/suraj_srivastav/the-flattery-tax-i-pressure-tested-29-llms-with-confident-wrong-users-the-frontier-held-the-5382)
+- [Why Your TypeScript Code Still Crashes in Production: Validating Data at Runtime Boundaries with Zod](https://dev.to/eme_gug_0821b41b948be6516/why-your-typescript-code-still-crashes-in-production-validating-data-at-runtime-boundaries-with-zod-3fd0)
+- [Image Optimization and WebP Basics — Why WebP Is Smaller, and How Browsers Decide to Use It](https://dev.to/susumun/image-optimization-and-webp-basics-why-webp-is-smaller-and-how-browsers-decide-to-use-it-2mfe)
+- [Apache Zeppelin on the Internet: 25,617 Fingerprint Matches and a Notebook With Cluster Credentials](https://dev.to/kozhevniko/apache-zeppelin-on-the-internet-25617-fingerprint-matches-and-a-notebook-with-cluster-credentials-3c8i)
+- [How do co-founders share AI context without losing private stuff?](https://dev.to/richard_smith_154156d471ef/how-do-co-founders-share-ai-context-without-losing-private-stuff-27ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
