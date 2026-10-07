@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stripe payment links + AI outreach: the $0 stack](https://dev.to/sam_hiotis_117598dbfa3ac2/stripe-payment-links-ai-outreach-the-0-stack-2ock)
-- [I fixed a prefix check. The truth table says I changed two answers I didn&#39;t mean to.](https://dev.to/pm25coder/i-fixed-a-prefix-check-the-truth-table-says-i-changed-two-answers-i-didnt-mean-to-2oc1)
-- [SecFoo — I Caught Our Security Scanner Inventing Fake Vulnerabilities — Here&#39;s the Proof!](https://dev.to/amir09/secfoo-i-caught-our-security-scanner-inventing-fake-vulnerabilities-heres-the-proof-1hak)
-- [How Autocomplete Search Engines Work](https://dev.to/ziad_mohammed/how-autocomplete-search-engines-work-1noi)
-- [JSON design tokens are a massive frontend anti-pattern](https://dev.to/alexandersstudi/json-design-tokens-are-a-massive-frontend-anti-pattern-k65)
+- [Securing Server Events in FiveM Scripts: A Short Checklist](https://dev.to/xfivem_shop/securing-server-events-in-fivem-scripts-a-short-checklist-19jj)
+- [I’m Building a Small Civilization of AI Agents](https://dev.to/mwangi9903/im-building-a-small-civilization-of-ai-agents-5gja)
+- [Node.js Login Evidence — Beginner OTP 2FA Architecture with Email Fallback](https://dev.to/daltonreed1289/nodejs-login-evidence-beginner-otp-2fa-architecture-with-email-fallback-36jd)
+- [The Trace Ends Where The Message Starts](https://dev.to/anton_brilliantov/the-trace-ends-where-the-message-starts-1hb5)
+- [I Tried to Make My Own AI Agent Leak Its Secrets &lpar;and It Did&rpar;](https://dev.to/seek3r/i-tried-to-make-my-own-ai-agent-leak-its-secrets-and-it-did-e36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
