@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choosing an SSL certificate automation tool: acme.sh, Certimate, AWS ACM or a hosted service](https://dev.to/fizee/choosing-an-ssl-certificate-automation-tool-acmesh-certimate-aws-acm-or-a-hosted-service-4ca3)
-- [Dev News Digest: 7 Oct 2026, 11:00](https://dev.to/magnus_ferm_maffelu/dev-news-digest-7-oct-2026-1100-5d5b)
-- [Hardening a Contributor Verification VPS Without Breaking Production](https://dev.to/danielioni/hardening-a-contributor-verification-vps-without-breaking-production-gl9)
-- [Two new x402 APIs for AI agents: HTTP/2 SETTINGS frame probe + brand-impersonation risk synthesis &lpar;2026-10-07, cycle 106&rpar;](https://dev.to/hal_gobvan_16a285d49bda97/two-new-x402-apis-for-ai-agents-http2-settings-frame-probe-brand-impersonation-risk-synthesis-10io)
-- [Как построить LLM-роутер и проверить экономию без потери качества](https://dev.to/_862f933aa9477a9d2d/kak-postroit-llm-routier-i-provierit-ekonomiiu-biez-potieri-kachiestva-3ljm)
+- [Stripe payment links + AI outreach: the $0 stack](https://dev.to/sam_hiotis_117598dbfa3ac2/stripe-payment-links-ai-outreach-the-0-stack-2ock)
+- [I fixed a prefix check. The truth table says I changed two answers I didn&#39;t mean to.](https://dev.to/pm25coder/i-fixed-a-prefix-check-the-truth-table-says-i-changed-two-answers-i-didnt-mean-to-2oc1)
+- [SecFoo — I Caught Our Security Scanner Inventing Fake Vulnerabilities — Here&#39;s the Proof!](https://dev.to/amir09/secfoo-i-caught-our-security-scanner-inventing-fake-vulnerabilities-heres-the-proof-1hak)
+- [How Autocomplete Search Engines Work](https://dev.to/ziad_mohammed/how-autocomplete-search-engines-work-1noi)
+- [JSON design tokens are a massive frontend anti-pattern](https://dev.to/alexandersstudi/json-design-tokens-are-a-massive-frontend-anti-pattern-k65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
