@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Flattery Tax: I pressure-tested 29 LLMs with confident wrong users — the frontier held, the small ones folded](https://dev.to/suraj_srivastav/the-flattery-tax-i-pressure-tested-29-llms-with-confident-wrong-users-the-frontier-held-the-5382)
-- [Why Your TypeScript Code Still Crashes in Production: Validating Data at Runtime Boundaries with Zod](https://dev.to/eme_gug_0821b41b948be6516/why-your-typescript-code-still-crashes-in-production-validating-data-at-runtime-boundaries-with-zod-3fd0)
-- [Image Optimization and WebP Basics — Why WebP Is Smaller, and How Browsers Decide to Use It](https://dev.to/susumun/image-optimization-and-webp-basics-why-webp-is-smaller-and-how-browsers-decide-to-use-it-2mfe)
-- [Apache Zeppelin on the Internet: 25,617 Fingerprint Matches and a Notebook With Cluster Credentials](https://dev.to/kozhevniko/apache-zeppelin-on-the-internet-25617-fingerprint-matches-and-a-notebook-with-cluster-credentials-3c8i)
-- [How do co-founders share AI context without losing private stuff?](https://dev.to/richard_smith_154156d471ef/how-do-co-founders-share-ai-context-without-losing-private-stuff-27ho)
+- [Trie Data Structure: Efficient Prefix Matching and Autocomplete Implementation](https://dev.to/devanshu_patil/trie-data-structure-efficient-prefix-matching-and-autocomplete-implementation-2aa7)
+- [Node.js Security Best Practices: Build Safer and More Resilient APIs](https://dev.to/ansh_sheladiya/nodejs-security-best-practices-build-safer-and-more-resilient-apis-5eh1)
+- [Cloning a staging MongoDB and MySQL to your laptop without installing a single database client](https://dev.to/phuthuycoding/cloning-a-staging-mongodb-and-mysql-to-your-laptop-without-installing-a-single-database-client-12dm)
+- [I Analyzed 2,849 Crawler Requests. Here&#39;s What Search Bots Actually Do on New Sites.](https://dev.to/mou1z/i-analyzed-2849-crawler-requests-heres-what-search-bots-actually-do-on-new-sites-31i)
+- [Taming the Exchange API: Handling -4509 Errors and the F-065 Retry Mechanism in Quant Systems](https://dev.to/kestrelquant/taming-the-exchange-api-handling-4509-errors-and-the-f-065-retry-mechanism-in-quant-systems-1ahh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
