@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trie Data Structure: Efficient Prefix Matching and Autocomplete Implementation](https://dev.to/devanshu_patil/trie-data-structure-efficient-prefix-matching-and-autocomplete-implementation-2aa7)
-- [Node.js Security Best Practices: Build Safer and More Resilient APIs](https://dev.to/ansh_sheladiya/nodejs-security-best-practices-build-safer-and-more-resilient-apis-5eh1)
-- [Cloning a staging MongoDB and MySQL to your laptop without installing a single database client](https://dev.to/phuthuycoding/cloning-a-staging-mongodb-and-mysql-to-your-laptop-without-installing-a-single-database-client-12dm)
-- [I Analyzed 2,849 Crawler Requests. Here&#39;s What Search Bots Actually Do on New Sites.](https://dev.to/mou1z/i-analyzed-2849-crawler-requests-heres-what-search-bots-actually-do-on-new-sites-31i)
-- [Taming the Exchange API: Handling -4509 Errors and the F-065 Retry Mechanism in Quant Systems](https://dev.to/kestrelquant/taming-the-exchange-api-handling-4509-errors-and-the-f-065-retry-mechanism-in-quant-systems-1ahh)
+- [Choosing an SSL certificate automation tool: acme.sh, Certimate, AWS ACM or a hosted service](https://dev.to/fizee/choosing-an-ssl-certificate-automation-tool-acmesh-certimate-aws-acm-or-a-hosted-service-4ca3)
+- [Dev News Digest: 7 Oct 2026, 11:00](https://dev.to/magnus_ferm_maffelu/dev-news-digest-7-oct-2026-1100-5d5b)
+- [Hardening a Contributor Verification VPS Without Breaking Production](https://dev.to/danielioni/hardening-a-contributor-verification-vps-without-breaking-production-gl9)
+- [Two new x402 APIs for AI agents: HTTP/2 SETTINGS frame probe + brand-impersonation risk synthesis &lpar;2026-10-07, cycle 106&rpar;](https://dev.to/hal_gobvan_16a285d49bda97/two-new-x402-apis-for-ai-agents-http2-settings-frame-probe-brand-impersonation-risk-synthesis-10io)
+- [Как построить LLM-роутер и проверить экономию без потери качества](https://dev.to/_862f933aa9477a9d2d/kak-postroit-llm-routier-i-provierit-ekonomiiu-biez-potieri-kachiestva-3ljm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
