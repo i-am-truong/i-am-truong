@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built CouponLab with AI Help. The Coupon Codes Still Have to Survive Checkout.](https://dev.to/hawaiitech2018/i-built-couponlab-with-ai-help-the-coupon-codes-still-have-to-survive-checkout-em4)
-- [How to secure a Spring Security client application with OIDC &lpar;using pac4j&rpar;](https://dev.to/jleleu/how-to-secure-a-spring-security-client-application-with-oidc-using-pac4j-2one)
-- [Start and End Dates of the Longest Rising Period](https://dev.to/esproc_spl/start-and-end-dates-of-the-longest-rising-period-3m6j)
-- [I Asked AI a Question. Then It Told Me to Put My Phone Away.](https://dev.to/techgendm/i-asked-ai-a-question-then-it-told-me-to-put-my-phone-away-5d7h)
-- [From Prompt-and-Response to Agentic Workflows: Engineering an AI Content Platform for Telehealth](https://dev.to/omjariwala/from-prompt-and-response-to-agentic-workflows-engineering-an-ai-content-platform-for-telehealth-4gjk)
+- [The Invisible Work: Designing for Cognitive Load](https://dev.to/rverwey/the-invisible-work-designing-for-cognitive-load-1jp6)
+- [Easy Model v2.1.0: Less Eloquent Boilerplate, More Control](https://dev.to/mmramadan496/easy-model-v210-less-eloquent-boilerplate-more-control-4eg1)
+- [Patching Elementor Pro doesn&#39;t remove the webshell. Check before you close the ticket.](https://dev.to/secbyjasonmiller/patching-elementor-pro-doesnt-remove-the-webshell-check-before-you-close-the-ticket-4nc6)
+- [CanopyStride](https://dev.to/aarushi_kansal_d7a504dd72/canopystride-2m9a)
+- [Stelia open-sources async-ceph: async Rust bindings for Ceph](https://dev.to/steliadevs/stelia-open-sources-async-ceph-async-rust-bindings-for-ceph-56b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
