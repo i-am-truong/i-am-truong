@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing Server Events in FiveM Scripts: A Short Checklist](https://dev.to/xfivem_shop/securing-server-events-in-fivem-scripts-a-short-checklist-19jj)
-- [I’m Building a Small Civilization of AI Agents](https://dev.to/mwangi9903/im-building-a-small-civilization-of-ai-agents-5gja)
-- [Node.js Login Evidence — Beginner OTP 2FA Architecture with Email Fallback](https://dev.to/daltonreed1289/nodejs-login-evidence-beginner-otp-2fa-architecture-with-email-fallback-36jd)
-- [The Trace Ends Where The Message Starts](https://dev.to/anton_brilliantov/the-trace-ends-where-the-message-starts-1hb5)
-- [I Tried to Make My Own AI Agent Leak Its Secrets &lpar;and It Did&rpar;](https://dev.to/seek3r/i-tried-to-make-my-own-ai-agent-leak-its-secrets-and-it-did-e36)
+- [Claude Haiku 5.5 pricing jumps fivefold at 100,001 prompt tokens](https://dev.to/importstatic/claude-haiku-55-pricing-jumps-fivefold-at-100001-prompt-tokens-53ok)
+- [IP Reputation Scores Disagree. We Tested 8 IPs on 4 Free APIs](https://dev.to/mazijuacc/ip-reputation-scores-disagree-we-tested-8-ips-on-4-free-apis-40im)
+- [The Accountability Layer: When Your Agent Acts, Who Answers?](https://dev.to/goodpa/the-accountability-layer-when-your-agent-acts-who-answers-8i)
+- [I Gave My VS Code Extension to a Cybersecurity Model and It Found an Infinite Hang](https://dev.to/jtorchia/i-gave-my-vs-code-extension-to-a-cybersecurity-model-and-it-found-an-infinite-hang-5e03)
+- [Le di mi extensión de VS Code a un modelo de ciberseguridad y encontró un cuelgue infinito](https://dev.to/jtorchia/le-di-mi-extension-de-vs-code-a-un-modelo-de-ciberseguridad-y-encontro-un-cuelgue-infinito-2hfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
