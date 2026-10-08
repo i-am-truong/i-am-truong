@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Haiku 5.5 pricing jumps fivefold at 100,001 prompt tokens](https://dev.to/importstatic/claude-haiku-55-pricing-jumps-fivefold-at-100001-prompt-tokens-53ok)
-- [IP Reputation Scores Disagree. We Tested 8 IPs on 4 Free APIs](https://dev.to/mazijuacc/ip-reputation-scores-disagree-we-tested-8-ips-on-4-free-apis-40im)
-- [The Accountability Layer: When Your Agent Acts, Who Answers?](https://dev.to/goodpa/the-accountability-layer-when-your-agent-acts-who-answers-8i)
-- [I Gave My VS Code Extension to a Cybersecurity Model and It Found an Infinite Hang](https://dev.to/jtorchia/i-gave-my-vs-code-extension-to-a-cybersecurity-model-and-it-found-an-infinite-hang-5e03)
-- [Le di mi extensión de VS Code a un modelo de ciberseguridad y encontró un cuelgue infinito](https://dev.to/jtorchia/le-di-mi-extension-de-vs-code-a-un-modelo-de-ciberseguridad-y-encontro-un-cuelgue-infinito-2hfi)
+- [I Built CouponLab with AI Help. The Coupon Codes Still Have to Survive Checkout.](https://dev.to/hawaiitech2018/i-built-couponlab-with-ai-help-the-coupon-codes-still-have-to-survive-checkout-em4)
+- [How to secure a Spring Security client application with OIDC &lpar;using pac4j&rpar;](https://dev.to/jleleu/how-to-secure-a-spring-security-client-application-with-oidc-using-pac4j-2one)
+- [Start and End Dates of the Longest Rising Period](https://dev.to/esproc_spl/start-and-end-dates-of-the-longest-rising-period-3m6j)
+- [I Asked AI a Question. Then It Told Me to Put My Phone Away.](https://dev.to/techgendm/i-asked-ai-a-question-then-it-told-me-to-put-my-phone-away-5d7h)
+- [From Prompt-and-Response to Agentic Workflows: Engineering an AI Content Platform for Telehealth](https://dev.to/omjariwala/from-prompt-and-response-to-agentic-workflows-engineering-an-ai-content-platform-for-telehealth-4gjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
