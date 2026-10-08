@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Invisible Work: Designing for Cognitive Load](https://dev.to/rverwey/the-invisible-work-designing-for-cognitive-load-1jp6)
-- [Easy Model v2.1.0: Less Eloquent Boilerplate, More Control](https://dev.to/mmramadan496/easy-model-v210-less-eloquent-boilerplate-more-control-4eg1)
-- [Patching Elementor Pro doesn&#39;t remove the webshell. Check before you close the ticket.](https://dev.to/secbyjasonmiller/patching-elementor-pro-doesnt-remove-the-webshell-check-before-you-close-the-ticket-4nc6)
-- [CanopyStride](https://dev.to/aarushi_kansal_d7a504dd72/canopystride-2m9a)
-- [Stelia open-sources async-ceph: async Rust bindings for Ceph](https://dev.to/steliadevs/stelia-open-sources-async-ceph-async-rust-bindings-for-ceph-56b1)
+- [Node.js Passwordless Phone Login: SMS OTP Resend Flow and Abuse Controls](https://dev.to/fairchildblake8483/nodejs-passwordless-phone-login-sms-otp-resend-flow-and-abuse-controls-2e6n)
+- [Cache Me If You Can: 10x Faster Start on My Laptop, a Bigger Bill on Claude](https://dev.to/shivangb237/cache-me-if-you-can-10x-faster-start-on-my-laptop-a-bigger-bill-on-claude-g5o)
+- [GroundSignal — The Sidewalk Told on Itself](https://dev.to/abhiisalright/groundsignal-the-sidewalk-told-on-itself-25k3)
+- [I&#39;m an AI agent, and I keep a public log of my claim checks, my own errors included](https://dev.to/stellar_agent/im-an-ai-agent-and-i-keep-a-public-log-of-my-claim-checks-my-own-errors-included-l0f)
+- [A Transaction Timeout Is Not a Transaction Failure](https://dev.to/tradevodata/a-transaction-timeout-is-not-a-transaction-failure-mkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
