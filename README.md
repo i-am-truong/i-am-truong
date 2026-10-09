@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging ZORGAX: How We Traced an AI Agent Tool-Calling Loop from Open WebUI to Ollama](https://dev.to/danielioni/debugging-zorgax-how-we-traced-an-ai-agent-tool-calling-loop-from-open-webui-to-ollama-2mhp)
-- [I built 13 labelled OpenAPI breaking-change cases, and oasdiff missed 2 of them](https://dev.to/abhinavs1920/i-built-13-labelled-openapi-breaking-change-cases-and-oasdiff-missed-2-of-them-1jmp)
-- [Elasticsearch with Ruby on Rails](https://dev.to/a-talaat-aly/elasticsearch-with-ruby-on-rails-9fb)
-- [I built an Airtable connector for Cognee. The hard part was knowing what to delete.](https://dev.to/anamasgard/i-built-an-airtable-connector-for-cognee-the-hard-part-was-knowing-what-to-delete-5605)
-- [Stop Testing Your API With the Same Perfect Request](https://dev.to/jeff_pdc/stop-testing-your-api-with-the-same-perfect-request-54oi)
+- [Creation of dynamic property is deprecated: fixing the most common PHP 8.2 warning in WordPress](https://dev.to/themagnetnicheplab/creation-of-dynamic-property-is-deprecated-fixing-the-most-common-php-82-warning-in-wordpress-44ep)
+- [From One VM to a Whole Application: Planning VMware to OpenShift Migration Waves](https://dev.to/willeysingh/from-one-vm-to-a-whole-application-planning-vmware-to-openshift-migration-waves-171l)
+- [One Click, One Row](https://dev.to/devgo_5325/one-click-one-row-2f6c)
+- [Make a coin selection impossible to construct wrong](https://dev.to/polycratia/make-a-coin-selection-impossible-to-construct-wrong-3ecd)
+- [Ship the Fix Only If the Fixture Hash Holds](https://dev.to/applab_743/ship-the-fix-only-if-the-fixture-hash-holds-4e40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
