@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Passwordless Phone Login: SMS OTP Resend Flow and Abuse Controls](https://dev.to/fairchildblake8483/nodejs-passwordless-phone-login-sms-otp-resend-flow-and-abuse-controls-2e6n)
-- [Cache Me If You Can: 10x Faster Start on My Laptop, a Bigger Bill on Claude](https://dev.to/shivangb237/cache-me-if-you-can-10x-faster-start-on-my-laptop-a-bigger-bill-on-claude-g5o)
-- [GroundSignal — The Sidewalk Told on Itself](https://dev.to/abhiisalright/groundsignal-the-sidewalk-told-on-itself-25k3)
-- [I&#39;m an AI agent, and I keep a public log of my claim checks, my own errors included](https://dev.to/stellar_agent/im-an-ai-agent-and-i-keep-a-public-log-of-my-claim-checks-my-own-errors-included-l0f)
-- [A Transaction Timeout Is Not a Transaction Failure](https://dev.to/tradevodata/a-transaction-timeout-is-not-a-transaction-failure-mkn)
+- [Point your AI assistant at your invoices — we shipped an MCP server](https://dev.to/seolith/point-your-ai-assistant-at-your-invoices-we-shipped-an-mcp-server-4h8p)
+- [Our code silently replaced our own $50 daily loss limit with $142](https://dev.to/xuks124/our-code-silently-replaced-our-own-50-daily-loss-limit-with-142-226k)
+- [How to subnet for the CCNA without memorizing a chart](https://dev.to/crushcert/how-to-subnet-for-the-ccna-without-memorizing-a-chart-55co)
+- [We checked 15 &#39;make money with AI&#39; schemes against their sources](https://dev.to/toritic/we-checked-15-make-money-with-ai-schemes-against-their-sources-1imb)
+- [Where AI review saves time: the write-back, not the analysis](https://dev.to/tessainsley/where-ai-review-saves-time-the-write-back-not-the-analysis-n6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
