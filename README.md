@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creation of dynamic property is deprecated: fixing the most common PHP 8.2 warning in WordPress](https://dev.to/themagnetnicheplab/creation-of-dynamic-property-is-deprecated-fixing-the-most-common-php-82-warning-in-wordpress-44ep)
-- [From One VM to a Whole Application: Planning VMware to OpenShift Migration Waves](https://dev.to/willeysingh/from-one-vm-to-a-whole-application-planning-vmware-to-openshift-migration-waves-171l)
-- [One Click, One Row](https://dev.to/devgo_5325/one-click-one-row-2f6c)
-- [Make a coin selection impossible to construct wrong](https://dev.to/polycratia/make-a-coin-selection-impossible-to-construct-wrong-3ecd)
-- [Ship the Fix Only If the Fixture Hash Holds](https://dev.to/applab_743/ship-the-fix-only-if-the-fixture-hash-holds-4e40)
+- [Chatbots That Don&#39;t Guess: Grounding AI in Customer Service](https://dev.to/rickardcollander/chatbots-that-dont-guess-grounding-ai-in-customer-service-3345)
+- [I Let ChatGPT Work on My Mac. The Hard Part Was Saying No](https://dev.to/bulutarkan/i-let-chatgpt-work-on-my-mac-the-hard-part-was-saying-no-1126)
+- [TouchGrassAI : Turning Screen Time Into Outdoor Adventures With Local AI](https://dev.to/mrigakshi2507/touchgrassai-turning-screen-time-into-outdoor-adventures-with-local-ai-264p)
+- [TouchGrass AI: An Open-Source AI That Gets You Outside 🌿](https://dev.to/herewegoagain/touchgrass-ai-an-open-source-ai-that-gets-you-outside-220k)
+- [Explore ecommerce stores across the globe on a map](https://dev.to/rabeehta/explore-ecommerce-stores-across-the-globe-on-a-map-5h4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
