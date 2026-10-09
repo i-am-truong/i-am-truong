@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chatbots That Don&#39;t Guess: Grounding AI in Customer Service](https://dev.to/rickardcollander/chatbots-that-dont-guess-grounding-ai-in-customer-service-3345)
-- [I Let ChatGPT Work on My Mac. The Hard Part Was Saying No](https://dev.to/bulutarkan/i-let-chatgpt-work-on-my-mac-the-hard-part-was-saying-no-1126)
-- [TouchGrassAI : Turning Screen Time Into Outdoor Adventures With Local AI](https://dev.to/mrigakshi2507/touchgrassai-turning-screen-time-into-outdoor-adventures-with-local-ai-264p)
-- [TouchGrass AI: An Open-Source AI That Gets You Outside 🌿](https://dev.to/herewegoagain/touchgrass-ai-an-open-source-ai-that-gets-you-outside-220k)
-- [Explore ecommerce stores across the globe on a map](https://dev.to/rabeehta/explore-ecommerce-stores-across-the-globe-on-a-map-5h4m)
+- [The AI may know when it is guessing](https://dev.to/ayraix/the-ai-may-know-when-it-is-guessing-36b2)
+- [How to Schedule Remaining API Budget Headroom Metrics for Prepaid Credentials](https://dev.to/daltonreed1289/how-to-schedule-remaining-api-budget-headroom-metrics-for-prepaid-credentials-4flg)
+- [Engineering Real-Time Video Pronunciation Search: Subtitle Synchronization, Syllable Stress Parsing &amp; Phonetic Alignment](https://dev.to/sayitvid/engineering-real-time-video-pronunciation-search-subtitle-synchronization-syllable-stress-parsing-b03)
+- [Repost Rings: How Telegram Channels Launder Each Other&#39;s Reach &lpar;and a Graph Fix&rpar;](https://dev.to/yuhehe/repost-rings-how-telegram-channels-launder-each-others-reach-and-a-graph-fix-5077)
+- [[Boost]](https://dev.to/mohamed_khaled_2811/-48pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
