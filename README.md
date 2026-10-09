@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Point your AI assistant at your invoices — we shipped an MCP server](https://dev.to/seolith/point-your-ai-assistant-at-your-invoices-we-shipped-an-mcp-server-4h8p)
-- [Our code silently replaced our own $50 daily loss limit with $142](https://dev.to/xuks124/our-code-silently-replaced-our-own-50-daily-loss-limit-with-142-226k)
-- [How to subnet for the CCNA without memorizing a chart](https://dev.to/crushcert/how-to-subnet-for-the-ccna-without-memorizing-a-chart-55co)
-- [We checked 15 &#39;make money with AI&#39; schemes against their sources](https://dev.to/toritic/we-checked-15-make-money-with-ai-schemes-against-their-sources-1imb)
-- [Where AI review saves time: the write-back, not the analysis](https://dev.to/tessainsley/where-ai-review-saves-time-the-write-back-not-the-analysis-n6b)
+- [Debugging ZORGAX: How We Traced an AI Agent Tool-Calling Loop from Open WebUI to Ollama](https://dev.to/danielioni/debugging-zorgax-how-we-traced-an-ai-agent-tool-calling-loop-from-open-webui-to-ollama-2mhp)
+- [I built 13 labelled OpenAPI breaking-change cases, and oasdiff missed 2 of them](https://dev.to/abhinavs1920/i-built-13-labelled-openapi-breaking-change-cases-and-oasdiff-missed-2-of-them-1jmp)
+- [Elasticsearch with Ruby on Rails](https://dev.to/a-talaat-aly/elasticsearch-with-ruby-on-rails-9fb)
+- [I built an Airtable connector for Cognee. The hard part was knowing what to delete.](https://dev.to/anamasgard/i-built-an-airtable-connector-for-cognee-the-hard-part-was-knowing-what-to-delete-5605)
+- [Stop Testing Your API With the Same Perfect Request](https://dev.to/jeff_pdc/stop-testing-your-api-with-the-same-perfect-request-54oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
