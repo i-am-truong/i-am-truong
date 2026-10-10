@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI may know when it is guessing](https://dev.to/ayraix/the-ai-may-know-when-it-is-guessing-36b2)
-- [How to Schedule Remaining API Budget Headroom Metrics for Prepaid Credentials](https://dev.to/daltonreed1289/how-to-schedule-remaining-api-budget-headroom-metrics-for-prepaid-credentials-4flg)
-- [Engineering Real-Time Video Pronunciation Search: Subtitle Synchronization, Syllable Stress Parsing &amp; Phonetic Alignment](https://dev.to/sayitvid/engineering-real-time-video-pronunciation-search-subtitle-synchronization-syllable-stress-parsing-b03)
-- [Repost Rings: How Telegram Channels Launder Each Other&#39;s Reach &lpar;and a Graph Fix&rpar;](https://dev.to/yuhehe/repost-rings-how-telegram-channels-launder-each-others-reach-and-a-graph-fix-5077)
-- [[Boost]](https://dev.to/mohamed_khaled_2811/-48pb)
+- [How many jobs should a Node.js queue run at once?](https://dev.to/sandrosd/how-many-jobs-should-a-nodejs-queue-run-at-once-3467)
+- [Solo developer looking for honest feedback on my language learning app](https://dev.to/nishi_a2e111455c047ce58ac/solo-developer-looking-for-honest-feedback-on-my-language-learning-app-4mf5)
+- [From T-Shirt Sizes to Token Quotes?](https://dev.to/remojansen/from-t-shirt-sizes-to-token-quotes-3m0o)
+- [How to track new jobs from Greenhouse, Lever and Ashby &lpar;daily alerts, no HTML scraping&rpar;](https://dev.to/hapoldata/how-to-track-new-jobs-from-greenhouse-lever-and-ashby-daily-alerts-no-html-scraping-4pbp)
+- [How to find WooCommerce, Wix, Squarespace and BigCommerce stores in any niche](https://dev.to/hapoldata/how-to-find-woocommerce-wix-squarespace-and-bigcommerce-stores-in-any-niche-5834)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
