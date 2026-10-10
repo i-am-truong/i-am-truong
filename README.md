@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do You Miss Vine? I do. So I made a little app inspired by it.](https://dev.to/cieux1/do-you-miss-vine-i-do-so-i-made-a-little-app-inspired-by-it-4n1b)
-- [IP Risk That Expires: Trying IP99&#39;s Free No-Key Lookup API](https://dev.to/ip99/ip-risk-that-expires-trying-ip99s-free-no-key-lookup-api-57h3)
-- [Python Interview Questions Freshers Often Get Wrong &lpar;With Code&rpar;](https://dev.to/interview_pitch/python-interview-questions-freshers-often-get-wrong-with-code-5bn6)
-- [PlantGuard AI: Open-Source Plant Disease Detection That Gets You Outside to Touch Grass 🌿](https://dev.to/lalit_mohanoli_0e3de2c99/plantguard-ai-open-source-plant-disease-detection-that-gets-you-outside-to-touch-grass-4gl1)
-- [Learning vs speed: my two jobs as a backend engineer](https://dev.to/ravencode69/learning-vs-speed-my-two-jobs-as-a-backend-engineer-50mp)
+- [Touch Grass](https://dev.to/tarundhullur/touch-grass-e0h)
+- [How I Ran a Zero-Downtime Postgres Migration on a 180M-Row Table With Claude Code](https://dev.to/yureki_lab/how-i-ran-a-zero-downtime-postgres-migration-on-a-180m-row-table-with-claude-code-10k2)
+- [Sharing agent memory across machines without a server &lpar;or merge conflicts&rpar;](https://dev.to/sequico/sharing-agent-memory-across-machines-without-a-server-or-merge-conflicts-18gn)
+- [Telegram Desktop 7.2.9 corrige CVE-2026-107181 de robo de cuenta](https://dev.to/lu1tr0n/telegram-desktop-729-corrige-cve-2026-107181-de-robo-de-cuenta-1h3i)
+- [GrassLock Demo - Limit Screentime for programmers](https://dev.to/sasakiroo/grasslock-demo-limit-screentime-for-programmers-30pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
