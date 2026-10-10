@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How many jobs should a Node.js queue run at once?](https://dev.to/sandrosd/how-many-jobs-should-a-nodejs-queue-run-at-once-3467)
-- [Solo developer looking for honest feedback on my language learning app](https://dev.to/nishi_a2e111455c047ce58ac/solo-developer-looking-for-honest-feedback-on-my-language-learning-app-4mf5)
-- [From T-Shirt Sizes to Token Quotes?](https://dev.to/remojansen/from-t-shirt-sizes-to-token-quotes-3m0o)
-- [How to track new jobs from Greenhouse, Lever and Ashby &lpar;daily alerts, no HTML scraping&rpar;](https://dev.to/hapoldata/how-to-track-new-jobs-from-greenhouse-lever-and-ashby-daily-alerts-no-html-scraping-4pbp)
-- [How to find WooCommerce, Wix, Squarespace and BigCommerce stores in any niche](https://dev.to/hapoldata/how-to-find-woocommerce-wix-squarespace-and-bigcommerce-stores-in-any-niche-5834)
+- [Do You Miss Vine? I do. So I made a little app inspired by it.](https://dev.to/cieux1/do-you-miss-vine-i-do-so-i-made-a-little-app-inspired-by-it-4n1b)
+- [IP Risk That Expires: Trying IP99&#39;s Free No-Key Lookup API](https://dev.to/ip99/ip-risk-that-expires-trying-ip99s-free-no-key-lookup-api-57h3)
+- [Python Interview Questions Freshers Often Get Wrong &lpar;With Code&rpar;](https://dev.to/interview_pitch/python-interview-questions-freshers-often-get-wrong-with-code-5bn6)
+- [PlantGuard AI: Open-Source Plant Disease Detection That Gets You Outside to Touch Grass 🌿](https://dev.to/lalit_mohanoli_0e3de2c99/plantguard-ai-open-source-plant-disease-detection-that-gets-you-outside-to-touch-grass-4gl1)
+- [Learning vs speed: my two jobs as a backend engineer](https://dev.to/ravencode69/learning-vs-speed-my-two-jobs-as-a-backend-engineer-50mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
