@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Touch Grass](https://dev.to/tarundhullur/touch-grass-e0h)
-- [How I Ran a Zero-Downtime Postgres Migration on a 180M-Row Table With Claude Code](https://dev.to/yureki_lab/how-i-ran-a-zero-downtime-postgres-migration-on-a-180m-row-table-with-claude-code-10k2)
-- [Sharing agent memory across machines without a server &lpar;or merge conflicts&rpar;](https://dev.to/sequico/sharing-agent-memory-across-machines-without-a-server-or-merge-conflicts-18gn)
-- [Telegram Desktop 7.2.9 corrige CVE-2026-107181 de robo de cuenta](https://dev.to/lu1tr0n/telegram-desktop-729-corrige-cve-2026-107181-de-robo-de-cuenta-1h3i)
-- [GrassLock Demo - Limit Screentime for programmers](https://dev.to/sasakiroo/grasslock-demo-limit-screentime-for-programmers-30pf)
+- [When the Scratch Host Must Not Hold the Oracle](https://dev.to/aiio_6471/when-the-scratch-host-must-not-hold-the-oracle-big)
+- [Free-Tier Agent Runs Are Control Lanes](https://dev.to/apppro_5726/free-tier-agent-runs-are-control-lanes-5f95)
+- [Stamp a Scope Ribbon Before Practice Shifts](https://dev.to/techlab_7968/stamp-a-scope-ribbon-before-practice-shifts-2jec)
+- [Upgrading to Genetec Security Center 5.14: Runbook](https://dev.to/hansstudy/upgrading-to-genetec-security-center-514-runbook-b2d)
+- [aws-ecs-shell: stop rereading the ECS Exec docs before every intervention](https://dev.to/shagshag/aws-ecs-shell-stop-rereading-the-ecs-exec-docs-before-every-intervention-128e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
