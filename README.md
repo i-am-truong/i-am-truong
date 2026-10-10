@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When the Scratch Host Must Not Hold the Oracle](https://dev.to/aiio_6471/when-the-scratch-host-must-not-hold-the-oracle-big)
-- [Free-Tier Agent Runs Are Control Lanes](https://dev.to/apppro_5726/free-tier-agent-runs-are-control-lanes-5f95)
-- [Stamp a Scope Ribbon Before Practice Shifts](https://dev.to/techlab_7968/stamp-a-scope-ribbon-before-practice-shifts-2jec)
-- [Upgrading to Genetec Security Center 5.14: Runbook](https://dev.to/hansstudy/upgrading-to-genetec-security-center-514-runbook-b2d)
-- [aws-ecs-shell: stop rereading the ECS Exec docs before every intervention](https://dev.to/shagshag/aws-ecs-shell-stop-rereading-the-ecs-exec-docs-before-every-intervention-128e)
+- [Why We Built Veilus with Rust and Tauri](https://dev.to/veilus_browser/why-we-built-veilus-with-rust-and-tauri-5074)
+- [TrailScout AI: describe the feeling, then go outside](https://dev.to/ryanbudwal14/trailscout-ai-describe-the-feeling-then-go-outside-ik)
+- [Chhaya: A Shade-First Walking Map for Tropical Cities](https://dev.to/pritam_patra_429a25dedae6/chhaya-a-shade-first-walking-map-for-tropical-cities-22f0)
+- [Ariane 5, Flight 501: The Exception That Destroyed a Rocket](https://dev.to/vladut02/ariane-5-flight-501-the-exception-that-destroyed-a-rocket-48i6)
+- [Green Stop: a Mumbai commute reset that runs on a local open-weight model](https://dev.to/ujjwal_gupta_e4460bbf99d9/green-stop-a-mumbai-commute-reset-that-runs-on-a-local-open-weight-model-5ceb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
