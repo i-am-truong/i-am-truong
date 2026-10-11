@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing AI Agents on a Remote Devbox](https://dev.to/royberris/managing-ai-agents-on-a-remote-devbox-5ad6)
-- [Designing APIs for AI Agents: Schemas, Security and MCP](https://dev.to/royberris/designing-apis-for-ai-agents-schemas-security-and-mcp-59)
-- [I got tired of Selenium, so I made a browser you drive with HTTP requests](https://dev.to/nitiksh/i-got-tired-of-selenium-so-i-made-a-browser-you-drive-with-http-requests-5239)
-- [Why doubling makes a dynamic array O&lpar;1&rpar; &lpar;and the realloc bug almost everyone writes&rpar;](https://dev.to/abomokh_noor/why-doubling-makes-a-dynamic-array-o1-and-the-realloc-bug-almost-everyone-writes-2phg)
-- [Introducing Karkain: My Journey Building a General-Purpose Programming Language](https://dev.to/ajit_kumar_275421a645f0aa/introducing-karkain-my-journey-building-a-general-purpose-programming-language-50oc)
+- [Tu banco de pruebas E2E mide el códec, no el producto](https://dev.to/isazajuancarlos/tu-banco-de-pruebas-e2e-mide-el-codec-no-el-producto-bj6)
+- [The Ink Faded. The AI Kept Reading.](https://dev.to/akash_goyal/the-ink-faded-the-ai-kept-reading-1bh5)
+- [SunSeat: Touch Grass in 20 Minutes with Offline Gemma](https://dev.to/senthil_raja_r/sunseat-touch-grass-in-20-minutes-with-offline-gemma-39eh)
+- [Microsoft Decision-1 vs Every Decision Model on OpenRouter: 6th of 14](https://dev.to/akartit/microsoft-decision-1-vs-every-decision-model-on-openrouter-6th-of-14-42l1)
+- [Architectures I Haven’t Built Yet](https://dev.to/gustavothethird/architectures-i-havent-built-yet-437c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
