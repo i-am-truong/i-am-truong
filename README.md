@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tu banco de pruebas E2E mide el códec, no el producto](https://dev.to/isazajuancarlos/tu-banco-de-pruebas-e2e-mide-el-codec-no-el-producto-bj6)
-- [The Ink Faded. The AI Kept Reading.](https://dev.to/akash_goyal/the-ink-faded-the-ai-kept-reading-1bh5)
-- [SunSeat: Touch Grass in 20 Minutes with Offline Gemma](https://dev.to/senthil_raja_r/sunseat-touch-grass-in-20-minutes-with-offline-gemma-39eh)
-- [Microsoft Decision-1 vs Every Decision Model on OpenRouter: 6th of 14](https://dev.to/akartit/microsoft-decision-1-vs-every-decision-model-on-openrouter-6th-of-14-42l1)
-- [Architectures I Haven’t Built Yet](https://dev.to/gustavothethird/architectures-i-havent-built-yet-437c)
+- [Keep Lease Renewal Off the Free Host](https://dev.to/aiio_6471/keep-lease-renewal-off-the-free-host-4i2a)
+- [The Rules Decide, Gemma Explains: A Garden Planner That Sends You Outside](https://dev.to/tharunpandya/the-rules-decide-gemma-explains-a-garden-planner-that-sends-you-outside-16bf)
+- [# I Built a Local AI Pet That Yells at You to Go Outside — No Cloud, No API Keys](https://dev.to/codewithtanzeel/-i-built-a-local-ai-pet-that-yells-at-you-to-go-outside-no-cloud-no-api-keys-1oh8)
+- [A Cheap Run Needs a Fixed Holdout Pack](https://dev.to/apppro_5726/a-cheap-run-needs-a-fixed-holdout-pack-2jce)
+- [Schedule Reminder. Remember your plans and leave your screen to do it.](https://dev.to/toluwaloju0/schedule-reminder-remember-your-plans-and-leave-your-screen-to-do-it-8f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
