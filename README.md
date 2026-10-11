@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built Veilus with Rust and Tauri](https://dev.to/veilus_browser/why-we-built-veilus-with-rust-and-tauri-5074)
-- [TrailScout AI: describe the feeling, then go outside](https://dev.to/ryanbudwal14/trailscout-ai-describe-the-feeling-then-go-outside-ik)
-- [Chhaya: A Shade-First Walking Map for Tropical Cities](https://dev.to/pritam_patra_429a25dedae6/chhaya-a-shade-first-walking-map-for-tropical-cities-22f0)
-- [Ariane 5, Flight 501: The Exception That Destroyed a Rocket](https://dev.to/vladut02/ariane-5-flight-501-the-exception-that-destroyed-a-rocket-48i6)
-- [Green Stop: a Mumbai commute reset that runs on a local open-weight model](https://dev.to/ujjwal_gupta_e4460bbf99d9/green-stop-a-mumbai-commute-reset-that-runs-on-a-local-open-weight-model-5ceb)
+- [สั่ง AI agent บนเครื่องตัวเองจากมือถือ: Remote Control ของ Cursor พร้อมใช้จริงแค่ไหน?](https://dev.to/sarantoon/sang-ai-agent-bnekhruuengtawengcchaakmuuethuue-remote-control-khng-cursor-phrmaichcchringaekhaihn-59hb)
+- [Product Operations Is Becoming the AI Translation Layer — And Now the Company OS](https://dev.to/wajedhossain/product-operations-is-becoming-the-ai-translation-layer-and-now-the-company-os-40l7)
+- [Marketplace Event Notifications Demystified — Transactional Email, SMS, and API Ownership](https://dev.to/trippdonovan5461/marketplace-event-notifications-demystified-transactional-email-sms-and-api-ownership-5hn0)
+- [GDPR Application Log Retention for Deleting User Data After Silent Import Incidents](https://dev.to/nathanielbrooks0360/gdpr-application-log-retention-for-deleting-user-data-after-silent-import-incidents-49n6)
+- [Why Our CLI Deadlock Detector for Multi-Agent LLMs Timed Out: A Post-Mortem on Naive Jaccard Heuristics](https://dev.to/toai/why-our-cli-deadlock-detector-for-multi-agent-llms-timed-out-a-post-mortem-on-naive-jaccard-4caa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
