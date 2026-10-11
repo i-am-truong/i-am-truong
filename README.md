@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [สั่ง AI agent บนเครื่องตัวเองจากมือถือ: Remote Control ของ Cursor พร้อมใช้จริงแค่ไหน?](https://dev.to/sarantoon/sang-ai-agent-bnekhruuengtawengcchaakmuuethuue-remote-control-khng-cursor-phrmaichcchringaekhaihn-59hb)
-- [Product Operations Is Becoming the AI Translation Layer — And Now the Company OS](https://dev.to/wajedhossain/product-operations-is-becoming-the-ai-translation-layer-and-now-the-company-os-40l7)
-- [Marketplace Event Notifications Demystified — Transactional Email, SMS, and API Ownership](https://dev.to/trippdonovan5461/marketplace-event-notifications-demystified-transactional-email-sms-and-api-ownership-5hn0)
-- [GDPR Application Log Retention for Deleting User Data After Silent Import Incidents](https://dev.to/nathanielbrooks0360/gdpr-application-log-retention-for-deleting-user-data-after-silent-import-incidents-49n6)
-- [Why Our CLI Deadlock Detector for Multi-Agent LLMs Timed Out: A Post-Mortem on Naive Jaccard Heuristics](https://dev.to/toai/why-our-cli-deadlock-detector-for-multi-agent-llms-timed-out-a-post-mortem-on-naive-jaccard-4caa)
+- [TouchGrass AI: An Open-Source AI Mission Planner That Gets You Outside 🌿](https://dev.to/harshitha_hg_7e1a57e90d1/touchgrass-ai-an-open-source-ai-mission-planner-that-gets-you-outside-4doe)
+- [14 Free Browser Tools I Built with Vanilla JS — No Signup, No Uploads](https://dev.to/blanzatools/14-free-browser-tools-i-built-with-vanilla-js-no-signup-no-uploads-4cn7)
+- [[Boost]](https://dev.to/lakshya_mudgal_03a0ac4c9a/-1l9h)
+- [How Voice Cloning Is Changing Content Creation](https://dev.to/voice_developer/how-voice-cloning-is-changing-content-creation-1hdc)
+- [What should a quiet focus room have?](https://dev.to/the_4th_life/what-should-a-quiet-focus-room-have-51g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
