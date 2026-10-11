@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TouchGrass AI: An Open-Source AI Mission Planner That Gets You Outside 🌿](https://dev.to/harshitha_hg_7e1a57e90d1/touchgrass-ai-an-open-source-ai-mission-planner-that-gets-you-outside-4doe)
-- [14 Free Browser Tools I Built with Vanilla JS — No Signup, No Uploads](https://dev.to/blanzatools/14-free-browser-tools-i-built-with-vanilla-js-no-signup-no-uploads-4cn7)
-- [[Boost]](https://dev.to/lakshya_mudgal_03a0ac4c9a/-1l9h)
-- [How Voice Cloning Is Changing Content Creation](https://dev.to/voice_developer/how-voice-cloning-is-changing-content-creation-1hdc)
-- [What should a quiet focus room have?](https://dev.to/the_4th_life/what-should-a-quiet-focus-room-have-51g0)
+- [Managing AI Agents on a Remote Devbox](https://dev.to/royberris/managing-ai-agents-on-a-remote-devbox-5ad6)
+- [Designing APIs for AI Agents: Schemas, Security and MCP](https://dev.to/royberris/designing-apis-for-ai-agents-schemas-security-and-mcp-59)
+- [I got tired of Selenium, so I made a browser you drive with HTTP requests](https://dev.to/nitiksh/i-got-tired-of-selenium-so-i-made-a-browser-you-drive-with-http-requests-5239)
+- [Why doubling makes a dynamic array O&lpar;1&rpar; &lpar;and the realloc bug almost everyone writes&rpar;](https://dev.to/abomokh_noor/why-doubling-makes-a-dynamic-array-o1-and-the-realloc-bug-almost-everyone-writes-2phg)
+- [Introducing Karkain: My Journey Building a General-Purpose Programming Language](https://dev.to/ajit_kumar_275421a645f0aa/introducing-karkain-my-journey-building-a-general-purpose-programming-language-50oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
