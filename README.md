@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Excel download API with TBEG and Spring Boot &lpar;Kotlin/Java&rpar;](https://dev.to/jogakdal/building-an-excel-download-api-with-tbeg-and-spring-boot-kotlinjava-4ghh)
-- [Technisches SEO-Audit: Systematische Prüfung in 12 Bereichen](https://dev.to/stanislav_tonkich/technisches-seo-audit-systematische-prufung-in-12-bereichen-16b1)
-- [Editable catalogues and course finders are not checkout systems](https://dev.to/joonas_pekkarinen_ba0a2e2/editable-catalogues-and-course-finders-are-not-checkout-systems-1k26)
-- [USB Device Not Recognized on Windows? 9 Fixes That Actually Work](https://dev.to/fixsflowteam/usb-device-not-recognized-on-windows-9-fixes-that-actually-work-55gb)
-- [Context Encoders: Learning to Inpaint and What It Teaches a Network](https://dev.to/debugginavi/context-encoders-learning-to-inpaint-and-what-it-teaches-a-network-2peg)
+- [GDPR User Log Data: Retention Gates for Safer Cohort Rollbacks](https://dev.to/crimsonwave9361502/gdpr-user-log-data-retention-gates-for-safer-cohort-rollbacks-eh1)
+- [Google Trends in Python after pytrends - a setup that still works in 2026](https://dev.to/kevin_inter_63e9e81404f96/google-trends-in-python-after-pytrends-a-setup-that-still-works-in-2026-4ei1)
+- [AI coding agents read your .env all the time. Here&#39;s how I stop them from leaking it.](https://dev.to/yanivsp2909/ai-coding-agents-read-your-env-all-the-time-heres-how-i-stop-them-from-leaking-it-2ff9)
+- [Fine-Tuning vs RAG vs Prompt Engineering: When to Use Which](https://dev.to/ipsphil_digital/fine-tuning-vs-rag-vs-prompt-engineering-when-to-use-which-520f)
+- [Internal Linking: How to Make Every Page Count](https://dev.to/seosage/internal-linking-how-to-make-every-page-count-2b8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
