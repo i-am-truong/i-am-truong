@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Keep Lease Renewal Off the Free Host](https://dev.to/aiio_6471/keep-lease-renewal-off-the-free-host-4i2a)
-- [The Rules Decide, Gemma Explains: A Garden Planner That Sends You Outside](https://dev.to/tharunpandya/the-rules-decide-gemma-explains-a-garden-planner-that-sends-you-outside-16bf)
-- [# I Built a Local AI Pet That Yells at You to Go Outside — No Cloud, No API Keys](https://dev.to/codewithtanzeel/-i-built-a-local-ai-pet-that-yells-at-you-to-go-outside-no-cloud-no-api-keys-1oh8)
-- [A Cheap Run Needs a Fixed Holdout Pack](https://dev.to/apppro_5726/a-cheap-run-needs-a-fixed-holdout-pack-2jce)
-- [Schedule Reminder. Remember your plans and leave your screen to do it.](https://dev.to/toluwaloju0/schedule-reminder-remember-your-plans-and-leave-your-screen-to-do-it-8f8)
+- [Five red flags of crypto &quot;recovery&quot; scams](https://dev.to/sreyleak-security/five-red-flags-of-crypto-recovery-scams-1bo3)
+- [Security Audit Report: Reentrancy &amp; Access Control Review: Arbitrum Bridge](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-arbitrum-bridge-f2c)
+- [SnapHunt: Let AI Host the Game. Go Outside and Play.](https://dev.to/sergi_villagrasa/snaphunt-let-ai-host-the-game-go-outside-and-play-2chd)
+- [Make Claude Code run your tests after every edit with a PostToolUse hook](https://dev.to/vildandenai/make-claude-code-run-your-tests-after-every-edit-with-a-posttooluse-hook-jk3)
+- [LLM Capability Gaps, OpenAI Revenue Shocks, and AI Decompilation](https://dev.to/trillioniar_s_14a3c313e14/llm-capability-gaps-openai-revenue-shocks-and-ai-decompilation-2ib3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
