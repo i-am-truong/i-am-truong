@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Five red flags of crypto &quot;recovery&quot; scams](https://dev.to/sreyleak-security/five-red-flags-of-crypto-recovery-scams-1bo3)
-- [Security Audit Report: Reentrancy &amp; Access Control Review: Arbitrum Bridge](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-arbitrum-bridge-f2c)
-- [SnapHunt: Let AI Host the Game. Go Outside and Play.](https://dev.to/sergi_villagrasa/snaphunt-let-ai-host-the-game-go-outside-and-play-2chd)
-- [Make Claude Code run your tests after every edit with a PostToolUse hook](https://dev.to/vildandenai/make-claude-code-run-your-tests-after-every-edit-with-a-posttooluse-hook-jk3)
-- [LLM Capability Gaps, OpenAI Revenue Shocks, and AI Decompilation](https://dev.to/trillioniar_s_14a3c313e14/llm-capability-gaps-openai-revenue-shocks-and-ai-decompilation-2ib3)
+- [Building an Excel download API with TBEG and Spring Boot &lpar;Kotlin/Java&rpar;](https://dev.to/jogakdal/building-an-excel-download-api-with-tbeg-and-spring-boot-kotlinjava-4ghh)
+- [Technisches SEO-Audit: Systematische Prüfung in 12 Bereichen](https://dev.to/stanislav_tonkich/technisches-seo-audit-systematische-prufung-in-12-bereichen-16b1)
+- [Editable catalogues and course finders are not checkout systems](https://dev.to/joonas_pekkarinen_ba0a2e2/editable-catalogues-and-course-finders-are-not-checkout-systems-1k26)
+- [USB Device Not Recognized on Windows? 9 Fixes That Actually Work](https://dev.to/fixsflowteam/usb-device-not-recognized-on-windows-9-fixes-that-actually-work-55gb)
+- [Context Encoders: Learning to Inpaint and What It Teaches a Network](https://dev.to/debugginavi/context-encoders-learning-to-inpaint-and-what-it-teaches-a-network-2peg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
