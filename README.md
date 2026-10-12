@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GDPR User Log Data: Retention Gates for Safer Cohort Rollbacks](https://dev.to/crimsonwave9361502/gdpr-user-log-data-retention-gates-for-safer-cohort-rollbacks-eh1)
-- [Google Trends in Python after pytrends - a setup that still works in 2026](https://dev.to/kevin_inter_63e9e81404f96/google-trends-in-python-after-pytrends-a-setup-that-still-works-in-2026-4ei1)
-- [AI coding agents read your .env all the time. Here&#39;s how I stop them from leaking it.](https://dev.to/yanivsp2909/ai-coding-agents-read-your-env-all-the-time-heres-how-i-stop-them-from-leaking-it-2ff9)
-- [Fine-Tuning vs RAG vs Prompt Engineering: When to Use Which](https://dev.to/ipsphil_digital/fine-tuning-vs-rag-vs-prompt-engineering-when-to-use-which-520f)
-- [Internal Linking: How to Make Every Page Count](https://dev.to/seosage/internal-linking-how-to-make-every-page-count-2b8m)
+- [Architecting a Low-Power Geofencing Engine: Lessons from the Android Location API](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-the-android-location-api-3lop)
+- [Node.js Feature Flag Rollouts for Gaming SaaS &lpar;With Backend Guardrails&rpar;](https://dev.to/suttonhawkins6723/nodejs-feature-flag-rollouts-for-gaming-saas-with-backend-guardrails-5fa4)
+- [AI Writes More Code Now, But Code Reviews Are Still the Bottleneck](https://dev.to/richard_smith_154156d471ef/ai-writes-more-code-now-but-code-reviews-are-still-the-bottleneck-4o57)
+- [Your MCP server&#39;s tool descriptions are the product: a 40-line Node script to dump and review them](https://dev.to/renev3408/your-mcp-servers-tool-descriptions-are-the-product-a-40-line-node-script-to-dump-and-review-them-4ki2)
+- [Serverless Timeout Polling for Error Tracking API Failures in 2026](https://dev.to/jaxmonroe3187/serverless-timeout-polling-for-error-tracking-api-failures-in-2026-44kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
