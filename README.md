@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced function parameters in Python: defaults, *args, and **kwargs](https://dev.to/fj_palacios/advanced-function-parameters-in-python-defaults-args-and-kwargs-34nc)
-- [C++ Static Variables, Static Members Explained: One Class, Many Objects, One Shared Counter](https://dev.to/muhammad_hassanobaid_908/c-static-variables-static-members-explained-one-class-many-objects-one-shared-counter-11cm)
-- [TS + |&gt; to hack JS](https://dev.to/pengeszikra/ts-to-hack-js-48pl)
-- [My OpenAPI diff missed a renamed path because JSON Schema doesn&#39;t see strings](https://dev.to/imapphelp/my-openapi-diff-missed-a-renamed-path-because-json-schema-doesnt-see-strings-12i5)
-- [Contract notice period reminders: how to catch the window before an auto-renewal](https://dev.to/duaerteam/contract-notice-period-reminders-how-to-catch-the-window-before-an-auto-renewal-3eia)
+- [Real-Estate Listing Retrieval with Node.js: Tracing Citations Without Latency Surprises](https://dev.to/valdemarblack3817/real-estate-listing-retrieval-with-nodejs-tracing-citations-without-latency-surprises-43e6)
+- [When an input moves mid-run, vx keeps the result and skips the save](https://dev.to/vzn-vx/when-an-input-moves-mid-run-vx-keeps-the-result-and-skips-the-save-4bo2)
+- [I built a tool that answers &quot;what changed?&quot; when production breaks](https://dev.to/kishankr7979/i-built-a-tool-that-answers-what-changed-when-production-breaks-352k)
+- [HookSentry CLI: Production-Ready Self-Hosted Webhook Ingestion Proxy, Dead-Letter Queue &amp; Auto-Retry Engine](https://dev.to/alessio99xx/hooksentry-cli-production-ready-self-hosted-webhook-ingestion-proxy-dead-letter-queue--4lkn)
+- [MarkLogic discloses 31 flaws, five rated critical](https://dev.to/techaiwire/marklogic-discloses-31-flaws-five-rated-critical-4omg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
