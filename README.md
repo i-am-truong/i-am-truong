@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ProofPocket AI — Your Local-First Business Expense Detective](https://dev.to/jaysjain_/proofpocket-ai-your-local-first-business-expense-detective-298n)
-- [atlas.nvim - PR reviews and issues inside Neovim](https://dev.to/emre_armagan_a52113c8e7b0/atlasnvim-pr-reviews-and-issues-inside-neovim-5506)
-- [Subtitles Out of Sync? The 4 Causes and How to Fix Each One](https://dev.to/ray_mac/subtitles-out-of-sync-the-4-causes-and-how-to-fix-each-one-3fej)
-- [How Engineers Should Learn a New Technology in the AI Era](https://dev.to/aws-builders/how-engineers-should-learn-a-new-technology-in-the-ai-era-5dce)
-- [MenuMitra: Private AI Menu Translation for Neighborhood Restaurants](https://dev.to/periyasamya/menumitra-private-ai-menu-translation-for-neighborhood-restaurants-3h8b)
+- [Advanced function parameters in Python: defaults, *args, and **kwargs](https://dev.to/fj_palacios/advanced-function-parameters-in-python-defaults-args-and-kwargs-34nc)
+- [C++ Static Variables, Static Members Explained: One Class, Many Objects, One Shared Counter](https://dev.to/muhammad_hassanobaid_908/c-static-variables-static-members-explained-one-class-many-objects-one-shared-counter-11cm)
+- [TS + |&gt; to hack JS](https://dev.to/pengeszikra/ts-to-hack-js-48pl)
+- [My OpenAPI diff missed a renamed path because JSON Schema doesn&#39;t see strings](https://dev.to/imapphelp/my-openapi-diff-missed-a-renamed-path-because-json-schema-doesnt-see-strings-12i5)
+- [Contract notice period reminders: how to catch the window before an auto-renewal](https://dev.to/duaerteam/contract-notice-period-reminders-how-to-catch-the-window-before-an-auto-renewal-3eia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
