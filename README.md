@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-Estate Listing Retrieval with Node.js: Tracing Citations Without Latency Surprises](https://dev.to/valdemarblack3817/real-estate-listing-retrieval-with-nodejs-tracing-citations-without-latency-surprises-43e6)
-- [When an input moves mid-run, vx keeps the result and skips the save](https://dev.to/vzn-vx/when-an-input-moves-mid-run-vx-keeps-the-result-and-skips-the-save-4bo2)
-- [I built a tool that answers &quot;what changed?&quot; when production breaks](https://dev.to/kishankr7979/i-built-a-tool-that-answers-what-changed-when-production-breaks-352k)
-- [HookSentry CLI: Production-Ready Self-Hosted Webhook Ingestion Proxy, Dead-Letter Queue &amp; Auto-Retry Engine](https://dev.to/alessio99xx/hooksentry-cli-production-ready-self-hosted-webhook-ingestion-proxy-dead-letter-queue--4lkn)
-- [MarkLogic discloses 31 flaws, five rated critical](https://dev.to/techaiwire/marklogic-discloses-31-flaws-five-rated-critical-4omg)
+- [Day 17: a 10 USDC plumber list got paid, and the verification step is the actual product](https://dev.to/mrlu/day-17-a-10-usdc-plumber-list-got-paid-and-the-verification-step-is-the-actual-product-5eb4)
+- [Gemini 4 Argon Video Understanding and Canvas Audio Tools: What Is Documented](https://dev.to/alifar/gemini-4-argon-video-understanding-and-canvas-audio-tools-what-is-documented-1nck)
+- [Next.js 14: Server Components and the Future of React – Like Taking the Red Pill](https://dev.to/timevolt/nextjs-14-server-components-and-the-future-of-react-like-taking-the-red-pill-3100)
+- [⚠️ ARE YOU AWARE OF THE DANGER?](https://dev.to/pilder_of/are-you-aware-of-the-danger-4o54)
+- [Confere: Local Receipt Reading With a Paper Trail](https://dev.to/brunof94_debug/confere-local-receipt-reading-with-a-paper-trail-4gn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
