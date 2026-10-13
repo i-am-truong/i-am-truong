@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecting a Low-Power Geofencing Engine: Lessons from the Android Location API](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-the-android-location-api-3lop)
-- [Node.js Feature Flag Rollouts for Gaming SaaS &lpar;With Backend Guardrails&rpar;](https://dev.to/suttonhawkins6723/nodejs-feature-flag-rollouts-for-gaming-saas-with-backend-guardrails-5fa4)
-- [AI Writes More Code Now, But Code Reviews Are Still the Bottleneck](https://dev.to/richard_smith_154156d471ef/ai-writes-more-code-now-but-code-reviews-are-still-the-bottleneck-4o57)
-- [Your MCP server&#39;s tool descriptions are the product: a 40-line Node script to dump and review them](https://dev.to/renev3408/your-mcp-servers-tool-descriptions-are-the-product-a-40-line-node-script-to-dump-and-review-them-4ki2)
-- [Serverless Timeout Polling for Error Tracking API Failures in 2026](https://dev.to/jaxmonroe3187/serverless-timeout-polling-for-error-tracking-api-failures-in-2026-44kc)
+- [ProofPocket AI — Your Local-First Business Expense Detective](https://dev.to/jaysjain_/proofpocket-ai-your-local-first-business-expense-detective-298n)
+- [atlas.nvim - PR reviews and issues inside Neovim](https://dev.to/emre_armagan_a52113c8e7b0/atlasnvim-pr-reviews-and-issues-inside-neovim-5506)
+- [Subtitles Out of Sync? The 4 Causes and How to Fix Each One](https://dev.to/ray_mac/subtitles-out-of-sync-the-4-causes-and-how-to-fix-each-one-3fej)
+- [How Engineers Should Learn a New Technology in the AI Era](https://dev.to/aws-builders/how-engineers-should-learn-a-new-technology-in-the-ai-era-5dce)
+- [MenuMitra: Private AI Menu Translation for Neighborhood Restaurants](https://dev.to/periyasamya/menumitra-private-ai-menu-translation-for-neighborhood-restaurants-3h8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
