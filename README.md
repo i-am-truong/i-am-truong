@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Checking an empty-input defect with Spark-X2.5 and OpenCodeReview locally](https://dev.to/sparkllm/checking-an-empty-input-defect-with-spark-x25-and-opencodereview-locally-4984)
-- [Checking an empty-input defect with Spark-X2.5 and OpenCodeReview locally](https://dev.to/fenju_fu/checking-an-empty-input-defect-with-spark-x25-and-opencodereview-locally-4ej7)
-- [Enforcing ADRs with Deterministic Architecture Tests](https://dev.to/royberris/enforcing-adrs-with-deterministic-architecture-tests-10m2)
-- [Before I let an agent open PRs on strangers&#39; repos, I made it earn it](https://dev.to/vishalhabib99/before-i-let-an-agent-open-prs-on-strangers-repos-i-made-it-earn-it-27od)
-- [GitHub contribution graphs as pixel art: a small browser project](https://dev.to/manan_shah_4ce9b1ac2a4a6d/github-contribution-graphs-as-pixel-art-a-small-browser-project-5fe)
+- [Jackrabbit WebDAV Surfaces: 2,254 Body Matches Against 237 Titles](https://dev.to/onaeiuspkz/jackrabbit-webdav-surfaces-2254-body-matches-against-237-titles-ohn)
+- [Evaluating Browser Storage Handoffs: React PUTs, Express Signing, Private Object Reads](https://dev.to/lukasschmidt295/evaluating-browser-storage-handoffs-react-puts-express-signing-private-object-reads-2kjj)
+- [NEURA&#39;s Neuron AI: A Foundation Model That Lets Robots Feel, Hear, and Remember](https://dev.to/paullovelace/neuras-neuron-ai-a-foundation-model-that-lets-robots-feel-hear-and-remember-4f2k)
+- [WebDAV Mount vs Network Drive: The Latency Test No One Talks About](https://dev.to/scsoi/webdav-mount-vs-network-drive-the-latency-test-no-one-talks-about-3l5m)
+- [Trying to understand deception tech beyond honeypots](https://dev.to/okey_broh_8d47f2abaf12413/trying-to-understand-deception-tech-beyond-honeypots-1gp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
