@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why HTTPS Won’t Save Your Checkout Flow: Building Zero-Trust State Machines in Kotlin Multiplatform](https://dev.to/numq/why-https-wont-save-your-checkout-flow-building-zero-trust-state-machines-in-kotlin-multiplatform-3g5f)
-- [October Patch Tuesday fixes 1,413 CVEs, a record](https://dev.to/randomchaos/october-patch-tuesday-fixes-1413-cves-a-record-hkf)
-- [AADSTS53003 Blocked by Conditional Access: A Read-First Sign-In Log Triage](https://dev.to/adminpackstudio/aadsts53003-blocked-by-conditional-access-a-read-first-sign-in-log-triage-3fdg)
-- [Gemini Gems become skills in November and custom GPTs retire on December 11. What to copy out first.](https://dev.to/naw103/gemini-gems-become-skills-in-november-and-custom-gpts-retire-on-december-11-what-to-copy-out-first-3kf5)
-- [When Someone Asks for a Refund and You Have Under 30 Paying Customers](https://dev.to/posting-dude/when-someone-asks-for-a-refund-and-you-have-under-30-paying-customers-1ifl)
+- [Linking SQL DDL and GraphQL Schemas Directly to Code Entities in TokenCap](https://dev.to/vansharora21/linking-sql-ddl-and-graphql-schemas-directly-to-code-entities-in-tokencap-3pae)
+- [AI agents ran an X account for 4 days: 1,085,925 impressions, 60 new followers, $4.99](https://dev.to/mattbusel/ai-agents-ran-an-x-account-for-4-days-1085925-impressions-60-new-followers-499-57p7)
+- [Building EHR Integrations: 6 Things to Get Right Before Writing Code](https://dev.to/omjariwala/building-ehr-integrations-6-things-to-get-right-before-writing-code-3bbn)
+- [Do Less, Do Better: Why Quality Beats Quantity in the Pursuit of Excellence](https://dev.to/sumit0rn/do-less-do-better-why-quality-beats-quantity-in-the-pursuit-of-excellence-1165)
+- [I got tired of image compressors uploading my photos to a server, so I built one that doesn&#39;t](https://dev.to/peopleinthelab/i-got-tired-of-image-compressors-uploading-my-photos-to-a-server-so-i-built-one-that-doesnt-1h69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
