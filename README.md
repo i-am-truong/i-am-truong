@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linking SQL DDL and GraphQL Schemas Directly to Code Entities in TokenCap](https://dev.to/vansharora21/linking-sql-ddl-and-graphql-schemas-directly-to-code-entities-in-tokencap-3pae)
-- [AI agents ran an X account for 4 days: 1,085,925 impressions, 60 new followers, $4.99](https://dev.to/mattbusel/ai-agents-ran-an-x-account-for-4-days-1085925-impressions-60-new-followers-499-57p7)
-- [Building EHR Integrations: 6 Things to Get Right Before Writing Code](https://dev.to/omjariwala/building-ehr-integrations-6-things-to-get-right-before-writing-code-3bbn)
-- [Do Less, Do Better: Why Quality Beats Quantity in the Pursuit of Excellence](https://dev.to/sumit0rn/do-less-do-better-why-quality-beats-quantity-in-the-pursuit-of-excellence-1165)
-- [I got tired of image compressors uploading my photos to a server, so I built one that doesn&#39;t](https://dev.to/peopleinthelab/i-got-tired-of-image-compressors-uploading-my-photos-to-a-server-so-i-built-one-that-doesnt-1h69)
+- [Checking an empty-input defect with Spark-X2.5 and OpenCodeReview locally](https://dev.to/sparkllm/checking-an-empty-input-defect-with-spark-x25-and-opencodereview-locally-4984)
+- [Checking an empty-input defect with Spark-X2.5 and OpenCodeReview locally](https://dev.to/fenju_fu/checking-an-empty-input-defect-with-spark-x25-and-opencodereview-locally-4ej7)
+- [Enforcing ADRs with Deterministic Architecture Tests](https://dev.to/royberris/enforcing-adrs-with-deterministic-architecture-tests-10m2)
+- [Before I let an agent open PRs on strangers&#39; repos, I made it earn it](https://dev.to/vishalhabib99/before-i-let-an-agent-open-prs-on-strangers-repos-i-made-it-earn-it-27od)
+- [GitHub contribution graphs as pixel art: a small browser project](https://dev.to/manan_shah_4ce9b1ac2a4a6d/github-contribution-graphs-as-pixel-art-a-small-browser-project-5fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
