@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Distributed GPU Cluster for LLM Inference on Idle Apple Silicon Macs](https://dev.to/nughes/building-a-distributed-gpu-cluster-for-llm-inference-on-idle-apple-silicon-macs-45o0)
-- [Nobody told the person who needed to know](https://dev.to/octyn/nobody-told-the-person-who-needed-to-know-k2e)
-- [Multi-tenant SaaS with branch-level RBAC in Next.js + Node: a practical architecture](https://dev.to/mamareza/multi-tenant-saas-with-branch-level-rbac-in-nextjs-node-a-practical-architecture-56e0)
-- [Selling downloads across borders: a field guide for buyers who are never in your time zone](https://dev.to/filefreight/selling-downloads-across-borders-a-field-guide-for-buyers-who-are-never-in-your-time-zone-3nga)
-- [How to Discover New Websites That Are Quietly Exploding](https://dev.to/rainbowsea/how-to-discover-new-websites-that-are-quietly-exploding-470f)
+- [Why HTTPS Won’t Save Your Checkout Flow: Building Zero-Trust State Machines in Kotlin Multiplatform](https://dev.to/numq/why-https-wont-save-your-checkout-flow-building-zero-trust-state-machines-in-kotlin-multiplatform-3g5f)
+- [October Patch Tuesday fixes 1,413 CVEs, a record](https://dev.to/randomchaos/october-patch-tuesday-fixes-1413-cves-a-record-hkf)
+- [AADSTS53003 Blocked by Conditional Access: A Read-First Sign-In Log Triage](https://dev.to/adminpackstudio/aadsts53003-blocked-by-conditional-access-a-read-first-sign-in-log-triage-3fdg)
+- [Gemini Gems become skills in November and custom GPTs retire on December 11. What to copy out first.](https://dev.to/naw103/gemini-gems-become-skills-in-november-and-custom-gpts-retire-on-december-11-what-to-copy-out-first-3kf5)
+- [When Someone Asks for a Refund and You Have Under 30 Paying Customers](https://dev.to/posting-dude/when-someone-asks-for-a-refund-and-you-have-under-30-paying-customers-1ifl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
