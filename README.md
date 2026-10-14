@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: a 10 USDC plumber list got paid, and the verification step is the actual product](https://dev.to/mrlu/day-17-a-10-usdc-plumber-list-got-paid-and-the-verification-step-is-the-actual-product-5eb4)
-- [Gemini 4 Argon Video Understanding and Canvas Audio Tools: What Is Documented](https://dev.to/alifar/gemini-4-argon-video-understanding-and-canvas-audio-tools-what-is-documented-1nck)
-- [Next.js 14: Server Components and the Future of React – Like Taking the Red Pill](https://dev.to/timevolt/nextjs-14-server-components-and-the-future-of-react-like-taking-the-red-pill-3100)
-- [⚠️ ARE YOU AWARE OF THE DANGER?](https://dev.to/pilder_of/are-you-aware-of-the-danger-4o54)
-- [Confere: Local Receipt Reading With a Paper Trail](https://dev.to/brunof94_debug/confere-local-receipt-reading-with-a-paper-trail-4gn4)
+- [Building a Distributed GPU Cluster for LLM Inference on Idle Apple Silicon Macs](https://dev.to/nughes/building-a-distributed-gpu-cluster-for-llm-inference-on-idle-apple-silicon-macs-45o0)
+- [Nobody told the person who needed to know](https://dev.to/octyn/nobody-told-the-person-who-needed-to-know-k2e)
+- [Multi-tenant SaaS with branch-level RBAC in Next.js + Node: a practical architecture](https://dev.to/mamareza/multi-tenant-saas-with-branch-level-rbac-in-nextjs-node-a-practical-architecture-56e0)
+- [Selling downloads across borders: a field guide for buyers who are never in your time zone](https://dev.to/filefreight/selling-downloads-across-borders-a-field-guide-for-buyers-who-are-never-in-your-time-zone-3nga)
+- [How to Discover New Websites That Are Quietly Exploding](https://dev.to/rainbowsea/how-to-discover-new-websites-that-are-quietly-exploding-470f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
