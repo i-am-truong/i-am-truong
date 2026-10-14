@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jackrabbit WebDAV Surfaces: 2,254 Body Matches Against 237 Titles](https://dev.to/onaeiuspkz/jackrabbit-webdav-surfaces-2254-body-matches-against-237-titles-ohn)
-- [Evaluating Browser Storage Handoffs: React PUTs, Express Signing, Private Object Reads](https://dev.to/lukasschmidt295/evaluating-browser-storage-handoffs-react-puts-express-signing-private-object-reads-2kjj)
-- [NEURA&#39;s Neuron AI: A Foundation Model That Lets Robots Feel, Hear, and Remember](https://dev.to/paullovelace/neuras-neuron-ai-a-foundation-model-that-lets-robots-feel-hear-and-remember-4f2k)
-- [WebDAV Mount vs Network Drive: The Latency Test No One Talks About](https://dev.to/scsoi/webdav-mount-vs-network-drive-the-latency-test-no-one-talks-about-3l5m)
-- [Trying to understand deception tech beyond honeypots](https://dev.to/okey_broh_8d47f2abaf12413/trying-to-understand-deception-tech-beyond-honeypots-1gp8)
+- [How to Use Google Antigravity in Sanctioned or Restricted Regions &lpar;Fix HTTP 400, License #3501 &amp; Quota 429&rpar;](https://dev.to/dalroot/how-to-use-google-antigravity-in-sanctioned-or-restricted-regions-fix-http-400-license-3501--410i)
+- [Why we built Groundhog after hitting Dev Tunnels’ bandwidth limit](https://dev.to/jasonshave/why-we-built-groundhog-after-hitting-dev-tunnels-bandwidth-limit-407h)
+- [WebDAV on Windows: The 3-Layer Speed Test Nobody Talks About](https://dev.to/scsoi/webdav-on-windows-the-3-layer-speed-test-nobody-talks-about-4odf)
+- [REA Claims It Can &quot;Reverse-Engineer Anything&quot; — and Pulled 120K Stars in a Week. So I Handed It My Own App](https://dev.to/shanhan_dev/rea-claims-it-can-reverse-engineer-anything-and-pulled-120k-stars-in-a-week-so-i-handed-it-my-5bm2)
+- [How Small SaaS Teams Add Centralized Application Logs Without DevOps](https://dev.to/pantaleonshaw8478/how-small-saas-teams-add-centralized-application-logs-without-devops-4nii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
