@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chumsak: a local Gemma 4 grader for Korea&#39;s 2%-pass-rate engineering exam](https://dev.to/juwon0/chumsak-a-local-gemma-4-grader-for-koreas-2-pass-rate-engineering-exam-5amh)
-- [Nginx reverse proxy + HTTPS in 5 minutes &lpar;video + every command&rpar;](https://dev.to/ba796/nginx-reverse-proxy-https-in-5-minutes-video-every-command-46on)
-- [Building a Smart Task Management REST API with Node.js and Express](https://dev.to/yogi_sagumale_3a06d84467a/building-a-smart-task-management-rest-api-with-nodejs-and-express-1bhp)
-- [How TokenCap Turns Scattered TODO Comments into an Actionable Debt Ledger](https://dev.to/vansharora21/how-tokencap-turns-scattered-todo-comments-into-an-actionable-debt-ledger-5e93)
-- [48-Hour Field Notes: I Replayed a Generated Migration Twice and the Row Counts Moved](https://dev.to/codepy_1473/48-hour-field-notes-i-replayed-a-generated-migration-twice-and-the-row-counts-moved-gbg)
+- [Why your Puppeteer PDF shows empty boxes for Arabic, Chinese and Hindi &lpar;and how to fix it&rpar;](https://dev.to/getprintoza/why-your-puppeteer-pdf-shows-empty-boxes-for-arabic-chinese-and-hindi-and-how-to-fix-it-299n)
+- [AI Is Flooding curl with Low-Quality PRs — and the Maintainer Can&#39;t Keep Up](https://dev.to/bhkbdbhatt/ai-is-flooding-curl-with-low-quality-prs-and-the-maintainer-cant-keep-up-1gce)
+- [SQL Joins Explained with One Tiny Dataset &lpar;Plus 5 Interview Questions&rpar;](https://dev.to/realdev9868/sql-joins-explained-with-one-tiny-dataset-plus-5-interview-questions-4b27)
+- [How to Build a Grant-Matching AI Agent For Your Research Project](https://dev.to/valyuai/how-to-build-a-grant-matching-ai-agent-for-your-research-project-1oki)
+- [Selling 3D print files as downloads: the model that has to survive someone else&#39;s slicer](https://dev.to/filefreight/selling-3d-print-files-as-downloads-the-model-that-has-to-survive-someone-elses-slicer-4maf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
