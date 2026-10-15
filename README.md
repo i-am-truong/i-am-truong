@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Google Antigravity in Sanctioned or Restricted Regions &lpar;Fix HTTP 400, License #3501 &amp; Quota 429&rpar;](https://dev.to/dalroot/how-to-use-google-antigravity-in-sanctioned-or-restricted-regions-fix-http-400-license-3501--410i)
-- [Why we built Groundhog after hitting Dev Tunnels’ bandwidth limit](https://dev.to/jasonshave/why-we-built-groundhog-after-hitting-dev-tunnels-bandwidth-limit-407h)
-- [WebDAV on Windows: The 3-Layer Speed Test Nobody Talks About](https://dev.to/scsoi/webdav-on-windows-the-3-layer-speed-test-nobody-talks-about-4odf)
-- [REA Claims It Can &quot;Reverse-Engineer Anything&quot; — and Pulled 120K Stars in a Week. So I Handed It My Own App](https://dev.to/shanhan_dev/rea-claims-it-can-reverse-engineer-anything-and-pulled-120k-stars-in-a-week-so-i-handed-it-my-5bm2)
-- [How Small SaaS Teams Add Centralized Application Logs Without DevOps](https://dev.to/pantaleonshaw8478/how-small-saas-teams-add-centralized-application-logs-without-devops-4nii)
+- [Choose Searchable Error Tracking API Exception Events with a 3-Ledger Cost Test](https://dev.to/mitchellcross2134/choose-searchable-error-tracking-api-exception-events-with-a-3-ledger-cost-test-47j2)
+- [31.6% of security advisories for self-hosted AI tools never reach the database your scanner reads](https://dev.to/munimv2/316-of-security-advisories-for-self-hosted-ai-tools-never-reach-the-database-your-scanner-reads-4cfh)
+- [Your TypeScript types disappear at runtime: validating data at the edges of a Nuxt app](https://dev.to/damiano_builds/your-typescript-types-disappear-at-runtime-validating-data-at-the-edges-of-a-nuxt-app-mn6)
+- [Let the model explain, let the code count: a local LLM helper for Swiss administrative letters](https://dev.to/damiano_builds/let-the-model-explain-let-the-code-count-a-local-llm-helper-for-swiss-administrative-letters-54je)
+- [AngusRepo cache architecture, in practice](https://dev.to/wenping/angusrepo-cache-architecture-in-practice-2ila)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
