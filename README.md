@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why your Puppeteer PDF shows empty boxes for Arabic, Chinese and Hindi &lpar;and how to fix it&rpar;](https://dev.to/getprintoza/why-your-puppeteer-pdf-shows-empty-boxes-for-arabic-chinese-and-hindi-and-how-to-fix-it-299n)
-- [AI Is Flooding curl with Low-Quality PRs — and the Maintainer Can&#39;t Keep Up](https://dev.to/bhkbdbhatt/ai-is-flooding-curl-with-low-quality-prs-and-the-maintainer-cant-keep-up-1gce)
-- [SQL Joins Explained with One Tiny Dataset &lpar;Plus 5 Interview Questions&rpar;](https://dev.to/realdev9868/sql-joins-explained-with-one-tiny-dataset-plus-5-interview-questions-4b27)
-- [How to Build a Grant-Matching AI Agent For Your Research Project](https://dev.to/valyuai/how-to-build-a-grant-matching-ai-agent-for-your-research-project-1oki)
-- [Selling 3D print files as downloads: the model that has to survive someone else&#39;s slicer](https://dev.to/filefreight/selling-3d-print-files-as-downloads-the-model-that-has-to-survive-someone-elses-slicer-4maf)
+- [Your CLAUDE.md Is Eating Your Context. Keep Agent Memory Under a Token Budget](https://dev.to/gabrielanhaia/your-claudemd-is-eating-your-context-keep-agent-memory-under-a-token-budget-lll)
+- [The Unnecessary Evil: How I Stopped Opening Visual Studio for .NET Framework 4.8](https://dev.to/hfloresgu/the-unnecessary-evil-how-i-stopped-opening-visual-studio-for-net-framework-48-2jnk)
+- [Laravel Scout in Your Domain Is a Leak: Put Search Behind a Port](https://dev.to/gabrielanhaia/laravel-scout-in-your-domain-is-a-leak-put-search-behind-a-port-1fn6)
+- [How an AI agent for AccuLynx works](https://dev.to/cortexai/how-an-ai-agent-for-acculynx-works-4hh4)
+- [DeepSeek Suspended My Account Three Times. My Archive Didn&#39;t Care.](https://dev.to/qaevelyn/deepseek-suspended-my-account-three-times-my-archive-didnt-care-548i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
