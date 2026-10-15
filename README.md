@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Strong Networks Create Stronger Businesses and Careers](https://dev.to/pankaj_rajput_04ea5c7603f/how-strong-networks-create-stronger-businesses-and-careers-2cnc)
-- [Proposed Shared Hosting for Node.js: Co-locating App, Database, and Files with Idle App Suspension for Resource Efficiency](https://dev.to/pavkode/proposed-shared-hosting-for-nodejs-co-locating-app-database-and-files-with-idle-app-suspension-2bjg)
-- [Entra Connect Sync Errors Detected: A Read-First Duplicate Attribute, Soft Match, and 8344 Permission Triage](https://dev.to/adminpackstudio/entra-connect-sync-errors-detected-a-read-first-duplicate-attribute-soft-match-and-8344-5036)
-- [Flash Loan Attack Vector Analysis: Grove Finance](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-grove-finance-3ndl)
-- [SideHustle Studio: Create Better Product Listings with Local Open-Weight AI ✨](https://dev.to/devansh_gupta_5311a386a11/sidehustle-studio-create-better-product-listings-with-local-open-weight-ai-57h3)
+- [Chumsak: a local Gemma 4 grader for Korea&#39;s 2%-pass-rate engineering exam](https://dev.to/juwon0/chumsak-a-local-gemma-4-grader-for-koreas-2-pass-rate-engineering-exam-5amh)
+- [Nginx reverse proxy + HTTPS in 5 minutes &lpar;video + every command&rpar;](https://dev.to/ba796/nginx-reverse-proxy-https-in-5-minutes-video-every-command-46on)
+- [Building a Smart Task Management REST API with Node.js and Express](https://dev.to/yogi_sagumale_3a06d84467a/building-a-smart-task-management-rest-api-with-nodejs-and-express-1bhp)
+- [How TokenCap Turns Scattered TODO Comments into an Actionable Debt Ledger](https://dev.to/vansharora21/how-tokencap-turns-scattered-todo-comments-into-an-actionable-debt-ledger-5e93)
+- [48-Hour Field Notes: I Replayed a Generated Migration Twice and the Row Counts Moved](https://dev.to/codepy_1473/48-hour-field-notes-i-replayed-a-generated-migration-twice-and-the-row-counts-moved-gbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
