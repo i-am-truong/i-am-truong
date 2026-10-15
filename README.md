@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choose Searchable Error Tracking API Exception Events with a 3-Ledger Cost Test](https://dev.to/mitchellcross2134/choose-searchable-error-tracking-api-exception-events-with-a-3-ledger-cost-test-47j2)
-- [31.6% of security advisories for self-hosted AI tools never reach the database your scanner reads](https://dev.to/munimv2/316-of-security-advisories-for-self-hosted-ai-tools-never-reach-the-database-your-scanner-reads-4cfh)
-- [Your TypeScript types disappear at runtime: validating data at the edges of a Nuxt app](https://dev.to/damiano_builds/your-typescript-types-disappear-at-runtime-validating-data-at-the-edges-of-a-nuxt-app-mn6)
-- [Let the model explain, let the code count: a local LLM helper for Swiss administrative letters](https://dev.to/damiano_builds/let-the-model-explain-let-the-code-count-a-local-llm-helper-for-swiss-administrative-letters-54je)
-- [AngusRepo cache architecture, in practice](https://dev.to/wenping/angusrepo-cache-architecture-in-practice-2ila)
+- [How Strong Networks Create Stronger Businesses and Careers](https://dev.to/pankaj_rajput_04ea5c7603f/how-strong-networks-create-stronger-businesses-and-careers-2cnc)
+- [Proposed Shared Hosting for Node.js: Co-locating App, Database, and Files with Idle App Suspension for Resource Efficiency](https://dev.to/pavkode/proposed-shared-hosting-for-nodejs-co-locating-app-database-and-files-with-idle-app-suspension-2bjg)
+- [Entra Connect Sync Errors Detected: A Read-First Duplicate Attribute, Soft Match, and 8344 Permission Triage](https://dev.to/adminpackstudio/entra-connect-sync-errors-detected-a-read-first-duplicate-attribute-soft-match-and-8344-5036)
+- [Flash Loan Attack Vector Analysis: Grove Finance](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-grove-finance-3ndl)
+- [SideHustle Studio: Create Better Product Listings with Local Open-Weight AI ✨](https://dev.to/devansh_gupta_5311a386a11/sidehustle-studio-create-better-product-listings-with-local-open-weight-ai-57h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
