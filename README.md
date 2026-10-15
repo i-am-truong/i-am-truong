@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your CLAUDE.md Is Eating Your Context. Keep Agent Memory Under a Token Budget](https://dev.to/gabrielanhaia/your-claudemd-is-eating-your-context-keep-agent-memory-under-a-token-budget-lll)
-- [The Unnecessary Evil: How I Stopped Opening Visual Studio for .NET Framework 4.8](https://dev.to/hfloresgu/the-unnecessary-evil-how-i-stopped-opening-visual-studio-for-net-framework-48-2jnk)
-- [Laravel Scout in Your Domain Is a Leak: Put Search Behind a Port](https://dev.to/gabrielanhaia/laravel-scout-in-your-domain-is-a-leak-put-search-behind-a-port-1fn6)
-- [How an AI agent for AccuLynx works](https://dev.to/cortexai/how-an-ai-agent-for-acculynx-works-4hh4)
-- [DeepSeek Suspended My Account Three Times. My Archive Didn&#39;t Care.](https://dev.to/qaevelyn/deepseek-suspended-my-account-three-times-my-archive-didnt-care-548i)
+- [Best AI Note-Taking Tools Compared &lpar;2026&rpar;](https://dev.to/the_movie_9b1357e8c99cfaa/best-ai-note-taking-tools-compared-2026-5db2)
+- [Gas Optimization Audit: Bitkub](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-bitkub-2c7o)
+- [AI Docstring Generators Compared: Which One Actually Works?](https://dev.to/the_movie_9b1357e8c99cfaa/ai-docstring-generators-compared-which-one-actually-works-2fp1)
+- [How AI Coding Agents Cheat on Your Unit Tests &lpar;and How We Catch Them with Zero Telemetry&rpar;](https://dev.to/nari_ab/how-ai-coding-agents-cheat-on-your-unit-tests-and-how-we-catch-them-with-zero-telemetry-4465)
+- [Why You Can’t Focus at Work Anymore &lpar;The 4-Step Neuro-Pacing Protocol&rpar;](https://dev.to/thedeepworkhub/why-you-cant-focus-at-work-anymore-the-4-step-neuro-pacing-protocol-12o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
