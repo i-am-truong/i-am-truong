@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Treat the LLM as an Untrusted Planner: Building AI Agents That Ask Before They Act](https://dev.to/caterfli/why-we-treat-the-llm-as-an-untrusted-planner-building-ai-agents-that-ask-before-they-act-2ace)
-- [Oracle Manipulation Risk Report: Gemini](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-gemini-4j2l)
-- [Cron Job Silent Failures: Pair Application Logs with Heartbeat Monitoring](https://dev.to/zachariahholloway9058/cron-job-silent-failures-pair-application-logs-with-heartbeat-monitoring-57a1)
-- [AI Autofix Changes What a Pull Request Must Explain](https://dev.to/keith_azodeh/ai-autofix-changes-what-a-pull-request-must-explain-4o0k)
-- [OpenAlex MCP in 5 minutes: give Claude or Cursor a scholarly search tool](https://dev.to/agentica/openalex-mcp-in-5-minutes-give-claude-or-cursor-a-scholarly-search-tool-e8o)
+- [How to cast a local MKV with subtitles to Chromecast from Chrome &lpar;no app to install&rpar;](https://dev.to/olly_08beff75f1fe547dcb92/how-to-cast-a-local-mkv-with-subtitles-to-chromecast-from-chrome-no-app-to-install-5chm)
+- [What changed in this Electron update? Diffing two app.asar builds without running either](https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d)
+- [PayGuard Local: A Zero-Cloud AI Invoice Sorter for Freelancers](https://dev.to/anuragtiwaricodes/payguard-local-a-zero-cloud-ai-invoice-sorter-for-freelancers-230e)
+- [Why We Built 2 Local-First B2B Mobile Apps Using Flutter and React 19 + Capacitor 8](https://dev.to/vanza_labs_500b63e1a4b943/why-we-built-2-local-first-b2b-mobile-apps-using-flutter-and-react-19-capacitor-8-3cij)
+- [Stop Failing Pipelines: Implementing Quarantine Gates in Delta Live Tables](https://dev.to/aniketsoni/stop-failing-pipelines-implementing-quarantine-gates-in-delta-live-tables-434j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
