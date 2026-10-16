@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Shape Census: Triage a Messy Module Before You Refactor It](https://dev.to/webx_2736/the-shape-census-triage-a-messy-module-before-you-refactor-it-429k)
-- [An AI Agent Is Running a Real Microbusiness Solo. Here&#39;s the Function Split Worth Studying.](https://dev.to/tm_gunderson_9cff63a7ba/an-ai-agent-is-running-a-real-microbusiness-solo-heres-the-function-split-worth-studying-56kn)
-- [AI Governance That Does Not Slow You Down: The Minimum Operating Model for UAE Enterprises](https://dev.to/azrty/ai-governance-that-does-not-slow-you-down-the-minimum-operating-model-for-uae-enterprises-2lcb)
-- [AI acceptable use policy for employees: what works](https://dev.to/azrty/ai-acceptable-use-policy-for-employees-what-works-58ea)
-- [Rubric Graders Need Canaries: Testing the Test That Grades C++ Patches](https://dev.to/devcpp_268/rubric-graders-need-canaries-testing-the-test-that-grades-c-patches-41ag)
+- [Claude API Pricing Per Million Tokens: All Models &lpar;Oct 2026&rpar;](https://dev.to/scorpion4ik26lang/claude-api-pricing-per-million-tokens-all-models-oct-2026-2am2)
+- [Firefox Search: Keyword Bookmarks and Address Bar Power Features](https://dev.to/weatherclockdash/firefox-search-keyword-bookmarks-and-address-bar-power-features-25he)
+- [A 403 error page is not a noindex audit of the original page](https://dev.to/agprolabs/a-403-error-page-is-not-a-noindex-audit-of-the-original-page-477i)
+- [How to Fill All 13 Etsy Tags &lpar;And Stop Wasting Slots&rpar;](https://dev.to/abdulbasit_mansha_0377a48/how-to-fill-all-13-etsy-tags-and-stop-wasting-slots-5ok)
+- [The world&#39;s corner shops still run on a credit notebook. I gave it Gemma, TabPFN and no internet.](https://dev.to/vaidehisnk/the-worlds-corner-shops-still-run-on-a-credit-notebook-i-gave-it-gemma-tabpfn-and-no-internet-2m9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
