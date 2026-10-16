@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Note-Taking Tools Compared &lpar;2026&rpar;](https://dev.to/the_movie_9b1357e8c99cfaa/best-ai-note-taking-tools-compared-2026-5db2)
-- [Gas Optimization Audit: Bitkub](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-bitkub-2c7o)
-- [AI Docstring Generators Compared: Which One Actually Works?](https://dev.to/the_movie_9b1357e8c99cfaa/ai-docstring-generators-compared-which-one-actually-works-2fp1)
-- [How AI Coding Agents Cheat on Your Unit Tests &lpar;and How We Catch Them with Zero Telemetry&rpar;](https://dev.to/nari_ab/how-ai-coding-agents-cheat-on-your-unit-tests-and-how-we-catch-them-with-zero-telemetry-4465)
-- [Why You Can’t Focus at Work Anymore &lpar;The 4-Step Neuro-Pacing Protocol&rpar;](https://dev.to/thedeepworkhub/why-you-cant-focus-at-work-anymore-the-4-step-neuro-pacing-protocol-12o5)
+- [Plan, Prioritize, and Manage IT Support and Maintenance Activities](https://dev.to/said_olano/plan-prioritize-and-manage-it-support-and-maintenance-activities-o3c)
+- [Replacing One Reporting Endpoint: What to Compare Before Switching Traffic](https://dev.to/acadify_fef2ecf72cca30a3d/replacing-one-reporting-endpoint-what-to-compare-before-switching-traffic-396)
+- [LanceDB Review: Promising Object-Storage Vector Search, Production Benchmarks Still Unverified](https://dev.to/jangwook_kim_e31e7291ad98/lancedb-review-promising-object-storage-vector-search-production-benchmarks-still-unverified-n0m)
+- [A local AI that types up a Brazilian accountant&#39;s receipts &lpar;and knows when it&#39;s wrong&rpar;](https://dev.to/mathfe/a-local-ai-that-types-up-a-brazilian-accountants-receipts-and-knows-when-its-wrong-5gbi)
+- [Evaluation Sets Demystified: Governance for E-commerce Product Search Retrieval](https://dev.to/fitzgeraldblake3561/evaluation-sets-demystified-governance-for-e-commerce-product-search-retrieval-1mce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
