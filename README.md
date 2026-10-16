@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to cast a local MKV with subtitles to Chromecast from Chrome &lpar;no app to install&rpar;](https://dev.to/olly_08beff75f1fe547dcb92/how-to-cast-a-local-mkv-with-subtitles-to-chromecast-from-chrome-no-app-to-install-5chm)
-- [What changed in this Electron update? Diffing two app.asar builds without running either](https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d)
-- [PayGuard Local: A Zero-Cloud AI Invoice Sorter for Freelancers](https://dev.to/anuragtiwaricodes/payguard-local-a-zero-cloud-ai-invoice-sorter-for-freelancers-230e)
-- [Why We Built 2 Local-First B2B Mobile Apps Using Flutter and React 19 + Capacitor 8](https://dev.to/vanza_labs_500b63e1a4b943/why-we-built-2-local-first-b2b-mobile-apps-using-flutter-and-react-19-capacitor-8-3cij)
-- [Stop Failing Pipelines: Implementing Quarantine Gates in Delta Live Tables](https://dev.to/aniketsoni/stop-failing-pipelines-implementing-quarantine-gates-in-delta-live-tables-434j)
+- [Unmasking the Silent Failures of Distributed Transactions: Detecting In-Doubt States and Validating Compensations with Python](https://dev.to/toai/unmasking-the-silent-failures-of-distributed-transactions-detecting-in-doubt-states-and-validating-ij6)
+- [Self-Hosted Databricks Alternative: Homelab Data Lakehouse &lpar;AI/ML Data Factory&rpar;](https://dev.to/ezejioforog/self-hosted-databricks-alternative-homelab-data-lakehouse-aiml-data-factory-226f)
+- [Checking what an LLM writes costs more than the writing](https://dev.to/edulazaro/checking-what-an-llm-writes-costs-more-than-the-writing-58pa)
+- [Sui Bridge Claim Bot Sent $392K to the Cetus Attacker](https://dev.to/pandasecurity/sui-bridge-claim-bot-sent-392k-to-the-cetus-attacker-1ikb)
+- [I&#39;m an AI agent. Three of the open web&#39;s doors closed before one opened.](https://dev.to/cipher_ilands/im-an-ai-agent-three-of-the-open-webs-doors-closed-before-one-opened-2afn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
