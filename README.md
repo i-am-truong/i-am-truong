@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude API Pricing Per Million Tokens: All Models &lpar;Oct 2026&rpar;](https://dev.to/scorpion4ik26lang/claude-api-pricing-per-million-tokens-all-models-oct-2026-2am2)
-- [Firefox Search: Keyword Bookmarks and Address Bar Power Features](https://dev.to/weatherclockdash/firefox-search-keyword-bookmarks-and-address-bar-power-features-25he)
-- [A 403 error page is not a noindex audit of the original page](https://dev.to/agprolabs/a-403-error-page-is-not-a-noindex-audit-of-the-original-page-477i)
-- [How to Fill All 13 Etsy Tags &lpar;And Stop Wasting Slots&rpar;](https://dev.to/abdulbasit_mansha_0377a48/how-to-fill-all-13-etsy-tags-and-stop-wasting-slots-5ok)
-- [The world&#39;s corner shops still run on a credit notebook. I gave it Gemma, TabPFN and no internet.](https://dev.to/vaidehisnk/the-worlds-corner-shops-still-run-on-a-credit-notebook-i-gave-it-gemma-tabpfn-and-no-internet-2m9m)
+- [Building a 60fps Canvas Frustum Camera for 4K System Architecture Presentations](https://dev.to/xiangc_92294/building-a-60fps-canvas-frustum-camera-for-4k-system-architecture-presentations-4hd)
+- [PS5 Black Screen? Signs Your HDMI Port Is Failing &lpar;and What to Do&rpar;](https://dev.to/ammarimran/ps5-black-screen-signs-your-hdmi-port-is-failing-and-what-to-do-51gp)
+- [Alpenglow: How Solana Swaps Its Consensus in One Slot](https://dev.to/orbitflarerpc/alpenglow-how-solana-swaps-its-consensus-in-one-slot-38o1)
+- [SaaS Pricing Before Launch: Plans, Limits, and Free Trials](https://dev.to/qtim/saas-pricing-before-launch-plans-limits-and-free-trials-n1d)
+- [I benchmarked 8 PDF extractors on 27 documents from 1 to 487 pages. Here&#39;s what broke, and what won.](https://dev.to/harshith_raju_6ba0e1f9a52/i-benchmarked-8-pdf-extractors-on-27-documents-from-1-to-487-pages-heres-what-broke-and-what-won-ca8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
