@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a 60fps Canvas Frustum Camera for 4K System Architecture Presentations](https://dev.to/xiangc_92294/building-a-60fps-canvas-frustum-camera-for-4k-system-architecture-presentations-4hd)
-- [PS5 Black Screen? Signs Your HDMI Port Is Failing &lpar;and What to Do&rpar;](https://dev.to/ammarimran/ps5-black-screen-signs-your-hdmi-port-is-failing-and-what-to-do-51gp)
-- [Alpenglow: How Solana Swaps Its Consensus in One Slot](https://dev.to/orbitflarerpc/alpenglow-how-solana-swaps-its-consensus-in-one-slot-38o1)
-- [SaaS Pricing Before Launch: Plans, Limits, and Free Trials](https://dev.to/qtim/saas-pricing-before-launch-plans-limits-and-free-trials-n1d)
-- [I benchmarked 8 PDF extractors on 27 documents from 1 to 487 pages. Here&#39;s what broke, and what won.](https://dev.to/harshith_raju_6ba0e1f9a52/i-benchmarked-8-pdf-extractors-on-27-documents-from-1-to-487-pages-heres-what-broke-and-what-won-ca8)
+- [Why We Treat the LLM as an Untrusted Planner: Building AI Agents That Ask Before They Act](https://dev.to/caterfli/why-we-treat-the-llm-as-an-untrusted-planner-building-ai-agents-that-ask-before-they-act-2ace)
+- [Oracle Manipulation Risk Report: Gemini](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-gemini-4j2l)
+- [Cron Job Silent Failures: Pair Application Logs with Heartbeat Monitoring](https://dev.to/zachariahholloway9058/cron-job-silent-failures-pair-application-logs-with-heartbeat-monitoring-57a1)
+- [AI Autofix Changes What a Pull Request Must Explain](https://dev.to/keith_azodeh/ai-autofix-changes-what-a-pull-request-must-explain-4o0k)
+- [OpenAlex MCP in 5 minutes: give Claude or Cursor a scholarly search tool](https://dev.to/agentica/openalex-mcp-in-5-minutes-give-claude-or-cursor-a-scholarly-search-tool-e8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
