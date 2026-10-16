@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Plan, Prioritize, and Manage IT Support and Maintenance Activities](https://dev.to/said_olano/plan-prioritize-and-manage-it-support-and-maintenance-activities-o3c)
-- [Replacing One Reporting Endpoint: What to Compare Before Switching Traffic](https://dev.to/acadify_fef2ecf72cca30a3d/replacing-one-reporting-endpoint-what-to-compare-before-switching-traffic-396)
-- [LanceDB Review: Promising Object-Storage Vector Search, Production Benchmarks Still Unverified](https://dev.to/jangwook_kim_e31e7291ad98/lancedb-review-promising-object-storage-vector-search-production-benchmarks-still-unverified-n0m)
-- [A local AI that types up a Brazilian accountant&#39;s receipts &lpar;and knows when it&#39;s wrong&rpar;](https://dev.to/mathfe/a-local-ai-that-types-up-a-brazilian-accountants-receipts-and-knows-when-its-wrong-5gbi)
-- [Evaluation Sets Demystified: Governance for E-commerce Product Search Retrieval](https://dev.to/fitzgeraldblake3561/evaluation-sets-demystified-governance-for-e-commerce-product-search-retrieval-1mce)
+- [The Shape Census: Triage a Messy Module Before You Refactor It](https://dev.to/webx_2736/the-shape-census-triage-a-messy-module-before-you-refactor-it-429k)
+- [An AI Agent Is Running a Real Microbusiness Solo. Here&#39;s the Function Split Worth Studying.](https://dev.to/tm_gunderson_9cff63a7ba/an-ai-agent-is-running-a-real-microbusiness-solo-heres-the-function-split-worth-studying-56kn)
+- [AI Governance That Does Not Slow You Down: The Minimum Operating Model for UAE Enterprises](https://dev.to/azrty/ai-governance-that-does-not-slow-you-down-the-minimum-operating-model-for-uae-enterprises-2lcb)
+- [AI acceptable use policy for employees: what works](https://dev.to/azrty/ai-acceptable-use-policy-for-employees-what-works-58ea)
+- [Rubric Graders Need Canaries: Testing the Test That Grades C++ Patches](https://dev.to/devcpp_268/rubric-graders-need-canaries-testing-the-test-that-grades-c-patches-41ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
