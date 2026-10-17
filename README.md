@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built an Open-Source, No-Code Platform for Custom Business Software. The Preview Is Ready.](https://dev.to/formever_corin/we-built-an-open-source-no-code-platform-for-custom-business-software-the-preview-is-ready-cf9)
-- [Timezone Conversion Pitfalls: Where UTC/JST Bugs Actually Come From](https://dev.to/susumun/timezone-conversion-pitfalls-where-utcjst-bugs-actually-come-from-15ji)
-- [Your GPU Benchmark Is Lying: Measuring LLM Inference Under Thermal Throttling the Right Way](https://dev.to/eme_gug_0821b41b948be6516/your-gpu-benchmark-is-lying-measuring-llm-inference-under-thermal-throttling-the-right-way-1b93)
-- [Run opencode on Android: a free launcher that turns your phone into an AI coding station](https://dev.to/dajeouvv/run-opencode-on-android-a-free-launcher-that-turns-your-phone-into-an-ai-coding-station-n0n)
-- [AI system maintenance: what breaks after launch](https://dev.to/matintellect/ai-system-maintenance-what-breaks-after-launch-2pa8)
+- [Build a Tiny Token Meter Before You Trust a Free Model Tier](https://dev.to/magickong/build-a-tiny-token-meter-before-you-trust-a-free-model-tier-1foc)
+- [Your AI Coding Assistant Bill Is a Directory Problem](https://dev.to/kaviyarasu-viswanath/your-ai-coding-assistant-bill-is-a-directory-problem-9c9)
+- [HealthTuner 🌿 — Intelligent Workout &amp; Recovery Companion Powered by Open-Source AI and Neon](https://dev.to/_akshatjain_/healthtuner-intelligent-workout-recovery-companion-powered-by-open-source-ai-and-neon-bnf)
+- [Run a local coding agent with LM Studio + OpenPilot](https://dev.to/openpilot/run-a-local-coding-agent-with-lm-studio-openpilot-2b1j)
+- [Seven Executable Gates Before a Free Model Touches Real Data](https://dev.to/rivera123/seven-executable-gates-before-a-free-model-touches-real-data-p7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
