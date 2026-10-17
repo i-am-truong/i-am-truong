@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI code review just delayed PostgreSQL 19. Finding bugs is now cheap and fixing them isn’t.](https://dev.to/vishal_vigilante/ai-code-review-just-delayed-postgresql-19-finding-bugs-is-now-cheap-and-fixing-them-isnt-2mm5)
-- [I&#39;m building an open-source platform for your database, API, auth and apps](https://dev.to/dukevu98/im-building-an-open-source-platform-for-your-database-api-auth-and-apps-432)
-- [Migrating a React Native app to the new EAS build and OTA workflow without a release freeze](https://dev.to/techamit95ch/migrating-a-react-native-app-to-the-new-eas-build-and-ota-workflow-without-a-release-freeze-55o4)
-- [Group Chats Are Not DMs: Routing Rules for WeChat Customer Service Auto-Reply](https://dev.to/dingdangcs/group-chats-are-not-dms-routing-rules-for-wechat-customer-service-auto-reply-4c1b)
-- [When Is an Invoice Overdue? A Spreadsheet Setup That Tells You, and What to Send](https://dev.to/agentrunagency/when-is-an-invoice-overdue-a-spreadsheet-setup-that-tells-you-and-what-to-send-1g3e)
+- [Zero-Trust Linux: How I Hardened 4 Cloud Servers Against Brute-Force Attacks in Under an Hour](https://dev.to/asepsayyad007/zero-trust-linux-how-i-hardened-4-cloud-servers-against-brute-force-attacks-in-under-an-hour-nmh)
+- [Ghost Writer](https://dev.to/rohit_kumarsingh_3c3d9c4/ghost-writer-404p)
+- [Sell a file for USDT with one PHP file &lpar;no Stripe, no KYC&rpar;](https://dev.to/swarm_agency/sell-a-file-for-usdt-with-one-php-file-no-stripe-no-kyc-3oj9)
+- [🚀 A Small Milestone in My Tech Journey | Hacktoberfest 2026 🌍](https://dev.to/harshil525/a-small-milestone-in-my-tech-journey-hacktoberfest-2026-2hbg)
+- [Recruiting Candidate Search Retrieval: Source Deduplication and Traceable Context](https://dev.to/nathanielbrooks0360/recruiting-candidate-search-retrieval-source-deduplication-and-traceable-context-2o1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
