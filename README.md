@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Trust Linux: How I Hardened 4 Cloud Servers Against Brute-Force Attacks in Under an Hour](https://dev.to/asepsayyad007/zero-trust-linux-how-i-hardened-4-cloud-servers-against-brute-force-attacks-in-under-an-hour-nmh)
-- [Ghost Writer](https://dev.to/rohit_kumarsingh_3c3d9c4/ghost-writer-404p)
-- [Sell a file for USDT with one PHP file &lpar;no Stripe, no KYC&rpar;](https://dev.to/swarm_agency/sell-a-file-for-usdt-with-one-php-file-no-stripe-no-kyc-3oj9)
-- [🚀 A Small Milestone in My Tech Journey | Hacktoberfest 2026 🌍](https://dev.to/harshil525/a-small-milestone-in-my-tech-journey-hacktoberfest-2026-2hbg)
-- [Recruiting Candidate Search Retrieval: Source Deduplication and Traceable Context](https://dev.to/nathanielbrooks0360/recruiting-candidate-search-retrieval-source-deduplication-and-traceable-context-2o1j)
+- [Practical AI Tools for Audit Firms: Vouchers, Reconciliation and Year-End Closing](https://dev.to/faisal_nadeem_752520c3e03/practical-ai-tools-for-audit-firms-vouchers-reconciliation-and-year-end-closing-2lkk)
+- [Build a Keyboard-Driven Test Grader in Plain JavaScript](https://dev.to/quickgradecalc/build-a-keyboard-driven-test-grader-in-plain-javascript-26ab)
+- [AI Took Me to Three Stages. I Still Don&#39;t Like Public Speaking.](https://dev.to/earlgreyhot1701d/ai-took-me-to-three-stages-i-still-dont-like-public-speaking-1g38)
+- [Next.js Startup App Logs with Node.js Centralized Logging Signal Budgets](https://dev.to/elibennett128/nextjs-startup-app-logs-with-nodejs-centralized-logging-signal-budgets-3hbp)
+- [Classify before you code](https://dev.to/hrekov/classify-before-you-code-24f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
