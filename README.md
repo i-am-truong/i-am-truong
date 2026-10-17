@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Tiny Token Meter Before You Trust a Free Model Tier](https://dev.to/magickong/build-a-tiny-token-meter-before-you-trust-a-free-model-tier-1foc)
-- [Your AI Coding Assistant Bill Is a Directory Problem](https://dev.to/kaviyarasu-viswanath/your-ai-coding-assistant-bill-is-a-directory-problem-9c9)
-- [HealthTuner 🌿 — Intelligent Workout &amp; Recovery Companion Powered by Open-Source AI and Neon](https://dev.to/_akshatjain_/healthtuner-intelligent-workout-recovery-companion-powered-by-open-source-ai-and-neon-bnf)
-- [Run a local coding agent with LM Studio + OpenPilot](https://dev.to/openpilot/run-a-local-coding-agent-with-lm-studio-openpilot-2b1j)
-- [Seven Executable Gates Before a Free Model Touches Real Data](https://dev.to/rivera123/seven-executable-gates-before-a-free-model-touches-real-data-p7o)
+- [An escape game on the TV, played with phones: keeping 5 screens in sync](https://dev.to/remi_bouvant_4fdbf8738ec6/an-escape-game-on-the-tv-played-with-phones-keeping-5-screens-in-sync-3p2i)
+- [Claude Code API Gateways on Windows: Verify Base URL and Authentication Before Debugging Models](https://dev.to/he_hongsheng_d512008e9af3/claude-code-api-gateways-on-windows-verify-base-url-and-authentication-before-debugging-models-4d18)
+- [Rules: no AI clichés &lpar;listed banned words&rpar;. Senior engineer style like Dan Luu / P...](https://dev.to/sandi13/rules-no-ai-cliches-listed-banned-words-senior-engineer-style-like-dan-luu-p-3m2c)
+- [Batchwise: Turning Messy Food Business Expenses into Real Profit Insights 🇮🇳](https://dev.to/tanmay3929/batchwise-turning-messy-food-business-expenses-into-real-profit-insights-3dda)
+- [Share Expenses with your friends](https://dev.to/sagargusain96341/share-expenses-with-your-friends-1n8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
