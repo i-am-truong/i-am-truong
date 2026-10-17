@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a JavaScript framework in 2013. Here&#39;s what that world looked like](https://dev.to/finom/i-wrote-a-javascript-framework-in-2013-heres-what-that-world-looked-like-58el)
-- [Fast account switching in Flutter without a sign-in round trip](https://dev.to/frankmilvus/fast-account-switching-in-flutter-without-a-sign-in-round-trip-2com)
-- [What does your CDK app cost when nobody is using it?](https://dev.to/aws-builders/what-does-your-cdk-app-cost-when-nobody-is-using-it-jp4)
-- [Nine AI Payment Endpoints Looked Broken. They Weren&#39;t.](https://dev.to/payload-tools/nine-ai-payment-endpoints-looked-broken-they-werent-gme)
-- [Show Dev: I built a privacy-first psychology &amp; career test platform with Astro, React, and AI](https://dev.to/tester-lt/show-dev-i-built-a-privacy-first-psychology-career-test-platform-with-astro-react-and-ai-42j4)
+- [AI code review just delayed PostgreSQL 19. Finding bugs is now cheap and fixing them isn’t.](https://dev.to/vishal_vigilante/ai-code-review-just-delayed-postgresql-19-finding-bugs-is-now-cheap-and-fixing-them-isnt-2mm5)
+- [I&#39;m building an open-source platform for your database, API, auth and apps](https://dev.to/dukevu98/im-building-an-open-source-platform-for-your-database-api-auth-and-apps-432)
+- [Migrating a React Native app to the new EAS build and OTA workflow without a release freeze](https://dev.to/techamit95ch/migrating-a-react-native-app-to-the-new-eas-build-and-ota-workflow-without-a-release-freeze-55o4)
+- [Group Chats Are Not DMs: Routing Rules for WeChat Customer Service Auto-Reply](https://dev.to/dingdangcs/group-chats-are-not-dms-routing-rules-for-wechat-customer-service-auto-reply-4c1b)
+- [When Is an Invoice Overdue? A Spreadsheet Setup That Tells You, and What to Send](https://dev.to/agentrunagency/when-is-an-invoice-overdue-a-spreadsheet-setup-that-tells-you-and-what-to-send-1g3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
