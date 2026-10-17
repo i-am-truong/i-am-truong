@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An escape game on the TV, played with phones: keeping 5 screens in sync](https://dev.to/remi_bouvant_4fdbf8738ec6/an-escape-game-on-the-tv-played-with-phones-keeping-5-screens-in-sync-3p2i)
-- [Claude Code API Gateways on Windows: Verify Base URL and Authentication Before Debugging Models](https://dev.to/he_hongsheng_d512008e9af3/claude-code-api-gateways-on-windows-verify-base-url-and-authentication-before-debugging-models-4d18)
-- [Rules: no AI clichés &lpar;listed banned words&rpar;. Senior engineer style like Dan Luu / P...](https://dev.to/sandi13/rules-no-ai-cliches-listed-banned-words-senior-engineer-style-like-dan-luu-p-3m2c)
-- [Batchwise: Turning Messy Food Business Expenses into Real Profit Insights 🇮🇳](https://dev.to/tanmay3929/batchwise-turning-messy-food-business-expenses-into-real-profit-insights-3dda)
-- [Share Expenses with your friends](https://dev.to/sagargusain96341/share-expenses-with-your-friends-1n8n)
+- [I wrote a JavaScript framework in 2013. Here&#39;s what that world looked like](https://dev.to/finom/i-wrote-a-javascript-framework-in-2013-heres-what-that-world-looked-like-58el)
+- [Fast account switching in Flutter without a sign-in round trip](https://dev.to/frankmilvus/fast-account-switching-in-flutter-without-a-sign-in-round-trip-2com)
+- [What does your CDK app cost when nobody is using it?](https://dev.to/aws-builders/what-does-your-cdk-app-cost-when-nobody-is-using-it-jp4)
+- [Nine AI Payment Endpoints Looked Broken. They Weren&#39;t.](https://dev.to/payload-tools/nine-ai-payment-endpoints-looked-broken-they-werent-gme)
+- [Show Dev: I built a privacy-first psychology &amp; career test platform with Astro, React, and AI](https://dev.to/tester-lt/show-dev-i-built-a-privacy-first-psychology-career-test-platform-with-astro-react-and-ai-42j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
