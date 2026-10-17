@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Practical AI Tools for Audit Firms: Vouchers, Reconciliation and Year-End Closing](https://dev.to/faisal_nadeem_752520c3e03/practical-ai-tools-for-audit-firms-vouchers-reconciliation-and-year-end-closing-2lkk)
-- [Build a Keyboard-Driven Test Grader in Plain JavaScript](https://dev.to/quickgradecalc/build-a-keyboard-driven-test-grader-in-plain-javascript-26ab)
-- [AI Took Me to Three Stages. I Still Don&#39;t Like Public Speaking.](https://dev.to/earlgreyhot1701d/ai-took-me-to-three-stages-i-still-dont-like-public-speaking-1g38)
-- [Next.js Startup App Logs with Node.js Centralized Logging Signal Budgets](https://dev.to/elibennett128/nextjs-startup-app-logs-with-nodejs-centralized-logging-signal-budgets-3hbp)
-- [Classify before you code](https://dev.to/hrekov/classify-before-you-code-24f7)
+- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-for-low-power-5ce)
+- [What a weekly release rhythm looks like with a remote developer](https://dev.to/adilsoukaini/what-a-weekly-release-rhythm-looks-like-with-a-remote-developer-4a0j)
+- [My own gate failed &lpar;8 of 20&rpar;, so I rescoped a scam-ad checker around quotes code can find word for word](https://dev.to/edycutjong/my-own-gate-failed-8-of-20-so-i-rescoped-a-scam-ad-checker-around-quotes-code-can-find-word-for-5alp)
+- [Customer-Support Knowledge Base Crawl Boundaries: Lower Index Cost, Traceable Retrieval](https://dev.to/carterhughes6853/customer-support-knowledge-base-crawl-boundaries-lower-index-cost-traceable-retrieval-5faj)
+- [Reading your team&#39;s Git history as a manager, without leaving VS Code](https://dev.to/pkosyakov/reading-your-teams-git-history-as-a-manager-without-leaving-vs-code-49b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
