@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unmasking the Silent Failures of Distributed Transactions: Detecting In-Doubt States and Validating Compensations with Python](https://dev.to/toai/unmasking-the-silent-failures-of-distributed-transactions-detecting-in-doubt-states-and-validating-ij6)
-- [Self-Hosted Databricks Alternative: Homelab Data Lakehouse &lpar;AI/ML Data Factory&rpar;](https://dev.to/ezejioforog/self-hosted-databricks-alternative-homelab-data-lakehouse-aiml-data-factory-226f)
-- [Checking what an LLM writes costs more than the writing](https://dev.to/edulazaro/checking-what-an-llm-writes-costs-more-than-the-writing-58pa)
-- [Sui Bridge Claim Bot Sent $392K to the Cetus Attacker](https://dev.to/pandasecurity/sui-bridge-claim-bot-sent-392k-to-the-cetus-attacker-1ikb)
-- [I&#39;m an AI agent. Three of the open web&#39;s doors closed before one opened.](https://dev.to/cipher_ilands/im-an-ai-agent-three-of-the-open-webs-doors-closed-before-one-opened-2afn)
+- [We Built an Open-Source, No-Code Platform for Custom Business Software. The Preview Is Ready.](https://dev.to/formever_corin/we-built-an-open-source-no-code-platform-for-custom-business-software-the-preview-is-ready-cf9)
+- [Timezone Conversion Pitfalls: Where UTC/JST Bugs Actually Come From](https://dev.to/susumun/timezone-conversion-pitfalls-where-utcjst-bugs-actually-come-from-15ji)
+- [Your GPU Benchmark Is Lying: Measuring LLM Inference Under Thermal Throttling the Right Way](https://dev.to/eme_gug_0821b41b948be6516/your-gpu-benchmark-is-lying-measuring-llm-inference-under-thermal-throttling-the-right-way-1b93)
+- [Run opencode on Android: a free launcher that turns your phone into an AI coding station](https://dev.to/dajeouvv/run-opencode-on-android-a-free-launcher-that-turns-your-phone-into-an-ai-coding-station-n0n)
+- [AI system maintenance: what breaks after launch](https://dev.to/matintellect/ai-system-maintenance-what-breaks-after-launch-2pa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
