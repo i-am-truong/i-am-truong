@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Agents Safely Write to the General Ledger? 13 Write Operations Counted, 0 Silent in a Locked Period](https://dev.to/scriptmasterlabs01/can-ai-agents-safely-write-to-the-general-ledger-13-write-operations-counted-0-silent-in-a-locked-2gdi)
-- [How to Publish Your First Android App on Google Play: A Complete Checklist](https://dev.to/playconsolestore1/how-to-publish-your-first-android-app-on-google-play-a-complete-checklist-1ij1)
-- [I Read TDK&#39;s Starlark Engine So You Don&#39;t Have To](https://dev.to/localeostackio/i-read-tdks-starlark-engine-so-you-dont-have-to-3dj6)
-- [Tiny Night Market is done](https://dev.to/fervogame/tiny-night-market-is-done-d06)
-- [Why Client Feedback Loops Are Broken &lpar;And How We Built a Zero-Login DOM Overlay to Fix Them&rpar;](https://dev.to/tweak/why-client-feedback-loops-are-broken-and-how-we-built-a-zero-login-dom-overlay-to-fix-them-4m14)
+- [No file may disappear silently: what indexing 400,000 SharePoint documents taught us about the Graph delta link](https://dev.to/kaspars-sharepoint/no-file-may-disappear-silently-what-indexing-400000-sharepoint-documents-taught-us-about-the-3a9l)
+- [Mastering Advanced SQL with a Hospital Dataset: Window Functions, Joins, CTEs and Subqueries](https://dev.to/expertwriter/mastering-advanced-sql-with-a-hospital-dataset-window-functions-joins-ctes-and-subqueries-4ae0)
+- [One pull request could have frozen my uptime monitor for everyone](https://dev.to/utsavmishra25/one-pull-request-could-have-frozen-my-uptime-monitor-for-everyone-29dl)
+- [CommitGhost 👻 — Turn Your Existing Code Into Your Next Business With Local AI](https://dev.to/naveensri_v_87887e16e538/commitghost-turn-your-existing-code-into-your-next-business-with-local-ai-128d)
+- [Sentinel-IR 0.1.1 Is on npm: Give AI Agents Structural Facts, Not the Entire Codebase](https://dev.to/jackymencz/sentinel-ir-011-is-on-npm-give-ai-agents-structural-facts-not-the-entire-codebase-9l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
