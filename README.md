@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IA pequeña del Banco Mundial: corre en celulares sin señal](https://dev.to/henryramireztech/ia-pequena-del-banco-mundial-corre-en-celulares-sin-senal-12m0)
-- [TestFly Part 11: Network interception and API mocking in Selenium 4 with CDP](https://dev.to/hakangul/testfly-part-11-network-interception-and-api-mocking-in-selenium-4-with-cdp-3lp3)
-- [Consuming Kafka events as background jobs in .NET with NexJob](https://dev.to/oluciaano/consuming-kafka-events-as-background-jobs-in-net-with-nexjob-21j6)
-- [A Lightweight IPTV Player Built for Android TV and Phones](https://dev.to/alpha_king06/a-lightweight-iptv-player-built-for-android-tv-and-phones-17kp)
-- [My AI Experiment Was Going Great Until My Client Replied 😂](https://dev.to/hanzla/my-ai-experiment-was-going-great-until-my-client-replied-17kd)
+- [# Your AI Assistant Remembered the Fact. It Still Got the Answer Wrong](https://dev.to/ahmedadawy625/-your-ai-assistant-remembered-the-fact-it-still-got-the-answer-wrong-5gbp)
+- [Making a 166,000-neuron brain bit-exact on any GPU](https://dev.to/alexandros_titonis_43d6ea/making-a-166000-neuron-brain-bit-exact-on-any-gpu-59p2)
+- [We built 99 business tools that never upload your files](https://dev.to/tyrxargaar/we-built-99-business-tools-that-never-upload-your-files-2acj)
+- [Subtitling a 65-Second TikTok Cost $0.11. The Same Minute as a File Cost $0.011](https://dev.to/matveyg/subtitling-a-65-second-tiktok-cost-011-the-same-minute-as-a-file-cost-0011-1apd)
+- [magpie &lpar;Content Desk&rpar;: How I Built an Offline AI Work Journal to Manage My Side Hustles, Societies, &amp; Applications](https://dev.to/warishabilal7/magpie-content-desk-how-i-built-an-offline-ai-work-journal-to-manage-my-side-hustles-societies-16kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
