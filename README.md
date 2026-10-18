@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-for-low-power-5ce)
-- [What a weekly release rhythm looks like with a remote developer](https://dev.to/adilsoukaini/what-a-weekly-release-rhythm-looks-like-with-a-remote-developer-4a0j)
-- [My own gate failed &lpar;8 of 20&rpar;, so I rescoped a scam-ad checker around quotes code can find word for word](https://dev.to/edycutjong/my-own-gate-failed-8-of-20-so-i-rescoped-a-scam-ad-checker-around-quotes-code-can-find-word-for-5alp)
-- [Customer-Support Knowledge Base Crawl Boundaries: Lower Index Cost, Traceable Retrieval](https://dev.to/carterhughes6853/customer-support-knowledge-base-crawl-boundaries-lower-index-cost-traceable-retrieval-5faj)
-- [Reading your team&#39;s Git history as a manager, without leaving VS Code](https://dev.to/pkosyakov/reading-your-teams-git-history-as-a-manager-without-leaving-vs-code-49b5)
+- [How to Moderate Video Room Participants by Muting or Kicking &lpar;During Live Polls&rpar;](https://dev.to/jedidiahrhodes8293/how-to-moderate-video-room-participants-by-muting-or-kicking-during-live-polls-g56)
+- [AI &amp; SaaS pricing this week: 2 raised, 0 cut &lpar;12 pages moved&rpar; - 2026-09-20](https://dev.to/pricingdiff/ai-saas-pricing-this-week-2-raised-0-cut-12-pages-moved-2026-09-20-462g)
+- [Trending Dev Tools &amp; Tutorials: 5 Must-Know Updates for October 2026](https://dev.to/karleeov/trending-dev-tools-tutorials-5-must-know-updates-for-october-2026-4457)
+- [HyperOS 4 Is Dropping in China: Xiaomi’s AI Finally Looks Like It’ll Actually Be Useful](https://dev.to/etsonramoschian/hyperos-4-is-dropping-in-china-xiaomis-ai-finally-looks-like-itll-actually-be-useful-3fbn)
+- [Secure Boot in Production: How to Protect Signing Keys and Provision Devices Securely](https://dev.to/ag_82a1d5551e40a/esp32-secure-boot-in-production-how-to-protect-signing-keys-and-provision-devices-securely-283f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
