@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Download mode explained: how to enter it, what each screen means, and how to exit safely](https://dev.to/samfware/download-mode-explained-how-to-enter-it-what-each-screen-means-and-how-to-exit-safely-3fmi)
-- [What We Learned Building Cross-Channel Message Routing](https://dev.to/botsailorofficial/what-we-learned-building-cross-channel-message-routing-2m1o)
-- [GST Helper: a local-first GSTR-1 preparation assistant](https://dev.to/sonu0702/gst-helper-a-local-first-gstr-1-preparation-assistant-15fn)
-- [A Control Plane for an AI-Run Firm: Workflow, Agent and Human Lanes](https://dev.to/tej_pandya_a973bc2256ba93/a-control-plane-for-an-ai-run-firm-workflow-agent-and-human-lanes-5f9d)
-- [LLMs on Consumer Hardware — Part 6: The Orchestration Ceiling — Why a Bigger Coordinator Doesn&#39;t Fix the Loop](https://dev.to/sven_welack/running-llms-on-consumer-hardware-part-6-the-orchestration-ceiling-why-a-bigger-coordinator-54ja)
+- [ColumnBridge: local embeddings that stop before renaming the wrong CSV column](https://dev.to/_360f299373efce95981ebc/columnbridge-local-embeddings-that-stop-before-renaming-the-wrong-csv-column-2n20)
+- [How we compute session VWAP from 1-minute bars when the data feed does not give you one](https://dev.to/signumhq/how-we-compute-session-vwap-from-1-minute-bars-when-the-data-feed-does-not-give-you-one-bc)
+- [Exploring Hospital Data: Window Functions, Joins, CTEs and Subqueries](https://dev.to/smumbi_/exploring-hospital-data-window-functions-joins-ctes-and-subqueries-45b6)
+- [Why I Chose Computer Science and What I Hope to Build](https://dev.to/jesie_biago_12252007/why-i-chose-computer-science-and-what-i-hope-to-build-1hpj)
+- [Cronbach&#39;s Alpha Explained: Formula, Worked Example, Python/R Code, and a Free Calculator](https://dev.to/alan-matthew/cronbachs-alpha-explained-formula-worked-example-pythonr-code-and-a-free-calculator-103e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
