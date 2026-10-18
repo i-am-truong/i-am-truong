@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No file may disappear silently: what indexing 400,000 SharePoint documents taught us about the Graph delta link](https://dev.to/kaspars-sharepoint/no-file-may-disappear-silently-what-indexing-400000-sharepoint-documents-taught-us-about-the-3a9l)
-- [Mastering Advanced SQL with a Hospital Dataset: Window Functions, Joins, CTEs and Subqueries](https://dev.to/expertwriter/mastering-advanced-sql-with-a-hospital-dataset-window-functions-joins-ctes-and-subqueries-4ae0)
-- [One pull request could have frozen my uptime monitor for everyone](https://dev.to/utsavmishra25/one-pull-request-could-have-frozen-my-uptime-monitor-for-everyone-29dl)
-- [CommitGhost 👻 — Turn Your Existing Code Into Your Next Business With Local AI](https://dev.to/naveensri_v_87887e16e538/commitghost-turn-your-existing-code-into-your-next-business-with-local-ai-128d)
-- [Sentinel-IR 0.1.1 Is on npm: Give AI Agents Structural Facts, Not the Entire Codebase](https://dev.to/jackymencz/sentinel-ir-011-is-on-npm-give-ai-agents-structural-facts-not-the-entire-codebase-9l9)
+- [IA pequeña del Banco Mundial: corre en celulares sin señal](https://dev.to/henryramireztech/ia-pequena-del-banco-mundial-corre-en-celulares-sin-senal-12m0)
+- [TestFly Part 11: Network interception and API mocking in Selenium 4 with CDP](https://dev.to/hakangul/testfly-part-11-network-interception-and-api-mocking-in-selenium-4-with-cdp-3lp3)
+- [Consuming Kafka events as background jobs in .NET with NexJob](https://dev.to/oluciaano/consuming-kafka-events-as-background-jobs-in-net-with-nexjob-21j6)
+- [A Lightweight IPTV Player Built for Android TV and Phones](https://dev.to/alpha_king06/a-lightweight-iptv-player-built-for-android-tv-and-phones-17kp)
+- [My AI Experiment Was Going Great Until My Client Replied 😂](https://dev.to/hanzla/my-ai-experiment-was-going-great-until-my-client-replied-17kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
