@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Moderate Video Room Participants by Muting or Kicking &lpar;During Live Polls&rpar;](https://dev.to/jedidiahrhodes8293/how-to-moderate-video-room-participants-by-muting-or-kicking-during-live-polls-g56)
-- [AI &amp; SaaS pricing this week: 2 raised, 0 cut &lpar;12 pages moved&rpar; - 2026-09-20](https://dev.to/pricingdiff/ai-saas-pricing-this-week-2-raised-0-cut-12-pages-moved-2026-09-20-462g)
-- [Trending Dev Tools &amp; Tutorials: 5 Must-Know Updates for October 2026](https://dev.to/karleeov/trending-dev-tools-tutorials-5-must-know-updates-for-october-2026-4457)
-- [HyperOS 4 Is Dropping in China: Xiaomi’s AI Finally Looks Like It’ll Actually Be Useful](https://dev.to/etsonramoschian/hyperos-4-is-dropping-in-china-xiaomis-ai-finally-looks-like-itll-actually-be-useful-3fbn)
-- [Secure Boot in Production: How to Protect Signing Keys and Provision Devices Securely](https://dev.to/ag_82a1d5551e40a/esp32-secure-boot-in-production-how-to-protect-signing-keys-and-provision-devices-securely-283f)
+- [Download mode explained: how to enter it, what each screen means, and how to exit safely](https://dev.to/samfware/download-mode-explained-how-to-enter-it-what-each-screen-means-and-how-to-exit-safely-3fmi)
+- [What We Learned Building Cross-Channel Message Routing](https://dev.to/botsailorofficial/what-we-learned-building-cross-channel-message-routing-2m1o)
+- [GST Helper: a local-first GSTR-1 preparation assistant](https://dev.to/sonu0702/gst-helper-a-local-first-gstr-1-preparation-assistant-15fn)
+- [A Control Plane for an AI-Run Firm: Workflow, Agent and Human Lanes](https://dev.to/tej_pandya_a973bc2256ba93/a-control-plane-for-an-ai-run-firm-workflow-agent-and-human-lanes-5f9d)
+- [LLMs on Consumer Hardware — Part 6: The Orchestration Ceiling — Why a Bigger Coordinator Doesn&#39;t Fix the Loop](https://dev.to/sven_welack/running-llms-on-consumer-hardware-part-6-the-orchestration-ceiling-why-a-bigger-coordinator-54ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
