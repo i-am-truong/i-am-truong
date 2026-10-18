@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Your AI Assistant Remembered the Fact. It Still Got the Answer Wrong](https://dev.to/ahmedadawy625/-your-ai-assistant-remembered-the-fact-it-still-got-the-answer-wrong-5gbp)
-- [Making a 166,000-neuron brain bit-exact on any GPU](https://dev.to/alexandros_titonis_43d6ea/making-a-166000-neuron-brain-bit-exact-on-any-gpu-59p2)
-- [We built 99 business tools that never upload your files](https://dev.to/tyrxargaar/we-built-99-business-tools-that-never-upload-your-files-2acj)
-- [Subtitling a 65-Second TikTok Cost $0.11. The Same Minute as a File Cost $0.011](https://dev.to/matveyg/subtitling-a-65-second-tiktok-cost-011-the-same-minute-as-a-file-cost-0011-1apd)
-- [magpie &lpar;Content Desk&rpar;: How I Built an Offline AI Work Journal to Manage My Side Hustles, Societies, &amp; Applications](https://dev.to/warishabilal7/magpie-content-desk-how-i-built-an-offline-ai-work-journal-to-manage-my-side-hustles-societies-16kg)
+- [XState v4 code on v5: no error, just NaN](https://dev.to/provenpin/xstate-v4-code-on-v5-no-error-just-nan-ci0)
+- [Town Centre: An AoE2 Tournament Desk with Local AI](https://dev.to/hornetwing/town-centre-an-aoe2-tournament-desk-with-local-ai-1lha)
+- [Looking for Contributors: Can We Build a .NET Toolkit Developers Love to Use?](https://dev.to/tundeadetunji2017/looking-for-contributors-can-we-build-a-net-toolkit-developers-love-to-use-2oep)
+- [One device burned through 14,178 free trials while my costs tripled](https://dev.to/richard_smith_154156d471ef/one-device-burned-through-14178-free-trials-while-my-costs-tripled-1m5c)
+- [Horizontally Scaling PostgreSQL with YugabyteDB: The Problem, the Fix, and a Three-Node Demo](https://dev.to/kobbyprincee/horizontally-scaling-postgresql-with-yugabytedb-the-problem-the-fix-and-a-three-node-demo-4081)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
