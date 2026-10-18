@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ColumnBridge: local embeddings that stop before renaming the wrong CSV column](https://dev.to/_360f299373efce95981ebc/columnbridge-local-embeddings-that-stop-before-renaming-the-wrong-csv-column-2n20)
-- [How we compute session VWAP from 1-minute bars when the data feed does not give you one](https://dev.to/signumhq/how-we-compute-session-vwap-from-1-minute-bars-when-the-data-feed-does-not-give-you-one-bc)
-- [Exploring Hospital Data: Window Functions, Joins, CTEs and Subqueries](https://dev.to/smumbi_/exploring-hospital-data-window-functions-joins-ctes-and-subqueries-45b6)
-- [Why I Chose Computer Science and What I Hope to Build](https://dev.to/jesie_biago_12252007/why-i-chose-computer-science-and-what-i-hope-to-build-1hpj)
-- [Cronbach&#39;s Alpha Explained: Formula, Worked Example, Python/R Code, and a Free Calculator](https://dev.to/alan-matthew/cronbachs-alpha-explained-formula-worked-example-pythonr-code-and-a-free-calculator-103e)
+- [Can AI Agents Safely Write to the General Ledger? 13 Write Operations Counted, 0 Silent in a Locked Period](https://dev.to/scriptmasterlabs01/can-ai-agents-safely-write-to-the-general-ledger-13-write-operations-counted-0-silent-in-a-locked-2gdi)
+- [How to Publish Your First Android App on Google Play: A Complete Checklist](https://dev.to/playconsolestore1/how-to-publish-your-first-android-app-on-google-play-a-complete-checklist-1ij1)
+- [I Read TDK&#39;s Starlark Engine So You Don&#39;t Have To](https://dev.to/localeostackio/i-read-tdks-starlark-engine-so-you-dont-have-to-3dj6)
+- [Tiny Night Market is done](https://dev.to/fervogame/tiny-night-market-is-done-d06)
+- [Why Client Feedback Loops Are Broken &lpar;And How We Built a Zero-Login DOM Overlay to Fix Them&rpar;](https://dev.to/tweak/why-client-feedback-loops-are-broken-and-how-we-built-a-zero-login-dom-overlay-to-fix-them-4m14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
