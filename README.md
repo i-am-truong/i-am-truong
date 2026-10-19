@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Lay Out Drywall Sheets Wall by Wall in the Browser](https://dev.to/drywallplanner/how-i-lay-out-drywall-sheets-wall-by-wall-in-the-browser-33o1)
-- [MarginPulse AI: An Open-Weight CFO That Prices Side-Hustle Gigs with TabPFN-3.5 &amp; Gemma 4](https://dev.to/adnan9-63/marginpulse-ai-an-open-weight-cfo-that-prices-side-hustle-gigs-with-tabpfn-35-gemma-4-43m9)
-- [An analysis of 5 key papers](https://dev.to/rayyan231503101/an-analysis-of-5-key-papers-1me8)
-- [ScopeShield: The Open-Source Scope Creep Detector for Freelancers**](https://dev.to/crimsoncodie09/scopeshield-the-open-source-scope-creep-detector-for-freelancers-32l6)
-- [MedPort: a private medical portfolio that reads your lab reports on your own laptop](https://dev.to/kuntalgorai/medport-a-private-medical-portfolio-that-reads-your-lab-reports-on-your-own-laptop-2mj4)
+- [Building Scalable Placement Database Systems for Higher Education ERP](https://dev.to/vijay_kumaraivi_5a39582a/building-scalable-placement-database-systems-for-higher-education-erp-1bpm)
+- [x402 meets smart wallets: where does signature compatibility stop?](https://dev.to/seasonkoh/x402-meets-smart-wallets-where-does-signature-compatibility-stop-2c4b)
+- [Prompt injection is a trust-boundary bug in the retrieval pipeline](https://dev.to/sorrelthorncroft/prompt-injection-is-a-trust-boundary-bug-in-the-retrieval-pipeline-4a4l)
+- [A 1B model doesn&#39;t read your letter: the unglamorous layer between documents and local AI](https://dev.to/damiano_builds/a-1b-model-doesnt-read-your-letter-the-unglamorous-layer-between-documents-and-local-ai-2p7b)
+- [How to Build a Read-Only MCP Server for Your Website](https://dev.to/senthil_kr/how-to-build-a-read-only-mcp-server-for-your-website-31n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
