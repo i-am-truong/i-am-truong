@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Placement Database Systems for Higher Education ERP](https://dev.to/vijay_kumaraivi_5a39582a/building-scalable-placement-database-systems-for-higher-education-erp-1bpm)
-- [x402 meets smart wallets: where does signature compatibility stop?](https://dev.to/seasonkoh/x402-meets-smart-wallets-where-does-signature-compatibility-stop-2c4b)
-- [Prompt injection is a trust-boundary bug in the retrieval pipeline](https://dev.to/sorrelthorncroft/prompt-injection-is-a-trust-boundary-bug-in-the-retrieval-pipeline-4a4l)
-- [A 1B model doesn&#39;t read your letter: the unglamorous layer between documents and local AI](https://dev.to/damiano_builds/a-1b-model-doesnt-read-your-letter-the-unglamorous-layer-between-documents-and-local-ai-2p7b)
-- [How to Build a Read-Only MCP Server for Your Website](https://dev.to/senthil_kr/how-to-build-a-read-only-mcp-server-for-your-website-31n9)
+- [An MCP server that lets Claude Code find and download stock photos](https://dev.to/jeanpfs/an-mcp-server-that-lets-claude-code-find-and-download-stock-photos-5fof)
+- [Stop sharing your OpenAI API key with your team](https://dev.to/ddaras/stop-sharing-your-openai-api-key-with-your-team-1fek)
+- [How to record and edit a screen tutorial with Camtasia: a practical walkthrough](https://dev.to/kuponau/how-to-record-and-edit-a-screen-tutorial-with-camtasia-a-practical-walkthrough-29hn)
+- [O badge Guarded by g.cloud](https://dev.to/beanstechbr/o-badge-guarded-by-gcloud-2478)
+- [Can This Discount Actually Make Money? Building HustleRadar with Gemma 2 and SerpApi](https://dev.to/deep_saha/can-this-discount-actually-make-money-building-hustleradar-with-gemma-2-and-serpapi-55h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
