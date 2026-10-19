@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [XState v4 code on v5: no error, just NaN](https://dev.to/provenpin/xstate-v4-code-on-v5-no-error-just-nan-ci0)
-- [Town Centre: An AoE2 Tournament Desk with Local AI](https://dev.to/hornetwing/town-centre-an-aoe2-tournament-desk-with-local-ai-1lha)
-- [Looking for Contributors: Can We Build a .NET Toolkit Developers Love to Use?](https://dev.to/tundeadetunji2017/looking-for-contributors-can-we-build-a-net-toolkit-developers-love-to-use-2oep)
-- [One device burned through 14,178 free trials while my costs tripled](https://dev.to/richard_smith_154156d471ef/one-device-burned-through-14178-free-trials-while-my-costs-tripled-1m5c)
-- [Horizontally Scaling PostgreSQL with YugabyteDB: The Problem, the Fix, and a Three-Node Demo](https://dev.to/kobbyprincee/horizontally-scaling-postgresql-with-yugabytedb-the-problem-the-fix-and-a-three-node-demo-4081)
+- [When the meter stops, the report still has to be right](https://dev.to/ometere123/when-the-meter-stops-the-report-still-has-to-be-right-3o0p)
+- [A screenshot that fails on its own: pin the data, not the pixel](https://dev.to/samuelfmedeiros/a-screenshot-that-fails-on-its-own-pin-the-data-not-the-pixel-f66)
+- [Your agent&#39;s memory stopped writing and nobody told you](https://dev.to/samuelfmedeiros/your-agents-memory-stopped-writing-and-nobody-told-you-2m7o)
+- [I Extracted the Audio From 20 Video Files in 2.2 Seconds — Here&#39;s the Batch Pipeline](https://dev.to/dennyguide/i-extracted-the-audio-from-20-video-files-in-22-seconds-heres-the-batch-pipeline-1poc)
+- [Building software got easy. Finding the first customer didn&#39;t.](https://dev.to/adk_bbx/building-software-got-easy-finding-the-first-customer-didnt-398i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
