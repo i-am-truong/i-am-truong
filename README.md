@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An MCP server that lets Claude Code find and download stock photos](https://dev.to/jeanpfs/an-mcp-server-that-lets-claude-code-find-and-download-stock-photos-5fof)
-- [Stop sharing your OpenAI API key with your team](https://dev.to/ddaras/stop-sharing-your-openai-api-key-with-your-team-1fek)
-- [How to record and edit a screen tutorial with Camtasia: a practical walkthrough](https://dev.to/kuponau/how-to-record-and-edit-a-screen-tutorial-with-camtasia-a-practical-walkthrough-29hn)
-- [O badge Guarded by g.cloud](https://dev.to/beanstechbr/o-badge-guarded-by-gcloud-2478)
-- [Can This Discount Actually Make Money? Building HustleRadar with Gemma 2 and SerpApi](https://dev.to/deep_saha/can-this-discount-actually-make-money-building-hustleradar-with-gemma-2-and-serpapi-55h1)
+- [Implement Per-Tenant Isolation — 1 Vector Collection Metadata Filter for Property Alerts](https://dev.to/quintonshaw1483/implement-per-tenant-isolation-1-vector-collection-metadata-filter-for-property-alerts-3daf)
+- [Lazy Chef: Automating My Grocery List with Local Open-Source Vision AI 🦥](https://dev.to/priti2008/lazy-chef-automating-my-grocery-list-with-local-open-source-vision-ai-50mk)
+- [I open-sourced Tokenade, my token optimizer for coding agents. Here is why the paid model did not hold](https://dev.to/paul_irolla_6b5ae261d0224/i-open-sourced-tokenade-my-token-optimizer-for-coding-agents-here-is-why-the-paid-model-did-not-2ahc)
+- [Refer-a-friend that doesn&#39;t kill your funnel: cooldown + activation scoring for tiny SaaS](https://dev.to/scsoi/refer-a-friend-that-doesnt-kill-your-funnel-cooldown-activation-scoring-for-tiny-saas-1ef0)
+- [5 falhas que só aparecem quando seu agente de IA roda sozinho &lpar;e uma checagem de 3 minutos para cada&rpar;](https://dev.to/neuralalpha/5-falhas-que-so-aparecem-quando-seu-agente-de-ia-roda-sozinho-e-uma-checagem-de-3-minutos-para-2m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
