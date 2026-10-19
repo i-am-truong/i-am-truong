@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When the meter stops, the report still has to be right](https://dev.to/ometere123/when-the-meter-stops-the-report-still-has-to-be-right-3o0p)
-- [A screenshot that fails on its own: pin the data, not the pixel](https://dev.to/samuelfmedeiros/a-screenshot-that-fails-on-its-own-pin-the-data-not-the-pixel-f66)
-- [Your agent&#39;s memory stopped writing and nobody told you](https://dev.to/samuelfmedeiros/your-agents-memory-stopped-writing-and-nobody-told-you-2m7o)
-- [I Extracted the Audio From 20 Video Files in 2.2 Seconds — Here&#39;s the Batch Pipeline](https://dev.to/dennyguide/i-extracted-the-audio-from-20-video-files-in-22-seconds-heres-the-batch-pipeline-1poc)
-- [Building software got easy. Finding the first customer didn&#39;t.](https://dev.to/adk_bbx/building-software-got-easy-finding-the-first-customer-didnt-398i)
+- [How I Lay Out Drywall Sheets Wall by Wall in the Browser](https://dev.to/drywallplanner/how-i-lay-out-drywall-sheets-wall-by-wall-in-the-browser-33o1)
+- [MarginPulse AI: An Open-Weight CFO That Prices Side-Hustle Gigs with TabPFN-3.5 &amp; Gemma 4](https://dev.to/adnan9-63/marginpulse-ai-an-open-weight-cfo-that-prices-side-hustle-gigs-with-tabpfn-35-gemma-4-43m9)
+- [An analysis of 5 key papers](https://dev.to/rayyan231503101/an-analysis-of-5-key-papers-1me8)
+- [ScopeShield: The Open-Source Scope Creep Detector for Freelancers**](https://dev.to/crimsoncodie09/scopeshield-the-open-source-scope-creep-detector-for-freelancers-32l6)
+- [MedPort: a private medical portfolio that reads your lab reports on your own laptop](https://dev.to/kuntalgorai/medport-a-private-medical-portfolio-that-reads-your-lab-reports-on-your-own-laptop-2mj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
