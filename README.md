@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Places Your .NET Chat Code Quietly Drops OpenAI&#39;s Encrypted Reasoning](https://dev.to/michael_maurice/3-places-your-net-chat-code-quietly-drops-openais-encrypted-reasoning-1a2b)
-- [Jigsawing packets: How I sent L2-L7 frames and read them with Scapy](https://dev.to/melnet/jigsawing-packets-how-i-sent-l2-l7-frames-and-read-them-with-scapy-5377)
-- [5 Tests I Write Before I Trust a Multi-Agent Workflow in .NET 10](https://dev.to/michael_maurice/5-tests-i-write-before-i-trust-a-multi-agent-workflow-in-net-10-d6p)
-- [When Kraken Adds Two CSV Columns: Why a Crypto Tax Importer Should Refuse to Guess](https://dev.to/livasticvm3primarytmp260920/when-kraken-adds-two-csv-columns-why-a-crypto-tax-importer-should-refuse-to-guess-14m6)
-- [GSTR-3B Filing History as a Credit Signal for Lenders](https://dev.to/befisc/gstr-3b-filing-history-as-a-credit-signal-for-lenders-39p5)
+- [Mistral&#39;s Timestral is #1 by 0.003 MASE. I ran it — the model was not the variable.](https://dev.to/slabb/mistrals-timestral-is-1-by-0003-mase-i-ran-it-the-model-was-not-the-variable-1bf8)
+- [Running DeepSeek-V4.1-Flash &lpar;763B&rpar; on one 96 GB GPU: the three settings that decide your speed](https://dev.to/inferencekey/running-deepseek-v41-flash-763b-on-one-96-gb-gpu-the-three-settings-that-decide-your-speed-32kd)
+- [How I Audit Supabase Row Level Security in Client-Side Apps](https://dev.to/cekuu35/how-i-audit-supabase-row-level-security-in-client-side-apps-pcg)
+- [I built 74 free tools that run entirely in the browser — no uploads, no signup](https://dev.to/hamzaalibasra/i-built-74-free-tools-that-run-entirely-in-the-browser-no-uploads-no-signup-30ih)
+- [Benchmarking GitHub Copilot CLI: Token Consumption, Latency, and Context Window Overhead Under Concurrent Sessions](https://dev.to/marcus_reed/benchmarking-github-copilot-cli-token-consumption-latency-and-context-window-overhead-under-4o7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
