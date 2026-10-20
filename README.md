@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mistral&#39;s Timestral is #1 by 0.003 MASE. I ran it — the model was not the variable.](https://dev.to/slabb/mistrals-timestral-is-1-by-0003-mase-i-ran-it-the-model-was-not-the-variable-1bf8)
-- [Running DeepSeek-V4.1-Flash &lpar;763B&rpar; on one 96 GB GPU: the three settings that decide your speed](https://dev.to/inferencekey/running-deepseek-v41-flash-763b-on-one-96-gb-gpu-the-three-settings-that-decide-your-speed-32kd)
-- [How I Audit Supabase Row Level Security in Client-Side Apps](https://dev.to/cekuu35/how-i-audit-supabase-row-level-security-in-client-side-apps-pcg)
-- [I built 74 free tools that run entirely in the browser — no uploads, no signup](https://dev.to/hamzaalibasra/i-built-74-free-tools-that-run-entirely-in-the-browser-no-uploads-no-signup-30ih)
-- [Benchmarking GitHub Copilot CLI: Token Consumption, Latency, and Context Window Overhead Under Concurrent Sessions](https://dev.to/marcus_reed/benchmarking-github-copilot-cli-token-consumption-latency-and-context-window-overhead-under-4o7a)
+- [Connecting Claude Code to the MCP server built into HPE Morpheus Enterprise](https://dev.to/emre_baykal_a4a7a479d48c5/connecting-claude-code-to-the-mcp-server-built-into-hpe-morpheus-enterprise-1do4)
+- [I Turned My Personal Site Into a Building](https://dev.to/iamcanturk/i-turned-my-personal-site-into-a-building-4goi)
+- [OpenAI Acquires Orchestra Bio to Expand Rosalind Into Drug Development Operations](https://dev.to/alifar/openai-acquires-orchestra-bio-to-expand-rosalind-into-drug-development-operations-mad)
+- [Machine Readable Travel Documents --- Doc 9303](https://dev.to/truth_unfiltered/machine-readable-travel-documents-doc-9303-4cni)
+- [Run a ByteChef workflow like a CLI command &lpar;no server, no database&rpar;](https://dev.to/bytechef/run-a-bytechef-workflow-like-a-cli-command-no-server-no-database-1n4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
