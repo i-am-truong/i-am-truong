@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of \$25/Month Resume Paywalls, So I Built a Free AI CV Builder &lpar;Next.js 16 + Gemini&rpar;](https://dev.to/khalidabdullahh/i-got-tired-of-25month-resume-paywalls-so-i-built-a-free-ai-cv-builder-nextjs-16-gemini-2jlf)
-- [Basic DDoS Protection for a cPanel/WHM Server Using CSF](https://dev.to/minh_57efa2b57b0a5fbb238e/basic-ddos-protection-for-a-cpanelwhm-server-using-csf-4pa3)
-- [Android Phone Stuck in Boot Loop? 9 Fixes That Work](https://dev.to/fixsflowteam/android-phone-stuck-in-boot-loop-9-fixes-that-work-mje)
-- [Your prayer-times app is probably 2 minutes early in Indonesia](https://dev.to/0345361887/your-prayer-times-app-is-probably-2-minutes-early-in-indonesia-4ae3)
-- [How to Remove Photo Metadata Before Sharing on Android](https://dev.to/tsidevstudio01/how-to-remove-photo-metadata-before-sharing-on-android-28e6)
+- [3 Places Your .NET Chat Code Quietly Drops OpenAI&#39;s Encrypted Reasoning](https://dev.to/michael_maurice/3-places-your-net-chat-code-quietly-drops-openais-encrypted-reasoning-1a2b)
+- [Jigsawing packets: How I sent L2-L7 frames and read them with Scapy](https://dev.to/melnet/jigsawing-packets-how-i-sent-l2-l7-frames-and-read-them-with-scapy-5377)
+- [5 Tests I Write Before I Trust a Multi-Agent Workflow in .NET 10](https://dev.to/michael_maurice/5-tests-i-write-before-i-trust-a-multi-agent-workflow-in-net-10-d6p)
+- [When Kraken Adds Two CSV Columns: Why a Crypto Tax Importer Should Refuse to Guess](https://dev.to/livasticvm3primarytmp260920/when-kraken-adds-two-csv-columns-why-a-crypto-tax-importer-should-refuse-to-guess-14m6)
+- [GSTR-3B Filing History as a Credit Signal for Lenders](https://dev.to/befisc/gstr-3b-filing-history-as-a-credit-signal-for-lenders-39p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
