@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [48-Hour Field Notes: I Built a Boot Beacon Because My Free Server Never Said Goodbye](https://dev.to/codepy_1473/48-hour-field-notes-i-built-a-boot-beacon-because-my-free-server-never-said-goodbye-596g)
-- [Vector Caching in Production AI Systems](https://dev.to/vikassri/vector-caching-in-production-ai-systems-473j)
-- [Keep a federal contract snapshot bounded to one exact recipient](https://dev.to/timmyzinin/keep-a-federal-contract-snapshot-bounded-to-one-exact-recipient-3hmg)
-- [Your Free Server Forgets Everything: Six Deploy Myths and a Restart Drill](https://dev.to/gitlab_3188/your-free-server-forgets-everything-six-deploy-myths-and-a-restart-drill-4m8m)
-- [The Patch Added a Sleep: Reviewing Timing and Retry Hunks Before Merge](https://dev.to/datacpp_8185/the-patch-added-a-sleep-reviewing-timing-and-retry-hunks-before-merge-2g07)
+- [I Got Tired of \$25/Month Resume Paywalls, So I Built a Free AI CV Builder &lpar;Next.js 16 + Gemini&rpar;](https://dev.to/khalidabdullahh/i-got-tired-of-25month-resume-paywalls-so-i-built-a-free-ai-cv-builder-nextjs-16-gemini-2jlf)
+- [Basic DDoS Protection for a cPanel/WHM Server Using CSF](https://dev.to/minh_57efa2b57b0a5fbb238e/basic-ddos-protection-for-a-cpanelwhm-server-using-csf-4pa3)
+- [Android Phone Stuck in Boot Loop? 9 Fixes That Work](https://dev.to/fixsflowteam/android-phone-stuck-in-boot-loop-9-fixes-that-work-mje)
+- [Your prayer-times app is probably 2 minutes early in Indonesia](https://dev.to/0345361887/your-prayer-times-app-is-probably-2-minutes-early-in-indonesia-4ae3)
+- [How to Remove Photo Metadata Before Sharing on Android](https://dev.to/tsidevstudio01/how-to-remove-photo-metadata-before-sharing-on-android-28e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
