@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implement Per-Tenant Isolation — 1 Vector Collection Metadata Filter for Property Alerts](https://dev.to/quintonshaw1483/implement-per-tenant-isolation-1-vector-collection-metadata-filter-for-property-alerts-3daf)
-- [Lazy Chef: Automating My Grocery List with Local Open-Source Vision AI 🦥](https://dev.to/priti2008/lazy-chef-automating-my-grocery-list-with-local-open-source-vision-ai-50mk)
-- [I open-sourced Tokenade, my token optimizer for coding agents. Here is why the paid model did not hold](https://dev.to/paul_irolla_6b5ae261d0224/i-open-sourced-tokenade-my-token-optimizer-for-coding-agents-here-is-why-the-paid-model-did-not-2ahc)
-- [Refer-a-friend that doesn&#39;t kill your funnel: cooldown + activation scoring for tiny SaaS](https://dev.to/scsoi/refer-a-friend-that-doesnt-kill-your-funnel-cooldown-activation-scoring-for-tiny-saas-1ef0)
-- [5 falhas que só aparecem quando seu agente de IA roda sozinho &lpar;e uma checagem de 3 minutos para cada&rpar;](https://dev.to/neuralalpha/5-falhas-que-so-aparecem-quando-seu-agente-de-ia-roda-sozinho-e-uma-checagem-de-3-minutos-para-2m7)
+- [48-Hour Field Notes: I Built a Boot Beacon Because My Free Server Never Said Goodbye](https://dev.to/codepy_1473/48-hour-field-notes-i-built-a-boot-beacon-because-my-free-server-never-said-goodbye-596g)
+- [Vector Caching in Production AI Systems](https://dev.to/vikassri/vector-caching-in-production-ai-systems-473j)
+- [Keep a federal contract snapshot bounded to one exact recipient](https://dev.to/timmyzinin/keep-a-federal-contract-snapshot-bounded-to-one-exact-recipient-3hmg)
+- [Your Free Server Forgets Everything: Six Deploy Myths and a Restart Drill](https://dev.to/gitlab_3188/your-free-server-forgets-everything-six-deploy-myths-and-a-restart-drill-4m8m)
+- [The Patch Added a Sleep: Reviewing Timing and Retry Hunks Before Merge](https://dev.to/datacpp_8185/the-patch-added-a-sleep-reviewing-timing-and-retry-hunks-before-merge-2g07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
