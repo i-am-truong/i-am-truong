@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Claude Code to the MCP server built into HPE Morpheus Enterprise](https://dev.to/emre_baykal_a4a7a479d48c5/connecting-claude-code-to-the-mcp-server-built-into-hpe-morpheus-enterprise-1do4)
-- [I Turned My Personal Site Into a Building](https://dev.to/iamcanturk/i-turned-my-personal-site-into-a-building-4goi)
-- [OpenAI Acquires Orchestra Bio to Expand Rosalind Into Drug Development Operations](https://dev.to/alifar/openai-acquires-orchestra-bio-to-expand-rosalind-into-drug-development-operations-mad)
-- [Machine Readable Travel Documents --- Doc 9303](https://dev.to/truth_unfiltered/machine-readable-travel-documents-doc-9303-4cni)
-- [Run a ByteChef workflow like a CLI command &lpar;no server, no database&rpar;](https://dev.to/bytechef/run-a-bytechef-workflow-like-a-cli-command-no-server-no-database-1n4d)
+- [Ticket keys in Firestore: issued once, never reused after delete](https://dev.to/panthpatel/ticket-keys-in-firestore-issued-once-never-reused-after-delete-4h4n)
+- [How I Automated China High-Speed Rail Ticket Booking &lpar;And What I Learned&rpar;](https://dev.to/jun_liu_ca219b73a8f1489b5/how-i-automated-china-high-speed-rail-ticket-booking-and-what-i-learned-51f2)
+- [A Hidden Waveform Can Still Spend Your Frame Budget](https://dev.to/keith_azodeh/a-hidden-waveform-can-still-spend-your-frame-budget-14kb)
+- [Missing alt vs empty alt: a one-minute image check for landing pages](https://dev.to/mercerk17/missing-alt-vs-empty-alt-a-one-minute-image-check-for-landing-pages-41fg)
+- [How to build a website AI agent with Claude that qualifies leads and books meetings](https://dev.to/kimolsen/how-to-build-a-website-ai-agent-with-claude-that-qualifies-leads-and-books-meetings-27o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
