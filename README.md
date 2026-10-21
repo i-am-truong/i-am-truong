@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run Your Social Media From Claude: A Practical Guide to Feedlio&#39;s MCP Server](https://dev.to/feedlio/run-your-social-media-from-claude-a-practical-guide-to-feedlios-mcp-server-3kca)
-- [Your Process.Start Code Can Deadlock. .NET 11 Has RunAndCaptureText](https://dev.to/iamprincejkc/your-processstart-code-can-deadlock-net-11-has-runandcapturetext-4i9n)
-- [11 Prompt Engineering Practices That Survive Production](https://dev.to/itechsoftsolutions/11-prompt-engineering-practices-that-survive-production-12pd)
-- [Model Upgrades Are Deployment Events](https://dev.to/tridaai/model-upgrades-are-deployment-events-48n7)
-- [DeepSeek กับ MiniMax ตั้งราคาเท่ากันเป๊ะ? ศึก Flash model ที่ตัดสินด้วยต้นทุนต่องานของ AI](https://dev.to/sarantoon/deepseek-kab-minimax-tangraakhaaethaakanepa-suek-flash-model-thiitadsindwytnthuntngaankhng-ai-557f)
+- [SIE vs vLLM: Which Fits Your Embedding and Reranking Workloads?](https://dev.to/tarunsinghofficial/sie-vs-vllm-which-fits-your-embedding-and-reranking-workloads-2ac1)
+- [We posted to the subreddit full of our users. They told us to go away. It was our best traffic day.](https://dev.to/bananafestdestiny/we-posted-to-the-subreddit-full-of-our-users-they-told-us-to-go-away-it-was-our-best-traffic-day-4fb7)
+- [Nine AI UI design tools, how to chain them so no work gets rebuilt, and why handoff matters more than a great first screen. Which ones are in your stack?](https://dev.to/rafidbottler/nine-ai-ui-design-tools-how-to-chain-them-so-no-work-gets-rebuilt-and-why-handoff-matters-more-14kp)
+- [How to Stop Your AI App From Leaking API Keys and Running Up Your Bill: A 7-Step Beginner Guide](https://dev.to/siteory/how-to-stop-your-ai-app-from-leaking-api-keys-and-running-up-your-bill-a-7-step-beginner-guide-3hie)
+- [Touching Grass with Local AI: Building Waypoint Autopilot](https://dev.to/joydeep_banik_a25a3b3aef3/touching-grass-with-local-ai-building-waypoint-autopilot-58ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
