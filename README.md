@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SIE vs vLLM: Which Fits Your Embedding and Reranking Workloads?](https://dev.to/tarunsinghofficial/sie-vs-vllm-which-fits-your-embedding-and-reranking-workloads-2ac1)
-- [We posted to the subreddit full of our users. They told us to go away. It was our best traffic day.](https://dev.to/bananafestdestiny/we-posted-to-the-subreddit-full-of-our-users-they-told-us-to-go-away-it-was-our-best-traffic-day-4fb7)
-- [Nine AI UI design tools, how to chain them so no work gets rebuilt, and why handoff matters more than a great first screen. Which ones are in your stack?](https://dev.to/rafidbottler/nine-ai-ui-design-tools-how-to-chain-them-so-no-work-gets-rebuilt-and-why-handoff-matters-more-14kp)
-- [How to Stop Your AI App From Leaking API Keys and Running Up Your Bill: A 7-Step Beginner Guide](https://dev.to/siteory/how-to-stop-your-ai-app-from-leaking-api-keys-and-running-up-your-bill-a-7-step-beginner-guide-3hie)
-- [Touching Grass with Local AI: Building Waypoint Autopilot](https://dev.to/joydeep_banik_a25a3b3aef3/touching-grass-with-local-ai-building-waypoint-autopilot-58ni)
+- [I made Coco, a little friend for Claude Code &lpar;0 extra tokens by default&rpar;](https://dev.to/ninon/i-made-coco-a-little-friend-for-claude-code-0-extra-tokens-by-default-1me7)
+- [How TokenCap Eliminates Context Query Latency with Background Pre-Warming](https://dev.to/vansharora21/how-tokencap-eliminates-context-query-latency-with-background-pre-warming-omg)
+- [ReconD: pull-based deployments for one server, without a platform](https://dev.to/ercross/recond-pull-based-deployments-for-one-server-without-a-platform-1jjb)
+- [How we made an Expo app feel native: Reanimated 4, real form sheets and haptics](https://dev.to/oddeggs/how-we-made-an-expo-app-feel-native-reanimated-4-real-form-sheets-and-haptics-244c)
+- [Apple&#39;s Oct 16, 2026 App Review update: what changed, and the 5 rejections indie devs hit most](https://dev.to/nivstudio/apples-oct-16-2026-app-review-update-what-changed-and-the-5-rejections-indie-devs-hit-most-1dp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
