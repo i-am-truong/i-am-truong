@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made Coco, a little friend for Claude Code &lpar;0 extra tokens by default&rpar;](https://dev.to/ninon/i-made-coco-a-little-friend-for-claude-code-0-extra-tokens-by-default-1me7)
-- [How TokenCap Eliminates Context Query Latency with Background Pre-Warming](https://dev.to/vansharora21/how-tokencap-eliminates-context-query-latency-with-background-pre-warming-omg)
-- [ReconD: pull-based deployments for one server, without a platform](https://dev.to/ercross/recond-pull-based-deployments-for-one-server-without-a-platform-1jjb)
-- [How we made an Expo app feel native: Reanimated 4, real form sheets and haptics](https://dev.to/oddeggs/how-we-made-an-expo-app-feel-native-reanimated-4-real-form-sheets-and-haptics-244c)
-- [Apple&#39;s Oct 16, 2026 App Review update: what changed, and the 5 rejections indie devs hit most](https://dev.to/nivstudio/apples-oct-16-2026-app-review-update-what-changed-and-the-5-rejections-indie-devs-hit-most-1dp8)
+- [We logged every major AI engine cited across 120 buyer questions. Official sites almost never made the list.](https://dev.to/hsiang_lee_tw/we-logged-every-major-ai-engine-cited-across-120-buyer-questions-official-sites-almost-never-made-557i)
+- [Finding striking-distance keywords with the Search Console API and a short Node script](https://dev.to/liaxim/finding-striking-distance-keywords-with-the-search-console-api-and-a-short-node-script-3l1b)
+- [Rethinking the Knowledge Base: Maybe Just Start with an LLM Wiki?](https://dev.to/shoyataguchi/rethinking-the-knowledge-base-maybe-just-start-with-an-llm-wiki-3b80)
+- [TabSloth 🦥 - Let Your Tabs Take a Nap](https://dev.to/sanjeevidev/tabsloth-let-your-tabs-take-a-nap-fjg)
+- [AI Found Two Critical Flaws Hiding in PHP for a Decade](https://dev.to/hamza140/ai-found-two-critical-flaws-hiding-in-php-for-a-decade-cej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
