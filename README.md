@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We logged every major AI engine cited across 120 buyer questions. Official sites almost never made the list.](https://dev.to/hsiang_lee_tw/we-logged-every-major-ai-engine-cited-across-120-buyer-questions-official-sites-almost-never-made-557i)
-- [Finding striking-distance keywords with the Search Console API and a short Node script](https://dev.to/liaxim/finding-striking-distance-keywords-with-the-search-console-api-and-a-short-node-script-3l1b)
-- [Rethinking the Knowledge Base: Maybe Just Start with an LLM Wiki?](https://dev.to/shoyataguchi/rethinking-the-knowledge-base-maybe-just-start-with-an-llm-wiki-3b80)
-- [TabSloth 🦥 - Let Your Tabs Take a Nap](https://dev.to/sanjeevidev/tabsloth-let-your-tabs-take-a-nap-fjg)
-- [AI Found Two Critical Flaws Hiding in PHP for a Decade](https://dev.to/hamza140/ai-found-two-critical-flaws-hiding-in-php-for-a-decade-cej)
+- [Julian Date Conversion in Code: YYDDD, CYYDDD, JD and MJD in Python, JavaScript, SQL and Excel](https://dev.to/ordinaldates/julian-date-conversion-in-code-yyddd-cyyddd-jd-and-mjd-in-python-javascript-sql-and-excel-29lm)
+- [Your AI agent runs with all your permissions. I built a cage for each tool call, in Rust](https://dev.to/cleiton_augusto_/your-ai-agent-runs-with-all-your-permissions-i-built-a-cage-for-each-tool-call-in-rust-430c)
+- [4 Notion formulas I use to run a freelance business &lpar;overdue projects, late invoices, tax set-aside&rpar;](https://dev.to/freelancerops/4-notion-formulas-i-use-to-run-a-freelance-business-overdue-projects-late-invoices-tax-set-aside-3lja)
+- [Software Engineering: Who Is a Software Engineer, and What Is the Software Development Life Cycle &lpar;SDLC&rpar;?](https://dev.to/hauwau_muhammadkabir_4d/software-engineering-who-is-a-software-engineer-and-what-is-the-software-development-life-cycle-9ck)
+- [Missed-call text back in n8n and Twilio: why the Dial action beats the status callback &lpar;free workflow JSON&rpar;](https://dev.to/smallbizautopilot/missed-call-text-back-in-n8n-and-twilio-why-the-dial-action-beats-the-status-callback-free-3l08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
