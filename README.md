@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Julian Date Conversion in Code: YYDDD, CYYDDD, JD and MJD in Python, JavaScript, SQL and Excel](https://dev.to/ordinaldates/julian-date-conversion-in-code-yyddd-cyyddd-jd-and-mjd-in-python-javascript-sql-and-excel-29lm)
-- [Your AI agent runs with all your permissions. I built a cage for each tool call, in Rust](https://dev.to/cleiton_augusto_/your-ai-agent-runs-with-all-your-permissions-i-built-a-cage-for-each-tool-call-in-rust-430c)
-- [4 Notion formulas I use to run a freelance business &lpar;overdue projects, late invoices, tax set-aside&rpar;](https://dev.to/freelancerops/4-notion-formulas-i-use-to-run-a-freelance-business-overdue-projects-late-invoices-tax-set-aside-3lja)
-- [Software Engineering: Who Is a Software Engineer, and What Is the Software Development Life Cycle &lpar;SDLC&rpar;?](https://dev.to/hauwau_muhammadkabir_4d/software-engineering-who-is-a-software-engineer-and-what-is-the-software-development-life-cycle-9ck)
-- [Missed-call text back in n8n and Twilio: why the Dial action beats the status callback &lpar;free workflow JSON&rpar;](https://dev.to/smallbizautopilot/missed-call-text-back-in-n8n-and-twilio-why-the-dial-action-beats-the-status-callback-free-3l08)
+- [AI Agent Identity Standards, Compared: HCS-14, ERC-8004, and the Rest](https://dev.to/iassets/ai-agent-identity-standards-compared-hcs-14-erc-8004-and-the-rest-490c)
+- [Supabase: The Open Source Firebase Alternative](https://dev.to/gittrending/supabase-the-open-source-firebase-alternative-558g)
+- [LiteLLM 1.107.0 stole credentials from every Python process. I checked PyPI and reproduced the mechanism with a canary](https://dev.to/frankchu/litellm-11070-stole-credentials-from-every-python-process-i-checked-pypi-and-reproduced-the-e9g)
+- [DuckDB 2.0 shipped today. I ran its headline features — triggers work, VARIANT has a silent-NULL trap](https://dev.to/frankchu/duckdb-20-shipped-today-i-ran-its-headline-features-triggers-work-variant-has-a-silent-null-58hb)
+- [A Minimal Runnable UART Parser for the SIP-S V1.0 Radar Protocol &lpar;Python&rpar;](https://dev.to/249263431/a-minimal-runnable-uart-parser-for-the-sip-s-v10-radar-protocol-python-3nlp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
