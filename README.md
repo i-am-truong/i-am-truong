@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ticket keys in Firestore: issued once, never reused after delete](https://dev.to/panthpatel/ticket-keys-in-firestore-issued-once-never-reused-after-delete-4h4n)
-- [How I Automated China High-Speed Rail Ticket Booking &lpar;And What I Learned&rpar;](https://dev.to/jun_liu_ca219b73a8f1489b5/how-i-automated-china-high-speed-rail-ticket-booking-and-what-i-learned-51f2)
-- [A Hidden Waveform Can Still Spend Your Frame Budget](https://dev.to/keith_azodeh/a-hidden-waveform-can-still-spend-your-frame-budget-14kb)
-- [Missing alt vs empty alt: a one-minute image check for landing pages](https://dev.to/mercerk17/missing-alt-vs-empty-alt-a-one-minute-image-check-for-landing-pages-41fg)
-- [How to build a website AI agent with Claude that qualifies leads and books meetings](https://dev.to/kimolsen/how-to-build-a-website-ai-agent-with-claude-that-qualifies-leads-and-books-meetings-27o9)
+- [Run Your Social Media From Claude: A Practical Guide to Feedlio&#39;s MCP Server](https://dev.to/feedlio/run-your-social-media-from-claude-a-practical-guide-to-feedlios-mcp-server-3kca)
+- [Your Process.Start Code Can Deadlock. .NET 11 Has RunAndCaptureText](https://dev.to/iamprincejkc/your-processstart-code-can-deadlock-net-11-has-runandcapturetext-4i9n)
+- [11 Prompt Engineering Practices That Survive Production](https://dev.to/itechsoftsolutions/11-prompt-engineering-practices-that-survive-production-12pd)
+- [Model Upgrades Are Deployment Events](https://dev.to/tridaai/model-upgrades-are-deployment-events-48n7)
+- [DeepSeek กับ MiniMax ตั้งราคาเท่ากันเป๊ะ? ศึก Flash model ที่ตัดสินด้วยต้นทุนต่องานของ AI](https://dev.to/sarantoon/deepseek-kab-minimax-tangraakhaaethaakanepa-suek-flash-model-thiitadsindwytnthuntngaankhng-ai-557f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
