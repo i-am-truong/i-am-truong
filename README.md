@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Injection at the Tool Boundary: Sanitizing LLM-Driven Function Calls in Go Microservices](https://dev.to/neeraj_singhi_golang/prompt-injection-at-the-tool-boundary-sanitizing-llm-driven-function-calls-in-go-microservices-4emb)
-- [My fix for this hang was already running. The sandbox hung anyway.](https://dev.to/nahumlitvin/my-fix-for-this-hang-was-already-running-the-sandbox-hung-anyway-3gd8)
-- [The same earthquake feed, sold at $0.005 a call and free at the source](https://dev.to/yagato/the-same-earthquake-feed-sold-at-0005-a-call-and-free-at-the-source-436i)
-- [Outbound Call Answers to Dead Air Before the Agent Joins](https://dev.to/rokasr/outbound-call-answers-to-dead-air-before-the-agent-joins-3fkk)
-- [Determinism Will Not Recover the Spec.](https://dev.to/zxpmail/determinism-will-not-recover-the-spec-2jb9)
+- [Lazy‑Loading Reasoning Chunks in Documedic CDSS](https://dev.to/sumaninster/lazy-loading-reasoning-chunks-in-documedic-cdss-3d73)
+- [How to Estimate LLM API Costs Before Launch](https://dev.to/mdazlaanzubair/how-to-estimate-llm-api-costs-before-launch-2hdk)
+- [Lazy-loading reasoning Documedic clinical decision support](https://dev.to/sumaninster/lazy-loading-reasoning-documedic-clinical-decision-support-lg2)
+- [A Serverless Bokeh Explorer for Tacna’s Solar Climate](https://dev.to/andrecarbajal/a-serverless-bokeh-explorer-for-tacnas-solar-climate-2mgn)
+- [Rent Receipt Generator: DoAide Docs for Indian Tenants](https://dev.to/sumaninster/rent-receipt-generator-doaide-docs-for-indian-tenants-2n35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
