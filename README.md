@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SlothSort AI — Local AI-Powered File Organizer](https://dev.to/shubkumar/slothsort-ai-local-ai-powered-file-organizer-3pi0)
-- [Page one is not your monthly export](https://dev.to/brodyga45/page-one-is-not-your-monthly-export-4kpl)
-- [$$$$$$BACKUP FOR | Shipping a Safe Rollback: Downgrading a Drift &lpar;SQLite&rpar; Database in Flutter Without Losing User Data](https://dev.to/gikwegbu/backup-for-shipping-a-safe-rollback-downgrading-a-drift-sqlite-database-in-flutter-3chk)
-- [Arc browser is shutting down for good on December 22nd](https://dev.to/hacksgr/arc-browser-is-shutting-down-for-good-on-december-22nd-4nae)
-- [Map your AI stack by layer before you pick vendors](https://dev.to/conorbronsdon/map-your-ai-stack-by-layer-before-you-pick-vendors-33b9)
+- [I Tracked Every Signup Email for 30 Days. Here&#39;s the Data.](https://dev.to/tempmailis/i-tracked-every-signup-email-for-30-days-heres-the-data-4gca)
+- [Owning Your Intelligence Means Owning Your Implementation](https://dev.to/focused_dot_io/owning-your-intelligence-means-owning-your-implementation-4p8h)
+- [Your agent can&#39;t call your friend&#39;s agent. I built the phone book that fixes that.](https://dev.to/pope_uncommon/your-agent-cant-call-your-friends-agent-i-built-the-phone-book-that-fixes-that-498i)
+- [Env Var vs Feature Flag — Choose Node.js Kill Switch for 2-Mode Incident Response](https://dev.to/linusholm3764/env-var-vs-feature-flag-choose-nodejs-kill-switch-for-2-mode-incident-response-5do2)
+- [Wrong-Document RAG Answers: Check Your Chatbot&#39;s Metadata Filter Before Reranking](https://dev.to/humphreyfox1243/wrong-document-rag-answers-check-your-chatbots-metadata-filter-before-reranking-14io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
