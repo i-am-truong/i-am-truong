@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-89111: SSRF in a Multi-Tenant SDK and the OAuth Credentials Behind It](https://dev.to/jeffreyciend/cve-2026-89111-ssrf-in-a-multi-tenant-sdk-and-the-oauth-credentials-behind-it-18bl)
-- [How we model a split bank charge so the budget only sees your share](https://dev.to/zeteoapp/how-we-model-a-split-bank-charge-so-the-budget-only-sees-your-share-1l8e)
-- [DEV&#39;s API served me 44-hour-old pages: why my count of every post kept shrinking](https://dev.to/munimv2/devs-api-served-me-44-hour-old-pages-why-my-count-of-every-post-kept-shrinking-4fb4)
-- [SSH that skipped the bastion was lateral movement confessing](https://dev.to/tokotokokame/ssh-that-skipped-the-bastion-was-lateral-movement-confessing-lho)
-- [How to Bring Memory-Efficient Structs and Data-Oriented Design to Godot 4 with an MCP Server in Python](https://dev.to/johann_schiffer/how-to-bring-memory-efficient-structs-and-data-oriented-design-to-godot-4-with-an-mcp-server-in-905)
+- [TiddlyWiki Cognee: a design proposal for searchable project notes](https://dev.to/saif_modan/tiddlywiki-x-cognee-a-design-proposal-for-searchable-project-notes-4cdo)
+- [PNG to JPEG saved 15-63% on a full-page screenshot, depending on the page. Cropping beat both.](https://dev.to/fetchsmith/png-to-jpeg-saved-15-63-on-a-full-page-screenshot-depending-on-the-page-cropping-beat-both-51mk)
+- [Scraping E-commerce Product Data: Variants, Prices and Stock Without Losing Accuracy](https://dev.to/promptcloud_services/scraping-e-commerce-product-data-variants-prices-and-stock-without-losing-accuracy-1ge4)
+- [Why Green Tests Are Not Enough for AI Coding Agents#](https://dev.to/rabeh_arch/why-green-tests-are-not-enough-for-ai-coding-agents-app)
+- [# Your AI Agent Failed in Production. Can You Replay the Exact Run?](https://dev.to/karthik_gokul_3a38136130f/-your-ai-agent-failed-in-production-can-you-replay-the-exact-run-371)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
