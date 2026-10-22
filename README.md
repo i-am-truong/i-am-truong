@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TiddlyWiki Cognee: a design proposal for searchable project notes](https://dev.to/saif_modan/tiddlywiki-x-cognee-a-design-proposal-for-searchable-project-notes-4cdo)
-- [PNG to JPEG saved 15-63% on a full-page screenshot, depending on the page. Cropping beat both.](https://dev.to/fetchsmith/png-to-jpeg-saved-15-63-on-a-full-page-screenshot-depending-on-the-page-cropping-beat-both-51mk)
-- [Scraping E-commerce Product Data: Variants, Prices and Stock Without Losing Accuracy](https://dev.to/promptcloud_services/scraping-e-commerce-product-data-variants-prices-and-stock-without-losing-accuracy-1ge4)
-- [Why Green Tests Are Not Enough for AI Coding Agents#](https://dev.to/rabeh_arch/why-green-tests-are-not-enough-for-ai-coding-agents-app)
-- [# Your AI Agent Failed in Production. Can You Replay the Exact Run?](https://dev.to/karthik_gokul_3a38136130f/-your-ai-agent-failed-in-production-can-you-replay-the-exact-run-371)
+- [Prompt Injection at the Tool Boundary: Sanitizing LLM-Driven Function Calls in Go Microservices](https://dev.to/neeraj_singhi_golang/prompt-injection-at-the-tool-boundary-sanitizing-llm-driven-function-calls-in-go-microservices-4emb)
+- [My fix for this hang was already running. The sandbox hung anyway.](https://dev.to/nahumlitvin/my-fix-for-this-hang-was-already-running-the-sandbox-hung-anyway-3gd8)
+- [The same earthquake feed, sold at $0.005 a call and free at the source](https://dev.to/yagato/the-same-earthquake-feed-sold-at-0005-a-call-and-free-at-the-source-436i)
+- [Outbound Call Answers to Dead Air Before the Agent Joins](https://dev.to/rokasr/outbound-call-answers-to-dead-air-before-the-agent-joins-3fkk)
+- [Determinism Will Not Recover the Spec.](https://dev.to/zxpmail/determinism-will-not-recover-the-spec-2jb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
