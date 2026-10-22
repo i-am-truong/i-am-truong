@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lazy‑Loading Reasoning Chunks in Documedic CDSS](https://dev.to/sumaninster/lazy-loading-reasoning-chunks-in-documedic-cdss-3d73)
-- [How to Estimate LLM API Costs Before Launch](https://dev.to/mdazlaanzubair/how-to-estimate-llm-api-costs-before-launch-2hdk)
-- [Lazy-loading reasoning Documedic clinical decision support](https://dev.to/sumaninster/lazy-loading-reasoning-documedic-clinical-decision-support-lg2)
-- [A Serverless Bokeh Explorer for Tacna’s Solar Climate](https://dev.to/andrecarbajal/a-serverless-bokeh-explorer-for-tacnas-solar-climate-2mgn)
-- [Rent Receipt Generator: DoAide Docs for Indian Tenants](https://dev.to/sumaninster/rent-receipt-generator-doaide-docs-for-indian-tenants-2n35)
+- [SlothSort AI — Local AI-Powered File Organizer](https://dev.to/shubkumar/slothsort-ai-local-ai-powered-file-organizer-3pi0)
+- [Page one is not your monthly export](https://dev.to/brodyga45/page-one-is-not-your-monthly-export-4kpl)
+- [$$$$$$BACKUP FOR | Shipping a Safe Rollback: Downgrading a Drift &lpar;SQLite&rpar; Database in Flutter Without Losing User Data](https://dev.to/gikwegbu/backup-for-shipping-a-safe-rollback-downgrading-a-drift-sqlite-database-in-flutter-3chk)
+- [Arc browser is shutting down for good on December 22nd](https://dev.to/hacksgr/arc-browser-is-shutting-down-for-good-on-december-22nd-4nae)
+- [Map your AI stack by layer before you pick vendors](https://dev.to/conorbronsdon/map-your-ai-stack-by-layer-before-you-pick-vendors-33b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
