@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tracked Every Signup Email for 30 Days. Here&#39;s the Data.](https://dev.to/tempmailis/i-tracked-every-signup-email-for-30-days-heres-the-data-4gca)
-- [Owning Your Intelligence Means Owning Your Implementation](https://dev.to/focused_dot_io/owning-your-intelligence-means-owning-your-implementation-4p8h)
-- [Your agent can&#39;t call your friend&#39;s agent. I built the phone book that fixes that.](https://dev.to/pope_uncommon/your-agent-cant-call-your-friends-agent-i-built-the-phone-book-that-fixes-that-498i)
-- [Env Var vs Feature Flag — Choose Node.js Kill Switch for 2-Mode Incident Response](https://dev.to/linusholm3764/env-var-vs-feature-flag-choose-nodejs-kill-switch-for-2-mode-incident-response-5do2)
-- [Wrong-Document RAG Answers: Check Your Chatbot&#39;s Metadata Filter Before Reranking](https://dev.to/humphreyfox1243/wrong-document-rag-answers-check-your-chatbots-metadata-filter-before-reranking-14io)
+- [Part 3: A platform-neutral reference architecture for enterprise agents](https://dev.to/thasha/part-3-a-platform-neutral-reference-architecture-for-enterprise-agents-26lc)
+- [How I Built an AI Phone Receptionist: Webhooks, Stateless Turns and Structured LLM Output](https://dev.to/kabariyashyam10ui/how-i-built-an-ai-phone-receptionist-webhooks-stateless-turns-and-structured-llm-output-3d6h)
+- [Change Data Capture &lpar;CDC&rpar; Explained: From the Transaction Log to a Snowflake MERGE](https://dev.to/pipelinewhiteboard/change-data-capture-cdc-explained-from-the-transaction-log-to-a-snowflake-merge-3582)
+- [Unit Converter: Why 1,000 lb Became 454 kg in One Service and 455 kg in Another](https://dev.to/meng_meng_56f17e28e55f140/unit-converter-why-1000-lb-became-454-kg-in-one-service-and-455-kg-in-another-c20)
+- [Make desktop automations reliable: wait for state, not just time](https://dev.to/macro8n/make-desktop-automations-reliable-wait-for-state-not-just-time-m69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
