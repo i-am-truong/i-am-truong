@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Typed email OTP: which managed implementations prevent concurrent reuse?](https://dev.to/lartuen/typed-email-otp-which-managed-implementations-prevent-concurrent-reuse-3pm8)
-- [5 Linux Security Checks I Never Skip on Production Servers](https://dev.to/cyberwebpen/5-linux-security-checks-i-never-skip-on-production-servers-1kbo)
-- [Leased Workers over Email Queue Timers — Rate Limited SaaS Background Jobs](https://dev.to/horatiofox1281/leased-workers-over-email-queue-timers-rate-limited-saas-background-jobs-43o4)
-- [Pin your own domain to 127.0.0.1 and your SSRF guard will refuse your own files](https://dev.to/dosai/pin-your-own-domain-to-127001-and-your-ssrf-guard-will-refuse-your-own-files-1d1k)
-- [Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33)
+- [Your camera&#39;s wrong password error can be three defaults deep](https://dev.to/prodbymarcu/your-cameras-wrong-password-error-can-be-three-defaults-deep-1a72)
+- [VLESS Reality простыми словами: как работает протокол и почему мы построили на нём свой VPN](https://dev.to/vadim_unlimited/vless-reality-prostymi-slovami-kak-rabotaiet-protokol-i-pochiemu-my-postroili-na-niom-svoi-vpn-27lp)
+- [Express Node.js Phone Login — SMS OTP Evidence for Property Receipts](https://dev.to/starspiregavren48/express-nodejs-phone-login-sms-otp-evidence-for-property-receipts-2fa1)
+- [Narração em português com IA, de graça, no Linux &lpar;Piper TTS + ffmpeg&rpar;](https://dev.to/nuvemdev/narracao-em-portugues-com-ia-de-graca-no-linux-piper-tts-ffmpeg-575h)
+- [Project Kaleidoscope – Store AI context locally inside abstract art PNGs](https://dev.to/kvm-labs/project-kaleidoscope-store-ai-context-locally-inside-abstract-art-pngs-15d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
