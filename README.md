@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mind mapping tools that survive contact with real projects](https://dev.to/dusky_memom3103/mind-mapping-tools-that-survive-contact-with-real-projects-5acf)
-- [# Slow &amp; Steady AI: Small Steps, Less Stress | Hacktoberfest Week 3](https://dev.to/ayush_singh_ed74b206815e0/-slow-steady-ai-small-steps-less-stress-hacktoberfest-week-3-2gbi)
-- [SlothSum 🦥: Two Sentences, Zero Effort, Powered by Open-Weight Gemma](https://dev.to/ketone834/slothsum-two-sentences-zero-effort-powered-by-open-weight-gemma-3ena)
-- [Torpor — Your Inbox, Summarized While You Sleep &lpar;Fully Local&rpar;](https://dev.to/chiragmangaldev3112/torpor-your-inbox-summarized-while-you-sleep-fully-local-17ok)
-- [LangGraph vs n8n for Enterprise Multi-Agent Systems: A 2026 Production Post-Mortem](https://dev.to/chaman_shah_elesium/langgraph-vs-n8n-for-enterprise-multi-agent-systems-a-2026-production-post-mortem-1h32)
+- [When Should You NOT Use an AI Agent in n8n?](https://dev.to/crzy_undefinedundefined/when-should-you-not-use-an-ai-agent-in-n8n-30fm)
+- [I open-sourced the architecture of my Discord ticket bot. One dependency, zero database, files as modules](https://dev.to/pixelforge/i-open-sourced-the-architecture-of-my-discord-ticket-bot-one-dependency-zero-database-files-as-1jf2)
+- [How to Remove Google TV Home Screen Ads &lpar;No Root, Free&rpar;](https://dev.to/goldenrod8888/how-to-remove-google-tv-home-screen-ads-no-root-free-59ji)
+- [Why the Django admin says 403 behind a proxy, and the one line that fixes it](https://dev.to/eudorajab1/why-the-django-admin-says-403-behind-a-proxy-and-the-one-line-that-fixes-it-5nf)
+- [OpenShell vs Docker Sandboxes: Which AI Agent Runtime Should You Choose?](https://dev.to/jamilxt/openshell-vs-docker-sandboxes-which-ai-agent-runtime-should-you-choose-57j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
