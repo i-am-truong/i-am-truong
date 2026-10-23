@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Automatic Configuration Leaves Questions Unanswered](https://dev.to/nwajichukwu_goodness_audit/when-automatic-configuration-leaves-questions-unanswered-346o)
-- [No Sqwakie server in the middle: how Sqwakie keeps a team&#39;s coding agents in sync with a signed, replicated log](https://dev.to/alexcarney/no-sqwakie-server-in-the-middle-how-sqwakie-keeps-a-teams-coding-agents-in-sync-with-a-signed-2f5k)
-- [Modeling &quot;will this part fit?&quot; as code: a replacement-rule validator for HVAC capacitors](https://dev.to/hvacfitter/modeling-will-this-part-fit-as-code-a-replacement-rule-validator-for-hvac-capacitors-4a5k)
-- [Vercel AI Gateway free tier: $5 of credits, real limits](https://dev.to/ikkun1222/vercel-ai-gateway-free-tier-5-of-credits-real-limits-56bf)
-- [Two Mezo blocks, identical reserves: what a read-only MUSD check actually proves](https://dev.to/livasticvm2primary/two-mezo-blocks-identical-reserves-what-a-read-only-musd-check-actually-proves-pd1)
+- [Typed email OTP: which managed implementations prevent concurrent reuse?](https://dev.to/lartuen/typed-email-otp-which-managed-implementations-prevent-concurrent-reuse-3pm8)
+- [5 Linux Security Checks I Never Skip on Production Servers](https://dev.to/cyberwebpen/5-linux-security-checks-i-never-skip-on-production-servers-1kbo)
+- [Leased Workers over Email Queue Timers — Rate Limited SaaS Background Jobs](https://dev.to/horatiofox1281/leased-workers-over-email-queue-timers-rate-limited-saas-background-jobs-43o4)
+- [Pin your own domain to 127.0.0.1 and your SSRF guard will refuse your own files](https://dev.to/dosai/pin-your-own-domain-to-127001-and-your-ssrf-guard-will-refuse-your-own-files-1d1k)
+- [Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
