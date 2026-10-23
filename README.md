@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: A platform-neutral reference architecture for enterprise agents](https://dev.to/thasha/part-3-a-platform-neutral-reference-architecture-for-enterprise-agents-26lc)
-- [How I Built an AI Phone Receptionist: Webhooks, Stateless Turns and Structured LLM Output](https://dev.to/kabariyashyam10ui/how-i-built-an-ai-phone-receptionist-webhooks-stateless-turns-and-structured-llm-output-3d6h)
-- [Change Data Capture &lpar;CDC&rpar; Explained: From the Transaction Log to a Snowflake MERGE](https://dev.to/pipelinewhiteboard/change-data-capture-cdc-explained-from-the-transaction-log-to-a-snowflake-merge-3582)
-- [Unit Converter: Why 1,000 lb Became 454 kg in One Service and 455 kg in Another](https://dev.to/meng_meng_56f17e28e55f140/unit-converter-why-1000-lb-became-454-kg-in-one-service-and-455-kg-in-another-c20)
-- [Make desktop automations reliable: wait for state, not just time](https://dev.to/macro8n/make-desktop-automations-reliable-wait-for-state-not-just-time-m69)
+- [Mind mapping tools that survive contact with real projects](https://dev.to/dusky_memom3103/mind-mapping-tools-that-survive-contact-with-real-projects-5acf)
+- [# Slow &amp; Steady AI: Small Steps, Less Stress | Hacktoberfest Week 3](https://dev.to/ayush_singh_ed74b206815e0/-slow-steady-ai-small-steps-less-stress-hacktoberfest-week-3-2gbi)
+- [SlothSum 🦥: Two Sentences, Zero Effort, Powered by Open-Weight Gemma](https://dev.to/ketone834/slothsum-two-sentences-zero-effort-powered-by-open-weight-gemma-3ena)
+- [Torpor — Your Inbox, Summarized While You Sleep &lpar;Fully Local&rpar;](https://dev.to/chiragmangaldev3112/torpor-your-inbox-summarized-while-you-sleep-fully-local-17ok)
+- [LangGraph vs n8n for Enterprise Multi-Agent Systems: A 2026 Production Post-Mortem](https://dev.to/chaman_shah_elesium/langgraph-vs-n8n-for-enterprise-multi-agent-systems-a-2026-production-post-mortem-1h32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
