@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Should You NOT Use an AI Agent in n8n?](https://dev.to/crzy_undefinedundefined/when-should-you-not-use-an-ai-agent-in-n8n-30fm)
-- [I open-sourced the architecture of my Discord ticket bot. One dependency, zero database, files as modules](https://dev.to/pixelforge/i-open-sourced-the-architecture-of-my-discord-ticket-bot-one-dependency-zero-database-files-as-1jf2)
-- [How to Remove Google TV Home Screen Ads &lpar;No Root, Free&rpar;](https://dev.to/goldenrod8888/how-to-remove-google-tv-home-screen-ads-no-root-free-59ji)
-- [Why the Django admin says 403 behind a proxy, and the one line that fixes it](https://dev.to/eudorajab1/why-the-django-admin-says-403-behind-a-proxy-and-the-one-line-that-fixes-it-5nf)
-- [OpenShell vs Docker Sandboxes: Which AI Agent Runtime Should You Choose?](https://dev.to/jamilxt/openshell-vs-docker-sandboxes-which-ai-agent-runtime-should-you-choose-57j1)
+- [When Automatic Configuration Leaves Questions Unanswered](https://dev.to/nwajichukwu_goodness_audit/when-automatic-configuration-leaves-questions-unanswered-346o)
+- [No Sqwakie server in the middle: how Sqwakie keeps a team&#39;s coding agents in sync with a signed, replicated log](https://dev.to/alexcarney/no-sqwakie-server-in-the-middle-how-sqwakie-keeps-a-teams-coding-agents-in-sync-with-a-signed-2f5k)
+- [Modeling &quot;will this part fit?&quot; as code: a replacement-rule validator for HVAC capacitors](https://dev.to/hvacfitter/modeling-will-this-part-fit-as-code-a-replacement-rule-validator-for-hvac-capacitors-4a5k)
+- [Vercel AI Gateway free tier: $5 of credits, real limits](https://dev.to/ikkun1222/vercel-ai-gateway-free-tier-5-of-credits-real-limits-56bf)
+- [Two Mezo blocks, identical reserves: what a read-only MUSD check actually proves](https://dev.to/livasticvm2primary/two-mezo-blocks-identical-reserves-what-a-read-only-musd-check-actually-proves-pd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
