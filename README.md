@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHP2Shell: The Week AI Became the Internet&#39;s Bug Bounty Hunter — and Then the Internet Caught Fire](https://dev.to/976905690/php2shell-the-week-ai-became-the-internets-bug-bounty-hunter-and-then-the-internet-caught-fire-1igi)
-- [🚀 Introducing Yantrika! A community for robotics, coding, and open-source collaboration. We build projects, organize workshops, and make tech education accessible. Join us and let&#39;s build together! 🤖 https://yantrika.in](https://dev.to/pritam_4fb10ae43e069c807d/introducing-yantrika-a-community-for-robotics-coding-and-open-source-collaboration-we-build-1bmf)
-- [Kimi K3.1 Pro: 3 Trillion Parameters, Open Weights, One-Fifth the Price — Moonshot&#39;s Biggest Flex Yet](https://dev.to/976905690/kimi-k31-pro-3-trillion-parameters-open-weights-one-fifth-the-price-moonshots-biggest-flex-2m8k)
-- [Nine files of headroom: what a 1,000-file deploy limit taught me about srcset and dead assets](https://dev.to/bukestudio/nine-files-of-headroom-what-a-1000-file-deploy-limit-taught-me-about-srcset-and-dead-assets-56lm)
-- [GrapheneOS logra Play Integrity fuerte sin aval de Google](https://dev.to/lu1tr0n/grapheneos-logra-play-integrity-fuerte-sin-aval-de-google-4m40)
+- [Designing a parking lot: the low-level design interview, explained](https://dev.to/gowthampotureddi/designing-a-parking-lot-the-low-level-design-interview-explained-g3k)
+- [SlothOps: A Local AI Caretaker for Your Codebase](https://dev.to/extinctsion/slothops-a-local-ai-caretaker-for-your-codebase-4nh)
+- [I built Xecute, a CLI tool to structure Rust API projects with Axum](https://dev.to/morshedulmunna/i-built-xecute-a-cli-tool-to-structure-rust-api-projects-with-axum-2034)
+- [Sloth Queue — three things, then a nap](https://dev.to/adahjerrie/sloth-queue-three-things-then-a-nap-17j9)
+- [Free Financial Data APIs for Backtesting: An Honest Comparison](https://dev.to/tradevodata/free-financial-data-apis-for-backtesting-an-honest-comparison-17di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
