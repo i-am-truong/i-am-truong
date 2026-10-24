@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a parking lot: the low-level design interview, explained](https://dev.to/gowthampotureddi/designing-a-parking-lot-the-low-level-design-interview-explained-g3k)
-- [SlothOps: A Local AI Caretaker for Your Codebase](https://dev.to/extinctsion/slothops-a-local-ai-caretaker-for-your-codebase-4nh)
-- [I built Xecute, a CLI tool to structure Rust API projects with Axum](https://dev.to/morshedulmunna/i-built-xecute-a-cli-tool-to-structure-rust-api-projects-with-axum-2034)
-- [Sloth Queue — three things, then a nap](https://dev.to/adahjerrie/sloth-queue-three-things-then-a-nap-17j9)
-- [Free Financial Data APIs for Backtesting: An Honest Comparison](https://dev.to/tradevodata/free-financial-data-apis-for-backtesting-an-honest-comparison-17di)
+- [Day 07/90:Taking RAG from Notebook to Production — Challenges and Research-Backed Solutions](https://dev.to/rimsha_kanwal/day-0790taking-rag-from-notebook-to-production-challenges-and-research-backed-solutions-3849)
+- [Actum: I say one sentence, my phone does the boring part, and nothing ever leaves it](https://dev.to/aritra_maity_e3bce29864e8/actum-i-say-one-sentence-my-phone-does-the-boring-part-and-nothing-ever-leaves-it-45ca)
+- [I indexed a 96k-file Linux kernel tree in 2m51s on a laptop — benchmarking two code-graph MCP servers](https://dev.to/ysenthilvasan/i-indexed-a-96k-file-linux-kernel-tree-in-2m51s-on-a-laptop-benchmarking-two-code-graph-mcp-lmg)
+- [Building a Better Salon Website: Online Booking, Accessibility, and User Experience](https://dev.to/sanctuarysalons/building-a-better-salon-website-online-booking-accessibility-and-user-experience-17lk)
+- [Understanding AI Agent Architecture - Part 2](https://dev.to/absterellio/understanding-ai-agent-architecture-part-2-1462)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
