@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your camera&#39;s wrong password error can be three defaults deep](https://dev.to/prodbymarcu/your-cameras-wrong-password-error-can-be-three-defaults-deep-1a72)
-- [VLESS Reality простыми словами: как работает протокол и почему мы построили на нём свой VPN](https://dev.to/vadim_unlimited/vless-reality-prostymi-slovami-kak-rabotaiet-protokol-i-pochiemu-my-postroili-na-niom-svoi-vpn-27lp)
-- [Express Node.js Phone Login — SMS OTP Evidence for Property Receipts](https://dev.to/starspiregavren48/express-nodejs-phone-login-sms-otp-evidence-for-property-receipts-2fa1)
-- [Narração em português com IA, de graça, no Linux &lpar;Piper TTS + ffmpeg&rpar;](https://dev.to/nuvemdev/narracao-em-portugues-com-ia-de-graca-no-linux-piper-tts-ffmpeg-575h)
-- [Project Kaleidoscope – Store AI context locally inside abstract art PNGs](https://dev.to/kvm-labs/project-kaleidoscope-store-ai-context-locally-inside-abstract-art-pngs-15d6)
+- [StudyDebt: Rewarding Academic Laziness with Open-Source AI and 10-Minute Micro-Sessions](https://dev.to/trideep_chakraborty_a/studydebt-rewarding-academic-laziness-with-open-source-ai-and-10-minute-micro-sessions-535b)
+- [Rune IDE 1.3 Released: TypeScript, Helix Editor, and Enhanced Graphics Improve Usability and Functionality](https://dev.to/viklogix/rune-ide-13-released-typescript-helix-editor-and-enhanced-graphics-improve-usability-and-37ff)
+- [Running Laravel Queues in Production: Redis, Supervisor, Retries and Failed Jobs](https://dev.to/muhammadalimughal/running-laravel-queues-in-production-redis-supervisor-retries-and-failed-jobs-278m)
+- [How to Check an SSL Certificate in 10 Minutes &lpar;and Fix the Most Common HTTPS Errors&rpar;](https://dev.to/muhammadalimughal/how-to-check-an-ssl-certificate-in-10-minutes-and-fix-the-most-common-https-errors-3274)
+- [&#39;Core Web Vitals in Practice: How Page Performance Affects Rankings&#39;](https://dev.to/tengence/core-web-vitals-in-practice-how-page-performance-affects-rankings-289d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
