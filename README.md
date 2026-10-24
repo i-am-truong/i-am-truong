@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Boss, No Money: The Raw Reality of a Chinese Gen-Z Freelancer](https://dev.to/doogee_doogeetoptop_1e/no-boss-no-money-the-raw-reality-of-a-chinese-gen-z-freelancer-4i0p)
-- [How to Generate Beautiful Code Screenshots 100% Client-Side &lpar;No Server Uploads, Zero Telemetry&rpar;](https://dev.to/rashid_salimov_ad8baac497/how-to-generate-beautiful-code-screenshots-100-client-side-no-server-uploads-zero-telemetry-38od)
-- [One UDP port, several Windows users: LAN discovery that works on a shared PC](https://dev.to/ashwar_sadh_f7abe6f82c8e9/one-udp-port-several-windows-users-lan-discovery-that-works-on-a-shared-pc-329n)
-- [Turn a Lighthouse export into tickets with traceable threshold evidence](https://dev.to/timmyzinin/turn-a-lighthouse-export-into-tickets-with-traceable-threshold-evidence-1dpm)
-- [Cloudflare Workers caching: store values, not in-flight promises](https://dev.to/teasateam/cloudflare-workers-caching-store-values-not-in-flight-promises-1bb3)
+- [Por qué cuesta tanto dejar los Reels, y qué puedes cambiar en el iPhone para que cueste menos](https://dev.to/ayumu_kitabayashi_8e0de96/por-que-cuesta-tanto-dejar-los-reels-y-que-puedes-cambiar-en-el-iphone-para-que-cueste-menos-3p0f)
+- [Get Weibo hot searches and posts as JSON with Python &lpar;no login&rpar;](https://dev.to/serenido/get-weibo-hot-searches-and-posts-as-json-with-python-no-login-1bfe)
+- [Fixing blurry photos in the browser: what actually works](https://dev.to/khangsar_gajewski_90b88c2/fixing-blurry-photos-in-the-browser-what-actually-works-307m)
+- [PHP2Shell: Die Sicherheitslücke war real. Die Aufregung war übertrieben.](https://dev.to/atec-systems/php2shell-die-sicherheitslucke-war-real-die-aufregung-war-ubertrieben-441c)
+- [Snapchat Spotlight on iPhone: what you can turn off, and the one thing you can&#39;t](https://dev.to/ayumu_kitabayashi_8e0de96/snapchat-spotlight-on-iphone-what-you-can-turn-off-and-the-one-thing-you-cant-10d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
