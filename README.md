@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Por qué cuesta tanto dejar los Reels, y qué puedes cambiar en el iPhone para que cueste menos](https://dev.to/ayumu_kitabayashi_8e0de96/por-que-cuesta-tanto-dejar-los-reels-y-que-puedes-cambiar-en-el-iphone-para-que-cueste-menos-3p0f)
-- [Get Weibo hot searches and posts as JSON with Python &lpar;no login&rpar;](https://dev.to/serenido/get-weibo-hot-searches-and-posts-as-json-with-python-no-login-1bfe)
-- [Fixing blurry photos in the browser: what actually works](https://dev.to/khangsar_gajewski_90b88c2/fixing-blurry-photos-in-the-browser-what-actually-works-307m)
-- [PHP2Shell: Die Sicherheitslücke war real. Die Aufregung war übertrieben.](https://dev.to/atec-systems/php2shell-die-sicherheitslucke-war-real-die-aufregung-war-ubertrieben-441c)
-- [Snapchat Spotlight on iPhone: what you can turn off, and the one thing you can&#39;t](https://dev.to/ayumu_kitabayashi_8e0de96/snapchat-spotlight-on-iphone-what-you-can-turn-off-and-the-one-thing-you-cant-10d5)
+- [PHP2Shell: The Week AI Became the Internet&#39;s Bug Bounty Hunter — and Then the Internet Caught Fire](https://dev.to/976905690/php2shell-the-week-ai-became-the-internets-bug-bounty-hunter-and-then-the-internet-caught-fire-1igi)
+- [🚀 Introducing Yantrika! A community for robotics, coding, and open-source collaboration. We build projects, organize workshops, and make tech education accessible. Join us and let&#39;s build together! 🤖 https://yantrika.in](https://dev.to/pritam_4fb10ae43e069c807d/introducing-yantrika-a-community-for-robotics-coding-and-open-source-collaboration-we-build-1bmf)
+- [Kimi K3.1 Pro: 3 Trillion Parameters, Open Weights, One-Fifth the Price — Moonshot&#39;s Biggest Flex Yet](https://dev.to/976905690/kimi-k31-pro-3-trillion-parameters-open-weights-one-fifth-the-price-moonshots-biggest-flex-2m8k)
+- [Nine files of headroom: what a 1,000-file deploy limit taught me about srcset and dead assets](https://dev.to/bukestudio/nine-files-of-headroom-what-a-1000-file-deploy-limit-taught-me-about-srcset-and-dead-assets-56lm)
+- [GrapheneOS logra Play Integrity fuerte sin aval de Google](https://dev.to/lu1tr0n/grapheneos-logra-play-integrity-fuerte-sin-aval-de-google-4m40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
