@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 07/90:Taking RAG from Notebook to Production — Challenges and Research-Backed Solutions](https://dev.to/rimsha_kanwal/day-0790taking-rag-from-notebook-to-production-challenges-and-research-backed-solutions-3849)
-- [Actum: I say one sentence, my phone does the boring part, and nothing ever leaves it](https://dev.to/aritra_maity_e3bce29864e8/actum-i-say-one-sentence-my-phone-does-the-boring-part-and-nothing-ever-leaves-it-45ca)
-- [I indexed a 96k-file Linux kernel tree in 2m51s on a laptop — benchmarking two code-graph MCP servers](https://dev.to/ysenthilvasan/i-indexed-a-96k-file-linux-kernel-tree-in-2m51s-on-a-laptop-benchmarking-two-code-graph-mcp-lmg)
-- [Building a Better Salon Website: Online Booking, Accessibility, and User Experience](https://dev.to/sanctuarysalons/building-a-better-salon-website-online-booking-accessibility-and-user-experience-17lk)
-- [Understanding AI Agent Architecture - Part 2](https://dev.to/absterellio/understanding-ai-agent-architecture-part-2-1462)
+- [Oneira Home - dreams dictionary](https://dev.to/phoenixfan86/oneira-home-dreams-dictionary-4ah5)
+- [My Passion for Coding Isn&#39;t 404. It&#39;s 503.](https://dev.to/_boweii/my-passion-for-coding-isnt-404-its-503-446h)
+- [Trace Path: Why Net Displacement Is the Wrong Check](https://dev.to/obrutus/trace-path-why-net-displacement-is-the-wrong-check-3gkh)
+- [Namakemono なまけもの — I built a local sloth to read my Japanese paperwork so I don&#39;t have to](https://dev.to/salugu_harshitabhanu_d37/namakemono-namakemono-i-built-a-local-sloth-to-read-my-japanese-paperwork-so-i-dont-have-to-5ag6)
+- [Construction SaaS Design Notes, Preserving Approved Scope](https://dev.to/brainfyai/construction-saas-design-notes-preserving-approved-scope-35h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
