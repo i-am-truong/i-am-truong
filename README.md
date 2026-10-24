@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [StudyDebt: Rewarding Academic Laziness with Open-Source AI and 10-Minute Micro-Sessions](https://dev.to/trideep_chakraborty_a/studydebt-rewarding-academic-laziness-with-open-source-ai-and-10-minute-micro-sessions-535b)
-- [Rune IDE 1.3 Released: TypeScript, Helix Editor, and Enhanced Graphics Improve Usability and Functionality](https://dev.to/viklogix/rune-ide-13-released-typescript-helix-editor-and-enhanced-graphics-improve-usability-and-37ff)
-- [Running Laravel Queues in Production: Redis, Supervisor, Retries and Failed Jobs](https://dev.to/muhammadalimughal/running-laravel-queues-in-production-redis-supervisor-retries-and-failed-jobs-278m)
-- [How to Check an SSL Certificate in 10 Minutes &lpar;and Fix the Most Common HTTPS Errors&rpar;](https://dev.to/muhammadalimughal/how-to-check-an-ssl-certificate-in-10-minutes-and-fix-the-most-common-https-errors-3274)
-- [&#39;Core Web Vitals in Practice: How Page Performance Affects Rankings&#39;](https://dev.to/tengence/core-web-vitals-in-practice-how-page-performance-affects-rankings-289d)
+- [No Boss, No Money: The Raw Reality of a Chinese Gen-Z Freelancer](https://dev.to/doogee_doogeetoptop_1e/no-boss-no-money-the-raw-reality-of-a-chinese-gen-z-freelancer-4i0p)
+- [How to Generate Beautiful Code Screenshots 100% Client-Side &lpar;No Server Uploads, Zero Telemetry&rpar;](https://dev.to/rashid_salimov_ad8baac497/how-to-generate-beautiful-code-screenshots-100-client-side-no-server-uploads-zero-telemetry-38od)
+- [One UDP port, several Windows users: LAN discovery that works on a shared PC](https://dev.to/ashwar_sadh_f7abe6f82c8e9/one-udp-port-several-windows-users-lan-discovery-that-works-on-a-shared-pc-329n)
+- [Turn a Lighthouse export into tickets with traceable threshold evidence](https://dev.to/timmyzinin/turn-a-lighthouse-export-into-tickets-with-traceable-threshold-evidence-1dpm)
+- [Cloudflare Workers caching: store values, not in-flight promises](https://dev.to/teasateam/cloudflare-workers-caching-store-values-not-in-flight-promises-1bb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
