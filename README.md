@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BullMQ in production: the retry, stalled-job and Redis connection mistakes that bite](https://dev.to/quietkernel/bullmq-in-production-the-retry-stalled-job-and-redis-connection-mistakes-that-bite-1go3)
-- [Anthropic Locks In Up to One Million Google TPU](https://dev.to/976905690/anthropic-locks-in-up-to-one-million-google-tpu-3kb8)
-- [How to extract image text offline and keep it in Markdown notes](https://dev.to/selzystudio/how-to-extract-image-text-offline-and-keep-it-in-markdown-notes-3921)
-- [TouchBase: An AI Companion That Reminds You to Live Offline](https://dev.to/sumaiya_afreen_1ed2b248a3/touchbase-an-ai-companion-that-reminds-you-to-live-offline-3ed6)
-- [5 RFQ Fields That Make Wire Harness Quotes Useless](https://dev.to/allanyang/5-rfq-fields-that-make-wire-harness-quotes-useless-4m6b)
+- [Spare Thumbs: Gemma 4 answers &quot;can we move the meeting?&quot; in my words, from my real calendar, and never double-books me](https://dev.to/jonathansolvesstuff/spare-thumbs-gemma-4-answers-can-we-move-the-meeting-in-my-words-from-my-real-calendar-and-4p52)
+- [HTTP2Shell: the Brotli decoder in your HTTP stack is critical, and your scanner won&#39;t flag it](https://dev.to/damiano_builds/http2shell-the-brotli-decoder-in-your-http-stack-is-critical-and-your-scanner-wont-flag-it-47fn)
+- [Professionalism in Software Development: Focus on Your Strengths](https://dev.to/aydope/professionalism-in-software-development-focus-on-your-strengths-1e41)
+- [Lazy Student AI: Study Smarter, Not Longer](https://dev.to/sne_ha091/lazy-student-ai-study-smarter-not-longer-5d7d)
+- [Five production bugs from running a 20-language AI song generator on Next.js](https://dev.to/anders_lee_28dbcc2fd8e034/five-production-bugs-from-running-a-20-language-ai-song-generator-on-nextjs-3el1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
