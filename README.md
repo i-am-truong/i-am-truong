@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Oneira Home - dreams dictionary](https://dev.to/phoenixfan86/oneira-home-dreams-dictionary-4ah5)
-- [My Passion for Coding Isn&#39;t 404. It&#39;s 503.](https://dev.to/_boweii/my-passion-for-coding-isnt-404-its-503-446h)
-- [Trace Path: Why Net Displacement Is the Wrong Check](https://dev.to/obrutus/trace-path-why-net-displacement-is-the-wrong-check-3gkh)
-- [Namakemono なまけもの — I built a local sloth to read my Japanese paperwork so I don&#39;t have to](https://dev.to/salugu_harshitabhanu_d37/namakemono-namakemono-i-built-a-local-sloth-to-read-my-japanese-paperwork-so-i-dont-have-to-5ag6)
-- [Construction SaaS Design Notes, Preserving Approved Scope](https://dev.to/brainfyai/construction-saas-design-notes-preserving-approved-scope-35h8)
+- [How I Found a High-Severity Rounding Vulnerability in Morpho Midnight &lpar;Tenor Labs&rpar;](https://dev.to/vaultvult/how-i-found-a-high-severity-rounding-vulnerability-in-morpho-midnight-tenor-labs-35c2)
+- [Why F# Breaks OpenAPI rendering: Note Names, URL Encoding, and the Clash Between Music Notation and pre-existing Web Standards](https://dev.to/hannedev/why-f-breaks-openapi-rendering-note-names-url-encoding-and-the-clash-between-music-notation-and-3573)
+- [How to Track Your Brand in Google AI Overviews Without a Paid API](https://dev.to/rankvelt/how-to-track-your-brand-in-google-ai-overviews-without-a-paid-api-o0b)
+- [How I Migrated a Live Database to a Many-to-Many Relationship](https://dev.to/gabriela_colombo_437a7a2d/how-i-migrated-a-live-database-to-a-many-to-many-relationship-3pkl)
+- [Laravel TokenGuard Auth Bypass &lpar;CVE-2026-114509&rpar;: What Site Owners Must Do Now](https://dev.to/senthil_kr/laravel-tokenguard-auth-bypass-cve-2026-114509-what-site-owners-must-do-now-1l89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
