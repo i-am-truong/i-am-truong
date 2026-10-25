@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spare Thumbs: Gemma 4 answers &quot;can we move the meeting?&quot; in my words, from my real calendar, and never double-books me](https://dev.to/jonathansolvesstuff/spare-thumbs-gemma-4-answers-can-we-move-the-meeting-in-my-words-from-my-real-calendar-and-4p52)
-- [HTTP2Shell: the Brotli decoder in your HTTP stack is critical, and your scanner won&#39;t flag it](https://dev.to/damiano_builds/http2shell-the-brotli-decoder-in-your-http-stack-is-critical-and-your-scanner-wont-flag-it-47fn)
-- [Professionalism in Software Development: Focus on Your Strengths](https://dev.to/aydope/professionalism-in-software-development-focus-on-your-strengths-1e41)
-- [Lazy Student AI: Study Smarter, Not Longer](https://dev.to/sne_ha091/lazy-student-ai-study-smarter-not-longer-5d7d)
-- [Five production bugs from running a 20-language AI song generator on Next.js](https://dev.to/anders_lee_28dbcc2fd8e034/five-production-bugs-from-running-a-20-language-ai-song-generator-on-nextjs-3el1)
+- [[Boost]](https://dev.to/minhlong2605/-1f29)
+- [Internationalization &lpar;I18n&rpar; Implementation in React](https://dev.to/sufiyan_akbani/internationalization-i18n-implementation-in-react-3h09)
+- [Jarvis Control Center: Local Browser Agent Powered by Gemma 4](https://dev.to/srikar_naidu/jarvis-control-center-local-browser-agent-powered-by-gemma-4-n2g)
+- [🦥 My Screenshots Folder Was a To-Do List That Never Reminded Me. So I Hired a Sloth.](https://dev.to/minhlong2605/my-screenshots-folder-was-a-to-do-list-that-never-reminded-me-so-i-hired-a-sloth-4o86)
+- [Stop Snapshot-Testing Voice Conversations: Verify the Turn Protocol Instead](https://dev.to/susiewang/stop-snapshot-testing-voice-conversations-verify-the-turn-protocol-instead-109j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
