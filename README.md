@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/minhlong2605/-1f29)
-- [Internationalization &lpar;I18n&rpar; Implementation in React](https://dev.to/sufiyan_akbani/internationalization-i18n-implementation-in-react-3h09)
-- [Jarvis Control Center: Local Browser Agent Powered by Gemma 4](https://dev.to/srikar_naidu/jarvis-control-center-local-browser-agent-powered-by-gemma-4-n2g)
-- [🦥 My Screenshots Folder Was a To-Do List That Never Reminded Me. So I Hired a Sloth.](https://dev.to/minhlong2605/my-screenshots-folder-was-a-to-do-list-that-never-reminded-me-so-i-hired-a-sloth-4o86)
-- [Stop Snapshot-Testing Voice Conversations: Verify the Turn Protocol Instead](https://dev.to/susiewang/stop-snapshot-testing-voice-conversations-verify-the-turn-protocol-instead-109j)
+- [Your Form Says “Invalid.” Your User Says “Now What?”](https://dev.to/__be2942592/your-form-says-invalid-your-user-says-now-what-3l90)
+- [Let your x402 agent read web pages: from a free test call to a paid call](https://dev.to/nyx464664816stack/let-your-x402-agent-read-web-pages-from-a-free-test-call-to-a-paid-call-271o)
+- [Documentation Site Screenshots Are Too Heavy: A WebP Workflow for Docs Images](https://dev.to/zjch022/documentation-site-screenshots-are-too-heavy-a-webp-workflow-for-docs-images-1c39)
+- [How Websites Identify Your Device Without Cookies](https://dev.to/parallaxgrain/how-websites-identify-your-device-without-cookies-3i2e)
+- [Stop Asking AI to “Make It Better.” Name One Thing.](https://dev.to/__be2942592/stop-asking-ai-to-make-it-better-name-one-thing-2cg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
