@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Found a High-Severity Rounding Vulnerability in Morpho Midnight &lpar;Tenor Labs&rpar;](https://dev.to/vaultvult/how-i-found-a-high-severity-rounding-vulnerability-in-morpho-midnight-tenor-labs-35c2)
-- [Why F# Breaks OpenAPI rendering: Note Names, URL Encoding, and the Clash Between Music Notation and pre-existing Web Standards](https://dev.to/hannedev/why-f-breaks-openapi-rendering-note-names-url-encoding-and-the-clash-between-music-notation-and-3573)
-- [How to Track Your Brand in Google AI Overviews Without a Paid API](https://dev.to/rankvelt/how-to-track-your-brand-in-google-ai-overviews-without-a-paid-api-o0b)
-- [How I Migrated a Live Database to a Many-to-Many Relationship](https://dev.to/gabriela_colombo_437a7a2d/how-i-migrated-a-live-database-to-a-many-to-many-relationship-3pkl)
-- [Laravel TokenGuard Auth Bypass &lpar;CVE-2026-114509&rpar;: What Site Owners Must Do Now](https://dev.to/senthil_kr/laravel-tokenguard-auth-bypass-cve-2026-114509-what-site-owners-must-do-now-1l89)
+- [Rate limiting algorithms explained: Token Bucket vs Sliding Window vs Fixed Window](https://dev.to/zlynv/rate-limiting-algorithms-explained-token-bucket-vs-sliding-window-vs-fixed-window-1630)
+- [I Built an Offline AI That Organizes My Downloads So I Don&#39;t Have To](https://dev.to/antkss07/i-built-an-offline-ai-that-organizes-my-downloads-so-i-dont-have-to-3pm0)
+- [Meta&#39;s Crawler Goes Live Oct 30. Your Real Deadline Is Oct 29.](https://dev.to/paullovelace/metas-crawler-goes-live-oct-30-your-real-deadline-is-oct-29-3ika)
+- [From 1,464 Unrouted Nets to Zero — But I&#39;m Still Not Calling This Board Manufacturable](https://dev.to/tomoyacreater/from-1464-unrouted-nets-to-zero-but-im-still-not-calling-this-board-manufacturable-2c4h)
+- [I&#39;m Too Lazy to Write Alt Text, So Gemma Does It For Me](https://dev.to/0shuvo0/im-too-lazy-to-write-alt-text-so-gemma-does-it-for-me-6ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
