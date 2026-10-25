@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Form Says “Invalid.” Your User Says “Now What?”](https://dev.to/__be2942592/your-form-says-invalid-your-user-says-now-what-3l90)
-- [Let your x402 agent read web pages: from a free test call to a paid call](https://dev.to/nyx464664816stack/let-your-x402-agent-read-web-pages-from-a-free-test-call-to-a-paid-call-271o)
-- [Documentation Site Screenshots Are Too Heavy: A WebP Workflow for Docs Images](https://dev.to/zjch022/documentation-site-screenshots-are-too-heavy-a-webp-workflow-for-docs-images-1c39)
-- [How Websites Identify Your Device Without Cookies](https://dev.to/parallaxgrain/how-websites-identify-your-device-without-cookies-3i2e)
-- [Stop Asking AI to “Make It Better.” Name One Thing.](https://dev.to/__be2942592/stop-asking-ai-to-make-it-better-name-one-thing-2cg3)
+- [Your Eval Suite Has a Flake Rate: Gating LLM Changes on Paired, Powered Tests](https://dev.to/dima_kruglov_608741d9a416/your-eval-suite-has-a-flake-rate-gating-llm-changes-on-paired-powered-tests-j7p)
+- [msiexec repair mode resolves a binary path from a directory an installer wrote to](https://dev.to/jeffreyciend/msiexec-repair-mode-resolves-a-binary-path-from-a-directory-an-installer-wrote-to-50ne)
+- [Failure Detection and Recovery in Healthcare Agentic Workflows](https://dev.to/onyedikachi_onwurah_00ba3/failure-detection-and-recovery-in-healthcare-agentic-workflows-21ni)
+- [Pure cinema](https://dev.to/sharpvik/pure-cinema-66k)
+- [Leaving Railway in an afternoon](https://dev.to/sharpvik/leaving-railway-in-an-afternoon-2d4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
