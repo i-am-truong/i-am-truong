@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rate limiting algorithms explained: Token Bucket vs Sliding Window vs Fixed Window](https://dev.to/zlynv/rate-limiting-algorithms-explained-token-bucket-vs-sliding-window-vs-fixed-window-1630)
-- [I Built an Offline AI That Organizes My Downloads So I Don&#39;t Have To](https://dev.to/antkss07/i-built-an-offline-ai-that-organizes-my-downloads-so-i-dont-have-to-3pm0)
-- [Meta&#39;s Crawler Goes Live Oct 30. Your Real Deadline Is Oct 29.](https://dev.to/paullovelace/metas-crawler-goes-live-oct-30-your-real-deadline-is-oct-29-3ika)
-- [From 1,464 Unrouted Nets to Zero — But I&#39;m Still Not Calling This Board Manufacturable](https://dev.to/tomoyacreater/from-1464-unrouted-nets-to-zero-but-im-still-not-calling-this-board-manufacturable-2c4h)
-- [I&#39;m Too Lazy to Write Alt Text, So Gemma Does It For Me](https://dev.to/0shuvo0/im-too-lazy-to-write-alt-text-so-gemma-does-it-for-me-6ji)
+- [BullMQ in production: the retry, stalled-job and Redis connection mistakes that bite](https://dev.to/quietkernel/bullmq-in-production-the-retry-stalled-job-and-redis-connection-mistakes-that-bite-1go3)
+- [Anthropic Locks In Up to One Million Google TPU](https://dev.to/976905690/anthropic-locks-in-up-to-one-million-google-tpu-3kb8)
+- [How to extract image text offline and keep it in Markdown notes](https://dev.to/selzystudio/how-to-extract-image-text-offline-and-keep-it-in-markdown-notes-3921)
+- [TouchBase: An AI Companion That Reminds You to Live Offline](https://dev.to/sumaiya_afreen_1ed2b248a3/touchbase-an-ai-companion-that-reminds-you-to-live-offline-3ed6)
+- [5 RFQ Fields That Make Wire Harness Quotes Useless](https://dev.to/allanyang/5-rfq-fields-that-make-wire-harness-quotes-useless-4m6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
