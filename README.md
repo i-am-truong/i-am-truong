@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AdamPay: a non-custodial Solana payment PWA with Jupiter, Solana Pay and Phantom](https://dev.to/adampayapp/building-adampay-a-non-custodial-solana-payment-pwa-with-jupiter-solana-pay-and-phantom-2ci9)
-- [Refresh a React Route on S3 + CloudFront and Get AccessDenied? Fix It Without Hiding Your API 404s](https://dev.to/cloudskillconsultingllc/refresh-a-react-route-on-s3-cloudfront-and-get-accessdenied-fix-it-without-hiding-your-api-404s-355m)
-- [Why Inference Matters 12x More Than Training -- YC Paper Club | YC Paper Club分享实录：大模型推理的重要性是训练的12倍](https://dev.to/cognitalk/why-inference-matters-12x-more-than-training-yc-paper-club-1elk)
-- [Your Agent&#39;s Event Log Is a Test Fixture](https://dev.to/bobbyhalljr/your-agents-event-log-is-a-test-fixture-4el2)
-- [SpaceX&#39;s $40B GPU deal is a lease, not a check. I did the payment math.](https://dev.to/frankchu/spacexs-40b-gpu-deal-is-a-lease-not-a-check-i-did-the-payment-math-5aae)
+- [Ofrenda is a local altar for long lost repositories which still have unfinished work.](https://dev.to/shashank_chakraborty_6362/ofrenda-is-a-local-altar-for-long-lost-repositories-which-still-have-unfinished-work-1aci)
+- [Wenn Tech-Riesen um Geheimnisse kämpfen – und ein VR-Spiel still Sehkraft zurückgibt](https://dev.to/ashish_624379625242c5d263/wenn-tech-riesen-um-geheimnisse-kampfen-und-ein-vr-spiel-still-sehkraft-zuruckgibt-20md)
+- [Wenn KI-Schlachten toben, hilft VR beim Sehen lernen](https://dev.to/ashish_624379625242c5d263/wenn-ki-schlachten-toben-hilft-vr-beim-sehen-lernen-h6l)
+- [Classify Text Data Using an Embeddings API in Node.js: Portable Invoice Field Decisions](https://dev.to/sunspirevalerius59/classify-text-data-using-an-embeddings-api-in-nodejs-portable-invoice-field-decisions-32i9)
+- [How to Build an MT5 Trading Bot Without Writing MQL Code](https://dev.to/luka_savic_21dedc9e922e06/how-to-build-an-mt5-trading-bot-without-writing-mql-code-14p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
