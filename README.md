@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Should a tool tell you what it cannot check?](https://dev.to/mingcheng_kang_1e9c515672/should-a-tool-tell-you-what-it-cannot-check-4fid)
-- [Auracast compatibility: what to actually check before you buy](https://dev.to/bytepreviewen/auracast-compatibility-what-to-actually-check-before-you-buy-58kb)
-- [LazyDesk AI — Your Local AI Productivity Assistant | Work Less, Live More](https://dev.to/himanshu_gupta_616ffaefe9/lazydesk-ai-your-local-ai-productivity-assistant-work-less-live-more-4i9)
-- [Our AI coding agent passed all the tests, but the code was still wrong](https://dev.to/singarajatech/our-ai-coding-agent-passed-all-the-tests-but-the-code-was-still-wrong-5ehg)
-- [Multi-Class Log Loss Explained: Math, MLE &amp; Python Code](https://dev.to/malcolmlow/multi-class-log-loss-explained-math-mle-python-code-3nok)
+- [How to Use Claude Code with Opus 5.5 &amp; Fable 5.1 for Free &lpar; No Card Required&rpar;](https://dev.to/thecodestreet/how-to-use-claude-code-with-opus-55-fable-51-for-free-no-card-required-4ngi)
+- [My SSD went silent and SMART called it perfect](https://dev.to/prodbymarcu/my-ssd-went-silent-and-smart-called-it-perfect-8eg)
+- [Turn PDF pages into JPG images in your browser](https://dev.to/ameenusman/turn-pdf-pages-into-jpg-images-in-your-browser-mei)
+- [How I built a test that walks the shipped import graph: the missing module that bricked Ankita 2.7.0](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-a-test-that-walks-the-shipped-import-graph-the-missing-module-that-bricked-ankita-270-j6)
+- [Flutter vs Native iOS / Android for Startup MVPs](https://dev.to/mikalaisiliuk/flutter-vs-native-ios-android-for-startup-mvps-5065)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
