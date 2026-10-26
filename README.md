@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Slow and Steady: I Built Two Tools That Do the Checks I Dread](https://dev.to/fetchdoge_/slow-and-steady-i-built-two-tools-that-do-the-checks-i-dread-25ma)
-- [7.5% Cashback Isn’t a Price. I Built TripStack to Read the Rest.](https://dev.to/michelleeeeeeeee-yin/75-cashback-isnt-a-price-i-built-tripstack-to-read-the-rest-3fha)
-- [Why Small AI Models Are Becoming Essential Developer Tools: Lessons from Property Deeds, Debugging, and Email Assistants](https://dev.to/tamizuddin/why-small-ai-models-are-becoming-essential-developer-tools-lessons-from-property-deeds-debugging-oa3)
-- [I Built SlothBank Using Gemma 3 and Mastra to Catch Unexpected Bills with AI 🦥](https://dev.to/shanaya_31/i-built-slothbank-using-gemma-3-and-mastra-to-catch-unexpected-bills-with-ai-5g02)
-- [Disattivare la riproduzione automatica su Instagram e Facebook &lpar;iPhone, 2026&rpar;: cosa cambia e perché i Reels restano](https://dev.to/ayumu_kitabayashi_8e0de96/disattivare-la-riproduzione-automatica-su-instagram-e-facebook-iphone-2026-cosa-cambia-e-perche-2b8m)
+- [Should a tool tell you what it cannot check?](https://dev.to/mingcheng_kang_1e9c515672/should-a-tool-tell-you-what-it-cannot-check-4fid)
+- [Auracast compatibility: what to actually check before you buy](https://dev.to/bytepreviewen/auracast-compatibility-what-to-actually-check-before-you-buy-58kb)
+- [LazyDesk AI — Your Local AI Productivity Assistant | Work Less, Live More](https://dev.to/himanshu_gupta_616ffaefe9/lazydesk-ai-your-local-ai-productivity-assistant-work-less-live-more-4i9)
+- [Our AI coding agent passed all the tests, but the code was still wrong](https://dev.to/singarajatech/our-ai-coding-agent-passed-all-the-tests-but-the-code-was-still-wrong-5ehg)
+- [Multi-Class Log Loss Explained: Math, MLE &amp; Python Code](https://dev.to/malcolmlow/multi-class-log-loss-explained-math-mle-python-code-3nok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
