@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Claude Code with Opus 5.5 &amp; Fable 5.1 for Free &lpar; No Card Required&rpar;](https://dev.to/thecodestreet/how-to-use-claude-code-with-opus-55-fable-51-for-free-no-card-required-4ngi)
-- [My SSD went silent and SMART called it perfect](https://dev.to/prodbymarcu/my-ssd-went-silent-and-smart-called-it-perfect-8eg)
-- [Turn PDF pages into JPG images in your browser](https://dev.to/ameenusman/turn-pdf-pages-into-jpg-images-in-your-browser-mei)
-- [How I built a test that walks the shipped import graph: the missing module that bricked Ankita 2.7.0](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-a-test-that-walks-the-shipped-import-graph-the-missing-module-that-bricked-ankita-270-j6)
-- [Flutter vs Native iOS / Android for Startup MVPs](https://dev.to/mikalaisiliuk/flutter-vs-native-ios-android-for-startup-mvps-5065)
+- [Building AdamPay: a non-custodial Solana payment PWA with Jupiter, Solana Pay and Phantom](https://dev.to/adampayapp/building-adampay-a-non-custodial-solana-payment-pwa-with-jupiter-solana-pay-and-phantom-2ci9)
+- [Refresh a React Route on S3 + CloudFront and Get AccessDenied? Fix It Without Hiding Your API 404s](https://dev.to/cloudskillconsultingllc/refresh-a-react-route-on-s3-cloudfront-and-get-accessdenied-fix-it-without-hiding-your-api-404s-355m)
+- [Why Inference Matters 12x More Than Training -- YC Paper Club | YC Paper Club分享实录：大模型推理的重要性是训练的12倍](https://dev.to/cognitalk/why-inference-matters-12x-more-than-training-yc-paper-club-1elk)
+- [Your Agent&#39;s Event Log Is a Test Fixture](https://dev.to/bobbyhalljr/your-agents-event-log-is-a-test-fixture-4el2)
+- [SpaceX&#39;s $40B GPU deal is a lease, not a check. I did the payment math.](https://dev.to/frankchu/spacexs-40b-gpu-deal-is-a-lease-not-a-check-i-did-the-payment-math-5aae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
