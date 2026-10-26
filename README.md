@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Eval Suite Has a Flake Rate: Gating LLM Changes on Paired, Powered Tests](https://dev.to/dima_kruglov_608741d9a416/your-eval-suite-has-a-flake-rate-gating-llm-changes-on-paired-powered-tests-j7p)
-- [msiexec repair mode resolves a binary path from a directory an installer wrote to](https://dev.to/jeffreyciend/msiexec-repair-mode-resolves-a-binary-path-from-a-directory-an-installer-wrote-to-50ne)
-- [Failure Detection and Recovery in Healthcare Agentic Workflows](https://dev.to/onyedikachi_onwurah_00ba3/failure-detection-and-recovery-in-healthcare-agentic-workflows-21ni)
-- [Pure cinema](https://dev.to/sharpvik/pure-cinema-66k)
-- [Leaving Railway in an afternoon](https://dev.to/sharpvik/leaving-railway-in-an-afternoon-2d4n)
+- [Slow and Steady: I Built Two Tools That Do the Checks I Dread](https://dev.to/fetchdoge_/slow-and-steady-i-built-two-tools-that-do-the-checks-i-dread-25ma)
+- [7.5% Cashback Isn’t a Price. I Built TripStack to Read the Rest.](https://dev.to/michelleeeeeeeee-yin/75-cashback-isnt-a-price-i-built-tripstack-to-read-the-rest-3fha)
+- [Why Small AI Models Are Becoming Essential Developer Tools: Lessons from Property Deeds, Debugging, and Email Assistants](https://dev.to/tamizuddin/why-small-ai-models-are-becoming-essential-developer-tools-lessons-from-property-deeds-debugging-oa3)
+- [I Built SlothBank Using Gemma 3 and Mastra to Catch Unexpected Bills with AI 🦥](https://dev.to/shanaya_31/i-built-slothbank-using-gemma-3-and-mastra-to-catch-unexpected-bills-with-ai-5g02)
+- [Disattivare la riproduzione automatica su Instagram e Facebook &lpar;iPhone, 2026&rpar;: cosa cambia e perché i Reels restano](https://dev.to/ayumu_kitabayashi_8e0de96/disattivare-la-riproduzione-automatica-su-instagram-e-facebook-iphone-2026-cosa-cambia-e-perche-2b8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
