@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I moved my whole server off Easypanel with one command, and five things broke](https://dev.to/backmeupplz/i-moved-my-whole-server-off-easypanel-with-one-command-and-five-things-broke-1o62)
-- [Same model, 15 providers, 84.63% to 100% tool-call accuracy](https://dev.to/cole_halton_42f71d71b809b/same-model-15-providers-8463-to-100-tool-call-accuracy-1ibf)
-- [My agents write 20 PRs in an hour. Merging them takes all day.](https://dev.to/ahsanalidotme/my-agents-write-20-prs-in-an-hour-merging-them-takes-all-day-35ol)
-- [SIMID lets teams build an interactive ad offer around separate video delivery.](https://dev.to/aleksuix/simid-lets-teams-build-an-interactive-ad-offer-around-separate-video-delivery-112j)
-- [Wide Net, Fine Mesh: Why a Bigger Watchlist Didn&#39;t Make My Trading Bot Trade More](https://dev.to/botandbull/wide-net-fine-mesh-why-a-bigger-watchlist-didnt-make-my-trading-bot-trade-more-2hkd)
+- [ElevenLabs + Twilio: Building Voice Call Applications](https://dev.to/voice_developer/elevenlabs-twilio-building-voice-call-applications-5gn4)
+- [CVE-2026-109829: CVE-2026-109829: Persistent Cache Poisoning and Cross-User Information Disclosure in Node.js Undici](https://dev.to/cverports/cve-2026-109829-cve-2026-109829-persistent-cache-poisoning-and-cross-user-information-disclosure-3j81)
+- [When a support assistant should hand off to a person](https://dev.to/conorbronsdon/when-a-support-assistant-should-hand-off-to-a-person-513p)
+- [How I Compress Website Images with Squoosh for Blazing-Fast Page Speeds](https://dev.to/shopsitetemplates/how-i-compress-website-images-with-squoosh-for-blazing-fast-page-speeds-45n4)
+- [Genie 4: el modelo de mundos de DeepMind](https://dev.to/lu1tr0n/genie-4-el-modelo-de-mundos-de-deepmind-4j4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
