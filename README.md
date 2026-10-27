@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Record What Your Code Throws Before You Refactor It](https://dev.to/hackrs_6393/record-what-your-code-throws-before-you-refactor-it-g39)
-- [Which Gate Should Run First? Ordering Agent-Patch Checks by Yield per Second](https://dev.to/datacpp_8185/which-gate-should-run-first-ordering-agent-patch-checks-by-yield-per-second-40l6)
-- [Your Docs Gate Has Never Failed, So It Proves Nothing: Mutation-Testing a Model-Drafted Page](https://dev.to/github_7727/your-docs-gate-has-never-failed-so-it-proves-nothing-mutation-testing-a-model-drafted-page-4cj6)
-- [Competitor keyword research without Ahrefs or Semrush: exact search volume first &lpar;Python + n8n&rpar;](https://dev.to/wrenfielddata/competitor-keyword-research-without-ahrefs-or-semrush-exact-search-volume-first-python-n8n-1gpm)
-- [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-during-3epc)
+- [Memory your AI agent can prove: pay-per-call storage and a signed spending ledger over x402](https://dev.to/sqlazy/memory-your-ai-agent-can-prove-pay-per-call-storage-and-a-signed-spending-ledger-over-x402-1ib8)
+- [76 of 77 trivy-action Tags Were Repointed in One Night. Some SHA Pins Didn&#39;t Help Either.](https://dev.to/posting-dude/76-of-77-trivy-action-tags-were-repointed-in-one-night-some-sha-pins-didnt-help-either-46fe)
+- [What Beginners Should Know Before Learning Ethical Hacking](https://dev.to/qnayds/what-beginners-should-know-before-learning-ethical-hacking-369p)
+- [Can ChatGPT or Claude build an app your team can actually use? What the chat gives you, and the five pieces it leaves out](https://dev.to/mythex/can-chatgpt-or-claude-build-an-app-your-team-can-actually-use-what-the-chat-gives-you-and-the-2nbl)
+- [Why Trajectory2Gym Is the AI Supervision Game‑Changer You Can’t Ignore](https://dev.to/amrithesh_dev/why-trajectory2gym-is-the-ai-supervision-game-changer-you-cant-ignore-4873)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
