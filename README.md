@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Instabase Alternatives: What Mid-Market Teams Choose](https://dev.to/smartdocs198/instabase-alternatives-what-mid-market-teams-choose-gbo)
-- [Your Laptop Is Going for Repair. Is Your Digital Life Going With It?](https://dev.to/cyberbezpieczenstwo/your-laptop-is-going-for-repair-is-your-digital-life-going-with-it-548h)
-- [GLM-5.3 für API-Workflows: drei kurze Tests für Latenz und Grenzen](https://dev.to/buluo/glm-53-fur-api-workflows-drei-kurze-tests-fur-latenz-und-grenzen-8me)
-- [Why Businesses Are Reconsidering Password Based Security Models](https://dev.to/grelvoryn_legal123/why-businesses-are-reconsidering-password-based-security-models-3j9o)
-- [Why Pagination Tests Fail When Data Changes—and What My Python Experiment Found](https://dev.to/bavin_kumar_c70438730f2e1/why-pagination-tests-fail-when-data-changes-and-what-my-python-experiment-found-4ofh)
+- [I moved my whole server off Easypanel with one command, and five things broke](https://dev.to/backmeupplz/i-moved-my-whole-server-off-easypanel-with-one-command-and-five-things-broke-1o62)
+- [Same model, 15 providers, 84.63% to 100% tool-call accuracy](https://dev.to/cole_halton_42f71d71b809b/same-model-15-providers-8463-to-100-tool-call-accuracy-1ibf)
+- [My agents write 20 PRs in an hour. Merging them takes all day.](https://dev.to/ahsanalidotme/my-agents-write-20-prs-in-an-hour-merging-them-takes-all-day-35ol)
+- [SIMID lets teams build an interactive ad offer around separate video delivery.](https://dev.to/aleksuix/simid-lets-teams-build-an-interactive-ad-offer-around-separate-video-delivery-112j)
+- [Wide Net, Fine Mesh: Why a Bigger Watchlist Didn&#39;t Make My Trading Bot Trade More](https://dev.to/botandbull/wide-net-fine-mesh-why-a-bigger-watchlist-didnt-make-my-trading-bot-trade-more-2hkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
