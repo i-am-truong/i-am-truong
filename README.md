@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory your AI agent can prove: pay-per-call storage and a signed spending ledger over x402](https://dev.to/sqlazy/memory-your-ai-agent-can-prove-pay-per-call-storage-and-a-signed-spending-ledger-over-x402-1ib8)
-- [76 of 77 trivy-action Tags Were Repointed in One Night. Some SHA Pins Didn&#39;t Help Either.](https://dev.to/posting-dude/76-of-77-trivy-action-tags-were-repointed-in-one-night-some-sha-pins-didnt-help-either-46fe)
-- [What Beginners Should Know Before Learning Ethical Hacking](https://dev.to/qnayds/what-beginners-should-know-before-learning-ethical-hacking-369p)
-- [Can ChatGPT or Claude build an app your team can actually use? What the chat gives you, and the five pieces it leaves out](https://dev.to/mythex/can-chatgpt-or-claude-build-an-app-your-team-can-actually-use-what-the-chat-gives-you-and-the-2nbl)
-- [Why Trajectory2Gym Is the AI Supervision Game‑Changer You Can’t Ignore](https://dev.to/amrithesh_dev/why-trajectory2gym-is-the-ai-supervision-game-changer-you-cant-ignore-4873)
+- [Instabase Alternatives: What Mid-Market Teams Choose](https://dev.to/smartdocs198/instabase-alternatives-what-mid-market-teams-choose-gbo)
+- [Your Laptop Is Going for Repair. Is Your Digital Life Going With It?](https://dev.to/cyberbezpieczenstwo/your-laptop-is-going-for-repair-is-your-digital-life-going-with-it-548h)
+- [GLM-5.3 für API-Workflows: drei kurze Tests für Latenz und Grenzen](https://dev.to/buluo/glm-53-fur-api-workflows-drei-kurze-tests-fur-latenz-und-grenzen-8me)
+- [Why Businesses Are Reconsidering Password Based Security Models](https://dev.to/grelvoryn_legal123/why-businesses-are-reconsidering-password-based-security-models-3j9o)
+- [Why Pagination Tests Fail When Data Changes—and What My Python Experiment Found](https://dev.to/bavin_kumar_c70438730f2e1/why-pagination-tests-fail-when-data-changes-and-what-my-python-experiment-found-4ofh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
