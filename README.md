@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ofrenda is a local altar for long lost repositories which still have unfinished work.](https://dev.to/shashank_chakraborty_6362/ofrenda-is-a-local-altar-for-long-lost-repositories-which-still-have-unfinished-work-1aci)
-- [Wenn Tech-Riesen um Geheimnisse kämpfen – und ein VR-Spiel still Sehkraft zurückgibt](https://dev.to/ashish_624379625242c5d263/wenn-tech-riesen-um-geheimnisse-kampfen-und-ein-vr-spiel-still-sehkraft-zuruckgibt-20md)
-- [Wenn KI-Schlachten toben, hilft VR beim Sehen lernen](https://dev.to/ashish_624379625242c5d263/wenn-ki-schlachten-toben-hilft-vr-beim-sehen-lernen-h6l)
-- [Classify Text Data Using an Embeddings API in Node.js: Portable Invoice Field Decisions](https://dev.to/sunspirevalerius59/classify-text-data-using-an-embeddings-api-in-nodejs-portable-invoice-field-decisions-32i9)
-- [How to Build an MT5 Trading Bot Without Writing MQL Code](https://dev.to/luka_savic_21dedc9e922e06/how-to-build-an-mt5-trading-bot-without-writing-mql-code-14p0)
+- [Record What Your Code Throws Before You Refactor It](https://dev.to/hackrs_6393/record-what-your-code-throws-before-you-refactor-it-g39)
+- [Which Gate Should Run First? Ordering Agent-Patch Checks by Yield per Second](https://dev.to/datacpp_8185/which-gate-should-run-first-ordering-agent-patch-checks-by-yield-per-second-40l6)
+- [Your Docs Gate Has Never Failed, So It Proves Nothing: Mutation-Testing a Model-Drafted Page](https://dev.to/github_7727/your-docs-gate-has-never-failed-so-it-proves-nothing-mutation-testing-a-model-drafted-page-4cj6)
+- [Competitor keyword research without Ahrefs or Semrush: exact search volume first &lpar;Python + n8n&rpar;](https://dev.to/wrenfielddata/competitor-keyword-research-without-ahrefs-or-semrush-exact-search-volume-first-python-n8n-1gpm)
+- [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-during-3epc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
