@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs + Twilio: Building Voice Call Applications](https://dev.to/voice_developer/elevenlabs-twilio-building-voice-call-applications-5gn4)
-- [CVE-2026-109829: CVE-2026-109829: Persistent Cache Poisoning and Cross-User Information Disclosure in Node.js Undici](https://dev.to/cverports/cve-2026-109829-cve-2026-109829-persistent-cache-poisoning-and-cross-user-information-disclosure-3j81)
-- [When a support assistant should hand off to a person](https://dev.to/conorbronsdon/when-a-support-assistant-should-hand-off-to-a-person-513p)
-- [How I Compress Website Images with Squoosh for Blazing-Fast Page Speeds](https://dev.to/shopsitetemplates/how-i-compress-website-images-with-squoosh-for-blazing-fast-page-speeds-45n4)
-- [Genie 4: el modelo de mundos de DeepMind](https://dev.to/lu1tr0n/genie-4-el-modelo-de-mundos-de-deepmind-4j4p)
+- [Claudeonomics - AI Code Editors](https://dev.to/elementalsilk/claudeonomics-ai-code-editors-c16)
+- [Fastest AI inference API in 2026: 30 days of latency data for Groq, Cerebras, SambaNova and 43 more, from 3 regions](https://dev.to/max_bob/fastest-ai-inference-api-in-2026-30-days-of-latency-data-for-groq-cerebras-sambanova-and-43-386k)
+- [Who Is the Agent Acting As? Why AI Agents Become Confused Deputies](https://dev.to/dvaddi/who-is-the-agent-acting-as-why-ai-agents-become-confused-deputies-3ln5)
+- [OpenAI API deprecations 2026–2027: every shutdown date and recommended replacement &lpar;GPT-4o, GPT-4.1, GPT-5, o3, Whisper&rpar;](https://dev.to/max_bob/openai-api-deprecations-2026-2027-every-shutdown-date-and-recommended-replacement-gpt-4o-2ffm)
+- [Why SVG Files from Figma Are 50–80% Dead Weight &lpar;and What to Strip Out&rpar;](https://dev.to/fu_fu_dfbec863ed6c21e3/why-svg-files-from-figma-are-50-80-dead-weight-and-what-to-strip-out-g3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
