@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Verify, don&#39;t trust: measuring token waste in Claude Code and Codex.](https://dev.to/momin_aziz_1/verify-dont-trust-measuring-token-waste-in-claude-code-and-codex-5gjg)
-- [Look-ahead bias: the backtest bug that uses tomorrow&#39;s newspaper](https://dev.to/quantooo/look-ahead-bias-the-backtest-bug-that-uses-tomorrows-newspaper-4ojj)
-- [GhostCommit 👻 — Find What Haunts Your Code](https://dev.to/anushka_sharma_df05737b55/ghostcommit-find-what-haunts-your-code-g4c)
-- [Apple Announces 14-inch MacBook Pro with M6 Chip](https://dev.to/saeediphone/apple-announces-14-inch-macbook-pro-with-m6-chip-196)
-- [Day 25–26 of Building Crowdwide — Making the UI Minimal!](https://dev.to/puneetkumar2010/day-25-26-of-building-crowdwide-making-the-ui-minimal-2n9k)
+- [Get your Neon&#39;s Usage Cost report and stay on top of it](https://dev.to/akaak/get-your-neons-usage-cost-report-and-stay-on-top-of-it-27gb)
+- [Dream reports that attackers took control of 25 devices, three in an environment linked to a US organization](https://dev.to/hacksgr/dream-reports-that-attackers-took-control-of-25-devices-three-in-an-environment-linked-to-a-us-2jpa)
+- [Quick Wins #1: novidades e cases de outubro do Amazon Quick](https://dev.to/iago_elion/quick-wins-1-novidades-e-cases-de-outubro-do-amazon-quick-2dle)
+- [Securing Industrial AI: From Sensor Inputs to Authorized Physical Actions](https://dev.to/marketingpro/securing-industrial-ai-from-sensor-inputs-to-authorized-physical-actions-3n45)
+- [Node.js Logging Backend for Capturing and Searching Application Logs in Logistics](https://dev.to/brantlockwood468/nodejs-logging-backend-for-capturing-and-searching-application-logs-in-logistics-1fib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
