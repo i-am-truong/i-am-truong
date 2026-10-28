@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claudeonomics - AI Code Editors](https://dev.to/elementalsilk/claudeonomics-ai-code-editors-c16)
-- [Fastest AI inference API in 2026: 30 days of latency data for Groq, Cerebras, SambaNova and 43 more, from 3 regions](https://dev.to/max_bob/fastest-ai-inference-api-in-2026-30-days-of-latency-data-for-groq-cerebras-sambanova-and-43-386k)
-- [Who Is the Agent Acting As? Why AI Agents Become Confused Deputies](https://dev.to/dvaddi/who-is-the-agent-acting-as-why-ai-agents-become-confused-deputies-3ln5)
-- [OpenAI API deprecations 2026–2027: every shutdown date and recommended replacement &lpar;GPT-4o, GPT-4.1, GPT-5, o3, Whisper&rpar;](https://dev.to/max_bob/openai-api-deprecations-2026-2027-every-shutdown-date-and-recommended-replacement-gpt-4o-2ffm)
-- [Why SVG Files from Figma Are 50–80% Dead Weight &lpar;and What to Strip Out&rpar;](https://dev.to/fu_fu_dfbec863ed6c21e3/why-svg-files-from-figma-are-50-80-dead-weight-and-what-to-strip-out-g3o)
+- [Mixture of Experts: Why Sparse Routing Scales Models Without Scaling Compute](https://dev.to/umeshtharukaofficial/mixture-of-experts-why-sparse-routing-scales-models-without-scaling-compute-ac7)
+- [Microsoft’s 60,000-Employee Buyout Offer: What Should Developers Do in the AI Era?](https://dev.to/robertadam987_/microsofts-60000-employee-buyout-offer-what-should-developers-do-in-the-ai-era-48ci)
+- [I tried to reproduce four Collective2 Calmar ratios. None of them matched.](https://dev.to/rytjy/i-tried-to-reproduce-four-collective2-calmar-ratios-none-of-them-matched-3ek9)
+- [The Dual-Layer Document Problem: How to Preserve Official Notary Stamps and Signatures in Word Without Sacrificing Text Editability](https://dev.to/vaibhav_srivastava_f543ba/the-dual-layer-document-problem-how-to-preserve-official-notary-stamps-and-signatures-in-word-5gp)
+- [Your draft changed. Why is it still approved?](https://dev.to/earn2exist/your-draft-changed-why-is-it-still-approved-2kj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
