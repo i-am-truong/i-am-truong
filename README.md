@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get your Neon&#39;s Usage Cost report and stay on top of it](https://dev.to/akaak/get-your-neons-usage-cost-report-and-stay-on-top-of-it-27gb)
-- [Dream reports that attackers took control of 25 devices, three in an environment linked to a US organization](https://dev.to/hacksgr/dream-reports-that-attackers-took-control-of-25-devices-three-in-an-environment-linked-to-a-us-2jpa)
-- [Quick Wins #1: novidades e cases de outubro do Amazon Quick](https://dev.to/iago_elion/quick-wins-1-novidades-e-cases-de-outubro-do-amazon-quick-2dle)
-- [Securing Industrial AI: From Sensor Inputs to Authorized Physical Actions](https://dev.to/marketingpro/securing-industrial-ai-from-sensor-inputs-to-authorized-physical-actions-3n45)
-- [Node.js Logging Backend for Capturing and Searching Application Logs in Logistics](https://dev.to/brantlockwood468/nodejs-logging-backend-for-capturing-and-searching-application-logs-in-logistics-1fib)
+- [I built a free printable puzzle generator for classrooms and KDP](https://dev.to/julia_13fbcc5fdf8591e4a42/i-built-a-free-printable-puzzle-generator-for-classrooms-and-kdp-2ejj)
+- [XREAL Announces ‘1 Pro+’ Flagship AR Glasses, Now Available &amp; Priced at $599](https://dev.to/ashish_624379625242c5d263/xreal-announces-1-pro-flagship-ar-glasses-now-available-priced-at-599-1fg5)
+- [[Boost]](https://dev.to/datalog/-6hn)
+- [Enhancing ggml with Fused Sparse-Attention Masks and Precision Introspection in v0.28.0](https://dev.to/pdrojack/enhancing-ggml-with-fused-sparse-attention-masks-and-precision-introspection-in-v0280-3p40)
+- [OFRENDA](https://dev.to/noor_ulhuda_67fbcf3d4b66/ofrenda-468b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
