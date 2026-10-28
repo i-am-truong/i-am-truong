@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mixture of Experts: Why Sparse Routing Scales Models Without Scaling Compute](https://dev.to/umeshtharukaofficial/mixture-of-experts-why-sparse-routing-scales-models-without-scaling-compute-ac7)
-- [Microsoft’s 60,000-Employee Buyout Offer: What Should Developers Do in the AI Era?](https://dev.to/robertadam987_/microsofts-60000-employee-buyout-offer-what-should-developers-do-in-the-ai-era-48ci)
-- [I tried to reproduce four Collective2 Calmar ratios. None of them matched.](https://dev.to/rytjy/i-tried-to-reproduce-four-collective2-calmar-ratios-none-of-them-matched-3ek9)
-- [The Dual-Layer Document Problem: How to Preserve Official Notary Stamps and Signatures in Word Without Sacrificing Text Editability](https://dev.to/vaibhav_srivastava_f543ba/the-dual-layer-document-problem-how-to-preserve-official-notary-stamps-and-signatures-in-word-5gp)
-- [Your draft changed. Why is it still approved?](https://dev.to/earn2exist/your-draft-changed-why-is-it-still-approved-2kj4)
+- [Verify, don&#39;t trust: measuring token waste in Claude Code and Codex.](https://dev.to/momin_aziz_1/verify-dont-trust-measuring-token-waste-in-claude-code-and-codex-5gjg)
+- [Look-ahead bias: the backtest bug that uses tomorrow&#39;s newspaper](https://dev.to/quantooo/look-ahead-bias-the-backtest-bug-that-uses-tomorrows-newspaper-4ojj)
+- [GhostCommit 👻 — Find What Haunts Your Code](https://dev.to/anushka_sharma_df05737b55/ghostcommit-find-what-haunts-your-code-g4c)
+- [Apple Announces 14-inch MacBook Pro with M6 Chip](https://dev.to/saeediphone/apple-announces-14-inch-macbook-pro-with-m6-chip-196)
+- [Day 25–26 of Building Crowdwide — Making the UI Minimal!](https://dev.to/puneetkumar2010/day-25-26-of-building-crowdwide-making-the-ui-minimal-2n9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
