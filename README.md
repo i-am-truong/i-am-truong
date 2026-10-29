@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BioSmart: Construí un motor de IA en Go con pipeline cognitivo de 15 fases para agricultura urbana](https://dev.to/juan_esteban_ce50a6cbccd5/biosmart-construi-un-motor-de-ia-en-go-con-pipeline-cognitivo-de-15-fases-para-agricultura-urbana-4oce)
-- [Last Witness: Seven Questions Before the Lights Go Out](https://dev.to/erlik1417/last-witness-seven-questions-before-the-lights-go-out-1d6c)
-- [Most AI Crawlers Do Not Run Your JavaScript](https://dev.to/technoaccelerator/most-ai-crawlers-do-not-run-your-javascript-58ad)
-- [Cómo quedé 3ro en una Hackathon universitaria estando en primer semestre](https://dev.to/juan_esteban_ce50a6cbccd5/como-quede-3ro-en-una-hackathon-universitaria-estando-en-primer-semestre-4k5a)
-- [The offline promise is a test, not a sentence](https://dev.to/aefri-studio/the-offline-promise-is-a-test-not-a-sentence-1n1a)
+- [Low-Latency Private Knowledge Chat: Choosing Streaming Models for Healthtech](https://dev.to/zekecross3245/low-latency-private-knowledge-chat-choosing-streaming-models-for-healthtech-53mc)
+- [My Prompt-Injection Canary Caught Nothing. Then I Fed It a Real Jailbreak.](https://dev.to/adalbertobrant/my-prompt-injection-canary-caught-nothing-then-i-fed-it-a-real-jailbreak-pbl)
+- [SoloTrace](https://dev.to/open-madscience/solotrace-24ml)
+- [Exploring Lambda Web Functions with an SSE Demo](https://dev.to/aws-builders/exploring-lambda-web-functions-with-an-sse-demo-1b6l)
+- [JupyterHub Exposure Depends on How Much You Trust Each User](https://dev.to/facilishz/jupyterhub-exposure-depends-on-how-much-you-trust-each-user-l4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
