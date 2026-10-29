@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a free printable puzzle generator for classrooms and KDP](https://dev.to/julia_13fbcc5fdf8591e4a42/i-built-a-free-printable-puzzle-generator-for-classrooms-and-kdp-2ejj)
-- [XREAL Announces ‘1 Pro+’ Flagship AR Glasses, Now Available &amp; Priced at $599](https://dev.to/ashish_624379625242c5d263/xreal-announces-1-pro-flagship-ar-glasses-now-available-priced-at-599-1fg5)
-- [[Boost]](https://dev.to/datalog/-6hn)
-- [Enhancing ggml with Fused Sparse-Attention Masks and Precision Introspection in v0.28.0](https://dev.to/pdrojack/enhancing-ggml-with-fused-sparse-attention-masks-and-precision-introspection-in-v0280-3p40)
-- [OFRENDA](https://dev.to/noor_ulhuda_67fbcf3d4b66/ofrenda-468b)
+- [Which agent tool calls need a human? A simple consequence matrix](https://dev.to/setrov/which-agent-tool-calls-need-a-human-a-simple-consequence-matrix-28n6)
+- [Godot save files lie about their format - sniff the content, not the extension](https://dev.to/onpont/godot-save-files-lie-about-their-format-sniff-the-content-not-the-extension-1blk)
+- [Your AI agent just did something it shouldn&#39;t. Here&#39;s the first hour.](https://dev.to/setrov/your-ai-agent-just-did-something-it-shouldnt-heres-the-first-hour-1637)
+- [Give Claude Code a real browser with Playwright MCP](https://dev.to/dedupedai/give-claude-code-a-real-browser-with-playwright-mcp-4048)
+- [Cut Claude Code token spend with Headroom: a 5 step setup](https://dev.to/dedupedai/cut-claude-code-token-spend-with-headroom-a-5-step-setup-551l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
