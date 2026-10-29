@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/droidfaizan/-7if)
-- [Why Free-Form LLM Agents Fail at Anomaly Discovery](https://dev.to/hordii_bohdan/why-free-form-llm-agents-fail-at-anomaly-discovery-nfe)
-- [Leaving Claude Code Running Overnight? 8 Settings to Check Before You Walk Away](https://dev.to/gabrielanhaia/leaving-claude-code-running-overnight-8-settings-to-check-before-you-walk-away-2gfb)
-- [Building Resilient Payout Systems: ACH Return Codes and Recovery Strategies](https://dev.to/payout_rail/building-resilient-payout-systems-ach-return-codes-and-recovery-strategies-55kh)
-- [90% of my coding agent&#39;s rework came from my own work orders](https://dev.to/lizhuojunx86/90-of-my-coding-agents-rework-came-from-my-own-work-orders-51n4)
+- [Let&#39;s Talk About Break and Continue](https://dev.to/oyinade_olawoyin_aaaa6272/lets-talk-about-break-and-continue-5381)
+- [Loading State UX: Share the Wait in Your Public SaaS Demo](https://dev.to/urielbitton/loading-state-ux-share-the-wait-in-your-public-saas-demo-1a7b)
+- [What Is a Feature Store, and Does Your Team Actually Need One?](https://dev.to/benjohnson77/what-is-a-feature-store-and-does-your-team-actually-need-one-3e2o)
+- [How to test SMS verification &lpar;OTP&rpar; flows without using your personal phone number](https://dev.to/smsping/how-to-test-sms-verification-otp-flows-without-using-your-personal-phone-number-1gi2)
+- [TDD, BDD, ADD, SDD, EDD: Which Do You Actually Need? A Practical Guide for the AI Era](https://dev.to/iamyuvaraj/tdd-bdd-add-sdd-edd-which-do-you-actually-need-a-practical-guide-for-the-ai-era-3n45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
