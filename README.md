@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Talk About Break and Continue](https://dev.to/oyinade_olawoyin_aaaa6272/lets-talk-about-break-and-continue-5381)
-- [Loading State UX: Share the Wait in Your Public SaaS Demo](https://dev.to/urielbitton/loading-state-ux-share-the-wait-in-your-public-saas-demo-1a7b)
-- [What Is a Feature Store, and Does Your Team Actually Need One?](https://dev.to/benjohnson77/what-is-a-feature-store-and-does-your-team-actually-need-one-3e2o)
-- [How to test SMS verification &lpar;OTP&rpar; flows without using your personal phone number](https://dev.to/smsping/how-to-test-sms-verification-otp-flows-without-using-your-personal-phone-number-1gi2)
-- [TDD, BDD, ADD, SDD, EDD: Which Do You Actually Need? A Practical Guide for the AI Era](https://dev.to/iamyuvaraj/tdd-bdd-add-sdd-edd-which-do-you-actually-need-a-practical-guide-for-the-ai-era-3n45)
+- [BioSmart: Construí un motor de IA en Go con pipeline cognitivo de 15 fases para agricultura urbana](https://dev.to/juan_esteban_ce50a6cbccd5/biosmart-construi-un-motor-de-ia-en-go-con-pipeline-cognitivo-de-15-fases-para-agricultura-urbana-4oce)
+- [Last Witness: Seven Questions Before the Lights Go Out](https://dev.to/erlik1417/last-witness-seven-questions-before-the-lights-go-out-1d6c)
+- [Most AI Crawlers Do Not Run Your JavaScript](https://dev.to/technoaccelerator/most-ai-crawlers-do-not-run-your-javascript-58ad)
+- [Cómo quedé 3ro en una Hackathon universitaria estando en primer semestre](https://dev.to/juan_esteban_ce50a6cbccd5/como-quede-3ro-en-una-hackathon-universitaria-estando-en-primer-semestre-4k5a)
+- [The offline promise is a test, not a sentence](https://dev.to/aefri-studio/the-offline-promise-is-a-test-not-a-sentence-1n1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
