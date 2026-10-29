@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Which agent tool calls need a human? A simple consequence matrix](https://dev.to/setrov/which-agent-tool-calls-need-a-human-a-simple-consequence-matrix-28n6)
-- [Godot save files lie about their format - sniff the content, not the extension](https://dev.to/onpont/godot-save-files-lie-about-their-format-sniff-the-content-not-the-extension-1blk)
-- [Your AI agent just did something it shouldn&#39;t. Here&#39;s the first hour.](https://dev.to/setrov/your-ai-agent-just-did-something-it-shouldnt-heres-the-first-hour-1637)
-- [Give Claude Code a real browser with Playwright MCP](https://dev.to/dedupedai/give-claude-code-a-real-browser-with-playwright-mcp-4048)
-- [Cut Claude Code token spend with Headroom: a 5 step setup](https://dev.to/dedupedai/cut-claude-code-token-spend-with-headroom-a-5-step-setup-551l)
+- [[Boost]](https://dev.to/droidfaizan/-7if)
+- [Why Free-Form LLM Agents Fail at Anomaly Discovery](https://dev.to/hordii_bohdan/why-free-form-llm-agents-fail-at-anomaly-discovery-nfe)
+- [Leaving Claude Code Running Overnight? 8 Settings to Check Before You Walk Away](https://dev.to/gabrielanhaia/leaving-claude-code-running-overnight-8-settings-to-check-before-you-walk-away-2gfb)
+- [Building Resilient Payout Systems: ACH Return Codes and Recovery Strategies](https://dev.to/payout_rail/building-resilient-payout-systems-ach-return-codes-and-recovery-strategies-55kh)
+- [90% of my coding agent&#39;s rework came from my own work orders](https://dev.to/lizhuojunx86/90-of-my-coding-agents-rework-came-from-my-own-work-orders-51n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
