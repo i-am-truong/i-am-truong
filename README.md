@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to see what your coding agents are doing](https://dev.to/jakemarsh/how-to-see-what-your-coding-agents-are-doing-42fc)
-- [Why Claude Code&#39;s task list is empty, and how to get it back](https://dev.to/jakemarsh/why-claude-codes-task-list-is-empty-and-how-to-get-it-back-22lk)
-- [Rotating a signing key without breaking self-update](https://dev.to/phpboyscout/rotating-a-signing-key-without-breaking-self-update-1d43)
-- [AD attacks hide in normal logs: the tell is the encryption type &lpar;RC4&rpar;](https://dev.to/tokotokokame/ad-attacks-hide-in-normal-logs-the-tell-is-the-encryption-type-rc4-gk4)
-- [Comment arrêter de scroller les Reels et les Shorts le soir sans perdre ses messages ? &lpar;iPhone, 2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/comment-arreter-de-scroller-les-reels-et-les-shorts-le-soir-sans-perdre-ses-messages-iphone-586n)
+- [I bought Thunderbolt 5 and got USB4 40G: re-benchmarking a two-machine llama.cpp RPC setup across three links and six models](https://dev.to/faliye/i-bought-thunderbolt-5-and-got-usb4-40g-re-benchmarking-a-two-machine-llamacpp-rpc-setup-across-29im)
+- [Your background job checked permissions when it was queued. Who is it acting for when it runs?](https://dev.to/authbyexample1/your-background-job-checked-permissions-when-it-was-queued-who-is-it-acting-for-when-it-runs-4o4i)
+- [How to Optimize SQL Queries: 20 Proven Best Practices](https://dev.to/antonmartyniuk/how-to-optimize-sql-queries-20-proven-best-practices-4n6e)
+- [Your GET /docs/:id has a permission check. Does GET /docs?](https://dev.to/authbyexample1/your-get-docsid-has-a-permission-check-does-get-docs-38lm)
+- [A search box over 56 server-rendered cards, 13,486 characters of index, and the word pilot matching none of them](https://dev.to/daniel_pertu/a-search-box-over-56-server-rendered-cards-13486-characters-of-index-and-the-word-pilot-matching-3a5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
