@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AWS Cost Explorer Isn&#39;t Enough: The Story of My Own Pain and How CloudPouch Was Born](https://dev.to/aws-heroes/why-aws-cost-explorer-isnt-enough-the-story-of-my-own-pain-and-how-cloudpouch-was-born-23m3)
-- [Closing a quiet forum without losing what it knows](https://dev.to/wbcomdesigns/closing-a-quiet-forum-without-losing-what-it-knows-4dek)
-- [Kubernetes Deployment Strategies in 2026: Rolling, Blue-Green, Canary, Recreate, A/B and Shadow](https://dev.to/softverseadmin/kubernetes-deployment-strategies-in-2026-rolling-blue-green-canary-recreate-ab-and-shadow-3ngm)
-- [A freelancer&#39;s budget should start with the worst month, not the best](https://dev.to/muhammad_naveed_61dc33722/a-freelancers-budget-should-start-with-the-worst-month-not-the-best-1ghg)
-- [Meet OSyx — A New Operating System](https://dev.to/v3nn7/meet-osyx-a-new-operating-system-1nd7)
+- [Comparison Tables Rot: Keeping &quot;X vs Y&quot; Pages Honest With a Typed Fact Sheet](https://dev.to/starsearn/comparison-tables-rot-keeping-x-vs-y-pages-honest-with-a-typed-fact-sheet-17g5)
+- [O que um auditor pede, controle por controle, numa auditoria ISO 42001](https://dev.to/anderson_chipak/o-que-um-auditor-pede-controle-por-controle-numa-auditoria-iso-42001-1fcf)
+- [Same Exchange, 3.5x the Fee: Modeling Regional Crypto Fee Schedules in TypeScript](https://dev.to/starsearn/same-exchange-35x-the-fee-modeling-regional-crypto-fee-schedules-in-typescript-910)
+- [New LLCs in New York, Colorado, Oregon and Connecticut every morning, with curl and jq](https://dev.to/yourevenings/new-llcs-in-new-york-colorado-oregon-and-connecticut-every-morning-with-curl-and-jq-1094)
+- [CRM Semantic Search for Ask-Your-Docs: Node.js Embeddings via APIs or a Gateway](https://dev.to/alariccross6851/crm-semantic-search-for-ask-your-docs-nodejs-embeddings-via-apis-or-a-gateway-4hd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
