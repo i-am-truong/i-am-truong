@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comparison Tables Rot: Keeping &quot;X vs Y&quot; Pages Honest With a Typed Fact Sheet](https://dev.to/starsearn/comparison-tables-rot-keeping-x-vs-y-pages-honest-with-a-typed-fact-sheet-17g5)
-- [O que um auditor pede, controle por controle, numa auditoria ISO 42001](https://dev.to/anderson_chipak/o-que-um-auditor-pede-controle-por-controle-numa-auditoria-iso-42001-1fcf)
-- [Same Exchange, 3.5x the Fee: Modeling Regional Crypto Fee Schedules in TypeScript](https://dev.to/starsearn/same-exchange-35x-the-fee-modeling-regional-crypto-fee-schedules-in-typescript-910)
-- [New LLCs in New York, Colorado, Oregon and Connecticut every morning, with curl and jq](https://dev.to/yourevenings/new-llcs-in-new-york-colorado-oregon-and-connecticut-every-morning-with-curl-and-jq-1094)
-- [CRM Semantic Search for Ask-Your-Docs: Node.js Embeddings via APIs or a Gateway](https://dev.to/alariccross6851/crm-semantic-search-for-ask-your-docs-nodejs-embeddings-via-apis-or-a-gateway-4hd4)
+- [HALLOWEEN FOLKLORE AI](https://dev.to/shintarotakahata2323/halloween-folklore-ai-h7e)
+- [How to Choose an AI Agent: A Buying Guide in Plain English](https://dev.to/elarigent/how-to-choose-an-ai-agent-a-buying-guide-in-plain-english-3dde)
+- [Hosting the Cardano Summit in Delhi While the Crypto Market Was Burning](https://dev.to/malikdeveloper/hosting-the-cardano-summit-in-delhi-while-the-crypto-market-was-burning-5768)
+- [Node.js Transactional Email APIs: Owning Templates for Password Resets and Seller Alerts](https://dev.to/wadesterling3125/nodejs-transactional-email-apis-owning-templates-for-password-resets-and-seller-alerts-20ad)
+- [CapRover dashboard discovery points to a Docker control-plane review](https://dev.to/onaeiuspkz/caprover-dashboard-discovery-points-to-a-docker-control-plane-review-51lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
