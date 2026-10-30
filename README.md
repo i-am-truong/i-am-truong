@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Low-Latency Private Knowledge Chat: Choosing Streaming Models for Healthtech](https://dev.to/zekecross3245/low-latency-private-knowledge-chat-choosing-streaming-models-for-healthtech-53mc)
-- [My Prompt-Injection Canary Caught Nothing. Then I Fed It a Real Jailbreak.](https://dev.to/adalbertobrant/my-prompt-injection-canary-caught-nothing-then-i-fed-it-a-real-jailbreak-pbl)
-- [SoloTrace](https://dev.to/open-madscience/solotrace-24ml)
-- [Exploring Lambda Web Functions with an SSE Demo](https://dev.to/aws-builders/exploring-lambda-web-functions-with-an-sse-demo-1b6l)
-- [JupyterHub Exposure Depends on How Much You Trust Each User](https://dev.to/facilishz/jupyterhub-exposure-depends-on-how-much-you-trust-each-user-l4o)
+- [How to see what your coding agents are doing](https://dev.to/jakemarsh/how-to-see-what-your-coding-agents-are-doing-42fc)
+- [Why Claude Code&#39;s task list is empty, and how to get it back](https://dev.to/jakemarsh/why-claude-codes-task-list-is-empty-and-how-to-get-it-back-22lk)
+- [Rotating a signing key without breaking self-update](https://dev.to/phpboyscout/rotating-a-signing-key-without-breaking-self-update-1d43)
+- [AD attacks hide in normal logs: the tell is the encryption type &lpar;RC4&rpar;](https://dev.to/tokotokokame/ad-attacks-hide-in-normal-logs-the-tell-is-the-encryption-type-rc4-gk4)
+- [Comment arrêter de scroller les Reels et les Shorts le soir sans perdre ses messages ? &lpar;iPhone, 2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/comment-arreter-de-scroller-les-reels-et-les-shorts-le-soir-sans-perdre-ses-messages-iphone-586n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
