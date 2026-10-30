@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I bought Thunderbolt 5 and got USB4 40G: re-benchmarking a two-machine llama.cpp RPC setup across three links and six models](https://dev.to/faliye/i-bought-thunderbolt-5-and-got-usb4-40g-re-benchmarking-a-two-machine-llamacpp-rpc-setup-across-29im)
-- [Your background job checked permissions when it was queued. Who is it acting for when it runs?](https://dev.to/authbyexample1/your-background-job-checked-permissions-when-it-was-queued-who-is-it-acting-for-when-it-runs-4o4i)
-- [How to Optimize SQL Queries: 20 Proven Best Practices](https://dev.to/antonmartyniuk/how-to-optimize-sql-queries-20-proven-best-practices-4n6e)
-- [Your GET /docs/:id has a permission check. Does GET /docs?](https://dev.to/authbyexample1/your-get-docsid-has-a-permission-check-does-get-docs-38lm)
-- [A search box over 56 server-rendered cards, 13,486 characters of index, and the word pilot matching none of them](https://dev.to/daniel_pertu/a-search-box-over-56-server-rendered-cards-13486-characters-of-index-and-the-word-pilot-matching-3a5i)
+- [Why AWS Cost Explorer Isn&#39;t Enough: The Story of My Own Pain and How CloudPouch Was Born](https://dev.to/aws-heroes/why-aws-cost-explorer-isnt-enough-the-story-of-my-own-pain-and-how-cloudpouch-was-born-23m3)
+- [Closing a quiet forum without losing what it knows](https://dev.to/wbcomdesigns/closing-a-quiet-forum-without-losing-what-it-knows-4dek)
+- [Kubernetes Deployment Strategies in 2026: Rolling, Blue-Green, Canary, Recreate, A/B and Shadow](https://dev.to/softverseadmin/kubernetes-deployment-strategies-in-2026-rolling-blue-green-canary-recreate-ab-and-shadow-3ngm)
+- [A freelancer&#39;s budget should start with the worst month, not the best](https://dev.to/muhammad_naveed_61dc33722/a-freelancers-budget-should-start-with-the-worst-month-not-the-best-1ghg)
+- [Meet OSyx — A New Operating System](https://dev.to/v3nn7/meet-osyx-a-new-operating-system-1nd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
