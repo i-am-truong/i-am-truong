@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [THE VEIL — I Built an AI Ouija Board That Runs Entirely on Your Machine 🕯️](https://dev.to/radhikaaa25/the-veil-i-built-an-ai-ouija-board-that-runs-entirely-on-your-machine-5fof)
-- [When the big platforms close their doors, what should your community keep public?](https://dev.to/wbcomdesigns/when-the-big-platforms-close-their-doors-what-should-your-community-keep-public-8e7)
-- [Your plugin or platform just raised its price. Six assumptions to check before you switch](https://dev.to/wbcomdesigns/your-plugin-or-platform-just-raised-its-price-six-assumptions-to-check-before-you-switch-20hl)
-- [A Poisoned AGENTS.md in ~/Downloads Hijacked Codex and Claude Code. Here&#39;s Where the Scrub Step Fits.](https://dev.to/coridev/a-poisoned-agentsmd-in-downloads-hijacked-codex-and-claude-code-heres-where-the-scrub-step-4ieh)
-- [NecroShell and the Ghost in the Machine](https://dev.to/bylerma/necroshell-and-the-ghost-in-the-machine-326p)
+- [The 80/20 of learning to code: what to learn first &lpar;and what to skip&rpar;](https://dev.to/eiad_ghaith_3f4463d35eaea/the-8020-of-learning-to-code-what-to-learn-first-and-what-to-skip-487n)
+- [Day 12/90: Before Improving Your RAG App, Establish a Baseline](https://dev.to/rimsha_kanwal/day-1290-before-improving-your-rag-app-establish-a-baseline-1ook)
+- [How to Write a Cover Letter That Actually Gets Read &lpar;With Real Examples&rpar;](https://dev.to/mybee_team_efdb884f233a84/how-to-write-a-cover-letter-that-actually-gets-read-with-real-examples-41bn)
+- [ectocheck: hunting the ghosts in an AI&#39;s answer, with a local judge that gets audited](https://dev.to/dhanushnehru/ectocheck-hunting-the-ghosts-in-an-ais-answer-with-a-local-judge-that-gets-audited-4h5h)
+- [Memoirium – A Living Museum of Family Memories](https://dev.to/vishalkrishna8/memoirium-a-living-museum-of-family-memories-35kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
