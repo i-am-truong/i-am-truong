@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 80/20 of learning to code: what to learn first &lpar;and what to skip&rpar;](https://dev.to/eiad_ghaith_3f4463d35eaea/the-8020-of-learning-to-code-what-to-learn-first-and-what-to-skip-487n)
-- [Day 12/90: Before Improving Your RAG App, Establish a Baseline](https://dev.to/rimsha_kanwal/day-1290-before-improving-your-rag-app-establish-a-baseline-1ook)
-- [How to Write a Cover Letter That Actually Gets Read &lpar;With Real Examples&rpar;](https://dev.to/mybee_team_efdb884f233a84/how-to-write-a-cover-letter-that-actually-gets-read-with-real-examples-41bn)
-- [ectocheck: hunting the ghosts in an AI&#39;s answer, with a local judge that gets audited](https://dev.to/dhanushnehru/ectocheck-hunting-the-ghosts-in-an-ais-answer-with-a-local-judge-that-gets-audited-4h5h)
-- [Memoirium – A Living Museum of Family Memories](https://dev.to/vishalkrishna8/memoirium-a-living-museum-of-family-memories-35kc)
+- [Turns out I&#39;m the one making the ghosts](https://dev.to/vidhidixit2000/turns-out-im-the-one-making-the-ghosts-3oij)
+- [A Phantomatic Nightshift](https://dev.to/startupcafe/a-phantomatic-nightshift-370l)
+- [Building Whiiteroom — Part 1&lpar;How it started&rpar;](https://dev.to/archits090/building-whiiteroom-part-1how-it-started-3gl2)
+- [I turned my inbox into a graveyard. 199 ghosts rose, and one had been silent for 7.8 years](https://dev.to/nirajkhetre/i-turned-my-inbox-into-a-graveyard-199-ghosts-rose-and-one-had-been-silent-for-78-years-56l8)
+- [How to check hreflang tags for errors &lpar;with a script&rpar;](https://dev.to/seotto/how-to-check-hreflang-tags-for-errors-with-a-script-5120)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
