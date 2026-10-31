@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A doorbell camera&#39;s battery is drained by how often it wakes, not by how long it is on](https://dev.to/xingliao/a-doorbell-cameras-battery-is-drained-by-how-often-it-wakes-not-by-how-long-it-is-on-5fco)
-- [Why a Twitter/X character counter can&#39;t just use JavaScript .length](https://dev.to/hack_game_5c3a8e441f8549b/why-a-twitterx-character-counter-cant-just-use-javascript-length-4da9)
-- [Adding a crypto checkout to WooCommerce without signing up for a processor](https://dev.to/coldtill/adding-a-crypto-checkout-to-woocommerce-without-signing-up-for-a-processor-98b)
-- [GitHub Octoverse 2026: What 7.38 Billion Monthly Commits Reveal About Agent-Generated Code at Scale](https://dev.to/mech_app_ai/github-octoverse-2026-what-738-billion-monthly-commits-reveal-about-agent-generated-code-at-scale-3nkg)
-- [Deep Agents: How LangChain&#39;s Batteries-Included Harness Wires Sub-Agents, Filesystem Backends, and Persistent Memory](https://dev.to/mech_app_ai/deep-agents-how-langchains-batteries-included-harness-wires-sub-agents-filesystem-backends-and-4i2d)
+- [THE VEIL — I Built an AI Ouija Board That Runs Entirely on Your Machine 🕯️](https://dev.to/radhikaaa25/the-veil-i-built-an-ai-ouija-board-that-runs-entirely-on-your-machine-5fof)
+- [When the big platforms close their doors, what should your community keep public?](https://dev.to/wbcomdesigns/when-the-big-platforms-close-their-doors-what-should-your-community-keep-public-8e7)
+- [Your plugin or platform just raised its price. Six assumptions to check before you switch](https://dev.to/wbcomdesigns/your-plugin-or-platform-just-raised-its-price-six-assumptions-to-check-before-you-switch-20hl)
+- [A Poisoned AGENTS.md in ~/Downloads Hijacked Codex and Claude Code. Here&#39;s Where the Scrub Step Fits.](https://dev.to/coridev/a-poisoned-agentsmd-in-downloads-hijacked-codex-and-claude-code-heres-where-the-scrub-step-4ieh)
+- [NecroShell and the Ghost in the Machine](https://dev.to/bylerma/necroshell-and-the-ghost-in-the-machine-326p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
