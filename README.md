@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apify Store&#39;s 30-day user counts stepped down overnight three times in October](https://dev.to/scraperwatch_6e8ad2ecf5d8/apify-stores-30-day-user-counts-stepped-down-overnight-three-times-in-october-2f93)
-- [Pushback: a refund-escalation agent that learns from outcomes with TigerGraph](https://dev.to/pushback_c97cb8c214ba6c92/pushback-a-refund-escalation-agent-that-learns-from-outcomes-with-tigergraph-4he)
-- [Scribd Breach 2026: Detect, Respond &amp; Secure Your Account](https://dev.to/leojulieta/scribd-breach-2026-detect-respond-secure-your-account-38cb)
-- [Scribd sufre la mayor fuga de datos de 2026: 12 M de cuentas expuestas](https://dev.to/leojulieta/scribd-sufre-la-mayor-fuga-de-datos-de-2026-12-m-de-cuentas-expuestas-464d)
-- [Claude Projects คืออะไร? ให้ AI เป็นหัวหน้าทีมแจกงานให้ agent หลายตัว พร้อมความจำร่วม จริงแค่ไหน?](https://dev.to/sarantoon/claude-projects-khuueaair-aih-ai-epnhawhnaathiimaecchkngaanaih-agent-hlaaytaw-phrmkhwaamcchamrwm-cchringaekhaihn-28j)
+- [A doorbell camera&#39;s battery is drained by how often it wakes, not by how long it is on](https://dev.to/xingliao/a-doorbell-cameras-battery-is-drained-by-how-often-it-wakes-not-by-how-long-it-is-on-5fco)
+- [Why a Twitter/X character counter can&#39;t just use JavaScript .length](https://dev.to/hack_game_5c3a8e441f8549b/why-a-twitterx-character-counter-cant-just-use-javascript-length-4da9)
+- [Adding a crypto checkout to WooCommerce without signing up for a processor](https://dev.to/coldtill/adding-a-crypto-checkout-to-woocommerce-without-signing-up-for-a-processor-98b)
+- [GitHub Octoverse 2026: What 7.38 Billion Monthly Commits Reveal About Agent-Generated Code at Scale](https://dev.to/mech_app_ai/github-octoverse-2026-what-738-billion-monthly-commits-reveal-about-agent-generated-code-at-scale-3nkg)
+- [Deep Agents: How LangChain&#39;s Batteries-Included Harness Wires Sub-Agents, Filesystem Backends, and Persistent Memory](https://dev.to/mech_app_ai/deep-agents-how-langchains-batteries-included-harness-wires-sub-agents-filesystem-backends-and-4i2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
