@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HALLOWEEN FOLKLORE AI](https://dev.to/shintarotakahata2323/halloween-folklore-ai-h7e)
-- [How to Choose an AI Agent: A Buying Guide in Plain English](https://dev.to/elarigent/how-to-choose-an-ai-agent-a-buying-guide-in-plain-english-3dde)
-- [Hosting the Cardano Summit in Delhi While the Crypto Market Was Burning](https://dev.to/malikdeveloper/hosting-the-cardano-summit-in-delhi-while-the-crypto-market-was-burning-5768)
-- [Node.js Transactional Email APIs: Owning Templates for Password Resets and Seller Alerts](https://dev.to/wadesterling3125/nodejs-transactional-email-apis-owning-templates-for-password-resets-and-seller-alerts-20ad)
-- [CapRover dashboard discovery points to a Docker control-plane review](https://dev.to/onaeiuspkz/caprover-dashboard-discovery-points-to-a-docker-control-plane-review-51lg)
+- [Apify Store&#39;s 30-day user counts stepped down overnight three times in October](https://dev.to/scraperwatch_6e8ad2ecf5d8/apify-stores-30-day-user-counts-stepped-down-overnight-three-times-in-october-2f93)
+- [Pushback: a refund-escalation agent that learns from outcomes with TigerGraph](https://dev.to/pushback_c97cb8c214ba6c92/pushback-a-refund-escalation-agent-that-learns-from-outcomes-with-tigergraph-4he)
+- [Scribd Breach 2026: Detect, Respond &amp; Secure Your Account](https://dev.to/leojulieta/scribd-breach-2026-detect-respond-secure-your-account-38cb)
+- [Scribd sufre la mayor fuga de datos de 2026: 12 M de cuentas expuestas](https://dev.to/leojulieta/scribd-sufre-la-mayor-fuga-de-datos-de-2026-12-m-de-cuentas-expuestas-464d)
+- [Claude Projects คืออะไร? ให้ AI เป็นหัวหน้าทีมแจกงานให้ agent หลายตัว พร้อมความจำร่วม จริงแค่ไหน?](https://dev.to/sarantoon/claude-projects-khuueaair-aih-ai-epnhawhnaathiimaecchkngaanaih-agent-hlaaytaw-phrmkhwaamcchamrwm-cchringaekhaihn-28j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
