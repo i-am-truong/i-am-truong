@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codex CLI v0.166 adds codex queue --resume and codex doctor --network-only](https://dev.to/aicoding-guide/codex-cli-v0166-adds-codex-queue-resume-and-codex-doctor-network-only-5ae0)
-- [Data Archive for Dummies](https://dev.to/coldstorage/data-archive-for-dummies-3jlp)
-- [Single Page Application &lpar;SPA&rpar; WorkFlow](https://dev.to/akladyous/single-page-application-spa-workflow-jk5)
-- [&quot;Make the hole 2 mm bigger&quot; is now one command for an STL you converted to CAD](https://dev.to/emirmrkaljevic/make-the-hole-2-mm-bigger-is-now-one-command-for-an-stl-you-converted-to-cad-4k0h)
-- [Learning in Public, Phase 0: Python, the legend starts](https://dev.to/the_saint/learning-in-public-phase-0-python-the-legend-starts-8h8)
+- [Before you convert that ONNX model to RKNN, check whether it can convert at all](https://dev.to/anguoyang/before-you-convert-that-onnx-model-to-rknn-check-whether-it-can-convert-at-all-31me)
+- [QR Kot – a privacy-first QR code generator and scanner for Android](https://dev.to/piotr_a1c4ec185bc8314a323/qr-kot-a-privacy-first-qr-code-generator-and-scanner-for-android-41g2)
+- [Built a duplicate file finder in Java, here&#39;s how it works](https://dev.to/faintestmemoryofwhoioncewas/built-a-duplicate-file-finder-in-java-heres-how-it-works-fl0)
+- [Six checks that catch a bad AI portrait before anyone else sees it](https://dev.to/kira-desk/six-checks-that-catch-a-bad-ai-portrait-before-anyone-else-sees-it-2cd1)
+- [I kept losing my Claude Code sessions, so I wrote ccctl](https://dev.to/crux/i-kept-losing-my-claude-code-sessions-so-i-wrote-ccctl-3p8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
