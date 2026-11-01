@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turns out I&#39;m the one making the ghosts](https://dev.to/vidhidixit2000/turns-out-im-the-one-making-the-ghosts-3oij)
-- [A Phantomatic Nightshift](https://dev.to/startupcafe/a-phantomatic-nightshift-370l)
-- [Building Whiiteroom — Part 1&lpar;How it started&rpar;](https://dev.to/archits090/building-whiiteroom-part-1how-it-started-3gl2)
-- [I turned my inbox into a graveyard. 199 ghosts rose, and one had been silent for 7.8 years](https://dev.to/nirajkhetre/i-turned-my-inbox-into-a-graveyard-199-ghosts-rose-and-one-had-been-silent-for-78-years-56l8)
-- [How to check hreflang tags for errors &lpar;with a script&rpar;](https://dev.to/seotto/how-to-check-hreflang-tags-for-errors-with-a-script-5120)
+- [Media Alert Systems Handling API Rate-Limit Errors with Bounded Delivery Retries](https://dev.to/carterhughes6853/media-alert-systems-handling-api-rate-limit-errors-with-bounded-delivery-retries-1ibn)
+- [Your test data is lying to you: realistic addresses, phones and check digits for 40 countries](https://dev.to/emin3me_271a007b94fedfbe9/your-test-data-is-lying-to-you-realistic-addresses-phones-and-check-digits-for-40-countries-4jb6)
+- [Booji: the ghost who reads my bank SMS, buries my zombie subscriptions, and tells me what next month will cost](https://dev.to/shalinabhargava/booji-the-ghost-who-reads-my-bank-sms-buries-my-zombie-subscriptions-and-tells-me-what-next-5379)
+- [Small-Team Feature Toggle Service Using Node.js: Detailed Pricing Trade-offs Explained](https://dev.to/ellisvance1273/small-team-feature-toggle-service-using-nodejs-detailed-pricing-trade-offs-explained-4mg4)
+- [Node.js Integration of OpenAI GPT API Text Summarization in Private Game Knowledge Bases](https://dev.to/winslowknight8469/nodejs-integration-of-openai-gpt-api-text-summarization-in-private-game-knowledge-bases-18ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
