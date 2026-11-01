@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bringing back the VCR board game with Kiro — a spec-driven build from the command line](https://dev.to/aiq_labs/bringing-back-the-vcr-board-game-with-kiro-a-spec-driven-build-from-the-command-line-2a6)
-- [ACH Return Codes Explained: R01, R03, R10 and How to Handle Them](https://dev.to/payout_rail/ach-return-codes-explained-r01-r03-r10-and-how-to-handle-them-34a6)
-- [Production mode caught the join race my dev tests missed](https://dev.to/muhammad_abdullahshah_96/production-mode-caught-the-join-race-my-dev-tests-missed-4nb2)
-- [Elephant-Goldfish Model คืออะไร? วิธีที่ Google ให้ AI ร่างแผนก่อนเขียนโค้ด แล้วให้ AI อีกตัวที่จำอะไรไม่ได้ตรวจ](https://dev.to/sarantoon/elephant-goldfish-model-khuueaair-withiithii-google-aih-ai-raangaephnknekhiiynokhd-aelwaih-ai-15bc)
-- [WARN Act and Outplacement Services: What Help Employers Must &lpar;and Don&#39;t Have To&rpar; Offer After a Layoff](https://dev.to/layoffatlas/warn-act-and-outplacement-services-what-help-employers-must-and-dont-have-to-offer-after-a-474e)
+- [HTML lang and SEO: Check the Language Your Page Declares](https://dev.to/urielbitton/html-lang-and-seo-check-the-language-your-page-declares-2pm7)
+- [Choosing the right API gateway can make a huge difference in routing, security, and performance. A useful comparison for developers looking to simplify API management and avoid common routing headaches.](https://dev.to/michaeljohnsondz/choosing-the-right-api-gateway-can-make-a-huge-difference-in-routing-security-and-performance-a-3ek1)
+- [ASP.NET Core &#39;Error Unprotecting the Session Cookie&#39;: Why Your Keys Disappear on Deploy](https://dev.to/kausarraza/aspnet-core-error-unprotecting-the-session-cookie-why-your-keys-disappear-on-deploy-42fe)
+- [Verifying CVE-2026-110264 Remediation Beyond the Upgrade Button](https://dev.to/facilishz/verifying-cve-2026-110264-remediation-beyond-the-upgrade-button-2a3)
+- [Mocking File Downloads and Binary Responses Without Faking Them Badly](https://dev.to/jeff_pdc/mocking-file-downloads-and-binary-responses-without-faking-them-badly-2eoc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
