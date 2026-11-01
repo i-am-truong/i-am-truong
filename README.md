@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Media Alert Systems Handling API Rate-Limit Errors with Bounded Delivery Retries](https://dev.to/carterhughes6853/media-alert-systems-handling-api-rate-limit-errors-with-bounded-delivery-retries-1ibn)
-- [Your test data is lying to you: realistic addresses, phones and check digits for 40 countries](https://dev.to/emin3me_271a007b94fedfbe9/your-test-data-is-lying-to-you-realistic-addresses-phones-and-check-digits-for-40-countries-4jb6)
-- [Booji: the ghost who reads my bank SMS, buries my zombie subscriptions, and tells me what next month will cost](https://dev.to/shalinabhargava/booji-the-ghost-who-reads-my-bank-sms-buries-my-zombie-subscriptions-and-tells-me-what-next-5379)
-- [Small-Team Feature Toggle Service Using Node.js: Detailed Pricing Trade-offs Explained](https://dev.to/ellisvance1273/small-team-feature-toggle-service-using-nodejs-detailed-pricing-trade-offs-explained-4mg4)
-- [Node.js Integration of OpenAI GPT API Text Summarization in Private Game Knowledge Bases](https://dev.to/winslowknight8469/nodejs-integration-of-openai-gpt-api-text-summarization-in-private-game-knowledge-bases-18ba)
+- [Bringing back the VCR board game with Kiro — a spec-driven build from the command line](https://dev.to/aiq_labs/bringing-back-the-vcr-board-game-with-kiro-a-spec-driven-build-from-the-command-line-2a6)
+- [ACH Return Codes Explained: R01, R03, R10 and How to Handle Them](https://dev.to/payout_rail/ach-return-codes-explained-r01-r03-r10-and-how-to-handle-them-34a6)
+- [Production mode caught the join race my dev tests missed](https://dev.to/muhammad_abdullahshah_96/production-mode-caught-the-join-race-my-dev-tests-missed-4nb2)
+- [Elephant-Goldfish Model คืออะไร? วิธีที่ Google ให้ AI ร่างแผนก่อนเขียนโค้ด แล้วให้ AI อีกตัวที่จำอะไรไม่ได้ตรวจ](https://dev.to/sarantoon/elephant-goldfish-model-khuueaair-withiithii-google-aih-ai-raangaephnknekhiiynokhd-aelwaih-ai-15bc)
+- [WARN Act and Outplacement Services: What Help Employers Must &lpar;and Don&#39;t Have To&rpar; Offer After a Layoff](https://dev.to/layoffatlas/warn-act-and-outplacement-services-what-help-employers-must-and-dont-have-to-offer-after-a-474e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
