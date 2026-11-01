@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTML lang and SEO: Check the Language Your Page Declares](https://dev.to/urielbitton/html-lang-and-seo-check-the-language-your-page-declares-2pm7)
-- [Choosing the right API gateway can make a huge difference in routing, security, and performance. A useful comparison for developers looking to simplify API management and avoid common routing headaches.](https://dev.to/michaeljohnsondz/choosing-the-right-api-gateway-can-make-a-huge-difference-in-routing-security-and-performance-a-3ek1)
-- [ASP.NET Core &#39;Error Unprotecting the Session Cookie&#39;: Why Your Keys Disappear on Deploy](https://dev.to/kausarraza/aspnet-core-error-unprotecting-the-session-cookie-why-your-keys-disappear-on-deploy-42fe)
-- [Verifying CVE-2026-110264 Remediation Beyond the Upgrade Button](https://dev.to/facilishz/verifying-cve-2026-110264-remediation-beyond-the-upgrade-button-2a3)
-- [Mocking File Downloads and Binary Responses Without Faking Them Badly](https://dev.to/jeff_pdc/mocking-file-downloads-and-binary-responses-without-faking-them-badly-2eoc)
+- [Codex CLI v0.166 adds codex queue --resume and codex doctor --network-only](https://dev.to/aicoding-guide/codex-cli-v0166-adds-codex-queue-resume-and-codex-doctor-network-only-5ae0)
+- [Data Archive for Dummies](https://dev.to/coldstorage/data-archive-for-dummies-3jlp)
+- [Single Page Application &lpar;SPA&rpar; WorkFlow](https://dev.to/akladyous/single-page-application-spa-workflow-jk5)
+- [&quot;Make the hole 2 mm bigger&quot; is now one command for an STL you converted to CAD](https://dev.to/emirmrkaljevic/make-the-hole-2-mm-bigger-is-now-one-command-for-an-stl-you-converted-to-cad-4k0h)
+- [Learning in Public, Phase 0: Python, the legend starts](https://dev.to/the_saint/learning-in-public-phase-0-python-the-legend-starts-8h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
