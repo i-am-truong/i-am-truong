@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UIDAI’s Sub-AUA/Sub-KUA LITE Framework: What the AUA KUA Change Means for Lenders and Fintechs](https://dev.to/befisc/uidais-sub-auasub-kua-lite-framework-what-the-aua-kua-change-means-for-lenders-and-fintechs-9n4)
-- [Bill import without a bank login: parsing statements you already own](https://dev.to/danielzheng/bill-import-without-a-bank-login-parsing-statements-you-already-own-2i1e)
-- [A WordPress form says “sent”. Trace one message before changing SMTP.](https://dev.to/wpshieldpro-notes/a-wordpress-form-says-sent-trace-one-message-before-changing-smtp-ojl)
-- [5 Email API Timeout Tips: Troubleshooting Transactional Order Reports](https://dev.to/marencrest5138/5-email-api-timeout-tips-troubleshooting-transactional-order-reports-22m5)
-- [I verified 127 Rockchip projects by hand so this list wouldn&#39;t rot — awesome-rockchip is live](https://dev.to/anguoyang/i-verified-127-rockchip-projects-by-hand-so-this-list-wouldnt-rot-awesome-rockchip-is-live-450l)
+- [Before you rebuild it: the monthly WordPress jobs that stop small problems growing](https://dev.to/pixel2techhq/before-you-rebuild-it-the-monthly-wordpress-jobs-that-stop-small-problems-growing-3c42)
+- [Building Healthcare AI That Understands Patient Access](https://dev.to/onyedikachi_onwurah_00ba3/building-healthcare-ai-that-understands-patient-access-11j3)
+- [My uninstaller refuses to delete anything it can&#39;t prove belongs to the app. Poke holes in my safety rules](https://dev.to/usmanmateen/my-uninstaller-refuses-to-delete-anything-it-cant-prove-belongs-to-the-app-poke-holes-in-my-5eoe)
+- [The &#39;Lethal Trifecta&#39; That Turns Prompt Injection Into Code Execution — and How to Check Your Claude Code Config for It](https://dev.to/stackscribe/the-lethal-trifecta-that-turns-prompt-injection-into-code-execution-and-how-to-check-your-44g1)
+- [Could AI Take Control of Humanity? Perhaps We Are Handing It Over Ourselves...?](https://dev.to/artur46222/could-ai-take-control-of-humanity-perhaps-we-are-handing-it-over-ourselves-on8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
