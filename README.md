@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Before you convert that ONNX model to RKNN, check whether it can convert at all](https://dev.to/anguoyang/before-you-convert-that-onnx-model-to-rknn-check-whether-it-can-convert-at-all-31me)
-- [QR Kot – a privacy-first QR code generator and scanner for Android](https://dev.to/piotr_a1c4ec185bc8314a323/qr-kot-a-privacy-first-qr-code-generator-and-scanner-for-android-41g2)
-- [Built a duplicate file finder in Java, here&#39;s how it works](https://dev.to/faintestmemoryofwhoioncewas/built-a-duplicate-file-finder-in-java-heres-how-it-works-fl0)
-- [Six checks that catch a bad AI portrait before anyone else sees it](https://dev.to/kira-desk/six-checks-that-catch-a-bad-ai-portrait-before-anyone-else-sees-it-2cd1)
-- [I kept losing my Claude Code sessions, so I wrote ccctl](https://dev.to/crux/i-kept-losing-my-claude-code-sessions-so-i-wrote-ccctl-3p8f)
+- [UIDAI’s Sub-AUA/Sub-KUA LITE Framework: What the AUA KUA Change Means for Lenders and Fintechs](https://dev.to/befisc/uidais-sub-auasub-kua-lite-framework-what-the-aua-kua-change-means-for-lenders-and-fintechs-9n4)
+- [Bill import without a bank login: parsing statements you already own](https://dev.to/danielzheng/bill-import-without-a-bank-login-parsing-statements-you-already-own-2i1e)
+- [A WordPress form says “sent”. Trace one message before changing SMTP.](https://dev.to/wpshieldpro-notes/a-wordpress-form-says-sent-trace-one-message-before-changing-smtp-ojl)
+- [5 Email API Timeout Tips: Troubleshooting Transactional Order Reports](https://dev.to/marencrest5138/5-email-api-timeout-tips-troubleshooting-transactional-order-reports-22m5)
+- [I verified 127 Rockchip projects by hand so this list wouldn&#39;t rot — awesome-rockchip is live](https://dev.to/anguoyang/i-verified-127-rockchip-projects-by-hand-so-this-list-wouldnt-rot-awesome-rockchip-is-live-450l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
