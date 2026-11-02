@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Before you rebuild it: the monthly WordPress jobs that stop small problems growing](https://dev.to/pixel2techhq/before-you-rebuild-it-the-monthly-wordpress-jobs-that-stop-small-problems-growing-3c42)
-- [Building Healthcare AI That Understands Patient Access](https://dev.to/onyedikachi_onwurah_00ba3/building-healthcare-ai-that-understands-patient-access-11j3)
-- [My uninstaller refuses to delete anything it can&#39;t prove belongs to the app. Poke holes in my safety rules](https://dev.to/usmanmateen/my-uninstaller-refuses-to-delete-anything-it-cant-prove-belongs-to-the-app-poke-holes-in-my-5eoe)
-- [The &#39;Lethal Trifecta&#39; That Turns Prompt Injection Into Code Execution — and How to Check Your Claude Code Config for It](https://dev.to/stackscribe/the-lethal-trifecta-that-turns-prompt-injection-into-code-execution-and-how-to-check-your-44g1)
-- [Could AI Take Control of Humanity? Perhaps We Are Handing It Over Ourselves...?](https://dev.to/artur46222/could-ai-take-control-of-humanity-perhaps-we-are-handing-it-over-ourselves-on8)
+- [Six decisions behind a cross-border transfer engine](https://dev.to/theyclonedbjorn/six-decisions-behind-a-cross-border-transfer-engine-4d14)
+- [Europe vs the US: I audited 40 public-sector websites. Both fail the same basics.](https://dev.to/calimero_projects/europe-vs-the-us-i-audited-40-public-sector-websites-both-fail-the-same-basics-f8k)
+- [Your Product Is Copyable. Your Distribution Isn&#39;t: A 24-Channel Map for Solo Builders](https://dev.to/tiaforge/your-product-is-copyable-your-distribution-isnt-a-24-channel-map-for-solo-builders-34li)
+- [Generative Simulation Benchmarking for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h5g)
+- [Convert an SVG to a PNG in the Browser, Without Uploading the File](https://dev.to/onepassapps/convert-an-svg-to-a-png-in-the-browser-without-uploading-the-file-4egl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
