@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choosing an AI Observability Platform for Financial Services: 8 Things to Evaluate Before Production](https://dev.to/bonree-js/choosing-an-ai-observability-platform-for-financial-services-8-things-to-evaluate-before-production-2kk5)
-- [EUDI wallets with OpenID4VP in action &lpar;2/2&rpar;: on another device](https://dev.to/jleleu/eudi-wallets-with-openid4vp-in-action-22-on-another-device-5c47)
-- [5 Tasks After Launching a Website to Get Visitors](https://dev.to/israr-kundi/5-tasks-after-launching-a-website-to-get-visitors-dba)
-- [AI Coding Agent 2026 เลือกตัวไหนดี? เงิน 20 ดอลลาร์ซื้ออะไรได้จากสี่ค่าย](https://dev.to/sarantoon/ai-coding-agent-2026-eluuektawaihndii-engin-20-dllaarchuueaairaidcchaaksiikhaay-d10)
-- [CSS anchor positioning: tooltips that flip](https://dev.to/richicodes/css-anchor-positioning-tooltips-that-flip-3ld6)
+- [CRM&#39;de veri maskeleme tasarlamak: Rol bazlı görünüm, sunucu tarafı maskeleme, açma kaydı ve test ortamı için tokenizasyon](https://dev.to/korayyalcin/crmde-veri-maskeleme-tasarlamak-rol-bazli-gorunum-sunucu-tarafi-maskeleme-acma-kaydi-ve-test-34ab)
+- [Beyond Upvote Rings: How We Engineered a Real-Time 24-Hour Launch Engine with React and Firestore](https://dev.to/astrodiscover/beyond-upvote-rings-how-we-engineered-a-real-time-24-hour-launch-engine-with-react-and-firestore-3g08)
+- [‘Fallout: Factions’ Brings Immersive PvP Tabletop Action to XREAL AURA Next Month](https://dev.to/ashish_624379625242c5d263/fallout-factions-brings-immersive-pvp-tabletop-action-to-xreal-aura-next-month-pi7)
+- [An Open-Source Scanner That Tells You Exactly How to Get Quantum-Ready](https://dev.to/wrightbenjamin1701/an-open-source-scanner-that-tells-you-exactly-how-to-get-quantum-ready-4kka)
+- [Only the new jobs every morning: remote, contract type, yearly salary and company size from any company&#39;s careers page](https://dev.to/omar_khandji_0135ce9388bb/only-the-new-jobs-every-morning-remote-contract-type-yearly-salary-and-company-size-from-any-ig1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
