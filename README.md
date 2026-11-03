@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Six decisions behind a cross-border transfer engine](https://dev.to/theyclonedbjorn/six-decisions-behind-a-cross-border-transfer-engine-4d14)
-- [Europe vs the US: I audited 40 public-sector websites. Both fail the same basics.](https://dev.to/calimero_projects/europe-vs-the-us-i-audited-40-public-sector-websites-both-fail-the-same-basics-f8k)
-- [Your Product Is Copyable. Your Distribution Isn&#39;t: A 24-Channel Map for Solo Builders](https://dev.to/tiaforge/your-product-is-copyable-your-distribution-isnt-a-24-channel-map-for-solo-builders-34li)
-- [Generative Simulation Benchmarking for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h5g)
-- [Convert an SVG to a PNG in the Browser, Without Uploading the File](https://dev.to/onepassapps/convert-an-svg-to-a-png-in-the-browser-without-uploading-the-file-4egl)
+- [Potential Reclaimable Space](https://dev.to/hrlpavan/potential-reclaimable-space-121m)
+- [I published my own losing trade tape: 321 round trips, net -$35.85](https://dev.to/edvyno/i-published-my-own-losing-trade-tape-321-round-trips-net-3585-k0f)
+- [ChatGPT sent 116 people to one of our pages last week. The week before, it sent 7.](https://dev.to/jukkablomberg/chatgpt-sent-116-people-to-one-of-our-pages-last-week-the-week-before-it-sent-7-272k)
+- [Signed, Sealed, Mangled: Why Webhook Signatures Fail Behind a Tunnel](https://dev.to/instatunnel/signed-sealed-mangled-why-webhook-signatures-fail-behind-a-tunnel-3gph)
+- [The Expensive Part of AI Music Is Usually the Retry Loop](https://dev.to/germey/the-expensive-part-of-ai-music-is-usually-the-retry-loop-9mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
