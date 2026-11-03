@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Potential Reclaimable Space](https://dev.to/hrlpavan/potential-reclaimable-space-121m)
-- [I published my own losing trade tape: 321 round trips, net -$35.85](https://dev.to/edvyno/i-published-my-own-losing-trade-tape-321-round-trips-net-3585-k0f)
-- [ChatGPT sent 116 people to one of our pages last week. The week before, it sent 7.](https://dev.to/jukkablomberg/chatgpt-sent-116-people-to-one-of-our-pages-last-week-the-week-before-it-sent-7-272k)
-- [Signed, Sealed, Mangled: Why Webhook Signatures Fail Behind a Tunnel](https://dev.to/instatunnel/signed-sealed-mangled-why-webhook-signatures-fail-behind-a-tunnel-3gph)
-- [The Expensive Part of AI Music Is Usually the Retry Loop](https://dev.to/germey/the-expensive-part-of-ai-music-is-usually-the-retry-loop-9mi)
+- [Choosing an AI Observability Platform for Financial Services: 8 Things to Evaluate Before Production](https://dev.to/bonree-js/choosing-an-ai-observability-platform-for-financial-services-8-things-to-evaluate-before-production-2kk5)
+- [EUDI wallets with OpenID4VP in action &lpar;2/2&rpar;: on another device](https://dev.to/jleleu/eudi-wallets-with-openid4vp-in-action-22-on-another-device-5c47)
+- [5 Tasks After Launching a Website to Get Visitors](https://dev.to/israr-kundi/5-tasks-after-launching-a-website-to-get-visitors-dba)
+- [AI Coding Agent 2026 เลือกตัวไหนดี? เงิน 20 ดอลลาร์ซื้ออะไรได้จากสี่ค่าย](https://dev.to/sarantoon/ai-coding-agent-2026-eluuektawaihndii-engin-20-dllaarchuueaairaidcchaaksiikhaay-d10)
+- [CSS anchor positioning: tooltips that flip](https://dev.to/richicodes/css-anchor-positioning-tooltips-that-flip-3ld6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
