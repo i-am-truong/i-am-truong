@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CRM&#39;de veri maskeleme tasarlamak: Rol bazlı görünüm, sunucu tarafı maskeleme, açma kaydı ve test ortamı için tokenizasyon](https://dev.to/korayyalcin/crmde-veri-maskeleme-tasarlamak-rol-bazli-gorunum-sunucu-tarafi-maskeleme-acma-kaydi-ve-test-34ab)
-- [Beyond Upvote Rings: How We Engineered a Real-Time 24-Hour Launch Engine with React and Firestore](https://dev.to/astrodiscover/beyond-upvote-rings-how-we-engineered-a-real-time-24-hour-launch-engine-with-react-and-firestore-3g08)
-- [‘Fallout: Factions’ Brings Immersive PvP Tabletop Action to XREAL AURA Next Month](https://dev.to/ashish_624379625242c5d263/fallout-factions-brings-immersive-pvp-tabletop-action-to-xreal-aura-next-month-pi7)
-- [An Open-Source Scanner That Tells You Exactly How to Get Quantum-Ready](https://dev.to/wrightbenjamin1701/an-open-source-scanner-that-tells-you-exactly-how-to-get-quantum-ready-4kka)
-- [Only the new jobs every morning: remote, contract type, yearly salary and company size from any company&#39;s careers page](https://dev.to/omar_khandji_0135ce9388bb/only-the-new-jobs-every-morning-remote-contract-type-yearly-salary-and-company-size-from-any-ig1)
+- [Where should a small studio launch its next Android app? A data experiment on 9,644 Google Play apps](https://dev.to/theoliveirad/where-should-a-small-studio-launch-its-next-android-app-a-data-experiment-on-9644-google-play-apps-54bd)
+- [Your Automated Tests Passed. Can You Prove They Tested the Right Thing?](https://dev.to/sleepyfalcon247/your-automated-tests-passed-can-you-prove-they-tested-the-right-thing-fpp)
+- [Lovable Data Leak 2026: 24,664 AI Apps Exposed 80,000+ User Records via Supabase](https://dev.to/yashvikothari/lovable-data-leak-2026-24664-ai-apps-exposed-80000-user-records-via-supabase-2l7a)
+- [How to Prevent Duplicate POS Sales from Skewing Inventory with Python and SQLite](https://dev.to/mercyantony/how-to-prevent-duplicate-pos-sales-from-skewing-inventory-with-python-and-sqlite-e78)
+- [NATS JetStream vs Apache Kafka vs Apache Pulsar: Latency SLAs, Throughput &amp; Multi-Tenancy](https://dev.to/grfdsasdvef/nats-jetstream-vs-apache-kafka-vs-apache-pulsar-latency-slas-throughput-multi-tenancy-39ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
