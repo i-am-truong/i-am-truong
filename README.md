@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a React Native app for field reps: cheap Android phones, direct sunlight, weak signal](https://dev.to/shaoor_ahmad_f9ab22689b95/designing-a-react-native-app-for-field-reps-cheap-android-phones-direct-sunlight-weak-signal-2cp6)
-- [Directrices de Accesibilidad Web: De los Fundamentos a los Estándares de 2026](https://dev.to/daniel_riveraalpzar_861/directrices-de-accesibilidad-web-de-los-fundamentos-a-los-estandares-de-2026-3d38)
-- [Coreo Arp: 64 composiciones que no se repiten](https://dev.to/petrasynthetic/coreo-arp-64-composiciones-que-no-se-repiten-565f)
-- [Developer portfolio examples that prove you can ship &lpar;not just code&rpar;](https://dev.to/thong_nguyen_83f79b7c77db/developer-portfolio-examples-that-prove-you-can-ship-not-just-code-1pnk)
-- [How we automated fraud and metric inconsistency detection on a digital asset marketplace in under 800ms using Next.js App Router and DeepSeek](https://dev.to/johnfelicita/how-we-automated-fraud-and-metric-inconsistency-detection-on-a-digital-asset-marketplace-in-under-4ifn)
+- [FlutterFlow&#39;s New AI Builder Turns a Conversation Into a Native App — Explained Honestly](https://dev.to/paullovelace/flutterflows-new-ai-builder-turns-a-conversation-into-a-native-app-explained-honestly-4eo5)
+- [Object Storage Browser Direct Uploads with Presigned URLs for SaaS Receipts in 2026](https://dev.to/tatefletcher6754/object-storage-browser-direct-uploads-with-presigned-urls-for-saas-receipts-in-2026-5gmm)
+- [Detecting a missing bank statement from balance carry-forward &lpar;not from dates&rpar;](https://dev.to/damin_mutti_e213ac1a11bf4/detecting-a-missing-bank-statement-from-balance-carry-forward-not-from-dates-6c9)
+- [Stop uploading your contracts to random websites. I wrote a PDF editor instead](https://dev.to/foisal_islam_43df80b6d4e2/stop-uploading-your-contracts-to-random-websites-i-wrote-a-pdf-editor-instead-5d0j)
+- [One bank CSV, three importers: the format QuickBooks Online, Xero and Wave will all accept](https://dev.to/damin_mutti_e213ac1a11bf4/one-bank-csv-three-importers-the-format-quickbooks-online-xero-and-wave-will-all-accept-1gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
