@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Query the CMS Open Payments API &lpar;Without Downloading Multi-GB CSVs&rpar;](https://dev.to/thetatech/how-to-query-the-cms-open-payments-api-without-downloading-multi-gb-csvs-4d86)
-- [A 9B assistant built from our specs went from 6 to 32 right answers out of 32. Most of the fixes were code, not prompts](https://dev.to/weekendaiprojects/a-9b-assistant-built-from-our-specs-went-from-6-to-32-right-answers-out-of-32-most-of-the-fixes-49a7)
-- [The Last Mile of Agent Adoption: Why `vercel-labs/agent-desktop` Proves Onboarding Matters More Than Capability](https://dev.to/fenju_fu/the-last-mile-of-agent-adoption-why-vercel-labsagent-desktop-proves-onboarding-matters-more-24cl)
-- [Binance hit by 6.3 billion dollar crypto theft](https://dev.to/ashish_624379625242c5d263/binance-hit-by-63-billion-dollar-crypto-theft-1jil)
-- [Gemini 4 Argon vs Claude Opus 5.5 for coding agents](https://dev.to/xiun_xiao_6eae2df5c108c5f/gemini-4-argon-vs-claude-opus-55-for-coding-agents-36e2)
+- [Quantized FP8 vs Dense Weights for Autonomous Coding Agents: Deep Dive &amp; Engineering Breakdown](https://dev.to/neubench/quantized-fp8-vs-dense-weights-for-autonomous-coding-agents-deep-dive-engineering-breakdown-2266)
+- [Same matte, MSE 1.41 or 9.03: what a matting report has to state first](https://dev.to/pm_cheng_3f36acecfb9c59f5/same-matte-mse-141-or-903-what-a-matting-report-has-to-state-first-4mn9)
+- [What changed in Argo CD 3.5 for ops teams upgrading from 3.x](https://dev.to/oleksandr_kuryzhev_42873f/what-changed-in-argo-cd-35-for-ops-teams-upgrading-from-3x-2nmb)
+- [Chess Engine in C #6: Attacked Squares](https://dev.to/chivicks_hazard/chess-engine-in-c-6-attacked-squares-c7j)
+- [SQLite: A Lightweight Database for Modern Applications](https://dev.to/wtilth_technologiespriva/sqlite-a-lightweight-database-for-modern-applications-971)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
