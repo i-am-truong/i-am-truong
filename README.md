@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Where should a small studio launch its next Android app? A data experiment on 9,644 Google Play apps](https://dev.to/theoliveirad/where-should-a-small-studio-launch-its-next-android-app-a-data-experiment-on-9644-google-play-apps-54bd)
-- [Your Automated Tests Passed. Can You Prove They Tested the Right Thing?](https://dev.to/sleepyfalcon247/your-automated-tests-passed-can-you-prove-they-tested-the-right-thing-fpp)
-- [Lovable Data Leak 2026: 24,664 AI Apps Exposed 80,000+ User Records via Supabase](https://dev.to/yashvikothari/lovable-data-leak-2026-24664-ai-apps-exposed-80000-user-records-via-supabase-2l7a)
-- [How to Prevent Duplicate POS Sales from Skewing Inventory with Python and SQLite](https://dev.to/mercyantony/how-to-prevent-duplicate-pos-sales-from-skewing-inventory-with-python-and-sqlite-e78)
-- [NATS JetStream vs Apache Kafka vs Apache Pulsar: Latency SLAs, Throughput &amp; Multi-Tenancy](https://dev.to/grfdsasdvef/nats-jetstream-vs-apache-kafka-vs-apache-pulsar-latency-slas-throughput-multi-tenancy-39ag)
+- [How to Query the CMS Open Payments API &lpar;Without Downloading Multi-GB CSVs&rpar;](https://dev.to/thetatech/how-to-query-the-cms-open-payments-api-without-downloading-multi-gb-csvs-4d86)
+- [A 9B assistant built from our specs went from 6 to 32 right answers out of 32. Most of the fixes were code, not prompts](https://dev.to/weekendaiprojects/a-9b-assistant-built-from-our-specs-went-from-6-to-32-right-answers-out-of-32-most-of-the-fixes-49a7)
+- [The Last Mile of Agent Adoption: Why `vercel-labs/agent-desktop` Proves Onboarding Matters More Than Capability](https://dev.to/fenju_fu/the-last-mile-of-agent-adoption-why-vercel-labsagent-desktop-proves-onboarding-matters-more-24cl)
+- [Binance hit by 6.3 billion dollar crypto theft](https://dev.to/ashish_624379625242c5d263/binance-hit-by-63-billion-dollar-crypto-theft-1jil)
+- [Gemini 4 Argon vs Claude Opus 5.5 for coding agents](https://dev.to/xiun_xiao_6eae2df5c108c5f/gemini-4-argon-vs-claude-opus-55-for-coding-agents-36e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
