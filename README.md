@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantized FP8 vs Dense Weights for Autonomous Coding Agents: Deep Dive &amp; Engineering Breakdown](https://dev.to/neubench/quantized-fp8-vs-dense-weights-for-autonomous-coding-agents-deep-dive-engineering-breakdown-2266)
-- [Same matte, MSE 1.41 or 9.03: what a matting report has to state first](https://dev.to/pm_cheng_3f36acecfb9c59f5/same-matte-mse-141-or-903-what-a-matting-report-has-to-state-first-4mn9)
-- [What changed in Argo CD 3.5 for ops teams upgrading from 3.x](https://dev.to/oleksandr_kuryzhev_42873f/what-changed-in-argo-cd-35-for-ops-teams-upgrading-from-3x-2nmb)
-- [Chess Engine in C #6: Attacked Squares](https://dev.to/chivicks_hazard/chess-engine-in-c-6-attacked-squares-c7j)
-- [SQLite: A Lightweight Database for Modern Applications](https://dev.to/wtilth_technologiespriva/sqlite-a-lightweight-database-for-modern-applications-971)
+- [Designing a React Native app for field reps: cheap Android phones, direct sunlight, weak signal](https://dev.to/shaoor_ahmad_f9ab22689b95/designing-a-react-native-app-for-field-reps-cheap-android-phones-direct-sunlight-weak-signal-2cp6)
+- [Directrices de Accesibilidad Web: De los Fundamentos a los Estándares de 2026](https://dev.to/daniel_riveraalpzar_861/directrices-de-accesibilidad-web-de-los-fundamentos-a-los-estandares-de-2026-3d38)
+- [Coreo Arp: 64 composiciones que no se repiten](https://dev.to/petrasynthetic/coreo-arp-64-composiciones-que-no-se-repiten-565f)
+- [Developer portfolio examples that prove you can ship &lpar;not just code&rpar;](https://dev.to/thong_nguyen_83f79b7c77db/developer-portfolio-examples-that-prove-you-can-ship-not-just-code-1pnk)
+- [How we automated fraud and metric inconsistency detection on a digital asset marketplace in under 800ms using Next.js App Router and DeepSeek](https://dev.to/johnfelicita/how-we-automated-fraud-and-metric-inconsistency-detection-on-a-digital-asset-marketplace-in-under-4ifn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
