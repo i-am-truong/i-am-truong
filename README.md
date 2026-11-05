@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No questions before the first demo: how agents made us move our product engineering handoff](https://dev.to/abbyjlehr/no-questions-before-the-first-demo-how-agents-made-us-move-our-product-engineering-handoff-23kg)
-- [Signal Just Killed the Phone Number. Here&#39;s What Replaces It](https://dev.to/indirectb/signal-just-killed-the-phone-number-heres-what-replaces-it-1ghg)
-- [AGENTS.md vs CLAUDE.md: What 3,387 Agent Instruction Files Leave Out](https://dev.to/stackchief/agentsmd-vs-claudemd-what-3387-agent-instruction-files-leave-out-cod)
-- [Your Website Is Your Digital Storefront: How User Experience Can Shape Business Success](https://dev.to/snehal_jadhav_1a74a91640a/your-website-is-your-digital-storefront-how-user-experience-can-shape-business-success-4ee9)
-- [A Production Engineer&#39;s Guide to Choosing the Right Prompting Strategy](https://dev.to/theprodsde/a-production-engineers-guide-to-choosing-the-right-prompting-strategy-3oee)
+- [How I got my first pull request merged into LiteLLM](https://dev.to/ali_ahmed_44ee99051e327ce/how-i-got-my-first-pull-request-merged-into-litellm-58p1)
+- [From 10 µm to 3 nm: how chips got so small &lpar;and why 3 nm isn&#39;t 3 nm&rpar;](https://dev.to/ali_ahmed_44ee99051e327ce/from-10-um-to-3-nm-how-chips-got-so-small-and-why-3-nm-isnt-3-nm-1fnn)
+- [Trust does not carry forward](https://dev.to/randomchaos/trust-does-not-carry-forward-3bi5)
+- [De combien de mémoire un LLM local a-t-il besoin ?](https://dev.to/bestaitools-fr/de-combien-de-memoire-un-llm-local-a-t-il-besoin--a97)
+- [Writing Knowledge-Base Entries an Auto-Responder Can Actually Quote](https://dev.to/dingdangcs/writing-knowledge-base-entries-an-auto-responder-can-actually-quote-921)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
