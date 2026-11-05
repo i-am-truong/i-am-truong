@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Configuration-Driven Databricks Platform on AWS &lpar;Part 2&rpar;](https://dev.to/mysticrenji/building-a-configuration-driven-databricks-platform-on-aws-part-2-1086)
-- [I built a free Chrome Extension to extract any website&#39;s Brand Kit &lpar;Colors, Fonts, CSS&rpar; &amp; Client Onboarding Brief](https://dev.to/udaapps/i-built-a-free-chrome-extension-to-extract-any-websites-brand-kit-colors-fonts-css-client-2ca9)
-- [Filming a Client Testimonial in One Afternoon: A Practical Shoot Plan](https://dev.to/pixel2techhq/filming-a-client-testimonial-in-one-afternoon-a-practical-shoot-plan-47do)
-- [GitHub Agentic Workflows: Issue Triage Step by Step](https://dev.to/sascha-ms/github-agentic-workflows-issue-triage-step-by-step-48p7)
-- [Our Largest Sites Now Book Our Lorries Into Their Own Systems and Our Planner Still Thinks It Chooses the Time](https://dev.to/serguey_shinder_4ab9b87b1/our-largest-sites-now-book-our-lorries-into-their-own-systems-and-our-planner-still-thinks-it-3c15)
+- [No questions before the first demo: how agents made us move our product engineering handoff](https://dev.to/abbyjlehr/no-questions-before-the-first-demo-how-agents-made-us-move-our-product-engineering-handoff-23kg)
+- [Signal Just Killed the Phone Number. Here&#39;s What Replaces It](https://dev.to/indirectb/signal-just-killed-the-phone-number-heres-what-replaces-it-1ghg)
+- [AGENTS.md vs CLAUDE.md: What 3,387 Agent Instruction Files Leave Out](https://dev.to/stackchief/agentsmd-vs-claudemd-what-3387-agent-instruction-files-leave-out-cod)
+- [Your Website Is Your Digital Storefront: How User Experience Can Shape Business Success](https://dev.to/snehal_jadhav_1a74a91640a/your-website-is-your-digital-storefront-how-user-experience-can-shape-business-success-4ee9)
+- [A Production Engineer&#39;s Guide to Choosing the Right Prompting Strategy](https://dev.to/theprodsde/a-production-engineers-guide-to-choosing-the-right-prompting-strategy-3oee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
