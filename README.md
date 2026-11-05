@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FlutterFlow&#39;s New AI Builder Turns a Conversation Into a Native App — Explained Honestly](https://dev.to/paullovelace/flutterflows-new-ai-builder-turns-a-conversation-into-a-native-app-explained-honestly-4eo5)
-- [Object Storage Browser Direct Uploads with Presigned URLs for SaaS Receipts in 2026](https://dev.to/tatefletcher6754/object-storage-browser-direct-uploads-with-presigned-urls-for-saas-receipts-in-2026-5gmm)
-- [Detecting a missing bank statement from balance carry-forward &lpar;not from dates&rpar;](https://dev.to/damin_mutti_e213ac1a11bf4/detecting-a-missing-bank-statement-from-balance-carry-forward-not-from-dates-6c9)
-- [Stop uploading your contracts to random websites. I wrote a PDF editor instead](https://dev.to/foisal_islam_43df80b6d4e2/stop-uploading-your-contracts-to-random-websites-i-wrote-a-pdf-editor-instead-5d0j)
-- [One bank CSV, three importers: the format QuickBooks Online, Xero and Wave will all accept](https://dev.to/damin_mutti_e213ac1a11bf4/one-bank-csv-three-importers-the-format-quickbooks-online-xero-and-wave-will-all-accept-1gf8)
+- [Choosing Industrial Displays for Embedded Manufacturing Systems: An Integration-First Guide](https://dev.to/stone_module/choosing-industrial-displays-for-embedded-manufacturing-systems-an-integration-first-guide-36ig)
+- [Agent + RPA: Why Deterministic Execution Is the Missing Half of Agent Workflows](https://dev.to/fenju_fu/agent-rpa-why-deterministic-execution-is-the-missing-half-of-agent-workflows-47n4)
+- [Why a 70% Win Rate Over 20 Trades Means Nothing](https://dev.to/dronpancholi/why-a-70-win-rate-over-20-trades-means-nothing-j0d)
+- [GitHub Achievements Explained: Every Badge, Tier, and a CLI to Track Your Progress](https://dev.to/6t9/github-achievements-explained-every-badge-tier-and-a-cli-to-track-your-progress-3io)
+- [Superpowers vs Halfcycle: a method you install, or one that keeps learning](https://dev.to/halfcycle/superpowers-vs-halfcycle-a-method-you-install-or-one-that-keeps-learning-3432)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
