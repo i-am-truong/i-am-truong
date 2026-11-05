@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Industrial Displays for Embedded Manufacturing Systems: An Integration-First Guide](https://dev.to/stone_module/choosing-industrial-displays-for-embedded-manufacturing-systems-an-integration-first-guide-36ig)
-- [Agent + RPA: Why Deterministic Execution Is the Missing Half of Agent Workflows](https://dev.to/fenju_fu/agent-rpa-why-deterministic-execution-is-the-missing-half-of-agent-workflows-47n4)
-- [Why a 70% Win Rate Over 20 Trades Means Nothing](https://dev.to/dronpancholi/why-a-70-win-rate-over-20-trades-means-nothing-j0d)
-- [GitHub Achievements Explained: Every Badge, Tier, and a CLI to Track Your Progress](https://dev.to/6t9/github-achievements-explained-every-badge-tier-and-a-cli-to-track-your-progress-3io)
-- [Superpowers vs Halfcycle: a method you install, or one that keeps learning](https://dev.to/halfcycle/superpowers-vs-halfcycle-a-method-you-install-or-one-that-keeps-learning-3432)
+- [Building a Configuration-Driven Databricks Platform on AWS &lpar;Part 2&rpar;](https://dev.to/mysticrenji/building-a-configuration-driven-databricks-platform-on-aws-part-2-1086)
+- [I built a free Chrome Extension to extract any website&#39;s Brand Kit &lpar;Colors, Fonts, CSS&rpar; &amp; Client Onboarding Brief](https://dev.to/udaapps/i-built-a-free-chrome-extension-to-extract-any-websites-brand-kit-colors-fonts-css-client-2ca9)
+- [Filming a Client Testimonial in One Afternoon: A Practical Shoot Plan](https://dev.to/pixel2techhq/filming-a-client-testimonial-in-one-afternoon-a-practical-shoot-plan-47do)
+- [GitHub Agentic Workflows: Issue Triage Step by Step](https://dev.to/sascha-ms/github-agentic-workflows-issue-triage-step-by-step-48p7)
+- [Our Largest Sites Now Book Our Lorries Into Their Own Systems and Our Planner Still Thinks It Chooses the Time](https://dev.to/serguey_shinder_4ab9b87b1/our-largest-sites-now-book-our-lorries-into-their-own-systems-and-our-planner-still-thinks-it-3c15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
