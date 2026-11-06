@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two hubs for the same subject in two Englishes, and the footer that stays British on both](https://dev.to/daniel_pertu/two-hubs-for-the-same-subject-in-two-englishes-and-the-footer-that-stays-british-on-both-4gm)
-- [Twelve files in one commit changed by exactly one line, and ten of those lines were the word seven](https://dev.to/daniel_pertu/twelve-files-in-one-commit-changed-by-exactly-one-line-and-ten-of-those-lines-were-the-word-seven-mi2)
-- [Detect Normalized CSV Header Collisions Before Mapping an Order](https://dev.to/tom_8d160ea57bf5c0395981d/detect-normalized-csv-header-collisions-before-mapping-an-order-579i)
-- [I ran Switch headless on a cloud box so my team could pick one pull request out of four](https://dev.to/saharsh7002/i-ran-switch-headless-on-a-cloud-box-so-my-team-could-pick-one-pull-request-out-of-four-ho4)
-- [Your revenue ranking needs more than a ticker key](https://dev.to/nimbryxo-studio/your-revenue-ranking-needs-more-than-a-ticker-key-2l00)
+- [CVE-2026-115560 Evidence Review: What Operators Can Confirm Today](https://dev.to/jeffreyciend/cve-2026-115560-evidence-review-what-operators-can-confirm-today-2k9b)
+- [A timeout is not a failed booking: designing duplicate-safe AI actions](https://dev.to/itimpress/a-timeout-is-not-a-failed-booking-designing-duplicate-safe-ai-actions-186e)
+- [Email and Phone Normalization: Common Mistakes](https://dev.to/chirag191094/email-and-phone-normalization-common-mistakes-dif)
+- [Replace a Small JSON Snapshot Only After Its Temporary File Is Complete](https://dev.to/tokenpeakai/replace-a-small-json-snapshot-only-after-its-temporary-file-is-complete-1lko)
+- [Stop Paying AWS to Talk to Itself: When to Use VPC Endpoints Instead of a NAT Gateway](https://dev.to/drskyle/stop-paying-aws-to-talk-to-itself-when-to-use-vpc-endpoints-instead-of-a-nat-gateway-2a44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
