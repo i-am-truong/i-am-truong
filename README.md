@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I got my first pull request merged into LiteLLM](https://dev.to/ali_ahmed_44ee99051e327ce/how-i-got-my-first-pull-request-merged-into-litellm-58p1)
-- [From 10 µm to 3 nm: how chips got so small &lpar;and why 3 nm isn&#39;t 3 nm&rpar;](https://dev.to/ali_ahmed_44ee99051e327ce/from-10-um-to-3-nm-how-chips-got-so-small-and-why-3-nm-isnt-3-nm-1fnn)
-- [Trust does not carry forward](https://dev.to/randomchaos/trust-does-not-carry-forward-3bi5)
-- [De combien de mémoire un LLM local a-t-il besoin ?](https://dev.to/bestaitools-fr/de-combien-de-memoire-un-llm-local-a-t-il-besoin--a97)
-- [Writing Knowledge-Base Entries an Auto-Responder Can Actually Quote](https://dev.to/dingdangcs/writing-knowledge-base-entries-an-auto-responder-can-actually-quote-921)
+- [My AI Trading Bot Looked Profitable. Every Number That Said So Was the Wrong Number.](https://dev.to/prasannavarshan/my-ai-trading-bot-looked-profitable-every-number-that-said-so-was-the-wrong-number-309l)
+- [Dagu&#39;s Default Execution Path Turns Exposure Into Command Execution](https://dev.to/onaeiuspkz/dagus-default-execution-path-turns-exposure-into-command-execution-1bmd)
+- [System design for physical AI: one ontology from tag to pump to permit limit](https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-one-ontology-from-tag-to-pump-to-permit-limit-1kpm)
+- [Day 13: Session Management and Lifecycle](https://dev.to/jeff377/day-13-session-management-and-lifecycle-248p)
+- [Before Connecting an AI Email Assistant: Run This 14-Case Permission Test](https://dev.to/isabelle_dubuis_d858453d7/before-connecting-an-ai-email-assistant-run-this-14-case-permission-test-1afo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
