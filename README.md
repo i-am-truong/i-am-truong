@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-115560 Evidence Review: What Operators Can Confirm Today](https://dev.to/jeffreyciend/cve-2026-115560-evidence-review-what-operators-can-confirm-today-2k9b)
-- [A timeout is not a failed booking: designing duplicate-safe AI actions](https://dev.to/itimpress/a-timeout-is-not-a-failed-booking-designing-duplicate-safe-ai-actions-186e)
-- [Email and Phone Normalization: Common Mistakes](https://dev.to/chirag191094/email-and-phone-normalization-common-mistakes-dif)
-- [Replace a Small JSON Snapshot Only After Its Temporary File Is Complete](https://dev.to/tokenpeakai/replace-a-small-json-snapshot-only-after-its-temporary-file-is-complete-1lko)
-- [Stop Paying AWS to Talk to Itself: When to Use VPC Endpoints Instead of a NAT Gateway](https://dev.to/drskyle/stop-paying-aws-to-talk-to-itself-when-to-use-vpc-endpoints-instead-of-a-nat-gateway-2a44)
+- [SDLC Explained for WordPress Developers: The 4wp.dev Umbrella, 7 Phases, 60 Years](https://dev.to/adovgun/sdlc-explained-for-wordpress-developers-the-4wpdev-umbrella-7-phases-60-years-4cbf)
+- [Vietnam AI &amp; LLM Daily Briefing &lpar;Nov 07, 2026&rpar;](https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-07-2026-1ck4)
+- [Điểm tin Trí tuệ Nhân tạo &amp; Mô hình Ngôn ngữ lớn &lpar;LLMs&rpar; tại Việt Nam &lpar;07/11/2026&rpar;](https://dev.to/vuhung16au/diem-tin-tri-tue-nhan-tao-mo-hinh-ngon-ngu-lon-llms-tai-viet-nam-07112026-14n2)
+- [PITI Calculator: Monthly Payment With Taxes and Insurance](https://dev.to/statementready-hq/piti-calculator-monthly-payment-with-taxes-and-insurance-1e6d)
+- [LLMjacking Is Real: Stolen AI Keys Ran Up $1 Million Bills in a Day](https://dev.to/ahtisham_lala_a1af953f29b/llmjacking-is-real-stolen-ai-keys-ran-up-1-million-bills-in-a-day-jd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
