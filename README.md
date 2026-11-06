@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Trading Bot Looked Profitable. Every Number That Said So Was the Wrong Number.](https://dev.to/prasannavarshan/my-ai-trading-bot-looked-profitable-every-number-that-said-so-was-the-wrong-number-309l)
-- [Dagu&#39;s Default Execution Path Turns Exposure Into Command Execution](https://dev.to/onaeiuspkz/dagus-default-execution-path-turns-exposure-into-command-execution-1bmd)
-- [System design for physical AI: one ontology from tag to pump to permit limit](https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-one-ontology-from-tag-to-pump-to-permit-limit-1kpm)
-- [Day 13: Session Management and Lifecycle](https://dev.to/jeff377/day-13-session-management-and-lifecycle-248p)
-- [Before Connecting an AI Email Assistant: Run This 14-Case Permission Test](https://dev.to/isabelle_dubuis_d858453d7/before-connecting-an-ai-email-assistant-run-this-14-case-permission-test-1afo)
+- [Two hubs for the same subject in two Englishes, and the footer that stays British on both](https://dev.to/daniel_pertu/two-hubs-for-the-same-subject-in-two-englishes-and-the-footer-that-stays-british-on-both-4gm)
+- [Twelve files in one commit changed by exactly one line, and ten of those lines were the word seven](https://dev.to/daniel_pertu/twelve-files-in-one-commit-changed-by-exactly-one-line-and-ten-of-those-lines-were-the-word-seven-mi2)
+- [Detect Normalized CSV Header Collisions Before Mapping an Order](https://dev.to/tom_8d160ea57bf5c0395981d/detect-normalized-csv-header-collisions-before-mapping-an-order-579i)
+- [I ran Switch headless on a cloud box so my team could pick one pull request out of four](https://dev.to/saharsh7002/i-ran-switch-headless-on-a-cloud-box-so-my-team-could-pick-one-pull-request-out-of-four-ho4)
+- [Your revenue ranking needs more than a ticker key](https://dev.to/nimbryxo-studio/your-revenue-ranking-needs-more-than-a-ticker-key-2l00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
