@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SDLC Explained for WordPress Developers: The 4wp.dev Umbrella, 7 Phases, 60 Years](https://dev.to/adovgun/sdlc-explained-for-wordpress-developers-the-4wpdev-umbrella-7-phases-60-years-4cbf)
-- [Vietnam AI &amp; LLM Daily Briefing &lpar;Nov 07, 2026&rpar;](https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-07-2026-1ck4)
-- [Điểm tin Trí tuệ Nhân tạo &amp; Mô hình Ngôn ngữ lớn &lpar;LLMs&rpar; tại Việt Nam &lpar;07/11/2026&rpar;](https://dev.to/vuhung16au/diem-tin-tri-tue-nhan-tao-mo-hinh-ngon-ngu-lon-llms-tai-viet-nam-07112026-14n2)
-- [PITI Calculator: Monthly Payment With Taxes and Insurance](https://dev.to/statementready-hq/piti-calculator-monthly-payment-with-taxes-and-insurance-1e6d)
-- [LLMjacking Is Real: Stolen AI Keys Ran Up $1 Million Bills in a Day](https://dev.to/ahtisham_lala_a1af953f29b/llmjacking-is-real-stolen-ai-keys-ran-up-1-million-bills-in-a-day-jd0)
+- [Perché compilare una tesi in LaTeX richiede più di 10 secondi](https://dev.to/bestaitools-it/perche-compilare-una-tesi-in-latex-richiede-piu-di-10-secondi-34k6)
+- [I Decided to Host an Event for People Spending Christmas Eve Alone](https://dev.to/tanahiro2010/i-decided-to-host-an-event-for-people-spending-christmas-eve-alone-1ffi)
+- [`npm install primevue` now needs a licence key: what changed, and how to stay on MIT](https://dev.to/kiri1101/npm-install-primevue-now-needs-a-licence-key-what-changed-and-how-to-stay-on-mit-5cpn)
+- [Base64 Line Breaks and Padding: Why They Break Decoders](https://dev.to/toolstead/base64-line-breaks-and-padding-why-they-break-decoders-5ckh)
+- [Padloc self-hosting moves server policy and recovery into your hands](https://dev.to/johnettagaweraks/padloc-self-hosting-moves-server-policy-and-recovery-into-your-hands-5b45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
