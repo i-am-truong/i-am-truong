@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cut the Wire Mid-Request: Prove the Offline Path](https://dev.to/gitjs_8094/cut-the-wire-mid-request-prove-the-offline-path-4g2l)
-- [Tabs in One: strânge toate filele Chrome într-o singură coloană &lpar;și eliberează RAM&rpar;](https://dev.to/tabsinone/tabs-in-one-strange-toate-filele-chrome-intr-o-singura-coloana-si-elibereaza-ram-2ida)
-- [I stopped being the thing that connects my own tools](https://dev.to/rama_krishna_c048c2d91677/i-stopped-being-the-thing-that-connects-my-own-tools-21lp)
-- [A human approval step for an LLM agent: the boundary that matters](https://dev.to/lohith_lalesh_76ef3d876b3/a-human-approval-step-for-an-llm-agent-the-boundary-that-matters-3jc2)
-- [List`1[System.Int32] is not a style: escaping interpolated values in Spectre.Console markup](https://dev.to/granttotinov/list1systemint32-is-not-a-style-escaping-interpolated-values-in-spectreconsole-markup-1lcm)
+- [Kenapa posisi subtitle burn-in ffmpeg meleset di video vertikal?](https://dev.to/bestaitools-id/kenapa-posisi-subtitle-burn-in-ffmpeg-meleset-di-video-vertikal-1lde)
+- [Washington Layoffs 2026: WARN Numbers Explained &lpar;November Update&rpar;](https://dev.to/layoffatlas/washington-layoffs-2026-warn-numbers-explained-november-update-k1p)
+- [Writing C unit tests without a framework](https://dev.to/vanderoost/writing-c-unit-tests-without-a-framework-277b)
+- [So übergibst du Arbeit von osFoundry an einen verknüpften Claude-Chat](https://dev.to/bbt-de/so-ubergibst-du-arbeit-von-osfoundry-an-einen-verknupften-claude-chat-d55)
+- [Your React Native FlatList lags because AI wrote it. Here&#39;s the prompt that fixes it](https://dev.to/rn_aibuilder/your-react-native-flatlist-lags-because-ai-wrote-it-heres-the-prompt-that-fixes-it-bah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
