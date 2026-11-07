@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Human Documentation Fails Coding Agents &lpar;And How I Asked Gemini, Claude, and OpenAI to Fix It&rpar;](https://dev.to/fcn06/why-human-documentation-fails-coding-agents-and-how-i-asked-gemini-claude-and-openai-to-fix-it-5dc8)
-- [Use browser descriptions to choose, then verify the live account](https://dev.to/browser_act_e2505dbdf454a/use-browser-descriptions-to-choose-then-verify-the-live-account-1n9)
-- [How to validate EU VAT numbers in bulk &lpar;VIES&rpar; with Python or n8n, and the 4 gotchas nobody tells you](https://dev.to/fast_data_asap/how-to-validate-eu-vat-numbers-in-bulk-vies-with-python-or-n8n-and-the-4-gotchas-nobody-tells-you-1p7a)
-- [Residential Proxies on White House Network: 6 IPs Used 236 Times by 28 Services](https://dev.to/anoymask/residential-proxies-on-white-house-network-6-ips-used-236-times-by-28-services-1fhn)
-- [Fake GitHub Security Projects Deploy AsyncRAT and Stealers via Visual Studio, Python, and Go Code](https://dev.to/anoymask/fake-github-security-projects-deploy-asyncrat-and-stealers-via-visual-studio-python-and-go-code-3k3i)
+- [Data Pipelines Optimize for Throughput. AI Training Needs Determinism](https://dev.to/aiexplore369zoho/data-pipelines-optimize-for-throughput-ai-training-needs-determinism-h6g)
+- [The $6.3 Billion Binance Hack: Why DevOps Workstations Shouldn&#39;t Have Unlimited Internet Access](https://dev.to/aiza-hextyx/the-63-billion-binance-hack-why-devops-workstations-shouldnt-have-unlimited-internet-access-4jf)
+- [Perplexity Teammates: AI Agents That Own Your Ongoing Work](https://dev.to/neuraitool/perplexity-teammates-ai-agents-that-own-your-ongoing-work-1bpd)
+- [Kiểm Soát Quyền Truy Cập &lpar;Access Control&rpar; Trong Java Là Gì? 4 Phạm Vi Truy Cập](https://dev.to/tieushare/kiem-soat-quyen-truy-cap-access-control-trong-java-la-gi-4-pham-vi-truy-cap-46ie)
+- [Google Reaffirms Technical SEO as a Foundation for AI Search](https://dev.to/alifar/google-reaffirms-technical-seo-as-a-foundation-for-ai-search-4hmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
