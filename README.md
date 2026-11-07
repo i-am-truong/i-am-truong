@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perché compilare una tesi in LaTeX richiede più di 10 secondi](https://dev.to/bestaitools-it/perche-compilare-una-tesi-in-latex-richiede-piu-di-10-secondi-34k6)
-- [I Decided to Host an Event for People Spending Christmas Eve Alone](https://dev.to/tanahiro2010/i-decided-to-host-an-event-for-people-spending-christmas-eve-alone-1ffi)
-- [`npm install primevue` now needs a licence key: what changed, and how to stay on MIT](https://dev.to/kiri1101/npm-install-primevue-now-needs-a-licence-key-what-changed-and-how-to-stay-on-mit-5cpn)
-- [Base64 Line Breaks and Padding: Why They Break Decoders](https://dev.to/toolstead/base64-line-breaks-and-padding-why-they-break-decoders-5ckh)
-- [Padloc self-hosting moves server policy and recovery into your hands](https://dev.to/johnettagaweraks/padloc-self-hosting-moves-server-policy-and-recovery-into-your-hands-5b45)
+- [Why Human Documentation Fails Coding Agents &lpar;And How I Asked Gemini, Claude, and OpenAI to Fix It&rpar;](https://dev.to/fcn06/why-human-documentation-fails-coding-agents-and-how-i-asked-gemini-claude-and-openai-to-fix-it-5dc8)
+- [Use browser descriptions to choose, then verify the live account](https://dev.to/browser_act_e2505dbdf454a/use-browser-descriptions-to-choose-then-verify-the-live-account-1n9)
+- [How to validate EU VAT numbers in bulk &lpar;VIES&rpar; with Python or n8n, and the 4 gotchas nobody tells you](https://dev.to/fast_data_asap/how-to-validate-eu-vat-numbers-in-bulk-vies-with-python-or-n8n-and-the-4-gotchas-nobody-tells-you-1p7a)
+- [Residential Proxies on White House Network: 6 IPs Used 236 Times by 28 Services](https://dev.to/anoymask/residential-proxies-on-white-house-network-6-ips-used-236-times-by-28-services-1fhn)
+- [Fake GitHub Security Projects Deploy AsyncRAT and Stealers via Visual Studio, Python, and Go Code](https://dev.to/anoymask/fake-github-security-projects-deploy-asyncrat-and-stealers-via-visual-studio-python-and-go-code-3k3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
