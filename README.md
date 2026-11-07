@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Pipelines Optimize for Throughput. AI Training Needs Determinism](https://dev.to/aiexplore369zoho/data-pipelines-optimize-for-throughput-ai-training-needs-determinism-h6g)
-- [The $6.3 Billion Binance Hack: Why DevOps Workstations Shouldn&#39;t Have Unlimited Internet Access](https://dev.to/aiza-hextyx/the-63-billion-binance-hack-why-devops-workstations-shouldnt-have-unlimited-internet-access-4jf)
-- [Perplexity Teammates: AI Agents That Own Your Ongoing Work](https://dev.to/neuraitool/perplexity-teammates-ai-agents-that-own-your-ongoing-work-1bpd)
-- [Kiểm Soát Quyền Truy Cập &lpar;Access Control&rpar; Trong Java Là Gì? 4 Phạm Vi Truy Cập](https://dev.to/tieushare/kiem-soat-quyen-truy-cap-access-control-trong-java-la-gi-4-pham-vi-truy-cap-46ie)
-- [Google Reaffirms Technical SEO as a Foundation for AI Search](https://dev.to/alifar/google-reaffirms-technical-seo-as-a-foundation-for-ai-search-4hmg)
+- [Cut the Wire Mid-Request: Prove the Offline Path](https://dev.to/gitjs_8094/cut-the-wire-mid-request-prove-the-offline-path-4g2l)
+- [Tabs in One: strânge toate filele Chrome într-o singură coloană &lpar;și eliberează RAM&rpar;](https://dev.to/tabsinone/tabs-in-one-strange-toate-filele-chrome-intr-o-singura-coloana-si-elibereaza-ram-2ida)
+- [I stopped being the thing that connects my own tools](https://dev.to/rama_krishna_c048c2d91677/i-stopped-being-the-thing-that-connects-my-own-tools-21lp)
+- [A human approval step for an LLM agent: the boundary that matters](https://dev.to/lohith_lalesh_76ef3d876b3/a-human-approval-step-for-an-llm-agent-the-boundary-that-matters-3jc2)
+- [List`1[System.Int32] is not a style: escaping interpolated values in Spectre.Console markup](https://dev.to/granttotinov/list1systemint32-is-not-a-style-escaping-interpolated-values-in-spectreconsole-markup-1lcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
