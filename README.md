@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter for Beginners: Build Beautiful Apps for Every Screen From One Codebase](https://dev.to/arhan_khan/flutter-for-beginners-build-beautiful-apps-for-every-screen-from-one-codebase-47c6)
-- [4 Mistakes That Make Beginners Quit Coding &lpar;and How to Fix Each One&rpar;](https://dev.to/sadique010/4-mistakes-that-make-beginners-quit-coding-and-how-to-fix-each-one-1kek)
-- [Getting Started with Hermes Agent: Memory, Skills and What It Actually Costs](https://dev.to/paulexe/getting-started-with-hermes-agent-memory-skills-and-what-it-actually-costs-opb)
-- [Building an AI Video App: More Context Doesn&#39;t Always Mean More Changes](https://dev.to/rickzhang/building-an-ai-video-app-more-context-doesnt-always-mean-more-changes-3ojk)
-- [How to Give Claude Desktop, Claude Code &amp; Cursor Live Stock Quotes, Technicals &amp; Options Greeks in 60 Seconds &lpar;MCP Server&rpar;](https://dev.to/apextick_dev/how-to-give-claude-desktop-claude-code-cursor-live-stock-quotes-technicals-options-greeks-in-2mhl)
+- [Vom virtuellen Sprachlabor zum begehbaren Protein: Warum Spatial Computing die Strukturbiologie verändert – ein persönlicher…](https://dev.to/ashish_624379625242c5d263/vom-virtuellen-sprachlabor-zum-begehbaren-protein-warum-spatial-computing-die-strukturbiologie-1752)
+- [Reviewing an Agent&#39;s CSV Export PR: Memory Spikes, Formula Injection, and Timezone Drift](https://dev.to/codejs_6920/reviewing-an-agents-csv-export-pr-memory-spikes-formula-injection-and-timezone-drift-2ij)
+- [Finding the full-size original behind a thumbnail: srcset, CDN size rules and fallbacks](https://dev.to/casper_tran_59c6a8b1e1f3d/finding-the-full-size-original-behind-a-thumbnail-srcset-cdn-size-rules-and-fallbacks-2aj6)
+- [The Blast Radius Budget: A 90-Minute Spike on AI Patch Churn](https://dev.to/applab_743/the-blast-radius-budget-a-90-minute-spike-on-ai-patch-churn-3kip)
+- [Look‑Ahead Traps in Backtesting &lpar;Backtrader, MQL, PineScript&rpar;](https://dev.to/joor0x/look-ahead-traps-in-backtesting-backtrader-mql-pinescript-33cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
