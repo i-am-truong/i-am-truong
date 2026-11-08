@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your WebSocket Users Go &quot;Ghost Online&quot; — A Real Production War Story](https://dev.to/lujianfu2008/why-your-websocket-users-go-ghost-online-a-real-production-war-story-3c0k)
-- [Data URI vs Blob URL: Which Should You Use for Images?](https://dev.to/toolstead/data-uri-vs-blob-url-which-should-you-use-for-images-2m9b)
-- [The Bird Flu Death That Made Me Rethink How We Visualize Viral Proteins in VR](https://dev.to/ashish_624379625242c5d263/the-bird-flu-death-that-made-me-rethink-how-we-visualize-viral-proteins-in-vr-4a03)
-- [When Open Firmware Meets Open Vision: A Builder&#39;s Note on Polyend and Amblyotube Polyend open-sourcing the Tracker firmware…](https://dev.to/ashish_624379625242c5d263/when-open-firmware-meets-open-vision-a-builders-note-on-polyend-and-amblyotube-polyend-1enl)
-- [NHSの630億円AIと、僕らがQuestで作った「遊べる弱視訓練」の距離感 #医療DX #弱視治療 #VR療法 #AmblyoPunch #デジタルヘルス](https://dev.to/ashish_624379625242c5d263/nhsno630yi-yuan-aito-pu-ragaquestdezuo-tutayou-beruruo-shi-xun-lian-noju-li-gan-yi-liao-dx-ruo-shi-zhi-liao-vrliao-fa-amblyopunch-dezitaruherusu-108h)
+- [My bug reproduction agent trusts the container, not the model](https://dev.to/muhammad_abdullahshah_96/my-bug-reproduction-agent-trusts-the-container-not-the-model-4he5)
+- [Classical AI Search and Planning — Ch.01: Search Algorithms [EN]](https://dev.to/richard_minsoogo/classical-ai-search-and-planning-ch01-search-algorithms-en-bi2)
+- [구글이 AI 선택권을 학교에 넘긴 날, 나는 약시 치료의 &#39;강제&#39;를 VR로 풀었다 13년 차 개발자, 눈 한쪽으로 세상을 보다 2012년, 스물셋 내 첫 스타트업이 망했을 때보다 더 아팠던 건 왼쪽 눈이 &#39;꺼진&#39; 순간이었다.…](https://dev.to/ashish_624379625242c5d263/gugeuli-ai-seontaeggweoneul-haggyoe-neomgin-nal-naneun-yagsi-ciryoyi-gangjereul-vrro-puleossda-13nyeon-ca-gaebalja-nun-hanjjogeuro-sesangeul-boda-2012nyeon-seumulses-nae-ceos-seutateueobi-manghaesseul-ddaeboda-1e8m)
+- [How I Handle Ambiguous API Timeouts in an AI Video App](https://dev.to/hex_builder/how-i-handle-ambiguous-api-timeouts-in-an-ai-video-app-5fno)
+- [Wie der Photo Editor von osFoundry Ebenen, Retusche und Composing auf deinem eigenen Rechner erledigt](https://dev.to/tauchi-de/wie-der-photo-editor-von-osfoundry-ebenen-retusche-und-composing-auf-deinem-eigenen-rechner-2h86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
