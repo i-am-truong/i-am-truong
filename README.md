@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My bug reproduction agent trusts the container, not the model](https://dev.to/muhammad_abdullahshah_96/my-bug-reproduction-agent-trusts-the-container-not-the-model-4he5)
-- [Classical AI Search and Planning — Ch.01: Search Algorithms [EN]](https://dev.to/richard_minsoogo/classical-ai-search-and-planning-ch01-search-algorithms-en-bi2)
-- [구글이 AI 선택권을 학교에 넘긴 날, 나는 약시 치료의 &#39;강제&#39;를 VR로 풀었다 13년 차 개발자, 눈 한쪽으로 세상을 보다 2012년, 스물셋 내 첫 스타트업이 망했을 때보다 더 아팠던 건 왼쪽 눈이 &#39;꺼진&#39; 순간이었다.…](https://dev.to/ashish_624379625242c5d263/gugeuli-ai-seontaeggweoneul-haggyoe-neomgin-nal-naneun-yagsi-ciryoyi-gangjereul-vrro-puleossda-13nyeon-ca-gaebalja-nun-hanjjogeuro-sesangeul-boda-2012nyeon-seumulses-nae-ceos-seutateueobi-manghaesseul-ddaeboda-1e8m)
-- [How I Handle Ambiguous API Timeouts in an AI Video App](https://dev.to/hex_builder/how-i-handle-ambiguous-api-timeouts-in-an-ai-video-app-5fno)
-- [Wie der Photo Editor von osFoundry Ebenen, Retusche und Composing auf deinem eigenen Rechner erledigt](https://dev.to/tauchi-de/wie-der-photo-editor-von-osfoundry-ebenen-retusche-und-composing-auf-deinem-eigenen-rechner-2h86)
+- [Flutter for Beginners: Build Beautiful Apps for Every Screen From One Codebase](https://dev.to/arhan_khan/flutter-for-beginners-build-beautiful-apps-for-every-screen-from-one-codebase-47c6)
+- [4 Mistakes That Make Beginners Quit Coding &lpar;and How to Fix Each One&rpar;](https://dev.to/sadique010/4-mistakes-that-make-beginners-quit-coding-and-how-to-fix-each-one-1kek)
+- [Getting Started with Hermes Agent: Memory, Skills and What It Actually Costs](https://dev.to/paulexe/getting-started-with-hermes-agent-memory-skills-and-what-it-actually-costs-opb)
+- [Building an AI Video App: More Context Doesn&#39;t Always Mean More Changes](https://dev.to/rickzhang/building-an-ai-video-app-more-context-doesnt-always-mean-more-changes-3ojk)
+- [How to Give Claude Desktop, Claude Code &amp; Cursor Live Stock Quotes, Technicals &amp; Options Greeks in 60 Seconds &lpar;MCP Server&rpar;](https://dev.to/apextick_dev/how-to-give-claude-desktop-claude-code-cursor-live-stock-quotes-technicals-options-greeks-in-2mhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
