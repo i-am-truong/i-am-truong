@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kenapa posisi subtitle burn-in ffmpeg meleset di video vertikal?](https://dev.to/bestaitools-id/kenapa-posisi-subtitle-burn-in-ffmpeg-meleset-di-video-vertikal-1lde)
-- [Washington Layoffs 2026: WARN Numbers Explained &lpar;November Update&rpar;](https://dev.to/layoffatlas/washington-layoffs-2026-warn-numbers-explained-november-update-k1p)
-- [Writing C unit tests without a framework](https://dev.to/vanderoost/writing-c-unit-tests-without-a-framework-277b)
-- [So übergibst du Arbeit von osFoundry an einen verknüpften Claude-Chat](https://dev.to/bbt-de/so-ubergibst-du-arbeit-von-osfoundry-an-einen-verknupften-claude-chat-d55)
-- [Your React Native FlatList lags because AI wrote it. Here&#39;s the prompt that fixes it](https://dev.to/rn_aibuilder/your-react-native-flatlist-lags-because-ai-wrote-it-heres-the-prompt-that-fixes-it-bah)
+- [Why Your WebSocket Users Go &quot;Ghost Online&quot; — A Real Production War Story](https://dev.to/lujianfu2008/why-your-websocket-users-go-ghost-online-a-real-production-war-story-3c0k)
+- [Data URI vs Blob URL: Which Should You Use for Images?](https://dev.to/toolstead/data-uri-vs-blob-url-which-should-you-use-for-images-2m9b)
+- [The Bird Flu Death That Made Me Rethink How We Visualize Viral Proteins in VR](https://dev.to/ashish_624379625242c5d263/the-bird-flu-death-that-made-me-rethink-how-we-visualize-viral-proteins-in-vr-4a03)
+- [When Open Firmware Meets Open Vision: A Builder&#39;s Note on Polyend and Amblyotube Polyend open-sourcing the Tracker firmware…](https://dev.to/ashish_624379625242c5d263/when-open-firmware-meets-open-vision-a-builders-note-on-polyend-and-amblyotube-polyend-1enl)
+- [NHSの630億円AIと、僕らがQuestで作った「遊べる弱視訓練」の距離感 #医療DX #弱視治療 #VR療法 #AmblyoPunch #デジタルヘルス](https://dev.to/ashish_624379625242c5d263/nhsno630yi-yuan-aito-pu-ragaquestdezuo-tutayou-beruruo-shi-xun-lian-noju-li-gan-yi-liao-dx-ruo-shi-zhi-liao-vrliao-fa-amblyopunch-dezitaruherusu-108h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
