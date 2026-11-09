@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MoE de 284B en CPU: cómo funciona la inferencia sin GPU](https://dev.to/lu1tr0n/moe-de-284b-en-cpu-como-funciona-la-inferencia-sin-gpu-3j29)
-- [Build a Tiny Node.js API for Text, Image and Video Generation with the OpenAI SDK](https://dev.to/amany_syori_8f60db1d7dea8/build-a-tiny-nodejs-api-for-text-image-and-video-generation-with-the-openai-sdk-277p)
-- [Mathematics for AI — Ch.06: Numerical Methods [KR]](https://dev.to/richard_minsoogo/mathematics-for-ai-ch06-numerical-methods-kr-a0e)
-- [Mathematics for AI — Ch.05: Information Theory [KR]](https://dev.to/richard_minsoogo/mathematics-for-ai-ch05-information-theory-kr-214g)
-- [Mathematics for AI — Ch.04: Statistics [KR]](https://dev.to/richard_minsoogo/mathematics-for-ai-ch04-statistics-kr-5gkm)
+- [The Night the Manifest Didn’t Match the Ship, and What the Terminal Learned](https://dev.to/ppping/the-night-the-manifest-didnt-match-the-ship-and-what-the-terminal-learned-23lf)
+- [How to Deploy a Claude‑Powered AI Agent with AWS App Runner, Explained Simply](https://dev.to/dineshgowtham/how-to-deploy-a-claude-powered-ai-agent-with-aws-app-runner-explained-simply-12h)
+- [Subnetting in four steps: the method that works under exam pressure](https://dev.to/dailydebian/subnetting-in-four-steps-the-method-that-works-under-exam-pressure-413p)
+- [ArgoCD on OpenShift: managing 30 clusters with ApplicationSet and the app-of-apps pattern](https://dev.to/florient_4262fab5463a691/argocd-on-openshift-managing-30-clusters-with-applicationset-and-the-app-of-apps-pattern-g3o)
+- [I benchmarked 3 Angular timeline libraries with 10,000 bars](https://dev.to/dmartinezzm/i-benchmarked-3-angular-timeline-libraries-with-10000-bars-440n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
