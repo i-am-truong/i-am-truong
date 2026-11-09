@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Night the Manifest Didn’t Match the Ship, and What the Terminal Learned](https://dev.to/ppping/the-night-the-manifest-didnt-match-the-ship-and-what-the-terminal-learned-23lf)
-- [How to Deploy a Claude‑Powered AI Agent with AWS App Runner, Explained Simply](https://dev.to/dineshgowtham/how-to-deploy-a-claude-powered-ai-agent-with-aws-app-runner-explained-simply-12h)
-- [Subnetting in four steps: the method that works under exam pressure](https://dev.to/dailydebian/subnetting-in-four-steps-the-method-that-works-under-exam-pressure-413p)
-- [ArgoCD on OpenShift: managing 30 clusters with ApplicationSet and the app-of-apps pattern](https://dev.to/florient_4262fab5463a691/argocd-on-openshift-managing-30-clusters-with-applicationset-and-the-app-of-apps-pattern-g3o)
-- [I benchmarked 3 Angular timeline libraries with 10,000 bars](https://dev.to/dmartinezzm/i-benchmarked-3-angular-timeline-libraries-with-10000-bars-440n)
+- [Bedrock AgentCore Gateway and MCP: What to Check Before You Connect](https://dev.to/everyinfrahq/bedrock-agentcore-gateway-and-mcp-what-to-check-before-you-connect-1p6e)
+- [Telegram Channel Scraper API: A Daily Price Digest in Claude](https://dev.to/everyinfrahq/telegram-channel-scraper-api-a-daily-price-digest-in-claude-11bb)
+- [Six of Your Forty Tasks Should Never Have Been Scored: A Task-Admission Gate for Agent Benchmarks](https://dev.to/byteio_501/six-of-your-forty-tasks-should-never-have-been-scored-a-task-admission-gate-for-agent-benchmarks-50mb)
+- [Introducing Vectro: SQL and dataframes on every core, in JavaScript](https://dev.to/hexar7/introducing-vectro-sql-and-dataframes-on-every-core-in-javascript-52h7)
+- [SMTP accepted the message. That didn&#39;t mean it reached the inbox.](https://dev.to/mosfetti/smtp-accepted-the-message-that-didnt-mean-it-reached-the-inbox-13gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
