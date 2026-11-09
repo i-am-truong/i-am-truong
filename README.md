@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What My FastAPI CSV Upload Service Got Wrong: Four Bugs the Test Suite Never Caught](https://dev.to/whoismarce/what-my-fastapi-csv-upload-service-got-wrong-four-bugs-the-test-suite-never-caught-l1k)
-- [Daily Report Cron Job API Scheduling: 2 HTTP Webhook Delivery Guarantees for Payment Reconciliation](https://dev.to/rivenpulse5812/daily-report-cron-job-api-scheduling-2-http-webhook-delivery-guarantees-for-payment-reconciliation-1ob)
-- [HTTP Data Cleanup Triggers: A Recurring Method with Bounded External Work](https://dev.to/aidensterling3417/http-data-cleanup-triggers-a-recurring-method-with-bounded-external-work-24g5)
-- [Comparing 500 and 1500 Token Chunk Sizes for Marketplace Handbook Retrieval Quality](https://dev.to/sawyerflynn1578/comparing-500-and-1500-token-chunk-sizes-for-marketplace-handbook-retrieval-quality-1eki)
-- [When &quot;Network Is Down&quot; but the Server Is Fine: Debugging DNS Resolution Failures](https://dev.to/jun_liu_ca219b73a8f1489b5/when-network-is-down-but-the-server-is-fine-debugging-dns-resolution-failures-53cf)
+- [MoE de 284B en CPU: cómo funciona la inferencia sin GPU](https://dev.to/lu1tr0n/moe-de-284b-en-cpu-como-funciona-la-inferencia-sin-gpu-3j29)
+- [Build a Tiny Node.js API for Text, Image and Video Generation with the OpenAI SDK](https://dev.to/amany_syori_8f60db1d7dea8/build-a-tiny-nodejs-api-for-text-image-and-video-generation-with-the-openai-sdk-277p)
+- [Mathematics for AI — Ch.06: Numerical Methods [KR]](https://dev.to/richard_minsoogo/mathematics-for-ai-ch06-numerical-methods-kr-a0e)
+- [Mathematics for AI — Ch.05: Information Theory [KR]](https://dev.to/richard_minsoogo/mathematics-for-ai-ch05-information-theory-kr-214g)
+- [Mathematics for AI — Ch.04: Statistics [KR]](https://dev.to/richard_minsoogo/mathematics-for-ai-ch04-statistics-kr-5gkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
