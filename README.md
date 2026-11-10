@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the Front Door](https://dev.to/elijahpaul/fixing-the-front-door-3h5n)
-- [6 Planning Patterns for AI Agents and When Each One Fits](https://dev.to/shaheryaryousaf/6-planning-patterns-for-ai-agents-and-when-each-one-fits-3ac3)
-- [Your setTimeout Didn&#39;t Break — Chrome Killed It](https://dev.to/dmitry_cherstvyi_0c87fabd/your-settimeout-didnt-break-chrome-killed-it-1d2l)
-- [Store Timestamps in UTC, Display Them Locally](https://dev.to/chirag191094/store-timestamps-in-utc-display-them-locally-fec)
-- [How to answer Claude Code or Codex from your phone](https://dev.to/heylittlepan/how-to-answer-claude-code-or-codex-from-your-phone-10a7)
+- [R$ 29,99 na vitrine, R$ 59,99 na renovação: a conta do VPS da Hostinger](https://dev.to/sinalaberto/r-2999-na-vitrine-r-5999-na-renovacao-a-conta-do-vps-da-hostinger-1bnd)
+- [Saying a human reviews it is not a human-oversight design](https://dev.to/lixingliangsy/saying-a-human-reviews-it-is-not-a-human-oversight-design-bjd)
+- [Timed Caption Segments for Shared Gaming Rooms with Reconnect-Safe Publishing](https://dev.to/darkveilcorvyn26/timed-caption-segments-for-shared-gaming-rooms-with-reconnect-safe-publishing-4eob)
+- [One Sentence Took My Coding Agent from 0/3 to 3/3 on Rejected Decisions](https://dev.to/kompiro/one-sentence-took-my-coding-agent-from-03-to-33-on-rejected-decisions-2179)
+- [How I built a free 3D landing page with Next.js, Three.js and GSAP](https://dev.to/aniqui/how-i-built-a-free-3d-landing-page-with-nextjs-threejs-and-gsap-m8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
