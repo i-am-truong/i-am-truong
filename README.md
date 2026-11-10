@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embedding a Browser Game in an iframe: Keyboard Focus, Silent Failures, and a 60-Second Rule](https://dev.to/eisen/embedding-a-browser-game-in-an-iframe-keyboard-focus-silent-failures-and-a-60-second-rule-5e89)
-- [Before an Invoice Call, Reconcile the Account: 14 Tests for a Voice-Agent Router](https://dev.to/isabelle_dubuis_d858453d7/before-an-invoice-call-reconcile-the-account-14-tests-for-a-voice-agent-router-3dkm)
-- [Paying only the minimum on a $4,100 card: 202 months and $5,394 of interest](https://dev.to/alapha888/paying-only-the-minimum-on-a-4100-card-202-months-and-5394-of-interest-33ab)
-- [29 checks said 0 subscribers. None of them clicked the link.](https://dev.to/theagentloop/29-checks-said-0-subscribers-none-of-them-clicked-the-link-3o64)
-- [Building 24/7 Post-Campaign Influencer Monitoring for Indian D2C Brands](https://dev.to/aditya_ekka_pulseroi/building-247-post-campaign-influencer-monitoring-for-indian-d2c-brands-53oc)
+- [I built a tiny tool for the problem every BNPL app hides: the stack](https://dev.to/lianajohn/i-built-a-tiny-tool-for-the-problem-every-bnpl-app-hides-the-stack-298m)
+- [Is Google Losing Its Search Monopoly?](https://dev.to/dythonai/is-google-losing-its-search-monopoly-jh3)
+- [Modeling paid membership tiers: plans, products and what they unlock](https://dev.to/anum_basit/modeling-paid-membership-tiers-plans-products-and-what-they-unlock-2d4m)
+- [PHP2Shell makes runtime inventory the urgent patch problem](https://dev.to/johnettagaweraks/php2shell-makes-runtime-inventory-the-urgent-patch-problem-1394)
+- [Laravel Bulk CSV Processing: Queues, Holds and Retries](https://dev.to/aqib_javaid/laravel-bulk-csv-processing-queues-holds-and-retries-48hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
