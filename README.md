@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a tiny tool for the problem every BNPL app hides: the stack](https://dev.to/lianajohn/i-built-a-tiny-tool-for-the-problem-every-bnpl-app-hides-the-stack-298m)
-- [Is Google Losing Its Search Monopoly?](https://dev.to/dythonai/is-google-losing-its-search-monopoly-jh3)
-- [Modeling paid membership tiers: plans, products and what they unlock](https://dev.to/anum_basit/modeling-paid-membership-tiers-plans-products-and-what-they-unlock-2d4m)
-- [PHP2Shell makes runtime inventory the urgent patch problem](https://dev.to/johnettagaweraks/php2shell-makes-runtime-inventory-the-urgent-patch-problem-1394)
-- [Laravel Bulk CSV Processing: Queues, Holds and Retries](https://dev.to/aqib_javaid/laravel-bulk-csv-processing-queues-holds-and-retries-48hd)
+- [Fixing the Front Door](https://dev.to/elijahpaul/fixing-the-front-door-3h5n)
+- [6 Planning Patterns for AI Agents and When Each One Fits](https://dev.to/shaheryaryousaf/6-planning-patterns-for-ai-agents-and-when-each-one-fits-3ac3)
+- [Your setTimeout Didn&#39;t Break — Chrome Killed It](https://dev.to/dmitry_cherstvyi_0c87fabd/your-settimeout-didnt-break-chrome-killed-it-1d2l)
+- [Store Timestamps in UTC, Display Them Locally](https://dev.to/chirag191094/store-timestamps-in-utc-display-them-locally-fec)
+- [How to answer Claude Code or Codex from your phone](https://dev.to/heylittlepan/how-to-answer-claude-code-or-codex-from-your-phone-10a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
