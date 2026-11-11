@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Length Converter That Rounds Honestly: 5 Lessons](https://dev.to/bowentse/i-built-a-length-converter-that-rounds-honestly-5-lessons-lej)
-- [How to encode or decode Base64 &lpar;the easy ways&rpar;](https://dev.to/tidybytetools/how-to-encode-or-decode-base64-the-easy-ways-i23)
-- [Latency Budgets for Browser-Based Voice Previews](https://dev.to/disankyo/latency-budgets-for-browser-based-voice-previews-1c47)
-- [A great rule, 99% false positives: base rates and careful tuning](https://dev.to/tokotokokame/a-great-rule-99-false-positives-base-rates-and-careful-tuning-3308)
-- [CRF 23 Gave Me 15 MB on One Clip and 30 MB on Another: &quot;Compress by Quality&quot; vs &quot;Compress to a Size&quot;, Measured](https://dev.to/videocompress/crf-23-gave-me-15-mb-on-one-clip-and-30-mb-on-another-compress-by-quality-vs-compress-to-a-143p)
+- [SPIFFE workload identity: short-lived identity needs a clear trust boundary](https://dev.to/andreagomez/spiffe-workload-identity-short-lived-identity-needs-a-clear-trust-boundary-52af)
+- [Why MCP OAuth Discovery Leads to SSRF](https://dev.to/securitystefan/why-mcp-oauth-discovery-leads-to-ssrf-3742)
+- [Ops analytics from an event stream: Kafka into ClickHouse without losing or double counting alerts](https://dev.to/awirostech/ops-analytics-from-an-event-stream-kafka-into-clickhouse-without-losing-or-double-counting-alerts-11hl)
+- [I ran a broken Meta Conversions API event through a validator. It caught seven mistakes Meta might never mention.](https://dev.to/stack_architect/i-ran-a-broken-meta-conversions-api-event-through-a-validator-it-caught-seven-mistakes-meta-might-461)
+- [What SAP Change Teams Can Expect From AI in the Next Year](https://dev.to/deshanranchhod/what-sap-change-teams-can-expect-from-ai-in-the-next-year-4coj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
