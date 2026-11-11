@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [R$ 29,99 na vitrine, R$ 59,99 na renovação: a conta do VPS da Hostinger](https://dev.to/sinalaberto/r-2999-na-vitrine-r-5999-na-renovacao-a-conta-do-vps-da-hostinger-1bnd)
-- [Saying a human reviews it is not a human-oversight design](https://dev.to/lixingliangsy/saying-a-human-reviews-it-is-not-a-human-oversight-design-bjd)
-- [Timed Caption Segments for Shared Gaming Rooms with Reconnect-Safe Publishing](https://dev.to/darkveilcorvyn26/timed-caption-segments-for-shared-gaming-rooms-with-reconnect-safe-publishing-4eob)
-- [One Sentence Took My Coding Agent from 0/3 to 3/3 on Rejected Decisions](https://dev.to/kompiro/one-sentence-took-my-coding-agent-from-03-to-33-on-rejected-decisions-2179)
-- [How I built a free 3D landing page with Next.js, Three.js and GSAP](https://dev.to/aniqui/how-i-built-a-free-3d-landing-page-with-nextjs-threejs-and-gsap-m8c)
+- [I Built a Length Converter That Rounds Honestly: 5 Lessons](https://dev.to/bowentse/i-built-a-length-converter-that-rounds-honestly-5-lessons-lej)
+- [How to encode or decode Base64 &lpar;the easy ways&rpar;](https://dev.to/tidybytetools/how-to-encode-or-decode-base64-the-easy-ways-i23)
+- [Latency Budgets for Browser-Based Voice Previews](https://dev.to/disankyo/latency-budgets-for-browser-based-voice-previews-1c47)
+- [A great rule, 99% false positives: base rates and careful tuning](https://dev.to/tokotokokame/a-great-rule-99-false-positives-base-rates-and-careful-tuning-3308)
+- [CRF 23 Gave Me 15 MB on One Clip and 30 MB on Another: &quot;Compress by Quality&quot; vs &quot;Compress to a Size&quot;, Measured](https://dev.to/videocompress/crf-23-gave-me-15-mb-on-one-clip-and-30-mb-on-another-compress-by-quality-vs-compress-to-a-143p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
