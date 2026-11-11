@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SPIFFE workload identity: short-lived identity needs a clear trust boundary](https://dev.to/andreagomez/spiffe-workload-identity-short-lived-identity-needs-a-clear-trust-boundary-52af)
-- [Why MCP OAuth Discovery Leads to SSRF](https://dev.to/securitystefan/why-mcp-oauth-discovery-leads-to-ssrf-3742)
-- [Ops analytics from an event stream: Kafka into ClickHouse without losing or double counting alerts](https://dev.to/awirostech/ops-analytics-from-an-event-stream-kafka-into-clickhouse-without-losing-or-double-counting-alerts-11hl)
-- [I ran a broken Meta Conversions API event through a validator. It caught seven mistakes Meta might never mention.](https://dev.to/stack_architect/i-ran-a-broken-meta-conversions-api-event-through-a-validator-it-caught-seven-mistakes-meta-might-461)
-- [What SAP Change Teams Can Expect From AI in the Next Year](https://dev.to/deshanranchhod/what-sap-change-teams-can-expect-from-ai-in-the-next-year-4coj)
+- [Before Your Next System Design Interview, Open These 3 Free Resources](https://dev.to/emilywoodsnyc/before-your-next-system-design-interview-open-these-3-free-resources-4ndl)
+- [Backend Interview Question: Two Buyers Want the Last Seat. Who Gets It?](https://dev.to/emilywoodsnyc/backend-interview-question-two-buyers-want-the-last-seat-who-gets-it-2oge)
+- [How to Review AI-Generated Code Without Rubber-Stamping It](https://dev.to/alisa_hester_1/how-to-review-ai-generated-code-without-rubber-stamping-it-4a8c)
+- [Marketplace Retention: Nightly Node.js Cron and HTTP Queue Workers Delete Old Records](https://dev.to/kendrickberg5327/marketplace-retention-nightly-nodejs-cron-and-http-queue-workers-delete-old-records-5bih)
+- [How to Host an Image With Your Coding Agent &lpar;Claude Code or Codex&rpar;](https://dev.to/pixelvault/how-to-host-an-image-with-your-coding-agent-claude-code-or-codex-5667)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
