@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs Scribe v3 Live Cuts Semantic Errors 43% — Dual-Track WASAPI Still Sets the Latency Floor](https://dev.to/madnessbrains_i/elevenlabs-scribe-v3-live-cuts-semantic-errors-43-dual-track-wasapi-still-sets-the-latency-floor-2311)
-- [Storage Engines Explained: B-Tree vs LSM Tree](https://dev.to/dilip_v_p/storage-engines-explained-b-tree-vs-lsm-tree-1d8)
-- [Cara membuat Codex CLI men-triage bug tracker di record channel osFoundry](https://dev.to/bbt-id/cara-membuat-codex-cli-men-triage-bug-tracker-di-record-channel-osfoundry-4a3b)
-- [Debugging AI Toolchains: Install, Connect, Model, Workflow](https://dev.to/dax233/debugging-ai-toolchains-install-connect-model-workflow-2379)
-- [Building a Road Twin That Runs Traffic, Not Just Geometry](https://dev.to/future_built_ai/building-a-road-twin-that-runs-traffic-not-just-geometry-2528)
+- [Claude Code’s Secret-Leak Problem Puts AI Coding Agents on Trial](https://dev.to/spaisee/claude-codes-secret-leak-problem-puts-ai-coding-agents-on-trial-48a3)
+- [From Headlines to Conviction: How Stock Intelligent Turns News Into Trades](https://dev.to/frederick_wong_76/from-headlines-to-conviction-how-stock-intelligent-turns-news-into-trades-529l)
+- [Out of scope needs a trigger](https://dev.to/dennervidal/out-of-scope-needs-a-trigger-3jll)
+- [Making three.js bricks look like real LEGO: studio light, hollow undersides and a real wooden table](https://dev.to/misterblocks/making-threejs-bricks-look-like-real-lego-studio-light-hollow-undersides-and-a-real-wooden-table-2h4)
+- [My Test Passes Alone and Fails in the Suite. One Line in Another Test Was Poisoning It.](https://dev.to/aheadkit/my-test-passes-alone-and-fails-in-the-suite-one-line-in-another-test-was-poisoning-it-e4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
