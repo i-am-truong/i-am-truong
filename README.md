@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Retrieval Architecture: Customer-Support Knowledge Base Crawl Boundaries &lpar;and Freshness&rpar;](https://dev.to/echof76/python-retrieval-architecture-customer-support-knowledge-base-crawl-boundaries-and-freshness-294g)
-- [Why Oblivion Remastered Bet on Two Engines at Once: The UE5 Skin Over 2006 Gamebryo Guts Behind 9 Million Players](https://dev.to/wlz/why-oblivion-remastered-bet-on-two-engines-at-once-the-ue5-skin-over-2006-gamebryo-guts-behind-9-12pg)
-- [Routines That Run My Day](https://dev.to/heygalatea/routines-that-run-my-day-3445)
-- [48 AI Agents Spot A Possible Lost Maya Pyramid Overnight, And Mexico Has No Record Of It](https://dev.to/fathomnews/48-ai-agents-spot-a-possible-lost-maya-pyramid-overnight-and-mexico-has-no-record-of-it-546)
-- [Building OneLifeVibe: One Job Per Site Beats One App for Everything. What Worked, What Broke](https://dev.to/onelifevibe/building-onelifevibe-one-job-per-site-beats-one-app-for-everything-what-worked-what-broke-220k)
+- [ElevenLabs Scribe v3 Live Cuts Semantic Errors 43% — Dual-Track WASAPI Still Sets the Latency Floor](https://dev.to/madnessbrains_i/elevenlabs-scribe-v3-live-cuts-semantic-errors-43-dual-track-wasapi-still-sets-the-latency-floor-2311)
+- [Storage Engines Explained: B-Tree vs LSM Tree](https://dev.to/dilip_v_p/storage-engines-explained-b-tree-vs-lsm-tree-1d8)
+- [Cara membuat Codex CLI men-triage bug tracker di record channel osFoundry](https://dev.to/bbt-id/cara-membuat-codex-cli-men-triage-bug-tracker-di-record-channel-osfoundry-4a3b)
+- [Debugging AI Toolchains: Install, Connect, Model, Workflow](https://dev.to/dax233/debugging-ai-toolchains-install-connect-model-workflow-2379)
+- [Building a Road Twin That Runs Traffic, Not Just Geometry](https://dev.to/future_built_ai/building-a-road-twin-that-runs-traffic-not-just-geometry-2528)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
