@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Before Your Next System Design Interview, Open These 3 Free Resources](https://dev.to/emilywoodsnyc/before-your-next-system-design-interview-open-these-3-free-resources-4ndl)
-- [Backend Interview Question: Two Buyers Want the Last Seat. Who Gets It?](https://dev.to/emilywoodsnyc/backend-interview-question-two-buyers-want-the-last-seat-who-gets-it-2oge)
-- [How to Review AI-Generated Code Without Rubber-Stamping It](https://dev.to/alisa_hester_1/how-to-review-ai-generated-code-without-rubber-stamping-it-4a8c)
-- [Marketplace Retention: Nightly Node.js Cron and HTTP Queue Workers Delete Old Records](https://dev.to/kendrickberg5327/marketplace-retention-nightly-nodejs-cron-and-http-queue-workers-delete-old-records-5bih)
-- [How to Host an Image With Your Coding Agent &lpar;Claude Code or Codex&rpar;](https://dev.to/pixelvault/how-to-host-an-image-with-your-coding-agent-claude-code-or-codex-5667)
+- [Python Retrieval Architecture: Customer-Support Knowledge Base Crawl Boundaries &lpar;and Freshness&rpar;](https://dev.to/echof76/python-retrieval-architecture-customer-support-knowledge-base-crawl-boundaries-and-freshness-294g)
+- [Why Oblivion Remastered Bet on Two Engines at Once: The UE5 Skin Over 2006 Gamebryo Guts Behind 9 Million Players](https://dev.to/wlz/why-oblivion-remastered-bet-on-two-engines-at-once-the-ue5-skin-over-2006-gamebryo-guts-behind-9-12pg)
+- [Routines That Run My Day](https://dev.to/heygalatea/routines-that-run-my-day-3445)
+- [48 AI Agents Spot A Possible Lost Maya Pyramid Overnight, And Mexico Has No Record Of It](https://dev.to/fathomnews/48-ai-agents-spot-a-possible-lost-maya-pyramid-overnight-and-mexico-has-no-record-of-it-546)
+- [Building OneLifeVibe: One Job Per Site Beats One App for Everything. What Worked, What Broke](https://dev.to/onelifevibe/building-onelifevibe-one-job-per-site-beats-one-app-for-everything-what-worked-what-broke-220k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
