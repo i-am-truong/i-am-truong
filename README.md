@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code’s Secret-Leak Problem Puts AI Coding Agents on Trial](https://dev.to/spaisee/claude-codes-secret-leak-problem-puts-ai-coding-agents-on-trial-48a3)
-- [From Headlines to Conviction: How Stock Intelligent Turns News Into Trades](https://dev.to/frederick_wong_76/from-headlines-to-conviction-how-stock-intelligent-turns-news-into-trades-529l)
-- [Out of scope needs a trigger](https://dev.to/dennervidal/out-of-scope-needs-a-trigger-3jll)
-- [Making three.js bricks look like real LEGO: studio light, hollow undersides and a real wooden table](https://dev.to/misterblocks/making-threejs-bricks-look-like-real-lego-studio-light-hollow-undersides-and-a-real-wooden-table-2h4)
-- [My Test Passes Alone and Fails in the Suite. One Line in Another Test Was Poisoning It.](https://dev.to/aheadkit/my-test-passes-alone-and-fails-in-the-suite-one-line-in-another-test-was-poisoning-it-e4g)
+- [Apple’s Siri AI Roadmap: Ternus Details Future Plans](https://dev.to/luckytaorem/apples-siri-ai-roadmap-ternus-details-future-plans-c93)
+- [Routing inbound CV e-mails to the right job opening, without an LLM](https://dev.to/ir_raphalsellami_f30ecb/routing-inbound-cv-e-mails-to-the-right-job-opening-without-an-llm-1ffp)
+- [I Forked an Open-Source Mac Utility. Here&#39;s What I Changed, What I Kept, and When You Should Use the Original](https://dev.to/auratech/i-forked-an-open-source-mac-utility-heres-what-i-changed-what-i-kept-and-when-you-should-use-275p)
+- [Start and end a voice agent call in Python without clipping a word](https://dev.to/pmckeetx/start-and-end-a-voice-agent-call-in-python-without-clipping-a-word-330i)
+- [Stop your voice agent going quiet after it refunds a caller](https://dev.to/pmckeetx/stop-your-voice-agent-going-quiet-after-it-refunds-a-caller-1c1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
