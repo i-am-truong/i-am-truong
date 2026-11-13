@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wong Woon Thiam on Reading the Cash Conversion Cycle](https://dev.to/wongwoonthiam/wong-woon-thiam-on-reading-the-cash-conversion-cycle-5a72)
-- [How to Build an AI-Powered Document Summarizer with Claude, S3, and Lambda, Explained Simply](https://dev.to/dineshgowtham/how-to-build-an-ai-powered-document-summarizer-with-claude-s3-and-lambda-explained-simply-4kc3)
-- [cdk-nag v3: Security Checks in CDK Tests with Vitest](https://dev.to/sascha-ms/cdk-nag-v3-security-checks-in-cdk-tests-with-vitest-11ck)
-- [From a 500 to a real error: validating comment length across 9 GitLab GraphQL mutations](https://dev.to/priyanshu_jha_eee132b17e5/from-a-500-to-a-real-error-validating-comment-length-across-9-gitlab-graphql-mutations-60d)
-- [Two queries too many: removing each_batch from GitLab&#39;s Maven snapshot cleanup](https://dev.to/priyanshu_jha_eee132b17e5/two-queries-too-many-removing-eachbatch-from-gitlabs-maven-snapshot-cleanup-508k)
+- [What I Learned Today: Exploring Local Storage in JavaScript](https://dev.to/sowntharya/what-i-learned-today-exploring-local-storage-in-javascript-4670)
+- [Zoho CRM multi-currency: what to know before you switch it on](https://dev.to/skyfall7/zoho-crm-multi-currency-what-to-know-before-you-switch-it-on-46n0)
+- [SilentAir: códigos por SMS interceptados desde la red](https://dev.to/henryramireztech/silentair-codigos-por-sms-interceptados-desde-la-red-5617)
+- [OpenTelemetry span exceptions: record them in your traces](https://dev.to/spanobserver/opentelemetry-span-exceptions-record-them-in-your-traces-3bo)
+- [TrustedRouter bets on encrypted AI panels to cut inference costs](https://dev.to/spaisee/trustedrouter-bets-on-encrypted-ai-panels-to-cut-inference-costs-5097)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
