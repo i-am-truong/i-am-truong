@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Today: Exploring Local Storage in JavaScript](https://dev.to/sowntharya/what-i-learned-today-exploring-local-storage-in-javascript-4670)
-- [Zoho CRM multi-currency: what to know before you switch it on](https://dev.to/skyfall7/zoho-crm-multi-currency-what-to-know-before-you-switch-it-on-46n0)
-- [SilentAir: códigos por SMS interceptados desde la red](https://dev.to/henryramireztech/silentair-codigos-por-sms-interceptados-desde-la-red-5617)
-- [OpenTelemetry span exceptions: record them in your traces](https://dev.to/spanobserver/opentelemetry-span-exceptions-record-them-in-your-traces-3bo)
-- [TrustedRouter bets on encrypted AI panels to cut inference costs](https://dev.to/spaisee/trustedrouter-bets-on-encrypted-ai-panels-to-cut-inference-costs-5097)
+- [I Audited My Own Agent Operation. It Found Two Criticals — Both in My Email.](https://dev.to/veronicstewart/i-audited-my-own-agent-operation-it-found-two-criticals-both-in-my-email-2o0k)
+- [Course Tutor Retrieval: Staging Context for Predictable Response Latency](https://dev.to/marencrest5138/course-tutor-retrieval-staging-context-for-predictable-response-latency-5aee)
+- [Snort Sensors Are Better Found Through Networks Than Page Titles](https://dev.to/onaeiuspkz/snort-sensors-are-better-found-through-networks-than-page-titles-24a2)
+- [Writing HTCondor DAG Files: Job Dependencies, Variables, and Concurrency Limits](https://dev.to/nha6ki/writing-htcondor-dag-files-job-dependencies-variables-and-concurrency-limits-4anp)
+- [Japanese Text Breaks Your App in 7 Quiet Ways &lpar;With Code&rpar;](https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
