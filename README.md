@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I tried to break my AI song detector with covers, live recordings, lo-fi and Suno v6](https://dev.to/han_lou_493c3fecccc66c1f0/i-tried-to-break-my-ai-song-detector-with-covers-live-recordings-lo-fi-and-suno-v6-3pfg)
-- [Tracing AI Agents with OpenTelemetry: A Design for LLM and Agentic AI Observability](https://dev.to/bonree-js/tracing-ai-agents-with-opentelemetry-a-design-for-llm-and-agentic-ai-observability-4hn6)
-- [Claude Pro, Max and Ultra vs the API: what each plan actually buys in tokens](https://dev.to/tokenlab/claude-pro-max-and-ultra-vs-the-api-what-each-plan-actually-buys-in-tokens-3f3e)
-- [Searching &quot;Great Britain&quot;[Mesh] in PubMed finds nothing. So does &quot;Questionnaires&quot;.](https://dev.to/munimv2/searching-great-britainmesh-in-pubmed-finds-nothing-so-does-questionnaires-4gi2)
-- [Microsoft 365 Went Down Overnight. 17.6% of Indonesian co.id Domains Get Their Mail Through It](https://dev.to/kielltampubolon/microsoft-365-went-down-overnight-176-of-indonesian-coid-domains-get-their-mail-through-it-a59)
+- [Wong Woon Thiam on Reading the Cash Conversion Cycle](https://dev.to/wongwoonthiam/wong-woon-thiam-on-reading-the-cash-conversion-cycle-5a72)
+- [How to Build an AI-Powered Document Summarizer with Claude, S3, and Lambda, Explained Simply](https://dev.to/dineshgowtham/how-to-build-an-ai-powered-document-summarizer-with-claude-s3-and-lambda-explained-simply-4kc3)
+- [cdk-nag v3: Security Checks in CDK Tests with Vitest](https://dev.to/sascha-ms/cdk-nag-v3-security-checks-in-cdk-tests-with-vitest-11ck)
+- [From a 500 to a real error: validating comment length across 9 GitLab GraphQL mutations](https://dev.to/priyanshu_jha_eee132b17e5/from-a-500-to-a-real-error-validating-comment-length-across-9-gitlab-graphql-mutations-60d)
+- [Two queries too many: removing each_batch from GitLab&#39;s Maven snapshot cleanup](https://dev.to/priyanshu_jha_eee132b17e5/two-queries-too-many-removing-eachbatch-from-gitlabs-maven-snapshot-cleanup-508k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
