@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Siri AI Roadmap: Ternus Details Future Plans](https://dev.to/luckytaorem/apples-siri-ai-roadmap-ternus-details-future-plans-c93)
-- [Routing inbound CV e-mails to the right job opening, without an LLM](https://dev.to/ir_raphalsellami_f30ecb/routing-inbound-cv-e-mails-to-the-right-job-opening-without-an-llm-1ffp)
-- [I Forked an Open-Source Mac Utility. Here&#39;s What I Changed, What I Kept, and When You Should Use the Original](https://dev.to/auratech/i-forked-an-open-source-mac-utility-heres-what-i-changed-what-i-kept-and-when-you-should-use-275p)
-- [Start and end a voice agent call in Python without clipping a word](https://dev.to/pmckeetx/start-and-end-a-voice-agent-call-in-python-without-clipping-a-word-330i)
-- [Stop your voice agent going quiet after it refunds a caller](https://dev.to/pmckeetx/stop-your-voice-agent-going-quiet-after-it-refunds-a-caller-1c1e)
+- [I tried to break my AI song detector with covers, live recordings, lo-fi and Suno v6](https://dev.to/han_lou_493c3fecccc66c1f0/i-tried-to-break-my-ai-song-detector-with-covers-live-recordings-lo-fi-and-suno-v6-3pfg)
+- [Tracing AI Agents with OpenTelemetry: A Design for LLM and Agentic AI Observability](https://dev.to/bonree-js/tracing-ai-agents-with-opentelemetry-a-design-for-llm-and-agentic-ai-observability-4hn6)
+- [Claude Pro, Max and Ultra vs the API: what each plan actually buys in tokens](https://dev.to/tokenlab/claude-pro-max-and-ultra-vs-the-api-what-each-plan-actually-buys-in-tokens-3f3e)
+- [Searching &quot;Great Britain&quot;[Mesh] in PubMed finds nothing. So does &quot;Questionnaires&quot;.](https://dev.to/munimv2/searching-great-britainmesh-in-pubmed-finds-nothing-so-does-questionnaires-4gi2)
+- [Microsoft 365 Went Down Overnight. 17.6% of Indonesian co.id Domains Get Their Mail Through It](https://dev.to/kielltampubolon/microsoft-365-went-down-overnight-176-of-indonesian-coid-domains-get-their-mail-through-it-a59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
