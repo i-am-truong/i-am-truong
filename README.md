@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PAN-OS Label Counts Are Small Signals, Not a Firewall Census](https://dev.to/jeffreyciend/pan-os-label-counts-are-small-signals-not-a-firewall-census-3g46)
-- [AI Infrastructure Engineer Interview Questions and Answers](https://dev.to/devopsinterview_cloud/ai-infrastructure-engineer-interview-questions-and-answers-1pd7)
-- [Show DEV: I built an evidence-first Windows diagnostic workstation](https://dev.to/nullfeather/show-dev-i-built-an-evidence-first-windows-diagnostic-workstation-51o0)
-- [Python&#39;s strip&lpar;&rpar; Method: The Easiest Way to Clean Up User Input](https://dev.to/sameerqaiser17/pythons-strip-method-the-easiest-way-to-clean-up-user-input-2f7p)
-- [Brevo IP warming, walked through: the schedule that keeps you out of spam](https://dev.to/alfazreviews/brevo-ip-warming-walked-through-the-schedule-that-keeps-you-out-of-spam-3mf)
+- [Laravel Observers vs Events: When to Use Each &lpar;Examples&rpar;](https://dev.to/itxshakil/laravel-observers-vs-events-when-to-use-each-examples-2fi1)
+- [Watching product pages for price drops with ~80 lines of Python &lpar;CSV history + Telegram alerts&rpar;](https://dev.to/quilldf/watching-product-pages-for-price-drops-with-80-lines-of-python-csv-history-telegram-alerts-1mmn)
+- [Designing the handover: what your agent should do at a CAPTCHA, a passkey, or a booking form](https://dev.to/maptosite/designing-the-handover-what-your-agent-should-do-at-a-captcha-a-passkey-or-a-booking-form-4ej0)
+- [Laravel Eloquent Traits: Reusable Model Behavior &lpar;Guide&rpar;](https://dev.to/itxshakil/laravel-eloquent-traits-reusable-model-behavior-guide-a2f)
+- [A Practical Guide to Catching SQLAlchemy Lazy-Load N+1 Queries in CI](https://dev.to/toai/a-practical-guide-to-catching-sqlalchemy-lazy-load-n1-queries-in-ci-14p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
