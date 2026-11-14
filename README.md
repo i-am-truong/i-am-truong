@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Contribuir pra open source não é só código: uma jornada de SRE na BrasilAPI](https://dev.to/theoscaargomes/contribuir-pra-open-source-nao-e-so-codigo-uma-jornada-de-sre-na-brasilapi-2dj8)
-- [Modeling BC property transfer tax and Canadian mortgage payments in Python](https://dev.to/joppa_sruckrucky_b20878/modeling-bc-property-transfer-tax-and-canadian-mortgage-payments-in-python-4ll9)
-- [Building AdiSaan: Why We Open-Sourced an Observatory for Human Imagination and AI](https://dev.to/adisaan/building-adisaan-why-we-open-sourced-an-observatory-for-human-imagination-and-ai-26g7)
-- [Checking a Four-Direction Sprite Sheet Before Importing It](https://dev.to/mrwhon/checking-a-four-direction-sprite-sheet-before-importing-it-24ae)
-- [A 15-minute nap alarm, one tap away](https://dev.to/droidactor/a-15-minute-nap-alarm-one-tap-away-1fj8)
+- [PAN-OS Label Counts Are Small Signals, Not a Firewall Census](https://dev.to/jeffreyciend/pan-os-label-counts-are-small-signals-not-a-firewall-census-3g46)
+- [AI Infrastructure Engineer Interview Questions and Answers](https://dev.to/devopsinterview_cloud/ai-infrastructure-engineer-interview-questions-and-answers-1pd7)
+- [Show DEV: I built an evidence-first Windows diagnostic workstation](https://dev.to/nullfeather/show-dev-i-built-an-evidence-first-windows-diagnostic-workstation-51o0)
+- [Python&#39;s strip&lpar;&rpar; Method: The Easiest Way to Clean Up User Input](https://dev.to/sameerqaiser17/pythons-strip-method-the-easiest-way-to-clean-up-user-input-2f7p)
+- [Brevo IP warming, walked through: the schedule that keeps you out of spam](https://dev.to/alfazreviews/brevo-ip-warming-walked-through-the-schedule-that-keeps-you-out-of-spam-3mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
