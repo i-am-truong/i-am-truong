@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Observers vs Events: When to Use Each &lpar;Examples&rpar;](https://dev.to/itxshakil/laravel-observers-vs-events-when-to-use-each-examples-2fi1)
-- [Watching product pages for price drops with ~80 lines of Python &lpar;CSV history + Telegram alerts&rpar;](https://dev.to/quilldf/watching-product-pages-for-price-drops-with-80-lines-of-python-csv-history-telegram-alerts-1mmn)
-- [Designing the handover: what your agent should do at a CAPTCHA, a passkey, or a booking form](https://dev.to/maptosite/designing-the-handover-what-your-agent-should-do-at-a-captcha-a-passkey-or-a-booking-form-4ej0)
-- [Laravel Eloquent Traits: Reusable Model Behavior &lpar;Guide&rpar;](https://dev.to/itxshakil/laravel-eloquent-traits-reusable-model-behavior-guide-a2f)
-- [A Practical Guide to Catching SQLAlchemy Lazy-Load N+1 Queries in CI](https://dev.to/toai/a-practical-guide-to-catching-sqlalchemy-lazy-load-n1-queries-in-ci-14p9)
+- [Horde Groupware: find the authentication backend before trusting the login page](https://dev.to/kozhevniko/horde-groupware-find-the-authentication-backend-before-trusting-the-login-page-1eoo)
+- [Why a QR Code Stops Scanning After Image Compression](https://dev.to/zippic/why-a-qr-code-stops-scanning-after-image-compression-2l77)
+- [Real-Time 3D Telemetry in WebGL: Polygon Budgets &amp; PBR Material Inspection with Three.js](https://dev.to/atlyxen_studios/real-time-3d-telemetry-in-webgl-polygon-budgets-pbr-material-inspection-with-threejs-2h06)
+- [Before your AI agent edits Linear, test how you will recover](https://dev.to/sysstas/before-your-ai-agent-edits-linear-test-how-you-will-recover-17cl)
+- [Shipping a four-language website in 1–5 days: Readdy AI + Supabase + Resend](https://dev.to/webfreesia/shipping-a-four-language-website-in-1-5-days-readdy-ai-supabase-resend-hde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
