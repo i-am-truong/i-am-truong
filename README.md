@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Audited My Own Agent Operation. It Found Two Criticals — Both in My Email.](https://dev.to/veronicstewart/i-audited-my-own-agent-operation-it-found-two-criticals-both-in-my-email-2o0k)
-- [Course Tutor Retrieval: Staging Context for Predictable Response Latency](https://dev.to/marencrest5138/course-tutor-retrieval-staging-context-for-predictable-response-latency-5aee)
-- [Snort Sensors Are Better Found Through Networks Than Page Titles](https://dev.to/onaeiuspkz/snort-sensors-are-better-found-through-networks-than-page-titles-24a2)
-- [Writing HTCondor DAG Files: Job Dependencies, Variables, and Concurrency Limits](https://dev.to/nha6ki/writing-htcondor-dag-files-job-dependencies-variables-and-concurrency-limits-4anp)
-- [Japanese Text Breaks Your App in 7 Quiet Ways &lpar;With Code&rpar;](https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g)
+- [Contribuir pra open source não é só código: uma jornada de SRE na BrasilAPI](https://dev.to/theoscaargomes/contribuir-pra-open-source-nao-e-so-codigo-uma-jornada-de-sre-na-brasilapi-2dj8)
+- [Modeling BC property transfer tax and Canadian mortgage payments in Python](https://dev.to/joppa_sruckrucky_b20878/modeling-bc-property-transfer-tax-and-canadian-mortgage-payments-in-python-4ll9)
+- [Building AdiSaan: Why We Open-Sourced an Observatory for Human Imagination and AI](https://dev.to/adisaan/building-adisaan-why-we-open-sourced-an-observatory-for-human-imagination-and-ai-26g7)
+- [Checking a Four-Direction Sprite Sheet Before Importing It](https://dev.to/mrwhon/checking-a-four-direction-sprite-sheet-before-importing-it-24ae)
+- [A 15-minute nap alarm, one tap away](https://dev.to/droidactor/a-15-minute-nap-alarm-one-tap-away-1fj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
