@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ollama Ignored My Modelfile TEMPLATE. A Pre-Registered Token Count Caught It.](https://dev.to/hexisteme/ollama-ignored-my-modelfile-template-a-pre-registered-token-count-caught-it-406p)
-- [Latchkey June Update: Self-Healing CI Is On by Default](https://dev.to/kalemi/latchkey-june-update-self-healing-ci-is-on-by-default-nm9)
-- [Production-Grade Code: What Separates Hobby Apps from Real Ones](https://dev.to/codefromscratch/production-grade-code-what-separates-hobby-apps-from-real-ones-eof)
-- [Latchkey May Update: Latchkey Runners Are Live](https://dev.to/kalemi/latchkey-may-update-latchkey-runners-are-live-4gl2)
-- [5 In-Demand Developer Skills for Late 2026, Ranked by the Data](https://dev.to/jathurshan_sownthararasa_/5-in-demand-developer-skills-for-late-2026-ranked-by-the-data-35og)
+- [How to set a CI budget for coding agents](https://dev.to/kalemi/how-to-set-a-ci-budget-for-coding-agents-1eoc)
+- [Building an ESP32-Based Wearable Health Monitoring System: From Sensors to a Custom Desktop App](https://dev.to/protovisionlab/building-an-esp32-based-wearable-health-monitoring-system-from-sensors-to-a-custom-desktop-app-39jb)
+- [codecov/codecov-action: the token it sends, OIDC, and uploads that fail green](https://dev.to/kalemi/codecovcodecov-action-the-token-it-sends-oidc-and-uploads-that-fail-green-228p)
+- [GitHub Actions cache not restored: the four silent misses](https://dev.to/kalemi/github-actions-cache-not-restored-the-four-silent-misses-5aln)
+- [Part 26: Five builds, five differences](https://dev.to/thasha/part-26-five-builds-five-differences-dmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
