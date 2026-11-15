@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set a CI budget for coding agents](https://dev.to/kalemi/how-to-set-a-ci-budget-for-coding-agents-1eoc)
-- [Building an ESP32-Based Wearable Health Monitoring System: From Sensors to a Custom Desktop App](https://dev.to/protovisionlab/building-an-esp32-based-wearable-health-monitoring-system-from-sensors-to-a-custom-desktop-app-39jb)
-- [codecov/codecov-action: the token it sends, OIDC, and uploads that fail green](https://dev.to/kalemi/codecovcodecov-action-the-token-it-sends-oidc-and-uploads-that-fail-green-228p)
-- [GitHub Actions cache not restored: the four silent misses](https://dev.to/kalemi/github-actions-cache-not-restored-the-four-silent-misses-5aln)
-- [Part 26: Five builds, five differences](https://dev.to/thasha/part-26-five-builds-five-differences-dmk)
+- [When One Demonstration Steers The Robot](https://dev.to/nexscient/when-one-demonstration-steers-the-robot-h3b)
+- [WordPress autoloaded options: measure and review wp_options](https://dev.to/hamzaahmadaslam/wordpress-autoloaded-options-measure-and-review-wpoptions-1648)
+- [A CVSS-10 Path Traversal in GitLab&#39;s Commits API Is Being Exploited](https://dev.to/neticslabs/a-cvss-10-path-traversal-in-gitlabs-commits-api-is-being-exploited-1npd)
+- [Withdrawal status lives on the network. A small transfer check in JavaScript](https://dev.to/mena_change/withdrawal-status-lives-on-the-network-a-small-transfer-check-in-javascript-46me)
+- [Lovable data exposure &lpar;November 2026&rpar;: what was found, and the RLS test to run on your own app today](https://dev.to/devaland/lovable-data-exposure-november-2026-what-was-found-and-the-rls-test-to-run-on-your-own-app-today-4j2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
