@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;infinite recursion detected in policy for relation&quot; in a Supabase app](https://dev.to/za_s_/infinite-recursion-detected-in-policy-for-relation-in-a-supabase-app-4h2i)
-- [Power BI for Sports Performance Analytics: Turning Athlete Data into Better Results](https://dev.to/dataflip/power-bi-for-sports-performance-analytics-turning-athlete-data-into-better-results-2bei)
-- [Your CSP blocks eval. So I wrote a parser.](https://dev.to/coder3662/your-csp-blocks-eval-so-i-wrote-a-parser-4lac)
-- [Cómo saber si un proceso mejoró de verdad &lpar;y qué indicadores lo demuestran&rpar;](https://dev.to/rodrigofk06/como-saber-si-un-proceso-mejoro-de-verdad-y-que-indicadores-lo-demuestran-16c)
-- [Inside the AWS Default VPC &lpar;and Why You&#39;ll Want Your Own&rpar;](https://dev.to/rahimah_dev/inside-the-aws-default-vpc-and-why-youll-want-your-own-148n)
+- [Nominalzins vs. Effektivzins &lpar;APY&rpar; im Code: Die Zinseszins-Falle bei Tagesgeld-Vergleichen](https://dev.to/miri-calc/nominalzins-vs-effektivzins-apy-im-code-die-zinseszins-falle-bei-tagesgeld-vergleichen-3c96)
+- [CAGR vs. Média Simples em Código: Por Que a Média Aritmética Superestima o Retorno Real](https://dev.to/miri-calc/cagr-vs-media-simples-em-codigo-por-que-a-media-aritmetica-superestima-o-retorno-real-18m5)
+- [El error del interés compuesto en código: por qué el bucle for pierde precisión frente a la fórmula cerrada](https://dev.to/miri-calc/el-error-del-interes-compuesto-en-codigo-por-que-el-bucle-for-pierde-precision-frente-a-la-formula-d16)
+- [Optimizing ElevenLabs API Calls for Better Performance](https://dev.to/voice_developer/optimizing-elevenlabs-api-calls-for-better-performance-2he)
+- [Databricks Genie Is in Microsoft Teams Now. Your Metric Definitions Just Became Production Code.](https://dev.to/gabrielhca/databricks-genie-is-in-microsoft-teams-now-your-metric-definitions-just-became-production-code-36o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
