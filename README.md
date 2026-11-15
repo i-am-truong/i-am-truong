@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Horde Groupware: find the authentication backend before trusting the login page](https://dev.to/kozhevniko/horde-groupware-find-the-authentication-backend-before-trusting-the-login-page-1eoo)
-- [Why a QR Code Stops Scanning After Image Compression](https://dev.to/zippic/why-a-qr-code-stops-scanning-after-image-compression-2l77)
-- [Real-Time 3D Telemetry in WebGL: Polygon Budgets &amp; PBR Material Inspection with Three.js](https://dev.to/atlyxen_studios/real-time-3d-telemetry-in-webgl-polygon-budgets-pbr-material-inspection-with-threejs-2h06)
-- [Before your AI agent edits Linear, test how you will recover](https://dev.to/sysstas/before-your-ai-agent-edits-linear-test-how-you-will-recover-17cl)
-- [Shipping a four-language website in 1–5 days: Readdy AI + Supabase + Resend](https://dev.to/webfreesia/shipping-a-four-language-website-in-1-5-days-readdy-ai-supabase-resend-hde)
+- [Ollama Ignored My Modelfile TEMPLATE. A Pre-Registered Token Count Caught It.](https://dev.to/hexisteme/ollama-ignored-my-modelfile-template-a-pre-registered-token-count-caught-it-406p)
+- [Latchkey June Update: Self-Healing CI Is On by Default](https://dev.to/kalemi/latchkey-june-update-self-healing-ci-is-on-by-default-nm9)
+- [Production-Grade Code: What Separates Hobby Apps from Real Ones](https://dev.to/codefromscratch/production-grade-code-what-separates-hobby-apps-from-real-ones-eof)
+- [Latchkey May Update: Latchkey Runners Are Live](https://dev.to/kalemi/latchkey-may-update-latchkey-runners-are-live-4gl2)
+- [5 In-Demand Developer Skills for Late 2026, Ranked by the Data](https://dev.to/jathurshan_sownthararasa_/5-in-demand-developer-skills-for-late-2026-ranked-by-the-data-35og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
