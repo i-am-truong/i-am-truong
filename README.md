@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Five Failure Scenarios to Test Before a Sportsbook API Launch](https://dev.to/lemon_lemon_195324f02250a/five-failure-scenarios-to-test-before-a-sportsbook-api-launch-5hja)
-- [MAGICKNESS Dev Log #04: Building a 2D World Lobby Inside an Unreal Engine 5 MMORPG](https://dev.to/domtechgaming/magickness-dev-log-04-building-a-2d-world-lobby-inside-an-unreal-engine-5-mmorpg-4904)
-- [Your Prototype Display Passes Every Test. Then the Machine Ships.](https://dev.to/stone_module/your-prototype-display-passes-every-test-then-the-machine-ships-5gi9)
-- [18 AI Models Were Given More to Read. All 18 Got Worse.](https://dev.to/faheen_ahamed_5702a254152/18-ai-models-were-given-more-to-read-all-18-got-worse-1fjk)
-- [How I&#39;m trying to stand out in tech when the market is rough](https://dev.to/saurabh_pathak394/how-im-trying-to-stand-out-in-tech-when-the-market-is-rough-55p4)
+- [How to Trim Audio for a Product Demo Video — Free, in Your Browser](https://dev.to/zjch022/how-to-trim-audio-for-a-product-demo-video-free-in-your-browser-2feh)
+- [Replication Lag Is Why Your AI Agent Looks Like It&#39;s Hallucinating](https://dev.to/abivarma/replication-lag-is-why-your-ai-agent-looks-like-its-hallucinating-k7f)
+- [Why Does typeof null Return &quot;object&quot; in JavaScript? The 30-Year-Old Bug Explained](https://dev.to/pankaj_99e857e78/why-does-typeof-null-return-object-in-javascript-the-30-year-old-bug-explained-3c84)
+- [A Pre-Launch Checklist for Small Business Website Development](https://dev.to/budgetweb/a-pre-launch-checklist-for-small-business-website-development-101g)
+- [Meet Helio: The Real-Time Agent Written in Rust](https://dev.to/laurnts/meet-helio-the-real-time-agent-written-in-rust-1ln0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
