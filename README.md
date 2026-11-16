@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nominalzins vs. Effektivzins &lpar;APY&rpar; im Code: Die Zinseszins-Falle bei Tagesgeld-Vergleichen](https://dev.to/miri-calc/nominalzins-vs-effektivzins-apy-im-code-die-zinseszins-falle-bei-tagesgeld-vergleichen-3c96)
-- [CAGR vs. Média Simples em Código: Por Que a Média Aritmética Superestima o Retorno Real](https://dev.to/miri-calc/cagr-vs-media-simples-em-codigo-por-que-a-media-aritmetica-superestima-o-retorno-real-18m5)
-- [El error del interés compuesto en código: por qué el bucle for pierde precisión frente a la fórmula cerrada](https://dev.to/miri-calc/el-error-del-interes-compuesto-en-codigo-por-que-el-bucle-for-pierde-precision-frente-a-la-formula-d16)
-- [Optimizing ElevenLabs API Calls for Better Performance](https://dev.to/voice_developer/optimizing-elevenlabs-api-calls-for-better-performance-2he)
-- [Databricks Genie Is in Microsoft Teams Now. Your Metric Definitions Just Became Production Code.](https://dev.to/gabrielhca/databricks-genie-is-in-microsoft-teams-now-your-metric-definitions-just-became-production-code-36o)
+- [Five Failure Scenarios to Test Before a Sportsbook API Launch](https://dev.to/lemon_lemon_195324f02250a/five-failure-scenarios-to-test-before-a-sportsbook-api-launch-5hja)
+- [MAGICKNESS Dev Log #04: Building a 2D World Lobby Inside an Unreal Engine 5 MMORPG](https://dev.to/domtechgaming/magickness-dev-log-04-building-a-2d-world-lobby-inside-an-unreal-engine-5-mmorpg-4904)
+- [Your Prototype Display Passes Every Test. Then the Machine Ships.](https://dev.to/stone_module/your-prototype-display-passes-every-test-then-the-machine-ships-5gi9)
+- [18 AI Models Were Given More to Read. All 18 Got Worse.](https://dev.to/faheen_ahamed_5702a254152/18-ai-models-were-given-more-to-read-all-18-got-worse-1fjk)
+- [How I&#39;m trying to stand out in tech when the market is rough](https://dev.to/saurabh_pathak394/how-im-trying-to-stand-out-in-tech-when-the-market-is-rough-55p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
