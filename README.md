@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Trim Audio for a Product Demo Video — Free, in Your Browser](https://dev.to/zjch022/how-to-trim-audio-for-a-product-demo-video-free-in-your-browser-2feh)
-- [Replication Lag Is Why Your AI Agent Looks Like It&#39;s Hallucinating](https://dev.to/abivarma/replication-lag-is-why-your-ai-agent-looks-like-its-hallucinating-k7f)
-- [Why Does typeof null Return &quot;object&quot; in JavaScript? The 30-Year-Old Bug Explained](https://dev.to/pankaj_99e857e78/why-does-typeof-null-return-object-in-javascript-the-30-year-old-bug-explained-3c84)
-- [A Pre-Launch Checklist for Small Business Website Development](https://dev.to/budgetweb/a-pre-launch-checklist-for-small-business-website-development-101g)
-- [Meet Helio: The Real-Time Agent Written in Rust](https://dev.to/laurnts/meet-helio-the-real-time-agent-written-in-rust-1ln0)
+- [PulseVerse — Your Body, Your Universe](https://dev.to/genx0gravitas/pulseverse-your-body-your-universe-256n)
+- [pandas explode&lpar;&rpar; on a List Column: Turning Stock-to-Concept Tags into a Lookup Table, a Co-occurrence Matrix and Back Again](https://dev.to/dustinliang/pandas-explode-on-a-list-column-turning-stock-to-concept-tags-into-a-lookup-table-a-2i34)
+- [Your agents trust your telemetry. Should they?](https://dev.to/causely/your-agents-trust-your-telemetry-should-they-4ie0)
+- [OAuth2 and JWT for Kotlin Developers: A Beginner&#39;s Guide to Securing Spring Boot APIs](https://dev.to/syedghufranhassan/oauth2-and-jwt-for-kotlin-developers-a-beginners-guide-to-securing-spring-boot-apis-258o)
+- [How to Scale Live Polls by Publishing Aggregated Tallies Instead of Every Vote](https://dev.to/loganpierce2073/how-to-scale-live-polls-by-publishing-aggregated-tallies-instead-of-every-vote-40em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
