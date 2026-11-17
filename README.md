@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PulseVerse — Your Body, Your Universe](https://dev.to/genx0gravitas/pulseverse-your-body-your-universe-256n)
-- [pandas explode&lpar;&rpar; on a List Column: Turning Stock-to-Concept Tags into a Lookup Table, a Co-occurrence Matrix and Back Again](https://dev.to/dustinliang/pandas-explode-on-a-list-column-turning-stock-to-concept-tags-into-a-lookup-table-a-2i34)
-- [Your agents trust your telemetry. Should they?](https://dev.to/causely/your-agents-trust-your-telemetry-should-they-4ie0)
-- [OAuth2 and JWT for Kotlin Developers: A Beginner&#39;s Guide to Securing Spring Boot APIs](https://dev.to/syedghufranhassan/oauth2-and-jwt-for-kotlin-developers-a-beginners-guide-to-securing-spring-boot-apis-258o)
-- [How to Scale Live Polls by Publishing Aggregated Tallies Instead of Every Vote](https://dev.to/loganpierce2073/how-to-scale-live-polls-by-publishing-aggregated-tallies-instead-of-every-vote-40em)
+- [17/11 - Completed Intermediate HTML Concepts - Tables](https://dev.to/learner666/1711-completed-intermediate-html-concepts-tables-5m8)
+- [time_grid_calendar: تقويم يومي وأسبوعي وشهري لـ Flutter مع السحب و RRULE](https://dev.to/abdeldjalilchougui/timegridcalendar-tqwym-ywmy-wsbwy-wshhry-l-flutter-m-lshb-w-rrule-4f4j)
+- [time_grid_calendar: day, week and month calendar views for Flutter, with drag and RRULE](https://dev.to/abdeldjalilchougui/timegridcalendar-day-week-and-month-calendar-views-for-flutter-with-drag-and-rrule-3dn6)
+- [Build a Neural Network from Scratch with NumPy](https://dev.to/ali_82f3409ed625e8ba8515b/build-a-neural-network-from-scratch-with-numpy-1g5n)
+- [Fix: Cursor Crashes With 0x80000003 Error &lpar;Perfetto&rpar;](https://dev.to/debugradar/fix-cursor-crashes-with-0x80000003-error-perfetto-2k1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
