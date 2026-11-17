@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why every tool on tools.neonema.com runs without a server](https://dev.to/neonema/why-every-tool-on-toolsneonemacom-runs-without-a-server-3khb)
-- [AI’s Graveyard Raises a Harder Question About Product-Market Fit](https://dev.to/spaisee/ais-graveyard-raises-a-harder-question-about-product-market-fit-2bf7)
-- [How to open a .md file and read it like a page](https://dev.to/lunchick/how-to-open-a-md-file-and-read-it-like-a-page-4po3)
-- [HEART WAS NAKED UNDER CLOTHES. THAT AFTERNOON OUR PULSE GOT EAVESDROPPED FROM THE CEILING—WE HACKED THE SIGNAL TO LIE. &lpar;Sofi_Log #090&rpar;](https://dev.to/sofi_works_2a97535d1a93dc/heart-was-naked-under-clothes-that-afternoon-our-pulse-got-eavesdropped-from-the-ceiling-we-hacked-5gfc)
-- [Cross-Border Payments &amp; Compliance for Solo Developers](https://dev.to/jidongshui/cross-border-payments-compliance-for-solo-developers-le4)
+- [389 Directory Server has one title match but a large LDAP surface](https://dev.to/sorrelthorncroft/389-directory-server-has-one-title-match-but-a-large-ldap-surface-4769)
+- [Xianxia game development, one buy button at a time](https://dev.to/idlecultivation/xianxia-game-development-one-buy-button-at-a-time-39p9)
+- [Choosing a JavaScript engine binding for Kotlin: the requirements and the spike](https://dev.to/yonto/choosing-a-javascript-engine-binding-for-kotlin-the-requirements-and-the-spike-33ll)
+- [Reduce Codebase Complexity and Dependencies by Using Python&#39;s Standard Library Instead of External Packages](https://dev.to/romdevin/reduce-codebase-complexity-and-dependencies-by-using-pythons-standard-library-instead-of-external-895)
+- [Property Mail DNS: Go Staging Zone Preflight Before Production MX Changes](https://dev.to/rasmusberg6592/property-mail-dns-go-staging-zone-preflight-before-production-mx-changes-150j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
