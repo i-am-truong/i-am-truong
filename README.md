@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [17/11 - Completed Intermediate HTML Concepts - Tables](https://dev.to/learner666/1711-completed-intermediate-html-concepts-tables-5m8)
-- [time_grid_calendar: تقويم يومي وأسبوعي وشهري لـ Flutter مع السحب و RRULE](https://dev.to/abdeldjalilchougui/timegridcalendar-tqwym-ywmy-wsbwy-wshhry-l-flutter-m-lshb-w-rrule-4f4j)
-- [time_grid_calendar: day, week and month calendar views for Flutter, with drag and RRULE](https://dev.to/abdeldjalilchougui/timegridcalendar-day-week-and-month-calendar-views-for-flutter-with-drag-and-rrule-3dn6)
-- [Build a Neural Network from Scratch with NumPy](https://dev.to/ali_82f3409ed625e8ba8515b/build-a-neural-network-from-scratch-with-numpy-1g5n)
-- [Fix: Cursor Crashes With 0x80000003 Error &lpar;Perfetto&rpar;](https://dev.to/debugradar/fix-cursor-crashes-with-0x80000003-error-perfetto-2k1n)
+- [Why every tool on tools.neonema.com runs without a server](https://dev.to/neonema/why-every-tool-on-toolsneonemacom-runs-without-a-server-3khb)
+- [AI’s Graveyard Raises a Harder Question About Product-Market Fit](https://dev.to/spaisee/ais-graveyard-raises-a-harder-question-about-product-market-fit-2bf7)
+- [How to open a .md file and read it like a page](https://dev.to/lunchick/how-to-open-a-md-file-and-read-it-like-a-page-4po3)
+- [HEART WAS NAKED UNDER CLOTHES. THAT AFTERNOON OUR PULSE GOT EAVESDROPPED FROM THE CEILING—WE HACKED THE SIGNAL TO LIE. &lpar;Sofi_Log #090&rpar;](https://dev.to/sofi_works_2a97535d1a93dc/heart-was-naked-under-clothes-that-afternoon-our-pulse-got-eavesdropped-from-the-ceiling-we-hacked-5gfc)
+- [Cross-Border Payments &amp; Compliance for Solo Developers](https://dev.to/jidongshui/cross-border-payments-compliance-for-solo-developers-le4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
