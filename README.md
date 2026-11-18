@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A CCNA study plan that puts labs first](https://dev.to/steadfastiq/a-ccna-study-plan-that-puts-labs-first-2g9f)
-- [Checking your infrastructure settings for gaps](https://dev.to/uehara/checking-your-infrastructure-settings-for-gaps-2e5b)
-- [I used to read TV audiences live. Now I read app reviews the same way.](https://dev.to/voidrizoma/i-used-to-read-tv-audiences-live-now-i-read-app-reviews-the-same-way-3dbe)
-- [A vs B: Edge WAF vs Final Proxy Placement for HTTP Request Smuggling Defense](https://dev.to/_eb0609572b9efcf27472066/a-vs-b-edge-waf-vs-final-proxy-placement-for-http-request-smuggling-defense-4478)
-- [How to Stop HTTP Request Smuggling at the Proxy Layer: A Setup and Verification Guide](https://dev.to/lialiago/how-to-stop-http-request-smuggling-at-the-proxy-layer-a-setup-and-verification-guide-2oe3)
+- [SPF, DKIM and DMARC Explained: A Plain-English Guide to Email Authentication](https://dev.to/transcom99/spf-dkim-and-dmarc-explained-a-plain-english-guide-to-email-authentication-20c1)
+- [Isolating LLM Code Execution in Kubernetes](https://dev.to/securitystefan/isolating-llm-code-execution-in-kubernetes-6oo)
+- [A search box with six states, and a Postgres index the query has to repeat verbatim or the planner ignores it](https://dev.to/daniel_pertu/a-search-box-with-six-states-and-a-postgres-index-the-query-has-to-repeat-verbatim-or-the-planner-13ak)
+- [I Blocked the Attacker&#39;s IP. The Attack Didn&#39;t Stop. Here&#39;s Why.](https://dev.to/nachiketgholap/i-blocked-the-attackers-ip-the-attack-didnt-stop-heres-why-dp4)
+- [Membangun Dashboard Live Draw SGP Real-Time dengan PHP 8, Server-Sent Events, dan JavaScript](https://dev.to/info_livesdy_d17380becb98/membangun-dashboard-live-draw-sgp-real-time-dengan-php-8-server-sent-events-dan-javascript-2lgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
