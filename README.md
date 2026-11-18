@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [389 Directory Server has one title match but a large LDAP surface](https://dev.to/sorrelthorncroft/389-directory-server-has-one-title-match-but-a-large-ldap-surface-4769)
-- [Xianxia game development, one buy button at a time](https://dev.to/idlecultivation/xianxia-game-development-one-buy-button-at-a-time-39p9)
-- [Choosing a JavaScript engine binding for Kotlin: the requirements and the spike](https://dev.to/yonto/choosing-a-javascript-engine-binding-for-kotlin-the-requirements-and-the-spike-33ll)
-- [Reduce Codebase Complexity and Dependencies by Using Python&#39;s Standard Library Instead of External Packages](https://dev.to/romdevin/reduce-codebase-complexity-and-dependencies-by-using-pythons-standard-library-instead-of-external-895)
-- [Property Mail DNS: Go Staging Zone Preflight Before Production MX Changes](https://dev.to/rasmusberg6592/property-mail-dns-go-staging-zone-preflight-before-production-mx-changes-150j)
+- [A CCNA study plan that puts labs first](https://dev.to/steadfastiq/a-ccna-study-plan-that-puts-labs-first-2g9f)
+- [Checking your infrastructure settings for gaps](https://dev.to/uehara/checking-your-infrastructure-settings-for-gaps-2e5b)
+- [I used to read TV audiences live. Now I read app reviews the same way.](https://dev.to/voidrizoma/i-used-to-read-tv-audiences-live-now-i-read-app-reviews-the-same-way-3dbe)
+- [A vs B: Edge WAF vs Final Proxy Placement for HTTP Request Smuggling Defense](https://dev.to/_eb0609572b9efcf27472066/a-vs-b-edge-waf-vs-final-proxy-placement-for-http-request-smuggling-defense-4478)
+- [How to Stop HTTP Request Smuggling at the Proxy Layer: A Setup and Verification Guide](https://dev.to/lialiago/how-to-stop-http-request-smuggling-at-the-proxy-layer-a-setup-and-verification-guide-2oe3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
