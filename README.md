@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SPF, DKIM and DMARC Explained: A Plain-English Guide to Email Authentication](https://dev.to/transcom99/spf-dkim-and-dmarc-explained-a-plain-english-guide-to-email-authentication-20c1)
-- [Isolating LLM Code Execution in Kubernetes](https://dev.to/securitystefan/isolating-llm-code-execution-in-kubernetes-6oo)
-- [A search box with six states, and a Postgres index the query has to repeat verbatim or the planner ignores it](https://dev.to/daniel_pertu/a-search-box-with-six-states-and-a-postgres-index-the-query-has-to-repeat-verbatim-or-the-planner-13ak)
-- [I Blocked the Attacker&#39;s IP. The Attack Didn&#39;t Stop. Here&#39;s Why.](https://dev.to/nachiketgholap/i-blocked-the-attackers-ip-the-attack-didnt-stop-heres-why-dp4)
-- [Membangun Dashboard Live Draw SGP Real-Time dengan PHP 8, Server-Sent Events, dan JavaScript](https://dev.to/info_livesdy_d17380becb98/membangun-dashboard-live-draw-sgp-real-time-dengan-php-8-server-sent-events-dan-javascript-2lgn)
+- [Google Maps rank tracker: check your Google Maps ranking from every street around you](https://dev.to/aurelix_solutions/google-maps-rank-tracker-check-your-google-maps-ranking-from-every-street-around-you-44ek)
+- [How Earthquake Maps Get Their Data: USGS Feeds, Magnitude Scales, and the Latency Budget](https://dev.to/worldeye_app/how-earthquake-maps-get-their-data-usgs-feeds-magnitude-scales-and-the-latency-budget-2hl8)
+- [Cost culture is not a finance initiative](https://dev.to/vlad_z_16b6320e21f32bee0d/cost-culture-is-not-a-finance-initiative-1bh)
+- [nginx2root: una RCE de 2015 sin contraseña escala a root vía Linux](https://dev.to/lu1tr0n/nginx2root-una-rce-de-2015-sin-contrasena-escala-a-root-via-linux-1inj)
+- [Scheduled Data Cleanup APIs: Cron or Node.js Queues for Different Game File Guarantees](https://dev.to/ashwhispertorvin64/scheduled-data-cleanup-apis-cron-or-nodejs-queues-for-different-game-file-guarantees-4ok9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
