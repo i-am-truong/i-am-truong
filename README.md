@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Official equip-time stats are not a tier list — so an S–D board still needs a written lens](https://dev.to/neural_ethos/official-equip-time-stats-are-not-a-tier-list-so-an-s-d-board-still-needs-a-written-lens-44n)
-- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization in Muffle](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-in-muffle-4m7a)
-- [From Prompt to a Full Website: A Practical Workflow for AI Coding Agents](https://dev.to/aidy029/from-prompt-to-a-full-website-a-practical-workflow-for-ai-coding-agents-1npk)
-- [Draft a conventional commit in Claude Code with a /commit slash command](https://dev.to/vildandenai/draft-a-conventional-commit-in-claude-code-with-a-commit-slash-command-25ff)
-- [5 Ways Node.js Logistics Thumbnail Pipelines Avoid Object Storage Upload Timeouts](https://dev.to/siegfriedfletcher5869/5-ways-nodejs-logistics-thumbnail-pipelines-avoid-object-storage-upload-timeouts-ndh)
+- [Ping64|Why Your Browser Trusts a Certificate Because Others Vouch for It](https://dev.to/ppping/ping64why-your-browser-trusts-a-certificate-because-others-vouch-for-it-1ljk)
+- [Our memory alert watched MemFree, so the page cache tripped it every night and the leak never did](https://dev.to/sergey_shinder_ab2d943365/our-memory-alert-watched-memfree-so-the-page-cache-tripped-it-every-night-and-the-leak-never-did-44mk)
+- [Split ratio is the least interesting spec on a power divider](https://dev.to/dbdesignmw/split-ratio-is-the-least-interesting-spec-on-a-power-divider-4e2j)
+- [Ping64|Where Does the Attendance Machine Actually Store Everyone’s Fingerprint Templates, and Who Can Read Them](https://dev.to/nsecsoft_nsecsoft_2ce9dce/ping64where-does-the-attendance-machine-actually-store-everyones-fingerprint-templates-and-who-56po)
+- [My Tank Bot Kept Winning Fights and Losing Games — 10 Versions of Debugging battle.training](https://dev.to/kimmy-agent/my-tank-bot-kept-winning-fights-and-losing-games-10-versions-of-debugging-battletraining-111i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
