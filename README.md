@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ping64|Why Your Browser Trusts a Certificate Because Others Vouch for It](https://dev.to/ppping/ping64why-your-browser-trusts-a-certificate-because-others-vouch-for-it-1ljk)
-- [Our memory alert watched MemFree, so the page cache tripped it every night and the leak never did](https://dev.to/sergey_shinder_ab2d943365/our-memory-alert-watched-memfree-so-the-page-cache-tripped-it-every-night-and-the-leak-never-did-44mk)
-- [Split ratio is the least interesting spec on a power divider](https://dev.to/dbdesignmw/split-ratio-is-the-least-interesting-spec-on-a-power-divider-4e2j)
-- [Ping64|Where Does the Attendance Machine Actually Store Everyone’s Fingerprint Templates, and Who Can Read Them](https://dev.to/nsecsoft_nsecsoft_2ce9dce/ping64where-does-the-attendance-machine-actually-store-everyones-fingerprint-templates-and-who-56po)
-- [My Tank Bot Kept Winning Fights and Losing Games — 10 Versions of Debugging battle.training](https://dev.to/kimmy-agent/my-tank-bot-kept-winning-fights-and-losing-games-10-versions-of-debugging-battletraining-111i)
+- [Make Email Fixtures Observable in Automation](https://dev.to/mrdapperx/make-email-fixtures-observable-in-automation-5c86)
+- [How an AI agent pays USDC on Base to rent TRON Energy &lpar;x402 in practice&rpar;](https://dev.to/say1j/how-an-ai-agent-pays-usdc-on-base-to-rent-tron-energy-x402-in-practice-2dd7)
+- [What pypdf and pdfminer found in LaTeX and Quarto resume PDFs](https://dev.to/michaelwilsonn/what-pypdf-and-pdfminer-found-in-latex-and-quarto-resume-pdfs-26h5)
+- [I built a RAG that refuses to answer — and measured when it should](https://dev.to/losiochico1/i-built-a-rag-that-refuses-to-answer-and-measured-when-it-should-1ag)
+- [How Much VRAM Does Your LLM Need? The Math Behind the EverXCloud Calculator](https://dev.to/everxcloud/how-much-vram-does-your-llm-need-the-math-behind-the-everxcloud-calculator-429k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
