@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Make Email Fixtures Observable in Automation](https://dev.to/mrdapperx/make-email-fixtures-observable-in-automation-5c86)
-- [How an AI agent pays USDC on Base to rent TRON Energy &lpar;x402 in practice&rpar;](https://dev.to/say1j/how-an-ai-agent-pays-usdc-on-base-to-rent-tron-energy-x402-in-practice-2dd7)
-- [What pypdf and pdfminer found in LaTeX and Quarto resume PDFs](https://dev.to/michaelwilsonn/what-pypdf-and-pdfminer-found-in-latex-and-quarto-resume-pdfs-26h5)
-- [I built a RAG that refuses to answer — and measured when it should](https://dev.to/losiochico1/i-built-a-rag-that-refuses-to-answer-and-measured-when-it-should-1ag)
-- [How Much VRAM Does Your LLM Need? The Math Behind the EverXCloud Calculator](https://dev.to/everxcloud/how-much-vram-does-your-llm-need-the-math-behind-the-everxcloud-calculator-429k)
+- [21 Days to Build a Coding Habit? The Real Study Found 66. Some People Needed 254.](https://dev.to/spartanrich430/21-days-to-build-a-coding-habit-the-real-study-found-66-some-people-needed-254-3ceo)
+- [Same data, different verdicts: canonicalization and receipt lessons from IETF 127](https://dev.to/veritaschain/same-data-different-verdicts-canonicalization-and-receipt-lessons-from-ietf-127-1pac)
+- [pdfjs-dist standard_fonts Missing in Next.js standalone](https://dev.to/cometakaito/pdfjs-dist-standardfonts-missing-in-nextjs-standalone-3i3o)
+- [One clip-path doubled my browser cat&#39;s CPU cost in Chrome&#39;s GPU process](https://dev.to/dmitrii_korotkin/one-clip-path-doubled-my-browser-cats-cpu-cost-in-chromes-gpu-process-3pdb)
+- [The BIGINT Problem Explained](https://dev.to/travisfont/the-bigint-problem-explained-32o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
