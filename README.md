@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps rank tracker: check your Google Maps ranking from every street around you](https://dev.to/aurelix_solutions/google-maps-rank-tracker-check-your-google-maps-ranking-from-every-street-around-you-44ek)
-- [How Earthquake Maps Get Their Data: USGS Feeds, Magnitude Scales, and the Latency Budget](https://dev.to/worldeye_app/how-earthquake-maps-get-their-data-usgs-feeds-magnitude-scales-and-the-latency-budget-2hl8)
-- [Cost culture is not a finance initiative](https://dev.to/vlad_z_16b6320e21f32bee0d/cost-culture-is-not-a-finance-initiative-1bh)
-- [nginx2root: una RCE de 2015 sin contraseña escala a root vía Linux](https://dev.to/lu1tr0n/nginx2root-una-rce-de-2015-sin-contrasena-escala-a-root-via-linux-1inj)
-- [Scheduled Data Cleanup APIs: Cron or Node.js Queues for Different Game File Guarantees](https://dev.to/ashwhispertorvin64/scheduled-data-cleanup-apis-cron-or-nodejs-queues-for-different-game-file-guarantees-4ok9)
+- [Official equip-time stats are not a tier list — so an S–D board still needs a written lens](https://dev.to/neural_ethos/official-equip-time-stats-are-not-a-tier-list-so-an-s-d-board-still-needs-a-written-lens-44n)
+- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization in Muffle](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-in-muffle-4m7a)
+- [From Prompt to a Full Website: A Practical Workflow for AI Coding Agents](https://dev.to/aidy029/from-prompt-to-a-full-website-a-practical-workflow-for-ai-coding-agents-1npk)
+- [Draft a conventional commit in Claude Code with a /commit slash command](https://dev.to/vildandenai/draft-a-conventional-commit-in-claude-code-with-a-commit-slash-command-25ff)
+- [5 Ways Node.js Logistics Thumbnail Pipelines Avoid Object Storage Upload Timeouts](https://dev.to/siegfriedfletcher5869/5-ways-nodejs-logistics-thumbnail-pipelines-avoid-object-storage-upload-timeouts-ndh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
