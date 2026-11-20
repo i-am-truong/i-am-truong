@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [21 Days to Build a Coding Habit? The Real Study Found 66. Some People Needed 254.](https://dev.to/spartanrich430/21-days-to-build-a-coding-habit-the-real-study-found-66-some-people-needed-254-3ceo)
-- [Same data, different verdicts: canonicalization and receipt lessons from IETF 127](https://dev.to/veritaschain/same-data-different-verdicts-canonicalization-and-receipt-lessons-from-ietf-127-1pac)
-- [pdfjs-dist standard_fonts Missing in Next.js standalone](https://dev.to/cometakaito/pdfjs-dist-standardfonts-missing-in-nextjs-standalone-3i3o)
-- [One clip-path doubled my browser cat&#39;s CPU cost in Chrome&#39;s GPU process](https://dev.to/dmitrii_korotkin/one-clip-path-doubled-my-browser-cats-cpu-cost-in-chromes-gpu-process-3pdb)
-- [The BIGINT Problem Explained](https://dev.to/travisfont/the-bigint-problem-explained-32o5)
+- [Export Mailchimp Data with the API: A Node.js Script](https://dev.to/lalitkumarjangid/export-mailchimp-data-with-the-api-a-nodejs-script-1fhc)
+- [Why Poppy Playtime Bet on Unreal Engine 4 Then 5: The Toy-Factory Tech Behind a Kid-Horror Empire](https://dev.to/wlz/why-poppy-playtime-bet-on-unreal-engine-4-then-5-the-toy-factory-tech-behind-a-kid-horror-empire-4k7)
+- [Want to securely transfer files and folders between your local machine and a remote Linux server from the terminal? 🐧
+Meet scp &lpar;Secure Copy&rpar;: Encrypted transfers over SSH—upload with scp file user@ip:/path/, download with a trailing ., or copy full direct](https://dev.to/yash-infra/want-to-securely-transfer-files-and-folders-between-your-local-machine-and-a-remote-linux-server-3gmk)
+- [Next.js cacheComponents: uncached data during prerender fix](https://dev.to/rshday/nextjs-cachecomponents-uncached-data-during-prerender-fix-3kbo)
+- [Running ARM64 Android games on Apple Silicon without instruction translation](https://dev.to/hon6/running-arm64-android-games-on-apple-silicon-without-instruction-translation-4bl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
