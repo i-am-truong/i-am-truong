@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Export Mailchimp Data with the API: A Node.js Script](https://dev.to/lalitkumarjangid/export-mailchimp-data-with-the-api-a-nodejs-script-1fhc)
-- [Why Poppy Playtime Bet on Unreal Engine 4 Then 5: The Toy-Factory Tech Behind a Kid-Horror Empire](https://dev.to/wlz/why-poppy-playtime-bet-on-unreal-engine-4-then-5-the-toy-factory-tech-behind-a-kid-horror-empire-4k7)
-- [Want to securely transfer files and folders between your local machine and a remote Linux server from the terminal? 🐧
-Meet scp &lpar;Secure Copy&rpar;: Encrypted transfers over SSH—upload with scp file user@ip:/path/, download with a trailing ., or copy full direct](https://dev.to/yash-infra/want-to-securely-transfer-files-and-folders-between-your-local-machine-and-a-remote-linux-server-3gmk)
-- [Next.js cacheComponents: uncached data during prerender fix](https://dev.to/rshday/nextjs-cachecomponents-uncached-data-during-prerender-fix-3kbo)
-- [Running ARM64 Android games on Apple Silicon without instruction translation](https://dev.to/hon6/running-arm64-android-games-on-apple-silicon-without-instruction-translation-4bl3)
+- [Cluster Autoscaler not scaling down nodes: finding the reason in its logs](https://dev.to/shinagawa-web/cluster-autoscaler-not-scaling-down-nodes-finding-the-reason-in-its-logs-1742)
+- [How I Built a Marketplace Review Site on WordPress — Lessons on Speed, Structure, and Trust](https://dev.to/magazinbest/how-i-built-a-marketplace-review-site-on-wordpress-lessons-on-speed-structure-and-trust-3llm)
+- [AWS Setup Checklist for Startups: Account Ownership, IAM, MFA, Budgets and Cleanup &lpar;With Configs&rpar;](https://dev.to/utl/aws-setup-checklist-for-startups-account-ownership-iam-mfa-budgets-and-cleanup-with-configs-3l21)
+- [When I say a ticket is fully tested, how sure am I?](https://dev.to/lenzz920/when-i-say-a-ticket-is-fully-tested-how-sure-am-i-2644)
+- [André Dias Moreira Prol explica: Ethereum ou Stellar para tokenizar ativos](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-explica-ethereum-ou-stellar-para-tokenizar-ativos-8lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
