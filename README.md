@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cluster Autoscaler not scaling down nodes: finding the reason in its logs](https://dev.to/shinagawa-web/cluster-autoscaler-not-scaling-down-nodes-finding-the-reason-in-its-logs-1742)
-- [How I Built a Marketplace Review Site on WordPress — Lessons on Speed, Structure, and Trust](https://dev.to/magazinbest/how-i-built-a-marketplace-review-site-on-wordpress-lessons-on-speed-structure-and-trust-3llm)
-- [AWS Setup Checklist for Startups: Account Ownership, IAM, MFA, Budgets and Cleanup &lpar;With Configs&rpar;](https://dev.to/utl/aws-setup-checklist-for-startups-account-ownership-iam-mfa-budgets-and-cleanup-with-configs-3l21)
-- [When I say a ticket is fully tested, how sure am I?](https://dev.to/lenzz920/when-i-say-a-ticket-is-fully-tested-how-sure-am-i-2644)
-- [André Dias Moreira Prol explica: Ethereum ou Stellar para tokenizar ativos](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-explica-ethereum-ou-stellar-para-tokenizar-ativos-8lp)
+- [GPT-6.1 Terra with Microsoft Agent Framework: A PDF Invoice Agent in C#](https://dev.to/taswar_bhatti/gpt-61-terra-with-microsoft-agent-framework-a-pdf-invoice-agent-in-c-1ec7)
+- [Physical AI Evaluation and Benchmarking — Ch.00: Introduction [EN]](https://dev.to/richard_minsoogo/physical-ai-evaluation-and-benchmarking-ch00-introduction-en-3j7h)
+- [Performance Optimization for Real-Time Voice Applications](https://dev.to/voice_developer/performance-optimization-for-real-time-voice-applications-1db3)
+- [Physical AI Evaluation and Benchmarking — Ch.01: Evaluation Philosophy for Physical AI [EN]](https://dev.to/richard_minsoogo/physical-ai-evaluation-and-benchmarking-ch01-evaluation-philosophy-for-physical-ai-en-1c57)
+- [Physical AI Evaluation and Benchmarking — Ch.02: Simulation Benchmarks [EN]](https://dev.to/richard_minsoogo/physical-ai-evaluation-and-benchmarking-ch02-simulation-benchmarks-en-4ba4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
