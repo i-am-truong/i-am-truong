@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who sees what on a shared freight record? Privacy by design on a blockchain](https://dev.to/pratyushshivam/who-sees-what-on-a-shared-freight-record-privacy-by-design-on-a-blockchain-421m)
-- [What Runs First in a Next.js Page: Server Components, Render, Effects](https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2)
-- [Base64 Encoding Is Not Encryption: What Every Developer Should Know](https://dev.to/hoxtools/base64-encoding-is-not-encryption-what-every-developer-should-know-2o14)
-- [Splitting One Provider Per Platform: Why Facebook and YouTube Got Dedicated APIs](https://dev.to/mobeenahmedgondal/splitting-one-provider-per-platform-why-facebook-and-youtube-got-dedicated-apis-94k)
-- [I Built a $0-Fee, 0%-Cut Open Indie Game Storefront to Break the $100 Steam Direct Barrier &lpar;30 Languages &amp; 29-Currency Auto-Conversion&rpar;](https://dev.to/prabbit/i-built-a-0-fee-0-cut-open-indie-game-storefront-to-break-the-100-steam-direct-barrier-30-4ldn)
+- [Counting usage in a video editor: per action, per hour, or per uploaded minute?](https://dev.to/mo-cutoraai/counting-usage-in-a-video-editor-per-action-per-hour-or-per-uploaded-minute-1k22)
+- [Player Reminder Scheduling API: Email, SMS, Push After Nightly Settlement](https://dev.to/finneganblake3578/player-reminder-scheduling-api-email-sms-push-after-nightly-settlement-2i3p)
+- [Upbeat: a choir that comes in on your breath](https://dev.to/faris-khan/upbeat-a-choir-that-comes-in-on-your-breath-2b24)
+- [Anthropic&#39;s $81.3 Billion IPO Tests Its Safety Promise and Compute Bet](https://dev.to/kami_butt_69b922ade8de012/anthropics-813-billion-ipo-tests-its-safety-promise-and-compute-bet-31cm)
+- [TI-84 ERR:DIM MISMATCH? The Sizes Don&#39;t Line Up &lpar;3 Causes &amp; Fixes&rpar;](https://dev.to/freeti84calculator/ti-84-errdim-mismatch-the-sizes-dont-line-up-3-causes-fixes-3flm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
