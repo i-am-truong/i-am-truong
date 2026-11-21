@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps Scraper vs. Places API vs. Data Vendor: An Honest Comparison](https://dev.to/axioapi/google-maps-scraper-vs-places-api-vs-data-vendor-an-honest-comparison-3lpj)
-- [How I Changed One Line of Dialogue with MiniMax H3](https://dev.to/lee_xiaoyuan_a97212d2f33b/how-i-changed-one-line-of-dialogue-with-minimax-h3-37d6)
-- [Midjourney vs DALL-E 4 vs Flux: Image Generators in 2026](https://dev.to/guang_diyuzhi_74b0fec2c09/midjourney-vs-dall-e-4-vs-flux-image-generators-in-2026-58di)
-- [The Complete Guide to Voice AI Security and Privacy](https://dev.to/voice_developer/the-complete-guide-to-voice-ai-security-and-privacy-hog)
-- [Salesforce Statistics 2026: $41.5B in FY26 Revenue, and Agentforce ARR Up 240%](https://dev.to/saasstatshub/salesforce-statistics-2026-415b-in-fy26-revenue-and-agentforce-arr-up-240-271k)
+- [Self-host n8n on a VPS with Docker and Caddy &lpar;and claim the owner account before anyone else does&rpar;](https://dev.to/jeemmo/self-host-n8n-on-a-vps-with-docker-and-caddy-and-claim-the-owner-account-before-anyone-else-does-2bkk)
+- [Introducing Lawra: An Anonymous Social Platform for Free Expression](https://dev.to/mrx46/introducing-lawra-an-anonymous-social-platform-for-free-expression-17on)
+- [I Tried to Lie to Both Agent Games Circuits. Both Said No.](https://dev.to/sendyarf/i-tried-to-lie-to-both-agent-games-circuits-both-said-no-57gl)
+- [Two Rails Called x402: AWS Invoice vs Wallet-Signed USDC](https://dev.to/minia2a/two-rails-called-x402-aws-invoice-vs-wallet-signed-usdc-2ohf)
+- [Checking Codex and Claude Code usage on iPhone and Apple Watch](https://dev.to/hakumataczyy/checking-codex-and-claude-code-usage-on-iphone-and-apple-watch-m4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
