@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GPT-6.1 Terra with Microsoft Agent Framework: A PDF Invoice Agent in C#](https://dev.to/taswar_bhatti/gpt-61-terra-with-microsoft-agent-framework-a-pdf-invoice-agent-in-c-1ec7)
-- [Physical AI Evaluation and Benchmarking — Ch.00: Introduction [EN]](https://dev.to/richard_minsoogo/physical-ai-evaluation-and-benchmarking-ch00-introduction-en-3j7h)
-- [Performance Optimization for Real-Time Voice Applications](https://dev.to/voice_developer/performance-optimization-for-real-time-voice-applications-1db3)
-- [Physical AI Evaluation and Benchmarking — Ch.01: Evaluation Philosophy for Physical AI [EN]](https://dev.to/richard_minsoogo/physical-ai-evaluation-and-benchmarking-ch01-evaluation-philosophy-for-physical-ai-en-1c57)
-- [Physical AI Evaluation and Benchmarking — Ch.02: Simulation Benchmarks [EN]](https://dev.to/richard_minsoogo/physical-ai-evaluation-and-benchmarking-ch02-simulation-benchmarks-en-4ba4)
+- [Google Maps Scraper vs. Places API vs. Data Vendor: An Honest Comparison](https://dev.to/axioapi/google-maps-scraper-vs-places-api-vs-data-vendor-an-honest-comparison-3lpj)
+- [How I Changed One Line of Dialogue with MiniMax H3](https://dev.to/lee_xiaoyuan_a97212d2f33b/how-i-changed-one-line-of-dialogue-with-minimax-h3-37d6)
+- [Midjourney vs DALL-E 4 vs Flux: Image Generators in 2026](https://dev.to/guang_diyuzhi_74b0fec2c09/midjourney-vs-dall-e-4-vs-flux-image-generators-in-2026-58di)
+- [The Complete Guide to Voice AI Security and Privacy](https://dev.to/voice_developer/the-complete-guide-to-voice-ai-security-and-privacy-hog)
+- [Salesforce Statistics 2026: $41.5B in FY26 Revenue, and Agentforce ARR Up 240%](https://dev.to/saasstatshub/salesforce-statistics-2026-415b-in-fy26-revenue-and-agentforce-arr-up-240-271k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
