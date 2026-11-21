@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Self-host n8n on a VPS with Docker and Caddy &lpar;and claim the owner account before anyone else does&rpar;](https://dev.to/jeemmo/self-host-n8n-on-a-vps-with-docker-and-caddy-and-claim-the-owner-account-before-anyone-else-does-2bkk)
-- [Introducing Lawra: An Anonymous Social Platform for Free Expression](https://dev.to/mrx46/introducing-lawra-an-anonymous-social-platform-for-free-expression-17on)
-- [I Tried to Lie to Both Agent Games Circuits. Both Said No.](https://dev.to/sendyarf/i-tried-to-lie-to-both-agent-games-circuits-both-said-no-57gl)
-- [Two Rails Called x402: AWS Invoice vs Wallet-Signed USDC](https://dev.to/minia2a/two-rails-called-x402-aws-invoice-vs-wallet-signed-usdc-2ohf)
-- [Checking Codex and Claude Code usage on iPhone and Apple Watch](https://dev.to/hakumataczyy/checking-codex-and-claude-code-usage-on-iphone-and-apple-watch-m4e)
+- [Who sees what on a shared freight record? Privacy by design on a blockchain](https://dev.to/pratyushshivam/who-sees-what-on-a-shared-freight-record-privacy-by-design-on-a-blockchain-421m)
+- [What Runs First in a Next.js Page: Server Components, Render, Effects](https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2)
+- [Base64 Encoding Is Not Encryption: What Every Developer Should Know](https://dev.to/hoxtools/base64-encoding-is-not-encryption-what-every-developer-should-know-2o14)
+- [Splitting One Provider Per Platform: Why Facebook and YouTube Got Dedicated APIs](https://dev.to/mobeenahmedgondal/splitting-one-provider-per-platform-why-facebook-and-youtube-got-dedicated-apis-94k)
+- [I Built a $0-Fee, 0%-Cut Open Indie Game Storefront to Break the $100 Steam Direct Barrier &lpar;30 Languages &amp; 29-Currency Auto-Conversion&rpar;](https://dev.to/prabbit/i-built-a-0-fee-0-cut-open-indie-game-storefront-to-break-the-100-steam-direct-barrier-30-4ldn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
