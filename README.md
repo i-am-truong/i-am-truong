@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Creator Bio That Gets Follows &lpar;2026&rpar;: Score Your Drafts, Keep One Call to Action, Cut Unproven Claims](https://dev.to/agentworkshop/how-to-write-a-creator-bio-that-gets-follows-2026-score-your-drafts-keep-one-call-to-action-4c87)
-- [QR Code Generator: Why Half My Printed Tickets Refuse to Scan](https://dev.to/meng_meng_56f17e28e55f140/qr-code-generator-why-half-my-printed-tickets-refuse-to-scan-2739)
-- [Logistics Renewal Deadlines: When Should Failed Webhook Jobs Use a Delayed Queue or Cron?](https://dev.to/arthurfinley2291/logistics-renewal-deadlines-when-should-failed-webhook-jobs-use-a-delayed-queue-or-cron-1k3)
-- [How Many Websites Use Visa? 1,022,781 Sites and How to Check a Card Mark Yourself](https://dev.to/webatla/how-many-websites-use-visa-1022781-sites-and-how-to-check-a-card-mark-yourself-32a1)
-- [My Safari extension hides YouTube Shorts, but links still open the YouTube app. What works on iPhone? &lpar;2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/my-safari-extension-hides-youtube-shorts-but-links-still-open-the-youtube-app-what-works-on-43db)
+- [Found a Cracked Copy of Your App? A Practical Response Plan for Indie Devs](https://dev.to/permitcore/found-a-cracked-copy-of-your-app-a-practical-response-plan-for-indie-devs-a2p)
+- [Is AER-1 an official IETF standard?](https://dev.to/rambozambo/is-aer-1-an-official-ietf-standard-in8)
+- [PHP PDO and SQLite: SQL Injection, Shown Then Fixed](https://dev.to/tlaboratory/php-pdo-and-sqlite-sql-injection-shown-then-fixed-17m9)
+- [I Compared File Sizes of 5 AI Staging Tools. The Smallest File Wasn&#39;t the Worst One.](https://dev.to/tony12548/i-compared-file-sizes-of-5-ai-staging-tools-the-smallest-file-wasnt-the-worst-one-2ife)
+- [Prometheus native histograms: the end of fixed buckets?](https://dev.to/spanobserver/prometheus-native-histograms-the-end-of-fixed-buckets-3im3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
