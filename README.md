@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Counting usage in a video editor: per action, per hour, or per uploaded minute?](https://dev.to/mo-cutoraai/counting-usage-in-a-video-editor-per-action-per-hour-or-per-uploaded-minute-1k22)
-- [Player Reminder Scheduling API: Email, SMS, Push After Nightly Settlement](https://dev.to/finneganblake3578/player-reminder-scheduling-api-email-sms-push-after-nightly-settlement-2i3p)
-- [Upbeat: a choir that comes in on your breath](https://dev.to/faris-khan/upbeat-a-choir-that-comes-in-on-your-breath-2b24)
-- [Anthropic&#39;s $81.3 Billion IPO Tests Its Safety Promise and Compute Bet](https://dev.to/kami_butt_69b922ade8de012/anthropics-813-billion-ipo-tests-its-safety-promise-and-compute-bet-31cm)
-- [TI-84 ERR:DIM MISMATCH? The Sizes Don&#39;t Line Up &lpar;3 Causes &amp; Fixes&rpar;](https://dev.to/freeti84calculator/ti-84-errdim-mismatch-the-sizes-dont-line-up-3-causes-fixes-3flm)
+- [How to Write a Creator Bio That Gets Follows &lpar;2026&rpar;: Score Your Drafts, Keep One Call to Action, Cut Unproven Claims](https://dev.to/agentworkshop/how-to-write-a-creator-bio-that-gets-follows-2026-score-your-drafts-keep-one-call-to-action-4c87)
+- [QR Code Generator: Why Half My Printed Tickets Refuse to Scan](https://dev.to/meng_meng_56f17e28e55f140/qr-code-generator-why-half-my-printed-tickets-refuse-to-scan-2739)
+- [Logistics Renewal Deadlines: When Should Failed Webhook Jobs Use a Delayed Queue or Cron?](https://dev.to/arthurfinley2291/logistics-renewal-deadlines-when-should-failed-webhook-jobs-use-a-delayed-queue-or-cron-1k3)
+- [How Many Websites Use Visa? 1,022,781 Sites and How to Check a Card Mark Yourself](https://dev.to/webatla/how-many-websites-use-visa-1022781-sites-and-how-to-check-a-card-mark-yourself-32a1)
+- [My Safari extension hides YouTube Shorts, but links still open the YouTube app. What works on iPhone? &lpar;2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/my-safari-extension-hides-youtube-shorts-but-links-still-open-the-youtube-app-what-works-on-43db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
