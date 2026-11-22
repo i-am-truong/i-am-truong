@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Prompt Mistakes That Quietly Break an AI Trading Strategy](https://dev.to/gertnygaard/7-prompt-mistakes-that-quietly-break-an-ai-trading-strategy-min)
-- [Contract testing without the tests](https://dev.to/graphwake/contract-testing-without-the-tests-15i7)
-- [Modeling &quot;who calls this endpoint&quot; as a graph of teams](https://dev.to/graphwake/modeling-who-calls-this-endpoint-as-a-graph-of-teams-5806)
-- [Take your BASH scripting seriously part II](https://dev.to/jessp01/take-your-bash-scripting-seriously-part-ii-561f)
-- [Why &amp; How I Built a 100% Browser-Local Bank Statement PDF Reconciler in TypeScript &lpar;Zero Backend, $0 Hosting&rpar;](https://dev.to/codexsms/why-how-i-built-a-100-browser-local-bank-statement-pdf-reconciler-in-typescript-zero-backend-2efo)
+- [Upgrading a kubeadm Cluster from Kubernetes 1.35 to 1.36](https://dev.to/kobbyprincee/upgrading-a-kubeadm-cluster-from-kubernetes-135-to-136-6e9)
+- [Architecting AI Agent Memory: Short-Term vs. Long-Term](https://dev.to/tanmay2627/architecting-ai-agent-memory-short-term-vs-long-term-1c3a)
+- [agy-powerline 2.0.0 发布：为 Google Antigravity CLI 打造的状态栏仪表盘](https://dev.to/wassim-azi/agy-powerline-200-fa-bu-wei-google-antigravity-cli-da-zao-de-zhuang-tai-lan-yi-biao-pan-1bob)
+- [I built Tifo, a player for your own media on Apple devices](https://dev.to/allkidsthisdays_96afb4ad6/i-built-tifo-a-player-for-your-own-media-on-apple-devices-569m)
+- [Chunk Boundaries and Freshness in Travel Itinerary Retrieval Architecture](https://dev.to/quentinbarrett5281/chunk-boundaries-and-freshness-in-travel-itinerary-retrieval-architecture-1h0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
