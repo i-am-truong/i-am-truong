@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Found a Cracked Copy of Your App? A Practical Response Plan for Indie Devs](https://dev.to/permitcore/found-a-cracked-copy-of-your-app-a-practical-response-plan-for-indie-devs-a2p)
-- [Is AER-1 an official IETF standard?](https://dev.to/rambozambo/is-aer-1-an-official-ietf-standard-in8)
-- [PHP PDO and SQLite: SQL Injection, Shown Then Fixed](https://dev.to/tlaboratory/php-pdo-and-sqlite-sql-injection-shown-then-fixed-17m9)
-- [I Compared File Sizes of 5 AI Staging Tools. The Smallest File Wasn&#39;t the Worst One.](https://dev.to/tony12548/i-compared-file-sizes-of-5-ai-staging-tools-the-smallest-file-wasnt-the-worst-one-2ife)
-- [Prometheus native histograms: the end of fixed buckets?](https://dev.to/spanobserver/prometheus-native-histograms-the-end-of-fixed-buckets-3im3)
+- [7 Prompt Mistakes That Quietly Break an AI Trading Strategy](https://dev.to/gertnygaard/7-prompt-mistakes-that-quietly-break-an-ai-trading-strategy-min)
+- [Contract testing without the tests](https://dev.to/graphwake/contract-testing-without-the-tests-15i7)
+- [Modeling &quot;who calls this endpoint&quot; as a graph of teams](https://dev.to/graphwake/modeling-who-calls-this-endpoint-as-a-graph-of-teams-5806)
+- [Take your BASH scripting seriously part II](https://dev.to/jessp01/take-your-bash-scripting-seriously-part-ii-561f)
+- [Why &amp; How I Built a 100% Browser-Local Bank Statement PDF Reconciler in TypeScript &lpar;Zero Backend, $0 Hosting&rpar;](https://dev.to/codexsms/why-how-i-built-a-100-browser-local-bank-statement-pdf-reconciler-in-typescript-zero-backend-2efo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
