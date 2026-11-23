@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading a kubeadm Cluster from Kubernetes 1.35 to 1.36](https://dev.to/kobbyprincee/upgrading-a-kubeadm-cluster-from-kubernetes-135-to-136-6e9)
-- [Architecting AI Agent Memory: Short-Term vs. Long-Term](https://dev.to/tanmay2627/architecting-ai-agent-memory-short-term-vs-long-term-1c3a)
-- [agy-powerline 2.0.0 发布：为 Google Antigravity CLI 打造的状态栏仪表盘](https://dev.to/wassim-azi/agy-powerline-200-fa-bu-wei-google-antigravity-cli-da-zao-de-zhuang-tai-lan-yi-biao-pan-1bob)
-- [I built Tifo, a player for your own media on Apple devices](https://dev.to/allkidsthisdays_96afb4ad6/i-built-tifo-a-player-for-your-own-media-on-apple-devices-569m)
-- [Chunk Boundaries and Freshness in Travel Itinerary Retrieval Architecture](https://dev.to/quentinbarrett5281/chunk-boundaries-and-freshness-in-travel-itinerary-retrieval-architecture-1h0m)
+- [Handling Multi-Person Slot Binding and Mixed Aspect Ratios &lpar;4:3, 16:9 9:16&rpar; in Short-Form AI Video Pipelines](https://dev.to/samebutme/handling-multi-person-slot-binding-and-mixed-aspect-ratios-43-169-916-in-short-form-ai-4a5d)
+- [16 people guessed how well they read AI code. Most were wrong.](https://dev.to/anirudh_3eb6e4f31cae95630/16-people-guessed-how-well-they-read-ai-code-most-were-wrong-28m1)
+- [Why I chose software engineering](https://dev.to/leonel_codes/why-i-chose-software-engineering-45n7)
+- [Validate Pandas DataFrames with Pandera](https://dev.to/ali_82f3409ed625e8ba8515b/validate-pandas-dataframes-with-pandera-4ef3)
+- [How to Build Cache-Aware Retrieval for an Online Course Tutor — Freshness First](https://dev.to/midnightecho794261/how-to-build-cache-aware-retrieval-for-an-online-course-tutor-freshness-first-40d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
