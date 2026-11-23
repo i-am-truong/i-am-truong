@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling Multi-Person Slot Binding and Mixed Aspect Ratios &lpar;4:3, 16:9 9:16&rpar; in Short-Form AI Video Pipelines](https://dev.to/samebutme/handling-multi-person-slot-binding-and-mixed-aspect-ratios-43-169-916-in-short-form-ai-4a5d)
-- [16 people guessed how well they read AI code. Most were wrong.](https://dev.to/anirudh_3eb6e4f31cae95630/16-people-guessed-how-well-they-read-ai-code-most-were-wrong-28m1)
-- [Why I chose software engineering](https://dev.to/leonel_codes/why-i-chose-software-engineering-45n7)
-- [Validate Pandas DataFrames with Pandera](https://dev.to/ali_82f3409ed625e8ba8515b/validate-pandas-dataframes-with-pandera-4ef3)
-- [How to Build Cache-Aware Retrieval for an Online Course Tutor — Freshness First](https://dev.to/midnightecho794261/how-to-build-cache-aware-retrieval-for-an-online-course-tutor-freshness-first-40d9)
+- [EU Moves To Ban Fake &#39;Only 1 Left&#39; Alerts And Sneaky Subscriptions](https://dev.to/fathomnews/eu-moves-to-ban-fake-only-1-left-alerts-and-sneaky-subscriptions-3lna)
+- [Why Claude Code&#39;s Plan Mode Works: Interleaved Read-Write Loops vs. a Two-Phase Read-Only Plan Lock &lpar;-94.8% Input Tokens&rpar;](https://dev.to/tappers_/why-claude-codes-plan-mode-works-interleaved-read-write-loops-vs-a-two-phase-read-only-plan-lock-2g31)
+- [The AI Compute Crisis: How AWS Is Addressing Infrastructure Scarcity, Scaling AI Products and Securing the Next Generation of AI Workloads](https://dev.to/solayunus/the-ai-compute-crisis-how-aws-is-addressing-infrastructure-scarcity-scaling-ai-products-and-2108)
+- [My local AI invented a receipt. It passed my math check.](https://dev.to/aicryptosystems/my-local-ai-invented-a-receipt-it-passed-my-math-check-4g8f)
+- [Bath Mat and Rug Sizing: A JSON Dataset Plus the Two Clearance Rules](https://dev.to/yesneat/bath-mat-and-rug-sizing-a-json-dataset-plus-the-two-clearance-rules-1iac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
