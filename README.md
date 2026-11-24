@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Readers Found Two Gaps in My AI Agent&#39;s Review Rules. Undoing an Approval Now Needs Its Own Flag.](https://dev.to/hexisteme/readers-found-two-gaps-in-my-ai-agents-review-rules-undoing-an-approval-now-needs-its-own-flag-3ce4)
-- [Chatbot or AI Agent? A Practical Way to Tell Which One You Need](https://dev.to/binateai/chatbot-or-ai-agent-a-practical-way-to-tell-which-one-you-need-ge4)
-- [Choose an Absolute Tolerance When Comparing a Float with Zero](https://dev.to/tokenpeakai/choose-an-absolute-tolerance-when-comparing-a-float-with-zero-4g6j)
-- [Deterministic Guardrails Around Learned Physical Policies](https://dev.to/shawdaimarie/deterministic-guardrails-around-learned-physical-policies-4hcc)
-- [How do you prove a smaller checkpoint hasn&#39;t lost accuracy? &lpar;not just &quot;trust me&quot;&rpar;](https://dev.to/durveshhhhh/how-do-you-prove-a-smaller-checkpoint-hasnt-lost-accuracy-not-just-trust-me-lo)
+- [We Built an Internal AI Knowledge Assistant. Here&#39;s What Context Engineering Taught Us.](https://dev.to/mvvishnu/we-built-an-internal-ai-knowledge-assistant-heres-what-context-engineering-taught-us-1l7j)
+- [Separate the Job, the Run, and the Worker Claim](https://dev.to/smtasker-official/separate-the-job-the-run-and-the-worker-claim-bnp)
+- [OpenAI and Cisco Open-Source Shirudo eBPF Shields for Running Linux — Dual-Track WASAPI Still Sets the Overlay Floor](https://dev.to/madnessbrains_i/openai-and-cisco-open-source-shirudo-ebpf-shields-for-running-linux-dual-track-wasapi-still-sets-4pko)
+- [Why Browser AVIF-to-JPG/PNG Converters Bloat File Size &lpar;and How Binary Search + PNG-8 Fixes It&rpar;](https://dev.to/omnitoolsnet/why-browser-avif-to-jpgpng-converters-bloat-file-size-and-how-binary-search-png-8-fixes-it-26dj)
+- [Kubernetes events: how to read, keep and alert on them](https://dev.to/spanobserver/kubernetes-events-how-to-read-keep-and-alert-on-them-c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
