@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EU Moves To Ban Fake &#39;Only 1 Left&#39; Alerts And Sneaky Subscriptions](https://dev.to/fathomnews/eu-moves-to-ban-fake-only-1-left-alerts-and-sneaky-subscriptions-3lna)
-- [Why Claude Code&#39;s Plan Mode Works: Interleaved Read-Write Loops vs. a Two-Phase Read-Only Plan Lock &lpar;-94.8% Input Tokens&rpar;](https://dev.to/tappers_/why-claude-codes-plan-mode-works-interleaved-read-write-loops-vs-a-two-phase-read-only-plan-lock-2g31)
-- [The AI Compute Crisis: How AWS Is Addressing Infrastructure Scarcity, Scaling AI Products and Securing the Next Generation of AI Workloads](https://dev.to/solayunus/the-ai-compute-crisis-how-aws-is-addressing-infrastructure-scarcity-scaling-ai-products-and-2108)
-- [My local AI invented a receipt. It passed my math check.](https://dev.to/aicryptosystems/my-local-ai-invented-a-receipt-it-passed-my-math-check-4g8f)
-- [Bath Mat and Rug Sizing: A JSON Dataset Plus the Two Clearance Rules](https://dev.to/yesneat/bath-mat-and-rug-sizing-a-json-dataset-plus-the-two-clearance-rules-1iac)
+- [Readers Found Two Gaps in My AI Agent&#39;s Review Rules. Undoing an Approval Now Needs Its Own Flag.](https://dev.to/hexisteme/readers-found-two-gaps-in-my-ai-agents-review-rules-undoing-an-approval-now-needs-its-own-flag-3ce4)
+- [Chatbot or AI Agent? A Practical Way to Tell Which One You Need](https://dev.to/binateai/chatbot-or-ai-agent-a-practical-way-to-tell-which-one-you-need-ge4)
+- [Choose an Absolute Tolerance When Comparing a Float with Zero](https://dev.to/tokenpeakai/choose-an-absolute-tolerance-when-comparing-a-float-with-zero-4g6j)
+- [Deterministic Guardrails Around Learned Physical Policies](https://dev.to/shawdaimarie/deterministic-guardrails-around-learned-physical-policies-4hcc)
+- [How do you prove a smaller checkpoint hasn&#39;t lost accuracy? &lpar;not just &quot;trust me&quot;&rpar;](https://dev.to/durveshhhhh/how-do-you-prove-a-smaller-checkpoint-hasnt-lost-accuracy-not-just-trust-me-lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
