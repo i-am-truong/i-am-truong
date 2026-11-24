@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built an Internal AI Knowledge Assistant. Here&#39;s What Context Engineering Taught Us.](https://dev.to/mvvishnu/we-built-an-internal-ai-knowledge-assistant-heres-what-context-engineering-taught-us-1l7j)
-- [Separate the Job, the Run, and the Worker Claim](https://dev.to/smtasker-official/separate-the-job-the-run-and-the-worker-claim-bnp)
-- [OpenAI and Cisco Open-Source Shirudo eBPF Shields for Running Linux — Dual-Track WASAPI Still Sets the Overlay Floor](https://dev.to/madnessbrains_i/openai-and-cisco-open-source-shirudo-ebpf-shields-for-running-linux-dual-track-wasapi-still-sets-4pko)
-- [Why Browser AVIF-to-JPG/PNG Converters Bloat File Size &lpar;and How Binary Search + PNG-8 Fixes It&rpar;](https://dev.to/omnitoolsnet/why-browser-avif-to-jpgpng-converters-bloat-file-size-and-how-binary-search-png-8-fixes-it-26dj)
-- [Kubernetes events: how to read, keep and alert on them](https://dev.to/spanobserver/kubernetes-events-how-to-read-keep-and-alert-on-them-c5)
+- [I scanned 5,800 Mauritian businesses on OpenStreetMap for free. Here&#39;s what I found.](https://dev.to/omran_aogrl/i-scanned-5800-mauritian-businesses-on-openstreetmap-for-free-heres-what-i-found-470m)
+- [நாள் 1: Python என்றால் என்ன? ஏன் முதலில் Python கற்க வேண்டும்?](https://dev.to/premdev/naall-1-python-ennnrraal-ennnnnn-eennn-mutlil-python-krrk-veennttum-537i)
+- [Which weather model actually gets the Alps right? Six weeks against mountain stations](https://dev.to/unixsysdev/which-weather-model-actually-gets-the-alps-right-six-weeks-against-mountain-stations-22fp)
+- [Every Error From My API Looks the Same Too: A Global Exception Filter in NestJS &lpar;With Real Code&rpar;](https://dev.to/ziadtaha/every-error-from-my-api-looks-the-same-too-a-global-exception-filter-in-nestjs-with-real-code-5fpj)
+- [What a coding agent does with a failing test when it can&#39;t see the test&#39;s history](https://dev.to/adrianxping/what-a-coding-agent-does-with-a-failing-test-when-it-cant-see-the-tests-history-474i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
