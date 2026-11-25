@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your name lives in an email address too. Test it there first](https://dev.to/amineoua/your-name-lives-in-an-email-address-too-test-it-there-first-489a)
-- [Microsoft 365 Gateway Failure: How an Ejection Loop Turned Degradation Into a Cascading Outage](https://dev.to/buildopsy/microsoft-365-gateway-failure-how-an-ejection-loop-turned-degradation-into-a-cascading-outage-46l)
-- [ERP Software in Bangladesh: A Buyer&#39;s Guide](https://dev.to/mohammad_zakirhossain_5c/erp-software-in-bangladesh-a-buyers-guide-19ib)
-- [Split judgement from arithmetic: analysing conversations with an ensemble, not one model](https://dev.to/mnemonicaai/split-judgement-from-arithmetic-analysing-conversations-with-an-ensemble-not-one-model-32eh)
-- [When a Rockstar Recomp Gets Banned: Lessons from the Leonida GitHub Incident](https://dev.to/naveenmalothu/when-a-rockstar-recomp-gets-banned-lessons-from-the-leonida-github-incident-3lb8)
+- [A 24-hour rule that isn&#39;t in the regulation everyone cites](https://dev.to/hcxshh/a-24-hour-rule-that-isnt-in-the-regulation-everyone-cites-247h)
+- [Designing a daily game around answer rarity](https://dev.to/andrecoleman_mn/designing-a-daily-game-around-answer-rarity-35jf)
+- [How I Built a Zero-Log, Accountless Web Chat with In-Memory Sessions and Hardened Nginx](https://dev.to/ati242/how-i-built-a-zero-log-accountless-web-chat-with-in-memory-sessions-and-hardened-nginx-1j1n)
+- [Your React Native checkout forgets everything when the OS kills the app. Here&#39;s a fix.](https://dev.to/imdvlpr_/your-react-native-checkout-forgets-everything-when-the-os-kills-the-app-heres-a-fix-38c2)
+- [Recommended Logging Backend for Capturing and Searching Application Logs: A Fintech Evidence Framework](https://dev.to/ashtonblake6879/recommended-logging-backend-for-capturing-and-searching-application-logs-a-fintech-evidence-i99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
