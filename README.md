@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I scanned 5,800 Mauritian businesses on OpenStreetMap for free. Here&#39;s what I found.](https://dev.to/omran_aogrl/i-scanned-5800-mauritian-businesses-on-openstreetmap-for-free-heres-what-i-found-470m)
-- [நாள் 1: Python என்றால் என்ன? ஏன் முதலில் Python கற்க வேண்டும்?](https://dev.to/premdev/naall-1-python-ennnrraal-ennnnnn-eennn-mutlil-python-krrk-veennttum-537i)
-- [Which weather model actually gets the Alps right? Six weeks against mountain stations](https://dev.to/unixsysdev/which-weather-model-actually-gets-the-alps-right-six-weeks-against-mountain-stations-22fp)
-- [Every Error From My API Looks the Same Too: A Global Exception Filter in NestJS &lpar;With Real Code&rpar;](https://dev.to/ziadtaha/every-error-from-my-api-looks-the-same-too-a-global-exception-filter-in-nestjs-with-real-code-5fpj)
-- [What a coding agent does with a failing test when it can&#39;t see the test&#39;s history](https://dev.to/adrianxping/what-a-coding-agent-does-with-a-failing-test-when-it-cant-see-the-tests-history-474i)
+- [ThreeRT: Separating Agent Scene Authoring from GPU Rendering](https://dev.to/meshyai/threert-separating-agent-scene-authoring-from-gpu-rendering-2n52)
+- [How to Build an SEO and AI Search Visibility Workflow in Python with Olostep](https://dev.to/balapriya/how-to-build-an-seo-and-ai-search-visibility-workflow-in-python-with-olostep-2hgp)
+- [Claude Ship: The Merge Button Now Belongs to a Policy File](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-ship-the-merge-button-now-belongs-to-a-policy-file-454i)
+- [AI alt text, SEO and translation in a Nuxt or Next.js CMS, set up from the admin](https://dev.to/kanawoot_korsang_5be7c94a/ai-alt-text-seo-and-translation-in-a-nuxt-or-nextjs-cms-set-up-from-the-admin-10ea)
+- [Writing a Deterministic Line-Logic Nonogram Solver in Pure JavaScript &lpar;No Guessing&rpar;](https://dev.to/yang_rocky_2ac2041abd9a8c/writing-a-deterministic-line-logic-nonogram-solver-in-pure-javascript-no-guessing-3klk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
