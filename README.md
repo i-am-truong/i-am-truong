@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ThreeRT: Separating Agent Scene Authoring from GPU Rendering](https://dev.to/meshyai/threert-separating-agent-scene-authoring-from-gpu-rendering-2n52)
-- [How to Build an SEO and AI Search Visibility Workflow in Python with Olostep](https://dev.to/balapriya/how-to-build-an-seo-and-ai-search-visibility-workflow-in-python-with-olostep-2hgp)
-- [Claude Ship: The Merge Button Now Belongs to a Policy File](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-ship-the-merge-button-now-belongs-to-a-policy-file-454i)
-- [AI alt text, SEO and translation in a Nuxt or Next.js CMS, set up from the admin](https://dev.to/kanawoot_korsang_5be7c94a/ai-alt-text-seo-and-translation-in-a-nuxt-or-nextjs-cms-set-up-from-the-admin-10ea)
-- [Writing a Deterministic Line-Logic Nonogram Solver in Pure JavaScript &lpar;No Guessing&rpar;](https://dev.to/yang_rocky_2ac2041abd9a8c/writing-a-deterministic-line-logic-nonogram-solver-in-pure-javascript-no-guessing-3klk)
+- [Your name lives in an email address too. Test it there first](https://dev.to/amineoua/your-name-lives-in-an-email-address-too-test-it-there-first-489a)
+- [Microsoft 365 Gateway Failure: How an Ejection Loop Turned Degradation Into a Cascading Outage](https://dev.to/buildopsy/microsoft-365-gateway-failure-how-an-ejection-loop-turned-degradation-into-a-cascading-outage-46l)
+- [ERP Software in Bangladesh: A Buyer&#39;s Guide](https://dev.to/mohammad_zakirhossain_5c/erp-software-in-bangladesh-a-buyers-guide-19ib)
+- [Split judgement from arithmetic: analysing conversations with an ensemble, not one model](https://dev.to/mnemonicaai/split-judgement-from-arithmetic-analysing-conversations-with-an-ensemble-not-one-model-32eh)
+- [When a Rockstar Recomp Gets Banned: Lessons from the Leonida GitHub Incident](https://dev.to/naveenmalothu/when-a-rockstar-recomp-gets-banned-lessons-from-the-leonida-github-incident-3lb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
