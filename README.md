@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Command Sourcing vs Event Sourcing](https://dev.to/rinn7e/command-sourcing-vs-event-sourcing-12i6)
-- [Japan&#39;s EDINET filings as a clean JSON API — no XBRL parsing required](https://dev.to/ka1tetsu/japans-edinet-filings-as-a-clean-json-api-no-xbrl-parsing-required-5b1)
-- [60 FPS Remote Desktop Over 4G/5G CGNAT: Direct WebRTC P2P vs Encrypted TURN Relay](https://dev.to/ayon_jodder_17efb1181fb16/60-fps-remote-desktop-over-4g5g-cgnat-direct-webrtc-p2p-vs-encrypted-turn-relay-1kk)
-- [Caching search results: what to store, what to refuse, and the hit rate that pays for it](https://dev.to/petix_pleasure_2bbaae7ce9/caching-search-results-what-to-store-what-to-refuse-and-the-hit-rate-that-pays-for-it-1oi4)
-- [We&#39;re Exploring a Better Way to Create Product Demo Videos with AI](https://dev.to/demoly_ai/were-exploring-a-better-way-to-create-product-demo-videos-with-ai-2fb3)
+- [Building a Universal SSO Sample Implementation: From Heterogeneous Protocols to a Pluggable Go Gateway &amp; Multi-Language Clients](https://dev.to/aairom/building-a-universal-sso-sample-implementation-from-heterogeneous-protocols-to-a-pluggable-go-797)
+- [Doces ou travessuras do Kiro #2: edição de novembro](https://dev.to/iago_elion/doces-ou-travessuras-do-kiro-2-edicao-de-novembro-48eh)
+- [RepoDNA v1.5.4 Released: Browser Storage Reliability and Safer Analysis Restoration](https://dev.to/sanskarin/repodna-v154-released-browser-storage-reliability-and-safer-analysis-restoration-3890)
+- [CloudFormation Adds 206 Resource Types: How to Check Which Gaps You Can Close](https://dev.to/damogallagher/cloudformation-adds-206-resource-types-how-to-check-which-gaps-you-can-close-j0c)
+- [llama.cpp v1.1.0 in 415 Commits: Slot Scheduler Refactor, Prompt-Cache Restore Fixes, and What to Retest Before You Upgrade a Local Server](https://dev.to/wolfsea2357/llamacpp-v110-in-415-commits-slot-scheduler-refactor-prompt-cache-restore-fixes-and-what-to-3pl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
