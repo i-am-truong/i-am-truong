@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Universal SSO Sample Implementation: From Heterogeneous Protocols to a Pluggable Go Gateway &amp; Multi-Language Clients](https://dev.to/aairom/building-a-universal-sso-sample-implementation-from-heterogeneous-protocols-to-a-pluggable-go-797)
-- [Doces ou travessuras do Kiro #2: edição de novembro](https://dev.to/iago_elion/doces-ou-travessuras-do-kiro-2-edicao-de-novembro-48eh)
-- [RepoDNA v1.5.4 Released: Browser Storage Reliability and Safer Analysis Restoration](https://dev.to/sanskarin/repodna-v154-released-browser-storage-reliability-and-safer-analysis-restoration-3890)
-- [CloudFormation Adds 206 Resource Types: How to Check Which Gaps You Can Close](https://dev.to/damogallagher/cloudformation-adds-206-resource-types-how-to-check-which-gaps-you-can-close-j0c)
-- [llama.cpp v1.1.0 in 415 Commits: Slot Scheduler Refactor, Prompt-Cache Restore Fixes, and What to Retest Before You Upgrade a Local Server](https://dev.to/wolfsea2357/llamacpp-v110-in-415-commits-slot-scheduler-refactor-prompt-cache-restore-fixes-and-what-to-3pl4)
+- [PromptDC: a desktop app that fixes your writing and AI prompts in any app](https://dev.to/pvisilias/promptdc-a-desktop-app-that-fixes-your-writing-and-ai-prompts-in-any-app-2dcl)
+- [I animated the 23-year architecture domino effect from Google&#39;s 2003 GFS Patent](https://dev.to/dataengineer_bc941e7/i-animated-the-23-year-architecture-domino-effect-from-googles-2003-gfs-patent-5764)
+- [Track where Solana smart money goes in 24 hours with a free API, in Python](https://dev.to/copytop/track-where-solana-smart-money-goes-in-24-hours-with-a-free-api-in-python-2lb8)
+- [Google Maps Veri Toplama ve İşletme Analiz Otomasyonu](https://dev.to/enesgocmen34/google-maps-veri-toplama-ve-isletme-analiz-otomasyonu-2kp)
+- [One letter, months of silence: a typo in a field projection that stopped a partner callback](https://dev.to/ericgitangu/one-letter-months-of-silence-a-typo-in-a-field-projection-that-stopped-a-partner-callback-2967)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
