@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A 24-hour rule that isn&#39;t in the regulation everyone cites](https://dev.to/hcxshh/a-24-hour-rule-that-isnt-in-the-regulation-everyone-cites-247h)
-- [Designing a daily game around answer rarity](https://dev.to/andrecoleman_mn/designing-a-daily-game-around-answer-rarity-35jf)
-- [How I Built a Zero-Log, Accountless Web Chat with In-Memory Sessions and Hardened Nginx](https://dev.to/ati242/how-i-built-a-zero-log-accountless-web-chat-with-in-memory-sessions-and-hardened-nginx-1j1n)
-- [Your React Native checkout forgets everything when the OS kills the app. Here&#39;s a fix.](https://dev.to/imdvlpr_/your-react-native-checkout-forgets-everything-when-the-os-kills-the-app-heres-a-fix-38c2)
-- [Recommended Logging Backend for Capturing and Searching Application Logs: A Fintech Evidence Framework](https://dev.to/ashtonblake6879/recommended-logging-backend-for-capturing-and-searching-application-logs-a-fintech-evidence-i99)
+- [Command Sourcing vs Event Sourcing](https://dev.to/rinn7e/command-sourcing-vs-event-sourcing-12i6)
+- [Japan&#39;s EDINET filings as a clean JSON API — no XBRL parsing required](https://dev.to/ka1tetsu/japans-edinet-filings-as-a-clean-json-api-no-xbrl-parsing-required-5b1)
+- [60 FPS Remote Desktop Over 4G/5G CGNAT: Direct WebRTC P2P vs Encrypted TURN Relay](https://dev.to/ayon_jodder_17efb1181fb16/60-fps-remote-desktop-over-4g5g-cgnat-direct-webrtc-p2p-vs-encrypted-turn-relay-1kk)
+- [Caching search results: what to store, what to refuse, and the hit rate that pays for it](https://dev.to/petix_pleasure_2bbaae7ce9/caching-search-results-what-to-store-what-to-refuse-and-the-hit-rate-that-pays-for-it-1oi4)
+- [We&#39;re Exploring a Better Way to Create Product Demo Videos with AI](https://dev.to/demoly_ai/were-exploring-a-better-way-to-create-product-demo-videos-with-ai-2fb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
