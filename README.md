@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Threats Are Outpacing Auditors. AI Isn&#39;t Ready. Let&#39;s Fix That Anyway.](https://dev.to/masterkizu_95/threats-are-outpacing-auditors-ai-isnt-ready-lets-fix-that-anyway-1lh9)
-- [Full Stack Developer Roadmap 2026: Everything You Need to Learn to Become a Developer](https://dev.to/tanishk_contact_67a1c75df/full-stack-developer-roadmap-2026-everything-you-need-to-learn-to-become-a-developer-49dl)
-- [Ethical Hacking Tools: A Beginner-Friendly Guide](https://dev.to/qnayds_seo_437919f6928c2d/ethical-hacking-tools-a-beginner-friendly-guide-56dm)
-- [How to Decode Google News RSS URLs in Node.js Without Hitting HTTP 429 &lpar;2026 Guide&rpar;](https://dev.to/_9f3c24a30781c58837606e/how-to-decode-google-news-rss-urls-in-nodejs-without-hitting-http-429-2026-guide-5agg)
-- [What Security Teams Can Monitor for CVE-2026-123168](https://dev.to/stark_zhuang_df5076f35c68/what-security-teams-can-monitor-for-cve-2026-123168-4j84)
+- [Questions that get honest feedback on your writing](https://dev.to/abhi964644/questions-that-get-honest-feedback-on-your-writing-20af)
+- [Re-reading the token contract I deployed in 2022](https://dev.to/nirajkhetre/re-reading-the-token-contract-i-deployed-in-2022-273g)
+- [How to check that a U.S. company is real: a Secretary of State lookup for all 50 states in one API call](https://dev.to/justtranscribe/how-to-check-that-a-us-company-is-real-a-secretary-of-state-lookup-for-all-50-states-in-one-api-2o6b)
+- [From AI Findings to SARIF: Keep Alerts Stable Across Runs](https://dev.to/pavelespitia/from-ai-findings-to-sarif-keep-alerts-stable-across-runs-2329)
+- [How Does a Message Become an Answer? Inside the LLM Generation Loop](https://dev.to/wesxu/how-does-a-message-become-an-answer-inside-the-llm-generation-loop-2gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
