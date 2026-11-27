@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PromptDC: a desktop app that fixes your writing and AI prompts in any app](https://dev.to/pvisilias/promptdc-a-desktop-app-that-fixes-your-writing-and-ai-prompts-in-any-app-2dcl)
-- [I animated the 23-year architecture domino effect from Google&#39;s 2003 GFS Patent](https://dev.to/dataengineer_bc941e7/i-animated-the-23-year-architecture-domino-effect-from-googles-2003-gfs-patent-5764)
-- [Track where Solana smart money goes in 24 hours with a free API, in Python](https://dev.to/copytop/track-where-solana-smart-money-goes-in-24-hours-with-a-free-api-in-python-2lb8)
-- [Google Maps Veri Toplama ve İşletme Analiz Otomasyonu](https://dev.to/enesgocmen34/google-maps-veri-toplama-ve-isletme-analiz-otomasyonu-2kp)
-- [One letter, months of silence: a typo in a field projection that stopped a partner callback](https://dev.to/ericgitangu/one-letter-months-of-silence-a-typo-in-a-field-projection-that-stopped-a-partner-callback-2967)
+- [Threats Are Outpacing Auditors. AI Isn&#39;t Ready. Let&#39;s Fix That Anyway.](https://dev.to/masterkizu_95/threats-are-outpacing-auditors-ai-isnt-ready-lets-fix-that-anyway-1lh9)
+- [Full Stack Developer Roadmap 2026: Everything You Need to Learn to Become a Developer](https://dev.to/tanishk_contact_67a1c75df/full-stack-developer-roadmap-2026-everything-you-need-to-learn-to-become-a-developer-49dl)
+- [Ethical Hacking Tools: A Beginner-Friendly Guide](https://dev.to/qnayds_seo_437919f6928c2d/ethical-hacking-tools-a-beginner-friendly-guide-56dm)
+- [How to Decode Google News RSS URLs in Node.js Without Hitting HTTP 429 &lpar;2026 Guide&rpar;](https://dev.to/_9f3c24a30781c58837606e/how-to-decode-google-news-rss-urls-in-nodejs-without-hitting-http-429-2026-guide-5agg)
+- [What Security Teams Can Monitor for CVE-2026-123168](https://dev.to/stark_zhuang_df5076f35c68/what-security-teams-can-monitor-for-cve-2026-123168-4j84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
