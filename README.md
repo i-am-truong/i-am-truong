@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Questions that get honest feedback on your writing](https://dev.to/abhi964644/questions-that-get-honest-feedback-on-your-writing-20af)
-- [Re-reading the token contract I deployed in 2022](https://dev.to/nirajkhetre/re-reading-the-token-contract-i-deployed-in-2022-273g)
-- [How to check that a U.S. company is real: a Secretary of State lookup for all 50 states in one API call](https://dev.to/justtranscribe/how-to-check-that-a-us-company-is-real-a-secretary-of-state-lookup-for-all-50-states-in-one-api-2o6b)
-- [From AI Findings to SARIF: Keep Alerts Stable Across Runs](https://dev.to/pavelespitia/from-ai-findings-to-sarif-keep-alerts-stable-across-runs-2329)
-- [How Does a Message Become an Answer? Inside the LLM Generation Loop](https://dev.to/wesxu/how-does-a-message-become-an-answer-inside-the-llm-generation-loop-2gm)
+- [A wall that saved as the literal text of a shell command](https://dev.to/ilya_mozerov_867dbdd91feb/a-wall-that-saved-as-the-literal-text-of-a-shell-command-290)
+- [How I Start My Car with Alexa Using Home Assistant](https://dev.to/techoptio/how-i-start-my-car-with-alexa-using-home-assistant-6fn)
+- [Google Says 410 Pages Are Generally Crawled Less Often Than 404s](https://dev.to/alifar/google-says-410-pages-are-generally-crawled-less-often-than-404s-1jb0)
+- [Buying a Lovable-built app: the Supabase checks a buyer can run, and what only the seller can show](https://dev.to/proofforge_live/buying-a-lovable-built-app-the-supabase-checks-a-buyer-can-run-and-what-only-the-seller-can-show-2j5h)
+- [Your agent plans badly because it has no context profile. Here is the shape one needs](https://dev.to/nityasha/your-agent-plans-badly-because-it-has-no-context-profile-here-is-the-shape-one-needs-4pbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
