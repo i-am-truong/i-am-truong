@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing FrameTrellis v1.5.4: Safer Project Saves and More Reliable Video Editing](https://dev.to/sanskarin/introducing-frametrellis-v154-safer-project-saves-and-more-reliable-video-editing-5803)
-- [How to Build a Reliable AI Receipt Scanning Workflow](https://dev.to/smartwalt/how-to-build-a-reliable-ai-receipt-scanning-workflow-3b43)
-- [Part 39: Kill switches and rollback on each platform](https://dev.to/thasha/part-39-kill-switches-and-rollback-on-each-platform-3cdd)
-- [Distributed Saga Failure Cascades: Partial Commit Races, Dual-Write Split-Brain, and Out-of-Order Compensations](https://dev.to/usman_khan_io/distributed-saga-failure-cascades-partial-commit-races-dual-write-split-brain-and-out-of-order-1902)
-- [White-label AI voice agents: build, rent or done for you?](https://dev.to/halyardops/white-label-ai-voice-agents-build-rent-or-done-for-you-33lo)
+- [Custom Compound Assignment Operators in C# 14 / .NET 10](https://dev.to/maayurdahake/custom-compound-assignment-operators-in-c-14-net-10-55ap)
+- [A Laser SDK plugin for coding agents](https://dev.to/laserdatainc/a-laser-sdk-plugin-for-coding-agents-137h)
+- [Building Blue Ice, a local privacy gateway for AI coding agents. Seeking contributors for security reviews, integrations, testing, and documentation.
+
+https://github.com/EliisWilis/blue-ice-project](https://dev.to/pixel63737/building-blue-ice-a-local-privacy-gateway-for-ai-coding-agents-seeking-contributors-for-security-4i23)
+- [n8n Tutorial for Beginners: Build Your First Workflow in 6 Steps](https://dev.to/fun_fun_19313eced54af3c68/n8n-tutorial-for-beginners-build-your-first-workflow-in-6-steps-4p10)
+- [Spotter MCP: Spotter now runs inside your AI coding agent](https://dev.to/xlab_steampunk/spotter-mcp-spotter-now-runs-inside-your-ai-coding-agent-c7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
