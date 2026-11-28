@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A wall that saved as the literal text of a shell command](https://dev.to/ilya_mozerov_867dbdd91feb/a-wall-that-saved-as-the-literal-text-of-a-shell-command-290)
-- [How I Start My Car with Alexa Using Home Assistant](https://dev.to/techoptio/how-i-start-my-car-with-alexa-using-home-assistant-6fn)
-- [Google Says 410 Pages Are Generally Crawled Less Often Than 404s](https://dev.to/alifar/google-says-410-pages-are-generally-crawled-less-often-than-404s-1jb0)
-- [Buying a Lovable-built app: the Supabase checks a buyer can run, and what only the seller can show](https://dev.to/proofforge_live/buying-a-lovable-built-app-the-supabase-checks-a-buyer-can-run-and-what-only-the-seller-can-show-2j5h)
-- [Your agent plans badly because it has no context profile. Here is the shape one needs](https://dev.to/nityasha/your-agent-plans-badly-because-it-has-no-context-profile-here-is-the-shape-one-needs-4pbg)
+- [Introducing FrameTrellis v1.5.4: Safer Project Saves and More Reliable Video Editing](https://dev.to/sanskarin/introducing-frametrellis-v154-safer-project-saves-and-more-reliable-video-editing-5803)
+- [How to Build a Reliable AI Receipt Scanning Workflow](https://dev.to/smartwalt/how-to-build-a-reliable-ai-receipt-scanning-workflow-3b43)
+- [Part 39: Kill switches and rollback on each platform](https://dev.to/thasha/part-39-kill-switches-and-rollback-on-each-platform-3cdd)
+- [Distributed Saga Failure Cascades: Partial Commit Races, Dual-Write Split-Brain, and Out-of-Order Compensations](https://dev.to/usman_khan_io/distributed-saga-failure-cascades-partial-commit-races-dual-write-split-brain-and-out-of-order-1902)
+- [White-label AI voice agents: build, rent or done for you?](https://dev.to/halyardops/white-label-ai-voice-agents-build-rent-or-done-for-you-33lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
